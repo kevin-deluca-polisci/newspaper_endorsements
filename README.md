@@ -2,7 +2,7 @@
 
 ## Local Newspaper Endorsements Archive
 
-Tracking Spreadsheet: https://docs.google.com/spreadsheets/d/1pPGsSXIUkJeMK1vG1pjNeYD3yC_n6KYAkf2rtTIMMw4/edit?usp=sharing
+...
 
 #### Abstract: 
 tbd
