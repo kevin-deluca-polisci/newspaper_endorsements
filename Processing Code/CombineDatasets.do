@@ -1,0 +1,117 @@
+/////////////////////////////////////////////
+/*
+Combine Candidate and Proposition Data
+Kevin DeLuca
+
+Newspaper Endorsements Archive
+
+Last updated: 5/18/25
+*/
+/////////////////////////////////////////////
+
+clear
+set more off
+
+*******************
+*******************
+*Candidates
+*******************
+*******************
+
+local i=1
+
+***California***
+
+*Chico Enterprise Record
+import excel "../Endorsement Archive/California/Chico Enterprise Record/ChicoEnterpriseRecord_101500_candidates.xlsx", clear firstrow allstring
+tempfile data_`i'
+save `data_`i''
+local i = `i'+1
+
+*Los Angeles Times
+import excel "../Endorsement Archive/California/Los Angeles Times/LosAngelesTimes_103000_candidates.xlsx", clear firstrow allstring
+tempfile data_`i'
+save `data_`i''
+local i = `i'+1
+
+*Oakland Tribune
+import excel "../Endorsement Archive/California/Oakland Tribune/OaklandTribune_103350_candidates.xlsx", clear firstrow allstring
+tempfile data_`i'
+save `data_`i''
+local i = `i'+1
+
+*more papers:
+//import excel "../Endorsement Archive/"
+
+*append all data together
+local I = `i'-1
+use `data_1', clear
+forval j=2(1)`I'{
+	append using `data_`j''
+	display `j'
+}
+
+*clean data as needed here
+drop if newspaper_id ==""
+replace dname = dist if dname==""
+destring(newspaper_id year endorsed dist endorsed d_inc r_inc o_inc), replace force
+
+*generate "party_s" (party simplified) variable
+gen party_s = "R" if party=="R"
+replace party_s = "D" if party=="D"
+order party_s, after(party)
+
+*save combined file
+save "../Endorsement Archive/_allcandidates.dta", replace
+export excel "../Endorsement Archive/_allcandidates.xlsx", replace
+
+
+
+*******************
+*******************
+*Propositions
+*******************
+*******************
+
+local i=1
+
+***California***
+
+*Chico Enterprise Record
+import excel "../Endorsement Archive/California/Chico Enterprise Record/ChicoEnterpriseRecord_101500_propositions.xlsx", clear firstrow allstring
+tempfile data_`i'
+save `data_`i''
+local i = `i'+1
+
+*Los Angeles Times
+import excel "../Endorsement Archive/California/Los Angeles Times/LosAngelesTimes_103000_propositions.xlsx", clear firstrow allstring
+tempfile data_`i'
+save `data_`i''
+local i = `i'+1
+
+*Oakland Tribune
+import excel "../Endorsement Archive/California/Oakland Tribune/OaklandTribune_103350_propositions.xlsx", clear firstrow allstring
+tempfile data_`i'
+save `data_`i''
+local i = `i'+1
+
+*more papers:
+//import excel "../Endorsement Archive/"
+
+*append all data together
+local I = `i'-1
+use `data_1', clear
+forval j=2(1)`I'{
+	append using `data_`j''
+	display `j'
+}
+
+*clean data as needed here
+drop if newspaper_id ==""
+replace endorsed = "1" if endorsed=="1`"
+destring(newspaper_id year endorsed), replace force
+
+*save combined file
+save "../Endorsement Archive/_allpropositions.dta", replace
+export excel "../Endorsement Archive/_allpropositions.xlsx", replace
+
