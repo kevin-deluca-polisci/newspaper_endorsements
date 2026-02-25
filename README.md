@@ -44,10 +44,6 @@ If you use either the quality estimates or the partisan bias estimates, please c
 
 > DeLuca, Kevin. 2025. "Editor's Choice: Measuring Candidate Quality using Local Newspaper Endorsements." *Journal of Politics*, XX(X):XXX-XXX. https://doi.org/10.1086/736463
 
-## Updates and Versions
-
-This dataset is updated periodically. For the most current version and previous iterations, visit the [newspaper_endorsements repository](https://github.com/kevinedeluca/newspaper_endorsements) on GitHub.
-
 ## Additional Research Papers
 
 > DeLuca, Kevin, Daniel Moskowitz, and Benjamin Schneer. 2025. "A Drag on the Ticket? Estimating Top-of-the-Ticket Effects on Down-Ballot Races", _American Journal of Political Science_, https://doi.org/10.7910/DVN/J6C26T
