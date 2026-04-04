@@ -2,6 +2,8 @@
 
 **Authors:** Kevin DeLuca, Jim Snyder, Tyler Simko, David Beavers (contact: kevin.deluca@yale.edu)
 
+> **Note:** This archive is actively under construction. The newspapers and records currently available represent only a portion of our full collection. We are in the process of digitizing, extracting, quality-checking, and archiving additional newspapers on a rolling basis. Check back for updates.
+
 ## Abstract
 
 The Local Newspaper Endorsements Archive represents the largest systematic collection of newspaper endorsements for political candidates and ballot measures from U.S. newspapers, spanning from 1882 to the present day. The dataset currently contains over 5,337 endorsement records across 17 newspapers in 7 states and continues to grow as additional records are digitized and added. This comprehensive historical record enables researchers to examine newspaper editorial behavior across more than a century of American politics, revealing patterns of partisan bias, editorial slant, and evolving media influence on electoral outcomes. The endorsements also provide a novel measure of candidate quality: candidates who receive support from newspapers with diverse partisan leanings demonstrate broader appeal and measurable strength as political contenders. By combining historical depth with ongoing updates, this archive serves as an essential resource for scholars studying the intersection of media, politics, and democracy.
