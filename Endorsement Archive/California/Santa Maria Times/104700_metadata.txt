@@ -1,0 +1,39 @@
+Newspaper Name: SANTA MARIA TIMES
+Alternative Names: THE SANTA MARIA TIMES
+Years Published: 1882-PRESENT
+Newspaper ID number: 104700
+Number of clippings: 33
+Endorsement data years: 1958, 1960, 1962, 1964, 1966, 1968, 1969, 1970, 1971, 1972, 1976, 1979, 1980, 1982, 1984, 1986, 1988, 1990, 1991, 1992, 1993, 1994, 1996, 2000, 2004, 2006, 2008
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 145
+  Endorsed (=1): 95
+  Opposed (=0): 50
+  No position (null): 0
+Total proposition records: 226
+  Endorsed (=1): 123
+  Opposed (=0): 103
+  No position (null): 0
+
+--- DATA QUALITY ---
+Flagged for review: 0 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 0
+Duplicates removed: 7
+
+--- CONFIDENCE SCORES ---
+Min: 0.85
+Mean: 0.85
+Max: 0.85
+Below threshold (0.75): 0
+
+--- REVIEW QUEUE ---
+  None
+
+--- NOTES ---
+Legacy conversion from hand-coded xlsx files (SantaMariaTimes_104700_candidates.xlsx and SantaMariaTimes_104700_propositions.xlsx). Office codes standardized in two passes: initial mapping (H, SENATOR, STATE REP, etc.) plus fix pass for remaining non-standard codes (ST H, ST S, VP, SEC STATE, TAX COMM, INSURANCE, ST SUPR CT, SUPERIOR COURT JUDGE). All confidence scores set to 0.85 (legacy data, not extracted via pipeline). Odd-year elections (1969, 1971, 1979, 1991, 1993) are California local/special elections. Clippings renamed from DELUCA_CA_SANTAMARIATIMES format to standard 104700_YYYYMMDD format. California cross-filing (comma-separated party values like "R,D") retained as historically accurate.
+
+QA audit (2026-04-03): Removed 7 duplicate 1966 candidate records; standardized 34 party abbreviations (IND/PROG/LBT); cleaned 217 prop_num and 16 dname float suffixes; added 3 missing 1986 candidates (Controller, AG, Board of EQ) and 1 missing prop (Prop 53); corrected 1986 Prop 55 direction (0->1); fixed 1990 SENATOR->STATE SENATOR for Maddy; fixed 1971 Lagomarsino dual incumbency; cleared erroneous 1968 Senate district. 1968 propositions remain uncoded (visible in clipping but not in original xlsx).
+
+Compiled: 2026-04-03

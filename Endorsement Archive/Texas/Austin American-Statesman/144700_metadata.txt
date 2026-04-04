@@ -1,0 +1,37 @@
+Newspaper Name: AUSTIN AMERICAN-STATESMAN 2008-2020
+Alternative Names: REVIEW
+Years Published: REVIEW
+Newspaper ID number: REVIEW
+Number of clippings: 6
+Endorsement data years: 2008, 2010, 2012, 2014
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 127
+  Endorsed (=1): 125
+  Opposed (=0): 0
+  No position (null): 2
+Total proposition records: 22
+  Endorsed (=1): 14
+  Opposed (=0): 8
+
+--- DATA QUALITY ---
+Flagged for review: 5 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 2
+Duplicates removed: 0 candidates, 4 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.65
+Mean: 0.98
+Max: 1.00
+Below threshold (0.75): 3
+
+--- REVIEW QUEUE ---
+  [no_endorsements] 144700_20161101: EARLY VOTING TURNOUT STATISTICS ARTICLE - REPORTS VOTER TURNOUT PERCENTAGES FOR TRAVIS, WILLIAMSON, HAYS, AND BASTROP COUNTIES. NO ENDORSEMENTS OF ANY KIND.
+  [no_endorsements] 144700_20161106: TWO VIEWS OP-ED PAGE PRESENTING BOTH TRUMP AND CLINTON PERSPECTIVES FROM GUEST CONTRIBUTORS. THE AMERICAN-STATESMAN EXPLICITLY STEPS BACK TO PRESENT TWO POINTS OF VIEW RATHER THAN MAKING AN EDITORIAL ENDORSEMENT. NOT AN OFFICIAL NEWSPAPER ENDORSEMENT.
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-02 06:20:06

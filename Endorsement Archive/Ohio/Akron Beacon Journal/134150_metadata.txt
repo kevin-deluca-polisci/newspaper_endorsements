@@ -1,0 +1,36 @@
+Newspaper Name: 
+Alternative Names: REVIEW
+Years Published: REVIEW
+Newspaper ID number: REVIEW
+Number of clippings: 8
+Endorsement data years: 2008, 2010, 2012, 2014, 2016, 2018
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 117
+  Endorsed (=1): 117
+  Opposed (=0): 0
+  No position (null): 0
+Total proposition records: 22
+  Endorsed (=1): 15
+  Opposed (=0): 6
+
+--- DATA QUALITY ---
+Flagged for review: 0 candidates, 1 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 1
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.80
+Mean: 0.89
+Max: 0.92
+Below threshold (0.75): 0
+
+--- REVIEW QUEUE ---
+  [no_endorsements] 134150_20201103: This clipping is an opinion piece about HB 6 repeal, not a traditional election endorsements column. No candidate or ballot measure endorsements found in this article.
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-02 08:54:29

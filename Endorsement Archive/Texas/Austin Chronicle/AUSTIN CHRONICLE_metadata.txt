@@ -1,0 +1,36 @@
+Newspaper Name: AUSTIN CHRONICLE
+Alternative Names: REVIEW
+Years Published: REVIEW
+Newspaper ID number: REVIEW
+Number of clippings: 1
+Endorsement data years: 2012
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 36
+  Endorsed (=1): 36
+  Opposed (=0): 0
+  No position (null): 0
+Total proposition records: 18
+  Endorsed (=1): 16
+  Opposed (=0): 1
+
+--- DATA QUALITY ---
+Flagged for review: 0 candidates, 1 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 0
+Duplicates removed: 0 candidates, 1 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 1.00
+Mean: 1.00
+Max: 1.00
+Below threshold (0.75): 0
+
+--- REVIEW QUEUE ---
+  None
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-02 06:18:28

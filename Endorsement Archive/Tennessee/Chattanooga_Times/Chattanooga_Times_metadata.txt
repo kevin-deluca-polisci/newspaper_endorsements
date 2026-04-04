@@ -1,0 +1,41 @@
+Newspaper Name: Chattanooga Times
+Alternative Names: Chattanooga Daily Times
+Years Published: 1869-1999 (merged with Chattanooga Free Press in 1999 to form Chattanooga Times Free Press)
+Newspaper ID number: 143902
+Number of clippings: 21
+Endorsement data years: 1922, 1924, 1926, 1928, 1930, 1932, 1934, 1936, 1938, 1940, 1942, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 121
+  Endorsed (=1): 101
+  Opposed (=0): 15
+  No position (null): 5
+Total proposition records: 10
+  Endorsed (=1): 7
+  Opposed (=0): 3
+
+--- DATA QUALITY ---
+Flagged for review: 6 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 2 (1926, 1938)
+Duplicates removed: 0 candidates, 6 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.75
+Mean: 0.97
+Max: 1.00
+Below threshold (0.75): 0
+
+--- REVIEW QUEUE ---
+  [no_endorsements] Chattanooga_Times_1926: EDITORIAL IS A GENERAL GET-OUT-THE-VOTE APPEAL ABOUT CIVIC DUTY AND VOTER APATHY. MENTIONS DEMOCRATIC LEGISLATIVE CANDIDATES BEING UNOPPOSED AND CONGRESSMAN MCREYNOLDS HAVING NO OPPOSITION, BUT THESE ARE PASSING REFERENCES NOT FORMAL ENDORSEMENTS.
+  [no_endorsements] Chattanooga_Times_1938: EDITORIAL 'VOTING IN TENNESSEE' IS ELECTION-DAY COMMENTARY, NOT AN ENDORSEMENT. DISCUSSES REPUBLICAN OPTIMISM IN MOCKING TONE, PREDICTS DEMOCRATIC VICTORY, BUT DOES NOT FORMALLY ENDORSE ANY SPECIFIC CANDIDATES.
+
+--- NOTES ---
+QA audit completed 2026-04-02. See QA_REPORT.md for details.
+newspaper_id (143902) filled in all records during QA.
+UTILITY COMMISSION office code corrected to RAILROAD COMMISSION (1952 Avery).
+Low-confidence records (Browning 1950, Hanner 1956) independently verified and bumped to 0.75.
+
+Compiled: 2026-04-02 13:32:08
+QA Updated: 2026-04-02

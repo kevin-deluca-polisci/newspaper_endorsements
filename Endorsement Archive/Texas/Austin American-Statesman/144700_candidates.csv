@@ -1,0 +1,128 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+TX,Austin American-Statesman,144700,2008,PRESIDENT,,,TX,"OBAMA, BARACK",Democrat,1,,,,PROMINENTLY ENDORSED IN EDITORIAL,0.95
+TX,Austin American-Statesman,144700,2008,SENATOR,,,TX,"NORIEGA, RICK",Democrat,1,,,,ENDORSED OVER INCUMBENT CORNYN,0.8
+TX,Austin American-Statesman,144700,2008,H,10,,TX,"DOHERTY, LARRY JOE",Democrat,1,,,,,0.65
+TX,Austin American-Statesman,144700,2008,H,21,,TX,"SMITH, LAMAR",Republican,1,,1,,,0.8
+TX,Austin American-Statesman,144700,2008,H,25,,TX,"DOGGETT, LLOYD",Democrat,1,1,,,,0.85
+TX,Austin American-Statesman,144700,2008,COURT OF CRIMINAL APPEALS,,,TX,"STRAWN, SUSAN",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2008,RAILROAD COMMISSION,,,TX,"WILLIAMS, MICHAEL",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2008,STATE BOARD OF ED,5,,TX,"BELL-METEREAU, REBECCA",Democrat,1,,,,,0.75
+TX,Austin American-Statesman,144700,2008,STATE SENATOR,14,,TX,"WATSON, KIRK",Democrat,1,1,,,,0.85
+TX,Austin American-Statesman,144700,2008,STATE REP,47,,TX,"BOLTON, VALINDA",Democrat,1,,,,,0.7
+TX,Austin American-Statesman,144700,2008,STATE REP,48,,TX,"HOWARD, DONNA",Democrat,1,1,,,,0.8
+TX,Austin American-Statesman,144700,2008,STATE REP,50,,TX,"STRAMA, MARK",Democrat,1,,,,,0.8
+TX,Austin American-Statesman,144700,2008,STATE REP,51,,TX,"RODRIGUEZ, EDDIE",Democrat,1,1,,,,0.8
+TX,Austin American-Statesman,144700,2008,STATE REP,52,,TX,"MALDONADO, DIANA",Democrat,1,,,,,0.7
+TX,Austin American-Statesman,144700,2010,GOVERNOR,,,TX,"WHITE, BILL",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,LT GOVERNOR,,,TX,"DEWHURST, DAVID",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2010,ATTORNEY GENERAL,,,TX,"ABBOTT, GREG",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2010,LAND COMMISSIONER,,,TX,"PATTERSON, JERRY",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2010,AGRICULTURE COMMISSIONER,,,TX,"STAPLES, TODD",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2010,COURT OF CRIMINAL APPEALS,,,TX,"HAMPTON, KEITH",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,TX SUPREME COURT,Place 3,,TX,"LEHRMANN, DEBRA",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,TX SUPREME COURT,Place 5,,TX,"GREEN, PAUL",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,TX SUPREME COURT,Place 9,,TX,"GUZMAN, EVA",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,RAILROAD COMMISSION,,,TX,"WEEMS, JEFF",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE BOARD OF ED,5,,TX,"BELL-METEREAU, REBECCA",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE BOARD OF ED,10,,TX,"FARNEY, MARSHA",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,H,10,,TX,"MCCAUL, MICHAEL",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2010,H,25,,TX,"DOGGETT, LLOYD",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,H,21,,TX,"SMITH, LAMAR",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2010,COURT OF APPEALS,3rd,,TX,"KUHN, KURT",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE SENATOR,5,,TX,"OGDEN, STEVE",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE SENATOR,14,,TX,"WATSON, KIRK",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE SENATOR,18,,TX,"HEGAR, GLENN",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE REP,45,,TX,"ROSE, PATRICK",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE REP,47,,TX,"BOLTON, VALINDA",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE REP,48,,TX,"HOWARD, DONNA",Democrat,1,1,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE REP,50,,TX,"STRAMA, MARK",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE REP,51,,TX,"RODRIGUEZ, EDDIE",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,STATE REP,52,,TX,"MALDONADO, DIANA",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,DISTRICT COURT JUDGE,353rd,,TX,"SULAK, TIM",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY JUDGE,Travis,,TX,"BISCOE, SAM",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,Travis Pct 2,,TX,"ECKHARDT, SARAH",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,DISTRICT COURT JUDGE,428th,,TX,"HENRY, BILL",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY JUDGE,Hays,,TX,"BARTON, JEFF",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,Hays Pct 2,,TX,"BRYANT, RAY",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,Hays Pct 4,,TX,"WHISENANT, RAY",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,SHERIFF,Hays,,TX,"CUTLER, GARY",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,Williamson Pct 2,,TX,"LONG, CYNTHIA",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,Williamson Pct 4,,TX,"MAURICE, JEFF",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2012,H,21,,TX,"SMITH, LAMAR",Republican,1,,1,,MENTIONED IN EDITORIAL AS HAVING EARNED RE-ELECTION,0.9
+TX,Austin American-Statesman,144700,2012,H,10,,TX,"MCCAUL, MICHAEL",Republican,1,,1,,MENTIONED IN EDITORIAL AS HAVING EARNED RE-ELECTION,0.9
+TX,Austin American-Statesman,144700,2012,H,25,,TX,"DOGGETT, LLOYD",Democrat,1,1,,,MENTIONED IN EDITORIAL AS HAVING EARNED RE-ELECTION,0.9
+TX,Austin American-Statesman,144700,2012,SENATOR,,,TX,"SADLER, PAUL",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2012,STATE SENATOR,25,,TX,"COURAGE, JOHN",Democrat,1,,,,,0.95
+TX,Austin American-Statesman,144700,2012,STATE REP,47,,TX,"WORKMAN, PAUL",Republican,1,,1,,LISTED AS INCUMBENT,1.0
+TX,Austin American-Statesman,144700,2012,STATE REP,48,,TX,"HOWARD, DONNA",Democrat,1,1,,,LISTED AS INCUMBENT,1.0
+TX,Austin American-Statesman,144700,2012,STATE REP,136,,TX,"STILLWELL, MATT",,1,,,,,0.9
+TX,Austin American-Statesman,144700,2012,STATE BOARD OF ED,5,,TX,"BELL-METEREAU, REBECCA",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2012,STATE BOARD OF ED,10,,TX,"MAYNARD, TOM",Republican,1,,,,,0.95
+TX,Austin American-Statesman,144700,2012,TX SUPREME COURT,,,TX,"PETTY, MICHELE",Democrat,1,,,,,0.95
+TX,Austin American-Statesman,144700,2012,COURT OF CRIMINAL APPEALS,,,TX,"HAMPTON, KEITH",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2012,COURT OF APPEALS,3rd,,TX,"PEMBERTON, BOB",,1,,,,LISTED AS INCUMBENT,1.0
+TX,Austin American-Statesman,144700,2012,COURT OF APPEALS,3rd,,TX,"ROSE, JEFF",Republican,1,,1,,LISTED AS INCUMBENT,1.0
+TX,Austin American-Statesman,144700,2012,COURT OF APPEALS,3rd,,TX,"HENSON, DIANE",Democrat,1,1,,,LISTED AS INCUMBENT,1.0
+TX,Austin American-Statesman,144700,2012,COURT OF APPEALS,3rd,,TX,"WATKINS, KAREN",,1,,,,,0.9
+TX,Austin American-Statesman,144700,2012,DA/PROSECUTOR,Williamson,,TX,"DUTY, JANA",,1,,,,,0.9
+TX,Austin American-Statesman,144700,2012,CNTY COMM,Travis Pct 3,,TX,"DAUGHERTY, GERALD",Republican,1,,,,,0.95
+TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,Austin At-Large Pos 8,,TX,"HINOJOSA, GINA",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,Austin 2,,TX,"MATHIAS, JAYME",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,Austin 3,,TX,"TEICH, ANN",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,Austin 5,,TX,"JACKSON, CHARLIE",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SENATOR,,,TX,"CORNYN, JOHN",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,H,10,,TX,"MCCAUL, MICHAEL",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,H,17,,TX,"FLORES, BILL",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,H,21,,TX,"SMITH, LAMAR",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,H,25,,TX,"WILLIAMS, ROGER",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,H,31,,TX,"CARTER, JOHN",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,H,35,,TX,"DOGGETT, LLOYD",Democrat,1,1,,,,1.0
+TX,Austin American-Statesman,144700,2014,GOVERNOR,,,TX,"DAVIS, WENDY",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,LT GOVERNOR,,,TX,"VAN DE PUTTE, LETICIA",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,ATTORNEY GENERAL,,,TX,"HOUSTON, SAM",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,COMPTROLLER,,,TX,"COLLIER, MIKE",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,LAND COMMISSIONER,,,TX,"BUSH, GEORGE P.",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,AGRICULTURE COMMISSIONER,,,TX,,,,,,,NO ENDORSEMENT,1.0
+TX,Austin American-Statesman,144700,2014,RAILROAD COMMISSION,,,TX,"SITTON, RYAN",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,TX SUPREME COURT,Chief Justice,,TX,"HECHT, NATHAN",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,TX SUPREME COURT,Place 6,,TX,"BROWN, JEFF",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,TX SUPREME COURT,Place 7,,TX,"BENAVIDES, GINA",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,COURT OF CRIMINAL APPEALS,Place 3,,TX,"RICHARDSON, BERT",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,COURT OF APPEALS,3rd Chief Justice,,TX,"ROSE, JEFF",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE SENATOR,5,,TX,"SCHWERTNER, CHARLES",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE SENATOR,14,,TX,"WATSON, KIRK",Democrat,1,1,,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE SENATOR,25,,TX,"CAMPBELL, DONNA",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE REP,20,,TX,"FARNEY, MARSHA",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE REP,46,,TX,"DUKES, DAWNNA",Democrat,1,1,,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE REP,47,,TX,"WORKMAN, PAUL",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE REP,48,,TX,"HOWARD, DONNA",Democrat,1,1,,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE REP,49,,TX,"NAISHTAT, ELLIOTT",Democrat,1,1,,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE REP,50,,TX,"ISRAEL, CELIA",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE REP,51,,TX,"RODRIGUEZ, EDDIE",Democrat,1,1,,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE REP,52,,TX,"OSBORN, CHRIS",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,STATE REP,136,,TX,"BUCY, JOHN",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY JUDGE,Travis,,TX,"ECKHARDT, SARAH",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY COMM,Travis Pct 2,,TX,"SHEA, BRIGID",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY COMM,Travis Pct 4,,TX,"GOMEZ, MARGARET",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY JUDGE,Williamson,,TX,"GATTIS, DAN",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY COMM,Williamson Pct 2,,TX,"LONG, CYNTHIA",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY COMM,Williamson Pct 4,,TX,"MORRISON, RON",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,MAYOR,Austin,,TX,"ADLER, STEVE",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 1,,TX,"HOUSTON, ORA",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 2,,TX,"GARZA, DELIA",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 3,,TX,"RANGEL, ERIC",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 4,,TX,,,,,,,NO ENDORSEMENT - VIEWPOINTS EDITOR TARA DOOLITTLE EXPLAINS,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 5,,TX,"KITCHEN, ANN",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 6,,TX,"FLANNIGAN, JIMMY",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 7,,TX,"BOYT, JEB",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 8,,TX,"PIERCE, DARRELL",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 9,,TX,"TOVO, KATHIE",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 10,,TX,"DEALEY, MANDY",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 1,,TX,"GORDON, EDMUND",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 4,,TX,"COWAN, JULIE",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 6,,TX,"SALDANA, PAUL",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 7,,TX,"SCHNEIDER, ROBERT",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 9,,TX,"PACE, KENDALL",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,COMMUNITY COLLEGE BOARD,ACC Place 1,,TX,"WILLIAMS, MARK",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,COMMUNITY COLLEGE BOARD,ACC Place 2,,TX,"SHEPPARD, JADE CHANG",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,COMMUNITY COLLEGE BOARD,ACC Place 3,,TX,"MCRAVEN, NAN",,1,,,,NONPARTISAN RACE,1.0

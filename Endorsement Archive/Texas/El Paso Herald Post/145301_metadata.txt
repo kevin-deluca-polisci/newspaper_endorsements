@@ -1,0 +1,43 @@
+Newspaper Name: EL PASO HERALD POST
+Alternative Names: THE EL PASO HERALD POST
+Years Published: 1931-1997
+Newspaper ID number: 145301
+Number of clippings: 44
+Endorsement data years: 1934, 1936, 1940, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1980, 1990, 1992, 1994, 1996
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 168
+  Endorsed (=1): 168
+  Opposed (=0): 0
+  No position (null): 0
+Total proposition records: 132
+  Endorsed (=1): 103
+  Opposed (=0): 28
+  No position (null): 1
+
+--- DATA QUALITY ---
+Flagged for review: 0 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 4
+Duplicates removed: 12 (8 exact 1960 duplicates, 3 near-duplicates with variant name spellings)
+
+--- CONFIDENCE SCORES ---
+Min: 0.70
+Mean: 0.83
+Max: 0.90
+Below threshold (0.75): 2
+
+--- REVIEW QUEUE ---
+  None
+
+--- NOTES ---
+Legacy conversion from hand-coded xlsx files (ELPASOHERALDPOST_145301_candidates.xlsx). Propositions extracted from clipping PDFs (no xlsx existed for propositions). Office codes standardized in two passes. El Paso Herald Post ceased publication in 1997. Paper endorsed candidates in both Texas and New Mexico races.
+
+ All confidence scores set to 0.85 baseline for legacy xlsx data; clipping-extracted records have individual confidence scores based on scan quality.
+
+Compiled: 2026-04-03
+QA completed: 2026-04-03 (38 fixes applied: 12 dedup, 3 name format, 6 office code, 17 dname cleanup)
+Update: 2026-04-03 — 1920 records moved to El Paso Herald (1284) as separate pre-merger paper. Added 7 new 1960 proposition records from compilation clipping.
+Update: 2026-04-03 — Added 100 new proposition records from systematic clipping review (1936: 6, 1958: 19, 1962: 14, 1964: 2, 1966: 16, 1968: 14, 1970: 11, 1972: 15, 1976: 2, 1990: 1). Added 2 new candidate records: 1936 PRESIDENT Landon, 1962 CNTY JUDGE Woodard. Proposition data now covers 13 election years (1934-1990).
+Update: 2026-04-03 — Gap-fill extraction: Added 13 new proposition records. 1952: 2 constitutional amendments (both AGAINST, from Oct 29 editorial). 1954: 11 constitutional amendments total (8 FOR, 3 AGAINST including Amdt 9 hospital district). Proposition data now covers 15 election years. Remaining candidate gaps (1934, 1938, 1940) confirmed as legitimate - clippings contain no candidate endorsements. Remaining proposition gaps (1974, 1992, 1994, 1996) confirmed as candidates-only clippings.
