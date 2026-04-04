@@ -68,6 +68,7 @@ newspaper_endorsements/
     all_propositions.csv        # All proposition endorsements combined
   Augmented Data/               # Enriched datasets with external identifiers
     all_candidates_augmented.csv  # With ICPSR IDs, CFscores, DW-NOMINATE
+    all_propositions_augmented.csv # With GS permid for newspaper-level linkage
   Estimates/                    # Research output estimates
     bias_estimates.dta          # Newspaper partisan bias estimates
     quality_estimates.dta       # Candidate quality estimates
@@ -88,6 +89,7 @@ newspaper_endorsements/
 **Augmented dataset** (includes external identifiers for merging):
 
 - [`Augmented Data/all_candidates_augmented.csv`](Augmented%20Data/all_candidates_augmented.csv) -- Candidate endorsements with ICPSR IDs, CFscores, and DW-NOMINATE scores
+- [`Augmented Data/all_propositions_augmented.csv`](Augmented%20Data/all_propositions_augmented.csv) -- Proposition endorsements with Gentzkow-Shapiro newspaper permid for media panel linkage
 
 ### Candidate Quality Estimates
 Candidates who receive endorsements from newspapers with diverse partisan leanings are rated as higher quality. The intuition is that endorsements from ideologically varied sources provide stronger evidence of genuine candidate merit, as papers with different biases must overcome their predispositions to support the same candidate.
@@ -156,7 +158,7 @@ The endorsement data goes through a multi-stage pipeline:
 2. **Quality Assurance**: Each newspaper folder undergoes a 4-stage QA audit (structural validation, spot-check accuracy, variable coding review, low-confidence re-scan).
 3. **RA Review**: Research assistants manually verify the extracted data, correcting errors and resolving ambiguous cases.
 4. **Compilation**: The R script `compile_all.R` combines all QA-approved newspaper CSVs into master datasets.
-5. **Augmentation**: Candidate records are linked to external databases (DIME/CFscore, Voteview/DW-NOMINATE, Gentzkow-Shapiro newspaper panel) for additional identifiers and ideological scores.
+5. **Augmentation**: Candidate records are linked to external databases (DIME/CFscore, Voteview/DW-NOMINATE, Gentzkow-Shapiro newspaper panel) for additional identifiers and ideological scores. Proposition records are linked to the Gentzkow-Shapiro newspaper panel via permid for newspaper-level analyses.
 
 ## License
 
