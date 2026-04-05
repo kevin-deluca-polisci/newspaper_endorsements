@@ -72,10 +72,6 @@ newspaper_endorsements/
   Estimates/                    # Research output estimates
     bias_estimates.dta          # Newspaper partisan bias estimates
     quality_estimates.dta       # Candidate quality estimates
-  Processing Code/              # Scripts for compilation and processing
-    compile_all.R               # Compiles individual CSVs into master datasets
-    qa_manifest.csv             # Registry of QA-approved newspapers
-    CombineDatasets.do          # Legacy Stata compilation script
   Project Documentation/        # RA handbook and reference materials
 ```
 
@@ -157,7 +153,7 @@ The endorsement data goes through a multi-stage pipeline:
 1. **Extraction**: Scanned newspaper clipping PDFs are processed to extract candidate and proposition endorsements into standardized CSV format.
 2. **Quality Assurance**: Each newspaper folder undergoes a 4-stage QA audit (structural validation, spot-check accuracy, variable coding review, low-confidence re-scan).
 3. **RA Review**: Research assistants manually verify the extracted data, correcting errors and resolving ambiguous cases.
-4. **Compilation**: The R script `compile_all.R` combines all QA-approved newspaper CSVs into master datasets.
+4. **Compilation**: Individual QA-approved newspaper CSVs are compiled into master datasets.
 5. **Augmentation**: Candidate records are linked to external databases (DIME/CFscore, Voteview/DW-NOMINATE, Gentzkow-Shapiro newspaper panel) for additional identifiers and ideological scores. Proposition records are linked to the Gentzkow-Shapiro newspaper panel via permid for newspaper-level analyses.
 
 ## License
