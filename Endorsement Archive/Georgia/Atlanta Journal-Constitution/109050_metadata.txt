@@ -1,0 +1,35 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Atlanta Journal-Constitution
+Newspaper ID: 109050
+State: GA
+Number of clippings: 7
+Endorsement data years: 2002-2012
+Total candidate endorsements: 186
+Total proposition endorsements: 28
+
+Confidence statistics:
+  Mean confidence: 0.946
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 66
+  H: 32
+  STATE SENATOR: 21
+  CNTY COMM: 17
+  SCHOOL BOARD: 11
+  JUDGE: 8
+  PUBLIC SERVICE COMMISSION: 6
+  SENATOR: 3
+  ATTORNEY GENERAL: 2
+  COMMISSIONER OF AGRICULTURE: 2
+  COMMISSIONER OF LABOR: 2
+  GOVERNOR: 2
+  INSURANCE COMMISSIONER: 2
+  LT GOVERNOR: 2
+  SEC OF STATE: 2
+
+Party distribution:
+  Democrat: 103
+  Republican: 68

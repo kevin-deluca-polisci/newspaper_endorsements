@@ -1,0 +1,14 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+CT,Hartford Courant,106450,1960,PRESIDENT,,,CT,"NIXON, RICHARD M.",Republican,1,,,,recap; consistently endorsed throughout campaign,0.95
+CT,Hartford Courant,106450,1960,VICE PRESIDENT,,,CT,"LODGE, HENRY CABOT",Republican,1,,,,recap; consistently endorsed throughout campaign,0.95
+CT,Hartford Courant,106450,1960,H,1,1st Congressional District,CT,"BRENNAN, TOM",Republican,1,,,,against Daddario (D-incumbent),0.95
+CT,Hartford Courant,106450,1962,GOVERNOR,,,CT,"ALSOP, JOHN",Republican,1,,,,against Dempsey (D-incumbent),0.95
+CT,Hartford Courant,106450,1962,SENATOR,,,CT,"SEELY-BROWN, HORACE",Republican,1,,,,against Ribicoff (D); Seely-Brown is moving from House to Senate,0.95
+CT,Hartford Courant,106450,1962,H,1,1st Congressional District,CT,"COLLINS, JAMES F.",Republican,1,,,,,0.95
+CT,Hartford Courant,106450,1962,H,AT-LARGE,At-Large,CT,"LUPTON, JOHN",Republican,1,,,,,0.95
+CT,Hartford Courant,106450,1962,STATE SENATOR,2,2nd Senatorial District,CT,"COHEN, ELLIOTT",Republican,1,,,,straight Republican ticket recommended for State Senate and State House,0.95
+CT,Hartford Courant,106450,1964,SENATOR,,,CT,"LODGE, JOHN",Republican,1,,,,against Dodd (D-incumbent),0.95
+CT,Hartford Courant,106450,1968,PRESIDENT,,,CT,"NIXON, RICHARD M.",Republican,1,,,,endorsed since March 1968,0.95
+CT,Hartford Courant,106450,1970,GOVERNOR,,,CT,"MESKILL, THOMAS J.",Republican,1,,,,against Daddario (D); first Republican governor since 1955 if elected,0.95
+CT,Hartford Courant,106450,1970,SENATOR,,,CT,"WEICKER, LOWELL P., JR.",Republican,1,,,,"against Dodd (incumbent, censured) and Duffey (D)",0.95
+CT,Hartford Courant,106450,1970,H,1,1st Congressional District,CT,"UCCELLO, ANN",Republican,1,,,,Mayor of Hartford; against Cotter (D) and Coll (I),0.95

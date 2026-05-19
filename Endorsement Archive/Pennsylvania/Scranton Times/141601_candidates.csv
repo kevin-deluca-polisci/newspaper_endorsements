@@ -1,0 +1,282 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+PA,Scranton Times,141601,1950,GOVERNOR,,,PA,"DILWORTH, RICHARDSON",Democrat,1,,,,Endorsed over Republican John S. Fine,0.85
+PA,Scranton Times,141601,1950,H,10,,PA,"O'NEILL, HARRY P",Democrat,1,,,,US House from Lackawanna,0.80
+PA,Scranton Times,141601,1950,H,11,,PA,"FLOOD, DANIEL J",Democrat,1,,,,Should be re-elected; Luzerne County congressman,0.90
+PA,Scranton Times,141601,1950,H,15,,PA,"WALTER, FRANCIS E",Democrat,1,,,,"Tad Walter of Easton, congressional district adjoining Monroe",0.80
+PA,Scranton Times,141601,1950,LT GOVERNOR,,,PA,"MUSMANNO, MICHAEL A",Democrat,1,,,,Endorsed over Lloyd Wood,0.80
+PA,Scranton Times,141601,1950,SEC OF STATE,,,PA,"RUTH, FRANK W",Democrat,1,,,,Secretary of Internal Affairs,0.75
+PA,Scranton Times,141601,1950,SENATOR,,,PA,"MYERS, FRANCIS J",Democrat,1,,,,"US Senate, endorsed over James H. Duff",0.85
+PA,Scranton Times,141601,1950,STATE REP,1,,PA,"NEEDHAM, MICHAEL J",Democrat,1,,,,Lackawanna County 1st District state House,0.75
+PA,Scranton Times,141601,1950,STATE REP,2,,PA,"PRICE, ROBERT A",Democrat,1,,,,Lackawanna County 2nd District state House,0.75
+PA,Scranton Times,141601,1950,STATE REP,3,,PA,"REIDENBACH, WILLIAM J",Democrat,1,,,,Lackawanna County 3rd District state House,0.70
+PA,Scranton Times,141601,1950,STATE REP,4,,PA,"WARGO, JOSEPH O",Democrat,1,,,,Lackawanna County 4th District state House,0.75
+PA,Scranton Times,141601,1950,STATE REP,5,,PA,"MUNLEY, MARION L",Democrat,1,,,,Lackawanna County 5th District state House,0.80
+PA,Scranton Times,141601,1950,STATE REP,6,,PA,"KEARNEY, EMMETT",Democrat,1,,,,Lackawanna County 6th District state House [Name corrected from HANRAHAN per QA],0.75
+PA,Scranton Times,141601,1950,SUPREME COURT,,,PA,"EAGEN, MICHAEL J",Democrat,1,,,,Endorsed for PA Supreme Court,0.85
+PA,Scranton Times,141601,1952,H,10,,PA,"O'NEILL, HARRY P",Democrat,1,,,,Endorsed for Congress in 10th District,0.90
+PA,Scranton Times,141601,1952,PRESIDENT,,,PA,"STEVENSON, ADLAI E",Democrat,1,,,,Times supported Gov. Stevenson for president,0.90
+PA,Scranton Times,141601,1952,SENATOR,,,PA,"BARD, GUY K",Democrat,1,,,,Endorsed for US Senator,0.85
+PA,Scranton Times,141601,1954,H,10,,PA,"CARRIGG, JOSEPH L",Republican,,,,,Mentioned only,0.70
+PA,Scranton Times,141601,1954,H,10,,PA,"JONES, ROBERT H",Democrat,,,,,Mentioned as Democratic candidate for Congress vs Joseph L. Carrigg; close race,0.70
+PA,Scranton Times,141601,1954,STATE SENATOR,,,PA,"MCMENAMIN, HUGH J",Democrat,,,,,Expected to be returned as senator from Lackawanna,0.60
+PA,Scranton Times,141601,1956,H,10,,PA,"JONES, ROBERT H",Democrat,1,,,,Endorsed for Congress in 10th District (Lackawanna),0.70
+PA,Scranton Times,141601,1956,H,11,,PA,"FLOOD, DANIEL J",Democrat,1,,,,Congress 11th District,0.65
+PA,Scranton Times,141601,1956,PRESIDENT,,,PA,"STEVENSON, ADLAI E",Democrat,1,,,,Editorial titled 'MAKE IT ADLAI!' - endorsed for President over Eisenhower,0.95
+PA,Scranton Times,141601,1956,VICE PRESIDENT,,,PA,"KEFAUVER, ESTES",Democrat,1,,,,Stevenson's running mate,0.85
+PA,Scranton Times,141601,1958,GOVERNOR,,,PA,"LAWRENCE, DAVID L",Democrat,1,,,,Slate: Vote For All Of Them,0.95
+PA,Scranton Times,141601,1958,H,10,,PA,"CARRIGG, JOSEPH L",Republican,0,,1,,Times opposed - did not support; Republican incumbent,0.60
+PA,Scranton Times,141601,1958,LT GOVERNOR,,,PA,"DAVIS, JOHN MORGAN",Democrat,1,,,,Slate endorsement,0.95
+PA,Scranton Times,141601,1958,SEC OF STATE,,,PA,"BLATT, GENEVIEVE",Democrat,1,,,,Secretary of Internal Affairs,0.90
+PA,Scranton Times,141601,1958,SENATOR,,,PA,"LEADER, GEORGE M",Democrat,1,,,,US Senator slate endorsement,0.95
+PA,Scranton Times,141601,1958,STATE REP,1,,PA,"FRIEDENBACH, WILLIAM J",Democrat,1,,,,Lackawanna County 1st District,0.80
+PA,Scranton Times,141601,1958,STATE REP,2,,PA,"NEEDHAM, MICHAEL J",Democrat,1,,,,Lackawanna County 2nd District,0.80
+PA,Scranton Times,141601,1958,STATE REP,3,,PA,"WARGO, JOSEPH O",Democrat,1,,,,Lackawanna County 3rd District,0.80
+PA,Scranton Times,141601,1958,STATE REP,4,,PA,"MUNLEY, MARION L",Democrat,1,,,,Lackawanna County 4th District,0.80
+PA,Scranton Times,141601,1958,STATE REP,5,,PA,"LAUBERT, JOHN",Democrat,1,,,,Lackawanna County 5th District (name uncertain),0.60
+PA,Scranton Times,141601,1958,SUPREME COURT,,,PA,"BOK, CURTIS",Democrat,1,,,,PA Supreme Court Justice,0.95
+PA,Scranton Times,141601,1960,AUDITOR,,,PA,"MINEHART, THOMAS Z",Democrat,1,,,,Democratic candidate for auditor general; 32-year-old Montgomery County attorney,0.90
+PA,Scranton Times,141601,1960,COURT OF APPEALS,,,PA,"FLOOD, GERALD F",Democrat,1,,,,Superior Court judge candidate; serving his third term on Philadelphia court,0.85
+PA,Scranton Times,141601,1960,H,10,,PA,"PROKOP, STANLEY A",Democrat,1,,1,,"Urge every Kennedy follower to vote for Congressman Prokop, consistent supporter of programs advocated by Democratic nominee for president",0.85
+PA,Scranton Times,141601,1960,PRESIDENT,,,PA,"KENNEDY, JOHN F",Democrat,1,,,,Editorial endorses Kennedy for president; from very outset of campaign Times took standpoint,0.95
+PA,Scranton Times,141601,1960,TREASURER,,,PA,"SLOAN, GRACE M",Democrat,1,,,,Democratic candidate for state treasurer; Clarion native; first woman nominated for state office by either party,0.90
+PA,Scranton Times,141601,1960,VICE PRESIDENT,,,PA,"JOHNSON, LYNDON B",Democrat,1,,,,Vote for Senator Kennedy and his running mate,0.85
+PA,Scranton Times,141601,1962,GOVERNOR,,,PA,"DILWORTH, RICHARDSON",Democrat,1,,,,Endorsed for governor over Republican William Scranton; outstanding record as Philadelphia mayor,0.95
+PA,Scranton Times,141601,1962,GOVERNOR,,,PA,"SCRANTON, WILLIAM",Republican,0,,,,Republican gubernatorial opponent of Dilworth; opposed by Times,0.85
+PA,Scranton Times,141601,1962,H,10,,PA,"GRESHEN, WILLIAM",Democrat,1,,,,Democratic candidate for Congress (name uncertain - possibly Goshen),0.50
+PA,Scranton Times,141601,1962,LT GOVERNOR,,,PA,"MCCANN, STEPHEN",Democrat,1,,,,Endorsed for Lieutenant Governor,0.70
+PA,Scranton Times,141601,1962,SEC OF STATE,,,PA,"BLATT, GENEVIEVE",Democrat,1,1,,,Seeking re-election as Secretary of Internal Affairs,0.85
+PA,Scranton Times,141601,1962,SENATOR,,,PA,"CLARK, JOSEPH",Democrat,1,1,,,Endorsed for re-election to US Senate,0.90
+PA,Scranton Times,141601,1962,STATE REP,1,,PA,"MORAN, CYRIL J",Democrat,1,,,,Lackawanna County 1st District,0.80
+PA,Scranton Times,141601,1962,STATE REP,2,,PA,"NEEDHAM, MICHAEL J",Democrat,1,,,,Lackawanna County 2nd District,0.85
+PA,Scranton Times,141601,1962,STATE REP,3,,PA,"WARGO, JOSEPH O",Democrat,1,,,,Lackawanna County 3rd District,0.85
+PA,Scranton Times,141601,1962,STATE REP,4,,PA,"MUNLEY, MARION L",Democrat,1,,,,Lackawanna County 4th District,0.85
+PA,Scranton Times,141601,1962,STATE REP,5,,PA,"EDES, WILLIAM",Democrat,1,,,,Lackawanna County 5th District (name uncertain),0.60
+PA,Scranton Times,141601,1962,STATE SENATOR,,,PA,"CASEY, ROBERT P",Democrat,1,,,,Endorsed for State Senator,0.85
+PA,Scranton Times,141601,1962,SUPREME COURT,,,PA,"KEIM, STEPHEN",Democrat,1,,,,Supreme Court Justice (name uncertain),0.55
+PA,Scranton Times,141601,1966,COURT OF APPEALS,,,PA,"PALMER, CLINTON BUDD",Democrat,1,,,,PA Superior Court,0.85
+PA,Scranton Times,141601,1966,COURT OF APPEALS,,,PA,"STOUT, JUANITA KIDD",Democrat,1,,,,PA Superior Court,0.85
+PA,Scranton Times,141601,1966,GOVERNOR,,,PA,"SHAPP, MILTON J",Democrat,1,,,,Democratic gubernatorial candidate; Times endorsed his candidacy for progressive PA program,0.95
+PA,Scranton Times,141601,1966,H,10,,PA,"TRAMA, NEIL",Democrat,1,,,,"Scranton City Councilman, candidate for congressman 10th District",0.90
+PA,Scranton Times,141601,1966,LT GOVERNOR,,,PA,"STAISEY, LEONARD C",Democrat,1,,,,State Sen. for Lieutenant Governor,0.90
+PA,Scranton Times,141601,1966,SEC OF STATE,,,PA,"BLATT, GENEVIEVE",Democrat,1,1,,,Re-election as secretary of internal affairs,0.90
+PA,Scranton Times,141601,1966,STATE REP,,,PA,"MORAN, CYRIL J",Democrat,1,1,,,Re-election to State House (Lackawanna),0.90
+PA,Scranton Times,141601,1966,STATE REP,,,PA,"NEEDHAM, MICHAEL J",Democrat,1,1,,,Re-election to State House (Lackawanna),0.90
+PA,Scranton Times,141601,1966,STATE REP,,,PA,"WANSACZ, JOHN",Democrat,1,1,,,Re-election to State House (Lackawanna),0.90
+PA,Scranton Times,141601,1966,STATE REP,,,PA,"WARGO, JOSEPH G",Democrat,1,1,,,Re-election to State House (Lackawanna),0.90
+PA,Scranton Times,141601,1966,STATE SENATOR,,,PA,"HAGGERTY, JAMES J",Democrat,1,,,,Attorney; State senator candidate,0.85
+PA,Scranton Times,141601,1968,AUDITOR,,,PA,"CASEY, ROBERT P",Democrat,1,,,,Auditor general; native son of Lackawanna County recognized for unblemished record vs Republican Werner Depuy in conflict of interest,0.95
+PA,Scranton Times,141601,1968,COURT OF APPEALS,,,PA,"CERCONE, WILLIAM F",Democrat,1,,,,Superior Court judge,0.95
+PA,Scranton Times,141601,1968,H,10,,PA,"MCDADE, JOSEPH M",Republican,1,,1,,Endorsed for Congress; Republican incumbent (Times endorsed across party lines),0.85
+PA,Scranton Times,141601,1968,PRESIDENT,,,PA,"HUMPHREY, HUBERT H",Democrat,1,,,,Slate endorsement: Vote for These Candidates,0.95
+PA,Scranton Times,141601,1968,SENATOR,,,PA,"CLARK, JOSEPH S",Democrat,1,1,,,US Senator slate endorsement,0.95
+PA,Scranton Times,141601,1968,STATE REP,112,,PA,"CROWLEY, PAUL F",Democrat,1,,,,112th District (Lackawanna),0.95
+PA,Scranton Times,141601,1968,STATE REP,113,,PA,"NEEDHAM, MICHAEL J",Democrat,1,1,,,113th District (Lackawanna),0.95
+PA,Scranton Times,141601,1968,STATE REP,114,,PA,"WANSACZ, JOHN",Democrat,1,1,,,114th District (Lackawanna),0.95
+PA,Scranton Times,141601,1968,STATE REP,115,,PA,"WARGO, JOSEPH G",Democrat,1,1,,,115th District (Lackawanna),0.95
+PA,Scranton Times,141601,1968,TREASURER,,,PA,"SLOAN, GRACE M",Democrat,1,,,,State Treasurer,0.95
+PA,Scranton Times,141601,1968,VICE PRESIDENT,,,PA,"MUSKIE, EDMUND S",Democrat,1,,,,Slate endorsement,0.95
+PA,Scranton Times,141601,1970,GOVERNOR,,,PA,"BRODERICK, RAYMOND J",Republican,1,,,,Lt. Gov. Raymond J. Broderick for Governor (Republican),0.90
+PA,Scranton Times,141601,1970,GOVERNOR,,,PA,"SHAPP, MILTON J",Democrat,0,,,,Times opposed Shapp - high primary spending and only ~30 percent vote raises questions,0.70
+PA,Scranton Times,141601,1970,H,10,,PA,"MCDADE, JOSEPH M",Republican,1,,1,,Cong. Joseph M. McDade endorsed for re-election in 10th Congressional District; powerful advocates for Pennsylvania,0.95
+PA,Scranton Times,141601,1970,LT GOVERNOR,,,PA,"SCALERA, RALPH",Republican,1,,,,Judge Ralph Scalera for Lt. Governor (name uncertain),0.60
+PA,Scranton Times,141601,1970,PROTHONOTARY,,,PA,"MELLOW, ROBERT",Democrat,1,,,,Lackawanna County Prothonotary; Democratic county candidate,0.85
+PA,Scranton Times,141601,1970,SENATOR,,,PA,"SCOTT, HUGH",Republican,1,,1,,US Senator Hugh Scott endorsed for re-election (Republican),0.90
+PA,Scranton Times,141601,1970,STATE REP,110,,PA,"DIPPRE, ROBERT",Republican,1,,,,110th District state rep,0.70
+PA,Scranton Times,141601,1970,STATE REP,112,,PA,"CROWLEY, PAUL F",Democrat,1,1,,,Four incumbent Democratic state House members endorsed,0.85
+PA,Scranton Times,141601,1970,STATE REP,112,,PA,"CUSHMAN, LOUIS",Republican,1,,,,State rep (district uncertain),0.55
+PA,Scranton Times,141601,1970,STATE REP,113,,PA,"NEEDHAM, MICHAEL J",Democrat,1,1,,,Incumbent state House member,0.90
+PA,Scranton Times,141601,1970,STATE REP,114,,PA,"WANSACZ, JOHN",Democrat,1,1,,,Incumbent state House member,0.90
+PA,Scranton Times,141601,1970,STATE REP,114,,PA,"WILLIAMS, WALTER",Republican,1,,,,State rep 114th District,0.65
+PA,Scranton Times,141601,1970,STATE REP,115,,PA,"KWASTEK, ROGER",Republican,1,,,,State rep 115th District (name uncertain),0.55
+PA,Scranton Times,141601,1970,STATE REP,115,,PA,"WARGO, JOSEPH G",Democrat,1,1,,,Incumbent state House member,0.90
+PA,Scranton Times,141601,1970,STATE SENATOR,,,PA,"PIASECKI, ARTHUR",Republican,1,1,,,"State Sen. Arthur Piasecki for re-election; splendid, compassionate first-term record",0.85
+PA,Scranton Times,141601,1972,AUDITOR,,,PA,"CASEY, ROBERT P",Democrat,1,1,,,Editorial: 'Casey's Performance Merits His Re-election'; Auditor General; cracking down on fraud and saving taxpayers millions,0.98
+PA,Scranton Times,141601,1972,AUDITOR,,,PA,"MCCORKEL, FRANKLIN M",Republican,0,,,,Republican opponent of Casey from Leola; would be foolish to change,0.85
+PA,Scranton Times,141601,1972,H,10,,PA,"CWOKLOCKA, STANLEY R",Democrat,,,,,"McDade's Democratic opponent of Dickson City; intelligent, warm-hearted but scale tipped to McDade (name uncertain)",0.50
+PA,Scranton Times,141601,1972,H,10,,PA,"MCDADE, JOSEPH M",Republican,1,,1,,Endorsed for re-election; ranking member of Appropriations Committee; teamwork with Flood on Agnes flood relief,0.95
+PA,Scranton Times,141601,1972,H,11,,PA,"AYERS, DONALD B",Republican,,,,,Flood's Republican opponent; made little impact,0.70
+PA,Scranton Times,141601,1972,H,11,,PA,"FLOOD, DANIEL J",Democrat,1,1,,,"Endorsed for re-election; chairmanship of subcommittee on Labor, Health Education and Welfare; serving fifth successive term",0.95
+PA,Scranton Times,141601,1972,STATE REP,112,,PA,"CROWLEY, PAUL F.",Democrat,1,1,,,Incumbent endorsed for re-election,0.90
+PA,Scranton Times,141601,1972,STATE REP,113,,PA,"WALSH, THOMAS P.",Democrat,1,,,,Endorsed for seat vacated by Rep. Michael J. Needham; opponent Robert F. Jones (R) of Green Ridge,0.85
+PA,Scranton Times,141601,1972,STATE REP,114,,PA,"WANSACZ, JOHN",Democrat,1,1,,,Incumbent endorsed for re-election,0.90
+PA,Scranton Times,141601,1972,STATE REP,115,,PA,"WARGO, JOSEPH",Democrat,1,1,,,Incumbent endorsed for re-election,0.90
+PA,Scranton Times,141601,1972,TREASURER,,,PA,"SLOAN, GRACE M",Democrat,1,1,,,State Treasurer; 12 years experience in state fiscal affairs; wisest course to retain,0.95
+PA,Scranton Times,141601,1972,TREASURER,,,PA,"WILLIAMS, GLENN E JR",Republican,0,,,,Republican opponent of Sloan from Harrisburg; experience outweighs background,0.85
+PA,Scranton Times,141601,1974,GOVERNOR,,,PA,"SHAPP, MILTON J.",Democrat,1,1,,,Endorsed for second term,0.95
+PA,Scranton Times,141601,1974,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,"Endorsed for seventh term, 10th District",0.95
+PA,Scranton Times,141601,1974,LT GOVERNOR,,,PA,"KLINE, ERNEST P.",Democrat,1,1,,,Endorsed alongside Gov. Shapp,0.95
+PA,Scranton Times,141601,1974,SENATOR,,,PA,"SCHWEIKER, RICHARD S.",Republican,1,,1,,Endorsed for second term,0.95
+PA,Scranton Times,141601,1974,STATE REP,112,,PA,"VOLPE, CHARLES J.",Democrat,1,,,,Endorsed in 112th Legislative District,0.90
+PA,Scranton Times,141601,1974,STATE REP,113,,PA,"WALSH, THOMAS P.",Democrat,1,1,,,Endorsed in 113th District,0.90
+PA,Scranton Times,141601,1974,STATE REP,114,,PA,"VIPOND, JONATHON",Democrat,1,,,,Endorsed in 114th District,0.90
+PA,Scranton Times,141601,1974,STATE REP,115,,PA,"WARGO, JOSEPH S.",Democrat,1,1,,,"Endorsed for 14th term, 115th District",0.95
+PA,Scranton Times,141601,1974,STATE REP,118,,PA,"MUSTO, RAPHAEL",Democrat,1,1,,,Endorsed in 118th District,0.90
+PA,Scranton Times,141601,1974,STATE SENATOR,22,,PA,"MELLOW, ROBERT J.",Democrat,1,1,,,"Re-election to second term, 22nd Senatorial District",0.95
+PA,Scranton Times,141601,1976,AUDITOR,,,PA,"GLEASON, PATRICK A.",Republican,1,,,,State Rep from Johnstown; endorsed for auditor general,0.90
+PA,Scranton Times,141601,1976,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,"Endorsed for seventh term, 10th District",0.95
+PA,Scranton Times,141601,1976,PRESIDENT,,,PA,"CARTER, JIMMY",Democrat,1,,,,Endorsed for presidency over President Ford,0.95
+PA,Scranton Times,141601,1976,SENATOR,,,PA,"GREEN, WILLIAM J.",Democrat,1,,,,Congressman from Philadelphia; endorsed for U.S. Senate seat being vacated by Hugh Scott,0.95
+PA,Scranton Times,141601,1976,STATE REP,112,,PA,"MCLANE, WILLIAM J.",Democrat,1,,,,"South Scranton, first term",0.90
+PA,Scranton Times,141601,1976,STATE REP,113,,PA,"BARANOWSKI, FRANK",Republican,1,,,,"North Scranton, seeking first term",0.90
+PA,Scranton Times,141601,1976,STATE REP,114,,PA,"WANSACZ, JOHN",Democrat,1,1,,,"Old Forge, fifth term",0.90
+PA,Scranton Times,141601,1976,STATE REP,115,,PA,"WARGO, JOSEPH",Democrat,1,1,,,14th term,0.90
+PA,Scranton Times,141601,1976,STATE REP,118,,PA,"MUSTO, RAPHAEL",Democrat,1,1,,,"Pittston, second term",0.90
+PA,Scranton Times,141601,1976,TREASURER,,,PA,"CRAWFORD, PATRICIA A.",Republican,1,,,,State Rep from Devon; endorsed for treasurer,0.90
+PA,Scranton Times,141601,1978,GOVERNOR,,,PA,"THORNBURGH, DICK",Republican,1,,,,Endorsed by Scrantonian Tribune; offers best prospect for cleansing and fresh direction at Harrisburg,0.95
+PA,Scranton Times,141601,1978,GOVERNOR,,,PA,"THORNBURGH, RICHARD M.",Republican,1,,,,Endorsed for governor over Peter F. Flaherty (D),0.95
+PA,Scranton Times,141601,1978,H,10,,PA,"MCDADE, JOE",Republican,1,,1,,Eight-term incumbent; finest representative our area ever has had,0.95
+PA,Scranton Times,141601,1978,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,"Endorsed for ninth term, 10th Congressional District",0.95
+PA,Scranton Times,141601,1978,LT GOVERNOR,,,PA,"SCRANTON, BILL III",Republican,1,,,,Thornburgh's running mate,0.95
+PA,Scranton Times,141601,1978,LT GOVERNOR,,,PA,"SCRANTON, WILLIAM W. III",Republican,1,,,,Thornburgh's running mate; from Scranton's home area,0.95
+PA,Scranton Times,141601,1978,STATE REP,112,,PA,"BELARDI, FRED",Republican,1,,,,Impressive campaign; understanding of county and city needs as planner,0.90
+PA,Scranton Times,141601,1978,STATE REP,112,,PA,"MCLANE, WILLIAM",Democrat,1,1,,,"South Scranton, third term",0.90
+PA,Scranton Times,141601,1978,STATE REP,113,,PA,"ZITTERMAN, FRANK",Democrat,1,,,,"Dickson City, second term",0.85
+PA,Scranton Times,141601,1978,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,,,,New candidate for seat vacated by John Wansacz; would be a working and forceful legislator,0.90
+PA,Scranton Times,141601,1978,STATE REP,114,,PA,"SERAFINI, FRANK A.",Republican,1,,,,Endorsed as better choice in 114th Legislative District,0.90
+PA,Scranton Times,141601,1978,STATE REP,115,,PA,"WARGO, JOSEPH",Democrat,1,1,,,"Olyphant, 16th term",0.90
+PA,Scranton Times,141601,1978,STATE REP,118,,PA,"MUSTO, RAPHAEL",Democrat,1,1,,,"Pittston, fourth term",0.90
+PA,Scranton Times,141601,1978,STATE SENATOR,22,,PA,"MELLOW, ROBERT",Democrat,1,1,,,Earned reelection to third term,0.95
+PA,Scranton Times,141601,1978,STATE SENATOR,22,,PA,"MELLOW, ROBERT J.",Democrat,1,1,,,"Endorsed for third term, 22nd Senatorial District",0.95
+PA,Scranton Times,141601,1980,ATTORNEY GENERAL,,,PA,"ZIMMERMAN, LEROY S.",Republican,1,,,,First elected attorney general; 15 years as DA in Dauphin County; over Michael O'Pake (D),0.95
+PA,Scranton Times,141601,1980,AUDITOR,,,PA,"KNEPPER, JAMES",Republican,1,,,,"State Rep, Allegheny County businessman and publisher; over incumbent Al Benedict (D)",0.90
+PA,Scranton Times,141601,1980,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,"Endorsed for tenth term, 10th District",0.95
+PA,Scranton Times,141601,1980,SENATOR,,,PA,"FLAHERTY, PETER",Democrat,1,,,,Former Pittsburgh Mayor; would better represent interests than Republican Arlen Specter; seat vacated by Schweiker,0.95
+PA,Scranton Times,141601,1980,STATE REP,112,,PA,"FINK, JOEL",Democrat,1,,,,"City official, East Scranton",0.90
+PA,Scranton Times,141601,1980,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,,,,City official with both major party nominations,0.90
+PA,Scranton Times,141601,1980,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,1,,,"Incumbent, Moosic",0.90
+PA,Scranton Times,141601,1980,STATE REP,115,,PA,"WARGO, JOSEPH",Democrat,1,1,,,"Incumbent, Olyphant",0.90
+PA,Scranton Times,141601,1980,TREASURER,,,PA,"DWYER, R. BUDD",Republican,1,,,,"State Sen, Meadville attorney; over incumbent Robert E. Casey (D)",0.90
+PA,Scranton Times,141601,1982,GOVERNOR,,,PA,"THORNBURGH, DICK",Republican,1,,1,,Re-election; sound fiscal policies and help to Northeastern Pennsylvania,0.95
+PA,Scranton Times,141601,1982,GOVERNOR,,,PA,"THORNBURGH, RICHARD",Republican,1,,1,,"Reelection; clean, economical and progressive administration",0.95
+PA,Scranton Times,141601,1982,H,10,,PA,"MCDADE, JOSEPH",Republican,1,,1,,Finest our 10th District has ever had; excellent record and seniority,0.95
+PA,Scranton Times,141601,1982,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,10 terms; catalyst in funding Station and Montage projects,0.95
+PA,Scranton Times,141601,1982,LT GOVERNOR,,,PA,"SCRANTON, WILLIAM",Republican,1,,1,,Reelection alongside Thornburgh,0.95
+PA,Scranton Times,141601,1982,LT GOVERNOR,,,PA,"SCRANTON, WILLIAM W. III",Republican,1,,1,,Re-election alongside Thornburgh,0.95
+PA,Scranton Times,141601,1982,SENATOR,,,PA,"HEINZ, H. JOHN",Republican,1,,1,,Endorsed for second term,0.95
+PA,Scranton Times,141601,1982,SENATOR,,,PA,"HEINZ, JOHN",Republican,1,,1,,Reelection; first-term incumbent who has kept close contact through regional offices and town meetings,0.95
+PA,Scranton Times,141601,1982,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,Incumbent,0.90
+PA,Scranton Times,141601,1982,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,Incumbent,0.90
+PA,Scranton Times,141601,1982,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,,1,,Incumbent,0.90
+PA,Scranton Times,141601,1982,STATE REP,115,,PA,"BIRMELIN, JERRY",Republican,1,,,,Newcomer in 115th,0.85
+PA,Scranton Times,141601,1982,STATE REP,115,,PA,"WARGO, JOSEPH",Democrat,1,1,,,Incumbent,0.90
+PA,Scranton Times,141601,1982,STATE REP,118,,PA,"TIGUE, THOMAS",Democrat,1,,,,Endorsed in 118th District,0.85
+PA,Scranton Times,141601,1982,STATE SENATOR,22,,PA,"MELLOW, ROBERT",Democrat,1,1,,,Reelected without opposition; testimonial in itself,0.95
+PA,Scranton Times,141601,1982,SUPREME COURT,,,PA,"SCHAEFFER, FORREST G.",Republican,1,,,,Berks County Judge from Kutztown; Republican nominee (a Democrat); more experience than opponent,0.85
+PA,Scranton Times,141601,1984,ATTORNEY GENERAL,,,PA,"ZIMMERMAN, LEROY S.",Republican,1,,1,,Completing first term,0.95
+PA,Scranton Times,141601,1984,AUDITOR,,,PA,"SHANAMAN, SUSAN M.",Republican,1,,,,Former chairman of state Public Utility Commission,0.90
+PA,Scranton Times,141601,1984,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,11-term incumbent,0.95
+PA,Scranton Times,141601,1984,PRESIDENT,,,PA,"REAGAN, RONALD",Republican,1,,1,,Incumbent endorsed for re-election,0.95
+PA,Scranton Times,141601,1984,STATE REP,111,,PA,"SIRIANNI, CARMEL",Republican,1,,1,,Hop Bottom; unopposed for sixth term,0.90
+PA,Scranton Times,141601,1984,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,"East Scranton, third-term incumbent",0.95
+PA,Scranton Times,141601,1984,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,"West Scranton, second-term incumbent",0.95
+PA,Scranton Times,141601,1984,STATE REP,114,,PA,"SERAFINI, FRANK A.",Republican,1,,1,,"Moosic, third-term incumbent",0.95
+PA,Scranton Times,141601,1984,STATE REP,115,,PA,"STABACK, EDWARD",Democrat,1,,,,"Archbald, finance company office manager seeking first term for seat given up by Joseph Wargo",0.90
+PA,Scranton Times,141601,1984,STATE REP,118,,PA,"TIGUE, THOMAS M.",Democrat,1,1,,,"Hughestown, two-term incumbent",0.90
+PA,Scranton Times,141601,1984,STATE REP,139,,PA,"BIRMELIN, JERRY",Republican,1,,,,"Honesdale, legislative assistant for Pennsylvanians for Biblical Morality; first term in district represented by retiring William Foster",0.90
+PA,Scranton Times,141601,1984,TREASURER,,,PA,"DWYER, R. BUDD",Republican,1,,1,,Completing first term,0.95
+PA,Scranton Times,141601,1984,VICE PRESIDENT,,,PA,"BUSH, GEORGE",Republican,1,,1,,Incumbent endorsed for re-election,0.95
+PA,Scranton Times,141601,1986,GOVERNOR,,,PA,"CASEY, ROBERT P.",Democrat,1,,,,Scranton attorney; over Lt. Gov. William W. Scranton III (R) of Waverly,0.95
+PA,Scranton Times,141601,1986,GOVERNOR,,,PA,"SCRANTON, WILLIAM W. III",Republican,1,,,,"Lt. Gov. for eight years; capable, innovative and resourceful; over Robert P. Casey (D)",0.95
+PA,Scranton Times,141601,1986,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,Clark's Summit; 13th term,0.95
+PA,Scranton Times,141601,1986,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,1,,Tireless fighter for constituents in Pocono Northeast; deserves another term,0.95
+PA,Scranton Times,141601,1986,STATE REP,111,,PA,"SIRIANNI, CARMEL",Republican,1,,1,,Incumbent in area beyond Lackawanna County,0.90
+PA,Scranton Times,141601,1986,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,East Scranton; fifth term (article gives district as 113th but historically 112th; possible OCR/redistricting issue),0.70
+PA,Scranton Times,141601,1986,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,"Incumbent, retention",0.90
+PA,Scranton Times,141601,1986,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,,1,,"Incumbent, retention",0.90
+PA,Scranton Times,141601,1986,STATE REP,115,,PA,"DAVIS, ROBERT",Republican,1,,,,Throop; newcomer for first term in 115th,0.85
+PA,Scranton Times,141601,1986,STATE REP,115,,PA,"STABACK, EDWARD",Democrat,1,1,,,"Incumbent, retention",0.90
+PA,Scranton Times,141601,1986,STATE REP,118,,PA,"TIGUE, THOMAS M.",Democrat,1,1,,,Incumbent in area beyond Lackawanna County,0.85
+PA,Scranton Times,141601,1986,STATE SENATOR,22,,PA,"MELLOW, ROBERT J.",Democrat,1,1,,,Peckville; fifth term,0.95
+PA,Scranton Times,141601,1988,ATTORNEY GENERAL,,,PA,"MEZVINSKY, EDWARD",Democrat,1,,,,"Narberth attorney; endorsed over controversial Ernest Preate Jr. (DA, found unsuitable)",0.95
+PA,Scranton Times,141601,1988,AUDITOR,,,PA,"HAFER, BARBARA",Republican,1,,,,Pittsburgh; minority party member of Allegheny County Commissioners; new broom needed; over Don Bailey (D incumbent),0.95
+PA,Scranton Times,141601,1988,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,Endorsed for new term over Democratic challenger Robert Cordaro of Dunmore,0.95
+PA,Scranton Times,141601,1988,PRESIDENT,,,PA,"DUKAKIS, MICHAEL S.",Democrat,1,,,,"Massachusetts Gov. over VP George Bush; nation needs Dukakis' administrative experience, honesty and integrity",0.95
+PA,Scranton Times,141601,1988,SENATOR,,,PA,"HEINZ, H. JOHN",Republican,1,,1,,Collective experience drew endorsement over Joseph Vignola,0.95
+PA,Scranton Times,141601,1988,SENATOR,,,PA,"HEINZ, JOHN",Republican,1,,1,,Retain Heinz; has overcome initial wealth-based image; productive representative; over Joseph Vignola (D),0.95
+PA,Scranton Times,141601,1988,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,Deserving of sixth term; able and available to constituents,0.90
+PA,Scranton Times,141601,1988,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,Deserving of fifth term; able and available to constituents,0.90
+PA,Scranton Times,141601,1988,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,,1,,"Moosic, sole race; aspiring for sixth two-year term; provided 'constituent service' of highest order",0.95
+PA,Scranton Times,141601,1988,STATE REP,115,,PA,"STABACK, EDWARD G.",Democrat,1,1,,,Up Valley; ran write-in campaign for Republican line and won GOP nomination; both major party lines,0.90
+PA,Scranton Times,141601,1988,STATE REP,118,,PA,"TIGUE, THOMAS M.",Democrat,1,1,,,Major base in Luzerne County; record over four terms recommends him for fifth,0.90
+PA,Scranton Times,141601,1988,TREASURER,,,PA,"ENGLISH, PHILIP",Republican,1,,,,Erie city controller; greater potential than Catherine Baker Knoll (D),0.95
+PA,Scranton Times,141601,1988,TREASURER,,,PA,"KNOLL, CATHERINE BAKER",Democrat,1,,,,"Active campaign; well-informed, serious, qualified; over Philip English (R)",0.95
+PA,Scranton Times,141601,1988,VICE PRESIDENT,,,PA,"BENTSEN, LLOYD",Democrat,1,,,,Texas Sen.; man who may be heartbeat away from presidency; more judicious than Bush's Dan Quayle,0.95
+PA,Scranton Times,141601,1990,GOVERNOR,,,PA,"CASEY, ROBERT P.",Democrat,1,,1,,Local resident; second term; over Barbara Hafer (R),0.95
+PA,Scranton Times,141601,1990,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,Clark's Summit; 15th term; won both GOP and Democratic primaries; assured of re-election,0.95
+PA,Scranton Times,141601,1990,LT GOVERNOR,,,PA,"SINGEL, MARK",Democrat,1,,1,,Casey's running mate; second term,0.95
+PA,Scranton Times,141601,1990,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,Scranton; seventh term; over Len Altier (R),0.95
+PA,Scranton Times,141601,1990,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,Scranton; sixth term; over Francis D. Tyson (R),0.95
+PA,Scranton Times,141601,1990,STATE REP,115,,PA,"STABACK, EDWARD",Democrat,1,1,,,"Sturges, Olyphant; fourth term; over Vicki Wittenbreder (R)",0.95
+PA,Scranton Times,141601,1990,STATE SENATOR,22,,PA,"MELLOW, ROBERT",Democrat,1,1,,,Peckville; sixth four-year term; leader of Senate Democrats; over Donna Dunio (R),0.95
+PA,Scranton Times,141601,1992,ATTORNEY GENERAL,,,PA,"KOHN, JOE",Democrat,0,,1,,Democratic challenger from Philadelphia suburbs; not endorsed,0.95
+PA,Scranton Times,141601,1992,ATTORNEY GENERAL,,,PA,"PREATE, ERNIE",Republican,1,,1,,Incumbent AG seeking second term; endorsed for re-election,0.95
+PA,Scranton Times,141601,1992,AUDITOR,,,PA,"HAFER, BARBARA",Republican,0,,1,,Republican incumbent from Allegheny County; not endorsed,0.95
+PA,Scranton Times,141601,1992,AUDITOR,,,PA,"LEWIS, CRAIG",Democrat,1,,1,,State Sen. from Bucks County; endorsed for Auditor General,0.95
+PA,Scranton Times,141601,1992,H,10,,PA,"MCDADE, JOSEPH M",Republican,1,,1,,Incumbent seeking 16th term; nominee of both major parties; endorsed despite May 1992 indictment,0.95
+PA,Scranton Times,141601,1992,H,10,,PA,"SMITH, ALBERT A",Libertarian,0,,1,,Libertarian challenger from East Stroudsburg,0.90
+PA,Scranton Times,141601,1992,PRESIDENT,,,PA,"CLINTON, BILL",Democrat,1,,,,Arkansas Governor; Bush fails on 'vision thing'; Clinton has the energy to pursue change,0.95
+PA,Scranton Times,141601,1992,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,1,,Effective on most issues; earns third term; over Lynn Yeakel (D),0.95
+PA,Scranton Times,141601,1992,STATE REP,110,,PA,"PHILBIN, THOMAS",Republican,1,,1,,Republican challenging incumbent Frank Serafini,0.90
+PA,Scranton Times,141601,1992,STATE REP,110,,PA,"SERAFINI, FRANK",Republican,0,,1,,Republican incumbent disqualified by refusing to disclose Empire Landfill financial relationship,0.95
+PA,Scranton Times,141601,1992,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,Democratic incumbent; endorsement challenges him to articulate agenda over next two years,0.90
+PA,Scranton Times,141601,1992,STATE REP,112,,PA,"KALICK, RON",Republican,0,1,,,"Hill Section resident, civic and union official; deemed unacceptable",0.90
+PA,Scranton Times,141601,1992,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,"Incumbent, unopposed; endorsed for seventh term",0.95
+PA,Scranton Times,141601,1992,STATE REP,114,,PA,"STABACK, EDWARD",Democrat,1,1,,,"Incumbent, unopposed; endorsed for fifth term",0.95
+PA,Scranton Times,141601,1992,TREASURER,,,PA,"HENRY, LOWMAN",Republican,0,1,,,Republican challenger from Erie County; not endorsed,0.95
+PA,Scranton Times,141601,1992,TREASURER,,,PA,"KNOLL, CATHERINE BAKER",Democrat,1,1,,,Incumbent Treasurer; endorsed for re-election,0.95
+PA,Scranton Times,141601,1992,VICE PRESIDENT,,,PA,"GORE, AL",Democrat,1,,,,Clinton's running mate,0.90
+PA,Scranton Times,141601,1994,GOVERNOR,,,PA,"LUKSIK, MARGUERITE",Independent,0,,,,Conservative independent; admired but not endorsed,0.90
+PA,Scranton Times,141601,1994,GOVERNOR,,,PA,"RIDGE, TOM",Republican,0,,,,Republican Rep. from Erie; not endorsed,0.95
+PA,Scranton Times,141601,1994,GOVERNOR,,,PA,"SINGEL, MARK",Democrat,1,,,,Two-term Lt. Gov.; endorsed for Governor,0.95
+PA,Scranton Times,141601,1994,H,10,,PA,"MCDADE, JOSEPH M",Republican,1,,1,,Incumbent Republican; endorsed for 17th term despite indictment,0.95
+PA,Scranton Times,141601,1994,H,10,,PA,"SCHREFFLER, DAN",Democrat,0,,1,,Democratic challenger from Clark's Summit; not endorsed,0.95
+PA,Scranton Times,141601,1994,SENATOR,,,PA,"SANTORUM, RICK",Republican,0,1,,,Republican Rep. from Pittsburgh; not endorsed,0.95
+PA,Scranton Times,141601,1994,SENATOR,,,PA,"WOFFORD, HARRIS",Democrat,1,1,,,Incumbent US Senator; endorsed for full term,0.95
+PA,Scranton Times,141601,1994,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,Unopposed incumbent; seeking ninth term,0.90
+PA,Scranton Times,141601,1994,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,Unopposed incumbent; seeking eighth term,0.90
+PA,Scranton Times,141601,1994,STATE REP,114,,PA,"GIANNETTA, MICHAEL",Democrat,1,,1,,Scott Twp Democratic challenger; endorsed over Serafini,0.90
+PA,Scranton Times,141601,1994,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,0,,1,,Republican incumbent from Moosic; not endorsed due to Empire Landfill conflict,0.90
+PA,Scranton Times,141601,1994,STATE REP,115,,PA,"STABACK, EDWARD",Democrat,1,1,,,Unopposed incumbent; seeking sixth term,0.90
+PA,Scranton Times,141601,1994,STATE SENATOR,,,PA,"MELLOW, ROBERT",Democrat,1,1,,,"Incumbent state senator, former president pro tem; endorsed for seventh term",0.95
+PA,Scranton Times,141601,1994,STATE SENATOR,,,PA,"ZITTERMAN, EDWARD",Republican,0,1,,,Republican challenger from Eynon; not endorsed,0.95
+PA,Scranton Times,141601,1996,ATTORNEY GENERAL,,,PA,"FISHER, MIKE",Republican,1,,,,State Sen. from Allegheny County; endorsed for Attorney General,0.95
+PA,Scranton Times,141601,1996,ATTORNEY GENERAL,,,PA,"KOHN, JOSEPH",Democrat,0,,,,Chester County attorney; lacks criminal experience; not endorsed,0.95
+PA,Scranton Times,141601,1996,AUDITOR,,,PA,"CASEY, BOB JR",Democrat,1,,,,Democratic attorney; endorsed for Auditor General,0.95
+PA,Scranton Times,141601,1996,AUDITOR,,,PA,"NYCE, BOB",Republican,0,,,,State Rep from Northampton County; not endorsed,0.95
+PA,Scranton Times,141601,1996,H,10,,PA,"CULLEN, JOSEPH",Democrat,0,,1,,Democratic challenger from Dunmore; not endorsed,0.90
+PA,Scranton Times,141601,1996,H,10,,PA,"MCDADE, JOSEPH",Republican,1,,1,,Incumbent; endorsed for 18th term,0.95
+PA,Scranton Times,141601,1996,H,10,,PA,"MCDADE, JOSEPH M",Republican,1,,1,,Recap; endorsed for re-election; faces Cullen,0.95
+PA,Scranton Times,141601,1996,H,10,,PA,"MCLOUGHLIN, THOMAS",Reform,0,,1,,Reform Party candidate; not endorsed,0.90
+PA,Scranton Times,141601,1996,PRESIDENT,,,PA,"CLINTON, BILL",Democrat,0,1,,,Incumbent; not endorsed,0.95
+PA,Scranton Times,141601,1996,PRESIDENT,,,PA,"DOLE, BOB",Republican,1,1,,,Republican challenger; endorsed for President,0.95
+PA,Scranton Times,141601,1996,STATE REP,112,,PA,"ALWARD, DON",Republican,0,1,,,Republican challenger; not endorsed,0.90
+PA,Scranton Times,141601,1996,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,Only local legislator facing challenge; endorsed over Don Alward,0.90
+PA,Scranton Times,141601,1996,TREASURER,,,PA,"HAFER, BARBARA",Republican,0,,,,Current Auditor General; criticized for political opportunism; not endorsed,0.95
+PA,Scranton Times,141601,1996,TREASURER,,,PA,"KNOLL, MINA",Democrat,1,,,,Daughter of incumbent Catherine Baker Knoll; CPA; endorsed for Treasurer,0.95
+PA,Scranton Times,141601,1996,TREASURER,,,PA,"KNOLL, MINA BAKER",Democrat,1,,,,Recap; endorsed for Treasurer,0.95
+PA,Scranton Times,141601,1998,GOVERNOR,,,PA,"RIDGE, TOM",Republican,1,,1,,Endorsed for re-election over Democratic Rep. Ivan Itkin and independent Peg Luksik (Constitutional Party). Prudent steward who has earned a second term.,0.98
+PA,Scranton Times,141601,1998,H,10,,PA,"CASEY, PATRICK",Democrat,1,,,,"Endorsed for 10th Congressional District, succeeding retiring Rep. Joseph M. McDade. Best choice over Republican Don Sherwood and Reform Party's Thomas McLaughlin.",0.98
+PA,Scranton Times,141601,1998,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,1,,"Endorsed for re-election over Democratic state Rep. Bill Lloyd of Somerset County, Libertarian Jack Iannantuono, and Constitutional Party's Dean Snyder. Clout and political independence serve Pennsylvania well.",0.98
+PA,Scranton Times,141601,1998,STATE REP,114,,PA,"WANSACZ, JIM",Democrat,1,,,,Endorsed to replace Rep. Frank Serafini in 114th Legislative District. Wansacz is a 26-year-old Democrat; Serafini is under federal indictment for perjury.,0.97
+PA,Scranton Times,141601,1998,STATE SENATOR,,,PA,"MELLOW, BOB",Democrat,1,1,,,Endorsed for re-election as state Senate Democratic leader over Republican Glenn Cashuric. Record trumps Cashuric's potential.,0.97
+PA,Scranton Times,141601,2000,ATTORNEY GENERAL,,,PA,"FISHER, MIKE",Republican,1,,1,,Endorsed for second term as state Attorney General over Democrat Jim Eisenhower (Philadelphia attorney). Fisher's record warrants re-election.,0.97
+PA,Scranton Times,141601,2000,AUDITOR,,,PA,"CASEY, BOB JR.",Democrat,1,1,,,Recap of Times-Tribune endorsements: PA Auditor General.,0.97
+PA,Scranton Times,141601,2000,AUDITOR,,,PA,"CASEY, ROBERT P.",Democrat,1,1,,,"Endorsed for re-election as Auditor General over Rep. Katie True (R, Lancaster County). Aggressive watchdog policies protect most vulnerable.",0.97
+PA,Scranton Times,141601,2000,H,10,,PA,"CASEY, PAT",Democrat,1,,1,,Recap of Times-Tribune endorsements: U.S. House 10th District.,0.97
+PA,Scranton Times,141601,2000,H,10,,PA,"CASEY, PATRICK",Democrat,1,,1,,Endorsed for 10th Congressional District over Republican incumbent Don Sherwood. Mr. Casey best represents older residents on Medicare prescription drug plan.,0.97
+PA,Scranton Times,141601,2000,PRESIDENT,,,PA,"BUSH, GEORGE W.",Republican,1,,,,Endorsed for President over VP Al Gore. Bush would be the agent of more positive change.,0.97
+PA,Scranton Times,141601,2000,SENATOR,,,PA,"KLINK, RON",Democrat,1,,1,,Endorsed for U.S. Senate over incumbent Republican Sen. Rick Santorum. In tune with Pennsylvania; superior candidate on issues of style and substance.,0.97
+PA,Scranton Times,141601,2000,STATE REP,114,,PA,"WANSACZ, JIM",Democrat,1,1,,,Endorsed for full term over Republican Tom Parry. Wansacz won June special election by 700 votes; record warrants election to a full term.,0.97
+PA,Scranton Times,141601,2000,TREASURER,,,PA,"HAFER, BARBARA",Republican,1,,1,,Endorsed for second term as state Treasurer over Democrat Catherine Baker Knoll. Record warrants second term; high level of competence in administration.,0.97
+PA,Scranton Times,141601,2002,GOVERNOR,,,PA,"RENDELL, ED",Democrat,1,,,,Endorsement recap for Governor of Pennsylvania.,0.95
+PA,Scranton Times,141601,2002,H,10,,PA,"SHERWOOD, DON",Republican,1,,1,,Endorsement recap for U.S. Representative 10th District.,0.95
+PA,Scranton Times,141601,2002,H,11,,PA,"KANJORSKI, PAUL E.",Democrat,1,1,,,Endorsement recap for U.S. Representative 11th District.,0.95
+PA,Scranton Times,141601,2002,STATE REP,114,,PA,"WANSACZ, JIM",Democrat,1,1,,,Endorsement recap for State Rep 114th District.,0.95
+PA,Scranton Times,141601,2002,STATE SENATOR,22,,PA,"MELLOW, ROBERT J.",Democrat,1,1,,,Endorsement recap for State Senator 22nd District.,0.95
+PA,Scranton Times,141601,2004,ATTORNEY GENERAL,,,PA,"CORBETT, TOM",Republican,1,,,,Endorsement recap for Attorney General.,0.95
+PA,Scranton Times,141601,2004,AUDITOR,,,PA,"PETERS, JOE",Republican,1,,,,Endorsement recap for Auditor General.,0.95
+PA,Scranton Times,141601,2004,PRESIDENT,,,PA,"BUSH, GEORGE W.",Republican,0,,1,,"Editorial board of The Sunday Times split evenly between supporting Republican President George W. Bush and Sen. John Kerry, the Democratic challenger. No clear single endorsement.",0.85
+PA,Scranton Times,141601,2004,PRESIDENT,,,PA,"KERRY, JOHN",Democrat,0,,,,"Editorial board of The Sunday Times split evenly between supporting Republican President George W. Bush and Sen. John Kerry, the Democratic challenger. No clear single endorsement.",0.85
+PA,Scranton Times,141601,2004,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,1,,Endorsement recap for U.S. Senate.,0.95
+PA,Scranton Times,141601,2004,STATE REP,114,,PA,"WANSACZ, JOHN",Democrat,1,1,,,"Endorsement recap for State Rep 114th District (listed as John Wansacz, D).",0.92
+PA,Scranton Times,141601,2004,TREASURER,,,PA,"CASEY, ROBERT P. JR.",Democrat,1,,,,Endorsement recap for State Treasurer.,0.95

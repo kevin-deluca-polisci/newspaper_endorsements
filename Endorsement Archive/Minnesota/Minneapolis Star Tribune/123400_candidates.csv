@@ -1,0 +1,45 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+MN,Minneapolis Star Tribune,123400,1982,ATTORNEY GENERAL,,,MN,"HUMPHREY, HUBERT H. III",Democrat,1,,,,Star Tribune recap,0.93
+MN,Minneapolis Star Tribune,123400,1982,AUDITOR,,,MN,"CARLSON, ARNE",Republican,1,,,1,Star Tribune recap,0.92
+MN,Minneapolis Star Tribune,123400,1982,CNTY COMM,1,Hennepin County,MN,"SPARTZ, JEFF",,1,,,,Recap,0.91
+MN,Minneapolis Star Tribune,123400,1982,CNTY COMM,2,Hennepin County,MN,"JOHNSON, RANDY",,1,,,,Recap,0.91
+MN,Minneapolis Star Tribune,123400,1982,CNTY COMM,3,Hennepin County,MN,"KREMER, RICHARD",,1,,,,Recap,0.91
+MN,Minneapolis Star Tribune,123400,1982,CNTY COMM,4,Hennepin County,MN,"DERUS, JOHN",,1,,,,Recap,0.91
+MN,Minneapolis Star Tribune,123400,1982,CNTY COMM,5,Hennepin County,MN,"ROBB, E. F. (BUD)",,1,,,,Recap,0.91
+MN,Minneapolis Star Tribune,123400,1982,CNTY COMM,6,Hennepin County,MN,"SIVANICH, SAM",,1,,,,Recap,0.91
+MN,Minneapolis Star Tribune,123400,1982,CNTY COMM,7,Hennepin County,MN,"OLKON, NANCY",,1,,,,Recap,0.91
+MN,Minneapolis Star Tribune,123400,1982,DA/PROSECUTOR,,Hennepin County Attorney,MN,"JOHNSON, TOM",,1,,,1,Recap,0.92
+MN,Minneapolis Star Tribune,123400,1982,GOVERNOR,,,MN,"PERPICH, RUDY",Democrat,1,,,,Star Tribune recap,0.95
+MN,Minneapolis Star Tribune,123400,1982,H,1,,MN,"PENNY, TIM",Democrat,1,,,,Star Tribune recap,0.93
+MN,Minneapolis Star Tribune,123400,1982,H,2,,MN,"WEBER, VIN",Republican,1,,1,,Star Tribune recap,0.93
+MN,Minneapolis Star Tribune,123400,1982,H,3,,MN,"FRENZEL, BILL",Republican,1,,1,,Star Tribune recap,0.94
+MN,Minneapolis Star Tribune,123400,1982,H,4,,MN,"VENTO, BRUCE",Democrat,1,1,,,Star Tribune recap,0.94
+MN,Minneapolis Star Tribune,123400,1982,H,5,,MN,"SABO, MARTIN",Democrat,1,1,,,Star Tribune recap,0.94
+MN,Minneapolis Star Tribune,123400,1982,H,6,,MN,"ERDAHL, ARLEN",Republican,1,,1,,Star Tribune recap,0.93
+MN,Minneapolis Star Tribune,123400,1982,H,7,,MN,"WENSTROM, GENE",Democrat,1,1,,,Star Tribune recap,0.93
+MN,Minneapolis Star Tribune,123400,1982,H,8,,MN,"OBERSTAR, JAMES",Democrat,1,1,,,Star Tribune recap,0.94
+MN,Minneapolis Star Tribune,123400,1982,LT GOVERNOR,,,MN,"JOHNSON, MARLENE",Democrat,1,,,,Star Tribune recap,0.93
+MN,Minneapolis Star Tribune,123400,1982,SEC OF STATE,,,MN,"GROWE, JOAN",Democrat,1,,,1,Star Tribune recap,0.93
+MN,Minneapolis Star Tribune,123400,1982,SENATOR,,,MN,"DURENBERGER, DAVE",Republican,1,,1,,Star Tribune recap,0.95
+MN,Minneapolis Star Tribune,123400,1982,SHERIFF,,Hennepin County,MN,"OMODT, DON",,1,,,1,Recap,0.92
+MN,Minneapolis Star Tribune,123400,1982,TREASURER,,,MN,"CLAYTON, BONN",Republican,1,,,,Star Tribune recap,0.92
+MN,Minneapolis Star Tribune,123400,2008,H,1,,MN,"WALZ, TIM",Democrat,1,1,,,Star Tribune endorsement,0.93
+MN,Minneapolis Star Tribune,123400,2008,H,2,,MN,"KLINE, JOHN",Republican,1,,1,,Star Tribune endorsement,0.92
+MN,Minneapolis Star Tribune,123400,2008,PRESIDENT,,,MN,"OBAMA, BARACK",Democrat,1,,,,Star Tribune endorsement,0.96
+MN,Minneapolis Star Tribune,123400,2008,SENATOR,,,MN,"COLEMAN, NORM",Republican,1,,1,,Star Tribune endorsement,0.93
+MN,Minneapolis Star Tribune,123400,2016,H,1,,MN,"WALZ, TIM",Democrat,1,1,,,Star Tribune endorsement,0.94
+MN,Minneapolis Star Tribune,123400,2016,H,2,,MN,"CRAIG, ANGIE",Democrat,1,,,,Star Tribune endorsement,0.93
+MN,Minneapolis Star Tribune,123400,2016,H,3,,MN,"PAULSEN, ERIK",Republican,1,,1,,Star Tribune endorsement,0.93
+MN,Minneapolis Star Tribune,123400,2016,H,6,,MN,"EMMER, TOM",Republican,1,,1,,Star Tribune endorsement,0.93
+MN,Minneapolis Star Tribune,123400,2016,H,7,,MN,"PETERSON, COLLIN",Democrat,1,1,,,Star Tribune endorsement,0.94
+MN,Minneapolis Star Tribune,123400,2016,H,8,,MN,"NOLAN, RICK",Democrat,1,1,,,Star Tribune endorsement,0.94
+MN,Minneapolis Star Tribune,123400,2016,PRESIDENT,,,MN,"CLINTON, HILLARY",Democrat,1,,,,Star Tribune Editorial Board endorsement,0.96
+MN,Minneapolis Star Tribune,123400,2016,SUPREME COURT,,,MN,"HUDSON, NATALIE",,1,,,1,Star Tribune endorsement,0.92
+MN,Minneapolis Star Tribune,123400,2020,H,1,,MN,"FEEHAN, DAN",Democrat,1,,,,Star Tribune endorsement,0.93
+MN,Minneapolis Star Tribune,123400,2020,H,2,,MN,"CRAIG, ANGIE",Democrat,1,1,,,Star Tribune endorsement,0.94
+MN,Minneapolis Star Tribune,123400,2020,H,3,,MN,"PHILLIPS, DEAN",Democrat,1,1,,,Star Tribune endorsement,0.94
+MN,Minneapolis Star Tribune,123400,2020,H,4,,MN,"MCCOLLUM, BETTY",Democrat,1,1,,,Star Tribune endorsement,0.94
+MN,Minneapolis Star Tribune,123400,2020,H,7,,MN,"PETERSON, COLLIN",Democrat,1,1,,,Star Tribune endorsement,0.94
+MN,Minneapolis Star Tribune,123400,2020,H,8,,MN,"STAUBER, PETE",Republican,1,,1,,Star Tribune endorsement,0.93
+MN,Minneapolis Star Tribune,123400,2020,PRESIDENT,,,MN,"BIDEN, JOE",Democrat,1,,,,Star Tribune Editorial Board endorsement,0.96
+MN,Minneapolis Star Tribune,123400,2020,SENATOR,,,MN,"SMITH, TINA",Democrat,1,1,,,Star Tribune endorsement,0.94

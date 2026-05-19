@@ -1,0 +1,35 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Greensboro News and Record
+Newspaper ID: 132700
+State: NC
+Number of clippings: 20
+Endorsement data years: 1984-2018
+Total candidate endorsements: 542
+Total proposition endorsements: 61
+
+Confidence statistics:
+  Mean confidence: 0.898
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 79
+  SCHOOL BOARD: 62
+  CNTY COMM: 58
+  JUDGE: 54
+  COURT OF APPEALS: 50
+  STATE SENATOR: 39
+  H: 37
+  SUPREME COURT: 34
+  SENATOR: 12
+  AUDITOR: 9
+  COMMISSIONER OF AGRICULTURE: 9
+  GOVERNOR: 9
+  LT GOVERNOR: 9
+  SHERIFF: 9
+  ATTORNEY GENERAL: 8
+
+Party distribution:
+  Democrat: 330
+  Republican: 132

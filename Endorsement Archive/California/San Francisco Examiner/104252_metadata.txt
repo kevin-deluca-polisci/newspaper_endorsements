@@ -1,0 +1,36 @@
+Newspaper Name: San Francisco Examiner
+Alternative Names: SF Examiner
+Years Published: 1865-present
+Newspaper ID number: 104252
+Number of clippings: 24
+Endorsement data years: 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 1102
+  Endorsed (=1): 1097
+  Opposed (=0): 5
+  No position (null): 0
+Total proposition records: 679
+  Endorsed (=1): 470
+  Opposed (=0): 208
+
+--- DATA QUALITY ---
+Flagged for review: 858 candidates, 1 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 0
+Duplicates removed: 0 candidates, 1 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.70
+Mean: 0.94
+Max: 0.95
+Below threshold (0.75): 1
+
+--- REVIEW QUEUE ---
+  None
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-14 16:54:01

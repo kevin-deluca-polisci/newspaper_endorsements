@@ -1,0 +1,19 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence,extraction_confidence_note,source_file
+IA,Des Moines Register,115150,1960,IA,Iowa Constitutional Convention,,Hold a constitutional convention to address reapportionment,1,Vote YES on convention,0.92,,115150_19601107.pdf
+IA,Des Moines Register,115150,1968,IA,Iowa Constitutional Amendment,,Item Veto Amendment (governor authority to veto individual items in appropriation bills),1,Vote YES,0.95,,115150_19681101.pdf
+IA,Des Moines Register,115150,1970,IA,Iowa Constitutional Amendment,,Repeal section establishing office of county attorney with 2-year terms (would permit 4-year terms by statute),1,Endorsement editorial supports,0.9,,115150_19701101.pdf
+IA,Des Moines Register,115150,1970,IA,Iowa Constitutional Amendment,,Voter residency requirements (allow Legislature to set by statute),1,Endorsement editorial supports,0.9,,115150_19701101.pdf
+IA,Des Moines Register,115150,1970,IA,Iowa Constitutional Amendment,,Single-member legislative districts (constitutional requirement),1,Endorsement editorial supports,0.9,,115150_19701101.pdf
+IA,Des Moines Register,115150,1974,IA,Iowa Constitutional Amendment,,Permit Legislature to call itself into special session (with two-thirds support),1,Vote YES on amendment,0.92,,115150_19741101.pdf
+IA,Des Moines Register,115150,1978,IA,Iowa Constitutional Amendment,,County home rule amendment (grant counties same powers as municipalities under 1968 home rule),1,Vote YES,0.92,,115150_19781105.pdf
+IA,Des Moines Register,115150,1980,IA,Iowa Constitutional Amendment,,Equal Rights Amendment (insert 'and women' in Iowa Bill of Rights),1,'Yes' on equal rights,0.95,,115150_19801103.pdf
+IA,Des Moines Register,115150,1984,IA,Iowa Constitutional Amendment,,Legislative veto over administrative agency rules,0,Editorial opposes: 'a return to bad government'; weakens governorship,0.92,,115150_19841029.pdf
+IA,Des Moines Register,115150,1984,IA,Iowa Constitutional Amendment,,Repeal constitutional provision relating to distribution of school-lands money,1,Editorial: 'We hope the voters clear the way for this',0.92,,115150_19841105.pdf
+IA,Des Moines Register,115150,1984,IA,Polk County / Des Moines Tax,,Hotel-motel room tax increase from 5 to 7 percent (revenue dedicated to Convention and Visitors Bureau),1,"'Yes, yes on room tax'",0.92,,115150_19841101.pdf
+IA,Des Moines Register,115150,1990,IA,Iowa Constitutional Question,,Constitutional convention: Shall there be a convention to revise the Iowa constitution?,0,'A convention should be rejected by voters',0.95,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,IA,Polk County Proposition,,Polk County E-911 surcharge of 50 cents per phone subscriber's monthly bill,1,Vote YES,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,2004,IA,Polk County Proposition,,Merger of Des Moines and Polk County governments,1,Vote YES,0.92,,115150_20041102.pdf
+IA,Des Moines Register,115150,2010,IA,Iowa Constitutional Amendment,,"Water Trust Fund Amendment (no tax increase; create trust fund for environment, conservation)",1,Vote YES,0.92,,115150_20101102.pdf
+IA,Des Moines Register,115150,2010,IA,Iowa Constitutional Question,,Constitutional convention (every 10 years per Iowa Constitution),0,No need to change state's constitution,0.92,,115150_20101102.pdf
+IA,Des Moines Register,115150,2012,IA,Polk County Bond,,Polk County Water and Land Legacy Bond (needs 60% to pass; conservation/recreation funding),1,Vote YES,0.92,,115150_20121106.pdf
+IA,Des Moines Register,115150,2020,IA,Iowa Constitutional Question,,Constitutional convention (required every 10 years),0,Vote NO; 'Holding a convention risks fast-tracking amendments',0.92,,115150_20201103.pdf

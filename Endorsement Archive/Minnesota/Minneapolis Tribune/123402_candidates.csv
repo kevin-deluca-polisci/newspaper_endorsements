@@ -1,0 +1,76 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+MN,Minneapolis Tribune,123402,1920,GOVERNOR,,,MN,"HODGSON, L. C.",Democrat,0,,,,1920 governor ballot,0.82
+MN,Minneapolis Tribune,123402,1920,GOVERNOR,,,MN,"PREUS, J. A. O.",Republican,1,,,,1920 governor candidate ballot,0.85
+MN,Minneapolis Tribune,123402,1920,GOVERNOR,,,MN,"SAMSON, PETER J.",Socialist,0,,,,1920 governor ballot,0.82
+MN,Minneapolis Tribune,123402,1920,GOVERNOR,,,MN,"SHIPSTEAD, HENRIK",Independent,0,,,,1920 governor ballot,0.82
+MN,Minneapolis Tribune,123402,1962,GOVERNOR,,,MN,"ANDERSEN, ELMER L.",Republican,1,,1,,Whats at stake in state races - implicit re-elect,0.88
+MN,Minneapolis Tribune,123402,1962,H,1,,MN,"QUIE, ALBERT",Republican,1,,1,,Contests for Congress recap,0.93
+MN,Minneapolis Tribune,123402,1962,H,2,,MN,"NELSEN, ANCHER",Republican,1,,1,,Recap,0.93
+MN,Minneapolis Tribune,123402,1962,H,3,,MN,"MACGREGOR, CLARK",Republican,1,,1,,Recap,0.93
+MN,Minneapolis Tribune,123402,1962,H,4,,MN,"KARTH, JOSEPH",Democrat,1,1,,,Recap,0.93
+MN,Minneapolis Tribune,123402,1962,H,5,,MN,"FRASER, DONALD",Democrat,0,,,,Challenger but Judd preferred for foreign policy expertise,0.90
+MN,Minneapolis Tribune,123402,1962,H,5,,MN,"JUDD, WALTER",Republican,1,,1,,5th District; widely regarded as key man on foreign policy,0.94
+MN,Minneapolis Tribune,123402,1962,H,7,,MN,"LANGEN, ODIN",Republican,1,,1,,Recap,0.92
+MN,Minneapolis Tribune,123402,1962,H,8,,MN,"BLATNIK, JOHN",Democrat,1,1,,,Recap,0.93
+MN,Minneapolis Tribune,123402,1964,H,1,,MN,"QUIE, ALBERT",Republican,1,,1,,Re-elect on basis of records,0.94
+MN,Minneapolis Tribune,123402,1964,H,2,,MN,"NELSEN, ANCHER",Republican,1,,1,,Re-elect,0.93
+MN,Minneapolis Tribune,123402,1970,AUDITOR,,,MN,"HATFIELD, ROLLAND",,1,,,1,Tribune recap,0.92
+MN,Minneapolis Tribune,123402,1970,BOARD OF EQUALIZATION,,Public Service Commissioner,MN,"ANDERSON, RON",,1,,,,Tribune recap,0.88
+MN,Minneapolis Tribune,123402,1970,SEC OF STATE,,,MN,"ERDAHL, ARLEN",Republican,1,,,,Bright conscientious state legislator; respect of both parties,0.94
+MN,Minneapolis Tribune,123402,1970,TREASURER,,,MN,"BJORNSON, VAL",Republican,1,,,1,Tribune recap,0.92
+MN,Minneapolis Tribune,123402,1972,PRESIDENT,,,MN,"MCGOVERN, GEORGE",Democrat,1,,,,Tribune endorsement - despite reader criticism,0.94
+MN,Minneapolis Tribune,123402,1972,PRESIDENT,,,MN,"NIXON, RICHARD",Republican,0,,1,,Tribune did not endorse Nixon,0.92
+MN,Minneapolis Tribune,123402,1976,CNTY COMM,1,Hennepin County Board,MN,"HANSON, RICHARD",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1976,CNTY COMM,3,Hennepin County Board,MN,"HART, MEREDITH",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1976,CNTY COMM,5,Hennepin County Board,MN,"ROBB, E. F. JR.",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1976,CNTY COMM,6,Hennepin County Board,MN,"SIVANICH, SAM",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1976,CNTY COMM,7,Hennepin County Board,MN,"OLKON, NANCY",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1976,H,1,,MN,"QUIE, ALBERT",Republican,1,,1,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1976,H,2,,MN,"HAGEDORN, THOMAS",Republican,1,,,,Tribune recap,0.93
+MN,Minneapolis Tribune,123402,1976,H,3,,MN,"FRENZEL, BILL",Republican,1,,1,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1976,H,4,,MN,"VENTO, BRUCE",Democrat,1,,,,Tribune recap,0.93
+MN,Minneapolis Tribune,123402,1976,H,5,,MN,"FRASER, DONALD",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1976,H,6,,MN,"NOLAN, RICHARD",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1976,H,7,,MN,"BERGLAND, ROBERT",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1976,H,8,,MN,"OBERSTAR, JAMES",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1976,PRESIDENT,,,MN,"CARTER, JIMMY",Democrat,1,,,,Tribune A summing up recap,0.95
+MN,Minneapolis Tribune,123402,1976,SENATOR,,,MN,"HUMPHREY, HUBERT",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1976,VICE PRESIDENT,,,MN,"MONDALE, WALTER",Democrat,1,,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,ATTORNEY GENERAL,,,MN,"SPANNAUS, WARREN",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,AUDITOR,,,MN,"CARLSON, ARNE",Republican,1,,,,Tribune recap,0.93
+MN,Minneapolis Tribune,123402,1978,CNTY COMM,2,Hennepin County Board,MN,"JOHNSON, RANDY",Republican,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1978,CNTY COMM,4,Hennepin County Board,MN,"DERUS, JOHN",Democrat,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1978,CNTY COMM,6,Hennepin County Board,MN,"SIVANICH, SAM",,1,,,,Unopposed,0.90
+MN,Minneapolis Tribune,123402,1978,CNTY COMM,7,Hennepin County Board,MN,"OLKON, NANCY",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1978,DA/PROSECUTOR,,Hennepin County Attorney,MN,"JOHNSON, TOM",,1,,,,Tribune recap,0.92
+MN,Minneapolis Tribune,123402,1978,GOVERNOR,,,MN,"PERPICH, RUDY",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,H,1,,MN,"ERDAHL, ARLEN",Republican,1,,,,Tribune recap,0.93
+MN,Minneapolis Tribune,123402,1978,H,2,,MN,"HAGEDORN, TOM",Republican,1,,1,,Tribune recap,0.93
+MN,Minneapolis Tribune,123402,1978,H,3,,MN,"FRENZEL, BILL",Republican,1,,1,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,H,4,,MN,"VENTO, BRUCE",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,H,5,,MN,"SABO, MARTIN",Democrat,1,,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,H,6,,MN,"NOLAN, RICHARD",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,H,7,,MN,"WENSTROM, GENE",Democrat,1,,,,Tribune recap,0.93
+MN,Minneapolis Tribune,123402,1978,H,8,,MN,"OBERSTAR, JAMES",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,JUDGE,,Hennepin County District Judge,MN,"POSTEN, WILLIAM S. SR.",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1978,JUDGE,,Hennepin County Municipal Judge,MN,"SYKORA, C. WILLIAM",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1978,SEC OF STATE,,,MN,"GROWE, JOAN",Democrat,1,,,,Tribune recap,0.93
+MN,Minneapolis Tribune,123402,1978,SENATOR,,,MN,"ANDERSON, WENDELL",Democrat,1,,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,SENATOR,,,MN,"DURENBERGER, DAVE",Republican,1,,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1978,SHERIFF,,Hennepin County,MN,"OMODT, DONALD",,1,,,1,Tribune recap,0.92
+MN,Minneapolis Tribune,123402,1978,SUPREME COURT,,,MN,"PETERSON, C. DONALD",,1,,,,Tribune recap,0.92
+MN,Minneapolis Tribune,123402,1978,SUPREME COURT,,,MN,"WAHL, ROSALIE",,1,,,,Tribune recap,0.92
+MN,Minneapolis Tribune,123402,1978,TREASURER,,,MN,"LORD, JIM",Democrat,1,,,,Tribune recap,0.92
+MN,Minneapolis Tribune,123402,1980,CNTY COMM,1,Hennepin County Board,MN,"SPARTZ, JEFF",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1980,CNTY COMM,3,Hennepin County Board,MN,"KREMER, DICK",,1,,,,Unopposed,0.90
+MN,Minneapolis Tribune,123402,1980,CNTY COMM,5,Hennepin County Board,MN,"ROBB, E. F. JR.",,1,,,,Tribune recap,0.91
+MN,Minneapolis Tribune,123402,1980,H,1,,MN,"ERDAHL, ARLEN",Republican,1,,1,,Tribune recap,0.93
+MN,Minneapolis Tribune,123402,1980,H,2,,MN,"HAGEDORN, TOM",Republican,1,,1,,Tribune recap,0.93
+MN,Minneapolis Tribune,123402,1980,H,3,,MN,"FRENZEL, BILL",Republican,1,,1,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1980,H,4,,MN,"VENTO, BRUCE",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1980,H,5,,MN,"SABO, MARTIN",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1980,H,6,,MN,"WEBER, VIN",Republican,1,,,,Tribune recap,0.92
+MN,Minneapolis Tribune,123402,1980,H,7,,MN,"WENSTROM, GENE",Democrat,1,,,,Tribune recap,0.92
+MN,Minneapolis Tribune,123402,1980,H,8,,MN,"OBERSTAR, JAMES",Democrat,1,1,,,Tribune recap,0.94
+MN,Minneapolis Tribune,123402,1980,PRESIDENT,,,MN,"CARTER, JIMMY",Democrat,1,1,,,Tribune favoring Jimmy Carter editorial,0.95
+MN,Minneapolis Tribune,123402,1980,SUPREME COURT,,,MN,"SCOTT, GEORGE M.",,1,,,,Tribune recap,0.91

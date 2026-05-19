@@ -1,0 +1,25 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+IA,Cedar Rapids Gazette,114900,1964,IA,AMENDMENT,,Iowa constitutional amendment - require future convention proposals be submitted to people,1,Important guarantee that voters get to approve convention output,0.95
+IA,Cedar Rapids Gazette,114900,1964,IA,LOCAL,,Linn County - At-large election of board of supervisors,1,Fairer balance; same population coverage; supervisors handle countywide matters,0.94
+IA,Cedar Rapids Gazette,114900,1966,IA,LOCAL,,Reapportionment - bipartisan commission for subdistricting,1,Reduce gerrymandering; objective approach,0.92
+IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Annual sessions of legislature,1,State govt is BIG business needing more constant attention,0.94
+IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Home rule for cities and towns,1,Both parties unqualified support,0.93
+IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Item veto for governor on appropriations,1,Both parties support,0.93
+IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Reapportionment - cut legislature to 150 max,1,Both parties unqualified support,0.93
+IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Legislative pay and expenses,1,Both parties support,0.93
+IA,Cedar Rapids Gazette,114900,1968,IA,LOCAL,,Cedar Rapids rent subsidy proposal,1,Federal funds for monthly rent supplements; saves city $100K,0.93
+IA,Cedar Rapids Gazette,114900,1970,IA,AMENDMENT,,Residency amendment - allow legislature to set residence period,1,Iowa needs flexible residency rules,0.93
+IA,Cedar Rapids Gazette,114900,1970,IA,AMENDMENT,,Single-member districts amendment,1,Each legislator from separate district,0.93
+IA,Cedar Rapids Gazette,114900,1970,IA,AMENDMENT,,County attorney - remove 2-year term limit,1,Allow legislature to extend to 4 years like other county officers,0.93
+IA,Cedar Rapids Gazette,114900,1972,IA,AMENDMENT,,Judiciary discipline - judicial commission action,1,Present procedures wholly inadequate,0.93
+IA,Cedar Rapids Gazette,114900,1972,IA,AMENDMENT,,4-year terms instead of 2 for legislature,1,More time for program planning,0.93
+IA,Cedar Rapids Gazette,114900,1972,IA,AMENDMENT,,Repeal lotteries constitutional ban,1,Existing provision has fostered ferment,0.93
+IA,Cedar Rapids Gazette,114900,1972,IA,LOCAL,,Cable TV proposal for Cedar Rapids,1,Single firm vendor will save costs,0.85
+IA,Cedar Rapids Gazette,114900,1972,IA,LOCAL,,County Home - $2.9M bond for new home,1,Aged inadequate; community ready,0.92
+IA,Cedar Rapids Gazette,114900,1974,IA,AMENDMENT,,Special-session method - allow legislature to call itself,1,Overcome holdback of balky governor,0.93
+IA,Cedar Rapids Gazette,114900,1974,IA,AMENDMENT,,School-fund equity - allow legislation on certain court fines,1,Open door to correcting unfairness,0.93
+IA,Cedar Rapids Gazette,114900,1974,IA,LOCAL,,Cedar Rapids $3M bond for new zoo,1,Prime civic asset; substantial cultural/educational improvement,0.94
+IA,Cedar Rapids Gazette,114900,1974,IA,LOCAL,,Cedar Rapids one-mill levy for zoo operation,1,Almost self-sustaining; actual levy expected only 1/20 mill,0.93
+IA,Cedar Rapids Gazette,114900,1978,IA,AMENDMENT,,County home rule constitutional amendment,1,Gives counties limited power similar to home-rule cities,0.95
+IA,Cedar Rapids Gazette,114900,1986,IA,AMENDMENT,,Iowa state printing amendment,1,OCR garbled - amendment topic from clip title,0.70
+IA,Cedar Rapids Gazette,114900,2008,IA,LOCAL,,Johnson County conservation bond - $20M over 20 years,0,Rework conservation bond proposal - lack of specifics; 20 years too long,0.93

@@ -1,0 +1,1477 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+WA,Seattle Times,149050,1962,H,7,,WA,"MAGNUSON, DON",Democrat,0,1,,,Times urged voters to defeat incumbent Don Magnuson,0.95
+WA,Seattle Times,149050,1962,H,7,,WA,"STINSON, K. W.",Republican,1,,,,Endorsed as alternate choice in 7th District; Times urged retiring incumbent Don Magnuson,0.90
+WA,Seattle Times,149050,1964,ATTORNEY GENERAL,,,WA,"O'CONNELL, JOHN J.",Democrat,1,1,,,Should be retained; performed ably,0.90
+WA,Seattle Times,149050,1964,AUDITOR,,,WA,"GRAHAM, R. V. (BOB)",Republican,1,,,,Commended for state auditor candidacy,0.85
+WA,Seattle Times,149050,1964,CNTY CLERK,,King,WA,"RENSCHLER, WALTER W.",,1,,,,Serves capably as King County clerk; should be retained,0.90
+WA,Seattle Times,149050,1964,CNTY COMM,1,King,WA,"O'BRIEN, JOHN",,1,,,,Endorsed as 1st District commissioner,0.90
+WA,Seattle Times,149050,1964,CNTY COMM,2,King,WA,"MUNRO, ED",,1,,,,Endorsed as 2nd District commissioner,0.90
+WA,Seattle Times,149050,1964,GOVERNOR,,,WA,"EVANS, DANIEL J.",Republican,1,,,,Endorsed; opposed re-election of Albert D. Rosellini for third term,0.95
+WA,Seattle Times,149050,1964,GOVERNOR,,,WA,"ROSELLINI, ALBERT D.",Democrat,0,1,,,Times opposed his re-election to third term,0.95
+WA,Seattle Times,149050,1964,H,,,WA,"ADAMS, BROCK",Democrat,1,,,,Commended for outstanding capabilities,0.85
+WA,Seattle Times,149050,1964,H,,,WA,"HANSEN, JULIA BUTLER",Democrat,1,,,,Endorsed for effective representation in US House,0.90
+WA,Seattle Times,149050,1964,H,,,WA,"HORAN, WALT",Republican,1,,,,Endorsed for effective representation in US House,0.90
+WA,Seattle Times,149050,1964,H,,,WA,"MAY, CATHERINE",Republican,1,,,,Endorsed for effective representation in US House,0.90
+WA,Seattle Times,149050,1964,H,,,WA,"TOLLEFSON, THOR C.",Republican,1,,,,Endorsed for effective representation in US House,0.90
+WA,Seattle Times,149050,1964,H,,,WA,"WESTLAND, JACK",Republican,1,,,,Endorsed for effective representation in US House,0.90
+WA,Seattle Times,149050,1964,H,1,,WA,"PELLY, THOMAS M.",Republican,1,,,,Endorsed for effective representation in US House,0.90
+WA,Seattle Times,149050,1964,H,7,,WA,"STINSON, K. W.",Republican,1,,,,Endorsed for effective representation in US House (7th District),0.90
+WA,Seattle Times,149050,1964,INSURANCE COMMISSIONER,,,WA,"KUECKELHAN, LEE I.",Republican,1,1,,,Should be retained; performed ably,0.90
+WA,Seattle Times,149050,1964,LAND COMMISSIONER,,,WA,"COLE, BERT",Democrat,1,1,,,Should be retained; performed ably,0.90
+WA,Seattle Times,149050,1964,LT GOVERNOR,,,WA,"CHERBERG, JOHN A.",Democrat,1,1,,,Should be retained; performed ably,0.90
+WA,Seattle Times,149050,1964,SEC OF STATE,,,WA,"KRAMER, A. L. (LUD)",Republican,1,,,,Endorsed; would restore public confidence in office,0.90
+WA,Seattle Times,149050,1964,SENATOR,,,WA,"JACKSON, HENRY M.",Democrat,1,1,,,Repeats primary-election endorsement; outstanding representation on international issues,0.95
+WA,Seattle Times,149050,1964,SHERIFF,,King,WA,"PORTER, JACK D.",,1,,,,Endorsed for sheriff,0.90
+WA,Seattle Times,149050,1964,TREASURER,,,WA,"ALEXANDER, EDWIN J.",Republican,1,,,,Commended for state treasurer candidacy,0.85
+WA,Seattle Times,149050,1966,ASSESSOR,,King,WA,"MORGAN, ALLEN B.",Democrat,1,,,,Times' recommended vote (King County Assessor),0.95
+WA,Seattle Times,149050,1966,AUDITOR,,King,WA,"MORRIS, ROBERT A.",Democrat,1,,,,Times' recommended vote (King County Auditor),0.95
+WA,Seattle Times,149050,1966,CNTY CLERK,,King,WA,"RENSCHLER, WALTER W.",Democrat,1,,,,Times' recommended vote (King County Clerk),0.95
+WA,Seattle Times,149050,1966,CNTY COMM,3,King,WA,"SPELLMAN, JOHN",Republican,1,,,,Times' recommended vote (King County Commissioner 3rd District),0.95
+WA,Seattle Times,149050,1966,DA/PROSECUTOR,,King,WA,"CARROLL, CHARLES O.",Republican,1,,,,Times' recommended vote (King County Prosecuting Attorney),0.95
+WA,Seattle Times,149050,1966,H,1,,WA,"PELLY, THOMAS M.",Republican,1,,,,Times' recommended vote,0.95
+WA,Seattle Times,149050,1966,H,2,,WA,"SMITH, EUGENE M.",Republican,1,,,,Times' recommended vote,0.95
+WA,Seattle Times,149050,1966,H,3,,WA,"HANSEN, JULIA BUTLER",Democrat,1,,,,Times' recommended vote,0.95
+WA,Seattle Times,149050,1966,H,4,,WA,"MAY, CATHERINE",Republican,1,,,,Times' recommended vote,0.95
+WA,Seattle Times,149050,1966,H,5,,WA,"FOLEY, THOMAS S.",Democrat,1,,,,Times' recommended vote,0.95
+WA,Seattle Times,149050,1966,H,6,,WA,"MAHLER, GEORGE",Republican,1,,,,Times' recommended vote,0.95
+WA,Seattle Times,149050,1966,H,7,,WA,"ADAMS, BROCK",Democrat,1,,,,Times' recommended vote,0.95
+WA,Seattle Times,149050,1966,JUDGE,,King,WA,"SOWERS, LEO M.",Republican,1,,,,Times' recommended vote (King County Coroner),0.85
+WA,Seattle Times,149050,1966,SHERIFF,,King,WA,"PORTER, JACK D.",Democrat,1,,,,Times' recommended vote (King County Sheriff),0.95
+WA,Seattle Times,149050,1966,TREASURER,,King,WA,"WILLIAMS, M. J. R. (MEL)",Democrat,1,,,,Times' recommended vote (King County Treasurer),0.95
+WA,Seattle Times,149050,1968,ATTORNEY GENERAL,,,WA,"GORTON, SLADE",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,AUDITOR,,,WA,"GRAHAM, R. V.",Democrat,1,,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1968,CNTY COMM,1,King,WA,"O'BRIEN, JOHN",Republican,1,,,,Times' Advisory Ballot endorsement (King County Commissioner 1st District),0.85
+WA,Seattle Times,149050,1968,CNTY COMM,2,King,WA,"FORSYTHE, THOMAS M.",Republican,1,,,,Times' Advisory Ballot endorsement (King County Commissioner 2nd District),0.85
+WA,Seattle Times,149050,1968,GOVERNOR,,,WA,"EVANS, DANIEL J.",Republican,1,,1,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,H,1,,WA,"PELLY, THOMAS M.",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,H,2,,WA,"MEEDS, LLOYD",Democrat,1,,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1968,H,3,,WA,"HANSEN, JULIA BUTLER",Democrat,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,H,4,,WA,"MAY, CATHERINE",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,H,5,,WA,"FOLEY, THOMAS S.",Democrat,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,H,6,,WA,"HICKS, FLOYD V.",Democrat,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,H,7,,WA,"ADAMS, BROCK",Democrat,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,INSURANCE COMMISSIONER,,,WA,"SULLIVAN, GERALD",Republican,1,,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1968,JUDGE,,King,WA,"SMITH, HORTON",,1,,,,"Judge Superior Court, Position No. 3 (Non-Partisan)",0.85
+WA,Seattle Times,149050,1968,JUDGE,,King,WA,"STOKES, CHARLES M.",,1,,,,Times recommended writing in name of appointed judge for Seattle Justice Court District,0.80
+WA,Seattle Times,149050,1968,LAND COMMISSIONER,,,WA,"GREENE, RICHARD A. C.",Republican,1,,,,Times' Advisory Ballot endorsement (Commissioner of Public Lands),0.85
+WA,Seattle Times,149050,1968,LT GOVERNOR,,,WA,"CHERBERG, JOHN A.",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,PRESIDENT,,,WA,"NIXON, RICHARD M.",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,SEC OF STATE,,,WA,"KRAMER, A. LUDLOW",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,SENATOR,,,WA,"MAGNUSON, WARREN G.",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1968,TREASURER,,,WA,"O'BRIEN, ROBERT S.",Democrat,1,,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1970,DA/PROSECUTOR,,King,WA,"BAYLEY, CHRISTOPHER T.",Republican,1,,,,Times' Advisory Ballot endorsement; opposed Carroll. King County Prosecuting Attorney,0.95
+WA,Seattle Times,149050,1970,H,1,,WA,"PELLY, THOMAS M.",Republican,1,,,,Times' Advisory Ballot endorsement (1st District),0.90
+WA,Seattle Times,149050,1970,H,2,,WA,"MEEDS, LLOYD",Democrat,1,,,,Times' Advisory Ballot endorsement (2nd District),0.90
+WA,Seattle Times,149050,1970,H,3,,WA,"HANSEN, JULIA BUTLER",Democrat,1,,,,Times' Advisory Ballot endorsement (3rd District),0.90
+WA,Seattle Times,149050,1970,H,4,,WA,"MAY, CATHERINE",Republican,1,,,,Times' Advisory Ballot endorsement (4th District),0.90
+WA,Seattle Times,149050,1970,H,5,,WA,"FOLEY, THOMAS S.",Democrat,1,,,,Times' Advisory Ballot endorsement (5th District),0.90
+WA,Seattle Times,149050,1970,H,6,,WA,"HICKS, FLOYD V.",Democrat,1,,,,Times' Advisory Ballot endorsement (6th District),0.90
+WA,Seattle Times,149050,1970,H,7,,WA,"ADAMS, BROCK",Democrat,1,,,,Times' Advisory Ballot endorsement (7th District),0.90
+WA,Seattle Times,149050,1970,SENATOR,,,WA,"JACKSON, HENRY M.",Democrat,1,1,,,Times' Advisory Ballot endorsement; commended for diligence and integrity,0.95
+WA,Seattle Times,149050,1972,ATTORNEY GENERAL,,,WA,"GORTON, SLADE",Republican,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1972,AUDITOR,,,WA,"GRAHAM, R. V. (BOB)",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1972,GOVERNOR,,,WA,"EVANS, DANIEL J.",Republican,1,,1,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1972,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,,,Times' Advisory Ballot endorsement (1st District),0.90
+WA,Seattle Times,149050,1972,H,2,,WA,"MEEDS, LLOYD",Democrat,1,,,,Times' Advisory Ballot endorsement (2nd District),0.90
+WA,Seattle Times,149050,1972,H,3,,WA,"HANSEN, JULIA BUTLER",Democrat,1,,,,Times' Advisory Ballot endorsement (3rd District),0.90
+WA,Seattle Times,149050,1972,H,4,,WA,"BLEDSOE, STEWART",Republican,1,,,,Times' Advisory Ballot endorsement (4th District),0.85
+WA,Seattle Times,149050,1972,H,5,,WA,"FOLEY, THOMAS S.",Democrat,1,,,,Times' Advisory Ballot endorsement (5th District),0.90
+WA,Seattle Times,149050,1972,H,6,,WA,"HICKS, FLOYD V.",Democrat,1,,,,Times' Advisory Ballot endorsement (6th District),0.90
+WA,Seattle Times,149050,1972,H,7,,WA,"ADAMS, BROCK",Democrat,1,,,,Times' Advisory Ballot endorsement (7th District),0.90
+WA,Seattle Times,149050,1972,JUDGE,,King,WA,"MCDONELL, LAWRENCE K.",,1,,,,King County Superior Court Position No. 6,0.85
+WA,Seattle Times,149050,1972,JUDGE,,King,WA,"SEVER, LLOYD",,1,,,,King County Superior Court Position No. 18,0.85
+WA,Seattle Times,149050,1972,JUDGE,,King,WA,"STEERE, PETER E.",,1,,,,King County Superior Court Position No. 1,0.85
+WA,Seattle Times,149050,1972,JUDGE,,King,WA,"TURNER, THEODORE S.",,1,,,,King County Superior Court Position No. 2,0.85
+WA,Seattle Times,149050,1972,LAND COMMISSIONER,,,WA,"COLE, BERT",Democrat,1,1,,,Times' Advisory Ballot endorsement (Commissioner of Public Lands),0.90
+WA,Seattle Times,149050,1972,LT GOVERNOR,,,WA,"CHERBERG, JOHN A.",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1972,PRESIDENT,,,WA,"NIXON, RICHARD M.",Republican,1,,1,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1972,SEC OF STATE,,,WA,"KRAMER, A. LUDLOW",Republican,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1972,SUPERINTENDENT,,,WA,"MARTIN, JAMES S.",,1,,,,State Superintendent of Public Instruction,0.85
+WA,Seattle Times,149050,1972,VICE PRESIDENT,,,WA,"AGNEW, SPIRO T.",Republican,1,,1,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1974,DA/PROSECUTOR,,King,WA,"BAYLEY, CHRISTOPHER T.",Republican,1,1,,,King County Prosecuting Attorney,0.90
+WA,Seattle Times,149050,1974,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,Times' Advisory Ballot endorsement (1st District),0.90
+WA,Seattle Times,149050,1974,H,2,,WA,"REED, RONALD C.",Republican,1,,,,Times' Advisory Ballot endorsement (2nd District),0.85
+WA,Seattle Times,149050,1974,H,3,,WA,"BONKER, DON",Democrat,1,,,,Times' Advisory Ballot endorsement (3rd District),0.90
+WA,Seattle Times,149050,1974,H,4,,WA,"MCCORMACK, MIKE",Democrat,1,,,,Times' Advisory Ballot endorsement (4th District),0.90
+WA,Seattle Times,149050,1974,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,Times' Advisory Ballot endorsement (5th District),0.90
+WA,Seattle Times,149050,1974,H,6,,WA,"NALLEY, GEORGE",Democrat,1,,,,Times' Advisory Ballot endorsement (6th District) [Party corrected from Republican to Democrat per QA spot check],0.85
+WA,Seattle Times,149050,1974,SENATOR,,,WA,"MAGNUSON, WARREN G.",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1974,STATE REP,1,,WA,"KISKADDON, BILL",Republican,1,,,,1st District (LD) Position 2,0.85
+WA,Seattle Times,149050,1974,STATE REP,10,,WA,"FORTSON, ELEANOR",Democrat,1,,,,10th District Position 2,0.85
+WA,Seattle Times,149050,1974,STATE REP,10,,WA,"WILSON, SIMEON R.",Republican,1,,,,10th District Position 1,0.85
+WA,Seattle Times,149050,1974,STATE REP,21,,WA,"NELSON, GARY",Republican,1,,,,21st District Position 2,0.85
+WA,Seattle Times,149050,1974,STATE REP,30,,WA,"CHARNELL, SHIRLEY",Republican,1,,,,30th District Position 2,0.85
+WA,Seattle Times,149050,1974,STATE REP,30,,WA,"WARNKE, FRANK J.",Democrat,1,,,,30th District Position 1,0.85
+WA,Seattle Times,149050,1974,STATE REP,34,,WA,"LECKENBY, WILLIAM",Republican,1,,,,34th District Position 1,0.85
+WA,Seattle Times,149050,1974,STATE REP,38,,WA,"KING, RICHARD",Democrat,1,,,,38th District Position 1,0.85
+WA,Seattle Times,149050,1974,STATE REP,43,,WA,"PETERSON, WARREN",Republican,1,,,,43rd District Position 2,0.85
+WA,Seattle Times,149050,1974,STATE REP,44,,WA,"CHARNLEY, DONN",Democrat,1,,,,44th District Position 1,0.85
+WA,Seattle Times,149050,1974,STATE REP,44,,WA,"HAGEN, WES",Republican,1,,,,44th District Position 2,0.85
+WA,Seattle Times,149050,1974,STATE REP,45,,WA,"CHANDLER, ROD",Republican,1,,,,45th District Position 1,0.85
+WA,Seattle Times,149050,1974,STATE REP,45,,WA,"MATTHEWS, GARY LEE",Republican,1,,,,45th District Position 2,0.85
+WA,Seattle Times,149050,1974,STATE SENATOR,1,,WA,"BROWN, ARTHUR C.",Republican,1,,,,1st District (LD),0.85
+WA,Seattle Times,149050,1974,STATE SENATOR,21,,WA,"GOULD, SUE",Republican,1,,,,21st District,0.85
+WA,Seattle Times,149050,1974,STATE SENATOR,30,,WA,"VON REICHBAUER, PETER",Republican,1,,,,30th District,0.85
+WA,Seattle Times,149050,1974,STATE SENATOR,34,,WA,"BUFFINGTON, NANCY",Republican,1,,,,34th District,0.85
+WA,Seattle Times,149050,1974,STATE SENATOR,38,,WA,"GARNER, JOHN NANCE",Republican,1,,,,38th District,0.85
+WA,Seattle Times,149050,1974,STATE SENATOR,43,,WA,"GOODLOE, RICHARD C.",Republican,1,,,,43rd District,0.85
+WA,Seattle Times,149050,1974,STATE SENATOR,44,,WA,"NORTH, LOIS",Republican,1,,,,44th District,0.85
+WA,Seattle Times,149050,1974,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",Republican,1,,,,45th District,0.85
+WA,Seattle Times,149050,1974,SUPREME COURT,,,WA,"HOROWITZ, CHARLES",,1,,,,State Supreme Court Position 1,0.85
+WA,Seattle Times,149050,1974,TREASURER,,Seattle,WA,"KELLY, JOHN W.",,1,,,,City Treasurer (Seattle),0.85
+WA,Seattle Times,149050,1976,ATTORNEY GENERAL,,,WA,"GORTON, SLADE",Republican,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1976,AUDITOR,,,WA,"GRAHAM, ROBERT V.",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1976,GOVERNOR,,,WA,"SPELLMAN, JOHN D.",Republican,1,,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1976,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,Times' Advisory Ballot endorsement (1st District),0.90
+WA,Seattle Times,149050,1976,H,2,,WA,"GARNER, JOHN NANCE",Republican,1,,,,Times' Advisory Ballot endorsement (2nd District),0.85
+WA,Seattle Times,149050,1976,H,3,,WA,"ELHART, CHUCK",Republican,1,,,,Times' Advisory Ballot endorsement (3rd District),0.85
+WA,Seattle Times,149050,1976,H,4,,WA,"MCCORMACK, MIKE",Democrat,1,1,,,Times' Advisory Ballot endorsement (4th District),0.85
+WA,Seattle Times,149050,1976,H,5,,WA,"FOLEY, THOMAS S.",Democrat,1,1,,,Times' Advisory Ballot endorsement (5th District),0.90
+WA,Seattle Times,149050,1976,H,6,,WA,"DICKS, NORMAN D.",Democrat,1,,,,Times' Advisory Ballot endorsement (6th District),0.90
+WA,Seattle Times,149050,1976,H,7,,WA,"ADAMS, BROCK",Democrat,1,1,,,Times' Advisory Ballot endorsement (7th District),0.90
+WA,Seattle Times,149050,1976,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD G.",Republican,1,,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1976,JUDGE,,King,WA,"CUSHING, EUGENE G.",,1,,,,King County Superior Court Position 19,0.85
+WA,Seattle Times,149050,1976,LAND COMMISSIONER,,,WA,"COLE, BERT L.",Democrat,1,1,,,Times' Advisory Ballot endorsement (Lands Commissioner),0.90
+WA,Seattle Times,149050,1976,LT GOVERNOR,,,WA,"CHERBERG, JOHN A.",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1976,PRESIDENT,,,WA,"FORD, GERALD R.",Republican,1,,1,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1976,SEC OF STATE,,,WA,"CHAPMAN, BRUCE K.",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1976,SENATOR,,,WA,"JACKSON, HENRY M.",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1976,SUPREME COURT,,,WA,"DOLLIVER, JAMES M.",,1,,,,State Supreme Court Position 4,0.85
+WA,Seattle Times,149050,1976,TREASURER,,,WA,"O'BRIEN, ROBERT S.",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1976,VICE PRESIDENT,,,WA,"DOLE, ROBERT",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1978,CITY COUNCIL,,Seattle,WA,"RICE, NORMAN",,1,,,,Seattle City Council,0.85
+WA,Seattle Times,149050,1978,DA/PROSECUTOR,,King,WA,"MALENG, NORM",Republican,1,,,,King County Prosecutor,0.90
+WA,Seattle Times,149050,1978,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,Times' Advisory Ballot endorsement (1st District),0.90
+WA,Seattle Times,149050,1978,H,2,,WA,"GARNER, JOHN N.",Republican,1,,,,Times' Advisory Ballot endorsement (2nd District),0.85
+WA,Seattle Times,149050,1978,H,3,,WA,"BONKER, DON",Democrat,1,1,,,Times' Advisory Ballot endorsement (3rd District),0.90
+WA,Seattle Times,149050,1978,H,4,,WA,"MCCORMACK, MIKE",Democrat,1,1,,,Times' Advisory Ballot endorsement (4th District),0.85
+WA,Seattle Times,149050,1978,H,5,,WA,"FOLEY, THOMAS",Democrat,1,1,,,Times' Advisory Ballot endorsement (5th District),0.90
+WA,Seattle Times,149050,1978,H,6,,WA,"DICKS, NORMAN",Democrat,1,1,,,Times' Advisory Ballot endorsement (6th District),0.90
+WA,Seattle Times,149050,1978,H,7,,WA,"CUNNINGHAM, JACK",Republican,1,,1,,Times' Advisory Ballot endorsement (7th District),0.85
+WA,Seattle Times,149050,1978,JUDGE,,Seattle,WA,"DARRAH, JOHN",,1,,,,Seattle Municipal Court Position 2,0.85
+WA,Seattle Times,149050,1978,JUDGE,,Seattle,WA,"LEWIS, BILL",,1,,,,Seattle Justice Court Position 1,0.85
+WA,Seattle Times,149050,1978,JUDGE,,King,WA,"PEKELIS, ROSSELLE",,1,,,,King County Superior Court,0.85
+WA,Seattle Times,149050,1978,JUDGE,,Seattle,WA,"RITCHIE, JOHN G.",,1,,,,Seattle Justice Court Position 5,0.85
+WA,Seattle Times,149050,1978,JUDGE,,Seattle,WA,"SCHAEFER, STEPHEN",,1,,,,Seattle Municipal Court Position 1,0.85
+WA,Seattle Times,149050,1978,STATE REP,1,,WA,"BENDER, RICK",Democrat,1,,,,1st District House Position 2,0.85
+WA,Seattle Times,149050,1978,STATE REP,1,,WA,"GRUGER, AUDREY",Democrat,1,,,,1st District House Position 1,0.85
+WA,Seattle Times,149050,1978,STATE REP,21,,WA,"NELSON, GARY",Republican,1,,,,21st District House Position 2,0.85
+WA,Seattle Times,149050,1978,STATE REP,21,,WA,"SPRAGUE, WALT",Republican,1,,,,21st District House Position 1,0.85
+WA,Seattle Times,149050,1978,STATE REP,31,,WA,"KNUTZEN, KAREN",Republican,1,,,,31st District House Position 2,0.85
+WA,Seattle Times,149050,1978,STATE REP,31,,WA,"VALLE, GEORGETTE",Democrat,1,,,,31st District House Position 1,0.85
+WA,Seattle Times,149050,1978,STATE REP,34,,WA,"ADDISON, BRUCE",Republican,1,,,,34th District House Position 2,0.85
+WA,Seattle Times,149050,1978,STATE REP,34,,WA,"PRUITT, PAUL",Democrat,1,,,,34th District House Position 2 (alternate listing),0.70
+WA,Seattle Times,149050,1978,STATE REP,34,,WA,"TALMADGE, PHIL",Democrat,1,,,,34th District House Position 1,0.85
+WA,Seattle Times,149050,1978,STATE REP,35,,WA,"LUX, GENE",Democrat,1,,,,35th District House Position 2,0.85
+WA,Seattle Times,149050,1978,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,36th District House Position 1,0.85
+WA,Seattle Times,149050,1978,STATE REP,36,,WA,"TALLER, JOE",Republican,1,,,,36th District House Position 2,0.85
+WA,Seattle Times,149050,1978,STATE REP,37,,WA,"ENG, JOHN",Democrat,1,,,,37th District House Position 1 (or John Gilmore R),0.70
+WA,Seattle Times,149050,1978,STATE REP,37,,WA,"GILMORE, JOHN",Republican,1,,,,37th District House Position 1 (alternate to John Eng D),0.70
+WA,Seattle Times,149050,1978,STATE REP,38,,WA,"KING, RICHARD",Democrat,1,,,,38th District House Position 1,0.85
+WA,Seattle Times,149050,1978,STATE REP,43,,WA,"BURNS, WILLIAM",Democrat,1,,,,43rd District House Position 2,0.85
+WA,Seattle Times,149050,1978,STATE REP,43,,WA,"PETERSON, WARREN",Republican,1,,,,43rd District House Position 1,0.85
+WA,Seattle Times,149050,1978,STATE REP,44,,WA,"CHARNLEY, DONN",Democrat,1,,,,44th District House Position 1,0.85
+WA,Seattle Times,149050,1978,STATE REP,44,,WA,"TUPPER, STEVE",Republican,1,,,,44th District House Position 2,0.85
+WA,Seattle Times,149050,1978,STATE REP,45,,WA,"TEUTSCH, DELORES E.",Republican,1,,,,45th District House Position 2,0.85
+WA,Seattle Times,149050,1978,STATE SENATOR,21,,WA,"GOULD, SUE",Republican,1,,,,21st District Senator,0.85
+WA,Seattle Times,149050,1978,STATE SENATOR,30,,WA,"VON REICHBAUER, PETER",Democrat,1,,,,30th District Senator,0.85
+WA,Seattle Times,149050,1978,STATE SENATOR,31,,WA,"KNAPP, IRIS",Republican,1,,,,31st District Senator,0.85
+WA,Seattle Times,149050,1978,STATE SENATOR,32,,WA,"DANIELS, TED",Republican,1,,,,32nd District Senator,0.85
+WA,Seattle Times,149050,1978,STATE SENATOR,35,,WA,"RIDDER, RUTHE",Democrat,1,,,,35th District Senator,0.85
+WA,Seattle Times,149050,1978,STATE SENATOR,36,,WA,"MOORE, RAY",Democrat,1,,,,36th District Senator (alternate endorsement to John Murray),0.70
+WA,Seattle Times,149050,1978,STATE SENATOR,36,,WA,"MURRAY, JOHN",Republican,1,,,,36th District Senator (or Ray Moore D),0.70
+WA,Seattle Times,149050,1978,STATE SENATOR,43,,WA,"SANDSTROM, ANN",Republican,1,,,,43rd District Senator,0.85
+WA,Seattle Times,149050,1978,STATE SENATOR,44,,WA,"NORTH, LOIS",Republican,1,,,,44th District Senator,0.85
+WA,Seattle Times,149050,1978,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",Republican,1,,,,45th District Senator,0.85
+WA,Seattle Times,149050,1978,SUPREME COURT,,,WA,"HOLMAN, FRANCIS E.",,1,,,,State Supreme Court,0.85
+WA,Seattle Times,149050,1980,ATTORNEY GENERAL,,,WA,"EIKENBERRY, KENNETH",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1980,AUDITOR,,,WA,"GRAHAM, ROBERT",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1980,GOVERNOR,,,WA,"SPELLMAN, JOHN",Republican,1,,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1980,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,Times' Advisory Ballot endorsement (1st District),0.90
+WA,Seattle Times,149050,1980,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,Times' Advisory Ballot endorsement (2nd District),0.85
+WA,Seattle Times,149050,1980,H,3,,WA,"BONKER, DON",Democrat,1,1,,,Times' Advisory Ballot endorsement (3rd District),0.90
+WA,Seattle Times,149050,1980,H,4,,WA,"MCCORMACK, MIKE",Democrat,1,1,,,Times' Advisory Ballot endorsement (4th District),0.85
+WA,Seattle Times,149050,1980,H,5,,WA,"FOLEY, THOMAS S.",Democrat,1,1,,,Times' Advisory Ballot endorsement (5th District),0.90
+WA,Seattle Times,149050,1980,H,6,,WA,"DICKS, NORMAN",Democrat,1,1,,,Times' Advisory Ballot endorsement (6th District),0.90
+WA,Seattle Times,149050,1980,H,7,,WA,"DUNLAP, RON",Republican,1,,,,Times' Advisory Ballot endorsement (7th District),0.85
+WA,Seattle Times,149050,1980,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD",Republican,1,1,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1980,LAND COMMISSIONER,,,WA,"BOYLE, BRIAN",Republican,1,,,,Lands Commissioner,0.85
+WA,Seattle Times,149050,1980,LT GOVERNOR,,,WA,"CHERBERG, JOHN",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1980,PRESIDENT,,,WA,"REAGAN, RONALD",Republican,1,,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1980,SEC OF STATE,,,WA,"MUNRO, RALPH",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1980,SENATOR,,,WA,"GORTON, SLADE",Republican,1,,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1980,STATE REP,1,,WA,"BENDER, RICK",Democrat,1,,,,1st District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,1,,WA,"GARRETT, AVERY",Democrat,1,,,,1st District House Position 2,0.70
+WA,Seattle Times,149050,1980,STATE REP,1,,WA,"GRUGER, AUDREY",Democrat,1,,,,1st District House Position 1 (alternate),0.70
+WA,Seattle Times,149050,1980,STATE REP,1,,WA,"KISKADDON, WILLIAM",Republican,1,,,,1st District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,11,,WA,"JAMES, HARRY",Democrat,1,,,,11th District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,11,,WA,"PATRICK, MIKE",Republican,1,,,,11th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,21,,WA,"NELSON, GARY",Republican,1,,,,21st District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,21,,WA,"SPRAGUE, WALT",Republican,1,,,,21st District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,23,,WA,"SCHMIDT, KAREN",Republican,1,,,,23rd District House Position 2 (alternate to Rick Smith),0.70
+WA,Seattle Times,149050,1980,STATE REP,23,,WA,"SMITH, RICK",Republican,1,,,,23rd District House Position 2 (or Karen Schmidt),0.70
+WA,Seattle Times,149050,1980,STATE REP,25,,WA,"GRIMM, DAN",Democrat,1,,,,25th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,25,,WA,"WALK, GEORGE",Republican,1,,,,25th District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,30,,WA,"EBERLE, BOB",Republican,1,,,,30th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,30,,WA,"WARNKE, FRANK",Democrat,1,,,,30th District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,31,,WA,"JOVANOVICH, JOHN",Republican,1,,,,31st District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,31,,WA,"VALLE, GEORGETTE",Democrat,1,,,,31st District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,,,,32nd District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,32,,WA,"NELSON, DICK",Democrat,1,,,,32nd District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,33,,WA,"BARNES, RICHARD",Republican,1,,,,33rd District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,,,,33rd District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,34,,WA,"ADDISON, BRUCE",Republican,1,,,,34th District House Position 1 (or Liz Pierini D),0.70
+WA,Seattle Times,149050,1980,STATE REP,34,,WA,"PIERINI, LIZ",Democrat,1,,,,34th District House Position 1 (alternate to Bruce Addison),0.70
+WA,Seattle Times,149050,1980,STATE REP,34,,WA,"PRUITT, PAUL",Democrat,1,,,,34th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,35,,WA,"LUX, EUGENE",Democrat,1,,,,35th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,36th District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,36,,WA,"TALLER, JOE",Republican,1,,,,36th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,37,,WA,"FLETCHER, PAUL",Republican,1,,,,37th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,39,,WA,"MITCHELL, JIM",Republican,1,,,,39th District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,39,,WA,"SCOTT, GARY",Republican,1,,,,39th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,41,,WA,"CANTU, EMILIO",Republican,1,,,,41st District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,43,,WA,"BURNS, BILL",Democrat,1,,,,43rd District House Position 2 (alternate to Symone Scales),0.70
+WA,Seattle Times,149050,1980,STATE REP,43,,WA,"RINEHART, NITA",Democrat,1,,,,43rd District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,43,,WA,"SCALES, SYMONE",Republican,1,,,,43rd District House Position 2 (or Bill Burns),0.70
+WA,Seattle Times,149050,1980,STATE REP,44,,WA,"LYON, JIM",Democrat,1,,,,44th District House Position 1 (or Nancy Rust),0.70
+WA,Seattle Times,149050,1980,STATE REP,44,,WA,"RUST, NANCY",Democrat,1,,,,44th District House Position 1 (alternate to Jim Lyon),0.70
+WA,Seattle Times,149050,1980,STATE REP,44,,WA,"TUPPER, STEVE",Republican,1,,,,44th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,45,,WA,"CHANDLER, ROD",Republican,1,,,,45th District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,45,,WA,"TEUTSCH, DELORES",Republican,1,,,,45th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,46,,WA,"ELLIS, WILLIAM",Republican,1,,,,46th District House Position 2,0.85
+WA,Seattle Times,149050,1980,STATE REP,46,,WA,"GREENGO, IRV",Republican,1,,,,46th District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE REP,47,,WA,"SHERMAN, MARION",Democrat,1,,,,47th District House Position 1,0.85
+WA,Seattle Times,149050,1980,STATE SENATOR,11,,WA,"SHINPOCH, A. N.",Democrat,1,,,,11th District Senator,0.85
+WA,Seattle Times,149050,1980,STATE SENATOR,23,,WA,"CRASWELL, ELLEN",Republican,1,,,,23rd District Senator,0.85
+WA,Seattle Times,149050,1980,STATE SENATOR,39,,WA,"COUNTRYMAN, LAWRENCE",Republican,1,,,,39th District Senator,0.85
+WA,Seattle Times,149050,1980,STATE SENATOR,44,,WA,"CHARNLEY, DONN",Democrat,1,,,,44th District Senator,0.85
+WA,Seattle Times,149050,1980,TREASURER,,,WA,"O'BRIEN, ROBERT",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1980,VICE PRESIDENT,,,WA,"BUSH, GEORGE",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1982,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,Times' Advisory Ballot endorsement (1st District),0.90
+WA,Seattle Times,149050,1982,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,Times' Advisory Ballot endorsement (2nd District),0.90
+WA,Seattle Times,149050,1982,H,3,,WA,"BONKER, DON",Democrat,1,1,,,Times' Advisory Ballot endorsement (3rd District),0.90
+WA,Seattle Times,149050,1982,H,6,,WA,"DICKS, NORMAN",Democrat,1,1,,,Times' Advisory Ballot endorsement (6th District),0.90
+WA,Seattle Times,149050,1982,H,8,,WA,"CHANDLER, ROD",Republican,1,,,,Times' Advisory Ballot endorsement (8th District),0.90
+WA,Seattle Times,149050,1982,JUDGE,,Seattle,WA,"KILLIEN, PHILIP Y.",,1,,,,Seattle District Court Judge Position 4,0.85
+WA,Seattle Times,149050,1982,JUDGE,,Seattle,WA,"RITCHIE, JOHN G.",,1,,,,Seattle District Court Judge Position 1,0.85
+WA,Seattle Times,149050,1982,JUDGE,,Seattle,WA,"WESLEY, JOSEPH",,1,,,,Seattle District Court Judge Position 3,0.85
+WA,Seattle Times,149050,1982,SENATOR,,,WA,"JACKSON, HENRY M.",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1982,STATE REP,1,,WA,"CHARNLEY, DONN",Democrat,1,,,,1st District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,1,,WA,"RUST, NANCY",Democrat,1,,,,1st District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,11,,WA,"GARRETT, AVERY",Democrat,1,,,,11th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,11,,WA,"LUX, GENE",Democrat,1,,,,11th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,30,,WA,"BROUGH, JEAN M.",Republican,1,,,,30th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,30,,WA,"SCHOON, DICK",Republican,1,,,,30th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,31,,WA,"CRANE, ERNEST",Republican,1,,,,31st District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,31,,WA,"TODD, MIKE",Democrat,1,,,,31st District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,,,,32nd District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,32,,WA,"NELSON, DICK",Democrat,1,,,,32nd District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,33,,WA,"BARNES, DICK",Republican,1,,,,33rd District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,,,,33rd District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,34,,WA,"ADDISON, BRUCE",Republican,1,,,,34th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,34,,WA,"PRUITT, PAUL",Democrat,1,,,,34th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,36,,WA,"ARMSTRONG, SETH",Democrat,1,,,,36th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,36th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,,,,37th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,37,,WA,"O'BRIEN, JOHN",Democrat,1,,,,37th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,41,,WA,"CANTU, EMILIO",Republican,1,,,,41st District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,41,,WA,"ERXLEBEN, WILLIAM",Republican,1,,,,41st District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,43,,WA,"BURNS, WILLIAM",Democrat,1,,,,43rd District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,44,,WA,"KING, PAUL",Republican,1,,,,44th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,44,,WA,"SANDAHL, BONNIE",Republican,1,,,,44th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,45,,WA,"BETROZOFF, JOHN",Republican,1,,,,45th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,,,,45th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,46,,WA,"ELLIS, WILLIAM",Republican,1,,,,46th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,46,,WA,"ROBINSON, CHARLES",Republican,1,,,,46th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,47,,WA,"PATRICK, MIKE",Republican,1,,,,47th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE REP,47,,WA,"SHERMAN, MARION",Democrat,1,,,,47th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,48,,WA,"MCDONALD, DAN",Republican,1,,,,48th District House Position 1,0.85
+WA,Seattle Times,149050,1982,STATE REP,48,,WA,"SANDERS, PAUL",Republican,1,,,,48th District House Position 2,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,30,,WA,"VON REICHBAUER, PETER",Republican,1,,,,30th District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,31,,WA,"WARNKE, FRANK",Democrat,1,,,,31st District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,32,,WA,"WILLIAMS, AL",Democrat,1,,,,32nd District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,33,,WA,"LEE, ELEANOR",Republican,1,,,,33rd District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,34,,WA,"TALMADGE, PHIL",Democrat,1,,,,34th District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,36,,WA,"MOORE, RAY",Democrat,1,,,,36th District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,37,,WA,"FLEMING, GEORGE",Democrat,1,,,,37th District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,44,,WA,"BENDER, RICK",Democrat,1,,,,44th District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",Republican,1,,,,45th District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,46,,WA,"RINEHART, NITA",Democrat,1,,,,46th District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,47,,WA,"PULLEN, KENT",Republican,1,,,,47th District Senator,0.85
+WA,Seattle Times,149050,1982,STATE SENATOR,48,,WA,"JONES, JACK",Republican,1,,,,48th District Senator,0.85
+WA,Seattle Times,149050,1984,ATTORNEY GENERAL,,,WA,"EIKENBERRY, KEN",Republican,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1984,AUDITOR,,,WA,"GRAHAM, ROBERT",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1984,GOVERNOR,,,WA,"SPELLMAN, JOHN",Republican,1,,1,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1984,H,1,,WA,"MILLER, JOHN",Republican,1,,,,Times' Advisory Ballot endorsement (1st District),0.90
+WA,Seattle Times,149050,1984,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,Times' Advisory Ballot endorsement (2nd District),0.90
+WA,Seattle Times,149050,1984,H,3,,WA,"BONKER, DON",Democrat,1,1,,,Times' Advisory Ballot endorsement (3rd District),0.90
+WA,Seattle Times,149050,1984,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,Times' Advisory Ballot endorsement (6th District),0.90
+WA,Seattle Times,149050,1984,H,7,,WA,"LOWRY, MIKE",Democrat,1,1,,,Times' Advisory Ballot endorsement (7th District),0.90
+WA,Seattle Times,149050,1984,H,8,,WA,"CHANDLER, ROD",Republican,1,,1,,Times' Advisory Ballot endorsement (8th District),0.90
+WA,Seattle Times,149050,1984,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD",Republican,1,1,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1984,JUDGE,,King,WA,"ELLINGTON, ANNE",,1,,,,King County Superior Court,0.85
+WA,Seattle Times,149050,1984,LAND COMMISSIONER,,,WA,"BOYLE, BRIAN",Republican,1,,,,Lands Commissioner,0.85
+WA,Seattle Times,149050,1984,LT GOVERNOR,,,WA,"CHERBERG, JOHN",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1984,PRESIDENT,,,WA,"REAGAN, RONALD",Republican,1,,1,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1984,SEC OF STATE,,,WA,"MUNRO, RALPH",Republican,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1984,STATE REP,1,,WA,"COLE, GRACE",Democrat,1,,,,1st District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,1,,WA,"RUST, NANCY",Democrat,1,1,,,1st District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,11,,WA,"LEONARD, JUNE",Democrat,1,,,,11th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,11,,WA,"LUX, GENE",Democrat,1,1,,,11th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,30,,WA,"BROUGH, JEAN M.",Republican,1,1,,,30th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,30,,WA,"SCHOON, DICK",Republican,1,1,,,30th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,31,,WA,"CRANE, ERNEST",Republican,1,1,,,31st District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,31,,WA,"TODD, MIKE",Democrat,1,1,,,31st District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,1,,,32nd District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,32,,WA,"NELSON, R. P.",Democrat,1,1,,,32nd District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,33,,WA,"BARNES, RICHARD",Republican,1,1,,,33rd District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,1,,,33rd District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,34,,WA,"ADDISON, BRUCE",Republican,1,1,,,34th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,34,,WA,"CARLSON, JOHN",Republican,1,,,,34th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,36,,WA,"ARMSTRONG, SETH",Democrat,1,1,,,36th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,36th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,1,,,37th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,37,,WA,"O'BRIEN, JOHN",Democrat,1,1,,,37th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,41,,WA,"MAY, FRED",Republican,1,,,,41st District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,41,,WA,"SHERMAN, KAREN",Democrat,1,,,,41st District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,43,,WA,"WINEBERRY, JESSE",Democrat,1,,,,43rd District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,44,,WA,"KING, PAUL",Republican,1,,,,44th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,44,,WA,"LONG, JEANINE",Republican,1,1,,,44th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,45,,WA,"BETROZOFF, JOHN",Republican,1,1,,,45th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,1,,,45th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,46,,WA,"APPLEWICK, MARLIN",Democrat,1,,,,46th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,,,,46th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,47,,WA,"HOLLAND, BRUCE",Republican,1,,,,47th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE REP,47,,WA,"PATRICK, MIKE",Republican,1,1,,,47th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,48,,WA,"SANDERS, PAUL",Republican,1,1,,,48th District House Position 2,0.85
+WA,Seattle Times,149050,1984,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,1,,,,48th District House Position 1,0.85
+WA,Seattle Times,149050,1984,STATE SENATOR,1,,WA,"CHARNLEY, DONN",Democrat,1,1,,,1st District Senator,0.85
+WA,Seattle Times,149050,1984,STATE SENATOR,11,,WA,"GARRETT, AVERY",Democrat,1,,,,11th District Senator,0.85
+WA,Seattle Times,149050,1984,STATE SENATOR,41,,WA,"CANTU, EMILIO",Republican,1,1,,,41st District Senator,0.85
+WA,Seattle Times,149050,1984,STATE SENATOR,48,,WA,"MCDONALD, DAN",Republican,1,,,,48th District Senator,0.85
+WA,Seattle Times,149050,1984,SUPERINTENDENT,,,WA,"BROUILLET, FRANK",,1,,,,Public Instruction Superintendent,0.85
+WA,Seattle Times,149050,1984,SUPREME COURT,,,WA,"CALLOW, KEITH",,1,,,,State Supreme Court Position 3,0.85
+WA,Seattle Times,149050,1984,SUPREME COURT,,,WA,"GOODLOE, WILLIAM",,1,,,,State Supreme Court Position 1,0.85
+WA,Seattle Times,149050,1984,TREASURER,,,WA,"PILKEY, WILLIAM",Democrat,1,,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1984,VICE PRESIDENT,,,WA,"BUSH, GEORGE",Republican,1,,1,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1986,H,1,,WA,"LINDQUIST, REESE",Democrat,1,,,,Times' Advisory Ballot endorsement (1st District),0.85
+WA,Seattle Times,149050,1986,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,Times' Advisory Ballot endorsement (2nd District),0.90
+WA,Seattle Times,149050,1986,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,Times' Advisory Ballot endorsement (6th District),0.90
+WA,Seattle Times,149050,1986,H,7,,WA,"LOWRY, MIKE",Democrat,1,1,,,Times' Advisory Ballot endorsement (7th District),0.90
+WA,Seattle Times,149050,1986,H,8,,WA,"CHANDLER, ROD",Republican,1,,1,,Times' Advisory Ballot endorsement (8th District),0.90
+WA,Seattle Times,149050,1986,JUDGE,,King,WA,"AUSTIN, JOHN",,1,,,,King County Superior Court Position 14,0.85
+WA,Seattle Times,149050,1986,JUDGE,,Seattle,WA,"HOLIFIELD, GEORGE",,1,,,,Seattle Municipal Court Position 3,0.85
+WA,Seattle Times,149050,1986,SENATOR,,,WA,"GORTON, SLADE",Republican,1,,1,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1986,STATE REP,1,,WA,"COLE, GRACE",Democrat,1,1,,,1st District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,1,,WA,"LOEHR, LINCOLN",Republican,1,,,,1st District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,11,,WA,"LEONARD, JUNE",Democrat,1,1,,,11th District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,11,,WA,"LUX, GENE",Democrat,1,1,,,11th District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,21,,WA,"ALLEN, KATHERINE",Republican,1,1,,,21st District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,21,,WA,"BERNARD, MARGARET",Democrat,1,,,,21st District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,30,,WA,"BROUGH, JEAN MARIE",Republican,1,1,,,30th District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,30,,WA,"SCHOON, DICK",Republican,1,1,,,30th District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,31,,WA,"CRANE, ERNIE",Democrat,1,1,,,31st District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,31,,WA,"TODD, MIKE",Democrat,1,1,,,31st District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,1,,,32nd District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,32,,WA,"NELSON, DICK",Democrat,1,1,,,32nd District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,33,,WA,"BARNES, DICK",Republican,1,1,,,33rd District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,1,,,33rd District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,34,,WA,"HEAVEY, MICHAEL",Democrat,1,,,,34th District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,34,,WA,"PORTER, SID",Republican,1,,,,34th District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,1,,,37th District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,37,,WA,"O'BRIEN, JOHN",Democrat,1,1,,,37th District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,39,,WA,"SPRENKLE, B. ART",Democrat,1,,,,39th District House Position B,0.85
+WA,Seattle Times,149050,1986,STATE REP,41,,WA,"MAY, FRED",Republican,1,1,,,41st District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,41,,WA,"ROSENBERGER, BOB",Republican,1,,,,41st District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,44,,WA,"CANTWELL, MARIA",Democrat,1,,,,44th District House Position 1,0.90
+WA,Seattle Times,149050,1986,STATE REP,44,,WA,"KING, PAUL",Democrat,1,1,,,44th District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,45,,WA,"BETROZOFF, JOHN",Republican,1,1,,,45th District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,1,,,45th District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,46,,WA,"APPLEWICK, MARLIN",Democrat,1,1,,,46th District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,1,,,46th District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,47,,WA,"HOLLAND, BRUCE",Republican,1,1,,,47th District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,47,,WA,"PATRICK, MICHAEL",Republican,1,1,,,47th District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE REP,48,,WA,"FERGUSON, ROY A.",Republican,1,,,,48th District House Position 1,0.85
+WA,Seattle Times,149050,1986,STATE REP,48,,WA,"SANDERS, PAUL",Republican,1,1,,,48th District House Position 2,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,21,,WA,"NELSON, GARY",Republican,1,,,,21st District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,30,,WA,"VON REICHBAUER, PETER",Republican,1,1,,,30th District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,32,,WA,"WILLIAMS, AL",Democrat,1,1,,,32nd District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,33,,WA,"LEE, ELEANOR",Republican,1,1,,,33rd District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,34,,WA,"TALMADGE, PHIL",Democrat,1,1,,,34th District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,36,,WA,"WOLLAM, DAN",Republican,1,,,,36th District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,37,,WA,"FLEMING, GEORGE",Democrat,1,1,,,37th District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,44,,WA,"LONG, JEANINE",Republican,1,,,,44th District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",Republican,1,1,,,45th District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,46,,WA,"RINEHART, NITA",Democrat,1,1,,,46th District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,47,,WA,"HARDAWAY, CHUCK",Democrat,1,,,,47th District Senator,0.85
+WA,Seattle Times,149050,1986,STATE SENATOR,48,,WA,"MCDONALD, DAN",Republican,1,1,,,48th District Senator,0.85
+WA,Seattle Times,149050,1988,ATTORNEY GENERAL,,,WA,"EIKENBERRY, KEN",Republican,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1988,AUDITOR,,,WA,"GRAHAM, ROBERT",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1988,GOVERNOR,,,WA,"GARDNER, BOOTH",Democrat,1,1,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1988,H,1,,WA,"LINDQUIST, REESE",Democrat,1,,,,Times' Advisory Ballot endorsement (1st District),0.85
+WA,Seattle Times,149050,1988,H,3,,WA,"UNSOELD, JOLENE",Democrat,1,,,,Times' Advisory Ballot endorsement (3rd District),0.85
+WA,Seattle Times,149050,1988,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,Times' Advisory Ballot endorsement (6th District),0.90
+WA,Seattle Times,149050,1988,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,,,,Times' Advisory Ballot endorsement (7th District),0.90
+WA,Seattle Times,149050,1988,H,8,,WA,"CHANDLER, ROD",Republican,1,,1,,Times' Advisory Ballot endorsement (8th District),0.90
+WA,Seattle Times,149050,1988,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD",Republican,1,1,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1988,JUDGE,,King,WA,"SCHAPIRA, CAROL",,1,,,,King County Superior Court,0.85
+WA,Seattle Times,149050,1988,LAND COMMISSIONER,,,WA,"BOYLE, BRIAN",Republican,1,1,,,Times' Advisory Ballot endorsement (Lands Commissioner),0.85
+WA,Seattle Times,149050,1988,LT GOVERNOR,,,WA,"PRITCHARD, JOEL",Republican,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1988,PRESIDENT,,,WA,"DUKAKIS, MICHAEL",Democrat,1,,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1988,SEC OF STATE,,,WA,"MUNRO, RALPH",Republican,1,1,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1988,SENATOR,,,WA,"GORTON, SLADE",Republican,1,,,,Times' Advisory Ballot endorsement,0.95
+WA,Seattle Times,149050,1988,STATE REP,1,,WA,"COLE, GRACE",Democrat,1,1,,,1st District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,1,,WA,"RUST, NANCY",Democrat,1,1,,,1st District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,11,,WA,"LEONARD, JUNE",Democrat,1,1,,,11th District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,11,,WA,"PRENTICE, MARGARITA",Democrat,1,1,,,11th District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,21,,WA,"BECK, JOHN",Republican,1,,,,21st District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,21,,WA,"DWYER, STEVEN",Democrat,1,,,,21st District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,30,,WA,"BROUGH, JEAN MARIE",Republican,1,1,,,30th District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,30,,WA,"SCHOON, DICK",Republican,1,1,,,30th District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,31,,WA,"CRANE, ERNIE",Democrat,1,1,,,31st District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,31,,WA,"TODD, MIKE",Democrat,1,1,,,31st District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,1,,,32nd District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,32,,WA,"NELSON, DICK",Democrat,1,1,,,32nd District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,33,,WA,"HARD, KATHY",Republican,1,,,,33rd District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,1,,,33rd District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,34,,WA,"HEAVEY, MICHAEL",Democrat,1,1,,,34th District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,34,,WA,"VALLE, GEORGETTE",Democrat,1,,,,34th District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,36,,WA,"PHILLIPS, LARRY",Democrat,1,,,,36th District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,36th District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,1,,,37th District,0.85
+WA,Seattle Times,149050,1988,STATE REP,41,,WA,"HORN, JIM",Republican,1,,,,41st District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,43,,WA,"ANDERSON, CAL",Democrat,1,,,,43rd District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,43,,WA,"WINEBERRY, JESSE",Democrat,1,1,,,43rd District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,44,,WA,"CANTWELL, MARIA",Democrat,1,1,,,44th District House Position 1,0.90
+WA,Seattle Times,149050,1988,STATE REP,44,,WA,"KING, PAUL",Democrat,1,1,,,44th District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,45,,WA,"BETROZOFF, JOHN",Republican,1,1,,,45th District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,46,,WA,"APPLEWICK, MARLIN",Democrat,1,1,,,46th District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,1,,,46th District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,47,,WA,"HOLLAND, BRUCE",Republican,1,1,,,47th District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,47,,WA,"PATRICK, MIKE",Republican,1,1,,,47th District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE REP,48,,WA,"FERGUSON, ROY",Republican,1,1,,,48th District House Position 1,0.85
+WA,Seattle Times,149050,1988,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,1,1,,,48th District House Position 2,0.85
+WA,Seattle Times,149050,1988,STATE SENATOR,1,,WA,"MURRAY, PATTY",Democrat,1,,,,1st District Senator,0.90
+WA,Seattle Times,149050,1988,STATE SENATOR,11,,WA,"LUX, GENE",Democrat,1,,,,11th District Senator,0.85
+WA,Seattle Times,149050,1988,STATE SENATOR,41,,WA,"CANTU, EMILIO",Republican,1,1,,,41st District Senator,0.85
+WA,Seattle Times,149050,1988,SUPERINTENDENT,,,WA,"HECK, DENNY",,1,,,,Superintendent of Public Instruction,0.85
+WA,Seattle Times,149050,1988,TREASURER,,,WA,"GRIMM, DAN",Democrat,1,,,,Times' Advisory Ballot endorsement,0.85
+WA,Seattle Times,149050,1988,VICE PRESIDENT,,,WA,"BENTSEN, LLOYD",Democrat,1,,,,Times' Advisory Ballot endorsement,0.90
+WA,Seattle Times,149050,1990,CITY COUNCIL,,Seattle,WA,"DONALDSON, SUE",,1,,,,Seattle City Council,0.90
+WA,Seattle Times,149050,1990,H,1,,WA,"MILLER, JOHN",Republican,1,,1,,,0.95
+WA,Seattle Times,149050,1990,H,3,,WA,"UNSOELD, JOLENE",Democrat,1,1,,,,0.95
+WA,Seattle Times,149050,1990,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,,0.95
+WA,Seattle Times,149050,1990,H,8,,WA,"CHANDLER, ROD",Republican,1,,1,,,0.95
+WA,Seattle Times,149050,1990,JUDGE,1,Northeast District Court,WA,"BORDLEMAY, ROSEMARY P",,1,,,,District Court Northeast Position 1,0.90
+WA,Seattle Times,149050,1990,JUDGE,1,Seattle District Court,WA,"KILLIEN, PHILLIP",,1,,,,District Court Seattle Position 1,0.90
+WA,Seattle Times,149050,1990,JUDGE,1,Seattle Municipal Court,WA,"SCHAEFER, STEPHEN",,1,,,,Municipal Court Position 1,0.90
+WA,Seattle Times,149050,1990,JUDGE,1,Shoreline District Court,WA,"SMITH, DOUGLAS",,1,,,,District Court Shoreline Position 1,0.90
+WA,Seattle Times,149050,1990,JUDGE,11,Seattle Municipal Court,WA,"BONNER, FRED",,1,,,,Municipal Court Position 11,0.90
+WA,Seattle Times,149050,1990,JUDGE,2,Southwest District Court,WA,"SEITZ, VICK",,1,,,,District Court Southwest Position 2,0.90
+WA,Seattle Times,149050,1990,JUDGE,3,Bellevue District Court,WA,"YEATTS, FRED",,1,,,,District Court Bellevue Position 3,0.90
+WA,Seattle Times,149050,1990,JUDGE,4,Seattle Municipal Court,WA,"HIGHTOWER, JUDITH",,1,,,,Municipal Court Position 4,0.90
+WA,Seattle Times,149050,1990,STATE REP,1,,WA,"COLE, GRACE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,1,,WA,"RUST, NANCY",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,11,,WA,"LEONARD, JUNE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,11,,WA,"PRENTICE, MARGARITA",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,21,,WA,"BECK, JOHN",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,21,,WA,"WOOD, JEANNETTE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,25,,WA,"BENNETT, DON",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,25,,WA,"CABAN, SANDY",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,30,,WA,"BROUGH, JEAN MARIE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,30,,WA,"MITCHELL, MARYANN",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,31,,WA,"ROLAND, JUDI",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,31,,WA,"VANCE, CHRIS",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,32,,WA,"BREKKE, JOANNE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,32,,WA,"NELSON, RICHARD",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,33,,WA,"FISHER, GREG",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,33,,WA,"HINE, LORRAINE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,34,,WA,"HEAVEY, MIKE",,1,,,,OCR read as Heave',0.85
+WA,Seattle Times,149050,1990,STATE REP,34,,WA,"VALLE, GEORGETTE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,36,,WA,"PHILLIPS, LARRY",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,36,,WA,"SOMMERS, HELEN",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,37,,WA,"LOCKE, GARY",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,37,,WA,"O'BRIEN, JOHN",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,38,,WA,"KING, RICHARD",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,38,,WA,"SCOTT, PATRICIA",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,39A,,WA,"WYNNE, JOHN",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,41,,WA,"HORN, JIM",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,41,,WA,"MAY, FRED",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,43,,WA,"ANDERSON, CAL",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,43,,WA,"WINEBERRY, JESSE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,44,,WA,"CANTWELL, MARIA",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,44,,WA,"PARIS, MARSHALL",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,45,,WA,"BETROZOFF, JOHN",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,45,,WA,"MILLER, LOUISE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,46,,WA,"APPELWICK, MARLIN",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,46,,WA,"JACOBSEN, KEN",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,47,,WA,"FORNER, ELMIRA",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,47,,WA,"HOLLAND, BRUCE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,48,,WA,"FERGUSON, ROY",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE REP,48,,WA,"VAN LUVEN, STEVE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,21,,WA,"NELSON, GARY",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,26,,WA,"SMITHERMAN, BILL",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,30,,WA,"VON REICHBAUER, PETER",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,31,,WA,"TODD, MIKE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,32,,WA,"TANGEN, TOM",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,33,,WA,"LEE, ELEANOR",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,34,,WA,"TALMADGE, PHIL",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,36,,WA,"MCLAUCHLAN, ANDY",,1,,,,,0.85
+WA,Seattle Times,149050,1990,STATE SENATOR,37,,WA,"PELZ, DWIGHT",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,43,,WA,"NIEMI, JANICE",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,44,,WA,"BENDER, RICK",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,46,,WA,"RINEHART, NITA",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,47,,WA,"SKRATEK, SYLVIA",,1,,,,,0.90
+WA,Seattle Times,149050,1990,STATE SENATOR,48,,WA,"MCDONALD, DAN",,1,,,,,0.90
+WA,Seattle Times,149050,1992,ASSESSOR,,King County,WA,"BROOKS, NORWARD",Republican,1,,1,,Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,ASSESSOR,,King County,WA,"NOBLE, SCOTT",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,ATTORNEY GENERAL,,,WA,"GREGOIRE, CHRISTINE",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,ATTORNEY GENERAL,,,WA,"MALENG, NORM",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,AUDITOR,,,WA,"REED, SAM",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,AUDITOR,,,WA,"SONNTAG, BRIAN",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,GOVERNOR,,,WA,"EIKENBERRY, KEN",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,GOVERNOR,,,WA,"LOWRY, MIKE",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,H,1,,WA,"CANTWELL, MARIA",Democrat,1,,,,Endorsement based on OCR bold marker context,0.60
+WA,Seattle Times,149050,1992,H,1,,WA,"NELSON, GARY",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,H,2,,WA,"METCALF, JACK",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,Incumbent; bold marker in OCR,0.70
+WA,Seattle Times,149050,1992,H,3,,WA,"FISKE, PAT",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,H,3,,WA,"UNSOELD, JOLENE",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1992,H,4,,WA,"HASTINGS, RICHARD",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,H,4,,WA,"INSLEE, JAY",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,H,5,,WA,"FOLEY, THOMAS S",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1992,H,5,,WA,"SONNELAND, JOHN",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,H,6,,WA,"PHILLIPS, LAURI J",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,H,7,,WA,"HAMPSON, GLENN",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,H,8,,WA,"DUNN, JENNIFER",Republican,1,,,,Bold marker in OCR,0.70
+WA,Seattle Times,149050,1992,H,8,,WA,"TAMBLYN, GEORGE O",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,H,9,,WA,"KREIDLER, MIKE",Democrat,1,,,,Bold marker,0.70
+WA,Seattle Times,149050,1992,H,9,,WA,"VON REICHBAUER, PETE",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD G",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1992,INSURANCE COMMISSIONER,,,WA,"MCCULLOCH, BRIAN",Independent,,,,,,0.50
+WA,Seattle Times,149050,1992,INSURANCE COMMISSIONER,,,WA,"SENN, DEBORAH",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,JUDGE,8,King County Superior Court,WA,"SELLERS, MARILYN",Nonpartisan,,,,,Position 8,0.50
+WA,Seattle Times,149050,1992,JUDGE,8,King County Superior Court,WA,"WHITE, JAY V",Nonpartisan,,,,,Position 8,0.50
+WA,Seattle Times,149050,1992,JUDGE,9,King County Superior Court,WA,"ALUMBAUGH, JO ANNE",Nonpartisan,,,,,Position 9,0.50
+WA,Seattle Times,149050,1992,JUDGE,9,King County Superior Court,WA,"GARLING, WILLIAM",Nonpartisan,1,,,,Position 9; bold marker,0.70
+WA,Seattle Times,149050,1992,LAND COMMISSIONER,,,WA,"ANDERSON, ANN",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,LAND COMMISSIONER,,,WA,"BELCHER, JENNIFER M",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,LT GOVERNOR,,,WA,"KELLEY, RICHARD",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,LT GOVERNOR,,,WA,"PRITCHARD, JOEL",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1992,PRESIDENT,,,WA,"BUSH, GEORGE",Republican,0,,1,,Incumbent; not endorsed,0.85
+WA,Seattle Times,149050,1992,PRESIDENT,,,WA,"CLINTON, BILL",Democrat,,,1,,OCR ambiguous; presidential endorsement not clearly marked,0.50
+WA,Seattle Times,149050,1992,PRESIDENT,,,WA,"PEROT, ROSS",Independent,,,,,OCR ambiguous,0.50
+WA,Seattle Times,149050,1992,SEC OF STATE,,,WA,"DIXON, JEANNE",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,SEC OF STATE,,,WA,"MUNRO, RALPH",Republican,1,,1,,Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,SENATOR,,,WA,"CHANDLER, ROD",Republican,,,,,OCR did not clearly indicate bold endorsement,0.50
+WA,Seattle Times,149050,1992,SENATOR,,,WA,"MURRAY, PATTY",Democrat,,,,,OCR did not clearly indicate bold endorsement,0.50
+WA,Seattle Times,149050,1992,STATE REP,1,,WA,"BACKSTROM, WALTER",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,1,,WA,"COTHERN, BARBARA",Democrat,1,1,,,Position 1; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,1,,WA,"JOHNSON, LINDA",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,1,,WA,"MEYERSON, JOYCE",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,11,,WA,"GARDNER, MARIE",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,11,,WA,"LEONARD, JUNE",Democrat,1,1,,,Position 1; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,11,,WA,"MOSELEY, GARY",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,,,,Position 2; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,30,,WA,"BROUGH, JEAN MARIE",Republican,1,,1,,Position 2; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,30,,WA,"EIDE, TRACEY",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,30,,WA,"MILOSCIA, MARK",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,30,,WA,"MITCHELL, MARYANN",Republican,1,,1,,Position 1; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,31,,WA,"ROLAND, JUDI",Democrat,1,1,,,Position 1; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,31,,WA,"THOMAS, LES",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,31,,WA,"VALENTA, LEE",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,31,,WA,"VANCE, CHRIS",Republican,1,,1,,Position 2; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,32,,WA,"COLE, GRACE",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE REP,32,,WA,"OLSON, PAT",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,32,,WA,"ROBERTS, TERRY",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,32,,WA,"RUST, NANCY",Democrat,,1,,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE REP,33,,WA,"FISHER, GREG",Democrat,1,1,,,Position 2; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,1,,,Position 1; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,33,,WA,"MCCUNE, JIM",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,33,,WA,"THOMPSON, SHIRLEY",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,34,,WA,"GOJIO, TIM",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,34,,WA,"HARDENBURGH, JOE",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,34,,WA,"HEAVEY, MICHAEL",Democrat,,1,,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE REP,34,,WA,"VALLE, GEORGETTE",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE REP,36,,WA,"BLAKE, ROBERT",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,36,,WA,"FLORES, RUEBEN",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,36,,WA,"KOHL, JEANNE",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,Position 1; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,37,,WA,"ALONZO, JAMES",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,37,,WA,"DANIELS, TED",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,37,,WA,"LOCKE, GARY",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE REP,37,,WA,"WINEBERRY, JESSE",Democrat,1,1,,,Position 1; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,39,,WA,"DUNSHEE, HANS",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,39,,WA,"LEBOW, DENNIS B",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,39,,WA,"PEARSON, KIRK",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,39,,WA,"STEVENS, VAL",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,41,,WA,"BALLASIOTES, IDA",Republican,,,1,,Position 2; Incumbent; unopposed,0.50
+WA,Seattle Times,149050,1992,STATE REP,41,,WA,"HORN, JIM",Republican,,,1,,Position 1; Incumbent; unopposed,0.50
+WA,Seattle Times,149050,1992,STATE REP,43,,WA,"ANDERSON, CAL",Democrat,,1,,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE REP,43,,WA,"MEENEN, MICHAEL",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,43,,WA,"MICHAEL, STEVEN",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,43,,WA,"THIBAUDEAU, PAT",Democrat,1,,,,Position 2; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,44,,WA,"JOHANSON, JIM",Democrat,1,1,,,Position 2; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,44,,WA,"LABUNSKI, RICHARD",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,44,,WA,"LONG, JEANINE",Republican,1,,1,,Position 1; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,44,,WA,"SCHMIDT, DAVE",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,45,,WA,"BACKLUND, BILL",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,45,,WA,"FINKBEINER, BILL",Democrat,1,,,,Position 1; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,,1,,Position 2; Incumbent; unopposed; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,1,,,Position 1; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,46,,WA,"FULMER, CLARK",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,1,,,Position 2; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,46,,WA,"KLESCHEN, FRANK JR",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,47,,WA,"CLEMENTE, ROSEMARIE",Democrat,1,,,,Position 1; bold marker,0.65
+WA,Seattle Times,149050,1992,STATE REP,47,,WA,"COOKE, SUZETTE",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,47,,WA,"FORNER, ELMIRA",Republican,1,,1,,Position 2; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,47,,WA,"PANG, WENDELL",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,48,,WA,"REAMS, BILL",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,48,,WA,"TILLEY, CHIP",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,48,,WA,"TOBIASON, ERIK",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,,,1,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE REP,5,,WA,"BAKER, LLOYD",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE REP,5,,WA,"DYER, PHIL",Republican,1,,1,,Position 2; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE REP,5,,WA,"MCMONAGLE, LINDA",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,STATE REP,5,,WA,"THOMAS, BRIAN",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,1,,WA,"MCAULIFFE, ROSEMARY",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,1,,WA,"PARIS, MARSHALL",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,11,,WA,"PRENTICE, MARGARITA",Democrat,1,1,,,Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,STATE SENATOR,11,,WA,"SCHILLINGER, MIKE",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,23,,WA,"CRASWELL, ELLEN",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,23,,WA,"SHELDON, BETTI",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,39,,WA,"QUIGLEY, KEVIN",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,39,,WA,"WYNNE, JOHN",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,41,,WA,"CANTU, EMILIO",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,41,,WA,"WILCOCK, EVERETT",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,5,,WA,"DREW, KATHLEEN",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,STATE SENATOR,5,,WA,"ROSSI, DINO",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,SUPERINTENDENT,,,WA,"BERGESON, TERRY",Nonpartisan,,,,,,0.50
+WA,Seattle Times,149050,1992,SUPERINTENDENT,,,WA,"BILLINGS, JUDITH",Nonpartisan,,,,1,Incumbent,0.50
+WA,Seattle Times,149050,1992,SUPREME COURT,1,,WA,"HOUGHTON, ELAINE",Nonpartisan,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,SUPREME COURT,1,,WA,"MADSEN, BARBARA",Nonpartisan,,,,,Position 1,0.50
+WA,Seattle Times,149050,1992,SUPREME COURT,2,,WA,"DOLAN, KEVIN PATRICK",Nonpartisan,,,,,Position 2,0.50
+WA,Seattle Times,149050,1992,SUPREME COURT,2,,WA,"DOLLIVER, JAMES M",Nonpartisan,1,,,1,Position 2; Incumbent; bold marker,0.70
+WA,Seattle Times,149050,1992,TREASURER,,,WA,"GRIMM, DAN",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1992,TREASURER,,,WA,"OLIVER, CLAUDE L",Republican,,,,,,0.50
+WA,Seattle Times,149050,1992,VICE PRESIDENT,,,WA,"GORE, AL",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1992,VICE PRESIDENT,,,WA,"QUAYLE, DAN",Republican,0,,1,,,0.85
+WA,Seattle Times,149050,1992,VICE PRESIDENT,,,WA,"STOCKDALE, JAMES",Independent,,,,,,0.50
+WA,Seattle Times,149050,1994,H,4,,WA,"INSLEE, JAY",Democrat,1,1,,,Bold/check marker,0.70
+WA,Seattle Times,149050,1994,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,Speaker; Incumbent,0.70
+WA,Seattle Times,149050,1994,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,Incumbent,0.85
+WA,Seattle Times,149050,1994,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,Incumbent,0.85
+WA,Seattle Times,149050,1994,H,8,,WA,"DUNN, JENNIFER",Republican,1,,1,,Incumbent,0.85
+WA,Seattle Times,149050,1994,H,9,,WA,"KREIDLER, MIKE",Democrat,1,1,,,Incumbent,0.80
+WA,Seattle Times,149050,1994,JUDGE,,Seattle District Court,WA,"LINDE, BARBARA",Nonpartisan,1,,,,,0.85
+WA,Seattle Times,149050,1994,SENATOR,,,WA,"GORTON, SLADE",Republican,1,,,,,0.85
+WA,Seattle Times,149050,1994,STATE REP,1,,WA,"COTHERN, BARBARA",Democrat,,1,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,1,,WA,"JOHNSON, LINDA",Democrat,1,1,,,,0.65
+WA,Seattle Times,149050,1994,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,1,,,Incumbent,0.65
+WA,Seattle Times,149050,1994,STATE REP,30,,WA,"BROUILLET, MARC",Democrat,,,,,OCR fragmentary,0.50
+WA,Seattle Times,149050,1994,STATE REP,30,,WA,"MITCHELL, MARYANN",Republican,1,,1,,Incumbent,0.70
+WA,Seattle Times,149050,1994,STATE REP,30,,WA,"SKINNER, BARBARA",Democrat,1,,,,,0.60
+WA,Seattle Times,149050,1994,STATE REP,31,,WA,"ROBERTSON, ERIC",Republican,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,31,,WA,"THOMAS, LES",Republican,1,,,,,0.70
+WA,Seattle Times,149050,1994,STATE REP,32,,WA,"COLE, GRACE",Democrat,,1,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,32,,WA,"FAIRLEY, DARLENE",Democrat,1,,,,32nd Senate seat,0.65
+WA,Seattle Times,149050,1994,STATE REP,32,,WA,"ROBERTS, TERRY",Republican,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,33,,WA,"FISHER, GREG",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,33,,WA,"PATTERSON, JULIA",Democrat,,,,,OCR ambiguous,0.50
+WA,Seattle Times,149050,1994,STATE REP,34,,WA,"HEAVEY, MIKE",Democrat,1,1,,,Incumbent,0.70
+WA,Seattle Times,149050,1994,STATE REP,34,,WA,"POULTON, ED",Democrat,1,,,,OCR fragment,0.50
+WA,Seattle Times,149050,1994,STATE REP,34,,WA,"SEARS, SHARON",Republican,,,,,OCR fragment,0.45
+WA,Seattle Times,149050,1994,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,,,,,OCR fragment 'na Dickerson',0.50
+WA,Seattle Times,149050,1994,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1994,STATE REP,37,,WA,"HICKEL, TIM",Republican,1,,,,,0.55
+WA,Seattle Times,149050,1994,STATE REP,37,,WA,"TOWLE, KAREN",Democrat,,,,,,0.45
+WA,Seattle Times,149050,1994,STATE REP,38,,WA,"BADER, SCOTT",Republican,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,38,,WA,"SCOTT, PAT",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,39,,WA,"DUNSHEE, HANS",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,39,,WA,"HOBBS, STEVEN",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,43,,WA,"CHOPP, FRANK",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,43,,WA,"THIBAUDEAU, PAT",Democrat,1,1,,,Incumbent,0.70
+WA,Seattle Times,149050,1994,STATE REP,44,,WA,"HAVENS, GARY",Democrat,1,,,,OCR fragment,0.50
+WA,Seattle Times,149050,1994,STATE REP,44,,WA,"JOHANSON, JIM",Democrat,1,1,,,Incumbent,0.60
+WA,Seattle Times,149050,1994,STATE REP,45,,WA,"HARRELL, GAIL",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,45,,WA,"LAMBERT, KATHY",Republican,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,1,,,Incumbent,0.70
+WA,Seattle Times,149050,1994,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1994,STATE REP,47,,WA,"CLEMENTE, ROSEMARIE",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,47,,WA,"COOKE, SUZETTE",Republican,1,,,,,0.75
+WA,Seattle Times,149050,1994,STATE REP,48,,WA,"REAMS, BILL",Republican,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1994,STATE REP,5,,WA,"DYER, PHIL",Republican,,,1,,,0.50
+WA,Seattle Times,149050,1994,STATE REP,5,,WA,"THOMAS, BRIAN",Republican,1,,,,,0.75
+WA,Seattle Times,149050,1994,STATE SENATOR,21,,WA,"WOOD, JEANETTE",Republican,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE SENATOR,30,,WA,"BROUGH, JEAN MARIE",Republican,1,,,,OCR labeled as (D) but historically Republican,0.60
+WA,Seattle Times,149050,1994,STATE SENATOR,31,,WA,"ROACH, PAM",Republican,1,,,,,0.75
+WA,Seattle Times,149050,1994,STATE SENATOR,33,,WA,"SMITH, ADAM",Democrat,1,,,,,0.75
+WA,Seattle Times,149050,1994,STATE SENATOR,36,,WA,"KOHL, JEANNE",Democrat,1,,,,,0.70
+WA,Seattle Times,149050,1994,STATE SENATOR,37,,WA,"PELZ, DWIGHT",Democrat,1,1,,,Incumbent,0.70
+WA,Seattle Times,149050,1994,STATE SENATOR,38,,WA,"KING, DICK",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE SENATOR,43,,WA,"ANDERSON, CAL",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE SENATOR,44,,WA,"LONG, JEANINE",Republican,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE SENATOR,45,,WA,"FINKBEINER, BILL",Republican,,,,,,0.50
+WA,Seattle Times,149050,1994,STATE SENATOR,46,,WA,"RINEHART, NITA",Democrat,1,1,,,Incumbent,0.70
+WA,Seattle Times,149050,1994,STATE SENATOR,47,,WA,"SKRATEK, SYLVIA",Democrat,1,1,,,,0.75
+WA,Seattle Times,149050,1994,STATE SENATOR,48,,WA,"MCDONALD, DAN",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1994,SUPREME COURT,2,,WA,"ALEXANDER, GERRY",Nonpartisan,1,,,,Position 2; OCR fragmentary; likely Gerry Alexander,0.55
+WA,Seattle Times,149050,1994,SUPREME COURT,3,,WA,"TALMADGE, PHIL",Nonpartisan,1,,,,Position 3,0.70
+WA,Seattle Times,149050,1996,ATTORNEY GENERAL,,,WA,"GREGOIRE, CHRISTINE",Democrat,1,1,,,Incumbent; check mark,0.75
+WA,Seattle Times,149050,1996,ATTORNEY GENERAL,,,WA,"POPE, RICHARD",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,AUDITOR,,,WA,"KEENE, ROBERT JR",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,AUDITOR,,,WA,"SONNTAG, BRIAN",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1996,CITY COUNCIL,,Seattle,WA,"CHONG, CHARLIE",Nonpartisan,,,,,,0.50
+WA,Seattle Times,149050,1996,CITY COUNCIL,,Seattle,WA,"ROHAN, BOB",Nonpartisan,1,,,,Check mark in OCR,0.65
+WA,Seattle Times,149050,1996,GOVERNOR,,,WA,"CRASWELL, ELLEN",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,GOVERNOR,,,WA,"LOCKE, GARY",Democrat,1,,,,Check mark in OCR,0.70
+WA,Seattle Times,149050,1996,H,1,,WA,"COOPERSMITH, JEFF",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1996,H,1,,WA,"WHITE, RICK",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1996,H,2,,WA,"METCALF, JACK",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1996,H,2,,WA,"QUIGLEY, KEVIN",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1996,H,3,,WA,"BAIRD, BRIAN",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1996,H,3,,WA,"SMITH, LINDA",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1996,H,4,,WA,"HASTINGS, RICHARD",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1996,H,4,,WA,"LOCKE, RICK",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1996,H,6,,WA,"DICKS, NORM",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1996,H,6,,WA,"GARDINER, BRUCE",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,H,7,,WA,"KLESCHEN, FRANK",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,Incumbent; check mark in OCR,0.70
+WA,Seattle Times,149050,1996,H,8,,WA,"DUNN, JENNIFER",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1996,H,8,,WA,"LITTLE, DAVE",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1996,H,9,,WA,"SMITH, ADAM",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1996,H,9,,WA,"TATE, RANDY",Republican,,,1,,Incumbent,0.50
+WA,Seattle Times,149050,1996,INSURANCE COMMISSIONER,,,WA,"LOWE, ANTHONY",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,INSURANCE COMMISSIONER,,,WA,"SENN, DEBORAH",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1996,JUDGE,26,King County Superior Court,WA,"BURRAGE, JEANETTE",Nonpartisan,,,,1,Position 26; Incumbent,0.50
+WA,Seattle Times,149050,1996,JUDGE,26,King County Superior Court,WA,"NORTH, DOUG",Nonpartisan,1,,,,Position 26; check marker,0.60
+WA,Seattle Times,149050,1996,JUDGE,6,King County Superior Court,WA,"ALLISON, JOAN",Nonpartisan,,,,,Position 6,0.50
+WA,Seattle Times,149050,1996,JUDGE,6,King County Superior Court,WA,"PRITCHARD, RICK",Nonpartisan,1,,,,Position 6; check mark,0.60
+WA,Seattle Times,149050,1996,JUDGE,9,King County Superior Court,WA,"ALUMBAUGH, JO ANNE",Nonpartisan,1,,,1,Position 9; Incumbent,0.55
+WA,Seattle Times,149050,1996,JUDGE,9,King County Superior Court,WA,"RAMSDELL, JEFF",Nonpartisan,,,,,Position 9,0.50
+WA,Seattle Times,149050,1996,LAND COMMISSIONER,,,WA,"BELCHER, JENNIFER",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1996,LAND COMMISSIONER,,,WA,"MACKEY, BRUCE",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,LT GOVERNOR,,,WA,"ANDERSON, ANN",Republican,1,,,,Check mark in OCR,0.65
+WA,Seattle Times,149050,1996,LT GOVERNOR,,,WA,"OWEN, BRAD",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1996,PRESIDENT,,,WA,"CLINTON, BILL",Democrat,1,1,,,Incumbent; check mark in OCR,0.75
+WA,Seattle Times,149050,1996,PRESIDENT,,,WA,"DOLE, BOB",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,STATE REP,1,,WA,"JANES, JUDY",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,1,,WA,"O'BRIEN, AL",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,1,,WA,"OLSEN, TIM",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,1,,WA,"SHERSTAD, MIKE",Republican,,,1,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,10,,WA,"ANDERSON, DAVE",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,10,,WA,"SEHLIN, BARRY",Republican,1,,1,,Position 2; Incumbent; check marker,0.60
+WA,Seattle Times,149050,1996,STATE REP,11,,WA,"CODY, EILEEN",Democrat,,1,,,Position 1; Incumbent; unopposed,0.50
+WA,Seattle Times,149050,1996,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,21,,WA,"BLANTON, JERRY",Republican,,,1,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,21,,WA,"COOPER, MIKE",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,21,,WA,"RADCLIFF, RENEE",Republican,,,1,,Position 2; Incumbent; unopposed,0.50
+WA,Seattle Times,149050,1996,STATE REP,25,,WA,"GREEN, LUANNE",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,25,,WA,"KASTAMA, JIM",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,25,,WA,"MCDONALD, JOYCE",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,25,,WA,"MORELL, DAVE",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,30,,WA,"HICKEL, TIM",Republican,,,1,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,30,,WA,"MALLARY, PAUL",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,30,,WA,"MITCHELL, MARYANN",Republican,,,1,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,30,,WA,"ULIS, ERIC",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,31,,WA,"HURST, CHRIS",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,31,,WA,"ROBERTSON, ERIC",Republican,,,1,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,31,,WA,"THOMAS, LES",Republican,,,1,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,32,,WA,"BUTLER, PATTY",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,32,,WA,"COLE, GRACE",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,32,,WA,"FEDEROW, NORINE",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,32,,WA,"SHEA, JAMES",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,33,,WA,"BREZINA, CHARLES",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,33,,WA,"KEISER, KAREN",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,33,,WA,"MCCUNE, JAMES",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,33,,WA,"PATTERSON, JULIA",Democrat,,1,,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,34,,WA,"PONTIUS, BOB",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,34,,WA,"POULSEN, ERIC",Democrat,,1,,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,34,,WA,"SEARS, MARILYNN",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,36,,WA,"MCCOY, RUDY",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,36,,WA,"ROMERO, MARY LOU",Democrat,,,,,Position 1; OCR fragment,0.40
+WA,Seattle Times,149050,1996,STATE REP,37,,WA,"KUPPINGER, CLIFF",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,37,,WA,"MASON, DAWN",Democrat,1,1,,,Position 1; Incumbent; check marker,0.60
+WA,Seattle Times,149050,1996,STATE REP,37,,WA,"TOKUDA, KIP",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,38,,WA,"FLOYD, MIKE",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,38,,WA,"SCOTT, PAT",Democrat,,1,,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,39,,WA,"DUNSHEE, HANS",Democrat,1,1,,,Position 1; Incumbent; check marker,0.65
+WA,Seattle Times,149050,1996,STATE REP,39,,WA,"KOSTER, JOHN",Republican,,,1,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,39,,WA,"SOTH, JEFF",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,41,,WA,"BALLASIOTES, IDA",Republican,,,1,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,41,,WA,"BREWER, DENINE",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,41,,WA,"SILKROSK, DAVID",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,41,,WA,"WENSMAN, MIKE",Republican,1,,,,Position 1; check marker,0.60
+WA,Seattle Times,149050,1996,STATE REP,43,,WA,"CHOPP, FRANK",Democrat,,1,,,Position 2; Incumbent; unopposed,0.50
+WA,Seattle Times,149050,1996,STATE REP,43,,WA,"MURRAY, ED",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,44,,WA,"DICKSON, JERRY",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,44,,WA,"THOMPSON, BILL",Republican,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,45,,WA,"ASHER, DAVE",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,45,,WA,"BACKLUND, BILL",Republican,,,1,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,45,,WA,"GOOD, TRINA",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,45,,WA,"LAMBERT, KATHY",Republican,,,1,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,1,,,Position 1; Incumbent; check marker,0.65
+WA,Seattle Times,149050,1996,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,,1,,,Position 2; Incumbent; unopposed,0.50
+WA,Seattle Times,149050,1996,STATE REP,47,,WA,"CAIRNES, JACK",Republican,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,47,,WA,"COOKE, SUZETTE",Republican,,,1,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,47,,WA,"SHELTON, CAROLYN",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,48,,WA,"BERGER, ERIC",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,48,,WA,"HENRY, MAX",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,48,,WA,"REAMS, BILL",Republican,,,1,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,1,,1,,Position 2; Incumbent; check marker,0.60
+WA,Seattle Times,149050,1996,STATE REP,5,,WA,"DYER, PHIL",Republican,,,1,,Position 2; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE REP,5,,WA,"PULCINO, STEVE",Democrat,,,,,Position 1,0.50
+WA,Seattle Times,149050,1996,STATE REP,5,,WA,"SCOTT, MARY",Democrat,,,,,Position 2,0.50
+WA,Seattle Times,149050,1996,STATE REP,5,,WA,"THOMAS, BRIAN",Republican,,,1,,Position 1; Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,1,,WA,"MCAULIFFE, ROSEMARY",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,10,,WA,"HAUGEN, MARY M",Democrat,1,1,,,Incumbent; check marker,0.65
+WA,Seattle Times,149050,1996,STATE SENATOR,10,,WA,"YOUNGSMAN, JIM",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,11,,WA,"PRENTICE, MARGARITA",Democrat,,1,,,Incumbent; unopposed,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,25,,WA,"CLESKY, GRANT",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,25,,WA,"GOINGS, CALVIN",Democrat,,1,,,,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,38,,WA,"CAMPBELL, DOUG",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,38,,WA,"COSTA, JERI",Democrat,,1,,,Incumbent,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,39,,WA,"PATTERSON, PATRICIA",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,39,,WA,"STEVENS, VAL",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,41,,WA,"HORN, JIM",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,41,,WA,"VULLIET, FRANK",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1996,STATE SENATOR,5,,WA,"ROSSI, DINO",Republican,,,,,,0.50
+WA,Seattle Times,149050,1996,SUPERINTENDENT,,,WA,"BERGESON, TERRY",Nonpartisan,,,,,,0.50
+WA,Seattle Times,149050,1996,SUPERINTENDENT,,,WA,"TABER, RON",Nonpartisan,,,,,,0.50
+WA,Seattle Times,149050,1996,SUPREME COURT,,,WA,"JOHNSON, CHARLES W",Nonpartisan,1,,,1,Incumbent; check mark,0.70
+WA,Seattle Times,149050,1996,SUPREME COURT,,,WA,"SMYTH, DOUGLAS J",Nonpartisan,,,,,,0.50
+WA,Seattle Times,149050,1996,TREASURER,,,WA,"DEYOUNG, LUCY",Republican,1,,,,Check mark in OCR,0.65
+WA,Seattle Times,149050,1996,TREASURER,,,WA,"MURPHY, MIKE",Democrat,,,,,,0.50
+WA,Seattle Times,149050,1998,DA/PROSECUTOR,,King County,WA,"MALENG, NORM",Republican,1,,1,,Incumbent,0.90
+WA,Seattle Times,149050,1998,H,1,,WA,"WHITE, RICK",Republican,1,,1,,Incumbent,0.90
+WA,Seattle Times,149050,1998,H,2,,WA,"CAMMERMEYER, GRETHE",Democrat,1,,,,,0.90
+WA,Seattle Times,149050,1998,H,3,,WA,"BAIRD, BRIAN",Democrat,1,,,,,0.90
+WA,Seattle Times,149050,1998,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,Incumbent,0.90
+WA,Seattle Times,149050,1998,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,Incumbent,0.90
+WA,Seattle Times,149050,1998,H,8,,WA,"DUNN, JENNIFER",Republican,1,,1,,Incumbent,0.90
+WA,Seattle Times,149050,1998,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,Incumbent,0.90
+WA,Seattle Times,149050,1998,JUDGE,,King County District Court,WA,"LINDE, BARBARA",Nonpartisan,1,,,,,0.85
+WA,Seattle Times,149050,1998,SENATOR,,,WA,"MURRAY, PATTY",Democrat,1,1,,,Incumbent,0.90
+WA,Seattle Times,149050,1998,STATE REP,1,,WA,"EDWARDS, JEANNE",Democrat,1,,,,Position 2,0.85
+WA,Seattle Times,149050,1998,STATE REP,1,,WA,"O'BRIEN, AL",Democrat,1,1,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,11,,WA,"CODY, EILEEN",Democrat,1,1,,,Position 1; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,1,,,Position 2; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,21,,WA,"COOPER, MIKE",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,21,,WA,"RADCLIFF, RENEE",Republican,1,,1,,Position 2; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,23,,WA,"SCHMIDT, KAREN",Republican,1,,1,,Position 2,0.85
+WA,Seattle Times,149050,1998,STATE REP,30,,WA,"PRIEST, SKIP",Republican,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,31,,WA,"STENSEN, MIKE",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,31,,WA,"THOMAS, LES",Republican,1,,1,,Position 2; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,32,,WA,"EDMONDS, CAROLYN",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,32,,WA,"KAGI, RUTH",Democrat,1,,,,Position 2,0.85
+WA,Seattle Times,149050,1998,STATE REP,33,,WA,"KEISER, KAREN",Democrat,1,1,,,Position 2; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,33,,WA,"SCHUAL-BERKE, SHAY",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,34,,WA,"POULSEN, ERIK",Democrat,1,1,,,Position 1; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,1,1,,,Position 2; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,Position 1; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,37,,WA,"TOKUDA, KIP",Democrat,1,1,,,Position 2; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,37,,WA,"TOMIKO SANTOS, SHARON",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,38,,WA,"REARDON, AARON",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,39,,WA,"DUNSHEE, HANS",Democrat,1,1,,,Position 1; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,39,,WA,"PATTERSON, PATRICIA",Democrat,1,,,,Position 2,0.85
+WA,Seattle Times,149050,1998,STATE REP,41,,WA,"BALLASIOTES, IDA",Republican,1,,1,,Position 2; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,41,,WA,"WENSMAN, MIKE",Republican,1,,1,,Position 1; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,43,,WA,"CHOPP, FRANK",Democrat,1,1,,,Position 2; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE REP,43,,WA,"MURRAY, ED",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,44,,WA,"LOVICK, JOHN",Democrat,1,,,,Position 2,0.85
+WA,Seattle Times,149050,1998,STATE REP,44,,WA,"SCHMIDT, DAVID",Republican,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,45,,WA,"RUDERMAN, LAURA",Democrat,1,,,,Position 2,0.85
+WA,Seattle Times,149050,1998,STATE REP,46,,WA,"KENNEY, PHYLLIS",Democrat,1,,,,Position 2,0.85
+WA,Seattle Times,149050,1998,STATE REP,46,,WA,"MCINTIRE, JIM",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,47,,WA,"CAIRNES, JACK",Republican,1,,,,Position 2,0.85
+WA,Seattle Times,149050,1998,STATE REP,48,,WA,"ESSER, LUKE",Republican,1,,,,Position 1,0.85
+WA,Seattle Times,149050,1998,STATE REP,5,,WA,"PFLUG, CHERYL",Republican,1,,,,Position 2,0.85
+WA,Seattle Times,149050,1998,STATE REP,5,,WA,"THOMAS, BRIAN",Republican,1,,1,,Position 1; Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,21,,WA,"WOOD, JEANNETTE",Republican,1,,,,,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,30,,WA,"EIDE, TRACY",Democrat,1,,,,,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,31,,WA,"ROACH, PAM",Republican,1,,1,,Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,32,,WA,"FAIRLEY, DARLENE",Democrat,1,1,,,Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,33,,WA,"PATTERSON, JULIA",Democrat,1,,,,,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,36,,WA,"KOHL, JEANNE",Democrat,1,1,,,Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,37,,WA,"KLINE, ADAM",Democrat,1,,,,,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,38,,WA,"COSTA, JERI",Democrat,1,1,,,Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,43,,WA,"THIBAUDEAU, PATRICIA",Democrat,1,,,,,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,44,,WA,"LONG, JEANINE",Republican,1,,1,,Incumbent,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,45,,WA,"FINKBEINER, BILL",Republican,1,,,,,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,46,,WA,"JACOBSEN, KEN",Democrat,1,,,,,0.85
+WA,Seattle Times,149050,1998,STATE SENATOR,47,,WA,"JOHNSON, STEPHEN",Republican,1,,,,,0.85
+WA,Seattle Times,149050,1998,SUPREME COURT,5,,WA,"MADSEN, BARBARA",Nonpartisan,1,,,,Position 5,0.85
+WA,Seattle Times,149050,2000,ATTORNEY GENERAL,,,WA,"GREGOIRE, CHRISTINE",Democrat,1,1,,,"Re-elect endorsement; tobacco settlement leadership, consumer privacy work; criticizes recent Torts Division failure but endorses anyway",0.98
+WA,Seattle Times,149050,2000,ATTORNEY GENERAL,,,WA,"POPE, RICHARD",Republican,0,,,,Described as wholly unqualified perennial candidate,0.95
+WA,Seattle Times,149050,2000,AUDITOR,,,WA,"MCENTEE, RICHARD",Republican,0,,,,Editorial dismisses challenger arguments,0.90
+WA,Seattle Times,149050,2000,AUDITOR,,,WA,"SONNTAG, BRIAN",Democrat,1,1,,,Re-elect endorsement; cites Open Meetings Act work and audits of state ferry system and King County budget,0.98
+WA,Seattle Times,149050,2000,GOVERNOR,,,WA,"LOCKE, GARY",Democrat,1,1,,,"Smart, experienced, low-key incumbent",0.98
+WA,Seattle Times,149050,2000,H,1,,WA,"INSLEE, JAY",Democrat,1,1,,,Champion of pipeline safety reform; e-signature law,0.98
+WA,Seattle Times,149050,2000,H,1,,WA,"MCDONALD, DAN",Republican,0,,,,State senator; strong but Inslee deserves re-election,0.90
+WA,Seattle Times,149050,2000,H,2,,WA,"LARSEN, RICK",Democrat,1,,,,Potential New Democrat,0.95
+WA,Seattle Times,149050,2000,H,3,,WA,"BAIRD, BRIAN",Democrat,1,1,,,Effective bipartisan cooperation,0.95
+WA,Seattle Times,149050,2000,H,4,,WA,"DAVIS, JIM",Democrat,1,,,,Less divisive than incumbent; fourth-generation wheat farmer,0.95
+WA,Seattle Times,149050,2000,H,5,,WA,"KEEFE, TOM",Democrat,1,,,,Fresh start; Nethercutt lost credibility on term limits,0.95
+WA,Seattle Times,149050,2000,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,Popular and widely respected; leader of state delegation,0.98
+WA,Seattle Times,149050,2000,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,Re-elect him; safe seat,0.95
+WA,Seattle Times,149050,2000,H,7,,WA,"SZWAJA, JOE",Green,0,,,,Leans too far left; welcomed seriousness,0.90
+WA,Seattle Times,149050,2000,H,8,,WA,"BEHRENS-BENEDICT, HEIDI",Democrat,0,,,,Should serve on city council or school board first,0.90
+WA,Seattle Times,149050,2000,H,8,,WA,"DUNN, JENNIFER",Republican,1,,1,,Enthusiastic support; sponsor of Death Tax Elimination Act,0.98
+WA,Seattle Times,149050,2000,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,New Democrat Coalition leader; eminently qualified for third term,0.98
+WA,Seattle Times,149050,2000,H,9,,WA,"VANCE, CHRIS",Republican,0,,,,King County councilman; no credible rationale for ousting Smith,0.90
+WA,Seattle Times,149050,2000,INSURANCE COMMISSIONER,,,WA,"KREIDLER, MIKE",Democrat,1,,,,Former congressman; calm and competence,0.98
+WA,Seattle Times,149050,2000,JUDGE,11,King County Superior Court,WA,"BRYAN, ROBERT S",Nonpartisan,1,,,,Position 11,0.90
+WA,Seattle Times,149050,2000,LAND COMMISSIONER,,,WA,"SUTHERLAND, DOUG",Republican,1,,,,Public-sector executive experience and pro-environment record,0.98
+WA,Seattle Times,149050,2000,LT GOVERNOR,,,WA,"OWEN, BRAD",Democrat,1,1,,,Capable incumbent,0.98
+WA,Seattle Times,149050,2000,PRESIDENT,,,WA,"BUSH, GEORGE W",Republican,1,,,,"Endorsement editorial cites integrity, civility, bipartisanship",0.98
+WA,Seattle Times,149050,2000,PRESIDENT,,,WA,"GORE, AL",Democrat,0,,,,Editorial criticizes Gore's record and conduct,0.90
+WA,Seattle Times,149050,2000,SEC OF STATE,,,WA,"REED, SAM",Republican,1,,,,Veteran elections official,0.98
+WA,Seattle Times,149050,2000,SENATOR,,,WA,"CANTWELL, MARIA",Democrat,1,,1,,"Endorsement praising fresh ideas, tech background, social liberal/fiscal moderate",0.98
+WA,Seattle Times,149050,2000,SENATOR,,,WA,"GORTON, SLADE",Republican,0,,1,,Incumbent; criticized as out of touch despite past accomplishments,0.95
+WA,Seattle Times,149050,2000,STATE REP,1,,WA,"EDWARDS, JEANNE",Democrat,1,1,,,Position 2; arrived in Olympia prepared to work,0.95
+WA,Seattle Times,149050,2000,STATE REP,1,,WA,"MARRS, ERIC",Republican,0,,,,Position 1; needs better understanding of district,0.90
+WA,Seattle Times,149050,2000,STATE REP,1,,WA,"O'BRIEN, AL",Democrat,1,1,,,Position 1; retired Seattle police officer and Mountlake Terrace City Council veteran,0.95
+WA,Seattle Times,149050,2000,STATE REP,1,,WA,"VANDERHOFF, ANDY",Republican,0,,,,Position 2; not tested or seasoned by local community affairs,0.90
+WA,Seattle Times,149050,2000,STATE REP,11,,WA,"CODY, EILEEN",Democrat,1,1,,,Position 1,0.95
+WA,Seattle Times,149050,2000,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,1,,,Position 2,0.95
+WA,Seattle Times,149050,2000,STATE REP,21,,WA,"COOPER, MIKE",Democrat,1,1,,,"Position 1; Incumbent; Shoreline firefighter, vice chair House Transportation Committee",0.95
+WA,Seattle Times,149050,2000,STATE REP,21,,WA,"DANIELS, NED",Democrat,0,,,,Position 2,0.85
+WA,Seattle Times,149050,2000,STATE REP,21,,WA,"MONLUX, STAN",Republican,0,,,,Position 1; smart and articulate but needs a track record,0.90
+WA,Seattle Times,149050,2000,STATE REP,21,,WA,"RADCLIFF, RENEE",Republican,1,,1,,"Position 2; House Transportation Committee, vice-chair Higher Education",0.95
+WA,Seattle Times,149050,2000,STATE REP,25,,WA,"CASADA, SARAH",Republican,0,,,,Position 1; does not make a convincing case,0.90
+WA,Seattle Times,149050,2000,STATE REP,25,,WA,"HILDRETH, RICHARD",Democrat,1,,,,Position 1; clear vision on growth,0.95
+WA,Seattle Times,149050,2000,STATE REP,25,,WA,"MORELL, DAVE",Republican,1,,,,Position 2; longer track record on advisory boards and commissions,0.95
+WA,Seattle Times,149050,2000,STATE REP,25,,WA,"THOMPSON, ADRIENNE",Democrat,0,,,,Position 2,0.90
+WA,Seattle Times,149050,2000,STATE REP,30,,WA,"MILOSCIA, MARK",Democrat,1,,,,Position 1,0.95
+WA,Seattle Times,149050,2000,STATE REP,30,,WA,"MITCHELL, MARYANN",Republican,1,,1,,Position 2,0.95
+WA,Seattle Times,149050,2000,STATE REP,31,,WA,"HURST, CHRISTOPHER",Democrat,1,,,,Position 2,0.95
+WA,Seattle Times,149050,2000,STATE REP,31,,WA,"STENSEN, MIKE",Democrat,1,,,,Position 1,0.95
+WA,Seattle Times,149050,2000,STATE REP,32,,WA,"EDMONDS, CAROLYN",Democrat,1,1,,,Position 1; strong school advocate,0.95
+WA,Seattle Times,149050,2000,STATE REP,32,,WA,"KAGI, RUTH",Democrat,1,1,,,Position 2; stellar on family and children's issues,0.95
+WA,Seattle Times,149050,2000,STATE REP,33,,WA,"KEISER, KAREN",Democrat,1,1,,,Position 2,0.95
+WA,Seattle Times,149050,2000,STATE REP,33,,WA,"SCHUAL-BERKE, SHAY",Democrat,1,1,,,Position 1,0.95
+WA,Seattle Times,149050,2000,STATE REP,34,,WA,"MCDERMOTT, JOE",Democrat,1,,,,Position 2; clear choice; senior budget analyst for Seattle Public Schools,0.95
+WA,Seattle Times,149050,2000,STATE REP,34,,WA,"POULSEN, ERIK",Democrat,1,1,,,Position 1; able representative,0.95
+WA,Seattle Times,149050,2000,STATE REP,34,,WA,"UNGERLEIDER, LES",Republican,0,,,,Position 2,0.90
+WA,Seattle Times,149050,2000,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,1,1,,,Position 2; three terms; efforts on behalf of children,0.95
+WA,Seattle Times,149050,2000,STATE REP,36,,WA,"KLEIN, LESLIE",Republican,0,,,,Position 1,0.85
+WA,Seattle Times,149050,2000,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,Position 1; 27 years experience,0.95
+WA,Seattle Times,149050,2000,STATE REP,37,,WA,"BROWN, CALVIN",Republican,0,,,,Position 1; token opposition,0.85
+WA,Seattle Times,149050,2000,STATE REP,37,,WA,"TOKUDA, KIP",Democrat,1,1,,,Position 2; no opposition,0.95
+WA,Seattle Times,149050,2000,STATE REP,37,,WA,"TOMIKO SANTOS, SHARON",Democrat,1,1,,,Position 1; second term,0.95
+WA,Seattle Times,149050,2000,STATE REP,38,,WA,"HUANG, ALLEN",Republican,0,,,,Position 1; not qualified for the job,0.90
+WA,Seattle Times,149050,2000,STATE REP,38,,WA,"REARDON, AARON",Democrat,1,1,,,"Position 1; ambition personified, growing knowledge of fiscal policy",0.95
+WA,Seattle Times,149050,2000,STATE REP,38,,WA,"SCOTT, PATRICIA",Democrat,1,1,,,Position 2; advocate for health and safety of women and children; deserves re-election,0.95
+WA,Seattle Times,149050,2000,STATE REP,39,,WA,"DUNSHEE, HANS",Democrat,1,1,,,Position 1; emerging leader on school construction,0.95
+WA,Seattle Times,149050,2000,STATE REP,39,,WA,"KRISTIANSEN, DAN",Republican,0,,,,Position 1; respectable showing but Dunshee deserves re-election,0.90
+WA,Seattle Times,149050,2000,STATE REP,39,,WA,"LOOMIS, LIZ",Democrat,1,,,,Position 2; Snohomish City Council member; The choice is clear,0.95
+WA,Seattle Times,149050,2000,STATE REP,39,,WA,"PEARSON, KIRK",Republican,0,,,,Position 2,0.90
+WA,Seattle Times,149050,2000,STATE REP,44,,WA,"ENDICOTT, IRENE",Republican,0,,,,Position 2; opinions remarkably unformed,0.90
+WA,Seattle Times,149050,2000,STATE REP,44,,WA,"LOVICK, JOHN",Democrat,1,1,,,Position 2; State Patrol sergeant; works on criminal-justice and public safety,0.95
+WA,Seattle Times,149050,2000,STATE REP,44,,WA,"SCHMIDT, DAVID",Republican,1,1,,,Position 1; House Appropriations Committee,0.95
+WA,Seattle Times,149050,2000,STATE REP,44,,WA,"WATKINS, KERRY",Democrat,0,,,,Position 1; needs local elective experience,0.90
+WA,Seattle Times,149050,2000,STATE REP,45,,WA,"LAMBERT, KATHY",Republican,1,,1,,Position 1,0.95
+WA,Seattle Times,149050,2000,STATE REP,45,,WA,"RUDERMAN, LAURA",Democrat,1,1,,,Position 2,0.95
+WA,Seattle Times,149050,2000,STATE REP,46,,WA,"GROVE, TIM",Republican,0,,,,Position 2; token opponent,0.85
+WA,Seattle Times,149050,2000,STATE REP,46,,WA,"KENNEY, PHYLLIS",Democrat,1,1,,,Position 2; two-term legislator,0.95
+WA,Seattle Times,149050,2000,STATE REP,46,,WA,"MCINTIRE, JIM",Democrat,1,1,,,Position 1; UW faculty member,0.95
+WA,Seattle Times,149050,2000,STATE REP,47,,WA,"JACOBSON, DEBBIE",Democrat,1,,,,Position 2,0.95
+WA,Seattle Times,149050,2000,STATE REP,47,,WA,"SIMPSON, GEOFF",Democrat,1,,,,Position 1,0.95
+WA,Seattle Times,149050,2000,STATE REP,48,,WA,"ESSER, LUKE",Republican,1,1,,,Position 1,0.95
+WA,Seattle Times,149050,2000,STATE REP,48,,WA,"VAN LUVEN, STEVEN",Republican,1,,1,,Position 2,0.95
+WA,Seattle Times,149050,2000,STATE REP,5,,WA,"ANDERSON, GLENN",Republican,1,,,,Position 1,0.95
+WA,Seattle Times,149050,2000,STATE REP,5,,WA,"PFLUG, CHERYL",Republican,1,,,,Position 2,0.95
+WA,Seattle Times,149050,2000,STATE SENATOR,1,,WA,"MCAULIFFE, ROSEMARY",Democrat,1,1,,,"Endorsed for re-election for education work, despite criticism on charter-school initiative",0.95
+WA,Seattle Times,149050,2000,STATE SENATOR,1,,WA,"VAN HOLLEBEKE, LEO",Republican,0,,,,Lacks civic resume,0.90
+WA,Seattle Times,149050,2000,STATE SENATOR,25,,WA,"KASTAMA, JIM",Democrat,1,,,,Vision and leadership on consumer privacy and transportation issues,0.95
+WA,Seattle Times,149050,2000,STATE SENATOR,25,,WA,"MCDONALD, JOYCE",Republican,0,,,,Has served well but does not match Kastama's vision,0.90
+WA,Seattle Times,149050,2000,STATE SENATOR,34,,WA,"BAILEY, FRANK",Republican,0,,,,,0.85
+WA,Seattle Times,149050,2000,STATE SENATOR,34,,WA,"CONSTANTINE, DOW",Democrat,1,,,,Effective legislator moving to Senate from House,0.95
+WA,Seattle Times,149050,2000,STATE SENATOR,39,,WA,"SMITH, FREDDA",Democrat,1,,,,Lakewood School Board president; would be a positive change,0.95
+WA,Seattle Times,149050,2000,STATE SENATOR,39,,WA,"STEVENS, VAL",Republican,0,,1,,"Continues to disappoint after eight years; rallying against homosexuality, contraception, education reform",0.95
+WA,Seattle Times,149050,2000,STATE SENATOR,5,,WA,"ROSSI, DINO",Republican,1,,,,,0.95
+WA,Seattle Times,149050,2000,SUPREME COURT,2,,WA,"SULLIVAN, JEFF",Nonpartisan,1,,,,Position 2; long-time Yakima County prosecutor,0.95
+WA,Seattle Times,149050,2000,SUPREME COURT,9,,WA,"CHAMBERS, TOM",Nonpartisan,1,,,,Position 9; breadth of experience,0.95
+WA,Seattle Times,149050,2000,TREASURER,,,WA,"MURPHY, MIKE",Democrat,1,1,,,Sound financial management,0.98
+WA,Seattle Times,149050,2002,DA/PROSECUTOR,,Snohomish County,WA,"ELLIS, JANICE",Democrat,1,,,,Excellent choice; broad legal experience; endorsed by virtually every law-enforcement organization in Snohomish County,0.97
+WA,Seattle Times,149050,2002,DA/PROSECUTOR,,Snohomish County,WA,"ELLIS, JANICE",,1,,,,Snohomish County Prosecuting Attorney; excellent candidate for an office that needs new leadership,0.90
+WA,Seattle Times,149050,2002,DA/PROSECUTOR,,Snohomish County,WA,"KRIDER, JAMES",Republican,0,,1,,"Two-term incumbent; lost confidence of primary voters, deputy prosecutors, and law enforcement community",0.95
+WA,Seattle Times,149050,2002,H,1,,WA,"MARINE, JOE",Republican,1,1,,,Challenger to incumbent Jay Inslee; described as more reliable vote in the 1st District,0.95
+WA,Seattle Times,149050,2002,H,2,,WA,"LARSEN, RICK",Democrat,1,1,,,"Earned re-election after solid first term; thoughtful, prepared representative; pipeline safety reform; border security; Wild Skykomish Wilderness",0.98
+WA,Seattle Times,149050,2002,H,2,,WA,"SMITH, NORMA",Republican,0,,,,"Fine, credible candidate but did not make case why Larsen should be turned out",0.92
+WA,Seattle Times,149050,2002,H,3,,WA,"BAIRD, BRIAN",Democrat,1,1,,,Sensible moderate; should be re-elected,0.90
+WA,Seattle Times,149050,2002,H,4,,WA,"HASTINGS, RICHARD",Republican,1,,1,,Connections to secure funding for Hanford cleanup,0.90
+WA,Seattle Times,149050,2002,H,4,,WA,"HASTINGS, RICHARD DOC",Republican,1,,1,,Established connections for Hanford cleanup funding; secured $300K water storage study; bucks party leadership on key district issues,0.96
+WA,Seattle Times,149050,2002,H,4,,WA,"MASON, CRAIG",Democrat,0,,,,Pro-gun New Deal Democrat; limited public-service record; 17% in primary,0.92
+WA,Seattle Times,149050,2002,H,5,,WA,"HAGGIN, BART",Democrat,0,,,,Retired teacher; environmental credentials; rails against corporations; few specific ideas,0.90
+WA,Seattle Times,149050,2002,H,5,,WA,"NETHERCUTT, GEORGE",Republican,1,,1,,Good job serving district; played role in lifting US food/medicine restriction to Cuba,0.95
+WA,Seattle Times,149050,2002,H,8,,WA,"DUNN, JENNIFER",Republican,1,,1,,Incumbent; advances in experience and leadership on transportation and child-protection legislation,0.95
+WA,Seattle Times,149050,2002,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,Incumbent; deserves to return for a third term in swing 9th District,0.95
+WA,Seattle Times,149050,2002,STATE REP,1,,WA,"EDWARDS, JEANNE",Democrat,1,1,,,House Position 2; close decision; experience in Legislature and seven years on Bothell City Council,0.93
+WA,Seattle Times,149050,2002,STATE REP,1,,WA,"FREED, JOSHUA",Republican,0,,,,House Position 1; needs more seasoning in public service,0.92
+WA,Seattle Times,149050,2002,STATE REP,1,,WA,"O'BRIEN, AL",Democrat,1,1,,,"House Position 1; 29-year Seattle Police veteran; clear choice; commitment to education, disabled, elderly",0.97
+WA,Seattle Times,149050,2002,STATE REP,1,,WA,"VAN HOLLEBEKE, LEO",Republican,0,,,,House Position 2; refreshing and worthy opponent well-versed in state issues,0.88
+WA,Seattle Times,149050,2002,STATE REP,11,,WA,"GIBBS, RUTH",Republican,0,,,,Realtor; opposes health-care reform and gun show background checks,0.90
+WA,Seattle Times,149050,2002,STATE REP,11,,WA,"HUDGINS, ZACK",Democrat,1,,,,Open House seat; Microsoft manager; quick study; independent thinker,0.95
+WA,Seattle Times,149050,2002,STATE REP,11,,WA,"POTTER, JOHN",Republican,0,,,,Highline School District substitute teacher; did not mount credible campaign,0.88
+WA,Seattle Times,149050,2002,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,1,,,Beacon Hill; deserves sixth term; powerful advocate for health-care reform and public education,0.96
+WA,Seattle Times,149050,2002,STATE REP,21,,WA,"COOPER, MIKE",Democrat,1,1,,,Edmonds; earned fourth term; steady presence in Olympia; supports statewide traffic improvements,0.95
+WA,Seattle Times,149050,2002,STATE REP,21,,WA,"HUISMAN, MICHAEL",Republican,0,,,,Lost 62-38 to Sullivan in primary,0.85
+WA,Seattle Times,149050,2002,STATE REP,21,,WA,"SULLIVAN, BRIAN",Democrat,1,1,,,Mukilteo; served ably; deep local government experience; pulled 62% of primary vote,0.94
+WA,Seattle Times,149050,2002,STATE REP,30,,WA,"MILOSCIA, MARK",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,2002,STATE REP,30,,WA,"PRIEST, SKIP",Republican,1,,,,Position 2,0.85
+WA,Seattle Times,149050,2002,STATE REP,31,,WA,"CONNOR, MIKE",Democrat,1,,,,House Position 1; 10-year Sumner City Council member; ready to move up to Legislature,0.93
+WA,Seattle Times,149050,2002,STATE REP,31,,WA,"ROACH, DAN",Republican,0,1,1,,House Position 1; better than 2000 but stuck in anti-tax dogma; cannot grasp congestion needs,0.90
+WA,Seattle Times,149050,2002,STATE REP,32,,WA,"CHASE, MARALYN",Democrat,0,1,,,House Position 1; long service but campaign financing dust-up chills appeal,0.88
+WA,Seattle Times,149050,2002,STATE REP,32,,WA,"KAGI, RUTH",Democrat,1,1,,,House Position 2; earned third term; thoughtful work for families and children; led drug-sentencing reform,0.96
+WA,Seattle Times,149050,2002,STATE REP,32,,WA,"RANSOM, ROBERT",Republican,1,,,,Position 1,0.85
+WA,Seattle Times,149050,2002,STATE REP,32,,WA,"RANSOM, ROBERT L",Republican,1,,,,House Position 1; excellent choice; Shoreline city councilman; supports R-51 transportation plan,0.95
+WA,Seattle Times,149050,2002,STATE REP,32,,WA,"WIGGINS, MARGARET",Republican,0,,,,House Position 2; offers no case for replacing effective legislator,0.90
+WA,Seattle Times,149050,2002,STATE REP,33,,WA,"SCHUAL-BERKE, SHAY",Democrat,1,1,,,House Position 1; cardiologist; former Highline School Board; voted for R-51,0.95
+WA,Seattle Times,149050,2002,STATE REP,33,,WA,"UPTHEGROVE, DAVE",Democrat,1,1,,,House Position 2; appointed this year; quick study; took good care of district,0.93
+WA,Seattle Times,149050,2002,STATE REP,36,,WA,"BRINK, ANGELA",Republican,0,,,,No match for Sommers in this economic climate,0.90
+WA,Seattle Times,149050,2002,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,1,1,,,House Position 2; forceful voice for children's issues; alerted Legislature to violent videos and children's behavior,0.95
+WA,Seattle Times,149050,2002,STATE REP,36,,WA,"MCCOY-PANTOJA, RUDY",Republican,0,,,,House Position 2; dogged community activist but no case to replace Dickerson,0.88
+WA,Seattle Times,149050,2002,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,Chair House Appropriations; longest-serving member; budget expertise; strong advocate for education,0.97
+WA,Seattle Times,149050,2002,STATE REP,38,,WA,"BERKEY, JEAN",Democrat,1,1,,,Able legislator since winning special election; community college trustee experience a plus,0.92
+WA,Seattle Times,149050,2002,STATE REP,38,,WA,"HOGLUND, ERV",Republican,0,,,,"Position 1; retired pilot, third race for Legislature",0.85
+WA,Seattle Times,149050,2002,STATE REP,38,,WA,"LEMKE, GREGORY",Republican,0,,,,Twice ran as Reform Party candidate before declaring for GOP,0.82
+WA,Seattle Times,149050,2002,STATE REP,38,,WA,"MCCOY, JOHN",Democrat,1,,,,Position 1; helped Tulalips become substantial partner in Marysville economy,0.94
+WA,Seattle Times,149050,2002,STATE REP,39,,WA,"KRISTIANSEN, DAN",Republican,0,,,,Ran two years ago; views education funding as administration issue,0.88
+WA,Seattle Times,149050,2002,STATE REP,39,,WA,"PAINTER, JOHN",Democrat,0,,,,Position 2; political newcomer,0.85
+WA,Seattle Times,149050,2002,STATE REP,39,,WA,"PEARSON, KIRK",Republican,1,1,,,Position 2; clear choice; fourth-generation Monroe resident; pragmatic approach,0.95
+WA,Seattle Times,149050,2002,STATE REP,39,,WA,"QUARTERMAN, BOB",Democrat,1,,,,Open House seat (Position 1); engineer and Granite Falls School Board member; moderate Democrat with commitment to education,0.94
+WA,Seattle Times,149050,2002,STATE REP,41,,WA,"CLIBBORN, JUDY",Democrat,1,,,,"Open seat replacing retiring Republican Rep. Ida Ballasiotes; 41st District covers south Bellevue, Mercer Island, NE Renton",0.95
+WA,Seattle Times,149050,2002,STATE REP,44,,WA,"DUNSHEE, HANS",Democrat,1,1,,,Position 1; redistricted from 39th; independent Snohomish Democrat; works with Republican colleagues,0.95
+WA,Seattle Times,149050,2002,STATE REP,44,,WA,"LOVICK, JOHN",Democrat,1,1,,,Position 2; state trooper; strong public safety advocate; pushed to increase car theft penalties,0.95
+WA,Seattle Times,149050,2002,STATE REP,45,,WA,"ASHER, DAVE",Democrat,1,,,,Position 1; Kirkland City Council member; UW budget and policy analyst; ideal for balancing state budget,0.95
+WA,Seattle Times,149050,2002,STATE REP,45,,WA,"BOOKSPAN, ELIZABETH",Republican,0,,,,Position 2; good challenger; wants alternative transportation package if R-51 defeated,0.88
+WA,Seattle Times,149050,2002,STATE REP,45,,WA,"NIXON, TOBY",Republican,0,,1,,Position 1; appointed in January to replace Kathy Lambert,0.90
+WA,Seattle Times,149050,2002,STATE REP,45,,WA,"RUDERMAN, LAURA",Democrat,1,1,,,Position 2; endorsed for third term,0.95
+WA,Seattle Times,149050,2002,STATE REP,47,,WA,"CAIRNES, JACK",Republican,1,,,,Position 2,0.85
+WA,Seattle Times,149050,2002,STATE REP,47,,WA,"SIMPSON, GEOFF",Democrat,1,,,,Position 1,0.85
+WA,Seattle Times,149050,2002,STATE REP,48,,WA,"AITON, GEORGE",Republican,0,,,,Position 1; airline pilot; coy about R-51; otherwise forthright campaign,0.90
+WA,Seattle Times,149050,2002,STATE REP,48,,WA,"ESPE, CONNIE",Democrat,0,,,,Position 2; appealing newcomer; doesn't have Tom's sense of district,0.88
+WA,Seattle Times,149050,2002,STATE REP,48,,WA,"HUNTER, ROSS",Democrat,1,,,,Position 1; 41-year-old Microsoft retiree; volunteer leader for Bellevue schools; supports R-51,0.95
+WA,Seattle Times,149050,2002,STATE REP,48,,WA,"JARED, JEFF",Libertarian,0,,,,Position 2; Libertarian,0.82
+WA,Seattle Times,149050,2002,STATE REP,48,,WA,"TOM, RODNEY",Republican,1,,,,Position 2; lifelong resident and real-estate agent; moderate; solid vote for transportation,0.95
+WA,Seattle Times,149050,2002,STATE REP,5,,WA,"ANDERSON, GLENN",Republican,1,,1,,"Incumbent, Position 2; should return for a second term",0.95
+WA,Seattle Times,149050,2002,STATE REP,5,,WA,"PFLUG, CHERYL",Republican,1,,1,,Incumbent; should return to continue work on health care,0.95
+WA,Seattle Times,149050,2002,STATE SENATOR,1,,WA,"O'BRIEN, AL",Democrat,1,,,,1st District (north King and south Snohomish counties),0.85
+WA,Seattle Times,149050,2002,STATE SENATOR,21,,WA,"POTEBNYA, CHERYL",Republican,0,,,,Edmonds Republican; still forming political ideas; unable to test Shin,0.88
+WA,Seattle Times,149050,2002,STATE SENATOR,21,,WA,"SHIN, PAULL",Democrat,1,1,,,Mukilteo; Korean war orphan with successful adult life; substantial campaign treasury; not tested by challenger,0.92
+WA,Seattle Times,149050,2002,STATE SENATOR,30,,WA,"EIDE, TRACEY",Democrat,1,,,,30th District (south King County / Federal Way),0.85
+WA,Seattle Times,149050,2002,STATE SENATOR,31,,WA,"ROACH, PAM",Republican,0,1,1,,Incumbent; Ward ready to replace Roach,0.85
+WA,Seattle Times,149050,2002,STATE SENATOR,31,,WA,"WARD, YVONNE",Democrat,1,,,,Auburn Planning Commission member; vice chair WA Commission on Asian Pacific American Affairs; moderate Democrat; supports R-51,0.95
+WA,Seattle Times,149050,2002,STATE SENATOR,32,,WA,"FAIRLEY, DARLENE",Democrat,1,1,,,Strong advocate for community colleges; not tested by Republican challenger,0.92
+WA,Seattle Times,149050,2002,STATE SENATOR,32,,WA,"PLUNKETT, MICHAEL",Republican,0,,,,Did not test incumbent,0.85
+WA,Seattle Times,149050,2002,STATE SENATOR,33,,WA,"KEISER, KAREN",Democrat,1,,,,Steady vote on family issues and education; committed to boosting transportation,0.95
+WA,Seattle Times,149050,2002,STATE SENATOR,33,,WA,"RUSSELL, JAMES",Republican,0,,,,Disconnected from reality of representative democracy,0.90
+WA,Seattle Times,149050,2002,STATE SENATOR,38,,WA,"COGGESHELL, GLENN",Republican,0,,,,Eclectic background but not prepared for office,0.88
+WA,Seattle Times,149050,2002,STATE SENATOR,38,,WA,"REARDON, AARON",Democrat,1,,,,Qualified candidate; gave up House seat; economic-development interests topped agenda; two solid terms in House,0.95
+WA,Seattle Times,149050,2002,STATE SENATOR,44,,WA,"DOERFLEIN, PHIL",Democrat,0,,,,Intriguing candidate who should stay in politics,0.88
+WA,Seattle Times,149050,2002,STATE SENATOR,44,,WA,"SCHMIDT, DAVE",Republican,1,,,,Worthy successor to retiring GOP Sen. Jeanine Long; four terms in House; independent Republican; supports R-51,0.95
+WA,Seattle Times,149050,2002,STATE SENATOR,47,,WA,"JOHNSON, STEVE",Republican,1,,,,47th District (south central King County),0.85
+WA,Seattle Times,149050,2002,STATE SENATOR,48,,WA,"ESSER, LUKE",Republican,1,,,,Easy choice; no Democratic opposition; Libertarian opponent only,0.95
+WA,Seattle Times,149050,2002,STATE SENATOR,48,,WA,"LAWNICZAK, CHRISTINE",Libertarian,0,,,,Libertarian opponent,0.85
+WA,Seattle Times,149050,2002,SUPREME COURT,,,WA,"JOHNSON, CHARLES",Nonpartisan,1,,,1,Re-elect endorsement; most senior justice; strong voice for constitutional rights,0.98
+WA,Seattle Times,149050,2002,SUPREME COURT,,,WA,"JOHNSON, JIM",Nonpartisan,1,,,,"Position 3; strong legal experience, sharp mind, reverence for individual rights, deserves election to open seat",0.90
+WA,Seattle Times,149050,2002,SUPREME COURT,,,WA,"LOGINSKY, PAMELA",Nonpartisan,0,,,,Challenger; case not made for replacing a sitting justice,0.95
+WA,Seattle Times,149050,2002,SUPREME COURT,Position 3,,WA,"FAIRHURST, MARY",Nonpartisan,0,,,,Less legal experience; only worked for government; argued handful of appellate cases,0.92
+WA,Seattle Times,149050,2002,SUPREME COURT,Position 3,,WA,"JOHNSON, JIM",Nonpartisan,1,,,,Strongest candidate; decade more legal experience; argued nearly 100 published appellate cases; clearer support for constitutional rights,0.97
+WA,Seattle Times,149050,2004,ATTORNEY GENERAL,,,WA,"MCKENNA, ROB",Republican,1,,,,"King County Council member; sharp mind, solid values, knows policy and the law; Times' choice to succeed Gregoire",0.98
+WA,Seattle Times,149050,2004,AUDITOR,,,WA,"SONNTAG, BRIAN",Democrat,1,1,,,"Incumbent seeking fourth term; aggressiveness and integrity, pushed for open government and accountability",0.95
+WA,Seattle Times,149050,2004,GOVERNOR,,,WA,"ROSSI, DINO",Republican,1,,,,Former state Sen.; offers a fresh beginning; central issue is change in administrative culture of Olympia after 20 years of Democratic governors,0.98
+WA,Seattle Times,149050,2004,H,1,,WA,"INSLEE, JAY",Democrat,1,1,,,Re-election; Republicans did not offer serious challenger,0.95
+WA,Seattle Times,149050,2004,H,2,,WA,"LARSEN, RICK",Democrat,1,1,,,Re-election,0.95
+WA,Seattle Times,149050,2004,H,3,,WA,"BAIRD, BRIAN",Democrat,1,1,,,"Incumbent; 3rd Congressional District (SW Washington); strong, independent voice; deserves re-election",0.98
+WA,Seattle Times,149050,2004,H,4,,WA,"MATHESON, SANDY",Democrat,1,,,,Private-sector experience; expertise in health care; moderate political view,0.90
+WA,Seattle Times,149050,2004,H,5,,WA,"MCMORRIS, CATHY",Republican,1,,,,Open seat; led state Republican House caucus; collaborative; delivered votes for gas tax,0.95
+WA,Seattle Times,149050,2004,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,"Incumbent; House Appropriations Committee member, expert in DC, state cannot do without him. Article text refers to Dicks as 9th District but he represented 6th",0.85
+WA,Seattle Times,149050,2004,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,"Incumbent; 7th District for 15 years; reflects his district, was right about the Iraq War",0.95
+WA,Seattle Times,149050,2004,H,8,,WA,"ROSS, DAVE",Democrat,1,,,,Radio talk-show host endorsed over Republican Dave Reichert; moderation and broad sophistication,0.95
+WA,Seattle Times,149050,2004,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,"Incumbent; co-chairman of New Democrat Coalition; financial realist, young, smart, pro-trade and pro-military",0.95
+WA,Seattle Times,149050,2004,INSURANCE COMMISSIONER,,,WA,"KREIDLER, MIKE",Democrat,1,1,,,Incumbent; blocked Premera Blue Cross conversion to stock company; deserves re-election,0.98
+WA,Seattle Times,149050,2004,JUDGE,Position 23,King County Superior Court,WA,"DARVAS, ANDREA",,1,,,,King County Superior Court Position 23,0.90
+WA,Seattle Times,149050,2004,JUDGE,Position 42,King County Superior Court,WA,"WASHINGTON, CHRIS",,1,,,,King County Superior Court Position 42,0.90
+WA,Seattle Times,149050,2004,LAND COMMISSIONER,,,WA,"SUTHERLAND, DOUG",Republican,1,,1,,"Incumbent state Lands Commissioner; led DNR with steady, competent hand for four years; earned another term",0.98
+WA,Seattle Times,149050,2004,LT GOVERNOR,,,WA,"OWEN, BRAD",Democrat,1,1,,,"Incumbent seeking third term; well-rounded background, has used position to promote international trade, drug-abuse prevention, gun safety",0.95
+WA,Seattle Times,149050,2004,PRESIDENT,,,WA,"KERRY, JOHN",Democrat,1,,,,Offers more rational approach to Iraq war; better ideas working with allies,0.98
+WA,Seattle Times,149050,2004,SEC OF STATE,,,WA,"REED, SAM",Republican,1,,1,,Incumbent; seasoned public official and elections expert; easy endorsement for second four-year term,0.98
+WA,Seattle Times,149050,2004,SENATOR,,,WA,"MURRAY, PATTY",Democrat,1,1,,,Incumbent; effective advocate for Washington families; earned a third term,0.98
+WA,Seattle Times,149050,2004,STATE REP,1,,WA,"ERICKS, MARK",Democrat,1,,,,1st District House; retired Bothell chief of police,0.90
+WA,Seattle Times,149050,2004,STATE REP,1,,WA,"O'BRIEN, AL",Democrat,1,,,,1st District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,21,,WA,"ROBERTS, MARY HELEN",Democrat,1,,,,21st District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,21,,WA,"SULLIVAN, BRIAN",Democrat,1,,,,21st District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,30,,WA,"MOORE, TONY",Republican,1,,,,House Position 1; business owner; would provide change and new leadership over Miloscia,0.90
+WA,Seattle Times,149050,2004,STATE REP,30,,WA,"PRIEST, SKIP",Republican,1,,1,,South King County incumbent; helped keep Boeing 7E7 in WA; rated outstanding by Municipal League,0.95
+WA,Seattle Times,149050,2004,STATE REP,32,,WA,"KAGI, RUTH",Democrat,1,,,,32nd District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,38,,WA,"MCCOY, JOHN",Democrat,1,,,,38th District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,38,,WA,"SELLS, MIKE",Democrat,1,,,,38th District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,39,,WA,"KRISTIANSEN, DAN",Republican,1,,,,39th District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,39,,WA,"PEARSON, KIRK",Republican,1,,,,39th District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,41,,WA,"CLIBBORN, JUDY",Democrat,1,,,,41st District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,41,,WA,"JARRETT, FRED",Republican,1,,,,41st District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,44,,WA,"DUNSHEE, HANS",Democrat,1,,,,44th District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,44,,WA,"LOVICK, JOHN",Democrat,1,,,,44th District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,45,,WA,"SPRINGER, LARRY",Democrat,1,,,,45th District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,47,,WA,"SIMPSON, GEOFF",Democrat,1,1,,,House Position 1; second-term incumbent; firefighter; co-sponsored gas-tax bill,0.95
+WA,Seattle Times,149050,2004,STATE REP,47,,WA,"SULLIVAN, PATRICK",Democrat,1,,,,Challenging incumbent Jack Cairnes; 15 years legislative aide experience; rated outstanding by Municipal League,0.90
+WA,Seattle Times,149050,2004,STATE REP,48,,WA,"HUNTER, ROSS",Democrat,1,,,,48th District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,48,,WA,"TOM, RODNEY",Republican,1,,,,48th District House,0.90
+WA,Seattle Times,149050,2004,STATE REP,5,,WA,"ANDERSON, GLENN",Republican,1,,1,,Position 1; R-Fall City; experience gives him the edge over challenger Barbara de Michele,0.95
+WA,Seattle Times,149050,2004,STATE REP,5,,WA,"RODNE, JAY",Republican,1,,1,,"Position 2; Snoqualmie Republican, Pflug's appointed replacement; deserves re-election after first session",0.95
+WA,Seattle Times,149050,2004,STATE SENATOR,1,,WA,"MCAULIFFE, ROSEMARY",Democrat,1,,,,1st District Senate,0.90
+WA,Seattle Times,149050,2004,STATE SENATOR,11,,WA,"PRENTICE, MARGARITA",Democrat,1,1,,,Strong voice for children and social justice; sits on Senate Ways & Means,0.95
+WA,Seattle Times,149050,2004,STATE SENATOR,38,,WA,"BERKEY, JEAN",Democrat,1,,,,38th District Senate,0.90
+WA,Seattle Times,149050,2004,STATE SENATOR,39,,WA,"STEVENS, VAL",Republican,1,,,,39th District Senate,0.90
+WA,Seattle Times,149050,2004,STATE SENATOR,41,,WA,"HORN, JIM",Republican,1,,,,41st District Senate,0.90
+WA,Seattle Times,149050,2004,STATE SENATOR,5,,WA,"PFLUG, CHERYL",Republican,1,,1,,"Successor to Sen. Dino Rossi who resigned to run for governor; transitioned from House to Senate; distinguished five-year record; Maple Valley Republican, registered nurse",0.95
+WA,Seattle Times,149050,2004,SUPERINTENDENT,,,WA,"BERGESON, TERRY",,1,,,,Superintendent of public instruction,0.90
+WA,Seattle Times,149050,2004,SUPREME COURT,,,WA,"SANDERS, RICHARD",,1,,,1,Editorial defending prior endorsement of Justice Sanders against attack flier from Terry Sebring campaign; reaffirms support for Sanders for re-election to WA Supreme Court.,0.95
+WA,Seattle Times,149050,2004,SUPREME COURT,Position 1,,WA,"BECKER, MARY KAY",,1,,,,Washington Supreme Court Position 1,0.90
+WA,Seattle Times,149050,2004,SUPREME COURT,Position 6,,WA,"SANDERS, RICHARD",,1,,,,Washington Supreme Court Position 6,0.90
+WA,Seattle Times,149050,2004,TREASURER,,,WA,"MURPHY, MIKE",Democrat,1,1,,,Incumbent seeking third term; experience and performance trump the field,0.95
+WA,Seattle Times,149050,2006,CITY COUNCIL,,Seattle,WA,"CLARK, SALLY",,1,,,1,"Endorsed for Seattle City Council; appointed in January, has served nine months as appointee, should be elected in her own right.",0.97
+WA,Seattle Times,149050,2006,H,1,,WA,"INSLEE, JAY",Democrat,1,1,,,WA-1 incumbent - solid environmental credentials,0.97
+WA,Seattle Times,149050,2006,H,1,,WA,"ISHMAEL, LARRY",Republican,0,,,,Too new to district,0.90
+WA,Seattle Times,149050,2006,H,2,,WA,"LARSEN, RICK",Democrat,1,1,,,"Lake Stevens Democrat seeking fourth term; serves Armed Services, Agriculture, Transportation committees; co-chairs China Working Group; over Doug Roulstone",0.98
+WA,Seattle Times,149050,2006,H,2,,WA,"ROULSTONE, DOUG",Republican,0,,,,Former Navy captain; not endorsed,0.90
+WA,Seattle Times,149050,2006,H,3,,WA,"BAIRD, BRIAN",Democrat,1,1,,,"WA-3 incumbent, well-matched for swing district, anti-war, sales-tax deductibility leader",0.98
+WA,Seattle Times,149050,2006,H,3,,WA,"MESSMORE, MICHAEL",Republican,0,,,,Former Delta Airlines pilot; not endorsed,0.95
+WA,Seattle Times,149050,2006,H,5,,WA,"GOLDMARK, PETER",Democrat,0,,,,Described as excellent and intriguing candidate but Times worried about his adamant opposition to trade agreements.,0.95
+WA,Seattle Times,149050,2006,H,5,,WA,"MCMORRIS, CATHY",Republican,1,,1,,"Endorsed for re-election; good fit for conservative district, knowledge of federal issues has grown.",0.98
+WA,Seattle Times,149050,2006,H,8,,WA,"BURNER, DARCY",Democrat,0,,,,Well-spoken Democrat; too thin a resume,0.95
+WA,Seattle Times,149050,2006,H,8,,WA,"REICHERT, DAVE",Republican,1,,1,,"Auburn Republican; former King County sheriff; moderate, conscience-driven; opposed drilling ANWR; refused Terri Schiavo spectacle; over Darcy Burner",0.98
+WA,Seattle Times,149050,2006,JUDGE,,King County District Court,WA,"LASALATA, FRANK",Nonpartisan,1,,,,King County District Court,0.95
+WA,Seattle Times,149050,2006,JUDGE,Northeast,King County District Court,WA,"LASALATA, FRANK",Nonpartisan,1,,,,"King County District Court Northeast District - judge pro-tem, 'well qualified' by KCBA",0.97
+WA,Seattle Times,149050,2006,JUDGE,Northeast,King County District Court,WA,"POPE, RICHARD",Nonpartisan,0,,,,Rated 'not qualified' by KCBA; history of unprofessional conduct,0.97
+WA,Seattle Times,149050,2006,SENATOR,,,WA,"CANTWELL, MARIA",Democrat,0,1,,,Incumbent; not endorsed in favor of McGavick,0.98
+WA,Seattle Times,149050,2006,SENATOR,,,WA,"MCGAVICK, MIKE",Republican,1,,,,"Times endorses McGavick over incumbent Cantwell; both fully qualified, McGavick is the better choice",0.98
+WA,Seattle Times,149050,2006,STATE REP,1,,WA,"ERICKS, MARK",Democrat,1,1,,,"1st LD - former Bothell chief of police, helped pass identity-theft bill",0.95
+WA,Seattle Times,149050,2006,STATE REP,23,Position 1,WA,"APPLETON, SHERRY",Democrat,1,1,,,23rd LD House Position 1,0.95
+WA,Seattle Times,149050,2006,STATE REP,23,Position 2,WA,"WOODS, BEVERLY",Republican,1,1,,,23rd LD House Position 2,0.95
+WA,Seattle Times,149050,2006,STATE REP,26,Position 1,WA,"LANTZ, PATRICIA",Democrat,1,1,,,26th LD House Position 1,0.95
+WA,Seattle Times,149050,2006,STATE REP,26,Position 2,WA,"SEAQUIST, LARRY",Democrat,1,,,,26th LD House Position 2,0.95
+WA,Seattle Times,149050,2006,STATE REP,30,Position 1,WA,"MILOSCIA, MARK",Democrat,1,1,,,30th LD Position 1 - seasoned veteran with three terms,0.95
+WA,Seattle Times,149050,2006,STATE REP,30,Position 2,WA,"PRIEST, SKIP",Republican,1,1,,,30th LD Position 2 - thoughtful legislator,0.95
+WA,Seattle Times,149050,2006,STATE REP,31,Position 2,WA,"HURST, CHRISTOPHER",Democrat,0,,,,Held seat in late 1990s; not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,31,Position 1,WA,"ROACH, DAN",Republican,1,1,,,31st LD Position 1 incumbent - reduced tax burden on small businesses,0.95
+WA,Seattle Times,149050,2006,STATE REP,31,Position 2,WA,"SHABRO, JAN",Republican,1,1,,,31st LD Position 2 incumbent - chairwoman House Republican Caucus,0.95
+WA,Seattle Times,149050,2006,STATE REP,32,Position 1,WA,"CHASE, MARALYN",Democrat,1,1,,,"32nd LD Position 1 - serves on House Economic, Agriculture and Trade Committee",0.95
+WA,Seattle Times,149050,2006,STATE REP,32,Position 1,WA,"FEDEROW, NADINE",Republican,0,,,,Not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,32,Position 2,WA,"GIBBS, STEVE",Republican,0,,,,Not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,32,Position 2,WA,"KAGI, RUTH",Democrat,1,1,,,"32nd LD Position 2 - strongly endorsed for advocacy on children, families",0.97
+WA,Seattle Times,149050,2006,STATE REP,33,Position 1,WA,"SCHUAL-BERKE, SHAY",Democrat,1,1,,,"33rd LD Position 1 - former cardiologist, public-health spending advocate",0.95
+WA,Seattle Times,149050,2006,STATE REP,38,,WA,"HALVORSON, KIM",Republican,0,,,,Improved candidate but not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,38,,WA,"MCCOY, JOHN",Democrat,1,1,,,"38th LD - Tulalip Tribes general manager, solid record",0.95
+WA,Seattle Times,149050,2006,STATE REP,39,,WA,"KRISTIANSEN, DAN",Republican,1,1,,,39th LD incumbent; Times says he needed stiff challenge but didn't get one from Olson,0.70
+WA,Seattle Times,149050,2006,STATE REP,39,,WA,"OLSON, SCOTT",Democrat,0,,,,Not a strong enough challenge,0.85
+WA,Seattle Times,149050,2006,STATE REP,41,Position 2,WA,"CLIBBORN, JUDY",Democrat,1,1,,,"41st LD Position 2 incumbent, Mercer Island Democrat",0.97
+WA,Seattle Times,149050,2006,STATE REP,41,Position 2,WA,"FRETHEIM, ERIC",Republican,0,,,,Good candidate but not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,41,Position 1,WA,"JARRETT, FRED",Republican,1,1,,,"41st LD Position 1 incumbent, Mercer Island lawmaker",0.97
+WA,Seattle Times,149050,2006,STATE REP,41,Position 1,WA,"MURPHY, DALE",Democrat,0,,,,Not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,44,Position 1,WA,"DUNSHEE, HANS",Democrat,1,1,,,44th LD Position 1 - chair of House Capital Budget Committee,0.95
+WA,Seattle Times,149050,2006,STATE REP,44,Position 1,WA,"HOPE, MIKE",Republican,0,,,,Lake Stevens Republican; not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,44,Position 2,WA,"LEGG, ROBERT",Republican,0,,,,Pastor/Air Force reservist; not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,44,Position 2,WA,"LOVICK, JOHN",Democrat,1,1,,,"44th LD Position 2 incumbent, retired State Patrol sergeant",0.95
+WA,Seattle Times,149050,2006,STATE REP,45,Position 1,WA,"GOODMAN, ROGER E.",Democrat,0,,,,Not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,45,Position 2,WA,"LEE, TIM",Republican,0,,,,Promising candidate but not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,45,Position 1,WA,"POSSINGER, JEFFREY",Republican,1,,,,Duvall City Council member and attorney,0.95
+WA,Seattle Times,149050,2006,STATE REP,45,Position 2,WA,"SPRINGER, LARRY",Democrat,1,1,,,"45th LD Position 2 incumbent, former Kirkland mayor",0.97
+WA,Seattle Times,149050,2006,STATE REP,47,Position 2,WA,"FRANZ, ANDREW",Republican,0,,,,"Iraq war veteran, strong challenger but not endorsed",0.90
+WA,Seattle Times,149050,2006,STATE REP,47,Position 1,WA,"SIMPSON, GEOFF",Democrat,1,1,,,47th LD Position 1 - House Transportation Committee,0.95
+WA,Seattle Times,149050,2006,STATE REP,47,Position 2,WA,"SULLIVAN, PATRICK",Democrat,1,1,,,"47th LD Position 2 - former mayor of Covington, fiscally responsible",0.95
+WA,Seattle Times,149050,2006,STATE REP,48,Position 1,WA,"EDDY, DEB",Democrat,1,,,,48th LD vacant House seat - former Kirkland mayor,0.95
+WA,Seattle Times,149050,2006,STATE REP,48,Position 2,WA,"HUNTER, ROSS",Democrat,1,1,,,48th LD Position 2 - hardworking Bellevue Democrat incumbent,0.97
+WA,Seattle Times,149050,2006,STATE REP,48,Position 1,WA,"OLSON, BRET",Republican,0,,,,Not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE REP,48,Position 2,WA,"POTTS, NANCY",Republican,0,,,,Not a serious opponent,0.90
+WA,Seattle Times,149050,2006,STATE SENATOR,26,,WA,"KILMER, DEREK",Democrat,1,,,,26th LD Senate,0.95
+WA,Seattle Times,149050,2006,STATE SENATOR,30,,WA,"EIDE, TRACEY",Democrat,1,1,,,"30th LD - third-ranking Democrat in Senate, education committee member",0.95
+WA,Seattle Times,149050,2006,STATE SENATOR,30,,WA,"MAHER, RENEE",Republican,0,,,,Great potential but not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE SENATOR,31,,WA,"ROACH, PAM",Republican,0,,1,,31st LD incumbent; not endorsed - personal nastiness,0.95
+WA,Seattle Times,149050,2006,STATE SENATOR,31,,WA,"WARD, YVONNE",Democrat,1,,,,"31st LD - trial lawyer, civil-rights activist; endorsed over Pam Roach",0.95
+WA,Seattle Times,149050,2006,STATE SENATOR,32,,WA,"BAKER, DAVID",Republican,0,,,,Solid opponent but not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE SENATOR,32,,WA,"FAIRLEY, DARLENE",Democrat,1,1,,,"32nd LD incumbent, champion of consumer interests",0.97
+WA,Seattle Times,149050,2006,STATE SENATOR,33,,WA,"KEISER, KAREN",Democrat,1,1,,,33rd LD incumbent - strong supporter of high-school graduation test and education,0.95
+WA,Seattle Times,149050,2006,STATE SENATOR,33,,WA,"STEELE, KAREN",Republican,0,,,,GOP opponent; not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE SENATOR,43,,WA,"MURRAY, ED",Democrat,1,,,,43rd LD Senate (Seattle),0.95
+WA,Seattle Times,149050,2006,STATE SENATOR,44,,WA,"HOBBS, STEVE",Democrat,0,,,,Persistent but needs to build civic resume,0.90
+WA,Seattle Times,149050,2006,STATE SENATOR,44,,WA,"SCHMIDT, DAVE",Republican,1,,1,,"44th LD incumbent, served Washington Learns Commission",0.95
+WA,Seattle Times,149050,2006,STATE SENATOR,45,,WA,"NIXON, TOBY",Republican,1,,,,"45th LD open Senate seat - Kirkland resident, fiscal restraint",0.97
+WA,Seattle Times,149050,2006,STATE SENATOR,45,,WA,"OEMIG, ERIC",Democrat,0,,,,Worthy challenger but not endorsed,0.90
+WA,Seattle Times,149050,2006,STATE SENATOR,47,,WA,"KAUFFMAN, CLAUDIA",Democrat,1,,,,"47th LD open Senate seat - public service with American Indians, education",0.95
+WA,Seattle Times,149050,2006,STATE SENATOR,48,,WA,"ESSER, LUKE",Republican,0,,1,,48th LD incumbent; not endorsed,0.95
+WA,Seattle Times,149050,2006,STATE SENATOR,48,,WA,"TOM, RODNEY",Democrat,1,,,,"48th LD - Tom (former Republican rep, switched parties) chosen over incumbent Esser",0.97
+WA,Seattle Times,149050,2006,SUPREME COURT,,,WA,"JOHNSON, STEPHEN",Nonpartisan,1,,,,State Supreme Court,0.95
+WA,Seattle Times,149050,2008,ATTORNEY GENERAL,,,WA,"LADENBURG, JOHN",Democrat,0,,,,Pierce County Executive; not endorsed.,0.95
+WA,Seattle Times,149050,2008,ATTORNEY GENERAL,,,WA,"MCKENNA, ROB",Republican,1,,1,,"Re-elect; cited public-safety programs, US Supreme Court wins, defense of I-872.",0.98
+WA,Seattle Times,149050,2008,AUDITOR,,,WA,"SONNTAG, BRIAN",Democrat,1,1,,,Index of endorsements - Re-elect (incumbent),0.85
+WA,Seattle Times,149050,2008,COURT OF APPEALS,,,WA,"HUNT, ROBIN",,1,,,,Index of endorsements - Court of Appeals,0.85
+WA,Seattle Times,149050,2008,GOVERNOR,,,WA,"GREGOIRE, CHRISTINE",Democrat,0,1,,,Incumbent; not endorsed.,0.98
+WA,Seattle Times,149050,2008,GOVERNOR,,,WA,"ROSSI, DINO",Republican,1,,,,Endorsed over incumbent Gov. Christine Gregoire; cited fiscal discipline and budget cutting record.,0.98
+WA,Seattle Times,149050,2008,H,1,,WA,"INSLEE, JAY",Democrat,1,1,,,Endorsed for another term; environmental leadership,0.98
+WA,Seattle Times,149050,2008,H,1,,WA,"ISHMAEL, LARRY",Republican,0,1,,,Not endorsed - challenger lacks traction,0.90
+WA,Seattle Times,149050,2008,H,2,,WA,"BART, RICK",Republican,0,1,,,Not endorsed - challenger never gained momentum,0.90
+WA,Seattle Times,149050,2008,H,2,,WA,"LARSEN, RICK",Democrat,1,1,,,Index of endorsements - WA-2 Congressional,0.85
+WA,Seattle Times,149050,2008,H,3,,WA,"BAIRD, BRIAN",Democrat,1,1,,,"Endorsed for re-election; thoughtful, independent workhorse",0.98
+WA,Seattle Times,149050,2008,H,3,,WA,"DELAVAR, MICHAEL",Republican,0,1,,,Not endorsed - does not make credible case for change,0.95
+WA,Seattle Times,149050,2008,H,5,,WA,"MCMORRIS RODGERS, CATHY",Republican,1,,1,,Endorsed for another term; emerging leader,0.98
+WA,Seattle Times,149050,2008,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,,0.95
+WA,Seattle Times,149050,2008,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,,0.95
+WA,Seattle Times,149050,2008,H,8,,WA,"BURNER, DARCY",Democrat,0,,1,,Not endorsed - challenger improving but Reichert still best,0.95
+WA,Seattle Times,149050,2008,H,8,,WA,"REICHERT, DAVE",Republican,1,,1,,"Endorsed for re-election; takes votes against party (ANWR drilling, Wild Sky Wilderness, Schiavo, Wall St bailout)",0.98
+WA,Seattle Times,149050,2008,H,9,,WA,"POSTMA, JAMES",Republican,0,1,,,"Not endorsed - weak opponent, thin resume",0.95
+WA,Seattle Times,149050,2008,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,"Endorsed; chairs Terrorism subcommittee, key for Fort Lewis/McChord",0.98
+WA,Seattle Times,149050,2008,INSURANCE COMMISSIONER,,,WA,"ADAMS, JOHN",Republican,0,,,,Seattle insurance broker; described as token challenger.,0.85
+WA,Seattle Times,149050,2008,INSURANCE COMMISSIONER,,,WA,"KREIDLER, MIKE",Democrat,1,1,,,Index of endorsements - Insurance Commissioner,0.85
+WA,Seattle Times,149050,2008,JUDGE,King County Superior Court Position 1,,WA,"BRADSHAW, TIM",Nonpartisan,1,,,,Prosecutor with 125 Superior Court jury trials; rated extremely well qualified.,0.97
+WA,Seattle Times,149050,2008,JUDGE,King County Superior Court Position 1,,WA,"PARISIEN, SUE",Nonpartisan,0,,,,Assistant Attorney General; not endorsed.,0.95
+WA,Seattle Times,149050,2008,JUDGE,King County Superior Court Position 22,,WA,"GARRATT, JULIA",Nonpartisan,1,,,,"Superior Court judge pro tem since 1998; precise, technocratic manner.",0.97
+WA,Seattle Times,149050,2008,JUDGE,King County Superior Court Position 22,,WA,"HILL, HOLLY",Nonpartisan,0,,,,Lecturer at National Institute for Trial Advocacy; not endorsed.,0.95
+WA,Seattle Times,149050,2008,JUDGE,King County Superior Court Position 37,,WA,"MACK, BARBARA",Nonpartisan,0,,,,Former prosecutor; not endorsed.,0.95
+WA,Seattle Times,149050,2008,JUDGE,King County Superior Court Position 37,,WA,"RIETSCHEL, JEAN",Nonpartisan,1,,,,Seattle Municipal Court judge 12 years; rated exceptionally well qualified.,0.97
+WA,Seattle Times,149050,2008,LAND COMMISSIONER,,,WA,"GOLDMARK, PETER",Democrat,1,,1,,Endorsed over incumbent Doug Sutherland; scientific background and broader worldview cited.,0.98
+WA,Seattle Times,149050,2008,LAND COMMISSIONER,,,WA,"SUTHERLAND, DOUG",Republican,0,,1,,Incumbent Lands Commissioner; not endorsed after two prior endorsements.,0.95
+WA,Seattle Times,149050,2008,LT GOVERNOR,,,WA,"MCCRAW, MARCIA",Republican,1,,,,Endorsed for new ideas and energy; Seattle attorney.,0.97
+WA,Seattle Times,149050,2008,LT GOVERNOR,,,WA,"OWEN, BRAD",Democrat,1,1,,,Index of endorsements - Lt. Gov primary advance,0.85
+WA,Seattle Times,149050,2008,LT GOVERNOR,,,WA,"OWEN, BRAD",Democrat,0,1,,,12-year incumbent; not endorsed; time for change.,0.97
+WA,Seattle Times,149050,2008,PRESIDENT,,,WA,"MCCAIN, JOHN",Republican,0,,,,Not endorsed; cited erratic behavior and Palin pick.,0.97
+WA,Seattle Times,149050,2008,PRESIDENT,,,WA,"OBAMA, BARACK",Democrat,1,,,,"Endorsed for president; cited temperament, judgment, intellect.",0.98
+WA,Seattle Times,149050,2008,SEC OF STATE,,,WA,"REED, SAM",Republican,1,,1,,Index of endorsements - Secretary of State,0.85
+WA,Seattle Times,149050,2008,STATE REP,11,,WA,"MARTINEZ, LUIS",,1,,,,Index of endorsements - 11th LD,0.65
+WA,Seattle Times,149050,2008,STATE REP,21,,WA,"KERLEY, KIM",,1,,,,Index of endorsements - 21st LD primary advance,0.70
+WA,Seattle Times,149050,2008,STATE REP,21,Position 2,WA,"LIIAS, MARKO",Democrat,1,1,,,Endorsed; appointed Jan 2008 to fill Sullivan's seat,0.95
+WA,Seattle Times,149050,2008,STATE REP,21,,WA,"ROBERTS, MARY HELEN",,1,,,,Index of endorsements - 21st LD primary advance,0.70
+WA,Seattle Times,149050,2008,STATE REP,21,Position 1,WA,"ROBERTS, MARY HELEN",Democrat,1,1,,,"Endorsed for re-election; foster care, higher education",0.95
+WA,Seattle Times,149050,2008,STATE REP,32,,WA,"CHASE, MARALYN",Democrat,1,1,,,Reluctantly endorsed - opponent too new to district to be credible,0.85
+WA,Seattle Times,149050,2008,STATE REP,32,,WA,"RION, ALEX",Republican,0,1,,,Not endorsed - too new to district,0.90
+WA,Seattle Times,149050,2008,STATE REP,33,Position 1,WA,"GIBSON, TODD",Republican,1,,,,Endorsed for open seat (Schual-Berke retiring); voice for limited taxes,0.95
+WA,Seattle Times,149050,2008,STATE REP,33,Position 2,WA,"LAM, TAN",Republican,0,1,,,Not endorsed - not a serious candidate,0.90
+WA,Seattle Times,149050,2008,STATE REP,33,Position 2,WA,"UPTHEGROVE, DAVE",Democrat,1,1,,,Endorsed for fourth term; chair of House Select Committee on Puget Sound,0.98
+WA,Seattle Times,149050,2008,STATE REP,36,Position 1,WA,"BURBANK, JOHN",Democrat,0,,,,Not endorsed - Carlyle preferred,0.95
+WA,Seattle Times,149050,2008,STATE REP,36,,WA,"CARLYLE, REUVEN",,1,,,,Index of endorsements - 36th LD,0.80
+WA,Seattle Times,149050,2008,STATE REP,36,Position 1,WA,"CARLYLE, REUVEN",Democrat,1,,,,"Endorsed - business and public sector experience, green tech background",0.98
+WA,Seattle Times,149050,2008,STATE REP,37,Position 2,WA,"BENNETT, RUTH",Libertarian,0,1,,,Not endorsed - Pettigrew's leadership outweighs alternative,0.90
+WA,Seattle Times,149050,2008,STATE REP,37,Position 2,WA,"PETTIGREW, ERIC",Democrat,1,1,,,Endorsed for re-election; affordable housing,0.98
+WA,Seattle Times,149050,2008,STATE REP,38,,WA,"LARSON, CRIS",Independent,0,1,,,"Not endorsed - first race for office, no party affiliation",0.90
+WA,Seattle Times,149050,2008,STATE REP,38,,WA,"MCCOY, JOHN",Democrat,1,1,,,Endorsed for fourth term,0.95
+WA,Seattle Times,149050,2008,STATE REP,41,,WA,"LITZOW, STEVE",Republican,1,,,,"Endorsed for open House seat; Mercer Island City Councilman, pro-choice Republican",0.98
+WA,Seattle Times,149050,2008,STATE REP,41,,WA,"MAXWELL, MARCIE",Democrat,0,,,,Not endorsed - passionate but no original ideas,0.95
+WA,Seattle Times,149050,2008,STATE REP,44,Position 1,WA,"COUNTRYMAN, LARRY",Republican,0,1,,,Not endorsed - neophyte vs power broker,0.90
+WA,Seattle Times,149050,2008,STATE REP,44,Position 1,WA,"DUNSHEE, HANS",Democrat,1,1,,,"Endorsed; ready to lead, House Appropriations",0.95
+WA,Seattle Times,149050,2008,STATE REP,44,Position 2,WA,"HOPE, MIKE",Republican,0,1,,,Not endorsed - cannot match Loomis's political experience,0.90
+WA,Seattle Times,149050,2008,STATE REP,44,Position 2,WA,"LOOMIS, LIZ",Democrat,1,1,,,Endorsed; filled Lovick's seat after he was elected sheriff,0.95
+WA,Seattle Times,149050,2008,STATE REP,45,Position 1,WA,"NIXON, TOBY",Republican,1,,,,"Endorsed - former state House member, head of WA Coalition for Open Government",0.95
+WA,Seattle Times,149050,2008,STATE REP,45,Position 2,WA,"SPRINGER, LARRY",Democrat,1,1,,,Endorsed for re-election; affordable housing,0.98
+WA,Seattle Times,149050,2008,STATE REP,46,Position 1,WA,"POLLET, GERRY",Democrat,0,,,,Not endorsed - White better suited,0.95
+WA,Seattle Times,149050,2008,STATE REP,46,,WA,"WHITE, SCOTT",,1,,,,Index of endorsements - 46th LD,0.70
+WA,Seattle Times,149050,2008,STATE REP,46,Position 1,WA,"WHITE, SCOTT",Democrat,1,,,,Endorsed - chief of staff for King County Council; replaces McIntire,0.98
+WA,Seattle Times,149050,2008,STATE REP,48,Position 2,WA,"EDDY, DEB",Democrat,1,1,,,"Endorsed for another term; transportation, Highway 520 deal",0.98
+WA,Seattle Times,149050,2008,STATE REP,48,Position 2,WA,"FULLER, RONALD",Republican,0,1,,,Not endorsed - cannot match incumbent's expertise,0.90
+WA,Seattle Times,149050,2008,STATE REP,48,Position 1,WA,"HUNTER, ROSS",Democrat,1,1,,,Endorsed - chairman of House Finance Committee,0.98
+WA,Seattle Times,149050,2008,STATE REP,48,Position 1,WA,"LAPP, CHARLES",Republican,0,1,,,Not endorsed - weak case for change,0.90
+WA,Seattle Times,149050,2008,STATE REP,5,Position 2,WA,"ANDERSON, GLENN",Republican,1,1,,,"Endorsed - three terms, sharp fiscal eye",0.98
+WA,Seattle Times,149050,2008,STATE REP,5,Position 1,WA,"RODNE, JAY",Republican,1,1,,,"Endorsed - experienced lawmaker, strict prioritizing",0.98
+WA,Seattle Times,149050,2008,STATE REP,5,Position 2,WA,"SPRING, DAVID",Democrat,0,,1,,Not endorsed - worthy opponent but not better choice,0.90
+WA,Seattle Times,149050,2008,STATE REP,5,Position 1,WA,"VIEBROCK, JOHN",Democrat,0,,1,,Not endorsed - doesn't make compelling case for change,0.90
+WA,Seattle Times,149050,2008,STATE SENATOR,1,,WA,"MCAULIFFE, ROSEMARY",Democrat,1,1,,,Endorsed; chairs Senate Early Learning & K-12 Education Committee,0.95
+WA,Seattle Times,149050,2008,STATE SENATOR,11,,WA,"MARTINEZ, JUAN",Democrat,0,1,,,Not endorsed - solid campaign but state needs more than rhetoric,0.95
+WA,Seattle Times,149050,2008,STATE SENATOR,11,,WA,"PRENTICE, MARGARITA",Democrat,1,1,,,Index of endorsements - 11th LD,0.80
+WA,Seattle Times,149050,2008,STATE SENATOR,41,,WA,"BAKER, BOB",Republican,0,,,,Not endorsed - lacks Jarrett's understanding of state and local issues,0.95
+WA,Seattle Times,149050,2008,STATE SENATOR,41,,WA,"JARRETT, FRED",Democrat,1,,,,Endorsed for open Senate seat; party-switching former Republican House member,0.98
+WA,Seattle Times,149050,2008,STATE SENATOR,5,,WA,"PFLUG, CHERYL",Republican,1,,1,,Index of endorsements - 5th LD,0.80
+WA,Seattle Times,149050,2008,SUPERINTENDENT,,,WA,"BERGESON, TERRY",,1,,,,Index of endorsements - SPI primary advance,0.85
+WA,Seattle Times,149050,2008,SUPERINTENDENT,,,WA,"BERGESON, TERRY",Nonpartisan,1,,,1,Re-elect; cited solid performance and education reform leadership.,0.97
+WA,Seattle Times,149050,2008,SUPERINTENDENT,,,WA,"DORN, RANDY",,1,,,,Index of endorsements - SPI primary advance,0.85
+WA,Seattle Times,149050,2008,SUPERINTENDENT,,,WA,"DORN, RANDY",Nonpartisan,0,,,,Executive director of school employees' union; not endorsed.,0.95
+WA,Seattle Times,149050,2008,SUPREME COURT,,,WA,"BOND, JIM",,1,,,,Index of endorsements - State Supreme Court,0.85
+WA,Seattle Times,149050,2008,SUPREME COURT,,,WA,"JOHNSON, JIM",,1,,,,Index of endorsements - State Supreme Court,0.85
+WA,Seattle Times,149050,2008,TREASURER,,,WA,"MARTIN, ALLAN",,1,,,,Index of endorsements - State Treasurer,0.85
+WA,Seattle Times,149050,2008,TREASURER,,,WA,"MARTIN, ALLAN",Republican,1,,,,Assistant state treasurer running for open seat; endorsed by retiring Treasurer Mike Murphy.,0.97
+WA,Seattle Times,149050,2008,TREASURER,,,WA,"MCINTYRE, JIM",Democrat,0,,,,Consulting economist and Seattle legislator; not endorsed.,0.95
+WA,Seattle Times,149050,2012,ATTORNEY GENERAL,,,WA,"DUNN, REAGAN",Republican,1,,,,,0.96
+WA,Seattle Times,149050,2012,AUDITOR,,,WA,"KELLEY, TROY",Democrat,1,,,,,0.96
+WA,Seattle Times,149050,2012,GOVERNOR,,,WA,"MCKENNA, ROB",Republican,1,,,,,0.97
+WA,Seattle Times,149050,2012,H,1,,WA,"KOSTER, JOHN",Republican,1,,,,,0.95
+WA,Seattle Times,149050,2012,H,10,,WA,"HECK, DENNY",Democrat,1,,,,,0.95
+WA,Seattle Times,149050,2012,H,2,,WA,"LARSEN, RICK",Democrat,1,1,,,,0.95
+WA,Seattle Times,149050,2012,H,3,,WA,"HERRERA BEUTLER, JAIME",Republican,1,,1,,Listed as Jamie Beutler Herrera in original,0.93
+WA,Seattle Times,149050,2012,H,6,,WA,"KILMER, DEREK",Democrat,1,,,,,0.95
+WA,Seattle Times,149050,2012,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,See Monday's paper for endorsement,0.92
+WA,Seattle Times,149050,2012,H,8,,WA,"REICHERT, DAVE",Republican,1,,1,,,0.95
+WA,Seattle Times,149050,2012,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,,0.95
+WA,Seattle Times,149050,2012,INSURANCE COMMISSIONER,,,WA,"KREIDLER, MIKE",Democrat,1,1,,,,0.96
+WA,Seattle Times,149050,2012,JUDGE,42,King County,WA,"WASHINGTON, CHRIS",Nonpartisan,1,,,,King County Superior Court Position 42,0.93
+WA,Seattle Times,149050,2012,LAND COMMISSIONER,,,WA,"GOLDMARK, PETER",Democrat,1,1,,,Commissioner of Public Lands,0.96
+WA,Seattle Times,149050,2012,LT GOVERNOR,,,WA,"OWEN, BRAD",Democrat,1,1,,,,0.96
+WA,Seattle Times,149050,2012,PRESIDENT,,,WA,"OBAMA, BARACK",Democrat,1,1,,,,0.98
+WA,Seattle Times,149050,2012,SEC OF STATE,,,WA,"WYMAN, KIM",Republican,1,,,,,0.96
+WA,Seattle Times,149050,2012,SENATOR,,,WA,"CANTWELL, MARIA",Democrat,1,1,,,"Two-term incumbent; experience, pragmatism, seniority; workhorse on trade, energy",0.98
+WA,Seattle Times,149050,2012,SHERIFF,,King County,WA,"STRACHAN, STEVE",Nonpartisan,1,,,,King County Sheriff,0.95
+WA,Seattle Times,149050,2012,STATE REP,1,,WA,"STANFORD, DEREK",Democrat,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,11,,WA,"BERGQUIST, STEVE",Democrat,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE REP,11,,WA,"HUDGINS, ZACK",Democrat,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,31,,WA,"DAHLQUIST, CATHY",Republican,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,31,,WA,"HURST, CHRISTOPHER",Democrat,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE REP,32,,WA,"KAGI, RUTH",Democrat,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE REP,32,,WA,"RYU, CINDY",Democrat,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,34,,WA,"CODY, EILEEN",Democrat,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,36,,WA,"CARLYLE, REUVEN",Democrat,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,36,,WA,"TARLETON, GAEL",Democrat,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE REP,37,,WA,"PETTIGREW, ERIC",Democrat,1,1,,,Position 2 - Incumbent seeking 6th term; reform-minded; pushed charter schools; House Democratic Caucus Chair,0.97
+WA,Seattle Times,149050,2012,STATE REP,41,,WA,"EAVES, TIM",Republican,1,,,,"Small-business owner, fiscal conservative, mechanical engineer; challenger to incumbent Marcie Maxwell",0.97
+WA,Seattle Times,149050,2012,STATE REP,44,,WA,"HARMSWORTH, MARK",Republican,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,44,,WA,"HOPE, MIKE",Republican,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE REP,45,,WA,"HUSSEY, JOEL",Republican,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,45,,WA,"SPRINGER, LARRY",Democrat,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE REP,46,,WA,"CANN, SYLVESTER",Democrat,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,46,,WA,"FARRELL, JESSYN",Democrat,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE REP,47,,WA,"HARGROVE, MARK",Republican,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,47,,WA,"SULLIVAN, PAT",Democrat,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE REP,48,,WA,"HABIB, CYRUS",Democrat,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE REP,48,,WA,"HUNTER, ROSS",Democrat,1,,,,Position 1,0.93
+WA,Seattle Times,149050,2012,STATE REP,5,,WA,"MAGENDANZ, CHAD",Republican,1,,,,Position 2,0.93
+WA,Seattle Times,149050,2012,STATE SENATOR,1,,WA,"MCCRAVEY, DAWN",Republican,1,,,,,0.93
+WA,Seattle Times,149050,2012,STATE SENATOR,11,,WA,"THOMPSON, KRISTIN",Republican,1,,,,,0.93
+WA,Seattle Times,149050,2012,STATE SENATOR,41,,WA,"LITZOW, STEVE",Republican,1,,,,,0.93
+WA,Seattle Times,149050,2012,STATE SENATOR,5,,WA,"MULLET, MARK",Democrat,1,,,,,0.93
+WA,Seattle Times,149050,2012,SUPERINTENDENT,,,WA,"DORN, RANDY",Nonpartisan,1,,,1,,0.96
+WA,Seattle Times,149050,2012,SUPREME COURT,9,,WA,"MCCLOUD, SHERYL",Nonpartisan,1,,,,WA Supreme Court Position 9,0.95
+WA,Seattle Times,149050,2012,TREASURER,,,WA,"MCINTIRE, JIM",Democrat,1,1,,,,0.96
+WA,Seattle Times,149050,2013,CITY COUNCIL,2,Seattle,WA,"CONLIN, RICHARD",Nonpartisan,1,,,1,Seattle City Council Position 2; sixteen-year incumbent,0.95
+WA,Seattle Times,149050,2013,CITY COUNCIL,2,Bellevue,WA,"LEE, CONRAD",Nonpartisan,1,,,1,Bellevue City Council Position 2; incumbent,0.93
+WA,Seattle Times,149050,2013,CITY COUNCIL,4,Seattle,WA,"BAGSHAW, SALLY",Nonpartisan,1,,,1,Seattle City Council Position 4,0.95
+WA,Seattle Times,149050,2013,CITY COUNCIL,4,Bellevue,WA,"WALLACE, KEVIN",Nonpartisan,1,,,1,Bellevue City Council Position 4; incumbent,0.93
+WA,Seattle Times,149050,2013,CITY COUNCIL,6,Seattle,WA,"LICATA, NICK",Nonpartisan,1,,,1,Seattle City Council Position 6,0.95
+WA,Seattle Times,149050,2013,CITY COUNCIL,6,Bellevue,WA,"ROBINSON, LYNNE",Nonpartisan,1,,,,Bellevue City Council Position 6,0.93
+WA,Seattle Times,149050,2013,CITY COUNCIL,8,Seattle,WA,"SHEN, ALBERT",Nonpartisan,1,,,,Seattle City Council Position 8; better choice over incumbent Mike O'Brien,0.95
+WA,Seattle Times,149050,2013,CNTY COMM,,King County,WA,"CONSTANTINE, DOW",Democrat,1,1,,,King County Executive (re-elect),0.95
+WA,Seattle Times,149050,2013,CNTY COMM,1,King County,WA,"DEMBOWSKI, ROD",Democrat,1,,,1,Metropolitan King County Council District 1; appointed incumbent,0.93
+WA,Seattle Times,149050,2013,CNTY COMM,1,Snohomish County,WA,"KLEIN, KEN",Republican,1,,,,Snohomish County Council District 1; Arlington City Council member,0.93
+WA,Seattle Times,149050,2013,CNTY COMM,4,Snohomish County,WA,"RYAN, TERRY",Democrat,1,,,,Snohomish County Council District 4; Mill Creek City Council,0.93
+WA,Seattle Times,149050,2013,CNTY COMM,5,Snohomish County,WA,"SOMERS, DAVE",Democrat,1,,,1,Snohomish County Council District 5,0.93
+WA,Seattle Times,149050,2013,CNTY COMM,5,King County,WA,"UPTHEGROVE, DAVE",Democrat,1,,,,Metropolitan King County Council District 5,0.93
+WA,Seattle Times,149050,2013,CNTY COMM,9,King County,WA,"DUNN, REAGAN",Republican,1,,1,,Metropolitan King County Council District 9 (since 2005),0.93
+WA,Seattle Times,149050,2013,DIRECTOR,1,Port of Seattle,WA,"LEWIS, PETE",Nonpartisan,1,,,,Port of Seattle Commissioner Position 1; mayor of Auburn,0.93
+WA,Seattle Times,149050,2013,DIRECTOR,2,Port of Seattle,WA,"GREGOIRE, COURTNEY",Nonpartisan,1,,,1,Port of Seattle Commissioner Position 2; incumbent (appointed),0.93
+WA,Seattle Times,149050,2013,DIRECTOR,3,Port of Seattle,WA,"BOWMAN, STEPHANIE",Nonpartisan,1,,,1,Port of Seattle Commissioner Position 3; incumbent (appointed),0.93
+WA,Seattle Times,149050,2013,DIRECTOR,4,Port of Seattle,WA,"ALBRO, TOM",Nonpartisan,1,,,1,Port of Seattle Commissioner Position 4; Port Commission's president,0.93
+WA,Seattle Times,149050,2013,MAYOR,,Seattle,WA,"MURRAY, ED",Democrat,1,,,,Seattle Mayor; State Sen.; pragmatic effective leadership,0.97
+WA,Seattle Times,149050,2013,SCHOOL BOARD,,Seattle,WA,"BLANFORD, STEPHAN",Nonpartisan,1,,,,Seattle School Board,0.92
+WA,Seattle Times,149050,2013,SCHOOL BOARD,,Seattle,WA,"DALE ESTEY, SUZANNE",Nonpartisan,1,,,,Seattle School Board,0.92
+WA,Seattle Times,149050,2013,SCHOOL BOARD,4,Bellevue,WA,"ROBERSON, KRISCHANNA",Nonpartisan,1,,,,Bellevue School Board District 4,0.93
+WA,Seattle Times,149050,2013,SCHOOL BOARD,5,Bellevue,WA,"THAI, MY-LINH",Nonpartisan,1,,,,Bellevue School Board District 5,0.93
+WA,Seattle Times,149050,2013,STATE SENATOR,26,,WA,"SCHLICHER, NATHAN",Democrat,1,,,1,26th Legislative District; appointed temp replacement for Kilmer,0.95
+WA,Seattle Times,149050,2014,STATE REP,21,,WA,"ORTIZ-SELF, LILLIAN",Democrat,1,1,,,Position 2; reluctantly recommended; appointed incumbent,0.94
+WA,Seattle Times,149050,2014,STATE REP,21,,WA,"WHELPLEY, SCOTT",Democrat,1,,,,Position 1; political newcomer; former Navy aviator; Mukilteo Democrat,0.96
+WA,Seattle Times,149050,2016,SEC OF STATE,,,WA,"WYMAN, KIM",Republican,1,,1,,Re-elect to second term; 23+ years experience in election work; bipartisan support from county election officials. Challenger Tina Podlodowski (D).,0.98
+WA,Seattle Times,149050,2016,STATE REP,11-1,,WA,"HUDGINS, ZACK",Democrat,1,1,,,"Incumbent state rep, 14 years in Olympia; prime sponsor of state Dream Act. Challenger Erin Aboudara (Republican).",0.97
+WA,Seattle Times,149050,2016,STATE REP,21-1,,WA,"PETERSON, STROM",Democrat,1,1,,,"Incumbent seeking second term; Snohomish County (Mukilteo to Edmonds, Martha Lake); priorities include water quality and opioid addiction. Challenger Libertarian Alex Hels.",0.97
+WA,Seattle Times,149050,2016,STATE REP,33-2,,WA,"GREGERSON, MIA SU-LING",Democrat,1,1,,,"Incumbent SeaTac Democrat appointed 2013, won 2014. Endorsed despite serious concerns; better than Republican challenger Pamela Pollock.",0.95
+WA,Seattle Times,149050,2016,STATE REP,34-2,,WA,"FITZGIBBON, JOE",Democrat,1,1,,,Incumbent state rep; West Seattle; environmental leader; supports capital-gains tax with primary-home exemption. Challenger: Republican Andrew Pilloud.,0.97
+WA,Seattle Times,149050,2016,STATE REP,37-1,,WA,"SANTOS, SHARON TOMIKO",Democrat,1,1,,,Incumbent running for 10th term; chair of House Education Committee; supports capital-gains tax. Opponent John Dickinson dismissed as unprepared.,0.97
+WA,Seattle Times,149050,2016,STATE REP,46-1,,WA,"POLLET, GERRY",Democrat,1,1,,,Incumbent state rep since 2011; advocate for higher education and government transparency; worked on e-cigarette law. Challenger Stephanie Heart Viskovich (Libertarian).,0.97
+WA,Seattle Times,149050,2016,STATE REP,48-2,,WA,"MCBRIDE, JOAN",Democrat,1,1,,,Incumbent; former Kirkland City Council member and mayor; endorsement made with reservation due to her bill (SSHB 2576) that would undermine the Public Records Act. Challenger Benjamin Phelps (Libertarian).,0.97
+WA,Seattle Times,149050,2016,STATE REP,5-1,,WA,"RITCHIE, JASON",Democrat,1,,1,,Challenger to incumbent Jay Rodne (R-Snoqualmie) who has held seat since 2004. Small business owner; pragmatic; would bring small-business perspective. Rodne criticized for offensive Muslim comments.,0.97
+WA,Seattle Times,149050,2016,STATE REP,5-2,,WA,"GRAVES, PAUL",Republican,1,,,,Moderate Republican attorney; pragmatic; supports charter schools and reform of school financing. Opponent: Democrat Darcy Burner.,0.96
+WA,Seattle Times,149050,2016,STATE SENATOR,11,,WA,"HASEGAWA, BOB",Democrat,1,1,,,"Incumbent state senator; 11th LD covering Tukwila, Renton, Fairwood. Editorial board often disagrees on policy but he is clear choice over challenger Dennis Price (Libertarian).",0.97
+WA,Seattle Times,149050,2016,STATE SENATOR,5,,WA,"MULLET, MARK",Democrat,1,1,,,Incumbent state senator from Issaquah; nondogmatic Democrat; supports charter schools; gun-safety laws. Challenger Rep. Chad Magendanz (R).,0.97
+WA,Seattle Times,149050,2016,SUPREME COURT,1,,WA,"YU, MARY",Nonpartisan,1,,,1,Bipartisan support; supports racial-justice causes.,0.93
+WA,Seattle Times,149050,2016,SUPREME COURT,5,,WA,"MADSEN, BARBARA",Nonpartisan,1,,,1,Incumbent chief justice since 1993; led court on McCleary education-funding rulings. Challenger Kittitas County Prosecutor Greg Zempel.,0.96
+WA,Seattle Times,149050,2016,SUPREME COURT,6,,WA,"LARSON, DAVE",Nonpartisan,1,,,,"Strong, credible challenge to court; trial, bench and civic experience.",0.93
+WA,Seattle Times,149050,2017,CITY COUNCIL,,Bellevue Position 2,WA,"LEE, CONRAD",,1,,,,Incumbent of 23+ years seeking seventh term; retired engineer and businessman focused on transportation and fiscal responsibility,0.97
+WA,Seattle Times,149050,2017,CITY COUNCIL,,Bellevue Position 6,WA,"ROBINSON, LYNNE",,1,,,,"Incumbent seeking second term; physical therapist and small-business owner; focused on affordable housing, human services, environment",0.97
+WA,Seattle Times,149050,2017,CITY COUNCIL,,Bellevue Position 5,WA,"ZAHN, JANICE",,1,,,,Port of Seattle public works construction manager; four years on Bellevue Transportation Commission; will tackle housing affordability and traffic,0.97
+WA,Seattle Times,149050,2017,CITY COUNCIL,2,Bellevue City Council Position 2,WA,"LEE, CONRAD",,1,,,,"Concerned about public input and community needs. Retired engineer focused on transportation, traffic and quality of life while remaining fiscally responsible.",0.90
+WA,Seattle Times,149050,2017,CITY COUNCIL,4,Bellevue City Council Position 4,WA,"NIEUWENHUIS, JARED",,1,,,,"Smart, organized and constructive. Big believer in 'the Bellevue way' of building consensus.",0.90
+WA,Seattle Times,149050,2017,CITY COUNCIL,5,Bellevue City Council Position 5,WA,"ZAHN, JANICE",,1,,,,Knowledgeable about Bellevue issues. Helped develop Bellevue's walking and biking plan. Graduate of Advance Bellevue leadership program.,0.90
+WA,Seattle Times,149050,2017,CITY COUNCIL,6,Bellevue City Council Position 6,WA,"ROBINSON, LYNNE",,1,,,,"Involved with all important issues before the Bellevue City Council. Physical therapist focused on affordable housing, human services and the environment.",0.90
+WA,Seattle Times,149050,2017,CITY COUNCIL,8,Seattle City Council Position 8,WA,"GRANT, JON",,1,,,,"Deep understanding of Seattle's social-services apparatus, willingness to address shortcomings in housing and homeless response.",0.90
+WA,Seattle Times,149050,2017,CITY COUNCIL,9,Seattle City Council Position 9,WA,"MURAKAMI, PAT",,1,,,,Running on a campaign to increase fiscal responsibility. Proven record advocating for better governance and Seattle's underserved communities.,0.90
+WA,Seattle Times,149050,2017,CNTY COMM,,King County Executive,WA,"CONSTANTINE, DOW",,1,,,,"After two terms, presents a credible case for re-election. County focused on reducing homelessness and improving services.",0.90
+WA,Seattle Times,149050,2017,CNTY COMM,3,King County Council District 3,WA,"LAMBERT, KATHY",,1,,,,"Go-to problem solver. Has represented the county's largest district since 2002, drove council's stepped-up oversight of West Point treatment plant response.",0.90
+WA,Seattle Times,149050,2017,CNTY COMM,3,King County Council,WA,"LAMBERT, KATHY",Republican,1,,1,,Incumbent since 2002 representing county's largest district; chair of Regional Water Quality Committee; endorsed by all mayors in district,0.95
+WA,Seattle Times,149050,2017,CNTY COMM,9,King County Council District 9,WA,"DUNN, REAGAN",,1,,,,"Twelve years on the council with a long list of accomplishments. Moderate conservative since 2005. Initiatives for veterans, bus service, addiction treatment.",0.90
+WA,Seattle Times,149050,2017,CNTY COMM,9,King County Council,WA,"DUNN, REAGAN",Republican,1,,1,,"Moderate conservative incumbent since 2005; seeking fourth term in District 9; advocate for veterans, bus service, addiction treatment",0.95
+WA,Seattle Times,149050,2017,COURT OF APPEALS,1,"Court of Appeals, Division 1, District 1",WA,"SPEARMAN, MICHAEL",,1,,,,"Rated 'exceptionally well qualified' by the King County Bar Association and five other legal associations. Appointed to Court of Appeals in 2010, served as King County Superior Court Judge for 14 years.",0.90
+WA,Seattle Times,149050,2017,COURT OF APPEALS,"Division 1, Position 2",,WA,"SPEARMAN, MICHAEL",,1,,,1,Incumbent appeals court judge. Endorsed by all nine WA Supreme Court justices and 90+ judges. Challenger Nathan Choi.,0.97
+WA,Seattle Times,149050,2017,DA/PROSECUTOR,,Seattle City Attorney,WA,"LINDSAY, SCOTT",,1,,,,Worked on Capitol Hill and Seattle law firm before becoming Mayor Murray's top crime adviser. Pushed '9 1/2 blocks' strategy at Third and Pike.,0.90
+WA,Seattle Times,149050,2017,DIRECTOR,,King County Executive,WA,"CONSTANTINE, DOW",,1,1,,,"Incumbent King County Executive seeking third term. Challenger Bill Hirt described as a perennial, one-issue candidate.",0.97
+WA,Seattle Times,149050,2017,DIRECTOR,,Seattle City Attorney,WA,"LINDSAY, SCOTT",,1,,,,Seattle city attorney,0.93
+WA,Seattle Times,149050,2017,DIRECTOR,,Port of Seattle Position 4,WA,"STEINBRUECK, PETER",,1,,,,Seattle architect; served three terms on Seattle City Council; will defend port's portfolio of economic-development tools,0.96
+WA,Seattle Times,149050,2017,DIRECTOR,1,Port of Seattle Commission Position 1,WA,"CREIGHTON, JOHN",,1,,,,Lawyer who has served since 2006. Most committed to defending the port and Seattle's maritime and industrial zones.,0.90
+WA,Seattle Times,149050,2017,DIRECTOR,3,Port of Seattle Commission Position 3,WA,"BOWMAN, STEPHANIE",,1,,,,"Experience and strong background in economic development. Demonstrated principled, responsive leadership.",0.90
+WA,Seattle Times,149050,2017,DIRECTOR,4,Port of Seattle Commission Position 4,WA,"STEINBRUECK, PETER",,1,,,,Seattle architect who served three terms on the City Council. Determination to defend and support the port's portfolio of economic-development tools.,0.90
+WA,Seattle Times,149050,2017,MAYOR,,Seattle Mayor,WA,"DURKAN, JENNY",,1,,,,"Steady leadership, decades-long civic engagement, pragmatic solutions for big Seattle problems. Management chops, broad regional view, focus on affordability.",0.90
+WA,Seattle Times,149050,2017,SCHOOL BOARD,4,Seattle School Board District 4,WA,"MACK, EDEN",,1,,,,Knowledgeable about education policy. Master's degree from UW Evans School of Public Policy. Aims to help solve district's financial crisis.,0.90
+WA,Seattle Times,149050,2017,SCHOOL BOARD,5,Bellevue School Board District 5,WA,"THAI, MY-LINH",,1,,,,Expert-level understanding of state education policy and budgeting. Worked on racial equity and the achievement gap.,0.90
+WA,Seattle Times,149050,2017,SCHOOL BOARD,5,Seattle School Board District 5,WA,"VASQUEZ, OMAR",,1,,,,Legal knowledge and time as a classroom teacher would benefit the school board. Concrete and creative ideas for the district's financial problems and achievement gap.,0.90
+WA,Seattle Times,149050,2017,SCHOOL BOARD,7,Seattle School Board District 7,WA,"BYERS, CHELSEA",,1,,,,"Sharp financial knowledge, new ideas to push the district beyond budget problems and achievement gap. Experience teaching in an inner-city school district.",0.90
+WA,Seattle Times,149050,2017,SHERIFF,,King County Sheriff,WA,"JOHANKNECHT, MITZI",,1,,,,"Managed the SWAT team, special operations and two different precincts. Incumbent Urquhart's management ability called into question by suppressed rape investigation.",0.90
+WA,Seattle Times,149050,2017,STATE REP,48,48th Legislative District,WA,"SLATTER, VANDANA",,1,,,,Brings expertise in health care and biotechnology to Olympia. Effective at getting two bills passed during her first session.,0.90
+WA,Seattle Times,149050,2017,STATE REP,48,,WA,"SLATTER, VANDANA",Democrat,1,,,,Appointed incumbent; brings expertise in health care and biotechnology; sponsored two bills in first session,0.98
+WA,Seattle Times,149050,2017,STATE SENATOR,45,,WA,"ENGLUND, JINYOUNG",Republican,1,,,,45th LD State Senate special election,0.95
+WA,Seattle Times,149050,2017,STATE SENATOR,45,45th Legislative District,WA,"ENGLUND, JINYOUNG LEE",Republican,1,,,,Englund will preserve a 'balance of government' that will better serve Washington state. Congressional staffer experience and developed a communications app for the Marine Corps.,0.90
+WA,Seattle Times,149050,2017,STATE SENATOR,48,48th Legislative District,WA,"KUDERER, PATTY",,1,,,,"Already proven successful at promoting sensible legislation with bipartisan support. Demonstrated knowledge in transportation, business, health care and the environment.",0.90
+WA,Seattle Times,149050,2017,STATE SENATOR,48,,WA,"KUDERER, PATTY",Democrat,1,,,,48th LD State Senate,0.93
+WA,Seattle Times,149050,2018,DA/PROSECUTOR,,King County,WA,"SATTERBERG, DAN",Nonpartisan,1,,,1,King County Prosecuting Attorney; helped launch LEAD program,0.90
+WA,Seattle Times,149050,2018,H,1,,WA,"DELBENE, SUZAN",Democrat,1,1,,,"Hyper-focused on jobs and the concerns of her 1st District, which range from high-tech to farm policies.",0.90
+WA,Seattle Times,149050,2018,H,6,,WA,"KILMER, DEREK",Democrat,1,1,,,Co-chairs Bipartisan Working Group; works to overcome polarization,0.90
+WA,Seattle Times,149050,2018,H,7,,WA,"JAYAPAL, PRAMILA",Democrat,1,1,,,Channeled progressive passion toward productive efforts,0.90
+WA,Seattle Times,149050,2018,H,8,,WA,"HADER, SHANNON",Democrat,1,,,,Experience managing programs with taxpayer dollars as a public-health doctor and past division director at the CDC. Co-endorsed with Dino Rossi for top-two primary advancement.,0.90
+WA,Seattle Times,149050,2018,H,8,,WA,"ROSSI, DINO",Republican,1,,,,Former state Senate budget chief campaigning on his ability to balance a budget and work across party lines. Co-endorsed with Shannon Hader for top-two primary advancement.,0.90
+WA,Seattle Times,149050,2018,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,A strong advocate for immigration reform and Washington's military interests in Congress.,0.90
+WA,Seattle Times,149050,2018,SENATOR,,,WA,"CANTWELL, MARIA",Democrat,1,1,,,Three-term incumbent; ranking Democrat on Senate Energy and Natural Resources Committee,0.90
+WA,Seattle Times,149050,2018,STATE REP,1,Position 2,WA,"KLOBA, SHELLEY",Democrat,1,,,,Former Kirkland City Council member brings an informed perspective of state government effects on local government and understands the importance of resolving Interstate 405's remaining challenges.,0.90
+WA,Seattle Times,149050,2018,STATE REP,1,Position 1,WA,"STANFORD, DEREK",Democrat,1,,,,"Runs a small data-science consulting business; data-driven approach to state policy with an eye on the long term, including homelessness and education reform.",0.90
+WA,Seattle Times,149050,2018,STATE REP,21,Position 2,WA,"ORTIZ-SELF, LILLIAN",Democrat,1,,,,Counselor for Everett Public Schools; insights on school funding,0.90
+WA,Seattle Times,149050,2018,STATE REP,21,Position 1,WA,"PETERSON, STROM",Democrat,1,,,,Worked on drug take-back system bill; addressing opioid crisis,0.90
+WA,Seattle Times,149050,2018,STATE REP,30,Position 1,WA,"PELLICCIOTTI, MIKE",Democrat,1,,,,Former King County deputy prosecutor; sponsored bills against dark money,0.90
+WA,Seattle Times,149050,2018,STATE REP,30,Position 2,WA,"REEVES, KRISTINE",Democrat,1,,,,Thoughtful lawmaker; understands K-12 spending accountability,0.90
+WA,Seattle Times,149050,2018,STATE REP,31,Position 2,WA,"IRWIN, MORGAN",Republican,1,,,,"Well-studied on a variety of state policy issues, with his law-enforcement background lending an important perspective to discussions about mental-health care and public safety.",0.90
+WA,Seattle Times,149050,2018,STATE REP,31,Position 1,WA,"STOKESBARY, DREW",Republican,1,,,,Skeptical of new taxes; focused on special education funding,0.90
+WA,Seattle Times,149050,2018,STATE REP,32,Position 2,WA,"DAVIS, LAUREN",Democrat,1,,,,Founding executive director of Washington Recovery Alliance; pressed for sentencing reforms and increased recovery services; worked on school suicide-prevention programs after working at the Bill & Melinda Gates Foundation.,0.90
+WA,Seattle Times,149050,2018,STATE REP,32,Position 1,WA,"RYU, CINDY",Democrat,1,,,,Member of capital budget and community development committees,0.90
+WA,Seattle Times,149050,2018,STATE REP,32,Position 1,WA,"SMITH, KEITH",Democrat,1,,,,A passionate advocate for juveniles interacting with the justice system.,0.90
+WA,Seattle Times,149050,2018,STATE REP,33,Position 2,WA,"GREGERSON, MIA",Democrat,1,,,,Advocated for state's Voting Rights Act,0.90
+WA,Seattle Times,149050,2018,STATE REP,36,Position 1,WA,"FRAME, NOEL",Democrat,1,,,,Juvenile-justice reforms and advocacy for foster children,0.90
+WA,Seattle Times,149050,2018,STATE REP,36,Position 2,WA,"TARLETON, GAEL",Democrat,1,,,,Former Port of Seattle commissioner; advocate for maritime industry,0.90
+WA,Seattle Times,149050,2018,STATE REP,37,Position 2,WA,"PETTIGREW, ERIC",Democrat,1,,,,"After 16 years in the Legislature, has plenty of experience and knowledge of the issues Washington faces.",0.90
+WA,Seattle Times,149050,2018,STATE REP,41,Position 1,WA,"SENN, TANA",Democrat,1,,,,A reliable voice for women and families in the Legislature.,0.90
+WA,Seattle Times,149050,2018,STATE REP,41,Position 2,WA,"THAI, MY-LINH",Democrat,1,,,,Knowledge of education policy and funding.,0.90
+WA,Seattle Times,149050,2018,STATE REP,43,Position 2,WA,"CHOPP, FRANK",Democrat,1,,,,"A strong hand on the state House tiller, Speaker Frank Chopp is an unflagging advocate for social justice and affordable housing.",0.90
+WA,Seattle Times,149050,2018,STATE REP,43,Position 1,WA,"MACRI, NICOLE",Democrat,1,,,,Front-line experience supporting people who are homeless,0.90
+WA,Seattle Times,149050,2018,STATE REP,44,Position 2,WA,"HARMSWORTH, MARK",Republican,1,,,,Advocates for fiscal responsibility on state education finance reform,0.90
+WA,Seattle Times,149050,2018,STATE REP,44,Position 1,WA,"LOVICK, JOHN",Democrat,1,,,,Retired Washington State Patrol trooper; speaker pro tem; former Snohomish County exec/sheriff,0.90
+WA,Seattle Times,149050,2018,STATE REP,45,Position 1,WA,"GOODMAN, ROGER",Democrat,1,,,,House public safety chairman; D-Kirkland; focus on accountability,0.90
+WA,Seattle Times,149050,2018,STATE REP,45,Position 2,WA,"SPRINGER, LARRY",Democrat,1,,,,Pragmatic and solution-seeking; member of caucus leadership,0.90
+WA,Seattle Times,149050,2018,STATE REP,46,Position 1,WA,"POLLET, GERRY",Democrat,1,,,,Deep understanding of state's Public Records Act,0.90
+WA,Seattle Times,149050,2018,STATE REP,46,Position 2,WA,"VALDEZ, JAVIER",Democrat,1,,,,North Seattle Democrat; cross-state perspective from Moses Lake roots,0.90
+WA,Seattle Times,149050,2018,STATE REP,47,Position 1,WA,"ENTENMAN, DEBRA",Democrat,1,,,,Would be a strong advocate for education and efforts to address mental-health and addiction issues.,0.90
+WA,Seattle Times,149050,2018,STATE REP,47,Position 2,WA,"SULLIVAN, PAT",Democrat,1,,,,"Former mayor of Covington, has proven to be a strong representative in the state House of Representatives, especially with his leadership on McCleary education funding reforms.",0.90
+WA,Seattle Times,149050,2018,STATE REP,48,Position 2,WA,"WALEN, AMY",Democrat,1,,,,Kirkland City Council member since 2009 and mayor since 2014; auto dealership executive,0.90
+WA,Seattle Times,149050,2018,STATE REP,5,Position 2,WA,"GRAVES, PAUL",Republican,1,,,,"A smart, independent thinker who is quick to offer alternative, yet sensible, proposals to address complicated state problems.",0.90
+WA,Seattle Times,149050,2018,STATE REP,5,Position 1,WA,"MAGENDANZ, CHAD",Republican,1,,,,Deep knowledge of Washington's education system; works across the aisle,0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,21,,WA,"LIIAS, MARKO",Democrat,1,,,,"Advocacy for transit and transportation package, successful push to ban gay conversion therapy.",0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,30,,WA,"MILOSCIA, MARK",Republican,1,,,,"Commitment to open government and accountable spending, upholding the Public Records Act.",0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,31,,WA,"FERRERIA, IMMACULATE",Democrat,1,,,,"Experience as an advocate for early-learning programs, on-the-ground experience connecting families to social services through in-home visits.",0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,32,,WA,"SALOMON, JESSE",Democrat,1,,,,"Experience as a King County public defender, working with social issues that are a legislative priority.",0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,33,,WA,"KEISER, KAREN",Democrat,1,,,,Worked to advance important workplace policies such as paid-family leave. Deep knowledge of the state's mental-health crisis.,0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,34,,WA,"BRADDOCK, SHANNON",Democrat,1,,,,Experience in government and working in a bipartisan environment; progressive stances on social issues that fit the district.,0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,36,,WA,"CARLYLE, REUVEN",Democrat,1,,,,"Passionate, dedicated and thoughtful legislator; Queen Anne, Magnolia and Ballard",0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,37,,WA,"SALDANA, REBECCA",Democrat,1,,,,Advocate for worker rights with brains and political savvy,0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,43,,WA,"PEDERSEN, JAMIE",Democrat,1,,,,Standout state senator; productive and influential advocate,0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,44,,WA,"HOBBS, STEVE",Democrat,1,,,,"Leadership on transportation issues, proven record of independent-thinking and collaboration.",0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,45,,WA,"DHINGRA, MANKA",Democrat,1,,,,Redmond Democrat; experience as county prosecutor and on mental-health issues,0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,46,,WA,"FROCKT, DAVID",Democrat,1,,,,Best choice to avoid counterproductive culture wars in the Legislature,0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,47,,WA,"FAIN, JOE",Republican,1,,,,Leader on education policy; built bipartisan coalition for family/medical leave,0.90
+WA,Seattle Times,149050,2018,STATE SENATOR,48,,WA,"TOM, RODNEY",Democrat,1,,,,Promises support for legislative transparency and to be a check on Democratic default mode of seeking solutions first in tax increases rather than reforms.,0.90
+WA,Seattle Times,149050,2018,SUPREME COURT,Position 2,,WA,"OWENS, SUSAN",Nonpartisan,1,,,1,Tumwater resident brings rural perspective; McCleary work was a highlight,0.90
+WA,Seattle Times,149050,2018,SUPREME COURT,Position 8,,WA,"GONZALEZ, STEVE",Nonpartisan,1,,,1,High-performing justice deserving voters' support,0.90
+WA,Seattle Times,149050,2018,SUPREME COURT,Position 9,,WA,"MCCLOUD, SHERYL",Nonpartisan,1,,,1,Authored court's 2017 opinion on Richland florist anti-discrimination case,0.90

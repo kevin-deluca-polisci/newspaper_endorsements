@@ -1,0 +1,1507 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+CA,San Francisco Chronicle,104251,1914,GOVERNOR,,San Francisco,CA,"HOLSMAN, CHARLES A.",Republican,1,,,,ONE OF FOUR ACCEPTABLE REPUBLICAN CANDIDATES,0.85
+CA,San Francisco Chronicle,104251,1914,GOVERNOR,,San Francisco,CA,"FREDERICKS, JOHN D.",Republican,1,,,,ONE OF FOUR ACCEPTABLE REPUBLICAN CANDIDATES,0.85
+CA,San Francisco Chronicle,104251,1914,GOVERNOR,,San Francisco,CA,"HEISING, FRANCIS J.",Republican,1,,,,ONE OF FOUR ACCEPTABLE REPUBLICAN CANDIDATES,0.75
+CA,San Francisco Chronicle,104251,1914,GOVERNOR,,San Francisco,CA,"RALSTON, W. C.",Republican,1,,,,ONE OF FOUR ACCEPTABLE REPUBLICAN CANDIDATES,0.85
+CA,San Francisco Chronicle,104251,1914,LT GOVERNOR,,San Francisco,CA,"BAUER, HAMILTON A.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,LT GOVERNOR,,San Francisco,CA,"AIKEN, ALBERT J.",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1914,LT GOVERNOR,,San Francisco,CA,"WARD, MARTIN L.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,LT GOVERNOR,,San Francisco,CA,"CONNING, MERLIN K.",Republican,1,,,,,0.7
+CA,San Francisco Chronicle,104251,1914,SEC OF STATE,,San Francisco,CA,"JORDAN, FRANK C.",Republican,1,,,,REGULAR REPUBLICAN NOMINEE,0.9
+CA,San Francisco Chronicle,104251,1914,SEC OF STATE,,San Francisco,CA,"STOCKWELL, JAMES EDWARD",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,CONTROLLER,,San Francisco,CA,"NYE, A. B.",Republican,1,,,,,0.7
+CA,San Francisco Chronicle,104251,1914,TREASURER,,San Francisco,CA,"PHILLIPS, W. W.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,TREASURER,,San Francisco,CA,"SWAN, CHARLES D.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,TREASURER,,San Francisco,CA,"RILEY, SAMUEL FRANKLIN",Republican,1,,,,,0.75
+CA,San Francisco Chronicle,104251,1914,TREASURER,,San Francisco,CA,"HEAD, EDWIN L.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,ATTORNEY GENERAL,,San Francisco,CA,"CATLIN, JOHN",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1914,ATTORNEY GENERAL,,San Francisco,CA,"HART, WILLIAM H. H.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,SURVEYOR GENERAL,,San Francisco,CA,"KINGSBURY, W. S.",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1914,BOARD OF EQUALIZATION,1,San Francisco,CA,"AICHTINGER, ED M.",Republican,1,,,,,0.7
+CA,San Francisco Chronicle,104251,1914,BOARD OF EQUALIZATION,1,San Francisco,CA,"RIGGS, OSCAR G. B.",Republican,1,,,,,0.75
+CA,San Francisco Chronicle,104251,1914,BOARD OF EQUALIZATION,1,San Francisco,CA,"MATTHIS, FRANK",Republican,1,,,,,0.75
+CA,San Francisco Chronicle,104251,1914,BOARD OF EQUALIZATION,2,San Francisco,CA,"ATWOOD, T. C.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,BOARD OF EQUALIZATION,4,San Francisco,CA,"MCELVAINE, JEFF",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,SENATOR,,San Francisco,CA,"KNOWLAND, JOSEPH R.",Republican,1,,,,ONE OF TWO ACCEPTABLE REPUBLICAN CANDIDATES FOR US SENATE,0.9
+CA,San Francisco Chronicle,104251,1914,SENATOR,,San Francisco,CA,"SHORTRIDGE, SAMUEL M.",Republican,1,,,,ONE OF TWO ACCEPTABLE REPUBLICAN CANDIDATES FOR US SENATE,0.9
+CA,San Francisco Chronicle,104251,1914,H,4,San Francisco,CA,"KAHN, JULIUS",Republican,1,,1,,REGULAR REPUBLICAN NOMINEE; NAMED SPECIFICALLY AMONG CONGRESSIONAL CANDIDATES,0.9
+CA,San Francisco Chronicle,104251,1914,H,5,San Francisco,CA,"JONES, JOHN R.",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1914,STATE SENATOR,18,San Francisco,CA,"HARTMAN, GUS",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,STATE SENATOR,20,San Francisco,CA,"RUSSELL, ALEXANDER",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,STATE SENATOR,22,San Francisco,CA,"REGAN, DANIEL P.",Republican,1,,,,VOTE FOR EACH,0.85
+CA,San Francisco Chronicle,104251,1914,STATE SENATOR,22,San Francisco,CA,"SHEEHAN, TIMOTHY F.",Republican,1,,,,VOTE FOR EACH,0.75
+CA,San Francisco Chronicle,104251,1914,STATE SENATOR,22,San Francisco,CA,"NOLAN, EDWARD J. D.",Republican,1,,,,VOTE FOR EACH,0.85
+CA,San Francisco Chronicle,104251,1914,STATE REP,25,San Francisco,CA,"CONDON, MICHAEL",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,STATE REP,23,San Francisco,CA,"FLYNN, W. A.",Republican,1,,,,VOTE FOR EACH,0.8
+CA,San Francisco Chronicle,104251,1914,STATE REP,23,San Francisco,CA,"FYNE, DANIEL T.",Republican,1,,,,VOTE FOR EACH,0.75
+CA,San Francisco Chronicle,104251,1914,STATE REP,24,San Francisco,CA,"FARLEY, BERNARD JR.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,STATE REP,26,San Francisco,CA,"GOOTH, CHARLES W.",Republican,1,,,,VOTE FOR EACH,0.75
+CA,San Francisco Chronicle,104251,1914,STATE REP,26,San Francisco,CA,"HIGGINS, HIRAM J.",Republican,1,,,,VOTE FOR EACH,0.8
+CA,San Francisco Chronicle,104251,1914,STATE REP,27,San Francisco,CA,"HAYES, WILLIAM A.",Republican,1,,,,VOTE FOR EACH,0.8
+CA,San Francisco Chronicle,104251,1914,STATE REP,27,San Francisco,CA,"MCCLANAHAN, S. J.",Republican,1,,,,VOTE FOR EACH,0.75
+CA,San Francisco Chronicle,104251,1914,STATE REP,28,San Francisco,CA,"GLEASON, R. E.",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1914,STATE REP,28,San Francisco,CA,"WALL, ROBERT M.",Republican,1,,,,,0.75
+CA,San Francisco Chronicle,104251,1914,STATE REP,29,San Francisco,CA,"SULLIVAN, CHARLES C.",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1914,STATE REP,30,San Francisco,CA,"HEANEY, EDWARD J.",Republican,1,,,,VOTE FOR EACH,0.8
+CA,San Francisco Chronicle,104251,1914,STATE REP,30,San Francisco,CA,"MCDONALD, JAMES J.",Republican,1,,,,VOTE FOR EACH,0.8
+CA,San Francisco Chronicle,104251,1914,STATE REP,31,San Francisco,CA,"PFAFFLE, EUGENE E.",Republican,1,,,,,0.75
+CA,San Francisco Chronicle,104251,1914,STATE REP,32,San Francisco,CA,"COHN, MAHON D.",Republican,1,,,,,0.75
+CA,San Francisco Chronicle,104251,1914,STATE REP,33,San Francisco,CA,"GERSTICH, MAX E.",Republican,1,,,,,0.7
+CA,San Francisco Chronicle,104251,1914,STATE REP,34,San Francisco,CA,"SCHMITT, MILTON L.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1914,STATE REP,35,San Francisco,CA,"RODGERS, FRANK N.",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1914,STATE REP,36,San Francisco,CA,"WHELAN, FRANK E.",Republican,1,,,,,0.75
+CA,San Francisco Chronicle,104251,1914,DELEGATE,19,San Francisco,CA,"GRANTLAND, GEORGE C.",Republican,1,,,,"DELEGATE TO STATE CONVENTION, 19TH SENATORIAL DISTRICT",0.8
+CA,San Francisco Chronicle,104251,1914,DELEGATE,21,San Francisco,CA,"FRITZ, M.",Republican,1,,,,"DELEGATE TO STATE CONVENTION, 21ST SENATORIAL DISTRICT",0.7
+CA,San Francisco Chronicle,104251,1914,DELEGATE,23,San Francisco,CA,"BAYREUTHER, JOHN",Republican,1,,,,"DELEGATE TO STATE CONVENTION, 23RD SENATORIAL DISTRICT; MUST BE WRITTEN IN",0.8
+CA,San Francisco Chronicle,104251,1914,SUPREME COURT,,San Francisco,CA,"ANGELLOTTI, FRANK M.",,1,,,,"CHIEF JUSTICE, FULL TERM; NONPARTISAN",0.9
+CA,San Francisco Chronicle,104251,1914,SUPREME COURT,,San Francisco,CA,"JAMES, WILLIAM P.",,1,,,,ASSOCIATE JUSTICE; VOTE FOR TWO ONLY; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,SUPREME COURT,,San Francisco,CA,"MURPHY, JOHN D.",,1,,,,ASSOCIATE JUSTICE; VOTE FOR TWO; NONPARTISAN,0.8
+CA,San Francisco Chronicle,104251,1914,SUPREME COURT,,San Francisco,CA,"SHAW, LUCIEN",,1,,,,ASSOCIATE JUSTICE; VOTE FOR TWO ONLY; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1914,COURT OF APPEALS,1,San Francisco,CA,"KERRIGAN, FRANK R.",,1,,,,"JUDGE, DISTRICT COURT OF APPEAL, FIRST DISTRICT; NONPARTISAN",0.85
+CA,San Francisco Chronicle,104251,1914,COURT OF APPEALS,1,San Francisco,CA,"STRATTON, FREDERICK W.",,1,,,,"UNEXPIRED TERM, FIRST DISTRICT; VOTE FOR ONE; NONPARTISAN",0.75
+CA,San Francisco Chronicle,104251,1914,COURT OF APPEALS,1,San Francisco,CA,"RICHARDS, JOHN E.",,1,,,,"FIRST APPELLATE DISTRICT, SHORT TERM; VOTE FOR ONE; NONPARTISAN",0.85
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"CUFF, MARCUS E.",,1,,,,BAR ASSOCIATION RECOMMENDED; NONPARTISAN,0.75
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"CROTHERS, GEORGE S.",,1,,,,BAR ASSOCIATION RECOMMENDED; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"DUNNE, FRANK H.",,1,,,,BAR ASSOCIATION RECOMMENDED; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"GRAUPNER, A. E.",,1,,,,BAR ASSOCIATION RECOMMENDED; NONPARTISAN,0.8
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"GRIFFIN, FRANKLIN A.",,1,,,,BAR ASSOCIATION RECOMMENDED; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"HUNT, JOHN",,1,,,,BAR ASSOCIATION RECOMMENDED; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"STURTEVANT, GEORGE E.",,1,,,,BAR ASSOCIATION RECOMMENDED; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"O'DONNELL, JOSEPH E.",,1,,,,BAR ASSOCIATION RECOMMENDED; NONPARTISAN,0.8
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"VAN NOSTRAND, JOHN J.",,1,,,,ADDITIONAL CHRONICLE RECOMMENDATION BEYOND BAR ASSOCIATION LIST; NONPARTISAN,0.8
+CA,San Francisco Chronicle,104251,1914,JUSTICE OF THE PEACE,,San Francisco,CA,"BARNETT, A. T.",,1,,,,VOTE FOR FIVE; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,JUSTICE OF THE PEACE,,San Francisco,CA,"CONLAN, JAMES G.",,1,,,,VOTE FOR FIVE; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,JUSTICE OF THE PEACE,,San Francisco,CA,"CONLAN, JAMES",,1,,,,VOTE FOR FIVE; NONPARTISAN; MAY BE SAME PERSON AS JAMES G. CONLAN OR DIFFERENT,0.7
+CA,San Francisco Chronicle,104251,1914,JUSTICE OF THE PEACE,,San Francisco,CA,"PRENDERGAST, THOMAS P.",,1,,,,VOTE FOR FIVE; NONPARTISAN,0.75
+CA,San Francisco Chronicle,104251,1914,JUSTICE OF THE PEACE,,San Francisco,CA,"FOLEY, W. F.",,1,,,,VOTE FOR FIVE; NONPARTISAN,0.75
+CA,San Francisco Chronicle,104251,1914,SUPERINTENDENT,,San Francisco,CA,"BALDWIN, ROGER A.",,1,,,,VOTE FOR ONE; NONPARTISAN STATE OFFICE,0.75
+CA,San Francisco Chronicle,104251,1914,SUPERINTENDENT,,San Francisco,CA,"CLOUD, A. J.",,1,,,,VOTE FOR ONE; NONPARTISAN STATE OFFICE,0.8
+CA,San Francisco Chronicle,104251,1914,SUPERINTENDENT,,San Francisco,CA,"RONCOVIERI, ALFRED",,1,,,,SAN FRANCISCO SUPERINTENDENT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,SUPREME COURT,,San Francisco,CA,"MURPHEY, J. D.",,1,,,,ASSOCIATE JUSTICE; VOTE FOR TWO ONLY; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,COURT OF APPEALS,1,San Francisco,CA,"KERRIGAN, FRANK H.",,1,,,,"FIRST APPELLATE DISTRICT, FULL TERM; NONPARTISAN",0.9
+CA,San Francisco Chronicle,104251,1914,COURT OF APPEALS,1,San Francisco,CA,"STRATTON, FREDERICK S.",,1,,,,"FIRST APPELLATE DISTRICT, SHORT TERM; VOTE FOR ONE; NONPARTISAN",0.85
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"CROTHERS, GEORGE E.",,1,,,,VOTE FOR EIGHT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"STURTEVANT, GEORGE A.",,1,,,,VOTE FOR EIGHT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"FLOOD, BERNARD J.",,1,,,,VOTE FOR EIGHT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,SUPERIOR COURT,,San Francisco,CA,"CERF, MARCEL E.",,1,,,,VOTE FOR EIGHT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,JUSTICE OF THE PEACE,,San Francisco,CA,"DANIELS, JOHN R.",,1,,,,VOTE FOR FIVE; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,JUSTICE OF THE PEACE,,San Francisco,CA,"PRENDERGAST, THOMAS F.",,1,,,,VOTE FOR FIVE; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1914,JUSTICE OF THE PEACE,,San Francisco,CA,"CREIGHTON, CHARLES E. A.",,1,,,,VOTE FOR FIVE; NONPARTISAN,0.8
+CA,San Francisco Chronicle,104251,1916,PRESIDENT,,San Francisco,CA,"HUGHES, CHARLES EVANS",Republican,1,,,,ENDORSED VIA REPUBLICAN ELECTORS SLATE; RUNNING MATE FAIRBANKS FOR VP,0.9
+CA,San Francisco Chronicle,104251,1916,SENATOR,,San Francisco,CA,"JOHNSON, HIRAM W.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1916,H,4,San Francisco,CA,"KAHN, JULIUS",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1916,SUPERIOR COURT,,San Francisco,CA,"CABANISS, GEORGE H.",,1,,,,VOTE FOR FOUR; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1916,SUPERIOR COURT,,San Francisco,CA,"MURASKY, FRANK J.",,1,,,,VOTE FOR FOUR; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1916,SUPERIOR COURT,,San Francisco,CA,"SEAWELL, JAMES M.",,1,,,,VOTE FOR FOUR; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1916,SUPERIOR COURT,,San Francisco,CA,"TROUTT, JAMES MORRIS",,1,,,,VOTE FOR FOUR; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1920,PRESIDENT,,San Francisco,CA,"HARDING, WARREN G.",Republican,1,,,,WITH COOLIDGE FOR VP,0.95
+CA,San Francisco Chronicle,104251,1920,SENATOR,,San Francisco,CA,"SHORTRIDGE, SAMUEL M.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1920,H,4,San Francisco,CA,"KAHN, JULIUS",Republican,1,,1,,ALSO LISTED AS DEMOCRATIC NOMINEE,0.9
+CA,San Francisco Chronicle,104251,1920,H,5,San Francisco,CA,"NOLAN, JOHN I.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1920,SUPREME COURT,,San Francisco,CA,"OLNEY, WARREN JR.",,1,,,,ASSOCIATE JUSTICE; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1920,SUPREME COURT,,San Francisco,CA,"SLOANE, W. A.",,1,,,,ASSOCIATE JUSTICE; NONPARTISAN,0.8
+CA,San Francisco Chronicle,104251,1920,COURT OF APPEALS,1,San Francisco,CA,"WASTE, WILLIAM H.",,1,,,,"PRESIDING JUSTICE, FIRST DIVISION; NONPARTISAN",0.85
+CA,San Francisco Chronicle,104251,1920,COURT OF APPEALS,2,San Francisco,CA,"LANGDON, WILLIAM H.",,1,,,,"PRESIDING JUSTICE, SECOND DIVISION; NONPARTISAN",0.8
+CA,San Francisco Chronicle,104251,1920,COURT OF APPEALS,2,San Francisco,CA,"NOURSE, JOHN T.",,1,,,,"ASSOCIATE JUSTICE, SECOND DIVISION; VOTE FOR TWO; NONPARTISAN",0.85
+CA,San Francisco Chronicle,104251,1920,COURT OF APPEALS,2,San Francisco,CA,"STURTEVANT, GEORGE A.",,1,,,,"ASSOCIATE JUSTICE, SECOND DIVISION; VOTE FOR TWO; NONPARTISAN",0.85
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"LOUDERBACK, HAROLD",,1,,,,FULL TERM; VOTE FOR EIGHT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"OWENS, HENRY M.",,1,,,,FULL TERM; VOTE FOR EIGHT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"HORTON, HORACE F.",,1,,,,FULL TERM; VOTE FOR EIGHT; NONPARTISAN,0.75
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"VAN NOSTRAND, JAMES J.",,1,,,,FULL TERM; VOTE FOR EIGHT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"DEASY, DANIEL C.",,1,,,,FULL TERM; VOTE FOR EIGHT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"DUNNE, FRANK H.",,1,,,,FULL TERM; VOTE FOR EIGHT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"FITZPATRICK, T. I.",,1,,,,FULL TERM; VOTE FOR EIGHT; NONPARTISAN,0.8
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"FLOOD, BERNARD J.",,1,,,,FULL TERM; VOTE FOR EIGHT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"WARD, LOUIS H.",,1,,,,TWO YEARS SHORT TERM; VOTE FOR ONE; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1920,SUPERIOR COURT,,San Francisco,CA,"ROCHE, MICHAEL J.",,1,,,,FOUR YEARS SHORT TERM; VOTE FOR ONE; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1927,MAYOR,,San Francisco,CA,"ROLPH, JAMES JR.",,1,,,,NONPARTISAN MUNICIPAL ELECTION,0.95
+CA,San Francisco Chronicle,104251,1927,POLICE JUDGE,,San Francisco,CA,"MURASKY, LEO A.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,POLICE JUDGE,,San Francisco,CA,"JACKS, LILE T.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,DA/PROSECUTOR,,San Francisco,CA,"DOOLING, MAURICE T.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,ASSESSOR,,San Francisco,CA,"WOLDEN, RUSSELL L.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,AUDITOR,,San Francisco,CA,"BOYLE, THOMAS F.",,1,,,,NONPARTISAN; LISTED AS THOS. F. BOYLE,0.9
+CA,San Francisco Chronicle,104251,1927,COUNTY CLERK,,San Francisco,CA,"MULCREVY, HARRY I.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,SHERIFF,,San Francisco,CA,"FITZGERALD, W. J.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF SUPERVISORS,,San Francisco,CA,"COLMAN, JESSE C.",,1,,,,AT-LARGE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF SUPERVISORS,,San Francisco,CA,"GODEAU, JULIUS S.",,1,,,,AT-LARGE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF SUPERVISORS,,San Francisco,CA,"HAYDEN, J. EMMET",,1,,,,AT-LARGE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF SUPERVISORS,,San Francisco,CA,"JAEGER, FRED C.",,1,,,,AT-LARGE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF SUPERVISORS,,San Francisco,CA,"MCLERAN, RALPH",,1,,,,AT-LARGE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF SUPERVISORS,,San Francisco,CA,"SPAULDING, E. JACK",,1,,,,AT-LARGE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF SUPERVISORS,,San Francisco,CA,"SUHR, FRED",,1,,,,AT-LARGE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF SUPERVISORS,,San Francisco,CA,"TONER, J. M.",,1,,,,AT-LARGE; NONPARTISAN; LISTED AS DR.,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF SUPERVISORS,,San Francisco,CA,"WELCH, MARTIN F.",,1,,,,AT-LARGE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1927,CORONER,,San Francisco,CA,"LELAND, T. B. W.",,1,,,,NONPARTISAN; LISTED AS DR.,0.9
+CA,San Francisco Chronicle,104251,1927,BOARD OF EDUCATION,,San Francisco,CA,"ESBERG, ALFRED L.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1934,GOVERNOR,,San Francisco,CA,"MERRIAM, FRANK F.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1934,LT GOVERNOR,,San Francisco,CA,"HATFIELD, GEORGE J.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1934,SEC OF STATE,,San Francisco,CA,"JORDAN, FRANK C.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1934,CONTROLLER,,San Francisco,CA,"RILEY, RAY L.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1934,TREASURER,,San Francisco,CA,"JOHNSON, CHARLES G.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1934,ATTORNEY GENERAL,,San Francisco,CA,"WEBB, U. S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1934,BOARD OF EQUALIZATION,1,San Francisco,CA,"CORBETT, JOHN C.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1934,BOARD OF EQUALIZATION,2,San Francisco,CA,"STEWART, FRED E.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1934,BOARD OF EQUALIZATION,3,San Francisco,CA,"COLLINS, R. E.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1934,BOARD OF EQUALIZATION,4,San Francisco,CA,"CATTELL, H. G.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1934,SENATOR,,San Francisco,CA,"JOHNSON, HIRAM W.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1934,H,3,San Francisco,CA,"INMAN, J. M.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,H,4,San Francisco,CA,"KAHN, FLORENCE P.",Republican,1,,1,,WIDOW OF JULIUS KAHN WHO HELD SEAT PREVIOUSLY,0.95
+CA,San Francisco Chronicle,104251,1934,H,5,San Francisco,CA,"WELCH, RICHARD J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1934,H,7,San Francisco,CA,"ELTSE, RALPH R.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,H,10,San Francisco,CA,"BLISS, GEORGE R.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,STATE SENATOR,14,San Francisco,CA,"MCGOVERN, WALTER",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,STATE SENATOR,16,San Francisco,CA,"KNOWLAND, WILLIAM F.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1934,STATE SENATOR,18,San Francisco,CA,"YOUNG, SANBORN",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,STATE SENATOR,20,San Francisco,CA,"CRITTENDEN, BRADFORD S.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,STATE SENATOR,30,San Francisco,CA,"HAYS, RAY W.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,STATE REP,20,San Francisco,CA,"MALONEY, THOMAS A.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,STATE REP,21,San Francisco,CA,"GILMORE, JOSEPH P.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,STATE REP,22,San Francisco,CA,"DAWSON, KENNETT B.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,STATE REP,23,San Francisco,CA,"HORNBLOWER, WILLIAM B.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1934,SUPERIOR COURT,,San Francisco,CA,"LAZARUS, SYLVAIN J.",,1,,,,EITHER LAZARUS OR STEIGER; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1934,SUPERIOR COURT,,San Francisco,CA,"STEIGER, GEORGE J.",,1,,,,EITHER LAZARUS OR STEIGER; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1934,PUBLIC DEFENDER,,San Francisco,CA,"KENNY, GERALD J.",,1,,,,NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1934,BOARD OF EDUCATION,,San Francisco,CA,"BUSH, PHILIP LEE",,1,,,,VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1938,GOVERNOR,,San Francisco,CA,"MERRIAM, FRANK F.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1938,LT GOVERNOR,,San Francisco,CA,"FRANKLIN, WALTER SCOTT",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1938,SEC OF STATE,,San Francisco,CA,"JORDAN, FRANK C.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1938,CONTROLLER,,San Francisco,CA,"RILEY, HARRY B.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1938,TREASURER,,San Francisco,CA,"JOHNSON, CHARLES G.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1938,ATTORNEY GENERAL,,San Francisco,CA,"WARREN, EARL",Republican,1,,,,FUTURE US CHIEF JUSTICE,0.95
+CA,San Francisco Chronicle,104251,1938,BOARD OF EQUALIZATION,,San Francisco,CA,"REILLY, GEORGE R.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,SENATOR,,San Francisco,CA,"BANCROFT, PHILIP",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1938,H,4,San Francisco,CA,"DAWSON, KEN B.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,H,5,San Francisco,CA,"WELCH, RICHARD J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1938,H,6,San Francisco,CA,"CARTER, ALBERT E.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1938,H,7,San Francisco,CA,"SNOOK, CHARLES WADE",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,H,8,San Francisco,CA,"ANDERSON, JOHN Z.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,STATE SENATOR,SF,San Francisco,CA,"SHELLEY, JOHN F.",Democrat,1,,,,SAN FRANCISCO COUNTY; DEMOCRAT ENDORSED BY REPUBLICAN-LEANING PAPER,0.9
+CA,San Francisco Chronicle,104251,1938,STATE REP,20,San Francisco,CA,"MALONEY, THOMAS A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,STATE REP,21,San Francisco,CA,"GILMORE, JOSEPH P.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,STATE REP,22,San Francisco,CA,"BERGEMANN, RUSSELL A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,STATE REP,23,San Francisco,CA,"HORNBLOWER, WILLIAM B.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,STATE REP,24,San Francisco,CA,"O'DAY, EDWARD F.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,STATE REP,25,San Francisco,CA,"CRONIN, MELVYN I.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,STATE REP,26,San Francisco,CA,"WILLIAMSON, RAY",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,STATE REP,27,San Francisco,CA,"WOLLENBERG, ALBERT C.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,STATE REP,28,San Francisco,CA,"GREEN, ROBERT MILLER",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1938,PUBLIC DEFENDER,,San Francisco,CA,"KENNY, GERALD J.",,1,,,,NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1938,SUPREME COURT,,San Francisco,CA,"WASTE, WILLIAM H.",,1,,,,CHIEF JUSTICE; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1938,SUPREME COURT,,San Francisco,CA,"LANGDON, WILLIAM H.",,1,,,,ASSOCIATE JUSTICE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1938,SUPREME COURT,,San Francisco,CA,"CURTIS, JESSE W.",,1,,,,ASSOCIATE JUSTICE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1938,SUPREME COURT,,San Francisco,CA,"HOUSER, FREDERICK W.",,1,,,,ASSOCIATE JUSTICE; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1938,COURT OF APPEALS,,San Francisco,CA,"WARD, LOUIS H.",,1,,,,"ASSOCIATE JUSTICE, DISTRICT COURT OF APPEALS; NONPARTISAN",0.9
+CA,San Francisco Chronicle,104251,1938,BOARD OF EDUCATION,,San Francisco,CA,"DOYLE, RICHARD E.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1940,PRESIDENT,,San Francisco,CA,"WILLKIE, WENDELL L.",Republican,1,,,,WITH McNARY FOR VP,0.95
+CA,San Francisco Chronicle,104251,1940,SENATOR,,San Francisco,CA,"JOHNSON, HIRAM W.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1940,H,4,San Francisco,CA,"ROLPH, THOMAS",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,H,5,San Francisco,CA,"WELCH, RICHARD J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1940,STATE REP,20,San Francisco,CA,"MALONEY, THOMAS A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,STATE REP,21,San Francisco,CA,"WELCH, JOHN D.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,STATE REP,22,San Francisco,CA,"COLLINS, GEORGE D. JR.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,STATE REP,23,San Francisco,CA,"GALLAGHER, DAN",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,STATE REP,24,San Francisco,CA,"O'DAY, EDWARD F.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,STATE REP,25,San Francisco,CA,"CRONIN, MELVYN I.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,STATE REP,26,San Francisco,CA,"WILLIAMSON, RAY",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,STATE REP,27,San Francisco,CA,"WOLLENBERG, ALBERT C.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,STATE REP,28,San Francisco,CA,"GREEN, ROBERT MILLER",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1940,SUPREME COURT,,San Francisco,CA,"GIBSON, PHIL S.",,1,,,,VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1940,SUPREME COURT,,San Francisco,CA,"CARTER, JESSE W.",,1,,,,VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1940,SUPREME COURT,,San Francisco,CA,"TRAYNOR, ROGER J.",,1,,,,VOTE YES; NONPARTISAN; FUTURE CA CHIEF JUSTICE,0.9
+CA,San Francisco Chronicle,104251,1940,COURT OF APPEALS,1-1,San Francisco,CA,"PETERS, RAYMOND E.",,1,,,,"FIRST DISTRICT, DIVISION 1; VOTE YES; NONPARTISAN",0.9
+CA,San Francisco Chronicle,104251,1940,COURT OF APPEALS,1-2,San Francisco,CA,"NOURSE, JOHN T.",,1,,,,"FIRST DISTRICT, DIVISION 2; VOTE YES; NONPARTISAN",0.9
+CA,San Francisco Chronicle,104251,1940,COURT OF APPEALS,3,San Francisco,CA,"TUTTLE, RAGLAN",,1,,,,THIRD DISTRICT; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1940,COURT OF APPEALS,4,San Francisco,CA,"GRIFFIN, LLOYD E.",,1,,,,FOURTH DISTRICT; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1940,BOARD OF EDUCATION,,San Francisco,CA,"SYKES, FRANK C.",,1,,,,VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1942,GOVERNOR,,San Francisco,CA,"WARREN, EARL",Republican,1,,,,FRONT PAGE ELECTION DAY ENDORSEMENT; WARTIME APPEAL,0.95
+CA,San Francisco Chronicle,104251,1942,LT GOVERNOR,,San Francisco,CA,"HOUSER, FRED",Republican,1,,,,FRONT PAGE ELECTION DAY ENDORSEMENT,0.95
+CA,San Francisco Chronicle,104251,1944,PRESIDENT,,San Francisco,CA,"DEWEY, THOMAS E.",Republican,1,,,,WITH BRICKER FOR VP,0.95
+CA,San Francisco Chronicle,104251,1944,SENATOR,,San Francisco,CA,"HOUSER, FREDERICK F.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1944,H,4,San Francisco,CA,"ROLPH, THOMAS",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1944,H,5,San Francisco,CA,"WELCH, RICHARD J.",Republican,1,,1,,UNOPPOSED; REMEMBER TO GIVE THEM A VOTE,0.95
+CA,San Francisco Chronicle,104251,1944,H,6,San Francisco,CA,"CARTER, ALBERT E.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1944,H,7,San Francisco,CA,"WALTER, CHESLEY M.",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1944,H,8,San Francisco,CA,"ANDERSON, JOHN Z.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1944,STATE SENATOR,17,San Francisco,CA,"DELAP, T. H.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1944,STATE REP,14,San Francisco,CA,"DICKEY, RANDAL F.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1944,STATE REP,16,San Francisco,CA,"SHERWIN, MARVIN",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1944,STATE REP,18,San Francisco,CA,"JOHNSON, GARDINER",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1944,STATE REP,19,San Francisco,CA,"LOVEY, EDGAR C.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1944,STATE REP,20,San Francisco,CA,"MALONEY, THOMAS A.",,1,,,,UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1944,STATE REP,21,San Francisco,CA,"WOLLENBERG, ALBERT C.",,1,,,,UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1944,SUPERIOR COURT,6,San Francisco,CA,"FRITZ, ALFRED J.",,1,,,,SEAT NO. 6; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1944,SUPREME COURT,,San Francisco,CA,"SCHAUER, B. ROY",,1,,,,VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1944,COURT OF APPEALS,1,San Francisco,CA,"SPENCE, HOMER R.",,1,,,,FIRST DISTRICT; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1944,BOARD OF EDUCATION,,San Francisco,CA,"FALK, ADRIEN J.",,1,,,,VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1946,GOVERNOR,,San Francisco,CA,"WARREN, EARL",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1946,LT GOVERNOR,,San Francisco,CA,"KNIGHT, GOODWIN J.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1946,SEC OF STATE,,San Francisco,CA,"JORDAN, FRANK M.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1946,CONTROLLER,,San Francisco,CA,"KUCHEL, THOMAS H.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1946,TREASURER,,San Francisco,CA,"JOHNSON, CHARLES G.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1946,ATTORNEY GENERAL,,San Francisco,CA,"HOWSER, FRED N.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1946,SENATOR,,San Francisco,CA,"KNOWLAND, WILLIAM F.",Republican,1,,,,FULL TERM,0.95
+CA,San Francisco Chronicle,104251,1946,H,4,San Francisco,CA,"YOUNG, TRUMAN R.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1946,H,7,San Francisco,CA,"ALLEN, JOHN J. JR.",Republican,1,,,,ALAMEDA COUNTY,0.9
+CA,San Francisco Chronicle,104251,1948,PRESIDENT,,San Francisco,CA,"DEWEY, THOMAS E.",Republican,1,,,,WITH EARL WARREN FOR VP,0.95
+CA,San Francisco Chronicle,104251,1948,H,1,San Francisco,CA,"SCUDDER, HUBERT B.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1948,H,3,San Francisco,CA,"JOHNSON, LEROY",Republican,1,,,,TOKEN OR NO OPPOSITION; GIVE THEM A VOTE,0.85
+CA,San Francisco Chronicle,104251,1948,H,4,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1948,H,5,San Francisco,CA,"WELCH, RICHARD J.",Republican,1,,1,,TOKEN OR NO OPPOSITION; GIVE THEM A VOTE,0.9
+CA,San Francisco Chronicle,104251,1948,H,7,San Francisco,CA,"ALLEN, JOHN J. JR.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1948,H,8,San Francisco,CA,"ANDERSON, JACK",Republican,1,,1,,TOKEN OR NO OPPOSITION; GIVE THEM A VOTE,0.85
+CA,San Francisco Chronicle,104251,1948,H,9,San Francisco,CA,"GEARHART, B. W.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1948,H,10,San Francisco,CA,"WERDEL, THOMAS H.",Republican,1,,,,TOKEN OR NO OPPOSITION; GIVE THEM A VOTE,0.85
+CA,San Francisco Chronicle,104251,1948,H,11,San Francisco,CA,"BRAMBLETT, ERNEST K.",Republican,1,,,,TOKEN OR NO OPPOSITION; GIVE THEM A VOTE,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,10,San Francisco,CA,"ERICKSON, CLARENCE D.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,14,San Francisco,CA,"DICKEY, RANDAL F.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1948,STATE REP,15,San Francisco,CA,"LINCOLN, L. H.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,16,San Francisco,CA,"SHERWIN, MARVIN",,1,,,,UNOPPOSED OR NOMINAL OPPOSITION,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,17,San Francisco,CA,"HURLEY, E. S.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,18,San Francisco,CA,"CALDECOTT, THOMAS W.",,1,,,,UNOPPOSED OR NOMINAL OPPOSITION,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,19,San Francisco,CA,"WHITE, WILLIAM FARNUM",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,20,San Francisco,CA,"MALONEY, THOMAS A.",,1,,,,UNOPPOSED OR NOMINAL OPPOSITION,0.9
+CA,San Francisco Chronicle,104251,1948,STATE REP,21,San Francisco,CA,"CONNOLLY, ARTHUR H. JR.",,1,,,,UNOPPOSED OR NOMINAL OPPOSITION,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,22,San Francisco,CA,"KILDUFF, WILLIAM D.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,24,San Francisco,CA,"HORN, CLAYTON W.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,25,San Francisco,CA,"BLOSSER, RAYMOND W.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1948,STATE REP,27,San Francisco,CA,"DOLWIG, RICHARD J.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1948,COURT OF APPEALS,,San Francisco,CA,"BRAY, A. F.",,1,,,,APPELLATE JUDGE; VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1948,COURT OF APPEALS,,San Francisco,CA,"DOOLING, M. T. JR.",,1,,,,APPELLATE JUDGE; VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1948,BOARD OF EDUCATION,,San Francisco,CA,"ALIOTO, JOSEPH L.",,1,,,,FUTURE SF MAYOR; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1950,GOVERNOR,,San Francisco,CA,"WARREN, EARL",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1950,LT GOVERNOR,,San Francisco,CA,"KNIGHT, GOODWIN J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1950,SEC OF STATE,,San Francisco,CA,"JORDAN, FRANK M.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1950,CONTROLLER,,San Francisco,CA,"KUCHEL, THOMAS J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1950,TREASURER,,San Francisco,CA,"JOHNSON, CHARLES G.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1950,ATTORNEY GENERAL,,San Francisco,CA,"SHATTUCK, EDWARD S.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1950,SENATOR,,San Francisco,CA,"NIXON, RICHARD M.",Republican,1,,,,FUTURE PRESIDENT,0.95
+CA,San Francisco Chronicle,104251,1950,H,5,San Francisco,CA,"SHELLEY, JOHN F.",Democrat,1,1,,,DEMOCRAT ENDORSED BY REPUBLICAN-LEANING PAPER,0.9
+CA,San Francisco Chronicle,104251,1950,BOARD OF EQUALIZATION,,San Francisco,CA,"REILLY, GEORGE R.",,1,,,,UNOPPOSED,0.85
+CA,San Francisco Chronicle,104251,1950,STATE REP,19,San Francisco,CA,"RILEY, WILLIAM P.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1950,STATE REP,20,San Francisco,CA,"MALONEY, THOMAS A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1950,STATE REP,21,San Francisco,CA,"CONNOLLY, ARTHUR H. JR.",,1,,,,UNOPPOSED,0.85
+CA,San Francisco Chronicle,104251,1950,STATE REP,25,San Francisco,CA,"MCCARTHY, ROBERT I.",,1,,,,UNOPPOSED,0.85
+CA,San Francisco Chronicle,104251,1950,STATE SENATOR,,San Francisco,CA,"O'GARA, GERALD J.",,1,,,,UNOPPOSED,0.85
+CA,San Francisco Chronicle,104251,1950,SUPREME COURT,,San Francisco,CA,"GIBSON, PHIL S.",,1,,,,CHIEF JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1950,SUPREME COURT,,San Francisco,CA,"SPENCE, HOMER R.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1950,SUPREME COURT,,San Francisco,CA,"TRAYNOR, ROGER J.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1950,COURT OF APPEALS,,San Francisco,CA,"WOOD, FRED B.",,1,,,,APPELLATE COURT; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1950,BOARD OF EDUCATION,,San Francisco,CA,"FOEHN, CHARLES J.",,1,,,,CONFIRM MAYOR'S NOMINATION; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1950,ASSESSOR,,San Francisco,CA,"WOLDEN, RUSSELL J.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1950,PUBLIC DEFENDER,,San Francisco,CA,"KENNY, GERALD J.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1952,PRESIDENT,,San Francisco,CA,"EISENHOWER, DWIGHT D.",Republican,1,,,,WITH NIXON FOR VP,0.95
+CA,San Francisco Chronicle,104251,1952,SENATOR,,San Francisco,CA,"KNOWLAND, WILLIAM F.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1952,H,1,San Francisco,CA,"SCUDDER, HUBERT B.",Republican,1,,1,,UNOPPOSED OR NOMINAL OPPOSITION,0.85
+CA,San Francisco Chronicle,104251,1952,H,4,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,SAN FRANCISCO,0.9
+CA,San Francisco Chronicle,104251,1952,H,5,San Francisco,CA,"SHELLEY, JOHN F.",Democrat,1,1,,,UNOPPOSED OR NOMINAL OPPOSITION,0.9
+CA,San Francisco Chronicle,104251,1952,H,6,San Francisco,CA,"BALDWIN, JOHN F. JR.",Republican,1,,,,CONTRA COSTA AND SOLANO COUNTIES,0.9
+CA,San Francisco Chronicle,104251,1952,H,7,San Francisco,CA,"ALLEN, JOHN J. JR.",Republican,1,,1,,UNOPPOSED OR NOMINAL OPPOSITION,0.85
+CA,San Francisco Chronicle,104251,1952,H,9,San Francisco,CA,"YOUNGER, J. ARTHUR",Republican,1,,,,SAN MATEO COUNTY,0.9
+CA,San Francisco Chronicle,104251,1952,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,,,"SANTA CLARA, SANTA CRUZ, SAN BENITO COUNTIES",0.9
+CA,San Francisco Chronicle,104251,1952,STATE REP,20,San Francisco,CA,"MALONEY, THOMAS A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1952,STATE REP,21,San Francisco,CA,"WEINBERGER, CASPAR W.",Republican,1,,,,FUTURE US SECRETARY OF DEFENSE,0.9
+CA,San Francisco Chronicle,104251,1952,STATE REP,24,San Francisco,CA,"WICKLOW, SAMUEL W.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1952,SUPERIOR COURT,7,San Francisco,CA,"MOLINARI, JOHN B.",,1,,,,OFFICE NO. 7; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1952,COURT OF APPEALS,,San Francisco,CA,"NOURSE, JOHN T.",,1,,,,VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1952,BOARD OF EDUCATION,,San Francisco,CA,"LEVIT, BERT W.",,1,,,,VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1952,BOARD OF EDUCATION,,San Francisco,CA,"TROWBRIDGE, CHARLES C. JR.",,1,,,,VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1954,GOVERNOR,,San Francisco,CA,"KNIGHT, GOODWIN J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1954,LT GOVERNOR,,San Francisco,CA,"POWERS, HAROLD J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1954,SEC OF STATE,,San Francisco,CA,"JORDAN, FRANK M.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1954,CONTROLLER,,San Francisco,CA,"KIRKWOOD, ROBERT C.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1954,TREASURER,,San Francisco,CA,"JOHNSON, CHARLES G.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1954,SENATOR,,San Francisco,CA,"KUCHEL, THOMAS H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1954,ATTORNEY GENERAL,,San Francisco,CA,"BROWN, EDMUND G.",Democrat,1,,,,FUTURE GOVERNOR; DEMOCRAT ENDORSED BY REPUBLICAN-LEANING PAPER,0.95
+CA,San Francisco Chronicle,104251,1954,H,4,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,SAN FRANCISCO,0.95
+CA,San Francisco Chronicle,104251,1954,STATE SENATOR,14,San Francisco,CA,"MCCARTHY, ROBERT I.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1954,STATE REP,19,San Francisco,CA,"MARKS, MILTON",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1954,STATE REP,22,San Francisco,CA,"BUSTERUD, JOHN A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1954,STATE REP,24,San Francisco,CA,"SHORE, IRVING",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1954,ASSESSOR,,San Francisco,CA,"WOLDEN, RUSSELL L.",,1,,,,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1954,PUBLIC DEFENDER,,San Francisco,CA,"MANCUSO, EDWARD T.",,1,,,,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1954,BOARD OF EDUCATION,,San Francisco,CA,"LEVISON, JOHN G.",,1,,,,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1954,SUPREME COURT,,San Francisco,CA,"EDMONDS, DOUGLAS L.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1954,SUPREME COURT,,San Francisco,CA,"SHENK, JOHN W.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1954,COURT OF APPEALS,,San Francisco,CA,"BRAY, A. F.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1954,COURT OF APPEALS,,San Francisco,CA,"KAUFMAN, HERBERT C.",,1,,,,DISTRICT COURT OF APPEAL; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1954,BOARD OF EQUALIZATION,2,San Francisco,CA,"QUINN, JAMES H.",,1,,,,INCUMBENT; UNOPPOSED,0.85
+CA,San Francisco Chronicle,104251,1954,BOARD OF EQUALIZATION,3,San Francisco,CA,"LEAKE, PAUL",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1954,H,1,San Francisco,CA,"SCUDDER, HUBERT B.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1954,H,3,San Francisco,CA,"PHILLIPS, JAMES H.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1954,H,6,San Francisco,CA,"BALDWIN, JOHN H.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1954,H,7,San Francisco,CA,"ALLEN, JOHN J. JR.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1954,H,8,San Francisco,CA,"RITCHIE, JESS M.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1954,H,9,San Francisco,CA,"YOUNGER, J. ARTHUR",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1954,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1954,H,11,San Francisco,CA,"JOHNSON, LEROY",Republican,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,H,13,San Francisco,CA,"TEAGUE, CHARLES M.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1954,H,12,San Francisco,CA,"HUNTER, OAKLEY",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1954,H,14,San Francisco,CA,"BLAIN, AL",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1954,H,5,San Francisco,CA,"SHELLEY, JOHN F.",Democrat,1,1,,,UNOPPOSED; GIVE THEM YOUR VOTES,0.9
+CA,San Francisco Chronicle,104251,1954,STATE SENATOR,12,San Francisco,CA,"ABSHIRE, F. PRESLEY",,1,,1,,INCUMBENT,0.8
+CA,San Francisco Chronicle,104251,1954,STATE SENATOR,16,San Francisco,CA,"BREED, ARTHUR H.",,1,,1,,INCUMBENT,0.85
+CA,San Francisco Chronicle,104251,1954,STATE SENATOR,18,San Francisco,CA,"THOMPSON, JOHN F.",,1,,1,,INCUMBENT,0.9
+CA,San Francisco Chronicle,104251,1954,STATE SENATOR,20,San Francisco,CA,"HOFFMAN, VERNE W.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE SENATOR,24,San Francisco,CA,"REIMAN, MILTON M.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE SENATOR,32,San Francisco,CA,"WILLIAMS, J. HOWARD",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,7,San Francisco,CA,"MCCOLLISTER, RICHARD H.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,8,San Francisco,CA,"FLEURY, CORDAN A.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,9,San Francisco,CA,"NIELSEN, ROY J.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,10,San Francisco,CA,"DOYLE, DONALD D.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,11,San Francisco,CA,"COLE, FREDERICK C.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,13,San Francisco,CA,"ROBEY, EDWARD A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1954,STATE REP,14,San Francisco,CA,"DICKEY, RANDAL F.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1954,STATE REP,15,San Francisco,CA,"LINCOLN, L. H.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,16,San Francisco,CA,"DAHL, WALTER I.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,18,San Francisco,CA,"CALDECOTT, THOMAS W.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,20,San Francisco,CA,"MALONEY, THOMAS A.",,1,,,,UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1954,STATE REP,21,San Francisco,CA,"WEINBERGER, CASPAR W.",Republican,1,,1,,UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1954,STATE REP,26,San Francisco,CA,"DOLWIG, RICHARD J.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,27,San Francisco,CA,"COOLIDGE, GLENN E.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,28,San Francisco,CA,"BRADLEY, CLARK L.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,29,San Francisco,CA,"ALLEN, BRUCE F.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,34,San Francisco,CA,"PATTEE, ALAN C.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,36,San Francisco,CA,"HOLMES, JAMES L.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1954,STATE REP,37,San Francisco,CA,"PHLEGER, CARL A.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,PRESIDENT,,San Francisco,CA,"EISENHOWER, DWIGHT D.",Republican,1,,1,,WITH NIXON FOR VP,0.95
+CA,San Francisco Chronicle,104251,1956,SENATOR,,San Francisco,CA,"KUCHEL, THOMAS H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1956,H,4,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,SAN FRANCISCO,0.95
+CA,San Francisco Chronicle,104251,1956,H,5,San Francisco,CA,"SHELLEY, JOHN F.",Democrat,1,1,,,UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,19,San Francisco,CA,"EBERT, WILLIAM",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,20,San Francisco,CA,"MALONEY, THOMAS A.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,21,San Francisco,CA,"WEINBERGER, CASPAR W.",Republican,1,,1,,UNOPPOSED,0.95
+CA,San Francisco Chronicle,104251,1956,STATE REP,22,San Francisco,CA,"BUSTERUD, JOHN A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,24,San Francisco,CA,"SHORE, IRV",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1956,SUPERIOR COURT,,San Francisco,CA,"ARATA, RAYMOND J.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1956,SUPREME COURT,,San Francisco,CA,"MCCOMB, MARSHALL F.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1956,BOARD OF EDUCATION,,San Francisco,CA,"KAUFMAN, HERBERT C.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1956,BOARD OF EDUCATION,,San Francisco,CA,"DRAPER, LAWRENCE JR.",,1,,,,MRS.; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1956,BOARD OF EDUCATION,,San Francisco,CA,"MOORE, JOSEPH A. JR.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1956,H,1,San Francisco,CA,"SCUDDER, HUBERT B.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,H,6,San Francisco,CA,"BALDWIN, JOHN F. JR.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,H,7,San Francisco,CA,"ALLEN, JOHN J. JR.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,H,8,San Francisco,CA,"WATKINS, ROBERT LEE",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,H,9,San Francisco,CA,"YOUNGER, J. ARTHUR",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,H,11,San Francisco,CA,"JOHNSON, LEROY",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,H,12,San Francisco,CA,"MOORE, ROBERT B.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,H,13,San Francisco,CA,"TEAGUE, CHARLES M.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,H,14,San Francisco,CA,"TISDALE, MYRON D.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE SENATOR,11,San Francisco,CA,"COOMBS, NATHAN F.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE SENATOR,17,San Francisco,CA,"PEDDAR, JACK",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE SENATOR,21,San Francisco,CA,"DOLWIG, RICHARD J.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE SENATOR,23,San Francisco,CA,"GRUNSKY, DONALD L.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE SENATOR,29,San Francisco,CA,"ERHART, ALAN A.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE SENATOR,31,San Francisco,CA,"JACQUEMAN, ARNOLD W.",,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1956,STATE REP,7,San Francisco,CA,"MCCOLLISTER, RICHARD H.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,10,San Francisco,CA,"DOYLE, DONALD D.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,12,San Francisco,CA,"HOFFMAN, VERNE W.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,13,San Francisco,CA,"BEE, CARLOS",,1,,1,,UNOPPOSED,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,14,San Francisco,CA,"LANGUEMI, FRANK C.",,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1956,STATE REP,15,San Francisco,CA,"LINCOLN, L. H.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,16,San Francisco,CA,"DAHL, WALTER I.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,17,San Francisco,CA,"RUMFORD, WM. BYRON",,1,,1,,UNOPPOSED,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,18,San Francisco,CA,"CALDECOTT, THOMAS W.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,25,San Francisco,CA,"FRANCIS, LOUIS",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,26,San Francisco,CA,"BRITSCHGI, CARL A.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,28,San Francisco,CA,"BRADLEY, CLARK L.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,29,San Francisco,CA,"ALLEN, BRUCE F.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,31,San Francisco,CA,"MAYES, DON C.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,33,San Francisco,CA,"HANSEN, WILLIAM W.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,35,San Francisco,CA,"POWER, DOMER F.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,36,San Francisco,CA,"HOLMES, JAMES L.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1956,STATE REP,27,San Francisco,CA,"COOLIDGE, GLENN E.",,1,,1,,UNOPPOSED; COMPLIMENTARY VOTE,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,30,San Francisco,CA,"BROWN, RALPH M.",,1,,,,UNOPPOSED; COMPLIMENTARY VOTE,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,32,San Francisco,CA,"HENDERSON, WALLACE D.",,1,,,,UNOPPOSED; COMPLIMENTARY VOTE,0.85
+CA,San Francisco Chronicle,104251,1956,STATE REP,34,San Francisco,CA,"PATTEE, ALAN G.",,1,,,,UNOPPOSED; COMPLIMENTARY VOTE,0.85
+CA,San Francisco Chronicle,104251,1958,LT GOVERNOR,,San Francisco,CA,"POWERS, HAROLD J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1958,ATTORNEY GENERAL,,San Francisco,CA,"MOSK, STANLEY",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1958,SENATOR,,San Francisco,CA,"KNIGHT, GOODWIN J.",Republican,1,,,,FORMER GOVERNOR; RUNNING FOR US SENATE,0.95
+CA,San Francisco Chronicle,104251,1958,SEC OF STATE,,San Francisco,CA,"JORDAN, FRANK M.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1958,CONTROLLER,,San Francisco,CA,"KIRKWOOD, ROBERT C.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1958,TREASURER,,San Francisco,CA,"BUTTON, A. RONALD",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,H,4,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,SAN FRANCISCO,0.95
+CA,San Francisco Chronicle,104251,1958,H,5,San Francisco,CA,"SHELLEY, JOHN F.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1958,STATE SENATOR,,San Francisco,CA,"ATHEARN, FORDEN (SKIP)",,1,,,,SF STATE SENATOR,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,19,San Francisco,CA,"CUNHA, JAMES RYAN",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,20,San Francisco,CA,"MUSCHI, ACHILLE H.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,21,San Francisco,CA,"MARKS, MILTON",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,22,San Francisco,CA,"BUSTERUD, JOHN A.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,23,San Francisco,CA,"SALAMAN, JAY FRANKLIN",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,24,San Francisco,CA,"ADAMS, JOHN JR.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1958,BOARD OF EQUALIZATION,1,San Francisco,CA,"REILLY, GEORGE",,1,,,,INCUMBENT; UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1958,BOARD OF EQUALIZATION,2,San Francisco,CA,"QUINN, JAMES H.",,1,,,,INCUMBENT,0.9
+CA,San Francisco Chronicle,104251,1958,BOARD OF EQUALIZATION,3,San Francisco,CA,"LEAKE, PAUL R.",,1,,,,INCUMBENT; UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1958,H,1,San Francisco,CA,"DUPUIS, FREDERICK G.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1958,H,2,San Francisco,CA,"TARR, CURTIS W.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1958,H,6,San Francisco,CA,"BALDWIN, JOHN F. JR.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,H,7,San Francisco,CA,"ALLEN, JOHN J. JR.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,H,9,San Francisco,CA,"YOUNGER, J. ARTHUR",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,H,13,San Francisco,CA,"TEAGUE, CHARLES M.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE SENATOR,12,San Francisco,CA,"ABSHIRE, F. PRESLEY",,1,,1,,INCUMBENT,0.9
+CA,San Francisco Chronicle,104251,1958,STATE SENATOR,16,San Francisco,CA,"PURSEL, KENT D.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE SENATOR,18,San Francisco,CA,"THOMPSON, JOHN F.",,1,,1,,INCUMBENT,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,5,San Francisco,CA,"GEDDES, SAMUEL R.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,7,San Francisco,CA,"MCCOLLISTER, RICHARD H.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,10,San Francisco,CA,"CONTI, SAMUEL",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,11,San Francisco,CA,"MASTERSON, S. C.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,13,San Francisco,CA,"BEE, CARLOS",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,14,San Francisco,CA,"CROWN, ROBERT W.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,15,San Francisco,CA,"SHERIDAN, BERNARD A.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,16,San Francisco,CA,"DAHL, WALTER I.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,17,San Francisco,CA,"RUMFORD, WM. BYRON",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,18,San Francisco,CA,"MULFORD, DON",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1958,STATE REP,25,San Francisco,CA,"FRANCIS, LOUIS",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,26,San Francisco,CA,"BRITSCHGI, CARL A.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,27,San Francisco,CA,"COOLIDGE, GLENN E.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,28,San Francisco,CA,"BRADLEY, CLARK L.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,29,San Francisco,CA,"ALLEN, BRUCE F.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,STATE REP,34,San Francisco,CA,"PATTEE, ALAN G.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1958,ASSESSOR,,San Francisco,CA,"WOLDEN, RUSSELL",,1,,,,UNOPPOSED INCUMBENT; COMPLIMENTARY VOTE,0.9
+CA,San Francisco Chronicle,104251,1958,PUBLIC DEFENDER,,San Francisco,CA,"MANCUSO, EDWARD T.",,1,,,,UNOPPOSED INCUMBENT; COMPLIMENTARY VOTE,0.9
+CA,San Francisco Chronicle,104251,1958,SUPREME COURT,,San Francisco,CA,"SCHAUER, B. REY",,1,,,,ASSOCIATE JUSTICE; VOTE YES; UNOPPOSED; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1958,COURT OF APPEALS,1,San Francisco,CA,"PETERS, RAYMOND E.",,1,,,,"PRESIDING JUSTICE, DIVISION 1; VOTE YES; NONPARTISAN",0.9
+CA,San Francisco Chronicle,104251,1958,COURT OF APPEALS,2,San Francisco,CA,"KAUFMAN, HERBERT C.",,1,,,,"PRESIDING JUSTICE, DIVISION 2; VOTE YES; NONPARTISAN",0.9
+CA,San Francisco Chronicle,104251,1958,COURT OF APPEALS,2,San Francisco,CA,"DRAPER, MURRAY",,1,,,,"ASSOCIATE JUSTICE, DIVISION 2; VOTE YES; NONPARTISAN",0.9
+CA,San Francisco Chronicle,104251,1960,PRESIDENT,,San Francisco,CA,"NIXON, RICHARD M.",Republican,1,,,,WITH HENRY CABOT LODGE FOR VP,0.95
+CA,San Francisco Chronicle,104251,1960,H,1,San Francisco,CA,"DUPUIS, FRED G.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,H,4,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1960,H,5,San Francisco,CA,"SHELLEY, JOHN F.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1960,H,6,San Francisco,CA,"BALDWIN, JOHN F.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,H,7,San Francisco,CA,"SHERMAN, LEWIS F.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1960,H,8,San Francisco,CA,"MILLER, GEORGE P.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1960,H,9,San Francisco,CA,"YOUNGER, J. ARTHUR",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,H,13,San Francisco,CA,"TEAGUE, CHARLES M.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,19,San Francisco,CA,"MEYERS, CHARLES W.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,20,San Francisco,CA,"MUSCHI, A. H.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,21,San Francisco,CA,"MARKS, MILTON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,22,San Francisco,CA,"BUSTERUD, JOHN A.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,23,San Francisco,CA,"SCROFANI, EMMANUEL R.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1960,STATE REP,24,San Francisco,CA,"GAFFNEY, EDWARD M.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1960,SUPERIOR COURT,9,San Francisco,CA,"KARESH, JOSEPH",,1,,,,OFFICE NO. 9; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1960,SUPREME COURT,,San Francisco,CA,"DOOLING, MAURICE T. JR.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1960,SUPREME COURT,,San Francisco,CA,"PETERS, RAYMOND E.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1960,SUPREME COURT,,San Francisco,CA,"WHITE, THOMAS P.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1960,COURT OF APPEALS,,San Francisco,CA,"BRAY, A. F.",,1,,,,APPELLATE COURT JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1960,COURT OF APPEALS,,San Francisco,CA,"DUNIWAY, BEN C.",,1,,,,APPELLATE COURT JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1960,COURT OF APPEALS,,San Francisco,CA,"TOBRINER, MATTHEW O.",,1,,,,APPELLATE COURT JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1960,COURT OF APPEALS,,San Francisco,CA,"SHOEMAKER, DANIEL R.",,1,,,,APPELLATE COURT JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1960,BOARD OF EDUCATION,,San Francisco,CA,"KEMMITT, EDWARD",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1960,STATE SENATOR,11,San Francisco,CA,"SHIFFLETT, WADE",,1,,,,NAPA COUNTY,0.85
+CA,San Francisco Chronicle,104251,1960,STATE SENATOR,13,San Francisco,CA,"MCCARTHY, JOHN F.",,1,,,,MARIN COUNTY,0.9
+CA,San Francisco Chronicle,104251,1960,STATE SENATOR,15,San Francisco,CA,"GIBSON, LUTHER E.",,1,,,,SOLANO COUNTY,0.85
+CA,San Francisco Chronicle,104251,1960,STATE SENATOR,17,San Francisco,CA,"PARKER, KING E. JR.",,1,,,,CONTRA COSTA COUNTY,0.85
+CA,San Francisco Chronicle,104251,1960,STATE SENATOR,21,San Francisco,CA,"DOLWIG, RICHARD J.",,1,,1,,SAN MATEO COUNTY,0.9
+CA,San Francisco Chronicle,104251,1960,STATE SENATOR,23,San Francisco,CA,"GRUNSKY, DONALD L.",,1,,1,,SANTA CRUZ AND SAN BENITO COUNTIES,0.85
+CA,San Francisco Chronicle,104251,1960,STATE SENATOR,25,San Francisco,CA,"BRYAN, WILLIAM F.",,1,,,,MONTEREY COUNTY,0.85
+CA,San Francisco Chronicle,104251,1960,STATE REP,5,San Francisco,CA,"GREEN, WILLIAM D.",,1,,,,NAPA AND SOLANO COUNTIES,0.85
+CA,San Francisco Chronicle,104251,1960,STATE REP,7,San Francisco,CA,"BAGLEY, WILLIAM T.",,1,,,,MARIN AND SONOMA COUNTIES,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,10,San Francisco,CA,"KRUEGER, GEORGE H.",,1,,,,CONTRA COSTA COUNTY,0.85
+CA,San Francisco Chronicle,104251,1960,STATE REP,11,San Francisco,CA,"ARMSTRONG, LEO",,1,,,,ALAMEDA COUNTY,0.85
+CA,San Francisco Chronicle,104251,1960,STATE REP,13,San Francisco,CA,"BEE, CARLOS",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,14,San Francisco,CA,"GUTLEBEN, JOHN P.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1960,STATE REP,15,San Francisco,CA,"PETRIS, NICHOLAS C.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,16,San Francisco,CA,"DAHL, WALTER I.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,17,San Francisco,CA,"RUMFORD, WM. BYRON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,18,San Francisco,CA,"MULFORD, DON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,25,San Francisco,CA,"FRANCIS, LOUIS",,1,,1,,SAN MATEO COUNTY,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,26,San Francisco,CA,"BRITSCHGI, CARL A.",,1,,1,,SANTA CRUZ COUNTY,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,27,San Francisco,CA,"COOLIDGE, GLENN E.",,1,,1,,SANTA CLARA COUNTY,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,28,San Francisco,CA,"BRADLEY, CLARK L.",,1,,1,,MONTEREY COUNTY,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,29,San Francisco,CA,"ALLEN, BRUCE F.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,STATE REP,34,San Francisco,CA,"PATTEE, ALAN",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1960,SUPERIOR COURT,4,San Francisco,CA,"O'KEEFE, JAMES T.",,1,,,,SAN MATEO COUNTY; OFFICE NO. 4; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,GOVERNOR,,San Francisco,CA,"NIXON, RICHARD M.",Republican,1,,,,FORMER VP; RUNNING FOR GOVERNOR,0.95
+CA,San Francisco Chronicle,104251,1962,LT GOVERNOR,,San Francisco,CA,"CHRISTOPHER, GEORGE",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1962,SEC OF STATE,,San Francisco,CA,"JORDAN, FRANK M.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1962,CONTROLLER,,San Francisco,CA,"CRANSTON, ALAN",Democrat,1,,,,FUTURE US SENATOR; DEMOCRAT ENDORSED BY REPUBLICAN-LEANING PAPER,0.95
+CA,San Francisco Chronicle,104251,1962,TREASURER,,San Francisco,CA,"BUSTERUD, JOHN A.",Republican,1,,,,FORMER SF ASSEMBLYMAN,0.9
+CA,San Francisco Chronicle,104251,1962,ATTORNEY GENERAL,,San Francisco,CA,"MOSK, STANLEY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1962,SUPERINTENDENT,,San Francisco,CA,"RICHARDSON, RALPH",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,SENATOR,,San Francisco,CA,"KUCHEL, THOMAS H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1962,H,5,San Francisco,CA,"SHELLEY, JOHN F.",Democrat,1,1,,,SAN FRANCISCO,0.95
+CA,San Francisco Chronicle,104251,1962,H,6,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,SAN FRANCISCO,0.95
+CA,San Francisco Chronicle,104251,1962,STATE SENATOR,,San Francisco,CA,"MCATEER, J. EUGENE",,1,,,,SF STATE SENATOR,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,18,San Francisco,CA,"GAFFNEY, EDWARD M.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,19,San Francisco,CA,"MEYERS, CHARLES W.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,20,San Francisco,CA,"FRANKEL, CHARLES L.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,21,San Francisco,CA,"MARKS, MILTON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,23,San Francisco,CA,"FORAN, JOHN FRANCIS",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1962,ASSESSOR,,San Francisco,CA,"WOLDEN, RUSSELL L.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,PUBLIC DEFENDER,,San Francisco,CA,"MANCUSO, EDWARD T.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,H,1,San Francisco,CA,"CLAUSEN, DON",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1962,H,4,San Francisco,CA,"LEGGETT, ROBERT L.",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1962,H,7,San Francisco,CA,"COHELAN, JEFFERY",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1962,H,9,San Francisco,CA,"EDWARDS, W. DONLON",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,H,11,San Francisco,CA,"YOUNGER, J. ARTHUR",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,H,12,San Francisco,CA,"TALCOTT, BURT L.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,H,13,San Francisco,CA,"TEAGUE, CHARLES M.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,H,14,San Francisco,CA,"BALDWIN, JOHN F.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE SENATOR,12,San Francisco,CA,"RATTIGAN, JOSEPH A.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,STATE SENATOR,16,San Francisco,CA,"HOLMDAHL, JOHN W.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,STATE SENATOR,18,San Francisco,CA,"BRADLEY, CLARK L.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,7,San Francisco,CA,"BAGLEY, WILLIAM T.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,10,San Francisco,CA,"WALDIE, JEROME R.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,STATE REP,11,San Francisco,CA,"KNOX, JOHN T.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,STATE REP,12,San Francisco,CA,"MONAGAN, ROBERT T.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,STATE REP,13,San Francisco,CA,"BEE, CARLOS",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,14,San Francisco,CA,"CROWN, ROBERT W.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,15,San Francisco,CA,"PETRIS, NICHOLAS C.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,16,San Francisco,CA,"MULFORD, DON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,17,San Francisco,CA,"RUMFORD, WM. BYRON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,22,San Francisco,CA,"MILIAS, GEORGE W.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,STATE REP,24,San Francisco,CA,"DAVIS, ROBERT L.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,STATE REP,25,San Francisco,CA,"ALVES, ALFRED A.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,STATE REP,26,San Francisco,CA,"BRITSCHGI, CARL A.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,STATE REP,27,San Francisco,CA,"RYAN, LEO J.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1962,STATE REP,34,San Francisco,CA,"PATTEE, ALAN",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1962,SUPREME COURT,,San Francisco,CA,"GIBSON, PHIL S.",,1,,,,CHIEF JUSTICE; VOTE YES; UNOPPOSED; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,SUPREME COURT,,San Francisco,CA,"TOBRINER, MATTHEW O.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; UNOPPOSED; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,SUPREME COURT,,San Francisco,CA,"TRAYNOR, ROGER J.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; UNOPPOSED; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,COURT OF APPEALS,1,San Francisco,CA,"MOLINARI, JOHN B.",,1,,,,DIVISION 1; VOTE YES; UNOPPOSED; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,COURT OF APPEALS,1,San Francisco,CA,"SULLIVAN, RAYMOND L.",,1,,,,DIVISION 1; VOTE YES; UNOPPOSED; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,COURT OF APPEALS,2,San Francisco,CA,"AGEE, JAMES R.",,1,,,,DIVISION 2; VOTE YES; UNOPPOSED; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1962,COURT OF APPEALS,3,San Francisco,CA,"DRAPER, MURRAY",,1,,,,"PRESIDING JUSTICE, DIVISION 3; VOTE YES; UNOPPOSED; NONPARTISAN",0.9
+CA,San Francisco Chronicle,104251,1962,COURT OF APPEALS,3,San Francisco,CA,"DEVINE, PRESTON",,1,,,,DIVISION 3; VOTE YES; UNOPPOSED; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1962,COURT OF APPEALS,,San Francisco,CA,"SALSMAN, BYRL R.",,1,,,,VOTE YES; UNOPPOSED; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1962,BOARD OF EQUALIZATION,,San Francisco,CA,"REILLY, GEORGE R.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1962,BOARD OF EDUCATION,,San Francisco,CA,"MATZGER, CLAIRE",,1,,,,NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1962,BOARD OF EDUCATION,,San Francisco,CA,"STRATTEN, JAMES E.",,1,,,,NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1964,PRESIDENT,,San Francisco,CA,"JOHNSON, LYNDON B.",Democrat,1,1,,,WITH HUMPHREY FOR VP; FIRST DEMOCRATIC PRESIDENTIAL ENDORSEMENT BY CHRONICLE IN THIS DATASET,0.95
+CA,San Francisco Chronicle,104251,1964,SENATOR,,San Francisco,CA,"MURPHY, GEORGE",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1964,H,1,San Francisco,CA,"CLAUSEN, DON",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,H,5,San Francisco,CA,"BURTON, PHILLIP",Democrat,1,1,,,UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1964,H,6,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1964,H,7,San Francisco,CA,"COHELAN, JEFFERY",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1964,H,9,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1964,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,H,11,San Francisco,CA,"YOUNGER, J. ARTHUR",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,H,14,San Francisco,CA,"BALDWIN, JOHN F.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE SENATOR,13,San Francisco,CA,"MCCARTHY, JOHN F.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE SENATOR,15,San Francisco,CA,"GIBSON, LUTHER E.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1964,STATE SENATOR,17,San Francisco,CA,"MILLER, GEORGE JR.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1964,STATE SENATOR,21,San Francisco,CA,"DOLWIG, RICHARD J.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,7,San Francisco,CA,"BAGLEY, WILLIAM T.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,10,San Francisco,CA,"WALDIE, JEROME R.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,11,San Francisco,CA,"KNOX, JOHN T.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,13,San Francisco,CA,"BEE, CARLOS",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,14,San Francisco,CA,"CROWN, ROBERT W.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,15,San Francisco,CA,"PETRIS, NICHOLAS C.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,16,San Francisco,CA,"MULFORD, DON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,17,San Francisco,CA,"RUMFORD, WM. BYRON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,18,San Francisco,CA,"TEASDALE, RUSSELL E.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1964,STATE REP,19,San Francisco,CA,"MEYERS, CHAS. W.",,1,,1,,UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,20,San Francisco,CA,"LOUIE, EARL S.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1964,STATE REP,21,San Francisco,CA,"MARKS, MILTON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,22,San Francisco,CA,"MILIAS, GEORGE W.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,23,San Francisco,CA,"FORAN, JOHN F.",,1,,1,,UNOPPOSED,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,26,San Francisco,CA,"BRITSCHGI, CARL A.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,STATE REP,27,San Francisco,CA,"RYAN, LEO J.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1964,BOARD OF EDUCATION,,San Francisco,CA,"COLVIN, REYNOLD H.",,1,,,,SAN FRANCISCO; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1964,STATE SENATOR,25,San Francisco,CA,"FARR, FRED S.",,1,,,,MONTEREY COUNTY,0.85
+CA,San Francisco Chronicle,104251,1964,STATE REP,12,San Francisco,CA,"MONAGAN, ROBERT T.",,1,,1,,SAN JOAQUIN COUNTY,0.85
+CA,San Francisco Chronicle,104251,1964,STATE REP,30,San Francisco,CA,"VENEMAN, JOHN G.",,1,,,,STANISLAUS COUNTY,0.85
+CA,San Francisco Chronicle,104251,1964,STATE REP,34,San Francisco,CA,"PATTEE, ALAN",,1,,1,,MONTEREY AND SANTA CRUZ COUNTIES,0.9
+CA,San Francisco Chronicle,104251,1964,SUPREME COURT,,San Francisco,CA,"PEEK, PAUL",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1964,COURT OF APPEALS,,San Francisco,CA,"SHOEMAKER, DANIEL R.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1964,COURT OF APPEALS,,San Francisco,CA,"TAYLOR, WAKEFIELD",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1966,GOVERNOR,,San Francisco,CA,"BROWN, EDMUND G.",Democrat,1,1,,,ENDORSED OVER REAGAN,0.95
+CA,San Francisco Chronicle,104251,1966,LT GOVERNOR,,San Francisco,CA,"FINCH, ROBERT H.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1966,SEC OF STATE,,San Francisco,CA,"JORDAN, FRANK M.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1966,CONTROLLER,,San Francisco,CA,"FLOURNOY, HOUSTON I.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1966,TREASURER,,San Francisco,CA,"BETTS, BERT A.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,ATTORNEY GENERAL,,San Francisco,CA,"LYNCH, THOMAS C.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1966,BOARD OF EQUALIZATION,1,San Francisco,CA,"REILLY, GEORGE R.",,1,,,,INCUMBENT,0.9
+CA,San Francisco Chronicle,104251,1966,H,5,San Francisco,CA,"BURTON, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1966,H,6,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1966,STATE SENATOR,9,San Francisco,CA,"MCATEER, J. EUGENE",,1,,1,,INCUMBENT,0.9
+CA,San Francisco Chronicle,104251,1966,STATE SENATOR,10,San Francisco,CA,"MOSCONE, GEORGE",,1,,,,FUTURE SF MAYOR,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,18,San Francisco,CA,"KAHN, JULIUS III",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1966,STATE REP,19,San Francisco,CA,"CULLEN, EDGAR E.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,20,San Francisco,CA,"BRIGHT, RAYMOND E.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1966,STATE REP,23,San Francisco,CA,"VERREOS, NICK",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1966,ASSESSOR,,San Francisco,CA,"TINNEY, JOSEPH E.",,1,,,,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1966,PUBLIC DEFENDER,,San Francisco,CA,"MANCUSO, EDWARD T.",,1,,,,INCUMBENT; UNOPPOSED; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1966,BOARD OF EDUCATION,,San Francisco,CA,"GLASS, LAUREL ELLEN",,1,,,,DR.; MAYORS NOMINATION; VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1966,BOARD OF EDUCATION,,San Francisco,CA,"NICHOLS, ALAN H.",,1,,,,MAYORS NOMINATION; VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1966,H,1,San Francisco,CA,"CLAUSEN, DON H.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,H,7,San Francisco,CA,"COHELAN, JEFFERY",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1966,H,9,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1966,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,H,11,San Francisco,CA,"YOUNGER, J. ARTHUR",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,H,14,San Francisco,CA,"WALDIE, JEROME R.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE SENATOR,4,San Francisco,CA,"YOUNG, PEARCE",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1966,STATE SENATOR,7,San Francisco,CA,"MILLER, GEORGE JR.",,1,,1,,,0.85
+CA,San Francisco Chronicle,104251,1966,STATE SENATOR,8,San Francisco,CA,"RUMFORD, WM. BYRON",,1,,,,RUNNING FOR STATE SENATE AFTER ASSEMBLY CAREER,0.85
+CA,San Francisco Chronicle,104251,1966,STATE SENATOR,12,San Francisco,CA,"DOLWIG, RICHARD J.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE SENATOR,13,San Francisco,CA,"ALQUIST, ALFRED E.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1966,STATE SENATOR,14,San Francisco,CA,"BRADLEY, CLARK L.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,7,San Francisco,CA,"BAGLEY, WILLIAM T.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,10,San Francisco,CA,"DENT, JAMES W.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1966,STATE REP,11,San Francisco,CA,"KNOX, JOHN T.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,13,San Francisco,CA,"BEE, CARLOS",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,14,San Francisco,CA,"CROWN, ROBERT W.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,15,San Francisco,CA,"FONG, MARCH K.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1966,STATE REP,16,San Francisco,CA,"MULFORD, DON",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,17,San Francisco,CA,"NORTON, RAY",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1966,STATE REP,22,San Francisco,CA,"MILIAS, GEORGE W.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,26,San Francisco,CA,"BRITSCHGI, CARL A.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,STATE REP,27,San Francisco,CA,"MILLER, ROBERT N.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1966,STATE REP,34,San Francisco,CA,"PATTEE, ALAN A.",,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1966,SUPREME COURT,,San Francisco,CA,"TRAYNOR, ROGER J.",,1,,,,CHIEF JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1966,SUPREME COURT,,San Francisco,CA,"BURKE, LOUIS H.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1966,SUPREME COURT,,San Francisco,CA,"MCCOMB, MARSHALL F.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1966,SUPREME COURT,,San Francisco,CA,"MOSK, STANLEY",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1966,SUPREME COURT,,San Francisco,CA,"PEEK, PAUL",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1966,COURT OF APPEALS,,San Francisco,CA,"SULLIVAN, RAYMOND L.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1966,COURT OF APPEALS,,San Francisco,CA,"MOLINARI, JOHN B.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1966,COURT OF APPEALS,,San Francisco,CA,"SIMS, RICHARD M. JR.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1966,COURT OF APPEALS,,San Francisco,CA,"DEVINE, PRESTON",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1968,PRESIDENT,,San Francisco,CA,"NIXON, RICHARD M.",Republican,1,,,,WITH VP SPIRO T. AGNEW,0.95
+CA,San Francisco Chronicle,104251,1968,SENATOR,,San Francisco,CA,"CRANSTON, ALAN",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1968,H,5,San Francisco,CA,"BURTON, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,H,6,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE SENATOR,,San Francisco,CA,"MARKS, MILTON",,1,,1,,INCUMBENT; NO DISTRICT LISTED,0.9
+CA,San Francisco Chronicle,104251,1968,STATE REP,18,San Francisco,CA,"BROWN, WILLIE JR.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE REP,19,San Francisco,CA,"MCCARTHY, LEO T.",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE REP,20,San Francisco,CA,"GRAF, AL",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1968,STATE REP,23,San Francisco,CA,"VERREOS, NICK",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1968,BOARD OF EDUCATION,,San Francisco,CA,"SANCHEZ, DAVID J. JR.",,1,,,,NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1968,H,1,San Francisco,CA,"CLAUSEN, DON H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1968,H,7,San Francisco,CA,"COHELAN, JEFFERY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,H,9,San Francisco,CA,"FARGHER, LARRY",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1968,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1968,H,11,San Francisco,CA,"MCCLOSKEY, PAUL N.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1968,H,14,San Francisco,CA,"WALDIE, JEROME K.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE SENATOR,7,San Francisco,CA,"MILLER, GEORGE JR.",,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE SENATOR,11,San Francisco,CA,"PETRIS, NICHOLAS C.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE SENATOR,13,San Francisco,CA,"ALQUIST, ALFRED E.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE REP,7,San Francisco,CA,"BAGLEY, WILLIAM T.",,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE REP,10,San Francisco,CA,"DENT, JAMES W.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1968,STATE REP,11,San Francisco,CA,"KNOX, JOHN T.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE REP,13,San Francisco,CA,"BEE, CARLOS",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE REP,14,San Francisco,CA,"MOSER, RAY",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1968,STATE REP,15,San Francisco,CA,"FONG, MARCH K.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE REP,16,San Francisco,CA,"MULFORD, DON",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1968,STATE REP,17,San Francisco,CA,"MILLER, JOHN J.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1968,STATE REP,25,San Francisco,CA,"CRANDALL, EARLE P.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1968,STATE REP,26,San Francisco,CA,"BRITSCHGI, CARL A.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1970,GOVERNOR,,San Francisco,CA,"REAGAN, RONALD",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1970,LT GOVERNOR,,San Francisco,CA,"REINECKE, ED",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1970,SEC OF STATE,,San Francisco,CA,"FLOURNOY, JAMES L.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1970,CONTROLLER,,San Francisco,CA,"FLOURNOY, HOUSTON I.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1970,TREASURER,,San Francisco,CA,"PRIEST, IVY BAKER",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1970,ATTORNEY GENERAL,,San Francisco,CA,"O'BRIEN, CHARLES A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1970,SENATOR,,San Francisco,CA,"MURPHY, GEORGE",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1970,SUPERINTENDENT,,San Francisco,CA,"RILES, WILSON C.",,1,,,,NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1970,BOARD OF EQUALIZATION,1,San Francisco,CA,"REILLY, GEORGE R.",,1,1,,,INCUMBENT,0.9
+CA,San Francisco Chronicle,104251,1970,BOARD OF EQUALIZATION,2,San Francisco,CA,"CORNEILLE, ANN ROOT",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1970,BOARD OF EQUALIZATION,3,San Francisco,CA,"KETTENHOFEN, ERNEST",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1970,H,5,San Francisco,CA,"BURTON, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1970,H,6,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1970,STATE SENATOR,,San Francisco,CA,"MOSCONE, GEORGE",,1,1,,,INCUMBENT; NO DISTRICT LISTED,0.9
+CA,San Francisco Chronicle,104251,1970,STATE REP,18,San Francisco,CA,"BROWN, WILLIE JR.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1970,STATE REP,19,San Francisco,CA,"MCCARTHY, LEO T.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1970,STATE REP,23,San Francisco,CA,"FORAN, JOHN F.",,1,1,,,INCUMBENT PER NEWSPAPERS.COM SCAN,0.95
+CA,San Francisco Chronicle,104251,1970,ASSESSOR,,San Francisco,CA,"TINNEY, JOSEPH E.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1970,PUBLIC DEFENDER,,San Francisco,CA,"MANCUSO, EDWARD T.",,1,,,,NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1970,BOARD OF EDUCATION,,San Francisco,CA,"CROWLEY, JOHN F.",,1,,,,UNOPPOSED; YES FOR CONFIRMATION; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1970,H,1,San Francisco,CA,"CLAUSEN, DON H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1970,H,7,San Francisco,CA,"HEALY, JOHN E.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1970,H,8,San Francisco,CA,"MILLER, GEORGE P.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1970,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1970,H,11,San Francisco,CA,"MCCLOSKEY, PAUL N.",Republican,1,,1,,LISTED AS PETE MCCLOSKEY,0.95
+CA,San Francisco Chronicle,104251,1970,H,14,San Francisco,CA,"WALDIE, JEROME R.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1970,STATE SENATOR,4,San Francisco,CA,"BEHR, PETER H.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1970,STATE SENATOR,8,San Francisco,CA,"SHERMAN, LEWIS F.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1970,STATE SENATOR,12,San Francisco,CA,"BRITSCHGI, CARL A.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1970,STATE SENATOR,14,San Francisco,CA,"BRADLEY, CLARK L.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1970,STATE REP,7,San Francisco,CA,"BAGLEY, WILLIAM T.",,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1970,STATE REP,10,San Francisco,CA,"DENT, JAMES W.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1970,STATE REP,11,San Francisco,CA,"KNOX, JOHN T.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1970,STATE REP,12,San Francisco,CA,"MONAGAN, ROBERT",,1,1,,,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1970,STATE REP,13,San Francisco,CA,"BEE, CARLOS",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1970,STATE REP,16,San Francisco,CA,"MULFORD, DON",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1970,STATE REP,25,San Francisco,CA,"CRANDALL, EARL P.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1970,STATE REP,26,San Francisco,CA,"ARNETT, DIXON",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1970,SUPREME COURT,,San Francisco,CA,"WRIGHT, DONALD R.",,1,,,,CHIEF JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1970,SUPREME COURT,,San Francisco,CA,"BURKE, LOUIS H.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1970,SUPREME COURT,,San Francisco,CA,"PETERS, RAYMOND E.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1970,SUPREME COURT,,San Francisco,CA,"SULLIVAN, RAYMOND L.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1970,COURT OF APPEALS,,San Francisco,CA,"MOLINARI, JOHN B.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1970,COURT OF APPEALS,,San Francisco,CA,"ELKINGTON, NORMAN",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1970,COURT OF APPEALS,,San Francisco,CA,"AGEE, JAMES R.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1970,COURT OF APPEALS,,San Francisco,CA,"DRAPER, MURRAY",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1970,COURT OF APPEALS,,San Francisco,CA,"BROWN, HAROLD C.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1970,COURT OF APPEALS,,San Francisco,CA,"CALDECOTT, THOMAS W.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1970,COURT OF APPEALS,,San Francisco,CA,"DEVINE, PRESTON",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1970,COURT OF APPEALS,,San Francisco,CA,"CHRISTIAN, WINSLOW",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1970,COURT OF APPEALS,,San Francisco,CA,"RATTIGAN, JOSEPH A.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,BOARD OF EDUCATION,,San Francisco,CA,"ABRAHAMSON, LUCILLE S.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,BOARD OF EDUCATION,,San Francisco,CA,"CHINN, GEORGE Y.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,BOARD OF EDUCATION,,San Francisco,CA,"DOLSON, LEE S.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,BOARD OF EDUCATION,,San Francisco,CA,"HAYNES, CHARLIE MAE",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,BOARD OF EDUCATION,,San Francisco,CA,"HOPP, EUGENE S.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,BOARD OF EDUCATION,,San Francisco,CA,"KIDDER, JOHN A.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,BOARD OF EDUCATION,,San Francisco,CA,"SANCHEZ, DAVID J. JR.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"BRIGAERTS, PIERRE GERARD JR.",,1,,,,NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1972,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"CHIN, JOHN YEHALL",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"COLVIN, REYNOLD H.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"CONLAN, LOUIS G.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"FINNEGAN, PETER M.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"GIUBBINI, LYNN MARIE",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"WARD, DORIS M.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,SUPERIOR COURT,6,San Francisco,CA,"MULLINS, WILLIAM E.",,1,,,,DEPARTMENT 6; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,SUPERIOR COURT,8,San Francisco,CA,"KENNEDY, JOSEPH G.",,1,,,,DEPARTMENT 8; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,SUPERIOR COURT,10,San Francisco,CA,"VAVURIS, S. LEE",,1,,,1,INCUMBENT; DEPARTMENT 10; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,SUPERIOR COURT,11,San Francisco,CA,"ALLEN, CARL H.",,1,,,1,INCUMBENT; DEPARTMENT 11; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,MUNICIPAL COURT,2,San Francisco,CA,"O'KANE, JOHN A.",,1,,,1,INCUMBENT; DEPARTMENT 2; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,MUNICIPAL COURT,6,San Francisco,CA,"DANDURAND, THOMAS J.",,1,,,1,INCUMBENT; DEPARTMENT 6; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1972,PRESIDENT,,San Francisco,CA,"NIXON, RICHARD M.",Republican,1,,1,,WITH VP SPIRO T. AGNEW,0.95
+CA,San Francisco Chronicle,104251,1972,H,5,San Francisco,CA,"BURTON, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,H,6,San Francisco,CA,"MAILLIARD, WILLIAM S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1972,H,1,San Francisco,CA,"CLAUSEN, DON H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1972,H,7,San Francisco,CA,"HANNASFORD, PETER",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1972,H,9,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,H,10,San Francisco,CA,"GUBSER, CHARLES S.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1972,H,11,San Francisco,CA,"RYAN, LEO J.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1972,H,12,San Francisco,CA,"TALCOTT, BURT L.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1972,H,14,San Francisco,CA,"WALDIE, JEROME K.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,H,17,San Francisco,CA,"MCCLOSKEY, PAUL N.",Republican,1,,1,,LISTED AS REP.,0.95
+CA,San Francisco Chronicle,104251,1972,STATE SENATOR,9,San Francisco,CA,"MARKS, MILTON",,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE SENATOR,7,San Francisco,CA,"NEJEDLY, JOHN A.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1972,STATE SENATOR,11,San Francisco,CA,"PETRIS, NICHOLAS",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE SENATOR,13,San Francisco,CA,"ALQUIST, ALFRED E.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE REP,18,San Francisco,CA,"BROWN, WILLIE JR.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE REP,19,San Francisco,CA,"MCCARTHY, LEO T.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE REP,20,San Francisco,CA,"GRAF, AL",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1972,STATE REP,23,San Francisco,CA,"FORAN, JOHN F.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE REP,7,San Francisco,CA,"BAGLEY, WILLIAM T.",,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE REP,10,San Francisco,CA,"BOGGESS, WARREN N.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1972,STATE REP,11,San Francisco,CA,"KNOX, JOHN T.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE REP,12,San Francisco,CA,"MONAGAN, ROBERT",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1972,STATE REP,13,San Francisco,CA,"BEE, CARLOS",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE REP,14,San Francisco,CA,"CROWN, ROBERT",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1972,STATE REP,15,San Francisco,CA,"FONG, MARCH K.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1972,STATE REP,17,San Francisco,CA,"MILLER, JOHN J.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1972,STATE REP,22,San Francisco,CA,"HAYDEN, RICHARD D.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1972,STATE REP,26,San Francisco,CA,"ARNETT, DIXON",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1972,STATE REP,27,San Francisco,CA,"PAPAN, LOUIS J.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,GOVERNOR,,San Francisco,CA,"FLOURNOY, HOUSTON I.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1974,LT GOVERNOR,,San Francisco,CA,"HARMER, JOHN L.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1974,SEC OF STATE,,San Francisco,CA,"VAN CAMP, BRIAN R.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,CONTROLLER,,San Francisco,CA,"BAGLEY, WILLIAM T.",Republican,1,,,,FORMERLY ASSEMBLY 7TH DISTRICT,0.95
+CA,San Francisco Chronicle,104251,1974,TREASURER,,San Francisco,CA,"KEHOE, JOHN T.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,ATTORNEY GENERAL,,San Francisco,CA,"YOUNGER, EVELLE J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1974,BOARD OF EQUALIZATION,1,San Francisco,CA,"REILLY, GEORGE R.",,1,1,,,INCUMBENT,0.9
+CA,San Francisco Chronicle,104251,1974,BOARD OF EQUALIZATION,3,San Francisco,CA,"MASTRANGELO, TULLY P.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,SENATOR,,San Francisco,CA,"CRANSTON, ALAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1974,H,5,San Francisco,CA,"CAYLOR, THOMAS",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,H,6,San Francisco,CA,"BURTON, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1974,H,7,San Francisco,CA,"FERNANDEZ, GARY",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,H,9,San Francisco,CA,"STARK, FORTNEY H. JR.",Democrat,1,1,,,AKA PETE STARK,0.95
+CA,San Francisco Chronicle,104251,1974,H,10,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1974,H,11,San Francisco,CA,"RYAN, LEO J.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1974,H,12,San Francisco,CA,"MCCLOSKEY, PAUL N. JR.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1974,H,13,San Francisco,CA,"ADLISE, GEORGE W.",,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1974,STATE SENATOR,2,San Francisco,CA,"BEHR, PETER H.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE SENATOR,4,San Francisco,CA,"MCPHERSON, WILLIAM H.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE SENATOR,6,San Francisco,CA,"MOSCONE, GEORGE",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1974,STATE SENATOR,8,San Francisco,CA,"HOLMDAHL, JOHN W.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE SENATOR,10,San Francisco,CA,"GREGORIO, ARLEN",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE SENATOR,14,San Francisco,CA,"BRADLEY, CLARK L.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE REP,2,San Francisco,CA,"KEANE, BARRY",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE REP,9,San Francisco,CA,"HILL, A. ALAN",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE REP,10,San Francisco,CA,"BOATWRIGHT, DANIEL E.",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE REP,11,San Francisco,CA,"KNOX, JOHN T.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1974,STATE REP,13,San Francisco,CA,"MILLER, JOHN J.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE REP,14,San Francisco,CA,"LOCKYER, BILL",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE REP,16,San Francisco,CA,"FORAN, JOHN F.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1974,STATE REP,17,San Francisco,CA,"BROWN, WILLIE JR.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1974,STATE REP,18,San Francisco,CA,"MCCARTHY, LEO T.",,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1974,STATE REP,19,San Francisco,CA,"PAPAN, LOUIS J.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE REP,21,San Francisco,CA,"CALVO, VICTOR",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1974,STATE REP,22,San Francisco,CA,"HAYDEN, RICHARD D.",,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1974,BART DIRECTOR,1,San Francisco,CA,"HILL, JAMES D.",,1,1,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BART DIRECTOR,2,San Francisco,CA,"BIANCO, NELLO J.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BART DIRECTOR,3,San Francisco,CA,"CLARK, RICHARD O.",,1,1,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BART DIRECTOR,4,San Francisco,CA,"GLASER, HARVEY W.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BART DIRECTOR,5,San Francisco,CA,"MARTIN, JAMES S.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BART DIRECTOR,6,San Francisco,CA,"SILLIMAN, GEORGE M.",,1,1,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BART DIRECTOR,7,San Francisco,CA,"SANGER, JOHN M.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BART DIRECTOR,8,San Francisco,CA,"COOPER, ELMER",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BART DIRECTOR,9,San Francisco,CA,"KIRKWOOD, JOHN H.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,SUPREME COURT,,San Francisco,CA,"WRIGHT, DONALD R.",,1,,,,CHIEF JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,SUPREME COURT,,San Francisco,CA,"MOSK, STANLEY",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,SUPREME COURT,,San Francisco,CA,"TOBRINER, MATHEW O.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,SUPREME COURT,,San Francisco,CA,"CLARK, WILLIAM P.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,COURT OF APPEALS,,San Francisco,CA,"SIMS, RICHARD M.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,COURT OF APPEALS,,San Francisco,CA,"TAYLOR, WAKEFIELD",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,COURT OF APPEALS,,San Francisco,CA,"KANE, FRANCIS",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,COURT OF APPEALS,,San Francisco,CA,"ROUSE, ALLISON M.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,COURT OF APPEALS,,San Francisco,CA,"CALDECOTT, THOMAS W.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,COURT OF APPEALS,,San Francisco,CA,"RATTIGAN, JOSEPH A.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,SUPERIOR COURT,3,San Francisco,CA,"CRAGEN, EDWARD L.",,1,,,,OFFICE NO. 3; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,ASSESSOR,,San Francisco,CA,"TINNEY, JOSEPH E.",,1,1,,,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,PUBLIC DEFENDER,,San Francisco,CA,"NICCO, ROBERT",,1,1,,,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BOARD OF EDUCATION,,San Francisco,CA,"GOOSBY, ZURETTI LEE",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BOARD OF EDUCATION,,San Francisco,CA,"KIDDER, JOHN A.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,BOARD OF EDUCATION,,San Francisco,CA,"O'SHEA, M. LESTER",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"COLVIN, REYNOLD H.",,1,1,,,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"RIORDAN, JOHN",,1,1,,,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1974,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"BURTON, ROBERT E.",,1,1,,,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,PRESIDENT,,San Francisco,CA,"FORD, GERALD R.",Republican,1,,1,,WITH VP ROBERT DOLE,0.95
+CA,San Francisco Chronicle,104251,1976,SENATOR,,San Francisco,CA,"HAYAKAWA, S. I.",Republican,1,,,,SAM HAYAKAWA,0.95
+CA,San Francisco Chronicle,104251,1976,H,1,San Francisco,CA,"JOHNSON, HAROLD T.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1976,H,2,San Francisco,CA,"CLAUSEN, DON H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1976,H,4,San Francisco,CA,"DEHR, ALBERT",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1976,H,5,San Francisco,CA,"FANNING, BRONWELL",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1976,H,6,San Francisco,CA,"BURTON, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1976,H,7,San Francisco,CA,"MILLER, GEORGE",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1976,H,10,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1976,H,11,San Francisco,CA,"RYAN, LEO J.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1976,H,12,San Francisco,CA,"MCCLOSKEY, PAUL N. JR.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1976,H,13,San Francisco,CA,"MINETA, NORMAN Y.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1976,H,16,San Francisco,CA,"TALCOTT, BURT",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE SENATOR,5,San Francisco,CA,"MENDELSOHN, BOB",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE SENATOR,7,San Francisco,CA,"NEJEDLY, JOHN A.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE SENATOR,9,San Francisco,CA,"PETRIS, NICHOLAS C.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1976,STATE SENATOR,11,San Francisco,CA,"ALQUIST, ALFRED E.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1976,STATE REP,2,San Francisco,CA,"KEANE, BARRY",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE REP,9,San Francisco,CA,"MISKIMEN, JOHN",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE REP,10,San Francisco,CA,"BOATWRIGHT, DANIEL E.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE REP,11,San Francisco,CA,"KNOX, JOHN T.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1976,STATE REP,12,San Francisco,CA,"FLEGAL, ARTHUR R.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE REP,13,San Francisco,CA,"MILLER, JOHN J.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE REP,14,San Francisco,CA,"LOCKYER, BILL",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE REP,16,San Francisco,CA,"TRIPP, DWIGHT K. III",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1976,STATE REP,17,San Francisco,CA,"BROWN, WILLIE L. JR.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1976,STATE REP,18,San Francisco,CA,"MCCARTHY, LEO",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1976,STATE REP,19,San Francisco,CA,"PAPAN, LOUIS J.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE REP,20,San Francisco,CA,"ARNETT, DIXON",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE REP,21,San Francisco,CA,"CALVO, VICTOR",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1976,STATE REP,22,San Francisco,CA,"HAYDEN, RICHARD D.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1976,BART DIRECTOR,1,San Francisco,CA,"ROCKEMAN, NANCY",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,BART DIRECTOR,3,San Francisco,CA,"CLARK, RICHARD O.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,BART DIRECTOR,5,San Francisco,CA,"ALLEN, ROBERT",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,BART DIRECTOR,7,San Francisco,CA,"HUTCH, ELLA HILL",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,BART DIRECTOR,9,San Francisco,CA,"KIRKWOOD, JOHN",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,BOARD OF EDUCATION,,San Francisco,CA,"HOPP, EUGENE",,1,,,1,DR.; INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,BOARD OF EDUCATION,,San Francisco,CA,"JOHNSON, JULE C.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,BOARD OF EDUCATION,,San Francisco,CA,"MELLON, THOMAS JR.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,BOARD OF EDUCATION,,San Francisco,CA,"MEZEY, PETER",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"AYALA, ERNEST",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"CHIN, JOHN Y.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"FINNEGAN, PETER",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1976,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"WARD, DORIS",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,GOVERNOR,,San Francisco,CA,"YOUNGER, EVELLE J.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1978,LT GOVERNOR,,San Francisco,CA,"CURB, MIKE",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1978,SEC OF STATE,,San Francisco,CA,"FONG EU, MARCH",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1978,TREASURER,,San Francisco,CA,"UNRUH, JESSE M.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1978,ATTORNEY GENERAL,,San Francisco,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1978,BOARD OF EQUALIZATION,1,San Francisco,CA,"REILLY, GEORGE R.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1978,BOARD OF EQUALIZATION,3,San Francisco,CA,"BENNETT, WILLIAM M.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1978,H,2,San Francisco,CA,"CLAUSEN, DON H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1978,H,3,San Francisco,CA,"SMOLEY, SANDY",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,H,4,San Francisco,CA,"FAZIO, VIC",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,H,6,San Francisco,CA,"BURTON, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1978,H,7,San Francisco,CA,"GORDON, PAULA",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,H,9,San Francisco,CA,"STARK, FORTNEY H. JR.",Democrat,1,1,,,PETE STARK,0.95
+CA,San Francisco Chronicle,104251,1978,H,10,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1978,H,11,San Francisco,CA,"RYAN, LEO J.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1978,H,12,San Francisco,CA,"MCCLOSKEY, PAUL N. JR.",Republican,1,,1,,PETE MCCLOSKEY,0.95
+CA,San Francisco Chronicle,104251,1978,H,13,San Francisco,CA,"O'KEEFE, DAN",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,H,14,San Francisco,CA,"SHUMWAY, NORMAN",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,H,16,San Francisco,CA,"SEASTRAND, ERIC",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE SENATOR,2,San Francisco,CA,"GIACOMINI, GARY",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE SENATOR,4,San Francisco,CA,"NIELSEN, JAMES W.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE SENATOR,6,San Francisco,CA,"FORAN, JOHN F.",Democrat,1,1,,,MOVED FROM ASSEMBLY TO STATE SENATE,0.9
+CA,San Francisco Chronicle,104251,1978,STATE SENATOR,8,San Francisco,CA,"HOLMDAHL, JOHN W.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE SENATOR,10,San Francisco,CA,"GARCIA, MARZ",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1978,STATE SENATOR,12,San Francisco,CA,"SMITH, JERRY",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,2,San Francisco,CA,"DRYDEN, BOB",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,8,San Francisco,CA,"BURNEY, GERALD A. JR.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,9,San Francisco,CA,"FILANTE, WILLIAM J.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,11,San Francisco,CA,"KNOX, JOHN T.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1978,STATE REP,12,San Francisco,CA,"NIEMANN, ROBERT M.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,13,San Francisco,CA,"HARRIS, ELIHU M.",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,14,San Francisco,CA,"LOCKYER, BILL",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,15,San Francisco,CA,"MORI, S. FLOYD",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,17,San Francisco,CA,"HENDERSON, MIKE",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,18,San Francisco,CA,"MCCARTHY, LEO",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1978,STATE REP,19,San Francisco,CA,"PAPAN, LOUIS J.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,20,San Francisco,CA,"NAYLOR, ROBERT W.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,21,San Francisco,CA,"MORRIS, GREG",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,22,San Francisco,CA,"HAYDEN, RICHARD D.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,24,San Francisco,CA,"EGELAND, LEONA H.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1978,STATE REP,25,San Francisco,CA,"MCALISTER, ALISTER",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1978,SUPREME COURT,,San Francisco,CA,"BIRD, ROSE",,1,,,,CHIEF JUSTICE; VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1978,SUPREME COURT,,San Francisco,CA,"MANUEL, WILEY W.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1978,SUPREME COURT,,San Francisco,CA,"NEWMAN, FRANK C.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1978,SUPREME COURT,,San Francisco,CA,"RICHARDSON, FRANK K.",,1,,,,ASSOCIATE JUSTICE; VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1978,COURT OF APPEALS,,San Francisco,CA,"RACANELLI, JOHN T.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COURT OF APPEALS,,San Francisco,CA,"ELKINGTON, NORMAN",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COURT OF APPEALS,,San Francisco,CA,"NEWSOM, WILLIAM A.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COURT OF APPEALS,,San Francisco,CA,"TAYLOR, WAKEFIELD",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COURT OF APPEALS,,San Francisco,CA,"WHITE, CLINTON W.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COURT OF APPEALS,,San Francisco,CA,"FEINBERG, SIDNEY",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COURT OF APPEALS,,San Francisco,CA,"HALVONIK, PAUL N.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COURT OF APPEALS,,San Francisco,CA,"SCOTT, JAMES B.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COURT OF APPEALS,,San Francisco,CA,"CALDECOTT, THOMAS W.",,1,,,,APPELLATE JUSTICE; VOTE YES; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,BART DIRECTOR,4,San Francisco,CA,"GLASSER, HARVEY",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,BART DIRECTOR,6,San Francisco,CA,"GLENN, JOHN",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,BART DIRECTOR,7,San Francisco,CA,"USSERY, WILFRED",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,BART DIRECTOR,8,San Francisco,CA,"GARFINKLE, EUGENE",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,ASSESSOR,,San Francisco,CA,"DUCA, SAM",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,PUBLIC DEFENDER,,San Francisco,CA,"BROWN, JEFF",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,BOARD OF EDUCATION,,San Francisco,CA,"ABRAHAMSON, LUCILLE",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,BOARD OF EDUCATION,,San Francisco,CA,"ANAYA, ROSARIO",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,BOARD OF EDUCATION,,San Francisco,CA,"KOPF, MYRA",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"GOULD, HARVEY L.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"RIORDAN, JOHN",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1978,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"SING, LILLIAN K.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,PRESIDENT,,San Francisco,CA,"REAGAN, RONALD",Republican,1,,,,WITH VP GEORGE BUSH,0.95
+CA,San Francisco Chronicle,104251,1980,SENATOR,,San Francisco,CA,"CRANSTON, ALAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1980,H,1,San Francisco,CA,"CHAPPIE, EUGENE A.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,H,2,San Francisco,CA,"CLAUSEN, DON H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1980,H,3,San Francisco,CA,"MATSUI, ROBERT T.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,H,4,San Francisco,CA,"FAZIO, VIC",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,H,5,San Francisco,CA,"MCQUAID, DENNIS",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,H,6,San Francisco,CA,"BURTON, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1980,H,7,San Francisco,CA,"MILLER, GEORGE",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,H,8,San Francisco,CA,"HUGHES, CHARLES V.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,H,9,San Francisco,CA,"STARK, FORTNEY H.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1980,H,10,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1980,H,11,San Francisco,CA,"ROYER, BILL",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,H,12,San Francisco,CA,"MCCLOSKEY, PAUL N.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1980,H,13,San Francisco,CA,"MINETA, NORMAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1980,H,14,San Francisco,CA,"SHUMWAY, NORMAN",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1980,H,15,San Francisco,CA,"COELHO, TONY",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,H,16,San Francisco,CA,"PANETTA, LEON E.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1980,STATE SENATOR,1,San Francisco,CA,"JOHNSON, RAY",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE SENATOR,3,San Francisco,CA,"RODDA, ALBERT S.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE SENATOR,5,San Francisco,CA,"MARKS, MILTON",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1980,STATE SENATOR,7,San Francisco,CA,"BOATWRIGHT, DANIEL",Democrat,1,,,,MOVED FROM ASSEMBLY,0.9
+CA,San Francisco Chronicle,104251,1980,STATE SENATOR,11,San Francisco,CA,"ALQUIST, ALFRED E.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1980,STATE SENATOR,13,San Francisco,CA,"JOHNSON, WILLIAM",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1980,STATE SENATOR,15,San Francisco,CA,"VUICH, ROSE ANN",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE SENATOR,17,San Francisco,CA,"SEASTRAND, ERIC",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,1,San Francisco,CA,"STATHAM, STAN",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,2,San Francisco,CA,"BOSCO, DOUGLAS H.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,3,San Francisco,CA,"HOGER, WALLY",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1980,STATE REP,4,San Francisco,CA,"HANNIGAN, THOS.",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,5,San Francisco,CA,"MOOREHEAD, JEAN M.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1980,STATE REP,6,San Francisco,CA,"GREENE, LEROY F.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,7,San Francisco,CA,"WATERS, NORMAN S.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,8,San Francisco,CA,"SEBASTIANI, DON",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,9,San Francisco,CA,"KONERU, ERNEST",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1980,STATE REP,10,San Francisco,CA,"BAKER, WILLIAM P.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,11,San Francisco,CA,"CAMPBELL, ROBERT J.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,12,San Francisco,CA,"FILANTE, WILLIAM",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,13,San Francisco,CA,"HARRIS, ELIHU M.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,14,San Francisco,CA,"LOCKYER, BILL",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,15,San Francisco,CA,"MORI, S. FLOYD",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,17,San Francisco,CA,"CORRY, THOMAS S.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,18,San Francisco,CA,"MCCARTHY, LEO T.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1980,STATE REP,19,San Francisco,CA,"TUCKER, JAMES J.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,20,San Francisco,CA,"NAYLOR, ROBERT",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,21,San Francisco,CA,"MARTIN, GREG",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,22,San Francisco,CA,"CORTESE, DOMINICK",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,23,San Francisco,CA,"AURELIE, STRAUT",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1980,STATE REP,25,San Francisco,CA,"MCALISTER, ALISTER",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,26,San Francisco,CA,"CRAMER, ADRIAN C.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1980,STATE REP,27,San Francisco,CA,"WELCHNER, ANN",Democrat,1,1,,,,0.85
+CA,San Francisco Chronicle,104251,1980,STATE REP,29,San Francisco,CA,"HALLETT, CAROL",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1980,STATE REP,15,San Francisco,CA,"MARQUITH, GILBERT R.",Republican,1,,,,,0.8
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"DOLSON, LEE S.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"FINNEGAN, PETER M.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"HALLORAN, TERENCE",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"HAM, BEN",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"HUTCH, ELLA HILL",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"KOPP, QUENTIN L.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"LAWSON, EDWARD",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"MARDIKIAN, HAIG G.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"MOLINARI, JOHN L.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"NELDER, WENDY",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"RENNE, LOUISE",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF SUPERVISORS,,San Francisco,CA,"DENEBELM, LIBBY",,1,,,,NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1980,BOARD OF EDUCATION,,San Francisco,CA,"HOPP, EUGENE S.",,1,,,1,DR.; INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF EDUCATION,,San Francisco,CA,"MAHER, BILL",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BOARD OF EDUCATION,,San Francisco,CA,"TOM, BEN",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"ANDERSON, BOOKER T.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"AYALA, ERNEST",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,MUNICIPAL COURT,,San Francisco,CA,"GYEAMANT, INA LEVIN",,1,,,,SAN FRANCISCO; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1980,SUPERIOR COURT,,San Francisco,CA,"SCHWARTZ, HOWARD L.",,1,,,,ALAMEDA COUNTY; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,SUPERIOR COURT,,San Francisco,CA,"GREED, DANIEL E.",,1,,,,SANTA CLARA COUNTY; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1980,BART DIRECTOR,1,San Francisco,CA,"SIMPSON, BARTLEY",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BART DIRECTOR,3,San Francisco,CA,"SHOMIS, ARTHUR J.",,1,,,1,INCUMBENT; NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1980,BART DIRECTOR,4,San Francisco,CA,"PRYOR, MARGARET K.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BART DIRECTOR,5,San Francisco,CA,"ALLEN, ROBERT S.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BART DIRECTOR,7,San Francisco,CA,"USSERY, WILFRED T.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1980,BART DIRECTOR,9,San Francisco,CA,"KIRKWOOD, JOHN H.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,GOVERNOR,,San Francisco,CA,"BRADLEY, TOM",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1982,LT GOVERNOR,,San Francisco,CA,"HALLETT, CAROL",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1982,SENATOR,,San Francisco,CA,"WILSON, PETE",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1982,SEC OF STATE,,San Francisco,CA,"DUFFY, GORDON",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,CONTROLLER,,San Francisco,CA,"CORY, KENNETH",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,TREASURER,,San Francisco,CA,"UNRUH, JESSE M.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1982,ATTORNEY GENERAL,,San Francisco,CA,"VAN DE KAMP, JOHN",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1982,SUPERINTENDENT,,San Francisco,CA,"HONIG, BILL",,1,,,,NON-PARTISAN,0.95
+CA,San Francisco Chronicle,104251,1982,BOARD OF EQUALIZATION,1,San Francisco,CA,"IVERS, WILLIAM H.",Republican,1,,,,BILL IVERS,0.9
+CA,San Francisco Chronicle,104251,1982,BOARD OF EQUALIZATION,3,San Francisco,CA,"EVERS, BILL",Libertarian,1,,,,LIBERTARIAN,0.9
+CA,San Francisco Chronicle,104251,1982,H,1,San Francisco,CA,"CLAUSEN, DON H.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1982,H,2,San Francisco,CA,"CHAPPIE, GENE",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,H,3,San Francisco,CA,"MATSUI, ROBERT T.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,H,4,San Francisco,CA,"CANFIELD, ROGER B.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,H,5,San Francisco,CA,"MARKS, MILTON",Republican,1,,,,MOVED FROM STATE SENATE TO CONGRESS,0.9
+CA,San Francisco Chronicle,104251,1982,H,6,San Francisco,CA,"MCQUAID, DENNIS",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,H,7,San Francisco,CA,"MILLER, GEORGE",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,H,8,San Francisco,CA,"HUTCHISON, CLAUDE B. JR.",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1982,H,9,San Francisco,CA,"STARK, FORTNEY H.",Democrat,1,1,,,PETE STARK,0.95
+CA,San Francisco Chronicle,104251,1982,H,10,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1982,H,11,San Francisco,CA,"ROYER, BILL",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,H,12,San Francisco,CA,"ZSCHAU, ED",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,H,13,San Francisco,CA,"MINETA, NORMAN Y.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1982,H,14,San Francisco,CA,"SHUMWAY, NORMAN D.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,H,15,San Francisco,CA,"COELHO, TONY",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,H,16,San Francisco,CA,"PANETTA, LEON E.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1982,H,17,San Francisco,CA,"PASHAYAN, CHARLES JR.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE SENATOR,2,San Francisco,CA,"MAHER, BILL",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE SENATOR,4,San Francisco,CA,"NIELSEN, JAMES W.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE SENATOR,6,San Francisco,CA,"DOOLITTLE, JOHN",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE SENATOR,8,San Francisco,CA,"FORAN, JOHN F.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE SENATOR,10,San Francisco,CA,"MARGUTH, GILBERT R. JR.",Republican,1,,,,GIB MARGUTH,0.85
+CA,San Francisco Chronicle,104251,1982,STATE SENATOR,12,San Francisco,CA,"O'KEEFE, DAN",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,1,San Francisco,CA,"STATHAM, STAN",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,2,San Francisco,CA,"PARTAIN, JERRY",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,3,San Francisco,CA,"HERGER, WALLY",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,4,San Francisco,CA,"HANNIGAN, THOMAS M.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,5,San Francisco,CA,"GRENZ, PEGGY",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,6,San Francisco,CA,"CONNELLY, LLOYD G.",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,8,San Francisco,CA,"SEBASTIANI, DON",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,9,San Francisco,CA,"FILANTE, WILLIAM J.",Republican,1,,1,,BILL FILANTE,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,11,San Francisco,CA,"CAMPBELL, ROBERT J.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,12,San Francisco,CA,"BATES, TOM",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,13,San Francisco,CA,"HARRIS, ELIHU M.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,14,San Francisco,CA,"DUNCAN, ANN H.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,15,San Francisco,CA,"BAKER, WILLIAM P.",Republican,1,,1,,BILL BAKER,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,16,San Francisco,CA,"BLOYER, GORDON A.",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,17,San Francisco,CA,"BROWN, WILLIE L. JR.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1982,STATE REP,18,San Francisco,CA,"MCALISTER, ALISTER",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,19,San Francisco,CA,"PAPAN, LOUIS J.",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,20,San Francisco,CA,"NAYLOR, ROBERT W.",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,21,San Francisco,CA,"SHER, BYRON D.",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,22,San Francisco,CA,"KONNYU, ERNIE",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,23,San Francisco,CA,"VASCONCELLOS, JOHN",Democrat,1,1,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,24,San Francisco,CA,"CORTESE, DOMINIC L.",Democrat,1,1,,,DOM CORTESE,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,25,San Francisco,CA,"NORRIS, R. EDWIN",Republican,1,,,,ED NORRIS,0.85
+CA,San Francisco Chronicle,104251,1982,STATE REP,26,San Francisco,CA,"CARTER, DOUG",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,27,San Francisco,CA,"NYEGAARD, KATE",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1982,STATE REP,28,San Francisco,CA,"FARR, SAM",Democrat,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,29,San Francisco,CA,"SEASTRAND, ERIC",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1982,STATE REP,31,San Francisco,CA,"SLINKARD, JO-ANN TOUL",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1982,SUPREME COURT,,San Francisco,CA,"RICHARDSON, FRANK K.",,1,,,,VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1982,SUPREME COURT,,San Francisco,CA,"KAUS, OTTO M.",,1,,,,VOTE YES; NONPARTISAN,0.95
+CA,San Francisco Chronicle,104251,1982,BOARD OF SUPERVISORS,,San Francisco,CA,"DOLSON, LEE S.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BOARD OF SUPERVISORS,,San Francisco,CA,"HONGISTO, RICHARD D.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BOARD OF SUPERVISORS,,San Francisco,CA,"NELDER, WENDY",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BOARD OF SUPERVISORS,,San Francisco,CA,"TOM, BEN",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BOARD OF SUPERVISORS,,San Francisco,CA,"WHARTON, DAVE",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BOARD OF EDUCATION,,San Francisco,CA,"ANAYA, ROSARIO",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BOARD OF EDUCATION,,San Francisco,CA,"CRICHTON DEOSUNA, MARGARET",,1,,,,NONPARTISAN,0.85
+CA,San Francisco Chronicle,104251,1982,BOARD OF EDUCATION,,San Francisco,CA,"KOPF, MYRA",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"BACCI, ROBERT R.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"BERNICK, MIKE S.",,1,,,,NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"RIORDAN, JOHN",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,MUNICIPAL COURT,,San Francisco,CA,"CHIANTELLI, ALFRED G.",,1,,,,SF MUNICIPAL COURT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,SUPERIOR COURT,8,San Francisco,CA,"WALSH, JAMES",,1,,,,ALAMEDA COUNTY; OFFICE 8; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,MUNICIPAL COURT,,San Francisco,CA,"JACKSON, BOOKER T.",,1,,,,BERKELEY-ALBANY MUNICIPAL COURT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,MUNICIPAL COURT,,San Francisco,CA,"MESNICK, SAMUEL",,1,,,,CONTRA COSTA COUNTY BAY MUNI COURT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BART DIRECTOR,2,San Francisco,CA,"BIANCO, NELLO",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BART DIRECTOR,4,San Francisco,CA,"PRYOR, MARGARET K.",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BART DIRECTOR,8,San Francisco,CA,"GARFINKLE, EUGENE",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1982,BART DIRECTOR,6,San Francisco,CA,"GLENN, JOHN",,1,,,1,INCUMBENT; NONPARTISAN,0.9
+CA,San Francisco Chronicle,104251,1984,PRESIDENT,,San Francisco,CA,"REAGAN, RONALD",Republican,1,,1,,REAGAN AND GEORGE BUSH (R)*,0.95
+CA,San Francisco Chronicle,104251,1984,H,1,San Francisco,CA,"REDICK, DAVID",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,2,San Francisco,CA,"CHAPPIE, GENE",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,3,San Francisco,CA,"MATSUI, ROBERT",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,4,San Francisco,CA,"FAZIO, VIC",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,5,San Francisco,CA,"BURTON, SALA",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,6,San Francisco,CA,"BINDERUP, DOUGLAS",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,7,San Francisco,CA,"MILLER, GEORGE",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,8,San Francisco,CA,"CONNOR, CHARLES",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,9,San Francisco,CA,"STARK, FORTNEY P.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,10,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,11,San Francisco,CA,"LANTOS, TOM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,12,San Francisco,CA,"ZSCHAU, ED",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,13,San Francisco,CA,"MINETA, NORMAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,14,San Francisco,CA,"SHUMWAY, NORM",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,15,San Francisco,CA,"COELHO, TONY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,16,San Francisco,CA,"PANETTA, LEON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,17,San Francisco,CA,"PASHAYAN, CHARLES",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,H,18,San Francisco,CA,"EWEN, DALE L.",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE SENATOR,1,San Francisco,CA,"JOHNSON, ROY",Democrat,1,1,,,LISTED AS (I)* — INCUMBENT,0.9
+CA,San Francisco Chronicle,104251,1984,STATE SENATOR,3,San Francisco,CA,"MARKS, MILTON",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE SENATOR,5,San Francisco,CA,"GARAMENDI, JOHN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE SENATOR,7,San Francisco,CA,"BOATWRIGHT, DANIEL",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE SENATOR,9,San Francisco,CA,"PETRIS, NICHOLAS",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE SENATOR,11,San Francisco,CA,"MORGAN, REBECCA",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE SENATOR,13,San Francisco,CA,"ALQUIST, ALFRED E.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE SENATOR,15,San Francisco,CA,"VUICH, ROSE ANN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE SENATOR,17,San Francisco,CA,"MAGYAR, STEPHEN",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,1,San Francisco,CA,"STATHAM, STAN",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,2,San Francisco,CA,"WALSH, DANNY",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,3,San Francisco,CA,"HERGER, WALLY",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,4,San Francisco,CA,"HANNIGAN, THOMAS",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,5,San Francisco,CA,"LESLIE, TIM",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,6,San Francisco,CA,"CONNELLY, LLOYD G.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,7,San Francisco,CA,"WATERS, NORM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,8,San Francisco,CA,"SEBASTIANI, DON A.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,9,San Francisco,CA,"FILANTE, WILLIAM J.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,10,San Francisco,CA,"ISENBERG, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,11,San Francisco,CA,"CAMPBELL, ROBERT",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,12,San Francisco,CA,"BATES, TOM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,13,San Francisco,CA,"HARRIS, ELIHU M.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,14,San Francisco,CA,"KLEHS, JOHAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,15,San Francisco,CA,"BAKER, WILLIAM P.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,16,San Francisco,CA,"AGNOS, ART",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,17,San Francisco,CA,"BROWN, WILLIE L., JR.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,18,San Francisco,CA,"MCALISTER, ALISTER",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,19,San Francisco,CA,"PAPAN, LOUIS J.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,20,San Francisco,CA,"NAYLOR, ROBERT W.",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,21,San Francisco,CA,"SHER, BYRON D.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,22,San Francisco,CA,"KONNYU, ERNIE",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,23,San Francisco,CA,"VASCONCELLOS, JOHN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,24,San Francisco,CA,"CORTESE, DOMINIC L.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,25,San Francisco,CA,"AREIAS, RUSTY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,26,San Francisco,CA,"WILHOIT, DOUG",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,27,San Francisco,CA,"CONDIT, GARY A.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,28,San Francisco,CA,"FARR, SAM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,29,San Francisco,CA,"SEASTRAND, ERIC",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,30,San Francisco,CA,"KENNEDY, J. GORDON",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,31,San Francisco,CA,"BRONZAN, BRUCE",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1984,STATE REP,32,San Francisco,CA,"JONES, BILL",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF SUPERVISORS,,San Francisco,CA,"KOPP, QUENTIN",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF SUPERVISORS,,San Francisco,CA,"WHARTON, DAVE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF SUPERVISORS,,San Francisco,CA,"MOLINARI, JOHN L.",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF SUPERVISORS,,San Francisco,CA,"KENNEDY, WILLIE B.",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF SUPERVISORS,,San Francisco,CA,"RENNE, LOUISE",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF SUPERVISORS,,San Francisco,CA,"STARR, KEVIN",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF EDUCATION,,San Francisco,CA,"HOPP, EUGENE S.",,1,,,1,DR.; INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF EDUCATION,,San Francisco,CA,"DENEBEIM, LIBBY",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF EDUCATION,,San Francisco,CA,"CERBATOS, DICK",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BOARD OF EDUCATION,,San Francisco,CA,"TOM, BEN",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"TANG, JULIE",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"BROWN, AMOS",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"WOLFRED, TIM",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"AYALA, ERNEST (CHUCK)",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BERKELEY CITY COUNCIL,,San Francisco,CA,"FELLER, GILDA",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BERKELEY CITY COUNCIL,,San Francisco,CA,"SWEENEY, JAMES",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BERKELEY CITY COUNCIL,,San Francisco,CA,"WASHBURN, ANDREA",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BERKELEY CITY COUNCIL,,San Francisco,CA,"EPSTEIN, ED",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1984,BART DIRECTOR,5,San Francisco,CA,"ALLEN, ROBERT S.",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1984,BART DIRECTOR,9,San Francisco,CA,"KIRKWOOD, JOHN H.",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,GOVERNOR,,San Francisco,CA,"DEUKMEJIAN, GEORGE",Republican,1,,1,,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,SENATOR,,San Francisco,CA,"ZSCHAU, ED",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,LT GOVERNOR,,San Francisco,CA,"MCCARTHY, LEO",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,SEC OF STATE,,San Francisco,CA,"FONG EU, MARCH",Democrat,1,1,,,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,TREASURER,,San Francisco,CA,"UNRUH, JESSE",Democrat,1,1,,,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,ATTORNEY GENERAL,,San Francisco,CA,"VAN DE KAMP, JOHN",Democrat,1,1,,,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,CONTROLLER,,San Francisco,CA,"CAMPBELL, BILL",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,SUPREME COURT,,San Francisco,CA,"BIRD, ROSE ELIZABETH",,0,,,1,CONFIRMATION VOTE — NO,0.95
+CA,San Francisco Chronicle,104251,1986,SUPREME COURT,,San Francisco,CA,"GRODIN, JOSEPH R.",,0,,,1,CONFIRMATION VOTE — NO,0.95
+CA,San Francisco Chronicle,104251,1986,SUPREME COURT,,San Francisco,CA,"LUCAS, MALCOLM M.",,1,,,1,CONFIRMATION VOTE — YES,0.95
+CA,San Francisco Chronicle,104251,1986,SUPREME COURT,,San Francisco,CA,"MOSK, STANLEY",,1,,,1,CONFIRMATION VOTE — YES,0.95
+CA,San Francisco Chronicle,104251,1986,SUPREME COURT,,San Francisco,CA,"PANELLI, EDWARD A.",,1,,,1,CONFIRMATION VOTE — YES,0.95
+CA,San Francisco Chronicle,104251,1986,SUPREME COURT,,San Francisco,CA,"REYNOSO, CRUZ",,0,,,1,CONFIRMATION VOTE — NO,0.95
+CA,San Francisco Chronicle,104251,1986,BOARD OF EQUALIZATION,1,San Francisco,CA,"PRAT, GENE",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,BOARD OF EQUALIZATION,2,San Francisco,CA,"COLLIS, CONWAY",Democrat,1,1,,,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,H,1,San Francisco,CA,"BOSCO, DOUG",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,2,San Francisco,CA,"HERGER, WALLY",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,3,San Francisco,CA,"MATSUI, ROBERT",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,4,San Francisco,CA,"FAZIO, VIC",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,5,San Francisco,CA,"BURTON, SALA",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,6,San Francisco,CA,"BOXER, BARBARA",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,7,San Francisco,CA,"MILLER, GEORGE",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,8,San Francisco,CA,"EIGENBERG, STEVEN",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1986,H,9,San Francisco,CA,"STARK, FORTNEY PETE",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,10,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,11,San Francisco,CA,"LANTOS, TOM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,12,San Francisco,CA,"KONNYU, ERNEST",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,13,San Francisco,CA,"MINETA, NORMAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,14,San Francisco,CA,"SHUMWAY, NORM",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,15,San Francisco,CA,"COELHO, TONY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,16,San Francisco,CA,"PANETTA, LEON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,17,San Francisco,CA,"PASHAYAN, CHARLES",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1986,H,18,San Francisco,CA,"LEHMAN, RICHARD",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE SENATOR,2,San Francisco,CA,"BRANN, RICHARD",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE SENATOR,4,San Francisco,CA,"NIELSEN, JAMES",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE SENATOR,6,San Francisco,CA,"SMOLEY, SANDY",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE SENATOR,8,San Francisco,CA,"KOPP, QUENTIN",Independent,1,,,,LISTED AS (IND.). PROVEN FISCAL ABILITY AND INTELLIGENCE MAKE KOPP A STRONG RECOMMENDATION.,0.95
+CA,San Francisco Chronicle,104251,1986,STATE SENATOR,10,San Francisco,CA,"LOCKYER, BILL",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE SENATOR,12,San Francisco,CA,"LEGAN, TOM",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE SENATOR,14,San Francisco,CA,"MADDY, KEN",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,1,San Francisco,CA,"STATHAM, STAN",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,2,San Francisco,CA,"HAUSER, DAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,3,San Francisco,CA,"CHANDLER, CHRIS",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,4,San Francisco,CA,"HANNIGAN, THOMAS",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,5,San Francisco,CA,"LESLIE, TIM",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,6,San Francisco,CA,"CONNELLY, LLOYD",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,7,San Francisco,CA,"WATERS, NORM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,8,San Francisco,CA,"HANSEN, BEV",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,9,San Francisco,CA,"FILANTE, WILLIAM",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,10,San Francisco,CA,"ISENBERG, PHILLIP",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,11,San Francisco,CA,"CAMPBELL, ROBERT",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,12,San Francisco,CA,"BATES, TOM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,13,San Francisco,CA,"HARRIS, ELIHU",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,14,San Francisco,CA,"KLEHS, JOHAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,15,San Francisco,CA,"BAKER, WILLIAM",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,16,San Francisco,CA,"AGNOS, ART",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,17,San Francisco,CA,"BROWN, WILLIE, JR.",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,18,San Francisco,CA,"MEHAN, LEO",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,19,San Francisco,CA,"SPEIER, JACKIE",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,20,San Francisco,CA,"DUPLISSEA, WILLIAM",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,21,San Francisco,CA,"SHER, BYRON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,22,San Francisco,CA,"QUACKENBUSH, CHARLES",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,23,San Francisco,CA,"VASCONCELLOS, JOHN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,24,San Francisco,CA,"CORTESE, DOMINIC",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,25,San Francisco,CA,"AREIAS, RUSTY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,26,San Francisco,CA,"JOHNSTON, PATRICK",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,27,San Francisco,CA,"CONDIT, GARY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,28,San Francisco,CA,"FARR, SAM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,29,San Francisco,CA,"SEASTRAND, ERIC",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,30,San Francisco,CA,"COSTA, JIM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,31,San Francisco,CA,"BRONZAN, BRUCE",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1986,STATE REP,32,San Francisco,CA,"JONES, BILL",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1986,BART DIRECTOR,4,San Francisco,CA,"PRYOR, MARGARET",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,BART DIRECTOR,6,San Francisco,CA,"GLENN, JOHN",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,BART DIRECTOR,8,San Francisco,CA,"GARFINKLE, EUGENE",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,BOARD OF SUPERVISORS,,San Francisco,CA,"MAHER, BILL",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,BOARD OF SUPERVISORS,,San Francisco,CA,"NELDER, WENDY",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,BOARD OF SUPERVISORS,,San Francisco,CA,"WARD, DORIS",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,BOARD OF EDUCATION,,San Francisco,CA,"ANAYA, ROSARIO",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,BOARD OF EDUCATION,,San Francisco,CA,"LOUIE, GILMAN",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1986,BOARD OF EDUCATION,,San Francisco,CA,"WILSON, SODONIA",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"RIORDAN, JOHN",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"WONG, ALAN",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1986,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"WOTMAN, PAUL",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1988,PRESIDENT,,San Francisco,CA,"BUSH, GEORGE",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1988,SENATOR,,San Francisco,CA,"WILSON, PETE",Republican,1,,1,,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,H,1,San Francisco,CA,"BOSCO, DOUGLAS",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,2,San Francisco,CA,"HERGER, WALLY",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,3,San Francisco,CA,"MATSUI, ROBERT",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,4,San Francisco,CA,"FAZIO, VIC",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,5,San Francisco,CA,"PELOSI, NANCY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,6,San Francisco,CA,"STEINMETZ, WILLIAM",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1988,H,7,San Francisco,CA,"MILLER, GEORGE",Democrat,,1,,,NO RECOMMENDATION,0.9
+CA,San Francisco Chronicle,104251,1988,H,8,San Francisco,CA,"DELLUMS, RONALD V.",Democrat,,1,,,NO RECOMMENDATION,0.85
+CA,San Francisco Chronicle,104251,1988,H,9,San Francisco,CA,"STARK, FORTNEY PETE",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,10,San Francisco,CA,"EDWARDS, DON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,11,San Francisco,CA,"LANTOS, TOM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,12,San Francisco,CA,"CAMPBELL, TOM",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,13,San Francisco,CA,"MINETA, NORMAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,14,San Francisco,CA,"SHUMWAY, NORMAN",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,15,San Francisco,CA,"COELHO, TONY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,16,San Francisco,CA,"PANETTA, LEON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,H,17,San Francisco,CA,"PASHAYAN, CHARLES",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE SENATOR,1,San Francisco,CA,"DOOLITTLE, JOHN",Republican,1,,1,,,0.9
+CA,San Francisco Chronicle,104251,1988,STATE SENATOR,3,San Francisco,CA,"MARSHALL, CAROL",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1988,STATE SENATOR,5,San Francisco,CA,"GARAMENDI, JOHN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE SENATOR,7,San Francisco,CA,"POLLACK, WILLIAM",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1988,STATE SENATOR,9,San Francisco,CA,"PETRIS, NICHOLAS",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE SENATOR,11,San Francisco,CA,"MORGAN, REBECCA",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE SENATOR,13,San Francisco,CA,"ALQUIST, ALFRED",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE SENATOR,15,San Francisco,CA,"VUICH, ROSE ANN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE SENATOR,17,San Francisco,CA,"DAMKAR, HARRY",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1988,STATE REP,1,San Francisco,CA,"STATHAM, STAN",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,2,San Francisco,CA,"HAUSER, DAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,3,San Francisco,CA,"CHANDLER, CHRIS",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,4,San Francisco,CA,"HANNIGAN, THOMAS",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,5,San Francisco,CA,"LESLIE, TIM",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,6,San Francisco,CA,"GATES, MIKE",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1988,STATE REP,7,San Francisco,CA,"WATERS, NORMAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,8,San Francisco,CA,"HAUSER, BEV",Republican,1,,,,,0.85
+CA,San Francisco Chronicle,104251,1988,STATE REP,9,San Francisco,CA,"FILANTE, BILL",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,10,San Francisco,CA,"BOWLER, LARRY",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1988,STATE REP,11,San Francisco,CA,"CAMPBELL, ROBERT",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,12,San Francisco,CA,"BATES, TOM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,13,San Francisco,CA,"HARRIS, ELIHU",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,14,San Francisco,CA,"KLEHS, JOHAN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,15,San Francisco,CA,"BAKER, WILLIAM",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,16,San Francisco,CA,"BURTON, JOHN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,17,San Francisco,CA,"BROWN, WILLIE",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,18,San Francisco,CA,"EASTIN, DELAINE",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,19,San Francisco,CA,"SPEIER, JACKIE",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,20,San Francisco,CA,"DUPLISSEA, BILL",Republican,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,21,San Francisco,CA,"SHER, BYRON",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,22,San Francisco,CA,"QUACKENBUSH, CHARLES",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,23,San Francisco,CA,"VASCONCELLOS, JOHN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,24,San Francisco,CA,"NORRED, BUCK",Republican,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1988,STATE REP,25,San Francisco,CA,"AREIAS, RUSTY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,26,San Francisco,CA,"JOHNSTON, PATRICK",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,27,San Francisco,CA,"CONDIT, GARY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,28,San Francisco,CA,"FARR, SAM",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,1988,STATE REP,29,San Francisco,CA,"SEASTRAND, ERIC",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,1988,BOARD OF SUPERVISORS,,San Francisco,CA,"BRITT, MARK",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1988,BOARD OF SUPERVISORS,,San Francisco,CA,"DALTON, LEE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1988,BOARD OF SUPERVISORS,,San Francisco,CA,"GONZALEZ, JIM",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,BOARD OF SUPERVISORS,,San Francisco,CA,"HSIEH, TOM",,1,,,,,0.9
+CA,San Francisco Chronicle,104251,1988,BOARD OF SUPERVISORS,,San Francisco,CA,"KENNEDY, WILLIE",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,BOARD OF SUPERVISORS,,San Francisco,CA,"ROSS, HARRIET",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1988,BOARD OF EDUCATION,,San Francisco,CA,"DENEBEIM, LIBBY",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,BOARD OF EDUCATION,,San Francisco,CA,"MCLEOD, RODERICK",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,BOARD OF EDUCATION,,San Francisco,CA,"MILLER, JOANNE",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,BOARD OF EDUCATION,,San Francisco,CA,"RODRIGUEZ, FRED",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1988,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"BROWN, AMOS",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"TANG, JULIE",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"VARNI, ROBERT",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1988,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"WOLFRED, TIM",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,BART DIRECTOR,1,San Francisco,CA,"FITZPATRICK, JOE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,1988,BART DIRECTOR,3,San Francisco,CA,"ABELSON, HOWARD",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,BART DIRECTOR,5,San Francisco,CA,"ALLEN, ROBERT",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,BART DIRECTOR,7,San Francisco,CA,"USSERY, WILFRED",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,1988,BART DIRECTOR,9,San Francisco,CA,"BERNICK, MICHAEL",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2016,PRESIDENT,,San Francisco,CA,"CLINTON, HILLARY",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2016,SENATOR,,San Francisco,CA,"HARRIS, KAMALA",Democrat,1,,,,FIRST ALL-DEMOCRATIC RACE FOR STATEWIDE OFFICE UNDER TOP-TWO PRIMARY SYSTEM,0.95
+CA,San Francisco Chronicle,104251,2016,H,12,San Francisco,CA,"PELOSI, NANCY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,2016,H,17,San Francisco,CA,"KHANNA, RO",Democrat,1,,,,CHALLENGING INCUMBENT MIKE HONDA,0.95
+CA,San Francisco Chronicle,104251,2016,STATE SENATOR,11,San Francisco,CA,"WIENER, SCOTT",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2016,STATE SENATOR,9,San Francisco,CA,"SKINNER, NANCY",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2016,STATE REP,16,San Francisco,CA,"BAKER, CATHARINE",Republican,1,,1,,,0.95
+CA,San Francisco Chronicle,104251,2016,STATE REP,15,San Francisco,CA,"GRAYSON, TIM",Democrat,1,,,,TWO DEMOCRATS FACING OFF IN EAST BAY ASSEMBLY RACE,0.95
+CA,San Francisco Chronicle,104251,2016,BOARD OF SUPERVISORS,1,San Francisco,CA,"PHILHOUR, MARJAN",,1,,,,RICHMOND DISTRICT,0.95
+CA,San Francisco Chronicle,104251,2016,BOARD OF SUPERVISORS,3,San Francisco,CA,"PESKIN, AARON",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2016,BOARD OF SUPERVISORS,5,San Francisco,CA,"BREED, LONDON",,1,,,1,INCUMBENT; WESTERN ADDITION AND HAIGHT-ASHBURY,0.95
+CA,San Francisco Chronicle,104251,2016,BOARD OF SUPERVISORS,7,San Francisco,CA,"ENGARDIO, JOEL",,1,,,,WEST OF TWIN PEAKS DISTRICT,0.95
+CA,San Francisco Chronicle,104251,2016,BOARD OF SUPERVISORS,9,San Francisco,CA,"ARCE, JOSHUA",,1,,,,MISSION DISTRICT,0.95
+CA,San Francisco Chronicle,104251,2016,BOARD OF SUPERVISORS,11,San Francisco,CA,"SAFAI, AHSHA",,1,,,,OUTER MISSION DISTRICT,0.95
+CA,San Francisco Chronicle,104251,2016,BOARD OF EDUCATION,,San Francisco,CA,"NORTON, MATT",,1,,,,,0.8
+CA,San Francisco Chronicle,104251,2016,BOARD OF EDUCATION,,San Francisco,CA,"WYNNS, JILL",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2016,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"MANDELMAN, RAFAEL",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2016,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"BACHARACH, AMY",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2016,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"RANDOLPH, ALEX",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2016,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"WILLIAMS, SHANELL",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2016,SUPERIOR COURT,,San Francisco,CA,"HWANG, VICTOR",,1,,,,OPEN SEAT; THREE-WAY RACE,0.95
+CA,San Francisco Chronicle,104251,2016,BART DIRECTOR,1,San Francisco,CA,"ALLEN, DEBORA",,1,,,,"CONCORD, LAFAYETTE, PLEASANT HILL, WALNUT CREEK",0.95
+CA,San Francisco Chronicle,104251,2016,BART DIRECTOR,3,San Francisco,CA,"SALTZMAN, REBECCA",,1,,,,"BERKELEY, ALBANY, OAKLAND, SAN LEANDRO, LAFAYETTE, MORAGA, ORINDA",0.95
+CA,San Francisco Chronicle,104251,2016,BART DIRECTOR,5,San Francisco,CA,"HOSTERMAN, JENNIFER",,1,,,,CHALLENGING INCUMBENT JOHN MCPARTLAND,0.95
+CA,San Francisco Chronicle,104251,2016,BART DIRECTOR,7,San Francisco,CA,"MALLETT, ZAKHARY",,1,,,,SAN FRANCISCO AND EAST BAY SHORELINE,0.95
+CA,San Francisco Chronicle,104251,2016,BART DIRECTOR,9,San Francisco,CA,"BORDEN, GWYNETH",,1,,,,SAN FRANCISCO,0.95
+CA,San Francisco Chronicle,104251,2018,SENATOR,,San Francisco,CA,"FEINSTEIN, DIANNE",Democrat,1,1,,,FIRST ELECTED 1992; OPPONENT IS FELLOW DEMOCRAT KEVIN DE LEON,0.95
+CA,San Francisco Chronicle,104251,2018,GOVERNOR,,San Francisco,CA,"NEWSOM, GAVIN",Democrat,1,,,,OPPONENT IS REPUBLICAN JOHN COX,0.95
+CA,San Francisco Chronicle,104251,2018,LT GOVERNOR,,San Francisco,CA,"HERNANDEZ, ED",Democrat,1,,,,STATE SENATOR; TWO DEMOCRATS ON BALLOT,0.95
+CA,San Francisco Chronicle,104251,2018,INSURANCE COMMISSIONER,,San Francisco,CA,"POIZNER, STEVE",Republican,1,,,,RUNNING AS INDEPENDENT THIS TIME; OPPONENT IS DEMOCRAT RICARDO LARA,0.95
+CA,San Francisco Chronicle,104251,2018,TREASURER,,San Francisco,CA,"MA, FIONA",Democrat,1,,,,FORMER SF SUPERVISOR; OPPONENT IS REPUBLICAN GREG CONLON,0.95
+CA,San Francisco Chronicle,104251,2018,SEC OF STATE,,San Francisco,CA,"PADILLA, ALEX",Democrat,1,1,,,SECOND TERM,0.95
+CA,San Francisco Chronicle,104251,2018,CONTROLLER,,San Francisco,CA,"YEE, BETTY",Democrat,1,1,,,RE-ELECTION,0.95
+CA,San Francisco Chronicle,104251,2018,ATTORNEY GENERAL,,San Francisco,CA,"BECERRA, XAVIER",Democrat,1,1,,,APPOINTED 2015; OPPONENT IS RETIRED JUDGE STEVEN BAILEY (R),0.95
+CA,San Francisco Chronicle,104251,2018,SUPERINTENDENT,,San Francisco,CA,"TUCK, MARSHALL",,1,,,,SCHOOL REFORM ADVOCATE; OPPONENT IS ASSEMBLYMAN TONY THURMOND,0.95
+CA,San Francisco Chronicle,104251,2018,BOARD OF EQUALIZATION,,San Francisco,CA,"COHEN, MALIA",Democrat,1,,,,SF BOARD OF SUPERVISORS PRESIDENT; OPPONENT IS REPUBLICAN MARK BURNS,0.95
+CA,San Francisco Chronicle,104251,2018,BOARD OF SUPERVISORS,2,San Francisco,CA,"JOSEFOWITZ, NICK",,1,,,,BART DIRECTOR; INCUMBENT CATHERINE STEFANI ALSO IN RACE,0.95
+CA,San Francisco Chronicle,104251,2018,BOARD OF SUPERVISORS,4,San Francisco,CA,"HO, JESSICA",,1,,,,LEGISLATIVE AIDE TO SUPERVISOR KATY TANG; SUNSET DISTRICT,0.95
+CA,San Francisco Chronicle,104251,2018,BOARD OF SUPERVISORS,6,San Francisco,CA,"JOHNSON, CHRISTINE",,1,,,,FORMER PLANNING COMMISSIONER; SOMA/TENDERLOIN/MISSION BAY,0.95
+CA,San Francisco Chronicle,104251,2018,BOARD OF SUPERVISORS,8,San Francisco,CA,"MANDELMAN, RAFAEL",,1,,,1,INCUMBENT; CASTRO/GLEN PARK/NOE VALLEY,0.95
+CA,San Francisco Chronicle,104251,2018,BOARD OF SUPERVISORS,10,San Francisco,CA,"WALTON, SHAMANN",,1,,,,SCHOOL BOARD MEMBER; BAYVIEW/POTRERO HILL,0.95
+CA,San Francisco Chronicle,104251,2018,BOARD OF EDUCATION,,San Francisco,CA,"PARKER, MICHELLE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2018,BOARD OF EDUCATION,,San Francisco,CA,"KIM, PHIL",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2018,BOARD OF EDUCATION,,San Francisco,CA,"FISHER, ALIDA",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2018,ASSESSOR,,San Francisco,CA,"CHU, CARMEN",,1,,,1,INCUMBENT; ASSESSOR-RECORDER,0.95
+CA,San Francisco Chronicle,104251,2018,PUBLIC DEFENDER,,San Francisco,CA,"ADACHI, JEFF",,1,,,1,INCUMBENT; UNOPPOSED,0.95
+CA,San Francisco Chronicle,104251,2018,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"RIZZO, JOHN",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2018,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"SELBY, THEA",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2018,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"DAVILA, BRIGITTE",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2018,MAYOR,,San Francisco,CA,"SCHAAF, LIBBY",,1,,,1,OAKLAND MAYOR; INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2018,BART DIRECTOR,,San Francisco,CA,"NATARAJAN, ANU",,1,,,,FOUR DISTRICT SEATS UP,0.95
+CA,San Francisco Chronicle,104251,2018,BART DIRECTOR,,San Francisco,CA,"NUTTER, MELANIE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2018,BART DIRECTOR,,San Francisco,CA,"KELLER, JOEL",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2018,BART DIRECTOR,,San Francisco,CA,"RABURN, ROBERT",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2018,STATE REP,15,San Francisco,CA,"WICKS, BUFFY",Democrat,1,,,,EAST BAY; OPEN SEAT; TWO DEMOCRATS,0.95
+CA,San Francisco Chronicle,104251,2018,STATE REP,16,San Francisco,CA,"BAKER, CATHARINE",Republican,1,,1,,EAST BAY; ONLY REPUBLICAN-HELD SEAT IN BAY AREA; CHALLENGER IS REBECCA BAUER-KAHAN (D),0.95
+CA,San Francisco Chronicle,104251,2020,PRESIDENT,,San Francisco,CA,"BIDEN, JOE",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2020,STATE SENATOR,11,San Francisco,CA,"WIENER, SCOTT",Democrat,1,1,,,"INCUMBENT; SF, DALY CITY, COLMA, BROADMOOR, SOUTH SF",0.95
+CA,San Francisco Chronicle,104251,2020,STATE SENATOR,15,San Francisco,CA,"RAVEL, ANN",Democrat,1,,,,CENTRAL SANTA CLARA COUNTY,0.95
+CA,San Francisco Chronicle,104251,2020,BOARD OF SUPERVISORS,1,San Francisco,CA,"PHILHOUR, MARJAN",,1,,,,RICHMOND DISTRICT; OPEN SEAT REPLACING SANDRA LEE FEWER,0.95
+CA,San Francisco Chronicle,104251,2020,BOARD OF SUPERVISORS,3,San Francisco,CA,"PESKIN, AARON",,1,,,1,INCUMBENT; NORTH BEACH/CHINATOWN/TELEGRAPH HILL; RUNNING FOR 4TH TERM,0.95
+CA,San Francisco Chronicle,104251,2020,BOARD OF SUPERVISORS,5,San Francisco,CA,"BROWN, VALLIE",,1,,,,FORMER SUPERVISOR; WESTERN ADDITION/FILLMORE/HAYES VALLEY/INNER SUNSET,0.95
+CA,San Francisco Chronicle,104251,2020,BOARD OF SUPERVISORS,7,San Francisco,CA,"ENGARDIO, JOEL",,1,,,,PARKMERCED/PARKSIDE/FOREST HILL/WEST PORTAL; OPEN SEAT REPLACING NORMAN YEE,0.85
+CA,San Francisco Chronicle,104251,2020,BOARD OF SUPERVISORS,9,San Francisco,CA,"RONEN, HILLARY",,1,,,1,INCUMBENT; UNOPPOSED; MISSION DISTRICT,0.95
+CA,San Francisco Chronicle,104251,2020,BOARD OF SUPERVISORS,11,San Francisco,CA,"SAFAI, AHSHA",,1,,,1,INCUMBENT; OUTER MISSION/EXCELSIOR,0.95
+CA,San Francisco Chronicle,104251,2020,BOARD OF EDUCATION,,San Francisco,CA,"LAM, JENNY",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2020,BOARD OF EDUCATION,,San Francisco,CA,"BOGGESS, KEVINE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2020,BOARD OF EDUCATION,,San Francisco,CA,"PARKER, MICHELLE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2020,BOARD OF EDUCATION,,San Francisco,CA,"FISHER, ALIDA",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2020,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"WILLIAMS, SHANELL",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2020,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"TEMPRANO, TOM",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2020,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"HURABIELL, MARIE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2020,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"QUICK, JEANETTE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2022,COUNTY DA,,San Francisco,CA,"STEWARD, SETH",,1,,,,ALAMEDA COUNTY DISTRICT ATTORNEY,0.95
+CA,San Francisco Chronicle,104251,2022,SENATOR,,San Francisco,CA,"PADILLA, ALEX",Democrat,1,1,,,PARTIAL TERM (REMAINDER OF KAMALA HARRIS TERM),0.9
+CA,San Francisco Chronicle,104251,2022,STATE REP,17,San Francisco,CA,"HANEY, MATT",Democrat,1,1,,,FORMER SF SUPERVISOR; WON SPECIAL ELECTION EARLIER IN 2022,0.95
+CA,San Francisco Chronicle,104251,2022,GOVERNOR,,San Francisco,CA,"NEWSOM, GAVIN",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,2022,ATTORNEY GENERAL,,San Francisco,CA,"BONTA, ROB",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,2022,SEC OF STATE,,San Francisco,CA,"WEBER, SHIRLEY",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,2022,LT GOVERNOR,,San Francisco,CA,"KOUNALAKIS, ELENI",Democrat,1,1,,,,0.95
+CA,San Francisco Chronicle,104251,2022,CONTROLLER,,San Francisco,CA,"GALPERIN, RON",Democrat,1,,,,LA CITY CONTROLLER,0.95
+CA,San Francisco Chronicle,104251,2022,INSURANCE COMMISSIONER,,San Francisco,CA,"LEVINE, MARC",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2022,SUPERINTENDENT,,San Francisco,CA,"THURMOND, TONY",,1,,,1,INCUMBENT; NONPARTISAN OFFICE,0.95
+CA,San Francisco Chronicle,104251,2022,CONTROLLER,,San Francisco,CA,"CHEN, LANHEE",Republican,1,,,,NOTABLE REPUBLICAN CROSSOVER ENDORSEMENT; CHRONICLE SAID HE WOULD HELP MAKE CALIFORNIA MORE ACCOUNTABLE,0.95
+CA,San Francisco Chronicle,104251,2022,SUPREME COURT,,San Francisco,CA,"GUERRERO, PATRICIA",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,SUPREME COURT,,San Francisco,CA,"JENKINS, MARTIN J.",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,SUPREME COURT,,San Francisco,CA,"LIU, GOODWIN",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,SUPREME COURT,,San Francisco,CA,"GROBAN, JOSHUA",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,COURT OF APPEALS,,San Francisco,CA,"STEWART, THERESE M.",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,COURT OF APPEALS,,San Francisco,CA,"TUCHER, ALISON M.",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,COURT OF APPEALS,,San Francisco,CA,"PETROU, IOANA",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,COURT OF APPEALS,,San Francisco,CA,"FUJISAKI, CARIN T.",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,COURT OF APPEALS,,San Francisco,CA,"RODRIGUEZ, VICTOR A.",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,COURT OF APPEALS,,San Francisco,CA,"BROWN, TRACIE L.",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,COURT OF APPEALS,,San Francisco,CA,"GOLDMAN, JEREMY M.",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,COURT OF APPEALS,,San Francisco,CA,"JACKSON, TERI L.",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,COURT OF APPEALS,,San Francisco,CA,"BURNS, GORDON B.",,1,,,,CONFIRMATION VOTE,0.95
+CA,San Francisco Chronicle,104251,2022,STATE REP,12,San Francisco,CA,"AMINZADEH, SARA",Democrat,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2022,BOARD OF SUPERVISORS,4,San Francisco,CA,"ENGARDIO, JOEL",,1,,,,WEST SIDE HOUSING ADVOCATE,0.95
+CA,San Francisco Chronicle,104251,2022,BOARD OF SUPERVISORS,6,San Francisco,CA,"MAHOGANY, HONEY",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2022,BOARD OF SUPERVISORS,8,San Francisco,CA,"MANDELMAN, RAFAEL",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2022,BOARD OF SUPERVISORS,10,San Francisco,CA,"WALTON, SHAMANN",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2022,BOARD OF EDUCATION,,San Francisco,CA,"MOTAMEDI, LAINIE",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2022,BOARD OF EDUCATION,,San Francisco,CA,"WEISSMAN-WARD, LISA",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2022,BOARD OF EDUCATION,,San Francisco,CA,"FISHER, ALIDA",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2022,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"DAVILA, BRIGITTE",,1,,,1,4-YEAR TERM; INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2022,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"RIZZO, JOHN",,1,,,1,4-YEAR TERM; INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2022,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"SELBY, THEA",,1,,,1,4-YEAR TERM; INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2022,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"GREEN, MURRELL",,1,,,,2-YEAR TERM,0.95
+CA,San Francisco Chronicle,104251,2022,PUBLIC DEFENDER,,San Francisco,CA,"RAJU, MANO",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2022,MAYOR,,San Francisco,CA,"TAYLOR, LOREN",,1,,,,OAKLAND MAYOR; CURRENT CITY COUNCIL MEMBER DISTRICT 6,0.95
+CA,San Francisco Chronicle,104251,2024,SENATOR,,San Francisco,CA,"PORTER, KATIE",Democrat,1,,,,PARTIAL TERM; MEMBER OF CONGRESS CD-50,0.95
+CA,San Francisco Chronicle,104251,2024,H,11,San Francisco,CA,"PELOSI, NANCY",Democrat,1,1,,,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2024,H,12,San Francisco,CA,"SIMON, LATEEFAH",Democrat,1,,,,NONPROFIT FOUNDATION PRESIDENT,0.95
+CA,San Francisco Chronicle,104251,2024,H,16,San Francisco,CA,"LICCARDO, SAM",Democrat,1,,,,SMALL-BUSINESSPERSON/EDUCATOR; FORMER SAN JOSE MAYOR,0.95
+CA,San Francisco Chronicle,104251,2024,SUPERIOR COURT,1,San Francisco,CA,"BEGERT, MICHAEL",,1,,,1,SF JUDICIAL SEAT 1; INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2024,SUPERIOR COURT,13,San Francisco,CA,"THOMPSON, PATRICK",,1,,,1,SF JUDICIAL SEAT 13; INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2024,STATE SENATOR,7,San Francisco,CA,"ARREGUIN, JESSE",Democrat,1,,,,MAYOR OF BERKELEY,0.95
+CA,San Francisco Chronicle,104251,2024,STATE SENATOR,9,San Francisco,CA,"GRAYSON, TIM",Democrat,1,,,,ASSEMBLY MEMBER/BUSINESS OWNER,0.95
+CA,San Francisco Chronicle,104251,2024,STATE REP,15,San Francisco,CA,"AVILA FARIAS, ANAMARIE",Democrat,1,,,,CONTRA COSTA COUNTY BOARD OF EDUCATION TRUSTEE,0.95
+CA,San Francisco Chronicle,104251,2024,STATE REP,19,San Francisco,CA,"STEFANI, CATHERINE",Democrat,1,,,,SF COUNTY SUPERVISOR,0.95
+CA,San Francisco Chronicle,104251,2024,PRESIDENT,,San Francisco,CA,"HARRIS, KAMALA",Democrat,1,,,,VICE PRESIDENT,0.95
+CA,San Francisco Chronicle,104251,2024,STATE SENATOR,5,San Francisco,CA,"MCNERNEY, JERRY",Democrat,1,,,,FORMER U.S. REPRESENTATIVE,0.95
+CA,San Francisco Chronicle,104251,2024,MAYOR,,San Francisco,CA,"LURIE, DANIEL",,1,,,,SF MAYOR; NONPROFIT FOUNDER,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF SUPERVISORS,1,San Francisco,CA,"PHILHOUR, MARJAN",,1,,,,SMALL-BUSINESS OWNER,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF SUPERVISORS,3,San Francisco,CA,"LAI, SHARON",,1,,,,ECONOMIC NONPROFIT DIRECTOR,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF SUPERVISORS,5,San Francisco,CA,"MAHMOOD, BILAL",,1,,,,CLIMATE NONPROFIT DIRECTOR,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF SUPERVISORS,7,San Francisco,CA,"MELGAR, MYRNA",,1,,,1,INCUMBENT,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF SUPERVISORS,9,San Francisco,CA,"HERNANDEZ, ROBERTO",,1,,,,NONPROFIT EXECUTIVE DIRECTOR,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF SUPERVISORS,11,San Francisco,CA,"JONES, ERNEST E.J.",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF EDUCATION,,San Francisco,CA,"ALEXANDER, MATT",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF EDUCATION,,San Francisco,CA,"GUPTA, PARAG",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF EDUCATION,,San Francisco,CA,"HULING, JAIME",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2024,BOARD OF EDUCATION,,San Francisco,CA,"RAY, SUPRYIA",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2024,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"CHISTI, ALIYA",,1,,,1,INCUMBENT TRUSTEE,0.95
+CA,San Francisco Chronicle,104251,2024,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"FERGUSON, RUTH",,1,,,,POLICY ANALYST AND ORGANIZER,0.95
+CA,San Francisco Chronicle,104251,2024,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"MCCARTY, HEATHER",,1,,,,COMMUNITY COLLEGE PROFESSOR,0.95
+CA,San Francisco Chronicle,104251,2024,COMMUNITY COLLEGE DISTRICT,,San Francisco,CA,"ZAMORA, LUIS",,1,,,1,INCUMBENT; COMMUNITY RELATIONS DIRECTOR,0.95
+CA,San Francisco Chronicle,104251,2024,BART DIRECTOR,7,San Francisco,CA,"FLORES, VICTOR",,1,,,,,0.95
+CA,San Francisco Chronicle,104251,2024,BART DIRECTOR,9,San Francisco,CA,"WRIGHT, EDWARD",,1,,,,TRANSPORTATION AGENCY ADVISER,0.95
+CA,San Francisco Chronicle,104251,2024,SHERIFF,,San Francisco,CA,"MIYAMOTO, PAUL",,1,,,1,INCUMBENT,0.95

@@ -1,0 +1,176 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence,extraction_confidence_note,source_file
+IA,Des Moines Register,115150,1960,PRESIDENT,,,IA,"NIXON, RICHARD M.",Republican,1,,,,,0.92,,115150_19601106.pdf
+IA,Des Moines Register,115150,1962,GOVERNOR,,,IA,"ERBE, NORMAN A.",Republican,1,,1,,,0.85,,115150_19621028.pdf
+IA,Des Moines Register,115150,1962,SENATOR,,,IA,"HICKENLOOPER, BOURKE B.",Republican,1,,1,,,0.9,,115150_19621028.pdf
+IA,Des Moines Register,115150,1966,GOVERNOR,,,IA,"HUGHES, HAROLD E.",Democrat,1,1,,,,0.92,,115150_19661030.pdf
+IA,Des Moines Register,115150,1966,SENATOR,,,IA,"MILLER, JACK",Republican,1,,1,,,0.92,,115150_19661030.pdf
+IA,Des Moines Register,115150,1968,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,,,,0.92,,115150_19681027.pdf
+IA,Des Moines Register,115150,1968,SENATOR,,,IA,"HUGHES, HAROLD E.",Democrat,1,,,,,0.92,,115150_19681027.pdf
+IA,Des Moines Register,115150,1970,GOVERNOR,,,IA,"FULTON, ROBERT",Democrat,0,,,,,0.85,,115150_19701025.pdf
+IA,Des Moines Register,115150,1970,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,Steadfast under pressure; vetoed wiretapping bill,0.92,,115150_19701025.pdf
+IA,Des Moines Register,115150,1970,JUDGE,,Iowa District Court (Waterloo),IA,"WOOD, BLAIR",Nonpartisan,1,,,,Judicial retention; paper defends Wood's ruling against Waterloo movie pre-censorship ordinance,0.92,,115150_19701103.pdf
+IA,Des Moines Register,115150,1972,SEC OF AGRICULTURE,,,IA,"LOUNSBERRY, ROBERT",Republican,0,,,,Deputy of Liddy; advocate of status quo,0.85,,115150_19721101.pdf
+IA,Des Moines Register,115150,1972,SEC OF AGRICULTURE,,,IA,"OWEN, KENNETH",Democrat,1,,,,"Centerville farmer, former state ag secretary; favored sweeping changes",0.92,,115150_19721101.pdf
+IA,Des Moines Register,115150,1972,SENATOR,,,IA,"HUGHES, HAROLD E.",Democrat,1,1,,,,0.85,OCR title fragmented: 'For the U.S. Senate / Hughes of Iowa',115150_19721029.pdf
+IA,Des Moines Register,115150,1974,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,,0.92,,115150_19741103.pdf
+IA,Des Moines Register,115150,1974,SENATOR,,,IA,"CULVER, JOHN",Democrat,1,,,,OCR: 'Culver for senator',0.92,,115150_19741103.pdf
+IA,Des Moines Register,115150,1976,H,1,,IA,"LEACH, JAMES",Republican,1,,,,"Davenport businessman, former Foreign Service officer",0.9,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,1,,IA,"MEZVINSKY, EDWARD",Democrat,0,1,,,,0.85,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,2,,IA,"BLOUIN, MICHAEL",Democrat,0,1,,,,0.82,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,2,,IA,"RILEY, TOM",Republican,1,,,,"Cedar Rapids attorney, veteran state senator",0.85,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,3,,IA,"GRASSLEY, CHARLES",Republican,0,,1,,Conservative incumbent opposed; on environmental 'Dirty Dozen' list,0.85,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,3,,IA,"RAPP, STEPHEN",Democrat,1,,,,"Waterloo attorney, tax reformer in Iowa House",0.85,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,4,,IA,"SMITH, NEAL",Democrat,1,1,,,"Altoona, dean of Iowa congressional delegation",0.92,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,5,,IA,"HARKIN, THOMAS",Democrat,1,1,,,"Ames attorney, first-term",0.92,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,6,,IA,"BEDELL, BERKLEY",Democrat,1,1,,,Spirit Lake businessman; reform record,0.92,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,PRESIDENT,,,IA,"CARTER, JIMMY",Democrat,1,,,,,0.92,,115150_19761024_v2.pdf
+IA,Des Moines Register,115150,1976,VICE PRESIDENT,,,IA,"MONDALE, WALTER",Democrat,1,,,,,0.92,,115150_19761024_v2.pdf
+IA,Des Moines Register,115150,1978,ATTORNEY GENERAL,,,IA,"MILLER, TOM",Democrat,1,,,,McGregor; 'Turner vs. Miller' editorial,0.92,,115150_19781031.pdf
+IA,Des Moines Register,115150,1978,ATTORNEY GENERAL,,,IA,"TURNER, RICHARD",Republican,0,,1,,Incumbent opposed; 'flamboyant' style criticized,0.9,,115150_19781031.pdf
+IA,Des Moines Register,115150,1978,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,'Ray's strong record',0.92,,115150_19781029.pdf
+IA,Des Moines Register,115150,1978,H,1,,IA,"LEACH, JAMES",Republican,1,,1,,,0.92,,115150_19781029_v2.pdf
+IA,Des Moines Register,115150,1978,H,1,,IA,"MYERS, RICHARD",Democrat,0,,,,,0.85,,115150_19781029_v2.pdf
+IA,Des Moines Register,115150,1978,H,2,,IA,"BLOUIN, MICHAEL",Democrat,0,1,,,,0.85,,115150_19781029_v2.pdf
+IA,Des Moines Register,115150,1978,H,2,,IA,"TAUKE, THOMAS",Republican,1,,,,,0.9,2nd District 1978 Iowa was Tauke (R) over Blouin (D inc) per close edge,115150_19781029_v2.pdf
+IA,Des Moines Register,115150,1978,H,3,,IA,NO ENDORSEMENT,,,,,,Paper declined to endorse Knudson (D) or Grassley (R inc): 'we are not impressed with either',0.92,,115150_19781029_v2.pdf
+IA,Des Moines Register,115150,1978,H,4,,IA,"SMITH, NEAL",Democrat,1,1,,,,0.92,,115150_19781029_v2.pdf
+IA,Des Moines Register,115150,1978,H,5,,IA,"HARKIN, THOMAS",Democrat,1,1,,,,0.92,,115150_19781029_v2.pdf
+IA,Des Moines Register,115150,1978,H,6,,IA,"BEDELL, BERKLEY",Democrat,1,1,,,,0.92,,115150_19781029_v2.pdf
+IA,Des Moines Register,115150,1978,SENATOR,,,IA,"CLARK, DICK",Democrat,1,1,,,'Iowa's able Dick Clark',0.92,,115150_19781029.pdf
+IA,Des Moines Register,115150,1980,SENATOR,,,IA,"CULVER, JOHN",Democrat,0,1,,,OCR fragmented; direction may be reversed,0.65,Direction uncertain due to OCR; please verify in QA,115150_19801026.pdf
+IA,Des Moines Register,115150,1980,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,,,,0.85,"Re-reading: 'Grassley vs. Culver' editorial; OCR fragmented but historical context indicates Register endorsed Culver actually. Without clear OCR resolution, marking conservatively.",115150_19801026.pdf
+IA,Des Moines Register,115150,1982,GOVERNOR,,,IA,NO ENDORSEMENT,,,,,,Paper called race a 'troubling choice' between Branstad (R) and Conlin (D); declined to endorse either,0.92,,115150_19821024.pdf
+IA,Des Moines Register,115150,1984,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,,,,,0.92,OCR shows 'Harkin for Senate' header,115150_19841028.pdf
+IA,Des Moines Register,115150,1986,GOVERNOR,,,IA,"JUNKINS, LOWELL",Democrat,1,,,,'Junkins for governor',0.85,,115150_19861026.pdf
+IA,Des Moines Register,115150,1986,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,1,,'Grassley for Senate',0.92,,115150_19861026.pdf
+IA,Des Moines Register,115150,1988,H,4,,IA,"SMITH, NEAL",Democrat,1,1,,,"'completing'his term, deserves another term",0.85,,115150_19881031.pdf
+IA,Des Moines Register,115150,1988,PRESIDENT,,,IA,"DUKAKIS, MICHAEL",Democrat,1,,,,,0.92,,115150_19881030.pdf
+IA,Des Moines Register,115150,1990,ATTORNEY GENERAL,,,IA,"CAMPBELL, BONNIE",Democrat,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,AUDITOR,,,IA,"JOHNSON, RICHARD",Republican,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,CNTY SUPERVISOR,1,Polk County,IA,"KRAMME, ROBERT",Democrat,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,CNTY SUPERVISOR,2,Polk County,IA,"BISHOP, JACK",Democrat,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,CNTY SUPERVISOR,5,Polk County,IA,"RUPP, STANLEY",Republican,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,1,,1,,,0.95,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,H,2,,IA,"TABOR, ERIC",Democrat,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,H,5,,IA,"POWELL, ROD",Democrat,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,H,6,,IA,"GRANDY, FRED",Republican,1,,1,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,LT GOVERNOR,,,IA,"CORNING, JOY",Republican,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,SEC OF AGRICULTURE,,,IA,"COCHRAN, DALE",Democrat,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,SEC OF STATE,,,IA,"BAXTER, ELAINE",Democrat,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,1,,,,0.95,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,TREASURER,,,IA,"FITZGERALD, MICHAEL",Democrat,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,TREASURER,,Polk County,IA,"MALONEY, MARY",Democrat,1,,,,,0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1996,PRESIDENT,,,IA,"CLINTON, BILL",Democrat,1,1,,,'Clinton: A second term',0.92,,115150_19961105.pdf
+IA,Des Moines Register,115150,1996,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,1,,,'Tom Harkin: A progressive',0.92,,115150_19961105.pdf
+IA,Des Moines Register,115150,1998,ATTORNEY GENERAL,,,IA,"MILLER, TOM",Democrat,1,1,,,,0.92,,115150_19981103_v4.pdf
+IA,Des Moines Register,115150,1998,GOVERNOR,,,IA,"VILSACK, TOM",Democrat,1,,,,"'Vilsack, for a change'",0.92,,115150_19981103_v3.pdf
+IA,Des Moines Register,115150,1998,H,1,,IA,"LEACH, JIM",Republican,1,,1,,,0.92,,115150_19981103.pdf
+IA,Des Moines Register,115150,1998,H,2,,IA,"NUSSLE, JIM",Republican,0,,1,,,0.88,,115150_19981103.pdf
+IA,Des Moines Register,115150,1998,H,2,,IA,"TULLY, ROB",Democrat,1,,,,,0.92,,115150_19981103.pdf
+IA,Des Moines Register,115150,1998,H,3,,IA,"BOSWELL, LEONARD",Democrat,1,1,,,,0.92,,115150_19981103.pdf
+IA,Des Moines Register,115150,1998,H,4,,IA,"GANSKE, GREG",Republican,1,,1,,,0.92,,115150_19981103.pdf
+IA,Des Moines Register,115150,1998,H,5,,IA,"LATHAM, TOM",Republican,1,,1,,Unopposed,0.92,,115150_19981103.pdf
+IA,Des Moines Register,115150,1998,SEC OF AGRICULTURE,,,IA,"JUDGE, PATTY",Democrat,1,,,,,0.92,,115150_19981103_v4.pdf
+IA,Des Moines Register,115150,1998,SEC OF STATE,,,IA,"CULVER, CHET",Democrat,1,,,,,0.92,,115150_19981103_v4.pdf
+IA,Des Moines Register,115150,1998,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,1,,"'Grassley, for Iowa'",0.92,,115150_19981103_v3.pdf
+IA,Des Moines Register,115150,1998,STATE REP,65,Polk County,IA,"BRANNAN, ROD",Democrat,1,,,,,0.88,,115150_19981103_v2.pdf
+IA,Des Moines Register,115150,1998,STATE REP,66,Polk County,IA,"HUSER, GERI",Democrat,1,1,,,,0.9,,115150_19981103_v2.pdf
+IA,Des Moines Register,115150,1998,STATE REP,68,Polk County,IA,"CATALDO, MICHAEL",Democrat,1,1,,,,0.9,,115150_19981103_v2.pdf
+IA,Des Moines Register,115150,1998,STATE REP,69,Polk County,IA,"CONNORS, JOHN",Democrat,1,1,,,,0.9,,115150_19981103_v2.pdf
+IA,Des Moines Register,115150,1998,STATE REP,73,Polk County,IA,"GRUNDBERG, BETTY",Republican,1,,1,,,0.9,,115150_19981103_v2.pdf
+IA,Des Moines Register,115150,1998,STATE REP,76,Polk County,IA,"RAECKER, SCOTT",Republican,1,,,,,0.9,,115150_19981103_v2.pdf
+IA,Des Moines Register,115150,1998,STATE SENATOR,35,Polk County,IA,"DEARDEN, DICK",Democrat,1,1,,,,0.9,,115150_19981103_v2.pdf
+IA,Des Moines Register,115150,1998,STATE SENATOR,37,Polk County,IA,"REICHARDT, BILL",Democrat,1,,,,,0.9,,115150_19981103_v2.pdf
+IA,Des Moines Register,115150,1998,TREASURER,,,IA,"FITZGERALD, MICHAEL",Democrat,1,1,,,,0.92,,115150_19981103_v4.pdf
+IA,Des Moines Register,115150,2000,H,1,,IA,"LEACH, JIM",Republican,1,,1,,,0.92,,115150_20001107.pdf
+IA,Des Moines Register,115150,2000,H,2,,IA,"NUSSLE, JIM",Republican,1,,1,,,0.92,,115150_20001107.pdf
+IA,Des Moines Register,115150,2000,H,3,,IA,"BOSWELL, LEONARD",Democrat,1,1,,,,0.92,,115150_20001107.pdf
+IA,Des Moines Register,115150,2000,H,4,,IA,"GANSKE, GREG",Republican,1,,1,,,0.92,,115150_20001107.pdf
+IA,Des Moines Register,115150,2000,H,5,,IA,"LATHAM, TOM",Republican,1,,1,,,0.92,,115150_20001107.pdf
+IA,Des Moines Register,115150,2000,PRESIDENT,,,IA,"GORE, AL",Democrat,1,,,,,0.92,,115150_20001107_v2.pdf
+IA,Des Moines Register,115150,2000,STATE REP,72,Polk County,IA,"PETERSEN, JANET",Democrat,1,,,,,0.9,,115150_20001107_v3.pdf
+IA,Des Moines Register,115150,2000,STATE SENATOR,36,Polk County,IA,"HOLVECK, JACK",Democrat,0,,,,,0.85,,115150_20001107_v3.pdf
+IA,Des Moines Register,115150,2000,STATE SENATOR,36,Polk County,IA,"LANGSTON, RON",Republican,1,,,,,0.9,,115150_20001107_v3.pdf
+IA,Des Moines Register,115150,2002,GOVERNOR,,,IA,"VILSACK, TOM",Democrat,1,1,,,'For governor: a second term',0.92,,115150_20021105_v2.pdf
+IA,Des Moines Register,115150,2002,H,1,,IA,"NUSSLE, JIM",Republican,1,,1,,,0.85,,115150_20021105.pdf
+IA,Des Moines Register,115150,2002,H,2,,IA,"HUTCHINSON, ANN",Democrat,1,,,,,0.7,OCR mixes 2nd District content; direction uncertain,115150_20021105.pdf
+IA,Des Moines Register,115150,2002,H,3,,IA,"BOSWELL, LEONARD",Democrat,1,1,,,,0.9,,115150_20021105.pdf
+IA,Des Moines Register,115150,2002,H,4,,IA,"LATHAM, TOM",Republican,1,,1,,,0.85,,115150_20021105.pdf
+IA,Des Moines Register,115150,2002,H,5,,IA,"KING, STEVE",Republican,1,,,,,0.85,Open seat in newly redrawn 5th District,115150_20021105.pdf
+IA,Des Moines Register,115150,2002,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,1,,,'to deliver for Iowa',0.92,,115150_20021105_v2.pdf
+IA,Des Moines Register,115150,2004,H,1,,IA,"NUSSLE, JIM",Republican,1,,1,,,0.95,,115150_20041102.pdf
+IA,Des Moines Register,115150,2004,H,2,,IA,"LEACH, JIM",Republican,1,,1,,,0.95,,115150_20041102.pdf
+IA,Des Moines Register,115150,2004,H,3,,IA,"THOMPSON, STAN",Republican,1,,,,,0.92,,115150_20041102.pdf
+IA,Des Moines Register,115150,2004,H,4,,IA,"JOHNSON, PAUL",Democrat,1,,,,,0.92,,115150_20041102.pdf
+IA,Des Moines Register,115150,2004,H,5,,IA,"KING, STEVE",Republican,1,,1,,,0.95,,115150_20041102.pdf
+IA,Des Moines Register,115150,2004,PRESIDENT,,,IA,"KERRY, JOHN",Democrat,1,,,,,0.95,,115150_20041102.pdf
+IA,Des Moines Register,115150,2004,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,1,,,0.95,,115150_20041102.pdf
+IA,Des Moines Register,115150,2004,STATE SENATOR,32,,IA,"SANDS, LAURA",Democrat,1,,,,,0.88,,115150_20041102.pdf
+IA,Des Moines Register,115150,2006,CNTY SUPERVISOR,,Polk County,IA,"SMITH, ANGELA",Democrat,1,,,,,0.78,OCR 'aterT esnith' fragmented,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,CNTY SUPERVISOR,4,Polk County,IA,"PHILIPS, GENE",Democrat,1,,,,,0.85,,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,GOVERNOR,,,IA,"CULVER, CHET",Democrat,1,,,,,0.92,,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,H,1,,IA,"BRALEY, BRUCE",Democrat,1,,,,,0.92,,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,H,2,,IA,"LOEBSACK, DAVE",Democrat,1,,,,,0.85,2nd District 2006: Loebsack defeated Leach,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,H,3,,IA,"BOSWELL, LEONARD",Democrat,1,1,,,,0.85,,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,H,4,,IA,"LATHAM, TOM",Republican,1,,1,,,0.85,Probable; OCR fragmented,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,H,5,,IA,"SCHULTE, JOYCE",Democrat,1,,,,,0.88,,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,SEC OF AGRICULTURE,,,IA,"NORTHEY, BILL",Republican,1,,,,,0.85,OCR shows 'Billy' but Bill Northey actual,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,STATE REP,59,,IA,"CLUTE, DAN",Democrat,1,,,,,0.85,,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,STATE REP,66,,IA,"ABDUL-SAMAD, AKO",Democrat,1,,,,,0.85,,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,STATE REP,73,,IA,"TYMESON, JODI",Republican,1,,,,,0.85,,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,STATE SENATOR,37,,IA,"APPEL, STACI",Democrat,1,,,,,0.9,,115150_20061107.pdf
+IA,Des Moines Register,115150,2008,CNTY SUPERVISOR,2,Polk County,IA,"GIOVANNETTI, E. J.",Republican,1,,1,,,0.92,,115150_20081104_v3.pdf
+IA,Des Moines Register,115150,2008,H,1,,IA,"BRALEY, BRUCE",Democrat,1,1,,,"'Return hardworking, effective congressman'",0.95,,115150_20081104_v6.pdf
+IA,Des Moines Register,115150,2008,H,2,,IA,"LOEBSACK, DAVE",Democrat,1,1,,,'For a second term',0.92,,115150_20081104.pdf
+IA,Des Moines Register,115150,2008,H,3,,IA,"BOSWELL, LEONARD",Democrat,1,1,,,'12-year incumbent... weak nod to Boswell',0.85,,115150_20081104.pdf
+IA,Des Moines Register,115150,2008,PRESIDENT,,,IA,"OBAMA, BARACK",Democrat,1,,,,'He can best unite us to do big things',0.95,,115150_20081104_v4.pdf
+IA,Des Moines Register,115150,2008,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,1,,,"'fifth Senate term, the expectations rise'",0.95,,115150_20081104_v6.pdf
+IA,Des Moines Register,115150,2008,SHERIFF,,Polk County,IA,"MCCARTHY, WILLIAM",Democrat,1,,,,Chief deputy under retiring Sheriff Anderson,0.92,,115150_20081104_v3.pdf
+IA,Des Moines Register,115150,2008,STATE REP,59,Polk County,IA,"SULLIVAN, JERRY",Democrat,1,,,,,0.9,,115150_20081104_v5.pdf
+IA,Des Moines Register,115150,2008,STATE REP,60,Polk County,IA,"KOSLOW, ALAN",Democrat,1,,,,,0.9,,115150_20081104_v5.pdf
+IA,Des Moines Register,115150,2008,STATE REP,69,Polk County,IA,"SOSALLA, RICHARD",Democrat,1,,,,,0.9,,115150_20081104_v5.pdf
+IA,Des Moines Register,115150,2008,STATE REP,70,Polk County,IA,"KOESTER, KEVIN",Republican,1,,,,,0.9,,115150_20081104_v5.pdf
+IA,Des Moines Register,115150,2010,GOVERNOR,,,IA,"CULVER, CHET",Democrat,1,1,,,,0.95,,115150_20101102.pdf
+IA,Des Moines Register,115150,2010,H,1,,IA,"BRALEY, BRUCE",Democrat,1,1,,,,0.95,,115150_20101102.pdf
+IA,Des Moines Register,115150,2010,H,2,,IA,"LOEBSACK, DAVE",Democrat,1,1,,,,0.95,,115150_20101102.pdf
+IA,Des Moines Register,115150,2010,H,3,,IA,"BOSWELL, LEONARD",Democrat,1,1,,,,0.92,,115150_20101102.pdf
+IA,Des Moines Register,115150,2010,H,4,,IA,"MASKE, BILL",Democrat,1,,,,,0.92,,115150_20101102.pdf
+IA,Des Moines Register,115150,2010,H,5,,IA,"CAMPBELL, MATT",Democrat,1,,,,,0.92,,115150_20101102.pdf
+IA,Des Moines Register,115150,2010,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,1,,,0.95,,115150_20101102.pdf
+IA,Des Moines Register,115150,2012,H,1,,IA,"BRALEY, BRUCE",Democrat,1,1,,,,0.92,,115150_20121106.pdf
+IA,Des Moines Register,115150,2012,H,2,,IA,"LOEBSACK, DAVE",Democrat,1,1,,,,0.92,,115150_20121106.pdf
+IA,Des Moines Register,115150,2012,H,3,,IA,"LATHAM, TOM",Republican,1,,1,,,0.92,,115150_20121106.pdf
+IA,Des Moines Register,115150,2012,H,4,,IA,"VILSACK, CHRISTIE",Democrat,1,,,,,0.92,,115150_20121106.pdf
+IA,Des Moines Register,115150,2012,JUDGE,,Iowa Supreme Court,IA,"MANSFIELD, EDWARD",Nonpartisan,1,,,,Retain,0.9,,115150_20121106.pdf
+IA,Des Moines Register,115150,2012,JUDGE,,Iowa Supreme Court,IA,"WATERMAN, THOMAS",Nonpartisan,1,,,,Retain,0.9,,115150_20121106.pdf
+IA,Des Moines Register,115150,2012,JUDGE,,Iowa Supreme Court,IA,"WIGGINS, DAVID",Nonpartisan,1,,,,Retain (paper opposed campaign to oust him over Varnum same-sex marriage ruling),0.92,,115150_20121106.pdf
+IA,Des Moines Register,115150,2012,JUDGE,,Iowa Supreme Court,IA,"ZAGER, BRUCE",Nonpartisan,1,,,,Retain,0.9,,115150_20121106.pdf
+IA,Des Moines Register,115150,2012,PRESIDENT,,,IA,"ROMNEY, MITT",Republican,1,,,,,0.95,,115150_20121106.pdf
+IA,Des Moines Register,115150,2012,SHERIFF,,Polk County,IA,"MCCARTHY, BILL",Democrat,1,1,,,,0.92,,115150_20121106.pdf
+IA,Des Moines Register,115150,2014,H,1,,IA,"BLUM, ROD",Republican,0,,,,,0.85,,115150_20141104.pdf
+IA,Des Moines Register,115150,2014,H,1,,IA,"MURPHY, PAT",Democrat,1,,,,"Dubuque, former Iowa House Speaker, 24 yrs in legislature",0.92,,115150_20141104.pdf
+IA,Des Moines Register,115150,2014,H,2,,IA,"LOEBSACK, DAVE",Democrat,1,1,,,Iowa City; 'has won bipartisan victories and shown independence',0.92,,115150_20141104_v2.pdf
+IA,Des Moines Register,115150,2014,H,2,,IA,"MILLER-MEEKS, MARIANNETTE",Republican,0,,,,,0.85,,115150_20141104_v2.pdf
+IA,Des Moines Register,115150,2014,H,3,,IA,"APPEL, STACI",Democrat,0,,,,,0.85,,115150_20141104_v3.pdf
+IA,Des Moines Register,115150,2014,H,3,,IA,"YOUNG, DAVID",Republican,1,,,,"Van Meter, former chief of staff to Sen. Grassley; 'Iowa needs Young's pragmatism'",0.92,,115150_20141104_v3.pdf
+IA,Des Moines Register,115150,2014,H,4,,IA,"KING, STEVE",Republican,0,,1,,'King has become such a polarizing and ineffective member of Congress',0.9,,115150_20141104_v4.pdf
+IA,Des Moines Register,115150,2014,H,4,,IA,"MOWRER, JIM",Democrat,1,,,,"Boone native, Iraq veteran; 'House needs Mowrer's approach'",0.92,,115150_20141104_v4.pdf
+IA,Des Moines Register,115150,2014,SENATOR,,,IA,"BRALEY, BRUCE",Democrat,1,,,,,0.92,,115150_20141104_v5.pdf
+IA,Des Moines Register,115150,2016,H,1,,IA,"VERNON, MONICA",Democrat,1,,,,,0.92,,115150_20161108.pdf
+IA,Des Moines Register,115150,2016,H,2,,IA,"LOEBSACK, DAVE",Democrat,1,1,,,,0.92,,115150_20161108.pdf
+IA,Des Moines Register,115150,2016,H,3,,IA,"MOWRER, JIM",Democrat,1,,,,,0.92,,115150_20161108.pdf
+IA,Des Moines Register,115150,2016,H,4,,IA,"WEAVER, KIM",Democrat,1,,,,,0.92,,115150_20161108.pdf
+IA,Des Moines Register,115150,2016,PRESIDENT,,,IA,"CLINTON, HILLARY",Democrat,1,,,,,0.95,,115150_20161108.pdf
+IA,Des Moines Register,115150,2016,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,1,,,0.92,,115150_20161108.pdf
+IA,Des Moines Register,115150,2018,GOVERNOR,,,IA,"HUBBELL, FRED",Democrat,1,,,,,0.92,,115150_20181106.pdf
+IA,Des Moines Register,115150,2018,H,2,,IA,"LOEBSACK, DAVE",Democrat,1,1,,,,0.92,,115150_20181106.pdf
+IA,Des Moines Register,115150,2018,H,3,,IA,"AXNE, CINDY",Democrat,1,,,,,0.92,,115150_20181106.pdf
+IA,Des Moines Register,115150,2018,H,3,,IA,"YOUNG, DAVID",Republican,0,,1,,Paper opposed: 'voted essentially in lockstep with extremist Republicans',0.9,,115150_20181106.pdf
+IA,Des Moines Register,115150,2018,H,4,,IA,"KING, STEVE",Republican,0,,1,,'remains more focused on catering to neo-Nazis than to his constituents',0.92,,115150_20181106.pdf
+IA,Des Moines Register,115150,2018,H,4,,IA,"SCHOLTEN, J. D.",Democrat,1,,,,,0.92,,115150_20181106.pdf
+IA,Des Moines Register,115150,2020,H,1,,IA,"FINKENAUER, ABBY",Democrat,1,1,,,,0.92,,115150_20201103.pdf
+IA,Des Moines Register,115150,2020,H,2,,IA,"HART, RITA",Democrat,1,,,,,0.92,,115150_20201103.pdf
+IA,Des Moines Register,115150,2020,H,3,,IA,"AXNE, CINDY",Democrat,1,1,,,,0.92,,115150_20201103.pdf
+IA,Des Moines Register,115150,2020,H,4,,IA,"SCHOLTEN, J. D.",Democrat,1,,,,,0.92,,115150_20201103.pdf
+IA,Des Moines Register,115150,2020,PRESIDENT,,,IA,"BIDEN, JOSEPH",Democrat,1,,,,,0.95,,115150_20201103.pdf
+IA,Des Moines Register,115150,2020,SENATOR,,,IA,"GREENFIELD, THERESA",Democrat,1,,,,,0.95,,115150_20201103.pdf

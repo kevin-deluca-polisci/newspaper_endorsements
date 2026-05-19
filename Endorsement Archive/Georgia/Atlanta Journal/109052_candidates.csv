@@ -1,0 +1,41 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+GA,Atlanta Journal,109052,1968,CNTY COMM,1,DeKalb,GA,"GUHL, A C BOB",Republican,1,,,,DeKalb Commissioner District 1,0.95
+GA,Atlanta Journal,109052,1968,CNTY COMM,4,DeKalb,GA,"EVANS, W M BILL",Democrat,1,,,,DeKalb Commissioner District 4,0.95
+GA,Atlanta Journal,109052,1968,CNTY COMM,CHAIRMAN,DeKalb,GA,"HARRISON, CLARK",Democrat,1,,,,DeKalb Commission Chairman,0.95
+GA,Atlanta Journal,109052,1968,H,4,,GA,"MACKAY, JAMES A",Democrat,1,,,,U.S. Representative,0.95
+GA,Atlanta Journal,109052,1968,H,5,,GA,"WELTNER, CHARLES LONGSTREET",Democrat,1,,,,U.S. Representative,0.95
+GA,Atlanta Journal,109052,1968,PRESIDENT,,,GA,"HUMPHREY, HUBERT H",Democrat,1,,,,President,0.95
+GA,Atlanta Journal,109052,1968,SCHOOL BOARD,4,DeKalb,GA,"CASTRICONE, NICHOLAS R",,1,,,,School Board Trustee District 4,0.95
+GA,Atlanta Journal,109052,1968,SCHOOL BOARD,6,DeKalb,GA,"BASS, MRS CHARLES T",,1,,,,School Board Trustee District 6,0.95
+GA,Atlanta Journal,109052,1968,SENATOR,,,GA,"TALMADGE, HERMAN E",Democrat,1,,,,United States Senator,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,100,Fulton,GA,"ADAMS, G D JR",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,102,Fulton,GA,"EZZARD, CLARENCE SR",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,103,Fulton,GA,"DILLON, TOM",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,107,Fulton,GA,"BORDERS, WILLIAM HOLMES",Republican,1,,,,Rev.,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,108,Fulton,GA,"ALEXANDER, WILLIAM H",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,109,Fulton,GA,"DAUGHERTY, J C",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,113,Fulton,GA,"MCCLATCHEY, DEVEREAUX",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,114,Fulton,GA,"BRANTLEY, HASKEW",Republican,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,72,DeKalb,GA,"COLLINS, STAN",Republican,1,,,,Post 2,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,72,DeKalb,GA,"PALMER, TOM",Democrat,1,,,,Post 1,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,73,DeKalb,GA,"BELL, ROBERT H BOB",Republican,1,,,,Post 1,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,73,DeKalb,GA,"SETLIFF, CARTER ANDREWS",Democrat,1,,,,Post 2,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,74,DeKalb,GA,"JORDAN, HUGH",Democrat,1,,,,Post 2,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,75,DeKalb,GA,"PATTERSON, KENNETH L KEN",Democrat,1,,,,Post 1,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,76,DeKalb,GA,"DEAN, JAMES",Democrat,1,,,,Post 1,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,77,DeKalb,GA,"FARRAR, ROBERT H BOB",Democrat,1,,,,Post 2,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,77,DeKalb,GA,"THOMASON, LARRY W",Democrat,1,,,,Post 3,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,96,Fulton,GA,"REILY, MICHAEL J",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,98,Fulton,GA,"LONGINO, YOUNG H",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"COOK, RODNEY",Republican,1,,,,At Large,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"FELTON, JULE JR",Democrat,1,,,,At Large,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"HAWES, PEYTON S JR",Democrat,1,,,,At Large,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"HORTON, GERALD T",Democrat,1,,,,At Large,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,34,Fulton,GA,"BROCK, MARGARET Z",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,37,Fulton,GA,"GARRARD, ED",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,41,DeKalb,GA,"CONWAY, H MCKINLEY MAC JR",Independent,1,,,,Independent,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,42,DeKalb,GA,"WALLING, BOB",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,43,DeKalb,GA,"MILLIGAN, MELVIN E",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,55,DeKalb,GA,"MEDLOCK, RANDOLPH",Democrat,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,56,Fulton,GA,"COVERDELL, PAUL D",Republican,1,,,,,0.95
+GA,Atlanta Journal,109052,1968,VICE PRESIDENT,,,GA,"MUSKIE, EDMUND S",Democrat,1,,,,Vice President,0.95

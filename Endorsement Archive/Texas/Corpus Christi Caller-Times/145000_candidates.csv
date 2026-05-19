@@ -1,0 +1,309 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+TX,Corpus Christi Caller-Times,145000,1952,PRESIDENT,,,TX,"EISENHOWER, DWIGHT",Republican,1,,,,Time for Change; we endorsed Gen. Eisenhower for the nation's highest office; basic belief is that the thing most needed is a complete change of leadership; Eisenhower and his supporters are in better position to provide the fresh approach needed,0.95
+TX,Corpus Christi Caller-Times,145000,1952,PRESIDENT,,,TX,"STEVENSON, ADLAI",Democrat,0,,,,"Stevenson, regardless of his leadership potentialities, is burdened by the mistakes of the New Deal and Fair Deal; less likely to admit and correct than a completely fresh administration",0.95
+TX,Corpus Christi Caller-Times,145000,1962,GOVERNOR,,,TX,"CONNALLY, JOHN",Democrat,1,,,,"Leadership editorial; Texas needs a governor who can exercise a unifying and constructive influence on the legislature; only the Democratic candidate, John Connally, can offer the necessary leadership and direction to Texas state government",0.95
+TX,Corpus Christi Caller-Times,145000,1966,SENATOR,,,TX,"CARR, WAGGONER",Democrat,1,,,,"AP wire story listing newspaper endorsements - Corpus Christi Caller and Times among 28 dailies endorsing Carr (D); also listed: Caller and Times, Corpus Christi",0.85
+TX,Corpus Christi Caller-Times,145000,1970,STATE REP,,,TX,"FARENTHOLD, FRANCES",,1,,,,"Hard Worker editorial; endorsed for reelection Nov 3 for hard work for Corpus Christi and Texas, including censure of Land Commissioner Sadler and Antiquities Act passage",0.95
+TX,Corpus Christi Caller-Times,145000,1972,GOVERNOR,,,TX,"BRISCOE, DOLPH",Democrat,1,,,,"Did not have support in Democratic primary, but is choice of voters to carry Democratic banner Nov 7; we commend his candidacy to our readers - the only candidate for the office who could be an effective chief executive",0.95
+TX,Corpus Christi Caller-Times,145000,1976,H,14,,TX,"YOUNG, JOHN",Democrat,1,,,,Served us ably in Congress for 10 terms; through seniority and ability has amassed considerable influence and expertise; we recommend his reelection strongly,0.95
+TX,Corpus Christi Caller-Times,145000,1976,PRESIDENT,,,TX,"CARTER, JIMMY",Democrat,1,,,,"Nation needs a fresh and active leader, a person with ideas and vigor; we believe the nation can find such a man",0.95
+TX,Corpus Christi Caller-Times,145000,1976,RAILROAD COMMISSION,,,TX,"NEWTON, JON",Democrat,1,,,,"From Beeville, can speed this process along; able state legislator and is an expert in energy affairs",0.95
+TX,Corpus Christi Caller-Times,145000,1976,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,,,,Has served Texas and the nation with distinction during his first term in office; we believe he has earned another six years in the job,0.95
+TX,Corpus Christi Caller-Times,145000,1976,STATE REP,48A,,TX,"GONZALES, ARNOLD",Democrat,1,,,,Has both the enthusiasm and intelligence to make his district an able representative in Austin,0.95
+TX,Corpus Christi Caller-Times,145000,1976,STATE REP,48C,,TX,"HALE, DEWITT",Democrat,1,,,,"In DeWitt Hale, this district has one of the most knowledgeable and influential members of the Texas Legislature; makes the retention of Hale in Austin even more imperative",0.95
+TX,Corpus Christi Caller-Times,145000,1976,STATE SENATOR,20,,TX,"TRUAN, CARLOS",Democrat,1,,,,"Times believes Carlos Truan is clearly the best choice in this race, both by virtue of experience and ability",0.95
+TX,Corpus Christi Caller-Times,145000,1976,TX SUPREME COURT,,,TX,"LORANCE, TOM",,1,,,,Experienced Houston attorney recommended as write-in candidate over Don Yarbrough; of the utmost importance the voter ponder the qualifications,0.90
+TX,Corpus Christi Caller-Times,145000,1976,TX SUPREME COURT,,,TX,"YARBROUGH, DON",Democrat,0,,,,"Won the Democratic primary; threatened with disbarment by Texas State Bar, being sued in civil courts by a number of clients; Times recommends Tom Lorance, an experienced Houston attorney, as a write-in candidate",0.85
+TX,Corpus Christi Caller-Times,145000,1978,ATTORNEY GENERAL,,,TX,"WHITE, MARK",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1978,CNTY COMM,4,Nueces,TX,"LUBY, J.P.",,1,,,,Precinct 4,0.95
+TX,Corpus Christi Caller-Times,145000,1978,CNTY JUDGE,,Nueces,TX,"BARNES, ROBERT",,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1978,GOVERNOR,,,TX,"HILL, JOHN",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1978,H,14,,TX,"WYATT, JOE",Democrat,1,,,,US Congress 14th District,0.95
+TX,Corpus Christi Caller-Times,145000,1978,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1978,RAILROAD COMMISSION,,,TX,"POERNER, JOHN",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1978,SENATOR,,,TX,"TOWER, JOHN",Republican,1,,,,Caller lists choices in Tuesday's election; we recommend the election of each of these candidates,0.95
+TX,Corpus Christi Caller-Times,145000,1978,STATE REP,48-C,,TX,"HARRISON, BILL",,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1980,PRESIDENT,,,TX,"CARTER, JIMMY",Democrat,0,,,,Carter administration has lacked fixed policies; vacillating signals in foreign policy which have confused friends and foes; the Carter administration has not earned another four years in office,0.95
+TX,Corpus Christi Caller-Times,145000,1980,PRESIDENT,,,TX,"REAGAN, RONALD",Republican,1,,,,"Election of Reagan best choice Tuesday; Reagan would have an opportunity to rethink some of our approaches to social legislation; Reagan administration on the other hand offers at least the possibility of new approaches; it is time, in our view, for a change",0.95
+TX,Corpus Christi Caller-Times,145000,1980,RAILROAD COMMISSION,,,TX,"NUGENT, JIM",Democrat,1,,,,"Nugent, Temple favored; Nugent appointed by Gov. Briscoe when former commissioner Jon Newton resigned; veteran of nine terms in state House",0.95
+TX,Corpus Christi Caller-Times,145000,1980,RAILROAD COMMISSION,,,TX,"TEMPLE, BUDDY",Democrat,1,,,,Defeated Railroad Commission Chairman John Poerner; two-term state representative; campaigned on a pledge to work to reduce high interstate freight rates,0.95
+TX,Corpus Christi Caller-Times,145000,1980,SHERIFF,,Nueces,TX,"ORTIZ, SOLOMON",Democrat,1,,,,Sheriff has earned another four years; restored order and dignity to the sheriff's office; modernized; we believe he deserves reelection on Nov. 4,0.95
+TX,Corpus Christi Caller-Times,145000,1980,STATE SENATOR,20,,TX,"TRUAN, CARLOS",Democrat,1,,,,Sen. Carlos Truan should be re-elected; voters of the 20th senatorial district this past June a choice which could scarcely be clearer,0.95
+TX,Corpus Christi Caller-Times,145000,1980,TX SUPREME COURT,1,,TX,"WALLACE, JAMES P.",Democrat,1,,,,"Vote Garwood, Wallace; Place 1 - hesitatingly recommend; lawyer, two-term state senator from Houston, former district judge, associate justice First Court of Civil Appeals",0.90
+TX,Corpus Christi Caller-Times,145000,1980,TX SUPREME COURT,4,,TX,"GARWOOD, WILL",Republican,1,,,,"Place 4 - urge a vote for incumbent Justice Will Garwood, a Republican appointed to the court nine months ago by Gov. Bill Clements; intelligent and hard-working jurist",0.95
+TX,Corpus Christi Caller-Times,145000,1982,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,,,,"Democratic nominee is a maverick, an avowed Populist who has been successful at a time when the political tides seemed to be against him; intelligent young man, dedicated to serving the people's interest, refreshing ideas",0.95
+TX,Corpus Christi Caller-Times,145000,1982,ATTORNEY GENERAL,,,TX,"MATTOX, JIM",Democrat,1,,,,"Tough, often abrasive campaigner; well-qualified to be the state's No. 1 lawyer; can be counted on to be an activist attorney general, a people's advocate",0.95
+TX,Corpus Christi Caller-Times,145000,1982,COMPTROLLER,,,TX,"BULLOCK, BOB",Democrat,1,,,,Performance as state's tax collector; written impressive record; collections are up; many loopholes have been drawn tight,0.95
+TX,Corpus Christi Caller-Times,145000,1982,COURT OF CRIMINAL APPEALS,2,,TX,"MILLER, CHUCK",,1,,,,Place 2,0.95
+TX,Corpus Christi Caller-Times,145000,1982,DISTRICT COURT JUDGE,148,,TX,"HERIN, DAVID",,1,,,,148th District Judge,0.95
+TX,Corpus Christi Caller-Times,145000,1982,DISTRICT COURT JUDGE,94,,TX,"HAAS, RENE",,1,,,,94th District Judge,0.95
+TX,Corpus Christi Caller-Times,145000,1982,GOVERNOR,,,TX,"CLEMENTS, BILL",Republican,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1982,H,27,,TX,"ORTIZ, SOLOMON",Democrat,1,,,,US Representative 27th District,0.95
+TX,Corpus Christi Caller-Times,145000,1982,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,,,,"This office is particularly important to South Texas; better acquainted with variety of issues he will face, and more correct in his position on those issues than GOP opponent Woody Glasscock; Mauro is a Corpus Christi native",0.95
+TX,Corpus Christi Caller-Times,145000,1982,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1982,RAILROAD COMMISSION,,,TX,"NUGENT, JIM",Democrat,1,,,,Former legislator will be seeking his first full term on the Railroad Commission; valuable member of the body; we find nothing in that record to argue against his re-election Nov. 2,0.95
+TX,Corpus Christi Caller-Times,145000,1982,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,,,,Everyone must make a choice on Tuesday - summary endorsements,0.95
+TX,Corpus Christi Caller-Times,145000,1982,STATE REP,36,,TX,"HARRISON, BILL",,1,,,,State Representative District 36,0.95
+TX,Corpus Christi Caller-Times,145000,1982,TREASURER,,,TX,"RICHARDS, ANN",Democrat,1,,,,"Articulate and impressive candidate; as a county commissioner in Austin, has demonstrated her management abilities; will also be the first woman to hold statewide office in 50 years",0.95
+TX,Corpus Christi Caller-Times,145000,1982,TX SUPREME COURT,1,,TX,"ROBERTSON, TED",,1,,,,Place 1,0.95
+TX,Corpus Christi Caller-Times,145000,1984,COURT OF CRIMINAL APPEALS,1,,TX,"CLINTON, SAM HOUSTON",,1,,,,Place 1,0.95
+TX,Corpus Christi Caller-Times,145000,1984,H,27,,TX,"ORTIZ, SOLOMON",Democrat,1,,,,US Representative 27th District,0.95
+TX,Corpus Christi Caller-Times,145000,1984,PRESIDENT,,,TX,"REAGAN, RONALD",Republican,1,,,,Campaign boils down to voter and ballot - editorial board recommendations,0.95
+TX,Corpus Christi Caller-Times,145000,1984,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1984,SENATOR,,,TX,"GRAMM, PHIL",Republican,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1984,STATE REP,36,,TX,"HARRISON, W.O. 'BILL'",,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1984,TX SUPREME COURT,,,TX,"HILL, JOHN C.",Democrat,1,,,,Chief Justice,0.95
+TX,Corpus Christi Caller-Times,145000,1984,VICE PRESIDENT,,,TX,"BUSH, GEORGE",Republican,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1986,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1986,ATTORNEY GENERAL,,,TX,"BARRERA, ROY JR.",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1986,CNTY CLERK,,Nueces,TX,"UEHLINGER, MARION",,1,,,,Nueces County Clerk,0.95
+TX,Corpus Christi Caller-Times,145000,1986,GOVERNOR,,,TX,"CLEMENTS, BILL",Republican,0,,,,Bill Clements simply has not,0.95
+TX,Corpus Christi Caller-Times,145000,1986,GOVERNOR,,,TX,"WHITE, MARK",Democrat,1,,,,"Texas, experiencing unfamiliar hard times, desperately needs the sort of leadership that looks forward with confidence; Gov. Mark White has shown such leadership; White's candidacy is strongly recommended",0.95
+TX,Corpus Christi Caller-Times,145000,1986,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1986,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1986,RAILROAD COMMISSION,,,TX,"SHARP, JOHN",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1986,TREASURER,,Nueces,TX,"HUNT, TOM",,1,,,,"Nueces County Treasurer, in order to do away with this needless office",0.95
+TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,1,,TX,"MAUZY, OSCAR",Democrat,1,,,,"Place 1, reluctantly",0.90
+TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,2,,TX,"CAMPBELL, ROBERT M.",,1,,,,Place 2,0.95
+TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,3,,TX,"WALLACE, JIM",,1,,,,Place 3,0.95
+TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,4,,TX,"GONZALEZ, RAUL",,1,,,,Place 4,0.95
+TX,Corpus Christi Caller-Times,145000,1988,CNTY COMM,"Nueces County, Precinct 1",,TX,GEORGE D. SHAFFER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES F. CAMPBELL,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,COURT OF CRIMINAL APPEALS,Place 2,,TX,CHUCK MILLER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,COURT OF CRIMINAL APPEALS,Presiding Judge,,TX,MIKE MCCORMICK,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,PRESIDENT,,,TX,GEORGE BUSH,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,RAILROAD COMMISSION,,,TX,ED EMMETT,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,RAILROAD COMMISSION,,,TX,KENT HANCE,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,SENATOR,,,TX,LLOYD BENTSEN,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,SHERIFF,Nueces County,,TX,JAMES T. HICKEY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,STATE BOARD OF ED,2,,TX,MARY HELEN BERLANGA,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,STATE REP,,,TX,TODD A. HUNTER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 1,,TX,PAUL MURPHY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 2,,TX,NATHAN HECHT,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 3,,TX,RAUL A. GONZALEZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 4,,TX,BARBARA G. CULVER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 5,,TX,EUGENE A. COOK,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,AGRICULTURE COMMISSIONER,,,TX,JIM HIGHTOWER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,ATTORNEY GENERAL,,,TX,DAN MORALES,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,CNTY CLERK,Nueces County,,TX,NANCY STEVENS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,CNTY COMM,"Nueces County, Precinct 4",,TX,CAROL KARTER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,COMPTROLLER,,,TX,JOHN SHARP,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF APPEALS,13th Court of Appeals,,TX,GILBERTO HINOJOSA,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 1,,TX,FRANK MALONEY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 2,,TX,SAM HOUSTON CLINTON,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 3,,TX,BILL WHITE,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 4,,TX,CHARLES F. (CHARLIE) BAIRD,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 5,,TX,LOUIS E. STURNS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,GOVERNOR,,,TX,ANN RICHARDS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,LAND COMMISSIONER,,,TX,GARRY MAURO,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,LT GOVERNOR,,,TX,BOB BULLOCK,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,RAILROAD COMMISSION,,,TX,BOB KRUEGER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,SENATOR,,,TX,PHIL GRAMM,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,TREASURER,,,TX,KAY BAILEY HUTCHISON,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,TX SUPREME COURT,Place 1,,TX,JOHN CORNYN,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1990,TX SUPREME COURT,Place 2,,TX,BOB GAMMAGE,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,CNTY COMM,"Nueces County, Precinct 1",,TX,FRANK SCHWING,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES F. (CHARLIE) BAIRD,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,COURT OF CRIMINAL APPEALS,Place 2,,TX,MORRIS L. OVERSTREET,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,COURT OF CRIMINAL APPEALS,Place 3,,TX,PETE BENAVIDES,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,DA/PROSECUTOR,Nueces County,,TX,CARL LEWIS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,H,27,,TX,SOLOMON ORTIZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,PRESIDENT,,,TX,BILL CLINTON,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,RAILROAD COMMISSION,,,TX,BARRY WILLIAMSON,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,SHERIFF,Nueces County,,TX,J.P. LUBY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,STATE REP,33,,TX,EDDIE CAVAZOS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,TX SUPREME COURT,Place 1,,TX,CRAIG ENOCH,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,TX SUPREME COURT,Place 2,,TX,EUGENE COOK,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1992,TX SUPREME COURT,Place 3,,TX,JOHN D. MONTGOMERY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,AGRICULTURE COMMISSIONER,,,TX,RICK PERRY,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,ATTORNEY GENERAL,,,TX,DAN MORALES,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,CNTY CLERK,"Nueces County, District clerk",,TX,OSCAR SOLIZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,CNTY COMM,"Nueces County, District 3",,TX,OSCAR ORTIZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,CNTY COMM,"Nueces County, District 4",,TX,JOE MCCOMB,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,CNTY COMM,"Nueces County, Precinct 2",,TX,DAVID BERLANGA SR.,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,CNTY JUDGE,Nueces County,,TX,RICHARD BORCHARD,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,COMPTROLLER,,,TX,JOHN SHARP,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES CAMPBELL,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,COURT OF CRIMINAL APPEALS,Place 2,,TX,BETTY MARSHALL,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,GOVERNOR,,,TX,ANN RICHARDS,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,H,27,,TX,SOLOMON ORTIZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,LAND COMMISSIONER,,,TX,GARRY MAURO,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,LT GOVERNOR,,,TX,BOB BULLOCK,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,RAILROAD COMMISSION,,,TX,CAROLE RYLANDER,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,RAILROAD COMMISSION,,,TX,CHARLES MATTHEWS,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,SENATOR,,,TX,KAY BAILEY HUTCHISON,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,STATE BOARD OF ED,2,,TX,MARY HELEN BERLANGA,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,STATE REP,31,,TX,WILL GALLOWAY,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,STATE REP,33,,TX,VILMA LUNA,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,STATE SENATOR,20,,TX,CARLOS TRUAN,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,TREASURER,,,TX,MARTHA WHITEHEAD,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,TX SUPREME COURT,Place 1,,TX,RAUL GONZALEZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,TX SUPREME COURT,Place 2,,TX,ALICE OLIVER PARROTT,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1994,TX SUPREME COURT,Place 3,,TX,JIMMY CARROLL,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,CNTY COMM,"Nueces County, Precinct 1",,TX,FRANK SCHWING,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,CNTY COMM,"Nueces County, Precinct 2",,TX,MARTIN GARZA,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,COURT OF APPEALS,13th Court of Appeals,,TX,BONNER DORSEY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,COURT OF CRIMINAL APPEALS,Place 1,,TX,BOB PERKINS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,COURT OF CRIMINAL APPEALS,Place 2,,TX,PAUL WOMACK,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,COURT OF CRIMINAL APPEALS,Place 3,,TX,FRANK MALONEY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,DISTRICT COURT JUDGE,28th Dist. Court,,TX,ROBERT PATE,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,H,15,,TX,RUBEN HINOJOSA,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,H,27,,TX,SOLOMON ORTIZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,PRESIDENT,,,TX,BOB DOLE,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,RAILROAD COMMISSION,,,TX,CAROLE KEETON RYLANDER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,SENATOR,,,TX,PHIL GRAMM,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,SHERIFF,Nueces County,,TX,LARRY OLIVAREZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,STATE REP,31,,TX,JUDY HAWLEY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,STATE REP,32,,TX,PAT EISENHAUER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,Place 1,,TX,JOHN CORNYN,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,Place 2,,TX,JAMES A. BAKER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,Place 3,,TX,GREG ABBOTT,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,AGRICULTURE COMMISSIONER,,,TX,SUSAN COMBS,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,ATTORNEY GENERAL,,,TX,JOHN CORNYN,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,CNTY CLERK,"Nueces County, District clerk",,TX,OSCAR SOLIZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,CNTY JUDGE,Nueces County,,TX,RICHARD BORCHARD,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,COMPTROLLER,,,TX,PAUL HOBBY,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLIE BAIRD,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,COURT OF CRIMINAL APPEALS,Place 2,,TX,CHERYL JOHNSON,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,COURT OF CRIMINAL APPEALS,Place 3,,TX,"LAWRENCE ""LARRY"" MEYERS",Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,DISTRICT COURT JUDGE,148th District Court,,TX,ROBERT PATE,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,DISTRICT COURT JUDGE,319th District Court,,TX,TOM GREENWELL,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,GOVERNOR,,,TX,GEORGE W. BUSH,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,H,14,,TX,LOY SNEARY,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,H,27,,TX,SOLOMON ORTIZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,LAND COMMISSIONER,,,TX,RICHARD RAYMOND,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,LT GOVERNOR,,,TX,JOHN SHARP,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,RAILROAD COMMISSION,,,TX,TONY GARZA,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,SCHOOL BOARD,"Del Mar Board of Regents, At Large",,TX,HOWARD E. BARTH,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,SCHOOL BOARD,"Del Mar Board of Regents, District 2",,TX,BETTE HOELSCHER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,SCHOOL BOARD,"Del Mar Board of Regents, District 5",,TX,HAWOOD DAWOD,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,STATE BOARD OF ED,2,,TX,MARY HELEN BERLANGA,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,STATE REP,33,,TX,VILMA LUNA,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,STATE REP,34,,TX,JAIME CAPELO,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,Place 1,,TX,MIKE WESTERGREN,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,Place 2,,TX,ROSE SPECTOR,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,Place 3,,TX,GREG ABBOTT,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,Place 4,,TX,DEBORAH HANKINSON,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,CNTY COMM,"Nueces County, Precinct 1",,TX,FRANK E. SCHWING,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,CNTY COMM,"Nueces County, Precinct 3",,TX,OSCAR O. ORTIZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,COURT OF APPEALS,"13th Court of Appeals, Place 3",,TX,ERRLINDA CASTILLO,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES HOLCOMB,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,COURT OF CRIMINAL APPEALS,Place 2,,TX,BARBARA PARKER HERVEY,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,COURT OF CRIMINAL APPEALS,Presiding Judge,,TX,BILL VANCE,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,DISTRICT COURT JUDGE,214th District Court,,TX,JOSE LONGORIA,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,DISTRICT COURT JUDGE,28th District Court,,TX,NANETTE HASETTE,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,DISTRICT COURT JUDGE,347th District Court,,TX,MISSY MEDARY,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,H,14,,TX,LOY SNEARY,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,H,15,,TX,RUBEN HINOJOSA,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,H,27,,TX,SOLOMON P. ORTIZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,PRESIDENT,,,TX,GEORGE W. BUSH,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,RAILROAD COMMISSION,,,TX,CHARLES R. MATTHEWS,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,RAILROAD COMMISSION,unexpired term,,TX,MICHAEL L. WILLIAMS,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,SCHOOL BOARD,"Del Mar Board of Regents, At-large",,TX,WILLIAM A. WHITTLE,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,SCHOOL BOARD,"Del Mar Board of Regents, District 1",,TX,RALPH DIAZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,SCHOOL BOARD,"Del Mar Board of Regents, District 4",,TX,HELEN R. GURLEY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,SENATOR,,,TX,KAY BAILEY HUTCHISON,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,TX SUPREME COURT,Place 1,,TX,NATHAN HECHT,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,TX SUPREME COURT,Place 2,,TX,DEBORAH HANKINSON,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2000,TX SUPREME COURT,Place 3,,TX,AL GONZALES,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,AGRICULTURE COMMISSIONER,,,TX,SUSAN COMBS,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,ATTORNEY GENERAL,,,TX,KIRK WATSON,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,CNTY CLERK,"Nueces County, District Clerk",,TX,PATSY PEREZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,CNTY COMM,"Nueces County, Pct. 4",,TX,CHUCK CAZALAS,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,CNTY JUDGE,Nueces County,,TX,JOE MCCOMB,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,COMPTROLLER,,,TX,CAROLE KEETON RYLANDER,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,COURT OF APPEALS,13th Court of Appeals,,TX,DORI CONTRERAS GARZA,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,COURT OF CRIMINAL APPEALS,Pl. 1,,TX,TOM PRICE,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,COURT OF CRIMINAL APPEALS,Pl. 2,,TX,PAUL WOMACK,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,COURT OF CRIMINAL APPEALS,Pl. 3,,TX,CATHY COCHRAN,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,DISTRICT COURT JUDGE,319th District Court,,TX,TOM GREENWELL,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,GOVERNOR,,,TX,TONY SANCHEZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,LAND COMMISSIONER,,,TX,DAVID BERNSEN,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,LT GOVERNOR,,,TX,JOHN SHARP,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,RAILROAD COMMISSION,,,TX,MICHAEL WILLIAMS,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,SCHOOL BOARD,"Del Mar Regents, At Large",,TX,JACOB MUNOZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,SCHOOL BOARD,"Del Mar Regents, At Large",,TX,RALPH DIAZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,SENATOR,,,TX,JOHN CORNYN,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,32,,TX,JOSEPHINE MILLER,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,33,,TX,VILMA LUNA,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,34,,TX,JAIME CAPELO,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,35,,TX,GABI CANALES,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,43,,TX,IRMA RANGEL,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Pl. 1,,TX,LINDA YANEZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Pl. 2,,TX,DALE WAINWRIGHT,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Pl. 3,,TX,WALLACE JEFFERSON,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Pl. 4,,TX,MARGARET MIRABAL,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, At-large",,TX,CHAD MAGILL,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, At-large",,TX,JOE MCCOMB,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, At-large",,TX,MICHAEL HUNTER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, District 1",,TX,CAROLYN VAUGHN,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, District 2",,TX,BRIAN ROSAS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, District 3",,TX,LUCY RUBIO,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, District 4",,TX,GREG SMITH,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,CNTY COMM,"Nueces County, Precinct 1",,TX,MIKE PUSLEY,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,COURT OF APPEALS,"13th Court of Appeals, Place 3",,TX,GREG PERKES,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,COURT OF CRIMINAL APPEALS,Place 2,,TX,"LAWRENCE ""LARRY"" MEYERS",Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,COURT OF CRIMINAL APPEALS,Place 5,,TX,SCOTT WALKER,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,COURT OF CRIMINAL APPEALS,Place 6,,TX,MICHAEL KEASLER,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,DA/PROSECUTOR,Nueces County,,TX,MARK GONZALEZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,DISTRICT COURT JUDGE,214th District Court,,TX,INNA KLEIN,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,H,27,,TX,"RAUL ""ROY"" BARRERA",Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,MAYOR,Corpus Christi,,TX,NELDA MARTINEZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,PRESIDENT,,,TX,HILLARY CLINTON,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,RAILROAD COMMISSION,,,TX,MARK MILLER,Libertarian,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,CCISD trustee at-large,,TX,A. TOTSY ARMADILLO,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,CCISD trustee at-large,,TX,ALICE UPSHAW-HAWKINS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,CCISD trustee at-large,,TX,JANIE BELL,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,"Del Mar College Regent, At-large",,TX,TREY MCCAMPBELL,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,"Del Mar College Regent, District 5",,TX,JIM BOGGS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,SHERIFF,Nueces County,,TX,JIM KAELIN,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,STATE SENATOR,20,,TX,"JUAN ""CHUY"" HINOJOSA",Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,TX SUPREME COURT,Place 3,,TX,DEBRA LEHRMANN,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,TX SUPREME COURT,Place 5,,TX,DORI CONTRERAS GARZA,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2016,TX SUPREME COURT,Place 9,,TX,EVA GUZMAN,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,AGRICULTURE COMMISSIONER,,,TX,KIM OLSON,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,ATTORNEY GENERAL,,,TX,JUSTIN NELSON,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, At Large",,TX,JOHN GARCIA,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, At Large",,TX,MICHAEL HUNTER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, At Large",,TX,PAULETTE GUAJARDO,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 1",,TX,JULIAN FIRO,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 2",,TX,BEN MOLINA,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 3",,TX,ROLAND BARRERA,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 4",,TX,GREG SMITH,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 5",,TX,ERIC RODRIGUEZ,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CNTY CLERK,Nueces County,,TX,KARA SANDS,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CNTY CLERK,"Nueces County, District Clerk",,TX,ANNE LORENTZEN,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CNTY COMM,"Nueces County, Precinct 1",,TX,CAROLYN VAUGHN,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,CNTY JUDGE,Nueces County,,TX,BARBARA CANALES,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,COMPTROLLER,,,TX,GLENN HEGAR,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,"13th Court of Appeals, Chief Justice",,TX,DORI CONTRERAS,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,"13th Court of Appeals, Place 2",,TX,GREG PERKES,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,"13th Court of Appeals, Place 4",,TX,JAIME TIJERINA,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,"13th Court of Appeals, Place 5",,TX,GINA BENAVIDES,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF CRIMINAL APPEALS,Place 7,,TX,BARBARA PARKER HERVEY,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF CRIMINAL APPEALS,Place 8,,TX,MICHELLE SLAUGHTER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF CRIMINAL APPEALS,Presiding Judge,,TX,"MARIA T. ""TERRI"" JACKSON",Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,DISTRICT COURT JUDGE,105th District Court,,TX,JACK PULCHER,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,DISTRICT COURT JUDGE,148th District Court,,TX,CARLOS VALDEZ,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,GOVERNOR,,,TX,GREG ABBOTT,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,H,27,,TX,MICHAEL CLOUD,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,JUDGE,Court-at-law No. 1,,TX,ROBERT VARGAS,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,LAND COMMISSIONER,,,TX,GEORGE P. BUSH,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,LT GOVERNOR,,,TX,MIKE COLLIER,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,MAYOR,Corpus Christi,,TX,AISLYNN CAMPBELL,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,RAILROAD COMMISSION,,,TX,CHRISTI CRADDICK,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,"Corpus Christi ISD trustee, District 1",,TX,LAMONT TAYLOR,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,"Corpus Christi ISD trustee, District 3",,TX,CURTIS CLARK,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,"Del Mar College Board of Regents, At large",,TX,SANDRA MESSBARGER,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,"Del Mar College Board of Regents, District 1",,TX,GABE RIVAS,,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,SENATOR,,,TX,BETO O'ROURKE,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,STATE BOARD OF ED,2,,TX,RUBEN CORTEZ JR.,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,STATE REP,34,,TX,ABEL HERRERO,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,STATE REP,43,,TX,J.M. LOZANO,Republican,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,TX SUPREME COURT,Place 2,,TX,STEVEN KIRKLAND,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,TX SUPREME COURT,Place 4,,TX,R.K. SANDILL,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,2018,TX SUPREME COURT,Place 6,,TX,KATHY CHENG,Democrat,1,,,,,

@@ -1,0 +1,167 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+PA,Scranton Tribune,141602,1950,GOVERNOR,,,PA,"FINE, JOHN S.",Republican,1,,,,Governor of Pennsylvania,0.95
+PA,Scranton Tribune,141602,1950,H,,,PA,"DONLAN, FRASER P.",Republican,1,,,,Congress,0.90
+PA,Scranton Tribune,141602,1950,JUDGE,,,PA,"GUNTHER, BLAIR F.",Republican,1,,,,Superior Court,0.90
+PA,Scranton Tribune,141602,1950,LT GOVERNOR,,,PA,"WOOD, LLOYD H.",Republican,1,,,,Lieutenant Governor,0.95
+PA,Scranton Tribune,141602,1950,SEC OF STATE,,,PA,"LIVENGOOD, WILLIAM S., JR.",Republican,1,,,,Secretary of Internal Affairs,0.85
+PA,Scranton Tribune,141602,1950,SENATOR,,,PA,"DUFF, JAMES H.",Republican,1,,,,U.S. Senate,0.95
+PA,Scranton Tribune,141602,1950,STATE REP,1,,PA,"MANZO, CARL",Republican,1,,,,"First District (PA General Assembly, Lackawanna)",0.90
+PA,Scranton Tribune,141602,1950,STATE REP,2,,PA,"LEWIS, HARRY A.",Republican,1,,,,Second District,0.90
+PA,Scranton Tribune,141602,1950,STATE REP,3,,PA,"CORDIER, ROBERT J.",Republican,1,,,,Third District,0.90
+PA,Scranton Tribune,141602,1950,STATE REP,4,,PA,"ROSS, ARTHUR",Republican,1,,,,Fourth District,0.90
+PA,Scranton Tribune,141602,1950,STATE REP,5,,PA,"BLICKENS, GEORGE L.",Republican,1,,,,Fifth District,0.90
+PA,Scranton Tribune,141602,1950,STATE REP,6,,PA,"SPENCER, HENRY L.",Republican,1,,,,Sixth District,0.90
+PA,Scranton Tribune,141602,1950,STATE SENATOR,,,PA,"KONISZEWSKI, JOHN ""JACK""",Republican,1,,,,State Senator,0.90
+PA,Scranton Tribune,141602,1950,SUPREME COURT,,,PA,"EAGEN, MICHAEL J.",Republican,1,,,,Supreme Court,0.90
+PA,Scranton Tribune,141602,1952,PRESIDENT,,,PA,"EISENHOWER, DWIGHT D.",Republican,1,,,,Vote Eisenhower editorial,0.98
+PA,Scranton Tribune,141602,1954,GOVERNOR,,,PA,"WOOD, LLOYD H.",Republican,1,,,,"Lt. Gov, Republican nominee for Governor",0.95
+PA,Scranton Tribune,141602,1954,H,10,,PA,"CARRIGG, JOSEPH L.",Republican,1,,1,,10th Congressional District incumbent,0.95
+PA,Scranton Tribune,141602,1956,H,10,,PA,"CARRIGG, JOSEPH L.",Republican,1,,1,,10th District Congress incumbent,0.95
+PA,Scranton Tribune,141602,1956,PRESIDENT,,,PA,"EISENHOWER, DWIGHT D.",Republican,1,,1,,Seeking reelection,0.95
+PA,Scranton Tribune,141602,1956,SENATOR,,,PA,"DUFF, JAMES H.",Republican,1,,1,,U.S. Senate incumbent vs Joseph S. Clark,0.95
+PA,Scranton Tribune,141602,1956,STATE REP,1,,PA,"WEIBEL, J. RUSSELL",Republican,1,,,,"First District state legislature, against wage tax",0.90
+PA,Scranton Tribune,141602,1956,STATE REP,2,,PA,"PHILLIPS, WILLIAM E.",Republican,1,,,,"Second District state legislature, against wage tax",0.90
+PA,Scranton Tribune,141602,1956,STATE REP,3,,PA,"COLLINS, BERT",Republican,1,,,,"Third District state legislature, against wage tax",0.90
+PA,Scranton Tribune,141602,1956,STATE REP,4,,PA,"SAVO, CARL",Republican,1,,,,"Fourth District state legislature, against wage tax",0.90
+PA,Scranton Tribune,141602,1956,STATE REP,5,,PA,"EDWARDS, WILLIAM",Republican,1,,,,"Fifth District state legislature, against wage tax",0.90
+PA,Scranton Tribune,141602,1960,AUDITOR,,,PA,"KENT, ROBERT F.",Republican,1,,,,State Auditor General,0.95
+PA,Scranton Tribune,141602,1960,H,10,,PA,"SCRANTON, WILLIAM W.",Republican,1,,,,Congress,0.95
+PA,Scranton Tribune,141602,1960,JUDGE,,,PA,"GUNTHER, BLAIR F.",Republican,1,,,,State Superior Court,0.90
+PA,Scranton Tribune,141602,1960,PRESIDENT,,,PA,"NIXON, RICHARD M.",Republican,1,,,,,0.98
+PA,Scranton Tribune,141602,1960,STATE REP,1,,PA,"PAGNANI, ROBERT",Republican,1,,,,"Lackawanna First District, General Assembly",0.90
+PA,Scranton Tribune,141602,1960,STATE REP,2,,PA,"PHILLIPS, J. RUSSELL",Republican,1,,,,Second District,0.90
+PA,Scranton Tribune,141602,1960,STATE REP,3,,PA,"MOKOS, EDWARD W.",Republican,1,,,,"Olyphant, Third District",0.90
+PA,Scranton Tribune,141602,1960,STATE REP,4,,PA,"MILLER, EDWARD S.",Republican,1,,,,"Jessup, Fourth District",0.90
+PA,Scranton Tribune,141602,1960,STATE REP,5,,PA,"EDWARDS, WILLIAM",Republican,1,,,,"Jermyn, Fifth District",0.90
+PA,Scranton Tribune,141602,1960,TREASURER,,,PA,"SMITH, CHARLES C.",Republican,1,,,,State Treasurer,0.95
+PA,Scranton Tribune,141602,1960,VICE PRESIDENT,,,PA,"LODGE, HENRY CABOT",Republican,1,,,,,0.98
+PA,Scranton Tribune,141602,1970,GOVERNOR,,,PA,"BRODERICK, RAYMOND J.",Republican,1,,,,Lt. Gov. running for Governor,0.95
+PA,Scranton Tribune,141602,1970,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,10th Congressional District incumbent,0.95
+PA,Scranton Tribune,141602,1970,LT GOVERNOR,,,PA,"SCALERA, RALPH",Republican,1,,,,"Judge, running with Broderick",0.90
+PA,Scranton Tribune,141602,1970,SENATOR,,,PA,"SCOTT, HUGH",Republican,1,,1,,U.S. Senate incumbent,0.95
+PA,Scranton Tribune,141602,1970,STATE REP,112,,PA,"DIPPRE, ROBERT",Republican,1,,,,112th District state rep,0.90
+PA,Scranton Tribune,141602,1970,STATE REP,113,,PA,"COSTANZO, LOUIS",Republican,1,,,,113th District state rep,0.90
+PA,Scranton Tribune,141602,1970,STATE REP,114,,PA,"WILLIAMS, WALTER",Republican,1,,,,114th District state rep,0.90
+PA,Scranton Tribune,141602,1970,STATE REP,115,,PA,"KWOLEK, ROGER",Republican,1,,,,115th District state rep,0.90
+PA,Scranton Tribune,141602,1970,STATE SENATOR,,,PA,"PIASECKI, ARTHUR",Republican,1,,1,,State Senator seeking reelection,0.95
+PA,Scranton Tribune,141602,1972,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,10th Congressional District incumbent,0.95
+PA,Scranton Tribune,141602,1972,PRESIDENT,,,PA,"NIXON, RICHARD M.",Republican,1,,1,,Recommended for reelection (Worthy Candidates editorial),0.85
+PA,Scranton Tribune,141602,1972,STATE REP,112,,PA,"VOLPE, CHARLES",Republican,1,,,,112th Legislative District,0.90
+PA,Scranton Tribune,141602,1972,STATE REP,113,,PA,"JONES, ROBERT",Republican,1,,,,113th District,0.90
+PA,Scranton Tribune,141602,1972,STATE REP,114,,PA,"VIPOND, JON",Republican,1,,,,114th District,0.90
+PA,Scranton Tribune,141602,1972,STATE REP,115,,PA,"WILLIAMS, ORVILLE",Republican,1,,,,115th District,0.90
+PA,Scranton Tribune,141602,1976,AUDITOR,,,PA,"BENEDICT, AL",Democrat,1,,,,PA Auditor General; endorsed by outgoing Casey,0.90
+PA,Scranton Tribune,141602,1976,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,"10th Cong District incumbent, McDade Of Course",0.98
+PA,Scranton Tribune,141602,1976,PRESIDENT,,,PA,"FORD, GERALD",Republican,1,,1,,Knowledgeable about national government,0.95
+PA,Scranton Tribune,141602,1976,SENATOR,,,PA,"HEINZ, JOHN",Republican,1,,,,Congressman running for U.S. Senate,0.95
+PA,Scranton Tribune,141602,1976,STATE REP,112,,PA,"MCLANE, WILLIAM",,1,,,,112th District incumbent,0.90
+PA,Scranton Tribune,141602,1976,STATE REP,113,,PA,"BARANOWSKI, FRANK",,1,,,,113th District newcomer,0.90
+PA,Scranton Tribune,141602,1976,STATE REP,114,,PA,"WANSACZ, JOHN",,1,,,,114th District incumbent,0.90
+PA,Scranton Tribune,141602,1976,STATE REP,115,,PA,"WARGO, JOSEPH",,1,,,,"115th District incumbent, Dean of the House",0.90
+PA,Scranton Tribune,141602,1976,STATE REP,118,,PA,"MUSTO, RAPHAEL",,1,,,,118th District incumbent,0.90
+PA,Scranton Tribune,141602,1976,TREASURER,,,PA,"CRAWFORD, PATRICIA",Republican,1,,,,"State Treasurer, conscientious overseer",0.90
+PA,Scranton Tribune,141602,1978,GOVERNOR,,,PA,"THORNBURGH, DICK",Republican,1,,,,Best prospect for cleansing and fresh direction,0.95
+PA,Scranton Tribune,141602,1978,H,10,,PA,"MCDADE, JOSEPH",Republican,1,,1,,"Eight-term incumbent, finest representative",0.98
+PA,Scranton Tribune,141602,1978,LT GOVERNOR,,,PA,"SCRANTON, BILL III",Republican,1,,,,"Lt Governor, Northeastern PA advocate",0.95
+PA,Scranton Tribune,141602,1978,STATE REP,112,,PA,"BELARDI, FRED",Republican,1,,,,112th District Republican nominee,0.95
+PA,Scranton Tribune,141602,1978,STATE REP,113,,PA,"ZITTERMAN, FRANK",Democrat,1,1,,,113th Democratic incumbent first-termer,0.90
+PA,Scranton Tribune,141602,1978,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,,,,"114th District, would be working and forceful legislator",0.90
+PA,Scranton Tribune,141602,1978,STATE REP,115,,PA,"WARGO, JOSEPH",Democrat,1,1,,,"115th District, 15-term Dean of the House",0.95
+PA,Scranton Tribune,141602,1978,STATE SENATOR,,,PA,"MELLOW, ROBERT",Democrat,1,1,,,Earned reelection to third term,0.95
+PA,Scranton Tribune,141602,1980,ATTORNEY GENERAL,,,PA,"ZIMMERMAN, ROY",Republican,1,,,,"Veteran Dauphin County DA, first elective AG",0.95
+PA,Scranton Tribune,141602,1980,AUDITOR,,,PA,"BENEDICT, AL",Democrat,1,1,,,Incumbent Auditor General,0.90
+PA,Scranton Tribune,141602,1980,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,10th Cong District incumbent,0.95
+PA,Scranton Tribune,141602,1980,PRESIDENT,,,PA,"REAGAN, RONALD",Republican,1,,,,Stand for Republican nominees,0.98
+PA,Scranton Tribune,141602,1980,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,,,Replacing Schweiker who is stepping down,0.95
+PA,Scranton Tribune,141602,1980,STATE REP,112,,PA,"FINK, JOEL",,1,,,,112th District,0.90
+PA,Scranton Tribune,141602,1980,STATE REP,113,,PA,"CAWLEY, GAYNOR",,1,,,,113th District; won both Democratic and Republican primaries,0.95
+PA,Scranton Tribune,141602,1980,STATE REP,114,,PA,"KRANTZ, DAVID L.",,1,,,,114th District,0.90
+PA,Scranton Tribune,141602,1980,STATE REP,115,,PA,"FAZIO, AL",Republican,1,,,,115th District,0.90
+PA,Scranton Tribune,141602,1980,TREASURER,,,PA,"DWYER, R. BUDD",Republican,1,,,,Eminently qualified to replace incumbent,0.95
+PA,Scranton Tribune,141602,1980,VICE PRESIDENT,,,PA,"BUSH, GEORGE",Republican,1,,,,,0.98
+PA,Scranton Tribune,141602,1982,GOVERNOR,,,PA,"THORNBURGH, DICK",Republican,1,,1,,Clean economical progressive admin,0.95
+PA,Scranton Tribune,141602,1982,H,10,,PA,"MCDADE, JOSEPH",Republican,1,,1,,Finest 10th District has ever had,0.98
+PA,Scranton Tribune,141602,1982,LT GOVERNOR,,,PA,"SCRANTON, BILL III",Republican,1,,1,,Lt Governor reelection,0.95
+PA,Scranton Tribune,141602,1982,SENATOR,,,PA,"HEINZ, JOHN",Republican,1,,1,,"Reelection, end of first term",0.95
+PA,Scranton Tribune,141602,1982,STATE REP,112,,PA,"BELARDI, FRED",,1,1,,,112th District incumbent,0.90
+PA,Scranton Tribune,141602,1982,STATE REP,113,,PA,"CAWLEY, GAYNOR",,1,1,,,113th District incumbent,0.90
+PA,Scranton Tribune,141602,1982,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,,1,,114th District incumbent,0.90
+PA,Scranton Tribune,141602,1982,STATE REP,115,,PA,"BIRMELIN, JERRY",,1,,,,115th District newcomer,0.90
+PA,Scranton Tribune,141602,1982,STATE SENATOR,,,PA,"MELLOW, ROBERT",Democrat,1,1,,,Reelected without opposition,0.95
+PA,Scranton Tribune,141602,1984,ATTORNEY GENERAL,,,PA,"ZIMMERMAN, LEROY",Republican,1,,1,,"Incumbent, fearless prosecutor",0.95
+PA,Scranton Tribune,141602,1984,AUDITOR,,,PA,"SHANAMAN, SUSAN",Republican,1,,,,"Former PUC member, fair to utilities and consumers",0.95
+PA,Scranton Tribune,141602,1984,H,10,,PA,"MCDADE, JOSEPH",Republican,1,,1,,"10th Cong incumbent, ranking R Interior Appropriations",0.95
+PA,Scranton Tribune,141602,1984,PRESIDENT,,,PA,"REAGAN, RONALD",Republican,1,,1,,Charted course for peace and improvement,0.98
+PA,Scranton Tribune,141602,1984,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,112th District incumbent,0.90
+PA,Scranton Tribune,141602,1984,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,113th District incumbent,0.90
+PA,Scranton Tribune,141602,1984,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,,1,,114th District incumbent,0.90
+PA,Scranton Tribune,141602,1984,STATE REP,115,,PA,"STABACK, EDWARD",Democrat,1,,,,"115th District, succeeding retiring Wargo",0.90
+PA,Scranton Tribune,141602,1984,STATE REP,118,,PA,"TIGUE, THOMAS",Democrat,1,1,,,"118th District, mostly Luzerne with parts of Lackawanna",0.90
+PA,Scranton Tribune,141602,1984,TREASURER,,,PA,"DWYER, R. BUDD",Republican,1,,1,,"Incumbent, excellent watchdog",0.95
+PA,Scranton Tribune,141602,1984,VICE PRESIDENT,,,PA,"BUSH, GEORGE",Republican,1,,1,,Running mate,0.98
+PA,Scranton Tribune,141602,1986,GOVERNOR,,,PA,"SCRANTON, WILLIAM W. III",Republican,1,,,,Lt Governor running against Bob Casey,0.95
+PA,Scranton Tribune,141602,1986,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,1,,"13th term, 10th District, Steamtown legislation",0.95
+PA,Scranton Tribune,141602,1986,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,1,,Tireless fighter for constituents,0.95
+PA,Scranton Tribune,141602,1986,STATE REP,111,,PA,"SIRIANNI, CARMEL",Republican,1,,1,,Beyond Lackawanna County (Susquehanna area),0.85
+PA,Scranton Tribune,141602,1986,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,Lackawanna County incumbent,0.90
+PA,Scranton Tribune,141602,1986,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,Lackawanna County incumbent,0.90
+PA,Scranton Tribune,141602,1986,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,,1,,Lackawanna County incumbent,0.90
+PA,Scranton Tribune,141602,1986,STATE REP,115,,PA,"STABACK, EDWARD",Democrat,1,1,,,Lackawanna County incumbent,0.90
+PA,Scranton Tribune,141602,1986,STATE REP,118,,PA,"TIGUE, THOMAS M.",Democrat,1,1,,,Beyond Lackawanna County,0.90
+PA,Scranton Tribune,141602,1986,STATE SENATOR,,,PA,"MELLOW, ROBERT J.",Democrat,1,1,,,"Good record, party leadership status",0.95
+PA,Scranton Tribune,141602,1988,SENATOR,,,PA,"HEINZ, JOHN",Republican,1,,1,,Retain Heinz; over Joseph Vignola,0.98
+PA,Scranton Tribune,141602,1988,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,1,,,"112th District, deserving sixth term",0.90
+PA,Scranton Tribune,141602,1988,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,1,,,"113th District, deserving fifth term",0.90
+PA,Scranton Tribune,141602,1988,STATE REP,114,,PA,"SERAFINI, FRANK",Republican,1,,1,,114th District incumbent since 1978; lone contested race,0.95
+PA,Scranton Tribune,141602,1988,STATE REP,115,,PA,"STABACK, EDWARD G.",Democrat,1,1,,,115th Up Valley District; won write-in for GOP nomination too,0.90
+PA,Scranton Tribune,141602,1988,STATE REP,118,,PA,"TIGUE, THOMAS M.",Democrat,1,1,,,"118th District (Luzerne with Lackawanna parts), fifth term",0.90
+PA,Scranton Tribune,141602,1988,TREASURER,,,PA,"KNOLL, CATHERINE BAKER",Democrat,1,,,,"Easy decision; well-informed and qualified, over Philip English",0.98
+PA,Scranton Tribune,141602,1992,ATTORNEY GENERAL,,,PA,"PREATE, ERNIE",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1992,AUDITOR,,,PA,"LEWIS, CRAIG",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1992,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1992,PRESIDENT,,,PA,"CLINTON, BILL",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1992,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,1,,"Third term; record merits, over Lynn Yeakel",0.98
+PA,Scranton Tribune,141602,1992,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1992,STATE REP,113,,PA,"CAWLEY, GAYNOR",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1992,STATE REP,114,,PA,"PHILBIN, THOMAS",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1992,STATE REP,115,,PA,"STABACK, EDWARD",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1992,TREASURER,,,PA,"KNOLL, CATHERINE BAKER",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1994,GOVERNOR,,,PA,"SINGEL, MARK",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1994,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1994,STATE REP,114,,PA,"GIANNETTA, MICHAEL",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1994,STATE SENATOR,,,PA,"MELLOW, ROBERT",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1996,ATTORNEY GENERAL,,,PA,"FISHER, MIKE",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1996,AUDITOR,,,PA,"CASEY, BOB JR.",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1996,H,10,,PA,"MCDADE, JOSEPH M.",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1996,PRESIDENT,,,PA,"DOLE, BOB",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1996,STATE REP,112,,PA,"BELARDI, FRED",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1996,TREASURER,,,PA,"KNOLL, MINA BAKER",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1998,GOVERNOR,,,PA,"RIDGE, TOM",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1998,H,10,,PA,"CASEY, PATRICK",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1998,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1998,STATE REP,114,,PA,"WANSACZ, JIM",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,1998,STATE SENATOR,,,PA,"MELLOW, BOB",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2000,ATTORNEY GENERAL,,,PA,"FISHER, MIKE",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2000,AUDITOR,,,PA,"CASEY, BOB JR",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2000,AUDITOR,,,PA,"CASEY, ROBERT JR",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2000,H,10,,PA,"CASEY, PAT",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2000,PRESIDENT,,,PA,"BUSH, GEORGE W",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2000,SENATOR,,,PA,"KLINK, RON",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2000,STATE REP,114,,PA,"WANSACZ, JIM",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2000,TREASURER,,,PA,"HAFER, BARBARA",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2002,GOVERNOR,,,PA,"RENDELL, ED",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2002,H,10,,PA,"SHERWOOD, DON",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2002,H,11,,PA,"KANJORSKI, PAUL",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2002,H,11,,PA,"KANJORSKI, PAUL E",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2002,STATE REP,114,,PA,"WANSACZ, JIM",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2002,STATE SENATOR,,,PA,"MELLOW, BOB",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2002,STATE SENATOR,22,,PA,"MELLOW, ROBERT J",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2004,ATTORNEY GENERAL,,,PA,"CORBETT, TOM",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2004,AUDITOR,,,PA,"PETERS, JOE",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2004,PRESIDENT,,,PA,"BUSH, GEORGE W",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2004,PRESIDENT,,,PA,"KERRY, JOHN",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2004,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2004,STATE REP,114,,PA,"WANSACZ, JIM",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2004,STATE REP,114,,PA,"WANSACZ, JOHN",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2004,TREASURER,,,PA,"CASEY, BOB JR",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85
+PA,Scranton Tribune,141602,2004,TREASURER,,,PA,"CASEY, ROBERT P JR",Democrat,1,,,,Endorsed per joint Sunday edition recap (backfilled),0.85

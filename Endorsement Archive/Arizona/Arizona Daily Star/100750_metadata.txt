@@ -1,0 +1,41 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Arizona Daily Star
+Newspaper ID: 100750
+State: AZ
+Number of clippings: 227
+Endorsement data years: 1922-2020
+Total candidate endorsements: 1317
+Total proposition endorsements: 320
+
+Confidence statistics:
+  Mean confidence: 0.908
+  Low-confidence records (< 0.7): 49
+
+Top offices (top 15):
+  STATE REP: 342
+  STATE SENATOR: 148
+  CNTY COMM: 106
+  SCHOOL BOARD: 83
+  JUDGE: 79
+  CORPORATION COMMISSION: 69
+  H: 68
+  GOVERNOR: 37
+  SUPERINTENDENT: 36
+  SENATOR: 35
+  TREASURER: 33
+  CONSTABLE: 29
+  ATTORNEY GENERAL: 27
+  SHERIFF: 25
+  PRESIDENT: 24
+
+Party distribution:
+  Democrat: 695
+  Republican: 292
+  Nonpartisan: 48
+  Libertarian: 11
+  Independent: 2
+  American Independent: 1
+  Communist: 1
+  Green: 1

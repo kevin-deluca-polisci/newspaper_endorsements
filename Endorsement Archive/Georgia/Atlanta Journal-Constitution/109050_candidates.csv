@@ -1,0 +1,187 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+GA,Atlanta Journal-Constitution,109050,2002,ATTORNEY GENERAL,,,GA,"BAKER, THURBERT",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,CNTY COMM,1,Cobb,GA,"GOREMAN, HELEN",Republican,1,,,,,0.90
+GA,Atlanta Journal-Constitution,109050,2002,CNTY COMM,1,Clayton,GA,"RHODENIZER, CARL",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,CNTY COMM,3,DeKalb,GA,"JOHNSON, LARRY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,CNTY COMM,7,DeKalb,GA,"WALKER, LOU",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,CNTY COMM,AT-LARGE,Fulton,GA,"PITTS, ROBB",Democrat,1,,,,At-large Post 2,0.95
+GA,Atlanta Journal-Constitution,109050,2002,CNTY COMM,CHAIRMAN,Fulton,GA,"KENN, MIKE",Republican,1,,,,Commission Chairman,0.95
+GA,Atlanta Journal-Constitution,109050,2002,COMMISSIONER OF AGRICULTURE,,,GA,"THURMOND, MICHAEL",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,COMMISSIONER OF LABOR,,,GA,"IRVIN, TOMMY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GOVERNOR,,,GA,"BARNES, ROY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,1,,GA,"SMART, DON",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,10,,GA,"DEAL, NATHAN",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,11,,GA,"KAHN, ROGER",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,12,,GA,"BURNS, MAX",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,13,,GA,"SCOTT, DAVID",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,2,,GA,"BISHOP, SANFORD",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,3,,GA,"MARSHALL, JIM",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,4,,GA,"MAJETTE, DENISE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,5,,GA,"LEWIS, JOHN",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,6,,GA,"ISAKSON, JOHNNY",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,7,,GA,"BERLON, MICHAEL",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,8,,GA,"COLLINS, MAC",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,H,9,,GA,"NORWOOD, CHARLIE",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,INSURANCE COMMISSIONER,,,GA,"COHEN, LOIS",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,LT GOVERNOR,,,GA,"STANCIL, STEVE",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,PUBLIC SERVICE COMMISSION,1,,GA,"EVERETT, DOUG",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,PUBLIC SERVICE COMMISSION,4,,GA,"MCDONALD, LAUREN BUBBA",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,SEC OF STATE,,,GA,"COX, CATHY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,SENATOR,,,GA,"CLELAND, MAX",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE BOARD OF ED,,,GA,"CHRISTMAS, BARBARA",Democrat,1,,,,State School Superintendent,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,15,Cherokee,GA,"MOORE, JERRY",Republican,1,,,,,0.90
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,29,Cobb,GA,"PARSONS, DON",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,33,Cobb,GA,"DOOLEY, PAT",Democrat,1,,,,Post 3,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,33,Cobb,GA,"THOMAS, ALISHA",Democrat,1,,,,Post 2,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,33,Cobb,GA,"WIX, DON",Democrat,1,,,,Post 1,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,34,Cobb,GA,"GOLICK, RICH",Republican,1,,,,Post 3,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,34,Cobb,GA,"STONER, DOUG",Democrat,1,,,,Post 1,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,34,Cobb,GA,"TEILHET, ROB",Democrat,1,,,,Post 2,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,42,DeKalb,GA,"ADELMAN, DAVID",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,42,Fulton,GA,"ASHE, KATHY",Democrat,1,,,,Post 2,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,42,Fulton,GA,"GARDNER, PAT",Democrat,1,,,,Post 3,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,42,Fulton,GA,"MORAITAKIS, NICK",Democrat,1,,,,Post 4,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,42,Fulton,GA,"STANLEY-TURNER, LANETTE",Democrat,1,,,,Post 5,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,42,Fulton,GA,"TEPER, DOUG",Democrat,1,,,,Post 1,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,45,Fulton,GA,"BRUCE, ROGER",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,46,Cobb,GA,"HEMBREE, BILL",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,52,DeKalb,GA,"MILLAR, FRAN",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,53,DeKalb,GA,"CHAMBERS, JILL",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,55,DeKalb,GA,"HENSON, MICHELE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,56,DeKalb,GA,"OLIVER, MARY MARGARET",Democrat,1,,,,Post 2,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,59,DeKalb,GA,"MOSBY, HOWARD",Democrat,1,,,,Post 3,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,61,DeKalb,GA,"DAVIS, W SCOTT",Republican,1,,,,Post 2,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,61,DeKalb,GA,"MILTON, TERRY",Republican,1,,,,Post 3,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,68,Gwinnett,GA,"CASAS, DAVID",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,69,Gwinnett,GA,"CALLAWAY, GENE",Republican,1,,,,Post 2,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,70,Gwinnett,GA,"HORNER, JOE",Democrat,1,,,,Post 1,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,84,Clayton,GA,"BARNES, MIKE",Democrat,1,,,,Post 2,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE REP,84,Clayton,GA,"DODSON, RON",Democrat,1,,,,Post 1,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE SENATOR,34,Clayton,GA,"SEAY, VALENCIA",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE SENATOR,40,DeKalb,GA,"LEVETAN, LIANE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE SENATOR,41,DeKalb,GA,"HENSON, STEVE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE SENATOR,5,Gwinnett,GA,"SQUIRES, MARY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2002,STATE SENATOR,6,Cobb,GA,"COLLINS, GINGER",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,CNTY COMM,1,DeKalb,GA,"BOYER, ELAINE C",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,CNTY COMM,3,Gwinnett,GA,"BEAUDREAU, MIKE",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,CNTY COMM,4,Cobb,GA,"THOMPSON, WOODY",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,CNTY COMM,CHAIRMAN,Gwinnett,GA,"BANNISTER, CHARLES",Republican,1,,,,Commission Chairman,0.95
+GA,Atlanta Journal-Constitution,109050,2004,CNTY COMM,CHAIRMAN,Clayton,GA,"BELL, ELDRIN",Democrat,1,,,,Commission Chairman,0.95
+GA,Atlanta Journal-Constitution,109050,2004,DA/PROSECUTOR,,DeKalb,GA,"BRICKMAN, JEFFREY H",Republican,1,,,,District Attorney,0.95
+GA,Atlanta Journal-Constitution,109050,2004,H,11,,GA,"GINGREY, PHIL",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,H,12,,GA,"BARROW, JOHN",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,H,2,,GA,"BISHOP, SANFORD",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,H,3,,GA,"MARSHALL, JIM",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,H,4,,GA,"MCKINNEY, CYNTHIA",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,H,8,,GA,"WESTMORELAND, LYNN",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,H,9,,GA,"ELLIS, BOB",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,JUDGE,COURT OF APPEALS,,GA,"BERNES, DEBRA",,1,,,,Court of Appeals; non-partisan,0.95
+GA,Atlanta Journal-Constitution,109050,2004,PRESIDENT,,,GA,"KERRY, JOHN F",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,PUBLIC SERVICE COMMISSION,,,GA,"BAKER, ROBERT B BOBBY JR",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,SCHOOL BOARD,6,Clayton,GA,"WHITE, EDDIE J",Democrat,1,,,,Board of Education,0.95
+GA,Atlanta Journal-Constitution,109050,2004,SENATOR,,,GA,"ISAKSON, JOHNNY",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,SHERIFF,,Fulton,GA,"STEPHENS, J DANNY",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,100,Gwinnett,GA,"THOMAS, BRIAN",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,101,Gwinnett,GA,"COAN, MICHAEL T MIKE",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,102,Gwinnett,GA,"COX, CLAY",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,104,Gwinnett,GA,"REID, ERIC",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,105,Gwinnett,GA,"SHELDON, DONNA",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,33,Cobb,GA,"CHESTER, NICK",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,34,Cobb,GA,"GOLICK, RICH",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,36,Cobb,GA,"LAKE, CHRISTOPHER",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,37,Cobb,GA,"JOHNSON, TERRY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,38,Cobb,GA,"TUMLIN, STEVE THUNDER",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,39,Cobb,GA,"MORGAN, ALISHA THOMAS",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,43,Cobb,GA,"FRANKLIN, BOBBY",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,48,Fulton,GA,"HACKNEY, JAN",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,51,Fulton,GA,"RICE, TOM",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,52,Fulton,GA,"WILKINSON, JOE",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,60,Clayton,GA,"SINKFIELD, GEORGANNA",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,66,Fulton,GA,"FLUDD, VIRGIL",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,74,Clayton,GA,"WILKERSON, EMORY",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,80,DeKalb,GA,"JACOBS, MIKE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,81,DeKalb,GA,"CHAMBERS, JILL",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,82,DeKalb,GA,"LEVITAS, KEVIN",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,85,DeKalb,GA,"BENFIELD, STEPHANIE STUCKEY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,92,DeKalb,GA,"STEPHENSON, PAM S",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,96,Gwinnett,GA,"MARIN, PEDRO PETE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,97,Gwinnett,GA,"COLEMAN, BROOKS",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE REP,99,Gwinnett,GA,"FLOYD, HUGH",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,32,Cobb,GA,"HILL, JUDSON",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,33,Cobb,GA,"THOMPSON, STEVE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,34,Clayton,GA,"SEAY, VALENCIA",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,40,DeKalb,GA,"GARNITZ, RICK",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,41,DeKalb,GA,"HENSON, STEVE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,42,DeKalb,GA,"ADELMAN, DAVID",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,43,DeKalb,GA,"MILES, STEEN NEWSLADY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,55,DeKalb,GA,"BUTLER, GLORIA",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,6,Cobb,GA,"STONER, DOUG",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2004,STATE SENATOR,9,Gwinnett,GA,"BALFOUR, DON",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,ATTORNEY GENERAL,,,GA,"BAKER, THURBERT",Democrat,1,,,,Staunch defender of office's independence; should be re-elected,0.95
+GA,Atlanta Journal-Constitution,109050,2006,CNTY COMM,1,Cobb,GA,"LEE, TIM",Republican,1,,,,Re-elected,0.95
+GA,Atlanta Journal-Constitution,109050,2006,CNTY COMM,1,Fulton,GA,"MORRIS, LEE",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,CNTY COMM,2,Fulton,GA,"LOUGHREY, BILL",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,CNTY COMM,2,DeKalb,GA,"RADER, JEFF",Democrat,1,,,,Deserves the nod in District 2 commission contest,0.95
+GA,Atlanta Journal-Constitution,109050,2006,CNTY COMM,4,Clayton,GA,"EDMONDSON, MICHAEL",Democrat,1,,,,Better choice,0.95
+GA,Atlanta Journal-Constitution,109050,2006,CNTY COMM,4,Gwinnett,GA,"KENERLY, KEVIN",Republican,1,,,,Republican incumbent,0.95
+GA,Atlanta Journal-Constitution,109050,2006,COMMISSIONER OF AGRICULTURE,,,GA,"IRVIN, TOMMY",Democrat,1,,,,Agriculture commissioner since 1969; no evidence the Democrat should be replaced,0.95
+GA,Atlanta Journal-Constitution,109050,2006,COMMISSIONER OF LABOR,,,GA,"THURMOND, MICHAEL",Democrat,1,,,,Current Labor Commissioner; fits the bill,0.95
+GA,Atlanta Journal-Constitution,109050,2006,DA/PROSECUTOR,SOLICITOR,DeKalb,GA,"LAGRUA, SHAWN ELLEN",Republican,1,,,,Solicitor general,0.90
+GA,Atlanta Journal-Constitution,109050,2006,GOVERNOR,,,GA,"TAYLOR, MARK",Democrat,1,,,,Best hope that open government will be preserved; Sonny Perdue (R-Inc) failed to propose cohesive plan,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,1,,GA,"KINGSTON, JACK",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,10,,GA,"HOLLEY, TERRY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,11,,GA,"GINGREY, PHIL",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,12,,GA,"BARROW, JOHN",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,13,,GA,"SCOTT, DAVID",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,2,,GA,"BISHOP, SANFORD",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,3,,GA,"MCGRAW, MIKE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,4,,GA,"JOHNSON, HANK",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,6,,GA,"PRICE, TOM",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,7,,GA,"LINDER, JOHN",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,8,,GA,"MARSHALL, JIM",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,H,9,,GA,"DEAL, NATHAN",Republican,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,INSURANCE COMMISSIONER,,,GA,"OXENDINE, JOHN",Republican,1,,,,Republican incumbent should be returned; opponent's shortcoming critical ethical lapse,0.95
+GA,Atlanta Journal-Constitution,109050,2006,JUDGE,GA SUPREME COURT,,GA,"HUNSTEIN, CAROL",,1,,,,Georgia Supreme Court Justice; superior candidate,0.95
+GA,Atlanta Journal-Constitution,109050,2006,JUDGE,SUPERIOR COURT,Cobb,GA,"BODIFORD, JAMES G",,1,,,,Cobb Superior Court incumbent,0.90
+GA,Atlanta Journal-Constitution,109050,2006,JUDGE,SUPERIOR COURT,Cobb,GA,"KREEGER, GEORGE H",,1,,,,Cobb Superior Court incumbent,0.90
+GA,Atlanta Journal-Constitution,109050,2006,LT GOVERNOR,,,GA,"MARTIN, JIM",Democrat,1,,,,Most ably; General Assembly veteran who ran Department of Human Resources under both major parties,0.95
+GA,Atlanta Journal-Constitution,109050,2006,PUBLIC SERVICE COMMISSION,,,GA,"EATON, CHUCK",Republican,1,,,,Receives our endorsement over Democratic incumbent David Burgess,0.95
+GA,Atlanta Journal-Constitution,109050,2006,PUBLIC SERVICE COMMISSION,,,GA,"RANDOLPH, DAWN",Democrat,1,,,,Gets the nod over Republican incumbent Stan Wise,0.95
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,,Cobb,GA,"CASH, HOLLI",Democrat,1,,,,Cobb school board,0.90
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,,Cobb,GA,"FAROKHI, BETH",Democrat,1,,,,Cobb school board,0.90
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,3,DeKalb,GA,"LAMAR, HAYWARD JR",,1,,,,,0.90
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,5,DeKalb,GA,"CUNNINGHAM, JESSE JAY",,1,,,,,0.90
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,6,DeKalb,GA,"BOWEN, THOMAS EUGENE",,1,,,,,0.90
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,6,Fulton,GA,"MADDOX, CATHERINE",,1,,,,,0.90
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,7,Fulton,GA,"BERNATH, JULIA",,1,,,,Should retain,0.90
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,7,DeKalb,GA,"ROBERTS, ZEPORA W",,1,,,,Incumbent,0.90
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,9,Clayton,GA,"BARTON, DAVID",Republican,1,,,,Republican David Barton,0.85
+GA,Atlanta Journal-Constitution,109050,2006,SCHOOL BOARD,9,DeKalb,GA,"ODENIGBO, COLET",,1,,,,,0.90
+GA,Atlanta Journal-Constitution,109050,2006,SEC OF STATE,,,GA,"HANDEL, KAREN",Republican,1,,,,Republican; chair of Fulton County Commission,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,106,Gwinnett,GA,"EVERSON, MELVIN",Republican,1,,,,Should be returned to office,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,34,Cobb,GA,"GOLICK, RICH",Republican,1,,,,Republican; re-elect,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,37,Cobb,GA,"JOHNSON, TERRY",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,41,Cobb,GA,"COOPER, SHARON",Republican,1,,,,Republican,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,45,Cobb,GA,"WILSON, DARRYL",Democrat,1,,,,Democratic challenger earns the nod,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,46,Fulton,GA,"JONES, JAN",Republican,1,,,,Republican should be returned to office,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,48,Fulton,GA,"HACKNEY, JAN",Democrat,1,,,,Democratic challenger earns the nod,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,79,DeKalb,GA,"MILLAR, FRAN",Republican,1,,,,Republican; deserves another term,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,80,DeKalb,GA,"JACOBS, MIKE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,81,DeKalb,GA,"ROCHE, BOB",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,82,DeKalb,GA,"LEVITAS, KEVIN",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE REP,95,Gwinnett,GA,"MUMFORD, ROBERT",Republican,1,,,,Should be returned to office,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE SENATOR,32,Cobb,GA,"HILL, JUDSON",Republican,1,,,,Republican incumbent; District 32 (which includes part of Fulton County),0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE SENATOR,33,Cobb,GA,"THOMPSON, STEVE",Democrat,1,,,,Re-elected,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE SENATOR,40,DeKalb,GA,"WEBER, DAN",Republican,1,,,,Republican incumbent,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE SENATOR,41,DeKalb,GA,"HENSON, STEVE",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE SENATOR,42,DeKalb,GA,"ADELMAN, DAVID",Democrat,1,,,,Should be re-elected,0.95
+GA,Atlanta Journal-Constitution,109050,2006,STATE SENATOR,43,DeKalb,GA,"HINTON, WILLIE",Republican,1,,,,Republican; choice in District 43,0.95
+GA,Atlanta Journal-Constitution,109050,2006,SUPERINTENDENT,,,GA,"COX, KATHY",Republican,1,,,,State School Superintendent; has begun improvement process; deserves another term,0.95
+GA,Atlanta Journal-Constitution,109050,2008,JUDGE,COURT OF APPEALS,,GA,"DOYLE, SARA",,1,,,,Georgia Court of Appeals,0.95
+GA,Atlanta Journal-Constitution,109050,2008,JUDGE,COURT OF APPEALS,,GA,"EDENFIELD, BRUCE",,1,,,,Georgia Court of Appeals,0.95
+GA,Atlanta Journal-Constitution,109050,2008,JUDGE,COURT OF APPEALS,,GA,"MCFADDEN, CHRISTOPHER",,1,,,,Georgia Court of Appeals,0.95
+GA,Atlanta Journal-Constitution,109050,2008,JUDGE,COURT OF APPEALS,,GA,"MEYER VON BREMEN, MICHAEL",,1,,,,Georgia Court of Appeals,0.95
+GA,Atlanta Journal-Constitution,109050,2008,PRESIDENT,,,GA,"OBAMA, BARACK",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2008,PUBLIC SERVICE COMMISSION,4,,GA,"POWELL, JIM",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2008,SENATOR,,,GA,"MARTIN, JIM",Democrat,1,,,,,0.95
+GA,Atlanta Journal-Constitution,109050,2008,SHERIFF,,Fulton,GA,"JACKSON, TED",Democrat,1,,,,Fulton County Sheriff,0.95

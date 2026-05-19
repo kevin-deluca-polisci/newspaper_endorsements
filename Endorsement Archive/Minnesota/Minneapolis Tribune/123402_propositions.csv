@@ -1,0 +1,19 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+MN,Minneapolis Tribune,123402,1964,MN,LOCAL,,Minneapolis school mill levy 3.4 mill increase,1,Quality public education,0.94
+MN,Minneapolis Tribune,123402,1966,MN,AMENDMENT,,Minnesota constitutional amendment 1966,1,Yes on all three,0.90
+MN,Minneapolis Tribune,123402,1966,MN,LOCAL,,Minneapolis school referendum,1,Vote Yes on all three amendments,0.92
+MN,Minneapolis Tribune,123402,1966,MN,LOCAL,21,Minneapolis charter amendment - consolidate funds into single general fund,1,$600K additional released for services,0.94
+MN,Minneapolis Tribune,123402,1968,MN,AMENDMENT,,Minnesota right-to-choose amendment for legislator candidacy,1,Yes - desirable good government,0.93
+MN,Minneapolis Tribune,123402,1968,MN,AMENDMENT,,Governor right-to-think amendment,1,Yes - good government,0.92
+MN,Minneapolis Tribune,123402,1976,MN,LOCAL,,Minneapolis charter - strengthen mayor with budget/planning,1,Yes,0.93
+MN,Minneapolis Tribune,123402,1976,MN,LOCAL,,Minneapolis charter - special election for mayor vacancy,1,Yes,0.93
+MN,Minneapolis Tribune,123402,1976,MN,LOCAL,,Minneapolis charter - fire chief under mayor,0,No,0.92
+MN,Minneapolis Tribune,123402,1976,MN,LOCAL,,Minneapolis - remove on-sale liquor license ceiling,1,Yes,0.91
+MN,Minneapolis Tribune,123402,1978,MN,LOCAL,,Minneapolis charter - lengthen mayor term,0,No on lengthening - partial; see Star endorsement which says Yes,0.90
+MN,Minneapolis Tribune,123402,1980,MN,AMENDMENT,1,Bipartisan reapportionment commission,1,Yes,0.94
+MN,Minneapolis Tribune,123402,1980,MN,AMENDMENT,2,Campaign spending controls in Constitution,0,No,0.93
+MN,Minneapolis Tribune,123402,1980,MN,AMENDMENT,3,Remove limitations on highway bonding,1,Yes,0.92
+MN,Minneapolis Tribune,123402,1980,MN,AMENDMENT,4,Initiative and referendum,0,No,0.92
+MN,Minneapolis Tribune,123402,1980,MN,AMENDMENT,5,End Senate approval of notary appointments,1,Yes,0.91
+MN,Minneapolis Tribune,123402,1980,MN,LOCAL,81,Minneapolis lengthen mayor term to 4 years,1,Yes,0.93
+MN,Minneapolis Tribune,123402,1980,MN,LOCAL,82,Minneapolis create city ward reapportionment commission,1,Yes,0.93

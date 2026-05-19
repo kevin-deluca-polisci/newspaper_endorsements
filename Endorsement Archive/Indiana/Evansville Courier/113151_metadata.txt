@@ -1,63 +1,12 @@
-Newspaper Name: EVANSVILLECOURIER
-Alternative Names: REVIEW
-Years Published: REVIEW
-Newspaper ID number: 113151
-Number of clippings: 62
-Endorsement data years: 1918, 1920, 1922, 1924, 1926, 1928, 1930, 1934, 1936, 1938, 1940, 1942, 1944, 1948
+Newspaper: Evansville Courier
+Newspaper ID: 113151
+State: IN
+Election years: 35 (1918-1998)
+Clippings: 92 files
+Candidate records: 386 (351 endorsed, 34 opposed, 1 no-direction)
+Proposition records: 9 (6 endorsed, 3 opposed, 0 no-direction)
+Cand conf: mean 0.860, min 0.70
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 47
-  Endorsed (=1): 39
-  Opposed (=0): 8
-  No position (null): 0
-Total proposition records: 0
-  Endorsed (=1): 0
-  Opposed (=0): 0
+Last updated: 2026-04-30 (augmented from 'more evansville')
 
---- DATA QUALITY ---
-Flagged for review: 0 candidates, 0 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 28
-Duplicates removed: 0 candidates, 0 propositions
-
---- CONFIDENCE SCORES ---
-Min: 0.75
-Mean: 0.87
-Max: 0.95
-Below threshold (0.75): 0
-
---- REVIEW QUEUE ---
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19201029_ARTICLE_1.pdf: Article discusses county ticket and local officials in general terms but does not name specific candidates for endorsement; heavily degraded text makes extraction unreliable
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19201102_2_ARTICLE_1.pdf: Dense editorial with severely degraded OCR quality; text largely unreadable; unable to reliably extract specific candidate endorsements
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19241029_1_ARTICLE_1.pdf: Editorial about governor race with heavily degraded text; unable to reliably extract candidate names or specific endorsements
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19241104_ARTICLE_1.pdf: Editorial about presidential and gubernatorial races with severely degraded text; unable to reliably extract specific candidate names or endorsement positions
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19261029_ARTICLE_1.pdf: Full-page clipping with mixed content (constitutional amendments, stories, advertisements); degraded text quality makes reliable extraction of specific endorsement positions difficult
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19261102_ARTICLE_1.pdf: Editorial about Senate race with focus on Republican party performance and political philosophy; heavily degraded text; no specific candidate endorsements clearly identifiable
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19281103_ARTICLE_1.pdf: Editorial endorsing Democratic county ticket in general for clean government but does not name specific candidates
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19321105_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19321106_ARTICLE_1.pdf: Full-page clipping with multiple articles and mixed content; severely degraded OCR quality makes reliable extraction of endorsements impossible
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19461024_1_ARTICLE_1.pdf: Editorial endorses Republican straight ticket in general terms but does not name specific candidates for federal offices
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19461024_2_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19461103_ARTICLE_1.pdf: Dense multi-candidate endorsements article discussing first post-war election with heavily degraded text; unable to reliably extract specific candidate names and offices
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19501101_ARTICLE_1.pdf: 1950 election clipping; unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19501102_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19501103_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19501104_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19501105_1_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19501105_2_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19521026_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19521029_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19521030_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19521031_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19521102_1_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19521102_2_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19541102_LIST_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19561031_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19561103_ARTICLE_1.pdf: Unable to process at this time
-  [no_endorsements] DELUCA_IN_EVANSVILLECOURIER_113151_19561106_ARTICLE_1.pdf: Unable to process at this time
-
---- NOTES ---
-(Add any additional notes here)
-
-Compiled: 2026-04-02 08:10:41
+Years: 1918, 1920, 1922, 1924, 1926, 1928, 1930, 1934, 1936, 1938, 1940, 1942, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998

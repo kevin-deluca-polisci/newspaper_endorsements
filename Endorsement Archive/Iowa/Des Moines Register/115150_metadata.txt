@@ -1,0 +1,21 @@
+Newspaper: Des Moines Register
+Newspaper ID: 115150
+State: Iowa (IA)
+
+Number of clippings: 79
+Endorsement data years: 1960-2020 (28 unique election years)
+
+Candidate records: 175
+  Endorsed: 156
+  Opposed: 17
+  No-direction (declined endorsement): 2
+
+Proposition records: 18
+  YES: 14
+  NO: 4
+
+Confidence stats:
+  Mean confidence: 0.905
+  Median confidence: 0.920
+  Min confidence: 0.65
+  Max confidence: 0.95

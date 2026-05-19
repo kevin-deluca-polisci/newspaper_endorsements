@@ -1,0 +1,12 @@
+Newspaper: Arizona Republic
+Newspaper ID: 100650
+State: AZ
+Election years: 6 (2008-2018)
+Clippings: 6 files
+Candidate records: 173 (173 endorsed, 0 opposed, 0 no-direction)
+Proposition records: 40 (15 endorsed, 25 opposed, 0 no-direction)
+Candidate confidence: mean 0.916, min 0.70, max 1.00
+Proposition confidence: mean 0.961, min 0.90, max 1.00
+Last updated: 2026-04-30 (V2 RE-EXTRACTION applied to fix 2008 and 2010 errors)
+
+Years covered: 2008, 2010, 2012, 2014, 2016, 2018

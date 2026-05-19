@@ -1,0 +1,37 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Seattle Post-Intelligencer
+Newspaper ID: 149000
+State: WA
+Number of clippings: 22
+Endorsement data years: 1962-2002
+Total candidate endorsements: 853
+Total proposition endorsements: 195
+
+Confidence statistics:
+  Mean confidence: 0.874
+  Low-confidence records (< 0.7): 4
+
+Top offices (top 15):
+  STATE REP: 434
+  H: 136
+  STATE SENATOR: 110
+  JUDGE: 38
+  SUPREME COURT: 16
+  SENATOR: 12
+  GOVERNOR: 10
+  AUDITOR: 10
+  TREASURER: 10
+  PRESIDENT: 9
+  ATTORNEY GENERAL: 9
+  INSURANCE COMMISSIONER: 9
+  LAND COMMISSIONER: 9
+  LT GOVERNOR: 9
+  SEC OF STATE: 9
+
+Party distribution:
+  Democrat: 521
+  Republican: 262
+  Nonpartisan: 66
+  Independent: 2

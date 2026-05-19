@@ -1,0 +1,12 @@
+Newspaper: Las Cruces Sun News
+Newspaper ID: 128700
+State: NM
+Election years: 6 (1972-2018)
+Clippings: 19 files
+Candidate records: 106 (80 endorsed, 24 opposed, 2 no-direction)
+Proposition records: 19 (18 endorsed, 1 opposed, 0 no-direction)
+Cand conf: n/a
+Prop conf: n/a
+Last updated: 2026-04-30
+
+Years: 1972, 1974, 1976, 2014, 2016, 2018

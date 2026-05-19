@@ -1,0 +1,35 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Corpus Christi Caller
+Newspaper ID: 145002
+State: TX
+Number of clippings: 36
+Endorsement data years: 1952-1986
+Total candidate endorsements: 67
+Total proposition endorsements: 110
+
+Confidence statistics:
+  Mean confidence: 0.935
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  TX SUPREME COURT: 10
+  RAILROAD COMMISSION: 7
+  GOVERNOR: 6
+  STATE REP: 6
+  PRESIDENT: 5
+  SENATOR: 5
+  H: 4
+  ATTORNEY GENERAL: 3
+  LT GOVERNOR: 3
+  STATE SENATOR: 2
+  AGRICULTURE COMMISSIONER: 2
+  COURT OF CRIMINAL APPEALS: 2
+  DISTRICT COURT JUDGE: 2
+  LAND COMMISSIONER: 2
+  TREASURER: 2
+
+Party distribution:
+  Democrat: 41
+  Republican: 9

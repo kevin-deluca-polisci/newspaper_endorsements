@@ -1,105 +1,121 @@
-# QA Report: Evansville Courier
+# QA Report: Evansville Courier (113151)
+**Date:** 2026-04-13
+**State:** IN | **Years:** 1918–1956 | **Clippings:** 62
 
-**Audit date:** 2026-04-02
-**Folder:** Evansville Courier
-**Newspaper ID:** 113151
-**Data coverage:** 1918-1948 (14 election cycles), 62 clippings, 47 candidate records, 0 proposition records
+## Data Summary
+- **107 candidate records**, **0 proposition records**
+- Endorsed: 92 | Opposed: 15 | No position: 0
+- Confidence range: 0.70–0.95 (mean 0.84)
 
-## Overall Assessment
+## Structural Fixes Applied
+- No structural issues found (headers correct, newspaper_id present)
 
-**PASS WITH MINOR FIXES**
+## Clipping Renaming
+- 62 clippings renamed from `DELUCA_IN_EVANSVILLECOURIER_113151_...` to standard `113151_YYYYMMDD.pdf` format
 
-The Evansville Courier endorsement data is well-structured and highly accurate. All CSV columns are present and valid. Structural validation passed completely, spot-check accuracy was 100%, and only one trivial formatting issue was corrected (candidate name case). The dataset is production-ready.
+## Coding Fixes Applied
+- **1920 ROOSEVELT:** Office changed from LT GOVERNOR → VICE PRESIDENT (FDR was the VP candidate on Cox's ticket, not Lt Governor)
+- **1938 DRESS (Mayor):** Added first name → DRESS, WILLIAM H.
+- **1944 GATES:** Added full name → GATES, RALPH F. (Republican gubernatorial nominee)
+- **1944 JACKSON:** Middle initial corrected M. → D. (Samuel D. Jackson was the Democratic nominee)
+- **1948 MCDONALD:** Office changed from DA/PROSECUTOR → SHERIFF (notes text explicitly says "sheriff candidate")
+- **H district fills:** 1918, 1922, 1926, 1928, 1938 → dist 1 (Evansville was IN-1); 1942 → dist 1 (corrected from erroneous 11); 1948 → dist 8 (post-redistricting)
 
-## Stage 1: Structural Validation
+## Flagged for Review
+1. **1944 STRICKLER (Governor, Democrat, endorsed=1):** Samuel D. Jackson was the Democratic gubernatorial nominee in 1944. STRICKLER appears as a separate Governor endorsement with notes referencing a ballot number. This may be a different office (Lt Governor?) or an extraction error from the original clipping. First name is also missing. Needs clipping re-read.
+2. **1942 LARRABEE (H-1):** First name unknown. Single-word name left as-is.
+3. **1932 WAGNER, ROBERT F. (Senator):** This is a New York senator, not an Indiana race. The Evansville Courier endorsed an out-of-state candidate. The `state_election` field may need to be set to NY.
+4. **1940 LA FOLLETTE:** Listed in the Courier's sister paper (Press, 113152) but not in the Courier. The Press entry was tagged state_election=WI. If a matching Courier entry surfaces, apply same fix.
+5. **1948 County Clerk SAUER:** ~~DELBERT~~ **RESOLVED (Round 3):** Clipping clearly says "Ed Sauer, a democrat." Fixed to SAUER, ED. The Press has SAUER, ED J. — same person, Press clipping headline is "Promote Ed J. Sauer." Different level of name detail, both correct per their source clippings.
 
-All structural checks passed with no issues:
+## Out-of-State Endorsements
+This paper endorsed candidates outside Indiana in at least one case (1932 Wagner, NY Senator). This was not uncommon for papers near state borders or for nationally prominent races.
 
-- **CSV columns:** All 16 expected archive columns present (state_newspaper, newspaper, newspaper_id, year, office, dist, dname, state_election, cand_name, party, endorsed, d_inc, r_inc, o_inc, notes_endorse, extraction_confidence)
-- **Row integrity:** 47 candidate records, all with valid years (1918-1948), endorsed values (0/1/null), confidence scores (0.75-0.95), and state codes (IN/IL)
-- **Year sanity:** All years are even numbers (typical for general elections); no odd-year anomalies
-- **Newspaper ID:** All 47 rows populated with correct ID (113151)
-- **Metadata consistency:** CSV row count (47) matches metadata count (47); clipping count (62) matches metadata (62)
-- **Election dates:** Clipping filenames follow proper date format; dates cluster around October-November as expected for pre-election endorsements
+## Notes
+The Courier data covers 1918–1948, reflecting an era when editorial endorsements were more overtly partisan. The paper shows a generally Democratic lean through the 1930s–40s (endorsing Cox, FDR's VP run, multiple Democratic House candidates) with occasional Republican endorsements (Dewey for President in 1944 and 1948, Hillie for Governor in 1940).
 
-**Status:** OK - no corrections needed
 
-## Stage 2: Spot Check
+---
 
-**Clippings sampled:**
-- DELUCA_IN_EVANSVILLECOURIER_113151_19181101_ARTICLE_1.pdf (1918)
-- DELUCA_IN_EVANSVILLECOURIER_113151_19241030_ARTICLE_1.json (1924)
-- DELUCA_IN_EVANSVILLECOURIER_113151_19381106_ARTICLE_1.pdf (1938)
+## Additional Spot-Checks (Round 2)
 
-**Accuracy:** 100%
+### 1920 clipping (113151_19201102_1.pdf) — MATCH
+Clipping shows "FOR PRESIDENT JAMES M. COX" and "FOR VICE-PRESIDENT FRANKLIN D. ROOSEVELT." CSV matches perfectly. Confirms the earlier fix changing Roosevelt's office from LT GOVERNOR to VICE PRESIDENT was correct.
 
-**Details:**
+### 1928 clipping (113151_19281105.pdf) — MATCH
+"Vote for Boehne!" — endorsement of John W. Boehne, jr. for congressman from the First Indiana congressional district. CSV matches: BOEHNE, JOHN W. JR. (Democrat) H dist=1 endorsed=1.
 
-1. **1918 clipping:** Expected 2 endorsements (NOLAN, VAL F. for DA/PROSECUTOR and SPIEGEL, LEO for AUDITOR). Both matched perfectly in CSV with correct confidence scores (0.85, 0.90).
+### 1938 clipping (113151_19381106.pdf) — MATCH WITH DISCOVERY
+Confirms: Van Nuys (Senator), Boehne Jr. (H-1), and Mayor Dress all endorsed. Also revealed that 1934 CSV entry "DREW, WILLIAM H." (Mayor) should be "DRESS, WILLIAM H." — William H. Dress was Evansville mayor 1935-1942. **Fixed.**
 
-2. **1924 clipping:** Expected 1 endorsement (DENTON, GEORGE K. for JUDGE). Matched perfectly in CSV (confidence 0.95) with appropriate notes referencing ballot number.
+### 1944 clipping (113151_19441105_1.pdf) — CRITICAL FINDINGS
+The clipping clearly states: "Their vote should go to Harry Stricler for **senator** and to Sam Jackson in the **governor's** race." This resolved two major issues:
 
-3. **1938 clipping:** Expected 3 endorsements (VAN NUYS for SENATOR, BOEHNE for H dist. 1, DRESS for MAYOR). All three matched perfectly in CSV with appropriate confidence scores (0.92, 0.92, 0.78).
+1. **STRICKLER was coded as GOVERNOR but was actually SENATOR** — and was a garbled spelling of SCHRICKER, HENRY F. (same person as the existing SHRICKER entry, same ballot number B2). **Duplicate deleted.**
+2. **JACKSON, SAMUEL had a duplicate entry coded as LT GOVERNOR** — the clipping makes clear Jackson ran for Governor only. **Duplicate deleted.**
+3. **SHRICKER spelling corrected to SCHRICKER** — confirmed by the 1952 Press clipping which clearly prints "Schricker."
 
-**Recommendation:** Good shape - no data quality concerns found
+Net: 2 duplicate rows removed, 1 spelling fix. Row count: 43 → 41.
 
-## Stage 3: Variable Coding & Dedup
+**Overall spot-check accuracy: 4/4 clippings checked, 2 critical errors found and fixed**
 
-**Issues found:** 1 | **Auto-fixed:** 1 | **User-corrected:** 0 | **Remaining:** 0
 
-### Changes made
+---
 
-- **Name capitalization corrected (1 record):** McDONALD, FRANK (row 44, 1948 PROSECUTOR) was in mixed case; corrected to MCDONALD, FRANK (ALL CAPS per coding rules).
+## Additional Spot-Checks (Round 3)
 
-### Additional findings
+### 1948 cross-check and clipping re-read (113151_19481028.pdf) — ERRORS FOUND
+Re-read of county offices clipping revealed:
 
-- **Office codes:** All 47 records use valid standard codes (H, SENATOR, GOVERNOR, JUDGE, MAYOR, DA/PROSECUTOR, CNTY CLERK, STATE REP, AUDITOR, etc.). No corrections needed.
+**Name fix:**
+- SAUER, DELBERT → SAUER, ED — clipping clearly says "Ed Sauer, a democrat." "DELBERT" was a hallucinated extraction.
 
-- **Party labels:** All records use correct Title Case format (Democrat, Republican) or are empty. No corrections needed.
+**Missing records added (2):**
+- LYNN, HENRY (Republican, Probate Judge) — "We think his election would make a real contribution to elevating this bench"
+- OVIATT, CLYDE (Republican incumbent, County Treasurer) — "making a good county treasurer, one of the best... no good reason why he should be denied a second term"
 
-- **Endorsed field:** All 47 records have valid values (1=endorsed, 0=opposed). No corrections needed.
+**Not added (deliberate):**
+- Circuit Judge Youngblood: tepid quasi-endorsement ("He hasn't made a bad judge"), not a clear endorsement
+- Prosecutor (Williams R vs Crabtree D): no clear endorsement, paper was conflicted on both candidates
 
-- **Incumbency fields:** No conflicts detected. All d_inc/r_inc/o_inc values are properly set.
+### 1948 Cross-Paper Validation
+Both Courier and Press endorsed in the same three races: President (Dewey), H-8 (Mitchell), County Clerk (Sauer). All endorsement directions match. Name consistency confirmed for Dewey and Mitchell. Sauer appears as "SAUER, ED" (Courier) vs "SAUER, ED J." (Press) — same person, different name detail per the respective clippings.
 
-- **Near-duplicates:** Four records appeared to have duplicate year+office+candidate keys, but investigation revealed these are legitimate separate endorsements from different clippings, each with distinct notes and slightly different confidence scores:
-  - WILSON, WILLIAM E. (1922 H): Two endorsements from different articles
-  - DENTON, GEORGE K. (1924 JUDGE): Two endorsements from different articles
-  - BOEHNE, JOHN W. JR. (1928 H): Two endorsements from different articles
-  - MITCHELL, ED (1948 H): Two endorsements from different articles
+**Updated totals: 43 candidates (41 after round 2 deletions + 2 new from round 3). Round 3 spot-check: 1 name fix, 2 records added.**
 
-  These are correctly retained as separate records.
 
-## Stage 4: Low-Confidence Re-Scan
+---
 
-**Records reviewed:** 0 | **Confirmed correct:** 0 | **Corrected:** 0 | **Still uncertain:** 0
+## Gap-Fill Extraction (Round 4)
 
-All records meet the confidence threshold (>= 0.75). No low-confidence records required review.
+19 clippings spanning 1946-1956 existed in the clippings folder but had never been extracted into the CSV. These were read and extracted, adding 64 new candidate records.
 
-**Confidence score distribution:**
-- Minimum confidence: 0.75 (6 records in 0.75-0.80 range)
-- Maximum confidence: 0.95
-- Mean confidence: 0.87
-- 22 records at 0.90+ confidence
-- No records below 0.75
+### 1946 (3 clippings) — 7 records added
+- "We Favor Trying the Only Alternative!" — general Republican endorsement for federal offices
+- US House: MITCHELL, ED (R) endorsed, DENTON, WINFIELD (D) opposed
+- SENATOR: TOWNSEND, M. CLIFFORD (D) opposed
+- County offices: KELLNER (Recorder D), OVIATT (Treasurer R incumbent), HITCH (Surveyor R), MILLER (Prosecutor R incumbent)
 
-The low-confidence records (0.75-0.80 range) include:
-- Row 8 (1922 SENATOR BEVERIDGE, opposed) - 0.75
-- Row 19 (1928 STATE REP KNECHT, KARL) - 0.75
-- Row 27 (1934 MAYOR DREW, WILLIAM H.) - 0.80
-- Row 31 (1938 MAYOR DRESS, EVANSVILLE) - 0.78
-- Row 44 (1948 PROSECUTOR McDONALD, FRANK) - 0.75
-- Row 47 (1948 PRESIDENT TRUMAN, opposed) - 0.88
+### 1950 (6 clippings) — 11 records added
+- Individual endorsement editorials for OVIATT (Treasurer), MCDONALD (Sheriff), plus local candidates
+- Federal: MCVEY, HERMAN L. (R) for H-8, CAPEHART (R incumbent) for Senator
+- Opposed: DENTON (D) for H-8, CAMPBELL (D) for Senator
+- Out-of-state: VURSELL, CHARLIE (R) for IL H-24
 
-All of these records appear correct based on spot-check validation.
+### 1952 (6 clippings) — 7 records added
+- "The Question Is Simple!" — EISENHOWER endorsed for President, STEVENSON opposed
+- CRAIG, GEORGE (R) for Governor
+- "Clear Cut Cleavage Here" — MERRILL, D. BAILEY (R) for H-8, DENTON (D incumbent) opposed
+- "Sauer Has Done an Outstanding Job" — SAUER, ED (D incumbent) for County Clerk
+- "Only One Choice" — WEVER, PAUL (R) for Prosecutor
+- Notably: Courier explicitly did NOT endorse Senator Jenner (R)
 
-## Summary
+### 1954 (1 clipping) — 21 records added
+"The Courier Recommends:" — Clean, structured endorsement list on the front page. 21 candidates across H-8, Circuit Judge, Superior Judge, State Senator, State Reps (4), County Auditor, Recorder, Sheriff, Assessor, County Commissioners (2), County Council (4 district + 3 at-large). Mix of Republican and Democrat endorsements.
 
-The Evansville Courier endorsement dataset passed QA with excellent results:
+### 1956 (3 clippings) — 18 records added
+- "Handley for Governor" — HANDLEY (R) endorsed, TUCKER (D) opposed
+- "The County Candidates" — comprehensive county endorsements: Clerk, Treasurer, Probate Judge, Commissioners, State Senator, State Reps (4), Recorder, Coroner, Surveyor (all Republican)
+- "Vote Republican For Good Government" — election-day summary reaffirming EISENHOWER (President), CAPEHART (Senator), MERRILL (H-8), and full Republican ticket
 
-- **Structural validation:** 100% pass
-- **Spot-check accuracy:** 100% (6/6 records verified)
-- **Coding compliance:** 1 trivial auto-fix applied
-- **Duplicates:** 4 identified as legitimate multi-article endorsements, retained correctly
-- **Low-confidence records:** None below threshold; all above-threshold records verified
-
-The dataset is **production-ready** with no significant quality concerns. The single formatting fix (name capitalization) improves consistency but does not affect data integrity. All endorsements accurately reflect the source newspaper clippings.
+**Updated totals: 107 candidates (43 from original + 64 from gap-fill). Courier data now spans 1918-1956 (19 election years).**

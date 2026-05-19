@@ -1,0 +1,73 @@
+Newspaper Name: SFCHRONICLE
+Alternative Names: REVIEW
+Years Published: REVIEW
+Newspaper ID number: 104251
+Number of clippings: 82
+Endorsement data years: REVIEW
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 1535
+  Endorsed (=1): 1529
+  Opposed (=0): 3
+  No position (null): 3
+Total proposition records: 1066
+  Endorsed (=1): 631
+  Opposed (=0): 428
+
+--- DATA QUALITY ---
+Flagged for review: 1535 candidates, 10 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 38
+Duplicates removed: 3 candidates, 29 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.60
+Mean: 0.91
+Max: 0.95
+Below threshold (0.75): 10
+
+--- REVIEW QUEUE ---
+  [no_endorsements] 104251_19060422: No endorsements detected
+  [no_endorsements] 104251_19161106_2: No endorsements detected
+  [no_endorsements] 104251_19181103: No endorsements detected
+  [no_endorsements] 104251_19181104: No endorsements detected
+  [no_endorsements] 104251_19181104_2: No endorsements detected
+  [no_endorsements] 104251_19441106_2: No endorsements detected
+  [no_endorsements] 104251_19441106_3: No endorsements detected
+  [no_endorsements] 104251_19461104_2: No endorsements detected
+  [no_endorsements] 104251_19481101_2: No endorsements detected
+  [no_endorsements] 104251_19501106_2: No endorsements detected
+  [no_endorsements] 104251_19521103_2: No endorsements detected
+  [no_endorsements] 104251_19521103_3: No endorsements detected
+  [no_endorsements] 104251_19541101_2: No endorsements detected
+  [no_endorsements] 104251_19541101_3: No endorsements detected
+  [no_endorsements] 104251_19541101_4: No endorsements detected
+  [no_endorsements] 104251_19561105_2: No endorsements detected
+  [no_endorsements] 104251_19561105_3: No endorsements detected
+  [no_endorsements] 104251_19581103_2: No endorsements detected
+  [no_endorsements] 104251_19581103_3: No endorsements detected
+  [no_endorsements] 104251_19601107_2: No endorsements detected
+  [no_endorsements] 104251_19601107_3: No endorsements detected
+  [no_endorsements] 104251_19621105_2: No endorsements detected
+  [no_endorsements] 104251_19621105_3: No endorsements detected
+  [no_endorsements] 104251_19621105_4: No endorsements detected
+  [no_endorsements] 104251_19641102_2: No endorsements detected
+  [no_endorsements] 104251_19641102_3: No endorsements detected
+  [no_endorsements] 104251_19641102_4: No endorsements detected
+  [no_endorsements] 104251_19661107_2: No endorsements detected
+  [no_endorsements] 104251_19681105_2: No endorsements detected
+  [no_endorsements] 104251_19681105_3: No endorsements detected
+  [no_endorsements] 104251_19701102: No endorsements detected
+  [no_endorsements] 104251_19701103_dup: No endorsements detected
+  [no_endorsements] 104251_19701107: No endorsements detected
+  [no_endorsements] 104251_19721107_2: No endorsements detected
+  [no_endorsements] 104251_19741105_2: No endorsements detected
+  [no_endorsements] 104251_19761101: No endorsements detected
+  [no_endorsements] 104251_20201003: No endorsements detected
+  [no_endorsements] 104251_20201006: No endorsements detected
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-14 19:26:23

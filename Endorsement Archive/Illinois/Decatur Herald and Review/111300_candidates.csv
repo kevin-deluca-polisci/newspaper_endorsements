@@ -1,0 +1,348 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+IL,Decatur Herald and Review,111300,1960,PRESIDENT,,,IL,"NIXON, RICHARD M.",Republican,1,,,,1960 final ballot recap; editorial expressly recommends election of Richard Nixon as President,0.98
+IL,Decatur Herald and Review,111300,1960,VICE PRESIDENT,,,IL,"LODGE, HENRY CABOT",Republican,1,,,,Recommended alongside Nixon,0.98
+IL,Decatur Herald and Review,111300,1960,SENATOR,,IL,IL,"WITWER, SAMUEL W.",Republican,1,,,,Recommended over incumbent Sen. Paul Douglas (D),0.97
+IL,Decatur Herald and Review,111300,1960,GOVERNOR,,IL,IL,"STRATTON, WILLIAM G.",Republican,1,,1,,Incumbent governor recommended for re-election,0.97
+IL,Decatur Herald and Review,111300,1960,LT GOVERNOR,,IL,IL,"CHAPMAN, JOHN WILLIAM",Republican,1,,,,Marked on Republican column of marked-ballot recap,0.9
+IL,Decatur Herald and Review,111300,1960,SEC OF STATE,,IL,IL,"CARPENTIER, CHARLES F.",Republican,1,,,,Marked on Republican column,0.9
+IL,Decatur Herald and Review,111300,1960,AUDITOR,,IL,IL,"SMITH, ELBERT S.",Republican,1,,,,Auditor of Public Accounts; marked on Republican column,0.9
+IL,Decatur Herald and Review,111300,1960,ATTORNEY GENERAL,,IL,IL,"GUILD, WILLIAM L.",Republican,1,,,,Marked on Republican column,0.9
+IL,Decatur Herald and Review,111300,1960,TRUSTEE,,Univ of Illinois,IL,"PEAK, AUDREY REAVIS",Republican,1,,,,Trustee of the University of Illinois (vote for three); marked on Republican column,0.85
+IL,Decatur Herald and Review,111300,1960,TRUSTEE,,Univ of Illinois,IL,"LOVEJOY, C. E. ""ERNIE""",Republican,1,,,,Trustee of the University of Illinois (vote for three); marked on Republican column,0.85
+IL,Decatur Herald and Review,111300,1960,TRUSTEE,,Univ of Illinois,IL,"MATHEWS, THOMAS O.",Republican,1,,,,Trustee of the University of Illinois (vote for three); marked on Republican column,0.85
+IL,Decatur Herald and Review,111300,1960,H,22,IL,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,U.S. House 22nd District incumbent; marked on Republican column,0.92
+IL,Decatur Herald and Review,111300,1960,STATE SENATOR,28,IL,IL,"JOHNS, GEORGE P.",Republican,1,,,,State Senator 28th District; marked on Republican column,0.9
+IL,Decatur Herald and Review,111300,1960,STATE REP,47,IL,IL,"ROGERS, BARRETT F.",Republican,1,,,,"State Representative 47th District (vote for one, two or three); marked on Republican column",0.88
+IL,Decatur Herald and Review,111300,1960,STATE REP,47,IL,IL,"LANDHOLT, HILMER C.",Republican,1,,,,"State Representative 47th District (vote for one, two or three); marked on Republican column",0.88
+IL,Decatur Herald and Review,111300,1960,RECORDER,,Macon,IL,"MADDOX, WILLIAM H.",Republican,1,,,,"Recorder of Deeds, Macon County; marked on Republican column",0.88
+IL,Decatur Herald and Review,111300,1960,DA/PROSECUTOR,,Macon,IL,"PATTERSON, ROBERT N.",Republican,1,,,,State's Attorney; marked on Republican column,0.88
+IL,Decatur Herald and Review,111300,1960,CNTY CLERK,,Macon County Circuit Clerk,IL,"KELLEY, JAMES C.",Republican,1,,,,"Circuit Clerk; marked on Republican column [QA fix: was JUDGE, corrected to CNTY CLERK]",0.85
+IL,Decatur Herald and Review,111300,1960,CORONER,,Macon,IL,"THOMPSON, PHARES G.",Republican,1,,,,County Coroner; marked on Republican column,0.88
+IL,Decatur Herald and Review,111300,1960,AUDITOR,,Macon,IL,"NOVAK, HENRY M.",Republican,1,,,,County Auditor; marked on Republican column,0.85
+IL,Decatur Herald and Review,111300,1960,TREASURER,,Macon,IL,"CURRY, HENRY B.",Republican,1,,,,County Treasurer (unexpired term); marked on Republican column,0.85
+IL,Decatur Herald and Review,111300,1962,SENATOR,,IL,IL,"DIRKSEN, EVERETT M.",Republican,1,,1,,Editorial: 'Illinois should keep Everett Dirksen in the U.S. Senate'; opponent Rep. Sidney Yates (D) discouraged,0.98
+IL,Decatur Herald and Review,111300,1962,SENATOR,,IL,IL,"DIRKSEN, EVERETT MCKINLEY",Republican,1,,1,,1962 Sunday endorsement recap; 'Dirksen for U.S. Senate',0.98
+IL,Decatur Herald and Review,111300,1962,TREASURER,,IL,IL,"SCOTT, WILLIAM J.",Republican,1,,,,State Treasurer; marked on Republican column,0.85
+IL,Decatur Herald and Review,111300,1962,SUPERINTENDENT,,IL,IL,"WILKINS, GEORGE T.",Democrat,1,1,,,State Superintendent of Public Instruction; paper explicitly endorses Wilkins (D) over GOP Ray Page,0.95
+IL,Decatur Herald and Review,111300,1962,TRUSTEE,,Univ of Illinois,IL,"JOHNSTON, WAYNE A.",Republican,1,,,,Trustee of University of Illinois (vote for three); marked on Republican column,0.8
+IL,Decatur Herald and Review,111300,1962,TRUSTEE,,Univ of Illinois,IL,"SWAIN, TIMOTHY W.",Republican,1,,,,Trustee of University of Illinois (vote for three); marked on Republican column,0.8
+IL,Decatur Herald and Review,111300,1962,TRUSTEE,,Univ of Illinois,IL,"HUGHES, EARL M.",Republican,1,,,,Trustee of University of Illinois (vote for three); marked on Republican column,0.8
+IL,Decatur Herald and Review,111300,1962,JUDGE,3,IL App,IL,"CONN, ROBERT L.",Republican,1,,,,Clerk of the Appellate Court Third District; marked on Republican column,0.78
+IL,Decatur Herald and Review,111300,1962,H,22,IL,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,U.S. House 22nd District incumbent; marked on Republican column,0.92
+IL,Decatur Herald and Review,111300,1962,STATE REP,47,IL,IL,"JOHNS, GEORGE P.",Republican,1,,,,47th General Assembly District; paper says 'mark for the two Republican candidates',0.95
+IL,Decatur Herald and Review,111300,1962,STATE REP,47,IL,IL,"HARRIS, THOMAS M.",Republican,1,,,,47th General Assembly District; paper endorses both Johns and Harris,0.95
+IL,Decatur Herald and Review,111300,1962,JUDGE,,Macon,IL,"MORTHLAND, DONALD W.",Republican,1,,,,County Judge; marked on Republican column,0.85
+IL,Decatur Herald and Review,111300,1962,CNTY CLERK,,Macon,IL,"FOSTER, DARRELL",Republican,1,,1,,County Clerk; incumbent; marked on Republican column,0.9
+IL,Decatur Herald and Review,111300,1962,JUDGE,,Macon,IL,"STALEY, MILDRED",Republican,1,,,,Probate Clerk; editorial 'Staley for Probate Clerk' explicitly endorses her,0.95
+IL,Decatur Herald and Review,111300,1962,TREASURER,,Macon,IL,"WILCOX, ARTHUR B.",Republican,1,,,,County Treasurer; marked on Republican column,0.82
+IL,Decatur Herald and Review,111300,1962,SHERIFF,,Macon,IL,"DOYLE, RALPH J. ""RED""",Republican,1,,,,County Sheriff; marked on Republican column,0.85
+IL,Decatur Herald and Review,111300,1962,SUPERINTENDENT,,Macon,IL,"WOODWARD, WILLIAM R.",Republican,1,,1,,County Superintendent of Schools; editorial endorses Woodward for re-election,0.95
+IL,Decatur Herald and Review,111300,1966,SUPERINTENDENT,,Macon,IL,"BROWN, HOWARD E.",Republican,1,,1,,County Superintendent of Schools; editorial 'Brown Best Superintendent Choice'; incumbent (filed office for one year),0.95
+IL,Decatur Herald and Review,111300,1966,CNTY CLERK,,Macon,IL,"TANGNEY, WILLIAM M.",Democrat,1,1,,,County Clerk; editorial 'Tangney for County Clerk' recommends continuance in office,0.95
+IL,Decatur Herald and Review,111300,1966,TREASURER,,Macon,IL,"BROWN, GEORGE M.",Democrat,1,,,,County Treasurer; editorial 'Brown for County Treasurer'; chief deputy four years,0.95
+IL,Decatur Herald and Review,111300,1966,SHERIFF,,Macon,IL,"DOSTER, JAMES R. ""JIM""",Republican,1,,,,County Sheriff; editorial 'Doster for Sheriff' urges whole-hearted support,0.95
+IL,Decatur Herald and Review,111300,1966,STATE REP,52,IL,IL,"JOHNS, GEORGE P.",Republican,1,,,,New 52nd Representative District; paper endorses Republican Johns,0.85
+IL,Decatur Herald and Review,111300,1966,STATE REP,52,IL,IL,"TIPSWORD, A. WEBBER",Republican,1,,,,New 52nd Representative District; paper says Tipsword is the most qualified of the newcomers and recommends marking for him,0.85
+IL,Decatur Herald and Review,111300,1966,STATE SENATOR,,IL,IL,"MCCARTHY, ROBERT W.",Democrat,1,1,,,Decatur State Senator; paper says McCarthy has a decided edge in experience and knowledge of state law over GOP challenger; opposes Pillsbury Mine Stormy,0.88
+IL,Decatur Herald and Review,111300,1966,JUDGE,6,IL,IL,"WEBBER, ALBERT III",Republican,1,,,,Circuit Judge 6th Judicial Circuit; editorial 'Judicial Nod Goes to Webber'; opponent Basil G. Greanias (D),0.95
+IL,Decatur Herald and Review,111300,1966,STATE REP,48,IL,IL,"CLABAUGH, CHARLES",Republican,1,,1,,48th Illinois House District; incumbent; voters urged to cast ballots for any of four candidates except Pfeffer,0.9
+IL,Decatur Herald and Review,111300,1966,STATE REP,48,IL,IL,"DALE, EDWIN",Republican,1,,1,,48th Illinois House District; incumbent; voters urged to cast ballots for any of four candidates except Pfeffer,0.9
+IL,Decatur Herald and Review,111300,1966,STATE REP,48,IL,IL,"STONE, PAUL",Democrat,1,,,,48th Illinois House District; paper applauds Stone's emphasis on legislative ethics; Democrats urged to plump for Stone with all three votes,0.9
+IL,Decatur Herald and Review,111300,1966,STATE REP,48,IL,IL,"PFEFFER, LEO",Democrat,0,1,,,48th Illinois House District; editorial 'Voters Should Defeat Rep. Leo Pfeffer'; incumbent Seymour Democrat,0.97
+IL,Decatur Herald and Review,111300,1966,STATE SENATOR,,IL,IL,"ARRINGTON, W. RUSSELL",Republican,1,,1,,Editorial: 'We endorse the candidacy of Senate Republican Leader W. Russell Arrington of Evanston',0.95
+IL,Decatur Herald and Review,111300,1966,SUPERINTENDENT,,IL,IL,"PRINCE, DONALD",Democrat,1,,,,State Superintendent of Public Instruction; editorial 'Prince Merits Your Vote' re-endorses Dr. Prince over incumbent Republican Ray Page,0.97
+IL,Decatur Herald and Review,111300,1968,STATE REP,54,,IL,"JONES, LESLIE N.",Republican,1,,,,"54th District, multi-seat (3 seats); endorsed only Jones; previous one-term state rep",0.92
+IL,Decatur Herald and Review,111300,1970,SENATOR,,,IL,"STEVENSON, ADLAI III",Democrat,1,,,,U.S. Senator,0.97
+IL,Decatur Herald and Review,111300,1970,SUPREME COURT,1,1st District,IL,"SCHAEFER, WALTER V.",Nonpartisan,1,,,,Illinois Supreme Court retention,0.93
+IL,Decatur Herald and Review,111300,1970,SUPREME COURT,1,1st District,IL,"KACZYNSKI, THOMAS E.",Nonpartisan,1,,,,Illinois Supreme Court retention,0.92
+IL,Decatur Herald and Review,111300,1970,SUPREME COURT,2,2nd District,IL,"DAVIS, CHARLES",Nonpartisan,1,,,,"Illinois Supreme Court, former Justice",0.9
+IL,Decatur Herald and Review,111300,1970,SUPREME COURT,3,3rd District,IL,"RYAN, HOWARD",Nonpartisan,1,,,,Illinois Supreme Court 3rd District,0.92
+IL,Decatur Herald and Review,111300,1970,SUPREME COURT,4,4th District,IL,"UNDERWOOD, ROBERT C.",Nonpartisan,1,,,,"Chief Justice, Illinois Supreme Court retention",0.93
+IL,Decatur Herald and Review,111300,1970,SUPREME COURT,5,5th District,IL,"CLARK, HOWARD R.",Nonpartisan,1,,,,Illinois Supreme Court 5th District,0.9
+IL,Decatur Herald and Review,111300,1970,SUPREME COURT,5,5th District,IL,"GOLDENHERSH, JOSEPH H.",Nonpartisan,1,,,,Illinois Supreme Court 5th District,0.9
+IL,Decatur Herald and Review,111300,1970,TREASURER,,,IL,"DIXON, ALAN J.",Democrat,1,,,,Illinois State Treasurer,0.96
+IL,Decatur Herald and Review,111300,1970,TRUSTEE,,University of Illinois,IL,"WALKER, EARL EDWIN",Republican,1,,1,,"Full term U of I trustee, Republican appointed by Gov. Ogilvie",0.92
+IL,Decatur Herald and Review,111300,1970,TRUSTEE,,University of Illinois,IL,"HOWARD, GEORGE",Democrat,1,,,,Full term U of I trustee,0.85
+IL,Decatur Herald and Review,111300,1970,TRUSTEE,,University of Illinois,IL,"NEAL, EARL L.",Democrat,1,,,,Full term U of I trustee,0.93
+IL,Decatur Herald and Review,111300,1970,TRUSTEE,,University of Illinois,IL,"POGUE, ROGER B.",Democrat,1,,,,Two-year term U of I trustee,0.94
+IL,Decatur Herald and Review,111300,1970,H,22,22nd Congressional District,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,"U.S. Representative, 22nd District, incumbent",0.96
+IL,Decatur Herald and Review,111300,1970,STATE SENATOR,50,50th Senatorial District,IL,"MCCARTHY, ROBERT W.",Democrat,1,1,,,50th Senate District; incumbent state senator,0.95
+IL,Decatur Herald and Review,111300,1970,STATE REP,52,52nd Representative District,IL,"TIPSWORD, ROLLAND W.",Democrat,1,1,,,"Incumbent; editorial only endorses Tipsword, not Alsup or Borchers",0.94
+IL,Decatur Herald and Review,111300,1970,CNTY CLERK,,Macon County,IL,"TANGNEY, WILLIAM",Democrat,1,1,,,"Macon County clerk, incumbent",0.95
+IL,Decatur Herald and Review,111300,1970,SUPERINTENDENT,,Educational Service Region,IL,"BROWN, HOWARD",Republican,1,,,,Education service region superintendent,0.9
+IL,Decatur Herald and Review,111300,1970,TREASURER,,Macon County,IL,"CURRY, HENRY S.",Republican,1,,,,Macon County treasurer; current chief deputy,0.94
+IL,Decatur Herald and Review,111300,1970,SHERIFF,,Macon County,IL,"MADDOX, WILLIAM H.",Republican,1,,,,Macon County sheriff; previously county treasurer,0.94
+IL,Decatur Herald and Review,111300,1970,JUDGE,6,Sixth Judicial Circuit,IL,"MORGAN, B. E.",Nonpartisan,1,,,,Judicial retention,0.88
+IL,Decatur Herald and Review,111300,1970,JUDGE,6,Sixth Judicial Circuit,IL,"SCOTT, RODNEY A.",Nonpartisan,1,,,,Judicial retention,0.88
+IL,Decatur Herald and Review,111300,1970,JUDGE,6,Sixth Judicial Circuit,IL,"GREEN, FREDERICK S.",Nonpartisan,1,,,,Judicial retention,0.88
+IL,Decatur Herald and Review,111300,1970,JUDGE,6,Sixth Judicial Circuit,IL,"WEBBER, A. G. III",Nonpartisan,1,,,,Judicial retention,0.86
+IL,Decatur Herald and Review,111300,1970,H,23,23rd Congressional District,IL,"SHIPLEY, GEORGE E.",Democrat,1,1,,,"U.S. House, 23rd District, incumbent ending 12th year; opposed by Phyllis Schlafly (R)",0.96
+IL,Decatur Herald and Review,111300,1970,STATE SENATOR,47,47th Senate District,IL,"WEAVER, STANLEY",Republican,1,,,,Mayor of Urbana; first-term state rep; opposed by John McHale (D),0.94
+IL,Decatur Herald and Review,111300,1970,STATE SENATOR,44,44th Senate District,IL,"MERRITT, TOM",Republican,1,1,1,,Incumbent; completing second term; opposed by Davis S. Palmer (D),0.93
+IL,Decatur Herald and Review,111300,1970,STATE SENATOR,51,51st Senate District,IL,"DONNEWALD, JAMES H.",Democrat,1,1,,,51st Senate District incumbent; opposed by Orval W. Hittmeier (R),0.94
+IL,Decatur Herald and Review,111300,1970,STATE SENATOR,55,55th Senate District,IL,"BRUCE, TERRY L.",Democrat,1,,,,Replacing retiring Sen. Paul Broyles; opposed by George W. Woodcock (R),0.93
+IL,Decatur Herald and Review,111300,1970,STATE REP,48,48th House District,IL,"STONE, PAUL",Democrat,1,1,,,"Incumbent Democrat from Sullivan, third term",0.94
+IL,Decatur Herald and Review,111300,1970,STATE REP,48,48th House District,IL,"CLABAUGH, CHARLES W.",Republican,1,,1,,"Incumbent Republican from Champaign, 32 years in legislature",0.94
+IL,Decatur Herald and Review,111300,1970,STATE REP,48,48th House District,IL,"HIRSCHFELD, JOHN C.",Republican,1,,,,"Champaign attorney, newcomer to seat vacated by Stanley Weaver",0.92
+IL,Decatur Herald and Review,111300,1970,STATE REP,49,49th House District,IL,"COX, WILLIAM D.",Republican,1,1,1,,Incumbent from Charleston; only one of three incumbents in 49th endorsed (passing over Craig-D and Campbell-R),0.88
+IL,Decatur Herald and Review,111300,1970,STATE REP,54,54th House District,IL,"JONES, LESLIE",Republican,1,,1,,Incumbent of Flora; first elected 1964,0.92
+IL,Decatur Herald and Review,111300,1970,STATE REP,54,54th House District,IL,"KELLER, CHARLES F.",Democrat,1,1,,,Incumbent of Effingham; completing first term,0.92
+IL,Decatur Herald and Review,111300,1970,STATE REP,54,54th House District,IL,"CUNNINGHAM, ROSCOE D.",Republican,1,,,,Republican; state's attorney of Lawrence County,0.9
+IL,Decatur Herald and Review,111300,1970,STATE REP,53,53rd House District,IL,"HARPSTRITE, BEN C.",Republican,1,1,1,,"Incumbent Republican, farmer and insurance agent",0.93
+IL,Decatur Herald and Review,111300,1970,STATE REP,53,53rd House District,IL,"BOYLE, KENNETH R.",Democrat,1,,,,"Carlinville attorney, former asst. attorney general",0.9
+IL,Decatur Herald and Review,111300,1970,STATE REP,53,53rd House District,IL,"JENKINS, WILLIAM H.",Democrat,1,,,,"Deputy circuit clerk, former deputy sheriff",0.9
+IL,Decatur Herald and Review,111300,1972,SENATOR,,,IL,"PERCY, CHARLES H.",Republican,1,,1,,"U.S. Senator, incumbent seeking second term; opposed by Rep. Roman Pucinski (D)",0.96
+IL,Decatur Herald and Review,111300,1972,STATE SENATOR,51,51st District,IL,"RABER, LOIS",Republican,1,,,,Republican challenger; opposed to incumbent Sen. Robert McCarthy (D),0.93
+IL,Decatur Herald and Review,111300,1972,H,22,22nd Congressional District,IL,"SHIPLEY, GEORGE E.",Democrat,1,1,,,Incumbent (14 years); opposed by Robert B. Lamkin (R) and Cleo Duzan (I),0.94
+IL,Decatur Herald and Review,111300,1972,STATE REP,51,51st District,IL,"TIPSWORD, ROLLAND",Democrat,1,1,,,Incumbent; one of two endorsed for three seats,0.94
+IL,Decatur Herald and Review,111300,1972,STATE REP,51,51st District,IL,"DAVISON, JEFFREY",Republican,1,,,,Republican newcomer; one of two endorsed for three seats; Borchers and Alsup explicitly NOT endorsed,0.93
+IL,Decatur Herald and Review,111300,1972,STATE SENATOR,44,44th District,IL,"HALL, HARBER H.",Republican,1,,,,Three-term representative running for state senate; opposed by Robert J. Lenz (D),0.92
+IL,Decatur Herald and Review,111300,1972,STATE REP,44,44th District,IL,"LAUER, JOHN R.",Republican,1,,,,Republican; opposed by Democrats Gerald A. Bradley and Toni L. Adams,0.9
+IL,Decatur Herald and Review,111300,1972,STATE REP,44,44th District,IL,"DEAVERS, GILBERT L.",Republican,1,,,,Republican,0.9
+IL,Decatur Herald and Review,111300,1972,STATE SENATOR,52,52nd District,IL,"PISCIOTTE, JOSEPH",Democrat,1,,,,Democrat political scientist; opposed to incumbent Sen. Stanley B. Weaver (R),0.9
+IL,Decatur Herald and Review,111300,1972,STATE REP,52,52nd District,IL,"HIRSCHFELD, JOHN C.",Republican,1,1,1,,Incumbent Republican,0.92
+IL,Decatur Herald and Review,111300,1972,STATE REP,52,52nd District,IL,"SATTERTHWAITE, HELEN",Democrat,1,,,,Democrat; familiar with University as nonacademic employee,0.9
+IL,Decatur Herald and Review,111300,1972,STATE SENATOR,53,53rd District,IL,"MERRITT, TOM",Republican,1,1,1,,"Incumbent; opposed by Herbert Hales (D), last-minute substitute",0.93
+IL,Decatur Herald and Review,111300,1972,STATE REP,53,53rd District,IL,"CAMPBELL, CHARLES M.",Republican,1,,1,,Incumbent Republican,0.92
+IL,Decatur Herald and Review,111300,1972,STATE REP,53,53rd District,IL,"CRAIG, ROBERT",Democrat,1,1,,,Incumbent Democrat,0.92
+IL,Decatur Herald and Review,111300,1972,STATE SENATOR,54,54th District,IL,"BRUCE, TERRY L.",Democrat,1,1,,,Incumbent Democrat; opposed by Henry C. Hendren Jr. (R),0.93
+IL,Decatur Herald and Review,111300,1972,STATE REP,54,54th District,IL,"KELLER, CHARLES F.",Democrat,1,1,,,Incumbent Democrat,0.92
+IL,Decatur Herald and Review,111300,1972,STATE SENATOR,55,55th District,IL,"DONNEWALD, JAMES H.",Democrat,1,1,,,Incumbent Democrat; assistant Majority leader; opposed by Kathleen O'Dell (R),0.93
+IL,Decatur Herald and Review,111300,1972,STATE REP,55,55th District,IL,"HARPSTRITE, BEN C.",Republican,1,1,1,,Incumbent Republican,0.92
+IL,Decatur Herald and Review,111300,1972,STATE REP,55,55th District,IL,"BRUMMET, VON",Democrat,1,1,,,Incumbent Democrat,0.9
+IL,Decatur Herald and Review,111300,1972,STATE REP,55,55th District,IL,"STEDELIN, HAROLD D.",Democrat,1,1,,,Incumbent Democrat,0.9
+IL,Decatur Herald and Review,111300,1972,PRESIDENT,,,IL,"NIXON, RICHARD M.",Republican,1,,1,,"President (incumbent); checkbox marked for Nixon, not McGovern",0.95
+IL,Decatur Herald and Review,111300,1972,VICE PRESIDENT,,,IL,"AGNEW, SPIRO T.",Republican,1,,1,,Vice President (incumbent),0.94
+IL,Decatur Herald and Review,111300,1972,GOVERNOR,,,IL,"OGILVIE, RICHARD B.",Republican,1,,1,,Governor (incumbent); not Walker,0.94
+IL,Decatur Herald and Review,111300,1972,LT GOVERNOR,,,IL,"NOWLAN, JAMES",Republican,1,,,,Lieutenant Governor,0.93
+IL,Decatur Herald and Review,111300,1972,ATTORNEY GENERAL,,,IL,"SCOTT, WILLIAM J.",Republican,1,,,,Attorney General,0.94
+IL,Decatur Herald and Review,111300,1972,SEC OF STATE,,,IL,"HOWLETT, MICHAEL",Democrat,1,,,,Secretary of State,0.93
+IL,Decatur Herald and Review,111300,1972,COMPTROLLER,,,IL,"LINDBERG, GEORGE",Republican,1,,,,State Comptroller,0.93
+IL,Decatur Herald and Review,111300,1972,TRUSTEE,,University of Illinois,IL,"POGUE, ROGER B.",Democrat,1,,,,U of I Trustee,0.9
+IL,Decatur Herald and Review,111300,1972,TRUSTEE,,University of Illinois,IL,"RADER, JANE H.",Republican,1,,,,U of I Trustee,0.88
+IL,Decatur Herald and Review,111300,1972,TRUSTEE,,University of Illinois,IL,"LIVINGSTON, PARK",Republican,1,,,,U of I Trustee,0.88
+IL,Decatur Herald and Review,111300,1972,H,21,21st Congressional District,IL,"MADIGAN, EDWARD R.",Republican,1,,,,"U.S. Representative, 21st District",0.95
+IL,Decatur Herald and Review,111300,1972,STATE SENATOR,51,51st District,IL,"RABER, LOIS R.",Republican,1,,,,"State Senator, 51st District",0.93
+IL,Decatur Herald and Review,111300,1972,STATE REP,51,51st District,IL,"TIPSWORD, ROLLAND F.",Democrat,1,1,,,"State Rep, 51st District",0.94
+IL,Decatur Herald and Review,111300,1972,STATE REP,51,51st District,IL,"DAVISON, JEFFREY K.",Republican,1,,,,"State Rep, 51st District",0.93
+IL,Decatur Herald and Review,111300,1972,RECORDER,,Macon County,IL,"MORTHLAND, ELMORE E.",Republican,1,,,,Recorder of Deeds,0.9
+IL,Decatur Herald and Review,111300,1974,STATE REP,51,51st District,IL,"TIPSWORD, ROLLAND",Democrat,1,1,,,"Incumbent Democrat; for re-election (3 seats, only 2 endorsed)",0.95
+IL,Decatur Herald and Review,111300,1974,STATE REP,51,51st District,IL,"DUNN, JOHN",Democrat,1,,,,Decatur City Councilman; Democrat,0.93
+IL,Decatur Herald and Review,111300,1974,TREASURER,,Macon County,IL,"MEARA, FRANK A.",Democrat,1,1,,,Incumbent county treasurer; opposed by Roy Austin (R),0.94
+IL,Decatur Herald and Review,111300,1974,SHERIFF,,Macon County,IL,"PARK, KEN",Republican,1,,,,Republican; opposed to incumbent Sheriff Ray Rex (D),0.94
+IL,Decatur Herald and Review,111300,1974,TRUSTEE,,University of Illinois,IL,"VELASQUEZ, ARTHUR",Democrat,1,,,,Democrat; Chicago candidate without U of I degree,0.93
+IL,Decatur Herald and Review,111300,1974,TRUSTEE,,University of Illinois,IL,"LENZ, ROBERT",Democrat,1,,,,Democrat; Bloomington attorney,0.93
+IL,Decatur Herald and Review,111300,1974,TRUSTEE,,University of Illinois,IL,"STEGER, RUSSELL",Republican,1,1,1,,Republican; incumbent U of I board member seeking re-election,0.93
+IL,Decatur Herald and Review,111300,1974,STATE REP,44,"44th District (Logan, DeWitt, Piatt, McLean, Woodford)",IL,"LAUER, JOHN R.",Republican,1,1,1,,Incumbent Republican,0.92
+IL,Decatur Herald and Review,111300,1974,STATE REP,44,44th District,IL,"BRADLEY, GERALD A.",Democrat,1,1,,,Incumbent Democrat,0.92
+IL,Decatur Herald and Review,111300,1974,STATE REP,50,"50th District (Montgomery, Sangamon)",IL,"KANE, DOUGLAS",Democrat,1,,,,Democrat,0.9
+IL,Decatur Herald and Review,111300,1974,STATE REP,50,50th District,IL,"JONES, J. DAVID",Republican,1,1,1,,Incumbent Republican,0.9
+IL,Decatur Herald and Review,111300,1974,STATE REP,52,"52nd District (Moultrie, Douglas, Champaign)",IL,"HIRSCHFELD, JOHN C.",Republican,1,1,1,,Incumbent Republican,0.92
+IL,Decatur Herald and Review,111300,1974,STATE REP,52,52nd District,IL,"SATTERTHWAITE, HELEN F.",Democrat,1,,,,Democrat,0.9
+IL,Decatur Herald and Review,111300,1974,STATE SENATOR,52,52nd District,IL,"WEAVER, STANLEY B.",Republican,1,,1,,Incumbent state senator,0.9
+IL,Decatur Herald and Review,111300,1974,STATE REP,53,"53rd District (Coles, Clark, Edgar, Vermilion, parts of Champaign and Crawford)",IL,"CAMPBELL, CHARLES M.",Republican,1,1,1,,Incumbent Republican,0.91
+IL,Decatur Herald and Review,111300,1974,STATE REP,53,53rd District,IL,"COFFEY, MAX E.",Republican,1,,,,Republican with county government experience,0.9
+IL,Decatur Herald and Review,111300,1974,STATE REP,54,"54th District (Effingham, Clay, Wayne, Jasper, Lawrence, Richland, Wabash, Hamilton and parts of Jefferson, Cumberland, Crawford, White)",IL,"KELLER, CHARLES F.",Democrat,1,1,,,Incumbent Democrat,0.91
+IL,Decatur Herald and Review,111300,1974,STATE REP,54,54th District,IL,"CUNNINGHAM, ROSCOE D.",Republican,1,,1,,Incumbent Republican,0.91
+IL,Decatur Herald and Review,111300,1974,STATE REP,55,"55th District (Fayette, Bond, Marion and Clinton, and parts of Jefferson, Washington, St. Clair and Madison)",IL,"BRUMMET, VON F.",Democrat,1,1,,,Incumbent Democrat; one of better legislators in Southern Illinois,0.9
+IL,Decatur Herald and Review,111300,1974,STATE SENATOR,55,55th District,IL,"DONNEWALD, JAMES",Democrat,1,1,,,Incumbent Democrat with 14 years experience,0.92
+IL,Decatur Herald and Review,111300,1974,COURT OF APPEALS,4,Fourth District,IL,"TRAPP, HAROLD F.",Nonpartisan,1,1,,,Fourth District appellate judge retention; first elected 1964 as Democrat; needs three-fifths yes vote,0.93
+IL,Decatur Herald and Review,111300,1974,SENATOR,,,IL,"STEVENSON, ADLAI E. III",Democrat,1,1,,,"U.S. Senator, six-year term",0.96
+IL,Decatur Herald and Review,111300,1974,TREASURER,,,IL,"DIXON, ALAN",Democrat,1,1,,,"Illinois State Treasurer, incumbent",0.95
+IL,Decatur Herald and Review,111300,1974,H,21,21st Congressional District,IL,"MADIGAN, EDWARD R.",Republican,1,,1,,"U.S. House, 21st District; sample ballot checkbox marked",0.93
+IL,Decatur Herald and Review,111300,1974,STATE REP,51,51st District,IL,"TIPSWORD, ROLLAND F.",Democrat,1,1,,,Sample ballot checkbox marked,0.94
+IL,Decatur Herald and Review,111300,1974,STATE REP,51,51st District,IL,"DUNN, JOHN F.",Democrat,1,,,,Sample ballot checkbox marked,0.93
+IL,Decatur Herald and Review,111300,1976,GOVERNOR,,,IL,"THOMPSON, JAMES R.",Republican,1,,,,Thompson endorsed over Howlett; editorial 'Thompson Supported for Governor',0.98
+IL,Decatur Herald and Review,111300,1976,GOVERNOR,,,IL,"HOWLETT, MICHAEL J.",Democrat,0,,,,Opposed in favor of Thompson,0.95
+IL,Decatur Herald and Review,111300,1976,CNTY COMM,1,Macon County District 1,IL,"DUNN, RICHARD",Democrat,1,,,,Macon County Board District 1 (vote for 2),0.97
+IL,Decatur Herald and Review,111300,1976,CNTY COMM,1,Macon County District 1,IL,"GOERS, HERBERT G.",Republican,1,,,,Macon County Board District 1 (vote for 2),0.97
+IL,Decatur Herald and Review,111300,1976,CNTY COMM,2,Macon County District 2 (2-yr term),IL,"PIERCE, M. D.",Democrat,1,,,,"Macon County Board District 2, 2-year term",0.95
+IL,Decatur Herald and Review,111300,1976,CNTY COMM,3,Macon County District 3,IL,"STANDERFER, JACK M.",Democrat,1,,,,Macon County Board District 3 (vote for 2); only 1 endorsed,0.95
+IL,Decatur Herald and Review,111300,1976,CNTY COMM,4,Macon County District 4,IL,"STIELY, GORDON E.",Republican,1,,,,Macon County Board District 4 (vote for 2),0.95
+IL,Decatur Herald and Review,111300,1976,CNTY COMM,4,Macon County District 4,IL,"SAPPINGTON, W. A. (ART)",Republican,1,,,,Macon County Board District 4 (vote for 2),0.95
+IL,Decatur Herald and Review,111300,1976,CNTY COMM,6,Macon County District 6,IL,"DOSTER, JIM",Republican,1,,,,Macon County Board District 6,0.95
+IL,Decatur Herald and Review,111300,1976,CNTY COMM,7,Macon County District 7,IL,"WAINSCOTT, R. DOUGLAS",Democrat,1,,,,Macon County Board District 7; incumbent retained despite favorable view of Republican Doris Bowers,0.9
+IL,Decatur Herald and Review,111300,1976,CNTY COMM,8,Macon County District 8,IL,"DOYLE, MAURICE",Democrat,1,,,,Macon County Board District 8 (vote for 2); only 1 endorsed,0.95
+IL,Decatur Herald and Review,111300,1976,TRUSTEE,,University of Illinois Board of Trustees,IL,"NEAL, EARL L.",Democrat,1,1,,,U of I Board of Trustees president; incumbent seeking re-election,0.98
+IL,Decatur Herald and Review,111300,1976,TRUSTEE,,University of Illinois Board of Trustees,IL,"FORSYTH, WILLIAM D. JR.",Democrat,1,1,,,U of I Board of Trustees incumbent,0.98
+IL,Decatur Herald and Review,111300,1976,TRUSTEE,,University of Illinois Board of Trustees,IL,"HOWARD, GEORGE W. III",Democrat,1,1,,,U of I Board of Trustees incumbent,0.98
+IL,Decatur Herald and Review,111300,1976,PRESIDENT,,,IL,"CARTER, JIMMY",Democrat,1,,,,Marked on sample ballot summary,0.9
+IL,Decatur Herald and Review,111300,1976,VICE PRESIDENT,,,IL,"MONDALE, WALTER",Democrat,1,,,,Carter/Mondale ticket marked on sample ballot,0.9
+IL,Decatur Herald and Review,111300,1976,LT GOVERNOR,,,IL,"O'NEAL, DAVE",Republican,1,,,,Marked on sample ballot (Republican column),0.85
+IL,Decatur Herald and Review,111300,1976,ATTORNEY GENERAL,,,IL,"SCOTT, WILLIAM J.",Republican,1,1,1,,Marked on sample ballot,0.88
+IL,Decatur Herald and Review,111300,1976,SEC OF STATE,,,IL,"DIXON, ALAN J.",Democrat,1,,,,Marked on sample ballot,0.85
+IL,Decatur Herald and Review,111300,1976,COMPTROLLER,,,IL,"LINDBERG, GEORGE",Republican,1,,,,Marked on sample ballot (Republican column),0.85
+IL,Decatur Herald and Review,111300,1976,H,21,21st Congressional District,IL,"MADIGAN, EDWARD R.",Republican,1,,1,,Marked on sample ballot,0.88
+IL,Decatur Herald and Review,111300,1976,H,22,22nd Congressional District,IL,"SHIPLEY, GEORGE E.",Democrat,1,1,,,Marked on sample ballot,0.88
+IL,Decatur Herald and Review,111300,1976,STATE SENATOR,51,51st State Senate District,IL,"MCCARTHY, ROBERT W.",Democrat,1,,,,Marked on sample ballot,0.85
+IL,Decatur Herald and Review,111300,1976,STATE REP,51,51st State Rep District,IL,"TIPSWORD, ROLLAND F.",Democrat,1,,,,"Marked on sample ballot (vote for one, two, or three)",0.88
+IL,Decatur Herald and Review,111300,1976,STATE REP,51,51st State Rep District,IL,"DUNN, JOHN F.",Democrat,1,,,,"Marked on sample ballot (vote for one, two, or three)",0.88
+IL,Decatur Herald and Review,111300,1976,STATE REP,51,51st State Rep District,IL,"BENNETT, ALLEN F.",Republican,1,,,,"Marked on sample ballot (vote for one, two, or three) - cumulative voting",0.75
+IL,Decatur Herald and Review,111300,1976,RECORDER,,Macon County,IL,"TANGNEY, E. J. ""ED"" JR.",Democrat,1,,,,Macon County Recorder of Deeds; marked on sample ballot,0.88
+IL,Decatur Herald and Review,111300,1976,DA/PROSECUTOR,,Macon County State's Attorney,IL,"GREANIAS, BASIL G.",Democrat,1,,,,Marked on sample ballot,0.88
+IL,Decatur Herald and Review,111300,1976,CORONER,,Macon County,IL,"MORRISON, JOHN K.",Democrat,1,,,,Marked on sample ballot,0.88
+IL,Decatur Herald and Review,111300,1976,AUDITOR,,Macon County,IL,"FERRE, RICHARD D.",Democrat,1,,,,Marked on sample ballot,0.88
+IL,Decatur Herald and Review,111300,1976,SHERIFF,,Macon County,IL,"PARK, KEN",Republican,1,,,,Marked on sample ballot (Republican column),0.85
+IL,Decatur Herald and Review,111300,1976,COURT OF APPEALS,4,4th Judicial District Appellate Court,IL,"WRIGHT, PAUL M.",Democrat,1,,,,Marked on sample ballot,0.8
+IL,Decatur Herald and Review,111300,1976,JUDGE,6,Sixth Judicial Circuit,IL,"KELLER, HENRY R.",Republican,1,,,,Marked on sample ballot (Republican column for Circuit Court Judge),0.78
+IL,Decatur Herald and Review,111300,1980,PRESIDENT,,,IL,"REAGAN, RONALD",Republican,1,,,,Editorial 'Time for a new manager - Reagan',0.98
+IL,Decatur Herald and Review,111300,1980,PRESIDENT,,,IL,"CARTER, JIMMY",Democrat,0,1,,,Opposed; paper endorsed him in 1976 but says 'promise isn't good enough',0.97
+IL,Decatur Herald and Review,111300,1980,SENATOR,,U.S. Senate Illinois,IL,"DIXON, ALAN J.",Democrat,1,,,,"'wealth of experience and background in state government, Alan Dixon deserves election to the U.S. Senate'",0.98
+IL,Decatur Herald and Review,111300,1980,SENATOR,,U.S. Senate Illinois,IL,"O'NEAL, DAVE",Republican,0,,,,Opposed in favor of Dixon,0.92
+IL,Decatur Herald and Review,111300,1980,H,21,21st Congressional District,IL,"MADIGAN, EDWARD R.",Republican,1,,1,,'Edward Madigan deserves re-election to the U.S. House from the 21st District',0.98
+IL,Decatur Herald and Review,111300,1980,H,21,21st Congressional District,IL,SEVERNS,Democrat,0,,,,Opposed in favor of Madigan,0.88
+IL,Decatur Herald and Review,111300,1980,H,22,22nd Congressional District,IL,"VOELZ, PETER",Democrat,1,,,,'Peter Voelz offers a more moderate course and is better able to represent 22nd District constituents than incumbent Daniel Crane',0.97
+IL,Decatur Herald and Review,111300,1980,H,22,22nd Congressional District,IL,"CRANE, DANIEL",Republican,0,,1,,Incumbent opposed in favor of Voelz,0.95
+IL,Decatur Herald and Review,111300,1980,STATE SENATOR,51,51st Illinois Senate District,IL,"RUPP, JAMES H.",Republican,1,,1,,"'Sen. James H. Rupp should broaden his own interests... but, on balance, he is the better candidate'",0.95
+IL,Decatur Herald and Review,111300,1980,STATE SENATOR,51,51st Illinois Senate District,IL,DAVISON,Democrat,0,,,,Opposed in favor of Rupp,0.88
+IL,Decatur Herald and Review,111300,1980,STATE REP,51,51st Illinois House District,IL,"DUNN, JOHN",Democrat,1,1,,,'Incumbent John Dunn quietly has become one of Central Illinois' best representatives in Springfield',0.97
+IL,Decatur Herald and Review,111300,1980,STATE REP,51,51st Illinois House District,IL,"DONOVAN, B. T. ""TIM""",Democrat,1,,,,"'B.T. ""Tim"" Donovan did some good work as a rookie and deserves re-election'",0.95
+IL,Decatur Herald and Review,111300,1980,STATE REP,51,51st Illinois House District,IL,"BORCHERS, WEBBER",Republican,1,,1,,"'Incumbent Webber Borchers, in spite of his shortcomings, has been effective enough to deserve another term' (vote for 3, cumulative)",0.95
+IL,Decatur Herald and Review,111300,1980,STATE REP,51,51st Illinois House District,IL,TATE,Republican,0,,,,"Listed on 1980 Illinois House 51st District ballot but explicitly NOT endorsed (Donovan, Dunn, Borchers marked; Tate empty)",0.95
+IL,Decatur Herald and Review,111300,1980,JUDGE,,Macon County Circuit Judge,IL,"DAVIS, JOHN L.",Nonpartisan,1,,,,'John L. Davis has more experience and appears ready to move up from associate judge',0.95
+IL,Decatur Herald and Review,111300,1980,AUDITOR,,Macon County,IL,"FERRE, RICHARD",,1,1,,,"'Richard Ferre, auditor for 16 years, has a true understanding of the job'",0.97
+IL,Decatur Herald and Review,111300,1980,CNTY CLERK,,Macon County Circuit Clerk,IL,"WHITEMAN, VAUGHN",,1,,,,'Vaughn Whiteman knows what needs to be done... should be elected to succeed John Curry as Circuit Clerk',0.95
+IL,Decatur Herald and Review,111300,1980,CORONER,,Macon County,IL,"HAUSE, WELLAND",,1,,,,'we're choosing Dr. Welland Hause. His medical and other experience gives him the edge',0.95
+IL,Decatur Herald and Review,111300,1980,RECORDER,,Macon County Recorder of Deeds,IL,"TANGNEY, EDWIN J.",,1,1,,,'Incumbent Edwin J. Tangney has done an adequate job... Tangney should be re-elected',0.95
+IL,Decatur Herald and Review,111300,1980,DA/PROSECUTOR,,Macon County State's Attorney,IL,"WRIGLEY, ROBERT",,1,,,,'Robert Wrigley is a first-rate trial lawyer... deserves a chance to show what he can do',0.95
+IL,Decatur Herald and Review,111300,1982,GOVERNOR,,,IL,"THOMPSON, JAMES R.",Republican,1,,1,,'Thompson fits the times' - retain governorship despite lacking Stevenson's vision,0.98
+IL,Decatur Herald and Review,111300,1982,GOVERNOR,,,IL,"STEVENSON, ADLAI E. III",Democrat,0,,,,Opposed; failure to communicate vision,0.95
+IL,Decatur Herald and Review,111300,1982,H,18,18th Congressional District,IL,"MICHEL, ROBERT H.",Republican,1,,1,,"'Keep Findley and Michel' - House Republican leader, considerable influence",0.98
+IL,Decatur Herald and Review,111300,1982,H,18,18th Congressional District,IL,"STEPHENS, DOUGLAS",Democrat,0,,,,"Peoria attorney, opposed in favor of Michel",0.9
+IL,Decatur Herald and Review,111300,1982,H,20,20th Congressional District,IL,"FINDLEY, PAUL",Republican,1,,1,,"Senior congressman, considerable influence",0.98
+IL,Decatur Herald and Review,111300,1982,H,20,20th Congressional District,IL,"DURBIN, RICHARD J.",Democrat,0,,,,Springfield attorney; 'strong candidate' but Findley retained for short-term influence,0.9
+IL,Decatur Herald and Review,111300,1982,H,18,18th Congressional District,IL,"MICHEL, ROBERT",Republican,1,,1,,Recap: 'Keep Republican Reps. Paul Findley and Robert Michel in the Congress',0.98
+IL,Decatur Herald and Review,111300,1984,PRESIDENT,,,IL,"REAGAN, RONALD",Republican,1,,1,,Listed in 'Our endorsements',0.98
+IL,Decatur Herald and Review,111300,1984,SENATOR,,U.S. Senate Illinois,IL,"PERCY, CHARLES H.",Republican,1,,1,,Incumbent endorsed,0.98
+IL,Decatur Herald and Review,111300,1984,H,18,18th Congressional District,IL,"MICHEL, ROBERT H.",Republican,1,,1,,House Republican leader,0.98
+IL,Decatur Herald and Review,111300,1984,H,19,19th Congressional District,IL,"BRUCE, TERRY",Democrat,1,,,,Listed in endorsements,0.97
+IL,Decatur Herald and Review,111300,1984,H,20,20th Congressional District,IL,"DURBIN, RICHARD J.",Democrat,1,1,,,Listed in endorsements (Durbin won 20th in 1982),0.97
+IL,Decatur Herald and Review,111300,1984,STATE REP,101,101st Legislative District,IL,"DUNN, JOHN F.",Democrat,1,,,,Illinois House Representative,0.97
+IL,Decatur Herald and Review,111300,1984,STATE REP,102,102nd Legislative District,IL,"TATE, MICHAEL J.",Republican,1,,,,Illinois House Representative,0.95
+IL,Decatur Herald and Review,111300,1984,CNTY CLERK,,Macon County Circuit Court Clerk,IL,"HOGAN, PAUL M.",,1,,,,"Clerk, Circuit Court",0.95
+IL,Decatur Herald and Review,111300,1984,DA/PROSECUTOR,,Macon County State's Attorney,IL,"BYERS, FRANK H. II",,1,,,,Macon County State's Attorney,0.97
+IL,Decatur Herald and Review,111300,1984,CNTY COMM,1,Macon County District 1,IL,"BALLINGER, DENNIS D.",,1,,,,Macon County Board District 1,0.97
+IL,Decatur Herald and Review,111300,1984,CNTY COMM,1,Macon County District 1,IL,"TURNER, LARRY W.",,1,,,,Macon County Board District 1,0.97
+IL,Decatur Herald and Review,111300,1984,CNTY COMM,4,Macon County District 4,IL,"OWREY, GEORGE R.",,1,,,,Macon County Board District 4,0.97
+IL,Decatur Herald and Review,111300,1984,CNTY COMM,5,Macon County District 5,IL,"JACOBS, MERVEL",,1,,,,Macon County Board District 5,0.97
+IL,Decatur Herald and Review,111300,1984,CNTY COMM,6,Macon County District 6,IL,"SCHERER, JEROME ""JERRY""",,1,,,,Macon County Board District 6,0.97
+IL,Decatur Herald and Review,111300,1984,CNTY COMM,6,Macon County District 6,IL,"HENRY, DOUGLAS",,1,,,,Macon County Board District 6,0.97
+IL,Decatur Herald and Review,111300,1984,CNTY COMM,7,Macon County District 7,IL,"SMITH, R. C.",,1,,,,Macon County Board District 7,0.97
+IL,Decatur Herald and Review,111300,1984,CNTY COMM,7,Macon County District 7,IL,"WATTERSON, BARBARA J.",,1,,,,Macon County Board District 7,0.97
+IL,Decatur Herald and Review,111300,1984,SUPREME COURT,,Illinois Supreme Court,IL,"CRAVEN, JAMES C.",Nonpartisan,1,,,,"Judge, Illinois Supreme Court",0.97
+IL,Decatur Herald and Review,111300,1986,ATTORNEY GENERAL,,,IL,"HARTIGAN, NEIL F.",Democrat,1,1,,,Endorsed with reservations over D'Arco land trust lease; 'Hartigan merits re-election',0.95
+IL,Decatur Herald and Review,111300,1986,STATE SENATOR,51,,IL,"SEVERNS, PENNY L.",Democrat,1,,,,51st Senate District,0.97
+IL,Decatur Herald and Review,111300,1986,SENATOR,,,IL,"DIXON, ALAN J.",Democrat,1,1,,,U.S. Senate; 'much better choice than Judy Koehler',0.97
+IL,Decatur Herald and Review,111300,1986,GOVERNOR,,,IL,"THOMPSON, JAMES R.",Republican,1,,1,,Endorsed with some reservations,0.95
+IL,Decatur Herald and Review,111300,1986,SEC OF STATE,,,IL,"EDGAR, JIM",Republican,1,,1,,Secretary of State endorsement,0.97
+IL,Decatur Herald and Review,111300,1986,COMPTROLLER,,,IL,"BURRIS, ROLAND W.",Democrat,1,1,,,Comptroller; 'no reservations',0.97
+IL,Decatur Herald and Review,111300,1986,TREASURER,,,IL,"COSENTINO, JERRY",Democrat,1,,,,State Treasurer,0.95
+IL,Decatur Herald and Review,111300,1986,H,18,,IL,"MICHEL, ROBERT H.",Republican,1,,1,,U.S. Congress 18th District,0.97
+IL,Decatur Herald and Review,111300,1986,STATE REP,101,,IL,"DUNN, JOHN F.",Democrat,1,,,,Illinois House 101st District,0.97
+IL,Decatur Herald and Review,111300,1986,TREASURER,,Macon County,IL,"EDGCOMB, JIM O.",Republican,1,,,,Macon County Treasurer; 'no reservations',0.95
+IL,Decatur Herald and Review,111300,1986,SHERIFF,,Macon County,IL,"HOLSAPPLE, LEE",Democrat,1,,,,Macon County Sheriff,0.97
+IL,Decatur Herald and Review,111300,1986,SUPERINTENDENT,,Macon County,IL,"COOPRIDER, DAVID O.",Republican,1,,,,Regional Superintendent of Schools,0.95
+IL,Decatur Herald and Review,111300,1986,CNTY COMM,1,Macon County,IL,"BROWN, MARY LEE",Democrat,1,,,,Macon County Board District 1,0.95
+IL,Decatur Herald and Review,111300,1986,CNTY COMM,3,Macon County,IL,"PIERCE, M.D.",Democrat,1,,,,Macon County Board District 3 (per 10/28 correction; Merle Pierce),0.9
+IL,Decatur Herald and Review,111300,1986,CNTY COMM,3,Macon County,IL,"HAWBAKER, NORMAN",Democrat,1,,,,Macon County Board District 3,0.92
+IL,Decatur Herald and Review,111300,1986,CNTY COMM,4,Macon County,IL,"PETERS, CARY H.",Democrat,1,,,,Macon County Board District 4,0.95
+IL,Decatur Herald and Review,111300,1986,CNTY COMM,4,Macon County,IL,"BRADLEY, BENNETT",Republican,1,,,,Macon County Board District 4; 'no reservations',0.95
+IL,Decatur Herald and Review,111300,1988,H,18,,IL,"MICHEL, ROBERT H.",Republican,1,,1,,House Republican leader; endorsed over Douglas Stephens,0.97
+IL,Decatur Herald and Review,111300,1988,CNTY COMM,1,Macon County,IL,"TURNER, LARRY",Republican,1,,1,,Macon County Board District 1,0.95
+IL,Decatur Herald and Review,111300,1988,CNTY COMM,1,Macon County,IL,"MATHESON, BOB",Republican,1,,1,,Macon County Board District 1,0.95
+IL,Decatur Herald and Review,111300,1988,CNTY COMM,2,Macon County,IL,"ROWAN, J.D.",Republican,1,,,,Macon County Board District 2,0.95
+IL,Decatur Herald and Review,111300,1988,CNTY COMM,6,Macon County,IL,"BENNETT, KEVIN D.",Democrat,1,,,,Macon County Board District 6,0.95
+IL,Decatur Herald and Review,111300,1988,CNTY COMM,6,Macon County,IL,"WILHOUR, DAVID",Republican,1,,1,,Macon County Board District 6,0.95
+IL,Decatur Herald and Review,111300,1988,CNTY COMM,7,Macon County,IL,"BETZER, DONALD",Republican,1,,1,,Macon County Board District 7,0.95
+IL,Decatur Herald and Review,111300,1988,CNTY COMM,7,Macon County,IL,"SMITH, R.C.",Democrat,1,,,,Macon County Board District 7,0.95
+IL,Decatur Herald and Review,111300,1988,PRESIDENT,,,IL,"BUSH, GEORGE H.W.",Republican,1,,,,President of the United States,0.97
+IL,Decatur Herald and Review,111300,1988,H,20,,IL,"DURBIN, RICHARD J.",Democrat,1,,,,U.S. Congress 20th District,0.97
+IL,Decatur Herald and Review,111300,1988,STATE SENATOR,51,,IL,"SEVERNS, PENNY L.",Democrat,1,,,,Illinois Senate 51st District,0.97
+IL,Decatur Herald and Review,111300,1988,STATE REP,101,,IL,"DUNN, JOHN F.",Democrat,1,,1,,Illinois House 101st District,0.97
+IL,Decatur Herald and Review,111300,1988,STATE REP,102,,IL,"TATE, MICHAEL J.",,1,,,,Illinois House 102nd District,0.9
+IL,Decatur Herald and Review,111300,1988,JUDGE,,Macon County Circuit,IL,"GREANIAS, JOHN K.",Nonpartisan,1,,,,Circuit Judge,0.95
+IL,Decatur Herald and Review,111300,1988,CNTY CLERK,,Macon County,IL,"HOGAN, PAUL M.",,1,,,,Circuit Clerk,0.95
+IL,Decatur Herald and Review,111300,1988,AUDITOR,,Macon County,IL,"BRECHNITZ, NANCY J.",,1,,,,Macon County Auditor,0.93
+IL,Decatur Herald and Review,111300,1988,DA/PROSECUTOR,,Macon County,IL,"FICHTER, LAWRENCE R.",,1,,,,Macon County State's Attorney,0.95
+IL,Decatur Herald and Review,111300,1988,CORONER,,Macon County,IL,"VALLAS, CHRIS S.",,1,,,,Macon County Coroner,0.95
+IL,Decatur Herald and Review,111300,1990,GOVERNOR,,,IL,"EDGAR, JIM",Republican,1,,,,Governor,0.97
+IL,Decatur Herald and Review,111300,1990,SENATOR,,,IL,"SIMON, PAUL",Democrat,1,1,,,U.S. Senator,0.97
+IL,Decatur Herald and Review,111300,1990,ATTORNEY GENERAL,,,IL,"BURRIS, ROLAND",Democrat,1,,,,Attorney General,0.97
+IL,Decatur Herald and Review,111300,1990,SEC OF STATE,,,IL,"COSENTINO, JEROME",Democrat,1,,,,Secretary of State,0.95
+IL,Decatur Herald and Review,111300,1990,H,21,,IL,"DURBIN, RICHARD J.",Democrat,1,1,,,21st District U.S. House,0.97
+IL,Decatur Herald and Review,111300,1990,STATE REP,101,,IL,"DUNN, JOHN",Democrat,1,1,,,Illinois House 101st District,0.97
+IL,Decatur Herald and Review,111300,1990,STATE REP,102,,IL,"NOLAND, DUANE",Republican,1,,,,Illinois House 102nd District,0.9
+IL,Decatur Herald and Review,111300,1990,SUPERINTENDENT,,Macon County,IL,"COOPRIDER, DAVID",Republican,1,1,,,Regional Superintendent of Schools,0.95
+IL,Decatur Herald and Review,111300,1990,SHERIFF,,Macon County,IL,"HOLSAPPLE, LEE",Democrat,1,1,,,Macon County Sheriff,0.97
+IL,Decatur Herald and Review,111300,1990,TREASURER,,Macon County,IL,"CURRY, JULIE",,1,,,,Macon County Treasurer,0.92
+IL,Decatur Herald and Review,111300,1990,CNTY CLERK,,Macon County,IL,"SORENSEN, MARK",,1,,,,Macon County Clerk,0.92
+IL,Decatur Herald and Review,111300,1990,CNTY COMM,1,Macon County,IL,"OWEN, ROB",,1,,,,Macon County Board District 1,0.93
+IL,Decatur Herald and Review,111300,1990,CNTY COMM,4,Macon County,IL,"MCGLAUGHLIN, JOE",,1,,,,Macon County Board District 4,0.93
+IL,Decatur Herald and Review,111300,1990,CNTY COMM,4,Macon County,IL,"LOCKMILLER, N. RICHARD",,1,,,,Macon County Board District 4,0.93
+IL,Decatur Herald and Review,111300,1990,CNTY COMM,5,Macon County,IL,"SEFTON, EMMETT",,1,,,,Macon County Board District 5,0.93
+IL,Decatur Herald and Review,111300,1990,CNTY COMM,5,Macon County,IL,"HOGAN, PHIL",,1,,,,Macon County Board District 5,0.93
+IL,Decatur Herald and Review,111300,1990,CNTY COMM,6,Macon County,IL,"DROBISCH, DAVE",,1,,,,Macon County Board District 6,0.93
+IL,Decatur Herald and Review,111300,1990,CNTY COMM,7,Macon County,IL,"JONTRY, CAROL",,1,,,,Macon County Board District 7,0.93
+IL,Decatur Herald and Review,111300,1992,PRESIDENT,,,IL,"CLINTON, BILL",Democrat,1,,,,Editorial 'H&R Opinion: Clinton'; 'strongly endorses Clinton and Gore',0.97
+IL,Decatur Herald and Review,111300,1992,VICE PRESIDENT,,,IL,"GORE, AL",Democrat,1,,,,Vice President running mate; 'strongly endorses Clinton and Gore',0.97
+IL,Decatur Herald and Review,111300,1992,SENATOR,,,IL,"MOSELEY BRAUN, CAROLE",Democrat,1,,,,U.S. Senate,0.97
+IL,Decatur Herald and Review,111300,1992,H,18,,IL,"MICHEL, ROBERT",Republican,1,,1,,U.S. House 18th District,0.97
+IL,Decatur Herald and Review,111300,1992,H,19,,IL,"POSHARD, GLENN",Democrat,1,,,,U.S. House 19th District,0.97
+IL,Decatur Herald and Review,111300,1992,H,20,,IL,"DURBIN, RICHARD",Democrat,1,1,,,U.S. House 20th District,0.97
+IL,Decatur Herald and Review,111300,1992,STATE REP,101,,IL,"DUNN, JOHN",Democrat,1,1,,,Illinois House 101st District,0.97
+IL,Decatur Herald and Review,111300,1992,STATE REP,102,,IL,"NOLAND, DUANE",Republican,1,,1,,Illinois House 102nd District,0.95
+IL,Decatur Herald and Review,111300,1992,CNTY CLERK,,Macon County,IL,"HOGAN, PAUL",,1,,,,Clerk of the Macon County Circuit Court,0.95
+IL,Decatur Herald and Review,111300,1992,STATE SENATOR,,,IL,"SEVERNS, PENNY L.",Democrat,1,1,,,Illinois Senate; unopposed,0.95
+IL,Decatur Herald and Review,111300,1992,DA/PROSECUTOR,,Macon County,IL,"FICHTER, LARRY",,1,1,,,Macon County State's Attorney; unopposed,0.95
+IL,Decatur Herald and Review,111300,1992,AUDITOR,,Macon County,IL,"SAPP, DAVE",,1,,,,Macon County Auditor; unopposed,0.93
+IL,Decatur Herald and Review,111300,1994,GOVERNOR,,,IL,"EDGAR, JIM",Republican,1,,1,,"Incumbent governor endorsed for second term; running mate Lt. Gov. Bob Kustra; praised for fiscal responsibility, business climate.",0.95
+IL,Decatur Herald and Review,111300,1996,PRESIDENT,,,IL,"DOLE, BOB",Republican,1,1,,,"Endorsed over incumbent Bill Clinton; praised for conservatism, less government, tax reform, economic growth.",0.95
+IL,Decatur Herald and Review,111300,1996,SENATOR,,IL,IL,"DURBIN, DICK",Democrat,1,,,,"Endorsed for U.S. Senate (Illinois open seat being vacated by Paul Simon); over Republican Al Salvi; praised experience in House since 1982 and moderate positions on abortion, gun control, free speech.",0.95
+IL,Decatur Herald and Review,111300,1996,H,19,IL,IL,"POSHARD, GLENN",Democrat,1,1,,,Incumbent endorsed for fifth term over Republican Brent Winters; praised as hardworking moderate Democrat.,0.95
+IL,Decatur Herald and Review,111300,1996,H,18,IL,IL,"LAHOOD, RAY",Republican,1,,1,,Incumbent endorsed for second term over Democrat Mike Curran; former chief of staff to Bob Michel.,0.95
+IL,Decatur Herald and Review,111300,1996,H,20,IL,IL,"HOFFMAN, JAY",Democrat,1,,,,Endorsed over Republican John Shimkus for open seat being vacated by Durbin; Belleville lawyer with Illinois House experience.,0.95
+IL,Decatur Herald and Review,111300,1996,STATE REP,101,IL,IL,"CURRY, JULIE",Democrat,1,1,,,Incumbent endorsed for second term over Republican Jerry Stocks of Dalton City.,0.95
+IL,Decatur Herald and Review,111300,1996,STATE REP,102,IL,IL,"NOLAND, DUANE",Republican,1,,1,,Incumbent endorsed; Democrat James Taylor not actively campaigning.,0.95
+IL,Decatur Herald and Review,111300,1996,CNTY CLERK,,MACON,IL,"HOTT, KATHY",Democrat,1,1,,,Incumbent Clerk of the Circuit Court endorsed; defeated Paul Hogan four years earlier.,0.95
+IL,Decatur Herald and Review,111300,1996,STATE SENATOR,51,IL,IL,"SEVERNS, PENNY L.",Democrat,1,1,,,"Incumbent state senator endorsed over Duane Potter, Decatur Township supervisor; district number identified as 51st per recap (headline OCR shows '91st' but recap confirms 51st).",0.9
+IL,Decatur Herald and Review,111300,1996,AUDITOR,,MACON,IL,"SAPP, DAVE",Democrat,1,1,,,Incumbent Macon County Auditor endorsed for third term over Republican Ray Batman.,0.95
+IL,Decatur Herald and Review,111300,1996,RECORDER,,MACON,IL,"RONEY, LEANN",Republican,1,1,,,Republican challenger endorsed over Democratic incumbent Ed Tangney for Recorder of Deeds.,0.95
+IL,Decatur Herald and Review,111300,1996,CORONER,,MACON,IL,"DAY, MICHAEL E.",Republican,1,,1,,Incumbent (elected 2 years prior to complete Vallas term) endorsed for full term over Democrat Maurice Doyle.,0.95
+IL,Decatur Herald and Review,111300,1996,STATE SENATOR,51,IL,IL,"SEVERNS, PENNY",Democrat,1,1,,,Listed in endorsement recap.,0.95
+IL,Decatur Herald and Review,111300,1996,CORONER,,MACON,IL,"DAY, MICHAEL",Republican,1,,1,,Listed in endorsement recap.,0.95
+IL,Decatur Herald and Review,111300,1998,GOVERNOR,,IL,IL,"POSHARD, GLENN",Democrat,1,,,,Endorsed over Republican George Ryan (Sec of State); open seat as Gov. Edgar not seeking re-election; praised for U.S. House and Illinois Senate experience.,0.95
+IL,Decatur Herald and Review,111300,1998,SENATOR,,IL,IL,"FITZGERALD, PETER",Republican,1,1,,,Listed in endorsement recap; challenger to incumbent Carol Moseley-Braun (D).,0.9
+IL,Decatur Herald and Review,111300,1998,ATTORNEY GENERAL,,IL,IL,"RYAN, JIM",Republican,1,,1,,Listed in endorsement recap; incumbent Illinois Attorney General.,0.9
+IL,Decatur Herald and Review,111300,1998,SEC OF STATE,,IL,IL,"WHITE, JESSE",Democrat,1,,,,Listed in endorsement recap; open seat (George Ryan running for governor).,0.9
+IL,Decatur Herald and Review,111300,1998,H,19,IL,IL,"PHELPS, DAVID",Democrat,1,,,,Listed in endorsement recap; open seat (Poshard running for governor).,0.9
+IL,Decatur Herald and Review,111300,1998,STATE SENATOR,51,IL,IL,"NOLAND, N. DUANE",Republican,1,,,,Listed in endorsement recap; Noland moved from 102nd Illinois House seat to state Senate 51st (vacancy from Severns).,0.9
+IL,Decatur Herald and Review,111300,1998,STATE REP,101,IL,IL,"CURRY, JULIE",Democrat,1,1,,,Listed in endorsement recap; incumbent.,0.9
+IL,Decatur Herald and Review,111300,1998,STATE REP,102,IL,IL,"HOLSAPPLE, LEE",,1,,,,Listed in endorsement recap; open seat as Noland moves to State Senate; party not confirmed from clipping.,0.8
+IL,Decatur Herald and Review,111300,1998,SHERIFF,,MACON,IL,"WALKER, ROGER",,1,,,,Listed in endorsement recap; party and incumbency not confirmed in available clippings.,0.8
+IL,Decatur Herald and Review,111300,1998,SUPERINTENDENT,,MACON-PIATT,IL,"MILLIGAN, CRAIG",,1,,,,Listed in endorsement recap as Macon/Piatt Regional School Superintendent; nonpartisan office.,0.85
+IL,Decatur Herald and Review,111300,2000,PRESIDENT,,,IL,"BUSH, GEORGE W.",Republican,1,,,,"Editorial endorses Bush over Gore; favors less government, private-sector approach to health care, tax relief plan, and Bush's record as governor of Texas in building bipartisan coalitions.",0.98
+IL,Decatur Herald and Review,111300,2000,DA/PROSECUTOR,,Macon County,IL,"RUETER, SCOTT",Republican,1,,,,"Macon County State's Attorney - open seat (incumbent Larry Fichter retiring); Rueter, assistant state's attorney, endorsed over Democrat Rob Owen for his criminal law and prosecutor experience.",0.97
+IL,Decatur Herald and Review,111300,2000,AUDITOR,,Macon County,IL,"SAPP, DAVE",,1,,,,Macon County Auditor; summary reaffirmation.,0.9
+IL,Decatur Herald and Review,111300,2000,RECORDER,,Macon County,IL,"EATON, MARY TANGNEY",Democrat,1,1,,,Macon County Recorder; appointed incumbent (since 1998) seeking first election. Endorsed over Republican Carol Chiligiris for her 21 years' experience in office.,0.95
+IL,Decatur Herald and Review,111300,2000,CNTY CLERK,,Macon County,IL,"HOTT, KATHY",Democrat,1,1,,,"Macon County Circuit Clerk; Hott seeking third term, endorsed over Republican Lois Durbin. Praised for technological innovations and administrative efficiency.",0.97
+IL,Decatur Herald and Review,111300,2000,CORONER,,Macon County,IL,"DAY, MICHAEL",Republican,1,,1,,"Macon County Coroner; Day (R) seeking re-election (coroner for six years), endorsed over Democrat Gordon C. Brenner.",0.97
+IL,Decatur Herald and Review,111300,2000,H,19,,IL,"PHELPS, DAVID",Democrat,1,1,,,19th District U.S. House; Phelps incumbent.,0.92
+IL,Decatur Herald and Review,111300,2000,STATE SENATOR,51,,IL,"NOLAND, N. DUANE",Republican,1,,1,,51st District Illinois Senate; Noland incumbent (R-Blue Mound).,0.92
+IL,Decatur Herald and Review,111300,2000,STATE REP,101,,IL,"CURRY, JULIE A.",Democrat,1,,,,101st District Illinois House; party affiliation not explicitly stated in this clipping but Curry was a Democrat.,0.85
+IL,Decatur Herald and Review,111300,2000,STATE REP,102,,IL,"MITCHELL, BILL",Republican,1,,,,102nd District Illinois House; party affiliation not explicitly stated in this clipping but Mitchell was a Republican.,0.85
+IL,Decatur Herald and Review,111300,2002,GOVERNOR,,Illinois,IL,"RYAN, JIM",Republican,1,,,,"Illinois Governor; open seat (Gov. George H. Ryan, R, retiring). Jim Ryan (R), current attorney general, endorsed over Blagojevich. Praised for fiscal discipline and pledge to end member initiatives.",0.97
+IL,Decatur Herald and Review,111300,2002,SENATOR,,Illinois,IL,"DURBIN, DICK",Democrat,1,1,,,U.S. Senate; Durbin incumbent (Democrat from Springfield) endorsed over Jim Durkin (R). Praised for seniority on Appropriations and Intelligence committees.,0.98
+IL,Decatur Herald and Review,111300,2002,H,17,,IL,"EVANS, LANE",Democrat,1,1,,,17th District U.S. House; Evans incumbent (D-Rock Island). Endorsed despite health concerns over challenger Calderone (R).,0.95
+IL,Decatur Herald and Review,111300,2002,H,19,,IL,"SHIMKUS, JOHN",Republican,1,1,1,,19th District U.S. House; two incumbents pitted against each other after redistricting - Shimkus (R-Collinsville) vs Phelps (D-Eldorado). Shimkus endorsed for ethanol/soy diesel and energy policy stances.,0.97
+IL,Decatur Herald and Review,111300,2002,ATTORNEY GENERAL,,Illinois,IL,"BIRKETT, JOE",Republican,1,,,,Illinois Attorney General; open seat (Jim Ryan moving up to gubernatorial race). Birkett (R).,0.9
+IL,Decatur Herald and Review,111300,2002,SEC OF STATE,,Illinois,IL,"WHITE, JESSE",Democrat,1,1,,,Illinois Secretary of State; White incumbent (D).,0.9
+IL,Decatur Herald and Review,111300,2002,STATE SENATOR,44,,IL,"BRADY, BILL",Republican,1,,,,44th District Illinois Senate; Brady (R).,0.85
+IL,Decatur Herald and Review,111300,2002,STATE SENATOR,51,,IL,"DUNN, JOHN",Democrat,1,,,,51st District Illinois Senate; Dunn (D).,0.8
+IL,Decatur Herald and Review,111300,2002,AUDITOR,,Macon County,IL,"STOCKWELL, AMY",,1,,,,Macon County Auditor; party not stated in summary.,0.75
+IL,Decatur Herald and Review,111300,2002,TREASURER,,Macon County,IL,"ASHBY, CATHY",,1,,,,Macon County Treasurer; Ashby was the Macon County Treasurer (incumbent based on prior 2000 references).,0.8
+IL,Decatur Herald and Review,111300,2004,PRESIDENT,,,IL,"BUSH, GEORGE W.",Republican,1,,1,,"Bush (R-incumbent) endorsed over Kerry. Editorial emphasizes Bush's leadership in war on terror, economy, and education (No Child Left Behind).",0.98
+IL,Decatur Herald and Review,111300,2004,H,17,,IL,"ZINGA, ANDREA LANE",Republican,1,1,,,"17th District U.S. House; Zinga (R), former newscaster, endorsed over incumbent Lane Evans (D). Departure from 2002 endorsement of Evans, cites health concerns and lack of attention to Decatur area.",0.95
+IL,Decatur Herald and Review,111300,2004,H,18,,IL,"LAHOOD, RAY",Republican,1,,1,,U.S. House; LaHood (R-incumbent) supported for re-election. District 18 inferred.,0.85
+IL,Decatur Herald and Review,111300,2004,H,15,,IL,"JOHNSON, TIM",Republican,1,,1,,U.S. House; Johnson (R-incumbent) supported for re-election. District 15 inferred.,0.85
+IL,Decatur Herald and Review,111300,2004,H,19,,IL,"SHIMKUS, JOHN",Republican,1,,1,,19th District U.S. House; Shimkus (R-incumbent) supported for re-election.,0.92
+IL,Decatur Herald and Review,111300,2004,STATE REP,101,,IL,"FLIDER, BOB",Democrat,1,1,,,101st District Illinois House; Flider (D) appointed two years ago to fill Julie Curry's seat. Endorsed over Republican Scot England despite criticism of negative campaign ads by Democratic Party.,0.95

@@ -1,0 +1,46 @@
+Newspaper Name: Indianapolis Star
+Newspaper ID: 113650
+State: IN (Indianapolis, Marion County, Indiana)
+Processing Date: 2026-05-14
+
+Clippings: 70 (after dedup + acceptance of rerouted misfiled Star clippings from News folder)
+Date range: 1960 - 2012
+Source: newspapers.com
+
+Candidate endorsements: 36 (27 endorsed, 9 opposed)
+Proposition endorsements: 7 (4 endorsed, 3 opposed)
+Mean confidence: 0.91
+
+Process notes:
+- Hashed 147 raw files; deduplicated to 44 unique
+- Plus 27 files rerouted from News folder (originally filed there but content was Star)
+- Removed 1 file that was Wikipedia article (not endorsement) - 1903 date
+- Final: 70 actual Star clippings
+- Per user instruction, extraction performed directly by Claude (no subagents)
+
+Coverage notes:
+- Indianapolis Star is the morning daily of Indianapolis (still publishing)
+- Owned historically by Pulliam family; conservative Republican-leaning
+- Strong Pulliam editorial voice ("Where The Spirit Of The Lord Is, There Is Liberty")
+- Endorsement coverage:
+  - 1960: Nixon implied
+  - 1962: Bruce for Congress; Capehart over Bayh for Senate (Cuba)
+  - 1964: Goldwater
+  - 1966: 2 amendments YES
+  - 1968: Whitcomb for Governor; Arterburn for Supreme Court
+  - 1970: NO on Blank Check Amendment
+  - 1972: Hudnut for Congress 11th
+  - 1974: Hudnut; Madinger judge; amendments yes; Boring judge
+  - 1976: Bowen for Governor; Lugar for Senate
+  - 1980: Quayle over Bayh
+  - 1982: Lugar for Senate
+  - 1984: Reagan
+  - 1986: Senate race (Quayle vs Long)
+  - 1988: Mutz; Evans superintendent; Lugar; Bush; NO on lottery
+  - 1990: NO on retirement amendment; Hudnut for Sec State
+  - 2008-2012: Star Editorial Board endorsement charts (McCain, Daniels, Coats, Pence, Mourdock)
+
+OCR notes:
+- Many older Star files only show editorial frontmatter in OCR
+- 2008-2012 files are image-based endorsement charts hard to OCR
+- Inferred candidates based on titles and Republican-leaning pattern; lower confidence (0.85-0.88) for these

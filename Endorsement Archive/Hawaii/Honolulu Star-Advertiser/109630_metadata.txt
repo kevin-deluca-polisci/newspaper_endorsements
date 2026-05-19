@@ -1,0 +1,32 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Honolulu Star-Advertiser
+Newspaper ID: 109630
+State: HI
+Number of clippings: 15
+Endorsement data years: 2010-2018
+Total candidate endorsements: 198
+Total proposition endorsements: 38
+
+Confidence statistics:
+  Mean confidence: 0.850
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 110
+  STATE SENATOR: 40
+  H: 10
+  CITY COUNCIL: 10
+  OHA: 7
+  BOARD OF EDUCATION: 6
+  SENATOR: 5
+  GOVERNOR: 3
+  LT GOVERNOR: 3
+  PRESIDENT: 2
+  DA/PROSECUTOR: 1
+  MAYOR: 1
+
+Party distribution:
+  Democrat: 24
+  Republican: 7

@@ -1,0 +1,43 @@
+Newspaper Name: Birmingham Age Herald
+Alternative Names: Birmingham Post-Herald (successor after 1950 merger), News-Age-Herald (post-absorption name)
+Years Published: 1887-1950 (absorbed by Birmingham News/Post-Herald)
+Newspaper ID number: 100102
+Number of clippings: 21
+Endorsement data years: 1890, 1900, 1910, 1920, 1930, 1932, 1936, 1940, 1944, 1946, 1948
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 10 (after deduplication of 3)
+  Endorsed (=1): 10
+  Opposed (=0): 0
+  No position (null): 0
+Total proposition records: 30
+  Endorsed (=1): 26
+  Opposed (=0): 4 (1932 Amendments 2, 5, 6; 1946 Boswell Amendment)
+
+--- DATA QUALITY ---
+QA date: 2026-04-04
+QA result: PASS WITH FIXES
+Flagged for review: 0 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 6 of 21
+Duplicates removed: 3 candidates (Bankhead 1930 x2, Miller 1930 x1)
+
+--- CONFIDENCE SCORES ---
+Min: 0.80
+Mean: 0.88
+Max: 0.95
+Below threshold (0.75): 0
+
+--- REVIEW QUEUE ---
+  [no_endorsements] 100102_19001105: NEWS ARTICLE ON ELECTION EXPECTATIONS; LISTS NOMINEES BUT TAKES NO EDITORIAL POSITION
+  [no_endorsements] 100102_19321106: EXPLANATORY ARTICLE ABOUT CONSTITUTIONAL AMENDMENTS WITHOUT ENDORSEMENT
+  [no_endorsements] 100102_19361024: INFORMATIONAL ARTICLE EXPLAINING FIVE AMENDMENTS WITHOUT ENDORSING
+  [no_endorsements] 100102_19381102: EDITORIAL ON GENERAL ELECTION; URGES PARTICIPATION ON GASOLINE TAX AMENDMENT BUT TAKES NO POSITION
+  [no_endorsements] 100102_19381106: EDITORIAL ON GASOLINE TAX AMENDMENT PRESENTS BOTH SIDES; TAKES NO POSITION
+  [no_endorsements] 100102_19441105: NEWS CLIPPING FROM BIRMINGHAM NEWS; NO ENDORSEMENT CONTENT
+
+--- NOTES ---
+Several clippings (1944, 1946, 1948) are from the Birmingham News rather than the Age Herald proper, reflecting the post-absorption period. These are filed under 100102 as the user organized them.
+
+Compiled: 2026-04-04

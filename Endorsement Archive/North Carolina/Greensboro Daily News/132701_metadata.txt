@@ -1,0 +1,37 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Greensboro Daily News
+Newspaper ID: 132701
+State: NC
+Number of clippings: 63
+Endorsement data years: 1950-1982
+Total candidate endorsements: 206
+Total proposition endorsements: 41
+
+Confidence statistics:
+  Mean confidence: 0.929
+  Low-confidence records (< 0.7): 7
+
+Top offices (top 15):
+  STATE REP: 36
+  SCHOOL BOARD: 31
+  STATE SENATOR: 24
+  H: 18
+  CNTY COMM: 18
+  JUDGE: 11
+  GOVERNOR: 8
+  SENATOR: 6
+  CNTY CLERK: 6
+  SHERIFF: 6
+  PRESIDENT: 5
+  DA/PROSECUTOR: 5
+  ATTORNEY GENERAL: 4
+  INSURANCE COMMISSIONER: 4
+  LT GOVERNOR: 4
+
+Party distribution:
+  Democrat: 106
+  Republican: 67
+  Nonpartisan: 31
+  Libertarian: 2

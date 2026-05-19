@@ -1,0 +1,36 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Corpus Christi Caller-Times
+Newspaper ID: 145000
+State: TX
+Number of clippings: 46
+Endorsement data years: 1952-2018
+Total candidate endorsements: 308
+Total proposition endorsements: 135
+
+Confidence statistics:
+  Mean confidence: 0.934
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  TX SUPREME COURT: 47
+  COURT OF CRIMINAL APPEALS: 33
+  STATE REP: 21
+  RAILROAD COMMISSION: 20
+  SCHOOL BOARD: 17
+  H: 15
+  CITY COUNCIL: 15
+  CNTY COMM: 14
+  SENATOR: 12
+  DISTRICT COURT JUDGE: 12
+  PRESIDENT: 11
+  GOVERNOR: 11
+  COURT OF APPEALS: 9
+  ATTORNEY GENERAL: 8
+  LT GOVERNOR: 8
+
+Party distribution:
+  Democrat: 116
+  Republican: 68
+  Libertarian: 1

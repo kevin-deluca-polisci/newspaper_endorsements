@@ -1,0 +1,62 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+NC,Greensboro News and Record,132700,1984,NC,,,Constitutional amendment requiring AG and DA candidates be authorized to practice law prior to election,1,FOR vote recommended,0.95
+NC,Greensboro News and Record,132700,1984,NC,,,Restructure Guilford County Board of Commissioners from 5 to 7 members elected from 4 districts,1,FOR vote recommended,0.95
+NC,Greensboro News and Record,132700,1986,NC,,,"Guilford County bond - $21 million for courthouse, jail in High Point and mental/family health facilities",1,FOR vote recommended,0.95
+NC,Greensboro News and Record,132700,1986,NC,,,Guilford County water bonds - $2 million,1,FOR vote recommended,0.95
+NC,Greensboro News and Record,132700,1986,NC,,,Guilford County sanitary sewer bonds - $4 million,1,FOR vote recommended,0.95
+NC,Greensboro News and Record,132700,1986,NC,,,Constitutional amendment to permit General Assembly to authorize bonds for higher education facilities,1,FOR vote recommended,0.95
+NC,Greensboro News and Record,132700,1986,NC,,,Constitutional amendment for election to fill remainder of unexpired term if vacancy occurs >60 days before next election,1,FOR vote recommended,0.95
+NC,Greensboro News and Record,132700,1986,NC,,,Constitutional amendment to allow General Assembly to grant powers for seaport and airport development,1,FOR vote recommended,0.95
+NC,Greensboro News and Record,132700,1988,NC,,,Guilford County parks bond,1,Yes vote recommended,0.95
+NC,Greensboro News and Record,132700,1988,NC,,,Guilford County community college bond,1,Yes vote recommended,0.95
+NC,Greensboro News and Record,132700,1988,NC,,,Greensboro streets and bridges bond,1,Yes vote recommended,0.95
+NC,Greensboro News and Record,132700,1988,NC,,,Greensboro redevelopment bond,1,Yes vote recommended,0.95
+NC,Greensboro News and Record,132700,1988,NC,,,Greensboro mass transportation bond,1,Yes vote recommended,0.95
+NC,Greensboro News and Record,132700,1988,NC,,,Greensboro housing bond,1,Yes vote recommended,0.95
+NC,Greensboro News and Record,132700,1990,NC,,,Greensboro War Memorial Coliseum Complex bond,1,Voters should say yes to coliseum bonds; sensible division of cost between property tax and hotel/motel tax,0.98
+NC,Greensboro News and Record,132700,1990,NC,,,State of NC Prison and Youth Services Facilities bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,1990,NC,,,Guilford County Technical Community College bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,1990,NC,,,Greensboro Library Facilities bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,1990,NC,,,Greensboro Redevelopment bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,1990,NC,,,Greensboro Housing bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2000,NC,,,NC Higher Education Bonds,1,Yes vote recommended,0.95
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Street improvements,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Public transportation,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Neighborhood redevelopment,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Parks and recreational facilities,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Fire stations,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Law enforcement,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Library facilities,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Millennium Centerpiece Plaza,1,Yes vote recommended,0.85
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Natatorium,1,Yes vote recommended,0.85
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Natural Science Center,1,Yes vote recommended,0.85
+NC,Greensboro News and Record,132700,2000,NC,,,Greensboro Bond - Civil Rights Museum,1,Yes vote recommended,0.85
+NC,Greensboro News and Record,132700,2002,NC,,,Constitutional amendment for technical corrections to allow dedication and acceptance of property by State Nature and Historic Preserve via joint resolution,1,FOR vote recommended,0.95
+NC,Greensboro News and Record,132700,2004,NC,,,Constitutional amendments,1,Yes vote recommended,0.85
+NC,Greensboro News and Record,132700,2004,NC,,,Guilford Technical Community College bonds,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2004,NC,,,Guilford County park bonds,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2004,NC,,,High Point city bonds,1,Yes vote recommended,0.85
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro Fire Stations bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro Public Building Renovation bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro Economic Development bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro Libraries bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro Historical Museum bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro Parks and Recreation bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro Neighborhood Redevelopment bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro War Memorial Stadium bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro Swimming Center bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,,,Greensboro Civil Rights Museum bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2008,NC,,,Guilford County sales tax,1,For - help pay off already approved school bonds,0.90
+NC,Greensboro News and Record,132700,2008,NC,,,Greensboro Street Improvements bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2008,NC,,,Greensboro War Memorial Auditorium bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2008,NC,,,Greensboro Parks and Recreation bond,0,No vote recommended - not the right time for $12 million pool,0.90
+NC,Greensboro News and Record,132700,2008,NC,,,Greensboro Housing bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2010,NC,,,Constitutional amendment to specify those convicted of a felony cannot serve as sheriffs,1,People should vote for this proposal,0.95
+NC,Greensboro News and Record,132700,2010,NC,,,Guilford County sales tax increase (one-fourth cent) for schools and bond projects,1,Say yes this time,0.90
+NC,Greensboro News and Record,132700,2014,NC,,,Constitutional amendment to allow defendants to decline jury trials in non-capital criminal cases,1,Yes vote recommended,0.85
+NC,Greensboro News and Record,132700,2014,NC,,,Quarter-cent sales tax for public schools in Guilford County,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2016,NC,,,Greensboro housing bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2016,NC,,,Greensboro community and economic development bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2016,NC,,,Greensboro parks and recreation bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2016,NC,,,Greensboro transportation bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2018,NC,,,Six proposed amendments to the NC Constitution,0,We say no to all six proposed amendments,0.95

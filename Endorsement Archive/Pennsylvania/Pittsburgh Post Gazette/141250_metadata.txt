@@ -1,0 +1,36 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: PITTSBURGH POST-GAZETTE
+Newspaper ID: 141250
+State: PA
+Number of clippings: 58
+Endorsement data years: 1940-2022
+Total candidate endorsements: 691
+Total proposition endorsements: 29
+
+Confidence statistics:
+  Mean confidence: 0.913
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 333
+  H: 143
+  STATE SENATOR: 70
+  SENATOR: 36
+  GOVERNOR: 25
+  PRESIDENT: 22
+  AUDITOR: 12
+  COURT OF APPEALS: 11
+  TREASURER: 11
+  SUPREME COURT: 8
+  VICE PRESIDENT: 7
+  ATTORNEY GENERAL: 6
+  LT GOVERNOR: 4
+  CITY COUNCIL: 2
+  SEC OF STATE: 1
+
+Party distribution:
+  Democrat: 368
+  Republican: 301
+  Reform: 1

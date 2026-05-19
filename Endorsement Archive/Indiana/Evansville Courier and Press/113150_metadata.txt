@@ -1,0 +1,12 @@
+Newspaper: Evansville Courier and Press
+Newspaper ID: 113150
+State: IN
+Election years: 17 (1982-2016)
+Clippings: 22 files
+Candidate records: 337 (336 endorsed, 1 opposed, 0 no-direction)
+Proposition records: 20 (10 endorsed, 2 opposed, 8 no-direction)
+Cand conf: mean 0.931, min 0.75
+Prop conf: mean 0.888
+Last updated: 2026-04-30 (augmented from 'more evansville')
+
+Years: 1982, 1984, 1986, 1988, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016

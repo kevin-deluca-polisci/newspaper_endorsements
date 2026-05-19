@@ -1,0 +1,15 @@
+Newspaper Name: Minneapolis Tribune
+Newspaper ID: 123402
+State: MN
+Processing Date: 2026-05-15
+
+Clippings: 18
+Date range: 1920-1980
+Total candidate records: 75 (endorsed 70, opposed 5)
+Total proposition records: 18 (endorsed 14, opposed 4)
+Mean confidence: 0.92
+
+Notes:
+- Morning daily paper from 1867 until April 1982 merger with Star
+- After merger, became "Minneapolis Star and Tribune" (later "Star Tribune", ID 123400)
+- Historically Republican-leaning; crossed party lines on candidate quality

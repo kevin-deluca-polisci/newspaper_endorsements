@@ -1,0 +1,31 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Honolulu Star-Bulletin
+Newspaper ID: 109601
+State: HI
+Number of clippings: 48
+Endorsement data years: 1918-2008
+Total candidate endorsements: 130
+Total proposition endorsements: 57
+
+Confidence statistics:
+  Mean confidence: 0.850
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  H: 26
+  STATE REP: 26
+  STATE SENATOR: 22
+  BOARD OF EDUCATION: 20
+  MAYOR: 12
+  PRESIDENT: 8
+  SENATOR: 6
+  GOVERNOR: 5
+  DA/PROSECUTOR: 2
+  LT GOVERNOR: 2
+  VICE PRESIDENT: 1
+
+Party distribution:
+  Republican: 49
+  Democrat: 44

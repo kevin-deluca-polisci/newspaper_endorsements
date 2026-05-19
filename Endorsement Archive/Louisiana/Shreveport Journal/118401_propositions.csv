@@ -1,0 +1,228 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+LA,Shreveport Journal,118401,1920,LA,CONSTITUTIONAL AMENDMENT,7,Constitutional amendment to grant tax exemption to new industries located on the Navigation Canal at New Orleans (Dock Board amendment),0,Journal endorses Dock Board's recommendation to vote against Amendment No. 7 due to defect in proposed amendment that could nullify existing tax exemptions,0.90
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,1,New Orleans school board amendment - removing school tax from city council and placing power of assessment elsewhere,0,Journal calls amendment dangerous and recommends rejection,0.90
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,10,Louisiana constitutional amendment - Journal opposes,0,Journal most urgently urges rejection - calls amendment 'a dangerous one',0.90
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,11,Louisiana constitutional amendment (one of 13),1,"Journal urges voters to support all amendments except Nos. 1, 3 and 10",0.80
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,12,Louisiana constitutional amendment (one of 13),1,"Journal urges voters to support all amendments except Nos. 1, 3 and 10",0.80
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,13,Louisiana constitutional amendment (one of 13),1,"Journal urges voters to support all amendments except Nos. 1, 3 and 10",0.80
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,2,Louisiana constitutional amendment (one of 13),1,"Journal urges voters to support all amendments except Nos. 1, 3 and 10",0.80
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,3,"Amendment compelling New Orleans / road project amendment (Tangipahoa, St. John, etc.) related to automobile license pledge",0,Journal recommends rejection - calls plan dangerous,0.85
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,4,Confederate Veterans' pension proposal - enables state pension board to borrow sufficient funds to meet pension demands,1,Journal especially supports this amendment for Confederate Veterans pension proposal,0.90
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,5,Louisiana constitutional amendment (one of 13),1,"Journal urges voters to support all amendments except Nos. 1, 3 and 10",0.85
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,6,Louisiana constitutional amendment (one of 13),1,"Journal urges voters to support all amendments except Nos. 1, 3 and 10",0.85
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,7,Louisiana constitutional amendment (one of 13),1,"Journal urges voters to support all amendments except Nos. 1, 3 and 10",0.80
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,8,Louisiana constitutional amendment (one of 13),1,"Journal urges voters to support all amendments except Nos. 1, 3 and 10",0.80
+LA,Shreveport Journal,118401,1924,LA,CONSTITUTIONAL AMENDMENT,9,Louisiana constitutional amendment (one of 13),1,"Journal urges voters to support all amendments except Nos. 1, 3 and 10",0.80
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,1,Louisiana constitutional amendment (one of 14 proposed),1,Journal endorses voting for all amendments except No. 7,0.80
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,10,Construction of combined system of levees - applies principally to South Louisiana,1,Journal endorses voting for all amendments except No. 7,0.85
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,11,"Caddo Parish road tax - 4 cents per gallon gasoline tax in addition to motor car license, for road purposes for fifteen years",1,Journal endorses voting for all amendments except No. 7,0.85
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,12,Authorizes Rapides parish to levy additional school tax for any school district,1,Journal endorses voting for all amendments except No. 7,0.85
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,13,Authorizes Governor to appoint a judge from same court when proper party would dissent from decision,1,Journal endorses voting for all amendments except No. 7,0.80
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,14,Louisiana constitutional amendment (one of 14 proposed),1,Journal endorses voting for all amendments except No. 7,0.80
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,2,Louisiana constitutional amendment (one of 14 proposed),1,Journal endorses voting for all amendments except No. 7,0.80
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,3,Louisiana constitutional amendment (one of 14 proposed),1,Journal endorses voting for all amendments except No. 7,0.80
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,4,Authorizes governor to appoint commission to formulate code of criminal procedure for Louisiana,1,Journal endorses voting for all amendments except No. 7,0.85
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,5,Authorizes Orleans parish school board to fix annual ad valorem tax for full ten months' salary for teachers,1,Journal endorses voting for all amendments except No. 7,0.85
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,6,"Increases bond of city tax collector for City of New Orleans from $50,000",1,Journal endorses voting for all amendments except No. 7,0.85
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,7,Louisiana constitutional amendment - Journal opposes,0,Vote against No. 7 - Journal explicitly recommends rejection,0.90
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,8,Louisiana constitutional amendment (one of 14 proposed),1,Journal endorses voting for all amendments except No. 7,0.80
+LA,Shreveport Journal,118401,1926,LA,CONSTITUTIONAL AMENDMENT,9,Extension of jurisdiction of first city court of New Orleans,1,Journal endorses voting for all amendments except No. 7,0.85
+LA,Shreveport Journal,118401,1928,LA,CONSTITUTIONAL AMENDMENT,2,Authorizes Shreveport to donate land to federal government for the Third Attack Wing aerial defense unit,1,"Journal endorses Amendment No. 2 - will help secure Third Attack Wing for Louisiana, primarily of local interest to Shreveport",0.95
+LA,Shreveport Journal,118401,1930,LA,CONSTITUTIONAL AMENDMENT,1,"Highway construction bonding amendment - bond 2 cents of 4-cent gasoline tax to provide 3,300 miles of paved highways, 1,000 miles of graveled farm roads, and bridges including Red River bridges at Shreveport and Coushatta",1,Journal heartily urges support of all amendments though originally opposed some,0.85
+LA,Shreveport Journal,118401,1930,LA,CONSTITUTIONAL AMENDMENT,2,"Increases state gasoline levy from 4 to 5 cents, with proceeds split between public schools in disadvantaged parishes and port development at New Orleans and Lake Charles",1,Journal heartily urges support of all amendments,0.85
+LA,Shreveport Journal,118401,1930,LA,CONSTITUTIONAL AMENDMENT,3,"New state capitol at Baton Rouge to replace antiquated state house - $5,000,000 for 33-story building",1,Journal heartily urges support of all amendments,0.85
+LA,Shreveport Journal,118401,1930,LA,CONSTITUTIONAL AMENDMENT,4,Authority for parishes and municipalities to exempt industries from taxation for five years to encourage industrial expansion,1,Journal heartily urges support of all amendments,0.85
+LA,Shreveport Journal,118401,1930,LA,CONSTITUTIONAL AMENDMENT,5,Permits Orleans levee board to build a large airport on Lake Pontchartrain,1,Journal heartily urges support of all amendments,0.85
+LA,Shreveport Journal,118401,1930,LA,CONSTITUTIONAL AMENDMENT,6,Enables City of New Orleans to be refinanced by issuance of bonds,1,Journal heartily urges support of all amendments,0.85
+LA,Shreveport Journal,118401,1930,LA,CONSTITUTIONAL AMENDMENT,7,Constitutional authority for future legislatures to provide a public school fund equal to $12 per educable child,1,Journal heartily urges support of all amendments,0.85
+LA,Shreveport Journal,118401,1930,LA,CONSTITUTIONAL AMENDMENT,8,Increases monthly pension of Confederate veterans and their widows from $30 to $60,1,Journal calls for unanimous approval as belated tribute to heroes of Civil War,0.95
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,1,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,10,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,11,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,12,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,13,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,14,City of New Orleans authorized to issue bond issue to buy a privately owned ferry - creating political jobs for Long-Walmsley machine,0,Journal calls amendment dangerous - would create political jobs for Long-Walmsley machine,0.95
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,15,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,2,Refinancing of Shreveport's outstanding indebtedness - requested by entire city council,1,Journal explicitly favors - has merit and should be approved,0.95
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,3,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,4,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,5,$5 million bond issue to take care of board of liquidation debts,0,Journal calls amendment dangerous and recommends rejection,0.95
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,6,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,7,Inserts provision in organic law governing the age of school children,0,Journal calls amendment dangerous and recommends rejection,0.95
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,8,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,CONSTITUTIONAL AMENDMENT,9,Louisiana constitutional amendment (one of 15 proposed),1,Journal sees no reason to oppose - among 12 of 15 amendments favored,0.70
+LA,Shreveport Journal,118401,1932,LA,REFERENDUM,,Repeal of the Hood Law (Louisiana state prohibition enforcement measure),0,Journal urges defeat of repeal - state's solemn and patriotic duty to cooperate with national government,0.95
+LA,Shreveport Journal,118401,1932,LA,REFERENDUM,,Memorialize Congress to submit repeal of Eighteenth Amendment (prohibition) by convention,0,Journal recommends rejection - resubmission would be much fairer and more satisfactory,0.95
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,1,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,10,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,11,Authorizes sale of Confederate pension bonds at 95 cents instead of par; would provide funds to pay pensions of $60/month instead of $30 to Confederate veterans and their widows,1,Journal especially urges ratification - debt of gratitude to Confederate veterans,0.95
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,12,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,13,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,14,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,2,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,3,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,4,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,5,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,6,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,7,Louisiana constitutional amendment (one of 14 proposed),0,"Journal urges defeat of all amendments except Nos. 8, 9, and 11",0.85
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,8,Gives parishes and municipalities the right to impose liquor licenses greater than imposed by the state,1,Journal explicitly favors Amendment No. 8,0.95
+LA,Shreveport Journal,118401,1934,LA,CONSTITUTIONAL AMENDMENT,9,Increases the terms of city judges to six years,1,Journal explicitly favors Amendment No. 9,0.95
+LA,Shreveport Journal,118401,1936,LA,CONSTITUTIONAL AMENDMENT,13,Removes prohibition preventing legislators from holding offices created or whose emoluments were increased during their term,0,Journal calls amendment 'full of dynamite' - would pave way for temptation and governmental abuses,0.95
+LA,Shreveport Journal,118401,1936,LA,CONSTITUTIONAL AMENDMENT,18,Permits state treasurer to succeed himself in office,0,"Journal urges defeat - existing prohibition serves good purpose, should remain unchanged",0.95
+LA,Shreveport Journal,118401,1936,LA,CONSTITUTIONAL AMENDMENT,3,Postpones New Orleans municipal election from April 1940 to April 1942 - would force New Orleans citizens to remain under political domination of existing Long machine,0,Journal urges defeat - calls it grossly unjust and would set vicious precedent,0.95
+LA,Shreveport Journal,118401,1936,LA,CONSTITUTIONAL AMENDMENT,4,$30 million bond issue for highways and improvements connected with state highway system - includes Mississippi Bridge at Baton Rouge and Caddo parish roads,1,Journal favors adoption for sake of public service - Caddo will receive much highway money,0.95
+LA,Shreveport Journal,118401,1938,LA,CONSTITUTIONAL AMENDMENT,1,"Exempting new homes constructed and improvements made since Jan. 1, 1938 from property taxes for three years",0,"Journal urges defeat - unfair to homeowners who built or bought before Jan 1, 1938",0.95
+LA,Shreveport Journal,118401,1938,LA,CONSTITUTIONAL AMENDMENT,11,Exempting from property taxation motor boats using gasoline as fuel,0,Journal urges defeat - unfair to automobile owners who pay property and gasoline taxes,0.95
+LA,Shreveport Journal,118401,1938,LA,CONSTITUTIONAL AMENDMENT,4,"Authorizing $5,000,000 additional bonds against 4-cent gasoline road tax with half for farmers' roads and half for road maintenance",0,Journal urges defeat - Caddo parish has received little for taxes paid; foolish to vote without guarantee of road improvements within Caddo's borders,0.95
+LA,Shreveport Journal,118401,1948,LA,CONSTITUTIONAL AMENDMENT,10,"Authorizing voting machines in Caddo communities, including Shreveport",1,All Caddo voters urged to vote FOR - of strictly local interest,0.95
+LA,Shreveport Journal,118401,1948,LA,CONSTITUTIONAL AMENDMENT,15,Louisiana constitutional amendment (one of 41 proposed),0,Journal previously (Friday edition) urged defeat,0.85
+LA,Shreveport Journal,118401,1948,LA,CONSTITUTIONAL AMENDMENT,22,Louisiana constitutional amendment (one of 41 proposed),0,Journal previously (Friday edition) urged defeat,0.85
+LA,Shreveport Journal,118401,1948,LA,CONSTITUTIONAL AMENDMENT,27,Authorizing Shreveport citizens by charter to change their form of municipal government in interest of future advancement,1,All Caddo voters urged to vote FOR - of strictly local interest to Shreveport,0.95
+LA,Shreveport Journal,118401,1948,LA,CONSTITUTIONAL AMENDMENT,32,Louisiana constitutional amendment (one of 41 proposed),0,Journal previously (Friday edition) urged defeat,0.85
+LA,Shreveport Journal,118401,1948,LA,CONSTITUTIONAL AMENDMENT,33,Louisiana constitutional amendment (one of 41 proposed),0,Journal previously (Friday edition) urged defeat,0.85
+LA,Shreveport Journal,118401,1948,LA,CONSTITUTIONAL AMENDMENT,34,Louisiana constitutional amendment (one of 41 proposed),0,Journal previously (Friday edition) urged defeat,0.85
+LA,Shreveport Journal,118401,1948,LA,CONSTITUTIONAL AMENDMENT,41,Louisiana constitutional amendment (one of 41 proposed),0,Journal previously (Friday edition) urged defeat,0.85
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,1,"Increasing debt limitation of sewerage districts from 10 to 15 percent of assessed valuations, applying particularly to East Baton Rouge parish",1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,10,Boats used for transporting school children (local Louisiana issue),1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.85
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,11,Highway/road bond issue - given excessive existing state debt and recent highway/bridge expenditures,0,Journal urges AGAINST - state debt is excessively heavy; pay-as-you-go plan should be considered,0.95
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,12,Providing for parks and playgrounds,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,13,Permitting size of homesteads under the homestead exemption to be increased,0,Journal urges AGAINST,0.95
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,14,Authorizing roadway extension into Bayou Lafourche from Ascension and Lafourche parishes,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.85
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,15,Authorizing Jefferson parish to have voting machines that Caddo parish now uses for facilitating and safeguarding the ballot,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,16,Re-opening the veterans bonus claim filing period and making non-dependent parents and children under 16 years eligible for benefit payment,1,Journal urges FOR - calls it fair and proper,0.95
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,17,Increasing maximum ad valorem tax for municipalities to enable them to obtain operating funds; elected officials should have right to provide funds within limitations,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,18,Separate school district issue - combining St. John the Baptist and St. Charles parishes into new district,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.85
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,19,School district reorganization in Jefferson parish,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,2,Adding purposes for which the present 5-mill tax for permanent public improvements may be levied,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,20,"Providing for a commission to regulate butane and other liquified petroleum gas industry, with supervision over sale, transportation and installation of the gas",1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,21,"Making terms of city judges expire Dec. 31, 1954 instead of 30 days earlier, and making uniform",1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,22,Authorizing creation of public improvement districts; municipalities have authority to issue bonds to private institutions under stipulated conditions,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.85
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,23,Permitting buyers of adjudicated land of one acre or less at public sale to also acquire the mineral rights,0,Journal urges AGAINST - state should not sell minerals of state-owned land; deviation from policy of reserved mineral rights for the people,0.95
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,3,Authorizing Ouachita parish drainage district to levy taxation for pumping facilities,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,4,Applying homestead exemption to school taxes in some parishes,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,5,Authorizing the governor to fill vacancies on the state board of education,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,6,Making tax fuel used by aircraft tax-free; aircraft does not damage state-built highways,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,7,Granting home rule to New Orleans,1,Journal calls it 'a very democratic proposal',0.95
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,8,Provides for a causeway across Lake Pontchartrain and highway approaches to the lake,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1950,LA,CONSTITUTIONAL AMENDMENT,9,Authorizing Lake Charles to issue bonds for improving public buildings,1,"Journal urges FOR all amendments except 11, 13, 19, 23",0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,10,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,11,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,12,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,13,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,14,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,15,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,16,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,17,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,18,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,19,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,2,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,20,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,21,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,22,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,23,Louisiana constitutional amendment,1,Journal urges FOR,0.85
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,24,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,25,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,26,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,27,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,28,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,29,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,3,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,30,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,31,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,32,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,33,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,34,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,35,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,36,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,37,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,38,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,39,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,4,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,40,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,41,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,42,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,43,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,44,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,45,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,46,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,47,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,48,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,49,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,5,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,6,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,7,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,8,Louisiana constitutional amendment,0,Journal urges AGAINST,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL AMENDMENT,9,Louisiana constitutional amendment,1,Journal urges FOR,0.90
+LA,Shreveport Journal,118401,1956,LA,CONSTITUTIONAL CONVENTION,,Proposed state constitutional convention,0,"Journal urges AGAINST - tampering with constitution would invite new, unwarranted taxes",0.95
+LA,Shreveport Journal,118401,1966,LA,CONSTITUTIONAL AMENDMENT,42,"Establish Grant Parish bridge authority for Ward 7 (Montgomery), governed by 5-member board appointed by governor",0,"Journal recommends defeat - no study showing bridges needed; bridges 30 miles apart already serve area; population only 13,330",0.95
+LA,Shreveport Journal,118401,1966,LA,CONSTITUTIONAL AMENDMENT,43,"Establish Grant Parish bridge authority for Ward 1 (Colfax), governed by 5-member board appointed by governor",0,Journal recommends defeat - no study showing bridges needed,0.95
+LA,Shreveport Journal,118401,1966,LA,CONSTITUTIONAL AMENDMENT,44,"Create West Cameron Port, Harbor and Terminal District with elected commission empowered to regulate commerce, build port facilities, acquire industrial sites, issue bonds up to $15 million",1,Journal recommends adoption - location on Gulf gives advantages for industry; would help parish broaden economy,0.95
+LA,Shreveport Journal,118401,1966,LA,CONSTITUTIONAL AMENDMENT,45,"Create East Cameron Port, Harbor and Terminal District with elected commission",1,Journal recommends adoption - same reasoning as Amendment 44,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,1,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,10,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,11,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,12,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,13,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,14,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,15,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,16,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,17,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,18,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,19,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,2,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,20,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,21,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,22,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,23,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,24,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,25,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,26,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,27,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,28,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,29,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,3,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,30,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,31,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,32,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,33,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,34,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,35,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,36,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,37,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,38,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,39,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,4,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,40,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,41,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,42,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,43,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,44,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,45,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,46,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,47,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,48,Louisiana constitutional amendment,0,Journal recommends AGAINST,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,49,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,5,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,50,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,6,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,7,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,8,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1968,LA,CONSTITUTIONAL AMENDMENT,9,Louisiana constitutional amendment,1,Journal recommends FOR,0.95
+LA,Shreveport Journal,118401,1984,LA,CONSTITUTIONAL AMENDMENT,1,"Caps growth in recurrent state expenditures (limits to 85% of average percentage increase in personal income over previous three years); creates Stabilization Fund (40%), Permanent Fund (36%) for Louisiana Science and Technology and Renewable Resources Foundations, and budget allocation (24%)",1,Journal recommends FOR - purpose to assure prudent planning is worthy and necessary,0.95
+LA,Shreveport Journal,118401,1984,LA,CONSTITUTIONAL AMENDMENT,2,"Exempts motor vehicle dealers from paying state, parish and special property taxes on vehicles held as inventory; tax revenue made up by $10 increase in title fee",1,"Journal recommends FOR - reasonable change, would simplify taxing procedure and encourage dealers to enlarge inventories",0.95
+LA,Shreveport Journal,118401,1984,LA,CONSTITUTIONAL AMENDMENT,3,"Eliminates deduction of federal corporate taxes from state corporate income tax returns (except minimal $1,000 deduction); shifts tax dollars from Washington to Baton Rouge",1,Journal recommends FOR - shifts tax dollars from Washington to Baton Rouge; corporation pays just 3.9% more total but state receives significantly more,0.95
+LA,Shreveport Journal,118401,1984,LA,CONSTITUTIONAL AMENDMENT,4,"Provides for organizational session of newly elected Legislature in state capitol for not more than three days for purposes of judging qualifications, taking oath of office, organizing the houses, selecting officers",1,Journal recommends FOR - housekeeping matter that voters should approve,0.90
+LA,Shreveport Journal,118401,1984,LA,CONSTITUTIONAL AMENDMENT,5,"Revises list of institutions of higher learning that nominate persons for appointment to New Orleans civil service commission, replacing St. Mary's Dominican College with Our Lady of Holy Cross College",1,Journal recommends FOR - housekeeping matter that voters should approve,0.90
+LA,Shreveport Journal,118401,1990,LA,CITY CHARTER AMENDMENT,1,Shreveport city charter - delete maximum money limit for fines; increase time from 60 to 180 days,1,Journal endorses sensible charter amendments - worthwhile and should be passed,0.95
+LA,Shreveport Journal,118401,1990,LA,CITY CHARTER AMENDMENT,2,City Council minutes publication continues but long texts of ordinances deleted to save city money,1,Journal endorses,0.95
+LA,Shreveport Journal,118401,1990,LA,CITY CHARTER AMENDMENT,3,Deletes requirement that every ordinance or resolution making a contract be complete in form when finally passed by City Council; requires final form be on file,1,Journal endorses,0.95
+LA,Shreveport Journal,118401,1990,LA,CITY CHARTER AMENDMENT,4,Initiative ordinances which allow citizens to propose specific laws by petition would be regulated as state law now regulates recall petitions; require proper number of valid signatures within 180 days,1,Journal endorses,0.95
+LA,Shreveport Journal,118401,1990,LA,CITY CHARTER AMENDMENT,5,Sets new deadlines for budget preparation; council members want budget information earlier; takes away authority of council members to modify procedures set up for budget,1,Journal endorses - perhaps the most significant from a government standpoint,0.95
+LA,Shreveport Journal,118401,1990,LA,CITY CHARTER AMENDMENT,6,Streamlines administrative procedures for Shreveport Airport Authority; allows authority and council to retain airport earnings for benefit of airport,1,Journal endorses - constructive step in making airport more useful public service,0.95
+LA,Shreveport Journal,118401,1990,LA,CITY CHARTER AMENDMENT,7,"Deletes specific provisions on accounts of water and sewerage systems, so long as accounts are kept accurately; specific disposition requirements of system earnings would be deleted",1,Journal endorses,0.95
+LA,Shreveport Journal,118401,1990,LA,CITY CHARTER AMENDMENT,8,Specifically includes employees of police and fire departments in general ban against employees having an interest in city contracts,1,Journal endorses,0.95
+LA,Shreveport Journal,118401,1990,LA,TAX PROPOSITION,,Caddo Law Enforcement District tax - raises money for operating costs of Caddo sheriff's office; makes up for revenue lost from declining property assessments,1,Journal endorses,0.95
+LA,Shreveport Journal,118401,1990,LA,TAX PROPOSITION,1,Caddo Parish Commission Proposition 1 - new money for expansion of health unit; purchase of empty medical building for expanded Shreveport unit,1,Journal endorses - health unit valuable public service that must be expanded,0.95
+LA,Shreveport Journal,118401,1990,LA,TAX PROPOSITION,3,Caddo Parish Commission Proposition 3 - new money for expansion of health unit; construction of new Vivian unit,1,Journal endorses - health unit valuable public service that must be expanded,0.95
+LA,Shreveport Journal,118401,1990,LA,TAX PROPOSITION,4,Parish Jail tax - one a renewal and one a new operating millage; provides money to put felons in jail; bottom line is that it costs money to put lawbreakers in prison,1,Journal urges vote for Propositions 4 and 5 on parish commission ballot,0.95
+LA,Shreveport Journal,118401,1990,LA,TAX PROPOSITION,5,Parish Jail tax - one a renewal and one a new operating millage; provides money to put felons in jail,1,Journal urges vote for Propositions 4 and 5 on parish commission ballot,0.95

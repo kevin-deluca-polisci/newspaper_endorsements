@@ -1,0 +1,33 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Shreveport Times
+Newspaper ID: 118400
+State: LA
+Number of clippings: 65
+Endorsement data years: 1950-2014
+Total candidate endorsements: 75
+Total proposition endorsements: 225
+
+Confidence statistics:
+  Mean confidence: 0.862
+  Low-confidence records (< 0.7): 12
+
+Top offices (top 15):
+  PRESIDENT: 23
+  SENATOR: 14
+  CITY COUNCIL: 14
+  SCHOOL BOARD: 8
+  H: 6
+  JUDGE: 3
+  MAYOR: 2
+  PUBLIC SAFETY COMMISSIONER: 1
+  CNTY COMM: 1
+  CONSTABLE: 1
+  DA/PROSECUTOR: 1
+  PUBLIC SERVICE COMMISSION: 1
+
+Party distribution:
+  Democrat: 35
+  Republican: 17
+  American Independent: 2

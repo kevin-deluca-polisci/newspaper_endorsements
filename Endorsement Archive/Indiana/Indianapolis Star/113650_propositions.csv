@@ -1,0 +1,8 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+IN,Indianapolis Star,113650,1966,IN,AMENDMENT,,Tax structure amendment - eliminate household goods/intangibles taxes,1,Important inequity correction,0.93
+IN,Indianapolis Star,113650,1966,IN,AMENDMENT,,Legislative process speedup,1,Important amendment,0.93
+IN,Indianapolis Star,113650,1970,IN,AMENDMENT,1,Indiana legislature length/frequency of sessions,0,Blank Check - oppose unlimited legislative power,0.95
+IN,Indianapolis Star,113650,1974,IN,AMENDMENT,,State militia amendment - eliminate males-only definition,1,Three amendments noncontroversial and desirable,0.90
+IN,Indianapolis Star,113650,1974,IN,AMENDMENT,,Indiana Constitution amendment 1974,1,Noncontroversial,0.85
+IN,Indianapolis Star,113650,1988,IN,AMENDMENT,1,Indiana lottery (gambling business),0,The Big Con - obvious answer is No to state gambling,0.95
+IN,Indianapolis Star,113650,1990,IN,AMENDMENT,,State public employee retirement funds in stocks,0,Wrong amendment - voters rejected in 1986; reject again,0.95

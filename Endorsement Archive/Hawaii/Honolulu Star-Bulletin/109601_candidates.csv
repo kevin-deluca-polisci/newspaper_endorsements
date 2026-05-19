@@ -1,0 +1,131 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+HI,Honolulu Star-Bulletin,109601,1918,H,AT-LARGE,,HI,"KALANIANAOLE, JONAH KUHIO",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,H,AT-LARGE,,HI,"KALANIANAOLE, J. K.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,4,,HI,"ANDREWS, LORRIN",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,4,,HI,"COOKE, C. H.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,4,,HI,"CRISTY, A. M.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,4,,HI,"JARRETT, J. K.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,4,,HI,"LOWREY, FRED D.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,4,,HI,"WILDER, GERRIT P.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,5,,HI,"ARCHER, FRANK",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,5,,HI,"CRAWFORD, E. J.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,5,,HI,"FERNANDEZ, E. K.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,5,,HI,"MANU, SAMUEL",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,5,,HI,"MARINO, E. H. S.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE REP,5,,HI,"VIERRA, A. K.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE SENATOR,,,HI,"AHIA, WILLIAM M.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE SENATOR,,,HI,"JUDD, LAWRENCE M.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1920,STATE SENATOR,,,HI,"LUCAS, JOHN",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1922,H,AT-LARGE,,HI,"WISE, JOHN H.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1924,H,AT-LARGE,,HI,"RICE, PHILIP L.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1928,H,AT-LARGE,,HI,"HOUSTON, VICTOR S. K.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1930,STATE SENATOR,,,HI,"BROWN, FRANCIS I.",,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1930,STATE SENATOR,,,HI,"ROBINSON, MARK A.",,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1930,STATE SENATOR,,,HI,"SYLVA, JOSEPH L.",,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1932,H,AT-LARGE,,HI,"HOUSTON, VICTOR S. K.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1932,MAYOR,HONOLULU,,HI,"WRIGHT, FRED",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1936,STATE SENATOR,OAHU,,HI,"BEEBE, EUGENE H.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1936,STATE SENATOR,OAHU,,HI,"BROWN, FRANCIS B.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1936,STATE SENATOR,OAHU,,HI,"DENISON, GEORGE P.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1960,PRESIDENT,,,HI,"NIXON, RICHARD M.",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1968,MAYOR,Honolulu,,HI,D. G. ANDERSON,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1968,PRESIDENT,,,US,RICHARD M. NIXON,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1970,H,1,,HI,SPARK M. MATSUNAGA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1970,H,2,,HI,PATSY T. MINK,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1970,SENATOR,,,HI,HIRAM L. FONG,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1972,H,1,,HI,SPARK MATSUNAGA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1972,H,2,,HI,PATSY T. MINK,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1972,PRESIDENT,,,US,RICHARD M. NIXON,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,BOARD OF EDUCATION,Oahu,,HI,RICHARD ANDO,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,AKIRA SAKIMA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,ANDREW POEPOE,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,CHARLES USHIJIMA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,HIRAM FONG JR.,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,JACK SUWA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,JAMES WAKATSUKI,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,RICHARD GARCIA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,ROBERT KIMURA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,STEVE COBB,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,STUART HO,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,TADAO BEPPU,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,W. BUDDY SOARES,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE REP,,,HI,YOSHITO TAKAMINE,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,ANSON CHONG,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,D. G. ANDERSON,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,DENNIS O'CONNOR,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,DONALD CHING,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,FRED ROHLFING,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,JEAN KING,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,JOHN LEOPOLD,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,MARY GEORGE,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,PATRICIA SAIKI,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,RICHARD WONG,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,ROBERT TAIRA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,VINCENT YANO,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1974,STATE SENATOR,,,HI,WADSWORTH YEE,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1980,DA/PROSECUTOR,Honolulu,,HI,CHARLES MARSLAND,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1980,DA/PROSECUTOR,Honolulu,,HI,LEE SPENCER,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1980,H,1,,HI,CECIL HEFTEL,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1980,H,2,,HI,DANIEL AKAKA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1980,MAYOR,Honolulu,,HI,EILEEN ANDERSON,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1980,PRESIDENT,,,US,RONALD REAGAN,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1980,SENATOR,,,HI,DANIEL K. INOUYE,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1982,GOVERNOR,,,HI,GEORGE R. ARIYOSHI,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1982,H,,,HI,CECIL HEFTEL,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1982,H,,,HI,DANIEL K. AKAKA,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1982,LT GOVERNOR,,,HI,JOHN WAIHEE,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1982,STATE REP,18,,HI,RON SEGAWA,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1984,H,1,,HI,CECIL HEFTEL,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1984,H,2,,HI,DANIEL AKAKA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1984,PRESIDENT,,,HI,RONALD REAGAN,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,BOARD OF EDUCATION,Central Oahu,,HI,FRANCIS R. MCMILLEN,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,BOARD OF EDUCATION,Maui,,HI,MEYER R. UEOKA,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,BOARD OF EDUCATION,Oahu At-Large,,HI,FRANCES LEILANI,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,BOARD OF EDUCATION,Oahu At-Large,,HI,PETER H.P. HO,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,BOARD OF EDUCATION,Oahu At-Large,,HI,TOY ARRE,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,BOARD OF EDUCATION,Windward Oahu,,HI,JOHN R. PENEBACKER,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,GOVERNOR,,,HI,"D.G. ""ANDY"" ANDERSON",Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,H,1,,HI,PAT SAIKI,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,H,2,,HI,DANIEL AKAKA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,LT GOVERNOR,,,HI,FRANK FASI,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,MAYOR,Maui,,HI,HANNIBAL TAVARES,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1986,SENATOR,,,HI,DANIEL K. INOUYE,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1988,H,1,,HI,PATRICIA SAIKI,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1988,H,2,,HI,DANIEL AKAKA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1988,MAYOR,Hawaii (Big Island),,HI,DANTE CARPENTER,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1988,MAYOR,Honolulu,,HI,FRANK FASI,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1988,MAYOR,Kauai,,HI,JOANN YUKIMURA,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1988,PRESIDENT,,,HI,MICHAEL DUKAKIS,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1988,SENATOR,,,HI,SPARK MATSUNAGA,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1988,VICE PRESIDENT,,,HI,LLOYD BENTSEN,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1990,GOVERNOR,,,HI,JOHN WAIHEE,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1990,H,1,,HI,MIKE LIU,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1990,H,2,,HI,PATSY MINK,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1990,MAYOR,Hawaii (Big Island),,HI,LORRAINE INOUYE,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1990,MAYOR,Kauai,,HI,JOANN YUKIMURA,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1990,MAYOR,Maui,,HI,LINDA LINGLE,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1990,SENATOR,,,HI,PAT SAIKI,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,1994,GOVERNOR,,,HI,FRANK FASI,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2002,GOVERNOR,,,HI,LINDA LINGLE,Republican,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,BOARD OF EDUCATION,Central,,HI,DENISE MATSUMOTO,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,BOARD OF EDUCATION,Hawaii,,HI,HERBERT S. WATANABE,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,BOARD OF EDUCATION,Kauai,,HI,MARGARET COX,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,BOARD OF EDUCATION,Leeward,,HI,BREENE HARIMOTO,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,BOARD OF EDUCATION,Oahu At-Large,,HI,GARRETT TOGUCHI,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,BOARD OF EDUCATION,Oahu At-Large,,HI,GUY KAULUKUKUI,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,BOARD OF EDUCATION,Oahu At-Large,,HI,ROBERT R. MIDKIFF,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,H,1,,HI,NEIL ABERCROMBIE,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,H,2,,HI,ED CASE,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,MAYOR,Honolulu,,HI,DUKE BAINUM,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,PRESIDENT,,,HI,JOHN KERRY,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2004,SENATOR,,,HI,DANIEL INOUYE,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,BOARD OF EDUCATION,At Large,,HI,GARRETT TOGUCHI,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,BOARD OF EDUCATION,At Large,,HI,JANIS AKUNA,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,BOARD OF EDUCATION,At Large,,HI,LEI AHU ISA,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,BOARD OF EDUCATION,Hawaii,,HI,HERBERT WATANABE,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,BOARD OF EDUCATION,Honolulu,,HI,CAROL MON LEE,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,BOARD OF EDUCATION,Kauai,,HI,MAGGIE COX,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,H,1,,HI,NEIL ABERCROMBIE,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,H,2,,HI,MAZIE HIRONO,Democrat,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,MAYOR,Honolulu,,HI,MUFI HANNEMANN,,1,,,,,0.85
+HI,Honolulu Star-Bulletin,109601,2008,PRESIDENT,,,HI,BARACK OBAMA,Democrat,1,,,,,0.85

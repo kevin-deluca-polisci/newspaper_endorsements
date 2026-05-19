@@ -1,0 +1,37 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+IN,Indianapolis Star,113650,1960,PRESIDENT,,,IN,"NIXON, RICHARD M.",Republican,1,,,,If You Want It Vote For It - implicit Nixon support,0.85
+IN,Indianapolis Star,113650,1962,H,,,IN,"BRUCE, DONALD",Republican,1,,1,,Two Votes Count editorial criticizes Democrats on farm policy,0.88
+IN,Indianapolis Star,113650,1962,SENATOR,,,IN,"BAYH, BIRCH",Democrat,0,,,,Wrong on Cuba prior to action,0.88
+IN,Indianapolis Star,113650,1962,SENATOR,,,IN,"CAPEHART, HOMER",Republican,1,,1,,Cuba issue - those right on Cuba; The Choice Is Yours,0.92
+IN,Indianapolis Star,113650,1964,PRESIDENT,,,IN,"GOLDWATER, BARRY",Republican,1,,,,A Choice Not An Echo; new policies; reduce centralized govt; peace through strength,0.95
+IN,Indianapolis Star,113650,1964,PRESIDENT,,,IN,"JOHNSON, LYNDON",Democrat,0,1,,,Peace through accommodation,0.93
+IN,Indianapolis Star,113650,1968,GOVERNOR,,,IN,"WHITCOMB, EDGAR",Republican,1,,,,Republican gubernatorial candidate; named Arterburn to panel,0.93
+IN,Indianapolis Star,113650,1968,SUPREME COURT,,,IN,"ARTERBURN, NORMAN F.",,1,,,1,Strictly constitutional opinions; outspoken on permissive Supreme Court,0.93
+IN,Indianapolis Star,113650,1972,H,11,,IN,"HUDNUT, WILLIAM",Republican,1,,,,In Support Of Hudnut,0.94
+IN,Indianapolis Star,113650,1972,H,11,,IN,"JACOBS, ANDREW JR.",Democrat,0,1,,,Hudnut preferred over Jacobs,0.88
+IN,Indianapolis Star,113650,1974,H,11,,IN,"HUDNUT, WILLIAM",Republican,1,,1,,First-termer who has fought for fiscal integrity,0.94
+IN,Indianapolis Star,113650,1974,JUDGE,,Marion County,IN,"BORING, VALAN S.",,1,,,,Stern but fair jurist; effective law enforcement; new judge,0.92
+IN,Indianapolis Star,113650,1974,JUDGE,,Marion County Probate Court,IN,"MADINGER, EDWARD",,1,,,1,Court constantly improved; cut probate time 2yrs to 11mo,0.94
+IN,Indianapolis Star,113650,1976,GOVERNOR,,,IN,"BOWEN, OTIS R.",Republican,1,,1,,Bowen For Governor; done a good job; should be re-elected,0.95
+IN,Indianapolis Star,113650,1976,SENATOR,,,IN,"LUGAR, RICHARD G.",Republican,1,,,,Lugar For Senator; forthright effective champion,0.96
+IN,Indianapolis Star,113650,1980,SENATOR,,,IN,"BAYH, BIRCH",Democrat,0,1,,,Playing hard ball and dirty ball; campaigner desperately wants to stay,0.94
+IN,Indianapolis Star,113650,1980,SENATOR,,,IN,"QUAYLE, DAN",Republican,1,,,,Bye-Bye Bayh - opposition to Bayh implies Quayle support,0.92
+IN,Indianapolis Star,113650,1982,SENATOR,,,IN,"LUGAR, RICHARD GREEN",Republican,1,,1,,Send Lugar Back - first 6 years few mistakes,0.96
+IN,Indianapolis Star,113650,1984,PRESIDENT,,,IN,"MONDALE, WALTER",Democrat,0,,,,Opposed,0.92
+IN,Indianapolis Star,113650,1984,PRESIDENT,,,IN,"REAGAN, RONALD",Republican,1,,1,,Send Reagan back - prices soaring under Carter contrast,0.95
+IN,Indianapolis Star,113650,1986,H,,,IN,"LONG, JILL L.",Democrat,0,,,,High-class campaign; Senate race challenger but Republican preferred,0.85
+IN,Indianapolis Star,113650,1988,GOVERNOR,,,IN,"BAYH, EVAN",Democrat,0,,,,32-year-old freshman officeholder; similarities to Mutz,0.92
+IN,Indianapolis Star,113650,1988,GOVERNOR,,,IN,"MUTZ, JOHN",Republican,1,,1,,Mutz For Governor; veteran of state government,0.95
+IN,Indianapolis Star,113650,1988,PRESIDENT,,,IN,"BUSH, GEORGE",Republican,1,,,,Bush For President,0.95
+IN,Indianapolis Star,113650,1988,PRESIDENT,,,IN,"DUKAKIS, MICHAEL",Democrat,0,,,,Opposed,0.92
+IN,Indianapolis Star,113650,1988,SENATOR,,,IN,"LUGAR, RICHARD G.",Republican,1,,1,,Senator with credentials character and performance,0.96
+IN,Indianapolis Star,113650,1988,SUPERINTENDENT,,,IN,"EVANS, H. DEAN",,1,,,1,Vote For Excellence; adult life in education,0.93
+IN,Indianapolis Star,113650,1990,SEC OF STATE,,,IN,"HOGSETT, JOSEPH",Democrat,0,,,1,Appointed incumbent; Hudnut preferred,0.88
+IN,Indianapolis Star,113650,1990,SEC OF STATE,,,IN,"HUDNUT, WILLIAM",Republican,1,,,,Mayor of Indianapolis; Hogsett vs Hudnut,0.90
+IN,Indianapolis Star,113650,2008,ATTORNEY GENERAL,,,IN,"ZOELLER, GREG",Republican,1,,,,Star endorsement,0.85
+IN,Indianapolis Star,113650,2008,GOVERNOR,,,IN,"DANIELS, MITCH",Republican,1,,1,,Star endorsement,0.88
+IN,Indianapolis Star,113650,2008,PRESIDENT,,,IN,"MCCAIN, JOHN",Republican,1,,,,Star Editorial Board Endorsements - Election 2008,0.88
+IN,Indianapolis Star,113650,2008,SUPERINTENDENT,,,IN,"BENNETT, TONY",Republican,1,,,,Star endorsement,0.85
+IN,Indianapolis Star,113650,2010,SENATOR,,,IN,"COATS, DAN",Republican,1,,,,Star Editorial Board Endorsements 2010,0.87
+IN,Indianapolis Star,113650,2012,GOVERNOR,,,IN,"PENCE, MIKE",Republican,1,,,,Star Editorial Board Endorsements 2012,0.87
+IN,Indianapolis Star,113650,2012,SENATOR,,,IN,"MOURDOCK, RICHARD",Republican,1,,,,Star Senate endorsement,0.85

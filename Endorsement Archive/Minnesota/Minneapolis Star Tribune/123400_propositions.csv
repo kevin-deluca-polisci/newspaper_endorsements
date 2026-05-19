@@ -1,0 +1,7 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+MN,Minneapolis Star Tribune,123400,1982,MN,AMENDMENT,1,Appellate court,1,Yes,0.93
+MN,Minneapolis Star Tribune,123400,1982,MN,AMENDMENT,2,Highway bonding,1,Yes,0.93
+MN,Minneapolis Star Tribune,123400,1982,MN,AMENDMENT,3,Parimutuel betting,0,No,0.93
+MN,Minneapolis Star Tribune,123400,1982,MN,AMENDMENT,4,Railroad bonding,1,Yes,0.93
+MN,Minneapolis Star Tribune,123400,2012,MN,AMENDMENT,,Photo ID at polls requirement,0,Unnecessary costly amendment - Vote no,0.94
+MN,Minneapolis Star Tribune,123400,2016,MN,AMENDMENT,,Minnesota legislative pay constitutional amendment,1,Yes,0.93

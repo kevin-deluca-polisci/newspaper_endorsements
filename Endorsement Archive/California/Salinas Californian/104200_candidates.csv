@@ -1,0 +1,264 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+CA,Salinas Californian,104200,1952,PRESIDENT,,,CA,"EISENHOWER, DWIGHT D.",Republican,1,,,,Voters Guide endorsement,0.95
+CA,Salinas Californian,104200,1952,SENATOR,,,CA,"KNOWLAND, WILLIAM F.",Republican,1,,,,Voters Guide endorsement,0.93
+CA,Salinas Californian,104200,1952,VICE PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,,,Voters Guide endorsement,0.93
+CA,Salinas Californian,104200,1956,H,13,,CA,"TEAGUE, CHARLES M.",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1956,PRESIDENT,,,CA,"EISENHOWER, DWIGHT D.",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1956,SENATOR,,,CA,"KUCHEL, THOMAS H.",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1956,STATE REP,,,CA,"PATTEE, ALAN G.",,1,,,,Unopposed; vote of confidence,0.90
+CA,Salinas Californian,104200,1956,STATE SENATOR,,,CA,"FARR, FRED S.",,1,,,,Unopposed; vote of confidence,0.90
+CA,Salinas Californian,104200,1956,VICE PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1960,H,13,,CA,"TEAGUE, CHARLES M.",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1960,PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1960,STATE REP,,,CA,"PATTEE, ALAN G.",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1960,STATE SENATOR,,,CA,"BRYAN, WILLIAM F.",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1960,VICE PRESIDENT,,,CA,"LODGE, HENRY CABOT",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1962,ATTORNEY GENERAL,,,CA,"COAKLEY, TOM",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1962,BOARD OF EQUALIZATION,,,CA,"REILLY, GEORGE R.",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1962,CONTROLLER,,,CA,"REAGAN, BRUCE V.",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1962,GOVERNOR,,,CA,"NIXON, RICHARD M.",Republican,1,,,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1962,H,,,CA,"TALCOTT, BURT L.",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1962,LT GOVERNOR,,,CA,"CHRISTOPHER, GEORGE",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1962,SEC OF STATE,,,CA,"JORDAN, FRANK M.",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1962,SENATOR,,,CA,"KUCHEL, THOMAS H.",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1962,SHERIFF,,Monterey County,CA,"KLAUMANN, CLYDE P.",,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1962,STATE REP,,,CA,"PATTEE, ALAN G.",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1962,SUPERINTENDENT,,Monterey County School Superintendent,CA,"COFFIN, ED",,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1962,SUPERINTENDENT,,,CA,"RAFFERTY, MAX",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1962,TREASURER,,,CA,"BUSTERUD, JOHN A.",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1964,CNTY COMM,1,Monterey County,CA,"DEAVER, CHESTER",,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1964,CNTY COMM,4,Monterey County,CA,"ANDERSON, BEAUFORD",,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1964,H,12,,CA,"TALCOTT, BURT L.",Republican,1,,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1964,PRESIDENT,,,CA,"GOLDWATER, BARRY M.",Republican,1,,,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1964,SENATOR,,,CA,"MURPHY, GEORGE",Republican,1,,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1964,STATE REP,34,,CA,"PATTEE, ALAN",,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1964,STATE SENATOR,,,CA,"FARR, FRED",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1966,ATTORNEY GENERAL,,,CA,"LYNCH, THOMAS C.",Democrat,1,,,,Democratic primary,0.90
+CA,Salinas Californian,104200,1966,ATTORNEY GENERAL,,,CA,"WILLIAMS, SPENCER",Republican,1,,,,Republican primary,0.90
+CA,Salinas Californian,104200,1966,BOARD OF EQUALIZATION,,,CA,"REILLY, GEORGE R.",Democrat,1,,,,Democratic primary,0.88
+CA,Salinas Californian,104200,1966,BOARD OF EQUALIZATION,,,CA,"SMITH, PAUL BRUCE",Republican,1,,,,Republican primary,0.88
+CA,Salinas Californian,104200,1966,BOARD OF EQUALIZATION,1,,CA,"REILLY, GEORGE R.",Democrat,1,,,,Recap,0.92
+CA,Salinas Californian,104200,1966,CNTY COMM,3,Monterey County,CA,"WOOD, BOB",,1,,,,Nonpartisan,0.88
+CA,Salinas Californian,104200,1966,CONTROLLER,,,CA,"CRANSTON, ALAN",Democrat,1,1,,,Democratic primary,0.92
+CA,Salinas Californian,104200,1966,CONTROLLER,,,CA,"FLOURNOY, HOUSTON I.",Republican,1,,,,Take controller out of politics; CDC influence,0.94
+CA,Salinas Californian,104200,1966,CONTROLLER,,,CA,"PACE, JOSEPH L.",Republican,1,,,,Republican primary,0.88
+CA,Salinas Californian,104200,1966,GOVERNOR,,,CA,"BROWN, EDMUND G. (PAT)",Democrat,1,1,,,Democratic primary recommendation,0.92
+CA,Salinas Californian,104200,1966,GOVERNOR,,,CA,"REAGAN, RONALD",Republican,1,,,,Republican primary recommendation,0.92
+CA,Salinas Californian,104200,1966,H,12,,CA,"BARON, GERALD V.",Democrat,1,,,,Democratic primary,0.85
+CA,Salinas Californian,104200,1966,H,12,,CA,"TALCOTT, BURT L.",Republican,1,,1,,Republican primary,0.94
+CA,Salinas Californian,104200,1966,LT GOVERNOR,,,CA,"ANDERSON, GLENN",Democrat,1,,,,Democratic primary,0.90
+CA,Salinas Californian,104200,1966,LT GOVERNOR,,,CA,"FINCH, ROBERT",Republican,1,,,,Take-charge individual; enlightened Republicanism,0.95
+CA,Salinas Californian,104200,1966,LT GOVERNOR,,,CA,"FINCH, ROBERT H.",Republican,1,,,,Republican primary,0.90
+CA,Salinas Californian,104200,1966,SEC OF STATE,,,CA,"GORDEN, MILTON",Democrat,1,,,,Democratic primary,0.88
+CA,Salinas Californian,104200,1966,SEC OF STATE,,,CA,"JORDAN, FRANK",Republican,1,,1,,Republican primary,0.90
+CA,Salinas Californian,104200,1966,SEC OF STATE,,,CA,"JORDAN, FRANK M.",Republican,1,,1,,Recap,0.94
+CA,Salinas Californian,104200,1966,STATE REP,,,CA,"BOURRIAGUE, IRBY E.",Democrat,1,,,,Democratic primary,0.85
+CA,Salinas Californian,104200,1966,STATE REP,,,CA,"PATTEE, ALAN G.",Republican,1,,,,Republican primary,0.92
+CA,Salinas Californian,104200,1966,STATE REP,34,,CA,"PATTEE, ALAN",,1,,,,Recap,0.93
+CA,Salinas Californian,104200,1966,STATE SENATOR,,,CA,"FARR, FRED S.",Democrat,1,1,,,Democratic primary,0.92
+CA,Salinas Californian,104200,1966,STATE SENATOR,,,CA,"STURGEON, VERNON L.",Republican,1,,,,Republican primary,0.88
+CA,Salinas Californian,104200,1966,STATE SENATOR,17,,CA,"GRUNSKY, DONALD",Republican,1,,1,,Impressive record of leadership,0.94
+CA,Salinas Californian,104200,1966,STATE SENATOR,17,,CA,"GRUNSKY, DONALD A.",Republican,1,,1,,Recap,0.94
+CA,Salinas Californian,104200,1966,SUPERINTENDENT,,Monterey County School Superintendent,CA,"MARSH, GEORGE",,1,,,,Nonpartisan,0.88
+CA,Salinas Californian,104200,1966,SUPERINTENDENT,,,CA,"RAFFERTY, MAX",Republican,1,,,,Nonpartisan,0.92
+CA,Salinas Californian,104200,1966,TREASURER,,,CA,"BETTS, BERT",Democrat,1,1,,,Democratic primary,0.92
+CA,Salinas Californian,104200,1966,TREASURER,,,CA,"BETTS, BERT A.",Democrat,1,1,,,Recap,0.94
+CA,Salinas Californian,104200,1966,TREASURER,,,CA,"PRIEST, IVY BAKER",Republican,1,,,,Republican primary,0.90
+CA,Salinas Californian,104200,1966,TREASURER,,,CA,"PRIEST, IVY BAKER",Republican,0,,,,Limited experience compared to Betts,0.88
+CA,Salinas Californian,104200,1968,CNTY COMM,1,Monterey County,CA,"CHURCH, WARREN",,1,1,,,Nonpartisan,0.90
+CA,Salinas Californian,104200,1968,CNTY COMM,4,Monterey County,CA,"SMITH, LOREN",,1,,,1,Nonpartisan,0.90
+CA,Salinas Californian,104200,1968,H,12,,CA,"TALCOTT, BURT",Republican,1,,1,,Unopposed,0.93
+CA,Salinas Californian,104200,1968,PRESIDENT,,,CA,"KENNEDY, ROBERT F.",Democrat,1,,,,Primary preference indicator,0.90
+CA,Salinas Californian,104200,1968,PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1968,PRESIDENT,,,CA,"REAGAN, RONALD",Republican,1,,,,Primary preference indicator,0.90
+CA,Salinas Californian,104200,1968,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,1,,,,Primary,0.90
+CA,Salinas Californian,104200,1968,SENATOR,,,CA,"KUCHEL, THOMAS H.",Republican,1,,1,,Primary,0.92
+CA,Salinas Californian,104200,1968,SENATOR,,,CA,"RAFFERTY, MAX",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1968,STATE REP,34,,CA,"PATTEE, ALAN G.",Republican,1,,1,,Unopposed,0.93
+CA,Salinas Californian,104200,1968,STATE SENATOR,17,,CA,"GRUNSKY, DONALD",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1968,STATE SENATOR,17,,CA,"GRUNSKY, DONALD L.",Republican,1,,1,,Unopposed,0.93
+CA,Salinas Californian,104200,1970,ATTORNEY GENERAL,,,CA,"YOUNGER, EVELLE J.",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1970,BOARD OF EQUALIZATION,1,,CA,"REILLY, GEORGE R.",Democrat,1,,,1,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1970,CNTY COMM,2,Monterey County,CA,"ATTERIDGE, ARTHUR",,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1970,CONTROLLER,,,CA,"FLOURNOY, HOUSTON I.",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1970,GOVERNOR,,,CA,"REAGAN, RONALD",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1970,H,,,CA,"TALCOTT, BURT L.",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1970,LT GOVERNOR,,,CA,"REINECKE, ED",Republican,1,,1,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1970,SEC OF STATE,,,CA,"FLOURNOY, JAMES L.",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1970,STATE REP,34,,CA,"WOOD, BOB",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1970,SUPERINTENDENT,,,CA,"RAFFERTY, MAX",Republican,1,,,1,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1970,TREASURER,,,CA,"PRIEST, IVY BAKER",Republican,1,,1,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1972,CNTY COMM,4,Monterey County Toro,CA,"POYNER, ROGER",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1972,H,12,,CA,"TALCOTT, BURT L.",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1972,PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1972,STATE REP,34,,CA,"WOOD, BOB",Republican,1,,1,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1972,STATE SENATOR,17,,CA,"GRUNSKY, DONALD L.",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1974,ATTORNEY GENERAL,,,CA,"YOUNGER, EVELLE",Republican,1,,1,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1974,BOARD OF EQUALIZATION,,,CA,"REILLY, GEORGE",Democrat,1,,,1,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1974,CNTY COMM,,Monterey County,CA,"PETROVIC, DUSAN M.",,1,,,,Final recap,0.91
+CA,Salinas Californian,104200,1974,CONTROLLER,,,CA,"BAGLEY, WILLIAM T.",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1974,GOVERNOR,,,CA,"DYMALLY, MERVYN M.",Democrat,0,,,,Opposing candidate,0.85
+CA,Salinas Californian,104200,1974,GOVERNOR,,,CA,"FLOURNOY, HOUSTON I.",Republican,1,,,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1974,H,,,CA,"TALCOTT, BURT L.",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1974,LT GOVERNOR,,,CA,"HARMER, JOHN L.",Republican,1,,,,Final recap,0.92
+CA,Salinas Californian,104200,1974,SEC OF STATE,,,CA,"FONG, MARCH K.",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1974,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1974,STATE REP,,,CA,"MURPHY, FRANK JR.",Republican,1,,1,,Final recap,0.92
+CA,Salinas Californian,104200,1974,STATE REP,,,CA,"NIMMO, ROBERT",Republican,1,,1,,Final recap,0.92
+CA,Salinas Californian,104200,1974,TREASURER,,,CA,"KEHOE, JOHN T.",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1976,CNTY COMM,4,Monterey County,CA,"MOORE, MICHAL",,1,,,,Toro to Monterey Peninsula,0.92
+CA,Salinas Californian,104200,1976,H,,,CA,"TALCOTT, BURT",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1976,PRESIDENT,,,CA,"FORD, GERALD",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1976,STATE REP,28,,CA,"PARRISH, LARRY",,1,,,,North County Monterey Peninsula,0.90
+CA,Salinas Californian,104200,1976,STATE SENATOR,,,CA,"NIMMO, BOB",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1976,VICE PRESIDENT,,,CA,"DOLE, ROBERT",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1978,ATTORNEY GENERAL,,,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1978,BOARD OF EQUALIZATION,,,CA,"REILLY, GEORGE R.",Democrat,1,,,1,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1978,CNTY COMM,2,Monterey County,CA,"NORRIS, ED",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1978,CNTY COMM,3,Monterey County,CA,"PETROVIC, DUSAN M.",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1978,CONTROLLER,,,CA,"CORY, KENNETH",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1978,GOVERNOR,,,CA,"YOUNGER, EVELLE J.",Republican,1,,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1978,H,,,CA,"PANETTA, LEON E.",Democrat,1,,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1978,LT GOVERNOR,,,CA,"CURB, MIKE",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1978,SEC OF STATE,,,CA,"EU, MARCH FONG",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1978,STATE REP,28,,CA,"MELLO, HENRY",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1978,STATE REP,29,,CA,"HALLETT, CAROL",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1978,SUPREME COURT,,,CA,"BIRD, ROSE",,0,,,1,No on Rose Bird,0.94
+CA,Salinas Californian,104200,1978,TREASURER,,,CA,"UNRUH, JESSE M.",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1980,CNTY COMM,1,Monterey County,CA,"DEL PIERO, MARC",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1980,H,,,CA,"PANETTA, LEON",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1980,PRESIDENT,,,CA,"REAGAN, RONALD",Republican,1,,,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1980,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1980,STATE REP,29,,CA,"HALLETT, CAROL",Republican,1,,1,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1980,STATE SENATOR,17,,CA,"SEASTRAND, ERIC",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1982,ASSESSOR,,Monterey County,CA,"REEVES, BRUCE",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1982,ATTORNEY GENERAL,,,CA,"VAN DE KAMP, JOHN",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1982,CONTROLLER,,,CA,"CORY, J. KENNETH",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1982,GOVERNOR,,,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1982,H,,,CA,"PANETTA, LEON",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1982,LT GOVERNOR,,,CA,"HALLETT, CAROL",Republican,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1982,SEC OF STATE,,,CA,"EU, MARCH FONG",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1982,STATE REP,25,,CA,"AREIAS, RUSTY",Democrat,1,,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1982,STATE REP,29,,CA,"SEASTRAND, ERIC",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1982,SUPERINTENDENT,,Monterey County School Supt,CA,"BRAMLETT, TROY",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1982,SUPERINTENDENT,,,CA,"HONIG, BILL",,1,,,,State School Supt,0.92
+CA,Salinas Californian,104200,1982,TREASURER,,,CA,"UNRUH, JESSE M.",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1984,CNTY COMM,4,Monterey County,CA,"BENSON, CHARLES",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1984,CNTY COMM,5,Monterey County,CA,"KAUFFMAN, KARIN S.",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1984,H,16,,CA,"PANETTA, LEON E.",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1984,PRESIDENT,,,CA,"REAGAN, RONALD",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1984,STATE REP,25,,CA,"AREIAS, RUSTY",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1984,STATE REP,28,,CA,"FARR, SAM",Democrat,1,,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1984,STATE REP,29,,CA,"SEASTRAND, ERIC",Republican,1,,1,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1984,STATE SENATOR,17,,CA,"MELLO, HENRY J.",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1986,ATTORNEY GENERAL,,,CA,"VAN DE KAMP, JOHN",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1986,CONTROLLER,,,CA,"DAVIS, GRAY",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1986,GOVERNOR,,,CA,"DEUKMEJIAN, GEORGE",Republican,1,,1,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1986,H,16,,CA,"PANETTA, LEON",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1986,LT GOVERNOR,,,CA,"MCCARTHY, LEO",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1986,SCHOOL BOARD,,Salinas Valley Memorial Hospital Dist,CA,"BRESCHINI, LEONARD",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,1986,SCHOOL BOARD,,Salinas Valley Memorial Hospital Dist,CA,"OLIVAS, NATHAN",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,1986,SCHOOL BOARD,,Salinas Valley Memorial Hospital Dist,CA,"WYMAN, JOYCE",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,1986,SEC OF STATE,,,CA,"EU, MARCH FONG",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1986,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1986,STATE REP,25,,CA,"AREIAS, RUSTY",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1986,STATE REP,28,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1986,STATE REP,29,,CA,"SEASTRAND, ERIC",Republican,1,,1,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1986,SUPREME COURT,,,CA,"BIRD, ROSE",,0,,,1,No on retention - Bird,0.95
+CA,Salinas Californian,104200,1986,SUPREME COURT,,,CA,"GRODIN, JOSEPH",,0,,,1,No on retention - Grodin,0.93
+CA,Salinas Californian,104200,1986,SUPREME COURT,,,CA,"REYNOSO, CRUZ",,0,,,1,No on retention - Reynoso,0.93
+CA,Salinas Californian,104200,1986,TREASURER,,,CA,"UNRUH, JESSE",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1988,H,,,CA,"PANETTA, LEON",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1988,PRESIDENT,,,CA,"BUSH, GEORGE",Republican,1,,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1988,SENATOR,,,CA,"WILSON, PETE",Republican,1,,1,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1988,STATE REP,25,,CA,"AREIAS, RUSTY",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1988,STATE REP,28,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1988,STATE REP,29,,CA,"SEASTRAND, ERIC",Republican,1,,1,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1988,STATE SENATOR,17,,CA,"MELLO, HENRY",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1990,CNTY COMM,3,Monterey County,CA,"PERKINS, TOM",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1990,H,,,CA,"PANETTA, LEON",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1990,STATE REP,25,,CA,"AREIAS, RUSTY",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1990,STATE REP,28,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1990,STATE REP,29,,CA,"SEASTRAND, ANDREA",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1990,SUPERINTENDENT,,Monterey County Superintendent of Schools,CA,"BARR, BILL",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1992,H,,,CA,"PANETTA, LEON E.",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1992,PRESIDENT,,,CA,"CLINTON, BILL",Democrat,1,,,,Clinton/Gore Democratic recommendation,0.95
+CA,Salinas Californian,104200,1992,SENATOR,,,CA,"BOXER, BARBARA",Democrat,1,,,,Full term US Senate,0.93
+CA,Salinas Californian,104200,1992,SENATOR,,,CA,"FEINSTEIN, DIANNE",Democrat,1,,,,Short term US Senate,0.93
+CA,Salinas Californian,104200,1992,STATE REP,27,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1992,STATE REP,28,,CA,"AREIAS, RUSTY",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1994,ATTORNEY GENERAL,,,CA,"LUNGREN, DAN",Republican,1,,1,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1994,CONTROLLER,,,CA,"MCCLINTOCK, TOM",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1994,GOVERNOR,,,CA,"BROWN, KATHLEEN",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1994,H,,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1994,INSURANCE COMMISSIONER,,,CA,"TORRES, ART",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1994,JUDGE,,Superior Court Judge,CA,"FIELDS, MICHAEL",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1994,LT GOVERNOR,,,CA,"DAVIS, GRAY",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,1994,SEC OF STATE,,,CA,"MILLER, TONY",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1994,SENATOR,,,CA,"FEINSTEIN, DIANNE",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1994,STATE REP,27,,CA,"MONNING, BILL",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1994,STATE REP,28,,CA,"CERVANTES, LILY",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1994,SUPERINTENDENT,,,CA,"DIMARCO, MAUREEN",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1994,TREASURER,,,CA,"FONG, MATT",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1996,CNTY COMM,,Riverside County Supervisor,CA,"BELL, JOHN",,0,,,,Temecula edition; less experience,0.82
+CA,Salinas Californian,104200,1996,CNTY COMM,,Riverside County Supervisor,CA,"BUSTER, BOB",,1,,,1,Temecula edition; experience over Bell,0.85
+CA,Salinas Californian,104200,1996,CNTY COMM,5,Monterey County,CA,"POTTER, DAVE",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,1996,H,17,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1996,PRESIDENT,,,CA,"CLINTON, BILL",Democrat,1,1,,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,1996,STATE REP,,,CA,"CERVANTES, LILY",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1996,STATE REP,,,CA,"KEELEY, FRED",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1996,STATE SENATOR,,,CA,"MCPHERSON, BRUCE",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,1998,GOVERNOR,,,CA,"DAVIS, GRAY",Democrat,1,,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,1998,LT GOVERNOR,,,CA,"BUSTAMANTE, CRUZ",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,2000,CITY COUNCIL,1,Salinas,CA,"TORRES, MALVINA",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2000,CITY COUNCIL,4,Salinas,CA,"DE LA ROSA, GLORIA",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2000,CITY COUNCIL,6,Salinas,CA,"LUTES, JYL",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2000,H,,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,2000,MAYOR,,Salinas,CA,"CABALLERO, ANNA",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2000,PRESIDENT,,,CA,"GORE, AL",Democrat,1,,,,Salinas Californian recommendation,0.95
+CA,Salinas Californian,104200,2000,SENATOR,,,CA,"FEINSTEIN, DIANNE",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,2000,STATE REP,27,,CA,"KEELEY, FRED",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2000,STATE REP,28,,CA,"SALINAS, SIMON",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2000,STATE SENATOR,,,CA,"MCPHERSON, BRUCE",Republican,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2002,ASSESSOR,,Monterey County,CA,"VAGNINI, STEVE",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,2002,CITY COUNCIL,1,Salinas,CA,"MUSCUTT, KEN",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2002,CITY COUNCIL,3,Salinas,CA,"BARNES, JANET",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2002,CITY COUNCIL,5,Salinas,CA,"GIURIATO, MARIA T.",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2002,H,17,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,2002,JUDGE,,Superior Court Office 10,CA,"VELASQUEZ, JOSE A.",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,2002,MAYOR,,Salinas,CA,"CABALLERO, ANNA M.",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2002,MAYOR,,Greenfield Mayor,CA,"SALVAGNO, ARTHUR E.",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2002,SHERIFF,,Monterey County Sheriff/Coroner/Public Admin,CA,"KANALAKIS, MIKE",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,2002,STATE REP,27,,CA,"LAIRD, JOHN",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2002,STATE REP,28,,CA,"SALINAS, SIMON",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2002,STATE SENATOR,12,,CA,"AREIAS, RUSTY",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,2004,CNTY COMM,4,Monterey County,CA,"PARKER, JANE",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,2004,H,17,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,2006,CITY COUNCIL,,Soledad,CA,"CAMACHO, MARTHA",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,CITY COUNCIL,,Gonzales,CA,"GOURLEY, MATT",,1,,,1,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,CITY COUNCIL,,Marina,CA,"GRAY, KEN",,1,,,1,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,CITY COUNCIL,,Gonzales,CA,"GUMKE, JOE",,1,,,1,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,CITY COUNCIL,,Marina,CA,"MCCALL, DAVE",,1,,,1,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,CITY COUNCIL,,Gonzales,CA,"OROZCO, MARIA",,1,,,1,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,CITY COUNCIL,,Soledad,CA,"SAAVEDRA, JUAN",,1,,,1,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,CITY COUNCIL,2,Salinas,CA,"BARRERA, TONY",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,CITY COUNCIL,3,Salinas,CA,"BARNES, JANET",,1,,,1,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,CITY COUNCIL,5,Salinas,CA,"VILLEGAS, STEVE",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2006,H,17,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,2006,MAYOR,,Salinas Mayor,CA,"DONOHUE, DENNIS",,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2006,SENATOR,,,CA,"FEINSTEIN, DIANNE",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,2006,STATE REP,27,,CA,"LAIRD, JOHN",Democrat,1,1,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,2006,STATE REP,28,,CA,"CABALLERO, ANNA",Democrat,1,,,,Salinas Californian recommendation,0.93
+CA,Salinas Californian,104200,2006,STATE SENATOR,12,,CA,"DENHAM, JEFF",Republican,1,,1,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2008,CITY COUNCIL,6,Salinas,CA,"LUTES, JYL",,1,,,1,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2008,H,17,,CA,"FARR, SAM",Democrat,1,1,,,Salinas Californian recommendation,0.94
+CA,Salinas Californian,104200,2008,JUDGE,,Monterey County Superior Court,CA,"HORNIK, TODD",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2008,STATE REP,27,,CA,"MONNING, BILL",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2008,STATE SENATOR,15,,CA,"MALDONADO, ABEL",Republican,1,,1,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2010,CITY COUNCIL,,Salinas,CA,"CRAIG, KIMBLEY",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2010,CITY COUNCIL,,Salinas,CA,"MCSHANE, STEVE",,1,,,,Salinas Californian recommendation,0.90
+CA,Salinas Californian,104200,2010,MAYOR,,Salinas Mayor,CA,"DONOHUE, DENNIS",,1,,,1,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2010,SHERIFF,,Monterey County,CA,"MILLER, SCOTT",,1,,,,Salinas Californian recommendation,0.91
+CA,Salinas Californian,104200,2010,STATE REP,28,,CA,"ALEJO, LUIS",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2010,STATE SENATOR,12,,CA,"CABALLERO, ANNA",Democrat,1,,,,Salinas Californian recommendation,0.92
+CA,Salinas Californian,104200,2010,TREASURER,,Monterey County Treasurer/Tax Collector,CA,"MCPHERSON, JOHN",,1,,,,Salinas Californian recommendation,0.91

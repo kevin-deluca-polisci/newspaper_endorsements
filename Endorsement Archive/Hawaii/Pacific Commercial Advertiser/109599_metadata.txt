@@ -1,0 +1,29 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Pacific Commercial Advertiser
+Newspaper ID: 109599
+State: HI
+Number of clippings: 7
+Endorsement data years: 1900-1914
+Total candidate endorsements: 63
+Total proposition endorsements: 0
+
+Confidence statistics:
+  Mean confidence: 0.850
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 24
+  CNTY COMM: 18
+  STATE SENATOR: 9
+  SHERIFF: 3
+  MAYOR: 3
+  H: 2
+  AUDITOR: 1
+  CNTY CLERK: 1
+  DA/PROSECUTOR: 1
+  TREASURER: 1
+
+Party distribution:
+  Republican: 63

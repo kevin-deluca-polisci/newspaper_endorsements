@@ -1,0 +1,395 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,1,Authorize investment of public retirement funds in stocks/shares,1,More balanced portfolio; restrictions added since 1964 defeat,0.95
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,1-A,Revisions to California Constitution including judicial article and legislative compensation,0,Hodgepodge - oppose; legislators setting own salaries,0.95
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,10,Interest-free loans of public funds for restoration of private property in disaster areas,0,Smacks of socialism; no guidelines; state would insure private property,0.95
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,11,Remove legislature power to amend boxing/wrestling initiative act of 1924,0,Piecemeal Constitution revision; tied to 1-A; confusing,0.93
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,12,County assessment appeals boards on local option basis,1,Right of counties to establish appeals boards,0.95
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,13,Remove constitutional requirement for annual property tax statements,1,Removes law assessors do not enforce,0.95
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,14,Make state income tax laws conform with federal income tax laws,1,Reduces complete computation burden,0.95
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,15,Change educational qualifications for voting - exempt elderly long-term residents from English literacy test,0,Reading 100 words of US Constitution is reasonable voting requirement,0.94
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,3,Assess open-space lands at existing use value rather than market value,1,Encourage preservation of open space; recreation and agricultural lands,0.94
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,4,Reduce school/library bond approval threshold from 2/3 to 60% if on primary/general ballot,1,Many districts have failed; resubmission costs money,0.95
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,5,Property tax relief in event of disaster - destroyed by major misfortune or calamity,0,Special tax treatment; unfair advantage,0.93
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,6,Eliminate governor pocket veto - require veto override mechanism for all bills,1,Pocket veto is poor government; bill timing should not affect override rights,0.96
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,7,Allow county supervisors to set their own salaries,0,Eliminates check and balance from grand jury and state legislature,0.95
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,8,Insurance company office tax deduction formula,0,Reversed later - see 11/02; revenue loss possible,0.85
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,8,Insurance company office tax deduction formula - limit deduction to occupied portion,1,Reversed earlier opposition; adds $1M to state treasury; eliminates double taxation,0.93
+CA,Merced Sun Star,103100,1966,CA,AMENDMENT,9,Property tax exemption for blind veterans equal to paraplegic veterans,1,Corrects 1960 oversight - raises from $1000 to $5000,0.96
+CA,Merced Sun Star,103100,1966,CA,BOND,2,State Higher Education Construction Program Bond Act 1966 - $230 million for UC and state colleges,1,80% rise in college age population through 1970,0.97
+CA,Merced Sun Star,103100,1966,CA,INITIATIVE,16,Obscenity law - tighten standards for prosecuting obscene material,0,Goes too far; Bible could be banned; due process concerns,0.97
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,1,Constitution Revision,1,1968 recap,0.92
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,1A,Property Tax Exemption,0,1968 recap,0.92
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,2,Formula for assessing publicly-owned lands and water rights,1,New formula necessary,0.88
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,3,School Bonds,1,1968 recap,0.92
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,4,Simplify CA personal income tax reporting and collection,1,Five tax measures should be approved,0.92
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,5,Hospital Loans,1,1968 recap,0.92
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,6,Exempt private non-profit college retirement programs from state insurance premium tax,1,Five tax measures should be approved,0.93
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,7,Allocate general fund monies to cities/counties for own purposes,1,Definition of state vs local purposes is ambiguous,0.93
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,8,Allow cities/counties to share sales tax revenue with voter agreement,1,No organized opposition,0.93
+CA,Merced Sun Star,103100,1968,CA,AMENDMENT,9,Property Tax Rate Limit,0,1968 recap,0.92
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,10,Loan Limit,0,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,11,Chiropractic Act,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,12,Supervisors Salaries,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,13,Vets Tax Relief,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,14,Civil Service Exemptions,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,15,Constitutional Revision,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,16,Constitutional Revision,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,17,Constitutional Revision,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,18,Gas Tax,0,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,19,Loan Sharking,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,2,Officer Replacement,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,3,Budget Speed-Up,0,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,6,Teacher Funds,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,7,Speaker College Trustee,0,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,8,Civil Service Exemption,0,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,AMENDMENT,9,Appoint Superintendents,1,1970 recap,0.91
+CA,Merced Sun Star,103100,1970,CA,BOND,1,Clean Water Bond,1,1970 recap,0.93
+CA,Merced Sun Star,103100,1970,CA,BOND,20,Recreation Bond,0,1970 recap,0.91
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,10,Increase property tax exemption $5K to $10K for service-blinded veterans,1,Keeps effective level on par with 1960,0.94
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,11,Right of privacy - constitutional amendment,1,Make explicit; fundamental freedom not currently delineated,0.93
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,12,"Extend $10K tax exemption to severely disabled veterans (lost both arms, etc.)",1,Less than 2000 veterans estimated,0.94
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,13,Workmen's Compensation amendment,0,Recap shows No vote,0.85
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,15,State employees salaries set by legislature,0,Defeat - removes governor veto on salaries,0.92
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,16,Highway Patrol salaries from legislative regulation,0,Defeat - patrolmen already highest paid,0.92
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,18,Obscenity,0,1972 recap,0.92
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,4,"Legislative reorganization - calendar year sessions, salary commission",1,Calculated to save tax money,0.92
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,5,Greater local discretion for school districts,1,Decision close to child; less statewide management,0.94
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,6,Revising outdated/unnecessary Constitution provisions,1,Three more yes - bipartisan effort,0.92
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,7,"Elections, primary residence and literacy requirements",1,Aligns with federal changes,0.92
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,8,Exempt pollution control facilities from ad valorem taxation,1,Unfair to tax non-productive capital required by regulation,0.94
+CA,Merced Sun Star,103100,1972,CA,AMENDMENT,9,Majority instead of 2/3 vote for bonds to repair unsafe schools,1,Help districts secure matching state funds,0.94
+CA,Merced Sun Star,103100,1972,CA,BOND,1,College Bonds,1,1972 recap,0.94
+CA,Merced Sun Star,103100,1972,CA,BOND,2,Health Science Bonds,1,1972 recap,0.94
+CA,Merced Sun Star,103100,1972,CA,BOND,3,Pollution Bonds,1,1972 recap,0.94
+CA,Merced Sun Star,103100,1972,CA,INITIATIVE,14,"Watson tax amendment - limit property taxes, fund education/welfare via sales tax increase",0,Under-funded by $1.5B; would wreak havoc; defeated,0.97
+CA,Merced Sun Star,103100,1972,CA,INITIATIVE,17,Death penalty initiative - mandatory death penalty for life prisoners attacking guards,1,Deter life prisoners from assaulting guards; capital punishment deters crime,0.96
+CA,Merced Sun Star,103100,1972,CA,INITIATIVE,19,Marijuana decriminalization initiative,0,Until effects determined by research no liberalization,0.96
+CA,Merced Sun Star,103100,1972,CA,INITIATIVE,20,Coastal Zone - California Coastal Zone Conservation Act,0,Not good legislation; nature of coast varies too much for single standard,0.95
+CA,Merced Sun Star,103100,1972,CA,INITIATIVE,21,Student assignment to schools - prohibit race-based assignments,0,Would invite court-ordered busing; repeal local board flexibility,0.95
+CA,Merced Sun Star,103100,1972,CA,INITIATIVE,22,Farm labor relations - establish ag labor relations board with secret ballots,1,Aid to agriculture; restore order to ag labor scene,0.96
+CA,Merced Sun Star,103100,1972,CA,LOCAL,A,Election Merger,0,City elections merger,0.85
+CA,Merced Sun Star,103100,1972,CA,LOCAL,B,Water Company Purchase,1,City should own water system; bond payment plan,0.93
+CA,Merced Sun Star,103100,1972,CA,LOCAL,C,Low Rent Housing,1,Merced south side housing vacancy critically low,0.93
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,10,Right to Vote,0,1974 recap,0.92
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,11,Gender Language Change - eliminate masculine gender references from Constitution,1,Recognize equal opportunity for men and women,0.93
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,12,Public Utilities - reorganize PUC article; cut 81 percent without substantive change,1,Streamlines article,0.90
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,13,San Diego Judicial Districts - allow division of cities into multiple courts,0,No good reason; would invite other cities to apply,0.93
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,14,State College System - add Senate president pro tempore as ex-officio member,0,Politicize the system,0.92
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,15,Low Rent Housing,0,1974 recap,0.92
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,16,Student Tuition UC - transfer fee-setting power from Regents to Legislature,0,Would make university political football,0.95
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,2,Charters for Cities and Counties,1,Recap,0.85
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,3,Education Commission Personnel - civil service exemption,0,No logical reason; similar measure turned down in June,0.93
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,4,Reassessment of Property,1,Primary recap,0.90
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,4,Regents UC - change composition/terms/appointments,1,Better diversified board; shorten 16-year term to 12,0.93
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,5,Mass Transport Guideways,1,Primary recap,0.90
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,5,Residents of Local Govt Employees - allow employees to live anywhere,1,No justification for residency requirements; restrictions on freedom of choice,0.92
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,6,Public Legislative Proceedings,1,Primary recap,0.90
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,6,Property Tax Exemptions,1,1974 recap,0.92
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,7,State Civil Service Exemptions,1,Primary recap,0.85
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,7,Declaration of Rights - define rights of those charged with crimes,1,Aligns with US Constitution; no substantive changes,0.90
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,8,Taxation and State Funds,1,1974 recap,0.92
+CA,Merced Sun Star,103100,1974,CA,AMENDMENT,9,Recall of Public Officers,0,1974 recap,0.92
+CA,Merced Sun Star,103100,1974,CA,BOND,1,Recreation Lands Bond - $250M to acquire/develop California recreation land,1,Would create new state park at San Luis Island,0.96
+CA,Merced Sun Star,103100,1974,CA,BOND,1,Recreation Lands Bond Act,1,Primary recap,0.92
+CA,Merced Sun Star,103100,1974,CA,BOND,1,State School Bonds - $150M for State School Building Aid Fund,1,$100M loans for districts at legal capacity; $50M for earthquake-unsafe schools,0.95
+CA,Merced Sun Star,103100,1974,CA,BOND,2,Clean Water Bond - $250M for water pollution control,1,Continues federal-state cost sharing for waste water treatment,0.95
+CA,Merced Sun Star,103100,1974,CA,BOND,2,Clean Water Bond Act,1,Primary recap,0.92
+CA,Merced Sun Star,103100,1974,CA,BOND,3,Veterans Bond - $350M for farm home and mobile home loans to CA veterans,1,15 previous similar issues; no cost to state,0.95
+CA,Merced Sun Star,103100,1974,CA,BOND,3,Veterans Bond Act,1,Primary recap,0.92
+CA,Merced Sun Star,103100,1974,CA,INITIATIVE,17,Wild Rivers - amend Wild and Scenic Rivers Act to include Stanislaus River,0,Vote NO on 17 - allow New Melones Dam construction to continue,0.96
+CA,Merced Sun Star,103100,1974,CA,INITIATIVE,17,Wild Rivers - clarification of yes/no on Stanislaus,0,Yes vote stops project - intent is NO to allow construction,0.97
+CA,Merced Sun Star,103100,1974,CA,INITIATIVE,9,Political Reform Initiative,0,Primary recap - Brown initiative opposed,0.92
+CA,Merced Sun Star,103100,1974,CA,LOCAL,A,Merced College Trustee Areas - establish trustee areas within district,0,Prefer college trustees at large not from specific zone,0.93
+CA,Merced Sun Star,103100,1974,CA,LOCAL,B,Merced College Board - increase board members from 5 to 7,0,Keep board at present size,0.93
+CA,Merced Sun Star,103100,1976,CA,AMENDMENT,11,Upgrade unsecured personal property taxes to comparable basis with secured,1,Legislature can adjust to maintain equality,0.93
+CA,Merced Sun Star,103100,1976,CA,AMENDMENT,12,Authorize legislature to provide state loans for solar installations,0,Companion to Prop 3,0.93
+CA,Merced Sun Star,103100,1976,CA,AMENDMENT,15,Increase Board of Chiropractic Examiners 5 to 7 with public members,1,Improve standards; supported by board and CCA,0.93
+CA,Merced Sun Star,103100,1976,CA,AMENDMENT,4,Legislative authority over university purchasing and contracting; admission anti-discrimination,1,Increases scope of legislative control over UC,0.94
+CA,Merced Sun Star,103100,1976,CA,AMENDMENT,5,Amend 10% annual interest ceiling - apply only to consumer loans,0,Already rejected in June primary 56%; encourages inflation; favors business,0.95
+CA,Merced Sun Star,103100,1976,CA,AMENDMENT,6,Extend time for governor to sign bills from first half of session,0,Could result in laws taking effect too quickly; bypass referendum rights,0.93
+CA,Merced Sun Star,103100,1976,CA,AMENDMENT,7,Expand judicial qualifications commission powers,1,Eliminate willfulness requirement; deal with age and health,0.93
+CA,Merced Sun Star,103100,1976,CA,AMENDMENT,8,Non-chartered counties may elect or appoint county superintendent of education,1,Supported by Dept of Ed and state administrators,0.93
+CA,Merced Sun Star,103100,1976,CA,AMENDMENT,9,Governor appointments to constitutional officer vacancies,0,Would tie hands of governor; dilute executive ability,0.93
+CA,Merced Sun Star,103100,1976,CA,BOND,1,$500M general obligation bonds for low rent housing,1,$439M additional mortgage/construction loans plus $50M insurance reserves,0.95
+CA,Merced Sun Star,103100,1976,CA,BOND,2,$280M bonds for parks recreational facilities historical resources and wildlife conservation,1,Last 1974 bonds sold by 1978; coastal lands focus,0.95
+CA,Merced Sun Star,103100,1976,CA,BOND,3,$25M bonds for residential solar heating cooling and insulation installation loans,0,Solar not yet economically practicable; state should not be in that business,0.94
+CA,Merced Sun Star,103100,1976,CA,INITIATIVE,10,Property tax curb - require voter approval for new local agency property taxes (multi-county),1,Significant protection for taxpayers,0.94
+CA,Merced Sun Star,103100,1976,CA,INITIATIVE,13,Permit betting on greyhound racing in California,0,Promoters $55M/yr; monopoly; greyhound racing was crime problem 38 years ago,0.96
+CA,Merced Sun Star,103100,1976,CA,INITIATIVE,14,Farm Labor Initiative - Cesar Chavez written; expands ALRB access rule,0,Blatant usurpation of property rights; cannot be amended without vote,0.97
+CA,Merced Sun Star,103100,1976,CA,LOCAL,A,Merced housing referendum - allow construction up to 500 units low income/elderly housing,1,Need badly evident; 11-story apartment proposed downtown,0.95
+CA,Merced Sun Star,103100,1976,CA,LOCAL,A,Housing referendum - empowers city council on 500 housing units,1,Strong recommend - badly needed housing for low income/elderly,0.96
+CA,Merced Sun Star,103100,1976,CA,LOCAL,A,Housing Measure A,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,1976,CA,LOCAL,B,Increase council expense allowance $20 to $75/month plus group insurance,1,Cosmetic charter amendment,0.92
+CA,Merced Sun Star,103100,1976,CA,LOCAL,C,Increase city ordinance fine $500 to $1000,1,Cosmetic charter amendment,0.92
+CA,Merced Sun Star,103100,1976,CA,LOCAL,D,Word changes to charter,1,Cosmetic charter amendment,0.92
+CA,Merced Sun Star,103100,1976,CA,LOCAL,E,Affirmative vote of majority of entire board required for action,1,Cosmetic charter amendment,0.92
+CA,Merced Sun Star,103100,1976,CA,LOCAL,F,Raise tax limit $1 to $2 per assessed valuation,1,Already in effect,0.92
+CA,Merced Sun Star,103100,1976,CA,LOCAL,G,Increase city public works contract limit $3000 to $5000,1,Cosmetic charter amendment,0.92
+CA,Merced Sun Star,103100,1976,CA,LOCAL,H,Department trust fund and petty cash streamlining,1,Cosmetic charter amendment,0.92
+CA,Merced Sun Star,103100,1976,CA,LOCAL,I,City obligations payable by bank checks,1,Cosmetic charter amendment,0.92
+CA,Merced Sun Star,103100,1976,CA,LOCAL,J,Time limit for filing claims against city,1,Cosmetic charter amendment,0.92
+CA,Merced Sun Star,103100,1978,CA,AMENDMENT,2,Delete PUC constitutional authorization for commissioner-led hearings,0,Backward step; eliminates public participation,0.94
+CA,Merced Sun Star,103100,1978,CA,AMENDMENT,3,State surplus coastal property - sale to state agencies,1,66 parcels of value as parks/beaches/wildlife preserves,0.94
+CA,Merced Sun Star,103100,1978,CA,AMENDMENT,8,Property reconstruction after disaster - prevent newly-constructed reassessment,1,Eliminates Prop 13 inequity,0.94
+CA,Merced Sun Star,103100,1978,CA,BOND,1,Veterans Bond Act 1978 - $500M for farm and home aid,1,Self-liquidating since 1921; 16 previous issues,0.95
+CA,Merced Sun Star,103100,1978,CA,INITIATIVE,4,Chiropractic school accreditation requirements and license modifications,1,Consumer protection enhanced,0.93
+CA,Merced Sun Star,103100,1978,CA,INITIATIVE,5,Smoking regulation - restrict in enclosed buildings/facilities,0,Poorly conceived; existing protections adequate; freedom issue,0.95
+CA,Merced Sun Star,103100,1978,CA,INITIATIVE,6,Briggs Initiative - require school boards dismiss/refuse homosexual teachers,0,Legislates intolerance; existing dismissal laws adequate; witch hunt,0.97
+CA,Merced Sun Star,103100,1978,CA,INITIATIVE,7,Death penalty - expand categories of first-degree murder,1,Tough effective death penalty deters crime,0.95
+CA,Merced Sun Star,103100,1978,CA,LOCAL,A,Merced Union HS trustee areas - establish 3 districts,0,Inconsistent and irregular makeup; defeat and reconsider,0.93
+CA,Merced Sun Star,103100,1978,CA,LOCAL,B,Atwater Low Rent Housing - federal aid for housing authority,1,Need vitally evident in county,0.92
+CA,Merced Sun Star,103100,1978,CA,LOCAL,C,Dos Palos Low Rent Housing,1,Need vitally evident in county,0.92
+CA,Merced Sun Star,103100,1978,CA,LOCAL,D,Los Banos Low Rent Housing,1,Need vitally evident in county,0.92
+CA,Merced Sun Star,103100,1978,CA,LOCAL,E,Planada-Le Grand Low Rent Housing,1,Need vitally evident in county,0.92
+CA,Merced Sun Star,103100,1978,CA,LOCAL,F,Winton Low Rent Housing,1,Need vitally evident in county,0.92
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,10,June primary - Rent control,1,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,11,Judicial salaries - legislative control over judge pay,1,Limit increases to 5% annually,0.93
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,3,June primary - Capitol alteration,0,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,3,Insurance guarantee associations and tax deductibility,0,No overpowering evidence needed; taxpayer should not subsidize,0.94
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,4,June primary - Low cost housing,0,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,4,Solar systems homestead exemption / property tax exemption,0,Sets precedent for other exemptions; shifts tax burden,0.94
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,4,Court reform - reduce jury sizes in civil cases,1,Speed judicial process; criminal cases unaffected,0.88
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,5,June primary - Press shield law,1,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,5,Solar systems Prop 13 exemption,0,Already income tax credit; not fair to other homeowners,0.93
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,6,June primary - Reapportionment,0,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,7,June primary - Federal disaster aid,1,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,8,June primary - Energy revenue bonds,0,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,8,Peripheral Canal - state water development with protections,0,Could prevent best water management; 40K acres at risk,0.96
+CA,Merced Sun Star,103100,1980,CA,AMENDMENT,9,June primary - Tax reduction,0,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,BOND,1,June primary - Park bond act,0,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,BOND,1,Park Bond Act - acquisition and development,0,Similar prop turned down in June; $244M still unused from 1974/76,0.95
+CA,Merced Sun Star,103100,1980,CA,BOND,2,June primary - Veterans home loans,1,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,BOND,2,Tahoe Basin land acquisition - general obligation bonds,0,Voters turned down similar; no significant environmental impact,0.94
+CA,Merced Sun Star,103100,1980,CA,INITIATIVE,10,Smoking regulation initiative,0,Better handled at local level; police should not enforce,0.94
+CA,Merced Sun Star,103100,1980,CA,INITIATIVE,11,June primary - Oil profits tax,0,Primary recap,0.90
+CA,Merced Sun Star,103100,1980,CA,INITIATIVE,7,Property tax exemption initiative,0,Sets precedent,0.88
+CA,Merced Sun Star,103100,1980,CA,LOCAL,A,Merced - set general municipal elections to coincide with school board trustee elections,1,Long-overdue saving to taxpayers,0.94
+CA,Merced Sun Star,103100,1980,CA,LOCAL,B,Merced - commercial development standards,0,Unacceptable proposal as it stands,0.92
+CA,Merced Sun Star,103100,1982,CA,AMENDMENT,10,Court Unification - absorb municipal/justice courts into Superior Court,0,Would mean greater salary costs; existing flexibility already adequate,0.95
+CA,Merced Sun Star,103100,1982,CA,AMENDMENT,13,Water Resources,0,1982 recap,0.92
+CA,Merced Sun Star,103100,1982,CA,AMENDMENT,14,Redistricting commission for Senate Assembly Board of Equalization congressional districts,1,Takes districting out of legislator hands,0.95
+CA,Merced Sun Star,103100,1982,CA,AMENDMENT,6,Public Pension Funds - investment plan,0,OCR sparse - per recap,0.85
+CA,Merced Sun Star,103100,1982,CA,AMENDMENT,7,Fire sprinkler installation - prevent reassessment for newly constructed/remodeled,1,Safety aspect alone justifies; tax penalty shouldnt discourage sprinklers,0.94
+CA,Merced Sun Star,103100,1982,CA,AMENDMENT,8,Fund Transfer,0,1982 recap,0.92
+CA,Merced Sun Star,103100,1982,CA,BOND,1,School Bonds - $500M for construction/improvement of public schools,1,Reluctantly endorse; classrooms overcrowded since Prop 13,0.94
+CA,Merced Sun Star,103100,1982,CA,BOND,2,Jail Building Bonds - $280M for county jail construction/replacement,1,Counties need help with overcrowding; 25% local match required,0.95
+CA,Merced Sun Star,103100,1982,CA,BOND,3,Veterans Bond Act - $450M for veteran farm/home loans,1,Self-supporting program since 1921; 16 prior issues,0.95
+CA,Merced Sun Star,103100,1982,CA,BOND,4,Lake Tahoe Bonds - $85M to protect Lake Tahoe,0,Local Tahoe basin residents should bear cost,0.94
+CA,Merced Sun Star,103100,1982,CA,BOND,5,Home Buyer Bonds - $200M for first-time home buyers,0,1st-time buyers could be trapped beyond means; balloon payments,0.94
+CA,Merced Sun Star,103100,1982,CA,INITIATIVE,11,Bottle Bill - mandatory deposit on beverage containers,0,Limited benefit; only 20% of litter is cans/bottles; cost not justified,0.95
+CA,Merced Sun Star,103100,1982,CA,INITIATIVE,12,Nuclear Freeze - urge bilateral verifiable nuclear freeze with USSR,0,Simplistic; disadvantageous to US; leaves Soviets with heavy ICBMs,0.96
+CA,Merced Sun Star,103100,1982,CA,INITIATIVE,15,Handgun initiative - ownership registration and sale,0,Unnecessary and probably unenforceable; existing laws cover subject,0.96
+CA,Merced Sun Star,103100,1982,CA,INITIATIVE,9,School Textbook loan program for non-public school students,0,Could cost $4M annually; public subsidy of private education,0.94
+CA,Merced Sun Star,103100,1984,CA,AMENDMENT,31,Property Taxation - exempt fire sprinklers/escapes from reassessment,1,Worthy exemption to Prop 13,0.94
+CA,Merced Sun Star,103100,1984,CA,AMENDMENT,32,Supreme Court decisions - allow court to choose issues for review,1,Judicial discretion - speeds judicial process,0.93
+CA,Merced Sun Star,103100,1984,CA,AMENDMENT,33,Property Tax Postponement - extend tax-deferment to blind and disabled,1,Extending senior tax relief to other needy Californians,0.94
+CA,Merced Sun Star,103100,1984,CA,AMENDMENT,34,Historic Structure Taxes - convert historic homes to multifamily without reassessment,1,Encourages historical preservation,0.93
+CA,Merced Sun Star,103100,1984,CA,AMENDMENT,39,Reapportionment Commission - retired appellate judges drawn by lot,1,End gerrymandering; fair representation,0.96
+CA,Merced Sun Star,103100,1984,CA,BOND,25,Clean Water Bonds - $325M for water reclamation/contamination,1,San Luis Drain-Kesterson refuge situation,0.94
+CA,Merced Sun Star,103100,1984,CA,BOND,26,State School Building Bonds - $450M for public school buildings,1,Required investment in our future,0.95
+CA,Merced Sun Star,103100,1984,CA,BOND,27,Hazardous Substance Cleanup - $100M bipartisan bond,1,Toxic waste cleanup; superfund only cleared 2 sites since 1981,0.95
+CA,Merced Sun Star,103100,1984,CA,BOND,28,Safe Drinking Water - $75M bonds for water supply cleanup,1,Cleaning up organic wastes and chemicals,0.94
+CA,Merced Sun Star,103100,1984,CA,BOND,29,Veterans Bonds - $450M for veteran home loans,1,Self-supporting program,0.95
+CA,Merced Sun Star,103100,1984,CA,BOND,30,Senior Center Bonds - $50M for senior center construction/renovation,1,Make easier for seniors to remain in homes,0.94
+CA,Merced Sun Star,103100,1984,CA,INITIATIVE,36,Jarvis tax initiative - amend Prop 13 to restrict fees rates and taxes,0,Negative impact on funding for schools transportation; bond rating impaired,0.95
+CA,Merced Sun Star,103100,1984,CA,INITIATIVE,37,State Lottery initiative - state-operated lottery for education,0,Undermines work ethic; government should not sponsor gambling,0.96
+CA,Merced Sun Star,103100,1984,CA,INITIATIVE,38,English-only voting materials - urge federal govt to require English ballots,1,Common language unifies; would eliminate $1.2M printing cost,0.95
+CA,Merced Sun Star,103100,1984,CA,INITIATIVE,40,Campaign Contributions - public financing of campaigns,0,Helps incumbents stay in office; tax money for politicians,0.94
+CA,Merced Sun Star,103100,1984,CA,INITIATIVE,41,Welfare spending cap - per capita welfare no more than 10% above national avg,0,Brutal effect on poor; 60% cut to welfare; 39% cut to Medi-Cal,0.96
+CA,Merced Sun Star,103100,1986,CA,AMENDMENT,57,Retirement benefits for non-judicial non-legislative elected state constitutional officers,1,Limit scandalous pensions; save $400K/year,0.95
+CA,Merced Sun Star,103100,1986,CA,AMENDMENT,58,Property transfer between spouses/parents/children without reassessment,0,$17M+ cost to local govts; unfair to new homeowners,0.94
+CA,Merced Sun Star,103100,1986,CA,AMENDMENT,60,Allow over-55 to transfer assessed value when buying equal/lesser home,0,Special tax break by age; widens gap with new homeowners,0.94
+CA,Merced Sun Star,103100,1986,CA,AMENDMENT,62,Local Government Taxation,0,No position per recap,0.85
+CA,Merced Sun Star,103100,1986,CA,AMENDMENT,63,English as official state language,0,Frivolous; English already universal language here,0.94
+CA,Merced Sun Star,103100,1986,CA,BOND,53,School Construction - $800M public school bonds,1,Keep up with growing enrollments,0.94
+CA,Merced Sun Star,103100,1986,CA,BOND,54,Prison Bonds - $500M prison construction,0,$1B already approved in past few years,0.94
+CA,Merced Sun Star,103100,1986,CA,BOND,55,Drinking Water Bonds - $100M water system improvements,0,Users should pay for own improvements,0.94
+CA,Merced Sun Star,103100,1986,CA,BOND,56,Higher Education Bonds - $400M for state colleges/universities,1,Keep pace with enrollment,0.94
+CA,Merced Sun Star,103100,1986,CA,INITIATIVE,61,Gann Fair Pay Amendment - cap public salaries at 80% of governor,0,Would shatter governmental structure; $7B one-time cost,0.96
+CA,Merced Sun Star,103100,1986,CA,INITIATIVE,65,Safe Drinking Water and Toxic Enforcement Act,0,Hurts agriculture; exempts govt agencies; serious flaws,0.95
+CA,Merced Sun Star,103100,1988,CA,AMENDMENT,87,Redevelopment Agency Taxes - bond debt clarification,1,Housekeeping measure - correct property tax inequity,0.94
+CA,Merced Sun Star,103100,1988,CA,AMENDMENT,88,Public Money Deposits - allow industrial loan company deposits,1,Increase competition for govt deposits; higher return,0.93
+CA,Merced Sun Star,103100,1988,CA,AMENDMENT,89,Governor Parole Review - authority to deny parole of murderers,1,30 days to review parole decisions; can deny release,0.95
+CA,Merced Sun Star,103100,1988,CA,AMENDMENT,90,Replacement Home Tax - allow over-55 transfer assessed value to another county,1,Extends decision voters made 2 years ago for same-county,0.93
+CA,Merced Sun Star,103100,1988,CA,AMENDMENT,91,Justice Courts,1,1988 recap,0.92
+CA,Merced Sun Star,103100,1988,CA,AMENDMENT,92,Discipline of Judges,1,1988 recap,0.92
+CA,Merced Sun Star,103100,1988,CA,AMENDMENT,93,Veterans Tax Exemption - align CA Constitution with Supreme Court rulings,1,Housekeeping measure,0.92
+CA,Merced Sun Star,103100,1988,CA,AMENDMENT,94,Judges Teaching,1,1988 recap,0.92
+CA,Merced Sun Star,103100,1988,CA,BOND,78,Higher Education Bonds - $600M for college/university facilities,1,140K new students/year; renovate aged facilities,0.95
+CA,Merced Sun Star,103100,1988,CA,BOND,79,School Facilities Bond Act - $800M for K-12,1,Strengthen state-local education partnership,0.95
+CA,Merced Sun Star,103100,1988,CA,BOND,80,Prison Bonds - $817M for new prisons jails and Youth Authority,1,Rising crime rate; current facilities overcrowded,0.94
+CA,Merced Sun Star,103100,1988,CA,BOND,81,Drinking Water Bonds - $75M for DWR Safe Drinking Water program,1,$200M total - health/safety of growing population,0.94
+CA,Merced Sun Star,103100,1988,CA,BOND,82,Water Conservation Bonds - $60M for water conservation loans,1,Conserve precious drinking water,0.94
+CA,Merced Sun Star,103100,1988,CA,BOND,83,Clean Water Bonds - $65M for water reclamation/sewage treatment,1,Combined with federal funds for US-Mexico border treatment plant,0.94
+CA,Merced Sun Star,103100,1988,CA,BOND,84,Housing Bond Act - $300M for housing,1,33K emergency shelter beds; 22K rehab; 8K rental; 300 farm worker,0.95
+CA,Merced Sun Star,103100,1988,CA,BOND,85,Library Bond Act - bonds for libraries,1,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1988,CA,BOND,86,County Jail Bonds - matching funds for county jails/juvenile facilities,1,48 counties sued over jail conditions,0.94
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,100,Insurance Rate Regulation - 20% rate cuts proposed,1,"Among insurance initiatives, this is the good one",0.94
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,101,Auto Accident Rate Claims - cap pain/suffering damages,0,Industry-backed; flaws disadvantage lower-income,0.94
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,102,AIDS Reporting - mandatory testing/reporting; doctor disclosure,0,Extremist measure; would wipe out voluntary confidential testing,0.96
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,103,Insurance Rate Regulations - Prop 103 (Voter Revolt),0,Sun-Star opposes,0.92
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,104,No Fault Auto Insurance,0,Insurance industry initiative,0.93
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,105,Public Right to Know - product warnings; insurance disclosure,0,Failing grade - poorly written,0.92
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,106,Attorney Fee Limit - limit attorney contingency fees,0,Industry-backed,0.93
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,95,Hunger and Homelessness - fines from health/building code violators,0,Clumsy costly inefficient; creates new state bureaucracy,0.95
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,96,AIDS Test Initiative - mandatory testing of assailants on peace officers,0,Poorly crafted; ignores epidemiological evidence,0.95
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,97,Cal/OSHA Restoration - workplace safety enforcement,1,Protect health and safety of workers,0.93
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,98,School Funding Initiative - exempt education from Gann limit,0,Backed by CTA; would force enormous nondiscretionary cost,0.95
+CA,Merced Sun Star,103100,1988,CA,INITIATIVE,99,Cigarette Taxes - 25-cent tax for health/research,1,Sun-Star recap supports,0.85
+CA,Merced Sun Star,103100,1988,CA,LOCAL,A,Atwater - increase transient occupancy tax (motel) 4% to 8%,1,Brings city in line with other communities; needed funds,0.94
+CA,Merced Sun Star,103100,1988,CA,LOCAL,B,Atwater Fire District measure,1,1988 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,AMENDMENT,124,Hospital stock buying,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,AMENDMENT,125,Gas taxes for mass transit,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,AMENDMENT,126,Alcohol tax,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,AMENDMENT,127,Quake safety tax break,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,AMENDMENT,132,Gill net ban along California coast,1,Stop indiscriminate killing of marine mammals; little financial impact,0.94
+CA,Merced Sun Star,103100,1990,CA,AMENDMENT,136,Two-thirds vote on taxes,0,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,AMENDMENT,137,Changes on initiative process,0,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,AMENDMENT,139,Labor for inmates,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,AMENDMENT,141,Public agency water,0,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,130,Forest protection - $742M for 10-year state acquisition and limited logging,0,$1.3B principal/interest over 20 years - too costly,0.93
+CA,Merced Sun Star,103100,1990,CA,BOND,138,Timber industry forest plan - $300M bonds for loan/grant program,0,$535M cost - too costly; both initiatives too expensive,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,142,Veterans housing bonds,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,143,Higher education bonds,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,144,State prison bonds,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,145,Low-income housing bonds,0,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,146,Schools bonds,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,147,County jail bonds,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,148,Water supply improvements,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,149,Park Recreation and Wildlife Enhancement - $427M for parks/forestry/fish/wildlife,1,$398K for Merced County; first major park funds in 6 years,0.95
+CA,Merced Sun Star,103100,1990,CA,BOND,150,County courthouse bonds,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,BOND,151,Child care bonds - $30M general obligation bonds,1,More 2-wage-earner families; 3M children under 6,0.93
+CA,Merced Sun Star,103100,1990,CA,INITIATIVE,128,Big Green - phase out agricultural pesticides; carbon dioxide reductions; CFC ban,0,Too complex too expensive; $2.5B implementation cost,0.96
+CA,Merced Sun Star,103100,1990,CA,INITIATIVE,129,Drug camps,0,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,INITIATIVE,131,Term limits campaign finance,1,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,INITIATIVE,133,Sales tax for drug programs,0,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,INITIATIVE,134,Nickel-a-drink tax,0,1990 recap,0.92
+CA,Merced Sun Star,103100,1990,CA,INITIATIVE,135,CAREFUL initiative - effective pesticide regulation and food safety,1,Scientific basis for pesticide risk; heavy fines for violations,0.95
+CA,Merced Sun Star,103100,1990,CA,INITIATIVE,140,Restrictive term limits,0,1990 recap,0.92
+CA,Merced Sun Star,103100,1992,CA,AMENDMENT,157,Toll Roads - limit toll collection to 35 years on privately operated roads,1,4 toll roads planned; reasonable constitutional mandate,0.93
+CA,Merced Sun Star,103100,1992,CA,AMENDMENT,158,Legislative Analyst,1,1992 recap,0.92
+CA,Merced Sun Star,103100,1992,CA,AMENDMENT,159,Auditor General,1,1992 recap,0.92
+CA,Merced Sun Star,103100,1992,CA,AMENDMENT,160,Property Tax Exemption for surviving spouses of military,0,No means-testing; excludes other public servants,0.94
+CA,Merced Sun Star,103100,1992,CA,BOND,155,School Facilities Bonds - $900M for new schools/improvements,1,200K additional students/year; Merced area needs $298M by 2004,0.95
+CA,Merced Sun Star,103100,1992,CA,BOND,156,Rail/Clean Air Bonds - $1B for rail transportation,1,Reduce air pollution and freeway gridlock,0.94
+CA,Merced Sun Star,103100,1992,CA,INITIATIVE,161,Assisted Death - legalize physician-assisted suicide,0,Lives could be snuffed prematurely; no cooling-off period; no family involvement,0.96
+CA,Merced Sun Star,103100,1992,CA,INITIATIVE,162,Retirement Systems - exclusive authority to public-employee retirement boards,0,About power not protection; undermines fiscal soundness,0.95
+CA,Merced Sun Star,103100,1992,CA,INITIATIVE,163,Food Product Tax - repeal snack tax,1,Sales taxes on food are unfair; hits poor harder,0.94
+CA,Merced Sun Star,103100,1992,CA,INITIATIVE,164,Term Limits - restrict House to 3 terms Senate to 2 terms,0,Would restrict California influence on Capitol Hill; seniority system,0.96
+CA,Merced Sun Star,103100,1992,CA,INITIATIVE,165,Wilson Budget/Welfare Reform - cut welfare grants 10%; budget reforms,1,Welfare 83% higher than US avg; 25% of nationwide AFDC cost,0.95
+CA,Merced Sun Star,103100,1992,CA,INITIATIVE,166,Health Care Coverage - Affordable Basic Health Care; employer mandate,0,Would not bring all uninsured into system; burdens small businesses,0.94
+CA,Merced Sun Star,103100,1992,CA,INITIATIVE,167,State Taxes - $5.5B in higher taxes on wealthy and businesses,0,Could eliminate 96K jobs; $14.7B personal income loss; harm small business,0.95
+CA,Merced Sun Star,103100,1992,CA,LOCAL,A,Merced - allow direct election of mayor separately from council,0,Mayor still figurehead; recall harder than current removal,0.94
+CA,Merced Sun Star,103100,1992,CA,LOCAL,B,Merced County migrant housing - 29 duplexes near Los Banos,1,Old housing units need replacement; $2.2M state grant,0.94
+CA,Merced Sun Star,103100,1992,CA,LOCAL,C,Merced County migrant housing - 19 units between Atwater/Livingston,1,Replacing wornout 1965 units,0.94
+CA,Merced Sun Star,103100,1994,CA,AMENDMENT,183,Recall Elections,1,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1994,CA,AMENDMENT,190,Judicial Commission Reform,1,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1994,CA,AMENDMENT,191,Justice Courts,1,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1994,CA,BOND,181,Rail and Clean Air Bonds,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,1994,CA,INITIATIVE,184,Three Strikes initiative,0,Sun-Star opposed - notable position,0.94
+CA,Merced Sun Star,103100,1994,CA,INITIATIVE,185,Gas Tax Increase,0,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1994,CA,INITIATIVE,186,Single-Payer Health Care,0,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1994,CA,INITIATIVE,187,Immigration - deny services to illegal immigrants,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,1994,CA,INITIATIVE,188,Smoking and Tobacco,0,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1994,CA,INITIATIVE,189,Bail Exception,0,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1996,CA,BOND,204,Clean Water Bonds,1,Helps both farmers and residential water users,0.94
+CA,Merced Sun Star,103100,1996,CA,BOND,205,Jail Bond Act,1,Help fund badly needed juvenile facility here,0.94
+CA,Merced Sun Star,103100,1996,CA,BOND,206,Cal Vet Bonds,0,Adds to state indebtedness; duplicates programs,0.92
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,207,Attorney Fees Initiative,0,Prevents state from ever controlling attorney fees,0.93
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,208,Campaign Spending Limits,1,Helps keep special interests from dominating politics,0.93
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,209,Repeal Affirmative Action,0,Revise law protecting women and minorities not scrap it,0.95
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,210,Minimum Wage Increase,1,People deserve to earn a livable wage,0.94
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,211,Attorney-Client Fees,0,Prevents state from controlling attorney fees,0.92
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,212,Campaign Spending Limits (alt),0,Does not have all good features of Prop 208,0.93
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,213,Uninsured Motorist Initiative,0,Goes too far toward no-fault system,0.92
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,214,Health Care Initiative - HMO regulation,1,State HMOs need more regulation and control,0.93
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,215,Medical Marijuana Initiative,0,Tighter controls needed on who can obtain the drug,0.93
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,216,Health Care Initiative (alt),0,Does not provide flexibility of Prop 214,0.92
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,217,Top Tax Reinstatement,1,Original change unduly shifted tax burden to middle class,0.93
+CA,Merced Sun Star,103100,1996,CA,INITIATIVE,218,Local Tax Limitations,0,Would punish schools and special districts,0.93
+CA,Merced Sun Star,103100,1998,CA,AMENDMENT,11,Allow joint use of school district facilities,1,Both facilitates education and reduces competition for tax dollars,0.93
+CA,Merced Sun Star,103100,1998,CA,AMENDMENT,3,Allow voters to vote in primaries beyond own party,0,No - keep primaries within party,0.85
+CA,Merced Sun Star,103100,1998,CA,AMENDMENT,5,Native American gambling - tribal gaming compact,1,Native Americans earned right to control own gambling,0.94
+CA,Merced Sun Star,103100,1998,CA,INITIATIVE,10,Tobacco tax for childhood programs,0,Yet another tax is not the answer,0.93
+CA,Merced Sun Star,103100,1998,CA,INITIATIVE,4,Ban steel-clawed and inhumane traps,1,No legitimate need for steel-clawed traps with modern technology,0.94
+CA,Merced Sun Star,103100,1998,CA,INITIATIVE,7,Air pollution control - tax credits for clean fuels,1,Cleaner air benefits more than short-term costs,0.93
+CA,Merced Sun Star,103100,1998,CA,INITIATIVE,8,Permanent Class Size Reduction; Permanent Schools and Reform Act,0,Creates yet another bureaucracy,0.93
+CA,Merced Sun Star,103100,1998,CA,INITIATIVE,9,Electric Utility deregulation - real consumer choice,0,Will not solve problem,0.92
+CA,Merced Sun Star,103100,1998,CA,LOCAL,X,Oakland Measure X - shift power to mayors office (reprint of SF Chronicle),1,Reprint of SF Chronicle endorsement; not Sun-Star direct,0.70
+CA,Merced Sun Star,103100,2002,CA,LOCAL,M,Merced County roads measure - half-cent sales tax for roads,1,Repair deteriorating county roads and bridges,0.92
+CA,Merced Sun Star,103100,2004,CA,AMENDMENT,61,Childrens Hospital Bonds,1,Boosting care for kids makes sense,0.92
+CA,Merced Sun Star,103100,2004,CA,INITIATIVE,71,Stem Cell Research - $3B bond for California Institute for Regenerative Medicine,0,Wrong way to fund research; sets terrible precedent; CA credit rating near junk,0.96
+CA,Merced Sun Star,103100,2004,CA,INITIATIVE,72,Employer Health Insurance Mandate - 20+ employees required to offer,0,Disincentive for company growth; does not cut underlying costs,0.95
+CA,Merced Sun Star,103100,2006,CA,AMENDMENT,1A,Restrict sales tax on gasoline to transportation spending,0,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,2006,CA,BOND,1B,Highway safety air quality port security traffic reduction bond,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,BOND,1C,Housing emergency shelter bond,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,BOND,1D,K-12 colleges and universities bond,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,BOND,1E,Disaster preparedness and flood control bond,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,BOND,84,Bonds for water quality parks flood control resource protection,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,INITIATIVE,83,Restrict residency monitor sex offenders (Jessica's Law),0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,INITIATIVE,85,Parental notification before minor abortion,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,INITIATIVE,86,Tax on cigarettes to fund health programs,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,INITIATIVE,87,Tax on oil producers for alternative energy,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,INITIATIVE,88,Parcel tax for education funding,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,INITIATIVE,89,Public financing of political campaigns,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,INITIATIVE,90,Limits on eminent domain local land use planning,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,LOCAL,E,Bond for high school district facilities,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,CA,LOCAL,G,Merced County - Raise sales tax for transportation,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,CA,AMENDMENT,11,Statewide Legislative redistricting,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2008,CA,AMENDMENT,8,Eliminates right of same-sex couples to marry,0,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2008,CA,AMENDMENT,9,Criminal justice system victims rights,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,CA,BOND,12,Veterans bond act of 2008,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2008,CA,BOND,1A,High-speed passenger train bond act,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2008,CA,BOND,3,Childrens hospital bond act,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,CA,INITIATIVE,10,Alternative fuel vehicles and renewable energy,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,CA,INITIATIVE,2,Standards for confining farm animals,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,CA,INITIATIVE,4,Waiting period and parental notification before minor pregnancy termination,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,CA,INITIATIVE,5,Nonviolent drug offenses sentencing parole and rehabilitation,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,CA,INITIATIVE,6,Police and law enforcement funding,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,CA,INITIATIVE,7,Renewable energy generation,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,CA,LOCAL,M,Merced High School District bond,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2010,CA,INITIATIVE,19,Legalizes marijuana,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2010,CA,INITIATIVE,22,Prohibits state from taking funds from local governments,0,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,2010,CA,LOCAL,C,Merced local measure,0,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,2014,CA,AMENDMENT,2,Budget stabilization,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,CA,BOND,1,Water bond,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,CA,INITIATIVE,45,Insurance regulations,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2014,CA,INITIATIVE,46,Doctor testing,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2014,CA,INITIATIVE,47,Reduce drug crimes,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2014,CA,INITIATIVE,48,Indian gaming agreement,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2014,CA,LOCAL,T,Merced districts - city council elections by district,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2016,CA,AMENDMENT,52,Hospital fees extension,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2016,CA,AMENDMENT,54,Legislative transparency - 72 hours,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2016,CA,AMENDMENT,59,Citizens United referendum,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2016,CA,AMENDMENT,65,Disposable bag fees,0,Subterfuge effort to overturn 2014 ban,0.94
+CA,Merced Sun Star,103100,2016,CA,BOND,51,$9 billion school construction bonds,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,55,Education tax extension,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,56,Tobacco tax increase,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,57,Revisions in parole structure,0,Local law enforcement adamantly opposed,0.94
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,58,Bilingual education,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,60,Condoms for pornographic actors,0,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,61,Drug pricing limits,0,Unintended consequences for veterans,0.93
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,62,Abolish death penalty,1,Too many deadly mistakes costs too high,0.94
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,63,Limits on ammunition purchases,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,64,Recreational marijuana,1,Best chance to control and tax existing industry,0.94
+CA,Merced Sun Star,103100,2016,CA,INITIATIVE,66,Speeding up death penalty,0,Would result in killing innocent people,0.94
+CA,Merced Sun Star,103100,2016,CA,LOCAL,V,Merced Transportation sales tax,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2016,CA,REFERENDUM,67,Disposable bag referendum,1,Reaffirms ban on plastic bags,0.94
+CA,Merced Sun Star,103100,2018,CA,INITIATIVE,10,Rent control - repeal Costa-Hawkins Act,0,Economics 101 - will reduce supply; clinics would convert to condos,0.96
+CA,Merced Sun Star,103100,2018,CA,INITIATIVE,6,Repeal gas tax (SB 1),0,Cynical political ploy; would kill ACE train extension and road money,0.96
+CA,Merced Sun Star,103100,2018,CA,INITIATIVE,7,Daylight Saving Time repeal,0,Cordoning off California in time has drawbacks; waste of legislature time,0.94
+CA,Merced Sun Star,103100,2018,CA,INITIATIVE,8,Kidney dialysis clinic profit limits,0,Will not deliver what it promises; rural clinics could close,0.95
+CA,Merced Sun Star,103100,2020,CA,AMENDMENT,15,Split-roll commercial property tax overhaul,0,Tax process unfair but coronavirus pandemic wrong time,0.95
+CA,Merced Sun Star,103100,2020,CA,AMENDMENT,16,Allow consideration of race/gender in admissions/hiring (repeal Prop 209),1,CA one of only 10 states banning affirmative action - time to change,0.94
+CA,Merced Sun Star,103100,2020,CA,AMENDMENT,17,Restore voting rights to parolees,1,Path of good citizenship - inferred from context,0.85
+CA,Merced Sun Star,103100,2020,CA,AMENDMENT,18,Allow 17-year-olds to vote in primaries if 18 by general,1,Anything that encourages voting is good,0.94
+CA,Merced Sun Star,103100,2020,CA,AMENDMENT,19,Property tax transfer for 55+ when downsizing,1,Plus portion dedicated to firefighting agencies,0.93
+CA,Merced Sun Star,103100,2020,CA,INITIATIVE,20,Increase parole restrictions for some crimes,0,Restore ghastly prison industrial complex,0.94
+CA,Merced Sun Star,103100,2020,CA,INITIATIVE,21,Rent control - allow cities to limit rental increases,0,CA desperately needs more housing not building disincentives,0.95
+CA,Merced Sun Star,103100,2022,CA,AMENDMENT,1,Reproductive rights protections,1,McClatchy California Bee endorsement,0.94
+CA,Merced Sun Star,103100,2022,CA,INITIATIVE,26,Sports gambling on tribal lands,0,McClatchy California Bee endorsement,0.93
+CA,Merced Sun Star,103100,2022,CA,INITIATIVE,27,Sports gambling online,0,McClatchy California Bee endorsement,0.93
+CA,Merced Sun Star,103100,2022,CA,INITIATIVE,28,Arts education funding,1,McClatchy California Bee endorsement,0.93
+CA,Merced Sun Star,103100,2022,CA,INITIATIVE,30,Tax for electric vehicles fire prevention,0,McClatchy California Bee endorsement,0.93
+CA,Merced Sun Star,103100,2022,CA,REFERENDUM,29,Dialysis treatment regulation,0,McClatchy California Bee endorsement,0.93
+CA,Merced Sun Star,103100,2022,CA,REFERENDUM,31,Flavored tobacco ban,1,McClatchy California Bee endorsement (inferred Yes),0.85

@@ -1,0 +1,39 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Myrtle Beach Sun News
+Newspaper ID: 143370
+State: SC
+Number of clippings: 61
+Endorsement data years: 1974-2016
+Total candidate endorsements: 414
+Total proposition endorsements: 72
+
+Confidence statistics:
+  Mean confidence: 0.857
+  Low-confidence records (< 0.7): 19
+
+Top offices (top 15):
+  STATE REP: 86
+  SCHOOL BOARD: 68
+  CNTY COMM: 63
+  STATE SENATOR: 28
+  H: 22
+  CITY COUNCIL: 20
+  PRESIDENT: 16
+  SENATOR: 15
+  GOVERNOR: 13
+  TREASURER: 11
+  LT GOVERNOR: 9
+  SUPERINTENDENT: 9
+  DA/PROSECUTOR: 8
+  SEC OF STATE: 7
+  ADJUTANT GENERAL: 6
+
+Party distribution:
+  Republican: 129
+  Democrat: 115
+  Libertarian: 8
+  Independent: 2
+  Natural Law: 1
+  Reform: 1

@@ -1,0 +1,415 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+SC,Myrtle Beach Sun News,143370,1974,ADJUTANT GENERAL,,,SC,"DUPRE, J. PAUL",Republican,0,,,,Challenger to McCrady; paper sees little reason for change.,0.85
+SC,Myrtle Beach Sun News,143370,1974,ADJUTANT GENERAL,,,SC,"MCCRADY, ROBERT L.",Democrat,1,1,,,'We see little reason why a change is necessary.',0.90
+SC,Myrtle Beach Sun News,143370,1974,ATTORNEY GENERAL,,,SC,"MCLEOD, DANIEL R.",Democrat,1,1,,,Editorial 'McLeod has Been Credit To His State and Office' - 'He should be returned to office.' Praised for FOI law work.,0.95
+SC,Myrtle Beach Sun News,143370,1974,ATTORNEY GENERAL,,,SC,"POWELL, C. KENNETH",Republican,0,1,,,Opposed - editorial criticizes Powell as 'blantant political payoff' for backing Turnipseed who supported Democratic ticket.,0.90
+SC,Myrtle Beach Sun News,143370,1974,H,6,,SC,"JENRETTE, JOHN",Democrat,0,,,,Democratic challenger to Young; paper endorses Young.,0.85
+SC,Myrtle Beach Sun News,143370,1974,H,6,,SC,"YOUNG, ED",Republican,1,,1,,"Editorial 'Voters Should Return Ed Young to Congress' - praised conservative voting record, ratings from ACA, Americans for Constitutional Action.",0.95
+SC,Myrtle Beach Sun News,143370,1974,TREASURER,,,SC,"PATTERSON, GRADY L.",Democrat,1,1,,,State Treasurer - 'shown the best record of performance of any of the Constitutional officers. He should be returned to office.',0.95
+SC,Myrtle Beach Sun News,143370,1976,H,6,,SC,"JENRETTE, JOHN",Democrat,0,1,,,Incumbent; questions raised about land deals and bookkeeping. Paper opposes.,0.90
+SC,Myrtle Beach Sun News,143370,1976,H,6,,SC,"YOUNG, ED",Republican,1,1,,,Editorial 'Young Has Good Record For District and Nation' - Republican challenger to incumbent Jenrette. Paper endorsed Young in 1974 and continues support.,0.95
+SC,Myrtle Beach Sun News,143370,1976,PRESIDENT,,,SC,"CARTER, JIMMY",Democrat,0,,,,Opposed - aligned with northern liberalism and labor unions; supports $200B in new spending.,0.90
+SC,Myrtle Beach Sun News,143370,1976,PRESIDENT,,,SC,"FORD, GERALD",Republican,1,,1,,"Editorial 'Ford Closer to South Than Southerner Carter' - 'He deserves our support.' Praised for Watergate recovery, peace, fiscal restraint.",0.95
+SC,Myrtle Beach Sun News,143370,1976,STATE REP,103,,SC,"MCCRACKIN, WENDELL E.",Republican,1,,,,Editorial 'McCrackin's Experience Makes Him Best Choice' for SC House District 103. Praised experience in legislature 1960-1964 and as city attorney.,0.95
+SC,Myrtle Beach Sun News,143370,1976,STATE REP,103,,SC,"MEYERS, JEAN",Democrat,0,,,,Democratic challenger; described as intelligent and energetic but McCrackin endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1980,H,6,,SC,"NAPIER, JOHN",Republican,1,,,,Editorial 'Our recommendation: Napier for Congress' - 'well-qualified to assess this district's wants and needs.' Conservative but flexible.,0.95
+SC,Myrtle Beach Sun News,143370,1982,STATE REP,105,,SC,"EARGLE, LOIS",Democrat,1,,,,District 105 (South Strand-Bucksport-Conway-Socastee). Running unopposed for 4th term. Will become senior House member. 'Her election is commended to voters.',0.85
+SC,Myrtle Beach Sun News,143370,1982,STATE REP,107,,SC,"GEMMILL, BILL",Republican,0,,,,Limited knowledge but does well with what he sets out. Pearce endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1982,STATE REP,107,,SC,"PEARCE, JIM",Democrat,1,,,,"District 107 (Myrtle Beach Air Force Base, Socastee). 'We recommend Mr. Pearce, a veteran of municipal government.'",0.90
+SC,Myrtle Beach Sun News,143370,1982,STATE REP,107,,SC,"WILSON, JIM",Libertarian,0,,,,Innovative ideas but possible split shift of prison labor. Pearce endorsed.,0.75
+SC,Myrtle Beach Sun News,143370,1984,PRESIDENT,,,SC,"MONDALE, WALTER",Democrat,0,,,,Opposed - 'Mondale is gnashing of teeth' against weapon advancement.,0.90
+SC,Myrtle Beach Sun News,143370,1984,PRESIDENT,,,SC,"REAGAN, RONALD",Republican,1,,1,,"Editorial 'Reagan the choice for 4 more years' - praised economic recovery, defense buildup, freedom over slavery in choices.",0.95
+SC,Myrtle Beach Sun News,143370,1984,SCHOOL BOARD,,Horry County,SC,"BARNETTE, JIM",,1,,,,"Suggested with some qualification, incumbent.",0.85
+SC,Myrtle Beach Sun News,143370,1984,SCHOOL BOARD,,Horry County,SC,"HARNETTE, JIM",,1,,,,"Endorsed - newcomer, considered alongside Thigpen for Horry County Board of Education.",0.85
+SC,Myrtle Beach Sun News,143370,1984,SCHOOL BOARD,,Horry County,SC,"HEATH, RICHARD",,1,,,,"Editorial 'School board vote the most important' - 'we recommend, with no reservation whatsoever, the election of Richard Heath to the Board of Education.' Demonstrated commitment to public education.",0.95
+SC,Myrtle Beach Sun News,143370,1984,SCHOOL BOARD,,Horry County,SC,"SMITH, MR.",,0,,,,Mentioned but not endorsed - 'Mr. Thigpen must thank these forces with the public interest.' Not selected by paper.,0.55
+SC,Myrtle Beach Sun News,143370,1984,SCHOOL BOARD,,Horry County,SC,"THIGPEN, HARRY",,1,,,,Endorsed for Horry County Board of Education with some reservations.,0.85
+SC,Myrtle Beach Sun News,143370,1984,STATE REP,,,SC,"BARFIELD, LONZO",Democrat,1,,,,Democratic newcomer endorsed; share virtually the same points of view as Thrailkill. Both endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1984,STATE REP,,,SC,"MARINES, LONNIE",Libertarian,0,,,,Libertarian opposed; not endorsed.,0.75
+SC,Myrtle Beach Sun News,143370,1984,STATE REP,,,SC,"PEARCE, PETE",Democrat,1,,,,Endorsed - 'we have to concern with the writer.' Strong voice on Grand Strand House delegation.,0.85
+SC,Myrtle Beach Sun News,143370,1984,STATE REP,,,SC,"PLEDGER, CLEVELAND",Republican,0,,,,Republican opposed to Barfield and Thrailkill (combined district). Not endorsed.,0.75
+SC,Myrtle Beach Sun News,143370,1984,STATE REP,,,SC,"THRAILKILL, BEN",Republican,1,,1,,'We recommend the re-election of Rep. Ben Thrailkill.',0.95
+SC,Myrtle Beach Sun News,143370,1984,STATE REP,105,,SC,"BARFIELD, LISTON",Democrat,1,,,,'We recommend the election of Liston Barfield in District 105.',0.95
+SC,Myrtle Beach Sun News,143370,1984,STATE REP,106,,SC,"THRAILKILL, BEN",Republican,1,,1,,"House District 106 Republican incumbent, endorsed for re-election.",0.90
+SC,Myrtle Beach Sun News,143370,1984,STATE SENATOR,,,SC,"LONG, BUD",Democrat,1,,,,District Senate race; Democrat from Conway. Opponent (Republican former mayor of North Myrtle Beach) waged heated crescendo of personal allegations. Long endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1984,STATE SENATOR,,,SC,"RIVERS, ROGERS",Republican,0,,,,Republican challenger of Florence to Tom Smith. Smith endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1984,STATE SENATOR,,,SC,"SMITH, TOM",Democrat,1,1,,,Editorial 'Strengthen Horry through our votes' - Democratic incumbent of Florence in joint Florence-Horry Senate district. 'His ability and his track record as a state senator stand him in better stead.',0.90
+SC,Myrtle Beach Sun News,143370,1984,STATE SENATOR,30,,SC,"SMITH, TOM",Democrat,1,1,,,'We recommend the re-election of Sen. Tom Smith from District 30.',0.95
+SC,Myrtle Beach Sun News,143370,1984,STATE SENATOR,33,,SC,"LONG, J.M. (BUD) JR.",Democrat,1,,,,Editorial 'A review' - 'We recommend the election of J.M. (Bud) Long Jr. as state senator from District 33.',0.95
+SC,Myrtle Beach Sun News,143370,1986,CNTY COMM,,Horry County,SC,"COOL, GUY",Republican,0,,,,Republican opponent for Horry County Council Chairman; close call but McLeod endorsed.,0.75
+SC,Myrtle Beach Sun News,143370,1986,CNTY COMM,,Horry County,SC,"DEWITT, ULYSSES",,1,,,,Profiled positively for Horry County Council district race.,0.60
+SC,Myrtle Beach Sun News,143370,1986,CNTY COMM,,Horry County,SC,"DUNCAN, ALTON",,1,,,,Profiled positively for Horry County Council district race.,0.60
+SC,Myrtle Beach Sun News,143370,1986,CNTY COMM,,Horry County,SC,"KIBLER, DENNY",,1,,,,Editorial 'We are impressed by these hopefuls' - profiled positively for Horry County Council district race.,0.60
+SC,Myrtle Beach Sun News,143370,1986,CNTY COMM,,Horry County,SC,"MCLEOD, LACY",Democrat,1,,,,"Editorial 'On a close call, McLeod for chair' - Horry County Council Chairman race. Endorsed over Cool slightly; both qualified.",0.85
+SC,Myrtle Beach Sun News,143370,1986,CNTY COMM,,Horry County,SC,"MCLEOD, MARK",Republican,1,,,,Profiled - Republican challenger to incumbent Lacy McLeod for Horry County Council.,0.55
+SC,Myrtle Beach Sun News,143370,1986,CNTY COMM,,Horry County,SC,"STEELE, GARY",,1,,,,Profiled positively for Horry County Council district race.,0.60
+SC,Myrtle Beach Sun News,143370,1986,GOVERNOR,,,SC,"CAMPBELL, CARROLL",Republican,1,,,,Editorial 'Time for change: Carroll Campbell' - we could recommend Mr. Campbell. Republican who made difference in quality of state government.,0.95
+SC,Myrtle Beach Sun News,143370,1986,GOVERNOR,,,SC,"DANIEL, MIKE",Democrat,0,,,,Lt. Governor running for Governor; opposes change. Campbell endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1986,H,6,,SC,"CUNNINGHAM, ROBIN",Republican,0,,,,Republican challenger; would push Tallon to higher conservative levels but Tallon endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1986,H,6,,SC,"TALLON, ROBIN",Democrat,1,1,,,"Editorial 'Return Tallon' - 'In short, Mr. Tallon should be returned to Congress.' Praised positions on tobacco, agriculture, military.",0.95
+SC,Myrtle Beach Sun News,143370,1986,LT GOVERNOR,,,SC,"HARTNETT, TOMMY",Republican,1,,,,"Editorial 'Hartnett: A team' - 'Mr. Hartnett, we feel, is the better choice because he would bring more sense to the office.'",0.95
+SC,Myrtle Beach Sun News,143370,1986,LT GOVERNOR,,,SC,"THEODORE, NICK",Democrat,0,,,,Democratic opponent for Lt Governor; Hartnett endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1986,SCHOOL BOARD,,Horry County,SC,"BAILEY, KAY",,1,,,,Editorial 'For school board Mrs. Bailey ranks' - 'we recommend with pleasure and confidence' her election. Supports school bond.,0.95
+SC,Myrtle Beach Sun News,143370,1986,SENATOR,,,SC,"HOLLINGS, FRITZ",Democrat,1,1,,,Editorial 'Fritz Hollings best for state' - despite Republican Party's argument that Senate is at risk. 'Hollings has done a good job and should be returned to office.',0.95
+SC,Myrtle Beach Sun News,143370,1986,SENATOR,,,SC,"MCMASTER, HENRY",Republican,0,,,,Republican challenger to Hollings; Hollings endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1988,AUDITOR,,Horry County,SC,"GERRALD, JACK",,0,,,,Holt endorsed over Gerrald for auditor.,0.90
+SC,Myrtle Beach Sun News,143370,1988,AUDITOR,,Horry County,SC,"HOLT, KENNETH",,1,,,,Auditor - Holt over Jack Gerrald.,0.95
+SC,Myrtle Beach Sun News,143370,1988,CITY COUNCIL,,North Myrtle Beach,SC,"HOBBS, BILL",,0,,,,Smith endorsed over Hobbs.,0.85
+SC,Myrtle Beach Sun News,143370,1988,CITY COUNCIL,,North Myrtle Beach - Windy Hill seat,SC,"MITCHELL, BILLIE",,1,,,,Windy Hill council seat - Mitchell over Harold Worley.,0.90
+SC,Myrtle Beach Sun News,143370,1988,CITY COUNCIL,,North Myrtle Beach - Ocean Drive seat,SC,"NEELY, JIM",,1,,,,Ocean Drive council seat - Neely over Ben Scaila.,0.90
+SC,Myrtle Beach Sun News,143370,1988,CITY COUNCIL,,North Myrtle Beach - Ocean Drive seat,SC,"SCAILA, BEN",,0,,,,Neely endorsed over Scaila.,0.85
+SC,Myrtle Beach Sun News,143370,1988,CITY COUNCIL,,North Myrtle Beach,SC,"SMITH, BILLY",,1,,,,Council seat - Billy Smith over Bill Hobbs.,0.90
+SC,Myrtle Beach Sun News,143370,1988,CITY COUNCIL,,North Myrtle Beach - Windy Hill seat,SC,"WORLEY, HAROLD",,0,,,,Mitchell endorsed over Worley.,0.85
+SC,Myrtle Beach Sun News,143370,1988,CNTY CLERK,,Horry County,SC,"RICHARDSON, BILLIE",,1,,,,Clerk of court (unopposed).,0.95
+SC,Myrtle Beach Sun News,143370,1988,CNTY COMM,,Horry County,SC,"BURGESS, JAMES FRANK",,1,,,,Horry County Council - Burgess over Grayson Register.,0.95
+SC,Myrtle Beach Sun News,143370,1988,CNTY COMM,,Horry County,SC,"DUNCAN, ALTON",,1,,,,Horry County Council - Duncan over John M. Urhan.,0.95
+SC,Myrtle Beach Sun News,143370,1988,CNTY COMM,,Horry County,SC,"HAMILTON, AVERY",,0,,,,Prince endorsed over Hamilton.,0.90
+SC,Myrtle Beach Sun News,143370,1988,CNTY COMM,,Horry County,SC,"KIRKLEY, DEWEY",,1,,,,Horry County Council - Kirkley (unopposed).,0.95
+SC,Myrtle Beach Sun News,143370,1988,CNTY COMM,,Horry County,SC,"PRINCE, W. PAUL",,1,,,,Horry County Council - Prince over Avery Hamilton.,0.95
+SC,Myrtle Beach Sun News,143370,1988,CNTY COMM,,Horry County,SC,"REGISTER, GRAYSON",,0,,,,Burgess endorsed over Register.,0.90
+SC,Myrtle Beach Sun News,143370,1988,CNTY COMM,,Horry County,SC,"URHAN, JOHN M.",,0,,,,Duncan endorsed over Urhan.,0.90
+SC,Myrtle Beach Sun News,143370,1988,CORONER,,Horry County,SC,"EDGE, ROBERT",,0,,,,Hatchell endorsed over Edge for coroner.,0.90
+SC,Myrtle Beach Sun News,143370,1988,CORONER,,Horry County,SC,"HATCHELL, MIKE",,1,,,,Coroner - Hatchell over Robert Edge.,0.95
+SC,Myrtle Beach Sun News,143370,1988,H,6,,SC,"CUNNINGHAM, ROBERT",Republican,0,,,,Tallon endorsed over Cunningham.,0.90
+SC,Myrtle Beach Sun News,143370,1988,H,6,,SC,"TALLON, ROBIN",Democrat,1,1,,,6th District Congress - Tallon over Robert Cunningham.,0.95
+SC,Myrtle Beach Sun News,143370,1988,MAYOR,,North Myrtle Beach,SC,"SMITH, BOB",,0,,,,Tilghman endorsed over Smith.,0.85
+SC,Myrtle Beach Sun News,143370,1988,MAYOR,,North Myrtle Beach,SC,"TILGHMAN, PHIL",,1,,,,North Myrtle Beach Mayor - Tilghman over Bob Smith.,0.95
+SC,Myrtle Beach Sun News,143370,1988,PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,,,"Editorial 'Our suggestions: a recapitulation' - 'For president: George Bush, over Michael Dukakis.'",0.95
+SC,Myrtle Beach Sun News,143370,1988,PRESIDENT,,,SC,"DUKAKIS, MICHAEL",Democrat,0,,,,Bush endorsed over Dukakis.,0.95
+SC,Myrtle Beach Sun News,143370,1988,SCHOOL BOARD,,Horry County,SC,"CHANDLER, DOROTHY F. ""CHARLIE""",,1,,,,Horry County school board - 4 of 5 endorsed.,0.90
+SC,Myrtle Beach Sun News,143370,1988,SCHOOL BOARD,,Horry County,SC,"DUNN, JAMES E.",,0,,,,Other candidates - not endorsed by Sun News.,0.85
+SC,Myrtle Beach Sun News,143370,1988,SCHOOL BOARD,,Horry County,SC,"HEATH, RICHARD E.",,1,,,,Endorsed for Horry County school board.,0.90
+SC,Myrtle Beach Sun News,143370,1988,SCHOOL BOARD,,Horry County,SC,"HUTCHINSON, C. CESAR",,0,,,,Other candidates - not endorsed by Sun News.,0.85
+SC,Myrtle Beach Sun News,143370,1988,SCHOOL BOARD,,Horry County,SC,"JORDAN, RICHARD L.",,1,,,,Endorsed for Horry County school board.,0.90
+SC,Myrtle Beach Sun News,143370,1988,SCHOOL BOARD,,Horry County,SC,"SANDERS, DELANO",,1,,,,Endorsed for Horry County school board.,0.90
+SC,Myrtle Beach Sun News,143370,1988,SCHOOL BOARD,,Horry County,SC,"SMITH, BRUCE",,0,,,,Other candidates - not endorsed by Sun News.,0.85
+SC,Myrtle Beach Sun News,143370,1988,SCHOOL BOARD,,Horry County,SC,"THIGPEN, BARRY",,1,,,,Endorsed for Horry County school board.,0.90
+SC,Myrtle Beach Sun News,143370,1988,SHERIFF,,Horry County,SC,"OSBORNE, GUY",,0,,,,Small endorsed over Osborne for sheriff.,0.90
+SC,Myrtle Beach Sun News,143370,1988,SHERIFF,,Horry County,SC,"SMALL, ARLON L.",,1,,,,Sheriff - Small over Guy Osborne.,0.95
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,103,,SC,"BURWICK, FRANK",,0,,,,Snow endorsed over Burwick.,0.85
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,103,,SC,"SNOW, JOHN J. ""BUBBER""",,1,,,,District 103 - Snow over Frank Burwick.,0.90
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,104,,SC,"ELLIOTT, DICK",,1,,,,District 104 - Elliott (unopposed).,0.90
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,105,,SC,"BARFIELD, LISTON",Democrat,0,1,,,Spivey endorsed over Barfield.,0.85
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,105,,SC,"SPIVEY, GENE",,1,,,,District 105 - Spivey over Liston Barfield.,0.95
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,106,,SC,"HANNA, BILL",,1,,,,District 106 - Hanna over Tom Keagan.,0.95
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,106,,SC,"KEAGAN, TOM",,0,,,,Hanna endorsed over Keagan.,0.85
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,107,,SC,"CORBETT, KEN",,0,,,,Pearce endorsed over Corbett.,0.85
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,107,,SC,"PEARCE, PETE",Democrat,1,1,,,District 107 - Pearce over Ken Corbett.,0.95
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,108,,SC,"ALTMAN, LINWOOD",,1,,,,District 108 - Altman over Jim Wilson and John R. Howard.,0.90
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,108,,SC,"HOWARD, JOHN R.",,0,,,,Altman endorsed over Howard.,0.80
+SC,Myrtle Beach Sun News,143370,1988,STATE REP,108,,SC,"WILSON, JIM",,0,,,,Altman endorsed over Wilson.,0.80
+SC,Myrtle Beach Sun News,143370,1988,STATE SENATOR,32,,SC,"MCGILL, YANCEY",,1,,,,District 32 - McGill over John Hugh Smith.,0.95
+SC,Myrtle Beach Sun News,143370,1988,STATE SENATOR,32,,SC,"SMITH, JOHN HUGH",,0,,,,McGill endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1988,STATE SENATOR,33,,SC,"EARGLE, LOIS",,0,,,,Long endorsed over Eargle.,0.85
+SC,Myrtle Beach Sun News,143370,1988,STATE SENATOR,33,,SC,"LONG, J.M. ""BUD""",Democrat,1,1,,,District 33 - Long over Lois Eargle.,0.95
+SC,Myrtle Beach Sun News,143370,1988,STATE SENATOR,34,,SC,"HINDS, DOUG",,1,,,,District 34 - Hinds over Joe Young.,0.95
+SC,Myrtle Beach Sun News,143370,1988,STATE SENATOR,34,,SC,"YOUNG, JOE",,0,,,,Hinds endorsed over Young.,0.85
+SC,Myrtle Beach Sun News,143370,1988,TREASURER,,Horry County,SC,"ALLEN, JOHNNY",,1,,,,Treasurer - Allen over Daniel Lee Todd.,0.95
+SC,Myrtle Beach Sun News,143370,1988,TREASURER,,Horry County,SC,"TODD, DANIEL LEE",,0,,,,Allen endorsed over Todd for treasurer.,0.90
+SC,Myrtle Beach Sun News,143370,1990,CNTY COMM,,Horry County - Chairman,SC,"COOPER, PHIL",Republican,0,,,,McLeod endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1990,CNTY COMM,,Horry County - Chairman,SC,"MCLEOD, LACEY",Democrat,1,1,,,Horry County Council Chairman - incumbent Lacey McLeod over Republican Phil Cooper and write-in Henry Strickland.,0.90
+SC,Myrtle Beach Sun News,143370,1990,CNTY COMM,1,Horry County,SC,"DEWITT, ULYSSES",,1,1,,,District 1 - Incumbent Dewitt over Republican Ray E. Watkins Jr.,0.85
+SC,Myrtle Beach Sun News,143370,1990,CNTY COMM,1,Horry County,SC,"WATKINS, RAY E. JR.",Republican,0,,,,Dewitt endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1990,CNTY COMM,2,Horry County,SC,"SMITH, ROBERT V.",,1,1,,,District 2 - Incumbent Smith over Democrat (sic) opponent.,0.75
+SC,Myrtle Beach Sun News,143370,1990,COMMISSIONER OF AGRICULTURE,,,SC,"TINDAL, LEE",Republican,0,,,,Trantham endorsed over Tindal.,0.85
+SC,Myrtle Beach Sun News,143370,1990,COMMISSIONER OF AGRICULTURE,,,SC,"TRANTHAM, TOM",Democrat,1,,,,Commissioner of agriculture - Democrat Trantham over Republican Lee Tindal.,0.90
+SC,Myrtle Beach Sun News,143370,1990,DA/PROSECUTOR,,Horry/Georgetown,SC,"GRETHER, RICHARD T. ""DOC""",Libertarian,0,,,,Wilson endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1990,DA/PROSECUTOR,,Horry/Georgetown,SC,"SWEENY, JOHN",Republican,0,,,,Wilson endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1990,DA/PROSECUTOR,,Horry/Georgetown,SC,"WILSON, RALPH",Democrat,1,,,,Horry-Georgetown solicitor - Democrat Wilson over Republican John Sweeny and Libertarian Richard T. 'Doc' Grether.,0.90
+SC,Myrtle Beach Sun News,143370,1990,GOVERNOR,,,SC,"CAMPBELL, CARROLL",Republican,1,,1,,Editorial 'Our suggestions...A recapitulation' - Incumbent Campbell over Democrat Theo Mitchell.,0.95
+SC,Myrtle Beach Sun News,143370,1990,GOVERNOR,,,SC,"MITCHELL, THEO",Democrat,0,,,,Campbell endorsed over Mitchell.,0.85
+SC,Myrtle Beach Sun News,143370,1990,LT GOVERNOR,,,SC,"MCMASTER, BOB",Republican,0,,,,Theodore endorsed over McMaster.,0.85
+SC,Myrtle Beach Sun News,143370,1990,LT GOVERNOR,,,SC,"THEODORE, NICK",Democrat,1,1,,,Lt Governor - Incumbent Theodore over Republican Bob McMaster.,0.95
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,1,Horry County,SC,"BRYANT, RONALD",,0,,,,Wylie endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,1,Horry County,SC,"WYLIE, WALTER J.",Republican,1,,,,Horry County Board of Education District 1 - Republican Wylie over Ronald Bryant.,0.90
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,2,Horry County,SC,"HILTON, PATI",Republican,1,,,,District 2 - Republican Hilton over Beverly P. Wyatt.,0.90
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,2,Horry County,SC,"WYATT, BEVERLY P.",,0,,,,Hilton endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,3,Horry County,SC,"DUKE, MARY JANE",Republican,1,,,,District 3 - Republican Duke over Dan F. Gray.,0.90
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,3,Horry County,SC,"GRAY, DAN F.",,0,,,,Duke endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,4,Horry County,SC,"HUTCHENS, LINDA T.",,0,,,,Wolves endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,4,Horry County,SC,"WOLVES, SANDY",Republican,1,,,,District 4 - Republican Wolves over Linda T. Hutchens.,0.85
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,6,Horry County,SC,"MATHEWS, HENRY",,0,,1,,Stiebel endorsed over incumbent Mathews.,0.80
+SC,Myrtle Beach Sun News,143370,1990,SCHOOL BOARD,6,Horry County,SC,"STIEBEL, KENT",Republican,1,,,,District 6 - Republican Stiebel over incumbent Henry Mathews.,0.85
+SC,Myrtle Beach Sun News,143370,1990,SEC OF STATE,,,SC,"CAMPBELL, JOHN",Democrat,0,,,,Miles endorsed over Campbell.,0.85
+SC,Myrtle Beach Sun News,143370,1990,SEC OF STATE,,,SC,"MILES, JIM",Republican,1,,,,Secretary of state - Miles (Republican) over John Campbell.,0.90
+SC,Myrtle Beach Sun News,143370,1990,STATE REP,104,,SC,"ELLIOTT, DICK",Democrat,1,1,,,House District 104 - Incumbent Democrat Dick Elliott.,0.90
+SC,Myrtle Beach Sun News,143370,1990,STATE REP,105,,SC,"BARFIELD, LISTON",Democrat,0,,,,Martin endorsed over Barfield.,0.85
+SC,Myrtle Beach Sun News,143370,1990,STATE REP,105,,SC,"MARTIN, MIKE",Republican,1,,,,House District 105 - Republican Martin over Liston Barfield.,0.90
+SC,Myrtle Beach Sun News,143370,1990,STATE REP,106,,SC,"HYATT, RUDY",Democrat,0,,,,Keagan endorsed over Hyatt.,0.80
+SC,Myrtle Beach Sun News,143370,1990,STATE REP,106,,SC,"KEAGAN, TOM",Republican,1,,,,House District 106 - Republican Keagan over Democrat Rudy Hyatt and Libertarian Anita Reaves.,0.90
+SC,Myrtle Beach Sun News,143370,1990,STATE REP,106,,SC,"REAVES, ANITA",Libertarian,0,,,,Keagan endorsed over Reaves.,0.80
+SC,Myrtle Beach Sun News,143370,1990,STATE REP,107,,SC,"CORBETT, KEN",Republican,0,,1,,McMurdy endorsed over Corbett.,0.85
+SC,Myrtle Beach Sun News,143370,1990,STATE REP,107,,SC,"MCMURDY, JEFF",Democrat,1,,,,House District 107 - Democrat McMurdy over incumbent Republican Ken Corbett.,0.90
+SC,Myrtle Beach Sun News,143370,1990,SUPERINTENDENT,,,SC,"HARTLEY, JOHN",Libertarian,0,,,,Nielsen endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1990,SUPERINTENDENT,,,SC,"NIELSEN, BARBARA",Republican,1,,,,Superintendent of education - Republican Nielsen over Democrat Charlie Williams and Libertarian John Hartley.,0.90
+SC,Myrtle Beach Sun News,143370,1990,SUPERINTENDENT,,,SC,"WILLIAMS, CHARLIE",Democrat,0,,,,Nielsen endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1992,CITY COUNCIL,,Conway,SC,"BENNETT, J.C.",,1,,,,Editorial 'We recommend...for city councils' - Conway City Council. 'Whichever of the six...will be well-served by their election.',0.85
+SC,Myrtle Beach Sun News,143370,1992,CITY COUNCIL,,Conway,SC,"GRAHAM, WILLIAM ""BILL""",,1,1,,,Conway City Council - incumbent endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1992,CITY COUNCIL,,Conway,SC,"JACKSON, BARBARA JO",,1,,,,Conway City Council - one of six recommended.,0.85
+SC,Myrtle Beach Sun News,143370,1992,CITY COUNCIL,,North Myrtle Beach - Ocean Drive seat,SC,"SCAILA, BEN A.",,1,,,,Ocean Drive seat - 'We recommend - albeit in a terribly close call - Ben A. Scaila.',0.85
+SC,Myrtle Beach Sun News,143370,1992,CITY COUNCIL,,Conway,SC,"SHELEIKA, CARLA HARTMAN",,1,,,,Conway City Council - one of six recommended.,0.85
+SC,Myrtle Beach Sun News,143370,1992,CITY COUNCIL,,Conway,SC,"SKIPPER, BAILEY V.",,1,,,,Conway City Council - one of six recommended.,0.85
+SC,Myrtle Beach Sun News,143370,1992,CITY COUNCIL,,North Myrtle Beach - Windy Hill seat,SC,"SMITH, BILLY W.",,1,1,,,Windy Hill - incumbent Smith gets nod for re-election. 'Working knowledge of city government.',0.95
+SC,Myrtle Beach Sun News,143370,1992,CITY COUNCIL,,Conway,SC,"WEBB, MIRIAM ""MICKEY""",,1,1,,,Conway City Council - incumbent recommended.,0.85
+SC,Myrtle Beach Sun News,143370,1992,H,1,,SC,"OBERST, BILL",Democrat,0,,,,Democratic House hopeful from Georgetown; idealist with budget plans but not as practical as Ravenel.,0.85
+SC,Myrtle Beach Sun News,143370,1992,H,1,,SC,"RAVENEL, ARTHUR",Republican,1,1,,,"1st District US House - Republican Ravenel endorsed over Bill Oberst. 'Ravenel will fairly represent Horry and Georgetown counties, even though his political base has always been Charleston.'",0.95
+SC,Myrtle Beach Sun News,143370,1992,MAYOR,,North Myrtle Beach,SC,"TILGHMAN, PHIL",,1,1,,,Incumbent Mayor Tilghman endorsed - 'demands and knows from experience the ebb and flow of the city.',0.95
+SC,Myrtle Beach Sun News,143370,1992,PRESIDENT,,,SC,"BUSH, GEORGE",Republican,,,1,,Editorial 'We recommend...for presidency' - Sun News editorial board could not agree between Bush and Clinton; no endorsement issued. Both discussed.,0.85
+SC,Myrtle Beach Sun News,143370,1992,PRESIDENT,,,SC,"CLINTON, BILL",Democrat,,,,,No endorsement issued; board could not agree between Clinton and Bush.,0.85
+SC,Myrtle Beach Sun News,143370,1992,PRESIDENT,,,SC,"PEROT, ROSS",Independent,,,,,"Discussed - 'really weird, unpredictable incidents' make him not seriously considered.",0.80
+SC,Myrtle Beach Sun News,143370,1992,SENATOR,,,SC,"HARTNETT, TOMMY",Republican,0,,,,Republican challenger from Charleston; not endorsed but praised for political ads/campaign.,0.85
+SC,Myrtle Beach Sun News,143370,1992,SENATOR,,,SC,"HOLLINGS, ERNEST F. ""FRITZ""",Democrat,1,1,,,Editorial 'We recommend...for U.S. offices' - endorsed Hollings; better understands federal budget than challenger.,0.95
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,103,,SC,"SNOW, JOHN J. ""BUBBER""",Democrat,1,1,,,Editorial 'We recommend...for Legislature' - listed as unopposed incumbent.,0.85
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,104,,SC,"PIKE, JAMES C. JR.",Republican,1,,,,"District 104 - 'Pike gets the nod, but not with enthusiasm because of the negativism that he broadcasts. However, he is informed on the issues.'",0.85
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,104,,SC,"WORLEY, HAROLD",Democrat,0,,,,Pike endorsed over Worley.,0.85
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,105,,SC,"MARTIN, MORGAN",Republican,1,,1,,Listed as unopposed incumbent (District 105).,0.60
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,105,,SC,"WITHERSPOON, BILLY",Republican,1,,,,"District 105 - Witherspoon, the Republican, wins our approval because of his long involvement in Horry County civic and business affairs.",0.90
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,106,,SC,"KEAGAN, TOM",Republican,1,,1,,Listed as unopposed incumbent (District 106).,0.85
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,107,,SC,"HUDSON, GENE",Democrat,0,,,,Democrat opponent Gene Hudson; Kelley endorsed.,0.70
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,107,,SC,"KELLEY, MARK",Republican,1,,,,District 107 - 'Republican Mark Kelley will probably make a very good legislator.',0.90
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,108,,SC,"BECOSIUS, REP.",Democrat,1,1,,,Listed as unopposed incumbent (District 108).,0.50
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,108,,SC,"BENDS, SAM",Democrat,0,,,,Democratic opponent Sam Bends; Thomas endorsed.,0.60
+SC,Myrtle Beach Sun News,143370,1992,STATE REP,108,,SC,"THOMAS, PAULA",Republican,1,,,,District 108 - Republican Thomas endorsed; 'Thomas would bring to the House a perspective that just might shake up the good ol' boys.',0.85
+SC,Myrtle Beach Sun News,143370,1992,STATE SENATOR,28,,SC,"DERRICK, JULIUS",Republican,0,,,,Republican opponent (R-North Myrtle Beach); Elliott endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1992,STATE SENATOR,28,,SC,"ELLIOTT, DICK",Democrat,1,,,,District 28 - Rep. Dick Elliott (D-North Myrtle Beach) attempts to move across the Statehouse lobby to Senate after a decade in the House. Elliott endorsed.,0.90
+SC,Myrtle Beach Sun News,143370,1992,STATE SENATOR,33,,SC,"HOLT, KEN",Republican,0,,,,Rankin endorsed over Holt.,0.85
+SC,Myrtle Beach Sun News,143370,1992,STATE SENATOR,33,,SC,"RANKIN, LAKE",Democrat,1,,,,District 33 - Rankin endorsed; 'youth vs. experience' question; Rankin brings ideas and good ones at that.,0.90
+SC,Myrtle Beach Sun News,143370,1992,STATE SENATOR,34,,SC,"SMITH, GREG",Democrat,1,,,,"District 34 - 'The call here is for Greg Smith, D-Pawleys Island, against Republican Joe Young.'",0.95
+SC,Myrtle Beach Sun News,143370,1992,STATE SENATOR,34,,SC,"YOUNG, JOE",Republican,0,,,,Smith endorsed over Young.,0.85
+SC,Myrtle Beach Sun News,143370,1994,ADJUTANT GENERAL,,,SC,"HENDRIX, TOM",Republican,0,,,,Spears endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,ADJUTANT GENERAL,,,SC,"SPEARS, STAN",Democrat,1,,,,Spears over Tom Hendrix.,0.95
+SC,Myrtle Beach Sun News,143370,1994,ATTORNEY GENERAL,,,SC,"CONDON, CHARLIE",Republican,0,,,,Harpootlian endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,ATTORNEY GENERAL,,,SC,"HARPOOTLIAN, DICK",Democrat,1,,,,Harpootlian over Charlie Condon.,0.95
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,,Horry County - Chair,SC,"MCNUTT, A. JOSEPH ""JOEY"" JR.",,1,,,,Horry County Council chair - McNutt over Johnny M. Shelley.,0.95
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,,Horry County - Chair,SC,"SHELLEY, JOHNNY M.",,0,,,,McNutt endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,1,Georgetown County,SC,"COX, GLENN",,0,,,,Swatzel endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,1,Georgetown County,SC,"SWATZEL, TOM",,1,,,,Georgetown County Council District 1 - Swatzel over Glenn Cox.,0.95
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,11,Horry County,SC,"DAWSEY, STEVE B.",,0,,,,Jordan endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,11,Horry County,SC,"JORDAN, JUNNIE G.",,1,,,,Horry County Council District 11 - Jordan over Steve B. Dawsey.,0.95
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,5,Horry County,SC,"DUNN, JAMES E.",,0,,,,Prosser endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,5,Horry County,SC,"PROSSER, CHAD",,1,,,,Horry County Council District 5 - Prosser over James E. Dunn.,0.95
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,8,Horry County,SC,"CLEWIS, LEROY",,0,,,,Gilliand endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,CNTY COMM,8,Horry County,SC,"GILLIAND, ELIZABETH",,1,,,,Horry County Council District 8 - Gilliand over LeRoy Clewis.,0.95
+SC,Myrtle Beach Sun News,143370,1994,COMMISSIONER OF AGRICULTURE,,,SC,"CHILDERS, TRACY",,,,,,No recommendation between Tindal and Childers.,0.85
+SC,Myrtle Beach Sun News,143370,1994,COMMISSIONER OF AGRICULTURE,,,SC,"TINDAL, LES",,,,,,No recommendation between Tindal and Childers.,0.85
+SC,Myrtle Beach Sun News,143370,1994,COMPTROLLER GENERAL,,,SC,"BAKER, DELL",,0,,,,Morris endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,COMPTROLLER GENERAL,,,SC,"MORRIS, EARLE JR.",Democrat,1,1,,,Earle Morris Jr. over Dell Baker.,0.95
+SC,Myrtle Beach Sun News,143370,1994,DA/PROSECUTOR,15,,SC,"PRINCE, JULIAN DERRICK",,0,,,,Wilson endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,DA/PROSECUTOR,15,,SC,"QUILLAN, DOC",,0,,,,Wilson endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,DA/PROSECUTOR,15,,SC,"WILSON, RALPH",Democrat,1,1,,,15th Judicial District solicitor - Wilson over Jullian Derrick Prince and Doc Quillan.,0.95
+SC,Myrtle Beach Sun News,143370,1994,GOVERNOR,,,SC,"BEASLEY, DAVID",Republican,0,,,,Theodore endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,GOVERNOR,,,SC,"GRIFFIN, WAYNE R.",,0,,,,Theodore endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1994,GOVERNOR,,,SC,"PEEPLES, JOHN",,0,,,,Theodore endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1994,GOVERNOR,,,SC,"THEODORE, NICK",Democrat,1,,,,"Editorial 'Our suggestions: for many offices' - Theodore over David Beasley, Wayne R. Griffin and John Peeples.",0.95
+SC,Myrtle Beach Sun News,143370,1994,H,1,,SC,"BARBER, ROBERT",Democrat,1,,,,"Congress, 1st District - Barber over Mark Sanford and Robert Payne.",0.95
+SC,Myrtle Beach Sun News,143370,1994,H,1,,SC,"PAYNE, ROBERT",,0,,,,Barber endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,H,1,,SC,"SANFORD, MARK",Republican,0,,,,Barber endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,LT GOVERNOR,,,SC,"PATTERSON, LIZ",Democrat,,,,,No recommendation between Patterson and Peeler.,0.85
+SC,Myrtle Beach Sun News,143370,1994,LT GOVERNOR,,,SC,"PEELER, BOB",Republican,,,,,No recommendation between Patterson and Peeler.,0.85
+SC,Myrtle Beach Sun News,143370,1994,SCHOOL BOARD,2,Horry County,SC,"HILTON, PATTI",,1,1,,,Horry County school board District 2 - Hilton over Ken L. Witkowski.,0.95
+SC,Myrtle Beach Sun News,143370,1994,SCHOOL BOARD,2,Horry County,SC,"WITKOWSKI, KEN L.",,0,,,,Hilton endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,SEC OF STATE,,,SC,"ADAMS, TED",,0,,,,Miles endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,SEC OF STATE,,,SC,"KIMPSON, MILTON",,0,,,,Miles endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,SEC OF STATE,,,SC,"MILES, JIM",Republican,1,,1,,Jim Miles over Milton Kimpson and Ted Adams.,0.95
+SC,Myrtle Beach Sun News,143370,1994,STATE REP,107,,SC,"ANDERSON, BEN",,0,,,,Kelley endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,STATE REP,107,,SC,"KELLEY, MARK",Republican,1,,1,,State House District 107 - Kelley over Ben Anderson.,0.95
+SC,Myrtle Beach Sun News,143370,1994,STATE REP,58,,SC,"JOHNSON, JOE",,0,,,,Martin endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,STATE REP,58,,SC,"MARTIN, MORGAN",Republican,1,,,,State House District 58 - Martin over Joe Johnson.,0.95
+SC,Myrtle Beach Sun News,143370,1994,SUPERINTENDENT,,,SC,"LINDBLAD, RALPH",,0,,,,Nielsen endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,SUPERINTENDENT,,,SC,"NIELSEN, BARBARA",Republican,1,1,,,Nielsen over Sylvia Weinberg and Ralph Lindblad.,0.95
+SC,Myrtle Beach Sun News,143370,1994,SUPERINTENDENT,,,SC,"WEINBERG, SYLVIA",,0,,,,Nielsen endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,TREASURER,,,SC,"ECKSTROM, RICHARD",Republican,0,,,,Patterson endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,TREASURER,,,SC,"MORRIS, DAVID",,0,,,,Patterson endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1994,TREASURER,,,SC,"PATTERSON, GRADY L. JR.",Democrat,1,1,,,Patterson over Richard Eckstrom and David Morris.,0.95
+SC,Myrtle Beach Sun News,143370,1996,CNTY COMM,10,Horry County,SC,"HARDEE, CHADWICK",Republican,0,,,,"Should be welcomed to Horry County politics, but disagree with too many viewpoints. Shelley endorsed.",0.85
+SC,Myrtle Beach Sun News,143370,1996,CNTY COMM,10,Horry County,SC,"SHELLEY, JOHNNY",Democrat,1,1,,,Editorial 'Our suggestion...on local issues' - District 10 County Council. 'Shelley for council.' 10-year history of County Council that can be vouched for.,0.95
+SC,Myrtle Beach Sun News,143370,1996,SCHOOL BOARD,11,Horry County,SC,"SUMMERALL, KIM",Republican,1,,,,District 11 school board centered on Aynor. 'Summerall said it was his educational experience as a teacher and principal.' Endorsed - 'Summerall is the better choice.',0.95
+SC,Myrtle Beach Sun News,143370,1996,SCHOOL BOARD,11,Horry County,SC,"TODD, SANDRA",Democrat,0,,,,Summerall endorsed over Todd.,0.85
+SC,Myrtle Beach Sun News,143370,1996,SENATOR,,,SC,"ASHY, PETER",Natural Law,0,,,,Other candidate - Close endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1996,SENATOR,,,SC,"CLOSE, ELLIOTT",Democrat,1,,,,Editorial 'Our suggestion...for U.S. Senate' - 'Elliott Close should be elected on Nov. 5 to succeed Thurmond.' Moderate; time for Elliott Close.,0.95
+SC,Myrtle Beach Sun News,143370,1996,SENATOR,,,SC,"ESTES, ANNETTE",Reform,0,,,,Other candidate - Close endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1996,SENATOR,,,SC,"QUILLAN, RICHARD T. ""DOC""",Libertarian,0,,,,Other candidate - Close endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1996,SENATOR,,,SC,"THURMOND, STROM",Republican,0,,1,,"'Thurmond has been wonderful, but it's time for Elliott Close.' Influence doubtful.",0.95
+SC,Myrtle Beach Sun News,143370,1996,STATE REP,104,,SC,"ABERNATHY, CYNTHIA",Democrat,0,,,,Edge endorsed over Abernathy.,0.85
+SC,Myrtle Beach Sun News,143370,1996,STATE REP,104,,SC,"EDGE, TRACY R.",Republican,1,,,,"District 104, North Myrtle Beach west to Marion County. 'Republican Tracy R. Edge represents the better opportunity in this district to give Horry County a unified voice and unified voting power in the General Assembly.'",0.95
+SC,Myrtle Beach Sun News,143370,1996,STATE REP,108,,SC,"MILLER, VIDA",Democrat,,,,,No endorsement between Thomas and Miller.,0.90
+SC,Myrtle Beach Sun News,143370,1996,STATE REP,108,,SC,"THOMAS, DON",Republican,,,,,"District 108, eastern Georgetown County and small slice of southern Horry. 'We regret that we have been unable to choose between Republican Don Thomas and Democrat Vida Miller.'",0.90
+SC,Myrtle Beach Sun News,143370,1996,STATE REP,58,,SC,"BARFIELD, LISTON",Republican,1,,,,Editorial 'Our suggestions...for state House' - District 58 western Horry County. 'Barfield favored by editorial board for House seats.' Previously served in House.,0.95
+SC,Myrtle Beach Sun News,143370,1996,STATE REP,58,,SC,"JOHNSON, GENE",Democrat,0,,,,Barfield endorsed over Johnson.,0.85
+SC,Myrtle Beach Sun News,143370,1996,STATE SENATOR,,,SC,"RAVENEL, ARTHUR",Republican,0,,,,Long-time Charleston area politician; opponent. Smith endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1996,STATE SENATOR,,,SC,"SMITH, GREG",Independent,1,,,1,"Editorial 'Smith is a proven plus' - Smith, an independent, would represent Horry, Charleston and Georgetown counties well. 'Smith would better serve this convoluted district.' Incumbent.",0.95
+SC,Myrtle Beach Sun News,143370,1996,STATE SENATOR,33,,SC,"RANKIN, LUKE",Republican,1,,1,,Editorial 'Let Rankin continue his job' - 'We find no reason to turn Rankin out of office and many reasons to sustain his service.' Incumbent.,0.95
+SC,Myrtle Beach Sun News,143370,1996,STATE SENATOR,33,,SC,"RENDER, PHIL",Democrat,0,,,,'Attractive candidate' but Rankin endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,ADJUTANT GENERAL,,,SC,"BURTON, ROBERT DIXON",Republican,1,,,,'Burton would do an excellent job.' Mount Pleasant commercial pilot.,0.90
+SC,Myrtle Beach Sun News,143370,1998,ADJUTANT GENERAL,,,SC,"SPEARS, STAN",Democrat,0,1,,,Incumbent; Burton endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,ATTORNEY GENERAL,,,SC,"CONDON, CHARLIE",Republican,1,,1,,"Editorial 'Our suggestions for state officials' - 'In summary: Endorsements for both parties: Miles, Condon, Patterson, Tenenbaum and Burton.' Condon listed as endorsed despite criticism.",0.70
+SC,Myrtle Beach Sun News,143370,1998,ATTORNEY GENERAL,,,SC,"TURNIPSEED, TOM",Democrat,0,,,,'Turnipseed's ability to lead is in question.' Condon endorsed.,0.70
+SC,Myrtle Beach Sun News,143370,1998,CNTY COMM,,Horry County - Chairman,SC,"CLEWIS, LEROY",Democrat,0,,,,Prosser endorsed over Clewis.,0.85
+SC,Myrtle Beach Sun News,143370,1998,CNTY COMM,,Horry County - Chairman,SC,"PROSSER, CHAD",Republican,1,,,,"Editorial 'Our suggestions: County Council' - 'we fully endorse Prosser, a Republican, to be elected to the post in next Tuesday's election.' Acting chair previously.",0.95
+SC,Myrtle Beach Sun News,143370,1998,CNTY COMM,11,Horry County,SC,"JOHNSON, JOE",,,,,,No endorsement.,0.90
+SC,Myrtle Beach Sun News,143370,1998,CNTY COMM,11,Horry County,SC,"JORDAN, JANICE",,,1,,,'We choose not to endorse either incumbent Janice Jordan or challenger Joe Johnson.',0.90
+SC,Myrtle Beach Sun News,143370,1998,CNTY COMM,2,Horry County,SC,"KOST, JOHN",Republican,1,,1,,District 2 (north end of Myrtle Beach into N. Myrtle Beach) - Kost should be returned to office because of his sagacity.,0.90
+SC,Myrtle Beach Sun News,143370,1998,CNTY COMM,2,Horry County,SC,"MILLS, STEVE MARINO",Democrat,0,,,,Exceptional challenge to Kost. Kost endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,CNTY COMM,6,Horry County,SC,"BATCHELDER, BOB",,0,,,,Heyd endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1998,CNTY COMM,6,Horry County,SC,"HEYD, MARVIN",,1,,,,District 6 (Socastee) - 'Heyd is our choice because he is a persuasive consensus builder with the same aims in mind as the other two.',0.90
+SC,Myrtle Beach Sun News,143370,1998,CNTY COMM,6,Horry County,SC,"PITTMAN-PAGE, DEBORAH",,0,,,,Heyd endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1998,COMMISSIONER OF AGRICULTURE,,,SC,"TINDAL, LES",Republican,1,,1,,"Commissioner Les Tindal, a Republican, is unopposed.",0.85
+SC,Myrtle Beach Sun News,143370,1998,COMPTROLLER GENERAL,,,SC,"COURSON, JOHN",Republican,1,,,,'Courson's straightforwardness wins the day here.',0.90
+SC,Myrtle Beach Sun News,143370,1998,COMPTROLLER GENERAL,,,SC,"LANDER, INEZ",Democrat,0,,,,Courson endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,DA/PROSECUTOR,15,,SC,"HEMBREE, GREG",Republican,,,,,No endorsement; choice left to voters.,0.90
+SC,Myrtle Beach Sun News,143370,1998,DA/PROSECUTOR,15,,SC,"WILSON, RALPH",Democrat,,1,,,Editorial 'Our suggestions for district solicitor' - 'We thus leave that choice...totally up to you.' Both candidates have individual good qualities but lack some qualifications.,0.90
+SC,Myrtle Beach Sun News,143370,1998,GOVERNOR,,,SC,"BEASLEY, DAVID",Republican,0,,1,,Incumbent. Hodges endorsed.,0.90
+SC,Myrtle Beach Sun News,143370,1998,GOVERNOR,,,SC,"HODGES, JIM",Democrat,1,,,,"Editorial 'Our suggestion on next governor' - 'we will vote for Jim Hodges. Because the polls show a virtual tie between him and Beasley, you can make a considerable difference with your vote on Tuesday.' Hodges' programs more cogent and coordinated.",0.95
+SC,Myrtle Beach Sun News,143370,1998,H,1,,SC,"INNELLA, JOE",Libertarian,0,,,,Sanford endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,H,1,,SC,"SANFORD, MARK",Republican,1,,1,,Editorial 'Our suggestion for congressman' - 'Sanford should be returned to Congress to help.' Pledged to serve only 3 terms; anti-debt voting record.,0.95
+SC,Myrtle Beach Sun News,143370,1998,LT GOVERNOR,,,SC,"PEELER, BOB",Republican,0,,,,Theodore endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,LT GOVERNOR,,,SC,"THEODORE, NICK",Democrat,1,1,,,Editorial 'Lt. governor' - 'Theodore is a friend of Horry County and should be returned to office.' Convened forward-looking Commission on the Future of South Carolina.,0.95
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,,Georgetown County,SC,"ALLEN, BARBARA",,1,,,,Georgetown County school board - retired educator. 'Allen wants to make schools inviting to attract parents in to help educate their children.' Endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,,Georgetown County,SC,"DUMM, JIM",,1,,,,Georgetown County school board - boys home director. 'Dumm wants to raise the bar.' Endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,,Georgetown County,SC,"GRATE, BEN",,1,1,,,Georgetown County school board - incumbent former school administrator. Endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,,Georgetown County,SC,"HOLMES, DARREN",,1,,,,Georgetown County school board - academic coordinator at Marine Institute. 'Holmes seeks to upgrade teacher salaries and expand the school-to-work program.' Endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,,Georgetown County,SC,"TAYLOR, WAYNE",,0,,,,Former school administrator; 'any of the latter three would be acceptable' but other 4 endorsed.,0.70
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,1,Horry County,SC,"CANNON, BLEEKER",Democrat,1,,,,District 1 - unopposed.,0.80
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,10,Horry County,SC,"THOMPSON, MARY ALICE",Democrat,1,,,,District 10 - unopposed.,0.80
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,2,Horry County,SC,"GREENE, MARYELLEN",Democrat,1,,,,District 2 - unopposed.,0.80
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,3,Brunswick County,NC,"CARNEY, PATRICIA",Republican,0,,,,Carter endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,3,Brunswick County,NC,"CARTER, BILLY",Democrat,1,,,,Brunswick District 3 - Carter wants a third term opposing Patricia Carney; Carter endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,5,Brunswick County,NC,"BRIGHT, YVONNE",Republican,0,,,,Browning endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,5,Brunswick County,NC,"BROWNING, GLENDA",Democrat,1,1,,,Brunswick County (NC) District 5 - Browning is our choice to continue the improvements.,0.90
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,6,Horry County,SC,"KAPEK, MARTHA",Democrat,0,,,,Both candidates have qualifications nearly equal; by narrow margin Timms endorsed; Kapek's long-standing leadership in Socastee.,0.75
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,6,Horry County,SC,"TIMMS, PAMELA",Republican,1,,,,"Editorial 'Our suggestions for school boards' - Horry County District 6 - Timms 'would establish an advocacy program' that would connect all races, both look to make schools safer and saner.",0.85
+SC,Myrtle Beach Sun News,143370,1998,SCHOOL BOARD,7,Horry County,SC,"SALIM, YUSEF",Democrat,1,1,,,District 7 incumbent - unopposed.,0.80
+SC,Myrtle Beach Sun News,143370,1998,SEC OF STATE,,,SC,"FAIRCHILD, ROY BLAKE",Democrat,0,,,,Miles endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,SEC OF STATE,,,SC,"MILES, JIM",Republican,1,,1,,"'Wants to get rid of his office, and he should be re-elected to accomplish just that.'",0.95
+SC,Myrtle Beach Sun News,143370,1998,SENATOR,,,SC,"HOLLINGS, ERNEST F. ""FRITZ""",Democrat,1,1,,,"Editorial 'Our suggestion for U.S. Senate' - 'There is no commanding reason to replace him in office, but many reasons to return him to Washington.' 32-year veteran; budget expert.",0.95
+SC,Myrtle Beach Sun News,143370,1998,SENATOR,,,SC,"INGLIS, BOB",Republican,0,,,,4th District Rep R-Greenville; substantial opposition. Hollings endorsed.,0.90
+SC,Myrtle Beach Sun News,143370,1998,SENATOR,,,SC,"QUILLIAN, RICHARD T.",Libertarian,0,,,,Surfside Beach - third candidate. Hollings endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,STATE REP,104,,SC,"BESSENT, HAROLD M.",Democrat,0,,,,Disagree pretty firmly about video poker. Edge endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,STATE REP,104,,SC,"EDGE, TRACY",Republican,1,,1,,House District 104 - 'Edge seems to have a better grip on the issues...nonetheless should be returned to Columbia.' Seeking second term.,0.95
+SC,Myrtle Beach Sun News,143370,1998,STATE REP,58,,SC,"BARFIELD, LISTON",Republican,,,,,House District 58 - 'We choose not to endorse either Republican Liston Barfield or Democrat Lucian M. Norton Jr.',0.90
+SC,Myrtle Beach Sun News,143370,1998,STATE REP,58,,SC,"NORTON, LUCIAN M. JR.",Democrat,,,,,No endorsement.,0.90
+SC,Myrtle Beach Sun News,143370,1998,SUPERINTENDENT,,,SC,"ECKSTROM, DAVID",Republican,0,,,,Tenenbaum endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,1998,SUPERINTENDENT,,,SC,"TENENBAUM, INEZ",Democrat,1,,,,'Tenenbaum's classroom experience as a teacher qualifies her more than Eckstrom's school board chairmanship experience.' Endorsed.,0.95
+SC,Myrtle Beach Sun News,143370,1998,TREASURER,,,SC,"ECKSTROM, RICHARD",Republican,0,,1,,Incited petty disagreements with comptroller general; surprisingly defeated in 1994. Patterson preferable.,0.90
+SC,Myrtle Beach Sun News,143370,1998,TREASURER,,,SC,"PATTERSON, GRADY",Democrat,1,,,,'Patterson is preferable' - over Eckstrom.,0.95
+SC,Myrtle Beach Sun News,143370,2000,CITY COUNCIL,,Myrtle Beach,SC,"BROADHURST, RACHEL",,1,,,,Myrtle Beach City Council - endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,2000,CITY COUNCIL,,Myrtle Beach,SC,"CAIN, WILSON",,1,,,,Myrtle Beach City Council - endorsed for at-large seat.,0.80
+SC,Myrtle Beach Sun News,143370,2000,CITY COUNCIL,,Myrtle Beach,SC,"CHESTNUT, MICHAEL",,1,,,,Myrtle Beach City Council - endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,2000,PRESIDENT,,,SC,"BUSH, GEORGE W.",Republican,0,,,,Gore endorsed.,0.90
+SC,Myrtle Beach Sun News,143370,2000,PRESIDENT,,,SC,"GORE, AL",Democrat,1,,,,"Editorial 'Al Gore, Rankin, Others' - 'For president: Al Gore over George W. Bush.'",0.95
+SC,Myrtle Beach Sun News,143370,2000,SHERIFF,,Georgetown County,SC,"CRIBB, SAM",,1,,,,Georgetown County sheriff - Cribb endorsed over Stan Walters.,0.80
+SC,Myrtle Beach Sun News,143370,2000,SHERIFF,,Georgetown County,SC,"WALTERS, STAN",,0,,,,Cribb endorsed.,0.75
+SC,Myrtle Beach Sun News,143370,2000,STATE REP,104,,SC,"EDGE, TRACY",Republican,1,,1,,House District 104 - Edge endorsed over David Brown.,0.85
+SC,Myrtle Beach Sun News,143370,2000,STATE REP,108,,SC,"MILLER, VIDA",Democrat,1,,,,House District 108 - Vida Miller endorsed over Don Thomas.,0.85
+SC,Myrtle Beach Sun News,143370,2000,STATE REP,108,,SC,"THOMAS, DON",Republican,0,,,,Miller endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,2000,STATE REP,58,,SC,"BARFIELD, LISTON",Republican,,1,,,State House District 58 - no choice between Liston Barfield and Lucian Norton.,0.80
+SC,Myrtle Beach Sun News,143370,2000,STATE REP,58,,SC,"NORTON, LUCIAN",Democrat,,,,,No endorsement.,0.80
+SC,Myrtle Beach Sun News,143370,2000,STATE SENATOR,33,,SC,"RANKIN, LUKE",Republican,1,,1,,"State Senate District 33, Horry County - Rankin endorsed over Alan Stout.",0.95
+SC,Myrtle Beach Sun News,143370,2000,STATE SENATOR,33,,SC,"STOUT, ALAN",Democrat,0,,,,Rankin endorsed.,0.70
+SC,Myrtle Beach Sun News,143370,2002,CNTY COMM,1,Horry County,SC,"WORLEY, HAROLD",,1,,,,Horry County Council District 1: Harold Worley.,0.85
+SC,Myrtle Beach Sun News,143370,2002,CNTY COMM,11,Horry County,SC,"BELL, JOHN",,1,,,,Horry County Council District 11: John Bell.,0.80
+SC,Myrtle Beach Sun News,143370,2002,CNTY COMM,2,Horry County,SC,"GRAY, WAYNE",,1,,,,Horry County Council District 2: Wayne Gray.,0.85
+SC,Myrtle Beach Sun News,143370,2002,COMPTROLLER GENERAL,,,SC,"ECKSTROM, RICHARD",Republican,1,,,,S.C. comptroller general: Richard Eckstrom.,0.85
+SC,Myrtle Beach Sun News,143370,2002,GOVERNOR,,,SC,"SANFORD, MARK",Republican,1,,,,Editorial 'Revisiting our election choices' - Governor: Mark Sanford.,0.90
+SC,Myrtle Beach Sun News,143370,2002,JUDGE,,Horry County,SC,"EDWARDS, CHARLIE",,1,,,,Horry County probate judge: Charlie Edwards.,0.70
+SC,Myrtle Beach Sun News,143370,2002,SCHOOL BOARD,,Georgetown County,SC,"BANES, ERIC",,1,,,,Georgetown County Board of Education endorsement.,0.60
+SC,Myrtle Beach Sun News,143370,2002,SCHOOL BOARD,,Horry County - Chair,SC,"GARLAND, WILL",,1,,,,Horry County Board of Education Chair: Will Garland.,0.80
+SC,Myrtle Beach Sun News,143370,2002,SCHOOL BOARD,10,Horry County,SC,"THOMPSON, MARY ALICE",,1,,,,Horry County Board of Education District 10: Mary Alice Thompson.,0.85
+SC,Myrtle Beach Sun News,143370,2002,SCHOOL BOARD,4,Horry County,SC,"BROOKS, CARL",,1,,,,Horry County Board of Education District 4: Carl Brooks.,0.80
+SC,Myrtle Beach Sun News,143370,2002,SENATOR,,,SC,"SANDERS, ALEX",Democrat,1,,,,U.S. Senator: Alex Sanders.,0.90
+SC,Myrtle Beach Sun News,143370,2002,STATE REP,104,,SC,"EDGE, TRACY",Republican,1,,1,,S.C. House District 104: Tracy Edge.,0.85
+SC,Myrtle Beach Sun News,143370,2002,STATE REP,106,,SC,"KEAGAN, TOM",Republican,1,,,,S.C. House District 106: Tom Keagan.,0.85
+SC,Myrtle Beach Sun News,143370,2002,STATE REP,107,,SC,"CLEMMONS, ALAN",Republican,1,,,,S.C. House District 107: Alan Clemmons.,0.85
+SC,Myrtle Beach Sun News,143370,2002,STATE REP,108,,SC,"MILLER, VIDA",Democrat,1,1,,,S.C. House District 108: Vida Miller.,0.85
+SC,Myrtle Beach Sun News,143370,2002,STATE REP,58,,SC,"BITHER, LESLIE",,1,,,,S.C. House District 58: Leslie Bither.,0.60
+SC,Myrtle Beach Sun News,143370,2002,STATE REP,60,,SC,"OWEN, CHAD",,1,,,,S.C. House District 60: Chad Owen.,0.65
+SC,Myrtle Beach Sun News,143370,2002,TREASURER,,,SC,"RYBERG, GREG",Republican,1,,,,S.C. treasurer: Greg Ryberg.,0.85
+SC,Myrtle Beach Sun News,143370,2004,AUDITOR,,Georgetown County,SC,"HOWARD, WALLACE",Republican,1,,,,"Georgetown County auditor: Wallace Howard, R.",0.90
+SC,Myrtle Beach Sun News,143370,2004,CNTY COMM,10,Horry County,SC,"HARDEE, KEVIN",Republican,1,,,,"Horry County Council District 10: Kevin Hardee, R.",0.85
+SC,Myrtle Beach Sun News,143370,2004,CNTY COMM,3,Horry County,SC,"FOXWORTH, MARION",Democrat,1,,,,"Horry County Council District 3: Marion Foxworth, D.",0.85
+SC,Myrtle Beach Sun News,143370,2004,CNTY COMM,6,Horry County,SC,"RYAN, MIKE",Republican,1,,,,"Horry County Council District 6: Mike Ryan, R.",0.85
+SC,Myrtle Beach Sun News,143370,2004,CNTY COMM,9,Horry County,SC,"PRINCE, PAUL",Republican,1,,,,"Horry County Council District 9: Paul Prince, R.",0.85
+SC,Myrtle Beach Sun News,143370,2004,H,1,,SC,"BROWN, HENRY",Republican,1,,1,,"U.S. House: Henry Brown, R.",0.90
+SC,Myrtle Beach Sun News,143370,2004,PRESIDENT,,,SC,"KERRY, JOHN",Democrat,1,,,,"Editorial 'Vote Today' - President: John Kerry, D.",0.95
+SC,Myrtle Beach Sun News,143370,2004,SCHOOL BOARD,,Georgetown County - At Large,SC,"ELLIOTT, SARAH F.",Democrat,1,,,,"Georgetown County Board of Education at large: Sarah F. Elliott, D.",0.85
+SC,Myrtle Beach Sun News,143370,2004,SCHOOL BOARD,,Georgetown County - At Large,SC,"GIBSON, DIANE",Democrat,1,,,,Georgetown County Board of Education at large.,0.70
+SC,Myrtle Beach Sun News,143370,2004,SCHOOL BOARD,,Georgetown County - Chairman,SC,"MIDDLETON, EYLISE",Democrat,1,,,,"Georgetown County Board of Education chairman: Eylise Middleton, D.",0.85
+SC,Myrtle Beach Sun News,143370,2004,SCHOOL BOARD,,Georgetown County - At Large,SC,"SPANN, JOHN H.",Democrat,1,,,,Georgetown County Board of Education at large.,0.85
+SC,Myrtle Beach Sun News,143370,2004,SCHOOL BOARD,,Georgetown County - At Large,SC,"WILSON, JOHNNY",Republican,1,,,,Georgetown County Board of Education at large.,0.85
+SC,Myrtle Beach Sun News,143370,2004,SCHOOL BOARD,1,Horry County,SC,"HUCKS, CHARLES",Republican,1,,,,"Horry County Board of Education District 1: Charles Hucks, R.",0.85
+SC,Myrtle Beach Sun News,143370,2004,SENATOR,,,SC,"TENENBAUM, INEZ",Democrat,1,,,,"U.S. Senate: Inez Tenenbaum, D.",0.95
+SC,Myrtle Beach Sun News,143370,2004,SHERIFF,,Georgetown County,SC,"CRIBB, LANE",Republican,1,,,,"Georgetown County sheriff: Lane Cribb, R.",0.90
+SC,Myrtle Beach Sun News,143370,2004,STATE REP,104,,SC,"EDGE, TRACY",Republican,1,,1,,"S.C. House District 104: Tracy Edge, R.",0.95
+SC,Myrtle Beach Sun News,143370,2004,STATE REP,106,,SC,"HARDWICK, NELSON",Republican,1,,,,"S.C. House District 106: Nelson Hardwick, R.",0.90
+SC,Myrtle Beach Sun News,143370,2004,STATE REP,108,,SC,"MILLER, VIDA G.",Democrat,1,1,,,"S.C. House District 108: Vida G. Miller, D.",0.95
+SC,Myrtle Beach Sun News,143370,2004,STATE REP,60,,SC,"VIERS, THAD",Republican,1,,,,"S.C. House District 60: Thad Viers, R.",0.90
+SC,Myrtle Beach Sun News,143370,2004,STATE SENATOR,28,,SC,"JAMIESON, CATHARINE",Democrat,1,,,,"S.C. Senate District 28: Catharine Jamieson, D.",0.85
+SC,Myrtle Beach Sun News,143370,2004,STATE SENATOR,33,,SC,"RANKIN, LUKE",Republican,1,,1,,"S.C. Senate District 33: Luke Rankin, R.",0.95
+SC,Myrtle Beach Sun News,143370,2004,TREASURER,,Georgetown County,SC,"WASHINGTON, LORETTA D.",Democrat,1,,,,"Georgetown County treasurer: Loretta D. Washington, D.",0.90
+SC,Myrtle Beach Sun News,143370,2006,CITY COUNCIL,,Conway,SC,"CHESTNUT, VELMA",,1,,,,Conway City Council: Velma Chestnut.,0.85
+SC,Myrtle Beach Sun News,143370,2006,CITY COUNCIL,,Conway,SC,"LAWSON, EDDIE",,1,,,,Conway City Council: Eddie Lawson.,0.85
+SC,Myrtle Beach Sun News,143370,2006,CITY COUNCIL,,Conway,SC,"WILSON, LARRY",,1,,,,Conway City Council: Larry Wilson.,0.85
+SC,Myrtle Beach Sun News,143370,2006,CNTY COMM,10,Horry County,SC,"SOLIS, MARC",,1,,,,Horry County Council District 10: Marc Solis.,0.60
+SC,Myrtle Beach Sun News,143370,2006,CNTY COMM,3,Horry County,SC,"CHILDS, HEATH",,1,,,,Horry County Council District 3: Heath Childs.,0.70
+SC,Myrtle Beach Sun News,143370,2006,CNTY COMM,6,Horry County,SC,"LAZARUS, MARK",,1,,,,Horry County Council District 6: Mark Lazarus.,0.75
+SC,Myrtle Beach Sun News,143370,2006,CNTY COMM,6,Georgetown County,SC,"O'CONNELL, LYNN",,1,,,,Georgetown County Council District 6: Lynn O'Connell.,0.60
+SC,Myrtle Beach Sun News,143370,2006,CNTY COMM,9,Horry County,SC,"ELDER, HENRY",,1,,,,Horry County Council District 9: Henry Elder.,0.60
+SC,Myrtle Beach Sun News,143370,2006,COMPTROLLER GENERAL,,,SC,"ECKSTROM, RICHARD",Republican,1,,1,,Comptroller General: Richard Eckstrom.,0.90
+SC,Myrtle Beach Sun News,143370,2006,GOVERNOR,,,SC,"MOORE, TOMMY",Democrat,1,,,,Editorial 'Why We Recommend' - Governor: Tommy Moore.,0.90
+SC,Myrtle Beach Sun News,143370,2006,H,1,,SC,"BROWN, HENRY",Republican,1,,1,,U.S. House: Henry Brown.,0.90
+SC,Myrtle Beach Sun News,143370,2006,LT GOVERNOR,,,SC,"BARBER, ROBERT",Democrat,1,,,,Lt. Governor: Robert Barber.,0.90
+SC,Myrtle Beach Sun News,143370,2006,MAYOR,,Conway,SC,"MARTIN, GREG",,1,,,,Conway Mayor: Greg Martin.,0.85
+SC,Myrtle Beach Sun News,143370,2006,SCHOOL BOARD,,Georgetown County,SC,"ELLIOTT, SARAH",,1,,,,Georgetown County Board of Education: Sarah Elliott.,0.70
+SC,Myrtle Beach Sun News,143370,2006,SCHOOL BOARD,5,Horry County,SC,"EVANS, JOHNNY",,1,,,,Horry County Board of Education District 5: Johnny Evans.,0.70
+SC,Myrtle Beach Sun News,143370,2006,STATE REP,104,,SC,"EDGE, TRACY",Republican,1,,1,,S.C. House District 104: Tracy Edge.,0.90
+SC,Myrtle Beach Sun News,143370,2006,STATE REP,107,,SC,"CLEMMONS, ALAN",Republican,1,,1,,S.C. House District 107: Alan Clemmons.,0.90
+SC,Myrtle Beach Sun News,143370,2006,STATE REP,108,,SC,"MILLER, VIDA",Democrat,1,1,,,S.C. House District 108: Vida Miller.,0.90
+SC,Myrtle Beach Sun News,143370,2006,SUPERINTENDENT,,,SC,"REX, JIM",Democrat,1,,,,Editor's Note - 'The Sun News recommends Jim Rex for S.C. education superintendent.' This race was inadvertently left out of Monday's summary.,0.95
+SC,Myrtle Beach Sun News,143370,2006,TREASURER,,,SC,"PATTERSON, GRADY",Democrat,1,,,,Treasurer: Grady Patterson.,0.90
+SC,Myrtle Beach Sun News,143370,2008,CNTY COMM,2,Georgetown County,SC,"BEARD, AUSTIN",,1,,,,Georgetown County Council District 2: Austin Beard.,0.80
+SC,Myrtle Beach Sun News,143370,2008,CNTY COMM,3,Horry County,SC,"FOXWORTH, MARION",,1,,,,Horry County Council District 3: Marion Foxworth.,0.85
+SC,Myrtle Beach Sun News,143370,2008,CNTY COMM,4,Georgetown County,SC,"JOHNSON, LILLIE JEAN",,1,,,,Georgetown County Council District 4: Lillie Jean Johnson.,0.80
+SC,Myrtle Beach Sun News,143370,2008,CNTY COMM,6,Horry County,SC,"GRABOWSKI, BOB",,1,,,,Horry County Council District 6: Bob Grabowski.,0.80
+SC,Myrtle Beach Sun News,143370,2008,CNTY COMM,9,Horry County,SC,"PRINCE, PAUL",,1,,,,Horry County Council District 9: Paul Prince.,0.85
+SC,Myrtle Beach Sun News,143370,2008,H,1,,SC,"BROWN, HENRY",Republican,1,,1,,U.S. House: Henry Brown.,0.95
+SC,Myrtle Beach Sun News,143370,2008,PRESIDENT,,,SC,"MCCAIN, JOHN",Republican,,,,,No endorsement issued for President.,0.85
+SC,Myrtle Beach Sun News,143370,2008,PRESIDENT,,,SC,"OBAMA, BARACK",Democrat,,,,,Editorial 'Vote Today' - 'Why did we make any effort? To provide voters a tool for making their decisions.' President: The newspaper editorial board was unable to agree on a recommendation. No endorsement.,0.85
+SC,Myrtle Beach Sun News,143370,2008,SCHOOL BOARD,1,Georgetown County,SC,"ELLIOTT, SARAH F.",,1,,,,Georgetown County Board of Education District 1: Sarah F. Elliott.,0.85
+SC,Myrtle Beach Sun News,143370,2008,SCHOOL BOARD,2,Georgetown County,SC,"SPADA, PAMELA",,1,,,,Georgetown County Board of Education District 2: Pamela Spada.,0.80
+SC,Myrtle Beach Sun News,143370,2008,SCHOOL BOARD,4,Georgetown County,SC,"WATSON, SHERIE",,1,,,,Georgetown County Board of Education District 4: Sherie Watson.,0.80
+SC,Myrtle Beach Sun News,143370,2008,SCHOOL BOARD,5,Georgetown County,SC,"WILSON, JOHNNY",,1,,,,Georgetown County Board of Education District 5: Johnny Wilson.,0.85
+SC,Myrtle Beach Sun News,143370,2008,SCHOOL BOARD,6,Horry County,SC,"COX, DAVID",,1,,,,Horry County Board of Education District 6: David Cox.,0.85
+SC,Myrtle Beach Sun News,143370,2008,SCHOOL BOARD,6,Georgetown County,SC,"HOWARD, THERESA D.",,1,,,,Georgetown County Board of Education District 6: Theresa D. Howard.,0.80
+SC,Myrtle Beach Sun News,143370,2008,SCHOOL BOARD,7,Georgetown County,SC,"LANCE, MCROY JR.",,1,,,,Georgetown County Board of Education District 7: McRoy Lance Jr.,0.80
+SC,Myrtle Beach Sun News,143370,2008,SENATOR,,,SC,"GRAHAM, LINDSEY",Republican,1,,1,,U.S. Senator: Lindsey Graham.,0.95
+SC,Myrtle Beach Sun News,143370,2008,STATE REP,104,,SC,"EDGE, TRACY",Republican,1,,1,,S.C. House District 104: Tracy Edge.,0.95
+SC,Myrtle Beach Sun News,143370,2008,STATE REP,108,,SC,"MILLER, VIDA",Democrat,1,1,,,S.C. House District 108: Vida Miller.,0.95
+SC,Myrtle Beach Sun News,143370,2008,STATE REP,60,,SC,"BARFIELD, LISTON",Republican,1,,,,S.C. House District 60: Liston Barfield.,0.85
+SC,Myrtle Beach Sun News,143370,2008,STATE SENATOR,32,,SC,"RANKIN, LUKE",Republican,1,,1,,S.C. Senate District 32: Luke Rankin.,0.85
+SC,Myrtle Beach Sun News,143370,2010,CNTY COMM,,Horry County - Chairman,SC,"RICE, TORY",Republican,1,,,,Editorial 'Voting Remains Important' - Horry County Council Chairman: Tory Rice.,0.85
+SC,Myrtle Beach Sun News,143370,2010,CNTY COMM,2,Horry County,SC,"WORLEY, HAROLD",Republican,1,,1,,District 2: Incumbent Harold Worley.,0.85
+SC,Myrtle Beach Sun News,143370,2010,CNTY COMM,6,Horry County,SC,"JOHNSON, H.A.",Republican,1,,,,District 6: H.A. Johnson.,0.70
+SC,Myrtle Beach Sun News,143370,2010,GOVERNOR,,,SC,"SHEHEEN, VINCENT",Democrat,1,,,,Governor: Vincent Sheheen.,0.95
+SC,Myrtle Beach Sun News,143370,2010,H,1,,SC,"SCOTT, TIM",Republican,1,,,,U.S. House of Representatives 1st District: Tim Scott.,0.95
+SC,Myrtle Beach Sun News,143370,2010,SCHOOL BOARD,,Horry County - Chairman,SC,"GARLAND, WILL",,1,1,,,Horry County School Board Chairman: Incumbent Will Garland.,0.85
+SC,Myrtle Beach Sun News,143370,2010,SCHOOL BOARD,10,Horry County,SC,"JAMES, PAT",,1,1,,,District 10: Incumbent Pat James.,0.85
+SC,Myrtle Beach Sun News,143370,2010,SCHOOL BOARD,2,Horry County,SC,"GREENE, MARYELLEN",,1,1,,,District 2: Incumbent MaryEllen Greene.,0.85
+SC,Myrtle Beach Sun News,143370,2010,SCHOOL BOARD,8,Horry County,SC,"DUFAU, JOE",,1,1,,,District 8: Incumbent Joe DuFau.,0.80
+SC,Myrtle Beach Sun News,143370,2010,STATE REP,104,,SC,"EDGE, TRACY",Republican,1,,1,,S.C. House District 104: Incumbent Tracy Edge.,0.95
+SC,Myrtle Beach Sun News,143370,2010,STATE REP,108,,SC,"MILLER, VIDA",Democrat,1,1,,,S.C. House District 108: Incumbent Vida Miller.,0.95
+SC,Myrtle Beach Sun News,143370,2010,STATE REP,58,,SC,"BARFIELD, LISTON",Republican,1,,1,,S.C. House District 58: Incumbent Liston Barfield.,0.85
+SC,Myrtle Beach Sun News,143370,2012,CNTY COMM,5,Horry County,SC,"CHILDS, HEATH",,1,1,,,Horry County Council District 5 - incumbent endorsed.,0.70
+SC,Myrtle Beach Sun News,143370,2012,CNTY COMM,7,Horry County,SC,"HEYD, MARVIN",,1,,,,Editorial 'Incumbents (or Heyd) for County Council' - District 7 - Heyd endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,2012,CNTY COMM,9,Horry County,SC,"PRINCE, PAUL",,1,1,,,Horry County Council District 9 - incumbent Paul Prince endorsed.,0.80
+SC,Myrtle Beach Sun News,143370,2012,H,7,,SC,"RICE, TOM",Republican,1,,,,Editorial 'Rice for U.S. House' - new SC 7th District. 'Republican from Horry County' would represent Congressional District well.,0.90
+SC,Myrtle Beach Sun News,143370,2012,H,7,,SC,"TINUBU, GLORIA BROMELL",Democrat,0,,,,Democratic opponent; Rice endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,2012,PRESIDENT,,,SC,"OBAMA, BARACK",Democrat,1,1,,,"Editorial titled 'Without Great Choice for President, It's Obama' endorses Obama as the better choice over Romney despite reservations.",0.95
+SC,Myrtle Beach Sun News,143370,2012,SCHOOL BOARD,,Horry County,SC,BESSANT,,1,,,,Editorial 'Bessant and Martin for School Board' - Bessant endorsed for school board.,0.70
+SC,Myrtle Beach Sun News,143370,2012,SCHOOL BOARD,,Horry County,SC,MARTIN,,1,,,,Martin endorsed for school board.,0.70
+SC,Myrtle Beach Sun News,143370,2012,STATE REP,,,SC,"RYHAL, KEVIN",Republican,1,,,,Editorial 'Ryhal for S.C. House' - voters in Carolina Forest and Plantation Lakes area. Has fresh ideas including civic involvement.,0.85
+SC,Myrtle Beach Sun News,143370,2012,STATE REP,,,SC,"VON HERRMANN, ANNE",,1,,,,Editorial 'Von Herrmann for House' - 'I don't need to be the smartest guy in the room.' Strong civic involvement.,0.85
+SC,Myrtle Beach Sun News,143370,2012,STATE REP,104,,SC,"EDGE, TRACY",Republican,1,,1,,Editorial 'No obvious choice on North Strand' - SC House District 104. Edge endorsed slightly over Randall - leans towards experienced Edge.,0.80
+SC,Myrtle Beach Sun News,143370,2012,STATE REP,104,,SC,"RANDALL, CHARLES",Democrat,0,,,,Edge slightly preferred over Randall.,0.75
+SC,Myrtle Beach Sun News,143370,2012,STATE SENATOR,,,SC,"BROCK, LORI",Democrat,0,,,,Democratic opponent; Hembree endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,2012,STATE SENATOR,,,SC,"HEMBREE, GREG",Republican,1,,,,Editorial 'Hembree for State Senate' - to succeed Sen. Dick Elliott. Praised principles and willingness to compromise.,0.95
+SC,Myrtle Beach Sun News,143370,2016,PRESIDENT,,,SC,"CLINTON, HILLARY",Democrat,1,,,,Editorial reprinted from The Modesto Bee titled 'This is serious: Trump shouldn't be president.' States 'any rational comparison of the candidates favors Clinton.' Strong anti-Trump endorsement of Clinton.,0.90

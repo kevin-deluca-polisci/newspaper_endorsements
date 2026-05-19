@@ -1,0 +1,28 @@
+Newspaper Name: Tulsa World
+Newspaper ID number: 138250
+Number of clippings: 28
+Endorsement data years: 1920-1968 (added 1968 + supplemental clips for 1932, 1940, 1944, 1948, 1952, 1956, 1958, 1960)
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 111
+  Endorsed (=1): 89
+  Opposed (=0): 22
+Total proposition records: 26
+  Endorsed (=1): 12
+  Opposed (=0): 14
+
+--- DATA QUALITY ---
+Extraction errors: 0
+Parse errors: 0
+QA completed: 2026-05-12 (re-QA with 9 new clippings from raw/more tulsa)
+QA result: PASS WITH NOTES
+
+--- CONFIDENCE SCORES ---
+Mean: 0.90
+
+Compiled: 2026-05-12 (extended with raw/more tulsa additions)
+Previous QA: 2026-04-14 (PASS WITH FIXES)
+
+--- NOTES ---
+3 dates (1932-11-02, 1952-11-01, 1956-11-03) had filename collisions where new content replaced existing files in clippings/. CSV records from original archive remain valid.
+1968 file is a 13-page bundle that also contains 1970 endorsements.

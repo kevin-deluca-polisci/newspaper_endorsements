@@ -1,0 +1,4 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+PA,Scranton Times-Tribune,141600,2006,PA,REFERENDUM,,Veterans' Bonuses - state to borrow up to $20 million to pay bonuses to Gulf War veterans,1,Endorsed YES,0.95
+PA,Scranton Times-Tribune,141600,2008,PA,BOND QUESTION,,"$400,000,000 indebtedness for grants and loans to municipalities and public utilities for drinking water system, storm water, nonpoint source projects, nutrient credits and wastewater treatment system projects",1,Endorsed YES,0.93
+PA,Scranton Times-Tribune,141600,2016,PA,CONSTITUTIONAL AMENDMENT,,Increase the mandatory retirement age for judges from 70 to 75,0,Endorsed NO,0.95

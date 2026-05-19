@@ -1,0 +1,58 @@
+Newspaper Name: Salinas Californian
+Newspaper ID: 104200
+State: CA (Monterey County, California)
+Processing Date: 2026-05-13
+
+Clippings: 64 (after dedup from 103 raw files)
+Date range: 1946 - 2010
+Source: newspapers.com
+
+Candidate endorsements: 263
+  Endorsed: 256
+  Opposed: 7
+  Mean confidence: 0.92
+  Low-confidence records (<0.7): 0
+
+Proposition endorsements: 483
+  Endorsed: 291
+  Opposed: 192
+  Mean confidence: 0.92
+
+Process notes:
+- Hashed 103 raw files; deduplicated to 64 unique content files (39 dups removed)
+- Files were a mix of PDF (full editorials) and JPG (typically supplementary clip pages)
+- Multiple naming conventions: 104200_YYYYMMDD.pdf, DELUCA_CA_SALINASCALIFORNIAN_104200_*, DELUCA_CA_SALINASCALIFORNIAN_[IDNUMBER]_*
+- Renamed all to standard 104200_YYYYMMDD.{pdf,jpg} format
+- For dates with both pdf and jpg: kept both with _img suffix on jpg
+- OCR'd all 64 files via pdftoppm+tesseract (PDFs) or direct tesseract (JPGs)
+- Per user instruction, extraction performed directly by Claude (no subagents)
+
+Coverage notes:
+- Coverage every 2 years (general elections) from 1946 to 2010
+- Some primary election clippings (June dates) included
+- Salinas Californian is the daily newspaper of Salinas, CA (Monterey County)
+- Owned historically by Gannett (now part of USA Today Network)
+- Generally Republican-leaning until 1990s, then mostly Democratic-leaning
+- CA-specific offices: STATE REP (Assembly), STATE SENATOR, Board of Equalization, Insurance Commissioner
+- Local Monterey County offices: County Supervisor (CNTY COMM), Sheriff
+- Heavy CA proposition coverage throughout (often 15-20+ props per election)
+
+Notable endorsements:
+- 1952-1972: Consistent Republican presidential endorsements (Eisenhower, Nixon, Ford)
+- 1976: Ford (R)
+- 1980-1984: Reagan (R)
+- 1988: Bush 41 (R)
+- 1992-1996: Clinton (D) - notable shift to Democrats
+- 2000: Gore (D)
+- 1978: Endorsed Younger (R) over Brown (D) for Governor; No on Rose Bird
+- Long endorsement history for Burt Talcott (R, 12th Cong District) 1962-1976
+- Long endorsement history for Leon Panetta (D) starting 1978
+- Long endorsement history for Sam Farr (D) starting 1984
+- 1996 (March): Includes Temecula edition clip - unrelated Riverside County race
+- 1996 Nov: Opposed Prop 215 (Medical Marijuana) and Prop 209 (Anti-Affirmative Action)
+- 2008: Opposed Prop 8 (gay marriage ban)
+
+OCR notes:
+- Most files had clear OCR readable text
+- A few older files (pre-1960) had partial OCR; positions extracted from clear recap sections
+- JPG variants typically had similar content to PDF for same date

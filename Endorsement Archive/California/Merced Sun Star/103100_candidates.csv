@@ -1,0 +1,223 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+CA,Merced Sun Star,103100,1966,ATTORNEY GENERAL,,,CA,"LYNCH, THOMAS C.",Democrat,1,,,1,Appointed 1964; fine record from SF County DA; age 62 no political ambitions,0.94
+CA,Merced Sun Star,103100,1966,CONTROLLER,,,CA,"CRANSTON, ALAN",Democrat,0,1,,,Spoils system inheritance tax appraisers,0.92
+CA,Merced Sun Star,103100,1966,CONTROLLER,,,CA,"FLOURNOY, HOUSTON",Republican,1,,,,Calls for abolishing inheritance tax appraiser spoils system,0.94
+CA,Merced Sun Star,103100,1966,GOVERNOR,,,CA,"BROWN, PAT",Democrat,0,1,,,Brown machine has grown to formidable proportions; need a new look,0.95
+CA,Merced Sun Star,103100,1966,GOVERNOR,,,CA,"REAGAN, RONALD",Republican,1,,,,Election will give state fresh effective leadership; moderate not far-right,0.97
+CA,Merced Sun Star,103100,1966,H,16,,CA,"SISK, B. F. (BERNIE)",Democrat,1,1,,,Seeking sixth term; forthright and capable lawmaker; agriculture knowledge,0.97
+CA,Merced Sun Star,103100,1966,H,16,,CA,"WHITE, CECIL",Republican,0,,,,Former Democrat congressman; confused foreign affairs ideas,0.92
+CA,Merced Sun Star,103100,1966,LT GOVERNOR,,,CA,"FINCH, ROBERT H.",Republican,1,,,,Moderate; long record of community service; supports two-party system,0.95
+CA,Merced Sun Star,103100,1966,SEC OF STATE,,,CA,"JORDAN, FRANK",Republican,1,,1,,Served CA well for a number of years; deserves reelection,0.94
+CA,Merced Sun Star,103100,1966,STATE REP,31,,CA,"MURPHY, FRANK",Republican,0,,,,Santa Cruz challenger,0.90
+CA,Merced Sun Star,103100,1966,STATE REP,31,,CA,"WINTON, GORDON H. JR.",Democrat,1,1,,,Veteran of 10 years in CA Assembly; effective independent Democrat,0.97
+CA,Merced Sun Star,103100,1966,STATE SENATOR,,,CA,"COBEY, JAMES A.",Democrat,0,,,,Conflict of interest as legal counsel for Missouri corporation seeking payments from CA,0.93
+CA,Merced Sun Star,103100,1966,STATE SENATOR,,,CA,"WAY, HOWARD",Republican,1,,1,,Tulare County state senator; intelligent hard-working full-time legislator; reelect,0.96
+CA,Merced Sun Star,103100,1966,TREASURER,,,CA,"BETTS, BERT",Democrat,1,1,,,CPA; demonstrated qualifications for fiscal work,0.94
+CA,Merced Sun Star,103100,1966,TREASURER,,,CA,"PRIEST, IVY BAKER",Republican,0,,,,Former US Treasurer not necessarily qualified for CA fiscal work,0.92
+CA,Merced Sun Star,103100,1968,H,16,,CA,"SISK, B. F.",Democrat,1,1,,,Sun-Star recommendation,0.96
+CA,Merced Sun Star,103100,1968,PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,,,Sun-Star recommendation,0.96
+CA,Merced Sun Star,103100,1968,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,1,,,,Sun-Star recommendation,0.95
+CA,Merced Sun Star,103100,1968,STATE REP,31,,CA,"MURPHY, FRANK",Republican,1,,,,Sun-Star recommendation - reverse of 1966 endorsement,0.93
+CA,Merced Sun Star,103100,1968,STATE SENATOR,15,,CA,"WAY, HOWARD",Republican,1,,1,,Sun-Star recommendation,0.95
+CA,Merced Sun Star,103100,1970,ATTORNEY GENERAL,,,CA,"YOUNGER, EVELLE",Republican,1,,,,Sun-Star recommendation,0.95
+CA,Merced Sun Star,103100,1970,CONTROLLER,,,CA,"FLOURNOY, HOUSTON",Republican,1,,1,,Sun-Star recommendation,0.95
+CA,Merced Sun Star,103100,1970,GOVERNOR,,,CA,"REAGAN, RONALD",Republican,1,,1,,Sun-Star recommendation,0.96
+CA,Merced Sun Star,103100,1970,H,16,,CA,"SISK, B. F.",Democrat,1,1,,,Sun-Star recommendation,0.96
+CA,Merced Sun Star,103100,1970,LT GOVERNOR,,,CA,"REINECKE, ED",Republican,1,,1,,Sun-Star recommendation,0.94
+CA,Merced Sun Star,103100,1970,SEC OF STATE,,,CA,"FLOURNOY, JAMES",Republican,1,,,,Sun-Star recommendation,0.88
+CA,Merced Sun Star,103100,1970,SENATOR,,,CA,"MURPHY, GEORGE",Republican,1,,1,,Sun-Star recommendation,0.95
+CA,Merced Sun Star,103100,1970,STATE REP,31,,CA,"MURPHY, FRANK",Republican,1,,1,,Sun-Star recommendation,0.94
+CA,Merced Sun Star,103100,1970,SUPERINTENDENT,,,CA,"RAFFERTY, MAX",Republican,1,,,1,Sun-Star recommendation,0.94
+CA,Merced Sun Star,103100,1970,TREASURER,,,CA,"PRIEST, IVY BAKER",Republican,1,,1,,Sun-Star recommendation - reverse of 1966,0.93
+CA,Merced Sun Star,103100,1972,CNTY COMM,4,Merced County,CA,"GOMAN, AL",,1,,,,Former Gustine councilman/mayor; opposes Williamson Act,0.93
+CA,Merced Sun Star,103100,1972,CNTY COMM,4,Merced County,CA,"SOUZA, ARNOLD",,0,,,,Favors Williamson Act implementation; would sell county hospital,0.88
+CA,Merced Sun Star,103100,1972,H,16,,CA,"SISK, B. F.",Democrat,1,1,,,Sun-Star recap,0.96
+CA,Merced Sun Star,103100,1972,H,16,,CA,"SISK, B. F. (BERNIE)",Democrat,1,1,,,Eighth term; seniority on agriculture and rules committees,0.97
+CA,Merced Sun Star,103100,1972,H,18,,CA,"MATHIAS, ROBERT",Republican,1,,1,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,1972,H,18,,CA,"MATHIAS, ROBERT (BOB)",Republican,1,,1,,Reelect; new to area but solid interest in legislative needs,0.94
+CA,Merced Sun Star,103100,1972,PRESIDENT,,,CA,"MCGOVERN, GEORGE",Democrat,0,,,,South Dakota senator; numerous mistakes; credibility problem,0.95
+CA,Merced Sun Star,103100,1972,PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,1,,Best chance for world peace; ended ground combat in Vietnam; economy improved,0.97
+CA,Merced Sun Star,103100,1972,STATE REP,31,,CA,"MURPHY, FRANK JR.",Republican,1,,1,,Educated himself to needs of agriculture; intelligent well-respected,0.95
+CA,Merced Sun Star,103100,1972,STATE SENATOR,15,,CA,"WAY, HOWARD",Republican,1,,1,,Exeter farmer; expertise to represent ag area; opposed Reagan on tax reform,0.96
+CA,Merced Sun Star,103100,1974,ASSESSOR,,Merced County Assessor,CA,"HUDGINS, DAVID",,1,,,,Sun-Star primary recommendation,0.88
+CA,Merced Sun Star,103100,1974,ATTORNEY GENERAL,,,CA,"YOUNGER, EVELLE J.",Republican,1,,1,,Reelection - best qualified,0.94
+CA,Merced Sun Star,103100,1974,AUDITOR,,Merced County Auditor,CA,"MALLORY, JOHN",,1,,,,Sun-Star primary recommendation,0.88
+CA,Merced Sun Star,103100,1974,CNTY COMM,5,Merced County,CA,"ERRECA, ROBERT",,1,,,,Sun-Star recommendation for Supervisor District 5,0.90
+CA,Merced Sun Star,103100,1974,CONTROLLER,,,CA,"BAGLEY, WILLIAM T.",Republican,1,,,,Assembly member from San Rafael,0.93
+CA,Merced Sun Star,103100,1974,GOVERNOR,,,CA,"BROWN, JERRY",Democrat,0,,,,Admitted weak qualifications - secretary of state for 4 years,0.93
+CA,Merced Sun Star,103100,1974,GOVERNOR,,,CA,"FLOURNOY, HOUSTON I.",Republican,1,,,1,Far ahead of Brown - architect of state fiscal program,0.97
+CA,Merced Sun Star,103100,1974,H,15,,CA,"SISK, B. F.",Democrat,1,1,,,Well-versed in San Joaquin Valley problems; seniority; agriculture and rules committees,0.96
+CA,Merced Sun Star,103100,1974,JUDGE,,Merced County Superior Court,CA,"MORIMOTO, SHIRO B. (BOB)",,1,,,,Sun-Star primary recommendation,0.85
+CA,Merced Sun Star,103100,1974,LT GOVERNOR,,,CA,"HARMER, JOHN L.",Republican,1,,1,,Veteran legislator; unquestioned honesty; chairman of Senate Republicans 4 times,0.94
+CA,Merced Sun Star,103100,1974,SEC OF STATE,,,CA,"VAN CAMP, BRIAN R.",Republican,1,,,,Sacramento attorney - best qualified,0.93
+CA,Merced Sun Star,103100,1974,STATE REP,27,,CA,"BACCIARINI, VERN",Republican,1,,,,Businessman/farmer would give new insight; new blood every legislature needs,0.92
+CA,Merced Sun Star,103100,1974,STATE REP,27,,CA,"MADDY, KEN",Republican,0,,1,,Currently rep; familiar with both areas but would not bring same fresh perspective,0.85
+CA,Merced Sun Star,103100,1974,SUPERINTENDENT,,Merced County Superintendent of Schools,CA,"ROVETO, CHARLES",,1,,,,Sun-Star primary recommendation,0.88
+CA,Merced Sun Star,103100,1974,TREASURER,,,CA,"KEHOE, JOHN T.",Republican,1,,,,Sacramento consumer economist,0.92
+CA,Merced Sun Star,103100,1976,CNTY COMM,1,Merced County,CA,"RAMONDINI, JOHNNIE",,1,1,,,Level-headed; grown in office; aware of county problems and assets,0.93
+CA,Merced Sun Star,103100,1976,H,15,,CA,"SISK, B. F.",Democrat,1,1,,,12th term; battled HUD over Castle AFB noise; friend of valley agriculture,0.96
+CA,Merced Sun Star,103100,1976,PRESIDENT,,,CA,"CARTER, JIMMY",Democrat,0,,,,Unknown; vague uncertain evasive; Playboy interview; opposes B1 bomber,0.94
+CA,Merced Sun Star,103100,1976,PRESIDENT,,,CA,"FORD, GERALD R.",Republican,1,,1,,Has grown in presidency; integrity unchallenged; best suited,0.96
+CA,Merced Sun Star,103100,1976,SENATOR,,,CA,"HAYAKAWA, SAM",Republican,0,,,,Indifferent to some issues; lacks expertise,0.90
+CA,Merced Sun Star,103100,1976,SENATOR,,,CA,"TUNNEY, JOHN",Democrat,1,1,,,6-year record of experience and legislative work,0.95
+CA,Merced Sun Star,103100,1976,STATE REP,30,,CA,"MADDY, KEN",Republican,1,,1,,Bright capable young legislator; covers SE Merced County,0.94
+CA,Merced Sun Star,103100,1978,CNTY COMM,3,Merced County,CA,"OLAETA, TOM",,1,,,,Long career in education; superintendent of Atwater elementary,0.93
+CA,Merced Sun Star,103100,1978,CNTY COMM,3,Merced County,CA,"WACK, FRED",,0,1,,,Incumbent from Atwater - board has strife and bickering,0.88
+CA,Merced Sun Star,103100,1978,CNTY COMM,5,Merced County,CA,"AUSTIN, ELMER",,1,,,,Former law enforcement; 3-time Los Banos councilman,0.93
+CA,Merced Sun Star,103100,1978,CNTY COMM,5,Merced County,CA,"CASSINERIO, PETE",,0,1,,,Incumbent from Los Banos,0.88
+CA,Merced Sun Star,103100,1978,GOVERNOR,,,CA,"BROWN, JERRY",Democrat,0,1,,,Political opportunist; inability to govern; presidential focus,0.95
+CA,Merced Sun Star,103100,1978,GOVERNOR,,,CA,"YOUNGER, EVELLE",Republican,1,,,,Solid record as attorney general - give him a chance,0.92
+CA,Merced Sun Star,103100,1978,H,15,,CA,"COELHO, TONY",Democrat,1,,,,Sisk administrative assistant; thorough knowledge of valley issues,0.95
+CA,Merced Sun Star,103100,1978,H,15,,CA,"PATTERAKIS, CHRIS",Republican,0,,,,Modestan; outstanding Air Force jet pilot career,0.90
+CA,Merced Sun Star,103100,1980,CNTY COMM,1,Merced County,CA,"BARDINI, AL",,1,,,,Sun-Star primary recap,0.90
+CA,Merced Sun Star,103100,1980,H,15,,CA,"COELHO, TONY",Democrat,1,1,,,Reelect - knows San Joaquin Valley problems,0.95
+CA,Merced Sun Star,103100,1980,PRESIDENT,,,CA,"CARTER, JIMMY",Democrat,1,1,,,Dem primary - Sun-Star recap,0.94
+CA,Merced Sun Star,103100,1980,PRESIDENT,,,CA,"CARTER, JIMMY",Democrat,0,1,,,Conservative Keynesian; bureaucratic management,0.93
+CA,Merced Sun Star,103100,1980,PRESIDENT,,,CA,"REAGAN, RONALD",Republican,1,,,,California candidate; country needs rest; reduce taxes; increase defense,0.96
+CA,Merced Sun Star,103100,1980,STATE REP,27,,CA,"PATTERAKIS, CHRIS",Republican,1,,,,Sun-Star primary recap,0.90
+CA,Merced Sun Star,103100,1980,STATE REP,27,,CA,"PATTERAKIS, CHRIS",Republican,0,,,,Former Air Force Thunderbirds; ran unsuccessfully for Congress 1978,0.88
+CA,Merced Sun Star,103100,1980,STATE REP,27,,CA,"THURMAN, ?",Democrat,1,1,,,Veteran legislator; built seniority; talks language of farmer,0.90
+CA,Merced Sun Star,103100,1982,GOVERNOR,,,CA,"BRADLEY, TOM",Democrat,0,,,,Vaccilated on death penalty; reluctant on enforcement,0.85
+CA,Merced Sun Star,103100,1982,GOVERNOR,,,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,Public servant of integrity; AG; strong law and order; 16 years legislator,0.96
+CA,Merced Sun Star,103100,1982,LT GOVERNOR,,,CA,"HALLETT, CAROL",Republican,1,,,,GOP minority leader; supported death penalty; victim rights co-chair,0.94
+CA,Merced Sun Star,103100,1982,LT GOVERNOR,,,CA,"MCCARTHY, LEO",Democrat,0,,,,Speaker of Assembly; not as good for business climate,0.85
+CA,Merced Sun Star,103100,1982,SENATOR,,,CA,"BROWN, JERRY",Democrat,0,1,,,Governor flip-flopped on Prop 13; medfly mishandled; bad for CA,0.95
+CA,Merced Sun Star,103100,1982,SENATOR,,,CA,"WILSON, PETE",Republican,1,,,,San Diego mayor; better than Jerry Brown; mismanaged medfly etc,0.93
+CA,Merced Sun Star,103100,1982,SHERIFF,,Merced County,CA,"AMIS, BILL",,0,1,,,Incumbent sheriff in runoff,0.85
+CA,Merced Sun Star,103100,1982,SHERIFF,,Merced County,CA,"BRODDRICK, LORIS",,1,,,,Experienced law enforcement; expertise management integrity,0.94
+CA,Merced Sun Star,103100,1982,STATE REP,25,,CA,"AREIAS, RUSTY (JOHN)",Democrat,1,,,,Los Banos dairyman; bipartisan approach; strong supporter of business,0.94
+CA,Merced Sun Star,103100,1986,GOVERNOR,,,CA,"DEUKMEJIAN, GEORGE",Republican,1,,1,,Fiscal turnaround; $1B surplus; unemployment 11%->6.4%; education reforms,0.97
+CA,Merced Sun Star,103100,1986,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,0,1,,,Three-term ultra-liberal; time for a change,0.92
+CA,Merced Sun Star,103100,1986,SENATOR,,,CA,"ZSCHAU, ED",Republican,1,,,,46-year-old former electronics executive; free-market conservative; moderate,0.95
+CA,Merced Sun Star,103100,1986,STATE REP,25,,CA,"AREIAS, RUSTY",Democrat,1,1,,,Dos Palos dairyman; reelect,0.95
+CA,Merced Sun Star,103100,1986,STATE REP,27,,CA,"CONDIT, GARY",Democrat,1,1,,,Ceres; supports death penalty/tough drug laws; opposes Bird,0.95
+CA,Merced Sun Star,103100,1986,STATE REP,30,,CA,"COSTA, JIM",Democrat,1,1,,,Fresno; chairman of Assembly Water Committee; arrested for soliciting prostitute,0.94
+CA,Merced Sun Star,103100,1986,STATE SENATOR,14,,CA,"MADDY, KEN",Republican,1,,1,,Fresno; senate since 1979; assemblyman 1970-78; conservative,0.96
+CA,Merced Sun Star,103100,1986,SUPREME COURT,,,CA,"BIRD, ROSE",,0,,,1,Chief Justice; placed personal beliefs above law in death penalty cases,0.96
+CA,Merced Sun Star,103100,1986,SUPREME COURT,,,CA,"GRODIN, JOSEPH",,0,,,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,1986,SUPREME COURT,,,CA,"REYNOSO, CRUZ",,0,,,1,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,1988,CITY COUNCIL,,Atwater,CA,"DUDDY, EILEEN",,1,,,,Former Atwater Chamber of Commerce president; CPA,0.92
+CA,Merced Sun Star,103100,1988,CITY COUNCIL,,Atwater,CA,"WINNINGHAM, GEORGE",,1,,,1,Vice principal Livingston HS; on council since January appointment,0.93
+CA,Merced Sun Star,103100,1988,H,15,,CA,"COELHO, TONY",Democrat,1,1,,,Majority whip; significant force for valley issues,0.95
+CA,Merced Sun Star,103100,1988,H,15,,CA,"HARNER, CAROL",Republican,0,,,,Mariposa challenger,0.85
+CA,Merced Sun Star,103100,1988,PRESIDENT,,,CA,"BUSH, GEORGE",Republican,1,,,,4 more years of Reagan administration peace and prosperity,0.95
+CA,Merced Sun Star,103100,1988,PRESIDENT,,,CA,"DUKAKIS, MICHAEL",Democrat,0,,,,Neither candidate strong; Dukakis weak on defense/foreign policy,0.92
+CA,Merced Sun Star,103100,1988,SCHOOL BOARD,3,Merced College,CA,"GOINGS, CAROLYN",,1,,,,Former Merced teacher; school admin; Merced City Council,0.93
+CA,Merced Sun Star,103100,1988,SCHOOL BOARD,3,Merced College,CA,"RANDOLPH, MARGARET",,0,,,1,Incumbent,0.85
+CA,Merced Sun Star,103100,1988,SCHOOL BOARD,6,Merced College,CA,"DUMAS, JIM",,1,,,,Retired Chowchilla furniture store operator; served 1975-80,0.93
+CA,Merced Sun Star,103100,1988,STATE REP,25,,CA,"AREIAS, RUSTY",Democrat,1,1,,,Gang of Five challenger to Speaker Brown,0.95
+CA,Merced Sun Star,103100,1988,STATE REP,25,,CA,"GILMORE, BEN",Republican,0,,,,Morgan Hill challenger,0.85
+CA,Merced Sun Star,103100,1988,STATE REP,30,,CA,"COSTA, JIM",Democrat,1,1,,,Champion of clean water; valuable asset to valley,0.95
+CA,Merced Sun Star,103100,1988,STATE REP,30,,CA,"HURT, GERALD",Republican,0,,,,Hanford challenger,0.85
+CA,Merced Sun Star,103100,1990,SHERIFF,,Merced County,CA,"SAWYER, TOM",,1,,,,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1990,SUPERINTENDENT,,Merced County,CA,"DAVIS, DENARD",,1,,,,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1992,CNTY COMM,1,Merced County,CA,"PADILLA, NADINE",,1,,,,27 years state work with ag workers; minority sector knowledge,0.93
+CA,Merced Sun Star,103100,1992,CNTY COMM,4,Merced County,CA,"BIZZINI, DOROTHY",,1,,,,Business owner 30 years; leadership in Atwater Chamber and Fair Board,0.93
+CA,Merced Sun Star,103100,1992,PRESIDENT,,,CA,"BUSH, GEORGE",Republican,0,,1,,Disappointing presidency; failed on economic crisis at home,0.93
+CA,Merced Sun Star,103100,1992,PRESIDENT,,,CA,"CLINTON, BILL",Democrat,1,,,,Voters demanding change; Bush failed on economy,0.95
+CA,Merced Sun Star,103100,1992,PRESIDENT,,,CA,"PEROT, ROSS",Independent,0,,,,Right about sacrifice but Clinton closer to families needing help,0.85
+CA,Merced Sun Star,103100,1992,SCHOOL BOARD,,Merced College Trustee,CA,"BRAXTON, LEW",,1,,,,Probation officer; 12 years on Atwater school board; education background,0.93
+CA,Merced Sun Star,103100,1992,STATE REP,25,,CA,"CANNELLA, SAL",Democrat,1,1,,,Incumbent; 19 bills last year; dry cleaning task force; Castle AFB redevelopment,0.94
+CA,Merced Sun Star,103100,1994,SENATOR,,,CA,"FEINSTEIN, DIANNE",Democrat,1,1,,,Sun-Star recommendation for US Senator,0.94
+CA,Merced Sun Star,103100,1996,H,,,CA,"CONDIT, GARY",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,1996,PRESIDENT,,,CA,"CLINTON, BILL",Democrat,1,1,,,Sun-Star recap,0.95
+CA,Merced Sun Star,103100,1996,SCHOOL BOARD,,Merced College Trustee,CA,"BRAXTON, LEWIS",,1,,,,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1996,SCHOOL BOARD,,Merced College Trustee,CA,"RANDRUP, JERRI",,1,,,,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1996,SCHOOL BOARD,,Merced College Trustee,CA,"TROOST, JANET",,1,,,,Sun-Star recap,0.92
+CA,Merced Sun Star,103100,1996,STATE REP,26,,CA,"CARDOZA, DENNIS",Democrat,1,,,,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,1998,ATTORNEY GENERAL,,,CA,"STIRLING, DAVE",Republican,1,,,,Chief Deputy; tough crime laws; crime rate lowest in 30 years,0.93
+CA,Merced Sun Star,103100,1998,GOVERNOR,,,CA,"LUNGREN, DAN",Republican,1,,,,Commitment to state; not looking beyond gov mansion,0.94
+CA,Merced Sun Star,103100,1998,H,18,,CA,"CONDIT, GARY",Democrat,1,1,,,Active for UC Merced; brought business to Castle Development Center,0.95
+CA,Merced Sun Star,103100,1998,H,19,,CA,"RADANOVICH, GEORGE",Republican,1,,1,,Representative who puts his district first,0.93
+CA,Merced Sun Star,103100,1998,LT GOVERNOR,,,CA,"BUSTAMANTE, CRUZ",Democrat,1,,,,Speaker of Assembly; helped put UC Merced on the map,0.95
+CA,Merced Sun Star,103100,1998,SCHOOL BOARD,,Merced College Trustee,CA,"AUE, DENNIS",,1,,,,Steady progress under present leadership,0.93
+CA,Merced Sun Star,103100,1998,SCHOOL BOARD,,Merced College Trustee,CA,"MCCABE, LES",,0,,,,Sun-Star hopes he continues active role,0.85
+CA,Merced Sun Star,103100,1998,SENATOR,,,CA,"BOXER, BARBARA",Democrat,0,1,,,Less than impressive first term,0.92
+CA,Merced Sun Star,103100,1998,SENATOR,,,CA,"FONG, MATT",Republican,1,,,,Experience and values; Boxer hypocritical on Clinton vs Packwood/Thomas,0.93
+CA,Merced Sun Star,103100,1998,STATE REP,26,,CA,"CARDOZA, DENNIS",Democrat,1,1,,,First-term assemblyman; Agriculture Committee chair; UC Merced champion,0.95
+CA,Merced Sun Star,103100,1998,STATE SENATOR,12,,CA,"CANNELLA, SAL",Democrat,0,,,,Campaign tactics disappointing,0.88
+CA,Merced Sun Star,103100,1998,STATE SENATOR,12,,CA,"MONTEITH, DICK",Republican,1,,,,Solid legislator for Central Valley; rural education summit,0.93
+CA,Merced Sun Star,103100,2002,GOVERNOR,,,CA,"DAVIS, GRAY",Democrat,1,1,,,Least undesirable choice; UC Merced has been pet project; Phase I virtually assured,0.94
+CA,Merced Sun Star,103100,2002,GOVERNOR,,,CA,"SIMON, BILL",Republican,0,,,,Has not given high expectations of being able to govern,0.92
+CA,Merced Sun Star,103100,2002,H,18,,CA,"CARDOZA, DENNIS",Democrat,1,,,,Articulate detail-oriented lawmaker; balance and coalitions; independent voice,0.95
+CA,Merced Sun Star,103100,2002,H,18,,CA,"MONTEITH, DICK",Republican,0,,,,Good man with excellent staff but does not have firm grasp of issues,0.92
+CA,Merced Sun Star,103100,2002,STATE SENATOR,12,,CA,"AREIAS, RUSTY",Democrat,1,,,,12th Senate District,0.92
+CA,Merced Sun Star,103100,2004,CNTY COMM,1,Merced County,CA,"PADILLA, DIANE",,0,,,,Replacement for retiring Gloria Cortez Keene,0.88
+CA,Merced Sun Star,103100,2004,CNTY COMM,1,Merced County,CA,"PEDROZO, JOHN",,1,,,,Steady-handed agricultural community educational involvement,0.94
+CA,Merced Sun Star,103100,2004,PRESIDENT,,,CA,"BUSH, GEORGE W.",Republican,0,,1,,Iraq war and tax cuts; deficits and debt; loss of standing abroad,0.94
+CA,Merced Sun Star,103100,2004,PRESIDENT,,,CA,"KERRY, JOHN",Democrat,1,,,,Experienced steady choice; Bush hasnt earned second term,0.95
+CA,Merced Sun Star,103100,2004,SENATOR,,,CA,"BOXER, BARBARA",Democrat,0,1,,,Less tendency to compromise; longstanding liberal viewpoints,0.92
+CA,Merced Sun Star,103100,2004,SENATOR,,,CA,"JONES, BILL",Republican,1,,,,Former secretary of state; well-versed in valley issues; refreshing valley voice,0.93
+CA,Merced Sun Star,103100,2004,STATE REP,17,,CA,"MATTHEWS, BARBARA",Democrat,1,1,,,Delivered for UC Merced; understands commuters and agriculture; ag committee chair,0.95
+CA,Merced Sun Star,103100,2004,STATE REP,17,,CA,"MCGARRY, NELLIE",Republican,0,,,,Merced resident; Schwarzenegger support not enough reason,0.85
+CA,Merced Sun Star,103100,2006,ATTORNEY GENERAL,,,CA,"POOCHIGIAN, CHUCK",Republican,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2006,CONTROLLER,,,CA,"CHIANG, JOHN",Democrat,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2006,GOVERNOR,,,CA,"SCHWARZENEGGER, ARNOLD",Republican,1,,1,,Sun-Star recap,0.95
+CA,Merced Sun Star,103100,2006,H,18,,CA,"CARDOZA, DENNIS",Democrat,1,1,,,Sun-Star recap,0.95
+CA,Merced Sun Star,103100,2006,INSURANCE COMMISSIONER,,,CA,"POIZNER, STEVE",Republican,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2006,LT GOVERNOR,,,CA,"GARAMENDI, JOHN",Democrat,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2006,MAYOR,,Merced,CA,"FAUL, JOAN",,1,,,,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2006,SEC OF STATE,,,CA,"MCPHERSON, BRUCE",Republican,1,,,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2006,SENATOR,,,CA,"FEINSTEIN, DIANNE",Democrat,1,1,,,Sun-Star recap,0.95
+CA,Merced Sun Star,103100,2006,STATE REP,17,,CA,"GALGIANI, CATHLEEN",Democrat,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2006,STATE SENATOR,12,,CA,"DENHAM, JEFF",Republican,1,,1,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2006,TREASURER,,,CA,"LOCKYER, BILL",Democrat,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2008,CNTY COMM,,Merced County,CA,"SANDERS, JIM",,1,,,,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2008,PRESIDENT,,,CA,"OBAMA, BARACK",Democrat,1,,,,Sun-Star recap,0.95
+CA,Merced Sun Star,103100,2008,STATE REP,17,,CA,"GALGIANI, CATHLEEN",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,ATTORNEY GENERAL,,,CA,"COOLEY, STEVE",Republican,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,BOARD OF EQUALIZATION,,,CA,"PARKER, CHRIS",Democrat,1,,,,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2010,CONTROLLER,,,CA,"CHIANG, JOHN",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,COURT OF APPEALS,,5th District Court of Appeal,CA,"DETJEN, JENNIFER",,1,,,1,Yes to retain,0.93
+CA,Merced Sun Star,103100,2010,COURT OF APPEALS,,5th District Court of Appeal,CA,"HILL, BRAD",,1,,,1,Yes to confirm as presiding justice,0.93
+CA,Merced Sun Star,103100,2010,COURT OF APPEALS,,5th District Court of Appeal,CA,"LEVY, BERT",,1,,,1,Yes to retain,0.93
+CA,Merced Sun Star,103100,2010,COURT OF APPEALS,,5th District Court of Appeal,CA,"POOCHIGIAN, CHUCK",,1,,,1,Yes to retain,0.93
+CA,Merced Sun Star,103100,2010,GOVERNOR,,,CA,"BROWN, JERRY",Democrat,1,,,,Sun-Star recap,0.95
+CA,Merced Sun Star,103100,2010,H,18,,CA,"CARDOZA, DENNIS",Democrat,1,1,,,Sun-Star recap,0.95
+CA,Merced Sun Star,103100,2010,H,19,,CA,"DENHAM, JEFF",Republican,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,INSURANCE COMMISSIONER,,,CA,"VILLINES, MIKE",Republican,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,LT GOVERNOR,,,CA,"MALDONADO, ABEL",Republican,1,,,1,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,SEC OF STATE,,,CA,"BOWEN, DEBRA",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,SENATOR,,,CA,"FIORINA, CARLY",Republican,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,STATE REP,12,,CA,"CABALLERO, ANNA",Democrat,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,STATE REP,17,,CA,"GALGIANI, CATHLEEN",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2010,TREASURER,,,CA,"LOCKYER, BILL",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,ATTORNEY GENERAL,,,CA,"HARRIS, KAMALA",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,CONTROLLER,,,CA,"SWEARENGIN, ASHLEY",Republican,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,GOVERNOR,,,CA,"BROWN, JERRY",Democrat,1,1,,,Sun-Star recap,0.95
+CA,Merced Sun Star,103100,2014,INSURANCE COMMISSIONER,,,CA,"JONES, DAVE",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,LT GOVERNOR,,,CA,"NEWSOM, GAVIN",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,SHERIFF,,Merced County,CA,"LUNNEY, PAT",,1,,,,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2014,STATE REP,21,,CA,"GRAY, ADAM",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,STATE SENATOR,12,,CA,"CANNELLA, ANTHONY",Republican,1,,1,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,STATE SENATOR,8,,CA,"BERRYHILL, TOM",Republican,1,,1,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2014,TREASURER,,,CA,"CHIANG, JOHN",Democrat,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2016,H,10,,CA,"EGGMAN, MICHAEL",Democrat,1,,,,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2016,H,16,,CA,"COSTA, JIM",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2016,MAYOR,,Merced,CA,"MURPHY, MIKE",,1,,,,Sun-Star recap,0.93
+CA,Merced Sun Star,103100,2016,PRESIDENT,,,CA,"CLINTON, HILLARY",Democrat,1,,,,Sun-Star recap,0.95
+CA,Merced Sun Star,103100,2016,SENATOR,,,CA,"HARRIS, KAMALA",Democrat,1,,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2016,STATE REP,21,,CA,"GRAY, ADAM",Democrat,1,1,,,Sun-Star recap,0.94
+CA,Merced Sun Star,103100,2018,ATTORNEY GENERAL,,,CA,"BECERRA, XAVIER",Democrat,1,,,1,40 lawsuits against federal government; representing CA interests,0.94
+CA,Merced Sun Star,103100,2018,BOARD OF EQUALIZATION,,,CA,"HALLINAN, TOM",Democrat,1,,,,Pledged to disband BoE from within,0.92
+CA,Merced Sun Star,103100,2018,CONTROLLER,,,CA,"YEE, BETTY",Democrat,1,1,,,Stellar job as financial officer; conducted audits,0.94
+CA,Merced Sun Star,103100,2018,H,16,,CA,"COSTA, JIM",Democrat,1,1,,,Experienced; cross party lines; key votes on Westlands and water storage,0.94
+CA,Merced Sun Star,103100,2018,H,16,,CA,"HENG, ELIZABETH",Republican,0,,,,Republican Young Gun; dynamic but no previous office; aim/timing not right,0.92
+CA,Merced Sun Star,103100,2018,INSURANCE COMMISSIONER,,,CA,"POIZNER, STEVE",Independent,1,,,,Former Republican now independent; previous tenure 2007-11,0.93
+CA,Merced Sun Star,103100,2018,SEC OF STATE,,,CA,"MEUSER, MARK",Republican,0,,,,Bought into fake news of voter fraud,0.85
+CA,Merced Sun Star,103100,2018,SEC OF STATE,,,CA,"PADILLA, ALEX",Democrat,1,1,,,Strong record; modernized voting equipment; responsible on Russia,0.94
+CA,Merced Sun Star,103100,2018,STATE REP,21,,CA,"GRAY, ADAM",Democrat,1,1,,,6 years in Assembly; champion against state water grab; medical school,0.95
+CA,Merced Sun Star,103100,2018,STATE REP,21,,CA,"QUIGLEY, JUSTIN",Libertarian,0,,,,Recruited last minute - not realistic candidate,0.88
+CA,Merced Sun Star,103100,2018,SUPERINTENDENT,,,CA,"THURMOND, TONY",Democrat,1,,,,Former Assemblyman; long history championing poor disabled foster kids,0.93
+CA,Merced Sun Star,103100,2018,SUPERINTENDENT,,,CA,"TUCK, MARSHALL",,0,,,,Charter Schools Association darling,0.85
+CA,Merced Sun Star,103100,2018,TREASURER,,,CA,"MA, FIONA",Democrat,1,,,,CPA; speaker pro tem; BoE whistleblower; endorsed by current treasurer,0.94
+CA,Merced Sun Star,103100,2022,ATTORNEY GENERAL,,,CA,"BONTA, ROB",Democrat,1,,,1,McClatchy California Bee endorsement,0.92
+CA,Merced Sun Star,103100,2022,BOARD OF EQUALIZATION,1,,CA,"ALTAMIRANO, JOSE",Democrat,1,,,,McClatchy California Bee endorsement,0.91
+CA,Merced Sun Star,103100,2022,CONTROLLER,,,CA,"CHEN, LANHEE",Republican,1,,,,McClatchy California Bee endorsement,0.91
+CA,Merced Sun Star,103100,2022,GOVERNOR,,,CA,"NEWSOM, GAVIN",Democrat,1,1,,,McClatchy California Bee endorsement,0.92
+CA,Merced Sun Star,103100,2022,H,13,,CA,"GRAY, ADAM",Democrat,1,,,,McClatchy California Bee endorsement,0.92
+CA,Merced Sun Star,103100,2022,LT GOVERNOR,,,CA,"KOUNALAKIS, ELENI",Democrat,1,1,,,McClatchy California Bee endorsement,0.92
+CA,Merced Sun Star,103100,2022,SEC OF STATE,,,CA,"WEBER, SHIRLEY",Democrat,1,,,1,McClatchy California Bee endorsement,0.92
+CA,Merced Sun Star,103100,2022,SENATOR,,,CA,"PADILLA, ALEX",Democrat,1,1,,,McClatchy California Bee endorsement,0.92
+CA,Merced Sun Star,103100,2022,SUPERINTENDENT,,,CA,"THURMOND, TONY",Democrat,1,,,1,McClatchy California Bee endorsement,0.92
+CA,Merced Sun Star,103100,2022,TREASURER,,,CA,"MA, FIONA",Democrat,1,1,,,McClatchy California Bee endorsement,0.92

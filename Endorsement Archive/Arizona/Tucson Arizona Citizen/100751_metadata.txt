@@ -1,0 +1,39 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Tucson Arizona Citizen
+Newspaper ID: 100751
+State: AZ
+Number of clippings: 226
+Endorsement data years: 1920-2008
+Total candidate endorsements: 1072
+Total proposition endorsements: 274
+
+Confidence statistics:
+  Mean confidence: 0.866
+  Low-confidence records (< 0.7): 101
+
+Top offices (top 15):
+  STATE REP: 262
+  JUDGE: 129
+  STATE SENATOR: 121
+  SCHOOL BOARD: 75
+  CORPORATION COMMISSION: 59
+  CNTY COMM: 58
+  H: 47
+  TREASURER: 28
+  SUPERINTENDENT: 26
+  GOVERNOR: 25
+  CONSTABLE: 21
+  JUSTICE OF PEACE: 21
+  PRESIDENT: 20
+  MINE INSPECTOR: 19
+  SHERIFF: 19
+
+Party distribution:
+  Republican: 485
+  Democrat: 318
+  Nonpartisan: 19
+  Independent: 8
+  Libertarian: 2
+  PBP: 1

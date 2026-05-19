@@ -1,0 +1,16 @@
+Newspaper: Miami News
+Newspaper ID: 108052
+State: Florida (FL)
+
+Number of clippings: 30
+Endorsement data years: 1946-1988 (21 unique election years)
+
+Candidate records: 330
+  Endorsed: 330
+  Opposed: 0
+  No-direction: 0
+
+Proposition records: 151
+  YES: 108
+  NO: 43
+  No-direction: 0

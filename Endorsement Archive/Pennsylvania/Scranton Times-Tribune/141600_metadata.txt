@@ -1,0 +1,29 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Scranton Times-Tribune
+Newspaper ID: 141600
+State: PA
+Number of clippings: 8
+Endorsement data years: 2006-2020
+Total candidate endorsements: 63
+Total proposition endorsements: 3
+
+Confidence statistics:
+  Mean confidence: 0.955
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 20
+  H: 14
+  SENATOR: 5
+  GOVERNOR: 4
+  STATE SENATOR: 4
+  ATTORNEY GENERAL: 4
+  AUDITOR: 4
+  PRESIDENT: 4
+  TREASURER: 4
+
+Party distribution:
+  Democrat: 53
+  Republican: 10

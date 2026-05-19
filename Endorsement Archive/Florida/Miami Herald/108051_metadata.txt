@@ -1,0 +1,16 @@
+Newspaper: Miami Herald
+Newspaper ID: 108051
+State: Florida (FL)
+
+Number of clippings: 65
+Endorsement data years: 1946-2022 (38 unique election years)
+
+Candidate records: 969
+  Endorsed: 964
+  Opposed: 2
+  No-direction: 3
+
+Proposition records: 399
+  YES: 285
+  NO: 114
+  No-direction: 0

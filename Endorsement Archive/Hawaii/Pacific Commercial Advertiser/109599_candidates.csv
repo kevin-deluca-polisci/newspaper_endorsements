@@ -1,0 +1,64 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+HI,Pacific Commercial Advertiser,109599,1900,H,AT-LARGE,,HI,"PARKER, SAMUEL",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"AYLETT, WILLIAM",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"COELHO, W. J.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"GILFILLAN, A. F.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"HITCHCOCK, H. R.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"HOOGS, WILLIAM H.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"JOHNSON, ENOCH",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"KAULUKOU, J. L.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"KEIKI, J. W.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"KUMALAE, JONAH",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"LANE, JOHN",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"MCCANDLESS, L. L.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE REP,,,HI,"ROBERTSON, A. G. M.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE SENATOR,,,HI,"ACHI, W. C.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE SENATOR,,,HI,"BROWN, CECIL",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE SENATOR,,,HI,"CARTER, GEORGE R.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE SENATOR,,,HI,"CRABBE, CLARENCE L.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE SENATOR,,,HI,"PAHIA, FRANK",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1900,STATE SENATOR,,,HI,"WATERHOUSE, HENRY",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,AUDITOR,,,HI,"BICKNELL, JAS.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,CNTY CLERK,,,HI,"KALAUOKALANI JR., D.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,CNTY COMM,,,HI,"AHIA, WM.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,CNTY COMM,,,HI,"AYLETT, R. W.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,CNTY COMM,,,HI,"COX, ANDREW E.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,CNTY COMM,,,HI,"KA-NE, WM. A.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,CNTY COMM,,,HI,"LOGAN, DANIEL",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,CNTY COMM,,,HI,"QUINN, J. C.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,CNTY COMM,,,HI,"WATKINS, NORMAN",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,DA/PROSECUTOR,,,HI,"LONG, CARLOS A.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,SHERIFF,,,HI,"HOLT, CHRISTIAN",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,H,AT-LARGE,,HI,"KALANIANAOLE, J. K.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,MAYOR,,,HI,"LANE, JOHN C.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,SHERIFF,,,HI,"WISE, JOHN",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,4,,HI,"CASTRO, A. D.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,4,,HI,"COHEN, J. C.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,4,,HI,"DOUTHITT, E. A.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,4,,HI,"KAMANOULU, JOHN",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,4,,HI,"LONG, E. A. C.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,4,,HI,"SHINGLE, R. W.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,5,,HI,"CORREA, S. P.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,5,,HI,"KALEIOPU, A. S.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,5,,HI,"KAMA, D. K.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,5,,HI,"KINNEY, RUEL",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,5,,HI,"MAIELUA, S. P.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE REP,5,,HI,"MIKALEMI, E. B.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE SENATOR,,,HI,"HENRIQUES, ED.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE SENATOR,,,HI,"HUGHES, JOHN",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,STATE SENATOR,,,HI,"QUINN, E. W.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1908,TREASURER,,,HI,"VON HOLT, HARRY",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1910,CNTY COMM,,,HI,"BICKNELL, JAS.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1910,CNTY COMM,,,HI,"COX, ANDREW E.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1910,CNTY COMM,,,HI,"KALAUOKALANI JR., D.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1910,CNTY COMM,,,HI,"SHINGLE, R. W.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1910,CNTY COMM,,,HI,SIMERSON,Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1910,MAYOR,,,HI,"LANE, JOHN C.",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1912,MAYOR,,,HI,"PARKER, SAM",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1914,CNTY COMM,,,HI,BICKNELL,Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1914,CNTY COMM,,,HI,"CATHCART, JOHN",Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1914,CNTY COMM,,,HI,CONKLING,Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1914,CNTY COMM,4,,HI,AHIA,Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1914,CNTY COMM,4,,HI,ARNOLD,Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1914,CNTY COMM,4,,HI,HOLLINGER,Republican,1,,,,,0.85
+HI,Pacific Commercial Advertiser,109599,1914,SHERIFF,,,HI,"ROSE, W. P.",Republican,1,,,,,0.85

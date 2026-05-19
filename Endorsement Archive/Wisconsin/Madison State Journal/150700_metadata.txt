@@ -1,0 +1,12 @@
+Newspaper: Madison State Journal
+Newspaper ID: 150700
+State: WI
+Election years: 34 (1928-2020)
+Clippings: 48 files
+Candidate records: 604 (590 endorsed, 7 opposed, 7 no-direction)
+Proposition records: 43 (32 endorsed, 10 opposed, 1 no-direction)
+Cand conf: n/a
+Prop conf: n/a
+Last updated: 2026-04-30
+
+Years: 1928, 1932, 1934, 1936, 1938, 1940, 1942, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 2008, 2010, 2012, 2018, 2020

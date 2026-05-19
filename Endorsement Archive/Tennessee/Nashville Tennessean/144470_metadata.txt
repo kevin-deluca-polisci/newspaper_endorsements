@@ -1,0 +1,36 @@
+Newspaper Name: NASHVILLETENNESSEAN
+Alternative Names: REVIEW
+Years Published: REVIEW
+Newspaper ID number: 144470
+Number of clippings: 24
+Endorsement data years: 1918, 1920, 1922, 1924, 1926, 1928, 1934, 1936, 1940, 1942, 1944, 1946, 1948, 1952, 1956
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 87
+  Endorsed (=1): 72
+  Opposed (=0): 15
+  No position (null): 0
+Total proposition records: 1
+  Endorsed (=1): 1
+  Opposed (=0): 0
+
+--- DATA QUALITY ---
+Flagged for review: 1 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 1
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.70
+Mean: 0.93
+Max: 0.97
+Below threshold (0.75): 1
+
+--- REVIEW QUEUE ---
+  [no_endorsements] 144470_19301104: No endorsements detected
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-14 08:35:41

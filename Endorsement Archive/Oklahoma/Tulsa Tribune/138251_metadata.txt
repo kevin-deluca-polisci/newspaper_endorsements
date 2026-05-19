@@ -1,0 +1,25 @@
+Newspaper Name: Tulsa Tribune
+Newspaper ID number: 138251
+Number of clippings: 52
+Endorsement data years: 1920-1968 (added 1932, 1938, 1940, 1948 v2, 1950 multiple, 1952 multiple, 1954, 1958, 1960, 1962 multiple, 1968)
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 234
+  Endorsed (=1): 195
+  Opposed (=0): 39
+Total proposition records: 28
+  Endorsed (=1): 17
+  Opposed (=0): 11
+
+--- DATA QUALITY ---
+Extraction errors: 0
+Parse errors: 0
+QA completed: 2026-05-12 (re-QA with 30 new clippings)
+QA result: PASS WITH NOTES
+
+--- CONFIDENCE SCORES ---
+Mean: 0.90
+New extractions used confidence 0.80-0.95 depending on OCR clarity
+
+Compiled: 2026-05-12 (extended with raw/more tulsa additions)
+Previous QA: 2026-04-14 (PASS WITH FIXES)

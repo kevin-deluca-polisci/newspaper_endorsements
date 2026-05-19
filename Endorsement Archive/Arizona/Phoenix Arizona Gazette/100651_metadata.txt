@@ -1,0 +1,12 @@
+Newspaper: Phoenix Arizona Gazette
+Newspaper ID: 100651
+State: AZ
+Election years: 13 (1952-1986)
+Clippings: 15 files
+Candidate records: 1062 (1032 endorsed, 12 opposed, 18 no-direction)
+Proposition records: 132 (93 endorsed, 35 opposed, 4 no-direction)
+Candidate confidence: mean 0.976, min 0.40, max 1.00
+Proposition confidence: mean 0.971, min 0.70, max 1.00
+Last updated: 2026-04-30 (V2 RE-EXTRACTION applied to all multi-year compilations)
+
+Years covered: 1952, 1958, 1964, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986

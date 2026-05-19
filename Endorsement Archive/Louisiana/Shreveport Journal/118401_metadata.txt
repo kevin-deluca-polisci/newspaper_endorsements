@@ -1,0 +1,28 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Shreveport Journal
+Newspaper ID: 118401
+State: LA
+Number of clippings: 22
+Endorsement data years: 1920-1990
+Total candidate endorsements: 22
+Total proposition endorsements: 227
+
+Confidence statistics:
+  Mean confidence: 0.897
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  PRESIDENT: 14
+  JUDGE: 4
+  VICE PRESIDENT: 3
+  MAYOR: 1
+
+Party distribution:
+  Republican: 6
+  Democrat: 6
+  States' Rights Democrat: 2
+  Progressive: 1
+  States' Rights: 1
+  American Independent: 1

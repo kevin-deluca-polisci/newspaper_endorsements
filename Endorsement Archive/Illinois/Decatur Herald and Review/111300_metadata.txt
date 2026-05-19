@@ -1,0 +1,18 @@
+Newspaper Name: Decatur Herald and Review
+Newspaper ID: 111300
+State: IL
+Processing Date: 2026-05-19
+Last QA Date: 2026-05-19
+
+Clippings: 80
+Date range: 1960-2004
+Total candidate records: 347 (endorsed 336, opposed 11)
+Total proposition records: 46 (endorsed 39, opposed 7)
+Mean confidence: 0.927
+
+Notes:
+- Combined edition of the morning Decatur Herald and evening Decatur Daily Review under Lindsay-Schaub ownership (Sunday combined edition from the 1930s onward). Officially became the daily 'Herald & Review' in 1979 when Lee Enterprises bought the papers; evening edition discontinued June 1982.
+- All 105 unique clippings processed with strip-OCR for multi-column Sunday recaps
+- Re-extracted via parallel subagents reading each clipping carefully
+- QA spot-check accuracy: ~95-97% on sampled clippings
+- All records have extraction_confidence >= 0.75

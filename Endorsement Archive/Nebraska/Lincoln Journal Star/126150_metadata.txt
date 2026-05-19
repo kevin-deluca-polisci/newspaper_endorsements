@@ -1,0 +1,35 @@
+Newspaper Name: Lincoln Journal Star
+Alternative Names: Journal Star
+Years Published: 1995-present (formed from merger of Lincoln Journal and Lincoln Star in 1995)
+Newspaper ID number: 126150
+Number of clippings: 12
+Endorsement data years: 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 184
+  Endorsed (=1): 184
+  Opposed (=0): 0
+  No position (null): 0
+Total proposition records: 63
+  Endorsed (=1): 44
+  Opposed (=0): 19
+  No position (null): 0
+
+--- DATA QUALITY ---
+Flagged for review: 0 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 0
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.88
+Mean: 0.93
+Max: 0.98
+Below threshold (0.75): 0
+
+--- NOTES ---
+QA completed 2026-04-21: PASS WITH FIXES. state_newspaper normalized to 2-letter code (184+63 rows); 2 parties filled (Hahn 1998 AUDITOR, Knapp 1998 ATTORNEY GENERAL both Democratic challengers); 1 proposition type corrected (2000 SCHOOL LEVY TAX -> BALLOT MEASURE). No RA-sourced records (Will P. xlsx did not cover LJS era). See QA_REPORT.md for full audit trail.
+
+Compiled: 2026-04-21 15:22:10
+QA: 2026-04-21

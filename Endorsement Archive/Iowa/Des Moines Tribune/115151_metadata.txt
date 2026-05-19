@@ -1,0 +1,21 @@
+Newspaper: Des Moines Tribune
+Newspaper ID: 115151
+State: Iowa (IA)
+
+Number of clippings: 25
+Endorsement data years: 1952-1980 (14 unique election years)
+
+Candidate records: 8
+  Endorsed: 6
+  Opposed: 2
+  No-direction (declined endorsement): 0
+
+Proposition records: 18
+  YES: 12
+  NO: 6
+
+Confidence stats:
+  Mean confidence: 0.918
+  Median confidence: 0.920
+  Min confidence: 0.85
+  Max confidence: 0.95

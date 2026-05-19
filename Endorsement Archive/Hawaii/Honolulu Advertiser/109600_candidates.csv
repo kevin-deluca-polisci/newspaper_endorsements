@@ -1,0 +1,215 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+HI,Honolulu Advertiser,109600,1922,H,AT-LARGE,,HI,"WISE, JOHN",Republican,1,,,,Editorial: 'Republicans---Vote for John Wise!' Hawaii Territory Delegate to Congress race.,0.90
+HI,Honolulu Advertiser,109600,1924,H,AT-LARGE,,HI,"RICE, PHILIP L",Republican,1,,,,Editorial 'Vote For Prosperity': 'Vote for Philip L. Rice. Vote for every candidate who stands for the same high principles that he stands for.' General endorsement of Republican ticket. Hawaii Territory Delegate to Congress race.,0.85
+HI,Honolulu Advertiser,109600,1926,STATE SENATOR,,,HI,"BROWN,",Republican,1,,,,Editorial implicitly endorses Republican Territorial Senate candidate over Democrats. Pre-statehood Territorial Senator race.,0.70
+HI,Honolulu Advertiser,109600,1926,STATE SENATOR,,,HI,"JARRETT,",Republican,1,,,,Editorial implicitly endorses Republican Territorial Senate candidate over Democrats. Pre-statehood Territorial Senator race.,0.70
+HI,Honolulu Advertiser,109600,1926,STATE SENATOR,,,HI,"MCINERNY,",Republican,1,,,,"Editorial 'What the Complimentary Vote May Do' implicitly endorses Republican Territorial Senate candidates McInerny, Jarrett and Brown over Democrats Huber, Heen, and McCandless. Pre-statehood Territorial Senator race.",0.70
+HI,Honolulu Advertiser,109600,1932,CNTY COMM,,Honolulu,HI,"CORREA, SYLVESTER P",Republican,1,,1,,Endorsed for Honolulu Board of Supervisors; one of five incumbents listed.,0.90
+HI,Honolulu Advertiser,109600,1932,CNTY COMM,,Honolulu,HI,"CRANE, CHARLES S",Republican,1,,,,Endorsed for Honolulu Board of Supervisors.,0.90
+HI,Honolulu Advertiser,109600,1932,CNTY COMM,,Honolulu,HI,"DENISON, GEORGE P",Republican,1,,1,,Endorsed for Honolulu Board of Supervisors; one of five incumbents listed.,0.90
+HI,Honolulu Advertiser,109600,1932,CNTY COMM,,Honolulu,HI,"GUARD, JOHN B",Republican,1,,1,,Endorsed for Honolulu Board of Supervisors; one of five incumbents listed.,0.90
+HI,Honolulu Advertiser,109600,1932,CNTY COMM,,Honolulu,HI,"KING, SAMUEL WILDER",Republican,1,,1,,Endorsed for Honolulu Board of Supervisors; one of five incumbents listed.,0.90
+HI,Honolulu Advertiser,109600,1932,CNTY COMM,,Honolulu,HI,"SING, PHILIP N",Republican,1,,1,,Endorsed for Honolulu Board of Supervisors; one of five incumbents listed.,0.90
+HI,Honolulu Advertiser,109600,1932,H,AT-LARGE,,HI,"HOUSTON, VICTOR S K",Republican,1,,1,,Editorial 'A Clear-cut Issue': 'Return Delegate Victor S. K. Houston to the Congress at Washington.' Hawaii Territory Delegate to Congress race; Houston was incumbent.,0.95
+HI,Honolulu Advertiser,109600,1932,MAYOR,,Honolulu,HI,"WRIGHT, FRED",Republican,1,,1,,Editorial 'Vote for Wright and Six Republican Supervisors' endorses incumbent Mayor Fred Wright of City and County of Honolulu.,0.95
+HI,Honolulu Advertiser,109600,1934,H,AT-LARGE,,HI,"KING, SAMUEL W",Republican,1,,,,"Editorial 'Tomorrow's Election': 'A safe guide now is this: vote Republican... the Republican candidates generally are well qualified personally, beginning with Samuel W. King, whose qualifications are marked.' General endorsement of Republican ticket including Delegate to Congress.",0.90
+HI,Honolulu Advertiser,109600,1936,PRESIDENT,,,HI,"ROOSEVELT, FRANKLIN D",Democrat,1,1,,,"Editorial 'Roosevelt's Election Predicted': 'It's no time to change leaders. Therefore, Franklin D. Roosevelt is destined to finish his job in Washington.' Note: Hawaii was a Territory in 1936 and could not vote in presidential elections, but this is an endorsement of FDR over Landon.",0.85
+HI,Honolulu Advertiser,109600,1936,STATE SENATOR,,,HI,"DENISON, GEORGE P",Republican,1,,,,Editorial 'A Civic Duty To Elect George Denison' endorses him for the senate. Note: Hawaii was a Territory in 1936 with no US Senator; this refers to the Territorial Senate. Clipping is misleadingly labeled '1936 U.S. Senate' by the original clipper.,0.85
+HI,Honolulu Advertiser,109600,1938,STATE SENATOR,,,HI,"SYLVA, JOSEPH L",Republican,1,,1,,Editorial 'Senator Sylva's Campaign' endorses incumbent Republican Sen. Joseph L. Sylva for re-election to the Hawaii Territorial Senate. Pre-statehood (Territorial) legislature.,0.95
+HI,Honolulu Advertiser,109600,1946,MAYOR,,Honolulu,HI,"RICHARDS, MONTIE",Republican,1,,,,"Editorial 'A Mayor For A Modern City' endorses Montie Richards for Mayor of City and County of Honolulu, citing his service as a member of the Board of Supervisors. Party not explicitly stated in clipping; Richards ran as Republican.",0.80
+HI,Honolulu Advertiser,109600,1952,H,AT-LARGE,,HI,"FARRINGTON, JOSEPH R",Republican,1,,1,,Editorial 'Return Farrington to Congress' endorses incumbent Delegate Joseph R. Farrington (R) over opponent Judge Delbert E. Metzger. Hawaii Territory Delegate to Congress race.,0.95
+HI,Honolulu Advertiser,109600,1952,MAYOR,,Honolulu,HI,"BLAISDELL, NEAL",Republican,1,,,,"Editorial 'Neal Blaisdell's Fitness' endorses Neal Blaisdell for Mayor of Honolulu, calling him 'upright, responsible and competent young man.'",0.95
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,AT-LARGE,Honolulu,HI,"BOLTE, FRED",Republican,1,,,,Endorsed for Honolulu City Council at-large.,0.95
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,,Honolulu,HI,"BRAND,",,1,,,,Endorsed for Honolulu City Council along with Kay Young.,0.70
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,AT-LARGE,Honolulu,HI,"CHIKASUYE, CLESSON",Republican,1,,,,Endorsed for Honolulu City Council at-large.,0.95
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,AT-LARGE,Honolulu,HI,"DOI, MASATO",Democrat,1,,,,Endorsed for Honolulu City Council at-large.,0.95
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,AT-LARGE,Honolulu,HI,"FARDEN, CARL JR",,1,,,,Endorsed for Honolulu City Council at-large.,0.95
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,AT-LARGE,Honolulu,HI,"LEMKE, HERMAN",Republican,1,,,,Endorsed for Honolulu City Council at-large.,0.95
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,AT-LARGE,Honolulu,HI,"TAKABUKI, MATSUO",Democrat,1,,,,Endorsed for Honolulu City Council at-large.,0.95
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,,Honolulu,HI,"YOUNG, KAY",,1,,,,Endorsed for Honolulu City Council.,0.70
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,10,Honolulu,HI,"KAITO, BEN",Democrat,1,,,,"10th District (Ewa-Pearl City): Ben Kaito, Democrat, attorney, endorsed.",0.85
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,8,Honolulu,HI,"ANDERSON, D G",Republican,1,,,,"8th District (Kailua-Kaneohe): D.G. (Andy) Anderson, Republican, endorsed.",0.85
+HI,Honolulu Advertiser,109600,1960,CITY COUNCIL,9,Honolulu,HI,"NAKAMURA, YOSHITO",Democrat,1,,,,"9th District (Wahiawa-Waialua): Yoshito Nakamura, Democrat, endorsed.",0.85
+HI,Honolulu Advertiser,109600,1960,H,AT-LARGE,,HI,"INOUYE, DANIEL",Democrat,1,,,,Editorial 'For Congress' endorses Daniel Inouye for US House (Hawaii's first elected member of Congress for the new state). 1960 was Hawaii's first regular post-statehood congressional election; at-large district at that time.,0.90
+HI,Honolulu Advertiser,109600,1960,MAYOR,,Honolulu,HI,"BLAISDELL, NEAL",Republican,1,,1,,Editorial 'For Mayor And City Council' endorses incumbent Mayor Neal Blaisdell of Honolulu.,0.95
+HI,Honolulu Advertiser,109600,1960,PRESIDENT,,,HI,"NIXON, RICHARD",Republican,1,,,,Editorial 'For President' endorses Vice President Richard Nixon over John F. Kennedy.,0.95
+HI,Honolulu Advertiser,109600,1962,GOVERNOR,,,HI,"QUINN, WILLIAM F",Republican,1,,1,,Editorial 'For Governor' endorses incumbent Governor William F. Quinn (R) over Democrat John A. Burns.,0.95
+HI,Honolulu Advertiser,109600,1962,H,AT-LARGE,,HI,"MATSUNAGA, SPARK",Democrat,1,,,,"Editorial 'For US House': 'In the U.S. House race, for one seat we endorse Spark M. Matsunaga.' Hawaii's at-large US House race in 1962.",0.90
+HI,Honolulu Advertiser,109600,1962,SENATOR,,,HI,"INOUYE, DANIEL K",Democrat,1,,,,Editorial 'For Senate' endorses Rep. Daniel K. Inouye for the U.S. Senate over Republican Ben Dillingham. Inouye was Hawaii's at-large Congressman seeking promotion to U.S. Senate.,0.95
+HI,Honolulu Advertiser,109600,1964,CITY COUNCIL,,Honolulu,HI,"CHIKASUYE, CLESSON Y",Republican,1,,1,,Endorsed for Honolulu City Council; incumbent.,0.90
+HI,Honolulu Advertiser,109600,1964,CITY COUNCIL,,Honolulu,HI,"KENNEDY, EUGENE F",,1,,,,Endorsed for Honolulu City Council: Eugene F. Kennedy.,0.85
+HI,Honolulu Advertiser,109600,1964,CITY COUNCIL,,Honolulu,HI,"KOGA, GEORGE",,1,,,,Endorsed for Honolulu City Council: George (Scotty) Koga.,0.85
+HI,Honolulu Advertiser,109600,1964,CITY COUNCIL,,Honolulu,HI,"LEMKE, HERMAN",Republican,1,,1,,"Editorial 'For Council' endorses Honolulu City Council incumbents Herman G. P. Lemke, Clesson Y. Chikasuye and Matsuo Takabuki.",0.90
+HI,Honolulu Advertiser,109600,1964,CITY COUNCIL,,Honolulu,HI,"NAKAMURA, KENNETH K",,1,,,,Endorsed for Honolulu City Council: Rep. Kenneth K. Nakamura.,0.85
+HI,Honolulu Advertiser,109600,1964,CITY COUNCIL,,Honolulu,HI,"TAKABUKI, MATSUO",Democrat,1,,1,,Endorsed for Honolulu City Council; incumbent.,0.90
+HI,Honolulu Advertiser,109600,1964,H,AT-LARGE,,HI,"MATSUNAGA, SPARK",Democrat,1,,,,Editorial 'For House: Rep. Matsunaga' endorses incumbent Spark Matsunaga for re-election to one of Hawaii's at-large US House seats. Newspaper takes no position on the second House seat.,0.90
+HI,Honolulu Advertiser,109600,1964,MAYOR,,Honolulu,HI,"BLAISDELL, NEAL",Republican,1,,1,,Editorial 'For Mayor: Mayor Blaisdell' endorses incumbent Mayor Neal Blaisdell of Honolulu for re-election.,0.95
+HI,Honolulu Advertiser,109600,1964,PRESIDENT,,,HI,"JOHNSON, LYNDON B",Democrat,1,1,,,"Editorial 'We Endorse... For The Presidency: Lyndon B. Johnson' over Republican Barry Goldwater. The Honolulu Advertiser, traditionally Republican, broke with party to endorse LBJ.",0.98
+HI,Honolulu Advertiser,109600,1964,SENATOR,,,HI,"FONG, HIRAM",Republican,1,,1,,Editorial 'For Senate: Sen. Hiram Fong' endorses incumbent Republican Senator Hiram Fong over Democrat Tom Gill.,0.95
+HI,Honolulu Advertiser,109600,1966,GOVERNOR,,,HI,"BURNS, JOHN A",Democrat,1,1,,,Editorial 'Why Jack Burns Deserves A Second Term' endorses incumbent Democratic Governor John A. (Jack) Burns over Republican Randolph Crossley.,0.95
+HI,Honolulu Advertiser,109600,1966,LT GOVERNOR,,,HI,"GILL, THOMAS P",Democrat,1,,,,"Implicitly endorsed as Burns' Democratic ticket running mate for Lieutenant Governor: 'In our view, Gill has shown greater maturity in the last several years.'",0.85
+HI,Honolulu Advertiser,109600,1968,H,AL,,HI,"BLAISDELL, NEAL S",Republican,0,,,,Listed but not endorsed.,0.95
+HI,Honolulu Advertiser,109600,1968,H,AL,,HI,"DU BOIS, GEORGE",Republican,0,,,,Listed but not endorsed (Kooki).,0.90
+HI,Honolulu Advertiser,109600,1968,H,AL,,HI,"LOMBARDI, PETER O",Peace and Freedom,0,,,,Listed but not endorsed.,0.90
+HI,Honolulu Advertiser,109600,1968,H,AL,,HI,"MATSUNAGA, SPARKY M",Democrat,1,1,,,"Endorsed for Representative to Congress (Hawaii at-large/multi-member, vote for two). Filled circle.",0.95
+HI,Honolulu Advertiser,109600,1968,H,AL,,HI,"MINK, PATSY TAKEMOTO",Democrat,1,1,,,Endorsed for Representative to Congress (filled circle). Incumbent.,0.95
+HI,Honolulu Advertiser,109600,1968,H,AL,,HI,"OLSEN, JON D",Peace and Freedom,0,,,,Listed but not endorsed.,0.90
+HI,Honolulu Advertiser,109600,1968,MAYOR,,Honolulu,HI,"ANDERSON, ANDY",Republican,1,,,,Editorial 'For Mayor: Andy Anderson' endorses Republican Andy Anderson (State Senator) over Democrat Frank Fasi for Honolulu Mayor: 'We endorse Andy Anderson for Mayor and urge his election.',0.98
+HI,Honolulu Advertiser,109600,1968,MAYOR,,Honolulu,HI,"FASI, FRANK F",Democrat,0,,,,Listed but not endorsed.,0.95
+HI,Honolulu Advertiser,109600,1968,PRESIDENT,,,HI,"HUMPHREY, HUBERT H",Democrat,1,,,,Endorsed in 'The Advertiser Recommends' summary box (filled circle next to Democratic ticket).,0.97
+HI,Honolulu Advertiser,109600,1968,PRESIDENT,,,HI,"NIXON, RICHARD M",Republican,0,,,,Listed in recommendations box but not endorsed (open circle).,0.95
+HI,Honolulu Advertiser,109600,1968,PRESIDENT,,,HI,"WALLACE, GEORGE C",American Independent,0,,,,Listed but not endorsed.,0.95
+HI,Honolulu Advertiser,109600,1968,SENATOR,,,HI,"INOUYE, DAN",Democrat,1,1,,,Endorsed for US Senate (filled circle in recommendations box). Incumbent Democrat.,0.97
+HI,Honolulu Advertiser,109600,1968,SENATOR,,,HI,"LEE, OLIVER M",Peace and Freedom,0,,,,Listed but not endorsed (PF = Peace and Freedom).,0.90
+HI,Honolulu Advertiser,109600,1968,SENATOR,,,HI,"THIESSEN, WAYNE C",Republican,0,,,,Listed but not endorsed.,0.95
+HI,Honolulu Advertiser,109600,1968,VICE PRESIDENT,,,HI,"AGNEW, SPIRO T",Republican,0,,,,Listed but not endorsed.,0.95
+HI,Honolulu Advertiser,109600,1968,VICE PRESIDENT,,,HI,"LE MAY, CURTIS E",American Independent,0,,,,Listed but not endorsed.,0.95
+HI,Honolulu Advertiser,109600,1968,VICE PRESIDENT,,,HI,"MUSKIE, EDMUND S",Democrat,1,,,,Endorsed as Humphrey's running mate (filled circle next to Democratic ticket).,0.97
+HI,Honolulu Advertiser,109600,1970,GOVERNOR,,,HI,"BURNS, JOHN A",Democrat,1,1,,,"Editorial 'we endorse: for Governor: John A. Burns' endorses incumbent Democratic Governor over Republican Judge Sam King. 'In passing over Judge King, we do so with genuine respect.'",0.97
+HI,Honolulu Advertiser,109600,1970,H,AL,,HI,"MATSUNAGA, SPARK M",Democrat,1,1,,,Editorial 'for U.S. House: Spark M. Matsunaga' endorses incumbent Democrat: 'He has more than earned the fifth term he seeks.',0.97
+HI,Honolulu Advertiser,109600,1970,H,AL,,HI,"MINK, PATSY T",Democrat,1,1,,,Editorial 'for U.S. House: Patsy T. Mink' endorses incumbent Democrat: 'Her performance is excellent and Hawaii is the gainer as she returns to Washington for another term.',0.97
+HI,Honolulu Advertiser,109600,1970,SENATOR,,,HI,"FONG, HIRAM L",Republican,1,,1,,Editorial 'for Senator: Hiram L. Fong' endorses incumbent Republican Senator Hiram Fong for re-election: 'we feel he should be returned to Washington.',0.97
+HI,Honolulu Advertiser,109600,1980,DA/PROSECUTOR,Honolulu,,HI,"SPENCER, CHARLES",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1980,H,1,,HI,"HEFTEL, CECIL",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1980,H,2,,HI,"AKAKA, DANIEL K.",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1980,MAYOR,Honolulu,,HI,"ANDERSON, EILEEN",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1980,PRESIDENT,,,HI,"CARTER, JIMMY",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1980,SENATOR,,,HI,"INOUYE, DANIEL K.",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,CITY COUNCIL,2,,HI,"FAWCETT, WELCOME S.",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,CITY COUNCIL,4,,HI,"DOO, LEIGH WAI",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,CITY COUNCIL,5,,HI,"BORNHORST, MARILYN",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,CITY COUNCIL,6,,HI,"NARVAES, TONY",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,CITY COUNCIL,7,,HI,"HAUK, DAVID A.",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,CITY COUNCIL,8,,HI,"MINK, PATSY T.",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,GOVERNOR,,,HI,"ARIYOSHI, GEORGE R.",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,H,1,,HI,"HEFTEL, CEC",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,H,2,,HI,"AKAKA, DANIEL K.",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,SENATOR,,,HI,"MATSUNAGA, SPARK",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,STATE REP,19,,HI,"DANG, MARVIN",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1982,STATE SENATOR,11,,HI,"YEE, WADSWORTH",Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1984,MAYOR,Honolulu,,HI,"ANDERSON, EILEEN",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,BOARD OF EDUCATION,Central,,HI,"MCMILLEN, FRANCIS",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,BOARD OF EDUCATION,Oahu at-large,,HI,"ARAKI, MAKO",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,BOARD OF EDUCATION,Oahu at-large,,HI,"KAWAHARA, HATSUKO",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,BOARD OF EDUCATION,Oahu at-large,,HI,"NORWOOD, CHUCK",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,BOARD OF EDUCATION,Windward,,HI,"PENNEBACKER, JOHN",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,CITY COUNCIL,1,,HI,"IWASE, RANDALL",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,CITY COUNCIL,3,,HI,"O'CONNOR, DENNIS",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,CITY COUNCIL,4,,HI,"DOO, LEIGH-WAI",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,CITY COUNCIL,5,,HI,"BORNHORST, MARILYN",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,CITY COUNCIL,7,,HI,"MERCADO KIM, DONNA",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,CITY COUNCIL,8,,HI,"MORGADO, ARNOLD",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,CITY COUNCIL,9,,HI,"DESOTO, JOHN",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,GOVERNOR,,,HI,"ANDERSON, ANDY",Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,GOVERNOR,,,HI,"WAIHEE, JOHN",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,H,1,,HI,"HANNEMANN, MUFI",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,H,1,,HI,"SAIKI, PAT",Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,H,2,,HI,"AKAKA, DAN",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,LT GOVERNOR,,,HI,"CAYETANO, BEN",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,LT GOVERNOR,,,HI,"FELIX, JOHN HENRY",Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1986,SENATOR,,,HI,"INOUYE, DAN",Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Big Island/Oahu at-large,,HI,"MIURA, BETTY LOU",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Big Island/Oahu at-large,,HI,"MON, VICTOR",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Leeward,,HI,"BROWN, KERMIT P.",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Leeward,,HI,"KAHIKINA, MIKE",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Leeward,,HI,"KAM, THOMAS K.Y.",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Oahu at-large,,HI,"ALMADOVA, BRYAN",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Oahu at-large,,HI,"BRAIDA, DAROLD",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Oahu at-large,,HI,"MATSUMOTO, DENISE",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Waters seat,,HI,"RICHARDSON, CLARK",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1988,BOARD OF EDUCATION,Windward,,HI,"HARTMANN, DEBI",,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,BOARD OF EDUCATION,Oahu Windward,,HI,DEBI HARTMANN,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,BOARD OF EDUCATION,Oahu at-large,,HI,CHUCK NORWOOD,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,BOARD OF EDUCATION,Oahu at-large,,HI,DAVID FASI,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,BOARD OF EDUCATION,Oahu at-large,,HI,KAREN KNUDSEN,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,CITY COUNCIL,Honolulu City Council District 2 (Laie-Kaneohe-Kailua),,HI,STEVE HOLMES,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,CITY COUNCIL,Honolulu City Council District 3 (Kahala-H. Kai-Keolu-Waimanalo),,HI,JOHN FELIX,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,CITY COUNCIL,Honolulu City Council District 5 (Manoa-Makiki-Waikiki),,HI,ANDY MIRIKITANI,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,CITY COUNCIL,Honolulu City Council District 6 (Punchbowl-Nuuanu-Kapalama),,HI,GARY GILL,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,GOVERNOR,HI,,HI,JOHN WAIHEE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,H,HI-1,,HI,MIKE LIU,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,H,HI-2,,HI,PATSY MINK,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,LT GOVERNOR,HI,,HI,BEN CAYETANO,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,SENATOR,HI,,HI,DANIEL AKAKA,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1990,SENATOR,HI,,HI,PATRICIA SAIKI,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,BOARD OF EDUCATION,Honolulu district,,HI,DENISE MATSUMOTO,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,BOARD OF EDUCATION,Honolulu seat,,HI,DENISE MATSUMOTO,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,BOARD OF EDUCATION,Leeward Oahu district,,HI,THOMAS KAM,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,BOARD OF EDUCATION,Leeward Oahu seat,,HI,RONALD NAKANO,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,BOARD OF EDUCATION,Leeward Oahu seat,,HI,THOMAS KAM,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,BOARD OF EDUCATION,Oahu at-large,,HI,DARROW AIONA,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,BOARD OF EDUCATION,Oahu at-large,,HI,LEX BRODIE,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,BOARD OF EDUCATION,Oahu at-large,,HI,MARGARET APO,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,BOARD OF EDUCATION,Oahu at-large,,HI,SUSAN LAI YOUNG,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,H,HI-1,,HI,NEIL ABERCROMBIE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,H,HI-2,,HI,PATSY MINK,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,MAYOR,Hawaii County (Big Island),,HI,STEVE YAMASHIRO,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,MAYOR,Honolulu,,HI,DENNIS O'CONNOR,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,MAYOR,Honolulu,,HI,FRANK FASI,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,SENATOR,HI,,HI,DANIEL K. INOUYE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,STATE REP,Big Island Kona-Kohala region,,HI,MIKE O'KIEFFE,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,STATE REP,"Waialae-Maunalani area, Oahu",,HI,BARBARA MARUMOTO,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,STATE SENATOR,Hawaii (Senate Republican Leader),,HI,MARY GEORGE,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1992,STATE SENATOR,Hawaii State Senate District 9 (Waialae-Kahala-Palolo),,HI,JANE TATIBOUET,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,BOARD OF EDUCATION,Maui seat,,HI,KELLY TAKAYA KING,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,BOARD OF EDUCATION,Oahu at-large,,HI,KAREN KNUDSEN,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,BOARD OF EDUCATION,Oahu at-large,,HI,KEITH SAKATA,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,BOARD OF EDUCATION,Oahu at-large,,HI,ULUWEHI SAI,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,CITY COUNCIL,Honolulu City Council District 2 (Windward Side),,HI,STEVE HOLMES,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,CITY COUNCIL,Honolulu City Council District 4 (Waialae-McCully),,HI,DUKE BAINUM,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,CITY COUNCIL,Honolulu City Council District 6 (Punchbowl-Downtown),,HI,JON YOSHIMURA,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,GOVERNOR,HI,,HI,BEN CAYETANO,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,GOVERNOR,HI,,HI,FRANK FASI,Best Party,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,GOVERNOR,HI,,HI,PAT SAIKI,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,H,HI-1,,HI,NEIL ABERCROMBIE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,H,HI-1,,HI,ORSON SWINDLE,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,H,HI-2,,HI,PATSY MINK,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,SENATOR,HI,,HI,DAN AKAKA,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,STATE REP,Hawaii House District 17 (Waialae Iki-Maunalani Hts.),,HI,BARBARA MARUMOTO,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,STATE REP,Hawaii House District 23 (Manoa),,HI,TONI WORST,Green,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,STATE REP,Hawaii House District 24 (Makiki-Tantalus),,HI,JIM SHON,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,STATE REP,Hawaii House District 42 (Kunia-Makakilo-Ewa-Waipahu),,HI,ANNELLE AMARAL,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,STATE REP,Hawaii House District 47 (Kahaluu-Kaneohe),,HI,KAREN ARCHIBALD,Green,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,STATE REP,Hawaii House District 51 (Lanikai-Keolu-Waimanalo),,HI,EVE ANDERSON,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,STATE SENATOR,Hawaii Senate District 17 (Pacific Palisades-Pearl City),,HI,DAVID IGE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,1994,STATE SENATOR,Hawaii Senate District 24 (Kaneohe-Kailua-Enchanted Lake),,HI,MICHAEL LIU,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,BOARD OF EDUCATION,At-large,,HI,GARRETT TOGUCHI,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,BOARD OF EDUCATION,At-large,,HI,RANDALL YEE,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,BOARD OF EDUCATION,Honolulu,,HI,CAROL MON LEE,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,CITY COUNCIL,Honolulu City Council District 1,,HI,TODD APO,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,H,HI-1,,HI,NEIL ABERCROMBIE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,H,HI-2,,HI,MAZIE HIRONO,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,MAYOR,Honolulu,,HI,MUFI HANNEMANN,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 1,,HI,MARK NAKASHIMA,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 10,,HI,ANGUS MCKELVEY,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 11,,HI,GEORGE FONTAINE,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 12,,HI,KYLE YAMASHITA,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 17,,HI,GENE WARD,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 19,,HI,BARBARA MARUMOTO,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 20,,HI,CALVIN SAY,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 23,,HI,TOM BROWER,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 24,,HI,ISAAC CHOY,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 27,,HI,SESNITA DER-LING MOEPONO,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 29,,HI,JOEY MANAHAN,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 3,,HI,CLIFT TSUJI,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 35,,HI,HENRY AQUINO,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 38,,HI,MARILYN LEE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 4,,HI,FAYE HANOHANO,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 40,,HI,SHARON HAR,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 41,,HI,JON RIKI KARAMATSU,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 43,,HI,KYMBERLY PINE,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 44,,HI,KAREN AWANA,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 45,,HI,MAILE SHIMABUKURO,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 46,,HI,MICHAEL MAGAOAY,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 47,,HI,COLLEEN MEYER,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 51,,HI,CHRIS LEE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 6,,HI,ANDY SMITH,,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 7,,HI,CINDY EVANS,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE REP,Hawaii House District 9,,HI,BOB NAKASONE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE SENATOR,Hawaii Senate District 1,,HI,DWIGHT TAKAMINE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE SENATOR,Hawaii Senate District 12,,HI,GORDON TRIMBLE,Republican,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE SENATOR,Hawaii Senate District 21,,HI,COLLEEN HANABUSA,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE SENATOR,Hawaii Senate District 23,,HI,CLAYTON HEE,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE SENATOR,Hawaii Senate District 5,,HI,ROZ BAKER,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE SENATOR,Hawaii Senate District 6,,HI,J. KALANI ENGLISH,Democrat,1,,,,,0.85
+HI,Honolulu Advertiser,109600,2008,STATE SENATOR,Hawaii Senate District 7,,HI,GARY HOOSER,Democrat,1,,,,,0.85

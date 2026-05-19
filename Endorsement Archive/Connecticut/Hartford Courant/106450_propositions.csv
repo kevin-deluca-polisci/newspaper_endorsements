@@ -1,0 +1,46 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+CT,Hartford Courant,106450,1960,CT,bond,1,"Bond ordinance $1,850,000 for redevelopment in Main-Wells-Gold Street area (Bushnell Plaza)",1,Hartford,0.95
+CT,Hartford Courant,106450,1960,CT,bond,2,"Bond ordinance $225,000 for addition to Mark Twain School",1,Hartford,0.95
+CT,Hartford Courant,106450,1960,CT,appropriation,3,"Appropriation $760,000 for extension of Connecticut River intercepting sewer",1,MDC,0.95
+CT,Hartford Courant,106450,1960,CT,appropriation,4,"Appropriation $1,250,000 for preliminary work on new water filter plant",1,MDC,0.95
+CT,Hartford Courant,106450,1962,CT,constitutional amendment,1,Extends voting by absentee ballot to constitutional amendments,1,Statewide,0.95
+CT,Hartford Courant,106450,1962,CT,constitutional amendment,2,State Constitution amendment (election provisions),1,Statewide,0.95
+CT,Hartford Courant,106450,1962,CT,constitutional amendment,3,Requires Governor and Lt Governor to be of same party,1,Statewide,0.95
+CT,Hartford Courant,106450,1962,CT,constitutional amendment,4,State Constitution amendment (election provisions),1,Statewide,0.95
+CT,Hartford Courant,106450,1962,CT,constitutional amendment,5,State Constitution amendment (election provisions),1,Statewide,0.95
+CT,Hartford Courant,106450,1962,CT,bond,6,$1.7 million bond for Sheldon Street-Charter Oak Avenue redevelopment,1,Hartford,0.95
+CT,Hartford Courant,106450,1962,CT,bond,7,$2.5 million bond for new elementary school in northwest Hartford,1,Hartford,0.95
+CT,Hartford Courant,106450,1962,CT,bond,8,$1.8 million bond for new public works facilities and buildings,1,Hartford,0.95
+CT,Hartford Courant,106450,1962,CT,local,9,Authorize transit district to ensure mass transit service,1,Hartford,0.95
+CT,Hartford Courant,106450,1962,CT,local,10,Authorize proposed Colebrook River dam (MDC flood control),1,MDC,0.95
+CT,Hartford Courant,106450,1964,CT,bond,1,$3.5 million bond for new elementary school in northeast Hartford,1,Hartford,0.95
+CT,Hartford Courant,106450,1964,CT,bond,2,$0.5 million bond for modernizing Washington Street Trade School,1,Hartford,0.95
+CT,Hartford Courant,106450,1964,CT,bond,3,"$225,000 bond to replace fire-alarm cables and modernize control center",1,Hartford,0.95
+CT,Hartford Courant,106450,1964,CT,bond,MDC1,$12 million MDC bond for water system improvements,1,MDC,0.95
+CT,Hartford Courant,106450,1964,CT,bond,MDC2,$10 million MDC bond for sewer system improvements,1,MDC,0.95
+CT,Hartford Courant,106450,1964,CT,constitutional amendment,1,Clarifies process of amending the state Constitution,1,Statewide,0.95
+CT,Hartford Courant,106450,1964,CT,constitutional amendment,2,Changes residence requirement for voting to 6 months in town,1,Statewide,0.95
+CT,Hartford Courant,106450,1964,CT,constitutional amendment,3,Allows absentee ballots for voters whose religion forbids voting on Election Day,1,Statewide,0.95
+CT,Hartford Courant,106450,1966,CT,bond,1,"$41,435,000 bond for five new Hartford public schools",1,Hartford,0.95
+CT,Hartford Courant,106450,1966,CT,bond,2,"$500,000 bond for first phase of Community Renewal Program (Charter Oak-South Green, Garden-Northeast, South Arsenal, Clay Hill)",1,Hartford,0.95
+CT,Hartford Courant,106450,1966,CT,bond,3,"$1,150,000 bond for combined Public Health and Rehabilitation Center (Burgdorf)",1,Hartford,0.95
+CT,Hartford Courant,106450,1968,CT,bond,1,$4 million bond for new elementary school in South Arsenal Redevelopment Area,1,Hartford; recap of 10-question slate,0.95
+CT,Hartford Courant,106450,1968,CT,bond,2,$15 million bond for multi-purpose Civic Center in Trumbull Street area,1,Hartford,0.95
+CT,Hartford Courant,106450,1968,CT,bond,3,$3.5 million bond for redevelopment in Colt Park South Area,1,Hartford,0.95
+CT,Hartford Courant,106450,1968,CT,bond,4,$1.7 million bond for redevelopment in South Arsenal Area,1,Hartford,0.95
+CT,Hartford Courant,106450,1968,CT,bond,5,"$300,000 bond for community service facilities at Clay Hill Middle School",1,Hartford,0.95
+CT,Hartford Courant,106450,1968,CT,bond,6,"$300,000 bond for community service facilities at Northwest Middle School",1,Hartford,0.95
+CT,Hartford Courant,106450,1968,CT,bond,7,"$400,000 bond for community service facilities at South Middle School",1,Hartford,0.95
+CT,Hartford Courant,106450,1968,CT,bond,8,"$350,000 bond for construction of swimming pool in Pope Park",1,Hartford,0.95
+CT,Hartford Courant,106450,1968,CT,bond,9,"$350,000 bond for rehabilitation of public works incinerator",1,Hartford,0.95
+CT,Hartford Courant,106450,1968,CT,bond,10,$15 million MDC appropriation for water system improvements,1,MDC,0.95
+CT,Hartford Courant,106450,1972,CT,constitutional amendment,1,State Constitutional amendment: legislature may set jury size and codify peremptory challenges and voir dire rights,1,Statewide,0.95
+CT,Hartford Courant,106450,1972,CT,charter,2,"Package of 42 amendments to Hartford City Charter (housekeeping + Council pay increase to $9,000 + bipartisan school board + bond approval ceiling change)",1,Hartford,0.95
+CT,Hartford Courant,106450,1972,CT,bond,3,Bond for new Northwest school,1,Hartford,0.95
+CT,Hartford Courant,106450,1972,CT,bond,4,Bond for addition to Church Street garage,1,Hartford,0.95
+CT,Hartford Courant,106450,1972,CT,bond,5,Bond for industrial and business development in North Meadows,1,Hartford,0.95
+CT,Hartford Courant,106450,1972,CT,bond,6,Bond for Clay Hill urban renewal,1,Hartford,0.95
+CT,Hartford Courant,106450,1972,CT,bond,7,Bond for Charter Oak-South Green redevelopment,1,Hartford,0.95
+CT,Hartford Courant,106450,1972,CT,bond,8,Bond for completion of Park River flood control project,1,Hartford,0.95
+CT,Hartford Courant,106450,1972,CT,appropriation,9,$8 million MDC water supply expenditure,1,MDC,0.95
+CT,Hartford Courant,106450,1974,CT,constitutional amendment,1,Adds 'sex' to Section 20 of state Constitution Bill of Rights (equal protection / nondiscrimination),1,Statewide; sex equality amendment,0.85

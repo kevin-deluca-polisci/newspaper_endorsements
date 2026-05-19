@@ -1,0 +1,35 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Corpus Christi Times
+Newspaper ID: 145001
+State: TX
+Number of clippings: 60
+Endorsement data years: 1952-1986
+Total candidate endorsements: 72
+Total proposition endorsements: 150
+
+Confidence statistics:
+  Mean confidence: 0.882
+  Low-confidence records (< 0.7): 7
+
+Top offices (top 15):
+  TX SUPREME COURT: 10
+  GOVERNOR: 7
+  RAILROAD COMMISSION: 7
+  PRESIDENT: 6
+  SENATOR: 6
+  STATE REP: 6
+  H: 4
+  STATE SENATOR: 3
+  ATTORNEY GENERAL: 3
+  LT GOVERNOR: 3
+  LAND COMMISSIONER: 3
+  AGRICULTURE COMMISSIONER: 2
+  COURT OF CRIMINAL APPEALS: 2
+  DISTRICT COURT JUDGE: 2
+  TREASURER: 2
+
+Party distribution:
+  Democrat: 49
+  Republican: 11

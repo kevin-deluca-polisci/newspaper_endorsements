@@ -1,0 +1,12 @@
+Newspaper: Madison Capital Times
+Newspaper ID: 150701
+State: WI
+Election years: 36 (1928-2018)
+Clippings: 64 files
+Candidate records: 591 (583 endorsed, 8 opposed, 0 no-direction)
+Proposition records: 48 (40 endorsed, 8 opposed, 0 no-direction)
+Cand conf: n/a
+Prop conf: n/a
+Last updated: 2026-04-30
+
+Years: 1928, 1930, 1932, 1934, 1936, 1940, 1942, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1988, 1990, 2008, 2010, 2012, 2014, 2016, 2018

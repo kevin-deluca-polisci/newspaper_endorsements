@@ -1,0 +1,37 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Atlanta Constitution
+Newspaper ID: 109051
+State: GA
+Number of clippings: 124
+Endorsement data years: 1960-1990
+Total candidate endorsements: 636
+Total proposition endorsements: 428
+
+Confidence statistics:
+  Mean confidence: 0.907
+  Low-confidence records (< 0.7): 2
+
+Top offices (top 15):
+  STATE REP: 252
+  STATE SENATOR: 108
+  CNTY COMM: 74
+  H: 50
+  JUDGE: 35
+  SCHOOL BOARD: 18
+  USHOUSE: 12
+  PUBLIC SERVICE COMMISSION: 11
+  DA/PROSECUTOR: 10
+  SHERIFF: 9
+  PRESIDENT: 8
+  GOVERNOR: 8
+  CITY COUNCIL: 3
+  SENATOR: 3
+  LT GOVERNOR: 3
+
+Party distribution:
+  Democrat: 268
+  Republican: 85
+  NA: 48
+  Independent: 1

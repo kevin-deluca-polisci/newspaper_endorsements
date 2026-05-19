@@ -1,0 +1,484 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,1,Veteran Bond Act of 1946,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,10,Salary of the Governor,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,11,Fair Employment Practices Act initiative,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,12,Amendment of Laws Adopted by Initiative,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,13,Allocation of Public School Funds,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,14,Disability of the Governor to Act,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,15,Validation of Legislative Amendments to Alien Land Law,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,16,Repeal of Educational Poll Tax,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,17,Public Utilities Commission,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,2,Greyhound Racing initiative,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,3,Public School initiative,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,4,Business Loans for Veterans,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,5,Creation of Court for Tax Appeals,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,6,Annual Sessions of Legislature,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,7,County Boards of Education,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,8,County Superintendents of Schools,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1946,CA,AMENDMENT,9,State Superintendents of Public Instruction,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,1,1948 ballot proposition,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,10,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,11,1948 ballot proposition,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,12,1948 ballot proposition,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,13,1948 ballot proposition,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,14,1948 ballot proposition,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,15,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,16,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,17,1948 ballot proposition,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,18,1948 ballot proposition,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,19,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,2,1948 ballot proposition,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,3,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,4,1948 ballot proposition,0,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,5,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,6,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,7,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,8,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1948,CA,AMENDMENT,9,1948 ballot proposition,1,1946 ballot recap,0.94
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,1,Personal Property Taxation,0,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,10,Public Housing Projects,1,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,11,Land Titles,1,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,2,Naming Persons to Office,1,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,3,Inferior Court Reorganization,1,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,4,Eligibility to Vote,1,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,5,Legislator Office Holding,0,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,6,Legalizing and Licensing Gambling,0,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,7,Chiropractors,0,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,8,Compensation of Local Officials,1,,0.92
+CA,Salinas Californian,104200,1950,CA,AMENDMENT,9,State Civil Service,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,10,Terms of State Officers,0,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,11,Taxation: Exemption for Disabled Veterans,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,12,Voting Eligibility,0,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,13,Vernon City Charter,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,14,College Exemption: Property Under Construction,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,15,Welfare Exemption: Property Under Construction,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,16,Water Rights of Government Agencies,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,17,Street and Highway Funds Vehicle Parking,0,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,18,Resident Non-Citizen Property Ownership,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,19,Inferior Court Reorganization,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,20,Framing County Charters,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,3,Alcoholic Beverage Control,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,4,Aid to Needy Aged,0,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,5,Taxation: Exemption of Vessels,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,6,Pay of Legislators,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,7,Land Titles Torrens Act,1,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,8,Tax Exemption of Commercial and Fishing Vessels,0,,0.92
+CA,Salinas Californian,104200,1954,CA,AMENDMENT,9,Church Exemption: Property Under Construction,1,,0.92
+CA,Salinas Californian,104200,1954,CA,BOND,1,Veterans Bond Act of 1954,1,,0.92
+CA,Salinas Californian,104200,1954,CA,BOND,2,School Bonds,1,,0.92
+CA,Salinas Californian,104200,1954,CA,LOCAL,A,Library Board,1,,0.92
+CA,Salinas Californian,104200,1954,CA,LOCAL,B,Public Work,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,10,Contract Employment of Architects Engineers,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,11,Allow One Year to Frame County Charters,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,12,Reduce Maximum Term of State Debt,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,13,Repeal Inoperative Alien Land Law,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,14,Repeal Limits on Legislative Expense,0,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,15,Permit Any Government to Own Mutual Water Stock,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,16,Fixing of Time for Civil and Criminal Appeals,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,17,Repeal Obsolete Sections on Judges Salaries,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,18,Permit Non-Lawyer Judges in Superseding Lower Courts,0,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,19,Permit Legislature to Redefine State Boundary,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,6,Exempt Church Parking Areas from Local Property Tax,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,7,Change Name of Assembly to House of Representatives,0,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,8,Recess Periods in Legislative Budget Sessions,1,,0.92
+CA,Salinas Californian,104200,1956,CA,AMENDMENT,9,Permit Boroughs to Frame Charter Counties,1,,0.92
+CA,Salinas Californian,104200,1956,CA,BOND,1,$500 Million State Bonds for Veterans Loans,1,,0.92
+CA,Salinas Californian,104200,1956,CA,BOND,2,$100 Million Funds for School Construction,1,,0.92
+CA,Salinas Californian,104200,1956,CA,BOND,3,$200 Million Bonds for State Construction,1,,0.92
+CA,Salinas Californian,104200,1956,CA,INITIATIVE,4,Oil and Gas Conservation Initiative,1,,0.92
+CA,Salinas Californian,104200,1956,CA,INITIATIVE,5,Repeal Food Requirement in Liquor Establishments,1,,0.92
+CA,Salinas Californian,104200,1956,CA,LOCAL,A,Monterey County Supervisorial Redistricting,0,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,10,Eminent Domain,0,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,12,Legislator as Notary,1,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,13,State Superintendent,1,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,14,Local Officers Salary,1,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,16,School Property Tax,0,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,17,State Tax Rates,0,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,5,Legislators Salaries,0,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,6,State Indebtedness,0,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,7,Wartime Disaster,1,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,8,Presidential Voting,0,,0.92
+CA,Salinas Californian,104200,1958,CA,AMENDMENT,9,Legislative Sessions,0,,0.92
+CA,Salinas Californian,104200,1958,CA,BOND,1,Veterans Bonds,0,,0.92
+CA,Salinas Californian,104200,1958,CA,BOND,11,Street and Road Bonds,0,,0.92
+CA,Salinas Californian,104200,1958,CA,BOND,2,School Bonds,1,,0.92
+CA,Salinas Californian,104200,1958,CA,BOND,3,State Construction,1,,0.92
+CA,Salinas Californian,104200,1958,CA,BOND,4,Harbor Development,1,,0.92
+CA,Salinas Californian,104200,1958,CA,INITIATIVE,15,Boxing Matches,1,,0.92
+CA,Salinas Californian,104200,1958,CA,INITIATIVE,18,Employer-Employee (right to work),0,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,10,Judicial Council,1,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,11,Vet Tax Exemption,1,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,12,Constitution Changes,1,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,13,Appeal Courts,1,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,14,Grade Crossings,0,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,15,Senate Reapportionment,1,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,2,Assembly Terms,0,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,4,College Terms,1,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,5,Legislators Pay,1,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,6,Golf Courses,1,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,7,Chiropractors,0,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,8,Ex-Felons Vote,0,,0.92
+CA,Salinas Californian,104200,1960,CA,AMENDMENT,9,Claim Procedures,1,,0.92
+CA,Salinas Californian,104200,1962,CA,AMENDMENT,1,Legislator Salaries,0,,0.92
+CA,Salinas Californian,104200,1962,CA,AMENDMENT,1-A,Building Bonds,1,,0.92
+CA,Salinas Californian,104200,1962,CA,AMENDMENT,2,Vet Exemptions,0,,0.92
+CA,Salinas Californian,104200,1962,CA,AMENDMENT,3,Vet Exemptions,1,,0.92
+CA,Salinas Californian,104200,1962,CA,AMENDMENT,4,Ag Assessment,1,,0.92
+CA,Salinas Californian,104200,1962,CA,AMENDMENT,5,Workmens Comp,0,,0.92
+CA,Salinas Californian,104200,1962,CA,AMENDMENT,6,State Indebtedness,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,10,Abolish state school fund,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,11,Validate city-county contracts,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,12,Tax relief in disaster area,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,13,State anti-lottery,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,17,Anti-featherbedding,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,4,Veterans tax exemption residency,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,5,Veterans tax exemption widows,0,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,6,Retaliatory tax out of state insurers,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,7,Stock investment public retirement funds,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,8,Superior judge election procedure,1,,0.92
+CA,Salinas Californian,104200,1964,CA,AMENDMENT,9,Supervisorial redistricting,1,,0.92
+CA,Salinas Californian,104200,1964,CA,BOND,1,Parks recreation bonds,1,,0.92
+CA,Salinas Californian,104200,1964,CA,BOND,2,College construction bonds,1,,0.92
+CA,Salinas Californian,104200,1964,CA,BOND,3,State school bonds,1,,0.92
+CA,Salinas Californian,104200,1964,CA,INITIATIVE,14,Anti fair housing,0,,0.92
+CA,Salinas Californian,104200,1964,CA,INITIATIVE,15,Ban pay television,0,,0.92
+CA,Salinas Californian,104200,1964,CA,INITIATIVE,16,Lottery monopoly to private firm,0,,0.92
+CA,Salinas Californian,104200,1964,CA,LOCAL,A,County building expansion,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,1,Public Retirement Funds,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,1-a,Constitutional Revision,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,10,Public Fund Loans-Disaster Area,0,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,11,Boxing Wrestling Contests,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,12,Assessment Appeals Boards,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,13,Property Tax Statement,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,14,Income Tax Reporting,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,15,Literacy Requirement,0,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,3,Open Space Conservation,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,4,60% Approval School Bonds,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,5,Property Tax-Disaster Area,0,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,6,Legislative Procedure,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,7,County Officers Pay,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,8,Taxation Insurance Firms,1,,0.92
+CA,Salinas Californian,104200,1966,CA,AMENDMENT,9,Blind Veterans Tax Exemption,1,,0.92
+CA,Salinas Californian,104200,1966,CA,BOND,1,State School Bonds $250M for Building Funds,1,,0.92
+CA,Salinas Californian,104200,1966,CA,BOND,2,Higher Education Construction Costs,1,,0.92
+CA,Salinas Californian,104200,1966,CA,INITIATIVE,16,Prohibiting Obscenity,0,,0.92
+CA,Salinas Californian,104200,1968,CA,AMENDMENT,1,Constitution Revision,1,,0.92
+CA,Salinas Californian,104200,1968,CA,AMENDMENT,1A,Property Tax Relief for Homeowners,1,,0.92
+CA,Salinas Californian,104200,1968,CA,AMENDMENT,2,Assessment of Public Property,0,,0.92
+CA,Salinas Californian,104200,1968,CA,AMENDMENT,4,Simplified Income Tax Forms,1,,0.92
+CA,Salinas Californian,104200,1968,CA,AMENDMENT,5,Hospital Loans,1,,0.92
+CA,Salinas Californian,104200,1968,CA,AMENDMENT,6,Annuity Premiums Tax,1,,0.92
+CA,Salinas Californian,104200,1968,CA,AMENDMENT,7,Allocation of State Funds,1,,0.92
+CA,Salinas Californian,104200,1968,CA,AMENDMENT,8,Sales Tax Sharing,1,,0.92
+CA,Salinas Californian,104200,1968,CA,BOND,1,Veterans Bonds,1,,0.92
+CA,Salinas Californian,104200,1968,CA,BOND,2,Junior College Bonds,1,,0.92
+CA,Salinas Californian,104200,1968,CA,BOND,3,Higher Education Bonds $250M,1,,0.92
+CA,Salinas Californian,104200,1968,CA,INITIATIVE,9,Watson Property Tax Amendment,0,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,10,Interest Rate Limitation,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,11,Chiropractic,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,12,Supervisors Pay,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,13,Disabled Blind Vets,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,14,State Civil Service,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,15,Constitutional Revision,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,16,Constitutional Amendments,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,17,Constitutional Revision,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,18,Motor Vehicle Fund,0,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,19,Recreation Bonds,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,2,Constitutional Vacancies,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,3,State Budget,0,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,4,Appropriations Public Schools,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,5,Public Meeting Regents,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,6,Teachers Retirement Fund,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,7,State Colleges Speaker Member Board,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,8,Supt of Public Instruction,1,,0.92
+CA,Salinas Californian,104200,1970,CA,AMENDMENT,9,County Supt Schools,1,,0.92
+CA,Salinas Californian,104200,1970,CA,BOND,1,Clean Water Bill,1,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,10,Blind Veterans Tax Exemptions,1,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,11,Right of Privacy,0,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,12,Disabled Veterans Tax Exemption,1,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,13,Workmens Compensation,1,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,15,State Employes Salaries,0,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,16,Highway Patrol Salaries,0,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,4,Legislative Reorganization,0,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,5,School District Control,0,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,6,Constitutional Revision,1,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,7,Elections Presidential Primary,1,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,8,Tax Exemption for Antipollution,0,,0.92
+CA,Salinas Californian,104200,1972,CA,AMENDMENT,9,Bonds Structurally Unsafe Schools,1,,0.92
+CA,Salinas Californian,104200,1972,CA,BOND,1,Community College Bonds,1,,0.92
+CA,Salinas Californian,104200,1972,CA,BOND,2,Health Science Facilities Bonds,1,,0.92
+CA,Salinas Californian,104200,1972,CA,BOND,3,Environmental Pollution Revenue Bonds,0,,0.92
+CA,Salinas Californian,104200,1972,CA,INITIATIVE,14,Watson Taxation Revision,0,,0.92
+CA,Salinas Californian,104200,1972,CA,INITIATIVE,17,Death Penalty,1,,0.92
+CA,Salinas Californian,104200,1972,CA,INITIATIVE,18,Obscenity Legislation,0,,0.92
+CA,Salinas Californian,104200,1972,CA,INITIATIVE,19,Personal Marijuana Use,0,,0.92
+CA,Salinas Californian,104200,1972,CA,INITIATIVE,20,Coastal Zone Conservation,0,,0.92
+CA,Salinas Californian,104200,1972,CA,INITIATIVE,21,Assignment of Students to Schools,0,,0.92
+CA,Salinas Californian,104200,1972,CA,INITIATIVE,22,Agricultural Labor Relations,1,,0.92
+CA,Salinas Californian,104200,1972,CA,LOCAL,,To Elect the Mayor (Salinas),1,,0.92
+CA,Salinas Californian,104200,1972,CA,LOCAL,,Raise Mayor/Council Salaries (Salinas),1,,0.92
+CA,Salinas Californian,104200,1974,CA,LOCAL,,Nacimiento Maintenance,1,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,10,Special district property taxation,1,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,11,Tax rates on unsecured property,0,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,12,State loans energy conservation,0,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,15,Chiropractors examiners licensing,0,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,4,UC contract bidding ethnic rule,0,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,5,Interest rates allowable above 10 percent,1,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,6,Statutes effective dates referendum,0,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,7,Judges censure removal,1,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,8,County school offices superintendent,1,,0.92
+CA,Salinas Californian,104200,1976,CA,AMENDMENT,9,State constitutional offices confirmation,0,,0.92
+CA,Salinas Californian,104200,1976,CA,BOND,1,Housing finance bond law,1,,0.92
+CA,Salinas Californian,104200,1976,CA,BOND,2,State Urban and Coastal Bond Act,1,,0.92
+CA,Salinas Californian,104200,1976,CA,BOND,3,Residential Energy Conservation Bond,0,,0.92
+CA,Salinas Californian,104200,1976,CA,INITIATIVE,13,Greyhound dog racing legalize,0,,0.92
+CA,Salinas Californian,104200,1976,CA,INITIATIVE,14,Agricultural labor relations,0,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,A,Monterey County housing measure,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,B,Salinas measure,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,D,Greenfield measure,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,G,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,H,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,I,Salinas Charter Amendment - council/mayor salary,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,J,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,K,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,L,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,M,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,N,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,O,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,P,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1976,CA,LOCAL,Q,Salinas Charter Amendment,1,,0.92
+CA,Salinas Californian,104200,1978,CA,AMENDMENT,2,PUC Member Hearings,0,,0.92
+CA,Salinas Californian,104200,1978,CA,AMENDMENT,3,Surplus Coastal Property,0,,0.92
+CA,Salinas Californian,104200,1978,CA,AMENDMENT,8,Disaster Property Taxing,1,,0.92
+CA,Salinas Californian,104200,1978,CA,BOND,1,Veterans Bond Act,1,,0.92
+CA,Salinas Californian,104200,1978,CA,INITIATIVE,4,Chiropractor standards,0,,0.92
+CA,Salinas Californian,104200,1978,CA,INITIATIVE,5,Smoking Regulation,0,,0.92
+CA,Salinas Californian,104200,1978,CA,INITIATIVE,6,Homosexuals In Schools (Briggs),0,,0.92
+CA,Salinas Californian,104200,1978,CA,INITIATIVE,7,Defining Murder Penalties,1,,0.92
+CA,Salinas Californian,104200,1980,CA,AMENDMENT,11,Judges Salaries,1,,0.92
+CA,Salinas Californian,104200,1980,CA,AMENDMENT,3,Insurance Funds,0,,0.92
+CA,Salinas Californian,104200,1980,CA,AMENDMENT,4,Property Taxation,1,,0.92
+CA,Salinas Californian,104200,1980,CA,AMENDMENT,5,Property Valuation Disasters,1,,0.92
+CA,Salinas Californian,104200,1980,CA,AMENDMENT,6,Number of Jurors,1,,0.92
+CA,Salinas Californian,104200,1980,CA,AMENDMENT,7,Solar System Taxation,1,,0.92
+CA,Salinas Californian,104200,1980,CA,AMENDMENT,9,Safe Drinking Water,1,,0.92
+CA,Salinas Californian,104200,1980,CA,BOND,1,Park Bonds,1,,0.92
+CA,Salinas Californian,104200,1980,CA,BOND,2,Lake Tahoe Bonds,1,,0.92
+CA,Salinas Californian,104200,1980,CA,INITIATIVE,10,Smoking Sections,0,,0.92
+CA,Salinas Californian,104200,1980,CA,INITIATIVE,8,Water Resources Protection (Peripheral Canal),1,,0.92
+CA,Salinas Californian,104200,1982,CA,AMENDMENT,1,Bonds amendment,0,,0.92
+CA,Salinas Californian,104200,1982,CA,AMENDMENT,10,Court unification,0,,0.92
+CA,Salinas Californian,104200,1982,CA,AMENDMENT,13,Water resources amendment,0,,0.92
+CA,Salinas Californian,104200,1982,CA,AMENDMENT,14,Reapportionment,1,,0.92
+CA,Salinas Californian,104200,1982,CA,AMENDMENT,4,Civil service amendment,0,,0.92
+CA,Salinas Californian,104200,1982,CA,AMENDMENT,5,Tax limit,0,,0.92
+CA,Salinas Californian,104200,1982,CA,AMENDMENT,7,Public pension funds investments,1,,0.92
+CA,Salinas Californian,104200,1982,CA,AMENDMENT,8,Local agency borrowing,1,,0.92
+CA,Salinas Californian,104200,1982,CA,BOND,2,School bonds,1,,0.92
+CA,Salinas Californian,104200,1982,CA,BOND,3,Jail bonds,1,,0.92
+CA,Salinas Californian,104200,1982,CA,BOND,6,First-time homebuyers bonds,0,,0.92
+CA,Salinas Californian,104200,1982,CA,INITIATIVE,11,Deposits on bottles cans,0,,0.92
+CA,Salinas Californian,104200,1982,CA,INITIATIVE,12,Nuclear freeze,0,,0.92
+CA,Salinas Californian,104200,1982,CA,INITIATIVE,15,Handgun registration,0,,0.92
+CA,Salinas Californian,104200,1982,CA,INITIATIVE,9,Use of public textbooks,0,,0.92
+CA,Salinas Californian,104200,1984,CA,AMENDMENT,31,Property tax break - fire protection,0,,0.92
+CA,Salinas Californian,104200,1984,CA,AMENDMENT,32,Supreme court procedure reform,1,,0.92
+CA,Salinas Californian,104200,1984,CA,AMENDMENT,33,Property tax break - disabled persons,1,,0.92
+CA,Salinas Californian,104200,1984,CA,AMENDMENT,34,Property tax break - historic structures,1,,0.92
+CA,Salinas Californian,104200,1984,CA,BOND,25,Clean water bonds,1,,0.92
+CA,Salinas Californian,104200,1984,CA,BOND,26,School construction bonds,1,,0.92
+CA,Salinas Californian,104200,1984,CA,BOND,27,Toxic waste cleanup bonds,1,,0.92
+CA,Salinas Californian,104200,1984,CA,BOND,28,Drinking water bonds,1,,0.92
+CA,Salinas Californian,104200,1984,CA,BOND,29,Veterans bonds,1,,0.92
+CA,Salinas Californian,104200,1984,CA,BOND,30,Senior citizen center bonds,0,,0.92
+CA,Salinas Californian,104200,1984,CA,INITIATIVE,36,Amendment to Prop 13 (Jarvis),0,,0.92
+CA,Salinas Californian,104200,1984,CA,INITIATIVE,37,State lottery,1,,0.92
+CA,Salinas Californian,104200,1984,CA,INITIATIVE,38,English-only ballots,0,,0.92
+CA,Salinas Californian,104200,1984,CA,INITIATIVE,39,Reapportionment,1,,0.92
+CA,Salinas Californian,104200,1984,CA,INITIATIVE,40,Campaign finance limits,0,,0.92
+CA,Salinas Californian,104200,1984,CA,INITIATIVE,41,Welfare cost limits,0,,0.92
+CA,Salinas Californian,104200,1984,CA,LOCAL,A,Monterey County occupancy tax increase,1,,0.92
+CA,Salinas Californian,104200,1984,CA,LOCAL,E,Salinas City pay scale for council,1,,0.92
+CA,Salinas Californian,104200,1986,CA,AMENDMENT,57,Pension limit,1,,0.92
+CA,Salinas Californian,104200,1986,CA,AMENDMENT,58,Family tax transfer,0,,0.92
+CA,Salinas Californian,104200,1986,CA,AMENDMENT,59,Elected District Attorneys,1,,0.92
+CA,Salinas Californian,104200,1986,CA,AMENDMENT,60,Senior tax transfer,1,,0.92
+CA,Salinas Californian,104200,1986,CA,BOND,53,School bonds,1,,0.92
+CA,Salinas Californian,104200,1986,CA,BOND,54,Prison bonds,1,,0.92
+CA,Salinas Californian,104200,1986,CA,BOND,55,Water bonds,1,,0.92
+CA,Salinas Californian,104200,1986,CA,BOND,56,College bonds,1,,0.92
+CA,Salinas Californian,104200,1986,CA,INITIATIVE,61,Gann Pay limit,0,,0.92
+CA,Salinas Californian,104200,1986,CA,INITIATIVE,62,Tax limit (local government),0,,0.92
+CA,Salinas Californian,104200,1986,CA,INITIATIVE,63,English-only,0,,0.92
+CA,Salinas Californian,104200,1986,CA,INITIATIVE,64,AIDS initiative,0,,0.92
+CA,Salinas Californian,104200,1986,CA,INITIATIVE,65,Toxic chemicals (Prop 65),0,,0.92
+CA,Salinas Californian,104200,1986,CA,LOCAL,A,Monterey County Measure A,1,,0.92
+CA,Salinas Californian,104200,1988,CA,BOND,78,Higher Education Facilities Bond,1,,0.92
+CA,Salinas Californian,104200,1988,CA,BOND,79,1988 School Construction Bond,1,,0.92
+CA,Salinas Californian,104200,1988,CA,BOND,80,New Prison Construction Bond,1,,0.92
+CA,Salinas Californian,104200,1988,CA,BOND,81,California Safe Drinking Water Bond Law,1,,0.92
+CA,Salinas Californian,104200,1988,CA,BOND,83,Clean Water and Water Reclamation Bond Law,1,,0.92
+CA,Salinas Californian,104200,1988,CA,BOND,84,Housing and Home Bond Act,1,,0.92
+CA,Salinas Californian,104200,1988,CA,BOND,85,Library Construction and Renovation Bond Act,1,,0.92
+CA,Salinas Californian,104200,1988,CA,BOND,86,County Correctional Facility Capital Expenditure,1,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,100,Insurance Rates Regulation,1,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,101,Automobile Accident Claims and Insurance Rates,0,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,102,Reporting Exposure,0,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,103,Insurance Statutes,0,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,104,Auto No-fault,0,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,105,Disclosure Investors,1,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,106,Attorney Fee Limit,0,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,95,Hunger and Homeless Funding,0,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,96,Communicable Disease Testing,0,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,97,State Occupational Safety and Health (Cal/OSHA),1,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,98,School Funding,0,,0.92
+CA,Salinas Californian,104200,1988,CA,INITIATIVE,99,Cigarette and Tobacco Tax,1,,0.92
+CA,Salinas Californian,104200,1988,CA,LOCAL,A,Monterey County Paramedic Service,0,,0.92
+CA,Salinas Californian,104200,1990,CA,AMENDMENT,124,1990 prop,1,,0.92
+CA,Salinas Californian,104200,1990,CA,AMENDMENT,125,1990 prop,1,,0.92
+CA,Salinas Californian,104200,1990,CA,AMENDMENT,126,1990 prop,1,,0.92
+CA,Salinas Californian,104200,1990,CA,AMENDMENT,127,1990 prop,1,,0.92
+CA,Salinas Californian,104200,1990,CA,AMENDMENT,144,1990 prop,0,,0.92
+CA,Salinas Californian,104200,1990,CA,AMENDMENT,145,1990 prop,0,,0.92
+CA,Salinas Californian,104200,1990,CA,AMENDMENT,148,1990 prop,0,,0.92
+CA,Salinas Californian,104200,1990,CA,BOND,142,1990 bond,1,,0.92
+CA,Salinas Californian,104200,1990,CA,BOND,143,1990 bond,1,,0.92
+CA,Salinas Californian,104200,1990,CA,BOND,146,1990 bond,1,,0.92
+CA,Salinas Californian,104200,1990,CA,BOND,147,County jails,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,128,Big Green,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,129,Drug enforcement,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,130,Forest Conservation,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,131,Term limits,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,132,Gill nets,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,133,Drug-free state,1,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,134,Nickel-a-drink,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,135,Pesticide regulation,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,136,Tax increase requirements,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,137,Local government,1,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,138,Timber industry,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,139,Prison labor,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,140,Term limits restrictive,0,,0.92
+CA,Salinas Californian,104200,1990,CA,INITIATIVE,141,State water,0,,0.92
+CA,Salinas Californian,104200,1992,CA,AMENDMENT,157,Toll roads highways,1,,0.92
+CA,Salinas Californian,104200,1992,CA,AMENDMENT,158,California Analyst,1,,0.92
+CA,Salinas Californian,104200,1992,CA,AMENDMENT,159,Auditor general,1,,0.92
+CA,Salinas Californian,104200,1992,CA,AMENDMENT,160,Property tax exemption,0,,0.92
+CA,Salinas Californian,104200,1992,CA,BOND,155,School facilities bonds,1,,0.92
+CA,Salinas Californian,104200,1992,CA,BOND,156,Passenger rail clean air act,1,,0.92
+CA,Salinas Californian,104200,1992,CA,INITIATIVE,161,Physician-assisted death,0,,0.92
+CA,Salinas Californian,104200,1992,CA,INITIATIVE,162,Public employees retirement,0,,0.92
+CA,Salinas Californian,104200,1992,CA,INITIATIVE,163,End taxation on certain foods,1,,0.92
+CA,Salinas Californian,104200,1992,CA,INITIATIVE,164,Congressional term limits,0,,0.92
+CA,Salinas Californian,104200,1992,CA,INITIATIVE,165,Budget process (Wilson),0,,0.92
+CA,Salinas Californian,104200,1992,CA,INITIATIVE,166,Basic health-care coverage,0,,0.92
+CA,Salinas Californian,104200,1992,CA,INITIATIVE,167,State taxes,0,,0.92
+CA,Salinas Californian,104200,1994,CA,AMENDMENT,183,Recall elections,1,,0.92
+CA,Salinas Californian,104200,1994,CA,AMENDMENT,190,Judicial performance,0,,0.92
+CA,Salinas Californian,104200,1994,CA,AMENDMENT,191,Justice courts,1,,0.92
+CA,Salinas Californian,104200,1994,CA,BOND,181,Passenger rail bond,1,,0.92
+CA,Salinas Californian,104200,1994,CA,INITIATIVE,184,Three strikes,0,,0.92
+CA,Salinas Californian,104200,1994,CA,INITIATIVE,185,Public transit gas tax,1,,0.92
+CA,Salinas Californian,104200,1994,CA,INITIATIVE,186,Health Services,0,,0.92
+CA,Salinas Californian,104200,1994,CA,INITIATIVE,187,Illegal immigrants,0,,0.92
+CA,Salinas Californian,104200,1994,CA,INITIATIVE,188,Smoking regulations,0,,0.92
+CA,Salinas Californian,104200,1994,CA,INITIATIVE,189,Sexual offenders,1,,0.92
+CA,Salinas Californian,104200,1996,CA,AMENDMENT,193,Property appraisal waiver for grandparent-grandchild transfer,1,,0.92
+CA,Salinas Californian,104200,1996,CA,AMENDMENT,194,Eliminating unemployment for prisoners,1,,0.92
+CA,Salinas Californian,104200,1996,CA,AMENDMENT,203,School bond approval threshold,1,,0.92
+CA,Salinas Californian,104200,1996,CA,AMENDMENT,204,Clean water bond,0,,0.92
+CA,Salinas Californian,104200,1996,CA,BOND,192,$5 billion seismic retrofit bond,1,,0.92
+CA,Salinas Californian,104200,1996,CA,BOND,205,Jail bond,0,,0.92
+CA,Salinas Californian,104200,1996,CA,BOND,206,Cal Vet bond,1,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,197,Open season on mountain lions,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,199,Mobile-home conflicts,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,207,Attorney fees,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,208,Campaign spending limits,1,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,209,Repeal affirmative action,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,210,Minimum wage increase,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,211,Attorney-client fees,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,212,Campaign spending limits alt,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,213,Uninsured motorist,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,214,Health care initiative HMO,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,215,Medical marijuana,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,216,Health care initiative alt,0,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,217,Top tax reinstatement,1,,0.92
+CA,Salinas Californian,104200,1996,CA,INITIATIVE,218,Local tax limitations,0,,0.92
+CA,Salinas Californian,104200,1998,CA,AMENDMENT,1,Property taxes contaminated property,1,,0.92
+CA,Salinas Californian,104200,1998,CA,AMENDMENT,2,Limits legislature use of transportation funds,1,,0.92
+CA,Salinas Californian,104200,1998,CA,AMENDMENT,3,Partisan presidential elections,1,,0.92
+CA,Salinas Californian,104200,1998,CA,BOND,1A,Public Education Facilities Bond Act of 1998,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,10,Additional tobacco surtax,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,11,Revenue sharing local sales and use taxes,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,4,Bans use of specified traps and animal poisons,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,5,Indian gaming compact,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,6,Prohibition on slaughter of horses,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,7,Tax credits for air quality improvements,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,8,Public schools class size parent teacher councils,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,9,Stops use of rate payers funds for electricity restructuring,1,,0.92
+CA,Salinas Californian,104200,2000,CA,AMENDMENT,33,State legislators retirement plan,1,,0.92
+CA,Salinas Californian,104200,2000,CA,AMENDMENT,35,Public works projects,1,,0.92
+CA,Salinas Californian,104200,2000,CA,AMENDMENT,37,Government fees,0,,0.92
+CA,Salinas Californian,104200,2000,CA,BOND,32,Bonds for veterans homes,1,,0.92
+CA,Salinas Californian,104200,2000,CA,BOND,39,School bonds,1,,0.92
+CA,Salinas Californian,104200,2000,CA,INITIATIVE,34,Campaign contributions spending limits,1,,0.92
+CA,Salinas Californian,104200,2000,CA,INITIATIVE,36,Marijuana drug treatment,1,,0.92
+CA,Salinas Californian,104200,2000,CA,INITIATIVE,38,School vouchers,0,,0.92
+CA,Salinas Californian,104200,2000,CA,LOCAL,A,Del Monte Forest Plan,0,,0.92
+CA,Salinas Californian,104200,2002,CA,AMENDMENT,48,Cleanup constitutional language,1,,0.92
+CA,Salinas Californian,104200,2002,CA,BOND,46,$2.1 billion housing bonds,1,,0.92
+CA,Salinas Californian,104200,2002,CA,BOND,47,$13 billion school bonds,1,,0.92
+CA,Salinas Californian,104200,2002,CA,BOND,50,$3.4 billion water bonds,1,,0.92
+CA,Salinas Californian,104200,2002,CA,INITIATIVE,49,Earmarks dollars for after-school programs,0,,0.92
+CA,Salinas Californian,104200,2002,CA,INITIATIVE,51,Earmarks dollars for transportation environmental,0,,0.92
+CA,Salinas Californian,104200,2002,CA,INITIATIVE,52,Same day voter registration,1,,0.92
+CA,Salinas Californian,104200,2002,CA,LOCAL,D,Spreckels school bond,1,,0.92
+CA,Salinas Californian,104200,2002,CA,LOCAL,E,North Monterey County school bond,1,,0.92
+CA,Salinas Californian,104200,2004,CA,AMENDMENT,1A,Protection of local government revenues,1,,0.92
+CA,Salinas Californian,104200,2004,CA,AMENDMENT,59,Ensures access to public records open government,1,,0.92
+CA,Salinas Californian,104200,2004,CA,AMENDMENT,60,Election rights of Political Parties,1,,0.92
+CA,Salinas Californian,104200,2004,CA,AMENDMENT,60A,Sale of state surplus property,1,,0.92
+CA,Salinas Californian,104200,2004,CA,BOND,61,Childrens hospital bonds,1,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,62,Elections and primaries constitutional amendment,0,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,63,Tax on personal incomes above $1M for mental health,0,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,64,Limits on Private Enforcement of Unfair Business,0,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,65,Protection of local government revenues (alt),0,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,66,Limitations on the three strikes law,0,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,67,Telephone tax to fund emergency room services,0,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,68,Expansion of non-tribal commercial gambling,0,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,69,Expansion of DNA database,0,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,70,Exclusive gaming rights,0,,0.92
+CA,Salinas Californian,104200,2004,CA,INITIATIVE,71,State funding for stem-cell research,0,,0.92
+CA,Salinas Californian,104200,2006,CA,AMENDMENT,1A,Protects transportation funding,1,,0.92
+CA,Salinas Californian,104200,2006,CA,BOND,1B,Transportation bond,1,,0.92
+CA,Salinas Californian,104200,2006,CA,BOND,1C,Housing developments programs,1,,0.92
+CA,Salinas Californian,104200,2006,CA,BOND,1D,Public school construction bond,0,,0.92
+CA,Salinas Californian,104200,2006,CA,BOND,1E,Flood prevention disaster preparedness,1,,0.92
+CA,Salinas Californian,104200,2006,CA,BOND,84,Water quality state resources protection,1,,0.92
+CA,Salinas Californian,104200,2006,CA,INITIATIVE,83,Monitoring of sex offenders (Jessicas Law),0,,0.92
+CA,Salinas Californian,104200,2006,CA,INITIATIVE,85,Parental notification before abortion,0,,0.92
+CA,Salinas Californian,104200,2006,CA,INITIATIVE,86,Cigarette tax to fund health services,1,,0.92
+CA,Salinas Californian,104200,2006,CA,INITIATIVE,87,Oil tax for alternative energy programs,1,,0.92
+CA,Salinas Californian,104200,2006,CA,INITIATIVE,88,Real estate tax for K-12 school programs,0,,0.92
+CA,Salinas Californian,104200,2006,CA,INITIATIVE,89,Public financing of political campaigns,1,,0.92
+CA,Salinas Californian,104200,2006,CA,INITIATIVE,90,Eminent-domain protection proposal,0,,0.92
+CA,Salinas Californian,104200,2006,CA,LOCAL,A,Alisal Union School District bond,1,,0.92
+CA,Salinas Californian,104200,2006,CA,LOCAL,C,Santa Rita Union School District bond,1,,0.92
+CA,Salinas Californian,104200,2008,CA,AMENDMENT,8,Ban on same-sex marriage,0,,0.92
+CA,Salinas Californian,104200,2008,CA,AMENDMENT,9,Victims rights,0,,0.92
+CA,Salinas Californian,104200,2008,CA,BOND,1A,High-speed passenger train bond,0,,0.92
+CA,Salinas Californian,104200,2008,CA,BOND,3,Children's hospitals,0,,0.92
+CA,Salinas Californian,104200,2008,CA,INITIATIVE,10,Alternative fuel vehicles bond,0,,0.92
+CA,Salinas Californian,104200,2008,CA,INITIATIVE,2,Animal confinement standards,0,,0.92
+CA,Salinas Californian,104200,2008,CA,INITIATIVE,5,Sentencing changes for nonviolent drug offenses,0,,0.92
+CA,Salinas Californian,104200,2008,CA,INITIATIVE,6,Law enforcement funding,0,,0.92
+CA,Salinas Californian,104200,2008,CA,INITIATIVE,7,Solar and renewable energy,0,,0.92
+CA,Salinas Californian,104200,2008,CA,LOCAL,Z,Monterey County transportation tax,1,,0.92
+CA,Salinas Californian,104200,2010,CA,INITIATIVE,19,Legalize marijuana,0,,0.92
+CA,Salinas Californian,104200,2010,CA,INITIATIVE,20,Redistricting,1,,0.92
+CA,Salinas Californian,104200,2010,CA,INITIATIVE,21,State parks fee,0,,0.92
+CA,Salinas Californian,104200,2010,CA,INITIATIVE,22,Blocks raids on local revenues,1,,0.92
+CA,Salinas Californian,104200,2010,CA,INITIATIVE,23,Rejects delay of pollution laws,0,,0.92
+CA,Salinas Californian,104200,2010,CA,INITIATIVE,24,Rejects repeal of business breaks,0,,0.92
+CA,Salinas Californian,104200,2010,CA,INITIATIVE,25,Majority vote on state budget,1,,0.92
+CA,Salinas Californian,104200,2010,CA,INITIATIVE,26,Environmental impact fees,0,,0.92
+CA,Salinas Californian,104200,2010,CA,INITIATIVE,27,Redistricting alt,0,,0.92

@@ -1,0 +1,39 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Seattle Times
+Newspaper ID: 149050
+State: WA
+Number of clippings: 453
+Endorsement data years: 1962-2018
+Total candidate endorsements: 1476
+Total proposition endorsements: 301
+
+Confidence statistics:
+  Mean confidence: 0.836
+  Low-confidence records (< 0.7): 275
+
+Top offices (top 15):
+  STATE REP: 713
+  H: 207
+  STATE SENATOR: 199
+  JUDGE: 53
+  SUPREME COURT: 34
+  CITY COUNCIL: 21
+  SENATOR: 20
+  TREASURER: 18
+  ATTORNEY GENERAL: 17
+  AUDITOR: 17
+  CNTY COMM: 17
+  GOVERNOR: 17
+  LT GOVERNOR: 17
+  PRESIDENT: 17
+  INSURANCE COMMISSIONER: 16
+
+Party distribution:
+  Democrat: 702
+  Republican: 549
+  Nonpartisan: 73
+  Independent: 4
+  Libertarian: 3
+  Green: 1

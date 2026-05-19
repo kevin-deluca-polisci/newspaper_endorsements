@@ -1,0 +1,42 @@
+Newspaper: Merced Sun Star
+Newspaper ID: 103100
+State: CA (Merced County, California)
+Processing Date: 2026-05-11
+
+Clippings: 162 (after dedup)
+Date range: 1966 - 2022
+Source: newspapers.com
+
+Candidate endorsements: 222
+  Endorsed: 176
+  Opposed: 46
+  Mean confidence: 0.929
+  Low-confidence records (<0.7): 0
+
+Proposition endorsements: 394
+  Endorsed: 221
+  Opposed: 173
+  Mean confidence: 0.930
+  Low-confidence records (<0.7): 0
+
+Process notes:
+- Hashed raw files and deduplicated exact byte duplicates
+- 162 unique Merced Sun Star content clippings (after removing 34 misfiled non-Merced clippings)
+- OCR'd each PDF via pdftoppm + tesseract
+- Per user instruction, extraction performed directly by Claude (no subagents) for careful endorsement identification
+- Read each text file myself and identified endorsements
+- Wrote per-clipping JSON files documenting candidates and propositions endorsed
+- Office normalization applied for CA-specific codes (STATE REP for Assembly, CNTY COMM for County Supervisor)
+
+Coverage notes:
+- Strong coverage of major election cycles 1966-2014
+- Notable presidential endorsements: Nixon (1968, 1972), Ford (1976), Reagan (1980), Bush 41 (1988), Clinton (1992), Ford then Carter dropped, Bush W (no), Kerry (2004), Obama (2008), Clinton (2016)
+- Local Merced County coverage: county supervisors, sheriffs, school trustees
+- State Assembly/Senate: covered Sisk (D) 1966-1976, Coelho (D) 1978+, Condit, Cardoza, Matthews, Gray
+- Proposition coverage: extensive coverage including Prop 13 era, Prop 187, Three Strikes (Prop 184), and recent measures
+- Some 1980s-2000s clippings have OCR challenges due to poor scan quality
+
+Misfiled clippings:
+- 34 non-Merced clippings discovered in raw folder (28 Arizona Daily Star, 4 Sacramento/Fresno Bee, 1 Tucson Citizen, 1 empty)
+- Moved to misfiled/ subfolder in raw folder
+- These are flagged for routing to correct newspapers in subsequent processing

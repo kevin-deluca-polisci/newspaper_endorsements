@@ -1,0 +1,38 @@
+Newspaper Name: NASHVILLEBANNER
+Alternative Names: REVIEW
+Years Published: REVIEW
+Newspaper ID number: 144450
+Number of clippings: 37
+Endorsement data years: 1916, 1918, 1920, 1922, 1924, 1926, 1928, 1932, 1940, 1942, 1952, 1956, 1958
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 61
+  Endorsed (=1): 50
+  Opposed (=0): 11
+  No position (null): 0
+Total proposition records: 5
+  Endorsed (=1): 5
+  Opposed (=0): 0
+
+--- DATA QUALITY ---
+Flagged for review: 9 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 3
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.50
+Mean: 0.88
+Max: 0.97
+Below threshold (0.75): 9
+
+--- REVIEW QUEUE ---
+  [no_endorsements] 144450_19181103: No endorsements detected
+  [no_endorsements] 144450_19181104: No endorsements detected
+  [no_endorsements] 144450_19181105: No endorsements detected
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-13 23:51:57

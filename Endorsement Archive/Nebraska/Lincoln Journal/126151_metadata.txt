@@ -1,0 +1,38 @@
+Newspaper Name: Lincoln Journal
+Alternative Names: Lincoln Evening Journal, Nebraska State Journal
+Years Published: 1867-1995 (merged with Lincoln Star in 1995 to form Lincoln Journal Star)
+Newspaper ID number: 126151
+Number of clippings: 19
+Endorsement data years: 1952, 1956, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 405
+  Endorsed (=1): 389
+  Opposed (=0): 2
+  No position (null): 14
+Total proposition records: 178
+  Endorsed (=1): 114
+  Opposed (=0): 61
+  No position (null): 3
+
+--- DATA QUALITY ---
+Flagged for review: 14 candidates, 2 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 1
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.80
+Mean: 0.91
+Max: 0.98
+Below threshold (0.75): 0
+
+--- REVIEW QUEUE ---
+  [no_endorsements] Lincoln_Journal_1994_Amendments.pdf: EDITORIAL COMMENTARY ONLY -- NOV 8, 1994 PIECE 'AMENDMENTS: DEADLINES ARE FOR EVERYONE' DISCUSSES THE NEBRASKA SUPREME COURT'S DECISION TO REMOVE FIVE CONSTITUTIONAL AMENDMENTS FROM THE BALLOT BECAUSE THE LEGISLATURE MISSED A FILING DEADLINE. THE JOURNAL SIDES WITH THE COURT'S RULING BUT DOES NOT ENDORSE OR OPPOSE THE AMENDMENTS THEMSELVES. THE COMPANION 'SUPER FARMS: PIGGING OUT' EDITORIAL DEFENDS INITIATIVE 300 (ALREADY PASSED IN 1982) AS A POLICY FRAMEWORK BUT I-300 WAS NOT ON THE 1994 BALLOT.
+
+--- NOTES ---
+QA completed 2026-04-21: PASS WITH FIXES. state_newspaper normalized to 2-letter code (405+177 rows); incumbency flags corrected on 21 records from 1982; 1 missing 1962 proposition added (Amendment 6, 'Merit Plan'); 7 RA-coded rows from Will P. xlsx included (pre-1960 presidents + gap fillers). See QA_REPORT.md for full audit trail.
+
+Compiled: 2026-04-21 15:22:10
+QA: 2026-04-21

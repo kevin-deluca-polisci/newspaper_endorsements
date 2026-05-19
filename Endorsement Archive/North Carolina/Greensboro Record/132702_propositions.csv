@@ -1,0 +1,33 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+NC,Greensboro Record,132702,1950,NC,,,Constitutional amendment on waiver of indictment in felony cases (allow defendant represented by counsel to waive grand jury indictment),,,
+NC,Greensboro Record,132702,1950,NC,,,Constitutional amendment to safeguard the funds of the Teachers' and State Employees' Retirement System,,,
+NC,Greensboro Record,132702,1950,NC,,,Constitutional amendment to permit election of more than one resident Superior Court judge per judicial district (Additional Superior Court judges),,,
+NC,Greensboro Record,132702,1950,NC,,,Constitutional amendment on assignment and jurisdiction of Superior Court judges (transferring authority to assign judges from Chief Justice to Governor; giving General Assembly authority to define jurisdiction of special and emergency Superior Court judges),,,
+NC,Greensboro Record,132702,1952,NC,,,Constitutional Amendment No. 1: Raise the limitation on county property tax levy for general operating costs from 15 cents to 20 cents on the $100 property valuation,,,
+NC,Greensboro Record,132702,1952,NC,,,Constitutional Amendment II: Change method of filling vacancies in the General Assembly from special election to appointment by the Governor (from candidates recommended by local executive committee of the party with which the deceased or resigned legislator was affiliated),,,
+NC,Greensboro Record,132702,1952,NC,,,"Constitutional Amendment III: Method of filling vacancies in certain state offices (Supreme Court justices, Superior Court judges, and district solicitors); appointees to hold office until next General Assembly election held more than 30 days after vacancy occurs",,,
+NC,Greensboro Record,132702,1954,NC,,,Fluoridation of water supply referendum (Greensboro/local),,,
+NC,Greensboro Record,132702,1956,NC,,,"Greensboro $3,500,000 bond issue for memorial auditorium",,,
+NC,Greensboro Record,132702,1958,NC,,,Constitutional amendment to increase the jurisdiction of justices of the peace,,,
+NC,Greensboro Record,132702,1960,NC,,,"Greensboro $7,250,000 municipal bond program (including ~$1,800,000 library, ~$3,500,000 streets, ~$775,000 fire department, ~$660,000 market expansion/modernization, $150,000 warehouse)",,,
+NC,Greensboro Record,132702,1960,NC,,,"Greensboro $7,350,000 municipal bond issue (including new library, $4,000,000 street improvement bond, new city yard and curb market)",,,
+NC,Greensboro Record,132702,1962,NC,,,Constitutional amendment to guarantee reapportionment of the state House of Representatives after each decennial U.S. census (each county still gets at least one representative; House speaker required to apply formula if House fails to act),,,
+NC,Greensboro Record,132702,1962,NC,,,"Constitutional amendment for judicial reform creating a uniform court system (eliminate fee system for magistrates and inferior court officials, put them on salary basis)",,,
+NC,Greensboro Record,132702,1962,NC,,,Constitutional amendment for court reform plan (referenced as 'much-needed court reform plan'),,,
+NC,Greensboro Record,132702,1964,NC,,,"$10,000,000 school construction bond issue",1,Urged voters to approve school bonds,0.95
+NC,Greensboro Record,132702,1964,NC,,,State school bond issue ($100 million),1,Editorial 'For The Bonds' urges approval of state school bond issue,0.95
+NC,Greensboro Record,132702,1970,NC,,,Executive reorganization constitutional amendment (consolidating state agencies from 200+ into 25),1,Editorial 'Revamping State Government' supports passage; argues reform needed even if higher education provisions need adjustment,0.90
+NC,Greensboro Record,132702,1970,NC,,,"Greensboro $18 million bond issue (streets, water, sewer, recreation, fire stations)",1,Editorial 'Expensive Necessities Argue For Bond Issue' urges approval; calls bond issue essential,0.95
+NC,Greensboro Record,132702,1970,NC,,,Seven NC state constitutional amendments (including executive reorganization),1,Editorial 'The Amendment[s]' urges approval of all seven amendments,0.95
+NC,Greensboro Record,132702,1970,NC,,,"Greensboro city bond issue (water/sewer, streets, fire stations, recreation)",1,Editorial 'For The City Bonds' urges voter approval; bonds are best means of providing municipal necessities,0.95
+NC,Greensboro Record,132702,1972,NC,,,Direct election of Greensboro mayor,1,Editorial 'A City Bird In Hand' advocates yes vote,0.95
+NC,Greensboro Record,132702,1972,NC,,,"Constitutional amendment reducing voting age to 18, keeping office-holding age at 21",0,Deceptively worded; deserves rejection by voters,0.95
+NC,Greensboro Record,132702,1972,NC,,,Constitutional amendment allowing General Assembly to set judicial retirement ages,1,Provision for judicial retirement is overdue; deserves approval,0.95
+NC,Greensboro Record,132702,1972,NC,,,Constitutional amendment creating judicial standards commission,1,State might safely make a trial of it without damaging judicial independence,0.65
+NC,Greensboro Record,132702,1972,NC,,,Environmental conservation constitutional amendment,1,Already endorsed on this page; deserves endorsement of voters,0.95
+NC,Greensboro Record,132702,1972,NC,,,Constitutional amendment limiting incorporation of cities and towns near existing urban areas,1,Should be approved as another form of state's protection of environment,0.95
+NC,Greensboro Record,132702,1974,NC,,,Constitutional Amendment No. 2 - validating industrial revenue bonds,0,"Editorial 'A dual violation' urges rejection; deceptive language, fiscal risks, would be state socialism for private capital",0.95
+NC,Greensboro Record,132702,1974,NC,,,Constitutional Amendment No. 1 - changing name of solicitor to district attorney,1,Change is non-essential but will do no harm,0.85
+NC,Greensboro Record,132702,1974,NC,,,Constitutional Amendment No. 2 - industrial revenue bonds,0,Newspaper has opposed the bonds as unnecessary and as a dodge to get around adverse court rulings,0.95
+NC,Greensboro Record,132702,1982,NC,,,Constitutional amendment changing date legislators take office to January 1,0,Editorial 'Amendments 1 & 2: Maybe' is skeptical; offers change for sake of change,0.70
+NC,Greensboro Record,132702,1982,NC,,,Constitutional amendment allowing tax increment financing by city governments,0,Has potential to create more problems than it remedies; that is no recommendation for it,0.85

@@ -1,0 +1,64 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+IN,Indianapolis News,113651,1960,GOVERNOR,,,IN,"PARKER, CRAWFORD F.",Republican,1,,,,By far the better; supports without reservation,0.96
+IN,Indianapolis News,113651,1960,GOVERNOR,,,IN,"WELSH, MATTHEW E.",Democrat,0,,,,Voted for 2c gas tax increase; trying to gloss over,0.94
+IN,Indianapolis News,113651,1960,H,,,IN,"BARR, JOSEPH",Democrat,0,1,,,Gold Rush editorial criticizing Barr Democratic congressman,0.92
+IN,Indianapolis News,113651,1960,H,,,IN,"BRUCE, DONALD",Republican,1,,,,Conviction strength understanding - opportunity for voters,0.95
+IN,Indianapolis News,113651,1960,JUDGE,,Marion County Juvenile Court,IN,"FIELDS, HAROLD N.",Republican,1,,,1,Citizens Bipartisan Committee recommended; News concurs,0.93
+IN,Indianapolis News,113651,1960,LT GOVERNOR,,,IN,"RISTINE, RICHARD",Republican,1,,,,Effective in countering Democratic propaganda,0.94
+IN,Indianapolis News,113651,1960,PRESIDENT,,,IN,"KENNEDY, JOHN F.",Democrat,0,,,,Strong contrast on Quemoy/Matsu policies - Kennedy soft,0.90
+IN,Indianapolis News,113651,1960,PRESIDENT,,,IN,"NIXON, RICHARD M.",Republican,1,,,,News throws hat into ring; strategy of peace; challenge of sixties,0.96
+IN,Indianapolis News,113651,1960,SUPREME COURT,,,IN,"ACHOR, HAROLD E.",Republican,1,,,1,Wide experience; constructive attitude; recommend re-election,0.95
+IN,Indianapolis News,113651,1960,TREASURER,,,IN,"HUGHES, ROBERT",Republican,1,,,,Yeoman job selling Republican story of freedom,0.93
+IN,Indianapolis News,113651,1962,H,,,IN,"BRUCE, DONALD",Republican,1,,1,,He Kept His Word - critical election editorial,0.93
+IN,Indianapolis News,113651,1962,JUDGE,,Marion County Circuit Court,IN,"NIBLACK, JOHN L.",Republican,1,,,1,Distinguished 65; arch-enemy of political buncombe,0.94
+IN,Indianapolis News,113651,1962,TREASURER,,,IN,"HUGHES, ROBERT",Republican,1,,,1,Day of Decision; correctly characterized free market vs Communism,0.93
+IN,Indianapolis News,113651,1964,H,,,IN,"TABBERT, DON A.",Republican,1,,,,Major issue is security - against Communist aggression and big government,0.93
+IN,Indianapolis News,113651,1964,H,11,,IN,"TABBERT, DON A.",Republican,1,,,,Forthright conservative principles; limited government,0.94
+IN,Indianapolis News,113651,1964,PRESIDENT,,,IN,"GOLDWATER, BARRY",Republican,1,,,,Peace through strength; standing firm against Communism,0.96
+IN,Indianapolis News,113651,1964,PRESIDENT,,,IN,"JOHNSON, LYNDON",Democrat,0,1,,,Opposed; liberal smear campaign against Goldwater,0.94
+IN,Indianapolis News,113651,1964,STATE SENATOR,,Marion County,IN,"BURNETT, MARTHA",Republican,1,,,,Pledged economy in government,0.90
+IN,Indianapolis News,113651,1964,STATE SENATOR,,Marion County,IN,"CHAPPELL, ROBERT S.",Republican,1,,,,Pledged economy in government,0.90
+IN,Indianapolis News,113651,1964,STATE SENATOR,,Marion County,IN,"CLAYCOMBE, ROBERT A.",Republican,1,,,,Pledged economy in government,0.90
+IN,Indianapolis News,113651,1964,STATE SENATOR,,Marion County,IN,"HILL, W. W.",Republican,1,,,,Pledged economy in government,0.90
+IN,Indianapolis News,113651,1964,STATE SENATOR,,Marion County,IN,"TOWNSEND, J. RUSSELL",Republican,1,,,,Pledged economy in government,0.90
+IN,Indianapolis News,113651,1964,STATE SENATOR,,Marion County,IN,"WILDHACK, WILLIAM A. JR.",Republican,1,,,,Pledged economy in government,0.90
+IN,Indianapolis News,113651,1966,H,10,,IN,"ROUDEBUSH, RICHARD L.",Republican,1,,1,,Outstanding legislator; ADA zero rating; watchdog against waste,0.95
+IN,Indianapolis News,113651,1966,H,10,,IN,"STATON, ROBERT H.",Democrat,0,,,,Opponent of Roudebush,0.85
+IN,Indianapolis News,113651,1966,H,11,,IN,"JACOBS, ANDREW JR.",Democrat,0,1,,,ADA 92% pro-spending; ACA 4% anti-spending - lowest in state,0.94
+IN,Indianapolis News,113651,1966,H,11,,IN,"OAKES, PAUL R.",Republican,1,,,,Hard-hitting campaign on cutting deficits,0.92
+IN,Indianapolis News,113651,1966,H,6,,IN,"BRAY, WILLIAM G.",Republican,1,,1,,Outstanding legislator; ACA 100%; top-ranking Armed Services,0.95
+IN,Indianapolis News,113651,1966,H,6,,IN,"NICHOLSON, JAMES M.",Democrat,0,,,,Opponent of Bray,0.85
+IN,Indianapolis News,113651,1966,SUPERINTENDENT,,,IN,"WELLS, RICHARD D.",Republican,1,,,,Stop defaulting to Washington bureaucrats; State Superintendent,0.93
+IN,Indianapolis News,113651,1968,GOVERNOR,,,IN,"WHITCOMB, EDGAR D.",Republican,1,,,,Energetic campaign; lid on taxes; firm against crime,0.96
+IN,Indianapolis News,113651,1968,H,11,,IN,"HILL, W. W. JR.",Republican,1,,,,Opposition to aiding enemies; resistance to urban renewal,0.94
+IN,Indianapolis News,113651,1970,H,,,IN,"DENNIS, DAVID W.",Republican,1,,1,,Dennis Is Right; opposed pork barrel water/sewer projects,0.93
+IN,Indianapolis News,113651,1970,H,11,,IN,"BURTON, DAN",Republican,1,,,,Effective campaign; busing radical disruption law and order,0.94
+IN,Indianapolis News,113651,1970,H,11,,IN,"JACOBS, ANDREW JR.",Democrat,0,1,,,Burton challenger,0.88
+IN,Indianapolis News,113651,1970,SENATOR,,,IN,"HARTKE, VANCE",Democrat,0,1,,,Super-Spender; voted for inflation; rising prices,0.93
+IN,Indianapolis News,113651,1970,SENATOR,,,IN,"ROUDEBUSH, RICHARD",Republican,1,,,,Were For Rowdy; strong national defense; economy in government,0.95
+IN,Indianapolis News,113651,1972,GOVERNOR,,,IN,"BOWEN, OTIS",Republican,1,,,,For The State; Bowens view more prudent on most issues,0.94
+IN,Indianapolis News,113651,1972,GOVERNOR,,,IN,"WELSH, MATTHEW",Democrat,0,,,,Bowen preferred,0.88
+IN,Indianapolis News,113651,1972,PRESIDENT,,,IN,"MCGOVERN, GEORGE",Democrat,0,,,,Too radical too vacillating; cut-and-run on foreign policy,0.94
+IN,Indianapolis News,113651,1972,PRESIDENT,,,IN,"NIXON, RICHARD",Republican,1,,1,,For The Nation; on nearly every major issue Nixon has better argument,0.96
+IN,Indianapolis News,113651,1974,H,11,,IN,"HUDNUT, WILLIAM",Republican,1,,1,,Former minister exudes honesty; conservative voting record,0.95
+IN,Indianapolis News,113651,1974,H,11,,IN,"JACOBS, ANDREW JR.",Democrat,0,,,,Liberal ideology poorly suited,0.88
+IN,Indianapolis News,113651,1974,H,6,,IN,"BRAY, WILLIAM G.",Republican,1,,1,,12 consecutive terms; champion of economy; ranking minority member,0.95
+IN,Indianapolis News,113651,1974,SEC OF STATE,,,IN,"CONRAD, LARRY A.",Democrat,0,1,,,Vote Conrad Out; unfit for office; investigation by State Board of Accounts,0.95
+IN,Indianapolis News,113651,1974,SENATOR,,,IN,"BAYH, BIRCH",Democrat,0,1,,,Chronic absenteeism in Senate,0.94
+IN,Indianapolis News,113651,1974,SENATOR,,,IN,"LUGAR, RICHARD",Republican,1,,,,Articulate intelligent; experienced administrator; less centralized govt,0.96
+IN,Indianapolis News,113651,1976,GOVERNOR,,,IN,"BOWEN, OTIS",Republican,1,,1,,1976 Governor endorsement,0.85
+IN,Indianapolis News,113651,1976,PRESIDENT,,,IN,"FORD, GERALD",Republican,1,,1,,News editorial supporting Ford,0.85
+IN,Indianapolis News,113651,1976,SENATOR,,,IN,"LUGAR, RICHARD",Republican,1,,,,1976 US Senate endorsement,0.85
+IN,Indianapolis News,113651,1980,GOVERNOR,,,IN,"HILLENBRAND, JOHN",Democrat,0,,,,Competent and honorable but Orr preferred,0.88
+IN,Indianapolis News,113651,1980,GOVERNOR,,,IN,"ORR, ROBERT",Republican,1,,,,And the governorship - News gives Orr nod for continuity,0.94
+IN,Indianapolis News,113651,1980,H,11,,IN,"HUDNUT, ?",Republican,1,,1,,The different Congressman - frugal selective; selective campaign funds,0.85
+IN,Indianapolis News,113651,1980,PRESIDENT,,,IN,"CARTER, JIMMY",Democrat,0,1,,,Economic issue - inflation; prices climbing,0.92
+IN,Indianapolis News,113651,1980,SENATOR,,,IN,"BAYH, BIRCH",Democrat,0,1,,,Eager advocate of centralized Federalism,0.94
+IN,Indianapolis News,113651,1980,SENATOR,,,IN,"QUAYLE, DAN",Republican,1,,,,18 years as senator is enough for Bayh; Quayle new leadership,0.95
+IN,Indianapolis News,113651,1984,GOVERNOR,,,IN,"ORR, ROBERT",Republican,1,,1,,Implicit support,0.85
+IN,Indianapolis News,113651,1984,PRESIDENT,,,IN,"REAGAN, RONALD",Republican,1,,1,,Implicit support - editorial about full ballot consideration,0.85
+IN,Indianapolis News,113651,1988,GOVERNOR,,,IN,"BAYH, EVAN",Democrat,0,,,,22 months SOS experience; vague proposals,0.92
+IN,Indianapolis News,113651,1988,GOVERNOR,,,IN,"MUTZ, JOHN",Republican,1,,1,,Lt Gov 20-year record of public service; specific proposals,0.94
+IN,Indianapolis News,113651,1988,SENATOR,,,IN,"LUGAR, RICHARD",Republican,1,,1,,Lugar and excellence; gifted experienced public servant,0.96
+IN,Indianapolis News,113651,1988,SENATOR,,,IN,"WICKES, JACK",Democrat,0,,,,Decent well-spoken first-time candidate,0.85
+IN,Indianapolis News,113651,1988,SUPREME COURT,,,IN,"SHEPARD, RANDALL T.",,1,,,1,Defense against Pivarnik smear; supports retention,0.93

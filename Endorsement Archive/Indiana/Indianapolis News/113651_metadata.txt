@@ -1,0 +1,45 @@
+Newspaper Name: Indianapolis News
+Newspaper ID: 113651
+State: IN (Indianapolis, Marion County, Indiana)
+Processing Date: 2026-05-14
+
+Clippings: 56 (after dedup + reroute of misfiled Star clippings)
+Date range: 1960 - 1990
+Source: newspapers.com
+
+Candidate endorsements: 63 (44 endorsed, 19 opposed)
+Proposition endorsements: 12 (3 endorsed, 9 opposed)
+Mean confidence: 0.92
+
+Process notes:
+- Hashed 379 raw files from multiple sources; deduplicated to 84 unique
+- Identified actual paper for each clipping via OCR header inspection
+- Rerouted 27 misfiled Star content files from News folder to Star folder
+- Removed 1 corrupt PDF (113651_1960MMDD_v7.pdf)
+- Final: 56 actual News clippings with proper dates
+- Per user instruction, extraction performed directly by Claude (no subagents)
+
+Coverage notes:
+- Indianapolis News was the afternoon paper of Indianapolis (defunct 1999)
+- Owned by Eugene C. Pulliam family; strongly Republican-leaning
+- Strong conservative editorial voice
+- Endorsement coverage:
+  - 1960: Nixon for President; Crawford Parker (R) for Governor; Bruce for Congress; Achor for Supreme Court; Niblack judge; against Joe Barr (D)
+  - 1962: Hughes for Treasurer
+  - 1964: Goldwater for President; Tabbert for Congress; 6 R state senators
+  - 1966: Wells for State Supt; Roudebush/Bray/Oakes for Congress
+  - 1968: Whitcomb for Governor; Hill for 11th District; NO on pari-mutuel
+  - 1970: Roudebush over Hartke for Senate; Burton over Jacobs; Dennis for House
+  - 1972: Nixon; Bowen for Governor; pocket veto reform yes
+  - 1974: Bray for 6th; Hudnut over Jacobs for 11th; Lugar over Bayh for Senate; Conrad out
+  - 1976: Ford for President; Lugar for Senate; Bowen for Governor (inferred)
+  - 1978: No on amendments
+  - 1980: Reagan implied; Orr for Governor; Quayle over Bayh for Senate
+  - 1986: No on retirement fund/school fund amendments
+  - 1988: Mutz for Governor; Lugar for Senate; Shepard retention; No on lottery; No on Prop 3
+  - 1990: No on Amendment 2
+
+OCR notes:
+- 1976 clips had degraded OCR despite re-OCR - inferred endorsements from clip titles and Republican-leaning pattern
+- Most other files had clear OCR
+- 27 clippings were misfiled Star content - rerouted to Star folder

@@ -1,0 +1,34 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: PITTSBURGH PRESS
+Newspaper ID: 400071
+State: PA
+Number of clippings: 51
+Endorsement data years: 1940-1972
+Total candidate endorsements: 220
+Total proposition endorsements: 6
+
+Confidence statistics:
+  Mean confidence: 0.921
+  Low-confidence records (< 0.7): 2
+
+Top offices (top 15):
+  STATE REP: 119
+  H: 31
+  PRESIDENT: 17
+  STATE SENATOR: 13
+  COURT OF APPEALS: 12
+  GOVERNOR: 7
+  SENATOR: 7
+  AUDITOR: 4
+  SUPREME COURT: 4
+  TREASURER: 3
+  LT GOVERNOR: 1
+  SEC OF STATE: 1
+  VICE PRESIDENT: 1
+
+Party distribution:
+  Republican: 123
+  Democrat: 93
+  American Independent: 1

@@ -1,0 +1,29 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Atlanta Journal
+Newspaper ID: 109052
+State: GA
+Number of clippings: 1
+Endorsement data years: 1968-1968
+Total candidate endorsements: 40
+Total proposition endorsements: 26
+
+Confidence statistics:
+  Mean confidence: 0.930
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 23
+  STATE SENATOR: 7
+  CNTY COMM: 3
+  H: 2
+  SCHOOL BOARD: 2
+  PRESIDENT: 1
+  SENATOR: 1
+  VICE PRESIDENT: 1
+
+Party distribution:
+  Democrat: 30
+  Republican: 7
+  Independent: 1

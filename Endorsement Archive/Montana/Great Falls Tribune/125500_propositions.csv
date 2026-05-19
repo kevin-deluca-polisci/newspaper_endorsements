@@ -1,0 +1,76 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+MT,Great Falls Tribune,125500,1952,MT,INITIATIVE,55,Initiative No. 55 — additional gas tax revenues to match federal aid for highway construction,1,Initiative 55 is nonpartisan; designed to meet state deficit in matching federal highway aid,0.95
+MT,Great Falls Tribune,125500,1964,MT,AMENDMENT,,Constitutional amendment to equalize judges' salaries — allowing legislature to equalize salaries of Supreme Court and District Court judges during their term,1,'Constitutional Amendment Deserves Montana Approval' editorial — endorses YES on judicial salary equalization,0.97
+MT,Great Falls Tribune,125500,1966,MT,AMENDMENT,,Continuity of Government Amendment — allows legislature to continue government during enemy attack emergencies,1,'Tribune supports the amendment and urges Montana voters to approve it',0.97
+MT,Great Falls Tribune,125500,1966,MT,REFERENDUM,64,Continue three-cent-per-package cigarette tax (Referendum 64) to finance state buildings,1,Tribune supports despite reservations — state building funds urgently needed,0.95
+MT,Great Falls Tribune,125500,1968,MT,AMENDMENT,1,Allow legislature to raise pay of public officials during terms,1,Yes on all 3 amendments,0.97
+MT,Great Falls Tribune,125500,1968,MT,AMENDMENT,2,Extend legislative session 60 to 80 days,1,Yes,0.97
+MT,Great Falls Tribune,125500,1968,MT,AMENDMENT,3,Allow up to 6 amendments per election rather than 3,1,Yes,0.97
+MT,Great Falls Tribune,125500,1968,MT,INITIATIVE,66,Initiative 66 reduce personal property tax assessments to 1pct,0,We Recommend No on Initiative 66,0.95
+MT,Great Falls Tribune,125500,1968,MT,INITIATIVE,66,Initiative 66 - reduce personal property tax assessments,0,No,0.97
+MT,Great Falls Tribune,125500,1968,MT,REFERENDUM,65,Referendum 65,1,Yes,0.93
+MT,Great Falls Tribune,125500,1970,MT,AMENDMENT,,Executive Reorganization - reduce 161 bureaus to 20 departments,1,20 is plenty - vote yes,0.96
+MT,Great Falls Tribune,125500,1970,MT,AMENDMENT,,Allow Legislature to submit more than 3 amendments at general election,1,Yes on multiple amendments,0.95
+MT,Great Falls Tribune,125500,1970,MT,AMENDMENT,,19-year-old voting amendment,1,Yes on 19-year-old vote,0.96
+MT,Great Falls Tribune,125500,1970,MT,REFERENDUM,67,Call state constitutional convention to rewrite 1889 constitution,1,Tribune enthusiastically endorses,0.97
+MT,Great Falls Tribune,125500,1976,MT,AMENDMENT,3,Constitutional Amendment No. 3 - coal trust fund,1,Recap - For,0.93
+MT,Great Falls Tribune,125500,1976,MT,BOND,,Cascade County Multi-Purpose Building bond,1,Recap - For,0.95
+MT,Great Falls Tribune,125500,1976,MT,BOND,,Great Falls High School District A bond election,1,Recap - For,0.93
+MT,Great Falls Tribune,125500,1976,MT,CHARTER,,City of Great Falls - retain existing commission form of government,1,Retain city commission - voted 4-1 in 1973,0.95
+MT,Great Falls Tribune,125500,1976,MT,CHARTER,,Cascade County - adopt Charter Commission-Executive Form of government,1,Recap - For,0.93
+MT,Great Falls Tribune,125500,1976,MT,CHARTER,,City of Great Falls - retain existing form of government,1,Recap - For,0.93
+MT,Great Falls Tribune,125500,1976,MT,CHARTER,,GF Sub-option 1 - appointed City Manager,1,Recap - For,0.90
+MT,Great Falls Tribune,125500,1976,MT,CHARTER,,GF Sub-option 2 - conducted on non-partisan basis,1,Recap - For,0.90
+MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,7,Constitutional Initiative Amendment No. 7,0,Recap - Against,0.90
+MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,71,Nuclear Facilities Act - would ban nuclear plant construction,0,Resounding No vote,0.97
+MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,71,Initiative No. 71 - Nuclear Facilities Act,0,Recap - Against,0.97
+MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,72,Income tax reduction proposal - encourages more rhetoric than serious tax reform,0,Initiative 72 not endorsed,0.90
+MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,72,Initiative No. 72 - income tax reduction,0,Recap - Against,0.90
+MT,Great Falls Tribune,125500,1976,MT,REFERENDUM,70,Referendum No. 70,0,Recap - Against,0.90
+MT,Great Falls Tribune,125500,1980,MT,AMENDMENT,9,Constitutional Amendment 9 - Judicial Standards Commission,1,Yes,0.95
+MT,Great Falls Tribune,125500,1980,MT,INITIATIVE,84,Initiative 84 - Radioactive waste disposal,0,No,0.95
+MT,Great Falls Tribune,125500,1980,MT,INITIATIVE,85,Initiative 85 - Lobbyist disclosure,0,No,0.93
+MT,Great Falls Tribune,125500,1980,MT,INITIATIVE,86,Initiative 86 - Tax indexing,1,Yes,0.95
+MT,Great Falls Tribune,125500,1980,MT,INITIATIVE,87,Initiative 87 - Litter control and recycling,0,No,0.93
+MT,Great Falls Tribune,125500,1982,MT,AMENDMENT,11,Constitutional Amendment 11,1,Editorial recap - YES,0.88
+MT,Great Falls Tribune,125500,1982,MT,AMENDMENT,12,Constitutional Amendment 12,0,Editorial recap - NO,0.88
+MT,Great Falls Tribune,125500,1982,MT,AMENDMENT,13,Constitutional Amendment 13,1,Editorial recap - YES,0.88
+MT,Great Falls Tribune,125500,1982,MT,INITIATIVE,91,Initiative 91,0,Editorial recap - NO,0.85
+MT,Great Falls Tribune,125500,1982,MT,INITIATIVE,92,Initiative 92,0,Editorial recap - NO,0.85
+MT,Great Falls Tribune,125500,1982,MT,INITIATIVE,93,Initiative 93,1,Editorial recap - YES,0.85
+MT,Great Falls Tribune,125500,1982,MT,INITIATIVE,94,Initiative 94,,Editorial recap - NO ENDORSEMENT,0.80
+MT,Great Falls Tribune,125500,1982,MT,REFERENDUM,88,Legislative Referendum 88,0,Editorial recap - NO,0.85
+MT,Great Falls Tribune,125500,1984,MT,AMENDMENT,13,Constitutional Amendment 13 - allow Supreme Court to censure/suspend/remove judges for ethics violations,1,Yes,0.95
+MT,Great Falls Tribune,125500,1984,MT,AMENDMENT,14,Constitutional Amendment 14 - require Districting and Apportionment Commission to complete final plan within 90 days,1,Yes,0.95
+MT,Great Falls Tribune,125500,1984,MT,INITIATIVE,96,Initiative 96 - milk decontrol,1,Yes (previously recommended),0.93
+MT,Great Falls Tribune,125500,1984,MT,INITIATIVE,97,Initiative 97 - allowing denturists to make and sell false teeth,1,Yes (previously recommended),0.93
+MT,Great Falls Tribune,125500,1986,MT,CHARTER,,Cascade County charter form of government (commission-executive form),0,Editorial board narrowly decided cannot support - too many imperfections,0.95
+MT,Great Falls Tribune,125500,1986,MT,INITIATIVE,104,Initiative 104 - deregulate retail milk prices,1,Should be approved - lower milk prices,0.95
+MT,Great Falls Tribune,125500,1986,MT,INITIATIVE,CI-27,Constitutional Initiative 27 - abolish property taxes,0,Would kill tax reform - vote against,0.96
+MT,Great Falls Tribune,125500,1986,MT,INITIATIVE,CI-30,Constitutional Initiative 30 - liability/insurance reform,1,Token step but support - Legislature should decide reforms,0.93
+MT,Great Falls Tribune,125500,1986,MT,INITIATIVE,I-105,Initiative 105 - freeze property taxes at 1986 levels,1,Tribune supports - best chance for property tax reform,0.95
+MT,Great Falls Tribune,125500,1992,MT,AMENDMENT,CA-22,Close election loophole for judges,1,Recap - Yes,0.92
+MT,Great Falls Tribune,125500,1992,MT,AMENDMENT,CA-23,Public land swaps responsible management,1,Recap - Yes,0.92
+MT,Great Falls Tribune,125500,1992,MT,AMENDMENT,CA-24,Native American appointment to Board of Regents,0,Recap - No,0.88
+MT,Great Falls Tribune,125500,1992,MT,BOND,,Cascade County Fairgrounds bond,1,Recap - Yes,0.92
+MT,Great Falls Tribune,125500,1992,MT,INITIATIVE,CI-63,Coal Tax Trust Fund for Sage Creek/Tongue River dam,1,Recap - Yes,0.92
+MT,Great Falls Tribune,125500,1992,MT,INITIATIVE,CI-64,Limit vote on tax issues to ballot box,0,Recap - No,0.92
+MT,Great Falls Tribune,125500,1994,MT,AMENDMENT,CA-25,Pension fund protection,1,Recap - Yes,0.93
+MT,Great Falls Tribune,125500,1994,MT,BOND,,Bond for county jail,1,Recap - Yes,0.93
+MT,Great Falls Tribune,125500,1994,MT,INITIATIVE,I-118,Limited campaign reform,0,Recap - No,0.90
+MT,Great Falls Tribune,125500,1994,MT,INITIATIVE,I-66,Vote on tax increases,0,Recap - No,0.93
+MT,Great Falls Tribune,125500,1994,MT,INITIATIVE,I-67,Super-majority for increased spending,0,Recap - No,0.93
+MT,Great Falls Tribune,125500,1994,MT,REFERENDUM,IR-112,Income tax increase,0,Recap - No,0.93
+MT,Great Falls Tribune,125500,1998,MT,AMENDMENT,CA-33,Limit corporate contributions in ballot-issue campaigns,0,Against,0.92
+MT,Great Falls Tribune,125500,1998,MT,INITIATIVE,134,End gasoline price protections,1,Recommend voting for,0.95
+MT,Great Falls Tribune,125500,1998,MT,INITIATIVE,136,Sever mandatory link between outfitters and out-of-state hunters,1,Vote for I-136 - tough call,0.92
+MT,Great Falls Tribune,125500,1998,MT,INITIATIVE,137,Ban cyanide use at open-pit gold/silver mines,1,Vote yes on I-137 to preserve environment,0.96
+MT,Great Falls Tribune,125500,1998,MT,INITIATIVE,CI-75,Right to vote on taxes - amend Constitution requiring public vote on tax/fee increases,0,Vote Against,0.95
+MT,Great Falls Tribune,125500,1998,MT,REFERENDUM,113,6-mill levy for higher education,1,Vote For Referendum 113,0.97
+MT,Great Falls Tribune,125500,1998,MT,REFERENDUM,R-114,Rendered moot by court decisions,0,No need - moot,0.88
+MT,Great Falls Tribune,125500,2008,MT,BOND,,Malmstrom AFB runway bond - preserve military airspace,1,Vote yes - Malmstrom matters,0.95
+MT,Great Falls Tribune,125500,2008,MT,INITIATIVE,155,Healthy Montana Kids Plan - expand health coverage for uninsured children,1,Vote for I-155,0.96
+MT,Great Falls Tribune,125500,2010,MT,AMENDMENT,,Ban taxes on real estate transfers,1,For - urge vote for initiative,0.93
+MT,Great Falls Tribune,125500,2010,MT,CONVENTION,,Calling a constitutional convention,0,Against - classic if it aint broke,0.93
+MT,Great Falls Tribune,125500,2010,MT,INITIATIVE,,Abolish outfitter-sponsored licenses,0,Against,0.90
+MT,Great Falls Tribune,125500,2010,MT,INITIATIVE,164,Cap rates charged by payday lenders,0,Vote against I-164 - well-intentioned but ill-advised,0.96

@@ -1,0 +1,39 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+HI,Honolulu Star-Advertiser,109630,2010,HI,,,"BOE State Amendment: Shall the Board of Education be changed to a board appointed by the governor, with the advice and consent of the Senate, as provided by law?",,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,HI,,,"City Charter Question: Shall the Revised City Charter be amended to create an office of housing directly under the mayor, to be headed by an administrator who shall be appointed by the mayor, subject to council confirmation, and who may be removed by the mayor?",,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,HI,,,"City Charter Question: Shall the revised City Charter be amended to create a semi-autonomous public transit authority responsible for the planning, construction, operation, maintenance, and expansion of the city's fixed guideway mass transit system?",,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,HI,,,Honolulu City Charter Amendment Question 1: Allowing the City Council to authorize special funds without the mayor's recommendation,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,HI,,,Honolulu City Charter Amendment Question 2: Requiring at least half of 1 percent of annual general fund revenues to be given as grants,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,HI,,,State Constitutional Amendment Question 1: Authorizing the issuance of special purpose revenue bonds for reservoir and dam upgrades,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,HI,,,"State Constitutional Amendment Question 2: Allowing the chief justice to appoint retired judges as emeritus judges, for temporary terms",,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,HI,,,Constitutional Amendment relating to disclosure of judicial nominees,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,HI,,,Constitutional Amendment relating to agricultural enterprises,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,HI,,,Constitutional Amendment relating to state justices and judges (raise retirement age),,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,HI,,,Constitutional Amendment relating to early childhood education,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,HI,,,Constitutional Amendment relating to dams and reservoirs,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 1: Affordable Housing Fund (raise income exclusion threshold),,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 2: Department of Land Management consolidation,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 3: Limit Charter Commission powers regarding Police Department contracts,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,"Honolulu City Charter Amendment No. 1 (Police Commission): Police Commission authority to suspend or dismiss the police chief, additional powers in investigation of complaints",,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 1: Police Commission,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 2: City Commission,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 3: City Prosecutor,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 4: Public Transportation,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 5: Affordable Housing Fund,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 6: Long-term city planning,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 7: Create an office of climate change,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 8: Create a department of land management,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 9: Honolulu Zoo,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 10: Budget authority,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 11: Clean Water Natural Lands Fund,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,"Honolulu City Charter Amendment No. 12: Board, commissions",,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 13: Goods in aid,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 14: Special elections,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 15: Term limits,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 16: Infrastructure design,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 17: Document signing,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 18: Fire Commission,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 19: Reapportionment Commission,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,HI,,,Honolulu City Charter Amendment No. 20: Public records,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,HI,,,State Constitutional Convention Question: Shall there be a convention to propose a revision of or amendments to the Constitution?,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,HI,,,Proposed City Charter Amendment relating to the issuance of bond members for the Honolulu Authority for Rapid Transportation,,,0.85

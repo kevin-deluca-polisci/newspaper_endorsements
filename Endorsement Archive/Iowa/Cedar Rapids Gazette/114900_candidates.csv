@@ -1,0 +1,159 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+IA,Cedar Rapids Gazette,114900,1960,H,2,,IA,"BROMWELL, JAMES (JIM)",Republican,1,,,,Sound positions on agriculture business and industrial development,0.95
+IA,Cedar Rapids Gazette,114900,1960,H,2,,IA,"WOLF, LEN",Democrat,0,1,,,Theatrical last-minute attempts; demagoguery,0.93
+IA,Cedar Rapids Gazette,114900,1960,PRESIDENT,,,IA,"KENNEDY, JOHN F.",Democrat,0,,,,Boyish charm but loose-jointed program not thought through,0.93
+IA,Cedar Rapids Gazette,114900,1960,PRESIDENT,,,IA,"NIXON, RICHARD",Republican,1,,,,Better choice; clear program; relatively clear path,0.95
+IA,Cedar Rapids Gazette,114900,1962,CNTY COMM,,Linn County,IA,"HENDERSON, DUDLEY",Republican,1,,1,,Good grasp of county problems; enlightened concept of future,0.93
+IA,Cedar Rapids Gazette,114900,1962,H,2,,IA,"BROMWELL, JAMES",Republican,1,,1,,Conscientious student of public affairs; courageous level-headed,0.95
+IA,Cedar Rapids Gazette,114900,1962,H,2,,IA,"LESS, FRANK",Democrat,0,,,,Good man; dignified temperate campaign,0.90
+IA,Cedar Rapids Gazette,114900,1962,SENATOR,,,IA,"HICKENLOOPER, BOURKE",Republican,1,,1,,Long service raised him to positions of important influence,0.96
+IA,Cedar Rapids Gazette,114900,1962,SENATOR,,,IA,"SMITH, E. B.",Democrat,0,,,,Able articulate man; intelligent responsible campaign,0.92
+IA,Cedar Rapids Gazette,114900,1962,STATE REP,,Linn County,IA,"ELY, JOHN JR.",Republican,1,,1,,Quick adaptation; conscientious effective,0.93
+IA,Cedar Rapids Gazette,114900,1962,STATE REP,,Linn County,IA,"RILEY, TOM",Republican,1,,1,,Quick adaptation; conscientious effective,0.93
+IA,Cedar Rapids Gazette,114900,1962,STATE SENATOR,,Linn County,IA,"WILEY, MARTIN",Republican,1,,1,,Measured up admirably to standards set by predecessor,0.93
+IA,Cedar Rapids Gazette,114900,1966,GOVERNOR,,,IA,"HUGHES, HAROLD",Democrat,1,1,,,Outstanding leader; few mistakes; new impetus to progress,0.96
+IA,Cedar Rapids Gazette,114900,1966,GOVERNOR,,,IA,"MURRAY, WILLIAM",Republican,0,,,,Strong campaign on Iowa basic problems but Hughes preferred,0.90
+IA,Cedar Rapids Gazette,114900,1966,SENATOR,,,IA,"MILLER, JACK",Republican,1,,1,,Hardest-working politician; sensible view on Vietnam financing,0.95
+IA,Cedar Rapids Gazette,114900,1966,SENATOR,,,IA,"SMITH, E. B.",Democrat,0,,,,Character and intelligence; capacity to be good lawmaker,0.90
+IA,Cedar Rapids Gazette,114900,1968,H,2,,IA,"CULVER, JOHN",Democrat,0,1,,,Follows Democratic party line; would not feel compulsion for Nixon admin,0.92
+IA,Cedar Rapids Gazette,114900,1968,H,2,,IA,"STANLEY, IVOR",Republican,1,,,,Intelligent dedicated hardworking; effective team-worker,0.93
+IA,Cedar Rapids Gazette,114900,1970,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,High integrity; good performance through previous term,0.93
+IA,Cedar Rapids Gazette,114900,1970,H,2,,IA,"SCHERLE, WILLIAM",Republican,1,,1,,Retain experience and know-how,0.90
+IA,Cedar Rapids Gazette,114900,1972,DA/PROSECUTOR,,Linn County,IA,"HUMPHREY, LLOYD",,1,,,,Sun-Star recap,0.88
+IA,Cedar Rapids Gazette,114900,1972,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,Strong intelligent progressive courageous leadership,0.96
+IA,Cedar Rapids Gazette,114900,1972,H,2,,IA,"MEZVINSKY, EDWARD",Democrat,1,,,,Intelligent effective service to district,0.91
+IA,Cedar Rapids Gazette,114900,1972,LT GOVERNOR,,,IA,"NEU, ARTHUR",Republican,1,,,,Sun-Star recap,0.90
+IA,Cedar Rapids Gazette,114900,1972,PRESIDENT,,,IA,"NIXON, RICHARD",Republican,1,,1,,Best foreign affairs accomplishments; sound economic philosophy,0.96
+IA,Cedar Rapids Gazette,114900,1972,SENATOR,,,IA,"MILLER, JACK",Republican,1,,1,,Experience; conservatism; substantive legislation,0.94
+IA,Cedar Rapids Gazette,114900,1972,STATE REP,25,,IA,"STANLEY, IVOR",Republican,1,,,,Sun-Star recap,0.90
+IA,Cedar Rapids Gazette,114900,1972,STATE REP,26,,IA,"LIPSKY, JOAN",Republican,1,,,,Sun-Star recap,0.90
+IA,Cedar Rapids Gazette,114900,1972,STATE REP,27,,IA,"WELLS, JAMES",Republican,1,,,,Sun-Star recap,0.88
+IA,Cedar Rapids Gazette,114900,1972,STATE SENATOR,15,,IA,"POTTER, RALPH",Republican,1,,,,Sun-Star recap,0.88
+IA,Cedar Rapids Gazette,114900,1972,STATE SENATOR,17,,IA,"ROBINSON, CLOYD",Republican,1,,,,Sun-Star recap,0.88
+IA,Cedar Rapids Gazette,114900,1972,STATE SENATOR,18,,IA,"RILEY, TOM",Republican,1,,,,Sun-Star recap,0.90
+IA,Cedar Rapids Gazette,114900,1974,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,Record of accomplishment in needed improvements,0.95
+IA,Cedar Rapids Gazette,114900,1974,GOVERNOR,,,IA,"SCHABEN, JAMES",Democrat,0,,,,Opposition,0.85
+IA,Cedar Rapids Gazette,114900,1974,H,2,,IA,"BLOUIN, MICHAEL",Democrat,0,,,,Effective in leading; understands human needs,0.88
+IA,Cedar Rapids Gazette,114900,1974,H,2,,IA,"RILEY, TOM",Republican,1,,,,Remarkable job in Iowa legislature,0.93
+IA,Cedar Rapids Gazette,114900,1976,H,2,,IA,"BLOUIN, MIKE",Democrat,0,1,,,Liberal bent; backs Democratic platform; bigger government,0.93
+IA,Cedar Rapids Gazette,114900,1976,H,2,,IA,"RILEY, TOM",Republican,1,,,,Moderate to conservative; less government; less spending; 12 years legislator,0.95
+IA,Cedar Rapids Gazette,114900,1976,PRESIDENT,,,IA,"CARTER, JIMMY",Democrat,0,,,,Tilts to freely funded tax-reliant government,0.92
+IA,Cedar Rapids Gazette,114900,1976,PRESIDENT,,,IA,"FORD, GERALD",Republican,1,,1,,Cool down congress; balance with split government,0.94
+IA,Cedar Rapids Gazette,114900,1978,GOVERNOR,,,IA,"FITZGERALD, JEROME",Democrat,0,,,,Able conscientious legislative leader,0.88
+IA,Cedar Rapids Gazette,114900,1978,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,10 years in office; effective leadership,0.95
+IA,Cedar Rapids Gazette,114900,1978,H,1,,IA,"MYERS, RICHARD",Republican,1,,,,Energy-exuding challenger articulates strong positions,0.85
+IA,Cedar Rapids Gazette,114900,1978,H,2,,IA,"BLOUIN, MIKE",Democrat,0,1,,,Creditable service but Tauke preferred,0.88
+IA,Cedar Rapids Gazette,114900,1978,H,2,,IA,"TAUKE, TOM",Republican,1,,,,Iowa House record; independent-minded on issues,0.93
+IA,Cedar Rapids Gazette,114900,1978,SENATOR,,,IA,"JEPSEN, ROGER",Republican,1,,,,Republican challenger - opposition to Clark,0.85
+IA,Cedar Rapids Gazette,114900,1980,H,1,,IA,"LEACH, JIM",Republican,1,,1,,Credentials and record of service qualify for term No. 3,0.94
+IA,Cedar Rapids Gazette,114900,1980,H,2,,IA,"TAUKE, TOM",Republican,1,,1,,Honest endowed with good judgment; second term,0.93
+IA,Cedar Rapids Gazette,114900,1980,PRESIDENT,,,IA,"CARTER, JIMMY",Democrat,0,1,,,Anderson has no realistic chance; Reagan over Carter,0.92
+IA,Cedar Rapids Gazette,114900,1980,PRESIDENT,,,IA,"REAGAN, RONALD",Republican,1,,,,Nod here goes to Mr. Reagan,0.95
+IA,Cedar Rapids Gazette,114900,1980,SENATOR,,,IA,"CULVER, JOHN",Democrat,0,1,,,First-term incumbent; opposed,0.92
+IA,Cedar Rapids Gazette,114900,1980,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,,,Over Culver,0.94
+IA,Cedar Rapids Gazette,114900,1982,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,1,,,,Better seasoned and equipped,0.92
+IA,Cedar Rapids Gazette,114900,1982,GOVERNOR,,,IA,"CONLIN, ROXANNE",Democrat,0,,,,Lacked elective experience; nothing on hipside,0.88
+IA,Cedar Rapids Gazette,114900,1982,H,1,,IA,"LIGHTFOOT, ROBERT",Republican,1,,,,Approved on House voting record,0.85
+IA,Cedar Rapids Gazette,114900,1982,H,2,,IA,"TAUKE, TOM",Republican,1,,1,,Sound record on fiscal responsibility,0.93
+IA,Cedar Rapids Gazette,114900,1982,H,3,,IA,"CUTLER, LYNN",Democrat,0,,,,Grass-roots grounded; articulate but Evans preferred,0.88
+IA,Cedar Rapids Gazette,114900,1982,H,3,,IA,"EVANS, COOPER",Republican,1,,1,,Independent thinker; not concerned with partisan concerns,0.93
+IA,Cedar Rapids Gazette,114900,1984,H,1,,IA,"LEACH, JIM",Republican,1,,1,,Moderate and centrist; foreign affairs arms control civil rights,0.95
+IA,Cedar Rapids Gazette,114900,1984,H,1,,IA,"READY, KEVIN",Democrat,0,,,,Promising but long way short of matching Leach,0.85
+IA,Cedar Rapids Gazette,114900,1984,H,2,,IA,"TAUKE, TOM",Republican,1,,1,,Six-year incumbent; conscientious service; deficit reduction,0.94
+IA,Cedar Rapids Gazette,114900,1984,H,2,,IA,"WELSH, JOE",Democrat,0,,,,Iowa House experience but not yet matching Tauke,0.85
+IA,Cedar Rapids Gazette,114900,1984,H,3,,IA,"EVANS, COOPER",Republican,1,,1,,Independent thinker; firmly on side of slower defense spending,0.93
+IA,Cedar Rapids Gazette,114900,1984,H,3,,IA,"JOHNSTON, JOE",Democrat,0,,,,Conventional Democrat platform line; not matching Evans,0.85
+IA,Cedar Rapids Gazette,114900,1984,PRESIDENT,,,IA,"MONDALE, WALTER",Democrat,0,,,,Too beholden to special interests notably big labor,0.92
+IA,Cedar Rapids Gazette,114900,1984,PRESIDENT,,,IA,"REAGAN, RONALD",Republican,1,,1,,Improved economy; slowing government growth; stiffening military resolve,0.95
+IA,Cedar Rapids Gazette,114900,1984,SENATOR,,,IA,"HARKIN, TOM",Democrat,0,,,,Lacks transparency on votes; tries to deny/disguise record,0.91
+IA,Cedar Rapids Gazette,114900,1984,SENATOR,,,IA,"JEPSEN, ROGER",Republican,1,,1,,Has stood by votes; defense fiscal foreign policy alignment,0.92
+IA,Cedar Rapids Gazette,114900,1986,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,1,,1,,Edge based on broader background; legislator-senator,0.93
+IA,Cedar Rapids Gazette,114900,1986,GOVERNOR,,,IA,"JUNKINS, LOWELL",Democrat,0,,,,Buy-now pay-later plan questionable,0.88
+IA,Cedar Rapids Gazette,114900,1986,H,1,,IA,"LEACH, JIM",Republican,1,,1,,Sixth term; moderation intelligence; foreign affairs leadership,0.95
+IA,Cedar Rapids Gazette,114900,1986,H,1,,IA,"WHITAKER, JOHN",Democrat,0,,,,Hillsboro farmer challenger,0.85
+IA,Cedar Rapids Gazette,114900,1986,H,2,,IA,"TABOR, ERIC",Democrat,0,,,,Articulate attractive but Tauke preferred,0.85
+IA,Cedar Rapids Gazette,114900,1986,H,2,,IA,"TAUKE, TOM",Republican,1,,1,,Responsive sixth term,0.94
+IA,Cedar Rapids Gazette,114900,1986,H,3,,IA,"NAGLE, DAVE",Democrat,1,,,,Substantial experience; bring unusual fierceness to House,0.90
+IA,Cedar Rapids Gazette,114900,1986,SENATOR,,,IA,"CONLIN, ROXANNE",Democrat,0,,,,OCR garbled - inferred,0.70
+IA,Cedar Rapids Gazette,114900,1986,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,1,,OCR garbled - inferred Sun-Star likely endorsed Grassley over Conlin,0.70
+IA,Cedar Rapids Gazette,114900,1988,CNTY COMM,,Linn County,IA,"ELBERT, DARLENE",Republican,1,,,,Fresh practical ideas; political savvy,0.92
+IA,Cedar Rapids Gazette,114900,1988,CNTY COMM,,Linn County,IA,"OXLEY, JEAN",Democrat,1,,,1,Frugal yet compassionate management style,0.93
+IA,Cedar Rapids Gazette,114900,1988,CNTY COMM,,Linn County,IA,"PERRY, KENNETH JR.",Democrat,0,,,,12-year district court clerk; able candidate,0.85
+IA,Cedar Rapids Gazette,114900,1988,H,1,,IA,"LEACH, JIM",Republican,1,,1,,No House cleaning - keep incumbents,0.93
+IA,Cedar Rapids Gazette,114900,1988,H,2,,IA,"TAUKE, TOM",Republican,1,,1,,No House cleaning - keep incumbents,0.93
+IA,Cedar Rapids Gazette,114900,1988,H,3,,IA,"NAGLE, DAVE",Democrat,1,1,,,No House cleaning - keep incumbents,0.93
+IA,Cedar Rapids Gazette,114900,1988,PRESIDENT,,,IA,"BUSH, GEORGE",Republican,1,,,,Promise of no new taxes; faith in private enterprise; better diplomatic tools,0.95
+IA,Cedar Rapids Gazette,114900,1988,PRESIDENT,,,IA,"DUKAKIS, MICHAEL",Democrat,0,,,,Government program approach to college; tax-and-spend orientation,0.92
+IA,Cedar Rapids Gazette,114900,1990,ATTORNEY GENERAL,,,IA,"CAMPBELL, BONNIE",Democrat,0,,,,Career owes to partisan politics,0.88
+IA,Cedar Rapids Gazette,114900,1990,ATTORNEY GENERAL,,,IA,"KELLY, ED",Republican,1,,,,Free of political baggage; promising ideas,0.92
+IA,Cedar Rapids Gazette,114900,1990,GOVERNOR,,,IA,"AVENSON, DON",Democrat,0,,,,Conditions on state assistance too restrictive,0.88
+IA,Cedar Rapids Gazette,114900,1990,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,1,,1,,Recovery led; momentum continuing; deserves credit,0.94
+IA,Cedar Rapids Gazette,114900,1990,H,2,,IA,"NUSSLE, JIM",Republican,1,,,,Public service experience as county attorney; better candidate,0.93
+IA,Cedar Rapids Gazette,114900,1990,H,2,,IA,"TABOR, ERIC",Democrat,0,,,,Professional candidate; lacks public service record,0.88
+IA,Cedar Rapids Gazette,114900,1990,SENATOR,,,IA,"HARKIN, TOM",Democrat,0,1,,,Class-warfare campaign; not best representation,0.91
+IA,Cedar Rapids Gazette,114900,1990,SENATOR,,,IA,"TAUKE, TOM",Republican,1,,,,Spending restraint and renewed commitment to fiscal discipline,0.93
+IA,Cedar Rapids Gazette,114900,2008,CNTY COMM,2,Linn County,IA,"LANGSTON, LINDA",Democrat,1,1,,,Flood recovery experience; strong voice on health and human services,0.93
+IA,Cedar Rapids Gazette,114900,2008,CNTY COMM,3,Linn County,IA,"ROGERS, BEN",Democrat,0,,,,Enthusiasm but Rosenthal preferred,0.85
+IA,Cedar Rapids Gazette,114900,2008,CNTY COMM,3,Linn County,IA,"ROSENTHAL, ERIC",Republican,1,,,,Background in finance and accounting,0.92
+IA,Cedar Rapids Gazette,114900,2008,CNTY COMM,4,Linn County,IA,"GRAY, DON",Democrat,0,,,,Solid track record but Oleson preferred,0.85
+IA,Cedar Rapids Gazette,114900,2008,CNTY COMM,4,Linn County,IA,"OLESON, BRENT",Republican,1,,,,Marion Republican; visionary approach to county-city problems,0.92
+IA,Cedar Rapids Gazette,114900,2008,H,1,,IA,"BRALEY, BRUCE",Democrat,1,1,,,Veterans benefits; small business contracting,0.93
+IA,Cedar Rapids Gazette,114900,2008,H,1,,IA,"HARTSUCH, DAVID",Republican,0,,,,Bettendorf state senator did not meet,0.85
+IA,Cedar Rapids Gazette,114900,2008,H,2,,IA,"LOEBSACK, DAVE",Democrat,0,1,,,Switched preference to Miller-Meeks,0.88
+IA,Cedar Rapids Gazette,114900,2008,H,2,,IA,"MILLER-MEEKS, MARIETTE",Republican,1,,,,Smart driven well-qualified; better candidate,0.92
+IA,Cedar Rapids Gazette,114900,2008,H,3,,IA,"BOSWELL, LEONARD",Democrat,0,1,,,Long service but few specific ideas,0.87
+IA,Cedar Rapids Gazette,114900,2008,H,3,,IA,"SCHMETT, KIM",Republican,1,,,,Bring more fiscal discipline; experience in state government,0.91
+IA,Cedar Rapids Gazette,114900,2008,PRESIDENT,,,IA,"MCCAIN, JOHN",Republican,1,,,,Best aligned to spur economic recovery; military hero,0.94
+IA,Cedar Rapids Gazette,114900,2008,PRESIDENT,,,IA,"OBAMA, BARACK",Democrat,0,,,,No clear plan for staggering debt; lack of international experience,0.93
+IA,Cedar Rapids Gazette,114900,2008,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,1,,,Senate Agriculture Committee chair; effective partner with Grassley,0.94
+IA,Cedar Rapids Gazette,114900,2008,SENATOR,,,IA,"REED, CHRISTOPHER",Republican,0,,,,Did not meet with editorial board,0.85
+IA,Cedar Rapids Gazette,114900,2008,STATE REP,,,IA,"LAWYER, RENEE",Republican,1,,,,Innovation in public schools; willing to explore new revenue,0.85
+IA,Cedar Rapids Gazette,114900,2008,STATE REP,,,IA,"NEMECEK, EMMA",Republican,0,,,,Mount Vernon business owner; less prepared,0.85
+IA,Cedar Rapids Gazette,114900,2008,STATE REP,,,IA,"POTTS, RENEE",Republican,1,,,,Flood victim community activist; new revenue with voter approval,0.90
+IA,Cedar Rapids Gazette,114900,2008,STATE REP,,,IA,"TAYLOR, DICK",Democrat,0,1,,,Long public service but time for change,0.85
+IA,Cedar Rapids Gazette,114900,2008,STATE REP,,,IA,"WILLEMS, NATE",Democrat,1,,,,Lisbon Democrat; Georgetown grad; persuading talent to Iowa,0.92
+IA,Cedar Rapids Gazette,114900,2008,STATE REP,35,,IA,"PAULSEN, KRAIG",Republican,1,,1,,Steady sensible leadership; opponent dropped out,0.93
+IA,Cedar Rapids Gazette,114900,2008,STATE SENATOR,18,,IA,"CHILDERS, JOE",Democrat,0,,,,Marion bank vice president; capable Democrat,0.85
+IA,Cedar Rapids Gazette,114900,2008,STATE SENATOR,18,,IA,"DANDEKAR, SWATI",Democrat,1,,,,Three terms in Iowa House; public service experience,0.93
+IA,Cedar Rapids Gazette,114900,2008,STATE SENATOR,20,,IA,"BRADEN, RANDY",Democrat,1,,,,Vinton-Shellsburg school superintendent; balance budget experience,0.92
+IA,Cedar Rapids Gazette,114900,2008,STATE SENATOR,20,,IA,"KAPUCIAN, TIM",Republican,0,,,,Keystone farmer; agriculture skills,0.88
+IA,Cedar Rapids Gazette,114900,2010,CNTY COMM,1,Linn County,IA,"BARRON, LU",Democrat,1,1,,,14-year veteran; broad experience; flood recovery role,0.93
+IA,Cedar Rapids Gazette,114900,2010,CNTY COMM,1,Linn County,IA,"PETERSON, DENNIS",Republican,0,,,,Cedar Rapids Realtor; opposed,0.85
+IA,Cedar Rapids Gazette,114900,2010,CNTY COMM,5,Linn County,IA,"HARRIS, JOHN",Republican,0,,,,Palo Mayor; complicated circumstances,0.85
+IA,Cedar Rapids Gazette,114900,2010,CNTY COMM,5,Linn County,IA,"HOUSER, JAMES",Democrat,1,1,,,19-year board veteran,0.91
+IA,Cedar Rapids Gazette,114900,2010,H,1,,IA,"BRALEY, BRUCE",Democrat,1,1,,,1st District,0.92
+IA,Cedar Rapids Gazette,114900,2010,H,2,,IA,"LOEBSACK, DAVE",Democrat,1,1,,,2nd District endorsement,0.92
+IA,Cedar Rapids Gazette,114900,2010,H,3,,IA,"ZAUN, BRAD",Republican,1,,,,3rd District - straight talk,0.90
+IA,Cedar Rapids Gazette,114900,2010,RECORDER,,Linn County,IA,"MCCALMANT, JOEL",,1,,,,Linn County Recorder,0.85
+IA,Cedar Rapids Gazette,114900,2010,SENATOR,,,IA,"CONLIN, ROXANNE",Democrat,0,,,,Opponent,0.85
+IA,Cedar Rapids Gazette,114900,2010,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,1,,Investigative work on pharmaceutical industry and SEC,0.94
+IA,Cedar Rapids Gazette,114900,2010,STATE REP,37,,IA,"SWAIM, JEFF",,1,,,,Iowa Legislature endorsement,0.83
+IA,Cedar Rapids Gazette,114900,2010,STATE REP,38,,IA,"DIXON, TYLER",,1,,,,Iowa Legislature endorsement,0.83
+IA,Cedar Rapids Gazette,114900,2010,STATE SENATOR,10,,IA,"DANIELSON, JEFF",Democrat,1,,,,Iowa Legislature endorsement,0.85
+IA,Cedar Rapids Gazette,114900,2010,STATE SENATOR,33,,IA,"HORN, WALLY",Democrat,1,,,,Iowa Legislature endorsement,0.85
+IA,Cedar Rapids Gazette,114900,2010,SUPREME COURT,,,IA,"BAKER, DAVID",,0,,,1,No on retention from anti-Varnum campaigners,0.85
+IA,Cedar Rapids Gazette,114900,2010,SUPREME COURT,,,IA,"STREIT, MICHAEL",,0,,,1,No on retention from anti-Varnum campaigners,0.85
+IA,Cedar Rapids Gazette,114900,2010,SUPREME COURT,,,IA,"TERNUS, MARSHA",,0,,,1,No on retention - despite editorial supporting court,0.85
+IA,Cedar Rapids Gazette,114900,2010,TREASURER,,Linn County,IA,"GONZALEZ, SHARON",,1,,,,Linn County Treasurer,0.85
+IA,Cedar Rapids Gazette,114900,2012,H,1,,IA,"BRALEY, BRUCE",Democrat,1,1,,,Engaged lawmaker; balanced budget approach,0.93
+IA,Cedar Rapids Gazette,114900,2012,H,1,,IA,"LANGE, BEN",Republican,0,,,,Considerably credit for stronger campaign,0.85
+IA,Cedar Rapids Gazette,114900,2012,H,2,,IA,"ARCHER, JOHN",Republican,1,,,,Bettendorf business man and attorney; ideas; bipartisanship,0.91
+IA,Cedar Rapids Gazette,114900,2012,H,2,,IA,"LOEBSACK, DAVE",Democrat,0,1,,,Switched preference,0.85
+IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,1,Linn County,IA,"HOUSER, JIM",Democrat,0,,,,19-year prior service,0.85
+IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,1,Linn County,IA,"PETERSEN, DENNIS",Republican,0,,,,Republican opponent,0.85
+IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,1,Linn County,IA,"PODZIMEK, TOM",,1,,,,Independent; former Cedar Rapids City Council member; coop builder,0.92
+IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,5,Linn County,IA,"HARRIS, JOHN",Republican,1,,1,,Palo; thoughtful consensus-builder; depth of knowledge,0.93
+IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,5,Linn County,IA,"SHOOP, BECKY",Democrat,0,,,,Deputy county auditor; 39 years county government,0.88
+IA,Cedar Rapids Gazette,114900,2014,SEC OF STATE,,,IA,"ANDERSON, BRAD",Democrat,1,,,,Clean break from Schultz; expand voter participation,0.93
+IA,Cedar Rapids Gazette,114900,2014,SEC OF STATE,,,IA,"PATE, PAUL",Republican,0,,,,Former Sec of State 1995-99; record of service,0.88
+IA,Cedar Rapids Gazette,114900,2014,STATE SENATOR,39,,IA,"KINNEY, KEVIN",Democrat,1,,,,Johnson County Sheriff veteran; ag knowledge; human trafficking expertise,0.94
+IA,Cedar Rapids Gazette,114900,2014,STATE SENATOR,39,,IA,"MOORE, MIKE",Republican,0,,,,Accountant CEO UP Home; elderly perspective,0.88
+IA,Cedar Rapids Gazette,114900,2016,H,1,,IA,"BLUM, ROD",Republican,0,,1,,Troubling status quo; partisan,0.88
+IA,Cedar Rapids Gazette,114900,2016,H,1,,IA,"VERNON, MONICA",Democrat,1,,,,Non-partisan governing body; works alongside leaders,0.91
+IA,Cedar Rapids Gazette,114900,2016,H,2,,IA,"LOEBSACK, DAVE",Democrat,0,1,,,Long-time incumbent,0.85
+IA,Cedar Rapids Gazette,114900,2016,H,2,,IA,"PETERS, CHRISTOPHER",Republican,1,,,,Independent voice; measured thoughtful stances,0.91
+IA,Cedar Rapids Gazette,114900,2018,CNTY COMM,,Johnson County,IA,"HEIDEN, PAT",Democrat,1,,,,Oaknoll Retirement Community ED; consensus building,0.93
+IA,Cedar Rapids Gazette,114900,2018,CNTY COMM,,Johnson County,IA,"HEMINGWAY, PHIL",Republican,0,,,,Iowa City school board member,0.85
+IA,Cedar Rapids Gazette,114900,2018,CNTY COMM,,Johnson County,IA,"RETTIG, JANELLE",Democrat,1,,,1,Incumbent supervisor,0.91
+IA,Cedar Rapids Gazette,114900,2018,H,1,,IA,"BLUM, ROD",Republican,0,,1,,Incumbent - Finkenauer preferred,0.88
+IA,Cedar Rapids Gazette,114900,2018,H,1,,IA,"FINKENAUER, ABBY",Democrat,1,,,,Young; 4 years in Iowa Legislature; rural Iowa quintessential,0.94

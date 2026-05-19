@@ -1,0 +1,27 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,,"Nine local amendments and four local proposals (Atlanta voters), DeKalb local",1,Endorse all these (DeKalb 9 local amendments + 4 local proposals),0.85
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,1,Statewide constitutional amendment 1,1,"Yes (one of Nos 1,2,3,4,5,7,8,9,10,11,15,16,17,21,22,23 endorsed)",0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,10,Statewide constitutional amendment 10,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,11,Statewide constitutional amendment 11,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,12,Statewide constitutional amendment 12,0,No; reject,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,13,Statewide constitutional amendment 13,0,No; reject,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,14,Statewide constitutional amendment 14,0,No; reject,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,15,Statewide constitutional amendment 15,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,16,Statewide constitutional amendment 16,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,17,Statewide constitutional amendment 17,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,18,Statewide constitutional amendment 18,0,No; reject,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,19,Statewide constitutional amendment 19,0,No; reject,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,2,Statewide constitutional amendment 2,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,20,Statewide constitutional amendment 20,0,No; reject,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,21,Statewide constitutional amendment 21,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,22,Statewide constitutional amendment 22,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,23,Statewide constitutional amendment 23,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,3,Statewide constitutional amendment 3,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,4,Statewide constitutional amendment 4,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,5,Statewide constitutional amendment 5,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,6,Statewide constitutional amendment 6,0,No; reject,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,7,Statewide constitutional amendment 7,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,8,Statewide constitutional amendment 8,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,AMENDMENT,9,Statewide constitutional amendment 9,1,Yes,0.90
+GA,Atlanta Journal,109052,1968,GA,REFERENDUM,222,Authority to contract for combined rail and bus rapid transit system planned for the metropolitan area (rapid transit),1,FOR; strongly endorse,0.95
+GA,Atlanta Journal,109052,1968,GA,REFERENDUM,225,Fluoridation,1,FOR rapid transit (Number 222) and fluoridation (Number 225),0.90

@@ -1,0 +1,17 @@
+Newspaper Name: Hartford Courant
+Newspaper ID: 106450
+State: CT
+Processing Date: 2026-05-19
+
+Clippings: 24
+Date range: 1960-1974
+Total candidate records: 13 (endorsed 13)
+Total proposition records: 45 (endorsed 45)
+Mean confidence: 0.95
+
+Notes:
+- "The Oldest Newspaper" - established 1764; published at 285 Broad Street, Hartford
+- Historically Republican-leaning editorial board through this period (1960-1974)
+- Heavy focus on Hartford bond/redevelopment questions and state constitutional amendments
+- 1968: serial daily editorials Q1-Q10 build-up; full slate consolidated into 10/24 record
+- 1970 endorsements (Meskill/Weicker/Uccello) recommended first GOP governor since 1955

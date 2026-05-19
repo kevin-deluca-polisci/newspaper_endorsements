@@ -1,0 +1,73 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+SC,Myrtle Beach Sun News,143370,1974,SC,BOND,,Horry County School Bond Referendum,1,Editorial 'County Should Support School Bond Referendum' urging support for school bond.,0.90
+SC,Myrtle Beach Sun News,143370,1974,SC,BOND,1,County government bonded indebtedness limitation increase from 8 to 25 percent,0,Vote 'Opposed to the Amendment' on No. 1; reasons less obvious and not well defined.,0.95
+SC,Myrtle Beach Sun News,143370,1974,SC,BOND,2,School District of Horry County bonded indebtedness limitation increase from 8 to 25 percent,1,'It should be approved overwhelmingly.' Vote 'In Favor of the Amendment' on No. 2.,0.95
+SC,Myrtle Beach Sun News,143370,1980,SC,CONSTITUTIONAL AMENDMENT,1,Allow governor to seek a second consecutive term,1,Editorial 'Both S.C. amendments deserve consideration' - 'we suggest voters give serious consideration to voting for both amendments.',0.85
+SC,Myrtle Beach Sun News,143370,1980,SC,CONSTITUTIONAL AMENDMENT,2,Allow General Assembly to set ceiling on personal property exempted from court-ordered sale in bankruptcy,1,Editorial endorses both amendments - 'just makes good sense.',0.90
+SC,Myrtle Beach Sun News,143370,1982,SC,CONSTITUTIONAL AMENDMENT,1,Allow Commissioner of Agriculture to be named in Constitution as elective officer,0,Editorial 'State amendments should be defeated' - 'we say NO to Amendment No. 1.',0.90
+SC,Myrtle Beach Sun News,143370,1982,SC,CONSTITUTIONAL AMENDMENT,2,Permit municipalities to exempt manufacturing establishments from certain taxes,0,"Editorial - 'we say NO to Amendment No. 2.' Hidden dangers, would lead to increased taxation.",0.90
+SC,Myrtle Beach Sun News,143370,1982,SC,ORDINANCE,,Horry County Council ordinance to extend council terms from two years to four years (with seven of 12 members starting four-year terms),0,"Editorial 'No to longer terms' - 'this year's referendum, however, reflects more the council's weakness and should be defeated.'",0.95
+SC,Myrtle Beach Sun News,143370,1984,SC,BOND,,Horry County Schools bond referendum,1,School bond referendum endorsed - school taxing authority should remain.,0.70
+SC,Myrtle Beach Sun News,143370,1984,SC,CONSTITUTIONAL AMENDMENT,1,"Authorize state government, through General Assembly, to issue Industrial Revenue Bonds",1,Editorial 'Issues' language need not confuse' - paper supports issuing industrial revenue bonds.,0.70
+SC,Myrtle Beach Sun News,143370,1984,SC,CONSTITUTIONAL AMENDMENT,1-6,"Approval of all constitutional amendments numbers 1 through 6, including all five parts of Amendment No. 4",1,"'We recommend the approval of all constitutional amendments, numbers 1 through 6, including all five parts of Amendment No. 4.'",0.95
+SC,Myrtle Beach Sun News,143370,1984,SC,CONSTITUTIONAL AMENDMENT,2,Allow water/sewer/gas systems to extend across county lines,1,Endorsed - common-sense provision needed.,0.65
+SC,Myrtle Beach Sun News,143370,1984,SC,CONSTITUTIONAL AMENDMENT,3,Constitutional amendment changing General Assembly meeting schedule,1,Simple enough; refreshes current cluttered Constitution.,0.60
+SC,Myrtle Beach Sun News,143370,1984,SC,CONSTITUTIONAL AMENDMENT,4,Spending limit on state government - limits state spending growth to a percentage,0,Opposed - such limits cause problems and reduce flexibility; Legislature would face difficulties.,0.70
+SC,Myrtle Beach Sun News,143370,1984,SC,CONSTITUTIONAL AMENDMENT,5,Amendment regarding court system / mid-career judges,0,Opposed - 'Constitution should be left as it stands.',0.55
+SC,Myrtle Beach Sun News,143370,1984,SC,REFERENDUM,,Horry County Council four-year staggered terms,1,Editorial 'Council's future is what's involved' - 'we support 1) the binding referendum on four-year staggered terms for Horry County Council.',0.90
+SC,Myrtle Beach Sun News,143370,1984,SC,REFERENDUM,,Allow bars in Horry County to open Sundays from 1 p.m. to midnight,1,Editorial 'Sunday barrooms not end of world' - 'we think it should be.' Endorses approval; bars open in Horry County on Sundays.,0.90
+SC,Myrtle Beach Sun News,143370,1984,SC,REFERENDUM,,Four-year staggered terms for Horry County Council,1,Endorsed.,0.95
+SC,Myrtle Beach Sun News,143370,1984,SC,REFERENDUM,,Taxing authority for schools to be given to Horry County Council,1,Endorsed.,0.95
+SC,Myrtle Beach Sun News,143370,1984,SC,REFERENDUM,,Limited Sunday sales of mini-bottles in Horry County,1,Endorsed.,0.95
+SC,Myrtle Beach Sun News,143370,1986,SC,BOND,,$30 million Horry County school bond referendum,1,Mrs. Bailey supports the $30 million bond referendum; paper endorsed Bailey who supports it. Implicit endorsement.,0.70
+SC,Myrtle Beach Sun News,143370,1986,SC,REFERENDUM,,Four-year staggered terms for Horry County Council,1,"Editorial 'For 4-year terms, cautious approval' - 'we currently support an affirmative vote on the four-year term referendum next week.'",0.90
+SC,Myrtle Beach Sun News,143370,1988,SC,CONSTITUTIONAL AMENDMENT,1-8,All 8 state constitutional amendments (11 questions including parts of Amendments 1 and 2),1,'We endorse the passage of all eight. We suggest voting yes on all 11 questions (Amendments 1 and 2 have multiple parts).',0.95
+SC,Myrtle Beach Sun News,143370,1988,SC,REFERENDUM,,Single-member districts for Horry County Board of Education,1,Endorsed - prefer instead of mixed system of at-large seats and single-member districts.,0.95
+SC,Myrtle Beach Sun News,143370,1990,SC,CONSTITUTIONAL AMENDMENT,,Constitutional amendment to limit the work of the statewide grand jury,0,Opposed - against the work of the statewide grand jury.,0.70
+SC,Myrtle Beach Sun News,143370,1990,SC,REFERENDUM,,Council-manager form of government,0,Opposed.,0.70
+SC,Myrtle Beach Sun News,143370,1990,SC,REFERENDUM,,Local option sales tax,0,Opposed.,0.70
+SC,Myrtle Beach Sun News,143370,1992,SC,REFERENDUM,,"Horry County morality referendum (asking voters about adult entertainment, business affecting county)",0,"Editorial 'We recommend...on referendums' - 'On the morality ballot, take care.' Reservations about legislating morality.",0.70
+SC,Myrtle Beach Sun News,143370,1992,SC,REFERENDUM,,Horry County local-option sales tax (1 percent),1,"'On the sales tax ballot, try it.' Sales tax to bring relief to property tax payers; endorsed conditionally.",0.85
+SC,Myrtle Beach Sun News,143370,1994,SC,BOND,2,Countywide Referendum No. 2 (school bonds),1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,1994,SC,CONSTITUTIONAL AMENDMENT,1,Statewide Constitutional Amendment No. 1,1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,1994,SC,CONSTITUTIONAL AMENDMENT,2,Statewide Constitutional Amendment No. 2,1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,1994,SC,REFERENDUM,1,Countywide Referendum No. 1 (poker device payoffs),1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,1994,SC,REFERENDUM,3,Countywide Referendum No. 3 (coordinated planning),1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,1994,SC,REFERENDUM,4,Countywide Referendum No. 4 (Sunday alcohol sales in bars and restaurants),1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,1994,SC,REFERENDUM,5,District Referendum No. 5 (Socastee recreation district),1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,1994,SC,REFERENDUM,6,District Referendum No. 6 (Mount Gilead road district),1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,1996,SC,CONSTITUTIONAL AMENDMENT,1,"Amendment No. 1, Parts A and B - constitutional right of victims of crimes to be free from harassment by the criminal and to be kept up with the case as it progresses; right to deny bail to defendants in violent crimes",1,Editorial 'Our suggestion...on ballot issues' - 'We recommend: Vote yes.',0.95
+SC,Myrtle Beach Sun News,143370,1996,SC,CONSTITUTIONAL AMENDMENT,2,"Amendment No. 2, Parts A, B and C - bar persons convicted of felony from federal/state law office for 15 years; expand to popularly elected office; allow 18-year-olds to vote in general elections",1,"We recommend: Vote yes for Parts A, B, and C.",0.95
+SC,Myrtle Beach Sun News,143370,1996,SC,CONSTITUTIONAL AMENDMENT,3,Amendment No. 3 - Allow voter who moves between precincts to vote in new precinct's voting place within 30 days,1,We recommend: Vote yes.,0.95
+SC,Myrtle Beach Sun News,143370,1996,SC,CONSTITUTIONAL AMENDMENT,4,"Amendment No. 4, Parts A and B - reform election of judges; raise minimum age for Court of Appeals/Supreme Court to 32; merit selection of state court judges via commission",1,We recommend: Vote yes for both parts.,0.95
+SC,Myrtle Beach Sun News,143370,1996,SC,CONSTITUTIONAL AMENDMENT,5,Amendment No. 5 - Allow State Retirement System to be invested for the first time in equity stocks,1,We recommend: Vote yes.,0.95
+SC,Myrtle Beach Sun News,143370,1996,SC,REFERENDUM,,Local advisory referendum - sales tax/funding to support Council on Aging budget,1,'No thoughtful person could want to deny adequate funding for our senior citizens.' Endorsed though needs more clarity from the County Council.,0.85
+SC,Myrtle Beach Sun News,143370,1996,SC,REFERENDUM,Local Question 1,Local Question 1 - Sunday blue laws (whether to end blue laws / regulate Sunday sales of goods and services),1,Vote 'no' to end blue laws (since 'yes' means keeping blue laws intact). Paper recommends ending the blue laws.,0.85
+SC,Myrtle Beach Sun News,143370,1998,SC,CONSTITUTIONAL AMENDMENT,1,Constitutional Amendment No. 1 - victims' notification amendment,1,Vote 'yes' with reluctance and with an admonition to legislators to avoid tinkering too much with notification.,0.90
+SC,Myrtle Beach Sun News,143370,1998,SC,CONSTITUTIONAL AMENDMENT,2,Amendment No. 2 - require members of state Senate and House to actually live in the district from which they are elected,1,Vote 'yes' - this makes good sense.,0.95
+SC,Myrtle Beach Sun News,143370,1998,SC,CONSTITUTIONAL AMENDMENT,3,"Amendment No. 3 - allow state treasurer to invest endowed state college funds in securities (Part A) and allow you-counties to issue bonds for redevelopment of specified areas, just as municipalities do (Part B)",1,Vote 'yes' to Part A and Part B.,0.90
+SC,Myrtle Beach Sun News,143370,1998,SC,CONSTITUTIONAL AMENDMENT,4,Amendment No. 4 - remove ban on interracial marriage from State Constitution,1,Vote 'yes' - vestige of Jim Crow that must be removed.,0.95
+SC,Myrtle Beach Sun News,143370,1998,SC,REFERENDUM,,Give Horry County sheriff more authority (intention of referendum: sheriff to be restricted to courtroom security and serving civil papers; principal police agency to be Horry County Police Department),0,Editorial 'Our suggestions on ballot's issues' - 'We oppose the intention of this referendum.' 'We will vote no.',0.95
+SC,Myrtle Beach Sun News,143370,1998,SC,REFERENDUM,,Georgetown County swimming pools - 1 percent sales tax to build four swimming pools and parks adjacent to new schools,0,Pools should not be built because hospitality tax to finance them may well not be allowed under the state law.,0.90
+SC,Myrtle Beach Sun News,143370,2000,NC,BOND,,Brunswick County bond referendum (further development by builders),0,Brunswick referendum opposed.,0.60
+SC,Myrtle Beach Sun News,143370,2000,SC,CONSTITUTIONAL AMENDMENT,,State constitutional amendments (no change to voting recommended),0,On constitutional amendments: 'we recommend no change to voting no.',0.70
+SC,Myrtle Beach Sun News,143370,2000,SC,REFERENDUM,,State Lottery for education,1,'For lottery for education' - endorsed.,0.85
+SC,Myrtle Beach Sun News,143370,2002,SC,CONSTITUTIONAL AMENDMENT,1,Amendment Question No. 1 - allow lower threshold for State investments,1,Yes.,0.70
+SC,Myrtle Beach Sun News,143370,2002,SC,CONSTITUTIONAL AMENDMENT,2,Amendment Question No. 2 - allow local governments with separate retirement funds to be transferred to a county,1,Yes.,0.70
+SC,Myrtle Beach Sun News,143370,2004,SC,BOND,2,Horry County Ballot Question No. 2 - Board of Education $240 million bond referendum,1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,2004,SC,CONSTITUTIONAL AMENDMENT,1,Statewide Constitutional Amendment No. 1 - end ridebelle mandate,1,Yes.,0.70
+SC,Myrtle Beach Sun News,143370,2004,SC,CONSTITUTIONAL AMENDMENT,2,Statewide Constitutional Amendment No. 2 - amend agricultural assessment rule,1,Yes.,0.75
+SC,Myrtle Beach Sun News,143370,2004,SC,REFERENDUM,1,Horry County Ballot Question No. 1 - County Council Advisory Referendum on impact fees,0,No.,0.85
+SC,Myrtle Beach Sun News,143370,2004,SC,TAX,3,Horry County Ballot Question No. 3 - Board of Education 1-cent sales tax,1,Yes.,0.90
+SC,Myrtle Beach Sun News,143370,2006,SC,CONSTITUTIONAL AMENDMENT,1,S.C. Question 1 - marriage amendment,0,No.,0.85
+SC,Myrtle Beach Sun News,143370,2006,SC,CONSTITUTIONAL AMENDMENT,2,S.C. Question 2a and 2b - reinvestment system,1,Yes.,0.70
+SC,Myrtle Beach Sun News,143370,2006,SC,CONSTITUTIONAL AMENDMENT,3,S.C. Question 3a and 3b - retirement system,1,Yes.,0.70
+SC,Myrtle Beach Sun News,143370,2006,SC,CONSTITUTIONAL AMENDMENT,4,S.C. Question 4 - revaluation cap,0,No.,0.70
+SC,Myrtle Beach Sun News,143370,2006,SC,CONSTITUTIONAL AMENDMENT,5,S.C. Question 5 - eminent domain,1,Yes.,0.80
+SC,Myrtle Beach Sun News,143370,2006,SC,REFERENDUM,,Horry County road tax referendum,0,No.,0.85
+SC,Myrtle Beach Sun News,143370,2006,SC,REFERENDUM,,Horry County school tax referendum,0,No.,0.70
+SC,Myrtle Beach Sun News,143370,2008,SC,CONSTITUTIONAL AMENDMENT,1-3,"S.C. Constitutional Amendments 1, 2 and 3",1,Yes.,0.85
+SC,Myrtle Beach Sun News,143370,2008,SC,TAX,,Horry County Board of Education local option sales tax,1,Yes.,0.85
+SC,Myrtle Beach Sun News,143370,2010,SC,REFERENDUM,,Advisory referendum for Horry County Council to provide a stable stream of revenue for the Coast RTA,1,Yes.,0.85
+SC,Myrtle Beach Sun News,143370,2012,SC,CONSTITUTIONAL AMENDMENT,,S.C. Constitutional Amendment - allow Lieutenant Governor to be elected as a running mate with the Governor (rather than separately),1,Editorial 'Yes to the Constitutional Amendment.',0.85
+SC,Myrtle Beach Sun News,143370,2012,SC,TAX,,Georgetown County tax increase (capital project sales tax),0,Editorial 'No to the Georgetown Tax Increase.',0.90

@@ -1,0 +1,64 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+PA,Scranton Times-Tribune,141600,2006,GOVERNOR,,,PA,"RENDELL, ED",Democrat,1,,,,Philadelphia Democrat seeking second and final term; worked effectively with opposition-controlled Legislature; opponent Lynn Swann's campaign disappointing,0.98
+PA,Scranton Times-Tribune,141600,2006,H,10,,PA,"CARNEY, CHRIS",Democrat,1,,,,Democratic challenger from Montrose; political science professor at Penn State and Navy Reserve officer; incumbent Sherwood's admitted affair and lawsuit settlement a factor; Carney's positions better suit district,0.97
+PA,Scranton Times-Tribune,141600,2006,H,11,,PA,"KANJORSKI, PAUL",Democrat,1,,,,11-term Democratic incumbent from Nanticoke; endorsement with reservations over $8M in defense contracts to nephews' company; Republican Dr. Joseph Leonardi conducted token campaign,0.96
+PA,Scranton Times-Tribune,141600,2006,SENATOR,,,PA,"CASEY, BOB",Democrat,1,,,,"Scranton Democrat, state treasurer and former two-term state auditor general; more in tune with Pennsylvanians than incumbent Santorum on Iraq, Social Security, Medicare, health care, minimum wage",0.98
+PA,Scranton Times-Tribune,141600,2006,STATE REP,112,,PA,"SMITH, KEN",Democrat,1,,,,Dunmore Democrat who defeated longtime incumbent Fred Belardi in Democratic primary; only other new representative from immediate area,0.90
+PA,Scranton Times-Tribune,141600,2006,STATE REP,113,,PA,"SHIMKUS, FRANK ANDREWS",Democrat,1,,,,"Longtime regional news broadcaster, Democrat seeking first office; advantages over Republican Matt Burke include communications skills and commitment to open government",0.96
+PA,Scranton Times-Tribune,141600,2006,STATE SENATOR,22,,PA,"MELLOW, ROBERT",Democrat,1,,,,Senate minority leader from Peckville; faces write-in challenge from Frank Scavo; effectiveness likely to increase next term,0.96
+PA,Scranton Times-Tribune,141600,2008,ATTORNEY GENERAL,,,PA,"CORBETT, TOM",Republican,1,,,,Endorsed for Attorney General,0.95
+PA,Scranton Times-Tribune,141600,2008,AUDITOR,,,PA,"BEILER, CHET",Republican,1,,,,Endorsed for State Auditor General,0.95
+PA,Scranton Times-Tribune,141600,2008,H,10,,PA,"CARNEY, CHRIS",Democrat,1,,,,"Democratic incumbent, 10th Congressional District",0.97
+PA,Scranton Times-Tribune,141600,2008,H,11,,PA,"BARLETTA, LOU",Republican,1,,,,Republican challenger endorsed for 11th Congressional District,0.97
+PA,Scranton Times-Tribune,141600,2008,PRESIDENT,,,PA,"OBAMA, BARACK",Democrat,1,,,,Endorsed for President,0.97
+PA,Scranton Times-Tribune,141600,2008,STATE REP,113,,PA,"SHIMKUS, FRANK",Republican,1,,,,Democratic incumbent who won the Republican write-in nomination; endorsed for 113th Legislative District,0.93
+PA,Scranton Times-Tribune,141600,2008,TREASURER,,,PA,"MCCORD, ROB",Democrat,1,,,,Endorsed for State Treasurer,0.95
+PA,Scranton Times-Tribune,141600,2010,GOVERNOR,,,PA,"ONORATO, DAN",Democrat,1,,,,"Allegheny County chief executive; better suited than Republican AG Tom Corbett, whose opposition to natural gas extraction tax favors industry",0.97
+PA,Scranton Times-Tribune,141600,2010,SENATOR,,,PA,"SESTAK, JOE",Democrat,1,,,,Beat Specter in spring primary; favors regulatory reform of financial industry and health care; endorsed over Republican Pat Toomey,0.97
+PA,Scranton Times-Tribune,141600,2010,STATE REP,113,,PA,"MURPHY, KEVIN",Democrat,1,,,,First-term Democratic incumbent endorsed over Republican challenger Mike LaPolla,0.95
+PA,Scranton Times-Tribune,141600,2010,STATE REP,114,,PA,"KAVULICH, SID MICHAELS",Democrat,1,,,,Narrowly endorsed over Republican Daniel Naylor; both good choices; seat open after Democrat Jim Wansacz did not seek re-election,0.94
+PA,Scranton Times-Tribune,141600,2010,STATE REP,115,,PA,"STABACK, ED",Democrat,1,,,,Longtime incumbent narrowly endorsed over Theresa Kane,0.94
+PA,Scranton Times-Tribune,141600,2010,STATE SENATOR,22,,PA,"BLAKE, JOHN",Democrat,1,,,,Effective local and Cabinet-level state official; clear choice over Republican Frank Scavo for seat being vacated by retiring 40-year Democratic incumbent Bob Mellow,0.96
+PA,Scranton Times-Tribune,141600,2012,ATTORNEY GENERAL,,,PA,"KANE, KATHLEEN",Democrat,1,,,,Endorsed for Attorney General,0.96
+PA,Scranton Times-Tribune,141600,2012,AUDITOR,,,PA,"MAHER, JOHN",Republican,1,,,,Endorsed for Auditor General,0.94
+PA,Scranton Times-Tribune,141600,2012,H,11,,PA,"BARLETTA, LOU",Republican,1,,,,Endorsed for 11th Congressional District,0.95
+PA,Scranton Times-Tribune,141600,2012,H,17,,PA,"CARTWRIGHT, MATT",Democrat,1,,,,Endorsed for 17th Congressional District,0.95
+PA,Scranton Times-Tribune,141600,2012,PRESIDENT,,,PA,"OBAMA, BARACK",Democrat,1,,,,Endorsed for President,0.97
+PA,Scranton Times-Tribune,141600,2012,SENATOR,,,PA,"CASEY, BOB",Democrat,1,,,,Endorsed for U.S. Senate,0.97
+PA,Scranton Times-Tribune,141600,2012,STATE REP,112,,PA,"HAGGERTY, KEVIN",Democrat,1,,,,Endorsed for 112th District,0.94
+PA,Scranton Times-Tribune,141600,2012,STATE REP,113,,PA,"FLYNN, MARTY",Democrat,1,,,,Unopposed; endorsed in 113th District,0.93
+PA,Scranton Times-Tribune,141600,2012,STATE REP,114,,PA,"KAVULICH, SID MICHAELS",Democrat,1,,,,Unopposed; endorsed in 114th District,0.93
+PA,Scranton Times-Tribune,141600,2012,TREASURER,,,PA,"MCCORD, ROB",Democrat,1,,,,Endorsed for State Treasurer,0.96
+PA,Scranton Times-Tribune,141600,2014,GOVERNOR,,,PA,"WOLF, TOM",Democrat,1,,,,Endorsed for Governor,0.97
+PA,Scranton Times-Tribune,141600,2014,H,10,,PA,"BRION, SCOTT",Democrat,1,,,,Endorsed for 10th Congressional District,0.92
+PA,Scranton Times-Tribune,141600,2014,H,17,,PA,"CARTWRIGHT, MATT",Democrat,1,,,,Incumbent endorsed for 17th Congressional District,0.96
+PA,Scranton Times-Tribune,141600,2014,STATE REP,113,,PA,"FLYNN, MARTY",Democrat,1,,,,Endorsed for 113th District,0.95
+PA,Scranton Times-Tribune,141600,2014,STATE REP,114,,PA,"KAVULICH, SID MICHAELS",Democrat,1,,,,Endorsed for 114th District,0.95
+PA,Scranton Times-Tribune,141600,2014,STATE REP,117,,PA,"BOBACK, KAREN",Republican,1,,,,Endorsed for 117th District,0.92
+PA,Scranton Times-Tribune,141600,2014,STATE SENATOR,22,,PA,"BLAKE, JOHN",Democrat,1,,,,Endorsed for 22nd District State Senate,0.96
+PA,Scranton Times-Tribune,141600,2016,ATTORNEY GENERAL,,,PA,"SHAPIRO, JOSH",Democrat,1,,,,Endorsed for Attorney General,0.96
+PA,Scranton Times-Tribune,141600,2016,AUDITOR,,,PA,"DEPASQUALE, EUGENE",Democrat,1,,,,Endorsed for Auditor General,0.96
+PA,Scranton Times-Tribune,141600,2016,H,10,,PA,"MOLESEVICH, MIKE",Democrat,1,,,,Endorsed for 10th Congressional District,0.93
+PA,Scranton Times-Tribune,141600,2016,H,11,,PA,"BARLETTA, LOU",Republican,1,,,,Endorsed for 11th Congressional District,0.96
+PA,Scranton Times-Tribune,141600,2016,H,17,,PA,"CARTWRIGHT, MATT",Democrat,1,,,,Endorsed for 17th Congressional District,0.96
+PA,Scranton Times-Tribune,141600,2016,PRESIDENT,,,PA,"CLINTON, HILLARY",Democrat,1,,,,"Only candidate ready to assume presidency in experience, preparation and temperament; flawed but superior to Trump",0.98
+PA,Scranton Times-Tribune,141600,2016,SENATOR,,,PA,"MCGINTY, KATIE",Democrat,1,,,,Endorsed for U.S. Senate,0.97
+PA,Scranton Times-Tribune,141600,2016,STATE REP,112,,PA,"LEMONCELLI, ERNEST",Republican,1,,,,Endorsed for 112th District,0.92
+PA,Scranton Times-Tribune,141600,2016,STATE REP,113,,PA,"BURGERHOFF, DAVID",Democrat,1,,,,Endorsed for 113th District,0.90
+PA,Scranton Times-Tribune,141600,2016,STATE REP,114,,PA,"KAVULICH, SID MICHAELS",Democrat,1,,,,Endorsed for 114th District,0.95
+PA,Scranton Times-Tribune,141600,2016,TREASURER,,,PA,"TORSELLA, JOE",Democrat,1,,,,Endorsed for State Treasurer,0.96
+PA,Scranton Times-Tribune,141600,2018,GOVERNOR,,,PA,"WOLF, TOM",Democrat,1,,,,"Steady hand in first term; worked to increase school funding, raise ethical standards, fight opioid crisis with Republican majorities; Republican Scott Wagner has wrong temperament",0.97
+PA,Scranton Times-Tribune,141600,2018,H,12,,PA,"FRIEDENBERG, MARC",Democrat,1,,,,Lawyer and Penn State professor; would expand health care access and favors infrastructure plan with rural broadband; incumbent Marino laid low since revelations about pharmaceutical campaign cash,0.95
+PA,Scranton Times-Tribune,141600,2018,H,8,,PA,"CARTWRIGHT, MATT",Democrat,1,,,,Moosic Democrat in third term representing former 17th District; strong record on Tobyhanna Army Depot; member of Appropriations Committee; Republican Chrin smart but no convincing argument to unseat,0.96
+PA,Scranton Times-Tribune,141600,2018,SENATOR,,,PA,"CASEY, BOB",Democrat,1,,,,"Aggressive advocate on immigration, health care, Social Security, Medicare; Republican challenger Rep. Lou Barletta built career on anti-immigration demagoguery and loyalty to Trump",0.97
+PA,Scranton Times-Tribune,141600,2018,STATE REP,112,,PA,"MULLINS, KYLE",Democrat,1,,,,33-year-old former legislative director for Blake; would face no learning curve building seniority and clout; Republican Lemoncelli capable but newcomer,0.96
+PA,Scranton Times-Tribune,141600,2018,STATE SENATOR,22,,PA,"BLAKE, JOHN",Democrat,1,,,,Archbald Democrat; strong record of leadership in two terms; deserves third; Republican Scavo's campaign based on bad tax policy,0.96
+PA,Scranton Times-Tribune,141600,2020,ATTORNEY GENERAL,,,PA,"SHAPIRO, JOSH",Democrat,1,,,,Incumbent Democrat endorsed for Attorney General,0.97
+PA,Scranton Times-Tribune,141600,2020,AUDITOR,,,PA,"DEFOOR, TIMOTHY",Republican,1,,,,Endorsed for Auditor General,0.96
+PA,Scranton Times-Tribune,141600,2020,H,8,,PA,"CARTWRIGHT, MATT",Democrat,1,,,,Incumbent endorsed for 8th Congressional District,0.97
+PA,Scranton Times-Tribune,141600,2020,PRESIDENT,,,PA,"BIDEN, JOSEPH R",Democrat,1,,,,Endorsed for President,0.98
+PA,Scranton Times-Tribune,141600,2020,STATE REP,112,,PA,"MULLINS, KYLE",Democrat,1,,,,Incumbent endorsed for 112th District,0.96
+PA,Scranton Times-Tribune,141600,2020,STATE REP,113,,PA,"FLYNN, MARTY",Democrat,1,,,,Incumbent endorsed for 113th District,0.96
+PA,Scranton Times-Tribune,141600,2020,STATE REP,114,,PA,"KOSIEROWSKI, BRIDGET MALLOY",Democrat,1,,,,Incumbent endorsed for 114th District,0.96
+PA,Scranton Times-Tribune,141600,2020,STATE REP,118,,PA,"CARROLL, MIKE",Democrat,1,,,,Incumbent endorsed for 118th District,0.96
+PA,Scranton Times-Tribune,141600,2020,TREASURER,,,PA,"TORSELLA, JOE",Democrat,1,,,,Incumbent Democrat endorsed for Treasurer,0.97

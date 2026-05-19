@@ -1,0 +1,13 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+IN,Indianapolis News,113651,1968,IN,REFERENDUM,,Pari-mutuel betting referendum,0,Probable disadvantages outweigh advantages especially in crime,0.94
+IN,Indianapolis News,113651,1970,IN,AMENDMENT,,4-year terms for Secretary of State Auditor Treasurer,1,Technical change but generally favorable,0.90
+IN,Indianapolis News,113651,1970,IN,AMENDMENT,,Judicial reform - governor nominates Supreme/Appellate judges,1,On balance favorable,0.92
+IN,Indianapolis News,113651,1970,IN,AMENDMENT,,Annual legislative sessions,0,Wrong for Indiana - should be defeated,0.93
+IN,Indianapolis News,113651,1972,IN,AMENDMENT,,Pocket veto reform - 7 day veto period,1,Back the veto - reasonable change,0.93
+IN,Indianapolis News,113651,1978,IN,AMENDMENT,,County sheriff term limits - allow more than two consecutive terms,0,No - keep two-term limit to frustrate political power accumulation,0.94
+IN,Indianapolis News,113651,1978,IN,AMENDMENT,1,Lt Gov succession; governor disability removal by Supreme Court,0,No to Amendment 1 - potentially dangerous Supreme Court power,0.94
+IN,Indianapolis News,113651,1986,IN,AMENDMENT,,Allow public employee retirement funds in stocks,0,Sendak opposes - News raises concerns,0.90
+IN,Indianapolis News,113651,1986,IN,AMENDMENT,,Common School Fund flexibility,0,Opposed,0.85
+IN,Indianapolis News,113651,1988,IN,AMENDMENT,,Repeal state lottery prohibition,0,Making the state a pusher - oppose state-promoted gambling,0.95
+IN,Indianapolis News,113651,1988,IN,AMENDMENT,3,Remove term limits on county elected officials,0,No on Prop 3 - keep current system,0.94
+IN,Indianapolis News,113651,1990,IN,AMENDMENT,2,Allow state public employee retirement funds in stocks/securities,0,Amendment to kill - unnecessarily risks retirement money,0.94

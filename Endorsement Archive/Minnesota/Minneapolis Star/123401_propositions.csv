@@ -1,0 +1,13 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+MN,Minneapolis Star,123401,1964,MN,AMENDMENT,1,Taconite amendment - reasonable tax treatment for 25 years,1,Encourage processing plants on Iron Range,0.94
+MN,Minneapolis Star,123401,1964,MN,AMENDMENT,2,Remove or improve 8 obsolete sections of state constitution,1,Non-controversial; vote Yes,0.94
+MN,Minneapolis Star,123401,1964,MN,AMENDMENT,2,Constitutional updates removing obsolete provisions,1,Yes,0.94
+MN,Minneapolis Star,123401,1974,MN,AMENDMENT,1,Constitutional amendment - modify rules,1,Yes on three amendments,0.92
+MN,Minneapolis Star,123401,1974,MN,LOCAL,,School bond referendum,1,Yes vote,0.90
+MN,Minneapolis Star,123401,1976,MN,LOCAL,,Minneapolis city charter referendums (3),1,Yes on all three,0.92
+MN,Minneapolis Star,123401,1978,MN,LOCAL,,Minneapolis city charter amendment - extend mayor term from 2 to 4 years,1,Sensible step; logical follow-up to 1976 amendment,0.93
+MN,Minneapolis Star,123401,1980,MN,AMENDMENT,1,Bipartisan commission to reapportion state legislative/congressional districts,1,Badly needed - Yes,0.94
+MN,Minneapolis Star,123401,1980,MN,AMENDMENT,2,Spending limits and disclosure for state election campaigns,0,No,0.92
+MN,Minneapolis Star,123401,1980,MN,AMENDMENT,3,Remove obsolete restrictions on highway bonds,1,Yes,0.92
+MN,Minneapolis Star,123401,1980,MN,AMENDMENT,4,1980 amendment 4,0,No,0.90
+MN,Minneapolis Star,123401,1980,MN,AMENDMENT,5,1980 amendment 5,1,Yes,0.90

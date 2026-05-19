@@ -1,0 +1,15 @@
+Newspaper Name: Minneapolis Star
+Newspaper ID: 123401
+State: MN
+Processing Date: 2026-05-15
+
+Clippings: 34
+Date range: 1960-1980
+Total candidate records: 125 (endorsed 104, opposed 21)
+Total proposition records: 12 (endorsed 10, opposed 2)
+Mean confidence: 0.92
+
+Notes:
+- Evening daily paper from 1920 until April 1982 merger with Tribune
+- After merger, paper became "Minneapolis Star and Tribune" (later "Star Tribune", ID 123400)
+- More centrist editorial voice than Tribune

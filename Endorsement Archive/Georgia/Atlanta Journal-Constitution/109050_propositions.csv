@@ -1,0 +1,29 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,A,State referendum A: Enhanced tax relief for low-income seniors from school taxes,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,B,State referendum B: Allow homestead exemption for spouses of those who die years later from war-related injury,0,No,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,C,State referendum C: Property tax breaks for medical museums,0,No,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,Cobb-1,Cobb referendum: Create tax allocation districts to help redevelop blighted areas,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,Cobb-2,Cobb referendum: Grant Austell homeowners a homestead exemption,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,D,State referendum D: Property tax breaks for owners of commercial fishing boats,0,No,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,DeKalb-1,DeKalb referendum: Create tax allocation districts to help redevelop blighted areas,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,DeKalb-2,DeKalb referendum: Give homeowners a small property tax cut as long as a temporary sales tax collected for schools remains in effect,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,E,State referendum E: Raise exemptions for ad valorem taxes on personal property (excluding cars),1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,F,State referendum F: Create voluntary license plates to pay for pet sterilizations,1,Yes,0.90
+GA,Atlanta Journal-Constitution,109050,2002,GA,REFERENDUM,Gwinnett-1,Gwinnett referendum: Bonds for jail expansion,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2004,GA,AMENDMENT,1,Amendment One: Definition of marriage,0,No,0.95
+GA,Atlanta Journal-Constitution,109050,2004,GA,AMENDMENT,2,Amendment Two: Supreme Court jurisdiction,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2006,GA,AMENDMENT,1,Constitutional Amendment 1: restrict use of eminent domain to take private property,1,Yes; warrants approval (only one of three that warrants approval),0.95
+GA,Atlanta Journal-Constitution,109050,2006,GA,BOND,,Cobb County $40 million bond referendum to buy parkland,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2006,GA,REFERENDUM,,Gwinnett tax allocation districts to redo declining areas,1,Yes; approve,0.95
+GA,Atlanta Journal-Constitution,109050,2006,GA,TAX,,DeKalb temporary residential property assessment freeze that would treat newcomers unfairly,0,No,0.95
+GA,Atlanta Journal-Constitution,109050,2006,GA,TAX,,Gwinnett 1 percent sales tax for school construction,1,Yes; renew,0.95
+GA,Atlanta Journal-Constitution,109050,2008,GA,AMENDMENT,1,Allow lower property taxes on Georgia forest land,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2008,GA,AMENDMENT,2,Allow local school districts to participate in tax-allocation districts that would encourage development,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2008,GA,AMENDMENT,3,Allow creation of 'private cities' with taxing power,0,No,0.95
+GA,Atlanta Journal-Constitution,109050,2008,GA,BOND,,Cobb County: Issue $40 million in bonds to buy park land,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2008,GA,BOND,,"Atlanta/Fulton County: Issue $275 million in bonds to build new libraries, including a new downtown central library",0,No,0.95
+GA,Atlanta Journal-Constitution,109050,2008,GA,REFERENDUM,,Atlanta/Fulton County: Increase general homestead exemptions and give lower-income senior citizens additional tax break on property taxes,1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2008,GA,REFERENDUM,,"DeKalb County: Give Commission authority to set own agenda, a power now vested in chief executive officer",1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2008,GA,TAX,,"Gwinnett County: Renew 1 percent sales tax for roads, bridges, libraries, public safety and other improvements",1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2008,GA,TAX,,"Fayette County: 1 percent special-purpose local option sales tax to pay down existing debt on school bonds; build, renovate and repair schools; and underwrite technology, buses, textbooks, safety, security and maintenance",1,Yes,0.95
+GA,Atlanta Journal-Constitution,109050,2012,GA,AMENDMENT,1,"Charter school amendment: would resurrect a state commission that could approve new charter schools, serving relatively few students",0,No on Amendment One; cash-strapped Georgia should focus on bettering K-12 schooling for all children in our public schools; Georgia doesn't need the big-foot authority of a state commission that could overrule the intent of local school boards,0.95

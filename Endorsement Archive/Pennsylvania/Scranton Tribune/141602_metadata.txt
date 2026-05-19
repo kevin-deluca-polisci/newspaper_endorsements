@@ -1,0 +1,34 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Scranton Tribune
+Newspaper ID: 141602
+State: PA
+Number of clippings: 63
+Endorsement data years: 1950-2004
+Total candidate endorsements: 166
+Total proposition endorsements: 10
+
+Confidence statistics:
+  Mean confidence: 0.903
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 68
+  H: 20
+  SENATOR: 12
+  PRESIDENT: 12
+  TREASURER: 10
+  GOVERNOR: 9
+  STATE SENATOR: 9
+  AUDITOR: 9
+  ATTORNEY GENERAL: 6
+  LT GOVERNOR: 4
+  VICE PRESIDENT: 3
+  JUDGE: 2
+  SEC OF STATE: 1
+  SUPREME COURT: 1
+
+Party distribution:
+  Republican: 104
+  Democrat: 51

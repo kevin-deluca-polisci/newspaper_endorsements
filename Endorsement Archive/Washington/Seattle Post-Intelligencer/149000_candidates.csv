@@ -1,0 +1,854 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+WA,Seattle Post-Intelligencer,149000,1964,GOVERNOR,,,WA,"ROSELLINI, ALBERT D.",Democrat,1,1,,,"P-I endorses Rosellini for re-election citing eight years of economic progress and stability, fiscal responsibility, and administrative ability.",0.95
+WA,Seattle Post-Intelligencer,149000,1964,PRESIDENT,,,WA,"JOHNSON, LYNDON BAINES",Democrat,1,1,,,Editor's Report by William Randolph Hearst Jr. (Hearst Newspapers Editor-in-Chief) endorses Johnson as 'the better man for the job' over Goldwater.,0.90
+WA,Seattle Post-Intelligencer,149000,1966,ASSESSOR,,King County,WA,"MORGAN, ALLEN B.",Nonpartisan,1,,,,Re-election of incumbent supported - good record of performance.,0.85
+WA,Seattle Post-Intelligencer,149000,1966,AUDITOR,,King County,WA,"MORRIS, R. A. (BOBBY)",Nonpartisan,1,,,,Re-election of incumbent supported - good record of performance.,0.85
+WA,Seattle Post-Intelligencer,149000,1966,CNTY CLERK,,King County,WA,"RENSCHLER, WALTER W.",Nonpartisan,1,,,,Re-election of incumbent supported - good record of performance.,0.85
+WA,Seattle Post-Intelligencer,149000,1966,CNTY COMM,,King County,WA,"WALLACE, SCOTT",Democrat,1,1,,,"Should be re-elected King County Commissioner. Responsible for excellent county programs including flood control, parks, road improvements, air pollution controls. Opposed by Republican John D. Spellman.",0.95
+WA,Seattle Post-Intelligencer,149000,1966,DA/PROSECUTOR,,King County,WA,"CARROLL, CHARLES O.",Republican,1,,1,,"Continuing as prosecuting attorney (held office 18 years); reputation for honesty, good record of convictions. Opposed by Democrat Philip R. Meade.",0.95
+WA,Seattle Post-Intelligencer,149000,1966,H,1,,WA,"PELLY, TOM",Republican,1,,1,,Senior member of delegation; years of experience valuable; knows district issues. Opponent Alice Franklin Bryant has shown little knowledge of district issues.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,H,2,,WA,"MEEDS, LLOYD",Democrat,1,1,,,"Aggressive, knowledgeable and courageous in his freshman term; given the nod over Republican Eugene M. Smith on his record.",0.95
+WA,Seattle Post-Intelligencer,149000,1966,H,3,,WA,"HANSEN, JULIA BUTLER",Democrat,1,1,,,Holds important positions on Interior and Appropriations Committees; valuable background. Opponent Keith Kisor has no political background.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,H,4,,WA,"MAY, CATHERINE",Republican,1,,1,,Conservative popular in agrarian district; tough fighter for constituents. Performance entitles her to continue in office over Dr. Gustav Ransmer.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,H,5,,WA,"FOLEY, THOMAS S.",Democrat,1,1,,,State's most knowledgeable legislator on water diversion and agriculture; one of the most outstanding young men in Congress. State cannot afford to lose his growing influence.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,H,6,,WA,"HICKS, FLOYD",Democrat,1,1,,,"Member of House Armed Services Committee, highly regarded by chairman. Favored over ex-Navy Capt. George Mahler for impact he has made on the job.",0.95
+WA,Seattle Post-Intelligencer,149000,1966,H,7,,WA,"ADAMS, BROCK",Democrat,1,1,,,Aggressive and brilliant in his grasp of economic and urban problems; effective representation. Endorsed over James Munn.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,JUDGE,,King County Coroner,WA,"JENSEN, ERIC H.",Democrat,1,,,,Supported in effort to unseat Coroner Leo M. Sowers. Believes coroner post should be replaced with medical examiner system.,0.90
+WA,Seattle Post-Intelligencer,149000,1966,SHERIFF,,King County,WA,"PORTER, JACK D.",Nonpartisan,1,,,,Re-election of incumbent supported - good record of performance.,0.85
+WA,Seattle Post-Intelligencer,149000,1966,TREASURER,,King County,WA,"WILLIAMS, M. J. R. (MEL)",Nonpartisan,1,,,,Re-election of incumbent supported - good record of performance.,0.85
+WA,Seattle Post-Intelligencer,149000,1968,ATTORNEY GENERAL,,,WA,"GORTON, SLADE",Republican,1,,,,P-I Recommends - For Gorton,0.90
+WA,Seattle Post-Intelligencer,149000,1968,AUDITOR,,,WA,"GRAHAM, R. V.",Democrat,1,1,,,P-I Recommends - For Graham,0.85
+WA,Seattle Post-Intelligencer,149000,1968,CNTY COMM,1,King County,WA,"O'BRIEN, JOHN",Republican,1,,,,P-I Recommends - For O'Brien (County Commissioner 1st District),0.80
+WA,Seattle Post-Intelligencer,149000,1968,CNTY COMM,2,King County,WA,"FORSYTHE, THOMAS",Republican,1,,,,P-I Recommends - For Forsythe (County Commissioner 2nd District),0.80
+WA,Seattle Post-Intelligencer,149000,1968,GOVERNOR,,,WA,"EVANS, DANIEL",Republican,1,,1,,P-I Recommends - For Evans,0.90
+WA,Seattle Post-Intelligencer,149000,1968,H,1,,WA,"PELLY, TOM",Republican,1,,1,,P-I Recommends - For Pelly,0.90
+WA,Seattle Post-Intelligencer,149000,1968,H,2,,WA,"MEEDS, LLOYD",Democrat,1,1,,,P-I Recommends - For Meeds,0.90
+WA,Seattle Post-Intelligencer,149000,1968,H,6,,WA,"HICKS, FLOYD V.",Democrat,1,1,,,P-I Recommends - For Hicks,0.90
+WA,Seattle Post-Intelligencer,149000,1968,H,7,,WA,"ADAMS, BROCK",Democrat,1,1,,,P-I Recommends - For Adams,0.90
+WA,Seattle Post-Intelligencer,149000,1968,INSURANCE COMMISSIONER,,,WA,"HERRMANN, KARL",Democrat,1,,,,P-I Recommends - For Herrmann,0.85
+WA,Seattle Post-Intelligencer,149000,1968,JUDGE,,King County Superior Court Position 3,WA,"SMITH, GEORGE",Nonpartisan,1,,,,P-I Recommends - For Smith (Superior Court Position 3),0.75
+WA,Seattle Post-Intelligencer,149000,1968,JUDGE,,District Justice Court (write-in),WA,"STOKES, CHARLES M.",Nonpartisan,1,,,,P-I Recommends - For Stokes (District Justice Court Judge - write-in),0.85
+WA,Seattle Post-Intelligencer,149000,1968,LAND COMMISSIONER,,,WA,"COLE, BERT",Democrat,1,1,,,P-I Recommends - For Cole (Comm of Public Lands),0.90
+WA,Seattle Post-Intelligencer,149000,1968,LT GOVERNOR,,,WA,"CHERBERG, JOHN",Democrat,1,1,,,P-I Recommends - For Cherberg,0.90
+WA,Seattle Post-Intelligencer,149000,1968,PRESIDENT,,,WA,"NIXON, RICHARD",Republican,1,,,,P-I Recommends - For Nixon,0.90
+WA,Seattle Post-Intelligencer,149000,1968,SEC OF STATE,,,WA,"KRAMER, A. LUDLOW",Republican,1,,1,,P-I Recommends - For Kramer,0.90
+WA,Seattle Post-Intelligencer,149000,1968,SENATOR,,,WA,"MAGNUSON, WARREN",Democrat,1,1,,,P-I Recommends - For Magnuson,0.90
+WA,Seattle Post-Intelligencer,149000,1968,TREASURER,,,WA,"O'BRIEN, ROBERT",Democrat,1,1,,,P-I Recommends - For O'Brien,0.85
+WA,Seattle Post-Intelligencer,149000,1970,DA/PROSECUTOR,,King County,WA,"BAYLEY, CHRISTOPHER T.",Republican,1,,,,P-I Election Recommendations - King County Prosecutor,0.90
+WA,Seattle Post-Intelligencer,149000,1970,H,1,,WA,"PELLY, TOM",Republican,1,,1,,P-I Election Recommendations - First District,0.95
+WA,Seattle Post-Intelligencer,149000,1970,H,2,,WA,"MEEDS, LLOYD",Democrat,1,1,,,P-I Election Recommendations - Second District,0.95
+WA,Seattle Post-Intelligencer,149000,1970,H,3,,WA,"HANSEN, JULIA BUTLER",Democrat,1,1,,,P-I Election Recommendations - Third District,0.95
+WA,Seattle Post-Intelligencer,149000,1970,H,4,,WA,"MAY, CATHERINE",Republican,1,,1,,P-I Election Recommendations - Fourth District,0.95
+WA,Seattle Post-Intelligencer,149000,1970,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,P-I Election Recommendations - Fifth District,0.95
+WA,Seattle Post-Intelligencer,149000,1970,H,6,,WA,"HICKS, FLOYD V.",Democrat,1,1,,,P-I Election Recommendations - Sixth District,0.95
+WA,Seattle Post-Intelligencer,149000,1970,H,7,,WA,"ADAMS, BROCK",Democrat,1,1,,,P-I Election Recommendations - Seventh District,0.95
+WA,Seattle Post-Intelligencer,149000,1970,JUDGE,1,Seattle Justice Court,WA,"NIEMI, JANICE",Nonpartisan,1,,,,Seattle Justice Court Position No. 1,0.90
+WA,Seattle Post-Intelligencer,149000,1970,SENATOR,,,WA,"JACKSON, HENRY M.",Democrat,1,1,,,P-I Election Recommendations - United States Senator,0.95
+WA,Seattle Post-Intelligencer,149000,1970,STATE REP,31,,WA,"LEE, ELEANOR",Republican,1,,,,P-I selected 11 key races; State Rep 31st District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1970,STATE REP,37,,WA,"ROSS, MICHAEL K.",Republican,1,,,,P-I selected 11 key races; State Rep 37th District Position 1,0.80
+WA,Seattle Post-Intelligencer,149000,1970,STATE REP,41,,WA,"MAGEE, JOHN M.",Republican,1,,,,P-I selected 11 key races; State Rep 41st District Position 2,0.80
+WA,Seattle Post-Intelligencer,149000,1970,STATE REP,43,,WA,"MCDERMOTT, JIM",Democrat,1,,,,P-I selected 11 key races; State Rep 43rd District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1970,STATE REP,49,,WA,"SMYTHE, RICHARD",Republican,1,,,,P-I selected 11 key races; State Rep 49th District Position 2 (Vancouver),0.80
+WA,Seattle Post-Intelligencer,149000,1970,STATE SENATOR,30,,WA,"CURRAN, JAMES P.",Republican,1,,,,P-I selected 11 key races; State Senator 30th District,0.80
+WA,Seattle Post-Intelligencer,149000,1970,STATE SENATOR,31,,WA,"LECKENBY, WILLIAM S.",Republican,1,,,,P-I selected 11 key races; State Senator 31st District,0.80
+WA,Seattle Post-Intelligencer,149000,1970,STATE SENATOR,32,,WA,"MCCAFFREE, MARY ELLEN",Republican,1,,,,P-I selected 11 key races; State Senator 32nd District,0.85
+WA,Seattle Post-Intelligencer,149000,1970,STATE SENATOR,35,,WA,"RIDDER, ROBERT",Democrat,1,,,,P-I selected 11 key races; State Senator 35th District,0.80
+WA,Seattle Post-Intelligencer,149000,1970,STATE SENATOR,45,,WA,"MARQUARDT, RICHARD",Republican,1,,,,P-I selected 11 key races; State Senator 45th District,0.80
+WA,Seattle Post-Intelligencer,149000,1972,ATTORNEY GENERAL,,,WA,"DORE, FRED",Democrat,1,,,,VOTE FOR DORE.,0.85
+WA,Seattle Post-Intelligencer,149000,1972,AUDITOR,,,WA,"GRAHAM, R. V. (BOB)",Democrat,1,1,,,Vote for Graham (incumbent Auditor).,0.85
+WA,Seattle Post-Intelligencer,149000,1972,GOVERNOR,,,WA,"EVANS, DANIEL J.",Republican,1,,1,,"P-I clearly endorses Evans - most imaginative, courageous candidate; counter the demands of his own Republican Party. VOTE FOR EVANS.",0.95
+WA,Seattle Post-Intelligencer,149000,1972,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,,,VOTE FOR PRITCHARD - 1st Congressional District.,0.95
+WA,Seattle Post-Intelligencer,149000,1972,H,2,,WA,"MEEDS, LLOYD",Democrat,1,1,,,VOTE FOR MEEDS - 2nd Congressional District.,0.95
+WA,Seattle Post-Intelligencer,149000,1972,H,3,,WA,"HANSEN, JULIA BUTLER",Democrat,1,1,,,VOTE FOR HANSEN - 3rd Congressional District.,0.95
+WA,Seattle Post-Intelligencer,149000,1972,H,4,,WA,"MCCORMACK, MIKE",Democrat,1,,,,VOTE FOR MCCORMACK - 4th Congressional District.,0.95
+WA,Seattle Post-Intelligencer,149000,1972,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,VOTE FOR FOLEY - 5th Congressional District.,0.95
+WA,Seattle Post-Intelligencer,149000,1972,H,6,,WA,"HICKS, FLOYD V.",Democrat,1,1,,,VOTE FOR HICKS - 6th Congressional District.,0.95
+WA,Seattle Post-Intelligencer,149000,1972,H,7,,WA,"ADAMS, BROCK",Democrat,1,1,,,VOTE FOR ADAMS - 7th Congressional District.,0.95
+WA,Seattle Post-Intelligencer,149000,1972,INSURANCE COMMISSIONER,,,WA,"HERRMANN, KARL",Democrat,1,1,,,VOTE FOR HERRMANN.,0.90
+WA,Seattle Post-Intelligencer,149000,1972,JUDGE,,Superior Court Position 6,WA,"ACKLEY, NORMAN B.",Nonpartisan,1,,,,VOTE FOR ACKLEY - Superior Court Position 6.,0.90
+WA,Seattle Post-Intelligencer,149000,1972,JUDGE,,Superior Court Position 18,WA,"CLARK, IRVING JR.",Nonpartisan,1,,,,VOTE FOR CLARK - Superior Court Position 18.,0.85
+WA,Seattle Post-Intelligencer,149000,1972,JUDGE,,Superior Court Position 1,WA,"STEERE, PETER K.",Nonpartisan,1,,,,VOTE FOR STEERE - Superior Court Position 1.,0.90
+WA,Seattle Post-Intelligencer,149000,1972,JUDGE,,Superior Court Position 2,WA,"TURNER, THEODORE S.",Nonpartisan,1,,,,VOTE FOR TURNER - Superior Court Position 2.,0.85
+WA,Seattle Post-Intelligencer,149000,1972,LAND COMMISSIONER,,,WA,"COLE, BERT",Democrat,1,1,,,Vote for Cole (Commissioner of Public Lands).,0.85
+WA,Seattle Post-Intelligencer,149000,1972,LT GOVERNOR,,,WA,"CHERBERG, JOHN A.",Democrat,1,1,,,VOTE FOR CHERBERG.,0.95
+WA,Seattle Post-Intelligencer,149000,1972,SEC OF STATE,,,WA,"KRAMER, A. LUDLOW",Republican,1,,1,,Retain Kramer in office; effectively in public needs.,0.90
+WA,Seattle Post-Intelligencer,149000,1972,SUPERINTENDENT,,Superintendent of Public Instruction,WA,,,,,,,NO RECOMMENDATION between Brouillet and Bever (Superintendent of Public Instruction),0.85
+WA,Seattle Post-Intelligencer,149000,1972,TREASURER,,,WA,"BROOKS, ROBERT S. O'BRIEN",Republican,1,,,,VOTE FOR BROOKS.,0.75
+WA,Seattle Post-Intelligencer,149000,1974,DA/PROSECUTOR,,King County,WA,"BAYLEY, CHRISTOPHER T.",Republican,1,,1,,P-I Choices - King County Prosecutor,0.90
+WA,Seattle Post-Intelligencer,149000,1974,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,P-I Choices - First Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1974,H,2,,WA,"MEEDS, LLOYD",Democrat,1,1,,,P-I Choices - Second Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1974,H,3,,WA,,,,,,,No Recommendation - Third Congressional District,0.90
+WA,Seattle Post-Intelligencer,149000,1974,H,4,,WA,"MCCORMACK, MIKE",Democrat,1,1,,,P-I Choices - Fourth Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1974,H,5,,WA,"FOLEY, THOMAS S.",Democrat,,1,,,Fifth Congressional District - Foley listed but no clear checkmark visible,0.60
+WA,Seattle Post-Intelligencer,149000,1974,H,6,,WA,"HICKS, FLOYD V.",Democrat,1,1,,,P-I Choices - Sixth Congressional District,0.90
+WA,Seattle Post-Intelligencer,149000,1974,H,7,,WA,"ADAMS, BROCK",Democrat,1,1,,,P-I Choices - Seventh Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1974,JUDGE,,Federal Way Justice Court,WA,"LEVERETTE, E. T. (WOODY)",Nonpartisan,1,,,,P-I Choices - Justice Court District Federal Way,0.85
+WA,Seattle Post-Intelligencer,149000,1974,JUDGE,,Roxbury Justice Court,WA,"THOMPSON, RICHARD P.",Nonpartisan,1,,,,P-I Choices - Justice Court District Roxbury,0.85
+WA,Seattle Post-Intelligencer,149000,1974,SENATOR,,,WA,"MAGNUSON, WARREN G.",Democrat,1,1,,,P-I Choices - U.S. Senate,0.95
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,1,,WA,"BROWN, ARTHUR C.",Republican,1,,,,P-I Choices - District 1 (House Pos. 1) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,23,,WA,"RANDALL, ROBERT W.",Republican,1,,,,P-I Choices - District 23 (House Pos. 1) Kitsap County,0.80
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,26,,WA,"HANNA, RON",Republican,1,,,,P-I Choices - District 26 (House Pos. 2) Pierce County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,26,,WA,"HAWKINS, JOHN B.",Democrat,1,,,,P-I Choices - District 26 (House Pos. 1) Pierce County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,28,,WA,"HALEY, TED",Republican,1,,,,P-I Choices - District 28 (House Pos. 2) Pierce County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,33,,WA,"LEE, ELEANOR",Republican,1,,,,P-I Choices - District 33 (House Pos. 1) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,34,,WA,"LECKENBY, WILLIAM S. (BILL)",Republican,1,,,,P-I Choices - District 34 (House Pos. 1) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,36,,WA,"MOORE, RAY",Democrat,1,,,,P-I Choices - District 36 (House Pos. 2) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,P-I Choices - District 36 (House Pos. 1) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,38,,WA,"GARRER, JOHN NANCE",Republican,1,,,,P-I Choices - District 38 (House Pos.) Snohomish County,0.75
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,39,,WA,"MOON, CHARLES",Republican,1,,,,P-I Choices - District 39 (House Pos. 2) Snohomish County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,43,,WA,"PETERSON, WARREN",Republican,1,,,,P-I Choices - District 43 (House Pos. 2) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,44,,WA,"CHARNLEY, DONN",Democrat,1,,,,P-I Choices - District 44 (House Pos. 1) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,45,,WA,"CHANDLER, ROD",Republican,1,,,,P-I Choices - District 45 (House Pos. 1) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,46,,WA,"KRAABEL, PAUL B.",Republican,1,,,,P-I Choices - District 46 (House Pos. 1) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE REP,47,,WA,"SHERMER, MARION KYLE",Democrat,1,,,,P-I Choices - District 47 (House Pos. 1) King County,0.80
+WA,Seattle Post-Intelligencer,149000,1974,STATE SENATOR,21,,WA,"GOULD, SUE",Republican,1,,,,P-I Choices - District 21 (Senate) Snohomish County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE SENATOR,30,,WA,"VON REICHBAUER, PETER",Republican,1,,,,P-I Choices - District 30 (Senate) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE SENATOR,34,,WA,"GREIVE, R. R. (BOB)",Democrat,1,,,,P-I Choices - District 34 (Senate) King County,0.80
+WA,Seattle Post-Intelligencer,149000,1974,STATE SENATOR,36,,WA,"MURRAY, JOHN S.",Republican,1,,,,P-I Choices - District 36 (Senate) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE SENATOR,43,,WA,"MCDERMOTT, JIM",Democrat,1,,,,P-I Choices - District 43 (Senate) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE SENATOR,44,,WA,"NORTH, LOIS",Republican,1,,,,P-I Choices - District 44 (Senate) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",Republican,1,,,,P-I Choices - District 45 (Senate) King County,0.85
+WA,Seattle Post-Intelligencer,149000,1974,SUPREME COURT,,Washington State Supreme Court,WA,"HOROWITZ, CHARLES",Nonpartisan,1,,,,P-I Choices - State Supreme Court,0.90
+WA,Seattle Post-Intelligencer,149000,1974,TREASURER,,City of Seattle,WA,"KELLY, JOHN W.",Nonpartisan,1,,,,P-I Choices - City of Seattle Treasurer,0.85
+WA,Seattle Post-Intelligencer,149000,1976,ATTORNEY GENERAL,,,WA,"GORTON, SLADE",Republican,1,1,,,P-I Choices - Attorney General,0.95
+WA,Seattle Post-Intelligencer,149000,1976,AUDITOR,,,WA,"GRAHAM, ROBERT V. (BOB)",Democrat,1,1,,,P-I Choices - State Auditor,0.95
+WA,Seattle Post-Intelligencer,149000,1976,GOVERNOR,,,WA,"SPELLMAN, JOHN D.",Republican,1,,,,P-I Choices - Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1976,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,P-I Choices - First District,0.95
+WA,Seattle Post-Intelligencer,149000,1976,H,2,,WA,"MEEDS, LLOYD",Democrat,1,1,,,P-I Choices - Second District,0.95
+WA,Seattle Post-Intelligencer,149000,1976,H,3,,WA,"BONKER, DON",Democrat,1,1,,,P-I Choices - Third District,0.95
+WA,Seattle Post-Intelligencer,149000,1976,H,4,,WA,"MCCORMACK, MIKE",Democrat,1,1,,,P-I Choices - Fourth District,0.95
+WA,Seattle Post-Intelligencer,149000,1976,H,5,,WA,"FOLEY, THOMAS S.",Democrat,1,1,,,P-I Choices - Fifth District,0.95
+WA,Seattle Post-Intelligencer,149000,1976,H,6,,WA,"DICKS, NORMAN D.",Democrat,1,,,,P-I Choices - Sixth District,0.95
+WA,Seattle Post-Intelligencer,149000,1976,H,7,,WA,"ADAMS, BROCK",Democrat,1,1,,,P-I Choices - Seventh District,0.95
+WA,Seattle Post-Intelligencer,149000,1976,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD G. (DICK)",Republican,1,,,,P-I Choices - Insurance Commissioner,0.95
+WA,Seattle Post-Intelligencer,149000,1976,JUDGE,,King County Superior Court,WA,"RINGOLD, SOLIE M.",Nonpartisan,1,,,,P-I Choices - King County Superior Court,0.90
+WA,Seattle Post-Intelligencer,149000,1976,LAND COMMISSIONER,,,WA,"COLE, BERT L.",Democrat,1,1,,,P-I Choices - Commissioner of Public Lands,0.95
+WA,Seattle Post-Intelligencer,149000,1976,LT GOVERNOR,,,WA,"CHERBERG, JOHN A.",Democrat,1,1,,,P-I Choices - Lieutenant Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1976,PRESIDENT,,,WA,"CARTER, JIMMY",Democrat,1,,,,P-I Choices - Carter and Mondale,0.95
+WA,Seattle Post-Intelligencer,149000,1976,SEC OF STATE,,,WA,"CHAPMAN, BRUCE K.",Republican,1,,,,P-I Choices - Secretary of State,0.95
+WA,Seattle Post-Intelligencer,149000,1976,SENATOR,,,WA,"JACKSON, HENRY M.",Democrat,1,1,,,P-I Choices - U.S. Senator,0.95
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,31,,WA,"LYSEN, KING",Democrat,1,,,,P-I Choices - District 31,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,31,,WA,"VALLE, GEORGETTE",Democrat,1,,,,P-I Choices - District 31,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,32,,WA,"NELSON, R. P.",Democrat,1,,,,P-I Choices - District 32,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,32,,WA,"WILLIAMS, AL",Democrat,1,,,,P-I Choices - District 32,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,33,,WA,"BARNES, RICHARD O.",Republican,1,,,,P-I Choices - District 33,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,33,,WA,"LEE, ELEANOR",Republican,1,,,,P-I Choices - District 33,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,34,,WA,"BONNEY, AURIO",Republican,1,,,,P-I Choices - District 34,0.80
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,34,,WA,"LECKENBY, WILLIAM S.",Republican,1,,,,P-I Choices - District 34,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,34,,WA,"PRUITT, PAUL",Republican,1,,,,P-I Choices - District 34,0.80
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,35,,WA,"LUX, GENE",Democrat,1,,,,P-I Choices - District 35,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,35,,WA,"O'BRIEN, JOHN L.",Democrat,1,,,,P-I Choices - District 35,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,36,,WA,"MOORE, RAY",Democrat,1,,,,P-I Choices - District 36,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,P-I Choices - District 36,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,36,,WA,"TALLER, JOE",Republican,1,,,,P-I Choices - District 36 (double endorsement noted),0.75
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,41,,WA,"CLARKE, GEORGE W.",Republican,1,,,,P-I Choices - District 41,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,43,,WA,"DOUTHWAITE, JEFF",Democrat,1,,,,P-I Choices - District 43 (double endorsement),0.75
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,43,,WA,"PETERSON, WARREN",Republican,1,,,,P-I Choices - District 43,0.80
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,43,,WA,"WILLIAMS, KATHRYN A.",Republican,1,,,,P-I Choices - District 43,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,44,,WA,"CHARNLEY, DONN",Democrat,1,,,,P-I Choices - District 44,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,44,,WA,"HURLEY, GEORGE S.",Democrat,1,,,,P-I Choices - District 44 (double endorsement),0.75
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,45,,WA,"CHANDLER, ROD",Republican,1,,,,P-I Choices - District 45,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,45,,WA,"KNEDLIK, WILL R.",Democrat,1,,,,P-I Choices - District 45 (double endorsement),0.75
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,46,,WA,"BLAIR, SCOTT",Republican,1,,,,P-I Choices - District 46,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,46,,WA,"GREENGO, IRV",Republican,1,,,,P-I Choices - District 46,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,47,,WA,"SHERMAN, MARION KYLE",Democrat,1,,,,P-I Choices - District 47,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE REP,48,,WA,"FREEMAN, KEMPER",Republican,1,,,,P-I Choices - District 48,0.85
+WA,Seattle Post-Intelligencer,149000,1976,STATE SENATOR,11,,WA,"GRANT, GARY",Democrat,1,,,,P-I Choices - State Legislature District 11 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1976,SUPREME COURT,,Washington State Supreme Court,WA,"DOLLIVER, JAMES M.",Nonpartisan,1,,,,P-I Choices - State Supreme Court,0.90
+WA,Seattle Post-Intelligencer,149000,1976,VICE PRESIDENT,,,WA,"MONDALE, WALTER",Democrat,1,,,,P-I Choices - Carter and Mondale,0.95
+WA,Seattle Post-Intelligencer,149000,1978,CITY COUNCIL,,Seattle,WA,"RICE, NORM",Nonpartisan,1,,,,Seattle City Council,0.90
+WA,Seattle Post-Intelligencer,149000,1978,DA/PROSECUTOR,,King County,WA,"MALENG, NORM",Republican,1,,,,King County Prosecutor,0.95
+WA,Seattle Post-Intelligencer,149000,1978,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,P-I Recommends - U.S. Congress District 1,0.95
+WA,Seattle Post-Intelligencer,149000,1978,H,2,,WA,"SWIFT, AL",Democrat,1,,,,P-I Recommends - U.S. Congress District 2,0.95
+WA,Seattle Post-Intelligencer,149000,1978,H,3,,WA,"BONKER, DON",Democrat,1,1,,,P-I Recommends - U.S. Congress District 3,0.95
+WA,Seattle Post-Intelligencer,149000,1978,H,4,,WA,"MCCORMACK, MIKE",Democrat,1,1,,,P-I Recommends - U.S. Congress District 4,0.95
+WA,Seattle Post-Intelligencer,149000,1978,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,P-I Recommends - U.S. Congress District 5,0.95
+WA,Seattle Post-Intelligencer,149000,1978,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,P-I Recommends - U.S. Congress District 6,0.95
+WA,Seattle Post-Intelligencer,149000,1978,H,7,,WA,"LOWRY, MIKE",Democrat,1,,,,P-I Recommends - U.S. Congress District 7,0.95
+WA,Seattle Post-Intelligencer,149000,1978,JUDGE,,King County Superior Court Position 26,WA,"PIEHLER, ARTHUR",Nonpartisan,1,,,,King County Superior Court Position 26,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,1,,WA,"BENDER, RICK",Democrat,1,,,,Legislature District 1 Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,1,,WA,"GRUGER, AUDREY",Democrat,1,,,,Legislature District 1 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,11,,WA,"GARRETT, AVERY",Democrat,1,,,,Legislature District 11 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,30,,WA,"EBERLE, BOB",Republican,1,,,,Legislature District 30 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,31,,WA,"KNUTZEN, KAREN",Republican,1,,,,Legislature District 31 Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,31,,WA,"VALLE, GEORGETTE",Democrat,1,,,,Legislature District 31 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,,,,Legislature District 32 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,33,,WA,"BARNES, RICHARD O.",Republican,1,,,,Legislature District 33 Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,,,,Legislature District 33 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,34,,WA,"DETROIT, BETSY ROSS",Democrat,1,,,,Legislature District 34 Position 1,0.80
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,34,,WA,"PRUITT, PAUL",Democrat,1,,,,Legislature District 34 Position 2,0.80
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,35,,WA,"LUX, EUGENE V.",Democrat,1,,,,Legislature District 35 Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,Legislature District 36 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,36,,WA,"TALLER, JOE",Republican,1,,,,Legislature District 36 Position 2,0.80
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,37,,WA,"ENG, JOHN",Democrat,1,,,,Legislature District 37 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,39,,WA,"ANDERSON, VERN",Democrat,1,,,,Legislature District 39 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,39,,WA,"SHINODA, PAUL",Republican,1,,,,Legislature District 39 Position 2,0.80
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,41,,WA,"POLK, WILLIAM",Republican,1,,,,Legislature District 41 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,43,,WA,"BURNS, BILL",Democrat,1,,,,Legislature District 43 Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,43,,WA,"DOUTHWAITE, JEFF",Democrat,1,,,,Legislature District 43 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,44,,WA,"CHARNLEY, DONN",Democrat,1,,,,Legislature District 44 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,44,,WA,"TUPPER, STEVE",Republican,1,,,,Legislature District 44 Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,45,,WA,"TEUTSCH, DELORES E.",Republican,1,,,,Legislature District 45 Position 2,0.80
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,46,,WA,"GREENGO, IRV",Republican,1,,,,Legislature District 46 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,47,,WA,"NORTH, FRANCES",Democrat,1,,,,Legislature District 47 Position 2,0.80
+WA,Seattle Post-Intelligencer,149000,1978,STATE REP,47,,WA,"SHERMAN, MARION KYLE",Democrat,1,,,,Legislature District 47 Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,30,,WA,"VON REICHBAUER, PETER",Democrat,1,,,,Legislature District 30 Senate,0.80
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,31,,WA,"LYSEN, KING",Democrat,1,,,,Legislature District 31 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,32,,WA,"DANIELS, TOD",Republican,1,,,,Legislature District 32 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,33,,WA,"LEE, ELEANOR",Republican,1,,,,Legislature District 33 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,34,,WA,"TALMADGE, PHIL",Democrat,1,,,,Legislature District 34 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,35,,WA,"RIDDER, RUTHE",Democrat,1,,,,Legislature District 35 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,36,,WA,"MURRAY, JOHN S.",Republican,1,,,,Legislature District 36 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,43,,WA,"MCDERMOTT, JAMES A.",Democrat,1,,,,Legislature District 43 Senate,0.90
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,44,,WA,"NORTH, LOIS",Republican,1,,,,Legislature District 44 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",Republican,1,,,,Legislature District 45 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1978,STATE SENATOR,46,,WA,"SCOTT, GEORGE",Republican,1,,,,Legislature District 46 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1978,SUPREME COURT,,Washington State Supreme Court Position 3,WA,"HOLMAN, FRANCIS",Nonpartisan,1,,,,Washington State Supreme Court Position 3,0.85
+WA,Seattle Post-Intelligencer,149000,1980,ATTORNEY GENERAL,,,WA,"MILLER, JOHN",Independent,1,,,,P-I Choices - Attorney General,0.85
+WA,Seattle Post-Intelligencer,149000,1980,AUDITOR,,,WA,"GRAHAM, ROBERT (BOB)",Democrat,1,1,,,P-I Choices - State Auditor,0.95
+WA,Seattle Post-Intelligencer,149000,1980,GOVERNOR,,,WA,"SPELLMAN, JOHN",Republican,1,,,,P-I Choices - Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1980,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,Congress First District,0.95
+WA,Seattle Post-Intelligencer,149000,1980,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,Congress Second District,0.95
+WA,Seattle Post-Intelligencer,149000,1980,H,3,,WA,"BONKER, DON",Democrat,1,1,,,Congress Third District,0.95
+WA,Seattle Post-Intelligencer,149000,1980,H,4,,WA,"MORRISON, SID",Republican,1,,,,Congress Fourth District,0.95
+WA,Seattle Post-Intelligencer,149000,1980,H,5,,WA,"FOLEY, THOMAS",Democrat,1,1,,,Congress Fifth District,0.95
+WA,Seattle Post-Intelligencer,149000,1980,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,Congress Sixth District,0.95
+WA,Seattle Post-Intelligencer,149000,1980,H,7,,WA,"LOWRY, MIKE",Democrat,1,1,,,Congress Seventh District,0.95
+WA,Seattle Post-Intelligencer,149000,1980,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD",Democrat,1,1,,,P-I Choices - Insurance Commissioner,0.90
+WA,Seattle Post-Intelligencer,149000,1980,LAND COMMISSIONER,,,WA,"BOYLE, BRIAN",Republican,1,,,,P-I Choices - Comm. Public Lands,0.90
+WA,Seattle Post-Intelligencer,149000,1980,LT GOVERNOR,,,WA,"CHERBERG, JOHN",Republican,1,1,,,P-I Choices - Lt. Governor (note: Cherberg was a Democrat - listed as R likely typo or party switch),0.70
+WA,Seattle Post-Intelligencer,149000,1980,PRESIDENT,,,WA,"ANDERSON, JOHN",Independent,1,,,,P-I Choices - U.S. President,0.95
+WA,Seattle Post-Intelligencer,149000,1980,SEC OF STATE,,,WA,"MUNRO, RALPH",Republican,1,,,,P-I Choices - Secretary of State,0.95
+WA,Seattle Post-Intelligencer,149000,1980,SENATOR,,,WA,"MAGNUSON, WARREN G.",Democrat,1,1,,,P-I Choices - U.S. Senate,0.95
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,1,,WA,"BENDER, RICK",Democrat,1,,,,State Legislature District 1 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,1,,WA,"GRUGER, AUDREY",Democrat,1,,,,State Legislature District 1 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,11,,WA,"GARRETT, AVERY",Democrat,1,,,,State Legislature District 11 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,11,,WA,"PATRICK, MIKE",Republican,1,,,,State Legislature District 11 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,23,,WA,"SMITH, RICK",Republican,1,,,,State Legislature District 23 House Pos. 2,0.80
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,25,,WA,"GRIMM, DAN",Democrat,1,,,,State Legislature District 25 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,25,,WA,"WALK, GEORGE",Democrat,1,,,,State Legislature District 25 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,30,,WA,"CRANE, ERNEST",Democrat,1,,,,State Legislature District 30 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,30,,WA,"HILL, EMILY",Republican,1,,,,State Legislature District 30 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,31,,WA,"JOVANOVICH, JOHN",Democrat,1,,,,State Legislature District 31 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,31,,WA,"VALLE, GEORGETTE",Democrat,1,,,,State Legislature District 31 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,,,,State Legislature District 32 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,32,,WA,"NELSON, DICK",Democrat,1,,,,State Legislature District 32 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,33,,WA,"BARNES, RICHARD",Republican,1,,,,State Legislature District 33 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,,,,State Legislature District 33 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,34,,WA,"PIERINI, LIZ",Democrat,1,,,,State Legislature District 34 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,34,,WA,"PRUITT, PAUL",Democrat,1,,,,State Legislature District 34 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,35,,WA,"LUX, EUGENE",Democrat,1,,,,State Legislature District 35 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,35,,WA,"O'BRIEN, JOHN",Democrat,1,,,,State Legislature District 35 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,State Legislature District 36 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,36,,WA,"TALLER, JOE",Republican,1,,,,State Legislature District 36 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,37,,WA,"ENG, JOHN",Democrat,1,,,,State Legislature District 37 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,37,,WA,"FLETCHER, PAUL",Democrat,1,,,,State Legislature District 37 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,39,,WA,"MITCHELL, JIM",Republican,1,,,,State Legislature District 39 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,39,,WA,"SCOTT, GARY",Republican,1,,,,State Legislature District 39 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,41,,WA,"CANTU, EMILIO",Republican,1,,,,State Legislature District 41 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,41,,WA,"POLK, WILLIAM",Republican,1,,,,State Legislature District 41 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,43,,WA,"BURNS, BILL",Democrat,1,,,,State Legislature District 43 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,43,,WA,"RINEHART, NITA",Democrat,1,,,,State Legislature District 43 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,44,,WA,"LYON, JIM",Republican,1,,,,State Legislature District 44 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,44,,WA,"TUPPER, STEVE",Republican,1,,,,State Legislature District 44 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,45,,WA,"CHANDLER, ROD",Republican,1,,,,State Legislature District 45 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,45,,WA,"GREER, BETH",Democrat,1,,,,State Legislature District 45 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,46,,WA,"ELLIS, WILLIAM H.",Republican,1,,,,State Legislature District 46 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,46,,WA,"GREENGO, IRV",Republican,1,,,,State Legislature District 46 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,47,,WA,"NORTH, FRANCES",Democrat,1,,,,State Legislature District 47 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,47,,WA,"SHERMAN, MARION KYLE",Democrat,1,,,,State Legislature District 47 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,48,,WA,"MCDONALD, DAN",Republican,1,,,,State Legislature District 48 House Pos. 1,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE REP,48,,WA,"SANDERS, PAUL",Republican,1,,,,State Legislature District 48 House Pos. 2,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE SENATOR,1,,WA,"KISKADDON, WILLIAM V.",Republican,1,,,,State Legislature District 1 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE SENATOR,11,,WA,"SHINPOCH, A. N. (BUD)",Democrat,1,,,,State Legislature District 11 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE SENATOR,23,,WA,"CRASWELL, ELLEN",Republican,1,,,,State Legislature District 23 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE SENATOR,25,,WA,"GASPARD, MARCUS",Democrat,1,,,,State Legislature District 25 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE SENATOR,41,,WA,"CLARKE, GEORGE W.",Republican,1,,,,State Legislature District 41 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1980,STATE SENATOR,44,,WA,"CHARNLEY, DONN",Democrat,1,,,,State Legislature District 44 Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1980,TREASURER,,,WA,"WARD, MARILYN",Republican,1,,,,P-I Choices - State Treasurer,0.90
+WA,Seattle Post-Intelligencer,149000,1982,H,1,,WA,"PRITCHARD, JOEL",Republican,1,,1,,U.S. House 1st District,0.95
+WA,Seattle Post-Intelligencer,149000,1982,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,U.S. House 2nd District,0.95
+WA,Seattle Post-Intelligencer,149000,1982,H,3,,WA,"BONKER, DON",Democrat,1,1,,,U.S. House 3rd District,0.95
+WA,Seattle Post-Intelligencer,149000,1982,H,4,,WA,"MORRISON, SID",Republican,1,,1,,U.S. House 4th District,0.95
+WA,Seattle Post-Intelligencer,149000,1982,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,U.S. House 5th District,0.95
+WA,Seattle Post-Intelligencer,149000,1982,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,U.S. House 6th District,0.95
+WA,Seattle Post-Intelligencer,149000,1982,H,7,,WA,"LOWRY, MIKE",Democrat,1,1,,,U.S. House 7th District,0.95
+WA,Seattle Post-Intelligencer,149000,1982,H,8,,WA,"CHANDLER, ROD",Republican,1,,,,U.S. House 8th District,0.95
+WA,Seattle Post-Intelligencer,149000,1982,JUDGE,,Seattle District Court Position 4,WA,"KILLIEN, PHILIP Y.",Nonpartisan,1,,,,Seattle District Court Judges Position 4,0.85
+WA,Seattle Post-Intelligencer,149000,1982,JUDGE,,Seattle District Court Position 1,WA,"RITCHIE, JOHN G.",Nonpartisan,1,,,,Seattle District Court Judges Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,JUDGE,,Seattle District Court Position 3,WA,"WESLEY, JOSEPH",Nonpartisan,1,,,,Seattle District Court Judges Position 3,0.85
+WA,Seattle Post-Intelligencer,149000,1982,SENATOR,,,WA,"JACKSON, HENRY M.",Democrat,1,1,,,P-I election recommendations - U.S. Senate,0.95
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,1,,WA,"CHARNLEY, DONN",Democrat,1,,,,"1st District (Shoreline, Bothell) House Position 2",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,1,,WA,"RUST, NANCY",Democrat,1,,,,"1st District (Shoreline, Bothell) House Position 1",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,30,,WA,"BROUGH, JEAN MARIE",Republican,1,,,,30th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,30,,WA,"SCHOON, DICK",Republican,1,,,,30th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,,,,32nd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,32,,WA,"NELSON, R. P. (DICK)",Democrat,1,,,,32nd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,33,,WA,"CUSTER, DON",Democrat,1,,,,33rd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,,,,33rd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,34,,WA,"PRUITT, PAUL",Democrat,1,,,,34th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,34,,WA,"VALLE, GEORGETTE",Democrat,1,,,,34th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,36,,WA,"ARMSTRONG, SETH",Democrat,1,,,,36th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,36th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,,,,37th District House Position 2,0.90
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,37,,WA,"O'BRIEN, JOHN",Democrat,1,,,,37th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,41,,WA,"ERXLEBEN, WILLIAM",Democrat,1,,,,41st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,41,,WA,"RETTIG, JERRY",Republican,1,,,,"41st District (Issaquah, Mercer Island) House Position 1",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,43,,WA,"NIEMI, JANICE",Democrat,1,,,,43rd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,43,,WA,"SCALES, SYMONE",Republican,1,,,,43rd District House Position 2,0.80
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,45,,WA,"BETROZOFF, JOHN W.",Republican,1,,,,45th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,,,,45th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,,,,46th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,46,,WA,"ROBINSON, CHARLES (CHUCK)",Republican,1,,,,46th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,47,,WA,"ADAMS, CAREN",Democrat,1,,,,47th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,47,,WA,"SHERMAN, MARION K.",Democrat,1,,,,47th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,48,,WA,"MCDONALD, DAN",Republican,1,,,,48th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE REP,48,,WA,"MIRSEPASY, JOAN",Democrat,1,,,,48th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,30,,WA,"STITES, PRISCILLA",Republican,1,,,,"30th District (Southwest King County, Vashon Island) Senate",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,32,,WA,"BIGELOW, R. E. (TAD) JR.",Republican,1,,,,"32nd District (Wallingford, Green Lake) Senate",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,33,,WA,"LEE, ELEANOR",Republican,1,,,,"33rd District (Kent, Des Moines) Senate",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,34,,WA,"TALMADGE, PHIL",Democrat,1,,,,34th District (West Seattle) Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,36,,WA,"MOORE, RAY",Democrat,1,,,,"36th District (Queen Anne, Magnolia, Ballard) Senate",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,37,,WA,"FLEMING, GEORGE",Democrat,1,,,,"37th District (South, Central Seattle) Senate",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,43,,WA,"MCDERMOTT, JIM",Democrat,1,,,,"43rd District (Central Seattle, University District) Senate",0.90
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",Republican,1,,,,"45th District (Kirkland, Redmond) Senate",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,46,,WA,"RINEHART, NITA",Democrat,1,,,,46th District (North Seattle) Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,47,,WA,"SULLIVAN, PHIL",Democrat,1,,,,"47th District (Renton, Maple Valley) Senate",0.85
+WA,Seattle Post-Intelligencer,149000,1982,STATE SENATOR,48,,WA,"JONES, JOHN D. (JACK)",Republican,1,,,,48th District (Bellevue) Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1984,ATTORNEY GENERAL,,,WA,"EIKENBERRY, KEN",Republican,1,1,,,P-I Choices - Attorney General,0.95
+WA,Seattle Post-Intelligencer,149000,1984,AUDITOR,,,WA,"GRAHAM, ROBERT V.",Democrat,1,1,,,P-I Choices - State Auditor,0.95
+WA,Seattle Post-Intelligencer,149000,1984,GOVERNOR,,,WA,"SPELLMAN, JOHN",Republican,1,,1,,P-I Choices - Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1984,H,1,,WA,"MILLER, JOHN",Republican,1,,,,Congress First District,0.95
+WA,Seattle Post-Intelligencer,149000,1984,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,Congress Second District,0.95
+WA,Seattle Post-Intelligencer,149000,1984,H,3,,WA,"BONKER, DON",Democrat,1,1,,,Congress Third District,0.95
+WA,Seattle Post-Intelligencer,149000,1984,H,4,,WA,"MORRISON, SID",Republican,1,,1,,Congress Fourth District,0.95
+WA,Seattle Post-Intelligencer,149000,1984,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,Congress Fifth District,0.95
+WA,Seattle Post-Intelligencer,149000,1984,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,Congress Sixth District,0.95
+WA,Seattle Post-Intelligencer,149000,1984,H,7,,WA,"LOWRY, MIKE",Democrat,1,1,,,Congress Seventh District,0.95
+WA,Seattle Post-Intelligencer,149000,1984,H,8,,WA,"LAMSON, BOB",Democrat,1,,,,Congress Eighth District,0.90
+WA,Seattle Post-Intelligencer,149000,1984,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD G.",Republican,1,1,,,P-I Choices - Insurance Commissioner,0.90
+WA,Seattle Post-Intelligencer,149000,1984,JUDGE,,King County Superior Court Position 33,WA,"ALLISON, JOAN",Nonpartisan,1,,,,Superior Court King County Position 33,0.85
+WA,Seattle Post-Intelligencer,149000,1984,LAND COMMISSIONER,,,WA,"BOYLE, BRIAN J.",Republican,1,1,,,P-I Choices - Commissioner of Public Lands,0.90
+WA,Seattle Post-Intelligencer,149000,1984,LT GOVERNOR,,,WA,"CHERBERG, JOHN",Democrat,1,1,,,P-I Choices - Lieutenant Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1984,PRESIDENT,,,WA,"REAGAN, RONALD",Republican,1,,1,,P-I Choices - President of the United States,0.95
+WA,Seattle Post-Intelligencer,149000,1984,SEC OF STATE,,,WA,"MUNRO, RALPH",Republican,1,1,,,P-I Choices - Secretary of State,0.95
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,1,,WA,"COLE, GRACE",Democrat,1,,,,First District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,1,,WA,"RUST, NANCY",Democrat,1,,,,First District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,11,,WA,"LEONARD, JUNE",Democrat,1,,,,Eleventh District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,11,,WA,"LUX, GENE",Democrat,1,,,,Eleventh District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,30,,WA,"BROUGH, JEAN",Republican,1,,,,30th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,30,,WA,"SAWYER, JOHN",Democrat,1,,,,30th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,31,,WA,"CRANE, ERNEST",Democrat,1,,,,31st District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,31,,WA,"TODD, MIKE",Democrat,1,,,,31st District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,,,,32nd District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,32,,WA,"NELSON, DICK",Democrat,1,,,,32nd District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,33,,WA,"BARNES, RICHARD",Republican,1,,,,33rd District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,,,,33rd District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,34,,WA,"CARLSON, JOHN",Republican,1,,,,34th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,34,,WA,"NORGAARD, TOM",Democrat,1,,,,34th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,36,,WA,"ARMSTRONG, SETH",Democrat,1,,,,36th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,36th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,,,,37th District House,0.90
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,37,,WA,"O'BRIEN, JOHN",Democrat,1,,,,37th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,41,,WA,"MAY, FRED",Republican,1,,,,41st District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,41,,WA,"SHERMAN, KAREN",Democrat,1,,,,41st District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,43,,WA,"NIEMI, JANICE",Democrat,1,,,,43rd District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,43,,WA,"WINEBERRY, JESSE",Democrat,1,,,,43rd District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,44,,WA,"KING, PAUL",Democrat,1,,,,44th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,44,,WA,"LONG, JEANINE",Republican,1,,,,44th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,45,,WA,"BETROZOFF, JOHN",Republican,1,,,,45th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,,,,45th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,,,,46th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,,,,46th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,47,,WA,"HOLLAND, BRUCE",Republican,1,,,,47th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,47,,WA,"PATRICK, MIKE",Republican,1,,,,47th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,1,,,,48th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE REP,48,,WA,"WEISS, HARRIET",Democrat,1,,,,48th District House,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE SENATOR,1,,WA,"CHARNLEY, DONN",Democrat,1,,,,First District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE SENATOR,11,,WA,"GARRETT, AVERY",Democrat,1,,,,Eleventh District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE SENATOR,41,,WA,"CANTU, EMILIO",Republican,1,,,,41st District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1984,STATE SENATOR,48,,WA,"MCDONALD, DAN",Republican,1,,,,48th District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1984,SUPERINTENDENT,,Superintendent of Public Instruction,WA,"BROUILLET, FRANK B.",Nonpartisan,1,,,,P-I Choices - Supt. of Public Instruction,0.90
+WA,Seattle Post-Intelligencer,149000,1984,SUPREME COURT,,Washington State Supreme Court Position 3,WA,"CALLOW, KEITH",Nonpartisan,1,,,,Supreme Court Position 3,0.90
+WA,Seattle Post-Intelligencer,149000,1984,SUPREME COURT,,Washington State Supreme Court Position 1,WA,"GREEN, DALE",Nonpartisan,1,,,,Supreme Court Position 1,0.90
+WA,Seattle Post-Intelligencer,149000,1984,TREASURER,,,WA,"O'BRIEN, ROBERT S.",Democrat,1,,,,P-I Choices - State Treasurer,0.90
+WA,Seattle Post-Intelligencer,149000,1986,H,1,,WA,"MILLER, JOHN",Republican,1,,1,,U.S. House 1st District,0.95
+WA,Seattle Post-Intelligencer,149000,1986,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,U.S. House 2nd District,0.95
+WA,Seattle Post-Intelligencer,149000,1986,H,3,,WA,"BONKER, DON",Democrat,1,1,,,U.S. House 3rd District,0.95
+WA,Seattle Post-Intelligencer,149000,1986,H,4,,WA,"MORRISON, SID",Republican,1,,1,,U.S. House 4th District,0.95
+WA,Seattle Post-Intelligencer,149000,1986,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,U.S. House 5th District,0.95
+WA,Seattle Post-Intelligencer,149000,1986,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,U.S. House 6th District,0.95
+WA,Seattle Post-Intelligencer,149000,1986,H,7,,WA,"LOWRY, MIKE",Democrat,1,1,,,U.S. House 7th District,0.95
+WA,Seattle Post-Intelligencer,149000,1986,H,8,,WA,"CHANDLER, ROD",Republican,1,,1,,U.S. House 8th District,0.95
+WA,Seattle Post-Intelligencer,149000,1986,JUDGE,,King County Superior Court,WA,"GADDIS, STEPHEN",Nonpartisan,1,,,,King County Superior Court,0.85
+WA,Seattle Post-Intelligencer,149000,1986,JUDGE,,Seattle Municipal Court Position 5,WA,"HOLIFIELD, GEORGE W.",Nonpartisan,1,,,,Seattle Municipal Court Position 5,0.85
+WA,Seattle Post-Intelligencer,149000,1986,JUDGE,,Northeast District Court,WA,"ROARTY, WILL",Nonpartisan,1,,,,Northeast District Court,0.85
+WA,Seattle Post-Intelligencer,149000,1986,JUDGE,,Shoreline District Court Position 1,WA,"WEBERT, C. STAN",Nonpartisan,1,,,,Shoreline District Court Position 1,0.80
+WA,Seattle Post-Intelligencer,149000,1986,SENATOR,,,WA,"GORTON, SLADE",Republican,1,,1,,P-I Election Endorsements - U.S. Senate,0.95
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,1,,WA,"DAVENPORT, PETER",Republican,1,,,,1st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,1,,WA,"RUST, NANCY",Democrat,1,,,,1st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,11,,WA,"LEONARD, JUNE",Democrat,1,,,,11th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,11,,WA,"LUX, GENE",Democrat,1,,,,11th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,30,,WA,"BROUGH, JEAN",Republican,1,,,,30th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,30,,WA,"SCHOON, RICHARD",Republican,1,,,,30th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,31,,WA,"CRANE, ERNEST",Democrat,1,,,,31st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,31,,WA,"TODD, MIKE",Democrat,1,,,,31st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,,,,32nd District House Position 1,0.80
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,32,,WA,"NELSON, DICK",Democrat,1,,,,32nd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,32,,WA,"WILLIAMS, AL",Democrat,1,,,,32nd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,33,,WA,"BARNES, RICHARD",Republican,1,,,,33rd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,,,,33rd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,34,,WA,"HEAVEY, MICHAEL",Democrat,1,,,,34th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,34,,WA,"VALLE, GEORGETTE",Democrat,1,,,,34th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,,,,37th District House Position 2,0.90
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,37,,WA,"O'BRIEN, JOHN",Democrat,1,,,,37th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,41,,WA,"MAY, FRED",Republican,1,,,,41st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,41,,WA,"ROSENBERGER, BOB",Democrat,1,,,,41st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,45,,WA,"BETROZOFF, JOHN",Republican,1,,,,45th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,,,,45th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,,,,46th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,,,,46th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,47,,WA,"HOLLAND, BRUCE",Republican,1,,,,47th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,47,,WA,"PATRICK, MIKE",Republican,1,,,,47th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,48,,WA,"FERGUSON, ROY",Republican,1,,,,48th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE REP,48,,WA,"STOCK, SIDNEY",Republican,1,,,,48th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE SENATOR,33,,WA,"LEE, ELEANOR",Republican,1,,,,33rd District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE SENATOR,34,,WA,"TALMADGE, PHIL",Democrat,1,,,,34th District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE SENATOR,36,,WA,"WOLLAM, DAN",Republican,1,,,,36th District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE SENATOR,37,,WA,"FLEMING, GEORGE",Democrat,1,,,,37th District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",Republican,1,,,,45th District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE SENATOR,46,,WA,"RINEHART, NITA",Democrat,1,,,,46th District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE SENATOR,47,,WA,"HARDAWAY, CHUCK",Democrat,1,,,,47th District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1986,STATE SENATOR,48,,WA,"MCDONALD, DAN",Republican,1,,,,48th District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1988,ATTORNEY GENERAL,,,WA,"ERXLEBEN, BILL",Democrat,1,,,,P-I Election Endorsements - Attorney General,0.90
+WA,Seattle Post-Intelligencer,149000,1988,AUDITOR,,,WA,"REED, SAM",Republican,1,,,,P-I Election Endorsements - State Auditor,0.90
+WA,Seattle Post-Intelligencer,149000,1988,GOVERNOR,,,WA,"GARDNER, BOOTH",Democrat,1,1,,,P-I Election Endorsements - Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1988,H,1,,WA,"MILLER, JOHN",Republican,1,,1,,U.S. Congress 1st District,0.95
+WA,Seattle Post-Intelligencer,149000,1988,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,U.S. Congress 2nd District,0.95
+WA,Seattle Post-Intelligencer,149000,1988,H,3,,WA,"UNSOELD, JOLENE",Democrat,1,,,,U.S. Congress 3rd District,0.95
+WA,Seattle Post-Intelligencer,149000,1988,H,4,,WA,"MORRISON, SID",Republican,1,,1,,U.S. Congress 4th District,0.95
+WA,Seattle Post-Intelligencer,149000,1988,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,U.S. Congress 5th District,0.95
+WA,Seattle Post-Intelligencer,149000,1988,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,U.S. Congress 6th District,0.95
+WA,Seattle Post-Intelligencer,149000,1988,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,,,,U.S. Congress 7th District,0.95
+WA,Seattle Post-Intelligencer,149000,1988,H,8,,WA,"CHANDLER, ROD",Republican,1,,1,,U.S. Congress 8th District,0.95
+WA,Seattle Post-Intelligencer,149000,1988,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD",Democrat,1,1,,,P-I Election Endorsements - Insurance Commissioner,0.90
+WA,Seattle Post-Intelligencer,149000,1988,JUDGE,,King County Superior Court Position 28,WA,"SCHAPIRA, CAROL",Nonpartisan,1,,,,King County Superior Court Position 28,0.85
+WA,Seattle Post-Intelligencer,149000,1988,LAND COMMISSIONER,,,WA,"BOYLE, BRIAN",Republican,1,1,,,P-I Election Endorsements - Public Lands Commissioner,0.90
+WA,Seattle Post-Intelligencer,149000,1988,LT GOVERNOR,,,WA,"PRITCHARD, JOEL",Republican,1,,,,P-I Election Endorsements - Lieutenant Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1988,PRESIDENT,,,WA,"BUSH, GEORGE",Republican,1,,,,P-I Election Endorsements - U.S. President,0.95
+WA,Seattle Post-Intelligencer,149000,1988,SEC OF STATE,,,WA,"MUNRO, RALPH",Republican,1,1,,,P-I Election Endorsements - Secretary of State,0.95
+WA,Seattle Post-Intelligencer,149000,1988,SENATOR,,,WA,"LOWRY, MIKE",Democrat,1,,,,U.S. Senate,0.95
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,1,,WA,"COLE, GRACE",Democrat,1,,,,1st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,1,,WA,"RUST, NANCY",Democrat,1,,,,1st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,11,,WA,"LEONARD, JUNE",Democrat,1,,,,11th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,11,,WA,"PRENTICE, MARGARITA",Democrat,1,,,,11th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,30,,WA,"BROUGH, JEAN MARIE",Republican,1,,,,30th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,30,,WA,"SCHOON, DICK",Republican,1,,,,30th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,31,,WA,"CRANE, ERNIE",Democrat,1,,,,31st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,31,,WA,"TODD, MIKE",Democrat,1,,,,31st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,,,,32nd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,32,,WA,"NELSON, R. P. (DICK)",Democrat,1,,,,32nd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,33,,WA,"FISHER, GREG",Democrat,1,,,,33rd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,,,,33rd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,34,,WA,"HEAVEY, MICHAEL",Democrat,1,,,,34th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,34,,WA,"VALLE, GEORGETTE",Democrat,1,,,,34th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,36,,WA,"PHILLIPS, LARRY",Democrat,1,,,,36th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,,,,36th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,,,,37th District House Position 2,0.90
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,37,,WA,"O'BRIEN, JOHN L.",Democrat,1,,,,37th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,41,,WA,"HORN, JIM",Republican,1,,,,41st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,41,,WA,"MAY, FRED O.",Republican,1,,,,41st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,43,,WA,"ANDERSON, CAL",Democrat,1,,,,43rd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,43,,WA,"WINEBERRY, JESSE",Democrat,1,,,,43rd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,44,,WA,"CANTWELL, MARIA",Democrat,1,,,,44th District House Position 1,0.90
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,44,,WA,"KING, PAUL",Democrat,1,,,,44th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,45,,WA,"BETROZOFF, JOHN",Republican,1,,,,45th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,,,,45th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,,,,46th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,,,,46th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,47,,WA,"HOLLAND, BRUCE",Republican,1,,,,47th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,47,,WA,"PATRICK, MIKE",Republican,1,,,,47th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,48,,WA,"FERGUSON, ROY A.",Republican,1,,,,48th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,1,,,,48th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE SENATOR,1,,WA,"MURRAY, PATTY",Democrat,1,,,,1st District Senate,0.90
+WA,Seattle Post-Intelligencer,149000,1988,STATE SENATOR,11,,WA,"LUX, GENE",Democrat,1,,,,11th District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1988,STATE SENATOR,41,,WA,"CANTU, EMILIO",Republican,1,,,,41st District Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1988,SUPERINTENDENT,,Superintendent of Public Instruction,WA,"BILLINGS, JUDITH",Nonpartisan,1,,,,P-I Election Endorsements - Supt. of Public Instruction,0.90
+WA,Seattle Post-Intelligencer,149000,1988,TREASURER,,,WA,"GRIMM, DAN",Democrat,1,,,,P-I Election Endorsements - State Treasurer,0.95
+WA,Seattle Post-Intelligencer,149000,1990,CITY COUNCIL,1,Seattle,WA,"DONALDSON, SUE",Nonpartisan,1,1,,,Seattle City Council Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,H,1,,WA,"MILLER, JOHN",Republican,1,,1,,P-I Recommendations - 1st Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1990,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,P-I Recommendations - 2nd Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1990,H,3,,WA,"UNSOELD, JOLENE",Democrat,1,1,,,P-I Recommendations - 3rd Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1990,H,4,,WA,"MORRISON, SID W.",Republican,1,,1,,P-I Recommendations - 4th Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1990,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,P-I Recommendations - 5th Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1990,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,P-I Recommendations - 6th Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1990,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,P-I Recommendations - 7th Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1990,H,8,,WA,"CHANDLER, ROD",Republican,1,,1,,P-I Recommendations - 8th Congressional District,0.95
+WA,Seattle Post-Intelligencer,149000,1990,JUDGE,,Seattle Municipal Court Position 11,WA,"BONNER, FRED",Nonpartisan,1,,,,Seattle Municipal Court Position 11,0.85
+WA,Seattle Post-Intelligencer,149000,1990,JUDGE,,Seattle Municipal Court Position 1,WA,"BURNSTIN, JOSEPH",Nonpartisan,1,,,,Seattle Municipal Court Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,JUDGE,,Seattle District Court Number 1,WA,"HARDMAN, JAMES R.",Nonpartisan,1,,,,Seattle District Court Number 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,JUDGE,,Seattle Municipal Court Position 4,WA,"HIGHTOWER, JUDITH",Nonpartisan,1,,,,Seattle Municipal Court Position 4,0.85
+WA,Seattle Post-Intelligencer,149000,1990,JUDGE,,Bellevue District Court Position 3,WA,"YEATTS, FREDERICK",Nonpartisan,1,,,,Bellevue District Court Position 3,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,1,,WA,"COLE, GRACE",Democrat,1,1,,,1st District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,1,,WA,"RUST, NANCY",Democrat,1,1,,,1st District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,11,,WA,"LEONARD, JUNE",Democrat,1,1,,,11th District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,11,,WA,"PRENTICE, MARGARITA",Democrat,1,1,,,11th District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,30,,WA,"BROUGH, JEAN MARIE",Republican,1,1,,,30th District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,30,,WA,"MYRICK, HELEN",Democrat,1,,,,30th District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,31,,WA,"CRANE, ERNIE",Democrat,1,1,,,31st District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,31,,WA,"ROLAND, JUDI",Democrat,1,,,,31st District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,32,,WA,"BREKKE, JOANNE",Democrat,1,1,,,32nd District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,32,,WA,"NELSON, R. P. (DICK)",Democrat,1,1,,,32nd District Position 2 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,33,,WA,"FISHER, GREG",Democrat,1,1,,,33rd District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,1,,,33rd District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,34,,WA,"HEAVEY, MICHAEL",Democrat,1,1,,,34th District Position 1 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,34,,WA,"VALLE, GEORGETTE",Democrat,1,1,,,34th District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,36,,WA,"PHILLIPS, LARRY",Democrat,1,1,,,36th District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,36th District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,1,,,37th District Position 2,0.90
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,37,,WA,"O'BRIEN, JOHN L.",Democrat,1,1,,,37th District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,41,,WA,"LINDSAY, DAN",Democrat,1,,,,41st District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,41,,WA,"MAY, FRED",Republican,1,1,,,41st District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,43,,WA,"ANDERSON, CAL",Democrat,1,1,,,43rd District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,43,,WA,"WINEBERRY, JESSE",Democrat,1,1,,,43rd District Position 2 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,44,,WA,"CANTWELL, MARIA",Democrat,1,1,,,44th District Position 1,0.90
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,44,,WA,"PARIS, MARSHALL",Republican,1,,,,44th District Position 2,0.80
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,1,,,45th District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,45,,WA,"SWAIN, ROBERT V.",Democrat,1,,,,45th District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,1,,,46th District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,,,,46th District Position 2 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,47,,WA,"CLARK, TIM",Democrat,1,,,,47th District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,47,,WA,"SCHWARTZ, CARL H.",Democrat,1,,,,47th District Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,48,,WA,"FERGUSON, ROY A.",Republican,1,1,,,48th District Position 1 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,1,1,,,48th District Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,30,,WA,"MOE, RON",Democrat,1,,,,30th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,31,,WA,"TODD, MIKE",Democrat,1,1,,,31st District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,32,,WA,"WILLIAMS, AL",Democrat,1,1,,,32nd District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,33,,WA,"LEE, ELEANOR",Republican,1,1,,,33rd District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,34,,WA,"TALMADGE, PHIL",Democrat,1,1,,,34th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,36,,WA,"MOORE, RAY",Democrat,1,1,,,36th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,37,,WA,"PELZ, DWIGHT",Democrat,1,,,,37th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,43,,WA,"NIEMI, JANICE",Democrat,1,,,,43rd District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,44,,WA,"BENDER, RICK S.",Democrat,1,,,,44th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,45,,WA,"BLUECHEL, ALAN",Republican,1,1,,,45th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,46,,WA,"RINEHART, NITA",Democrat,1,1,,,46th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,47,,WA,"SKRATEK, SYLVIA",Democrat,1,,,,47th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1990,STATE SENATOR,48,,WA,"MCDONALD, DAN",Republican,1,1,,,48th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1992,ASSESSOR,,King County,WA,"NOBLE, SCOTT",Democrat,1,,,,King County Assessor,0.90
+WA,Seattle Post-Intelligencer,149000,1992,ATTORNEY GENERAL,,,WA,"MALENG, NORM",Republican,1,,,,P-I Endorsements - Attorney General,0.95
+WA,Seattle Post-Intelligencer,149000,1992,AUDITOR,,,WA,"REED, SAM",Republican,1,,,,P-I Endorsements - Auditor,0.90
+WA,Seattle Post-Intelligencer,149000,1992,GOVERNOR,,,WA,"LOWRY, MIKE",Democrat,1,,,,P-I Endorsements - Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1992,H,1,,WA,"CANTWELL, MARIA",Democrat,1,,,,U.S. House 1st District,0.95
+WA,Seattle Post-Intelligencer,149000,1992,H,2,,WA,"SWIFT, AL",Democrat,1,1,,,U.S. House 2nd District,0.95
+WA,Seattle Post-Intelligencer,149000,1992,H,3,,WA,"FISKE, PAT",Republican,1,,,,U.S. House 3rd District (challenger to Unsoeld),0.90
+WA,Seattle Post-Intelligencer,149000,1992,H,4,,WA,"INSLEE, JAY",Democrat,1,,,,U.S. House 4th District,0.95
+WA,Seattle Post-Intelligencer,149000,1992,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,U.S. House 5th District,0.95
+WA,Seattle Post-Intelligencer,149000,1992,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,U.S. House 6th District,0.95
+WA,Seattle Post-Intelligencer,149000,1992,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,U.S. House 7th District,0.95
+WA,Seattle Post-Intelligencer,149000,1992,H,8,,WA,"DUNN, JENNIFER",Republican,1,,,,U.S. House 8th District,0.95
+WA,Seattle Post-Intelligencer,149000,1992,H,9,,WA,"KREIDLER, MIKE",Democrat,1,,,,U.S. House 9th District,0.95
+WA,Seattle Post-Intelligencer,149000,1992,INSURANCE COMMISSIONER,,,WA,"MARQUARDT, RICHARD G.",Republican,1,1,,,P-I Endorsements - Insurance Commissioner,0.90
+WA,Seattle Post-Intelligencer,149000,1992,JUDGE,,King County Superior Court Position 9,WA,"GARLING, WILLIAM",Nonpartisan,1,,,,King County Superior Court Position 9,0.85
+WA,Seattle Post-Intelligencer,149000,1992,JUDGE,,King County Superior Court Position 8,WA,"WHITE, JAY V.",Nonpartisan,1,,,,King County Superior Court Position 8,0.85
+WA,Seattle Post-Intelligencer,149000,1992,LAND COMMISSIONER,,,WA,"BELCHER, JENNIFER M.",Democrat,1,,,,P-I Endorsements - Commissioner of Public Lands,0.90
+WA,Seattle Post-Intelligencer,149000,1992,LT GOVERNOR,,,WA,"PRITCHARD, JOEL",Republican,1,1,,,P-I Endorsements - Lieutenant Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1992,PRESIDENT,,,WA,"CLINTON, BILL",Democrat,1,,,,P-I Endorsements - President,0.95
+WA,Seattle Post-Intelligencer,149000,1992,SEC OF STATE,,,WA,"MUNRO, RALPH",Republican,1,1,,,P-I Endorsements - Secretary of State,0.95
+WA,Seattle Post-Intelligencer,149000,1992,SENATOR,,,WA,"MURRAY, PATTY",Democrat,1,,,,P-I Endorsements - U.S. Senate,0.95
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,1,,WA,"COTHERN, BARBARA",Democrat,1,1,,,1st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,1,,WA,"JOHNSON, LINDA",Democrat,1,,,,1st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,11,,WA,"LEONARD, JUNE",Democrat,1,1,,,11th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,,,,11th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,30,,WA,"BROUGH, JEAN MARIE",Republican,1,1,,,30th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,30,,WA,"MITCHELL, MARYANN",Republican,1,,,,30th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,31,,WA,"ROLAND, JUDI",Democrat,1,1,,,31st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,31,,WA,"VANCE, CHRIS",Republican,1,,,,31st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,32,,WA,"COLE, GRACE",Democrat,1,1,,,32nd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,32,,WA,"RUST, NANCY",Democrat,1,1,,,32nd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,33,,WA,"FISHER, GREG",Democrat,1,1,,,33rd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,33,,WA,"HINE, LORRAINE",Democrat,1,1,,,33rd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,34,,WA,"HEAVEY, MICHAEL",Democrat,1,1,,,34th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,34,,WA,"VALLE, GEORGETTE",Democrat,1,1,,,34th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,36,,WA,"KOHL, JEANNE",Democrat,1,,,,36th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,36th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,37,,WA,"LOCKE, GARY",Democrat,1,1,,,37th District House Position 2,0.90
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,37,,WA,"WINEBERRY, JESSE",Democrat,1,1,,,37th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,41,,WA,"BALLASIOTES, IDA",Republican,1,,,,41st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,41,,WA,"HORN, JIM",Republican,1,1,,,41st District House Position 2 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,43,,WA,"ANDERSON, CAL",Democrat,1,1,,,43rd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,43,,WA,"THIBAUDEAU, PATRICIA",Democrat,1,,,,43rd District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,45,,WA,"FINKBEINER, BILL",Republican,1,,,,45th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,45,,WA,"MILLER, LOUISE",Republican,1,1,,,45th District House Position 2 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,1,,,46th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,1,,,46th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,47,,WA,"COOKE, SUZETTE",Republican,1,,,,47th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,47,,WA,"FORNER, ELMIRA",Republican,1,1,,,47th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,48,,WA,"TILLEY, CHIP",Democrat,1,,,,48th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,1,1,,,48th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,5,,WA,"MCMONAGLE, LINDA",Democrat,1,,,,5th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE REP,5,,WA,"THOMAS, BRIAN",Republican,1,,,,5th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE SENATOR,1,,WA,"PARIS, MARSHALL",Republican,1,,,,1st District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE SENATOR,11,,WA,"PRENTICE, MARGARITA",Democrat,1,,,,11th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE SENATOR,41,,WA,"WILCOCK, EVERETT",Democrat,1,,,,41st District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1992,STATE SENATOR,5,,WA,"DREW, KATHLEEN",Democrat,1,,,,5th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1992,SUPERINTENDENT,,Superintendent of Public Instruction,WA,"BERGESON, TERESA",Nonpartisan,1,,,,P-I Endorsements - Supt. of Public Instruction,0.90
+WA,Seattle Post-Intelligencer,149000,1992,SUPREME COURT,,Washington State Supreme Court Position 2,WA,"DOLLIVER, JAMES",Nonpartisan,1,1,,,Supreme Court Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1992,SUPREME COURT,,Washington State Supreme Court Position 1,WA,"HOUGHTON, ELAINE",Nonpartisan,1,,,,Supreme Court Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1992,TREASURER,,,WA,"GRIMM, DAN",Democrat,1,1,,,P-I Endorsements - Treasurer,0.95
+WA,Seattle Post-Intelligencer,149000,1992,VICE PRESIDENT,,,WA,"GORE, AL",Democrat,1,,,,P-I Endorsements - Vice President,0.95
+WA,Seattle Post-Intelligencer,149000,1994,H,1,,WA,"CANTWELL, MARIA",Democrat,1,1,,,U.S. House 1st District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1994,H,2,,WA,"SPANEL, HARRIET",Democrat,1,,,,U.S. House 2nd District,0.90
+WA,Seattle Post-Intelligencer,149000,1994,H,3,,WA,"UNSOELD, JOLENE",Democrat,1,1,,,U.S. House 3rd District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1994,H,4,,WA,"INSLEE, JAY",Democrat,1,1,,,U.S. House 4th District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1994,H,5,,WA,"FOLEY, TOM",Democrat,1,1,,,U.S. House 5th District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1994,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,U.S. House 6th District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1994,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,U.S. House 7th District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1994,H,8,,WA,"DUNN, JENNIFER",Republican,1,,1,,U.S. House 8th District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1994,H,9,,WA,"KREIDLER, MIKE",Democrat,1,1,,,U.S. House 9th District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1994,SENATOR,,,WA,"SIMS, RON",Democrat,1,,,,P-I Endorsements - U.S. Senate (over Slade Gorton R Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,1,,WA,"COTHERN, BARBARA",Democrat,1,1,,,1st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,1,,WA,"JOHNSON, LINDA",Democrat,1,1,,,1st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,11,,WA,"CODY, EILEEN",Democrat,1,,,,11th District House Position 1 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,,,,11th District House Position 2 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,30,,WA,"EIDE, TRACEY",Democrat,1,1,,,30th District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,30,,WA,"MYRICK, HELEN",Democrat,1,1,,,30th District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,31,,WA,"ROBERTSON, ERIC",Republican,1,,,,31st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,31,,WA,"THOMAS, LES",Republican,1,1,,,31st District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,32,,WA,"COLE, GRACE",Democrat,1,1,,,32nd District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,32,,WA,"RUST, NANCY",Democrat,1,1,,,32nd District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,33,,WA,"FISHER, GREG",Democrat,1,1,,,33rd District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,33,,WA,"PATTERSON, JULIA",Democrat,1,,,,33rd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,34,,WA,"POULSEN, ERIK",Democrat,1,,,,34th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,34,,WA,"VALLE, GEORGETTE",Democrat,1,1,,,34th District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,1,,,,36th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,36th District House Position 1 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,37,,WA,"MASON, DAWN",Democrat,1,,,,37th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,37,,WA,"TOKUDA, KIP",Democrat,1,,,,37th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,41,,WA,"BALLASIOTES, IDA",Republican,1,1,,,"41st District House Position 2 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,41,,WA,"HORN, JIM",Republican,1,1,,,"41st District House Position 1 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,43,,WA,"CHOPP, FRANK",Democrat,1,,,,43rd District House Position 2 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,43,,WA,"THIBAUDEAU, PAT",Democrat,1,1,,,43rd District House Position 1 (Unopposed),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,45,,WA,"HARRELL, GAIL",Democrat,1,,,,45th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,45,,WA,"LAMBERT, KATHY",Republican,1,,,,45th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,1,,,"46th District House Position 1 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,1,,,"46th District House Position 2 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,47,,WA,"CLEMENTE, ROSEMARIE",Democrat,1,,,,47th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,47,,WA,"COOKE, SUZETTE",Republican,1,1,,,47th District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,48,,WA,"JACOBSON, STU",Democrat,1,,,,48th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,48,,WA,"REAMS, BILL",Republican,1,1,,,"48th District House Position 1 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,5,,WA,"SCOTT, MARY",Democrat,1,,,,5th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE REP,5,,WA,"THOMAS, BRIAN",Republican,1,1,,,5th District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,30,,WA,"BROUGH, JEAN MARIE",Democrat,1,,,,30th District State Senate,0.80
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,31,,WA,"ROACH, PAM",Republican,1,1,,,31st District State Senate (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,32,,WA,"FAIRLEY, DARLENE",Democrat,1,,,,32nd District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,33,,WA,"SMITH, ADAM",Democrat,1,,,,33rd District State Senate,0.90
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,34,,WA,"HEAVEY, MICHAEL",Democrat,1,,,,34th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,36,,WA,"KOHL, JEANNE",Democrat,1,1,,,36th District State Senate (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,37,,WA,"PELZ, DWIGHT",Democrat,1,1,,,37th District State Senate (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,43,,WA,"ANDERSON, CAL",Democrat,1,,,,43rd District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,45,,WA,"MANIS, JAMES",Democrat,1,,,,45th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,46,,WA,"RINEHART, NITA",Democrat,1,1,,,46th District State Senate (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,47,,WA,"SKRATEK, SYLVIA",Democrat,1,1,,,47th District State Senate (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,48,,WA,"MCDONALD, DAN",Republican,1,1,,,"48th District State Senate (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1994,STATE SENATOR,5,,WA,"DREW, KATHLEEN",Democrat,1,,,,5th District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1994,SUPREME COURT,,Washington State Supreme Court Position 2,WA,"ALEXANDER, GERRY L.",Nonpartisan,1,,,,Supreme Court Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1994,SUPREME COURT,,Washington State Supreme Court Position 3,WA,"TALMADGE, PHIL",Nonpartisan,1,,,,Supreme Court Position 3,0.85
+WA,Seattle Post-Intelligencer,149000,1996,ATTORNEY GENERAL,,,WA,"GREGOIRE, CHRISTINE",Democrat,1,1,,,P-I Endorsements - Attorney General (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1996,AUDITOR,,,WA,"SONNTAG, BRIAN",Democrat,1,1,,,P-I Endorsements - Auditor (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1996,CITY COUNCIL,,Seattle,WA,"ROHAN, BOB",Nonpartisan,1,,,,Seattle City Council,0.85
+WA,Seattle Post-Intelligencer,149000,1996,GOVERNOR,,,WA,"LOCKE, GARY",Democrat,1,,,,P-I Endorsements - Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1996,H,1,,WA,"WHITE, RICK",Republican,1,,1,,U.S. House 1st District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1996,H,2,,WA,"QUIGLEY, KEVIN",Democrat,1,,,,U.S. House 2nd District,0.95
+WA,Seattle Post-Intelligencer,149000,1996,H,3,,WA,"BAIRD, BRIAN",Democrat,1,,,,U.S. House 3rd District,0.95
+WA,Seattle Post-Intelligencer,149000,1996,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,U.S. House 6th District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1996,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,U.S. House 7th District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1996,H,8,,WA,"DUNN, JENNIFER",Republican,1,,1,,U.S. House 8th District (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1996,H,9,,WA,"SMITH, ADAM",Democrat,1,,,,U.S. House 9th District,0.95
+WA,Seattle Post-Intelligencer,149000,1996,INSURANCE COMMISSIONER,,,WA,"SENN, DEBORAH",Democrat,1,1,,,P-I Endorsements - Insurance Commissioner (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1996,JUDGE,,King County Superior Court Position 2,WA,"CODY, HARRIETT",Nonpartisan,1,1,,,King County Superior Court Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,JUDGE,,King County Superior Court Position 6,WA,"HUBBARD, PHIL",Nonpartisan,1,,,,King County Superior Court Position 6,0.85
+WA,Seattle Post-Intelligencer,149000,1996,JUDGE,,King County Superior Court Position 26,WA,"NORTH, DOUG",Nonpartisan,1,,,,King County Superior Court Position 26,0.85
+WA,Seattle Post-Intelligencer,149000,1996,JUDGE,,King County Superior Court Position 9,WA,"RAMSDELL, JEFF",Nonpartisan,1,,,,King County Superior Court Position 9,0.85
+WA,Seattle Post-Intelligencer,149000,1996,LAND COMMISSIONER,,,WA,"BELCHER, JENNIFER",Democrat,1,1,,,P-I Endorsements - Public Lands Commissioner (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1996,LT GOVERNOR,,,WA,"OWEN, BRAD",Democrat,1,,,,P-I Endorsements - Lt. Governor,0.95
+WA,Seattle Post-Intelligencer,149000,1996,PRESIDENT,,,WA,"CLINTON, BILL",Democrat,1,1,,,P-I Endorsements - President (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1996,SEC OF STATE,,,WA,"MUNRO, RALPH",Republican,1,,1,,P-I Endorsements - Secretary of State,0.95
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,1,,WA,"JANES, JUDY J.",Democrat,1,,,,1st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,1,,WA,"O'BRIEN, AL",Democrat,1,,,,1st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,11,,WA,"CODY, EILEEN",Democrat,1,1,,,"11th District House Position 1 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,1,,,"11th District House Position 2 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,30,,WA,"MITCHELL, MARYANN",Republican,1,1,,,30th District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,30,,WA,"ULIS, ERIC",Democrat,1,,,,30th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,31,,WA,"HURST, CHRISTOPHER",Democrat,1,,,,31st District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,31,,WA,"ROBERTSON, ERIC",Republican,1,1,,,31st District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,32,,WA,"BUTLER, PATTY",Democrat,1,,,,32nd District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,32,,WA,"COLE, GRACE",Democrat,1,1,,,32nd District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,33,,WA,"KEISER, KAREN",Democrat,1,1,,,33rd District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,33,,WA,"PATTERSON, JULIA",Democrat,1,1,,,33rd District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,34,,WA,"CONSTANTINE, DOW",Democrat,1,,,,34th District House Position 2,0.90
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,34,,WA,"POULSEN, ERIC",Democrat,1,1,,,34th District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,1,1,,,36th District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,36th District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,37,,WA,"MASON, DAWN",Democrat,1,1,,,37th District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,37,,WA,"TOKUDA, KIP",Democrat,1,1,,,"37th District House Position 2 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,41,,WA,"BALLASIOTES, IDA",Republican,1,1,,,41st District House Position 2 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,41,,WA,"WENSMAN, MIKE",Democrat,1,,,,41st District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,43,,WA,"CHOPP, FRANK",Democrat,1,1,,,"43rd District House Position 2 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,45,,WA,"ASHER, DAVE",Democrat,1,,,,45th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,45,,WA,"GOOD, TRISA",Democrat,1,,,,45th District House Position 1,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,46,,WA,"APPELWICK, MARLIN",Democrat,1,1,,,"46th District House Position 1 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,1,,,"46th District House Position 2 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,47,,WA,"CLARK, TIM",Democrat,1,,,,47th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,47,,WA,"COOKE, SUZETTE",Republican,1,1,,,47th District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,48,,WA,"REAMS, BILL",Republican,1,1,,,48th District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,48,,WA,"VAN LUVEN, STEVE",Republican,1,1,,,"48th District House Position 2 (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,5,,WA,"SCOTT, MARY",Democrat,1,,,,5th District House Position 2,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE REP,5,,WA,"THOMAS, BRIAN",Republican,1,1,,,5th District House Position 1 (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE SENATOR,1,,WA,"MCAULIFFE, ROSEMARY",Democrat,1,1,,,1st District State Senate (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE SENATOR,11,,WA,"PRENTICE, MARGARITA",Democrat,1,1,,,"11th District State Senate (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE SENATOR,41,,WA,"VULLIET, FRANK",Democrat,1,,,,41st District State Senate,0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE SENATOR,43,,WA,"MURRAY, ED",Democrat,1,1,,,"43rd District State Senate (Inc., Unopposed)",0.85
+WA,Seattle Post-Intelligencer,149000,1996,STATE SENATOR,5,,WA,"DREW, KATHLEEN",Democrat,1,1,,,5th District State Senate (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,SUPERINTENDENT,,Superintendent of Public Instruction,WA,"BERGESON, TERRY",Nonpartisan,1,,,,P-I Endorsements - Supt. of Public Instruction,0.90
+WA,Seattle Post-Intelligencer,149000,1996,SUPREME COURT,,Washington State Supreme Court,WA,"JOHNSON, CHARLES W.",Nonpartisan,1,1,,,State Supreme Court (Inc.),0.85
+WA,Seattle Post-Intelligencer,149000,1996,TREASURER,,,WA,"MURPHY, MIKE",Democrat,1,,,,P-I Endorsements - Treasurer,0.95
+WA,Seattle Post-Intelligencer,149000,1996,VICE PRESIDENT,,,WA,"GORE, AL",Democrat,1,1,,,P-I Endorsements - Vice President (Inc.),0.95
+WA,Seattle Post-Intelligencer,149000,1998,DA/PROSECUTOR,,King County,WA,"MALENG, NORM",Republican,1,1,,,"Earns the P-I's endorsement because he is a prosecutor attuned to, even anticipatory of, the needs of the community",0.95
+WA,Seattle Post-Intelligencer,149000,1998,H,1,,WA,"INSLEE, JAY",Democrat,1,,,,Challenger to Republican Rick White - is the better choice,0.95
+WA,Seattle Post-Intelligencer,149000,1998,H,2,,WA,"CAMMERMEYER, GRETHE",Democrat,1,,,,Positions are clear and right for the times. Well prepared to be a force in a way Metcalf is not.,0.90
+WA,Seattle Post-Intelligencer,149000,1998,H,3,,WA,"BAIRD, BRIAN",Democrat,1,,,,Moderation is a much better fit for this urban-rural district than Republican Don Benton's narrow extremism,0.95
+WA,Seattle Post-Intelligencer,149000,1998,H,6,,WA,"DICKS, NORM",Democrat,1,1,,,"Workhorse of the state Congressional delegation, respected bipartisan with strong work ethic",0.95
+WA,Seattle Post-Intelligencer,149000,1998,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,"One of the most able legislators to graduate from the state legislature; physician, ardent Democrat",0.95
+WA,Seattle Post-Intelligencer,149000,1998,H,8,,WA,"DUNN, JENNIFER",Republican,1,,1,,Talented and tireless representative able to work effectively with Democrats,0.95
+WA,Seattle Post-Intelligencer,149000,1998,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,Established himself as a balance-the-budget Democrat. Tabert's top priority is to amend the U.S. Constitution to ban abortion (challenger).,0.95
+WA,Seattle Post-Intelligencer,149000,1998,JUDGE,,Federal Way District Court Position 1,WA,"ELLER, JUDITH",Nonpartisan,1,,,,Has been well-served by Federal Way Judge Judith Eller's six years of being tough on convicted defendants,0.85
+WA,Seattle Post-Intelligencer,149000,1998,JUDGE,,Bellevue District Court Position 3,WA,"GARROW, JANET",Nonpartisan,1,,,,"A Seattle attorney who has been Bellevue's land use manager and assistant city attorney, is the strongest candidate",0.85
+WA,Seattle Post-Intelligencer,149000,1998,JUDGE,,Seattle Municipal Court Position 1,WA,"HIGHTOWER, JUDITH",Nonpartisan,1,1,,,"Voters are offered no legitimate reason to turn out incumbent Judge Judith Hightower, who has earned another term",0.85
+WA,Seattle Post-Intelligencer,149000,1998,JUDGE,,Seattle Municipal Court Position 2,WA,"KONDO, KIMI",Nonpartisan,1,1,,,Has been on the court since 1990 and served ably as presiding judge in 1995 and 1996. Kondo should be retained,0.85
+WA,Seattle Post-Intelligencer,149000,1998,JUDGE,,Seattle District Court Position 1,WA,"LINDE, BARBARA",Nonpartisan,1,1,,,Incumbent Judge Barbara Linde is the obvious choice over a challenger with no judicial experience,0.85
+WA,Seattle Post-Intelligencer,149000,1998,SENATOR,,,WA,"MURRAY, PATTY",Democrat,1,1,,,"Murray has proven to be a dogged, determined senator in a minority party who works well across the aisle",0.95
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,1,,WA,"EDWARDS, JONAS",Democrat,1,,,,"1st District Position 2: Bothell City Councilwoman has the background, experience in health and transportation issues",0.80
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,1,,WA,"O'BRIEN, AL",Democrat,1,1,,,1st District Position 1: Retired policeman won praise for helping pass tough sentences for drunken driving,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,1,,,11th District Position 2: Strong supporter of education and health-care for children,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,30,,WA,"MAY, SKIP",Republican,1,,,,30th District Position 1: Federal Way Mayor Skip Friend gets the nod for his extensive local government experience,0.80
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,31,,WA,"HURST, CHRIS",Democrat,1,,,,"31st District Position 2: P-I Black Diamond policeman; knowledgeable, articulate spokesman for batting crime",0.80
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,31,,WA,"STENSEN, MIKE",Democrat,1,,,,"31st District Position 1: Enumclaw City Councilman is well-grounded in education, children's and local-government issues",0.80
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,32,,WA,"KAGI, RUTH",Democrat,1,,,,"32nd District Position 2: Long service with the League of Women Voters, advocacy for children and support for education",0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,32,,WA,"LANTZ, WILL",Republican,1,,,,32nd District Position 1: Lehri's moderate views would be a tonic for the too far-right Republican House caucus,0.70
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,33,,WA,"KEISER, KAREN",Democrat,1,1,,,33rd District Position 2: Able legislator who deserves re-election. She is an effective advocate for education,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,33,,WA,"SCHUAL-BERKE, SHAY",Democrat,1,,,,33rd District Position 1: Outstanding candidate; member of Highline School Board and a retired cardiologist,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,34,,WA,"POULSEN, ERIK",Democrat,1,1,,,34th District Position 1: Well deserves re-election for his expertise and work to save low electricity rates in a time of energy deregulation,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,1,1,,,36th District Position 2: Active and effective proponent of children's welfare and juvenile justice,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,37,,WA,"SANTOS, SHARON",Democrat,1,,,,37th District Position 1: Highly qualified Democrat and long-time community activist,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,37,,WA,"TOKUDA, KIP",Democrat,1,1,,,37th District Position 2: Strong incumbent Democrat; has done a good job in Olympia and is much better qualified than either opponent,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,41,,WA,"BALLASIOTES, IDA",Republican,1,1,,,41st District Position 2: Republican incumbent is a legislative expert in corrections matters and favors a long-term solution to funding transportation,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,45,,WA,"RUDERMAN, LAURA",Democrat,1,,,,45th District Position 1: Bright and energetic officer in a non-profit group helping low-income women start their own businesses,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,46,,WA,"KENNEY, PHYLLIS",Democrat,1,1,,,46th District Position 2: Democratic incumbent helped found migrant child care centers and farmworker clinics and works hard for higher education,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,46,,WA,"MCINTIRE, JIM",Democrat,1,1,,,46th District Position 1: University of Washington economist would bring much substance to legislative deliberations over fiscal and tax policy. He is a Democrat and the clear choice,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,47,,WA,"NELSON, BOB",Democrat,1,,,,47th District Position 2: Democrat supports growth management of a district under siege from growth. He deserves voters' support,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,47,,WA,"SWANSON, BETTY",Democrat,1,,,,"47th District Position 1: Democrat school teacher and district party chairman, edges out her opponent",0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,48,,WA,"ESSER, LUKE",Republican,1,,,,"48th District Position 1: Won the nod of King County Councilman Rob McKenna, is the better choice",0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,5,,WA,"SKVDOK, ART",Democrat,1,,,,"5th District Position 2: A rancher and architect, is a maverick Democrat likely to make waves in Olympia working to better manage growth and boost support for schools",0.70
+WA,Seattle Post-Intelligencer,149000,1998,STATE REP,5,,WA,"THOMAS, BRIAN",Republican,1,1,,,"5th District Position 1: Has done good work to bolster the state's school construction funds. Though at times a too-rigid conservative, deserves another term",0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE SENATOR,30,,WA,"EIDE, TRACEY",Democrat,1,,,,Better grades for independent battling tax increases and getting money for the Green River Community College library,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE SENATOR,31,,WA,"ROACH, PAM",Republican,1,1,,,"She can be a bull in a china shop, but incumbent did well to help enact tough penalties for drunk drivers",0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE SENATOR,32,,WA,"FAIRLEY, DARLENE",Democrat,1,1,,,Able advocate for better health care and fiscal responsibility. This first-term Democrat easily merits a second one.,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE SENATOR,37,,WA,"KLINE, ADAM",Democrat,1,1,,,"Attorney is an able weaver with broad support in the district, a commitment to civil rights and to securing better funding for education",0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE SENATOR,45,,WA,"FINKBEINER, BILL",Republican,1,1,,,Chairman of the Senate's Energy and Utilities Committee. He wisely says he'll go slow on deregulating the electric power industry,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE SENATOR,46,,WA,"JACOBSEN, KEN",Democrat,1,1,,,Clear choice for his support of education and for his work to establish a Cascade Foothills state park,0.85
+WA,Seattle Post-Intelligencer,149000,1998,STATE SENATOR,47,,WA,"JOHNSON, STEVE",Republican,1,1,,,Has emerged as a leader in the Senate and has promised to work for much-needed reduction of class size in public schools,0.85
+WA,Seattle Post-Intelligencer,149000,1998,SUPREME COURT,,Washington State Supreme Court Position 1,WA,"IRELAND, FAITH",Nonpartisan,1,,,,"Judge has issued many sound, well-reasoned decisions in her 15 years on the King County Superior Court bench",0.85
+WA,Seattle Post-Intelligencer,149000,1998,SUPREME COURT,,Washington State Supreme Court Position 5,WA,"MADSEN, BARBARA",Nonpartisan,1,1,,,Has been an active and diligent member of the state's high court,0.85
+WA,Seattle Post-Intelligencer,149000,2000,ATTORNEY GENERAL,,,WA,"GREGOIRE, CHRISTINE",Democrat,1,1,,,"Re-elect Democrat Gregoire to provide a more uniformly competent, more efficient attorney general's office",0.95
+WA,Seattle Post-Intelligencer,149000,2000,AUDITOR,,,WA,"SONNTAG, BRIAN",Democrat,1,1,,,"Re-election. In two terms, Sonntag, a Democrat, has discharged his duties in a professional, innovative manner",0.95
+WA,Seattle Post-Intelligencer,149000,2000,GOVERNOR,,,WA,"LOCKE, GARY",Democrat,1,1,,,"Voters should re-elect Locke as a Democratic governor. Owen has admirably performed his constitutional duty (Lt Gov), presided over the state Senate.",0.95
+WA,Seattle Post-Intelligencer,149000,2000,H,1,,WA,"INSLEE, JAY",Democrat,1,1,,,"Endorsement goes to the able Democratic incumbent. A lawyer who has emerged as a smart, aggressive champion of consumers and the environment",0.95
+WA,Seattle Post-Intelligencer,149000,2000,H,3,,WA,"BAIRD, BRIAN",Democrat,1,1,,,"Voters should re-elect Brian Baird, a Democratic incumbent and former chairman of the Department of Psychology at Pacific Lutheran University",0.95
+WA,Seattle Post-Intelligencer,149000,2000,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,"A psychiatrist and former state legislator, has served six terms in the House and deserves another",0.95
+WA,Seattle Post-Intelligencer,149000,2000,H,8,,WA,"DUNN, JENNIFER",Republican,1,,1,,"Republican incumbent Jennifer Dunn is the stronger choice because of her political skill, experience and clout in Congress",0.95
+WA,Seattle Post-Intelligencer,149000,2000,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,Former Seattle prosecuting attorney and state legislator was first elected to Congress in 1996. He deserves another term,0.95
+WA,Seattle Post-Intelligencer,149000,2000,INSURANCE COMMISSIONER,,,WA,"KREIDLER, MIKE",Democrat,1,,,,"The Insurance commissioner should be a champion of insurance consumers, and Democrat Mike Kreidler is clearly the candidate better equipped to be the consumers' best advocate",0.95
+WA,Seattle Post-Intelligencer,149000,2000,JUDGE,,King County Superior Court Position 11,WA,"SHAFFER, CATHERINE",Nonpartisan,1,,,,"Catherine Shaffer, a county deputy prosecutor for a decade, merits election",0.85
+WA,Seattle Post-Intelligencer,149000,2000,LAND COMMISSIONER,,,WA,"SUTHERLAND, DOUG",Republican,1,,,,"Our nod goes to Republican Doug Sutherland, the Pierce County executive and former mayor of Tacoma",0.90
+WA,Seattle Post-Intelligencer,149000,2000,LT GOVERNOR,,,WA,"OWEN, BRAD",Democrat,1,1,,,"Owen has admirably performed his constitutional duty, presided over the state Senate, chaired the Rules Committee",0.90
+WA,Seattle Post-Intelligencer,149000,2000,PRESIDENT,,,WA,"GORE, AL",Democrat,1,,,,P-I Endorsements - President. The people of the United States would be far better served with Vice President Al Gore as their president than Texas Gov. George W. Bush. Gore's a moderate.,0.95
+WA,Seattle Post-Intelligencer,149000,2000,SEC OF STATE,,,WA,"REED, SAM",Republican,1,,,,Republican Sam Reed is the person best suited to carry on Ralph Munro's legacy of leadership and efficient dignity,0.95
+WA,Seattle Post-Intelligencer,149000,2000,SENATOR,,,WA,"CANTWELL, MARIA",Democrat,1,,,,"Cantwell is 43-year-old Democrat. That a senator so bright, skilled and knowledgeable as Slade Gorton is in danger of being turned out of the Senate",0.95
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,1,,WA,"EDWARDS, LAURA",Democrat,1,1,,,1st District Position 2: Voters should re-elect Democratic incumbent Laura Edwards,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,1,,WA,"O'BRIEN, AL",Democrat,1,1,,,1st District Position 1: Democrat Al O'Brien deserves another term in the House,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,11,,WA,"CODY, EILEEN",Democrat,1,1,,,11th District Position 1: Incumbent Eileen Cody has been one of the key forces in the Legislature on health care issues,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,5,,WA,"PFLUG, CHERYL",Republican,1,1,,,11th District Position 1: Incumbent Republican Cheryl Pflug has been a formidable challenger in Olympia [District corrected from 11 to 5 per QA],0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE SENATOR,11,,WA,"PRENTICE, MARGARITA",Democrat,1,1,,,11th District: Democratic Sen. Margarita Prentice is unopposed and deserves re-election [Office corrected to STATE SENATOR per QA],0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,11,,WA,"VELORIA, VELMA",Democrat,1,1,,,"11th District Position 2: Incumbent Velma Veloria, a Democrat, has represented the 11th District constituents well",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,25,,WA,"MORELL, DAVE",Republican,1,,,,25th District Position 2: Dave Morell is the clearly superior candidate,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,30,,WA,"MILOSCIA, MARK",Democrat,1,1,,,30th District Position 1: Democratic incumbent Mark Miloscia has earned a second term,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,30,,WA,"MITCHELL, MARYANNE",Republican,1,,,,30th District Position 2: Voters should retain Republican incumbent Maryanne Mitchell [Name corrected from SONNTAG per QA],0.70
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,31,,WA,"STENSEN, MIKE",Democrat,1,,,,31st District Position 1: The 31st should return Democrat Mike Stensen,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,33,,WA,"KEISER, KAREN",Democrat,1,1,,,"33rd District Position 2: Karen Keiser, a five-year House woman, has made a solid contribution to the state and the district",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,33,,WA,"SCHUAL-BERKE, SHAY",Democrat,1,1,,,33rd District Position 1: Incumbent Democrat Shay Schual-Berke is a remarkable legislator who deserves to be retained,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE SENATOR,34,,WA,"CONSTANTINE, DOW",Democrat,1,,,,"34th District: Dow Constantine, a Democrat who held Position 1 in the House should be elevated to the Senate seat vacated by Mike Heavey [Office corrected to STATE SENATOR per QA]",0.90
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,34,,WA,"MCDERMOTT, JOE",Democrat,1,,,,"34th District Position 2: Democrat Joe McDermott, a senior budget analyst for Seattle Public Schools, has a wealth of political background",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,34,,WA,"POULSEN, ERIC",Democrat,1,1,,,"34th District Position 1: Incumbent Eric Poulsen, a Democrat",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,1,1,,,36th District Position 2: Democratic incumbents should be re-elected,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,36,,WA,"SOMMERS, HELEN",Democrat,1,1,,,"36th District Position 1 & 2: Because of their exemplary records, Democratic incumbents Helen Sommers and Mary Lou Dickerson should be re-elected",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,37,,WA,"SANTOS, SHARON TOMIKO",Democrat,1,1,,,"37th District Position 1: Democratic incumbent Sharon Tomiko Santos has been provided with civil rights, women's rights and economic and environmental justice",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,37,,WA,"TOKUDA, KIP",Democrat,1,1,,,"37th District Position 2: Kip Tokuda, a Democrat and able legislator, is unopposed for re-election",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,41,,WA,"BALLASIOTES, IDA",Republican,1,1,,,"41st District Position 2: Republican Ida Ballasiotes, the incumbent, is a leader in the House who serves her constituents with distinction and deserves another term",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,41,,WA,"JARRETT, FRED",Republican,1,,,,41st District: Republican Fred Jarrett's years of experience in industry and in local and regional issues - particularly transportation and growth management - make him uniquely qualified,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,43,,WA,"CHOPP, FRANK",Democrat,1,1,,,43rd District Position 2: Frank Chopp deserves re-election,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,43,,WA,"MURRAY, ED",Democrat,1,1,,,43rd District Positions 1 & 2: Their constituents are wise to retain incumbent Democrats Ed Murray and Frank Chopp,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,45,,WA,"RUDERMAN, LAURA",Democrat,1,1,,,45th District Position 2: The 45th District - and the House - will be well served by incumbent Democrat Laura Ruderman returning to the Legislature,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,46,,WA,"KENNEY, PHYLLIS GUTIERREZ",Democrat,1,1,,,46th District Position 2: Phyllis Gutierrez Kenney is in her second term and is co-chair of the Higher Education Committee,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,46,,WA,"MCINTIRE, JIM",Democrat,1,1,,,"46th District Position 1: Democrat Jim McIntire, a University of Washington's Graduate School of Public Affairs, has done an exemplary job in his first term",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,47,,WA,"SIMPSON, GEOFF",Democrat,1,,,,"47th District: Covington City Councilman Geoff Simpson, the Democratic challenger, holds views on the state's crucial issues",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,48,,WA,"ANDERSON, ROB",Republican,1,,,,"48th District Position 2: Voters would be well served by re-electing Republican incumbent Rob Anderson, although his vote against extending health care coverage",0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,48,,WA,"ESSER, LUKE",Republican,1,1,,,48th District Position 1: Republican Luke Esser is the first-term Republican incumbent and should be returned to office,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE REP,5,,WA,"MULLIKEN, JOYCE",Republican,1,,,,"5th District Position 2: Republican Eileen Anderson, a consultant and former commercial banker, offers a broader, more studied approach",0.70
+WA,Seattle Post-Intelligencer,149000,2000,STATE SENATOR,5,,WA,"ROSSI, DINO",Republican,1,,,,5th District Position 1: Republican incumbent Dino Rossi has earned a return to the state Senate [Name and office corrected per QA],0.70
+WA,Seattle Post-Intelligencer,149000,2000,STATE SENATOR,1,,WA,"MCAULIFFE, ROSEMARY",Democrat,1,1,,,Democratic Sen. Rosemary McAuliffe has distinguished herself as a champion of public education,0.85
+WA,Seattle Post-Intelligencer,149000,2000,STATE SENATOR,32,,WA,"KAGI, RUTH",Democrat,1,,,,"32nd District: Voters should re-elect the able Democratic legislator Ruth Kagi, who has no Republican challenger",0.85
+WA,Seattle Post-Intelligencer,149000,2000,SUPREME COURT,,Washington State Supreme Court Justice Position 9,WA,"CHAMBERS, TOM",Nonpartisan,1,,,,"Neither candidate has been a judge, but Seattle lawyer Tom Chambers - having practiced for 30 years and having twice been named trial lawyer of the year by organizations of his peers - is more qualified",0.85
+WA,Seattle Post-Intelligencer,149000,2000,SUPREME COURT,,Washington State Supreme Court Justice Position 2,WA,"SULLIVAN, JEFF",Nonpartisan,1,,,,"We recommend Jeff Sullivan, who has been the Yakima County prosecutor for 26 years",0.85
+WA,Seattle Post-Intelligencer,149000,2000,TREASURER,,,WA,"MURPHY, MIKE",Democrat,1,1,,,"The Washington state treasurer has a vital job. And taxpayers have a highly qualified incumbent to do it, Michael Murphy",0.90
+WA,Seattle Post-Intelligencer,149000,2002,H,1,,WA,"INSLEE, JAY",Democrat,1,1,,,"Inslee is an effective, skilled incumbent who pays close attention to his constituents' needs",0.95
+WA,Seattle Post-Intelligencer,149000,2002,H,2,,WA,"LARSEN, RICK",Democrat,1,1,,,Merits re-election on the basis of his constructive bipartisanship and exceptional work on a wide variety of issues important to his district and the nation,0.95
+WA,Seattle Post-Intelligencer,149000,2002,H,3,,WA,"BAIRD, BRIAN",Democrat,1,1,,,Incumbent Democrat deserves another term. Four years ago this clinical psychologist hit the ground running,0.95
+WA,Seattle Post-Intelligencer,149000,2002,H,7,,WA,"MCDERMOTT, JIM",Democrat,1,1,,,Should be re-elected because he has interested himself in two critical areas: health care and war in Iraq,0.95
+WA,Seattle Post-Intelligencer,149000,2002,H,8,,WA,"DUNN, JENNIFER",Republican,1,,1,,"A credible representative of her district on local, national and international issues who, like others in the delegation",0.95
+WA,Seattle Post-Intelligencer,149000,2002,H,9,,WA,"SMITH, ADAM",Democrat,1,1,,,Voters should take advantage of incumbent Adam Smith's experience in the U.S. House and his centrist approach,0.95
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,1,,WA,"EDWARDS, JEANNE",Democrat,1,1,,,1st District Position 2: The incumbent Democrat has represented this district well in two terms,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,1,,WA,"O'BRIEN, AL",Democrat,1,1,,,1st District Position 1: Incumbent Democrat Al O'Brien has earned election to a fourth term and has a section where moderates with experience are valued,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,26,,WA,"JACKLEY, BROCK",Democrat,1,,,,"26th District Position 2: First-term Democrat Brock Jackley should be retained, to pursue his impressive commitment to addressing the district's and the state's needs",0.80
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,26,,WA,"LANTZ, PATRICIA",Democrat,1,1,,,26th District Position 1: Incumbent Democrat Patricia Lantz deserves a fourth term on the basis of her experience,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,30,,WA,"MARKLEY, GREG",Democrat,1,,,,"30th District Position 2: In the contest to succeed Maryann Mitchell, the Democratic candidate Greg Markley, a first firefighter and EMT, receives our endorsement",0.80
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,30,,WA,"MILOSCIA, MARK",Democrat,1,1,,,"30th District Position 1: Voters should retain Democrat Mark Miloscia, who has been a consistent advocate for government accountability measures since being elected in 1998",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,31,,WA,"CONNOR, MIKE",Democrat,1,,,,31st District Position 1: Democratic challenger Mike Connor has a depth of ideas and experiences that merit his election over incumbent Dan Roach,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,31,,WA,"WARD, YVONNE",Democrat,1,,,,31st District: Challenger Yvonne Ward brings dynamism and tough-mindedness that would prove beneficial in Olympia,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,32,,WA,"KAGI, RUTH",Democrat,1,1,,,"32nd District Position 2: Democrat Ruth Kagi, a champion of issues affecting women and children, should be re-elected to a third term",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,33,,WA,"SCHUAL-BERKE, SHAY",Democrat,1,1,,,33rd District Position 1: Shay Schual-Berke offers one of the Legislature's sharpest intellects,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,33,,WA,"UPTHEGROVE, DAVE",Democrat,1,,,,33rd District Position 2: Dave Upthegrove is a bright newcomer appointed to in January,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,34,,WA,"POULSEN, ERIK",Democrat,1,1,,,"34th District: Erik Poulsen, Democrat, is unopposed. The district should continue to benefit from Poulsen's energy, savvy and his membership on key Senate committees",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,36,,WA,"DICKERSON, MARY LOU",Democrat,1,1,,,36th District Position 2: Mary Lou Dickerson has worked especially hard to protect and defend children,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,36,,WA,"MURRAY, HELEN SOMMERS",Democrat,1,1,,,"36th District Position 1: Helen Sommers, Democrat and chairwoman of the House Appropriations Committee, is one of the Legislature's most capable leaders",0.70
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,39,,WA,"MCCAY, JOHN",Republican,1,,,,"39th District: The better candidate for this position is John McCay, manager of the Tulalip Tribes' Quil Ceda Village",0.70
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,41,,WA,"JARRETT, FRED",Republican,1,1,,,"41st District Position 1: Republican Fred Jarrett, a capable moderate, can be trusted to continue serving the district well",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,41,,WA,"WENSMAN, MIKE",Republican,1,,,,"41st District Position 2: On the basis of two previous terms in the Legislature, Republican Mike Wensman receives our endorsement",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,43,,WA,"DUNSHEE, HANS",Democrat,1,1,,,"43rd District Position 2: Hans Dunshee, redistricted from the 39th, is one of the Legislature's bright minds and powerful voices",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,43,,WA,"MURRAY, ED",Democrat,1,1,,,43rd District Position 1: Democrat Ed Murray is unchallenged in his bid for re-election,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,43,,WA,"THIBAUDEAU, PAT",Democrat,1,1,,,43rd District: Democrat Pat Thibaudeau is one of the Legislature's outstanding leaders on health care issues,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,46,,WA,"JACOBSEN, KEN",Democrat,1,1,,,"46th District: Ken Jacobsen has served in the Legislature since 1984, making important contributions to transportation and higher education issues. A Democrat, he is unopposed.",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,46,,WA,"MCINTIRE, JIM",Democrat,1,1,,,"46th District Position 1: Democrat Jim McIntire, has brought valuable financial expertise to the Legislature, expertise that will be crucial as Olympia tackles the toughest budget battle in a generation",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,47,,WA,"CAIRNES, JACK",Republican,1,1,,,47th District Position 1: Republican Jack Cairnes has earned a fifth term,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,47,,WA,"JOHNSON, STEPHEN",Republican,1,1,,,"47th District: Republican Stephen Johnson, in the Legislature eight years, has earned another four-year term",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,48,,WA,"TOM, RODNEY",Republican,1,,,,"48th District Position 2: Republican Rodney Tom promises to work for balanced, common-sense solutions, and has the skills and ideas to make that promise possible",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,5,,WA,"ANDERVAS, GLENN",Republican,1,,,,"5th District Position 2: In his first term, Republican Glenn Andervas seems to have gotten off to a fast start",0.70
+WA,Seattle Post-Intelligencer,149000,2002,STATE REP,5,,WA,"PFLUG, CHERYL",Republican,1,1,,,5th District Position 1: Republican Cheryl Pflug should be re-elected to a third term,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE SENATOR,26,,WA,"OKE, BOB",Republican,1,1,,,"26th District: The district's three-term incumbent, Republican Bob Oke, should be retained for his experience, bipartisanship and understanding of the issues",0.75
+WA,Seattle Post-Intelligencer,149000,2002,STATE SENATOR,29,,WA,"FRANKLIN, ROSA",Democrat,1,1,,,"29th District: Democrat Rosa Franklin, retired nurse, civil rights advocate and president pro-tem of the Senate, has served in the Legislature for more than 20 years",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE SENATOR,30,,WA,"EIDE, TRACEY",Democrat,1,1,,,30th District: Democratic incumbent Tracey Eide earns our endorsement for her experience,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE SENATOR,33,,WA,"KEISER, KAREN",Democrat,1,,,,"33rd District: Joining the Senate last year, Karen Keiser has made a smooth transition after serving five years in the state House of Representatives",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE SENATOR,36,,WA,"KOHL-WELLES, JEANNE",Democrat,1,1,,,36th District: Democratic incumbent Jeanne Kohl-Welles has been an active and effective legislator focusing on higher education,0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE SENATOR,37,,WA,"KLINE, ADAM",Democrat,1,1,,,"37th District: Adam Kline, Democrat and lawyer, has been an essential champion of civil liberties in the face of intemperate reactions to the Sept. 11 terrorist attacks. Kline is unopposed.",0.85
+WA,Seattle Post-Intelligencer,149000,2002,STATE SENATOR,48,,WA,"HUNTER, ROSS",Democrat,1,,,,"48th District: Democrat Mary Lou Dickerson... Democrat Ross Hunter, a former Microsoft executive, strikes us as a particularly capable candidate",0.85
+WA,Seattle Post-Intelligencer,149000,2002,SUPREME COURT,,Washington State Supreme Court Justice Position 3,WA,"FAIRHURST, MARY",Nonpartisan,1,,,,"Mary Fairhurst, our choice, has been an assistant attorney general for 16 years, working on issues such as taxation, highway construction, civil rights and personnel",0.85
+WA,Seattle Post-Intelligencer,149000,2002,SUPREME COURT,,Washington State Supreme Court Justice Position 4,WA,"JOHNSON, CHARLES W.",Nonpartisan,1,1,,,"Is the superior candidate, having heard 950 cases and published 230 opinions since he was elected in 1990",0.85

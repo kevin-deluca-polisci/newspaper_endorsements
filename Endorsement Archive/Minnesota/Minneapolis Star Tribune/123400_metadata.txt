@@ -1,0 +1,15 @@
+Newspaper Name: Minneapolis Star Tribune
+Newspaper ID: 123400
+State: MN
+Processing Date: 2026-05-15
+
+Clippings: 50
+Date range: 1982-2020
+Total candidate records: 44 (endorsed 44)
+Total proposition records: 6 (endorsed 4, opposed 2)
+Mean confidence: 0.93
+
+Notes:
+- Formed April 1982 from merger of Minneapolis Star (evening) and Minneapolis Tribune (morning)
+- Originally "Minneapolis Star and Tribune"; renamed "Star Tribune" in 1987
+- Many 2010-2018 daily editorial files were build-up to final endorsement; most extraction from final recaps

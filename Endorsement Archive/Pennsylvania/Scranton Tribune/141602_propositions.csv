@@ -1,0 +1,11 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+PA,Scranton Tribune,141602,1972,PA,CITY CHARTER,,Yes vote on study of Scranton city form of government,1,Strongly urges Yes vote,0.90
+PA,Scranton Tribune,141602,1982,PA,LIBRARY,,Lackawanna County library system funding,1,Yes vote urged,0.95
+PA,Scranton Tribune,141602,1982,PA,PERSONAL CARE HOMES,,Financial aid for personal care boarding homes,1,Yes vote favored,0.90
+PA,Scranton Tribune,141602,1996,PA,,,Luzerne County referendum to expend approximately $2.7 million to establish computerized (electronic) voting,,,
+PA,Scranton Tribune,141602,1998,PA,,,Shall the Pennsylvania Constitution be amended to disallow bail when the proof is evident or presumption great that the accused committed an offense for which the maximum penalty is life imprisonment or that no condition or combination of conditions other than the imprisonment of the accused will reasonably assure the safety of any person and the community?,,,
+PA,Scranton Tribune,141602,1998,PA,,,Shall the Pennsylvania Constitution be amended to provide that the Commonwealth shall have the same right to trial by jury in criminal cases as does the accused?,,,
+PA,Scranton Tribune,141602,1998,PA,,,Referendum No. 1: Shall the Pennsylvania Constitution be amended to disallow bail when the proof is evident or presumption great that the accused committed an offense for which the maximum penalty is life imprisonment or that no condition or combination of conditions other than the imprisonment of the accused will reasonably assure the safety of any person and the community?,,,
+PA,Scranton Tribune,141602,1998,PA,,,Referendum No. 2: Shall the Pennsylvania Constitution be amended to provide that the Commonwealth shall have the same right to trial by jury in criminal cases as does the accused?,,,
+PA,Scranton Tribune,141602,2002,PA,,,$100 million borrowing referendum to fund volunteer fire companies and rescue crews for equipment and training,,,
+PA,Scranton Tribune,141602,2002,PA,,,Recovery Referendum: Should the City of Scranton Adopt the Financial Recovery Plan set forth in Ordinance No. 32 of 2002 as proposed by Mayor Christopher A. Doherty and Approved by Scranton City Council?,,,

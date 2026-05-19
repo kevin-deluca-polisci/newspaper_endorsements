@@ -1,0 +1,196 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+WA,Seattle Post-Intelligencer,149000,1962,WA,AMENDMENT,SJR 21,Senate Joint Resolution 21 - Repeal of alien land law barring Asians from owning land in Washington,1,"P-I urges YES vote to repeal old, unfair, discriminatory land law.",0.95
+WA,Seattle Post-Intelligencer,149000,1962,WA,REFERENDUM,32,Milk Marketing Act,0,"P-I urges NO vote on Referendum 32, opposing the Milk Marketing Act as opening the way to state price-fixing of milk.",0.95
+WA,Seattle Post-Intelligencer,149000,1964,WA,INITIATIVE,I-215,Earmark unreclaimed boat gas taxes for waterfront marina land,1,P-I urges YES on Initiative 215 for outdoor recreation/marina development.,0.95
+WA,Seattle Post-Intelligencer,149000,1964,WA,REFERENDUM,11,"$10 million bond issue for outdoor recreation lands (parks, game lands, roadside areas)",1,"P-I urges YES on Referendum 11 for outdoor recreation, companion to Initiative 215.",0.95
+WA,Seattle Post-Intelligencer,149000,1964,WA,REFERENDUM,12,"$59 million bond issue for community colleges, vocational-technical schools, and public school construction",1,P-I urges YES on Referendum 12 for educational facilities funding.,0.95
+WA,Seattle Post-Intelligencer,149000,1964,WA,REFERENDUM,13,"$4,600,000 bond issue to provide quarters for boys and girls committed by juvenile courts to state custody",1,P-I urges YES on Referendum 13 to fund decent housing for juvenile court wards.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,WA,AMENDMENT,HJR 39,Amend constitution requirement on publication of state debts text,1,Reasonable change - shortens publication period and requires publication of brief notices in all legal newspapers.,0.85
+WA,Seattle Post-Intelligencer,149000,1966,WA,AMENDMENT,HJR 4,Allow new residents to vote for President and Vice-President if in state at least 60 days before election and intend to become permanent residents,1,Favor HJR 4.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,WA,AMENDMENT,HJR 7,Authorizes legislature to grant tax relief to retired persons,0,"Advocated NO vote - while sympathetic to retired persons facing tax increases, sets up dangerous precedent.",0.90
+WA,Seattle Post-Intelligencer,149000,1966,WA,AMENDMENT,SJR 22,Common school construction fund expansion (Parts 1 and 2),1,Concur with legislature in favoring adoption - sensible financing program for school building.,0.90
+WA,Seattle Post-Intelligencer,149000,1966,WA,AMENDMENT,SJR 25,Permit port districts to use funds for promotional purposes,1,"Voting YES on SJR 25 - allows port districts to compete with British Columbia, Oregon, California ports.",0.95
+WA,Seattle Post-Intelligencer,149000,1966,WA,AMENDMENT,SJR 4,Repeal 77-year-old law preventing people from owning land until they become citizens,1,"Should repeal these restrictions, as Oregon and California have done.",0.95
+WA,Seattle Post-Intelligencer,149000,1966,WA,AMENDMENT,SJR 6,Eliminate names of unopposed Superior Court judges from general election ballot,1,P-I is for it - simplifies and reduces election costs.,0.90
+WA,Seattle Post-Intelligencer,149000,1966,WA,BOND,,$15 million King County Hospital remodeling bond issue (Harborview),1,"Previously endorsed for hospital facility critically in need of new equipment, mental health center, in-patient and out-patient care.",0.90
+WA,Seattle Post-Intelligencer,149000,1966,WA,BOND,,$6 million County Library bond issue,1,Endorsed - to be voted on by voters in unincorporated areas served by County Library System; provides $12 million for 20 new libraries and remodeling existing structures.,0.90
+WA,Seattle Post-Intelligencer,149000,1966,WA,INITIATIVE,I-226,Cities sharing sales/use taxes,1,Supported as practical means for meeting cities in municipal finances - one-tenth of state sales/use tax to cities/towns.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,WA,INITIATIVE,I-229,Repeal of Sunday blue law,1,Advocated repeal - Sunday blue law is archaic and ridiculous.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,WA,INITIATIVE,I-233,Repeals 1911 freight train crew law (firemen requirement),1,Spoke in favor of Initiative 233 - eliminates fireman requirement contrary to claim of opponents.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,WA,REFERENDUM,14,Public school construction matching funds,1,Wholeheartedly endorsed for new buildings to keep pace with growing school population.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,WA,REFERENDUM,15,State institutions construction,1,Wholeheartedly endorsed for state institutions construction matching funds.,0.95
+WA,Seattle Post-Intelligencer,149000,1966,WA,REFERENDUM,16,Congressional Reapportionment and Redistricting,1,"Voting YES - revises congressional district boundaries for more equal population base in conformity with one-man, one-vote.",0.95
+WA,Seattle Post-Intelligencer,149000,1968,WA,AMENDMENT,HJR 13,Compensation Increase,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,AMENDMENT,SJR 17,State Building Authority,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,AMENDMENT,SJR 23,Excess Levy Elections,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,AMENDMENT,SJR 24,Vacancy in Office,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,AMENDMENT,SJR 5,Pension Funds,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,AMENDMENT,SJR 6,Appellate Court,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,CHARTER,,King County Charter,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,INITIATIVE,I-242,Implied Consent,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,INITIATIVE,I-245,Service Charges,0,P-I Recommends - Against,0.85
+WA,Seattle Post-Intelligencer,149000,1968,WA,INITIATIVE,I-32,State Timber,0,P-I Recommends - Against,0.85
+WA,Seattle Post-Intelligencer,149000,1968,WA,MEASURE,,Taxation on Land Use,1,P-I Recommends - For,0.75
+WA,Seattle Post-Intelligencer,149000,1968,WA,MEASURE,,Water Fluoridation,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,REFERENDUM,17,Pollution Control,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,REFERENDUM,18,Recreation Bonds,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,REFERENDUM,19,State Building Projects,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,REFERENDUM,35,Non-discrimination,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1968,WA,SCHOOL LEVY,,Seattle School Levy,1,P-I Recommends - For,0.90
+WA,Seattle Post-Intelligencer,149000,1970,WA,AMENDMENT,HJR 42,Revising Revenue Limitations,1,P-I YES,0.95
+WA,Seattle Post-Intelligencer,149000,1970,WA,AMENDMENT,HJR 6,Establishing Voting Age at 19,1,P-I YES,0.95
+WA,Seattle Post-Intelligencer,149000,1970,WA,CHARTER,1,"City Charter Amendment - Abolish Building Dept., Transfer Functions",1,P-I YES (Seattle City Charter),0.90
+WA,Seattle Post-Intelligencer,149000,1970,WA,CHARTER,2,"City Charter Amendment - Abolish Transit Commission, Transfer Functions",1,P-I YES (Seattle City Charter),0.90
+WA,Seattle Post-Intelligencer,149000,1970,WA,CHARTER,3,City Charter Amendment - Non-citizens Eligible For Civil Service,1,P-I YES (Seattle City Charter),0.90
+WA,Seattle Post-Intelligencer,149000,1970,WA,INITIATIVE,I-251,State Taxation to Regulate Imposition,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1970,WA,INITIATIVE,I-256,Prohibiting Certain Non-refundable Beverage Receptacles,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1970,WA,REFERENDUM,20,Changes In Abortion Law,1,P-I YES,0.95
+WA,Seattle Post-Intelligencer,149000,1970,WA,REFERENDUM,21,"Outdoor Recreation Bonds, Sales, Interest",1,P-I YES,0.95
+WA,Seattle Post-Intelligencer,149000,1970,WA,REFERENDUM,22,"State Buildings Bonds, Sales, Interest",1,P-I YES,0.95
+WA,Seattle Post-Intelligencer,149000,1970,WA,REFERENDUM,23,"Pollution Control Bonds, Sales, Interest",1,P-I YES,0.95
+WA,Seattle Post-Intelligencer,149000,1972,WA,AMENDMENT,HJR 1,Tax Exemptions - Periodic Review - Repeal,1,P-I YES.,0.75
+WA,Seattle Post-Intelligencer,149000,1972,WA,AMENDMENT,HJR 21,Allow Combined County-City Governments,1,P-I YES.,0.75
+WA,Seattle Post-Intelligencer,149000,1972,WA,AMENDMENT,HJR 47,Changing Excess Levy Election Formula,1,P-I YES.,0.75
+WA,Seattle Post-Intelligencer,149000,1972,WA,AMENDMENT,HJR 52,Changing Constitutional Debt Limitation Formula,1,P-I YES.,0.75
+WA,Seattle Post-Intelligencer,149000,1972,WA,AMENDMENT,HJR 61,Sex Equality - Rights and Responsibilities (ERA),1,P-I YES on Equal Rights Amendment.,0.85
+WA,Seattle Post-Intelligencer,149000,1972,WA,AMENDMENT,SJR 1,Property Taxation - 1% Constitutional Limitation,1,P-I YES.,0.75
+WA,Seattle Post-Intelligencer,149000,1972,WA,AMENDMENT,SJR 38,Setting of County Officers' Salaries,1,P-I YES.,0.75
+WA,Seattle Post-Intelligencer,149000,1972,WA,AMENDMENT,SJR 5,Permitting Authorization of Lotteries,1,P-I YES.,0.75
+WA,Seattle Post-Intelligencer,149000,1972,WA,BOND,,"Seattle Proposition - Bridges, Roadway Trail Bonds",1,P-I PREFERS.,0.70
+WA,Seattle Post-Intelligencer,149000,1972,WA,INITIATIVE,I-258,"Permit dog racing in Seattle, Tacoma and Spokane",1,P-I YES on Initiative 258; not opposed to a legwash.,0.70
+WA,Seattle Post-Intelligencer,149000,1972,WA,INITIATIVE,I-261,Liquor sale by licensed retailers,0,P-I AGAINST,0.70
+WA,Seattle Post-Intelligencer,149000,1972,WA,INITIATIVE,I-276,"Disclosure - Campaign Finance, Lobbying, Records",1,P-I YES on disclosure act.,0.90
+WA,Seattle Post-Intelligencer,149000,1972,WA,INITIATIVE,I-40,Litter Control Act (Alternative),1,P-I PREFERS alternative.,0.70
+WA,Seattle Post-Intelligencer,149000,1972,WA,INITIATIVE,I-43,Regulating Shoreline Use (Curtis Cities Greenbelt Boring Production),0,P-I against. Alternative is preferred (Shoreline Management Act).,0.75
+WA,Seattle Post-Intelligencer,149000,1972,WA,INITIATIVE,I-44,Statutory Tax Limitation - 5%,0,P-I AGAINST.,0.75
+WA,Seattle Post-Intelligencer,149000,1972,WA,MEASURE,,Alternative to I-43 - Shoreline Management Act,1,P-I PREFERS this alternative for shorelines management.,0.80
+WA,Seattle Post-Intelligencer,149000,1972,WA,REFERENDUM,24,"Lobbyists Regulation, Registration and Reporting",1,P-I YES on lobbying reform.,0.85
+WA,Seattle Post-Intelligencer,149000,1972,WA,REFERENDUM,25,Regulating Certain Election Campaign Financing,1,P-I YES.,0.80
+WA,Seattle Post-Intelligencer,149000,1972,WA,REFERENDUM,26,Bonds for Waste Disposal Facilities (Washington Future),1,P-I YES.,0.80
+WA,Seattle Post-Intelligencer,149000,1972,WA,REFERENDUM,27,Bonds for Water Supply Facilities (Washington Future),1,P-I YES.,0.80
+WA,Seattle Post-Intelligencer,149000,1972,WA,REFERENDUM,28,Bonds for Public Recreation Facilities (Washington Future),1,P-I YES.,0.80
+WA,Seattle Post-Intelligencer,149000,1972,WA,REFERENDUM,29,"Bonds for Health, Social Service Facility (Washington Future)",1,P-I YES.,0.80
+WA,Seattle Post-Intelligencer,149000,1972,WA,REFERENDUM,30,Bonds for Public Transportation Improvements (Washington Future),1,P-I YES.,0.80
+WA,Seattle Post-Intelligencer,149000,1972,WA,REFERENDUM,31,Bonds for Community College Facilities (Washington Future),1,P-I YES.,0.80
+WA,Seattle Post-Intelligencer,149000,1974,WA,AMENDMENT,SJR 140,Restricting the governor's item veto,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1974,WA,AMENDMENT,SJR 143,Establishing a 30-day requirement for voting,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1974,WA,INITIATIVE,1,Prohibiting improvements to Woodland Park Zoo over Aurora Avenue (Seattle),0,P-I NO - Seattle Special Election,0.85
+WA,Seattle Post-Intelligencer,149000,1974,WA,INITIATIVE,3,Providing for the use of Sand Point for aircraft (Seattle),0,P-I NO - Seattle Special Election,0.85
+WA,Seattle Post-Intelligencer,149000,1974,WA,MEASURE,,Substitute Measure to Initiative - Limiting improvements to upper Woodland Park and Aurora Airspace,0,P-I NO - Seattle Special Election,0.85
+WA,Seattle Post-Intelligencer,149000,1974,WA,REFERENDUM,1,Permitting the city to use design and site plans for the West Seattle Freeway (Seattle),1,P-I YES - Seattle Special Election,0.85
+WA,Seattle Post-Intelligencer,149000,1974,WA,REFERENDUM,1,Prohibit topless dancing (King County Special Election),1,P-I YES,0.85
+WA,Seattle Post-Intelligencer,149000,1974,WA,REFERENDUM,34,Providing for a state lottery,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1974,WA,SCHOOL LEVY,,$35.3 Million school bonds for maintenance and new facilities (Seattle School District),1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1976,WA,AMENDMENT,HJR 64,To charter a state agency to draft model county home rule charters,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1976,WA,AMENDMENT,SJR 130,To provide equal pay for state legislators,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1976,WA,AMENDMENT,SJR 137,To empower voters to approve excess school levies for two year periods,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1976,WA,BOND,,Harborview Medical Center - To provide $19.5 million for upgrading of hospital facilities,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1976,WA,CHARTER,,Seattle Charter Amendment - To require the disclosure and reporting of campaign contributions be governed by ordinance rather than charter,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1976,WA,INITIATIVE,I-322,To make fluoridation of public waters unlawful,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1976,WA,INITIATIVE,I-325,To provide that future nuclear power facilities that do not meet certain conditions receive two-thirds approval by the State Legislature,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1976,WA,REFERENDUM,36,To require certain appointed state officials disclose their financial affairs to the Public Disclosure Commission,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1978,WA,BOND,1,Farmlands bond issue (King County Proposition 1),1,P-I YES on King County Proposition 1,0.90
+WA,Seattle Post-Intelligencer,149000,1978,WA,INITIATIVE,12,To allow job and housing discrimination based on sexual orientation (Seattle),0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1978,WA,INITIATIVE,15,For less restrictive police shooting policy (Seattle),0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1978,WA,INITIATIVE,16,For public spay-neuter animal clinic (Seattle),0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1978,WA,INITIATIVE,I-350,Anti-school desegregation,0,P-I NO on Initiative 350 (anti-busing/anti-desegregation),0.85
+WA,Seattle Post-Intelligencer,149000,1980,WA,AMENDMENT,HJR 37,Sets up judicial discipline commission,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1980,WA,AMENDMENT,SJR 132,Asserts state claim to some federal lands,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1980,WA,INITIATIVE,24,Rent Control (Seattle),0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1980,WA,INITIATIVE,I-383,Restrict Nuclear Waste Storage,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1980,WA,MEASURE,,King County Metro Transit Sales Tax,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1980,WA,REFERENDUM,38,Water supply bonds,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1980,WA,REFERENDUM,39,Waste disposal bonds,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1982,WA,AMENDMENT,SJR 143,Community Redevelopment Financing,1,P-I YES,0.95
+WA,Seattle Post-Intelligencer,149000,1982,WA,INITIATIVE,I-412,Retail Credit Limit,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1982,WA,INITIATIVE,I-414,Bottle Bill,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1982,WA,INITIATIVE,I-435,"Repealing Food Sales Tax, Establishing Corporate Income Tax",0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1982,WA,MEASURE,1,King County Pro Parks,1,P-I YES on King County Proposition 1,0.90
+WA,Seattle Post-Intelligencer,149000,1984,WA,INITIATIVE,I-456,To limit Indian rights,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1984,WA,INITIATIVE,I-464,To take sales tax off trade-ins,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1984,WA,INITIATIVE,I-471,To prohibit state-funded abortions,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1986,WA,AMENDMENT,HJR 49,"Establish commission to set salaries of legislators, judges and elected state officials",1,P-I YES on HJR 49,0.90
+WA,Seattle Post-Intelligencer,149000,1986,WA,AMENDMENT,HJR 55,Allow school construction levies,1,P-I YES on HJR 55,0.90
+WA,Seattle Post-Intelligencer,149000,1986,WA,AMENDMENT,SJR 136,Change judicial commission,1,P-I YES on SJR 136,0.90
+WA,Seattle Post-Intelligencer,149000,1986,WA,AMENDMENT,SJR 138,Change procedures to fill vacant offices,1,P-I YES on SJR 138,0.90
+WA,Seattle Post-Intelligencer,149000,1986,WA,INITIATIVE,31,Seattle - rescind sanctuary resolution and Central American Commission,0,P-I NO on Seattle Proposition / Initiative 31,0.85
+WA,Seattle Post-Intelligencer,149000,1986,WA,INITIATIVE,I-90,Tax for fish and wildlife,0,P-I NO on Initiative 90,0.90
+WA,Seattle Post-Intelligencer,149000,1986,WA,MEASURE,1,King County levy for fingerprint system,1,P-I YES on King County Proposition 1,0.90
+WA,Seattle Post-Intelligencer,149000,1986,WA,MEASURE,2,King County limit county executive pay,0,P-I NO on King County Proposition 2,0.90
+WA,Seattle Post-Intelligencer,149000,1986,WA,REFERENDUM,40,Oppose nuclear waste,1,P-I YES on Referendum 40,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,AMENDMENT,HJR 4222,Raise personal property tax exempt.,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,AMENDMENT,HJR 4223,Continue residential energy conservation assistance,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,AMENDMENT,HJR 4231,"Remove references in state Constitution to 'idiots, insane, dumb and defective youth'; insert new language",1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,BOND,1,"King County - $14,238,000 in Youth Detention facility bonds",1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,BOND,1,"Public Hospital District No. 2 - $4,395,000 in bonds for Evergreen Hospice Center",1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,BOND,1,Northshore Park Recreation Service Area - $3.6 million in bonds for senior citizen activity center,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,CHARTER,1,King County Charter Amendment 1 - Redefine auditor's duties,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,CHARTER,2,King County Charter Amendment 2 - Allow Superior Court judges to appoint clerk,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,CHARTER,3,King County Charter Amendment 3 - Make part-time workers members of career service,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,CHARTER,4,King County Charter Amendment 4 - Create a charter review commission,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,CHARTER,5,King County Charter Amendment 5 - Raise competitive bid limit on road construction and repairs,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,INITIATIVE,I-518,Raise min. wage,1,P-I YES,0.95
+WA,Seattle Post-Intelligencer,149000,1988,WA,INITIATIVE,I-97,Toxic waste cleanup,1,P-I YES Step 1: For either Initiative 97 or Alternative 97B,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,MEASURE,2,King County - Accelerate rail-transit development,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,MEASURE,97B,Alternative Measure to I-97 (Toxic waste cleanup),1,P-I YES Step 2: For Alternative 97B,0.90
+WA,Seattle Post-Intelligencer,149000,1988,WA,REFERENDUM,,City of Seattle - Allow City Council to set regular meeting dates,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1990,WA,AMENDMENT,HJR 4203,Constitutional provisions governing the creation of new counties,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1990,WA,AMENDMENT,HJR 4231,Permit voters at an election to approve excess property taxes for up to six-year periods,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1990,WA,AMENDMENT,SJR 8212,Basing the tax value of low-income housing of five or more units upon current use,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1990,WA,BOND,1,Snohomish County Hospital District Bond Issue for Stephens Memorial Hospital,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1990,WA,CHARTER,1,"Seattle City Charter Amendment, Referendum 1 - Update city claims procedures",1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1990,WA,INITIATIVE,35,Seattle - Repeal city employees' domestic partner benefits,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1990,WA,INITIATIVE,I-547,State growth and environmental protection goals; local comprehensive land use planning and development fees,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1990,WA,MEASURE,1,King County Levy to expand Automated Fingerprint Identification System,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1990,WA,MEASURE,1,Bainbridge Island - Annex remainder of Bainbridge Island into the city of Winslow,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1990,WA,MEASURE,21,King County Real estate excise tax of 1 percent of sales price to buy open space,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1990,WA,REFERENDUM,R90-1,Snohomish County Aquatic Resources Protection Program,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1992,WA,CHARTER,,King County Charter Amendment - Enabling act,1,P-I YES on Charter Amendment,0.90
+WA,Seattle Post-Intelligencer,149000,1992,WA,INITIATIVE,38,Repeal drug traffic loitering law (Seattle),0,P-I NO on Seattle Initiative 38,0.90
+WA,Seattle Post-Intelligencer,149000,1992,WA,INITIATIVE,I-134,Campaign contribution limits,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1992,WA,INITIATIVE,I-573,Term limits,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1992,WA,MEASURE,1,King County Metro merger,1,P-I YES on King County Proposition 1,0.90
+WA,Seattle Post-Intelligencer,149000,1992,WA,MEASURE,2,King County Regional justice center,1,P-I YES on King County Proposition 2,0.90
+WA,Seattle Post-Intelligencer,149000,1992,WA,SCHOOL LEVY,1,Seattle School District - $695 million bond issue,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1992,WA,SCHOOL LEVY,1,Highline School District - $150 million bond issue,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1992,WA,SCHOOL LEVY,1,Edmonds School District - $67 million bond issue,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1992,WA,SCHOOL LEVY,2,Highline School District - $52 million tax levy,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1994,WA,INITIATIVE,I-607,Licensing denturists,,Initiative 607 (Licensing denturists) - position not clearly visible,0.50
+WA,Seattle Post-Intelligencer,149000,1994,WA,MEASURE,1,City Proposition - $155 million library bond issue (Seattle),1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1994,WA,MEASURE,2,City Proposition - $122.5 million public safety bond issue (Seattle),1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1994,WA,REFERENDUM,43,"Anti-violence, anti-drug fund",1,P-I YES on Referendum 43,0.90
+WA,Seattle Post-Intelligencer,149000,1994,WA,SCHOOL LEVY,1,Seattle School Proposition - $332 million bond issue,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1996,WA,CHARTER,1,King County Charter Amendment 1 - Redistrict county council districts every 10 years,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1996,WA,CHARTER,2,King County Charter Amendment 2 - Make sheriff elective,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1996,WA,INITIATIVE,I-173,School vouchers,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1996,WA,INITIATIVE,I-177,Charter schools,0,P-I NO,0.95
+WA,Seattle Post-Intelligencer,149000,1996,WA,INITIATIVE,I-655,"Ban on bear-baiting; hunting bears, cougars, bobcats or lynx with dogs",,Position not clearly visible,0.50
+WA,Seattle Post-Intelligencer,149000,1996,WA,INITIATIVE,I-670,Ballot notices of candidates opposed to congressional term limits,0,P-I NO,0.90
+WA,Seattle Post-Intelligencer,149000,1996,WA,INITIATIVE,I-671,Legalize Indian casino slot machines,1,P-I YES,0.90
+WA,Seattle Post-Intelligencer,149000,1996,WA,MEASURE,1,Regional Transit System Proposition - Implement rail/bus system,1,P-I YES on Sound Transit/RTA Proposition 1,0.95
+WA,Seattle Post-Intelligencer,149000,1998,WA,INITIATIVE,I-200,Anti-affirmative action programs,0,P-I urges abandoning affirmative action programs they have not met the burden of proof. Existing policies have helped improve the lot of minorities and women.,0.90
+WA,Seattle Post-Intelligencer,149000,1998,WA,INITIATIVE,I-688,Raise minimum wage,1,"P-I YES - would raise state minimum wage to $5.70 an hour for those over age 18 in 1998, $6.50 in 2000",0.90
+WA,Seattle Post-Intelligencer,149000,1998,WA,INITIATIVE,I-692,Medical marijuana,1,P-I YES on medical use of marijuana,0.95
+WA,Seattle Post-Intelligencer,149000,1998,WA,INITIATIVE,I-694,Partial-birth abortion ban,0,P-I NO - vague initiative would not make abortion safer,0.90
+WA,Seattle Post-Intelligencer,149000,1998,WA,MEASURE,,Tacoma Narrows Bridge - public-private partnership with tolls covering bridge cost,,Many questions remain to be answered about toll figures; advisory vote of citizens is asked. Voters should decide.,0.60
+WA,Seattle Post-Intelligencer,149000,1998,WA,MEASURE,1,Seattle Public Library bond ($196.4 million),1,P-I YES - issuing $196.4 million in bonds to improve the Seattle Public Library System is a very good deal,0.90
+WA,Seattle Post-Intelligencer,149000,1998,WA,REFERENDUM,49,Use of MVET (Motor Vehicle Excise Tax) for highways,1,P-I YES - careful look at Referendum 49 shows the $1.9 billion in bonds for highways and reduction of MVET would let Washington's elected representatives off the hook,0.85
+WA,Seattle Post-Intelligencer,149000,2000,WA,AMENDMENT,SJR 8214,Allows the money in the trust funds to be invested in stocks and bonds for developmentally disabled,1,P-I YES - constitutional amendment is necessary to level the economic playing field for the developmentally disabled,0.90
+WA,Seattle Post-Intelligencer,149000,2000,WA,INITIATIVE,I-713,"Ban on certain trapping methods (animal trapping, poisoning wild animals)",1,"P-I YES on Initiative 713 - This initiative, which outlaws cruel methods of trapping and poisoning wild animals, is worth trying",0.90
+WA,Seattle Post-Intelligencer,149000,2000,WA,INITIATIVE,I-722,Property tax limitation - rescinding tax increases imposed without voter approval,0,P-I NO on Initiative 722 - apparently unconstitutional,0.90
+WA,Seattle Post-Intelligencer,149000,2000,WA,INITIATIVE,I-728,Education funding - lottery revenue for class size reduction,1,P-I YES on Initiative 728 - if Washington citizens really believe that educating children is the state's highest obligation,0.90
+WA,Seattle Post-Intelligencer,149000,2000,WA,INITIATIVE,I-729,Charter schools,1,P-I YES on Initiative 729 - This initiative authorizing tax-funded public charter schools addresses concerns we had about a similar measure in 1996,0.90
+WA,Seattle Post-Intelligencer,149000,2000,WA,INITIATIVE,I-732,Cost-of-living pay increases for teachers and other public school personnel,1,P-I YES on Initiative 732 - Voters should give annual cost-of-living pay increases,0.90
+WA,Seattle Post-Intelligencer,149000,2000,WA,INITIATIVE,I-745,Require 90 percent of transportation dollars in the state be spent on roads,0,P-I NO on Initiative 745 - This initiative would require 90 percent of transportation dollars in the state be spent on roads,0.90
+WA,Seattle Post-Intelligencer,149000,2000,WA,MEASURE,1,King County Proposition 1 - Sales tax increase for transit,1,P-I YES - In February the emergency transit funds provided for the state Legislature to compensate for I-695 revenue losses run out. This sensible choice authorizes the county to impose a 0.2 percent sales tax,0.90
+WA,Seattle Post-Intelligencer,149000,2000,WA,MEASURE,1,City of Seattle Proposition 1 - Pro Parks levy lid lift,1,"P-I YES - This proposal would lift the levy lid for eight years, providing $198.2 million to buy, develop and maintain parks, green spaces, playfields, trails",0.90
+WA,Seattle Post-Intelligencer,149000,2000,WA,MEASURE,2,City of Seattle Proposition 2 (Initiative 53) - Citywide vote on monorail,0,P-I NO - This would dedicate $6 million in public dollars to create a blueprint for a citywide monorail,0.90
+WA,Seattle Post-Intelligencer,149000,2002,WA,AMENDMENT,HJR 4220,Create five judicial districts to ask their voters to approve transportation spending. Putting on an election every year wastes tax dollars,0,P-I NO - This measure would allow five districts to ask their voters to approve better hookey more than one year. Putting on an election every year wastes tax dollars,0.85
+WA,Seattle Post-Intelligencer,149000,2002,WA,AMENDMENT,SJR 51,Allow E. Washington counties would contribute more in new gas taxes,1,P-I YES - All but four E. Washington counties would contribute more in new gas taxes than they will receive in new transportation spending. That's a problem if voters believe they benefit only from the roads upon which they drive,0.85
+WA,Seattle Post-Intelligencer,149000,2002,WA,CHARTER,1,Seattle Charter Amendments 1 and 2,,No recommendation,0.85
+WA,Seattle Post-Intelligencer,149000,2002,WA,CHARTER,3,Seattle Charter Amendment 3 - Charter requires the city to notify the City Council within 20 days after petitions are filed whether petitions have enough signatures,1,P-I YES,0.85
+WA,Seattle Post-Intelligencer,149000,2002,WA,CHARTER,4,Seattle Charter Amendment 4 - Should validate the requirement that the city clerk 'cause the verification' of petition signatures,1,P-I YES,0.85
+WA,Seattle Post-Intelligencer,149000,2002,WA,INITIATIVE,I-776,Repeal of car license tabs above $30 (Tim Eyman),0,"P-I NO - This initiative is more remarkable for what it wouldn't do; it wouldn't require a new vote on Sound Transit light rail, or necessarily shut down light rail",0.90
+WA,Seattle Post-Intelligencer,149000,2002,WA,INITIATIVE,I-790,Public safety officers retirement benefits,0,P-I NO - The ballot title doesn't begin to address I-790's potential cost. The board that would decide pension benefits for retired firefighters and police officers would be controlled by a majority of public safety officers,0.90
+WA,Seattle Post-Intelligencer,149000,2002,WA,MEASURE,1,Seattle Monorail Authority - Build mile-long monorail to West Seattle,1,P-I YES - The measure is no longer pie-in-the-sky; proponents have offered a solid plan,0.90
+WA,Seattle Post-Intelligencer,149000,2002,WA,REFERENDUM,51,Approve transportation taxes for road and transit improvements,1,P-I YES - Approving this bipartisan reform of unemployment laws supports fairness to businesses that long have been overcharged,0.90

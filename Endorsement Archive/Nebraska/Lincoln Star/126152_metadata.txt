@@ -1,0 +1,35 @@
+Newspaper Name: Lincoln Star
+Alternative Names: Nebraska State Star
+Years Published: 1902-1995 (merged with Lincoln Journal in 1995 to form Lincoln Journal Star)
+Newspaper ID number: 126152
+Number of clippings: 18
+Endorsement data years: 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 202
+  Endorsed (=1): 191
+  Opposed (=0): 9
+  No position (null): 2
+Total proposition records: 84
+  Endorsed (=1): 43
+  Opposed (=0): 33
+  No position (null): 8
+
+--- DATA QUALITY ---
+Flagged for review: 2 candidates, 8 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 0
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.60
+Mean: 0.91
+Max: 0.98
+Below threshold (0.75): 2
+
+--- NOTES ---
+QA completed 2026-04-21: PASS WITH FIXES. state_newspaper normalized to 2-letter code (202+83 rows); 4 Will P. RA records filled in with party=Democrat; parties filled for Douglas 1978/1982 (R), Beermann 1978 (R), Fowler 1978 (D), Orr 1982 (R), Naumann 1982 (R), Steinman 1994 (D); Douglas 1982 incumbency flag r_inc=1 added; 1 missing 1970 proposition added (Amendment 12, 'State Aid to Private School Students', no position); 1970 Amendment 13 recoded from endorsed=1 to endorsed=0 with note re: split position (paper opposed first two sections, favored third); 5 RA-coded rows from Will P. xlsx included (Campbell 1986; Exon, Dyas, Cavanaugh, Fowles 1980). See QA_REPORT.md for full audit trail.
+
+Compiled: 2026-04-21 15:22:10
+QA: 2026-04-21

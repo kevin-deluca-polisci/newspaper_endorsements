@@ -1,0 +1,199 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+HI,Honolulu Star-Advertiser,109630,2010,BOARD OF EDUCATION,LEEWARD OAHU,,HI,"KURSHALS, MARALYN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,BOARD OF EDUCATION,MAUI,,HI,"HART, R. RAY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,BOARD OF EDUCATION,OAHU AT-LARGE,,HI,"BAILEY, MELANIE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,BOARD OF EDUCATION,OAHU AT-LARGE,,HI,"IWAMOTO, KIM COCO",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,BOARD OF EDUCATION,OAHU AT-LARGE,,HI,"YEE, RANDALL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,BOARD OF EDUCATION,WINDWARD OAHU,,HI,"FREITAS, VALZEY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,GOVERNOR,,,HI,"ABERCROMBIE, NEIL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,H,1,,HI,"HANABUSA, COLLEEN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,H,2,,HI,"HIRONO, MAZIE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,LT GOVERNOR,,,HI,"SCHATZ, BRIAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,OHA,AT-LARGE,,HI,"AKANA, ROWENA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,OHA,AT-LARGE,,HI,"STENDER, OSWALD",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,OHA,AT-LARGE,,HI,"WAIHEE, JOHN IV",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,OHA,OAHU,,HI,"HEEN, WALTER",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,SENATOR,,,HI,"INOUYE, DAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,18,,HI,"BARON, CHRIS",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,20,,HI,"SAY, CALVIN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,21,,HI,"NISHIMOTO, SCOTT",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,22,,HI,"SAIKI, SCOTT",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,23,,HI,"BROWER, TOM",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,24,,HI,"CHOY, ISAAC",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,25,,HI,"BELATTI, DELLA AU",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,26,,HI,"LUKE, SYLVIA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,27,,HI,"CHING, CORINNE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,28,,HI,"RHOADS, KARL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,29,,HI,"HARDING, KEN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,30,,HI,"MIZUNO, JOHN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,31,,HI,"ICHIYAMA, LINDA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,32,,HI,"JOHANSON, AARON",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,33,,HI,"OSHIRO, BLAKE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,34,,HI,"TAKAI, K. MARK",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,35,,HI,"AQUINO, HENRY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,36,,HI,"TAKUMI, ROY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,37,,HI,"YAMANE, RYAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,38,,HI,"LEE, MARILYN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,39,,HI,"OSHIRO, MARCUS",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,40,,HI,"HAR, SHARON",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,41,,HI,"WONG, CARL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,43,,HI,"PINE, KYMBERLY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,45,,HI,"SHIMABUKURO, MAILE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,46,,HI,"RIVIERE, GIL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,47,,HI,"WOOLEY, JESSICA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,48,,HI,"ITO, KEN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,49,,HI,"CHONG, PONO",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE REP,51,,HI,"LEE, CHRIS",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,10,,HI,"TANIGUCHI, BRIAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,13,,HI,"CHUN-OAKLAND, SUZANNE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,14,,HI,"MERCADO KIM, DONNA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,15,,HI,"WAKAI, GLENN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,19,,HI,"GABBARD, MIKE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,20,,HI,"ESPERO, WILL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,22,,HI,"DELA CRUZ, DONOVAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,24,,HI,"TOKUDA, JILL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,25,,HI,"ENOS, VIRGINIA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,8,,HI,"SLOM, SAM",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2010,STATE SENATOR,9,,HI,"IHARA, LES",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,CITY COUNCIL,1,,HI,"PINE, KYMBERLY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,CITY COUNCIL,5,,HI,"KOBAYASHI, ANN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,CITY COUNCIL,6,,HI,"FUKUNAGA, CAROL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,DA/PROSECUTOR,HONOLULU,,HI,"KANESHIRO, KEITH",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,H,1,,HI,"HANABUSA, COLLEEN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,H,2,,HI,"GABBARD, TULSI",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,MAYOR,HONOLULU,,HI,"CALDWELL, KIRK",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,PRESIDENT,,,HI,"OBAMA, BARACK",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,SENATOR,,,HI,"HIRONO, MAZIE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,18,,HI,"LOW, JEREMY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,19,,HI,"KOBAYASHI, BERTRAND",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,20,,HI,"SAY, CALVIN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,22,,HI,"BROWER, TOM",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,23,,HI,"CHOY, ISAAC",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,24,,HI,"BELATTI, DELLA AU",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,26,,HI,"SAIKI, SCOTT",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,27,,HI,"CHING, CORINNE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,28,,HI,"MIZUNO, JOHN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,31,,HI,"JOHANSON, AARON",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,32,,HI,"ICHIYAMA, LINDA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,33,,HI,"TAKAI, K. MARK",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,36,,HI,"LEE, MARILYN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,37,,HI,"YAMANE, RYAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,39,,HI,"CULLEN, TY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,40,,HI,"MCDERMOTT, BOB",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,41,,HI,"RIVIERE, ADAM",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,42,,HI,"HAR, SHARON",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,43,,HI,"BUTLER, GLENN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,44,,HI,"JORDAN, JO",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,45,,HI,"BRADSHAW, JAKE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,46,,HI,"OSHIRO, MARCUS",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,47,,HI,"FALE, RICHARD",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE REP,51,,HI,"LEE, CHRIS",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,10,,HI,"IHARA, LES",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,11,,HI,"TANIGUCHI, BRIAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,12,,HI,"GALUTERIA, BRICKWOOD",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,16,,HI,"IGE, DAVID",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,18,,HI,"KIDANI, MICHELLE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,20,,HI,"GABBARD, MIKE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,21,,HI,"SHIMABUKURO, MAILE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,22,,HI,"DELA CRUZ, DONOVAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,23,,HI,"HEE, CLAYTON",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,25,,HI,"THIELEN, LAURA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2012,STATE SENATOR,9,,HI,"SLOM, SAM",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,CITY COUNCIL,6,,HI,"FUKUNAGA, CAROL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,GOVERNOR,,,HI,"IGE, DAVID",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,H,1,,HI,"TAKAI, MARK",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,H,2,,HI,"GABBARD, TULSI",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,CITY COUNCIL,4,Honolulu,HI,"KAINOA-KALEHUAWEHE, HAWAII KAI",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,LT GOVERNOR,,,HI,"TSUTSUI, SHAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,SENATOR,,,HI,"SCHATZ, BRIAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,17,,HI,"WARD, GENE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,18,,HI,"HASHEM, MARK JUN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,19,,HI,"KAHELE-KOPAOHIPI, BERTRAND KALANI",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,20,,HI,"SAY, CALVIN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,21,,HI,"NISHIMOTO, SCOTT",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,22,,HI,"GRACE, JANET",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,24,,HI,"DELA BELEN, NICOLE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,26,,HI,"SAIKI, SCOTT K.",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,27,,HI,"FUKUMOTO, BEAU",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,34,,HI,"TAKAYAMA, GREGG",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,35,,HI,"HARDY, ROY M.",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,36,,HI,"CHANG, BETH PATANGAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,37,,HI,"YAMANE, RYAN I.",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,40,,HI,"MCDERMOTT, BOB",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,41,,HI,"LAFRATI, MATTHEW",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,42,,HI,"SHARSHEL FAR, ELAD",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,44,,HI,"AVENA, KAREN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,45,,HI,"JORDAN, JO",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,46,,HI,"MATSUMOTO, JOHN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,47,,HI,"FUKUMOTO, BETH",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,48,,HI,"KENNEDY, JARRETT KEOHOKALOLE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,50,,HI,"THIELEN, CYNTHIA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE REP,51,,HI,"WAIMANALO, CHRIS LEE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE SENATOR,12,,HI,"GALUTERIA, BRICKWOOD M.",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE SENATOR,17,,HI,"NISHIHARA, CLARENCE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE SENATOR,18,,HI,"KIDANI, MICHELLE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE SENATOR,21,,HI,"SHIMABUKURO, MAILE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE SENATOR,23,,HI,"RIVIERE, GIL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2014,STATE SENATOR,24,,HI,"TOKUDA, JILL",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,CITY COUNCIL,5,,HI,"KOBAYASHI, ANN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,CITY COUNCIL,7,,HI,"MANAHAN, JOEY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,CITY COUNCIL,9,,HI,"MENOR, RON",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,H,1,,HI,"HANABUSA, COLLEEN",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,H,2,,HI,"GABBARD, TULSI",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,PRESIDENT,,,HI,"CLINTON, HILLARY",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,SENATOR,,,HI,"SCHATZ, BRIAN",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,17,,HI,"WARD, GENE",Republican,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,19,,HI,"KOBAYASHI, BERTRAND",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,20,,HI,"SAY, CALVIN K.Y.",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,22,,HI,"BROWER, TOM",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,23,,HI,"HEMOI, KATHRYN",Republican,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,24,,HI,"BELATTI, DELLA AU",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,27,,HI,"MIZUNO, JOHN M.",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,28,,HI,"KAAPU, KAULI",Republican,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,29,,HI,"HOLT, DANIEL",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,31,,HI,"JOHANSON, AARON",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,34,,HI,"TAKAYAMA, GREGG",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,35,,HI,"TAKUMI, ROY",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,36,,HI,"LEE, MARILYN B.",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,37,,HI,"YAMANE, RYAN",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,40,,HI,"MCDERMOTT, BOB",Republican,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,41,,HI,"LOPRESTI, MATT",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,43,,HI,"TUPOLA, ANDRIA",Republican,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,44,,HI,"GATES, CEDRIC",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,46,,HI,"OSHIRO, MARCUS",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE REP,47,,HI,"POUHA, FELI",Republican,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE SENATOR,10,,HI,"KAPOLEI, LES IHARA",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE SENATOR,11,,HI,"TANIGUCHI, BRIAN",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE SENATOR,13,,HI,"RHOADS, KARL",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE SENATOR,15,,HI,"WAKAI, GLENN",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE SENATOR,19,,HI,"ESPERO, WILL",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE SENATOR,25,,HI,"THIELEN, LAURA",Democrat,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2016,STATE SENATOR,9,,HI,"SLOM, SAM",Republican,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,CITY COUNCIL,4,,HI,"OZAWA, TREVOR",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,CITY COUNCIL,8,,HI,"ELEFANTE, BRANDON",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,GOVERNOR,,,HI,"IGE, DAVID",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,H,1,,HI,"CASE, ED",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,H,2,,HI,"GABBARD, TULSI",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,LT GOVERNOR,,,HI,"GREEN, JOSH",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,OHA,AT-LARGE,,HI,"AILA, WILLIAM",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,OHA,AT-LARGE,,HI,"LEE, BRENDON KALEI'AINA",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,OHA,MAUI RESIDENT TRUSTEE,,HI,"KAAIAINA, ESTHER",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,SENATOR,,,HI,"HIRONO, MAZIE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,17,,HI,"WARD, GENE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,18,,HI,"HASHEM, MARK JUN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,20,,HI,"SAY, CALVIN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,22,,HI,"BROWER, TOM",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,27,,HI,"OHNO, TAKASHI",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,36,,HI,"LEE, MARILYN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,37,,HI,"YAMANE, RYAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,40,,HI,"MCDERMOTT, BOB",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,41,,HI,"FIDELIBUS, CHRIS",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,46,,HI,"PERRUSO, AMY",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,47,,HI,"QUINLAN, SEAN",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,50,,HI,"KEOHOKALOLE-KANEOHE BAY, JARRETT",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE REP,51,,HI,"LEE, CHRIS",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE SENATOR,12,,HI,"MORIWAKI, SHARON",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE SENATOR,17,,HI,"NAHULIRA, CLARENCE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE SENATOR,18,,HI,"KIDANI, MICHELLE",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE SENATOR,19,,HI,"LOPRESTI, MATT",,1,,,,,0.85
+HI,Honolulu Star-Advertiser,109630,2018,STATE SENATOR,21,,HI,"SHIMABUKURO, MAILE",,1,,,,,0.85

@@ -1,0 +1,302 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+WA,Seattle Times,149050,1962,WA,INITIATIVE,211,Legislative reapportionment for fair representation,1,Times urged voters to approve Initiative 211 for reapportionment,0.95
+WA,Seattle Times,149050,1964,WA,CONSTITUTIONAL AMENDMENT,,Home rule for smaller cities,1,Favored,0.90
+WA,Seattle Times,149050,1964,WA,INITIATIVE,215,Investments for the future to acquire marine and recreational sites,1,Favored,0.90
+WA,Seattle Times,149050,1964,WA,REFERENDUM,12,Funds for school construction,1,Affirmative action advised,0.90
+WA,Seattle Times,149050,1964,WA,REFERENDUM,13,Funds for replacement of two correctional institutions for boys and girls,1,Affirmative action advised,0.90
+WA,Seattle Times,149050,1964,WA,REFERENDUM,34,Gambling-related referendum,0,Times advised vote AGAINST; would provide legal base for making gambling operations profitable,0.95
+WA,Seattle Times,149050,1964,WA,REFERENDUM BILL,11,Investments for marine/recreational sites,1,Favored,0.90
+WA,Seattle Times,149050,1964,WA,SPECIAL LEVY,,Seattle School District special levy for proper maintenance and operation,1,Affirmative action advised,0.90
+WA,Seattle Times,149050,1966,WA,BOND,,King County Harborview Hospital Improvement Bonds,1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,BOND,,"King County Libraries Bond Issue ($6,000,000)",1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,HJR,39,Publication - State Laws Authorizing State Debt,1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,HJR,7,Retired Persons' Property Tax Exemption,1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,HJR (SUB),4,Voter Qualifications for Presidential Elections,1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,INITIATIVE,226,Cities sharing sales tax,0,Times recommended Against,0.95
+WA,Seattle Times,149050,1966,WA,INITIATIVE,229,Repealing Sunday Activities Blue Law,1,Times recommended For,0.95
+WA,Seattle Times,149050,1966,WA,INITIATIVE,233,Repealing Freight Train Crew Law,1,Times recommended For,0.95
+WA,Seattle Times,149050,1966,WA,LEVY,,"Seattle School District General Fund Special Levy ($16,390,000)",1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,REFERENDUM BILL,14,Bonds for Public School Facilities,1,Times recommended For,0.95
+WA,Seattle Times,149050,1966,WA,REFERENDUM BILL,15,Bonds for Public Institutions,1,Times recommended For,0.95
+WA,Seattle Times,149050,1966,WA,REFERENDUM BILL,16,Congressional Reapportionment,1,Times recommended For,0.95
+WA,Seattle Times,149050,1966,WA,SJR,20,Removing Limitation of Land Ownership,1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,SJR,22 Part One,Establishing Common-School Construction Fund,1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,SJR,22 Part Two,Investment of Permanent School Fund,1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,SJR,25,Port Expenditures - Industrial Development Promotion,1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1966,WA,SJR (SUB),6,Election of Superior Court Judges,1,Times recommended Yes,0.95
+WA,Seattle Times,149050,1968,WA,CHARTER,,Proposed King County Charter,1,For,0.90
+WA,Seattle Times,149050,1968,WA,HJR,1,Taxation based on actual use,1,Yes,0.90
+WA,Seattle Times,149050,1968,WA,HJR,13,Authorizing compensation increase during term,1,Yes,0.90
+WA,Seattle Times,149050,1968,WA,INITIATIVE,242,Drivers' implied consent - intoxication tests,1,For,0.90
+WA,Seattle Times,149050,1968,WA,INITIATIVE,245,Reducing maximum retail service charges,0,Against,0.90
+WA,Seattle Times,149050,1968,WA,INITIATIVE,32,Local processing of state timber,0,Against,0.90
+WA,Seattle Times,149050,1968,WA,LEVY,,"Seattle School District General fund special levy ($29,451,200)",1,Yes,0.90
+WA,Seattle Times,149050,1968,WA,REFERENDUM,,City of Seattle Fluoridation of municipal water supply,1,Yes,0.90
+WA,Seattle Times,149050,1968,WA,REFERENDUM,17,Water pollution control facilities bonds,1,For,0.90
+WA,Seattle Times,149050,1968,WA,REFERENDUM,18,Bonds for outdoor recreation,1,For,0.90
+WA,Seattle Times,149050,1968,WA,REFERENDUM,19,State building projects: Bond issue,1,For,0.90
+WA,Seattle Times,149050,1968,WA,REFERENDUM,35,"Non-discrimination by realty brokers, salesmen",1,For,0.90
+WA,Seattle Times,149050,1968,WA,SJR,17,Providing for State Building Authority,1,Yes,0.90
+WA,Seattle Times,149050,1968,WA,SJR,23,Taxing districts: Excess levy elections,1,Yes,0.90
+WA,Seattle Times,149050,1968,WA,SJR,24,"Vacancy: Legislative, county elective offices",1,Yes,0.90
+WA,Seattle Times,149050,1968,WA,SJR,5,Investment of public pension funds,1,Yes,0.90
+WA,Seattle Times,149050,1968,WA,SJR,6,Authorizing State Court of Appeals,1,Yes,0.90
+WA,Seattle Times,149050,1970,WA,CHARTER AMENDMENT,1,Abolish Building Department (City of Seattle),0,No,0.90
+WA,Seattle Times,149050,1970,WA,CHARTER AMENDMENT,2,Abolish Transit Commission,1,Yes,0.90
+WA,Seattle Times,149050,1970,WA,CHARTER AMENDMENT,3,Noncitizens' employment,1,Yes,0.90
+WA,Seattle Times,149050,1970,WA,HJR,42,State tax reform,1,Yes; supports HJR 42 strongly,0.95
+WA,Seattle Times,149050,1970,WA,HJR,6,Lower voting age,1,Yes,0.90
+WA,Seattle Times,149050,1970,WA,INITIATIVE,251,State tax regulation,0,Against,0.90
+WA,Seattle Times,149050,1970,WA,INITIATIVE,256,Ban nonrefundable containers (litter control),1,For; Times endorsed Initiative 256 strongly,0.95
+WA,Seattle Times,149050,1970,WA,REFERENDUM,20,Abortion law changes,1,For,0.90
+WA,Seattle Times,149050,1970,WA,REFERENDUM,21,Recreation bond interest,1,For,0.90
+WA,Seattle Times,149050,1970,WA,REFERENDUM,22,Building bond interest,1,For,0.90
+WA,Seattle Times,149050,1970,WA,REFERENDUM,23,Pollution bond interest,1,For,0.90
+WA,Seattle Times,149050,1972,WA,BOND,,City of Seattle: Bridge and retaining wall bonds ($40 million in property-tax bonds to repair or replace existing bridge structures),0,No,0.85
+WA,Seattle Times,149050,1972,WA,HJR,1,Requiring periodic legislative review and/or repeal of tax exemptions,1,Yes,0.90
+WA,Seattle Times,149050,1972,WA,HJR,21,Allowing cities and counties to establish combined governments,1,Yes,0.90
+WA,Seattle Times,149050,1972,WA,HJR,47,Changing special levy formula affecting minimum-vote requirements,1,Yes,0.90
+WA,Seattle Times,149050,1972,WA,HJR,52,Changing the formula limiting the amount of certain state debt,1,Yes,0.90
+WA,Seattle Times,149050,1972,WA,HJR,61,Providing equal rights and responsibilities regardless of sex,1,Yes (ERA),0.90
+WA,Seattle Times,149050,1972,WA,INITIATIVE,258,"Legalizing greyhound dog racing in Seattle, Tacoma and Spokane",0,Against,0.90
+WA,Seattle Times,149050,1972,WA,INITIATIVE,261,Turning liquor wholesaling and retailing over to private industry,0,Against,0.90
+WA,Seattle Times,149050,1972,WA,INITIATIVE,276,"Requiring public disclosure of campaign finances, lobbying activities, public records",1,For,0.90
+WA,Seattle Times,149050,1972,WA,INITIATIVE,40 / 40-B,Litter-control act and alternate (litter-control law),1,Prefer No. 40-B; against No. 40,0.85
+WA,Seattle Times,149050,1972,WA,INITIATIVE,43 / 43-B,Regulating shoreline use and Legislature's shoreline alternate,1,Prefer No. 43-B,0.85
+WA,Seattle Times,149050,1972,WA,INITIATIVE,44,Limiting certain property taxes by law to 20 mills on assessed valuation,0,Against,0.85
+WA,Seattle Times,149050,1972,WA,REFERENDUM,22,Amending lobbying regulations regarding registration and expense reporting,0,Against,0.85
+WA,Seattle Times,149050,1972,WA,REFERENDUM,24,Regulating certain electoral campaign financing,0,Against,0.85
+WA,Seattle Times,149050,1972,WA,REFERENDUM,26,$225 million in bonds for public waste-disposal facilities,1,For,0.90
+WA,Seattle Times,149050,1972,WA,REFERENDUM,27,$575 million in bonds for water-supply facilities,0,Against,0.85
+WA,Seattle Times,149050,1972,WA,REFERENDUM,28,$40 million in bonds for public-recreation facilities,0,Against,0.85
+WA,Seattle Times,149050,1972,WA,REFERENDUM,29,$25 million in bonds for health and social-service facilities,0,Against,0.85
+WA,Seattle Times,149050,1972,WA,REFERENDUM,30,$50 million in bonds for public transportation improvements,0,Against,0.85
+WA,Seattle Times,149050,1972,WA,REFERENDUM,31,$50 million in bonds for community college facilities,0,Against,0.85
+WA,Seattle Times,149050,1972,WA,SJR,1,Limiting maximum property tax rate to 1 percent of true and fair value,1,Yes,0.90
+WA,Seattle Times,149050,1972,WA,SJR,38,Allowing counties to set salaries of county officers,1,Yes,0.90
+WA,Seattle Times,149050,1972,WA,SJR,5,Permitting the authorization of lotteries,1,Yes,0.90
+WA,Seattle Times,149050,1974,WA,BOND,,Seattle School District capital-construction bonds,0,Vote no; Times said the proposed $35.3-million bond did not receive support,0.85
+WA,Seattle Times,149050,1974,WA,INITIATIVE,1,City of Seattle: Zoo expansion limits - keep Woodland Park as it is,1,Vote yes to keep Woodland Park as it is,0.90
+WA,Seattle Times,149050,1974,WA,INITIATIVE,3,Sand Point aviation,0,Vote no,0.85
+WA,Seattle Times,149050,1974,WA,REFERENDUM,1,King County: Topless-dancing ban,1,Vote yes to ban it,0.90
+WA,Seattle Times,149050,1974,WA,REFERENDUM,1,City of Seattle: West Seattle bridge design,1,Vote yes,0.85
+WA,Seattle Times,149050,1974,WA,REFERENDUM,34,State lottery,0,Vote no,0.95
+WA,Seattle Times,149050,1974,WA,SJR,140,Item veto,0,Vote no,0.90
+WA,Seattle Times,149050,1974,WA,SJR,143,Voter residency,1,Vote yes,0.90
+WA,Seattle Times,149050,1974,WA,SUBSTITUTE INITIATIVE,1,Zoo expansion - Aurora Avenue Zoo lid,0,Vote no to ban Aurora Avenue Zoo lid,0.85
+WA,Seattle Times,149050,1976,WA,BOND,,King County: Proposed $19.5 million bond issue for improvements to Harborview Medical Center,1,Yes,0.90
+WA,Seattle Times,149050,1976,WA,CHARTER AMENDMENT,,City of Seattle: To have election-campaign reporting requirements fixed by ordinance,1,Yes,0.90
+WA,Seattle Times,149050,1976,WA,HJR,64,To create a state commission to draft suggested county home-rule charters,1,Yes,0.90
+WA,Seattle Times,149050,1976,WA,INITIATIVE,322,To ban fluoridation of public water supplies,0,No,0.95
+WA,Seattle Times,149050,1976,WA,INITIATIVE,325,To prohibit nuclear-power facilities not meeting certain conditions,0,No,0.95
+WA,Seattle Times,149050,1976,WA,REFERENDUM,36,To require financial-affairs reports of certain appointive officials,0,No,0.90
+WA,Seattle Times,149050,1976,WA,SJR,137,To allow voter approval of school levies for two-year periods,1,Yes,0.90
+WA,Seattle Times,149050,1976,WA,SJR,139,To make salary increases for legislators effective concurrently,1,Yes,0.90
+WA,Seattle Times,149050,1978,WA,INITIATIVE,13,City of Seattle: Discrimination re sexual orientation,0,No,0.95
+WA,Seattle Times,149050,1978,WA,INITIATIVE,15,City of Seattle: Police shooting policy,1,Yes,0.90
+WA,Seattle Times,149050,1978,WA,INITIATIVE,16,City of Seattle: City spay-neuter clinic,0,No,0.90
+WA,Seattle Times,149050,1978,WA,INITIATIVE,350,Anti-school-busing,0,No,0.95
+WA,Seattle Times,149050,1978,WA,PROPOSITION,,King County Farm-preservation bonds,1,Yes,0.90
+WA,Seattle Times,149050,1980,WA,HJR,37,Judges' discipline commission,1,Yes,0.90
+WA,Seattle Times,149050,1980,WA,INITIATIVE,24,Seattle Initiative 24 (Rent control),0,No,0.95
+WA,Seattle Times,149050,1980,WA,INITIATIVE,383,To ban certain nuclear-waste imports,0,No,0.95
+WA,Seattle Times,149050,1980,WA,PROPOSITION,,Metro Proposition (Transit-subsidy sales tax),1,Yes,0.90
+WA,Seattle Times,149050,1980,WA,REFERENDUM,38,Water-supply bonds,1,Yes,0.90
+WA,Seattle Times,149050,1980,WA,REFERENDUM,39,Waste-disposal bonds,1,Yes,0.90
+WA,Seattle Times,149050,1980,WA,SJR,132,State control of federal lands,0,No,0.90
+WA,Seattle Times,149050,1982,WA,BOND,1,"King County Proposition 1 - $188.2 million park, recreation bonds",1,Yes,0.90
+WA,Seattle Times,149050,1982,WA,INITIATIVE,412,Retail-sales interest ceiling,0,No,0.95
+WA,Seattle Times,149050,1982,WA,INITIATIVE,414,Beverage-container deposits (bottle bill),0,No,0.95
+WA,Seattle Times,149050,1982,WA,INITIATIVE,435,"Corporate income tax and repeal food, business taxes",0,No,0.95
+WA,Seattle Times,149050,1982,WA,SJR,143,Public improvements financing,1,Yes,0.90
+WA,Seattle Times,149050,1984,WA,INITIATIVE,456,"Indian rights, policies",0,No,0.95
+WA,Seattle Times,149050,1984,WA,INITIATIVE,464,"Tax exemption, trade-ins",0,No,0.95
+WA,Seattle Times,149050,1984,WA,INITIATIVE,471,Ban abortion funding,0,No,0.95
+WA,Seattle Times,149050,1986,WA,HJR,49,State-salary commission,0,No,0.90
+WA,Seattle Times,149050,1986,WA,HJR,55,School-construction levies,1,Yes,0.90
+WA,Seattle Times,149050,1986,WA,INITIATIVE,30,City of Seattle: Rescind sanctuary policy,0,No,0.95
+WA,Seattle Times,149050,1986,WA,INITIATIVE,90,"Sales tax, wildlife",0,No,0.95
+WA,Seattle Times,149050,1986,WA,PROPOSITION,1,King County Fingerprint-system levy,1,Yes,0.90
+WA,Seattle Times,149050,1986,WA,PROPOSITION,2,King County County executive's salary,0,No,0.90
+WA,Seattle Times,149050,1986,WA,REFERENDUM,40,Nuclear-waste challenge,1,Yes,0.95
+WA,Seattle Times,149050,1986,WA,SJR,136,Judicial-conduct commission,1,Yes,0.90
+WA,Seattle Times,149050,1986,WA,SJR,138,Public-office vacancies,0,No,0.90
+WA,Seattle Times,149050,1988,WA,ADVISORY,,Rail transit advisory ballot,1,Yes,0.85
+WA,Seattle Times,149050,1988,WA,BOND,,Youth Detention Facilities ($14.2 million bonds),1,Yes,0.90
+WA,Seattle Times,149050,1988,WA,BOND,,Evergreen Hospice Center ($4.3 million bonds),0,No,0.85
+WA,Seattle Times,149050,1988,WA,CHARTER AMENDMENT,1,King County Auditor's duties,1,Yes,0.90
+WA,Seattle Times,149050,1988,WA,CHARTER AMENDMENT,2,King County Judicial administration,1,Yes,0.90
+WA,Seattle Times,149050,1988,WA,CHARTER AMENDMENT,3,King County Part-time civil service,1,Yes,0.90
+WA,Seattle Times,149050,1988,WA,CHARTER AMENDMENT,4,King County Charter reviews,1,Yes,0.90
+WA,Seattle Times,149050,1988,WA,CHARTER AMENDMENT,5,King County Road-project bidding,1,Yes,0.90
+WA,Seattle Times,149050,1988,WA,HJR,4222,Property-tax exemptions,1,Yes,0.90
+WA,Seattle Times,149050,1988,WA,HJR,4223,Energy conservation,1,Yes,0.90
+WA,Seattle Times,149050,1988,WA,HJR,4231,Delete references to 'idiots' etc.,1,Yes,0.90
+WA,Seattle Times,149050,1988,WA,INITIATIVE,518,Raise minimum wage,1,Yes,0.95
+WA,Seattle Times,149050,1988,WA,INITIATIVE,97,Hazardous waste cleanup (or Alternative 97B); Times preferred Initiative 97,1,For either; Times preferred Initiative 97,0.85
+WA,Seattle Times,149050,1990,WA,AMENDMENT,HJR 4203,Constitutional amendment governing creation of new counties,,Recommendation unclear in OCR,0.50
+WA,Seattle Times,149050,1990,WA,AMENDMENT,HJR 4231,Constitutional amendment allowing voters to approve excess property taxes for up to 6-year period,,Recommendation unclear in OCR,0.50
+WA,Seattle Times,149050,1990,WA,AMENDMENT,SJR 8212,Constitutional amendment allowing taxation of low-income multiple housing at current use,1,Recommended YES,0.95
+WA,Seattle Times,149050,1990,WA,INITIATIVE,I-547,Initiative 547,0,Recommended NO,0.95
+WA,Seattle Times,149050,1990,WA,INITIATIVE,Seattle I-35,Abolish policy providing sick and bereavement leave for domestic partners,,Recommendation unclear in OCR,0.50
+WA,Seattle Times,149050,1990,WA,LEVY,Seattle Proposition 1,Families and Education Levy,1,Recommended YES,0.95
+WA,Seattle Times,149050,1990,WA,MEASURE,King County Proposition 1,Automated fingerprint system,1,Recommended YES,0.95
+WA,Seattle Times,149050,1990,WA,MEASURE,King County Proposition 21,Real-estate excise tax,1,Recommended YES,0.95
+WA,Seattle Times,149050,1990,WA,REFERENDUM,Seattle Referendum No. 1,Allowing city to set by ordinance maximum amount of settlement of damage claims by city departments,1,Recommended YES,0.95
+WA,Seattle Times,149050,1992,WA,BOND,Seattle Prop. 1,Seattle School Construction Bonds,1,Recommended YES,0.90
+WA,Seattle Times,149050,1992,WA,CHARTER,King County Charter Amendment 1,Expand County Council to 13 members,1,Recommended YES,0.90
+WA,Seattle Times,149050,1992,WA,INITIATIVE,I-134,Limits on campaign contributions,1,Recommended YES,0.90
+WA,Seattle Times,149050,1992,WA,INITIATIVE,I-537,Term limits for elected officials,0,Recommended NO,0.90
+WA,Seattle Times,149050,1992,WA,LEVY,King County Prop. 2,King County Regional Justice Center Levy,1,Recommended YES,0.85
+WA,Seattle Times,149050,1992,WA,MEASURE,Metro-King County Prop. 1,Consolidate Metro with King County,1,Recommended YES,0.90
+WA,Seattle Times,149050,1994,WA,BOND,Seattle Proposition 1,School bonds for new and renovated schools,1,Recommended YES,0.70
+WA,Seattle Times,149050,1994,WA,INITIATIVE,I-607,Would license and regulate denturists to make and sell dentures,,Recommendation unclear in OCR,0.50
+WA,Seattle Times,149050,1994,WA,LEVY,Seattle Proposition 1 (libraries),Libraries levy,1,Recommended YES,0.65
+WA,Seattle Times,149050,1994,WA,LEVY,Seattle Proposition 2,Public safety levy,1,Recommended YES,0.65
+WA,Seattle Times,149050,1994,WA,REFERENDUM,R-43,"Would extend indefinitely taxes on alcoholic beverages, tax soda pop syrup and increase cigarette taxes to fund anti-crime, anti-violence and drug-enforcement measures",0,Recommended NO,0.85
+WA,Seattle Times,149050,1996,WA,CHARTER,King County Charter Amendment 1,Redistricting,1,Recommended YES,0.65
+WA,Seattle Times,149050,1996,WA,CHARTER,King County Charter Amendment 2,Elected sheriff,,Recommendation unclear in OCR,0.40
+WA,Seattle Times,149050,1996,WA,INITIATIVE,I-173,School vouchers,0,Recommended NO,0.85
+WA,Seattle Times,149050,1996,WA,INITIATIVE,I-177,Independent schools,0,Recommended NO,0.85
+WA,Seattle Times,149050,1996,WA,INITIATIVE,I-655,Hunting,0,Recommended NO,0.85
+WA,Seattle Times,149050,1996,WA,INITIATIVE,I-670,Term limits,0,Recommended NO,0.85
+WA,Seattle Times,149050,1996,WA,INITIATIVE,I-671,Tribal gaming,0,Recommended NO,0.85
+WA,Seattle Times,149050,1996,WA,MEASURE,Issaquah Prop. 1 and 2,New library,1,Recommended YES,0.70
+WA,Seattle Times,149050,1996,WA,MEASURE,Regional Transit Plan Prop. 1,Regional Transit Plan (Sound Transit),1,Recommended YES,0.85
+WA,Seattle Times,149050,1998,WA,BOND,Seattle Proposition 1,Library facilities bond,1,Recommended YES,0.90
+WA,Seattle Times,149050,1998,WA,INITIATIVE,I-200,Anti-affirmative action,0,Recommended NO,0.90
+WA,Seattle Times,149050,1998,WA,INITIATIVE,I-688,Minimum wage,,Recommendation unclear in OCR,0.40
+WA,Seattle Times,149050,1998,WA,INITIATIVE,I-692,Medical use of marijuana,1,Recommended YES,0.70
+WA,Seattle Times,149050,1998,WA,INITIATIVE,I-694,Restricts abortion,0,Recommended NO,0.90
+WA,Seattle Times,149050,1998,WA,MEASURE,Sammamish Incorporation,Proposal to form a city,1,Recommended YES,0.90
+WA,Seattle Times,149050,1998,WA,REFERENDUM,R-49,Spending for highways,,Recommendation unclear in OCR,0.40
+WA,Seattle Times,149050,2000,WA,AMENDMENT,SJR 8214,Constitutional amendment to allow Developmental Disabilities Trust Fund to be invested,1,Recommended YES,0.98
+WA,Seattle Times,149050,2000,WA,INITIATIVE,I-713,Makes illegal the use of steel-jawed leg traps and similar devices to capture an animal,1,Recommended YES,0.98
+WA,Seattle Times,149050,2000,WA,INITIATIVE,I-722,Attempts to clean up after I-695 by nullifying tax and fee increases; shifts property taxes,0,Recommended NO,0.98
+WA,Seattle Times,149050,2000,WA,INITIATIVE,I-728,Redirects state property taxes and lottery proceeds to schools to reduce class sizes,0,Recommended NO,0.98
+WA,Seattle Times,149050,2000,WA,INITIATIVE,I-729,Establishes procedures for creating limited number of public charter schools,1,Recommended YES,0.98
+WA,Seattle Times,149050,2000,WA,INITIATIVE,I-732,Annual cost-of-living raises to teachers and school employees,0,Recommended NO,0.98
+WA,Seattle Times,149050,2000,WA,INITIATIVE,I-745,Directs 90 percent of transportation funds to roads,0,Recommended NO,0.98
+WA,Seattle Times,149050,2000,WA,INITIATIVE,Seattle Proposition 2 / I-53,Monorail study; provide $6 million for detailed study of monorail's potential to serve a larger part of Seattle's transit needs,1,Recommended YES,0.95
+WA,Seattle Times,149050,2000,WA,MEASURE,King County Proposition 1,Increase county sales tax from 8.6 to 8.8 percent for Metro buses (post-I-695),1,Recommended YES,0.98
+WA,Seattle Times,149050,2000,WA,MEASURE,Seattle Proposition 1,Parks proposal,0,Recommended NO; appealing but flawed,0.95
+WA,Seattle Times,149050,2002,WA,BOND MEASURE,Bellevue Parks,"$60 million Bellevue parks bond for $40M acquisition fund and trails, neighborhood parks, Enatai Beach Park improvements",1,Yes; builds on Bellevue's commitment to parks in effective ways,0.96
+WA,Seattle Times,149050,2002,WA,BOND MEASURE,Kirkland Parks,"$8.4 million Kirkland capital bond to acquire watershed property and Juanita Beach Park, plus development of North Rose Hill Woodlands Park, with companion M&O levy",1,Yes; would acquire two new parks,0.95
+WA,Seattle Times,149050,2002,WA,CHARTER AMENDMENT,1,City of Seattle would publish only summaries of new ordinances in the Daily Journal of Commerce,,No recommendation,0.90
+WA,Seattle Times,149050,2002,WA,CHARTER AMENDMENT,2,City of Seattle would publish proposed charter amendments in The Seattle Times and the Post-Intelligencer less often,,No recommendation,0.90
+WA,Seattle Times,149050,2002,WA,CHARTER AMENDMENT,3,Removes a 20-day deadline for the city clerk to verify signatures on ballot initiatives,1,YES; the county now does that task,0.90
+WA,Seattle Times,149050,2002,WA,CHARTER AMENDMENT,4,No longer requiring the city clerk to verify initiative signatures (county does that task),1,YES recommendation,0.90
+WA,Seattle Times,149050,2002,WA,HJR,4220,Constitutional amendment to match fire district levy practices with school districts,1,YES recommendation,0.95
+WA,Seattle Times,149050,2002,WA,INITIATIVE,776,Further rollback of car-tab fees,0,NO recommendation; would do more damage than good in limiting transit agencies' taxing authority,0.95
+WA,Seattle Times,149050,2002,WA,INITIATIVE,790,Give police and firefighters control over their pension benefits,0,NO recommendation; full of uncertainties and potential expense for taxpayers,0.95
+WA,Seattle Times,149050,2002,WA,INITIATIVE,I-776,"$30 car tabs measure to repeal local motor vehicle excise taxes and license fees, gutting Sound Transit funding",0,Say no to I-776; dog's breakfast of negative repercussions and bad policy,0.98
+WA,Seattle Times,149050,2002,WA,INITIATIVE,I-790,Removes Law Enforcement Officers and Fire Fighters (LEOFF) pension fund No. 2 from Legislature's control; creates separate governing board dominated by police and firefighters,0,No to I-790; taxpayers take too much risk; too complicated and potentially too expensive,0.98
+WA,Seattle Times,149050,2002,WA,LOCAL MEASURE,,Seattle Monorail,0,NO; costly project that doesn't meet regional demands for transportation fixes (City of Seattle),0.90
+WA,Seattle Times,149050,2002,WA,LOCAL MEASURE,,Bellevue Parks bond measure to build effectively on the city's commitment to parks,1,YES recommendation,0.90
+WA,Seattle Times,149050,2002,WA,LOCAL MEASURE,,Kirkland Parks bond measure to acquire two new parks and a companion maintenance-and-operations levy,1,YES recommendation,0.90
+WA,Seattle Times,149050,2002,WA,LOCAL MEASURE,,Finn Hill Park and Recreation District (taxing district to take over management of O.O. Denny Park north of Kirkland),1,YES recommendation,0.90
+WA,Seattle Times,149050,2002,WA,LOCAL MEASURE,Finn Hill Park and Recreation District,"Creates taxing district and authorizes 6-year property tax of 7.2 cents per $1,000 to take over O.O. Denny Park management",1,Yes; revitalize beautiful lakefront park; no opposition surfaced,0.95
+WA,Seattle Times,149050,2002,WA,LOCAL MEASURE,Seattle Monorail,Seattle monorail Green Line project funded by 1.4% motor vehicle excise tax,0,No on monorail; Seattle has more urgent transportation needs,0.97
+WA,Seattle Times,149050,2002,WA,REFERENDUM,51,9-cent-a-gallon gas-tax increase for road and transportation projects,1,YES recommendation,0.95
+WA,Seattle Times,149050,2002,WA,REFERENDUM,53,Realigns taxes supporting unemployment compensation so each business pays an amount closer to actual costs,1,YES recommendation,0.95
+WA,Seattle Times,149050,2002,WA,REFERENDUM,R-51,"$7.7 billion statewide transportation improvements funded by higher gasoline taxes, sales tax on autos, and truck weight-fee increases",1,Voters encouraged to start work with R-51 instead of monorail,0.85
+WA,Seattle Times,149050,2002,WA,REFERENDUM,R-53,Unemployment insurance tax reform; eliminates about 30 percent of cost-shifting among employers,1,Yes to R-53 - Times recommends; supports tax reform funding unemployment pay,0.98
+WA,Seattle Times,149050,2004,WA,CHARTER AMENDMENT,1B,Reduce size of King County Council (alternative 1B),1,Yes and for alternative 1B,0.90
+WA,Seattle Times,149050,2004,WA,INITIATIVE,297,Hanford cleanup proposal,0,No,0.95
+WA,Seattle Times,149050,2004,WA,INITIATIVE,872,"Establish a top-two primary election where the top two vote-getters in each race advance to the general, regardless of party affiliation",1,YES; Grange-backed proposal to take back the primary from political parties,0.98
+WA,Seattle Times,149050,2004,WA,INITIATIVE,872,Top-two primary,1,Yes,0.95
+WA,Seattle Times,149050,2004,WA,INITIATIVE,884,Education trust fund,1,Yes,0.95
+WA,Seattle Times,149050,2004,WA,INITIATIVE,892,Non-tribal gambling expansion with a tax break,0,No,0.95
+WA,Seattle Times,149050,2004,WA,RECALL,,Seattle monorail recall,0,No on recall,0.90
+WA,Seattle Times,149050,2004,WA,REFERENDUM,55,Charter schools,1,Yes,0.95
+WA,Seattle Times,149050,2005,WA,INITIATIVE,330,Medical malpractice / tort reform,0,Editorial board recommends No vote on Initiative 330.,0.95
+WA,Seattle Times,149050,2005,WA,INITIATIVE,336,Medical malpractice reform,0,Editorial board recommends No vote on Initiative 336.,0.95
+WA,Seattle Times,149050,2005,WA,INITIATIVE,901,Smoking ban / cleaner indoor air,1,Editorial board recommends Yes on Initiative 901 for cleaner indoor air.,0.95
+WA,Seattle Times,149050,2006,WA,CHARTER AMENDMENT,10,Seattle Charter Amendment 10 - change manner of appointment to Planning Commission,0,Times recommends 'no' vote,0.95
+WA,Seattle Times,149050,2006,WA,CHARTER AMENDMENT,10,Seattle Charter Amendment 10 - Planning Commission appointments,0,No,0.97
+WA,Seattle Times,149050,2006,WA,CHARTER AMENDMENT,10,Seattle Charter Amendment 10,0,No,0.97
+WA,Seattle Times,149050,2006,WA,CHARTER AMENDMENT,8,"Seattle Charter Amendment 8 - giving City Council power to remove heads of finance, personnel and parks every four years",0,Times recommends 'no' vote,0.95
+WA,Seattle Times,149050,2006,WA,CHARTER AMENDMENT,8,Seattle Charter Amendment 8 - giving City Council power to remove key department heads,0,No,0.97
+WA,Seattle Times,149050,2006,WA,CHARTER AMENDMENT,8,Seattle Charter Amendment 8,0,No,0.97
+WA,Seattle Times,149050,2006,WA,CHARTER AMENDMENT,9,"Seattle Charter Amendment 9 - shrink city auditor term from six years to four, change manner of appointment",0,Times recommends 'no' vote,0.95
+WA,Seattle Times,149050,2006,WA,CHARTER AMENDMENT,9,Seattle Charter Amendment 9 - shrink auditor term from six years to four,0,No,0.97
+WA,Seattle Times,149050,2006,WA,CHARTER AMENDMENT,9,Seattle Charter Amendment 9,0,No,0.97
+WA,Seattle Times,149050,2006,WA,HOUSE JOINT RESOLUTION,4223,HJR 4223 - Personal property tax exemption,1,Yes,0.95
+WA,Seattle Times,149050,2006,WA,INITIATIVE,91,Seattle city sports initiative requiring financial return on stadium investments,0,Editorial recommends No on I-91; would strip Seattle of ability to host professional sports teams.,0.98
+WA,Seattle Times,149050,2006,WA,INITIATIVE,91,Seattle Initiative 91 - Sports organizations,0,No,0.95
+WA,Seattle Times,149050,2006,WA,INITIATIVE,920,Death-Tax Repeal (Estate Tax Repeal),1,Vote yes (recap of Oct. 1 endorsement),0.90
+WA,Seattle Times,149050,2006,WA,INITIATIVE,920,I-920 - Repealing the state estate tax,1,"Yes - tax hurts family businesses, raises tiny amount",0.97
+WA,Seattle Times,149050,2006,WA,INITIATIVE,933,Property Fairness Act / land-use regulations,0,"Editorial recommends No on I-933, calling it an expensive hoax on property owners and taxpayers and a national effort to trash land-use laws.",0.98
+WA,Seattle Times,149050,2006,WA,INITIATIVE,933,Property Rights,0,Vote no (recap of Oct. 1 endorsement),0.90
+WA,Seattle Times,149050,2006,WA,INITIATIVE,933,I-933 - Property Fairness Act / land-use compensation,0,"No - expensive hoax, throws away land-use predictability",0.97
+WA,Seattle Times,149050,2006,WA,INITIATIVE,933,I-933 - Property Fairness Act,0,No,0.97
+WA,Seattle Times,149050,2006,WA,INITIATIVE,937,Renewable Energy,0,Vote no (recap of Sept. 24 endorsement),0.90
+WA,Seattle Times,149050,2006,WA,INITIATIVE,937,I-937 - Renewable energy initiative,0,"No - poorly drafted, leaves out hydropower",0.97
+WA,Seattle Times,149050,2006,WA,PROPOSITION,1,"Seattle Proposition 1 - $365 million, 9-year roads-and-bridges levy",0,"Times recommends against; tax fatigue, routine work being put into special levy",0.95
+WA,Seattle Times,149050,2006,WA,PROPOSITION,1,Seattle Proposition 1 - Roads and bridges levy,0,No,0.97
+WA,Seattle Times,149050,2006,WA,PROPOSITION,2,King County Transit Now - sales tax increase to expand bus service,1,Editorial recommends Yes on King County Proposition 2; would raise sales tax one-tenth of 1 percent for dramatic bus service increase.,0.98
+WA,Seattle Times,149050,2006,WA,PROPOSITION,2,King County Proposition 2 - Expanded bus service,1,Yes,0.97
+WA,Seattle Times,149050,2006,WA,REFERENDUM,1,Seattle Referendum 1 - 4-foot rule for strip clubs requiring distance between dancers and customers,1,Times recommends 'yes' vote to keep new rules,0.97
+WA,Seattle Times,149050,2006,WA,REFERENDUM,1,Seattle Referendum 1 - 4-foot rule for strip clubs,1,Yes,0.97
+WA,Seattle Times,149050,2007,WA,REGIONAL BALLOT MEASURE,1,Roads and Transit measure - 50 miles of light rail and 186 new miles of road lanes (Sound Transit/RTID three-county package),1,Lance Dickie editorial column urging passage; Times opinion page argues defeat would be a setback and praises the breadth of endorsements behind the measure,0.80
+WA,Seattle Times,149050,2008,WA,INITIATIVE,1000,Death with Dignity - assisted suicide for terminally ill patients,1,Editorial board urges Yes vote on I-1000,0.98
+WA,Seattle Times,149050,2008,WA,INITIATIVE,1029,Long-term care worker training and state licensing requirements,0,Editorial board urges No on I-1029,0.98
+WA,Seattle Times,149050,2008,WA,INITIATIVE,26,King County Initiative 26 - Make King County Offices nonpartisan,1,Index of endorsements - Yes (make offices nonpartisan),0.80
+WA,Seattle Times,149050,2008,WA,INITIATIVE,985,"Reduce Traffic Congestion Initiative - HOV lanes, traffic lights, red-light cameras",0,Editorial board urges No vote on I-985,0.98
+WA,Seattle Times,149050,2008,WA,INITIATIVE,I-1000,Death with Dignity,1,YES; right of terminally ill to decide.,0.97
+WA,Seattle Times,149050,2008,WA,INITIATIVE,I-1029,Long-term-care worker training and state licensing,0,REJECT; specialized legislation belongs in Legislature.,0.97
+WA,Seattle Times,149050,2008,WA,INITIATIVE,I-985,"Tim Eyman initiative on transportation/congestion (red-light cameras, HOV lanes)",0,Times recommends 'no' vote.,0.95
+WA,Seattle Times,149050,2008,WA,INITIATIVE,I-985,Reduce traffic congestion initiative (Eyman),0,Emphatic NO; would worsen congestion.,0.97
+WA,Seattle Times,149050,2008,WA,KING COUNTY CHARTER AMENDMENT,1,King County Charter Amendment 1 (Initiative 25) - Establish elected elections director,0,Editorial board urges No - director should be appointed,0.95
+WA,Seattle Times,149050,2008,WA,KING COUNTY CHARTER AMENDMENT,2,"King County Charter Amendment 2 - Ban discrimination based on disability, sexual orientation, gender identity",1,Editorial board urges Yes,0.95
+WA,Seattle Times,149050,2008,WA,KING COUNTY CHARTER AMENDMENT,3,King County Charter Amendment 3 - Reduce members on regional committees,0,Editorial board urges No,0.95
+WA,Seattle Times,149050,2008,WA,KING COUNTY CHARTER AMENDMENT,4,"King County Charter Amendment 4 - Allow County Council to set qualifications for auditor, sheriff, elections director",0,Editorial board urges No,0.95
+WA,Seattle Times,149050,2008,WA,KING COUNTY CHARTER AMENDMENT,5,King County Charter Amendment 5 - Hire economist for revenue forecasts,1,Editorial board urges Yes,0.95
+WA,Seattle Times,149050,2008,WA,KING COUNTY CHARTER AMENDMENT,6,King County Charter Amendment 6 - Move up budget deadlines by 20 days,1,Editorial board urges Yes,0.95
+WA,Seattle Times,149050,2008,WA,KING COUNTY CHARTER AMENDMENT,7,King County Charter Amendment 7 - Increase signature threshold for ballot petitions to 20%,0,Editorial board urges No - reduces voter access to ballot,0.98
+WA,Seattle Times,149050,2008,WA,LOCAL LEVY,,Pike Place Market $73 million levy for seismic and infrastructure upgrades (Seattle),1,Editorial board urges Yes on Pike Place Market levy,0.95
+WA,Seattle Times,149050,2008,WA,LOCAL LEVY,,Seattle Parks $145 million levy,0,Editorial board urges No on Seattle Parks levy,0.95
+WA,Seattle Times,149050,2008,WA,LOCAL LEVY,,Bellevue Parks and Natural Areas levy - $40.5 million,1,Editorial board urges Yes on Bellevue Parks levy,0.95
+WA,Seattle Times,149050,2008,WA,LOCAL LEVY,,Seattle Parks Levy,0,NO; ill-timed and ill-presented.,0.95
+WA,Seattle Times,149050,2008,WA,LOCAL LEVY,,Pike Place Market Levy,1,YES; one-time infrastructure repairs.,0.95
+WA,Seattle Times,149050,2008,WA,LOCAL LEVY,,Bellevue Parks Levy,1,YES.,0.95
+WA,Seattle Times,149050,2008,WA,REGIONAL MEASURE,Proposition 1,Sound Transit extension - $18 billion over 15 years for light rail/transit construction,0,Times recommends 'no' vote.,0.95
+WA,Seattle Times,149050,2008,WA,REGIONAL MEASURE,Proposition 1,Sound Transit light rail and buses,0,"NO; costs too much, achieves too little.",0.97
+WA,Seattle Times,149050,2012,WA,ESJR,8221,State debt limit,1,Approve,0.97
+WA,Seattle Times,149050,2012,WA,INITIATIVE,1185,Requiring two-thirds legislative vote to raise taxes,1,Yes,0.97
+WA,Seattle Times,149050,2012,WA,INITIATIVE,1240,Allowing charter schools,1,Yes,0.97
+WA,Seattle Times,149050,2012,WA,INITIATIVE,1240,"Charter schools (up to 40 schools, focused on at-risk children)",1,Times recommends voters approve - life-changing initiative,0.95
+WA,Seattle Times,149050,2012,WA,INITIATIVE,502,Marijuana legalization,1,Yes,0.97
+WA,Seattle Times,149050,2012,WA,INITIATIVE,502,"Marijuana legalization, regulation and taxation",1,Times recommends voters approve - life-changing initiative,0.95
+WA,Seattle Times,149050,2012,WA,PROPOSITION,1,King County - Automated Fingerprint Identification System levy,1,Approve,0.96
+WA,Seattle Times,149050,2012,WA,PROPOSITION,1,Seattle - 30-year bond levy to replace the seawall,1,Yes,0.96
+WA,Seattle Times,149050,2012,WA,REFERENDUM,74,Affirming state law to allow same-sex marriages,1,Approve,0.97
+WA,Seattle Times,149050,2012,WA,REFERENDUM,74,Same-sex marriage,1,Times recommends voters approve - life-changing initiative,0.95
+WA,Seattle Times,149050,2012,WA,SJR,8221,"Engrossed Senate Joint Resolution 8221 - state constitutional amendment changing state debt limit (looser during recessions, tighter long-run)",1,Times recommends approval; step toward better policy,0.97
+WA,Seattle Times,149050,2012,WA,SJR,8223,"UW, WSU investments",1,Approve,0.97
+WA,Seattle Times,149050,2013,WA,ADVISORY VOTE,3,Tax advisory vote 3,1,Maintain,0.93
+WA,Seattle Times,149050,2013,WA,ADVISORY VOTE,4,Tax advisory vote 4,1,Maintain,0.93
+WA,Seattle Times,149050,2013,WA,ADVISORY VOTE,5,Tax advisory vote 5,1,Maintain,0.93
+WA,Seattle Times,149050,2013,WA,ADVISORY VOTE,6,Tax on telephone landlines ($397M over 10 years),1,Maintain,0.93
+WA,Seattle Times,149050,2013,WA,ADVISORY VOTE,7,Estate tax increase ($478M over 10 years),0,Repeal Advisory Vote 7,0.93
+WA,Seattle Times,149050,2013,WA,CHARTER AMENDMENT,1,King County Charter Amendment 1 - public-defense system independence,1,Approve,0.96
+WA,Seattle Times,149050,2013,WA,CHARTER AMENDMENT,19,Seattle Charter Amendment 19 - hybrid election system 7 by district + 2 at-large,1,Yes on Charter Amendment No. 19,0.96
+WA,Seattle Times,149050,2013,WA,INITIATIVE,517,About initiatives - broaden turf for signature gathering,0,Vote No - overly broad,0.97
+WA,Seattle Times,149050,2013,WA,INITIATIVE,522,Labeling of GMOs,0,Vote No - clumsy emotion-based campaign,0.97
+WA,Seattle Times,149050,2013,WA,PROPOSITION,1,Seattle Proposition 1 - publicly financed campaign program for City Council candidates,0,No on Proposition 1,0.96
+WA,Seattle Times,149050,2013,WA,PROPOSITION,1,SeaTac Proposition 1 - $15 minimum wage,0,No on SeaTac Prop. 1; too high,0.96
+WA,Seattle Times,149050,2013,WA,PROPOSITION,1,King County Prop. 1 - Medic One/EMS levy renewal ($696M six-year property-tax),1,Approve - protects Medic One/Emergency Medical Services,0.96
+WA,Seattle Times,149050,2017,WA,ADVISORY,16,State Advisory Vote 16,1,Maintain,0.90
+WA,Seattle Times,149050,2017,WA,ADVISORY,17,State Advisory Vote 17,1,Maintain,0.90
+WA,Seattle Times,149050,2017,WA,ADVISORY,18,State Advisory Vote 18,1,Maintain,0.90
+WA,Seattle Times,149050,2017,WA,ADVISORY VOTE,16,Advisory Vote No. 16,1,Maintain,0.90
+WA,Seattle Times,149050,2017,WA,ADVISORY VOTE,17,Advisory Vote No. 17,1,Maintain,0.90
+WA,Seattle Times,149050,2017,WA,ADVISORY VOTE,18,Advisory Vote No. 18,1,Maintain,0.90
+WA,Seattle Times,149050,2017,WA,LEVY,,King County Veterans and Human Services Levy,1,Approve levy,0.90
+WA,Seattle Times,149050,2018,WA,ADVISORY VOTE,19,Maintain expansion of oil-spill prevention and cleanup preparedness taxes to include oil arriving by pipeline,1,Yes; vote to maintain,0.90
+WA,Seattle Times,149050,2018,WA,INITIATIVE,1631,Carbon fee on emissions,0,"No; porous, lacking accountability and larded with special-interest payouts",0.90
+WA,Seattle Times,149050,2018,WA,INITIATIVE,1634,Prevent local governments from enacting new taxes on soda and sugary drinks,0,No; voters should reject so local governments can address health issues,0.90
+WA,Seattle Times,149050,2018,WA,INITIATIVE,1639,"Firearms - raise minimum purchase age to 21 for semiautomatic rifles, safe-storage rules, safety training",1,Yes; raises age and adds safety requirements,0.90
+WA,Seattle Times,149050,2018,WA,INITIATIVE,940,Police use of deadly force - removes restrictive law on holding officers criminally liable,1,Yes; Washington has had the most restrictive law in the country,0.90
+WA,Seattle Times,149050,2018,WA,LEVY,,"King County levy for fingerprint system - Approve. Since 1986, the King County automated fingerprint system has helped Seattle Police, King County sheriff and all suburban police solve thousands of crimes.",1,Approve,0.90
+WA,Seattle Times,149050,2018,WA,LOCAL LEVY,,"Seattle Families, Education, Preschool and Promise Levy",1,Yes; modest tax increase for important work the city is doing,0.90
