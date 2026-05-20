@@ -1,0 +1,14 @@
+Newspaper Name: Wilmington Evening Journal
+Newspaper ID: 106951
+State: DE
+Processing Date: 2026-05-20
+Last QA Date: 2026-05-20
+
+Clippings: 66
+Date range: 1960-1988
+Total candidate records: 316 (endorsed 226, opposed 90)
+Total proposition records: 3 (endorsed 3, opposed 0)
+Mean confidence: 0.921
+
+Notes:
+- Evening daily of Wilmington, Delaware (1888-1989). Du Pont family-owned. Merged with Morning News in 1989.

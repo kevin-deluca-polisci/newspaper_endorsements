@@ -52,10 +52,10 @@ OH,Akron Beacon Journal,134150,2012,STATE REP,48,,OH,"SCHURING, KIRK",Republican
 OH,Akron Beacon Journal,134150,2012,STATE REP,59,,OH,"BATCHELDER, WILLIAM",Republican,1,,,,STATE REPRESENTATIVE DISTRICT 59 ENDORSEMENT,0.9
 OH,Akron Beacon Journal,134150,2012,STATE REP,75,,OH,"CLYDE, KATHLEEN",Democrat,1,,,,STATE REPRESENTATIVE DISTRICT 75 ENDORSEMENT,0.9
 OH,Akron Beacon Journal,134150,2012,SUMMIT ENGINEER,,,OH,"ROBINSON, BRUCE L.",,1,,,,SUMMIT ENGINEER ENDORSEMENT,0.85
-OH,Akron Beacon Journal,134150,2012,SUMMIT CLERK OF COURTS,,,OH,"HORRIGAN, DANIEL H.",,1,,,,SUMMIT CLERK OF COURTS ENDORSEMENT,0.85
+OH,Akron Beacon Journal,134150,2012,CNTY CLERK,,,OH,"HORRIGAN, DANIEL H.",,1,,,,SUMMIT CLERK OF COURTS ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2012,SUMMIT EXECUTIVE,,,OH,"PRY, RUSS",Republican,1,,,,SUMMIT COUNTY EXECUTIVE ENDORSEMENT,0.85
-OH,Akron Beacon Journal,134150,2012,SUMMIT PROSECUTOR,,,OH,"WALSH, BEVAN",Democrat,1,,,,SUMMIT PROSECUTOR ENDORSEMENT,0.85
-OH,Akron Beacon Journal,134150,2012,SUMMIT SHERIFF,,,OH,"BARRY, STEVE",Democrat,1,,,,SUMMIT SHERIFF ENDORSEMENT,0.85
+OH,Akron Beacon Journal,134150,2012,DA/PROSECUTOR,,,OH,"WALSH, BEVAN",Democrat,1,,,,SUMMIT PROSECUTOR ENDORSEMENT,0.85
+OH,Akron Beacon Journal,134150,2012,SHERIFF,,,OH,"BARRY, STEVE",Democrat,1,,,,SUMMIT SHERIFF ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2012,SUMMIT FISCAL OFFICER,,,OH,"SCALISE, KRISTEN M.",Democrat,1,,,,SUMMIT FISCAL OFFICER ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2014,H,14,,OH,"WAGER, MICHAEL",Democrat,1,,,,U.S. HOUSE DISTRICT 14 ENDORSEMENT,0.9
 OH,Akron Beacon Journal,134150,2014,H,16,,OH,"CROSSLAND, PETE",Democrat,1,,,,U.S. HOUSE DISTRICT 16 ENDORSEMENT,0.9
@@ -87,9 +87,9 @@ OH,Akron Beacon Journal,134150,2016,STATE REP,36,,OH,"DEVITIS, ANTHONY",Democrat
 OH,Akron Beacon Journal,134150,2016,STATE REP,37,,OH,"ROEMNER, KRISTINA DALEY",Democrat,1,,,,STATE REPRESENTATIVE DISTRICT 37 ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2016,STATE REP,38,,OH,"LEE, JUDITH LYNN",Democrat,1,,,,STATE REPRESENTATIVE DISTRICT 38 ENDORSEMENT,0.9
 OH,Akron Beacon Journal,134150,2016,SUMMIT EXECUTIVE,,,OH,"SHAPIRO, ILENE L.",Democrat,1,,,,SUMMIT COUNTY EXECUTIVE ENDORSEMENT,0.85
-OH,Akron Beacon Journal,134150,2016,SUMMIT PROSECUTOR,,,OH,"WALSH, BEVAN",Democrat,1,,,,SUMMIT PROSECUTOR ENDORSEMENT,0.85
+OH,Akron Beacon Journal,134150,2016,DA/PROSECUTOR,,,OH,"WALSH, BEVAN",Democrat,1,,,,SUMMIT PROSECUTOR ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2016,SUMMIT FISCAL OFFICER,,,OH,"SCALISE, KRISTEN M.",Democrat,1,,,,SUMMIT FISCAL OFFICER ENDORSEMENT,0.85
-OH,Akron Beacon Journal,134150,2016,SUMMIT CLERK OF COURTS,,,OH,"KURT, SANDRA",Democrat,1,,,,SUMMIT CLERK OF COURTS ENDORSEMENT,0.85
+OH,Akron Beacon Journal,134150,2016,CNTY CLERK,,,OH,"KURT, SANDRA",Democrat,1,,,,SUMMIT CLERK OF COURTS ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2016,SUMMIT COUNTY COUNCIL,At-large,,OH,"WALTERS, ELIZABETH M.",Democrat,1,,,,SUMMIT COUNTY COUNCIL AT-LARGE ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2016,SUMMIT COUNTY COUNCIL,At-large,,OH,"DICKINSON, CLAIR E.",Democrat,1,,,,SUMMIT COUNTY COUNCIL AT-LARGE ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2016,SUMMIT COUNTY COUNCIL,1,,OH,"KOEHLER, RON",Democrat,1,,,,SUMMIT COUNTY COUNCIL DISTRICT 1 ENDORSEMENT,0.85
@@ -99,9 +99,9 @@ OH,Akron Beacon Journal,134150,2016,SUMMIT COUNTY COUNCIL,4,,OH,"WILHITE, JEFF",
 OH,Akron Beacon Journal,134150,2016,SUMMIT COUNTY COUNCIL,5,,OH,"HAMILTON, DAVID",Democrat,1,,,,SUMMIT COUNTY COUNCIL DISTRICT 5 ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2016,SUMMIT COUNTY COUNCIL,6,,OH,"FEEMAN, JERRY E.",Democrat,1,,,,SUMMIT COUNTY COUNCIL DISTRICT 6 ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2016,SUMMIT COUNTY COUNCIL,8,,OH,"PRENTICE, PAULA S.",Democrat,1,,,,SUMMIT COUNTY COUNCIL DISTRICT 8 ENDORSEMENT,0.85
-OH,Akron Beacon Journal,134150,2016,SUMMIT COMMON PLEAS JUDGE,,,OH,"STEVENSON, SCOT A.",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT,0.85
-OH,Akron Beacon Journal,134150,2016,SUMMIT COMMON PLEAS JUDGE,,,OH,"MCKENNEY, TODD",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT,0.85
-OH,Akron Beacon Journal,134150,2016,SUMMIT DOMESTIC RELATIONS JUDGE,,,OH,"CABLE, RON",Democrat,1,,,,SUMMIT DOMESTIC RELATIONS JUDGE ENDORSEMENT,0.85
+OH,Akron Beacon Journal,134150,2016,JUDGE,,,OH,"STEVENSON, SCOT A.",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT [original office: SUMMIT COMMON PLEAS JUDGE],0.85
+OH,Akron Beacon Journal,134150,2016,JUDGE,,,OH,"MCKENNEY, TODD",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT [original office: SUMMIT COMMON PLEAS JUDGE],0.85
+OH,Akron Beacon Journal,134150,2016,JUDGE,,,OH,"CABLE, RON",Democrat,1,,,,SUMMIT DOMESTIC RELATIONS JUDGE ENDORSEMENT,0.85
 OH,Akron Beacon Journal,134150,2018,GOVERNOR,,,OH,"CORDRAY, RICHARD",Democrat,1,,,,GUBERNATORIAL ENDORSEMENT,0.92
 OH,Akron Beacon Journal,134150,2018,ATTORNEY GENERAL,,,OH,"DETTELBACH, STEVE",Democrat,1,,,,OHIO ATTORNEY GENERAL ENDORSEMENT,0.92
 OH,Akron Beacon Journal,134150,2018,SEC OF STATE,,,OH,"CLYDE, KATHLEEN",Democrat,1,,,,OHIO SECRETARY OF STATE ENDORSEMENT,0.92
@@ -113,6 +113,147 @@ OH,Akron Beacon Journal,134150,2018,SUPREME COURT,,,OH,"DONNELLY, MICHAEL P.",De
 OH,Akron Beacon Journal,134150,2018,SUPREME COURT,,,OH,"STEWART, MELODY J.",Democrat,1,,,,OHIO SUPREME COURT JUSTICE ENDORSEMENT,0.9
 OH,Akron Beacon Journal,134150,2018,COURT OF APPEALS,9,,OH,"HENSAL, JENNIFER",Democrat,1,,,,OHIO COURT OF APPEALS 9TH DISTRICT JUDGE ENDORSEMENT,0.88
 OH,Akron Beacon Journal,134150,2018,STATE REP,37,,OH,"WEINSTEIN, CASEY",Democrat,1,,,,STATE REPRESENTATIVE DISTRICT 37 ENDORSEMENT,0.9
-OH,Akron Beacon Journal,134150,2018,SUMMIT COMMON PLEAS JUDGE,,,OH,"FLAGG, JILL",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT,0.85
-OH,Akron Beacon Journal,134150,2018,SUMMIT COMMON PLEAS JUDGE,,,OH,"LANZINGER, KELLY L. MCLAUGHLIN",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT,0.8
-OH,Akron Beacon Journal,134150,2018,SUMMIT COMMON PLEAS JUDGE,,,OH,"MICHAEL, KATHRYN",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT,0.85
+OH,Akron Beacon Journal,134150,2018,JUDGE,,,OH,"FLAGG, JILL",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT [original office: SUMMIT COMMON PLEAS JUDGE],0.85
+OH,Akron Beacon Journal,134150,2018,JUDGE,,,OH,"LANZINGER, KELLY L. MCLAUGHLIN",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT [original office: SUMMIT COMMON PLEAS JUDGE],0.8
+OH,Akron Beacon Journal,134150,2018,JUDGE,,,OH,"MICHAEL, KATHRYN",Democrat,1,,,,SUMMIT COUNTY COMMON PLEAS JUDGE ENDORSEMENT [original office: SUMMIT COMMON PLEAS JUDGE],0.85
+OH,Akron Beacon Journal,134150,1968,PRESIDENT,,,OH,"NIXON, RICHARD M.",Republican,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1968,VICE PRESIDENT,,,OH,"AGNEW, SPIRO T.",Republican,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1968,SENATOR,,,OH,"SAXBE, WILLIAM B.",Republican,1,,,,,0.97
+OH,Akron Beacon Journal,134150,1968,H,12,,OH,"MOSHER, CHARLES A.",Republican,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1968,H,14,,OH,"AYRES, WILLIAM H.",Republican,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1968,H,13,,OH,"ASHBROOK, JOHN M.",Republican,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1968,STATE REP,91,,OH,"LEVITT, ROBERT E.",Republican,1,,,,,0.9
+OH,Akron Beacon Journal,134150,1968,STATE REP,92,,OH,"WITMER, ED",Democrat,1,,,,,0.93
+OH,Akron Beacon Journal,134150,1968,STATE REP,94,,OH,"MANNING, ROBERT A.",Republican,1,,,,,0.94
+OH,Akron Beacon Journal,134150,1968,STATE REP,95,,OH,"WATSON, JR., WILLIAM",Republican,1,,,,,0.93
+OH,Akron Beacon Journal,134150,1968,STATE REP,96,,OH,"HEADLEY, DAVID L.",Democrat,1,,,,,0.94
+OH,Akron Beacon Journal,134150,1968,STATE REP,97,,OH,"PODA, JR., JOHN",Democrat,1,,,,,0.93
+OH,Akron Beacon Journal,134150,1968,SUPREME COURT,,,OH,"TAFT, KINGSLEY A.",,1,,,,"Chief Justice; Full Term Commencing January 1, 1969",0.95
+OH,Akron Beacon Journal,134150,1968,SUPREME COURT,,,OH,"MATTHIAS, JOHN M.",,1,,,,"Justice; Full Term Commencing January 1, 1969",0.95
+OH,Akron Beacon Journal,134150,1968,SUPREME COURT,,,OH,"HERBERT, THOMAS M.",,1,,,,"Justice; Full Term Commencing January 2, 1969",0.95
+OH,Akron Beacon Journal,134150,1968,COURT OF APPEALS,9,,OH,"BRENNEMAN, MYRON T.",,1,,,,"9th District Full Term Commencing February 9, 1969",0.93
+OH,Akron Beacon Journal,134150,1968,JUDGE,,,OH,"QUILLIN, DANIEL B.",,1,,,,"Court of Common Pleas; Unexpired Term Ending January 2, 1973",0.93
+OH,Akron Beacon Journal,134150,1968,JUDGE,,,OH,"REED, EVAN J.",,1,,,,"Court of Common Pleas; Unexpired Term Ending January 2, 1975",0.93
+OH,Akron Beacon Journal,134150,1968,CNTY COMM,,,OH,"MADDEN, JR., CHARLES F.",Democrat,1,,,,,0.94
+OH,Akron Beacon Journal,134150,1968,CNTY COMM,,,OH,"SLUSSER, RICHARD E.",Republican,1,,,,,0.94
+OH,Akron Beacon Journal,134150,1968,DA/PROSECUTOR,,,OH,"BARBUTO, JAMES V.",Democrat,1,,,,,0.94
+OH,Akron Beacon Journal,134150,1968,CNTY CLERK,,,OH,"YACOBUCCI, FRANK P.",Republican,1,,,,Clerk of Court of Common Pleas,0.94
+OH,Akron Beacon Journal,134150,1968,SHERIFF,,,OH,"CAMPBELL, ROBERT D.",Democrat,1,,,,,0.94
+OH,Akron Beacon Journal,134150,1968,RECORDER,,,OH,"RUFF, ROY R.",Democrat,1,,,,,0.94
+OH,Akron Beacon Journal,134150,1968,TREASURER,,,OH,"HOWARD, ROGER H.",Republican,1,,,,,0.94
+OH,Akron Beacon Journal,134150,1968,COUNTY ENGINEER,,,OH,"VANBRIMMER, RALPH",Democrat,1,,,,,0.93
+OH,Akron Beacon Journal,134150,1968,CORONER,,,OH,"KYRIAKIDES, A. H.",Republican,1,,,,,0.75
+OH,Akron Beacon Journal,134150,1968,STATE SENATOR,29,,OH,"NYE, WILLIAM B.",Democrat,1,,,,29th District Four Year Term,0.93
+OH,Akron Beacon Journal,134150,1970,GOVERNOR,,,OH,"GILLIGAN, JOHN J.",Democrat,1,,,,X-marked on Office Type Ballot; explicitly endorsed in editorial because 'he is willing to face up to the issues of today and meet them boldly',0.98
+OH,Akron Beacon Journal,134150,1970,LT GOVERNOR,,,OH,"BROWN, JOHN W.",Republican,1,,,,X-marked on Office Type Ballot,0.97
+OH,Akron Beacon Journal,134150,1970,AUDITOR,,,OH,"TRACY, ROGER W., JR.",Republican,1,,,,X-marked on Office Type Ballot for Auditor of State,0.97
+OH,Akron Beacon Journal,134150,1970,SEC OF STATE,,,OH,"BROWN, TED W.",Republican,1,,,,X-marked on Office Type Ballot,0.97
+OH,Akron Beacon Journal,134150,1970,TREASURER,,,OH,"DONAHEY, GERTRUDE W.",Democrat,1,,,,X-marked on Office Type Ballot for Treasurer of State,0.97
+OH,Akron Beacon Journal,134150,1970,SENATOR,,,OH,"TAFT, ROBERT, JR.",Republican,1,,,,"X-marked on Office Type Ballot; editorial: 'we gave preference to ROBERT TAFT, JR., Republican, over Howard Metzenbaum because of Taft's good legislative record and his well-balanced approach to state and national problems'",0.98
+OH,Akron Beacon Journal,134150,1970,H,11,,OH,"STANTON, J. WILLIAM",Republican,1,,,,X-marked on Office Type Ballot for Representative to Congress (11th District),0.95
+OH,Akron Beacon Journal,134150,1970,H,13,,OH,"MOSHER, CHARLES A.",Republican,1,,,,X-marked on Office Type Ballot for Representative to Congress (13th District),0.97
+OH,Akron Beacon Journal,134150,1970,H,14,,OH,"SEIBERLING, JOHN F.",Democrat,1,,,,"X-marked on Office Type Ballot for Representative to Congress (14th District); editorial: 'a Democrat, has the broad intellectual capacity, the personal integrity and the independence which are sorely needed in Congress'",0.98
+OH,Akron Beacon Journal,134150,1970,H,17,,OH,"ASHBROOK, JOHN M.",Republican,1,,,,X-marked on Office Type Ballot for Representative to Congress (17th District),0.96
+OH,Akron Beacon Journal,134150,1970,STATE REP,91,,OH,"LEVITT, ROBERT E.",Republican,1,,,,X-marked on Office Type Ballot for State Representative (91st District),0.95
+OH,Akron Beacon Journal,134150,1970,STATE REP,92,,OH,"REICHEL, RICHARD G.",Republican,1,,,,X-marked on Office Type Ballot for State Representative (92nd District),0.95
+OH,Akron Beacon Journal,134150,1970,STATE REP,93,,OH,"COOK, VERNON F.",Democrat,1,,,,X-marked on Office Type Ballot for State Representative (93rd District),0.95
+OH,Akron Beacon Journal,134150,1970,STATE REP,94,,OH,"MANNING, ROBERT A.",Republican,1,,,,X-marked on Office Type Ballot for State Representative (94th District),0.95
+OH,Akron Beacon Journal,134150,1970,STATE REP,95,,OH,"WATSON, WILLIAM, JR.",Republican,1,,,,X-marked on Office Type Ballot for State Representative (95th District),0.95
+OH,Akron Beacon Journal,134150,1970,STATE REP,96,,OH,"HEADLEY, DAVID L.",Democrat,1,,,,X-marked on Office Type Ballot for State Representative (96th District),0.95
+OH,Akron Beacon Journal,134150,1970,STATE REP,97,,OH,"GRIFFITH, JOHN C.",Republican,1,,,,X-marked on Office Type Ballot for State Representative (97th District),0.95
+OH,Akron Beacon Journal,134150,1970,STATE SENATOR,27,,OH,"OCASEK, OLIVER",Democrat,1,,,,X-marked on Office Type Ballot for State Senator (27th District),0.96
+OH,Akron Beacon Journal,134150,1970,STATE SENATOR,29,,OH,"REGULA, RALPH S.",Republican,1,,,,X-marked on Office Type Ballot for State Senator (29th District),0.95
+OH,Akron Beacon Journal,134150,1970,CNTY COMM,,Summit County,OH,"NEIMAN, HAROLD",Republican,1,,,,"X-marked for County Commissioner (Full term commencing January 4, 1971); editorial: 'we give preference to HAROLD NEIMAN for the long term'",0.97
+OH,Akron Beacon Journal,134150,1970,CNTY COMM,,Summit County,OH,"FITZGIBBONS, JACK",Republican,1,,,,"X-marked for County Commissioner (Unexpired term ending December 31, 1972); editorial: 'JACK FITZGIBBONS for the short term'",0.97
+OH,Akron Beacon Journal,134150,1970,AUDITOR,,Summit County,OH,"BOWER, C. L.",Democrat,1,,,,"X-marked for County Auditor; editorial: 'C. L. BOWER'S long record of performance justifies another term as County Auditor in preference to his able opponent, Robert W. Herberich' [original office: CNTY AUDITOR]",0.97
+OH,Akron Beacon Journal,134150,1970,SUPREME COURT,,,OH,"O'NEILL, C. WILLIAM",,1,,,,"X-marked on Non-Partisan Ballot for Chief Justice of the Supreme Court (Unexpired Term Ending December 31, 1974)",0.96
+OH,Akron Beacon Journal,134150,1970,SUPREME COURT,,,OH,"CORRIGAN, J. J. P.",,1,,,,"X-marked on Non-Partisan Ballot for Justice of the Supreme Court (Full Term Commencing January 1, 1971)",0.95
+OH,Akron Beacon Journal,134150,1970,SUPREME COURT,,,OH,"STERN, LEONARD J.",,1,,,,"X-marked on Non-Partisan Ballot for Justice of the Supreme Court (Full Term Commencing January 2, 1971)",0.94
+OH,Akron Beacon Journal,134150,1970,SUPREME COURT,,,OH,"DUNCAN, ROBERT M.",,1,,,,"X-marked on Non-Partisan Ballot for Justice of the Supreme Court (Unexpired Term Ending January 1, 1973)",0.94
+OH,Akron Beacon Journal,134150,1970,COURT OF APPEALS,9,,OH,"VICTOR, WILLIAM H.",,1,,,,"X-marked on Non-Partisan Ballot for Judge of the Court of Appeals (9th District) (Full Term Commencing February 9, 1971)",0.95
+OH,Akron Beacon Journal,134150,1970,JUDGE,,Summit County,OH,"LOMBARDI, ANTHONY L.",,1,,,,"X-marked on Non-Partisan Ballot for Judge of the Court of Common Pleas (Full Term Commencing January 1, 1971)",0.95
+OH,Akron Beacon Journal,134150,1970,JUDGE,,Summit County,OH,"BELL, SAM H.",,1,,,,"X-marked on Non-Partisan Ballot for Judge of the Court of Common Pleas (Full Term Commencing January 2, 1971)",0.95
+OH,Akron Beacon Journal,134150,1970,JUDGE,,Summit County,OH,"PRICE, THEODORE R.",,1,,,,"X-marked on Non-Partisan Ballot for Judge of the Court of Common Pleas (Full Term Commencing May 17, 1971)",0.95
+OH,Akron Beacon Journal,134150,1972,PRESIDENT,,,OH,"NIXON, RICHARD M.",Republican,1,,,,,0.99
+OH,Akron Beacon Journal,134150,1972,VICE PRESIDENT,,,OH,"AGNEW, SPIRO T.",Republican,1,,,,,0.99
+OH,Akron Beacon Journal,134150,1972,H,11,,OH,"STANTON, J. WILLIAM",Republican,1,,,,,0.97
+OH,Akron Beacon Journal,134150,1972,H,13,,OH,"MOSHER, CHARLES A.",Republican,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,H,14,,OH,"SEIBERLING, JOHN F.",Democrat,1,,,,,0.99
+OH,Akron Beacon Journal,134150,1972,H,16,,OH,"REGULA, RALPH S.",Republican,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1972,H,22,,OH,"VANIK, CHARLES A.",Democrat,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1972,SUPREME COURT,,,OH,"SCHNEIDER, LOUIS J., JR.",,1,,,,"Full Term Commencing January 1, 1973",0.97
+OH,Akron Beacon Journal,134150,1972,SUPREME COURT,,,OH,"BROWN, LLOYD O.",,1,,,,"Full Term Commencing January 1, 1973",0.97
+OH,Akron Beacon Journal,134150,1972,SUPREME COURT,,,OH,"LEACH, ROBERT E.",,1,,,,"Unexpired Term Ending December 31, 1974",0.95
+OH,Akron Beacon Journal,134150,1972,COURT OF APPEALS,9,,OH,"MAHONEY, EDWARD J.",,1,,,,"Full Term Commencing February 9, 1973",0.97
+OH,Akron Beacon Journal,134150,1972,STATE BOARD OF ED,11,,OH,"LAMPSON, JOHN E.",,1,,,,,0.94
+OH,Akron Beacon Journal,134150,1972,STATE BOARD OF ED,12,,OH,"WISE, MARTHA W.",,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE BOARD OF ED,14,,OH,"GARRETT, THADDEUS, JR.",,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE BOARD OF ED,16,,OH,"GEORGE, SUSAN DEAL",,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE BOARD OF ED,22,,OH,"GROGAN, ROBERT J.",,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE SENATOR,19,,OH,"MURRAY, JOSEPH",Democrat,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE SENATOR,23,,OH,"HEADLEY, DAVID L.",Democrat,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE REP,39,,OH,"COOK, VERNON F.",Democrat,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1972,STATE REP,40,,OH,"WINGARD, PAUL S.",Republican,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1972,STATE REP,41,,OH,"COX, KENNETH R.",Democrat,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1972,STATE REP,42,,OH,"MANNING, ROBERT A.",Republican,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1972,STATE REP,43,,OH,"WEYANDT, RONALD H.",Democrat,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1972,STATE REP,48,,OH,"MCCORMICK, PAUL J.",Democrat,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1972,STATE REP,49,,OH,"HEINTZELMAN, ROSS G.",Republican,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE REP,50,,OH,"HEALY, WILLIAM J.",Democrat,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE REP,62,,OH,"ROBERTO, MARCUS A.",Democrat,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE REP,65,,OH,"JOHNSON, JOHN E.",Democrat,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE REP,70,,OH,"LEVITT, ROBERT E.",Republican,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,STATE REP,93,,OH,"BATCHELDER, WILLIAM G.",Republican,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,JUDGE,,,OH,"QUILLIN, DANIEL B.",,1,,,,"Common Pleas, Full Term Commencing January 1, 1973",0.96
+OH,Akron Beacon Journal,134150,1972,JUDGE,,,OH,"REECE, JOHN W.",,1,,,,"Common Pleas, Full Term Commencing January 1, 1973; endorsed over incumbent Evan J. Reed",0.96
+OH,Akron Beacon Journal,134150,1972,JUDGE,,,OH,"KANNEL, WILLIAM F.",,1,,,,"Common Pleas Domestic Relations Division, Full Term Commencing January 1, 1973",0.95
+OH,Akron Beacon Journal,134150,1972,JUDGE,,,OH,"BELL, SAM H.",,1,,,,"Common Pleas, Full Term Commencing February 9, 1973",0.95
+OH,Akron Beacon Journal,134150,1972,JUDGE,,,OH,"KOLDIN, SAM",,1,,,,"Common Pleas Domestic Relations Division, Full Term Commencing January 4, 1973",0.93
+OH,Akron Beacon Journal,134150,1972,JUDGE,,,OH,"KOPLIN, NATHAN",,1,,,,"Common Pleas Probate Division, Full Term Commencing February 9, 1973",0.96
+OH,Akron Beacon Journal,134150,1972,CNTY COMM,,,OH,"STEPHENS, DON M.",Republican,1,,,,"Full term commencing January 3, 1973",0.96
+OH,Akron Beacon Journal,134150,1972,CNTY COMM,,,OH,"SLUSSER, RICHARD E.",Republican,1,,,,"Full term commencing January 3, 1973",0.97
+OH,Akron Beacon Journal,134150,1972,CNTY COMM,,,OH,"NEIMAN, HAROLD P.",Republican,1,,,,"Unexpired term ending January 2, 1975",0.95
+OH,Akron Beacon Journal,134150,1972,DA/PROSECUTOR,,,OH,"GABALAC, STEPHEN M.",Democrat,1,,,,Prosecuting Attorney,0.97
+OH,Akron Beacon Journal,134150,1972,CNTY CLERK,,,OH,"PODA, JOHN, JR.",Democrat,1,,,,Clerk of Court of Common Pleas,0.96
+OH,Akron Beacon Journal,134150,1972,SHERIFF,,,OH,"CAMPBELL, ROBERT D.",Democrat,1,,,,,0.96
+OH,Akron Beacon Journal,134150,1972,RECORDER,,,OH,"RUFF, ROY R.",Democrat,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,TREASURER,,,OH,"SWANSON, ARTHUR E.",Democrat,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,COUNTY ENGINEER,,,OH,"VANBRIMMER, RALPH",Democrat,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1972,CORONER,,,OH,"KYRIAKIDES, A. H.",Democrat,1,,,,,0.95
+OH,Akron Beacon Journal,134150,1974,GOVERNOR,,,OH,"GILLIGAN, JOHN J.",,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1974,LT GOVERNOR,,,OH,"CELESTE, RICHARD F.",,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1974,ATTORNEY GENERAL,,,OH,"SMITH, GEORGE C.",,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1974,AUDITOR,,,OH,"TRACY, ROGER W. JR.",,1,,,,State Auditor,0.98
+OH,Akron Beacon Journal,134150,1974,SEC OF STATE,,,OH,"BROWN, TED W.",,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1974,TREASURER,,,OH,"DONAHEY, GERTRUDE",,1,,,,State Treasurer,0.98
+OH,Akron Beacon Journal,134150,1974,SENATOR,,,OH,"GLENN, JOHN",,1,,,,U.S. Senator,0.98
+OH,Akron Beacon Journal,134150,1974,H,11,,OH,"STANTON, WILLIAM",,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1974,H,13,,OH,"MOSHER, CHARLES A.",,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1974,H,14,,OH,"SEIBERLING, JOHN",,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1974,H,16,,OH,"REGULA, RALPH",,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1974,H,22,,OH,"VANIK, CHARLES A.",,1,,,,,0.98
+OH,Akron Beacon Journal,134150,1974,STATE SENATOR,29,,OH,"FREEMAN, ROBERT D.",,1,,,,Ohio Senate 29th District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE SENATOR,27,,OH,"OCASEK, OLIVER",,1,,,,Ohio Senate 27th District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE SENATOR,19,,OH,"VAN METER, THOMAS",,1,,,,Ohio Senate 19th District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,39,,OH,"COOK, VERNON F.",,1,,,,Ohio House 39th District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,40,,OH,"WINGARD, PAUL S.",,1,,,,Ohio House 40th District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,41,,OH,"COX, KENNETH",,1,,,,Ohio House 41st District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,42,,OH,"GARRETT, THADDEUS",,1,,,,Ohio House 42nd District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,43,,OH,"WEYANDT, RONALD",,1,,,,Ohio House 43rd District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,48,,OH,"MAIER, RICHARD F.",,1,,,,Ohio House 48th District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,49,,OH,"SMART, IRENE B.",,1,,,,Ohio House 49th District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,62,,OH,"ROBERTO, MARCUS",,1,,,,Ohio House 62nd District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,68,,OH,"JOHNSON, JOHN E.",,1,,,,Ohio House 68th District,0.97
+OH,Akron Beacon Journal,134150,1974,STATE REP,93,,OH,"BATCHELDER, WILLIAM G.",,1,,,,Ohio House 93rd District,0.97
+OH,Akron Beacon Journal,134150,1974,CNTY COMM,,,OH,"HOUSTON, JAMES",,1,,,,Summit County Commissioner,0.98
+OH,Akron Beacon Journal,134150,1974,AUDITOR,,,OH,"STEPHENS, DON",,1,,,,Summit County Auditor [original office: CNTY AUDITOR],0.98
+OH,Akron Beacon Journal,134150,1974,SUPREME COURT,,,OH,"O'NEILL, C. WILLIAM",,1,,,,Chief Justice,0.98
+OH,Akron Beacon Journal,134150,1974,SUPREME COURT,,,OH,"TAFT, SHELDON A.",,1,,,,Supreme Court Judge,0.98
+OH,Akron Beacon Journal,134150,1974,SUPREME COURT,,,OH,"HERBERT, THOMAS M.",,1,,,,Supreme Court Judge,0.98
+OH,Akron Beacon Journal,134150,1974,COURT OF APPEALS,9,,OH,"BRENNEMAN, MYRON T.",,1,,,,Ninth District Court of Appeals,0.98
+OH,Akron Beacon Journal,134150,1974,COURT OF APPEALS,11,,OH,"JONES, GEORGE M.",,1,,,,11th District Court of Appeals,0.98
+OH,Akron Beacon Journal,134150,1974,JUDGE,,,OH,"BAYER, FRANK J.",,1,,,,Common Pleas Court,0.98
+OH,Akron Beacon Journal,134150,1974,CHARTER COMMISSIONER,,,OH,"GARRIGAN, EDGAR L. JR.",,1,,,,"Summit County Charter Candidate (slate of 15 max, vote for choice)",0.97
+OH,Akron Beacon Journal,134150,1974,CHARTER COMMISSIONER,,,OH,"KYRIAKIDES, A. H.",,1,,,,"Summit County Charter Candidate (slate of 15 max, vote for choice)",0.97
+OH,Akron Beacon Journal,134150,1974,CHARTER COMMISSIONER,,,OH,"MEEKER, ROBERT",,1,,,,"Summit County Charter Candidate (slate of 15 max, vote for choice)",0.97
+OH,Akron Beacon Journal,134150,1974,CHARTER COMMISSIONER,,,OH,"ARSHINKOFF, ALEXANDER",,1,,,,"Summit County Charter Candidate (slate of 15 max, vote for choice)",0.97

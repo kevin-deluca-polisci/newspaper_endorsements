@@ -1,0 +1,38 @@
+Newspaper Name: Contra Costa Times
+Alternative Names: Times, "The Green Sheet"
+Years Published: 1947-2016 (merged into East Bay Times)
+Newspaper ID number: 172450
+State: CA (Walnut Creek / Contra Costa County)
+Number of clippings: 15
+Endorsement data years: 1952, 1958, 1960, 1962, 1964, 1966, 1970, 1972, 1974, 1976, 1978
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 198
+  Endorsed (=1): 189
+  Opposed (=0): 9
+Total proposition records: 147
+  Endorsed (=1): 113
+  Opposed (=0): 34
+
+--- CONFIDENCE SCORES ---
+Min: 0.65
+Mean: 0.90
+Max: 0.98
+Below threshold (0.75): 14 (flagged in QA report)
+
+--- NOTES ---
+Contra Costa Times, daily of Walnut Creek/Contra Costa County, California.
+Founded 1947 by Dean S. Lesher. Acquired by Knight Ridder 1995, then by
+MediaNews Group / Bay Area News Group in 2006. Merged with Oakland Tribune,
+Hayward Daily Review, and other East Bay papers in 2016 to form East Bay Times.
+
+Editorially right-of-center for most of this period under Lesher ownership.
+Endorsement coverage shows mixed-ticket pattern typical of California papers
+(both June primaries and November generals captured for several years).
+
+Source clippings were JPGs of newspapers.com page captures (46 total raw files).
+Hash dedup confirmed 15 unique clippings. Each unique clipping had 3 filename
+variants (172450_YYYYMMDD, descriptive Contra_Costa_Times_*, DELUCA naming).
+JPGs were converted to PDF (full-quality archive copies in clippings/).
+
+Compiled: 2026-05-20

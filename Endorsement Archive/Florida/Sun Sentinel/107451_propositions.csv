@@ -1,0 +1,530 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+FL,Sun Sentinel,107451,1982,FL,AMENDMENT,2,FL Constitutional Amendment Number 2,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1982,FL,AMENDMENT,3,FL Constitutional Amendment Number 3,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1982,FL,REFERENDUM,,Sixth Penny County Sales Tax,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,AMENDMENT,1,Extends exemption to all people now granted only to the head of a family,1,For the amendment,0.93
+FL,Sun Sentinel,107451,1984,FL,AMENDMENT,2,Authorizes disbursement of state funds by electronic means,1,For the amendment,0.93
+FL,Sun Sentinel,107451,1984,FL,AMENDMENT,3,"Makes public the records and most hearings of judicial nominating commissions, which recommend appointees for judgeships",1,For the amendment,0.93
+FL,Sun Sentinel,107451,1984,FL,AMENDMENT,4,Grants state legislators complete immunity from being sued or questioned about any speech or debate made anywhere in connection with official duties,0,Against the amendment,0.93
+FL,Sun Sentinel,107451,1984,FL,AMENDMENT,5,Allows non-charter county governments option of electing county commissioners from single-member districts,1,For the amendment,0.93
+FL,Sun Sentinel,107451,1984,FL,AMENDMENT,6,"Requires candidates for County Court judge to belong to the Florida Bar for five years before seeking office, except in counties under 40,000 population",1,For the amendment,0.93
+FL,Sun Sentinel,107451,1984,FL,AMENDMENT,7,"Gives Florida lawmakers more flexibility to finance projects such as roads, bridges and public buildings",1,For the amendment,0.93
+FL,Sun Sentinel,107451,1984,FL,AMENDMENT,8,Allows the state to continue using gross receipts taxes on telephone companies to back bonds for building educational facilities,1,For the amendment,0.93
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Broward County - Expands the powers of the Human Rights Board and sets up a county Human Rights Act,0,Against the referendum,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Nonbinding straw ballot to place county in support of a nuclear freeze,0,Against the referendum,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,County charter amendment to expand membership of Board of Rules and Appeals,1,For the amendment,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Cooper City - $4.5 million utility revenue bonds for sewage pipeline share,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Deerfield Beach charter change - elect commissioner by voters in separate districts,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,"Deerfield Beach $689,500 bonds for city commission meeting room and offices",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Deerfield Beach $3.2 million bonds for storm drains,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Deerfield Beach $2.6 million bonds for parks and recreation development,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,"Deerfield Beach $186,150 bonds to expand two city cemeteries",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Fort Lauderdale city charter revised and rewritten,0,Vote NO,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Hallandale charter amendment - give City Commission flexibility to adopt ordinances and conduct other city business,1,For the amendment,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Margate $3 million bonds to upgrade and expand city water/sewage treatment facilities,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Oakland Park - limit City Council members to two four-year terms,1,For the amendment,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Oakland Park - merge powers of mayor and council president and strip the mayor of veto power,0,Against the amendment,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,"Miramar charter amended to require all appointed officials to serve one-year probation, during which mayor may fire them",0,Against the amendment,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Pembroke Park - retain a rule allowing anyone owning land in the town to vote in elections and run for town commission,0,Vote NO,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Pembroke Park - amend its charter to bring certain provisions in conformity with state law,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,"Pembroke Pines charter amendment package - single-member districts, 4-1 vote to fire city manager, 3-2 majority for ordinances, reduction of charter review board from 7 to 5 members, residency requirement of 180 days for charter board candidates and authorization to draft above changes for incorporation in charter",1,Vote YES on all six referenda,0.9
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Pine Tree Water District in northwest Broward would extend taxing powers to land annexed by the district two years ago,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Pompano Beach annexation of South Beach area east and west of A1A,1,For both annexations,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Tamarac Charter Board empowered to hire an attorney,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Wilton Manors Proposal No. 1 - calls for City Council members to appoint one of their own each year as mayor,0,Vote NO,0.92
+FL,Sun Sentinel,107451,1984,FL,REFERENDUM,,Wilton Manors Proposal No. 2 - calls for direct election of the mayor by the people,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,AMENDMENT,1,Creates office of statewide prosecutor,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1986,FL,AMENDMENT,2,"Permits casino gambling in any county where, in a separate vote, county voters authorize it, but only in hotels of 500 or more rooms",0,Vote NO,0.94
+FL,Sun Sentinel,107451,1986,FL,AMENDMENT,3,"Changes $25,000 homestead exemption to exempt the first $5,000 of assessed valuation, plus half of the next $40,000 in value",1,Vote YES,0.94
+FL,Sun Sentinel,107451,1986,FL,AMENDMENT,4,"Allows citizen initiative petitioners, who have collected at least one-tenth of signatures required to place petition on the ballot, to request an advisory opinion from the Florida Supreme Court on the validity of the issue",1,Vote YES,0.94
+FL,Sun Sentinel,107451,1986,FL,AMENDMENT,5,Allows Florida to conduct state lottery,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Broward County Law Enforcement/Public Safety Facilities: $42.7 million bonds for new public safety building and improved communications equipment,1,Vote YES,0.93
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,"Broward County Criminal Justice Facilities: $117.7 million bonds for new courthouse wing, parking garage, reconstruction/renovations, southern and western regional courthouse parking, west and north regional courthouses",1,Vote YES,0.93
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,A,Cooper City Charter - Eliminate position of vice mayor,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,B,Cooper City Charter - Increase cap on council salaries to $600 monthly,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,C,Cooper City Charter - Ease competitive bidding requirements,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,D,Cooper City Charter - Delete need for voter approval of revenue bond issues exceeding 5 percent of budget,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Davie Charter change to eliminate personnel regulations in charter and allow personnel policies to be set by Town Council,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Deerfield Beach Five Percent Public Service Tax: to allow city to impose 5 percent tax on public utilities,0,Vote AGAINST,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Fort Lauderdale Parks and Recreation: $7.3 million bonds for improvements to city's parks and recreation facilities and landscaping of city entranceways and major thoroughfares,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Fort Lauderdale Riverwalk: $7.45 million bonds for Riverwalk project,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Fort Lauderdale Neighborhood Revitalization: $6.86 million bonds for neighborhood revitalization and city Housing Authority improvements,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Fort Lauderdale Discovery Center for Science and Technology: $8.11 million bonds for construction of comprehensive science complex with IMAX theater,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,"Fort Lauderdale Beach Revitalization: $13.79 million bonds for beach promenade, landscaping, improvements and roadway realignment and parking relocation",1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Fort Lauderdale International Swimming Hall of Fame Museum: $1.19 million bonds for expanding and improving Hall of Fame museum,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Fort Lauderdale Charter Question - amend city charter to provide for district election of city commissioners and for a mayor-commissioner on an at-large basis,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Hollywood Art and Culture Center Bond Referendum: $4 million bonds for an art and culture center,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Lauderhill Ballot Question - require mayor and City Council members to be city residents for six months or more before being elected to office,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,North Lauderdale Ballot Question - amend city charter to stagger the terms of City Council members,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,1,Tamarac Charter amendment - Give city manager until July 30 to submit budget message,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,2,Tamarac Charter amendment - Let city invest funds any way permitted by state law,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,3,Tamarac Charter amendment - Increase mayor and City Council salaries,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,4,"Tamarac Charter amendment - Give flat monthly payments to elected officials, regardless of actual expenses for mileage, etc.",0,Vote NO,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,5,Tamarac Charter amendment - Allow city officials to approve funds for capital improvements totalling less than 2.5 percent of city budget without a referendum,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Tamarac Referendum - let Broward Sheriff's Office assume responsibility for police enforcement inside city limits,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,1,Tamarac Referendum on proposed capital expenditures: $2 million to replace water pumping stations,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,2,Tamarac Referendum on proposed capital expenditures: $4.7 million to improve water treatment plant,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,3,Tamarac Referendum on proposed capital expenditures: $2.5 million for public works and engineering complex,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,4,Tamarac Referendum on proposed capital expenditures: $1 million in developer impact fees to build water mains,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1986,FL,REFERENDUM,,Tamarac Referendum to let city sell public works land and building,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,1,Adds county court judges to list of officials subject to impeachment,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,2,"Allows crime victims and next of kin of homicide victims the right to be informed, present and heard at all crucial stages of criminal proceedings",1,Vote YES,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,3,Allows land producing high water recharge to aquifers to be classified on its character or use,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,4,Lets state bond gas tax funds to buy road rights of way and build bridges,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,5,Extends current $500 widows' property tax exemption to widowers,0,Vote NO,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,6,Sets up state Taxation and Budget Reform Commission,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,7,Extends terms of county court judges from four to six years,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,8,Allows Legislature to set up civil traffic hearing officer system,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,9,Creates new state department of Veterans Affairs and Elderly Affairs,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,10,"Imposes $100,000 limit on noneconomic (pain and suffering) damages in all civil lawsuits",0,Vote NO,0.94
+FL,Sun Sentinel,107451,1988,FL,AMENDMENT,11,Establishes English as Florida's official language,0,Vote NO,0.94
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,1,Broward County Charter Amendment 1: Reflects recent changes in county administrative departments; encourages cities and constitutional officers to use county services,1,Vote YES,0.93
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,2,"Broward County Charter Amendment 2: Expands Charter Review Commission, requires meetings every six in stead of every eight years, changes term of members",1,Vote YES,0.93
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,3,Broward County Charter Amendment 3: Requires system of emergency medical services to serve unincorporated areas; promotes interlocal agreements between Broward Sheriff's Office and cities,1,Vote YES,0.93
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,4,Coconut Creek Amendment: Changes Arts Council to Cultural Affairs Council and moves it from under county administrator to under County Commission,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,5,"Coconut Creek Amendment: Expands power, changes membership and reduces size of Environmental Quality Control Board",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Coconut Creek Referendum to permit fluoridation of city water,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Coconut Creek $3.75 million bond issue for park and recreation improvements,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Cooper City Referendum on fluoridating city water,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Davie $3.5 million bond issue to buy Arrowhead Country Club,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,1,"Davie Charter Amendment No. 1: Lets Town Council fill a council vacancy by appointment for entire term, not just until next election",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,2,Davie Charter Amendment No. 2: Lets town set up centralized purchasing procedures by ordinance,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Deerfield Beach Referendum to permit fluoridation of city water,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Lauderdale-By-The-Sea Town Charter amendment extending terms of five Town Commission members from two to four years,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,"Lauderdale-By-The-Sea Charter amendment abolishing independent Board of Adjustment, making it advisory to Town Commission",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,1,Parkland Charter Amendment No. 1: Calls for citywide elections for a city commissioner if fewer than 200 people live in that commission district,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,2,Parkland Charter Amendment No. 2: Requires candidate to be registered voter,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,"Pembroke Park city charter amendment - city manager, clerk and police chief serve at pleasure of City Commission",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Pembroke Park Referendum to set up city police department,0,Vote NO,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,1,Pembroke Pines Charter Amendment No. 1: Increases terms of Charter Review Board members from two to four years,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,2,"Pembroke Pines Charter Amendment No. 2: Deletes mayor's two-term, eight-year limit",0,Vote NO,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Pompano Beach $6.1 million bond issue for city park improvements,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Sunrise: $11 million and $3 million bond issues for new police-fire-rescue department headquarters and City Hall expansion,1,Residents urged not to cast ballots because referendum will not be valid or binding because of uncertainty over other possible methods of financing,0.88
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,1,"Tamarac Charter Amendment No. 1: Lets mayor and City Council members serve three, not just two, consecutive two-year terms",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,2,"Tamarac Charter Amendment No. 2: Allows Charter Board members to serve three, not just two, consecutive two-year terms",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,3,Tamarac Charter Amendment No. 3: Changes method of calculating when Charter Board member could be ousted for absenteeism,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1988,FL,REFERENDUM,,Wilton Manors Charter amendment to double salaries of mayor and city council,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,AMENDMENT,1,Moves start of legislative session from April to March in 1991 and February in 1992 and afterwards,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1990,FL,AMENDMENT,2,Requires three-day waiting period for handgun buyers,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1990,FL,AMENDMENT,3,Restricts unfunded state mandates on local governments,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1990,FL,AMENDMENT,4,Establishes some open government requirements for Florida Legislature,1,Vote YES,0.94
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Broward Countywide County charter amendment dissolving Environmental Quality Control Board and transferring its responsibilities to county government,1,Vote YES,0.93
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Broward Countywide Nonbinding straw ballot referendum asking if voters want powers and duties of Port Everglades Authority transferred to county charter government,1,Vote YES,0.93
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,Coconut Creek City charter Amendment No. 1: Requires council candidates to live in city a year before filing,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Coconut Creek Amendment No. 2: Sets up procedure for electing a mayor and vice-mayor,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,3,Coconut Creek Amendment No. 3: Requires three yes votes for all actions by City Council,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,4,"Coconut Creek Amendment No. 4: Gives reasons requiring a council member to forfeit his office, and requirees council appointees to be 12-month city residents",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,5,Coconut Creek Amendment No. 5: Spells out duties of city clerk,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,6,Coconut Creek Amendment No. 6: Sets minimum educational and professional qualifications for city manager,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,7,Coconut Creek Amendment No. 7: Says council may abolish Board of Adjustment,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,8,Coconut Creek Amendment No. 8: Requires election results be placed in council minutes,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,9,Coconut Creek Amendment No. 9: Candidate filing fees,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,10,Coconut Creek Amendment No. 10: Voter signatures,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,11,Coconut Creek Amendment No. 11: Charter Review Board,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,12,Coconut Creek Amendment No. 12: Redistricting Board,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,13,Coconut Creek Amendment No. 13: Clarifies and corrects various changes in city charter,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Cooper City Referendums - 3 capital improvements plans totalling $2.8 million,1,Vote YES on each,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Dania Referendum to annex Griffin-Ravenswood area into city of Dania,1,Vote FOR,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Davie Town Charter amendment changing the names mayor and vice-mayor to chairman and vice-chairman of Town Council,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Davie $1.5 million bond issue to acquire Huck Liles Stables property,1,Vote FOR BONDS,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,Deerfield Beach Town Charter Amendment No. 1: residency rules for mayor and commissioners,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Deerfield Beach Amendment No. 2: eliminates primary elections,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,3,Deerfield Beach Amendment No. 3: commissioners' oath of office,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Fort Lauderdale Referendum to prevent removal of vehicle traffic from State Road A1A along the beach without voter approval,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,Hollywood Charter Amendment No. 1: merges two city employee retirement plans,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Hollywood Amendment No. 2: coordinates benefits among three pension plans,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Lauderdale Referendums (nonbinding straw ballot) - Requires city council candidates to run for one of five designated seats instead of all candidates run in a pack,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Lauderdale - Expands council terms from two to four years and sets up staggered terms,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Lauderdale - Expands mayor's term from two to four years,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,"Pompano Beach Referendum No. 1: lets internal auditor report to City Commission, instead of city manager",1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Pompano Beach No. 2: lets City Commission change rules governing Employee Board of Appeals by ordinance instead of charter amendment,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Sea Ranch Lakes Referendum - New city franchise agreement with Southern Bell,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,Sunrise City Charter Amendment No. 1: changes name of City Council to City Commission,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Sunrise Amendment No. 2: allows contract signing by officials other than mayor,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,3,Sunrise Amendment No. 3: eliminates requirement that council members remove a councilman if they find he has meddled in hiring or firing a city employee,0,Vote NO,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,4,Sunrise Amendment No. 4: non-residents on city boards,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,5,Sunrise Amendment No. 5: council vacancies,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,6,Sunrise Amendment No. 6: decisions by motion,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,7,Sunrise Amendment No. 7: charter officers,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,8,Sunrise Amendment No. 8: internal auditor,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1990,FL,AMENDMENT,1,State Constitutional Amendment: moves start of legislative session from April to March in 1991 and February in 1992 and afterwards,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1990,FL,AMENDMENT,2,State Constitutional Amendment: requires three-day waiting period for handgun buyers,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1990,FL,AMENDMENT,3,State Constitutional Amendment: restricts unfunded state mandates on local governments,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1990,FL,AMENDMENT,4,State Constitutional Amendment: establishes some open government requirements for Florida Legislature,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Broward Countywide: charter amendment dissolving Environmental Quality Control Board and transferring responsibilities to county government,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Broward Countywide: nonbinding straw ballot on transferring Port Everglades Authority powers to county charter government,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,Coconut Creek charter amendment: requires council candidates to live in city a year before filing,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Coconut Creek charter amendment: sets up procedure for electing a mayor and vice-mayor,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,3,Coconut Creek charter amendment: requires three yes votes for all actions by City Council,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,4,Coconut Creek charter amendment: reasons for council member forfeiting office and requiring council appointees to be 12-month city residents,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,5,Coconut Creek charter amendment: spells out duties of city clerk,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,6,Coconut Creek charter amendment: sets minimum educational and professional qualifications for city manager,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,7,Coconut Creek charter amendment: council may abolish Board of Adjustment and set up Code Enforcement Board,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,8,Coconut Creek charter amendment: requires election results to be placed in council minutes,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,9,Coconut Creek charter amendment: candidate filing fees,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,10,Coconut Creek charter amendment: voter signatures,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,11,Coconut Creek charter amendment: Charter Review Board,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,12,Coconut Creek charter amendment: Redistricting Board,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,13,Coconut Creek charter amendment: clarifies and corrects various changes in city charter,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Cooper City: 3 capital improvements plans totalling $2.9 million,1,Vote YES on each,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Dania: annexes Griffin-Ravenswood area into city of Dania,1,Vote FOR,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Davie: town charter amendment changing names of mayor and vice-mayor to chairman and vice-chairman of Town Council,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Davie: $1.5 million bond issue to acquire Hook Lilies Stables property,1,Vote FOR BONDS,0.85
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,Deerfield Beach town charter amendment: residency rules for mayor and commissioners,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Deerfield Beach town charter amendment: eliminates primary elections,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,3,Deerfield Beach town charter amendment: commissioners' oath of office,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,4,Deerfield Beach town charter amendment: rules for city board members,0,Vote NO,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,5,Deerfield Beach town charter amendment: ordinance advertising rules,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,6,Deerfield Beach town charter amendment: city employee oath of office,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,7,Deerfield Beach town charter amendment: voter signatures on petitions,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Deerfield Beach: exempt city department heads from civil service system,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Fort Lauderdale: ordinance to prevent removal of vehicle traffic from State Road A1A along the beach without voter approval,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,Hollywood City Charter Amendment: merges two city employee retirement plans,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Hollywood: coordinates benefits among three pension plans,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Lauderhill nonbinding straw ballot: requires city council candidates to run for one of five designated seats instead of having all candidates run in a pack,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Lauderhill nonbinding straw ballot: expands council terms from two to four years and sets up staggered terms,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,Pompano Beach City Charter Amendment: lets internal auditor report to City Commission instead of city manager,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Pompano Beach: lets City Commission change rules governing Employee Board of Appeals by ordinance instead of charter amendment,0,Vote NO,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,,Sea Ranch Lakes: new city franchise agreement with Southern Bell,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,1,Sunrise City Charter Amendment: changes name of City Council to City Commission,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,2,Sunrise: allows contract signing by officials other than mayor,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,3,Sunrise: eliminates requirement that council members remove a councilman if they find he has meddled in hiring or firing a city employee,0,Vote NO,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,4,Sunrise: non-residents on city boards,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,5,Sunrise: council vacancies,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,6,Sunrise: decisions by motion,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,7,Sunrise: charter officers,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1990,FL,REFERENDUM,8,Sunrise: internal auditor,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1992,FL,AMENDMENT,1,Florida Constitutional Amendment: lets elections be suspended in case of emergency,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1992,FL,AMENDMENT,2,Florida Constitutional Amendment: extends government in sunshine principles to all three branches of state government,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1992,FL,AMENDMENT,3,Florida Constitutional Amendment: lets cities and counties grant property tax relief to encourage historic preservation,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1992,FL,AMENDMENT,4,Florida Constitutional Amendment: reforms and streamlines state budget process,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1992,FL,AMENDMENT,5,Florida Constitutional Amendment: establishes a Taxpayers' Bill of Rights,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1992,FL,AMENDMENT,6,"Florida Constitutional Amendment: lets cities and counties impose a local option 1-cent sales and use tax for general government services, if local voters approve",1,Vote YES,0.95
+FL,Sun Sentinel,107451,1992,FL,AMENDMENT,8,Florida Constitutional Amendment: removes time limits and extends indefinitely the current process of dedicating taxes to fund education facilities,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1992,FL,AMENDMENT,9,Florida Constitutional Amendment: 'Eight is Enough' - imposes 8-year term limits on state and congressional politicians,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1992,FL,AMENDMENT,10,Florida Constitutional Amendment: 'Save Our Homes' - limits property appraisal hikes to 3 percent per year,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1992,FL,REFERENDUM,,Cooper City: charter amendment to set City Commission salaries by ordinance instead of by the charter,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1992,FL,REFERENDUM,,Cooper City: charter amendment to appoint an advisory Charter Review Commission,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1992,FL,REFERENDUM,,Coral Springs: give City Council power to offer five-year property tax exemptions as an incentive to new or expanded businesses,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1992,FL,REFERENDUM,,Hallandale: charter amendment to determine by lot the terms of office of city commissioners elected unopposed,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1992,FL,REFERENDUM,,Parkland: amend deed restriction to allow tennis light poles at city park,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1992,FL,REFERENDUM,1,"Tamarac Charter Amendment: elect City Council members from districts, instead of citywide",1,Vote YES,0.9
+FL,Sun Sentinel,107451,1992,FL,REFERENDUM,2,Tamarac Charter Amendment: curtail powers of Charter Review Board,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1992,FL,REFERENDUM,3,Tamarac Charter Amendment: make Redistricting Committee report advisory instead of binding on City Council,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1994,FL,AMENDMENT,1,Florida Constitutional Amendment: moves start of legislative session from February to March,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1994,FL,AMENDMENT,2,Florida Constitutional Amendment: limits annual increases in many state revenues to the rise in state personal income,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1994,FL,AMENDMENT,3,Florida Constitutional Amendment: bans gill nets in Florida's offshore waters,1,Vote YES,0.95
+FL,Sun Sentinel,107451,1994,FL,AMENDMENT,4,Florida Constitutional Amendment: allows multi-subject citizen-initiated constitutional amendments that limit government's ability to raise revenue,0,Vote NO,0.95
+FL,Sun Sentinel,107451,1994,FL,AMENDMENT,8,Florida Constitutional Amendment: legalizes casino gambling at 47 sites in Florida,0,Vote NO,0.95
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,,Cooper City Charter Amendment: changes name of City Council to City Commission,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,,Cooper City Charter Amendment: limits mayor and commissioners to three consecutive three-year terms of office,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,,"Cooper City Charter Amendment: requires commissioners to live in separate districts, while still being elected citywide",1,Vote YES,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,,"Deerfield Beach Bond Referendum: lets city issue $2 million in 25-year general obligation bonds, backed by property taxes, to acquire and approve parks and recreation facilities",1,Vote FOR BONDS,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,3,"Hallandale Charter Amendment No. 3: vote-getting City Commission candidate a four-year term, like other commissioners, instead of only two years",1,Vote YES,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,,"Hallandale Charter Amendment: lets the mayor serve two consecutive two-year terms, instead of just one term",1,Vote YES,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,,Hollywood Tax Referendum: lets city commissioners grant city property tax abatements to encourage new businesses to move to the city and existing businesses to expand,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,1,"Margate Bond Issue Referendum: lets city borrow $1.45 million, backed by property taxes, to buy and improve land for park development",1,Vote FOR BONDS,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,2,Margate Bond Issue Referendum: lets city borrow $1.9 million to buy a third fire station and new firefighting equipment,1,Vote FOR BONDS,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,3,Margate Bond Issue Referendum: lets city borrow $2.25 million for a new city police radio system and computer terminals for police vehicles,1,Vote FOR BONDS,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,4,"Margate Bond Issue Referendum: lets city borrow $4.6 million public works capital improvement projects for irrigation, landscaping, streets, sidewalks, streetlights and other facilities",1,Vote FOR BONDS,0.9
+FL,Sun Sentinel,107451,1994,FL,REFERENDUM,5,"Margate Bond Issue Referendum: lets city borrow $245,000 for Margate Senior Center capital improvements",1,Vote FOR BONDS,0.9
+FL,Sun Sentinel,107451,1996,FL,AMENDMENT,1,Requires future state taxes or fees adopted by state constitutional amendment to be ratified by a 'super-majority' two-thirds vote of all those voting in the election,0,Vote NO,0.92
+FL,Sun Sentinel,107451,1996,FL,AMENDMENT,2,Lets the state Constitutional Revision Commission start meeting early and consider taxation and budgetary matters,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1996,FL,AMENDMENT,3,Reforms ways judges are nominated and disciplined,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1996,FL,AMENDMENT,4,Imposes penny-per-pound fee on raw sugar grown in the Everglades Agricultural Area to pay to fight Everglades pollution,0,Vote NO,0.9
+FL,Sun Sentinel,107451,1996,FL,AMENDMENT,5,Makes those who cause pollution in the Everglades Agricultural Area or Everglades Protection Area primarily responsible for paying the costs to abate that pollution,0,Vote NO,0.9
+FL,Sun Sentinel,107451,1996,FL,AMENDMENT,6,Establishes an Everglades Trust Fund to conserve and protect natural resources and abate water pollution in the Everglades,0,Vote NO,0.9
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Charter 1,"Broward County Charter Amendment — Lets county government protect people from discrimination based on disability, familial status or marital status",1,Vote YES,0.9
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Charter 2,Broward County Charter Amendment — Requires county government to 'sunset' or abolish appointed boards and agencies unless a study shows they serve the public interest,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Charter 3,Broward County Charter Amendment — Adds a School Board member to the county Planning Council,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Charter 4,Broward County Charter Amendment — Lets LPG gas contractors examining board meet only four times a year,1,Vote YES,0.88
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Charter 5,Broward County Charter Amendment — Expands the term of future Charter Review Commissions from 17 to 29 months,1,Vote YES,0.88
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Charter 6,Broward County Charter Amendment — Lets the county alter or abolish older special water districts,1,Vote YES,0.88
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Charter 7,Broward County Charter Amendment — Reduces Board of Rules and Appeals from 21 to 13 members,0,Vote NO,0.88
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Charter 8,Broward County Charter Amendment — Makes county government appoint a management efficiency study committee,1,Vote YES,0.88
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Charter 9,Broward County Charter Amendment — Deletes obsolete sections of the county charter,1,Vote YES,0.88
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Ft Lauderdale Bond,Fort Lauderdale $35 million capital improvements bond issue,1,Vote YES,0.88
+FL,Sun Sentinel,107451,1996,FL,BALLOT MEASURE,Ft Lauderdale Charter,"Fort Lauderdale charter amendment to let the city commission, not city manager, appoint the city clerk",0,Vote NO,0.88
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,1,Tax exemptions on historic properties,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,2,Death penalty,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,3,Extra homestead exemption for seniors,0,Vote NO,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,4,Recording of documents,1,Vote YES,0.88
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,5,Conservation of natural resources and creation of Fish and Wildlife Conservation Commission,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,6,Public education of children,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,7,Local option for selection of judges and funding of state courts,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,8,Restructuring the state Cabinet,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,9,Basic rights,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,10,Local and municipal property tax exemptions and citizen access to local officials,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,11,"Ballot access, public campaign financing and election process revisions",1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,12,Firearms purchases — local option for criminal history records check and waiting period,1,Vote YES,0.92
+FL,Sun Sentinel,107451,1998,FL,AMENDMENT,13,Miscellaneous matters and technical revisions,1,Vote YES,0.9
+FL,Sun Sentinel,107451,1998,FL,REFERENDUM,Boca Raton,Boca Raton Municipal Referendum — Blue Lake development zoning change,1,Vote YES,0.88
+FL,Sun Sentinel,107451,1998,FL,REFERENDUM,Boynton Beach,Boynton Beach Charter amendment to eliminate term limits on city commissioners and mayor,0,Vote NO,0.88
+FL,Sun Sentinel,107451,1998,FL,REFERENDUM,Delray Beach,Delray Beach proposal to expand boundaries and influence of Downtown Development Authority,1,Vote YES,0.88
+FL,Sun Sentinel,107451,2000,FL,AMENDMENT,1,Requires lawmakers to fund a bullet train or monorail system linking Florida's five biggest urban areas,0,Vote NO,0.93
+FL,Sun Sentinel,107451,2000,FL,AMENDMENT,2,Switches methods of choosing local Circuit Court and County Court judges from election to merit selection appointments and merit retention votes,1,Vote YES,0.93
+FL,Sun Sentinel,107451,2000,FL,AMENDMENT,3,Switches methods of choosing local Circuit Court and County Court judges (companion measure),1,Vote YES,0.93
+FL,Sun Sentinel,107451,2000,FL,REFERENDUM,County Bond,Broward County Bond Referendum — Should Broward County issue $400 million in property tax-backed bonds to buy open space?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,County Charter A,Broward County Charter Amendment — Should voters amend the county charter to require a majority of an expanded nine-member County Commission to call a special meeting and a super-majority to propose charter amendments?,1,Vote YES,0.88
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,County Charter B,Broward County Charter Amendment (companion to County Charter A),1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,REFERENDUM,Dania Beach/Hollywood Annexation,Which city should unincorporated areas choose to be annexed into?,1,Vote to join Dania Beach,0.88
+FL,Sun Sentinel,107451,2000,FL,REFERENDUM,Deerfield Beach,"Can city lease up to 30 percent of a 4.6-acre beachfront parcel for stores linked to an ocean park, amphitheater and parking garage?",0,Vote NO,0.88
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Pembroke Park Charter,Should town require 65 percent of voters to approve any changes on the mobile home zoning map or land uses allowing mobile homes?,0,Vote NO,0.88
+FL,Sun Sentinel,107451,2000,FL,REFERENDUM,Tamarac,"Shall town require that after any future annexation of nearby unincorporated areas, each commissioner will be elected on a district-only basis?",1,Vote YES — should city repeal its charter requirement for a voter referendum to approve spending more than 2.5 percent of city budget on any capital improvements,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 1,Reconfigures City Commission district lines,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 2,Lets commissioners relocate temporarily in town without losing office,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 3,Fills all City Commission vacancies by election,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 4,Clarifies language on 60-day limit to file initiative and referendum petitions,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 5,"Requires 10 percent of voters to sign petitions to propose amendments to the city charter, to conform to state law",1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 6,"Bans discrimination due to age, race, religion, color, national origin, disability, creed, sexual orientation or sex",1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 7,Requires commissioners to approve site plans for multi-family and non-residential buildings,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 8,Removes obsolete provisions in charter,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 9,Eliminates budgetary restrictions,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,BALLOT MEASURE,Weston Charter 10,Modernizes and clarifies charter language,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2000,FL,REFERENDUM,Tamarac,Should city repeal its charter requirement for a voter referendum to approve spending more than 2.5 percent of city budget on any capital improvements?,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,1,Changes rules about the death penalty,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,2,Requires economic impact statements be included on future citizen-initiated amendments,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,3,Lets Miami-Dade County voters adopt county Charter amendments written by Legislature by referendum,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,4,Requires 2/3 vote of state lawmakers to adopt future exemptions to open public records law,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,6,Bans all tobacco smoking in restaurants and other workplaces,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,7,Grants a local property tax exemption for parent/grandparent living quarters added to a private home,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,8,Requires the state to offer public school pre-kindergarten classes to all 4-year-olds,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,9,Sharply limits class sizes in public schools,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,10,Bans the caging of pregnant pigs,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,AMENDMENT,11,Restructures higher education governance system,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC1,Broward County Charter: Creates Citizens' Bill of Rights,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC2,"Broward County Charter: Renames County Commission chair and vice-chair as mayor and vice-mayor, lets commissioners delegate decisions to commission committees",0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC3,Broward County Charter: Creates a county auditor with expanded powers and duties and oversight,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC4,Broward County Charter: Creates county Fire-Rescue Council to recommend city/county fire-rescue improvements and a unified communications system,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC5,"Broward County Charter: Lets the County Commission propose complex revisions to county charter, as Charter Review Commission can't do just single-subject amendments",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC6,Broward County Charter: Protects county whistle-blowers from retaliation,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC7,Broward County Charter: Requires posting a notice and a public hearing prior to County Commission considering amendments to the county administrative code,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC8,Broward County Charter: Requires County Commission to adopt a non-interference ordinance (intent to ban commissioners from interfering or hiring/firing employees other than the administrator),1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC9,"Broward County Charter: Adopts technical amendments about the Planning Council, adds a consumer representative to the Electricians' Central Examining Board and enacts term limits and other technical amendments about the Central Examining Boards and Board of Rules and Appeals",1,Vote YES,0.9
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC10,"Broward County Charter: Changes and clarifies membership, procedures and powers of Charter Review Commission and Management and Efficiency Study Committee and renames the Broward Cultural Affairs Council",1,Vote YES,0.9
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC11,"Broward County Charter: Revises, renumbers, rewords and clarifies charter language and deletes provisions superceded by state law",1,Vote YES,0.9
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC12,"Broward County Charter: Requires citizen-initiated amendments to Charter to be put on the ballot at the next election if 7 percent of voters sign petitions, or a special election within 90 to 120 days if 10 percent of voters sign",1,Vote YES,0.9
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,BC13,Broward County Charter: Limits to 25 percent the amount of signatures on petitions favoring Charter amendments that can come from any one of nine commission districts,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,CC1,"Cooper City: Abolishes current two-term, six-year limits on mayor and city commissioners",0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,CC2,Cooper City: Lets city manager transfer funds among departments up to 2.5 percent of current budget without commission OK,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,CC3,"Cooper City: Increases from $10,000 to $20,000 the value of city purchases that require public bids",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,CC4,"Cooper City: Lets commissioners waive competitive bidding and advertising if they can make a purchase from any city, county or other governmental agency in Florida",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,CC5,Cooper City: Eliminates the requirement for voter approval of revenue bond issues,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,CC6,Cooper City: Requires that any benefits plans for commissioners be adopted by ordinance,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,DB1,Deerfield Beach: Citizen-initiated amendment restricts development of main beach parking areas,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,DB2,"Deerfield Beach: Citizen-initiated amendment limits building heights, lot coverage and zoning on beach areas",0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,HB1,"Hallandale Beach: Changes City Commission terms to 4 years (top vote-getters now get 4 years, others get 2 years)",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,HB2,"Hallandale Beach: Lets a mayor, now elected from among commissioners themselves, serve more than one one-year-term",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,MG1,Margate: Changes City Commission terms from 3 to 4 years; extends current terms of commissioners for a year,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,MG2,Margate: Requires commission candidates to run for specific commission seats,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,PP1,"Pembroke Pines: Clarifies that official posting of notices for bids to buy goods or services can be somewhere at City Hall, not necessarily on the door",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,PP2,Pembroke Pines: Deletes an obsolete and inconsistent charter reference to Charter Review Board members being elected on a nonpartisan basis,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,PP3,Pembroke Pines: Changes the date of the City Commission organizational session after a city election from the next Monday to the date of the first regular meeting,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,PP4,"Pembroke Pines: Deletes an obsolete charter reference to the post of council president, which no longer exists",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,PB1,Pompano Beach: Lets all city voters elect a mayor directly (now chosen by commissioners from among themselves),0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,WE1,Weston: Revises City Commission districts to follow major roadways,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,WE2,Weston: Bans mayor or commissioners from serving more than two consecutive terms; can run again after taking one term off,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,WE3,"Weston: Puts mayor and commission salaries on 'automatic pilot,' rising after each city election to equal the average of all commissioners' or mayors' salaries in Broward",0,Vote NO,0.95
+FL,Sun Sentinel,107451,2002,FL,REFERENDUM,WE4,Weston: Eliminates a rule banning city from adopting land development rules stricter than Broward's before Dec. 2006,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2004,FL,AMENDMENT,1,Should doctors be required to notify the parents of pregnant minors seeking abortions?,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2004,FL,AMENDMENT,2,"Should signature collection and court review of proposed constitutional amendments have earlier deadlines, giving voters more time to consider the merits of the proposals?",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2004,FL,AMENDMENT,3,Should the constitution regulate what attorneys can recover from malpractice cases?,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2004,FL,AMENDMENT,4,Should Broward and Miami-Dade voters be able to authorize slot machines at parimutuel facilities?,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2004,FL,AMENDMENT,5,Should Florida raise its minimum wage by $1 an hour and index further increases to inflation?,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2004,FL,AMENDMENT,6,Should the Florida high-speed rail constitutional amendment be repealed?,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2004,FL,AMENDMENT,7,Should specified medical records be available for public scrutiny?,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2004,FL,AMENDMENT,8,Should doctors with three malpractice incidents lose their licenses?,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,FL1,Fort Lauderdale: Shall the City Commission hire assistants?,0,Vote NO,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,FL2,Fort Lauderdale: Shall the city hire an auditor?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,FL3,Fort Lauderdale: Should a unanimous vote be required on land swaps that would reduce park space?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,FL4,Fort Lauderdale: Shall the city float $40 million in bonds for firehouse improvements?,0,Vote NO,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,HW1,Hollywood: Shall the city borrow $53.68 million for parks and recreation projects and fire-rescue and safety initiatives?,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,LL1,"Lauderdale Lakes: Shall city elections beginning in 2008 be held in November, concurrent with national elections?",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,LL2,"Lauderdale Lakes: Shall the salary for the mayor be increased from $11,000/year to $20,000/year and commissioners from $9,000 to $18,000?",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,LL3,Lauderdale Lakes: Shall the city charter be amended to allow the City Commission to raise its salaries without subsequent electorate approval?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,LL4,Lauderdale Lakes: Shall the charter be amended to provide term limits for mayor and city commissioners?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,LH1,"Lauderhill: Shall the city borrow $35 million for parks, recreation and cultural projects?",1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WE1,Weston: Shall the city charter set residency requirements for candidates?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WE2,Weston: Shall a commission supermajority vote be necessary to shift contracted city services in house?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WE3,Weston: Shall municipal elections move to November in even-numbered years from March in odd-numbered years?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WE4,"Weston: Shall the charter permit charitable contributions by the city not in excess of $25,000 a year?",1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WM1,Wilton Manors: Shall the City Commission set emergency spending limits by ordinance?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WM2,Wilton Manors: Shall the City Commission set salaries of the mayor and commissioners by ordinance?,0,Vote NO,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WM3,Wilton Manors: Must commissioners live in the city for at least six months immediately prior to election?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WM4,Wilton Manors: Must the mayor live in the city for at least six months immediately prior to election?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WM5,Wilton Manors: Shall city elections be held in November of even-numbered years?,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,WM6,"Wilton Manors: Shall contracts be awarded to the lowest, most responsive and most responsible bidder?",1,Vote YES,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,AN1,Lauderdale Lakes annexation: Shall the city annex certain real property located in the central area of Broward County?,1,Vote FOR ANNEXING,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,AN2,Fort Lauderdale: Select a date for annexation of the Rock Island area into the city,1,"Vote SEPTEMBER 15, 2005",0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,AN3,Twin Lakes North Area annexation: Select one of the following cities,1,Vote CITY OF OAKLAND PARK,0.9
+FL,Sun Sentinel,107451,2004,FL,REFERENDUM,AN4,"South Broward County: Shall residents in the unincorporated areas of south Broward County create West Park, a new city government?",1,Vote FOR APPROVAL,0.9
+FL,Sun Sentinel,107451,2006,FL,AMENDMENT,1,3 percent cap on use of non-recurring revenue,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,AMENDMENT,3,Requiring a 60 percent vote to approve future amendments,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,AMENDMENT,4,Requiring state to fund anti-tobacco awareness campaign,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,AMENDMENT,6,Double homestead exemption for low income seniors,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2006,FL,AMENDMENT,7,Lower homestead ad valorem taxes for disabled veterans,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2006,FL,AMENDMENT,8,Barring using eminent domain to seize private property for private development,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2006,FL,BALLOT MEASURE,BR1,Broward: $450 million in bonds for new courthouse,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,BALLOT MEASURE,BR2,Broward: One-cent increase in sales tax for mass transit,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,BALLOT MEASURE,BR3,Broward: Non-binding straw ballot on homestead exemption portability,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2006,FL,BALLOT MEASURE,BR4,Broward: Non-binding initiative for watershed improvement district,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,CC1,Cooper City: Updating the city charter,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,CS1,Coral Springs: Future commission pay raises by ordinance,0,Vote NO,0.9
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,DB1,Deerfield Beach Q1: Staggered commission terms,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,DB2,Deerfield Beach Q2: Eliminate petition exception to term limits and permit term-limited commissioner to run for mayor,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,DB3,Deerfield Beach Q3: Change oversight of fire chief,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,DB4,Deerfield Beach Q4: Hiring and removal of city manager by majority vote,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,DB5,Deerfield Beach Q5: Limitation on use of eminent domain for economic development,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,DB6,Deerfield Beach Q6: Require four votes to change land use designation,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,DB7,Deerfield Beach Q7: Alter outdated wording in the charter,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,HB1,Hallandale Beach Q1: Change in residency requirements for candidates,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,HB2,Hallandale Beach Q2: Change in election date from March to November,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,HB3,Hallandale Beach Q3: Change requirements for time period for qualification for office,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,LBS1,"Lauderdale-by-the-Sea Q1: Establishing maximum building heights, except for buildings grandfathered in and the area north of Pine Avenue and east of State Road A1A",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,LBS2,Lauderdale-by-the-Sea Q2: Allow existing nonconforming buildings taller than four stories to be replaced,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,LBS3,Lauderdale-by-the-Sea Q3: Term limits on mayor and commissioners,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,LBS4,Lauderdale-by-the-Sea Q4: Allowing home-based businesses in residential districts throughout the town,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,LP1,Lighthouse Point: Pay raises for commissioners,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,MG1,Margate: Bond issue for roads,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,NL1,North Lauderdale Q1: Change city elections from March to November,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,NL2,North Lauderdale Q2: Pension plans for elected officials,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,NL3,North Lauderdale Q3: Increased filing fees,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,NL4,North Lauderdale Q4: Residency requirements for candidates,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,NL5,North Lauderdale Q5: Increase in expenditures not requiring commission approval,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,NL6,North Lauderdale Q6: Remove ineffective language in charter,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PK1,"Parkland Q1: Changing election date, extending terms, creating four-year staggered terms and imposing term limits",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PK2,Parkland Q2: Increases in commission salaries,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PK3,Parkland Q3: Change in residency requirements,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PK4,Parkland Q4: Filling commission vacancies,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PK5,Parkland Q5: Removal of city manager requires motion of intention,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PK6,Parkland Q6: Eliminate bond requirement for employees,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PK7,Parkland Q7: Incorporate ordinance 23 into city charter,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PK8,Parkland Q8: Regular charter review,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PP1,Pembroke Pines Q1: Revise charter to delete ineffective language,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PP2,Pembroke Pines Q2: Amend charter to prohibit eminent domain to acquire private property for economic development,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,PP3,Pembroke Pines Q3: Appoint a charter review committee every five years,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,SR1,Southwest Ranches Q1: Changes appointment of vice mayor to November instead of March,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,SR2,Southwest Ranches Q2: Changes town clerk appointment,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,SR3,Southwest Ranches Q3: Allows Town Council to obtain information directly from Town Clerk,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,SR4,Southwest Ranches Q4: Town Clerk must follow State of Florida Code of Ethics,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,SR5,"Southwest Ranches Q5: Town Administrator responsible for hiring, supervision and removal of all town employees, except as otherwise provided in charter",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,SR6,Southwest Ranches Q6: Town Council to determine who oversees purchasing code and acquisition of goods and services,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,SR7,"Southwest Ranches Q7: Town Attorney to provide legal counsel to other individuals or entities, in addition to mayor, town council or town administrator",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,SR8,Southwest Ranches Q8: Establishes a Financial Administrator,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,SR9,Southwest Ranches Q9: Allows for exceptions in the charter enabling Town Council to deal with other officers or employees,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,TM1,"Tamarac: Change election from March to November, and terms of commissioners",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,WE1,Weston Q1: Term limits for city commissioners,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,WE2,Weston Q2: City manager as chief executive and administrative officer,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,WE3,Weston Q3: Prohibition of management firm as city manager,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,WE4,Weston Q4: Declaration of state of emergency and curfew,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,WE5,Weston Q5: Special meetings of the commission,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2006,FL,REFERENDUM,WE6,Weston Q6: Emergency ordinance adoption,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,AMENDMENT,1,Property Rights Aliens,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2008,FL,AMENDMENT,2,Marriage Protection,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2008,FL,AMENDMENT,3,Valuations for Home Improvements for Hurricanes,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2008,FL,AMENDMENT,4,Conservation Land Exemption,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2008,FL,AMENDMENT,6,Valuations of Marina and Waterfront,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2008,FL,AMENDMENT,8,Sales Tax for Community Colleges,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q1,Broward County Charter Q1: Metropolitan Transit Authority,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q2,Broward County Charter Q2: Non-Interference by County Commissioners,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q3,Broward County Charter Q3: Voting Conflicts,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q4,Broward County Charter Q4: Creation of Broward Housing Council,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q5,Broward County Charter Q5: Implementation of Regional Focus,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q6,Broward County Charter Q6: Parks Preservation,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q7,Broward County Charter Q7: Right to a Sustainable Environment,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q8,Broward County Charter Q8: Creation of Broward Ethics Commission,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q9,Broward County Charter Q9: Independent Redistricting Consultants,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,BR_Q10,Broward County Charter Q10: Earlier reconvening of Management and Efficiency Study Committee,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,LH1,Lauderhill: Eliminate Deputy Mayor Position,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,LH2,Lauderhill: Provide City Commission Term Limits,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,LH3,Lauderhill: Create a Citizens' Bill of Rights,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,LH4,Lauderhill: Regarding Procedures for Public Reprimand,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2008,FL,REFERENDUM,LH5,Lauderhill: Regarding the First Meeting for New City Commission,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2010,FL,AMENDMENT,1,Repeal of public campaign financing requirement,0,Vote NO,0.9
+FL,Sun Sentinel,107451,2010,FL,AMENDMENT,2,Homestead ad valorem tax credit for deployed military personnel,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2010,FL,AMENDMENT,4,Referenda required for adoption and amendment of local government comprehensive land use plans (Hometown Democracy),0,Vote NO,0.9
+FL,Sun Sentinel,107451,2010,FL,AMENDMENT,5,Standards for Legislature to follow in legislative redistricting,1,Vote YES (Fair Districts),0.9
+FL,Sun Sentinel,107451,2010,FL,AMENDMENT,6,Standards for Legislature to follow in congressional redistricting,1,Vote YES (Fair Districts),0.9
+FL,Sun Sentinel,107451,2010,FL,AMENDMENT,8,Revision of class size requirements for public schools,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2010,FL,REFERENDUM,PB1,"Palm Beach County: Requiring a code of ethics, independent Ethics Commission and inspector general",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2010,FL,REFERENDUM,PB2,Palm Beach County: Continuing an ad valorem levy for Operational Needs,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2010,FL,REFERENDUM,BR1,Broward County Charter Amendment: Requires the Charter Review Commission and Management and Efficiency Study Committee to meet every 10 years,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2010,FL,REFERENDUM,BR2,Broward County Charter Amendment: Requires new county Code of Ethics to supersede municipal ordinances,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2010,FL,REFERENDUM,BR3,"Broward County Charter Amendment: Makes the county's constitutional officers (clerk of courts, property appraiser, sheriff and supervisor of elections) subject to the Code of Ethics",1,Vote YES,0.95
+FL,Sun Sentinel,107451,2010,FL,REFERENDUM,BR4,Broward County Charter Amendment: Changing the existing Office of Inspector General,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2010,FL,REFERENDUM,BR5,Broward County Charter Amendment: Allow county TRIM notices to show portion of property taxes attributable to the county's constitutional officers,1,Vote YES,0.95
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,1,Health Care Services (anti-ACA mandate),0,Vote NO,0.95
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,2,Veterans Disabled Due to Combat Injury; Homestead Property Tax Discount,0,Vote NO,0.93
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,3,State Government Revenue Limitation,0,Vote NO,0.94
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,4,Property Tax Limitations / Homestead changes,1,Vote YES,0.93
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,5,State Courts (judicial nominating/confirmation changes),0,Vote NO,0.94
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,6,Prohibition on Public Funding of Abortions,0,Vote NO,0.95
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,8,Religious Freedom (Blaine Amendment repeal),0,Vote NO,0.95
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,9,Homestead Property Tax Exemption for Surviving Spouse of Military Veteran or First Responder,0,Vote NO,0.92
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,10,Tangible Personal Property Tax Exemption,0,Vote NO,0.92
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,11,Additional Homestead Exemption for Low-Income Seniors with Long-Term Residency,1,Vote YES,0.92
+FL,Sun Sentinel,107451,2012,FL,AMENDMENT,12,Appointment of Student Board of Governors Member,0,Vote NO,0.92
+FL,Sun Sentinel,107451,2012,FL,BALLOT MEASURE,1,Palm Beach County Question No. 1,1,Vote YES (Palm Beach County),0.85
+FL,Sun Sentinel,107451,2012,FL,BALLOT MEASURE,2,Palm Beach County Question No. 2,1,Vote YES (Palm Beach County),0.85
+FL,Sun Sentinel,107451,2014,FL,AMENDMENT,1,Water and Land Conservation funding,1,Vote YES on Amendment 1,0.96
+FL,Sun Sentinel,107451,2014,FL,AMENDMENT,2,Medical Marijuana,1,Vote YES on Amendment 2,0.96
+FL,Sun Sentinel,107451,2014,FL,AMENDMENT,3,Prospective Appointment of Judges,0,Vote NO on Amendment 3,0.95
+FL,Sun Sentinel,107451,2014,FL,BALLOT MEASURE,2,Palm Beach County Referendum on arts tax,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2014,FL,BALLOT MEASURE,,Children's Services Council reauthorization,1,Vote YES for reauthorization,0.92
+FL,Sun Sentinel,107451,2016,FL,AMENDMENT,1,Solar Energy (utility-backed),0,Vote NO - amendment is meant to confuse Floridians; backed by power companies; hurts solar growth,0.96
+FL,Sun Sentinel,107451,2016,FL,AMENDMENT,2,Medical Marijuana,1,Vote YES - patients who need it deserve it,0.96
+FL,Sun Sentinel,107451,2016,FL,AMENDMENT,3,First-Responder Tax Exemption,1,Vote YES - narrow tax break with guidelines,0.95
+FL,Sun Sentinel,107451,2016,FL,AMENDMENT,5,Senior Homestead Exemption,1,Vote YES - builds on senior assistance,0.95
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,,Broward County Half-Cent Sales Tax for Transportation,0,Vote NO - county can't say where light-rail would run,0.93
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,,Broward County Half-Cent Sales Tax for Infrastructure,0,Vote NO - only 3% would go for water; cities lack concrete plans,0.93
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,1,Broward Charter Question 1 - three-year terms wording clarification,1,Vote YES,0.88
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,2,Broward Charter Question 2 - Management and Efficiency Study Committee,1,Vote YES - would eliminate costly redundant review,0.88
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,3,Broward Charter Question 3,0,Vote NO,0.8
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,4,Broward Charter Question 4,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,5,Broward Charter Question 5,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,6,Broward Charter Question 6,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,7,Broward Charter Question 7,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,8,Broward Charter Question 8 (term limits),0,Vote NO - reject attempt to end term limits,0.88
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,9,Broward Charter Question 9,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,10,Broward Charter Question 10,1,Vote YES,0.85
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,,Cooper City Charter Question (city's first three-year terms),0,"Vote NO - hardly needed in a city of 43,000",0.85
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,,Parkland Bond Referendum,0,Vote NO - if penny tax fails this can return next election,0.88
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,,Tamarac Charter Questions (4 proposed amendments),1,Vote YES on all - simplify language,0.88
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,,Palm Beach County Penny Sales Tax Referendum,1,"Vote YES - 10-year, one-cent increase for schools and infrastructure",0.93
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,,Boca Raton Ballot Question - Wildflower Property,0,Vote NO - deceptive; parks aren't at risk,0.9
+FL,Sun Sentinel,107451,2016,FL,BALLOT MEASURE,,"Greater Boca Raton Beach & Park District (Ehrnst, Starkoff)",1,"Vote for Craig Ehrnst, Earl Starkoff - committed, prepared newcomers",0.88
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,2,Limitations on Property Tax Assessments,1,Vote YES on Amendment 2,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,4,Voting Restoration Amendment (felons),1,Vote YES on Amendment 4,0.96
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,9,Prohibits Offshore Oil Drilling and Vaping in Workplaces,1,Vote YES on Amendment 9,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,12,Lobbying and Abuse of Office by Public Officers,1,Vote YES on Amendment 12,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,13,Ends Dog Racing,1,Vote YES on Amendment 13,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,1,Increased Homestead Property Tax Exemption,0,Vote NO on Amendment 1,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,3,Voter Control of Gambling in Florida,0,Vote NO on Amendment 3,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,5,Supermajority Vote Required to Impose Taxes,0,Vote NO on Amendment 5,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,6,Rights of Crime Victims (Marsy's Law),0,Vote NO on Amendment 6,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,7,First Responder and Military Member Survivor Benefits/State College System,0,Vote NO on Amendment 7,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,10,State and Local Government Structure,0,Vote NO on Amendment 10,0.94
+FL,Sun Sentinel,107451,2018,FL,AMENDMENT,11,Property Rights/Savings Clause/Criminal Statutes,0,Vote NO on Amendment 11,0.94
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Palm Beach County School Tax,1,Vote YES,0.93
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward County Penny Sales Tax Increase for Transportation,0,Vote NO,0.93
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Standards for Establishing County Commission Districts,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Redistricting Procedures for County Commission Districts,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Broward County Affordable Housing Trust Fund,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Inspector General's Discretion to Commence Investigation,0,Vote NO,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Planning Council Revisions to Zoning Glossary and Public Hearings,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Central Examining Boards Appointment of Alternate Members,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Board of Rules and Appeals Quorum/Majority,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Posting of Notices/Agenda/Backup 48 Hours Prior,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Composition of Independent Board That Nominates the County Auditor,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Composition of Inspector General Selection-Oversight Committee,1,Vote YES,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Broward Charter - Housekeeping Amendment to Delete Ineffective/Unnecessary Language,0,Vote NO,0.9
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Margate Charter Amendments 1-4,1,Vote YES on all,0.88
+FL,Sun Sentinel,107451,2018,FL,BALLOT MEASURE,,Oakland Park Bond Issue,0,Vote NO,0.88
+FL,Sun Sentinel,107451,2020,FL,AMENDMENT,1,Citizen Requirement to Vote in Florida Elections,0,Vote NO,0.94
+FL,Sun Sentinel,107451,2020,FL,AMENDMENT,2,Raising Florida's Minimum Wage to $15/hour,1,Vote YES,0.96
+FL,Sun Sentinel,107451,2020,FL,AMENDMENT,3,All Voters Vote in Primary Elections (Top-Two),1,Vote YES,0.94
+FL,Sun Sentinel,107451,2020,FL,AMENDMENT,4,Voter Approval of Constitutional Amendments (twice),0,Vote NO,0.94
+FL,Sun Sentinel,107451,2020,FL,AMENDMENT,5,Limitations on Homestead Property Tax Assessments; Increased Portability Period,1,Vote YES,0.94
+FL,Sun Sentinel,107451,2020,FL,AMENDMENT,6,Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans,1,Vote YES,0.94
+FL,Sun Sentinel,107451,2020,FL,BALLOT MEASURE,1,Broward Charter Question 1,1,Vote YES,0.88
+FL,Sun Sentinel,107451,2020,FL,BALLOT MEASURE,2,Broward Charter Question 2,0,Vote NO,0.88

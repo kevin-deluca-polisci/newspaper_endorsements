@@ -1,0 +1,357 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+DE,Wilmington Morning News,106950,1960,GOVERNOR,,,DE,"ROLLINS, JOHN W.",Republican,1,,,,advocate election of Republican John W. Rollins for governor,0.97
+DE,Wilmington Morning News,106950,1960,STATE SENATOR,2,2nd Senatorial District (Wilmington),DE,"BOYER, DAVID C.",Republican,1,,,,the mind says Boyer; Reilly bears responsibility for Assembly's sorry record,0.9
+DE,Wilmington Morning News,106950,1960,STATE SENATOR,2,2nd Senatorial District (Wilmington),DE,"REILLY, JOHN E.",Democrat,0,1,,,Democrat incumbent majority leader; paper endorses Boyer over him,0.9
+DE,Wilmington Morning News,106950,1960,STATE SENATOR,4,4th Senatorial District (New Castle Cnty),DE,"MANNING, MARGARET R.",Republican,1,,,,should be moved up to the Senate,0.95
+DE,Wilmington Morning News,106950,1960,STATE SENATOR,4,4th Senatorial District (New Castle Cnty),DE,"MCGINNES, F. EARL",Democrat,0,,,,should be sent back to his classroom,0.93
+DE,Wilmington Morning News,106950,1960,STATE SENATOR,6,6th Senatorial District (New Castle - Pencader/St. Georges),DE,"CORRELL, JACOB A.",Republican,1,,1,,has earned another term,0.95
+DE,Wilmington Morning News,106950,1960,STATE SENATOR,6,6th Senatorial District (New Castle - Pencader/St. Georges),DE,"JOHNSON, B. WALTER",Democrat,0,,,,former Rep; opposed Correll incumbent,0.85
+DE,Wilmington Morning News,106950,1960,STATE SENATOR,4,4th Senatorial District (Kent),DE,"NEEDLES, FRANCIS L.",Republican,1,,,,advocate the election of Mr. Needles,0.95
+DE,Wilmington Morning News,106950,1960,STATE SENATOR,4,4th Senatorial District (Kent),DE,"DONOVAN, LEON E.",Democrat,0,,,,"tight-fisted, unbending former House Approps chair; paper backs Needles",0.9
+DE,Wilmington Morning News,106950,1960,STATE REP,,Brandywine Hundred,DE,"BARTLESON, T. LEES",Republican,1,,1,,should be returned to Dover,0.95
+DE,Wilmington Morning News,106950,1960,STATE REP,,Pencader Hundred,DE,"PAWSON, ROBERT E.",Republican,1,,1,,should be returned to Dover,0.95
+DE,Wilmington Morning News,106950,1960,STATE REP,,Red Lion Hundred,DE,"DAVIDSON, ROBERT C.",Democrat,1,1,,,should be returned to Dover,0.95
+DE,Wilmington Morning News,106950,1960,STATE REP,,Dover,DE,"RICHARDS, CHARLES F.",Republican,1,,1,,should be returned to Dover,0.95
+DE,Wilmington Morning News,106950,1960,STATE REP,,Dover,DE,"FIFER, HARVEY P.",Republican,1,,1,,should be returned to Dover,0.95
+DE,Wilmington Morning News,106950,1960,STATE REP,,Nassau,DE,"BEST, WILLIAM T.",Republican,1,,1,,should be returned to Dover,0.95
+DE,Wilmington Morning News,106950,1960,STATE REP,,Brandywine Hundred,DE,"POLLARI, WAYNE J.",Democrat,1,,,,pleased to see emergence of new face; Bartleson opponent; positive mention - treated as endorsement,0.55
+DE,Wilmington Morning News,106950,1960,STATE REP,,Kent County 2nd District,DE,"EHINGER, GEORGE",Republican,1,,,,outstanding Republican running for the House,0.9
+DE,Wilmington Morning News,106950,1960,STATE REP,,Wilmington,DE,"LIVINGSTON, PAUL F.",Democrat,0,1,,,"richly deserves defeat; favors legalized dog racing, numbers, card-playing",0.95
+DE,Wilmington Morning News,106950,1960,STATE REP,,Wilmington,DE,"SHOCKLEY, PAUL E.",Democrat,0,1,,,richly deserves defeat; blocked law enforcement legislation,0.95
+DE,Wilmington Morning News,106950,1960,STATE REP,,Hares Corner,DE,"QUIGLEY, JAMES R.",Democrat,0,1,,,richly deserves defeat; championed dog track legislation,0.95
+DE,Wilmington Morning News,106950,1960,MAYOR,,Wilmington,DE,"KAVANAUGH, GERARD P. JR.",Republican,1,,,,"we advocate the election of Gerard P. Kavanaugh, Jr., as mayor",0.97
+DE,Wilmington Morning News,106950,1960,CITY COUNCIL,6,"Sixth Ward, Wilmington",DE,"CARRINGTON, G. OSCAR",Republican,1,,,,outstanding candidate on either ticket,0.95
+DE,Wilmington Morning News,106950,1960,CITY COUNCIL,8,"Eighth Ward, Wilmington",DE,"BUTLER, ELLA G.",Republican,1,,,,exceptionally well qualified,0.95
+DE,Wilmington Morning News,106950,1960,CITY COUNCIL,9,"Ninth Ward, Wilmington",DE,"LEVENBERG, MORRIS",Republican,1,,,,exceptionally well qualified,0.95
+DE,Wilmington Morning News,106950,1960,CITY COUNCIL,1,"First Ward, Wilmington",DE,"MELLON, GEORGE A.",Democrat,1,,,,preferable to his Republican opponent,0.92
+DE,Wilmington Morning News,106950,1960,CITY COUNCIL,12,"Twelfth Ward, Wilmington",DE,"MARTIN, JOSEPH A.",Democrat,0,1,,,should not be re-elected; he should be retired,0.97
+DE,Wilmington Morning News,106950,1962,ATTORNEY GENERAL,,Delaware,DE,"BUCKSON, DAVID P.",Republican,1,,,,former lt. gov. and briefly governor; experience tips scales in his favor,0.95
+DE,Wilmington Morning News,106950,1962,ATTORNEY GENERAL,,Delaware,DE,"BIGGS, JOHN III",Democrat,0,,,,not ready for crushing responsibilities of AG,0.92
+DE,Wilmington Morning News,106950,1962,TREASURER,,Delaware,DE,"CONNER, LOUISE",Republican,1,,,,our support goes to Mrs. Conner,0.97
+DE,Wilmington Morning News,106950,1962,TREASURER,,Delaware,DE,"EVERETT, BELLE",Democrat,0,1,,,incumbent state treasurer; paper backs Conner,0.9
+DE,Wilmington Morning News,106950,1962,AUDITOR,,Delaware,DE,"KILLEN, ERNEST E.",Democrat,1,1,,,"Democratic incumbent doesn't deserve another term -- wait, paper says Kellam's mild campaign hasn't convinced them Killen doesn't deserve another term -- so favors Killen",0.85
+DE,Wilmington Morning News,106950,1962,AUDITOR,,Delaware,DE,"KELLAM, RALPH D.",Republican,0,,,,mild-mannered campaign hasn't convinced us Killen doesn't deserve another term,0.8
+DE,Wilmington Morning News,106950,1962,AUDITOR,,Delaware (Insurance Commissioner),DE,"SHORT, ROBERT A.",Republican,1,,,,WARMLY ENDORSED for state insurance commissioner (office not in standard list); marked as AUDITOR placeholder,0.3
+DE,Wilmington Morning News,106950,1962,STATE REP,13,New Castle County 13th District,DE,"TRIBBITT, SHERMAN W.",Democrat,1,1,,,record well above average; Speaker of the House,0.85
+DE,Wilmington Morning News,106950,1962,STATE REP,3,Sussex County 3rd District,DE,"ESKRIDGE, NORMAN E.",Democrat,1,1,,,record well above average,0.85
+DE,Wilmington Morning News,106950,1962,STATE SENATOR,1,Kent County 1st Senatorial District,DE,"PRICE, HENRY T.",Democrat,1,1,,,record well above average,0.85
+DE,Wilmington Morning News,106950,1962,STATE SENATOR,3,New Castle County 3rd Senatorial District,DE,"DU PONT, REYNOLDS",Republican,1,1,,,deserves special recognition,0.9
+DE,Wilmington Morning News,106950,1962,STATE SENATOR,3,Kent County 3rd District,DE,"SIMPSON, WALTON",Republican,1,1,,,deserves special recognition,0.9
+DE,Wilmington Morning News,106950,1962,STATE REP,6,New Castle County 6th District,DE,"BARTLESON, T. LEES",Republican,1,1,,,deserves special recognition,0.9
+DE,Wilmington Morning News,106950,1962,STATE REP,7,New Castle County 7th District,DE,"DOWNS, ROBERT N.",Republican,1,1,,,deserves special recognition,0.9
+DE,Wilmington Morning News,106950,1962,STATE REP,8,New Castle County 8th District,DE,"CASEY, ANDREW J.",Republican,1,1,,,deserves special recognition,0.9
+DE,Wilmington Morning News,106950,1962,STATE REP,2,Kent County 2nd District,DE,"EHINGER, GEORGE",Republican,1,1,,,deserves special recognition,0.9
+DE,Wilmington Morning News,106950,1962,STATE REP,10,Sussex County 10th District,DE,"BEST, WILLIAM T.",Republican,1,1,,,deserves special recognition,0.9
+DE,Wilmington Morning News,106950,1962,STATE SENATOR,5,Sussex County 5th Senatorial District,DE,"BOOKHAMMER, EUGENE",Republican,1,,,,unusually well-qualified candidate,0.92
+DE,Wilmington Morning News,106950,1962,STATE REP,11,New Castle County 11th Representative District,DE,"CORRELL, JACOB A.",Republican,1,,,,pleased to see comeback attempt,0.85
+DE,Wilmington Morning News,106950,1962,STATE SENATOR,1,Wilmington 1st Senatorial District,DE,"LORD, EVELYN",Republican,1,,,,whole-hearted support; admirably equipped to take place of Snowden,0.97
+DE,Wilmington Morning News,106950,1962,STATE SENATOR,1,Wilmington 1st Senatorial District,DE,"SNOWDEN, JAMES H.",Democrat,0,1,,,incumbent Lord seeks to replace,0.85
+DE,Wilmington Morning News,106950,1964,MAYOR,,Wilmington,DE,"LORD, EVELYN M.",Republican,1,,,,a vote for Mrs. Lord is a vote to hold margin to reasonable dimensions and record a protest against one-party rule,0.85
+DE,Wilmington Morning News,106950,1964,MAYOR,,Wilmington,DE,"BABIARZ, JOHN E.",Democrat,0,1,,,first-rate mayor but a vote for Lord is the better choice; paper acknowledges Babiarz virtually certain to win,0.75
+DE,Wilmington Morning News,106950,1964,SENATOR,,Delaware,DE,"WILLIAMS, JOHN J.",Republican,1,1,,,personification of integrity in government; paper urges Delawareans to get out winning vote,0.97
+DE,Wilmington Morning News,106950,1964,SENATOR,,Delaware,DE,"CARVEL, ELBERT N.",Democrat,0,,,,Governor running for Senate; shame would be greater if Williams were loser,0.9
+DE,Wilmington Morning News,106950,1966,STATE REP,13,New Castle 13th District,DE,"STABLER, W. LAIRD JR.",Republican,1,,,,capable and attractive Republican newcomer,0.92
+DE,Wilmington Morning News,106950,1966,STATE REP,6,New Castle 6th District,DE,"CASTLE, MICHAEL N.",Republican,1,,,,capable and attractive Republican newcomer,0.92
+DE,Wilmington Morning News,106950,1966,STATE REP,8,New Castle 8th District,DE,"HERING, GEORGE C. III",Republican,1,,,,capable and attractive Republican newcomer,0.92
+DE,Wilmington Morning News,106950,1966,STATE REP,2,Wilmington 2nd District,DE,"EVANS, RAYMOND T.",Republican,1,,,,could be counted upon to bring comparable skills to the legislature,0.9
+DE,Wilmington Morning News,106950,1966,STATE REP,16,New Castle 16th District (east of Newark),DE,"HART, WILLIAM F.",Republican,1,,,,another newcomer who deserves support,0.92
+DE,Wilmington Morning News,106950,1966,STATE REP,21,New Castle County 21st District,DE,"YOUNG, HARRY H. JR.",Republican,1,,,,warrants support; teacher and Negro community leader,0.9
+DE,Wilmington Morning News,106950,1966,STATE REP,21,New Castle County 21st District,DE,"FERGUSON, JOHN P.",Democrat,0,1,,,incumbent; paper prefers Young,0.8
+DE,Wilmington Morning News,106950,1966,STATE REP,1,Wilmington 1st District,DE,"KEIL, CHARLES K.",Democrat,1,1,,,particularly able legislator,0.92
+DE,Wilmington Morning News,106950,1966,STATE REP,15,Sheridan Square 15th District,DE,"BIFFERATO, VINCENT A.",Democrat,1,1,,,particularly able legislator,0.92
+DE,Wilmington Morning News,106950,1966,STATE REP,35,Georgetown 35th District,DE,"ISAACS, M. MARTIN",Democrat,1,1,,,House majority leader; among most responsible for last session's accomplishments,0.93
+DE,Wilmington Morning News,106950,1966,STATE REP,31,Seaford 31st District,DE,"ESKRIDGE, NORMAN C.",Democrat,1,1,,,deserving of reelection,0.9
+DE,Wilmington Morning News,106950,1966,STATE REP,32,Laurel 32d District,DE,"PHILLIPS, W. HARRISON",Democrat,1,1,,,deserving of reelection (party inferred as D based on context),0.7
+DE,Wilmington Morning News,106950,1966,STATE REP,33,Selbyville 33d District,DE,"HUDSON, MONROE B.",Democrat,1,1,,,deserving of reelection (party inferred),0.65
+DE,Wilmington Morning News,106950,1966,STATE REP,9,Lindamere 9th District,DE,"BARTLESON, T. LEES",Republican,1,1,,,deserving of reelection,0.9
+DE,Wilmington Morning News,106950,1966,STATE REP,14,Newark 14th District,DE,"HALE, EVERETTE",Republican,1,1,,,energetic and articulate Republican minority leader,0.95
+DE,Wilmington Morning News,106950,1966,STATE REP,26,Little Creek 26th District (Kent),DE,"ZIMMERMAN, JACOB",Democrat,1,1,,,outstanding member of 123rd General Assembly; should be returned to office,0.95
+DE,Wilmington Morning News,106950,1966,STATE SENATOR,8,Marshallton 8th Senate District,DE,"MANNING, MARGARET R.",Republican,1,1,,,outstanding record in Dover; should be given another opportunity,0.97
+DE,Wilmington Morning News,106950,1966,STATE SENATOR,,Lewes (Sussex),DE,"BOOKHAMMER, EUGENE D.",Republican,1,1,,,outstanding senator; should go back to Dover,0.95
+DE,Wilmington Morning News,106950,1966,STATE SENATOR,16,16th Senate District,DE,"GRIER, FRANK R.",Republican,1,,,,considered to have a real chance to defeat Hoey; we would like to see that,0.9
+DE,Wilmington Morning News,106950,1966,STATE SENATOR,16,16th Senate District,DE,"HOEY, WALTER J.",Democrat,0,1,,,harder on own party's programs than any other Democrat,0.85
+DE,Wilmington Morning News,106950,1966,STATE SENATOR,6,New Castle County 6th Senate District,DE,"WORK, WILLIAM H. (REV.)",Democrat,1,,,,unlikely to win but district better for his appearance; treated as positive endorsement,0.6
+DE,Wilmington Morning News,106950,1966,CNTY COMM,,New Castle County (County Executive),DE,"CONNER, WILLIAM J.",Republican,1,,,,"Conner for county executive; lawyer, administrator, well qualified",0.97
+DE,Wilmington Morning News,106950,1966,CNTY COMM,,New Castle County (County Executive),DE,"RUSSELL, SAMUEL R.",Democrat,0,,,,worthy candidate but admin experience does not measure up to Conner,0.9
+DE,Wilmington Morning News,106950,1966,H,AL,Delaware At-Large,DE,"ROTH, WILLIAM V. JR.",Republican,1,,,,Republican challenger; better choice; new vigor,0.97
+DE,Wilmington Morning News,106950,1966,H,AL,Delaware At-Large,DE,"MCDOWELL, HARRIS B. JR.",Democrat,0,1,,,incumbent; record of unstinting support for Great Society programs,0.95
+DE,Wilmington Morning News,106950,1968,GOVERNOR,,Delaware,DE,"PETERSON, RUSSELL W.",Republican,1,,,,our choice for governor; man of unusual qualifications and conscience,0.97
+DE,Wilmington Morning News,106950,1968,PRESIDENT,,,DE,"NIXON, RICHARD M.",Republican,1,,,,appears best able to guide the nation; election will neutralize threat from extremism,0.95
+DE,Wilmington Morning News,106950,1968,PRESIDENT,,,DE,"WALLACE, GEORGE C.",Independent,0,,,,American Independent Party; vote for Wallace and LeMay is denial of reason,0.95
+DE,Wilmington Morning News,106950,1968,VICE PRESIDENT,,,DE,"LEMAY, CURTIS E.",Independent,0,,,,American Independent VP; could not govern if elected,0.92
+DE,Wilmington Morning News,106950,1968,H,AL,Delaware At-Large,DE,"ROTH, WILLIAM V. JR.",Republican,1,1,,,showed energy and imagination during first term,0.97
+DE,Wilmington Morning News,106950,1968,CNTY COMM,,New Castle County (County Executive),DE,"CONNER, WILLIAM J.",Republican,1,,,,clearly the better man,0.95
+DE,Wilmington Morning News,106950,1968,MAYOR,,Wilmington,DE,"HASKELL, HARRY G. JR.",Republican,1,,,,close decision over Babiarz; psychological shot in the arm,0.93
+DE,Wilmington Morning News,106950,1968,MAYOR,,Wilmington,DE,"BABIARZ, JOHN E.",Democrat,0,1,,,incumbent; has done a good job but paper backs Haskell,0.88
+DE,Wilmington Morning News,106950,1968,STATE SENATOR,5,5th Senate District,DE,"CONNER, LOUISE",Republican,1,1,,,outstanding Senate candidate,0.92
+DE,Wilmington Morning News,106950,1968,STATE SENATOR,9,9th Senate District,DE,"HART, WILLIAM F.",Republican,1,,,,outstanding Senate candidate,0.9
+DE,Wilmington Morning News,106950,1968,STATE SENATOR,10,10th Senate District,DE,"SLAWIK, MELVIN A.",Democrat,1,,,,outstanding Senate candidate,0.9
+DE,Wilmington Morning News,106950,1968,STATE SENATOR,12,12th Senate District,DE,"HALE, EVERETTE",Republican,1,,,,outstanding Senate candidate,0.9
+DE,Wilmington Morning News,106950,1968,STATE SENATOR,15,15th Senate District,DE,"FOLTZ, ANDY",Republican,1,1,,,outstanding Senate candidate,0.9
+DE,Wilmington Morning News,106950,1968,STATE REP,3,3d District,DE,"EVANS, RAYMOND T.",Republican,1,1,,,class of the field in House,0.92
+DE,Wilmington Morning News,106950,1968,STATE REP,6,6th District,DE,"HERING, GEORGE C. III",Republican,1,1,,,class of the field in House,0.92
+DE,Wilmington Morning News,106950,1968,STATE REP,7,7th District,DE,"REMINGTON, WILLIAM R.",Democrat,1,,,,class of the field in House,0.9
+DE,Wilmington Morning News,106950,1968,STATE REP,13,13th District,DE,"STABLER, W. LAIRD JR.",Republican,1,1,,,class of the field in House,0.92
+DE,Wilmington Morning News,106950,1968,STATE REP,30,30th District,DE,"ZIMMERMAN, JACOB",Democrat,1,1,,,class of the field in House,0.92
+DE,Wilmington Morning News,106950,1968,CITY COUNCIL,,Wilmington Council President,DE,"NOISETTE, RUFFIN N.",Republican,1,,,,should make an excellent president of city council,0.9
+DE,Wilmington Morning News,106950,1968,CITY COUNCIL,AL,Wilmington At-Large,DE,"MEARNS, A. KIRK JR.",Republican,1,,,,councilman-at-large; outstanding,0.9
+DE,Wilmington Morning News,106950,1968,CITY COUNCIL,AL,Wilmington At-Large,DE,"MCLAUGHLIN, WILLIAM T.",Democrat,1,,,,councilman-at-large; outstanding,0.9
+DE,Wilmington Morning News,106950,1968,CITY COUNCIL,AL,Wilmington At-Large,DE,"SILLS, JAMES H. JR.",Democrat,1,,,,councilman-at-large; outstanding,0.9
+DE,Wilmington Morning News,106950,1968,CITY COUNCIL,1,Wilmington 1st District,DE,"STAT, HARRY",Democrat,1,,,,outstanding council candidate,0.9
+DE,Wilmington Morning News,106950,1968,CITY COUNCIL,2,Wilmington 2d District,DE,"MAHONEY, THOMAS C.",Democrat,1,,,,outstanding council candidate,0.9
+DE,Wilmington Morning News,106950,1968,CITY COUNCIL,8,Wilmington 8th District,DE,"JORNLIN, FRANCIS M.",Republican,1,,,,outstanding council candidate,0.9
+DE,Wilmington Morning News,106950,1968,CNTY COMM,,New Castle Cnty Council President,DE,"BUCK, C. DOUGLASS JR.",Republican,1,1,,,done excellent job and should be re-elected,0.92
+DE,Wilmington Morning News,106950,1968,CNTY COMM,1,New Castle Cnty 1st Councilmanic District,DE,"HOLLIS, W. ALVA",Democrat,1,,,,newcomer; well qualified to represent county's 1st councilmanic district,0.9
+DE,Wilmington Morning News,106950,1970,SENATOR,,Delaware,DE,"ROTH, WILLIAM V. JR.",Republican,1,,,,Rep. Roth appears to be ahead; described positively as conservative loyal Republican; paper supports him implicitly though notes differences,0.75
+DE,Wilmington Morning News,106950,1970,H,AL,Delaware At-Large,DE,"DU PONT, PIERRE S. IV",Republican,1,,,,clearly superior to opponent; feel compelled to make a choice,0.97
+DE,Wilmington Morning News,106950,1970,H,AL,Delaware At-Large,DE,"DANIELLO, JOHN D.",Democrat,0,,,,misplaced as candidate for national office,0.92
+DE,Wilmington Morning News,106950,1970,STATE SENATOR,2,2d Senate District,DE,"HOLLOWAY, HERMAN M. SR.",Democrat,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE SENATOR,10,10th Senate District,DE,"SLAWIK, MELVIN A.",Democrat,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE SENATOR,12,12th Senate District,DE,"HALE, EVERETTE",Republican,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,2,2d District,DE,"HEARN, CLIFFORD D. JR.",Democrat,1,1,,,incumbent worthy of election,0.9
+DE,Wilmington Morning News,106950,1970,STATE REP,6,6th District,DE,"HERING, GEORGE C. III",Republican,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,7,7th District,DE,"BERNDT, ROBERT J.",Republican,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,8,8th District,DE,"LESHER, HERBERT A.",Republican,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,23,23d District,DE,"JARVIS, GEORGE",Republican,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,25,25th District,DE,"BILLINGSLEY, JOHN G. S.",Republican,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,26,26th District,DE,"SEIBEL, MARION I.",Republican,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,31,31st District,DE,"MOERSCHEL, W. NEAL",Republican,1,1,,,incumbent worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,13,13th District,DE,"KNOX, ANDREW G.",Republican,1,,,,newcomer worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,10,10th District,DE,"CORY, RUSSELL M.",Democrat,1,,,,newcomer worthy of election,0.92
+DE,Wilmington Morning News,106950,1970,STATE REP,27,27th District,DE,"TRIBBITT, SHERMAN W.",Democrat,1,,,,familiar public figure back in action,0.92
+DE,Wilmington Morning News,106950,1970,CNTY COMM,6,New Castle County Council 6th District,DE,"WELDON, RICHARD B.",Republican,1,,,,worthy of election,0.9
+DE,Wilmington Morning News,106950,1970,CITY COUNCIL,1,Wilmington City Council 1st District,DE,"SNOWDEN, JAMES H.",Republican,1,,,,worthy of election,0.9
+DE,Wilmington Morning News,106950,1972,GOVERNOR,,Delaware,DE,"PETERSON, RUSSELL W.",Republican,1,1,,,enthusiastically support for election,0.97
+DE,Wilmington Morning News,106950,1972,MAYOR,,Wilmington,DE,"HASKELL, HARRY G. JR.",Republican,1,1,,,enthusiastically support for election,0.97
+DE,Wilmington Morning News,106950,1972,PRESIDENT,,,DE,"NIXON, RICHARD M.",Republican,0,1,,,impossible to support Nixon for re-election given editorial opposition,0.85
+DE,Wilmington Morning News,106950,1972,PRESIDENT,,,DE,"MCGOVERN, GEORGE",Democrat,0,,,,inability to define issues does not recommend him for support,0.85
+DE,Wilmington Morning News,106950,1972,SENATOR,,Delaware,DE,"BOGGS, J. CALEB",Republican,0,1,,,fine public servant but paper does not share his Nixonian view; no enthusiastic endorsement,0.6
+DE,Wilmington Morning News,106950,1972,SENATOR,,Delaware,DE,"BIDEN, JOSEPH R. JR.",Democrat,0,,,,more of an enigma; little is known about the man; no public/private record of achievement,0.85
+DE,Wilmington Morning News,106950,1972,H,AL,Delaware At-Large,DE,"DU PONT, PIERRE S. IV",Republican,0,1,,,fine public servant but paper does not share his Nixonian view; no enthusiastic endorsement,0.6
+DE,Wilmington Morning News,106950,1972,H,AL,Delaware At-Large,DE,"HANDLOFF, NORMA",Democrat,0,,,,excellent record as small-town mayor but unable to get campaign moving,0.85
+DE,Wilmington Morning News,106950,1972,STATE SENATOR,1,1st Senate District,DE,"CASTLE, MICHAEL N.",Republican,1,1,,,recommends himself for support,0.95
+DE,Wilmington Morning News,106950,1972,STATE SENATOR,4,4th Senate District,DE,"BERNDT, ROBERT J.",Republican,1,,,,former state representative; recommends himself for support,0.95
+DE,Wilmington Morning News,106950,1972,STATE SENATOR,7,7th Senate District,DE,"DU PONT, REYNOLDS",Republican,1,1,,,Senate president pro tem,0.92
+DE,Wilmington Morning News,106950,1972,STATE SENATOR,7,7th Senate District,DE,"THOMAS, JOHN C.",Democrat,1,,,,recommends himself for support (both 7th District candidates endorsed -- unusual),0.85
+DE,Wilmington Morning News,106950,1972,STATE SENATOR,9,9th Senate District,DE,"JARVIS, GEORGE",Republican,1,,,,former state representative,0.95
+DE,Wilmington Morning News,106950,1972,STATE SENATOR,8,8th Senate District,DE,"MANNING, MARGARET R.",Republican,1,1,,,recommends herself for support,0.95
+DE,Wilmington Morning News,106950,1972,STATE SENATOR,10,10th Senate District,DE,"HALE, EVERETTE",Republican,1,1,,,recommends himself for support,0.95
+DE,Wilmington Morning News,106950,1972,STATE SENATOR,17,17th Senate District,DE,"ZIMMERMAN, JACOB W.",Democrat,1,,,,recommends himself for support,0.95
+DE,Wilmington Morning News,106950,1972,STATE SENATOR,19,19th Senate District,DE,"ADAMS, THURMAN G.",Democrat,1,,,,recommends himself for support,0.95
+DE,Wilmington Morning News,106950,1972,STATE REP,1,1st House District,DE,"JUSTICE, KERMIT H.",Republican,1,1,,,recommends himself for support,0.85
+DE,Wilmington Morning News,106950,1972,STATE REP,1,1st House District,DE,"CZAJKOWSKI, STANLEY T.",Democrat,1,,,,recommends himself for support,0.85
+DE,Wilmington Morning News,106950,1972,STATE REP,10,10th House District,DE,"WEISS, DANIEL E.",Republican,1,1,,,recommends himself for support,0.92
+DE,Wilmington Morning News,106950,1972,STATE REP,11,11th House District,DE,"SINCOCK, RICHARD",Republican,1,,,,recommends himself for support,0.92
+DE,Wilmington Morning News,106950,1972,STATE REP,11,11th House District,DE,"HOROWITZ, SHIRLEY C.",Democrat,1,,,,recommends herself for support,0.92
+DE,Wilmington Morning News,106950,1972,STATE REP,13,13th House District,DE,"KNOX, ANDREW",Republican,1,1,,,incumbent worthy of support,0.92
+DE,Wilmington Morning News,106950,1972,STATE REP,25,25th House District,DE,"BILLINGSLEY, JOHN G. S.",Republican,1,1,,,incumbent worthy of support,0.92
+DE,Wilmington Morning News,106950,1972,STATE REP,26,26th House District,DE,"SEIBEL, MARION I.",Republican,1,1,,,incumbent worthy of support,0.92
+DE,Wilmington Morning News,106950,1972,STATE REP,27,27th House District,DE,"WORTHEN, SANDRA S.",Democrat,1,,,,worthy of support,0.92
+DE,Wilmington Morning News,106950,1972,STATE REP,31,31st House District,DE,"DOBBERSTEIN, ARTHUR W.",Republican,1,1,,,incumbent worthy of support,0.92
+DE,Wilmington Morning News,106950,1972,STATE REP,31,31st House District,DE,"GRUWELL, HUDSON E.",Democrat,1,1,,,incumbent worthy of support,0.92
+DE,Wilmington Morning News,106950,1972,STATE REP,36,36th House District,DE,"HARRINGTON, LEWIS B.",Democrat,1,1,,,incumbent worthy of support,0.92
+DE,Wilmington Morning News,106950,1972,CNTY COMM,,New Castle County Council President,DE,"FOLSOM, HENRY R. JR.",,1,,,,outstanding councilman; should be elected to new president role,0.88
+DE,Wilmington Morning News,106950,1972,CNTY COMM,3,New Castle County Council 3d District,DE,"PARKE, LOIS M.",Republican,1,,,,supported,0.9
+DE,Wilmington Morning News,106950,1972,CNTY COMM,3,New Castle County Council 3d District,DE,"NEWLON, JAY O.",Democrat,1,,,,supported (both 3d District candidates endorsed),0.85
+DE,Wilmington Morning News,106950,1972,CNTY COMM,5,New Castle County Council 5th District,DE,"COOKE, WILLIAM P.",Republican,1,,,,supported,0.9
+DE,Wilmington Morning News,106950,1972,CNTY COMM,5,New Castle County Council 5th District,DE,"EAGAN, J. MICHAEL",Democrat,1,,,,supported (both 5th District candidates endorsed; party inferred),0.75
+DE,Wilmington Morning News,106950,1972,CNTY COMM,6,New Castle County Council 6th District,DE,"TONER, JOSEPH F.",Democrat,1,1,,,Democratic incumbent supported,0.92
+DE,Wilmington Morning News,106950,1972,CITY COUNCIL,AL,Wilmington At-Large,DE,"MCLAUGHLIN, WILLIAM T.",Democrat,1,1,,,outstanding candidate for council; running at large,0.95
+DE,Wilmington Morning News,106950,1972,CITY COUNCIL,2,Wilmington 2d District,DE,"WELSH, PAUL P.",Republican,1,,,,worthy of support,0.9
+DE,Wilmington Morning News,106950,1972,CITY COUNCIL,2,Wilmington 2d District,DE,"GEORGE, ORLANDO J. JR.",Democrat,1,,,,worthy of support (both 2d District endorsed),0.85
+DE,Wilmington Morning News,106950,1972,CITY COUNCIL,3,Wilmington 3d District,DE,"BAKER, RUTH A.",Republican,1,,,,worthy of support,0.92
+DE,Wilmington Morning News,106950,1972,CITY COUNCIL,7,Wilmington 7th District,DE,"HACKENDORN, MARIE B.",Republican,1,,,,worthy of support,0.92
+DE,Wilmington Morning News,106950,1972,CITY COUNCIL,8,Wilmington 8th District,DE,"DIPINTO, JOSEPH G.",Republican,1,,,,worthy of support,0.9
+DE,Wilmington Morning News,106950,1972,CITY COUNCIL,8,Wilmington 8th District,DE,"CASSIDY, LEE M.",Democrat,1,,,,worthy of support (both 8th District endorsed),0.85
+DE,Wilmington Morning News,106950,1972,CITY COUNCIL,,Wilmington Council President,DE,"HUGHES, P. EDWARD",Republican,1,,,,council and city would benefit by election,0.92
+DE,Wilmington Morning News,106950,1974,STATE SENATOR,2,2d Senate District (Wilmington),DE,"HOLLOWAY, HERMAN M. SR.",Democrat,1,1,,,deserves to be re-elected,0.95
+DE,Wilmington Morning News,106950,1974,STATE SENATOR,4,4th Senate District,DE,"BERNDT, ROBERT J.",Republican,1,1,,,clearly merits another term,0.95
+DE,Wilmington Morning News,106950,1974,STATE SENATOR,7,7th Senate District,DE,"KNOX, ANDREW G.",Republican,1,,,,obviously worthy of election - Democrats offered no opponent,0.95
+DE,Wilmington Morning News,106950,1974,STATE SENATOR,18,18th Senate District (Kent),DE,"MURPHY, WILLIAM M. JR.",Democrat,1,1,,,energetic young Democrat with impressive record,0.95
+DE,Wilmington Morning News,106950,1974,STATE SENATOR,19,19th Senate District (Sussex),DE,"ADAMS, THURMAN JR.",Democrat,1,1,,,energetic young Democrat with impressive record,0.95
+DE,Wilmington Morning News,106950,1974,STATE REP,11,11th House District,DE,"SINCOCK, RICHARD",Republican,1,1,,,claim to re-election substantiated by lack of opposition,0.95
+DE,Wilmington Morning News,106950,1974,STATE REP,26,26th House District,DE,"SEIBEL, MARION I.",Republican,1,1,,,record of service deserves the reward of re-election,0.95
+DE,Wilmington Morning News,106950,1974,STATE REP,27,27th House District,DE,"WORTHEN, SANDRA",Democrat,1,1,,,record of service deserves the reward of re-election,0.95
+DE,Wilmington Morning News,106950,1974,STATE REP,32,32nd House District,DE,"MCGINNIS, JAMES D.",Democrat,1,1,,,record of service deserves the reward of re-election,0.95
+DE,Wilmington Morning News,106950,1974,STATE REP,4,4th House District (Wilmington),DE,"MYERS, DORIS B.",Republican,1,,,,welcome alternative to lackluster Rispoli,0.95
+DE,Wilmington Morning News,106950,1974,STATE REP,4,4th House District (Wilmington),DE,"RISPOLI, MARCELLO",Democrat,0,1,,,lackluster record,0.9
+DE,Wilmington Morning News,106950,1974,STATE REP,34,34th House District (Kent),DE,"DUTTON, THOMAS",Republican,1,,,,deserves the nod over incumbent,0.93
+DE,Wilmington Morning News,106950,1974,STATE REP,34,34th House District (Kent),DE,"MORRIS, J. EDWARD",Democrat,0,1,,,Republican Dutton deserves the nod over this incumbent,0.88
+DE,Wilmington Morning News,106950,1974,STATE REP,28,28th House District,DE,"CAIN, GERARD A.",Democrat,1,,,,best fill seat vacated by Republican Kirk,0.93
+DE,Wilmington Morning News,106950,1974,H,AL,Delaware At-Large,DE,"DU PONT, PIERRE S. IV",Republican,1,1,,,"rounding out as mature, experienced and responsible congressman; should be returned to Washington",0.97
+DE,Wilmington Morning News,106950,1974,H,AL,Delaware At-Large,DE,"SOLES, JAMES R. JR.",Democrat,0,,,,campaign quality has suffered; attacks on du Pont irrelevant,0.92
+DE,Wilmington Morning News,106950,1974,AUDITOR,,Delaware (Insurance Commissioner),DE,"SHORT, ROBERT A.",Republican,1,1,,,eminently deserves to be re-elected as insurance commissioner; office not in standard list - mapped to AUDITOR as closest fit; cleaned up the mess,0.6
+DE,Wilmington Morning News,106950,1974,AUDITOR,,Delaware (Insurance Commissioner),DE,"SMITH, HARRY",Democrat,0,,,,'Landslide Harry'; 12 years has not made him any better,0.6
+DE,Wilmington Morning News,106950,1974,CNTY COMM,5,New Castle County Council 5th District,DE,"COOKE, WILLIAM P.",Republican,1,1,,,"solid, perceptive, vigorous councilman; deserves re-election",0.97
+DE,Wilmington Morning News,106950,1974,CNTY COMM,5,New Castle County Council 5th District,DE,"AGOSTINI, CARL A.",Democrat,0,,,,young lawyer spending a lot of money from builders/developers,0.92
+DE,Wilmington Morning News,106950,1974,CNTY COMM,5,Sussex County Council 5th District,DE,"CHANDLER, WILLIAM B.",,1,1,,,long record of service; should be extended; party not stated in clipping,0.85
+DE,Wilmington Morning News,106950,1976,STATE SENATOR,15,15th Senatorial District (Wilmington area),DE,"SPENCE, WINIFRED",Republican,1,,,,Rep. Spence would do whole state a favor by replacing pres pro tem J. Donald Isaacs,0.95
+DE,Wilmington Morning News,106950,1976,STATE SENATOR,15,15th Senatorial District,DE,"ISAACS, J. DONALD",Democrat,0,1,,,"president pro tem of Senate; arrogance, personal ambition and political switch-hitting are legendary; paper urges his removal",0.95
+DE,Wilmington Morning News,106950,1976,STATE SENATOR,1,1st Senatorial District (New Castle Cnty),DE,"JUSTICE, KERMIT H.",Democrat,1,,,,former Rep who served with distinction; worthy successor to retiring Sen. Mike Castle,0.92
+DE,Wilmington Morning News,106950,1976,STATE SENATOR,6,6th Senatorial District (Wilmington west side),DE,"WEISS, DANIEL E.",,1,,,,unopposed; welcome addition to Senate in view of his excellent previous service,0.88
+DE,Wilmington Morning News,106950,1976,STATE SENATOR,10,10th Senatorial District (Newark area),DE,"HALE, EVERETTE",,1,1,,,"served the 10th district well, deserves to continue his long service",0.9
+DE,Wilmington Morning News,106950,1976,STATE SENATOR,12,12th Senatorial District,DE,"NOLAN, ROBERT J.",,1,,,,voters have opportunity to replace venerable Calvin R. McCullough with Robert J. Nolan,0.92
+DE,Wilmington Morning News,106950,1976,STATE SENATOR,12,12th Senatorial District,DE,"MCCULLOUGH, CALVIN R.",,0,1,,,has overstayed his period of usefulness to Senate and state by some years,0.92
+DE,Wilmington Morning News,106950,1976,STATE SENATOR,,Senate (Democratic majority whip district),DE,"KEARNS, FRANCIS J.",Democrat,1,1,,,"majority whip in the Senate, would continue to represent his district well",0.88
+DE,Wilmington Morning News,106950,1976,STATE SENATOR,20,20th Senatorial District (downstate),DE,"CORDREY, RICHARD J.",Democrat,1,1,,,has given Democratic majority some of its better leadership; could continue to be an asset,0.95
+DE,Wilmington Morning News,106950,1976,STATE REP,2,Wilmington 2nd District,DE,"PLANT, AL O.",Democrat,1,1,,,most vocal and vigorous of the black members; unopposed,0.85
+DE,Wilmington Morning News,106950,1976,STATE REP,6,Wilmington 6th District,DE,"BRADY, THOMAS E.",Republican,1,1,,,named in special election; proved unusually able legislator; reverse previous position and urge re-election,0.95
+DE,Wilmington Morning News,106950,1976,STATE REP,11,Brandywine Hundred 11th District,DE,"SINCOCK, RICHARD R.",,1,,,,stands out as particularly qualified leader,0.93
+DE,Wilmington Morning News,106950,1976,STATE REP,,Brandywine Hundred,DE,"HEBNER, CHARLES L. (CHUCK)",,1,,,,also a standout in Brandywine Hundred,0.92
+DE,Wilmington Morning News,106950,1976,STATE REP,13,Christina Hundred 13th District,DE,"MCKAY, JOHN P.",,1,,,,13th district would do well to return John P. McKay,0.92
+DE,Wilmington Morning News,106950,1976,STATE REP,14,14th District,DE,"MAXWELL, ROBERT L.",Democrat,1,1,,,incumbent Democrat - one of enviable choice between him and Farnan,0.5
+DE,Wilmington Morning News,106950,1976,STATE REP,14,14th District,DE,"FARNAN, JOSEPH J. JR.",Republican,1,,,,"the 14th has enviable choice between incumbent Maxwell and Farnan - both named positively, no clear single pick",0.5
+DE,Wilmington Morning News,106950,1976,STATE REP,16,16th District,DE,"KELLY, DANIEL A.",,1,1,,,recommend incumbent Daniel A. Kelly,0.95
+DE,Wilmington Morning News,106950,1976,STATE REP,17,17th District,DE,"SIPPLE, HARRY M.",,1,,,,to replace John Matushefske who represented 17th without distinction,0.93
+DE,Wilmington Morning News,106950,1976,STATE REP,17,17th District,DE,"MATUSHEFSKE, JOHN",,0,1,,,represented the 17th district without distinction,0.9
+DE,Wilmington Morning News,106950,1976,STATE REP,20,20th District,DE,"HEIN, ERIK",,1,,,,Erik Hein to replace John P. Ferguson in the 20th,0.92
+DE,Wilmington Morning News,106950,1976,STATE REP,20,20th District,DE,"FERGUSON, JOHN P.",,0,1,,,incumbent paper wants replaced by Hein,0.88
+DE,Wilmington Morning News,106950,1976,STATE REP,24,24th District,DE,"LEGATES, RICHARD B.",,1,,,,labor unionist with strong record as environmentalist; gets the nod in the 24th,0.95
+DE,Wilmington Morning News,106950,1976,STATE REP,25,25th District (Newark),DE,"BILLINGSLEY, JOHN G.S.",Republican,1,1,,,"fiercely independent Republican, represented district well since 1969; one of two top-flight choices - paper says lucky Newarkers can't go wrong",0.7
+DE,Wilmington Morning News,106950,1976,STATE REP,25,25th District (Newark),DE,"BROWN, C. HAROLD",,1,,,,head of division of urban affairs at U Delaware; unusually qualified challenger; one of two top-flight choices,0.7
+DE,Wilmington Morning News,106950,1976,STATE REP,27,27th District,DE,"WORTHEN, SANDRA D.",,1,1,,,27th district can't go wrong returning her; played constructive role with excellent background in government and public affairs,0.95
+DE,Wilmington Morning News,106950,1976,STATE REP,36,Sussex County 36th District,DE,"BURRIS, JOHN M.",,1,,,,businessman offers inviting alternative to Rep. Lewis B. Harrington,0.93
+DE,Wilmington Morning News,106950,1976,STATE REP,36,Sussex County 36th District,DE,"HARRINGTON, LEWIS B.",,0,1,,,incumbent paper urges replacing with Burris,0.88
+DE,Wilmington Morning News,106950,1976,STATE REP,38,38th District,DE,"LLOYD, RAYMOND W.",,1,,,,former county agent and poultry expert; has background to contribute more than 38th incumbent Clendaniel,0.93
+DE,Wilmington Morning News,106950,1976,STATE REP,38,38th District,DE,"CLENDANIEL, HOWARD A.",,0,1,,,incumbent paper believes Lloyd has more to contribute,0.88
+DE,Wilmington Morning News,106950,1976,MAYOR,,Wilmington,DE,"MCLAUGHLIN, WILLIAM T.",Democrat,1,,,,12 years on city council; 9 years chair of finance committee; better qualified of two major candidates; best hope for continuing steady progress,0.97
+DE,Wilmington Morning News,106950,1976,MAYOR,,Wilmington,DE,"BATTAGLIA, BASIL",Republican,0,,,,summary - less qualified than McLaughlin,0.92
+DE,Wilmington Morning News,106950,1976,SENATOR,,Delaware,DE,"ROTH, WILLIAM V. JR.",Republican,1,1,,,"grown in stature and effectiveness; effective minority legislator on sunshine/sunset, budget reform, War Powers Act, college tax credit",0.97
+DE,Wilmington Morning News,106950,1976,SENATOR,,Delaware,DE,"MALONEY, THOMAS C.",Democrat,0,,,,Wilmington mayor; has not successfully challenged Sen. Roth's record,0.93
+DE,Wilmington Morning News,106950,1976,H,AL,Delaware At-Large,DE,"EVANS, THOMAS B. JR.",Republican,1,,,,"prefer his views on restraint in spending, job development in private sector; worthy and effective successor to du Pont seat",0.97
+DE,Wilmington Morning News,106950,1976,H,AL,Delaware At-Large,DE,"SHIPLEY, SAMUEL L.",Democrat,0,,,,swallowed Democratic platform virtually whole; more federal spending means more inflation,0.93
+DE,Wilmington Morning News,106950,1976,GOVERNOR,,Delaware,DE,"DU PONT, PIERRE S. IV",Republican,1,,,,would give Delaware leadership it so sorely needs; commend him to Delaware voters,0.97
+DE,Wilmington Morning News,106950,1976,GOVERNOR,,Delaware,DE,"TRIBBITT, SHERMAN W.",Democrat,0,1,,,"demonstrated incompetent, fumbling administrator; mis-governed Delaware for four long years",0.97
+DE,Wilmington Morning News,106950,1976,PRESIDENT,,United States,DE,"FORD, GERALD R.",Republican,1,1,,,summary endorsement,0.97
+DE,Wilmington Morning News,106950,1976,PRESIDENT,,United States,DE,"CARTER, JAMES EARL",Democrat,0,,,,carries heavy baggage of Democratic platform; heavy government spending would risk double-digit inflation,0.95
+DE,Wilmington Morning News,106950,1976,MAYOR,,Wilmington,DE,"WALKER, JESSE",Wilmington Party,0,,,,Rev. Jesse Walker of Wilmington Party; less qualified than McLaughlin,0.85
+DE,Wilmington Morning News,106950,1978,SENATOR,,Delaware,DE,"BIDEN, JOSEPH R. JR.",Democrat,1,1,,,"discerning, independent record; served his state and nation well",0.97
+DE,Wilmington Morning News,106950,1978,SENATOR,,Delaware,DE,"BAXTER, JAMES H.",Republican,0,,,,attacked Biden chiefly on peripheral issues; campaign lacks substance,0.92
+DE,Wilmington Morning News,106950,1978,H,AL,Delaware At-Large,DE,"EVANS, THOMAS B.",Republican,1,1,,,remarkably successful record for first-term minority congressman; deserves re-election,0.97
+DE,Wilmington Morning News,106950,1978,H,AL,Delaware At-Large,DE,"HINDES, GARY",Democrat,0,,,,offers no effective alternative,0.9
+DE,Wilmington Morning News,106950,1978,ATTORNEY GENERAL,,Delaware,DE,"GEBELEIN, RICHARD S.",Republican,1,,,,voters can restore some order to law enforcement by electing him,0.97
+DE,Wilmington Morning News,106950,1978,ATTORNEY GENERAL,,Delaware,DE,"WIER, RICHARD R. JR.",Democrat,0,1,,,"Department of Justice revealed a kind of low-comedy circus; poor administration, headline hunting and politicking",0.95
+DE,Wilmington Morning News,106950,1978,TREASURER,,Delaware,DE,"CARPER, THOMAS R.",Democrat,1,1,,,served well in key state office; recommended for new term,0.95
+DE,Wilmington Morning News,106950,1978,AUDITOR,,Delaware,DE,"COLLINS, RICHARD T.",Republican,1,1,,,served well in key state office; recommended for new term,0.95
+DE,Wilmington Morning News,106950,1978,STATE SENATOR,4,Delaware 4th Senatorial District,DE,"BERNDT, ROBERT J.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE SENATOR,14,Delaware 14th Senatorial District,DE,"MARTIN, ROGER A.",Democrat,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE SENATOR,5,Delaware 5th Senatorial District,DE,"HUGHES, CHARLES E.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,1,Delaware 1st District,DE,"GEORGE, ORLANDO J.",Democrat,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,2,Delaware 2d District,DE,"FREE, KEVIN",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,5,Delaware 5th District,DE,"IVANITCH, NICHOLAS J.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,6,Delaware 6th District,DE,"BRADY, THOMAS E. JR.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,7,Delaware 7th District,DE,"AMBROSINO, JOSEPH P.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,8,Delaware 8th District,DE,"EDWARDS, JAMES F.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,14,Delaware 14th District,DE,"MAXWELL, ROBERT L.",Democrat,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,16,Delaware 16th District,DE,"VAN SCIVER, DONALD J.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,17,Delaware 17th District,DE,"SIPPLE, HENRY M.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,22,Delaware 22d District,DE,"ROY, ROGER P.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,23,Delaware 23d District,DE,"LYNCH, JOHN F.",Democrat,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,25,Delaware 25th District,DE,"KOCH, RICHARD R.",Democrat,1,,,,support listed (paper supports both candidates in this race),0.85
+DE,Wilmington Morning News,106950,1978,STATE REP,25,Delaware 25th District,DE,"NEAL, JAMES P.",Republican,1,,,,support listed (paper supports both candidates in this race),0.85
+DE,Wilmington Morning News,106950,1978,STATE REP,27,Delaware 27th District,DE,"LINDELL, RANDOLPH III",Democrat,1,,,,support listed (both candidates supported),0.85
+DE,Wilmington Morning News,106950,1978,STATE REP,27,Delaware 27th District,DE,"PETRILLI, JOSEPH R.",Republican,1,,,,support listed (both candidates supported),0.85
+DE,Wilmington Morning News,106950,1978,STATE REP,29,Delaware 29th District,DE,"BRADY, WILLIAM H. II",Democrat,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,31,Delaware 31st District,DE,"MILLER, KAREN JENNINGS",Democrat,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,32,Delaware 32d District,DE,"BENNETT, EDWARD J.",Democrat,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,36,Delaware 36th District,DE,"BURRIS, JOHN M.",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1978,STATE REP,37,Delaware 37th District,DE,"VERNON, WILLIAM H.",Republican,1,,,,support listed (both candidates supported),0.85
+DE,Wilmington Morning News,106950,1978,STATE REP,37,Delaware 37th District,DE,"MCGROERTY, MICHAEL F.",Democrat,1,,,,support listed (both candidates supported),0.85
+DE,Wilmington Morning News,106950,1978,STATE REP,40,Delaware 40th District,DE,"NORTHAM, WILLIAM JACK",Republican,1,,,,support listed,0.92
+DE,Wilmington Morning News,106950,1980,MAYOR,,Wilmington,DE,"MCLAUGHLIN, WILLIAM T.",Democrat,1,1,,,McLaughlin record is simply too formidable; our endorsement for mayor,0.97
+DE,Wilmington Morning News,106950,1980,MAYOR,,Wilmington,DE,"HAWKINS, JOHN",Republican,0,,,,newcomer with no record; has not offered substantial reason to turn out incumbent,0.95
+DE,Wilmington Morning News,106950,1980,CNTY COMM,,New Castle County Executive,DE,"FARLEY, JOSEPH P.",Democrat,1,,,,intimately familiar with problems of NCC residents; clearly has the edge on grasp of issues,0.97
+DE,Wilmington Morning News,106950,1980,CNTY COMM,,New Castle County Executive,DE,"COLLINS, RICHARD T.",Republican,0,,,,state auditor; would need months to become familiar with job and issues,0.95
+DE,Wilmington Morning News,106950,1980,CITY COUNCIL,,New Castle County Council President,DE,"PARKE, LOIS M.",Republican,1,1,,,8 years on council; thoroughly understands problems; experience and grasp,0.97
+DE,Wilmington Morning News,106950,1980,CITY COUNCIL,,New Castle County Council President,DE,"PETERSON, KAREN",Democrat,0,,,,keen mind and understanding but Parke has experience edge,0.9
+DE,Wilmington Morning News,106950,1980,GOVERNOR,,Delaware,DE,"DU PONT, PIERRE S. IV",Republican,1,1,,,"led state well; sound financial base, income tax cut, judicial screening committee, prison health reform, Chrysler loan; deserves another term",0.97
+DE,Wilmington Morning News,106950,1980,GOVERNOR,,Delaware,DE,"GORDY, WILLIAM",Democrat,0,,,,reluctant dragon Democrat; backtracked on positions held firmly for years,0.9
+DE,Wilmington Morning News,106950,1980,LT GOVERNOR,,Delaware,DE,"CASTLE, MICHAEL N.",Republican,1,,,,summary endorsement,0.97
+DE,Wilmington Morning News,106950,1980,LT GOVERNOR,,Delaware,DE,"SHARP, THOMAS B.",Democrat,0,,,,campaign of quality but paper believes LG should share governor's party,0.9
+DE,Wilmington Morning News,106950,1980,TREASURER,,Delaware,DE,"CARPER, THOMAS C.",Democrat,1,1,,,served the state well; deserves another term,0.97
+DE,Wilmington Morning News,106950,1980,TREASURER,,Delaware,DE,"JANKUS, LYNN",Republican,0,,,,offered no convincing arguments to cast Carper out,0.93
+DE,Wilmington Morning News,106950,1980,AUDITOR,,Delaware,DE,"GREENHOUSE, DENNIS E.",Democrat,1,,,,clear edge; familiarity with financial and budgetary matters,0.97
+DE,Wilmington Morning News,106950,1980,AUDITOR,,Delaware,DE,"SPRUANCE, THOMAS W.",Republican,0,,,,bank officer; close political association with current auditor Collins; no real experience,0.93
+DE,Wilmington Morning News,106950,1980,PRESIDENT,,United States,DE,"CARTER, JIMMY",Democrat,1,1,,,summary endorsement,0.97
+DE,Wilmington Morning News,106950,1980,H,AL,Delaware At-Large,DE,"EVANS, THOMAS B. JR.",Republican,1,1,,,summary endorsement,0.97
+DE,Wilmington Morning News,106950,1980,INSURANCE COMMISSIONER,,Delaware,DE,"HADDAWAY, ROBERT DU",Democrat,0,,,,[QA fix] Paper criticized but did not endorse; endorsed=0,0.7
+DE,Wilmington Morning News,106950,1984,PRESIDENT,,United States,DE,"MONDALE, WALTER",Democrat,1,,,,candid difficult proposals to deal with deficits; impeccable record in civil and human rights; sound ideas for re-establishing US as moral leader,0.97
+DE,Wilmington Morning News,106950,1984,PRESIDENT,,United States,DE,"REAGAN, RONALD",Republican,0,1,,,uninformed on vital questions; acted insensitively on social issues; incorrectly trying to solve economic problems,0.97
+DE,Wilmington Morning News,106950,1984,GOVERNOR,,Delaware,DE,"CASTLE, MICHAEL N.",Republican,1,,,,Lt. Gov.; four years as LG and lengthy legislative experience give him skills more suited to office of governor,0.97
+DE,Wilmington Morning News,106950,1984,GOVERNOR,,Delaware,DE,"QUILLEN, WILLIAM T.",Democrat,0,,,,distinguished record on bench and business but Castle preferred,0.92
+DE,Wilmington Morning News,106950,1984,LT GOVERNOR,,Delaware,DE,"ROBINSON, BATTLE RANKIN",Republican,1,,,,"Castle's running mate; if you support Castle, elect Robinson",0.85
+DE,Wilmington Morning News,106950,1984,LT GOVERNOR,,Delaware,DE,"WOO, S.B.",Democrat,0,,,,if you think Quillen should be governor vote for Woo - paper supports Castle ticket,0.8
+DE,Wilmington Morning News,106950,1984,H,AL,Delaware At-Large,DE,"CARPER, THOMAS R.",Democrat,1,1,,,earned the right to return to Washington; served as well as any freshman; bucked party leadership on occasions,0.95
+DE,Wilmington Morning News,106950,1984,H,AL,Delaware At-Large,DE,"DU PONT, ELISE R.W.",Republican,0,,,,"disorganized, insensitive campaign; provided no substantial reasons to turn out incumbent",0.95
+DE,Wilmington Morning News,106950,1984,CNTY COMM,,New Castle County Executive,DE,"TONER, JOSEPH F.",Democrat,0,,,,no persuasive arguments for election; no endorsement,0.85
+DE,Wilmington Morning News,106950,1984,CNTY COMM,,New Castle County Executive,DE,"JUSTICE, RITA",Republican,0,,,,no persuasive arguments for election; no endorsement,0.85
+DE,Wilmington Morning News,106950,1984,MAYOR,,Wilmington,DE,"FRAWLEY, DANIEL F.",Democrat,1,,,,city councilman; urge his election as mayor,0.97
+DE,Wilmington Morning News,106950,1984,MAYOR,,Wilmington,DE,"BURAWSKI, DONALD",Republican,0,,,,entered race late; lack of knowledge and experience; no match for Frawley,0.93
+DE,Wilmington Morning News,106950,1984,CITY COUNCIL,,Wilmington City Council President,DE,"BAKER, JAMES M.",Democrat,1,,,,12 years on council; leader in black community; would give majority of Wilmington citizens long-overdue voice at highest levels of city government,0.97
+DE,Wilmington Morning News,106950,1984,CITY COUNCIL,,Wilmington City Council President,DE,"JAMESON, JORENE",Republican,0,,,,extensive experience in public sector; preferred Baker,0.9
+DE,Wilmington Morning News,106950,1984,STATE SENATOR,,Windy Hills,DE,"MARTIN, ROGER A.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Wilmington,DE,"FREE, KEVIN",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Indian Field,DE,"HEBNER, CHARLES",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Talleyville,DE,"MARONEY, JANE P.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Tybrook,DE,"CORROZI, PHILLIP J.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Heritage Park,DE,"MECONI, VINCENT P.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Newark,DE,"PETRILLI, JOSEPH R.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Scottfield,DE,"OBERLE, WILLIAM A. JR.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Robscott Manor,DE,"ANDERSON, MARIAN P.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Dover,DE,"OUTTEN, STUART",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Rehoboth Beach,DE,"WINGATE, JAY D.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Seaford,DE,"FALLON, EVELYN K.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Redding,DE,"CLENDANIEL, HOWARD A.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1984,STATE REP,,Gumboro,DE,"JEFFERSON, OTIS P.",Republican,1,,,,support listed in Gumboro,0.92
+DE,Wilmington Morning News,106950,1984,AUDITOR,,Delaware (Insurance Commissioner),DE,"LEVINSON, DAVID N.",Democrat,1,,,,"Insurance Commissioner race - lawyer/businessman of proven ability, clearly better candidate; office not in standard list, placeholder",0.4
+DE,Wilmington Morning News,106950,1984,AUDITOR,,Delaware (Insurance Commissioner),DE,"ELLIOTT, DAVID H.",Republican,0,1,,,"incompetence and insensitivity; not in standard list, placeholder",0.4
+DE,Wilmington Morning News,106950,1986,H,AL,Delaware At-Large,DE,"CARPER, THOMAS R.",Democrat,1,1,,,best choice by far; grown in knowledge and confidence; bucks party leadership when necessary,0.97
+DE,Wilmington Morning News,106950,1986,ATTORNEY GENERAL,,Delaware,DE,"WINSLOW, J. DALLAS",Republican,1,,,,presented sound case for change,0.95
+DE,Wilmington Morning News,106950,1986,ATTORNEY GENERAL,,Delaware,DE,"OBERLY, CHARLES M. III",Democrat,0,1,,,sloppy ill-advised comments; demonstrated arrogance not to be tolerated in top law enforcement officer,0.95
+DE,Wilmington Morning News,106950,1986,TREASURER,,Delaware,DE,"RZEWNICKI, JANET C.",Republican,1,1,,,administered office in competent and creative way; deserves re-election,0.97
+DE,Wilmington Morning News,106950,1986,AUDITOR,,Delaware,DE,"GREENHOUSE, DENNIS E.",Democrat,1,1,,,solid workmanlike job; refrained from using position for partisan advantage; deserves second term,0.97
+DE,Wilmington Morning News,106950,1986,STATE SENATOR,,Millsboro,DE,"CORDREY, RICHARD S.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE SENATOR,,Kenton,DE,"COOK, NANCY W.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE SENATOR,,Arundel,DE,"REARDON, JOSEPH E.",Democrat,1,,,,support listed,0.9
+DE,Wilmington Morning News,106950,1986,STATE SENATOR,,Mitchell Estates,DE,"STILL, ROBERT T.",Republican,1,,,,support listed,0.9
+DE,Wilmington Morning News,106950,1986,STATE REP,,Wilmington,DE,"DIPINTO, JOSEPH G.",Republican,1,,,,support listed,0.9
+DE,Wilmington Morning News,106950,1986,STATE REP,,Claymont,DE,"BRADY, DAVID D.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Indian Field,DE,"HEBNER, CHARLES L.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Talleyville,DE,"MARONEY, JANE P.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Stratford,DE,"SPENCE, TERRY R.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Sherwood Park,DE,"GILLIGAN, ROBERT F.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Arundel,DE,"ROY, ROGER P.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Heritage Park,DE,"MECONI, VINCENT P.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Pike Creek Valley,DE,"PETRILLI, JOSEPH R.",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Newark,DE,"SOLES, ADA LEIGH",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Breezewood II,DE,"GLOWIAK, STANLEY F.",Democrat,1,,,,support listed,0.9
+DE,Wilmington Morning News,106950,1986,STATE REP,,Robscott Manor,DE,"ANDERSON, MARIAN P.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Crofton,DE,"HOPKINS, ROBERT P.",Democrat,1,,,,support listed,0.9
+DE,Wilmington Morning News,106950,1986,STATE REP,,Middletown,DE,"JESTER, KATHARINE M.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Dover,DE,"BENNETT, EDWARD J.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Dover,DE,"HOWARD, KEVIN M.",Democrat,1,,,,support listed,0.9
+DE,Wilmington Morning News,106950,1986,STATE REP,,Bridgeville,DE,"BARNES, B. BRADFORD",Republican,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Rehoboth Beach,DE,"WINGATE, JAY D.",Democrat,1,1,,,support listed,0.92
+DE,Wilmington Morning News,106950,1986,STATE REP,,Selbyville,DE,"BUNTING, GEORGE H. JR.",Democrat,1,,,,support listed,0.9
+DE,Wilmington Morning News,106950,1986,STATE REP,,Laurel,DE,"LEE, CLIFFORD F.",Republican,1,,,,support listed,0.9
+DE,Wilmington Morning News,106950,1986,STATE REP,,Georgetown,DE,"MOORE, LYNN W.",Republican,1,,,,support listed,0.9
+DE,Wilmington Morning News,106950,1988,GOVERNOR,,Delaware,DE,"CASTLE, MICHAEL N.",Republican,1,,1,,"incumbent; record over four years is one of progress and prosperity; welfare improved, housing programs, education improvements; deserves four more years",0.97
+DE,Wilmington Morning News,106950,1988,GOVERNOR,,Delaware,DE,"KRESHTOOL, JACOB",Democrat,0,,,,"labor lawyer, civil libertarian; campaign reminiscent of Humphrey politics of joy; experience is vital and Castle has edge",0.95
+DE,Wilmington Morning News,106950,1988,LT GOVERNOR,,Delaware,DE,"WOLF, DALE",Republican,1,,,,with our support of Gov. Castle goes support for Dale Wolf,0.92
+DE,Wilmington Morning News,106950,1988,LT GOVERNOR,,Delaware,DE,"HINDES, GARY",Democrat,0,,,,man of intelligence wit and integrity; paper supports same-party ticket with Castle,0.88
+DE,Wilmington Morning News,106950,1988,H,AL,Delaware At-Large,DE,"CARPER, THOMAS R.",Democrat,1,1,,,steadily gained in competence; sound position on deficits; banking reform; served Delaware well for six years; certainly deserves another term,0.97
+DE,Wilmington Morning News,106950,1988,H,AL,Delaware At-Large,DE,"KRAPF, JAMES P.",Republican,0,,,,candidate of convenience drafted to keep Republican Party from humiliation of letting Carper run unopposed; naive position on deficit,0.95
+DE,Wilmington Morning News,106950,1988,AUDITOR,,Delaware (Insurance Commissioner),DE,"LEVINSON, DAVID N.",Democrat,1,1,,,"Insurance Commissioner race - done a good job and deserves re-election; office not in standard list, placeholder",0.4
+DE,Wilmington Morning News,106950,1988,AUDITOR,,Delaware (Insurance Commissioner),DE,"MATRUDER, RUTH",Republican,0,,,,Insurance Commissioner challenger; presented no evidence she would do better; placeholder,0.4
+DE,Wilmington Morning News,106950,1988,MAYOR,,Wilmington,DE,"FRAWLEY, DANIEL S.",Democrat,1,1,,,"high marks on 3 of 4 points; police/fire first class, services delivered; shortcomings on black community relations and drunken driving incident not sufficient to deny re-election",0.95
+DE,Wilmington Morning News,106950,1988,MAYOR,,Wilmington,DE,"SMYTHE, DONALD R.",Republican,0,,,,knows and loves city but answers echo with generalities; lack of solid involvement with government; decent candidate but not the better one,0.95
+DE,Wilmington Morning News,106950,1988,CITY COUNCIL,,Wilmington City Council President,DE,"BAKER, JAMES M.",Democrat,1,1,,,running unopposed; shown leadership on several fronts particularly housing; fine candidate,0.95
+DE,Wilmington Morning News,106950,1988,SENATOR,,Delaware,DE,"ROTH, WILLIAM V. JR.",Republican,1,1,,,"fought to protect Social Security, child care, Pentagon waste; evidence eloquently argues for his re-election",0.97
+DE,Wilmington Morning News,106950,1988,SENATOR,,Delaware,DE,"WOO, S.B.",Democrat,0,,,,Bill Roth he is running against is not the Bill Roth most of us know,0.95
+DE,Wilmington Morning News,106950,1988,CNTY COMM,,New Castle County Executive,DE,"GREENHOUSE, DENNIS",Democrat,1,,,,fine job as state auditor for six years; demonstrated knowledge of issues; sensible new ideas; we support his candidacy,0.97
+DE,Wilmington Morning News,106950,1988,CNTY COMM,,New Castle County Executive,DE,"JUSTICE, RITA",Republican,0,1,,,many problems remain unsolved; blames woes on money; no evidence she would behave differently in second term,0.95
+DE,Wilmington Morning News,106950,1988,CITY COUNCIL,,New Castle County Council President,DE,"CLOUTIER, PHILIP D.",Republican,1,,,,stronger candidate; expert in planning and zoning; uncommon ability to work with both sides; bring steadiness to council,0.97
+DE,Wilmington Morning News,106950,1988,CITY COUNCIL,,New Castle County Council President,DE,"HOLMES, SUSAN C.",Democrat,0,,,,able candidate but close association with disruptive Councilman Aiello detracts; grasp of development not as deep as Cloutier's,0.95
+DE,Wilmington Morning News,106950,1988,PRESIDENT,,United States,DE,"DUKAKIS, MICHAEL S.",Democrat,1,,,,"creative solutions to nettlesome problems; values about working people, poor, elderly; way he would lead is superior",0.97
+DE,Wilmington Morning News,106950,1988,PRESIDENT,,United States,DE,"BUSH, GEORGE H.W.",Republican,0,,,,embraces Reagan approach; supports rugged individualist approach to massive problems; voodoo economics; Quayle pick of incalculably bad judgment,0.97
+DE,Wilmington Morning News,106950,1988,VICE PRESIDENT,,United States,DE,"QUAYLE, J. DANFORTH",Republican,0,,,,not fit to be president and that means he isn't fit to be vice president; Bush's incalculably bad judgment in selecting him,0.97

@@ -1,0 +1,14 @@
+Newspaper Name: Wilmington Morning News
+Newspaper ID: 106950
+State: DE
+Processing Date: 2026-05-20
+Last QA Date: 2026-05-20
+
+Clippings: 39
+Date range: 1960-1988
+Total candidate records: 356 (endorsed 280, opposed 76)
+Total proposition records: 2 (endorsed 1, opposed 1)
+Mean confidence: 0.902
+
+Notes:
+- Morning daily of Wilmington, Delaware (1876-1989). Republican-leaning. Merged with Evening Journal in 1989 to form The News Journal.

@@ -1,0 +1,768 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+FL,Sun Sentinel,107451,1982,GOVERNOR,,,FL,"GRAHAM, BOB",Democrat,1,1,,,Endorsed for re-election as Governor (running with Wayne Mixson for Lt Gov),0.98
+FL,Sun Sentinel,107451,1982,LT GOVERNOR,,,FL,"MIXSON, WAYNE",Democrat,1,1,,,Endorsed for Lt Gov (running mate of Bob Graham),0.98
+FL,Sun Sentinel,107451,1982,SEC OF STATE,,,FL,"FIRESTONE, GEORGE",Democrat,1,1,,,Endorsed for Secretary of State,0.98
+FL,Sun Sentinel,107451,1982,AGRICULTURE COMMISSIONER,,,FL,"CONNER, DOYLE",Democrat,1,1,,,Endorsed for Commissioner of Agriculture,0.98
+FL,Sun Sentinel,107451,1982,SENATOR,,,FL,"CHILES, LAWTON",Democrat,1,1,,,Endorsed for re-election to US Senate,0.98
+FL,Sun Sentinel,107451,1982,H,14,,FL,"MICA, DAN",Democrat,1,1,,,Endorsed for US House District 14,0.97
+FL,Sun Sentinel,107451,1982,H,15,,FL,"SHAW, E. CLAY",Republican,1,,1,,Endorsed for US House District 15,0.97
+FL,Sun Sentinel,107451,1982,H,16,,FL,"SMITH, LARRY",Democrat,1,,,,Endorsed for US House District 16,0.97
+FL,Sun Sentinel,107451,1982,STATE SENATOR,26,,FL,"JOHNSTON, HARRY",Democrat,1,1,,,Endorsed for FL Senate District 26,0.96
+FL,Sun Sentinel,107451,1982,STATE SENATOR,29,,FL,"WEINSTEIN, PETER",Democrat,1,1,,,Endorsed for FL Senate District 29,0.96
+FL,Sun Sentinel,107451,1982,STATE SENATOR,30,,FL,"MCPHERSON, TOM",Democrat,1,1,,,Endorsed for FL Senate District 30,0.96
+FL,Sun Sentinel,107451,1982,STATE SENATOR,31,,FL,"SCOTT, JIM",Republican,1,1,1,,Endorsed for FL Senate District 31,0.96
+FL,Sun Sentinel,107451,1982,STATE SENATOR,32,,FL,"JENNE, KEN",Democrat,1,1,,,Endorsed for FL Senate District 32,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,87,,FL,"HANSON, CAROL G.",Republican,1,,,,Endorsed for FL House District 87,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,88,,FL,"TOBIN, JACK",Democrat,1,,,,Endorsed for FL House District 88,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,89,,FL,"CROSS, TIMOTHY",Republican,1,,,,Endorsed for FL House District 89,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,91,,FL,"CLARK, BILL",Democrat,1,,,,Endorsed for FL House District 91,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,92,,FL,"COLEMAN, CARLA",Democrat,1,,,,Endorsed for FL House District 92,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,93,,FL,"SANDERSON, DEBBY",Republican,1,,,,Endorsed for FL House District 93,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,94,,FL,"GUSTAFSON, TOM",Democrat,1,,,,Endorsed for FL House District 94,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,95,,FL,"MACKENZIE, ANNE",Democrat,1,,,,Endorsed for FL House District 95,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,96,,FL,"CATHER, DON",Republican,1,,,,Endorsed for FL House District 96,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,97,,FL,"LIPPMAN, FRED",Democrat,1,,,,Endorsed for FL House District 97,0.96
+FL,Sun Sentinel,107451,1982,STATE REP,99,,FL,"YOUNG, WALTER",Democrat,1,,,,Endorsed for FL House District 99,0.96
+FL,Sun Sentinel,107451,1982,CNTY COMM,2,,FL,"BEACH, MARCIA",Democrat,1,,,,Endorsed for Broward County Commission District 2,0.95
+FL,Sun Sentinel,107451,1982,CNTY COMM,4,,FL,"COWAN, SCOTT",Democrat,1,,,,Endorsed for Broward County Commission District 4,0.95
+FL,Sun Sentinel,107451,1982,SCHOOL BOARD,4,,FL,"SISKIN, TONI",Democrat,1,,,,Endorsed for Broward School Board District 4,0.95
+FL,Sun Sentinel,107451,1982,SCHOOL BOARD,6,,FL,"CUMMINGS, JAN",Democrat,1,,,,Endorsed for Broward School Board District 6,0.95
+FL,Sun Sentinel,107451,1982,CNTY COMM,1,,FL,"ERWIN, ED",Republican,1,,,,Endorsed for Port Everglades Commission District 1,0.94
+FL,Sun Sentinel,107451,1982,COURT OF APPEALS,4,,FL,"ANSTEAD, HARRY LEE",,1,,,,Vote FOR retention - 4th District Court of Appeal,0.93
+FL,Sun Sentinel,107451,1982,COURT OF APPEALS,4,,FL,"DELL, JOHN W.",,1,,,,Vote FOR retention - 4th District Court of Appeal,0.93
+FL,Sun Sentinel,107451,1982,COURT OF APPEALS,4,,FL,"LETTS, GAVIN K.",,1,,,,Vote FOR retention - 4th District Court of Appeal,0.93
+FL,Sun Sentinel,107451,1982,JUDGE,,,FL,"JOHNSON, JUNE LARAN",,1,,,,Endorsed for County Court Group 11,0.92
+FL,Sun Sentinel,107451,1982,JUDGE,,,FL,"SULLIVAN, EDWARD",,1,,,,Endorsed for County Court Group 12,0.92
+FL,Sun Sentinel,107451,1982,CITY COUNCIL,,Miramar,FL,"SOBOL, MARTY",,1,,,,Endorsed for Miramar City Commission,0.9
+FL,Sun Sentinel,107451,1984,PRESIDENT,,,FL,"REAGAN, RONALD",Republican,1,,1,,Endorsed for President,0.98
+FL,Sun Sentinel,107451,1984,VICE PRESIDENT,,,FL,"BUSH, GEORGE",Republican,1,,1,,Endorsed for VP (Reagan/Bush ticket),0.98
+FL,Sun Sentinel,107451,1984,H,14,,FL,"MICA, DAN",Democrat,1,1,,,Endorsed for US House District 14,0.97
+FL,Sun Sentinel,107451,1984,H,15,,FL,"SHAW, E. CLAY",Republican,1,,1,,Endorsed for US House District 15,0.97
+FL,Sun Sentinel,107451,1984,H,16,,FL,"SMITH, LARRY",Democrat,1,1,,,Endorsed for US House District 16,0.97
+FL,Sun Sentinel,107451,1984,STATE SENATOR,31,,FL,"SCOTT, JIM",Republican,1,,1,,Endorsed for FL Senate District 31,0.96
+FL,Sun Sentinel,107451,1984,STATE REP,88,,FL,"FAIKS, JEANNE E.",,1,,,,Endorsed for FL House District 88,0.95
+FL,Sun Sentinel,107451,1984,STATE REP,89,,FL,"TITONE, JOSEPH",,1,,,,Endorsed for FL House District 89,0.95
+FL,Sun Sentinel,107451,1984,STATE REP,90,,FL,"DEUTSCH, PETER",,1,,,,Endorsed for FL House District 90,0.95
+FL,Sun Sentinel,107451,1984,STATE REP,92,,FL,"COLEMAN, CARLA",,1,1,,,Endorsed for FL House District 92,0.95
+FL,Sun Sentinel,107451,1984,STATE REP,94,,FL,"GUSTAFSON, TOM",Democrat,1,1,,,Endorsed for FL House District 94,0.95
+FL,Sun Sentinel,107451,1984,STATE REP,95,,FL,"MACKENZIE, ANNE",Democrat,1,1,,,Endorsed for FL House District 95,0.95
+FL,Sun Sentinel,107451,1984,STATE REP,96,,FL,"ARMSTRONG, TOM",,1,,,,Endorsed for FL House District 96,0.95
+FL,Sun Sentinel,107451,1984,CNTY CLERK,,,FL,"LOCKWOOD, ROBERT",,1,,,,Endorsed for Clerk of Courts,0.93
+FL,Sun Sentinel,107451,1984,SHERIFF,,,FL,"NAVARRO, NICK",Republican,1,,,,Endorsed for Broward Sheriff,0.94
+FL,Sun Sentinel,107451,1984,ASSESSOR,,,FL,"MARKHAM, BILL",,1,,,,Endorsed for Property Appraiser,0.92
+FL,Sun Sentinel,107451,1984,SUPERVISOR OF ELECTIONS,,,FL,"CARROLL, JANE",,1,,,,Endorsed for Supervisor of Elections,0.92
+FL,Sun Sentinel,107451,1984,CNTY COMM,1,,FL,"THOMPSON, GERALD",,1,,,,Endorsed for Broward County Commission District 1,0.93
+FL,Sun Sentinel,107451,1984,CNTY COMM,5,,FL,"STANLEY, MICHAEL",,1,,,,Endorsed for Broward County Commission District 5,0.93
+FL,Sun Sentinel,107451,1984,CNTY COMM,7,,FL,"KENNEDY, ED",,1,,,,Endorsed for Broward County Commission District 7,0.93
+FL,Sun Sentinel,107451,1984,SCHOOL BOARD,2,,FL,"PARRISH, LORI",,1,,,,Endorsed for Broward School Board District 2,0.93
+FL,Sun Sentinel,107451,1984,SCHOOL BOARD,3,,FL,"KLYNMAN, JAMES",,1,,,,Endorsed for Broward School Board District 3,0.93
+FL,Sun Sentinel,107451,1984,SCHOOL BOARD,5,,FL,"STERLING, NEIL",,1,,,,Endorsed for Broward School Board District 5,0.93
+FL,Sun Sentinel,107451,1984,CNTY COMM,1,,FL,"ERWIN, ED",,1,,,,Endorsed for Port Authority District 1,0.93
+FL,Sun Sentinel,107451,1984,CNTY COMM,2,,FL,"MARINELLI, MIKE",,1,,,,Endorsed for Port Authority District 2,0.93
+FL,Sun Sentinel,107451,1984,CNTY COMM,3,,FL,"MARKS, ALAN",,1,,,,Endorsed for Port Authority District 3,0.93
+FL,Sun Sentinel,107451,1984,CNTY COMM,4,,FL,"BARBER, ROBERT F.",,1,,,,Endorsed for Port Authority District 4,0.93
+FL,Sun Sentinel,107451,1984,CNTY COMM,5,,FL,"DELILLO, JOSEPH",,1,,,,Endorsed for Port Authority District 5,0.93
+FL,Sun Sentinel,107451,1984,SUPREME COURT,,,FL,"SHAW, LEANDER",,1,1,,,Vote YES to retain - FL Supreme Court,0.93
+FL,Sun Sentinel,107451,1984,SUPREME COURT,,,FL,"EHRLICH, RAYMOND",,1,1,,,Vote YES to retain - FL Supreme Court,0.93
+FL,Sun Sentinel,107451,1984,COURT OF APPEALS,,,FL,"WALDEN, JAMES",,1,1,,,Vote YES to retain - 4th DCA Appeals Court,0.93
+FL,Sun Sentinel,107451,1984,JUDGE,,,FL,"SCHLISSEL, PHILLIP",,1,,,,Endorsed for County Court Judge Group 5,0.92
+FL,Sun Sentinel,107451,1984,JUDGE,,,FL,"STAFFORD, LEONARD",,1,,,,Endorsed for County Court Judge Group 8,0.92
+FL,Sun Sentinel,107451,1984,CITY COUNCIL,,Margate,FL,"STARR, STUART J.",,1,,,,Endorsed for Margate City Commission,0.9
+FL,Sun Sentinel,107451,1986,SENATOR,,,FL,"GRAHAM, BOB",Democrat,1,,,,Endorsed for US Senate (vs incumbent Republican Paula Hawkins),0.98
+FL,Sun Sentinel,107451,1986,H,14,,FL,"MICA, DAN",Democrat,1,1,,,Endorsed for US House District 14,0.97
+FL,Sun Sentinel,107451,1986,H,16,,FL,"SMITH, LARRY",Democrat,1,1,,,Endorsed for US House District 16,0.97
+FL,Sun Sentinel,107451,1986,GOVERNOR,,,FL,"MARTINEZ, BOB",Republican,1,,,,Endorsed for Governor (vs Steve Pajcic),0.98
+FL,Sun Sentinel,107451,1986,SEC OF STATE,,,FL,"FIRESTONE, GEORGE",Democrat,1,1,,,Endorsed for Secretary of State,0.97
+FL,Sun Sentinel,107451,1986,ATTORNEY GENERAL,,,FL,"BUTTERWORTH, BOB",Democrat,1,,,,Endorsed for Attorney General,0.97
+FL,Sun Sentinel,107451,1986,COMPTROLLER,,,FL,"LEWIS, GERALD",Democrat,1,1,,,Endorsed for Comptroller,0.97
+FL,Sun Sentinel,107451,1986,TREASURER,,,FL,"GUNTER, BILL",Democrat,1,1,,,Endorsed for Treasurer/Insurance Commissioner,0.97
+FL,Sun Sentinel,107451,1986,SUPERINTENDENT,,,FL,"CASTOR, BETTY",Democrat,1,,,,Endorsed for Education Commissioner,0.97
+FL,Sun Sentinel,107451,1986,AGRICULTURE COMMISSIONER,,,FL,"BRONSON, CHARLES",Republican,1,,,,Endorsed for Agriculture Commissioner,0.96
+FL,Sun Sentinel,107451,1986,SUPREME COURT,,,FL,"BARKETT, ROSEMARY",,1,1,,,Vote YES - FL Supreme Court retention,0.95
+FL,Sun Sentinel,107451,1986,SUPREME COURT,,,FL,"MCDONALD, PARKER LEE",,1,1,,,Vote YES - FL Supreme Court retention,0.95
+FL,Sun Sentinel,107451,1986,SUPREME COURT,,,FL,"OVERTON, BEN F.",,1,1,,,Vote YES - FL Supreme Court retention,0.95
+FL,Sun Sentinel,107451,1986,COURT OF APPEALS,4,,FL,"DOWNEY, JAMES C.",,1,1,,,Vote YES - 4th DCA retention,0.95
+FL,Sun Sentinel,107451,1986,COURT OF APPEALS,4,,FL,"GLICKSTEIN, HUGH S.",,1,1,,,Vote YES - 4th DCA retention,0.95
+FL,Sun Sentinel,107451,1986,COURT OF APPEALS,4,,FL,"HERSEY, GEORGE W.",,1,1,,,Vote YES - 4th DCA retention,0.95
+FL,Sun Sentinel,107451,1986,STATE SENATOR,26,,FL,"KIMMEL, BERNARD",Republican,1,,,,Endorsed for FL Senate District 26,0.95
+FL,Sun Sentinel,107451,1986,STATE SENATOR,30,,FL,"MCPHERSON, TOM",Democrat,1,1,,,Endorsed for FL Senate District 30,0.95
+FL,Sun Sentinel,107451,1986,STATE SENATOR,32,,FL,"JENNE, KEN",Democrat,1,1,,,Endorsed for FL Senate District 32,0.95
+FL,Sun Sentinel,107451,1986,STATE REP,87,,FL,"MEHR, RYNA",Democrat,1,,,,Endorsed for FL House District 87,0.94
+FL,Sun Sentinel,107451,1986,STATE REP,88,,FL,"TOBIN, JACK",Democrat,1,1,,,Endorsed for FL House District 88,0.94
+FL,Sun Sentinel,107451,1986,STATE REP,91,,FL,"CLARK, BILL",Democrat,1,1,,,Endorsed for FL House District 91,0.94
+FL,Sun Sentinel,107451,1986,STATE REP,92,,FL,"SHELLEY, BOB",Republican,1,,,,Endorsed for FL House District 92,0.94
+FL,Sun Sentinel,107451,1986,STATE REP,94,,FL,"GUSTAFSON, TOM",Democrat,1,1,,,Endorsed for FL House District 94,0.94
+FL,Sun Sentinel,107451,1986,STATE REP,95,,FL,"MACKENZIE, ANNE",Democrat,1,1,,,Endorsed for FL House District 95,0.94
+FL,Sun Sentinel,107451,1986,STATE REP,96,,FL,"OSTRAU, NORMAN",Democrat,1,,,,Endorsed for FL House District 96,0.94
+FL,Sun Sentinel,107451,1986,STATE REP,99,,FL,"YOUNG, WALTER",Democrat,1,1,,,Endorsed for FL House District 99,0.94
+FL,Sun Sentinel,107451,1986,CNTY COMM,2,,FL,"POITIER, SYLVIA",Democrat,1,1,,,Endorsed for Broward County Commission District 2,0.94
+FL,Sun Sentinel,107451,1986,CNTY COMM,6,,FL,"GROSSMAN, NICKI",Democrat,1,,,,Endorsed for Broward County Commission District 6,0.94
+FL,Sun Sentinel,107451,1986,SCHOOL BOARD,4,,FL,"SISKIN, TONI",Democrat,1,1,,,Endorsed for Broward School Board District 4,0.93
+FL,Sun Sentinel,107451,1986,SCHOOL BOARD,6,,FL,"CUMMINGS, JAN",Democrat,1,1,,,Endorsed for Broward School Board District 6,0.93
+FL,Sun Sentinel,107451,1986,SCHOOL BOARD,7,,FL,"PARKS, BOB",Democrat,1,,,,Endorsed for Broward School Board District 7,0.93
+FL,Sun Sentinel,107451,1986,CNTY COMM,2,,FL,"ELDER, ROBERTA",Republican,1,,,,Endorsed for Port Everglades Authority District 2,0.93
+FL,Sun Sentinel,107451,1986,CNTY COMM,4,,FL,"KRANT, BETSY",Democrat,1,,,,Endorsed for Port Everglades Authority District 4,0.93
+FL,Sun Sentinel,107451,1986,CITY COUNCIL,3,Coral Springs,FL,"GORDON, JIM",,1,,,,Endorsed for Coral Springs City Commission District 3,0.91
+FL,Sun Sentinel,107451,1988,PRESIDENT,,,FL,"BUSH, GEORGE",Republican,1,,,,Endorsed for President (Bush/Quayle ticket),0.98
+FL,Sun Sentinel,107451,1988,VICE PRESIDENT,,,FL,"QUAYLE, DAN",Republican,1,,,,Endorsed for VP (Bush/Quayle ticket),0.98
+FL,Sun Sentinel,107451,1988,SENATOR,,,FL,"MACKAY, BUDDY",Democrat,1,,,,Endorsed for US Senate (vs Connie Mack),0.98
+FL,Sun Sentinel,107451,1988,H,14,,FL,"JOHNSTON, HARRY A.",Democrat,1,,,,Endorsed for US House District 14,0.97
+FL,Sun Sentinel,107451,1988,H,15,,FL,"SHAW, E. CLAY",Republican,1,,1,,Endorsed for US House District 15,0.97
+FL,Sun Sentinel,107451,1988,H,16,,FL,"SMITH, LARRY",Democrat,1,1,,,Endorsed for US House District 16,0.97
+FL,Sun Sentinel,107451,1988,SEC OF STATE,,,FL,"SMITH, JIM",Republican,1,,,,Endorsed for Secretary of State,0.96
+FL,Sun Sentinel,107451,1988,TREASURER,,,FL,"JENNE, KEN",Democrat,1,,,,Endorsed for State Treasurer/Insurance Commissioner,0.96
+FL,Sun Sentinel,107451,1988,STATE SENATOR,32,,FL,"FORMAN, HOWARD C.",Democrat,1,,,,Endorsed for FL Senate District 32,0.95
+FL,Sun Sentinel,107451,1988,STATE REP,89,,FL,"GRABER, BEN",Democrat,1,,,,Endorsed for FL House District 89,0.94
+FL,Sun Sentinel,107451,1988,STATE REP,95,,FL,"MACKENZIE, ANNE",Democrat,1,1,,,Endorsed for FL House District 95,0.94
+FL,Sun Sentinel,107451,1988,STATE REP,99,,FL,"YOUNG, WALTER C. (WALT)",Democrat,1,1,,,Endorsed for FL House District 99,0.94
+FL,Sun Sentinel,107451,1988,SHERIFF,,,FL,"NAVARRO, NICK",Republican,1,1,,,Endorsed for Broward Sheriff,0.95
+FL,Sun Sentinel,107451,1988,CNTY COMM,1,,FL,"WEBB, GREY",Republican,1,,,,Endorsed for Broward County Commission District 1,0.94
+FL,Sun Sentinel,107451,1988,CNTY COMM,3,,FL,"HART, JOHN",Democrat,1,,,,Endorsed for Broward County Commission District 3,0.94
+FL,Sun Sentinel,107451,1988,CNTY COMM,5,,FL,"CRESSWELL, BILL",Republican,1,,,,Endorsed for Broward County Commission District 5,0.94
+FL,Sun Sentinel,107451,1988,SCHOOL BOARD,2,,FL,"WASSERMAN, DIANA",Democrat,1,,,,Endorsed for Broward School Board District 2,0.93
+FL,Sun Sentinel,107451,1988,SUPREME COURT,,,FL,"GRIMES, STEPHEN H.",,1,1,,,Vote YES - FL Supreme Court retention,0.94
+FL,Sun Sentinel,107451,1988,SUPREME COURT,,,FL,"KOGAN, GERALD",,1,1,,,Vote YES - FL Supreme Court retention,0.94
+FL,Sun Sentinel,107451,1988,COURT OF APPEALS,4,,FL,"ANSTEAD, HARRY LEE",,1,1,,,Vote YES - 4th DCA retention,0.94
+FL,Sun Sentinel,107451,1988,COURT OF APPEALS,4,,FL,"DELL, JOHN W.",,1,1,,,Vote YES - 4th DCA retention,0.94
+FL,Sun Sentinel,107451,1988,COURT OF APPEALS,4,,FL,"GUNTHER, BOBBY W.",,1,1,,,Vote YES - 4th DCA retention,0.94
+FL,Sun Sentinel,107451,1988,COURT OF APPEALS,4,,FL,"LETTS, GAVIN K.",,1,1,,,Vote YES - 4th DCA retention,0.94
+FL,Sun Sentinel,107451,1988,COURT OF APPEALS,4,,FL,"STONE, BARRY J.",,1,1,,,Vote YES - 4th DCA retention,0.94
+FL,Sun Sentinel,107451,1988,JUDGE,,,FL,"ZACK, ROBERT",,1,,,,Endorsed for County Judge Group 4 (nonpartisan),0.91
+FL,Sun Sentinel,107451,1990,H,14,,FL,"JOHNSTON, HARRY",Democrat,1,1,,,Endorsed for US House District 14,0.97
+FL,Sun Sentinel,107451,1990,H,15,,FL,"SHAW, E. CLAY",Republican,1,,1,,Endorsed for US House District 15,0.97
+FL,Sun Sentinel,107451,1990,GOVERNOR,,,FL,"CHILES, LAWTON",Democrat,1,,,,Endorsed for Governor (Chiles/MacKay vs incumbent Republican Bob Martinez),0.98
+FL,Sun Sentinel,107451,1990,LT GOVERNOR,,,FL,"MACKAY, BUDDY",Democrat,1,,,,Endorsed for Lt Governor (Chiles/MacKay ticket),0.98
+FL,Sun Sentinel,107451,1990,SEC OF STATE,,,FL,"SMITH, JIM",Republican,1,1,1,,Endorsed for Secretary of State,0.96
+FL,Sun Sentinel,107451,1990,COMPTROLLER,,,FL,"LEWIS, GERALD",Democrat,1,1,,,Endorsed for State Comptroller,0.96
+FL,Sun Sentinel,107451,1990,TREASURER,,,FL,"GALLAGHER, TOM",Republican,1,,,,Endorsed for Treasurer/Insurance Commissioner,0.96
+FL,Sun Sentinel,107451,1990,SUPERINTENDENT,,,FL,"CASTOR, BETTY",Democrat,1,1,,,Endorsed for Commissioner of Education,0.96
+FL,Sun Sentinel,107451,1990,AGRICULTURE COMMISSIONER,,,FL,"BRONSON, CHARLES",Republican,1,,,,Endorsed for Commissioner of Agriculture,0.96
+FL,Sun Sentinel,107451,1990,STATE SENATOR,26,,FL,"WEINSTOCK, ELEANOR",Democrat,1,,,,Endorsed for FL Senate District 26,0.95
+FL,Sun Sentinel,107451,1990,STATE SENATOR,30,,FL,"RODSTROM, JOHN",Republican,1,,,,Endorsed for FL Senate District 30,0.95
+FL,Sun Sentinel,107451,1990,STATE SENATOR,32,,FL,"FORMAN, HOWARD",Democrat,1,1,,,Endorsed for FL Senate District 32,0.95
+FL,Sun Sentinel,107451,1990,STATE REP,89,,FL,"GRABER, BEN",Democrat,1,1,,,Endorsed for FL House District 89,0.94
+FL,Sun Sentinel,107451,1990,STATE REP,92,,FL,"RAYSON, JOHN C.",Democrat,1,,,,Endorsed for FL House District 92,0.94
+FL,Sun Sentinel,107451,1990,STATE REP,93,,FL,"SANDERSON, DEBBY",Republican,1,1,1,,Endorsed for FL House District 93,0.94
+FL,Sun Sentinel,107451,1990,STATE REP,94,,FL,"ELDER, ROBERTA",Republican,1,,,,Endorsed for FL House District 94,0.94
+FL,Sun Sentinel,107451,1990,STATE REP,95,,FL,"MACKENZIE, ANNE",Democrat,1,,,,Endorsed for FL State House D95,0.95
+FL,Sun Sentinel,107451,1990,STATE REP,96,,FL,"OSTRAU, NORMAN",Democrat,1,,,,Endorsed for FL State House D96,0.95
+FL,Sun Sentinel,107451,1990,CNTY COMM,4,,FL,"LOCKER, LARRY",Republican,1,,,,Endorsed for Broward County Commission District 4,0.94
+FL,Sun Sentinel,107451,1990,SCHOOL BOARD,1,,FL,"SCHWARTZ, EILEEN",Democrat,1,,,,Endorsed for Broward School Board District 1,0.93
+FL,Sun Sentinel,107451,1990,CNTY COMM,1,,FL,"STAKE, TOM",Democrat,1,,,,Endorsed for Port Everglades Commissioner District 1,0.93
+FL,Sun Sentinel,107451,1990,CNTY COMM,3,,FL,"DICKER-HOOF, KAREN",Democrat,1,,,,Endorsed for Port Everglades Commissioner District 3,0.92
+FL,Sun Sentinel,107451,1990,CNTY COMM,7,,FL,"PARKS, BOB",Democrat,1,,,,Endorsed for Port Everglades Commissioner District 7,0.93
+FL,Sun Sentinel,107451,1990,CNTY COMM,2,,FL,"GORDON, DANIEL E. (DAN)",Republican,1,,,,Endorsed for Port Everglades Commissioner District 2,0.93
+FL,Sun Sentinel,107451,1990,CNTY COMM,4,,FL,"KRANT, BETSY",Democrat,1,1,,,Endorsed for Port Everglades Commissioner District 4,0.93
+FL,Sun Sentinel,107451,1990,SUPREME COURT,,,FL,"SHAW, LEANDER",,1,1,,,FL Supreme Court retention - Vote YES,0.95
+FL,Sun Sentinel,107451,1990,COURT OF APPEALS,4,,FL,"GARRETT, EUGENE S.",,1,1,,,Vote YES - 4th DCA retention,0.94
+FL,Sun Sentinel,107451,1990,COURT OF APPEALS,4,,FL,"POLEN, MARK E.",,1,1,,,Vote YES - 4th DCA retention,0.94
+FL,Sun Sentinel,107451,1990,COURT OF APPEALS,4,,FL,"WARNER, MARTHA C.",,1,1,,,Vote YES - 4th DCA retention,0.94
+FL,Sun Sentinel,107451,1990,JUDGE,,,FL,"FRUSCIANTE, JOHN A.",,1,,,,Endorsed for Circuit Court Judge Group 5 (nonpartisan),0.91
+FL,Sun Sentinel,107451,1990,JUDGE,,,FL,"STONE, SHARI REITER",,1,,,,Endorsed for Circuit Court Judge Group 14 (nonpartisan),0.91
+FL,Sun Sentinel,107451,1990,STATE REP,88,,FL,"GRABER, BEN",Democrat,1,,,,Endorsed for FL State House D88,0.95
+FL,Sun Sentinel,107451,1990,STATE REP,89,,FL,"RAYSON, JOHN C.",Democrat,1,,,,Endorsed for FL State House D89,0.95
+FL,Sun Sentinel,107451,1990,STATE REP,90,,FL,"SANDERSON, DEBBY",Republican,1,,1,,Endorsed for FL State House D90,0.95
+FL,Sun Sentinel,107451,1990,STATE REP,91,,FL,"ELDER, ROBERTA",Republican,1,,,,Endorsed for FL State House D91,0.9
+FL,Sun Sentinel,107451,1990,SCHOOL BOARD,4,Broward,FL,"SISKIN, TONI",Democrat,1,,,,Endorsed for Broward School Board D4,0.9
+FL,Sun Sentinel,107451,1990,SCHOOL BOARD,6,Broward,FL,"DICKERHOOF, KAREN",Democrat,1,,,,Endorsed for Broward School Board D6,0.9
+FL,Sun Sentinel,107451,1990,SCHOOL BOARD,7,Broward,FL,"PARKS, BOB",Democrat,1,,,,Endorsed for Broward School Board D7,0.9
+FL,Sun Sentinel,107451,1990,JUDGE,,Circuit Court Group 14,FL,"REITER STONE, SHARI",,1,,,,Circuit Court Judge nonpartisan Group 14,0.9
+FL,Sun Sentinel,107451,1992,PRESIDENT,,,FL,"BUSH, GEORGE",Republican,1,,1,,Endorsed for US President,0.95
+FL,Sun Sentinel,107451,1992,VICE PRESIDENT,,,FL,"QUAYLE, DAN",Republican,1,,1,,Endorsed as VP running mate with Bush,0.95
+FL,Sun Sentinel,107451,1992,SENATOR,,,FL,"GRAHAM, BOB",Democrat,1,1,,,Endorsed for US Senate FL re-election,0.95
+FL,Sun Sentinel,107451,1992,H,19,,FL,"JOHNSTON, HARRY",Democrat,1,1,,,Endorsed for US House FL-19,0.95
+FL,Sun Sentinel,107451,1992,H,20,,FL,"KENNEDY, BEVERLY",Republican,1,,,,Endorsed for US House FL-20,0.9
+FL,Sun Sentinel,107451,1992,H,22,,FL,"SHAW, CLAY",Republican,1,,1,,Endorsed for US House FL-22,0.95
+FL,Sun Sentinel,107451,1992,H,23,,FL,"HASTINGS, ALCEE L.",Democrat,1,,,,Endorsed for US House FL-23,0.95
+FL,Sun Sentinel,107451,1992,PUBLIC DEFENDER,,Public Defender,FL,"LEWIS, JIM",Republican,1,,,,Endorsed for Public Defender,0.9
+FL,Sun Sentinel,107451,1992,STATE SENATOR,28,,FL,"WEXLER, ROBERT",Democrat,1,,,,Endorsed for FL State Senate D28,0.95
+FL,Sun Sentinel,107451,1992,STATE SENATOR,30,,FL,"MEADOWS, MATTHEW J.",Democrat,1,,,,Endorsed for FL State Senate D30,0.95
+FL,Sun Sentinel,107451,1992,STATE SENATOR,31,,FL,"SCOTT, JIM",Republican,1,,1,,Endorsed for FL State Senate D31,0.95
+FL,Sun Sentinel,107451,1992,STATE REP,91,,FL,"SANDERSON, DEBBY P.",Republican,1,,1,,Endorsed for FL State House D91,0.95
+FL,Sun Sentinel,107451,1992,STATE REP,92,,FL,"STAFFORD, TRACY",Democrat,1,,,,Endorsed for FL State House D92,0.95
+FL,Sun Sentinel,107451,1992,STATE REP,95,,FL,"TOBIN, JACK N.",Democrat,1,,,,Endorsed for FL State House D95,0.95
+FL,Sun Sentinel,107451,1992,STATE REP,97,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,,,,Endorsed for FL State House D97,0.95
+FL,Sun Sentinel,107451,1992,STATE REP,99,,FL,"MACKENZIE, ANNE",Democrat,1,1,,,Endorsed for FL State House D99,0.95
+FL,Sun Sentinel,107451,1992,STATE REP,101,,FL,"GELLER, STEVE",Democrat,1,,,,Endorsed for FL State House D101,0.95
+FL,Sun Sentinel,107451,1992,CNTY CLERK,,Clerk of Circuit Court,FL,"LOCKWOOD, ROBERT E. ""BOB""",Democrat,1,,,,Endorsed for Clerk of the Circuit Court,0.9
+FL,Sun Sentinel,107451,1992,SHERIFF,,Broward,FL,"COCHRAN, RON",Democrat,1,,,,Endorsed for Broward Sheriff,0.95
+FL,Sun Sentinel,107451,1992,ASSESSOR,,Property Appraiser,FL,"MARKHAM, WILLIAM ""BILL""",Republican,1,1,1,,Endorsed for Property Appraiser,0.9
+FL,Sun Sentinel,107451,1992,CNTY COMM,1,Broward,FL,"LOCKER, LARRY",Republican,1,,,,Endorsed for Broward County Commission D1,0.9
+FL,Sun Sentinel,107451,1992,CNTY COMM,3,Broward,FL,"HART, JOHN",Democrat,1,,,,Endorsed for Broward County Commission D3,0.9
+FL,Sun Sentinel,107451,1992,CNTY COMM,5,Broward,FL,"GUNZBURGER, SUZANNE ""SUE""",Democrat,1,,,,Endorsed for Broward County Commission D5,0.9
+FL,Sun Sentinel,107451,1992,CNTY COMM,7,Broward,FL,"KENNEDY, ED",Republican,1,,,,Endorsed for Broward County Commission D7,0.9
+FL,Sun Sentinel,107451,1992,SCHOOL BOARD,3,Broward,FL,"WEXLER, LOIS",Democrat,1,,,,Endorsed for Broward School Board D3,0.9
+FL,Sun Sentinel,107451,1992,SCHOOL BOARD,5,Broward,FL,"MCKINZIE OLIPHANT, MIRIAM",Democrat,1,,,,Endorsed for Broward School Board D5,0.9
+FL,Sun Sentinel,107451,1992,CNTY COMM,1,Port Everglades,FL,"CONNOLLY, JIM",Republican,1,,,,Endorsed for Port Everglades Commissioner D1,0.9
+FL,Sun Sentinel,107451,1992,SUPREME COURT,,,FL,"BARKETT, ROSEMARY",,1,1,,,FL Supreme Court retention - Vote YES,0.95
+FL,Sun Sentinel,107451,1992,SUPREME COURT,,,FL,"HARDING, MAJOR B.",,1,1,,,FL Supreme Court retention - Vote YES,0.95
+FL,Sun Sentinel,107451,1992,SUPREME COURT,,,FL,"LEE MCDONALD, PARKER",,1,1,,,FL Supreme Court retention - Vote YES,0.9
+FL,Sun Sentinel,107451,1992,SUPREME COURT,,,FL,"OVERTON, BEN K.",,1,1,,,FL Supreme Court retention - Vote YES,0.95
+FL,Sun Sentinel,107451,1992,COURT OF APPEALS,4,,FL,"FARMER, GARY",,1,1,,,4th District Court of Appeal retention - Vote YES,0.9
+FL,Sun Sentinel,107451,1992,COURT OF APPEALS,4,,FL,"GLICKSTEIN, HUGH S.",,1,1,,,4th District Court of Appeal retention - Vote YES,0.9
+FL,Sun Sentinel,107451,1992,COURT OF APPEALS,4,,FL,"HERSEY, GEORGE W.",,1,1,,,4th District Court of Appeal retention - Vote YES,0.9
+FL,Sun Sentinel,107451,1992,JUDGE,,County Court Group 10,FL,"DIAZ, ROBERT F. ""BOB""",,1,,,,County Court Judge nonpartisan Group 10,0.9
+FL,Sun Sentinel,107451,1994,SENATOR,,,FL,"MACK, CONNIE",Republican,1,,1,,Endorsed for US Senate FL re-election,0.95
+FL,Sun Sentinel,107451,1994,H,19,,FL,"JOHNSTON, HARRY",Democrat,1,1,,,Endorsed for US House FL-19,0.95
+FL,Sun Sentinel,107451,1994,H,20,,FL,"DEUTSCH, PETER",Democrat,1,1,,,Endorsed for US House FL-20,0.95
+FL,Sun Sentinel,107451,1994,H,22,,FL,"SHAW, CLAY",Republican,1,,1,,Endorsed for US House FL-22,0.95
+FL,Sun Sentinel,107451,1994,GOVERNOR,,,FL,"CHILES, LAWTON",Democrat,1,1,,,"Endorsed for FL Governor re-election (running mate Buddy MacKay), opposing Jeb Bush",0.95
+FL,Sun Sentinel,107451,1994,LT GOVERNOR,,,FL,"MACKAY, BUDDY",Democrat,1,1,,,Endorsed as Lt Gov running mate with Chiles,0.9
+FL,Sun Sentinel,107451,1994,SEC OF STATE,,,FL,"BARRINGER MORTHAM, SANDY",Republican,1,,,,Endorsed for FL Secretary of State,0.9
+FL,Sun Sentinel,107451,1994,ATTORNEY GENERAL,,,FL,"BUTTERWORTH, BOB",Democrat,1,1,,,Endorsed for FL Attorney General,0.95
+FL,Sun Sentinel,107451,1994,COMPTROLLER,,,FL,"MILLIGAN, BOB",Republican,1,,,,Endorsed for State Comptroller,0.9
+FL,Sun Sentinel,107451,1994,TREASURER,,,FL,"NELSON, BILL",Democrat,1,,,,Endorsed for Treasurer/Insurance Commissioner,0.95
+FL,Sun Sentinel,107451,1994,SUPERINTENDENT,,,FL,"JAMERSON, DOUG",Democrat,1,1,,,Endorsed for Commissioner of Education,0.95
+FL,Sun Sentinel,107451,1994,AGRICULTURE COMMISSIONER,,,FL,"CRAWFORD, BOB",Democrat,1,1,,,Endorsed for Commissioner of Agriculture,0.95
+FL,Sun Sentinel,107451,1994,STATE SENATOR,28,,FL,"WEXLER, ROBERT",Democrat,1,1,,,Endorsed for FL State Senate D28,0.95
+FL,Sun Sentinel,107451,1994,STATE REP,90,,FL,"GONOT, PHIL",Republican,1,,,,Endorsed for FL State House D90,0.9
+FL,Sun Sentinel,107451,1994,STATE REP,91,,FL,"SANDERSON, DEBBY P.",Republican,1,,1,,Endorsed for FL State House D91,0.95
+FL,Sun Sentinel,107451,1994,STATE REP,92,,FL,"STAFFORD, TRACY",Democrat,1,1,,,Endorsed for FL State House D92,0.95
+FL,Sun Sentinel,107451,1994,CNTY COMM,4,Broward,FL,"COWAN, SCOTT I.",Democrat,1,,,,Endorsed for Broward County Commission D4,0.9
+FL,Sun Sentinel,107451,1994,CNTY COMM,6,Broward,FL,"GUNZBURGER, SUZANNE N. ""SUE""",Democrat,1,1,,,Endorsed for Broward County Commission D6,0.9
+FL,Sun Sentinel,107451,1994,SCHOOL BOARD,1,Broward,FL,"FLACHLER, ABRAHAM ""ABE""",Democrat,1,,,,Endorsed for Broward School Board D1,0.9
+FL,Sun Sentinel,107451,1994,SCHOOL BOARD,4,Broward,FL,"SAMUELS, DONALD ""DON""",Democrat,1,,,,Endorsed for Broward School Board D4,0.9
+FL,Sun Sentinel,107451,1994,SUPREME COURT,,,FL,"GRIMES, STEPHEN H.",,1,1,,,FL Supreme Court retention - Vote YES,0.95
+FL,Sun Sentinel,107451,1994,SUPREME COURT,,,FL,"KOGAN, GERALD",,1,1,,,FL Supreme Court retention - Vote YES,0.95
+FL,Sun Sentinel,107451,1994,COURT OF APPEALS,4,,FL,"DELL, JOHN W.",,1,1,,,4th District Court of Appeal retention - Vote YES,0.9
+FL,Sun Sentinel,107451,1994,COURT OF APPEALS,4,,FL,"GUNTHER, BOBBY W.",,1,1,,,4th District Court of Appeal retention - Vote YES,0.9
+FL,Sun Sentinel,107451,1994,COURT OF APPEALS,4,,FL,"KLEIN, LARRY A.",,1,1,,,4th District Court of Appeal retention - Vote YES,0.9
+FL,Sun Sentinel,107451,1994,COURT OF APPEALS,4,,FL,"PARIENTE, BARBARA J.",,1,1,,,4th District Court of Appeal retention - Vote YES,0.9
+FL,Sun Sentinel,107451,1994,COURT OF APPEALS,4,,FL,"STONE, BARRY J.",,1,1,,,4th District Court of Appeal retention - Vote YES,0.9
+FL,Sun Sentinel,107451,1994,JUDGE,,County Court Group 22,FL,"TRACHMAN, LISA GAIL",,1,,,,County Court Judge nonpartisan Group 22,0.9
+FL,Sun Sentinel,107451,1996,PRESIDENT,,,FL,"CLINTON, BILL",Democrat,1,1,,,1996 General — endorsed for re-election,0.98
+FL,Sun Sentinel,107451,1996,VICE PRESIDENT,,,FL,"GORE, AL",Democrat,1,1,,,Clinton-Gore ticket,0.98
+FL,Sun Sentinel,107451,1996,H,19,,FL,"WEXLER, ROBERT",Democrat,1,,,,US House FL-19,0.95
+FL,Sun Sentinel,107451,1996,H,20,,FL,"DEUTSCH, PETER",Democrat,1,1,,,US House FL-20 incumbent,0.95
+FL,Sun Sentinel,107451,1996,H,22,,FL,"SHAW, E. CLAY JR.",Republican,1,,1,,US House FL-22 incumbent,0.95
+FL,Sun Sentinel,107451,1996,H,23,,FL,"HASTINGS, ALCEE L.",Democrat,1,1,,,US House FL-23 incumbent,0.95
+FL,Sun Sentinel,107451,1996,STATE SENATOR,28,,FL,"KLEIN, RON",Democrat,1,,,,FL Senate D-28,0.93
+FL,Sun Sentinel,107451,1996,STATE SENATOR,33,,FL,"CAMPBELL, WALTER ""SKIP""",Democrat,1,,,,FL Senate D-33,0.93
+FL,Sun Sentinel,107451,1996,STATE REP,92,,FL,"STAFFORD, TRACY",Democrat,1,,,,FL House D-92,0.93
+FL,Sun Sentinel,107451,1996,STATE REP,93,,FL,"DAWSON-WHITE, MURIEL ""MANDY""",Democrat,1,,,,FL House D-93,0.92
+FL,Sun Sentinel,107451,1996,STATE REP,96,,FL,"RITTER, STACY",Democrat,1,,,,FL House D-96,0.93
+FL,Sun Sentinel,107451,1996,STATE REP,97,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,,,,FL House D-97,0.93
+FL,Sun Sentinel,107451,1996,SHERIFF,,Broward County,FL,"COCHRAN, RON",Democrat,1,,,,Broward County Sheriff,0.9
+FL,Sun Sentinel,107451,1996,SUPERVISOR OF ELECTIONS,,Broward County,FL,"CARROLL, JANE",Republican,1,,1,,Broward Supervisor of Elections,0.9
+FL,Sun Sentinel,107451,1996,CNTY COMM,1,Broward County,FL,"LIEBERMAN, ILENE S.",Democrat,1,1,,,Broward County Commission D-1,0.92
+FL,Sun Sentinel,107451,1996,CNTY COMM,3,Broward County,FL,"ABRAMOWITZ, NORMAN",Democrat,1,1,,,Broward County Commission D-3,0.92
+FL,Sun Sentinel,107451,1996,SCHOOL BOARD,2,Broward County,FL,"KRAUSE, CHERYL W.",Republican,1,,,,Broward School Board D-2,0.9
+FL,Sun Sentinel,107451,1996,SCHOOL BOARD,5,Broward County,FL,"OLIPHANT, MIRIAM",Democrat,1,,,,Broward School Board D-5,0.9
+FL,Sun Sentinel,107451,1996,SCHOOL BOARD,6,Broward County,FL,"CARTER, DARLA",Democrat,1,,,,Broward School Board D-6,0.9
+FL,Sun Sentinel,107451,1996,SUPREME COURT,,Florida,FL,"ANSTEAD, HARRY LEE",,1,,,,Merit retention — Vote YES (retain),0.95
+FL,Sun Sentinel,107451,1996,SUPREME COURT,,Florida,FL,"SHAW, LEANDER J. JR.",,1,,,,Merit retention — Vote YES (retain),0.95
+FL,Sun Sentinel,107451,1996,SUPREME COURT,,Florida,FL,"WELLS, CHARLES T.",,1,,,,Merit retention — Vote YES (retain),0.95
+FL,Sun Sentinel,107451,1996,COURT OF APPEALS,4,Florida 4th DCA,FL,"POLEN, MARK E.",,1,,,,4th DCA merit retention — Vote YES,0.95
+FL,Sun Sentinel,107451,1996,COURT OF APPEALS,4,Florida 4th DCA,FL,"SHAHOOD, GEORGE A.",,1,,,,4th DCA merit retention — Vote YES,0.95
+FL,Sun Sentinel,107451,1996,COURT OF APPEALS,4,Florida 4th DCA,FL,"STEVENSON, W. MATTHEW",,1,,,,4th DCA merit retention — Vote YES,0.95
+FL,Sun Sentinel,107451,1996,COURT OF APPEALS,4,Florida 4th DCA,FL,"WARNER, MARTHA CURTIS",,1,,,,4th DCA merit retention — Vote YES,0.95
+FL,Sun Sentinel,107451,1998,SENATOR,,Florida,FL,"GRAHAM, BOB",Democrat,1,1,,,US Senate FL — re-election,0.97
+FL,Sun Sentinel,107451,1998,GOVERNOR,,Florida,FL,"MACKAY, BUDDY",Democrat,1,,,,FL Governor — endorsed over Jeb Bush,0.95
+FL,Sun Sentinel,107451,1998,LT GOVERNOR,,Florida,FL,"DANTZLER, RICK",Democrat,1,,,,FL Lt Governor — MacKay ticket,0.95
+FL,Sun Sentinel,107451,1998,SEC OF STATE,,Florida,FL,"HARRIS, KATHERINE",Republican,1,,,,FL Secretary of State,0.94
+FL,Sun Sentinel,107451,1998,ATTORNEY GENERAL,,Florida,FL,"BUTTERWORTH, BOB",Democrat,1,1,,,FL Attorney General — incumbent,0.95
+FL,Sun Sentinel,107451,1998,COMPTROLLER,,Florida,FL,"MILLIGAN, BOB",Republican,1,,1,,FL Comptroller — incumbent,0.94
+FL,Sun Sentinel,107451,1998,TREASURER,,Florida,FL,"NELSON, BILL",Democrat,1,,,,FL Treasurer/Insurance Commissioner,0.95
+FL,Sun Sentinel,107451,1998,SUPERINTENDENT,,Florida,FL,"WALLACE, PETER RUDY",Democrat,1,,,,FL Commissioner of Education,0.94
+FL,Sun Sentinel,107451,1998,AGRICULTURE COMMISSIONER,,Florida,FL,"CRAWFORD, BOB",Democrat,1,1,,,FL Commissioner of Agriculture and Consumer Services,0.93
+FL,Sun Sentinel,107451,1998,STATE REP,78,Florida,FL,"MINTON, O.R. ""RICK""",Democrat,1,,,,FL House D-78,0.9
+FL,Sun Sentinel,107451,1998,STATE REP,85,Florida,FL,"FRANKEL, LOIS J.",Democrat,1,,,,FL House D-85,0.92
+FL,Sun Sentinel,107451,1998,STATE REP,87,Florida,FL,"JONES, JIM D.",Democrat,1,,,,FL House D-87,0.9
+FL,Sun Sentinel,107451,1998,CNTY COMM,4,Palm Beach County,FL,"MCCARTY, MARY",Republican,1,,,,Palm Beach County Commission D-4,0.88
+FL,Sun Sentinel,107451,1998,CNTY COMM,6,Palm Beach County,FL,"MASILOTTI, TONY",Republican,1,,,,Palm Beach County Commission D-6,0.88
+FL,Sun Sentinel,107451,1998,SUPREME COURT,,Florida,FL,"HARDING, MAJOR B.",,1,,,,FL Supreme Court merit retention — Vote YES,0.95
+FL,Sun Sentinel,107451,1998,COURT OF APPEALS,4,Florida 4th DCA,FL,"FARMER, GARY M. SR.",,1,,,,4th DCA merit retention — Vote YES,0.94
+FL,Sun Sentinel,107451,1998,COURT OF APPEALS,4,Florida 4th DCA,FL,"GROSS, ROBERT M.",,1,,,,4th DCA merit retention — Vote YES,0.94
+FL,Sun Sentinel,107451,1998,JUDGE,8,County Court Group 8,FL,"ROTHMAN, KRISTA",,1,,,,County Court Judge — nonpartisan,0.88
+FL,Sun Sentinel,107451,1998,SCHOOL BOARD,6,,FL,"JOHNSON, ART",,1,,,,School Board D-6 — nonpartisan,0.88
+FL,Sun Sentinel,107451,2000,PRESIDENT,,,FL,"GORE, AL",Democrat,1,,,,2000 General — Gore/Lieberman ticket,0.98
+FL,Sun Sentinel,107451,2000,VICE PRESIDENT,,,FL,"LIEBERMAN, JOE",Democrat,1,,,,Gore/Lieberman ticket,0.98
+FL,Sun Sentinel,107451,2000,SENATOR,,Florida,FL,"NELSON, BILL",Democrat,1,,,,US Senate FL — endorsed over Bill McCollum,0.97
+FL,Sun Sentinel,107451,2000,H,19,,FL,"WEXLER, ROBERT",Democrat,1,1,,,US House FL-19 incumbent,0.95
+FL,Sun Sentinel,107451,2000,H,20,,FL,"DEUTSCH, PETER",Democrat,1,1,,,US House FL-20 incumbent,0.95
+FL,Sun Sentinel,107451,2000,H,22,,FL,"SHAW, CLAY",Republican,1,,1,,US House FL-22 incumbent,0.95
+FL,Sun Sentinel,107451,2000,H,23,,FL,"HASTINGS, ALCEE L.",Democrat,1,1,,,US House FL-23 incumbent,0.95
+FL,Sun Sentinel,107451,2000,TREASURER,,Florida,FL,"COSGROVE, JOHN",Democrat,1,,,,FL State Treasurer/Insurance Commissioner,0.93
+FL,Sun Sentinel,107451,2000,SUPERINTENDENT,,Florida,FL,"SHELDON, GEORGE H.",Democrat,1,,,,FL State Education Commissioner,0.93
+FL,Sun Sentinel,107451,2000,STATE SENATOR,31,,FL,"SANDERSON, DEBBY P.",Republican,1,,,,FL Senate D-31,0.92
+FL,Sun Sentinel,107451,2000,STATE SENATOR,32,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,,,,FL Senate D-32,0.93
+FL,Sun Sentinel,107451,2000,STATE REP,91,,FL,"MACK, CONNIE",Republican,1,,,,FL House D-91 (Connie Mack IV),0.92
+FL,Sun Sentinel,107451,2000,STATE REP,92,,FL,"SEILER, JOHN P. ""JACK""",Democrat,1,,,,FL House D-92,0.92
+FL,Sun Sentinel,107451,2000,STATE REP,96,,FL,"RITTER, STACY",Democrat,1,,,,FL House D-96,0.92
+FL,Sun Sentinel,107451,2000,STATE REP,97,,FL,"RICH, NAN H.",Democrat,1,,,,FL House D-97,0.92
+FL,Sun Sentinel,107451,2000,STATE REP,98,,FL,"WISHNER, ROGER BRIAN",Democrat,1,,,,FL House D-98,0.92
+FL,Sun Sentinel,107451,2000,STATE REP,100,,FL,"SOBEL, ELEANOR",Democrat,1,,,,FL House D-100,0.92
+FL,Sun Sentinel,107451,2000,CNTY CLERK,,Broward Clerk of the Circuit Court,FL,"KENNEDY, ED",Republican,1,,,,Clerk of the Circuit Court,0.88
+FL,Sun Sentinel,107451,2000,CNTY COMM,,Broward Property Appraiser,FL,"MARKHAM, WILLIAM ""BILL""",Republican,1,,,,Broward County Property Appraiser,0.88
+FL,Sun Sentinel,107451,2000,SUPERVISOR OF ELECTIONS,,Broward County,FL,"OLIPHANT, MIRIAM",Democrat,1,,,,Broward Supervisor of Elections,0.9
+FL,Sun Sentinel,107451,2000,CNTY COMM,1,Broward County,FL,"GRABER, BEN",Democrat,1,,,,Broward County Commissioner D-1,0.9
+FL,Sun Sentinel,107451,2000,CNTY COMM,7,Broward County,FL,"RODSTROM, JOHN E. JR.",Democrat,1,,,,Broward County Commissioner D-7,0.9
+FL,Sun Sentinel,107451,2000,SUPREME COURT,,Florida,FL,"LEWIS, R. FRED",,1,,,,FL Supreme Court merit retention — Vote YES,0.95
+FL,Sun Sentinel,107451,2000,SUPREME COURT,,Florida,FL,"PARIENTE, BARBARA J.",,1,,,,FL Supreme Court merit retention — Vote YES,0.95
+FL,Sun Sentinel,107451,2000,SUPREME COURT,,Florida,FL,"QUINCE, PEGGY A.",,1,,,,FL Supreme Court merit retention — Vote YES,0.95
+FL,Sun Sentinel,107451,2000,COURT OF APPEALS,4,Florida 4th DCA,FL,"DELL, JOHN W.",,1,,,,4th DCA merit retention — Vote YES,0.94
+FL,Sun Sentinel,107451,2000,COURT OF APPEALS,4,Florida 4th DCA,FL,"GUNTHER, BOBBY W.",,1,,,,4th DCA merit retention — Vote YES,0.94
+FL,Sun Sentinel,107451,2000,COURT OF APPEALS,4,Florida 4th DCA,FL,"HAZOURI, FRED A.",,1,,,,4th DCA merit retention — Vote YES,0.94
+FL,Sun Sentinel,107451,2000,COURT OF APPEALS,4,Florida 4th DCA,FL,"KLEIN, LARRY A.",,1,,,,4th DCA merit retention — Vote YES,0.94
+FL,Sun Sentinel,107451,2000,COURT OF APPEALS,4,Florida 4th DCA,FL,"STONE, BARRY J.",,1,,,,4th DCA merit retention — Vote YES,0.94
+FL,Sun Sentinel,107451,2000,COURT OF APPEALS,4,Florida 4th DCA,FL,"TAYLOR, CAROLE Y.",,1,,,,4th DCA merit retention — Vote YES,0.94
+FL,Sun Sentinel,107451,2000,JUDGE,31,Circuit Court Group 31,FL,"FIELDS, SAMUEL ""SAM""",,1,,,,Circuit Court Judge Group 31 — nonpartisan,0.88
+FL,Sun Sentinel,107451,2000,SCHOOL BOARD,5,Broward County,FL,"WILLIAMS, BENJAMIN ""BEN""",,1,,,,Broward School Board D-5 — nonpartisan,0.88
+FL,Sun Sentinel,107451,2002,H,17,,FL,"MEEK, KENDRICK",Democrat,1,,,,US House FL-17,0.95
+FL,Sun Sentinel,107451,2002,H,19,,FL,"WEXLER, ROBERT",Democrat,1,1,,,US House FL-19 incumbent,0.95
+FL,Sun Sentinel,107451,2002,H,22,,FL,"SHAW, CLAY",Republican,1,,1,,US House FL-22 incumbent,0.95
+FL,Sun Sentinel,107451,2002,H,23,,FL,"HASTINGS, ALCEE L",Democrat,1,1,,,US House FL-23 incumbent,0.95
+FL,Sun Sentinel,107451,2002,GOVERNOR,,,FL,"BUSH, JEB",Republican,1,,1,,Florida Governor incumbent; running with Brogan,0.95
+FL,Sun Sentinel,107451,2002,LT GOVERNOR,,,FL,"BROGAN, FRANK",Republican,1,,1,,Florida Lt Governor incumbent running with Bush,0.95
+FL,Sun Sentinel,107451,2002,ATTORNEY GENERAL,,,FL,"DYER, BUDDY",Democrat,1,,,,Florida Attorney General,0.95
+FL,Sun Sentinel,107451,2002,AGRICULTURE COMMISSIONER,,,FL,"BRONSON, CHARLES H",Republican,1,,1,,Florida Agriculture Commissioner incumbent,0.95
+FL,Sun Sentinel,107451,2002,STATE SENATOR,25,,FL,"BUTTERWORTH, BOB",Democrat,1,,,,FL State Senate D-25,0.95
+FL,Sun Sentinel,107451,2002,STATE SENATOR,29,,FL,"DAWSON, M MANDY",Democrat,1,1,,,FL State Senate D-29,0.9
+FL,Sun Sentinel,107451,2002,STATE SENATOR,30,,FL,"KLEIN, RON",Democrat,1,1,,,FL State Senate D-30,0.95
+FL,Sun Sentinel,107451,2002,STATE SENATOR,34,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,,,,FL State Senate D-34,0.95
+FL,Sun Sentinel,107451,2002,STATE REP,87,,FL,"HASNER, ADAM",Republican,1,,,,FL House D-87,0.95
+FL,Sun Sentinel,107451,2002,STATE REP,90,,FL,"SLOSBERG, IRVING IRV",Democrat,1,1,,,FL House D-90,0.95
+FL,Sun Sentinel,107451,2002,STATE REP,91,,FL,"MACK, CONNIE",Republican,1,,,,FL House D-91,0.95
+FL,Sun Sentinel,107451,2002,STATE REP,92,,FL,"SEILER, JOHN P JACK",Democrat,1,1,,,FL House D-92,0.95
+FL,Sun Sentinel,107451,2002,STATE REP,95,,FL,"GREENSTEIN, RONALD RON L",Democrat,1,1,,,FL House D-95,0.95
+FL,Sun Sentinel,107451,2002,STATE REP,96,,FL,"RITTER, STACY J",Democrat,1,1,,,FL House D-96,0.95
+FL,Sun Sentinel,107451,2002,STATE REP,97,,FL,"RICH, NAN H",Democrat,1,1,,,FL House D-97,0.95
+FL,Sun Sentinel,107451,2002,STATE REP,98,,FL,"WISHNER, ROGER BRIAN",Democrat,1,,,,FL House D-98,0.9
+FL,Sun Sentinel,107451,2002,STATE REP,101,,FL,"DAVIS, MIKE",Republican,1,,,,FL House D-101,0.9
+FL,Sun Sentinel,107451,2002,STATE REP,105,,FL,"GOTTLIEB, KENNETH KEN",Democrat,1,1,,,FL House D-105,0.9
+FL,Sun Sentinel,107451,2002,STATE REP,112,,FL,"RIVERA, DAVID",Republican,1,,,,FL House D-112,0.9
+FL,Sun Sentinel,107451,2002,SUPREME COURT,,,FL,"ANSTEAD, HARRY LEE",,1,,,,Florida Supreme Court justice retention; vote YES,0.95
+FL,Sun Sentinel,107451,2002,SUPREME COURT,,,FL,"WELLS, CHARLES T",,1,,,,Florida Supreme Court justice retention; vote YES,0.95
+FL,Sun Sentinel,107451,2002,COURT OF APPEALS,4,,FL,"POLEN, MARK E",,1,,,,4th DCA retention; vote YES,0.95
+FL,Sun Sentinel,107451,2002,COURT OF APPEALS,4,,FL,"SHAHOOD, GEORGE A",,1,,,,4th DCA retention; vote YES,0.95
+FL,Sun Sentinel,107451,2002,COURT OF APPEALS,4,,FL,"STEVENSON, W MATTHEW",,1,,,,4th DCA retention; vote YES,0.95
+FL,Sun Sentinel,107451,2002,COURT OF APPEALS,4,,FL,"WARNER, MARTHA C",,1,,,,4th DCA retention; vote YES,0.95
+FL,Sun Sentinel,107451,2002,JUDGE,,Circuit Court Group 26,FL,"BOWMAN, JOHN",,1,,,,Circuit Court Judge Group 26 nonpartisan,0.95
+FL,Sun Sentinel,107451,2002,JUDGE,,Circuit Court Group 41,FL,"MURPHY, JOHN J III",,1,,,,Circuit Court Judge Group 41 nonpartisan,0.95
+FL,Sun Sentinel,107451,2002,JUDGE,,Circuit Court Group 52,FL,"THURSTON, PERRY EUGENE JR",,1,,,,Circuit Court Judge Group 52 nonpartisan,0.95
+FL,Sun Sentinel,107451,2002,CNTY COMM,2,Broward County,FL,"JACOBS, KRISTIN",Democrat,1,1,,,Broward County Commissioner D-2,0.95
+FL,Sun Sentinel,107451,2002,SCHOOL BOARD,6,Broward County,FL,"RUBINSTEIN, MARTY",,1,,,,Broward School Board D-6 nonpartisan,0.95
+FL,Sun Sentinel,107451,2002,SCHOOL BOARD,8,Broward County At-Large,FL,"EICHNER, PAUL",,1,,,,Broward School Board At-Large Seat 8 nonpartisan,0.95
+FL,Sun Sentinel,107451,2004,PRESIDENT,,,FL,"KERRY, JOHN F",Democrat,1,,,,President,0.98
+FL,Sun Sentinel,107451,2004,VICE PRESIDENT,,,FL,"EDWARDS, JOHN",Democrat,1,,,,Vice President running mate with Kerry,0.98
+FL,Sun Sentinel,107451,2004,SENATOR,,,FL,"CASTOR, BETTY",Democrat,1,,,,US Senate FL (vs Mel Martinez),0.95
+FL,Sun Sentinel,107451,2004,H,17,,FL,"MEEK, KENDRICK B",Democrat,1,1,,,US House FL-17 incumbent,0.95
+FL,Sun Sentinel,107451,2004,H,20,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,,,,US House FL-20,0.95
+FL,Sun Sentinel,107451,2004,H,22,,FL,"SHAW, CLAY",Republican,1,1,,,US House FL-22 incumbent,0.95
+FL,Sun Sentinel,107451,2004,STATE SENATOR,25,,FL,"ATWATER, JEFF",Republican,1,,,,FL Senate D-25,0.95
+FL,Sun Sentinel,107451,2004,STATE SENATOR,34,,FL,"RICH, NAN H",Democrat,1,,,,FL Senate D-34,0.95
+FL,Sun Sentinel,107451,2004,STATE REP,87,,FL,"HASNER, ADAM",Republican,1,1,,,FL House D-87 incumbent,0.95
+FL,Sun Sentinel,107451,2004,STATE REP,93,,FL,"SMITH, CHRISTOPHER CHRIS",Democrat,1,1,,,FL House D-93,0.95
+FL,Sun Sentinel,107451,2004,STATE REP,94,,FL,"MEADOWS, MATTHEW MATT",Democrat,1,1,,,FL House D-94,0.95
+FL,Sun Sentinel,107451,2004,STATE REP,96,,FL,"PORTH, ARI ABRAHAM",Democrat,1,,,,FL House D-96,0.95
+FL,Sun Sentinel,107451,2004,STATE REP,97,,FL,"GOLDSTEIN, SUSAN K",Republican,1,,,,FL House D-97,0.9
+FL,Sun Sentinel,107451,2004,STATE REP,98,,FL,"SANDS, FRANKLIN",Democrat,1,,,,FL House D-98,0.95
+FL,Sun Sentinel,107451,2004,STATE REP,103,,FL,"HOLLOWAY, WILBERT TEE",Democrat,1,,,,FL House D-103,0.95
+FL,Sun Sentinel,107451,2004,ASSESSOR,,Broward County,FL,"PARRISH, LORI NANCE",Democrat,1,,,,Broward County Property Appraiser,0.95
+FL,Sun Sentinel,107451,2004,CNTY COMM,5,Broward County,FL,"WEXLER, LOIS",Democrat,1,,,,Broward County Commission D-5,0.95
+FL,Sun Sentinel,107451,2004,CNTY COMM,7,Broward County,FL,"RODSTROM, JOHN E JR",Democrat,1,1,,,Broward County Commission D-7,0.95
+FL,Sun Sentinel,107451,2004,SCHOOL BOARD,3,Broward County,FL,"DINNEN, MAUREEN S",,1,,,,Broward School Board D-3,0.95
+FL,Sun Sentinel,107451,2004,SCHOOL BOARD,9,Broward County At-Large Seat 9,FL,"BARTLEMAN, ROBIN",,1,,,,Broward School Board At-Large Seat 9,0.95
+FL,Sun Sentinel,107451,2004,SUPREME COURT,,,FL,"BELL, KENNETH B",,1,,,,FL Supreme Court retention; Vote YES,0.95
+FL,Sun Sentinel,107451,2004,SUPREME COURT,,,FL,"CANTERO, RAOUL G III",,1,,,,FL Supreme Court retention; Vote YES,0.95
+FL,Sun Sentinel,107451,2004,COURT OF APPEALS,4,,FL,"FARMER, GARY M SR",,1,,,,4th DCA retention; Vote YES,0.95
+FL,Sun Sentinel,107451,2004,COURT OF APPEALS,4,,FL,"GROSS, ROBERT M",,1,,,,4th DCA retention; Vote YES,0.95
+FL,Sun Sentinel,107451,2004,COURT OF APPEALS,4,,FL,"MAY, MELANIE G",,1,,,,4th DCA retention; Vote YES,0.95
+FL,Sun Sentinel,107451,2006,SENATOR,,,FL,"NELSON, BILL",Democrat,1,1,,,US Senate FL incumbent (vs Katherine Harris),0.95
+FL,Sun Sentinel,107451,2006,H,22,,FL,"SHAW, CLAY",Republican,1,,1,,US House FL-22 incumbent,0.95
+FL,Sun Sentinel,107451,2006,GOVERNOR,,,FL,"CRIST, CHARLIE",Republican,1,,,,FL Governor (vs Jim Davis),0.95
+FL,Sun Sentinel,107451,2006,ATTORNEY GENERAL,,,FL,"CAMPBELL, WALTER SKIP",Democrat,1,,,,FL Attorney General,0.95
+FL,Sun Sentinel,107451,2006,CFO,,,FL,"SINK, ADELAIDE ALEX",Democrat,1,,,,FL Chief Financial Officer,0.95
+FL,Sun Sentinel,107451,2006,AGRICULTURE COMMISSIONER,,,FL,"BRONSON, CHARLES",Republican,1,,1,,FL Commissioner of Agriculture and Consumer Services incumbent,0.95
+FL,Sun Sentinel,107451,2006,STATE SENATOR,30,,FL,"DEUTCH, TED",Democrat,1,,,,FL Senate D-30,0.95
+FL,Sun Sentinel,107451,2006,STATE SENATOR,32,,FL,"RING, JEREMY",Democrat,1,,,,FL Senate D-32,0.95
+FL,Sun Sentinel,107451,2006,STATE REP,87,,FL,"HASNER, ADAM",Republican,1,1,,,FL House D-87 incumbent,0.95
+FL,Sun Sentinel,107451,2006,STATE REP,91,,FL,"BOGDANOFF, ELLYN",Republican,1,1,,,FL House D-91 incumbent,0.95
+FL,Sun Sentinel,107451,2006,STATE REP,93,,FL,"THURSTON, PERRY",Democrat,1,,,,FL House D-93,0.95
+FL,Sun Sentinel,107451,2006,STATE REP,97,,FL,"GOLDSTEIN, SUSAN",Republican,1,1,,,FL House D-97 incumbent,0.9
+FL,Sun Sentinel,107451,2006,STATE REP,99,,FL,"SCHWARTZ, ELAINE",Democrat,1,,,,FL House D-99,0.95
+FL,Sun Sentinel,107451,2006,CNTY COMM,1,Broward County,FL,"JACOBS, KRISTIN",Democrat,1,1,,,Broward County Commission D-1,0.95
+FL,Sun Sentinel,107451,2006,CNTY COMM,3,Broward County,FL,"RITTER, STACY",Democrat,1,,,,Broward County Commission D-3,0.95
+FL,Sun Sentinel,107451,2006,CNTY COMM,4,Broward County,FL,"SCOTT, JIM",Republican,1,,,,Broward County Commission D-4,0.95
+FL,Sun Sentinel,107451,2006,SCHOOL BOARD,1,Broward County,FL,"SOBEL, ELEANOR",,1,,,,Broward School Board D-1,0.95
+FL,Sun Sentinel,107451,2006,SCHOOL BOARD,6,Broward County,FL,"RUBINSTEIN, MARTY",,1,1,,,Broward School Board D-6,0.95
+FL,Sun Sentinel,107451,2006,JUDGE,,County Court Group 31,FL,"FELD, ELLEN",,1,,,,Broward County Court Judge Group 31,0.95
+FL,Sun Sentinel,107451,2006,JUDGE,,County Court Group 32,FL,"DI IOIA, BRENDA LYNN",,1,,,,Broward County Court Judge Group 32,0.95
+FL,Sun Sentinel,107451,2006,JUDGE,,Circuit Court Group 57,FL,"RAYSON, JOHN C",,1,,,,Circuit Court Judge Group 57,0.95
+FL,Sun Sentinel,107451,2006,JUDGE,,Circuit Court Group 58,FL,"WOOD, MARINA",,1,,,,Circuit Court Judge Group 58,0.95
+FL,Sun Sentinel,107451,2006,SUPREME COURT,,,FL,"LEWIS, R FRED",,1,,,,FL Supreme Court Justice retention,0.95
+FL,Sun Sentinel,107451,2006,SUPREME COURT,,,FL,"PARIENTE, BARBARA JOAN",,1,,,,FL Supreme Court Justice retention,0.95
+FL,Sun Sentinel,107451,2006,SUPREME COURT,,,FL,"QUINCE, PEGGY A",,1,,,,FL Supreme Court Justice retention,0.95
+FL,Sun Sentinel,107451,2006,COURT OF APPEALS,4,,FL,"GUNTHER, BOBBY W",,1,,,,4th DCA retention,0.95
+FL,Sun Sentinel,107451,2006,COURT OF APPEALS,4,,FL,"HAZOURI, FRED A",,1,,,,4th DCA retention,0.95
+FL,Sun Sentinel,107451,2006,COURT OF APPEALS,4,,FL,"KLEIN, LARRY A",,1,,,,4th DCA retention,0.95
+FL,Sun Sentinel,107451,2006,COURT OF APPEALS,4,,FL,"STONE, BARRY J",,1,,,,4th DCA retention,0.95
+FL,Sun Sentinel,107451,2006,COURT OF APPEALS,4,,FL,"TAYLOR, CAROLE Y",,1,,,,4th DCA retention,0.95
+FL,Sun Sentinel,107451,2006,CITY COUNCIL,4,Parkland,FL,"WEISSMAN, MARK",,1,,,,Parkland City Commission D-4,0.95
+FL,Sun Sentinel,107451,2006,CITY COUNCIL,1,Southwest Ranches Town Council,FL,"AVELLO, AL",,1,,,,Southwest Ranches Town Council D-1,0.95
+FL,Sun Sentinel,107451,2006,CITY COUNCIL,,Weston City Commission Seat 4,FL,"CHERMAK, MURRAY",,1,,,,Weston City Commission Seat 4,0.95
+FL,Sun Sentinel,107451,2008,PRESIDENT,,,FL,"OBAMA, BARACK",Democrat,1,,,,President,0.98
+FL,Sun Sentinel,107451,2008,H,19,,FL,"WEXLER, ROBERT",Democrat,1,1,,,US House FL-19 incumbent,0.95
+FL,Sun Sentinel,107451,2008,H,20,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,1,,,US House FL-20 incumbent,0.95
+FL,Sun Sentinel,107451,2008,H,22,,FL,"KLEIN, RON",Democrat,1,1,,,US House FL-22 incumbent,0.95
+FL,Sun Sentinel,107451,2008,H,23,,FL,"HASTINGS, ALCEE L",Democrat,1,1,,,US House FL-23 incumbent,0.95
+FL,Sun Sentinel,107451,2008,STATE REP,87,,FL,"HASNER, ADAM",Republican,1,,1,,FL House D-87 incumbent,0.95
+FL,Sun Sentinel,107451,2008,STATE REP,91,,FL,"BOGDANOFF, ELLYN",Republican,1,,1,,FL House D-91 incumbent,0.95
+FL,Sun Sentinel,107451,2008,STATE REP,93,,FL,"THURSTON, PERRY",Democrat,1,1,,,FL House D-93 incumbent,0.95
+FL,Sun Sentinel,107451,2008,STATE REP,95,,FL,"WALDMAN, JIM",Democrat,1,1,,,FL House D-95 incumbent,0.95
+FL,Sun Sentinel,107451,2008,STATE REP,97,,FL,"KIAR, MARTIN DAVID",Democrat,1,,,,FL House D-97,0.95
+FL,Sun Sentinel,107451,2008,STATE REP,99,,FL,"SCHWARTZ, ELAINE",Democrat,1,1,,,FL House D-99 incumbent,0.95
+FL,Sun Sentinel,107451,2008,STATE REP,101,,FL,"HUDSON, MATT",Republican,1,,1,,FL House D-101 incumbent,0.9
+FL,Sun Sentinel,107451,2008,STATE SENATOR,25,,FL,"ATWATER, JEFF",Republican,1,,1,,FL Senate D-25 incumbent,0.95
+FL,Sun Sentinel,107451,2008,STATE SENATOR,29,,FL,"SMITH, CHRISTOPHER CHRIS",Democrat,1,,,,FL Senate D-29,0.95
+FL,Sun Sentinel,107451,2008,STATE SENATOR,31,,FL,"SOBEL, ELEANOR",Democrat,1,,,,FL Senate D-31,0.95
+FL,Sun Sentinel,107451,2008,CNTY CLERK,,Broward County Clerk of Courts,FL,"FORMAN, HOWARD",Democrat,1,1,,,Broward County Clerk of Courts incumbent,0.9
+FL,Sun Sentinel,107451,2008,ASSESSOR,,Broward County,FL,"PARRISH, LORI",Democrat,1,1,,,Broward County Property Appraiser incumbent,0.95
+FL,Sun Sentinel,107451,2008,SHERIFF,,Broward County,FL,"LAMBERTI, AL",Republican,1,,1,,Broward County Sheriff incumbent,0.95
+FL,Sun Sentinel,107451,2008,SUPERVISOR OF ELECTIONS,,Broward Supervisor of Elections,FL,"SNIPES, BRENDA",Democrat,1,1,,,Broward Supervisor of Elections incumbent,0.9
+FL,Sun Sentinel,107451,2008,CNTY COMM,5,Broward County,FL,"WEXLER, LOIS",Democrat,1,1,,,Broward County Commission D-5 incumbent,0.95
+FL,Sun Sentinel,107451,2008,CNTY COMM,7,Broward County,FL,"RODSTROM, JOHN",Democrat,1,1,,,Broward County Commission D-7 incumbent,0.95
+FL,Sun Sentinel,107451,2008,CNTY COMM,9,Broward County,FL,"EGGELLETION, JOSEPHUS",Democrat,1,1,,,Broward County Commission D-9 incumbent,0.95
+FL,Sun Sentinel,107451,2008,SCHOOL BOARD,1,Broward County,FL,"SALTRICK, RICHARD",,1,,,,Broward School Board D-1,0.95
+FL,Sun Sentinel,107451,2008,JUDGE,,Circuit Court Group 3,FL,"LEVEY, MARDI ANN",,1,,,,Circuit Court Group 3 - 'but voters must choose Pedro Dijols to vote for her' (ballot quirk),0.85
+FL,Sun Sentinel,107451,2008,JUDGE,,Circuit Court Group 21,FL,"EICHNER, PAUL",,1,,,,Circuit Court Group 21,0.95
+FL,Sun Sentinel,107451,2008,JUDGE,,Circuit Court Group 27,FL,"FEREN, STEVE",,1,,,,Circuit Court Group 27,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,,Hallandale Beach City Commission At-Large,FL,"SANDERS, ANTHONY",,1,,,,Hallandale Beach City Commission At-Large (two seats),0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,,Hallandale Beach City Commission At-Large,FL,"LEWY, ALEXANDER",,1,,,,Hallandale Beach City Commission At-Large (two seats),0.95
+FL,Sun Sentinel,107451,2008,MAYOR,,Lauderdale Lakes,FL,"RUSSELL, BARRINGTON A SR",,1,,,,Lauderdale Lakes Mayor,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,1,Lauderdale Lakes Seat 1,FL,"SPENCE, DWAYNE MICHAEL",,1,,,,Lauderdale Lakes Seat 1,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,4,Lauderdale Lakes Seat 4,FL,"HAWKINS-WILLIAMS, PATRICIA",,1,,,,Lauderdale Lakes Seat 4,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,5,Lauderdale Lakes Seat 5,FL,"COLEMAN, EDWINA",,1,,,,Lauderdale Lakes Seat 5,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,6,Lauderdale Lakes Seat 6,FL,"WILLIAMS, BENJAMIN C SR",,1,,,,Lauderdale Lakes Seat 6,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,1,Lauderhill Seat 1,FL,"BERGER, HOWARD",,1,,,,Lauderhill Seat 1,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,2,Lauderhill Seat 2,FL,"HOLNESS, DALE V C",,1,,,,Lauderhill Seat 2,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,3,Southwest Ranches,FL,"MAINES, DON",,1,,,,Southwest Ranches D-3,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,4,Southwest Ranches,FL,"HUGDAHL, HOLLY",,1,,,,Southwest Ranches D-4,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,1,Tamarac,FL,"BUSHNELL, PAMELA",,1,,,,Tamarac D-1,0.95
+FL,Sun Sentinel,107451,2008,MAYOR,,Wilton Manors,FL,"NEWTON, SCOTT",,1,,,,Wilton Manors Mayor,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,,Wilton Manors At-Large,FL,"FLIPPEN, JUSTIN",,1,,,,Wilton Manors At-Large commission seat,0.95
+FL,Sun Sentinel,107451,2008,CITY COUNCIL,,Wilton Manors At-Large,FL,"ELLICH, CELESTE",,1,,,,Wilton Manors At-Large commission seat,0.95
+FL,Sun Sentinel,107451,2010,SENATOR,,,FL,"RUBIO, MARCO",Republican,1,,,,"US Senate FL (vs Crist Independent, Meek Democrat)",0.95
+FL,Sun Sentinel,107451,2010,H,19,,FL,"DEUTCH, TED",Democrat,1,1,,,US House FL-19 incumbent,0.95
+FL,Sun Sentinel,107451,2010,H,20,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,1,,,US House FL-20 incumbent,0.95
+FL,Sun Sentinel,107451,2010,H,22,,FL,"KLEIN, RON",Democrat,1,1,,,US House FL-22 incumbent,0.95
+FL,Sun Sentinel,107451,2010,H,23,,FL,"HASTINGS, ALCEE L",Democrat,1,1,,,US House FL-23 incumbent,0.95
+FL,Sun Sentinel,107451,2010,GOVERNOR,,,FL,"SINK, ALEX",Democrat,1,,,,FL Governor (vs Rick Scott Republican),0.95
+FL,Sun Sentinel,107451,2010,ATTORNEY GENERAL,,,FL,"GELBER, DAN",Democrat,1,,,,FL Attorney General,0.95
+FL,Sun Sentinel,107451,2010,CFO,,,FL,"ATWATER, JEFF",Republican,1,,,,FL Chief Financial Officer,0.95
+FL,Sun Sentinel,107451,2010,AGRICULTURE COMMISSIONER,,,FL,"PUTNAM, ADAM",Republican,1,,,,FL Commissioner of Agriculture,0.95
+FL,Sun Sentinel,107451,2010,STATE SENATOR,25,,FL,"BOGDANOFF, ELLYN",Republican,1,,,,FL Senate D-25,0.95
+FL,Sun Sentinel,107451,2010,STATE SENATOR,27,,FL,"RADER, KEVIN",Democrat,1,,,,FL Senate D-27,0.95
+FL,Sun Sentinel,107451,2010,STATE SENATOR,32,,FL,"RING, JEREMY",Democrat,1,1,,,FL Senate D-32 incumbent,0.95
+FL,Sun Sentinel,107451,2010,STATE REP,87,,FL,"HAGER, BILL",Republican,1,,,,FL House D-87,0.95
+FL,Sun Sentinel,107451,2010,STATE REP,90,,FL,"SLOSBERG, IRV",Democrat,1,,,,FL House D-90,0.95
+FL,Sun Sentinel,107451,2010,STATE REP,91,,FL,"STERN, BARBRA",Democrat,1,,,,FL House D-91,0.95
+FL,Sun Sentinel,107451,2010,STATE REP,95,,FL,"WALDMAN, JIM",Democrat,1,1,,,FL House D-95 incumbent,0.95
+FL,Sun Sentinel,107451,2010,STATE REP,96,,FL,"PORTH, ARI",Democrat,1,1,,,FL House D-96 incumbent,0.95
+FL,Sun Sentinel,107451,2010,STATE REP,98,,FL,"SANDS, FRANKLIN",Democrat,1,1,,,FL House D-98 incumbent,0.95
+FL,Sun Sentinel,107451,2010,STATE REP,100,,FL,"JENNE, EVAN",Democrat,1,1,,,FL House D-100,0.95
+FL,Sun Sentinel,107451,2010,STATE REP,101,,FL,"HUDSON, MATT",Republican,1,,1,,FL House D-101 incumbent,0.9
+FL,Sun Sentinel,107451,2010,CNTY COMM,4,Broward County,FL,"KEECHL, KEN",Democrat,1,1,,,Broward County Commission D-4,0.95
+FL,Sun Sentinel,107451,2010,CNTY COMM,6,Broward County,FL,"GUNZBERGER, SUE",Democrat,1,1,,,Broward County Commission D-6,0.95
+FL,Sun Sentinel,107451,2010,CNTY COMM,8,Broward County,FL,"SHARIEF, BARBARA",Democrat,1,,,,Broward County Commission D-8,0.95
+FL,Sun Sentinel,107451,2010,CNTY COMM,9,Broward County,FL,"HOLNESS, DALE V C",Democrat,1,,,,Broward County Commission D-9,0.95
+FL,Sun Sentinel,107451,2010,JUDGE,,County Court Group 1,FL,"HOWES, JOHN ROBERT",,1,,,,Broward County Court Group 1,0.95
+FL,Sun Sentinel,107451,2010,JUDGE,,County Court Group 26,FL,"MCLAWRENCE, F J",,1,,,,Broward County Court Group 26,0.95
+FL,Sun Sentinel,107451,2012,PRESIDENT,,,FL,"ROMNEY, MITT",Republican,1,,,,Sun Sentinel recommends Mitt Romney for President,0.97
+FL,Sun Sentinel,107451,2012,SENATOR,,,FL,"NELSON, BILL",Democrat,1,1,,,U.S. Senate endorsement; Nelson is the incumbent,0.97
+FL,Sun Sentinel,107451,2012,H,20,,FL,"HASTINGS, ALCEE",Democrat,1,1,,,U.S. Representative District 20,0.96
+FL,Sun Sentinel,107451,2012,H,21,,FL,"DEUTCH, TED",Democrat,1,1,,,U.S. Representative District 21,0.96
+FL,Sun Sentinel,107451,2012,H,22,,FL,"HASNER, ADAM",Republican,1,,,,U.S. Representative District 22,0.95
+FL,Sun Sentinel,107451,2012,H,23,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,1,,,U.S. Representative District 23,0.96
+FL,Sun Sentinel,107451,2012,STATE SENATOR,25,,FL,"ABRUZZO, JOSEPH",Democrat,1,,,,Florida State Senate District 25,0.94
+FL,Sun Sentinel,107451,2012,STATE SENATOR,29,,FL,"RING, JEREMY",Democrat,1,1,,,Florida State Senate District 29,0.94
+FL,Sun Sentinel,107451,2012,STATE SENATOR,31,,FL,"SMITH, CHRISTOPHER ""CHRIS""",Democrat,1,,,,Florida State Senate District 31,0.94
+FL,Sun Sentinel,107451,2012,STATE SENATOR,33,,FL,"SOBEL, ELEANOR",Democrat,1,1,,,Florida State Senate District 33,0.94
+FL,Sun Sentinel,107451,2012,STATE SENATOR,34,,FL,"BOGDANOFF, ELLYN",Republican,1,1,,,Florida State Senate District 34,0.94
+FL,Sun Sentinel,107451,2012,STATE REP,81,,FL,"RADER, KEVIN",Democrat,1,,,,Florida House District 81,0.94
+FL,Sun Sentinel,107451,2012,STATE REP,89,,FL,"HAGER, BILL",Republican,1,1,,,Florida House District 89,0.94
+FL,Sun Sentinel,107451,2012,STATE REP,90,,FL,"BERMAN, LORI",Democrat,1,1,,,Florida House District 90,0.94
+FL,Sun Sentinel,107451,2012,STATE REP,93,,FL,"MORAITIS, GEORGE",Republican,1,1,,,Florida House District 93,0.94
+FL,Sun Sentinel,107451,2012,STATE REP,94,,FL,"THURSTON, PERRY",Democrat,1,1,,,Florida House District 94,0.94
+FL,Sun Sentinel,107451,2012,STATE REP,97,,FL,"MOSKOWITZ, JARED",Democrat,1,,,,Florida House District 97,0.94
+FL,Sun Sentinel,107451,2012,STATE REP,98,,FL,"EDWARDS, KATIE",Democrat,1,,,,Florida House District 98,0.94
+FL,Sun Sentinel,107451,2012,STATE REP,99,,FL,"SCHWARTZ, ELAINE",Democrat,1,1,,,Florida House District 99,0.94
+FL,Sun Sentinel,107451,2012,STATE REP,104,,FL,"HARRISON, DOUG",Republican,1,,,,Florida House District 104,0.93
+FL,Sun Sentinel,107451,2012,CNTY COMM,3,Broward County,FL,"RITTER, STACY",Democrat,1,1,,,Broward County Commission District 3,0.94
+FL,Sun Sentinel,107451,2012,SHERIFF,,Broward County,FL,"LAMBERTI, AL",Republican,1,1,,,Broward County Sheriff,0.95
+FL,Sun Sentinel,107451,2012,CNTY CLERK,,Broward County (Clerk of Courts),FL,"FORMAN, HOWARD",Democrat,1,1,,,Broward Clerk of Courts,0.9
+FL,Sun Sentinel,107451,2012,DA/PROSECUTOR,,Broward County (State Attorney),FL,"SATZ, MICHAEL",Democrat,1,1,,,Broward State Attorney,0.92
+FL,Sun Sentinel,107451,2012,SCHOOL BOARD,4,Broward County,FL,"FREEDMAN, ABBY",,1,,,,Broward School Board District 4,0.94
+FL,Sun Sentinel,107451,2012,SCHOOL BOARD,5,Broward County,FL,"OSGOOD, ROSALYN",,1,,,,Broward School Board District 5,0.94
+FL,Sun Sentinel,107451,2012,SCHOOL BOARD,8,Broward County,FL,"KORN, DONNA",,1,,,,Broward School Board District 8,0.94
+FL,Sun Sentinel,107451,2012,SCHOOL BOARD,9,Broward County,FL,"BARTLEMAN, ROBIN",,1,,,,Broward School Board District 9,0.94
+FL,Sun Sentinel,107451,2012,JUDGE,45,Broward Circuit Court Group 45,FL,"GONZALEZ, JULIO",,1,,,,Broward Circuit Court Judge Group 45,0.93
+FL,Sun Sentinel,107451,2012,JUDGE,5,Broward County Court Group 5,FL,"LEVINE, OLGA M.",,1,,,,Broward County Court Group 5,0.93
+FL,Sun Sentinel,107451,2012,JUDGE,10,Broward County Court Group 10,FL,"DIAZ, ROBERT F. ""BOB""",,1,,,,Broward County Court Group 10,0.93
+FL,Sun Sentinel,107451,2012,CNTY COMM,3,Palm Beach County,FL,"VANA, SHELLEY",Democrat,1,1,,,Palm Beach County Commission District 3,0.94
+FL,Sun Sentinel,107451,2012,CNTY COMM,5,Palm Beach County,FL,"BERGER, MARY LOU",Democrat,1,,,,Palm Beach County Commission District 5,0.94
+FL,Sun Sentinel,107451,2012,DA/PROSECUTOR,,Palm Beach County (State Attorney),FL,"GERSHMAN, ROBERT",Independent,1,,,,Palm Beach State Attorney; NPA,0.9
+FL,Sun Sentinel,107451,2012,TAX COLLECTOR,,Palm Beach County (Tax Collector),FL,"GANNON, ANNE M.",Democrat,1,1,,,Palm Beach Tax Collector,0.9
+FL,Sun Sentinel,107451,2012,COURT OF APPEALS,,District Court of Appeal,FL,"CONNER, BURTON C.",,1,,,,DCA retention - Vote YES,0.93
+FL,Sun Sentinel,107451,2012,COURT OF APPEALS,,District Court of Appeal,FL,"TAYLOR, CAROLE Y.",,1,,,,DCA retention - Vote YES,0.93
+FL,Sun Sentinel,107451,2012,SUPREME COURT,,Florida Supreme Court,FL,"LEWIS, FRED",,1,1,,,Supreme Court retention - Vote YES,0.94
+FL,Sun Sentinel,107451,2012,SUPREME COURT,,Florida Supreme Court,FL,"PARIENTE, BARBARA",,1,1,,,Supreme Court retention - Vote YES,0.94
+FL,Sun Sentinel,107451,2012,SUPREME COURT,,Florida Supreme Court,FL,"QUINCE, PEGGY",,1,1,,,Supreme Court retention - Vote YES,0.94
+FL,Sun Sentinel,107451,2012,MAYOR,,Cooper City,FL,"ROSS, GREG",,1,,,,Cooper City Mayor,0.93
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,3,Cooper City,FL,"GREEN, JEFF",,1,,,,Cooper City District 3,0.92
+FL,Sun Sentinel,107451,2012,MAYOR,,Coral Springs,FL,"ARNOLD, JOHN",,1,,,,Coral Springs Mayor,0.93
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,2,Coral Springs,FL,"DALEY, DAN",,1,,,,Coral Springs Seat 2,0.92
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,AT-LARGE,Dania Beach,FL,"DUKE III, WALTER",,1,,,,Dania Beach at-large,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,AT-LARGE,Dania Beach,FL,"HANNOVER, BRUCE",,1,,,,Dania Beach at-large,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,AT-LARGE,Dania Beach,FL,"JONES, ALBERT C.",,1,,,,Dania Beach at-large,0.91
+FL,Sun Sentinel,107451,2012,MAYOR,,Hallandale Beach,FL,"LONDON, KEITH",,1,,,,Hallandale Beach Mayor,0.93
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,AT-LARGE,Hallandale Beach,FL,"LAZAROW, MICHELE",,1,,,,Hallandale Beach at-large,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,AT-LARGE,Hallandale Beach,FL,"SANDERS, ANTHONY A.",,1,,,,Hallandale Beach at-large,0.91
+FL,Sun Sentinel,107451,2012,MAYOR,,Hollywood,FL,"BOBER, PETER",,1,1,,,Hollywood Mayor,0.93
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,1,Hollywood,FL,"ASSEFF, PATRICIA",,1,,,,Hollywood District 1,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,2,Hollywood,FL,"HERNANDEZ, PETER D.",,1,,,,Hollywood District 2,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,3,Hollywood,FL,"O'SHEEHAN, HEIDI",,1,,,,Hollywood District 3,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,4,Hollywood,FL,"BLATTNER, DICK",,1,,,,Hollywood District 4,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,5,Hollywood,FL,"BATES, JUDY",,1,,,,Hollywood District 5,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,6,Hollywood,FL,"HOLODAK, ED",,1,,,,Hollywood District 6,0.91
+FL,Sun Sentinel,107451,2012,MAYOR,,Lauderdale Lakes,FL,"RUSSELL SR., BARRINGTON A.",,1,,,,Lauderdale Lakes Mayor,0.92
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,4,Lauderdale Lakes,FL,"HAWKINS-WILLIAMS, PATRICIA",,1,,,,Lauderdale Lakes Seat 4,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,6,Lauderdale Lakes,FL,"WILLIAMS, BENJAMIN",,1,,,,Lauderdale Lakes Seat 6,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,1,Lauderhill,FL,"BERGER, HOWARD",,1,,,,Lauderhill Seat 1,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,3,Lauderhill,FL,"BATES, M. MARGARET",,1,,,,Lauderhill Seat 3,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,1,Margate,FL,"TALERICO, FRANK",,1,,,,Margate District 1,0.9
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,2,Margate,FL,"MESSANA, FRANK",,1,,,,Margate District 2,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,3,Margate,FL,"PEERMAN, LESA ""LE""",,1,,,,Margate District 3,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,4,Margate,FL,"RUZZANO, TOMMY",,1,,,,Margate District 4,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,5,Margate,FL,"YARDLEY, SCOTT",,1,,,,Margate District 5,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,4,Parkland,FL,"WEISSMAN, MARK",,1,,,,Parkland District 4,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,A,Sunrise,FL,"ROSEN, DON",,1,,,,Sunrise Group A,0.91
+FL,Sun Sentinel,107451,2012,MAYOR,,Southwest Ranches,FL,"NELSON, JEFF",,1,,,,Southwest Ranches Mayor,0.92
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,1,Weston,FL,"GOMEZ, ANGEL",,1,,,,Weston Seat 1,0.91
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,AT-LARGE,Wilton Manors,FL,"CARSON, JULIE",,1,,,,Wilton Manors at-large,0.9
+FL,Sun Sentinel,107451,2012,CITY COUNCIL,AT-LARGE,Wilton Manors,FL,"GREEN, TOM",,1,,,,Wilton Manors at-large,0.9
+FL,Sun Sentinel,107451,2014,H,20,,FL,"HASTINGS, ALCEE",Democrat,1,1,,,U.S. House District 20,0.96
+FL,Sun Sentinel,107451,2014,H,21,,FL,"DEUTCH, TED",Democrat,1,1,,,U.S. House District 21,0.96
+FL,Sun Sentinel,107451,2014,H,22,,FL,"FRANKEL, LOIS",Democrat,1,1,,,U.S. House District 22,0.96
+FL,Sun Sentinel,107451,2014,H,23,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,1,,,U.S. House District 23,0.96
+FL,Sun Sentinel,107451,2014,H,24,,FL,"WILSON, FREDERICA",Democrat,1,1,,,U.S. House District 24,0.96
+FL,Sun Sentinel,107451,2014,GOVERNOR,,,FL,"CRIST, CHARLIE",Democrat,1,,,,Florida Governor; Crist endorsed against incumbent Rick Scott,0.96
+FL,Sun Sentinel,107451,2014,ATTORNEY GENERAL,,,FL,"SHELDON, GEORGE",Democrat,1,,,,Florida Attorney General,0.95
+FL,Sun Sentinel,107451,2014,CFO,,,FL,"ATWATER, JEFF",Republican,1,,1,,Florida Chief Financial Officer; incumbent,0.95
+FL,Sun Sentinel,107451,2014,AGRICULTURE COMMISSIONER,,,FL,"PUTNAM, ADAM",Republican,1,,1,,Florida Agriculture Commissioner; incumbent,0.95
+FL,Sun Sentinel,107451,2014,STATE SENATOR,34,,FL,"SACHS, MARIA",Democrat,1,1,,,Florida Senate District 34,0.94
+FL,Sun Sentinel,107451,2014,STATE REP,86,,FL,"PAFFORD, MARK",Democrat,1,1,,,Florida House District 86,0.94
+FL,Sun Sentinel,107451,2014,STATE REP,89,,FL,"HAGER, BILL",Republican,1,1,,,Florida House District 89,0.94
+FL,Sun Sentinel,107451,2014,STATE REP,92,,FL,"CLARKE-REED, GWYN",Democrat,1,1,,,Florida House District 92,0.94
+FL,Sun Sentinel,107451,2014,STATE REP,93,,FL,"MORAITIS, GEORGE",Republican,1,,1,,Florida House District 93,0.94
+FL,Sun Sentinel,107451,2014,STATE REP,100,,FL,"GELLER, JOE",Democrat,1,,,,Florida House District 100,0.94
+FL,Sun Sentinel,107451,2014,STATE REP,103,,FL,"DIAZ JR., MANNY",Republican,1,1,,,Florida House District 103,0.94
+FL,Sun Sentinel,107451,2014,STATE REP,105,,FL,"TRUJILLO, CARLOS",Republican,1,1,,,Florida House District 105,0.94
+FL,Sun Sentinel,107451,2014,COURT OF APPEALS,4,4th District Court of Appeal,FL,"FORST, ALAN",,1,,,,Retain - 4th DCA,0.93
+FL,Sun Sentinel,107451,2014,COURT OF APPEALS,4,4th District Court of Appeal,FL,"KLINGENSMITH, MARK",,1,,,,Retain - 4th DCA,0.93
+FL,Sun Sentinel,107451,2014,COURT OF APPEALS,4,4th District Court of Appeal,FL,"STEVENSON, W. MATTHEW",,1,,,,Retain - 4th DCA,0.93
+FL,Sun Sentinel,107451,2014,COURT OF APPEALS,4,4th District Court of Appeal,FL,"WARNER, MARTHA",,1,,,,Retain - 4th DCA,0.93
+FL,Sun Sentinel,107451,2014,CNTY COMM,4,Palm Beach County,FL,"ABRAMS, STEVEN",Republican,1,1,,,Palm Beach County Commission District 4,0.94
+FL,Sun Sentinel,107451,2014,CNTY COMM,6,Palm Beach County,FL,"MCKINLAY, MELISSA",Democrat,1,,,,Palm Beach County Commission District 6,0.94
+FL,Sun Sentinel,107451,2014,SCHOOL BOARD,4,Palm Beach County,FL,"WHITFIELD, ERICA",,1,,,,Palm Beach School Board District 4,0.93
+FL,Sun Sentinel,107451,2016,PRESIDENT,,,FL,"CLINTON, HILLARY",Democrat,1,,,,"Clinton has experience on social, national security, immigration, health care, and family issues; respected by world leaders",0.97
+FL,Sun Sentinel,107451,2016,PRESIDENT,,,FL,"TRUMP, DONALD",Republican,0,,,,"Opposed Trump as racist, misogynistic",0.96
+FL,Sun Sentinel,107451,2016,SENATOR,,,FL,"MURPHY, PATRICK",Democrat,1,,,,"Murphy right on taxes, Social Security, equal rights, climate change; opponent Rubio (R-incumbent) doesn't do the work",0.95
+FL,Sun Sentinel,107451,2016,SENATOR,,,FL,"RUBIO, MARCO",Republican,0,,1,,Opposed Rubio - does not do the work of serving in the Senate,0.94
+FL,Sun Sentinel,107451,2016,H,20,,FL,"HASTINGS, ALCEE",Democrat,1,1,,,Twelve terms in Congress; opponent admits he can't win,0.95
+FL,Sun Sentinel,107451,2016,H,21,,FL,"FRANKEL, LOIS",Democrat,1,1,,,"Experienced lawmaker, focused on plague of sober homes, Social Security, Everglades",0.95
+FL,Sun Sentinel,107451,2016,H,22,,FL,"DEUTCH, TED",Democrat,1,1,,,"Strong advocate on Social Security, environmental, health care; opponent lacks experience",0.95
+FL,Sun Sentinel,107451,2016,H,23,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,1,,,"Smart, influential, makes right calls; opponent lacks experience",0.95
+FL,Sun Sentinel,107451,2016,STATE SENATOR,34,,FL,"FARMER, GARY",Democrat,1,,,,"Will bring energy to Senate Democrats; smart, strong voice in Tallahassee",0.94
+FL,Sun Sentinel,107451,2016,STATE REP,90,,FL,"BERMAN, LORI",Democrat,1,1,,,Long-serving Democrat; Libertarian challenger offers only rhetoric,0.94
+FL,Sun Sentinel,107451,2016,STATE REP,93,,FL,"KEECHL, KEN",Democrat,1,,,,Would speak up for South Florida; three-term incumbent too timid,0.94
+FL,Sun Sentinel,107451,2016,STATE REP,103,,FL,"GONZALEZ PETKOVICH, IVETTE",Democrat,1,,,,Challenger; Miami incumbent has conflict of interest on charter schools,0.92
+FL,Sun Sentinel,107451,2016,STATE REP,104,,FL,"STARK, RICHARD",Democrat,1,1,,,Pragmatic incumbent; challenger uninformed,0.94
+FL,Sun Sentinel,107451,2016,STATE REP,105,,FL,"TRUJILLO, CARLOS",Republican,1,1,,,Sponsored surprise medical bill legislation; lacks a credible challenger,0.94
+FL,Sun Sentinel,107451,2016,SUPREME COURT,,Florida Supreme Court,FL,ALL JUSTICES,,1,,,,Vote YES on retention of all Supreme Court justices and appellate court judges,0.92
+FL,Sun Sentinel,107451,2016,COURT OF APPEALS,,Appellate Courts,FL,ALL JUDGES,,1,,,,Vote YES on retention of all appellate court judges,0.92
+FL,Sun Sentinel,107451,2016,JUDGE,3,Broward County Court Group 3,FL,"TAYLOR BARNER, FLORENCE",,1,,,,Newcomer with impressive resume,0.91
+FL,Sun Sentinel,107451,2016,JUDGE,7,Broward County Court Group 7,FL,"DI PIETRO, NINA WEATHERLY",,1,,,,Incumbent has done a good job in domestic violence division,0.91
+FL,Sun Sentinel,107451,2016,PUBLIC DEFENDER,14,Broward County Court Group 14,FL,"PETERSON, BRADFORD",,1,,,,"Public defender; integrity, demeanor and work ethic",0.91
+FL,Sun Sentinel,107451,2016,JUDGE,9,Broward Circuit Court Group 9,FL,"KRAUSS, LEA",,1,,,,"Smart and charming, formidable candidate",0.91
+FL,Sun Sentinel,107451,2016,JUDGE,15,Broward Circuit Court Group 15,FL,"RIFKIN, ABBE",,1,,,,"Smart, highly accomplished",0.91
+FL,Sun Sentinel,107451,2016,CNTY COMM,3,Broward County,FL,"UDINE, MICHAEL",Democrat,1,,,,Parkland mayor; brings professionalism,0.93
+FL,Sun Sentinel,107451,2016,CNTY COMM,5,Broward County,FL,"GELLER, STEVE",Democrat,1,,,,"Smart, knows the issues; 20 years in Florida Legislature",0.93
+FL,Sun Sentinel,107451,2016,SHERIFF,,Broward County,FL,"ISRAEL, SCOTT",Democrat,1,1,,,Lowered crime; made good calls on controversial issues; opponent never rose above sergeant,0.94
+FL,Sun Sentinel,107451,2016,JUDGE,11,Palm Beach County Court Group 11,FL,"LERMAN, GREGG",,1,,,,Right attitude for the people's court,0.9
+FL,Sun Sentinel,107451,2016,JUDGE,4,Palm Beach Circuit Court Group 4,FL,"TENDRICH, GREGORY",,1,,,,Both qualified; greater experience is difference,0.9
+FL,Sun Sentinel,107451,2016,CNTY COMM,1,Palm Beach County,FL,"BENNETT, ANTHONY",,1,,,,Challenger to incumbent who made bad votes on development,0.92
+FL,Sun Sentinel,107451,2016,CNTY COMM,3,Palm Beach County,FL,"KERNER, DAVE",Democrat,1,,,,"Two-term state legislator, former cop; could lead to more progressive commission",0.93
+FL,Sun Sentinel,107451,2016,CNTY COMM,5,Palm Beach County,FL,"BERGER, MARY LOU",Democrat,1,1,,,Incumbent weak on growth management but challenger weaker,0.92
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,3,Hallandale Beach,FL,"TAUB, ANABELLE",,1,,,,Hallandale Beach Seat 3,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,4,Hallandale Beach,FL,"LAZAROW, MICHELE",,1,1,,,Hallandale Beach Seat 4; incumbent,0.9
+FL,Sun Sentinel,107451,2016,MAYOR,,Hollywood,FL,"LEVY, JOSH",,1,,,,Hollywood Mayor,0.92
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,1,Hollywood,FL,"CASE, DEBRA",,1,,,,Hollywood Commission District 1,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,2,Hollywood,FL,"BURTON SR., TIMOTHY",,1,,,,Hollywood Commission District 2,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,4,Hollywood,FL,"BLATTNER, RICHARD",,1,1,,,Hollywood Commission District 4,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,6,Hollywood,FL,"SHERWOOD, LINDA",,1,,,,Hollywood Commission District 6,0.9
+FL,Sun Sentinel,107451,2016,MAYOR,,Lauderdale Lakes,FL,"ROGERS, HAZELLE",,1,,,,Lauderdale Lakes Mayor; former commissioner,0.92
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,3,Lauderdale Lakes,FL,"PHILLIPS, VERONICA",,1,,,,Lauderdale Lakes Seat 3,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,4,Lauderdale Lakes,FL,"DAVEY, SANDRA",,1,,,,Lauderdale Lakes Seat 4,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,1,Lauderhill,FL,"BERGER, HOWARD",,1,1,,,Lauderhill Seat 1,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,2,Lauderhill,FL,"THURSTON, KEN",,1,1,,,Lauderhill Seat 2,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,3,Lauderhill,FL,"BATES, MARGARET",,1,,,,Lauderhill Seat 3,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,1,Margate,FL,"LESTER, MILLIE",,1,1,,,Margate Seat 1; incumbent,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,2,Margate,FL,"SCHWARTZ, ARLENE",,1,,,,Margate Seat 2; former commissioner,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,,North Lauderdale,FL,"HILTON, DAVID",,1,,,,North Lauderdale commission,0.89
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,,Cooper City,FL,"CURRAN, JAMES",,1,,,,Cooper City; more experienced than opponent,0.89
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,,Coral Springs,FL,BOSOVICH,,1,,,,Coral Springs commission - challenger focused on infrastructure,0.7
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,AT-LARGE,Dania Beach,FL,"BRANDIMARTE, CHICKIE",,1,1,,,Dania Beach at-large; retain incumbent,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,AT-LARGE,Dania Beach,FL,"JONES, ALBERT",,1,1,,,Dania Beach at-large; retain incumbent,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,AT-LARGE,Dania Beach,FL,"HARRIS, WILLIAM ""BILL""",,1,,,,Dania Beach at-large; small business owner,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,1,Oakland Park,FL,"LONERGAN, TIM",,1,,,,Oakland Park Commission Pick 1; current vice mayor,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,2,Oakland Park,FL,"PEREZ, JOHN M.",,1,,,,Oakland Park Commission Pick 2,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,3,Oakland Park,FL,"STOLLBERG-APPLEYARD, MITCHELL",,1,,,,Oakland Park Commission Pick 3,0.9
+FL,Sun Sentinel,107451,2016,MAYOR,,Parkland,FL,"HUNSCHOFSKY, CHRISTINE",,1,,,,Parkland Mayor; advocates smart growth,0.92
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,3,Parkland,FL,"CUTLER, KEN",,1,,,,Parkland District 3,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,3,Plantation,FL,"TAUSSIG, MICHAEL",,1,,,,Plantation Commission Group 3; opposes incumbent Ron Jacobs,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,4,Plantation,FL,"ZIMMERMAN, CHRIS",,1,1,,,Plantation Commission Group 4; enthusiastic incumbent,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,5,Plantation,FL,"LEVY, ROBERT",,1,1,,,Plantation Commission Group 5; incumbent focused on future water reach,0.9
+FL,Sun Sentinel,107451,2016,MAYOR,,Pompano Beach,FL,"FISHER, LAMAR",,1,1,,,Pompano Beach Mayor; effective,0.92
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,1,Pompano Beach,FL,"STACER, FRED",,1,,,,Pompano Beach Commission District 1,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,2,Pompano Beach,FL,"BURRIE, CHARLOTTE",,1,1,,,Pompano Beach Commission District 2; 9-year incumbent,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,3,Pompano Beach,FL,"HARDIN, REX",,1,,,,Pompano Beach Commission District 3,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,4,Pompano Beach,FL,"PHILLIPS, ED",,1,1,,,Pompano Beach Commission District 4,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,5,Pompano Beach,FL,"MOSS, BARRY",,1,,,,Pompano Beach Commission District 5,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,3,Southwest Ranches,FL,FISIKELLI,,1,,,,Southwest Ranches Council District 3 - town founder remains passionate,0.75
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,4,Southwest Ranches,FL,"SCHROEDER, DENISE",,1,,,,Southwest Ranches Council District 4; town founder,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,,Sunrise,FL,"DOUGLAS, MARK",,1,,,,Sunrise commission; would be first minority elected,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,1,Tamarac,FL,"BUSHNELL, PAMELA",,1,,,,Tamarac Commission District 1; recreational opportunities for younger residents,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,3,Tamarac,FL,"FISHMAN, JULIE",,1,,,,Tamarac Commission District 3,0.9
+FL,Sun Sentinel,107451,2016,MAYOR,,West Park,FL,"JONES, ERIC H.",,1,1,,,West Park Mayor; only mayor since incorporated 2005,0.92
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,4,West Park,FL,"BRUNSON, FELICIA",,1,,,,West Park Commission Seat 4; former commissioner over incumbent Pita Mack,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,,Weston,FL,"MOOT, GARY",,1,,,,"Weston commission; recognizes tree, sign ordinance issues",0.9
+FL,Sun Sentinel,107451,2016,MAYOR,,Wilton Manors,FL,"RESNICK, GARY",,1,1,,,Wilton Manors Mayor,0.92
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,1,Wilton Manors,FL,"CARSON, JULIE",,1,,,,Wilton Manors Commission Pick 1,0.9
+FL,Sun Sentinel,107451,2016,CITY COUNCIL,2,Wilton Manors,FL,"GREEN, TOM",,1,,,,Wilton Manors Commission Pick 2,0.9
+FL,Sun Sentinel,107451,2018,GOVERNOR,,,FL,"GILLUM, ANDREW",Democrat,1,,,,Florida Governor; endorsed over DeSantis,0.97
+FL,Sun Sentinel,107451,2018,SENATOR,,,FL,"NELSON, BILL",Democrat,1,1,,,U.S. Senate; incumbent over Rick Scott,0.97
+FL,Sun Sentinel,107451,2018,ATTORNEY GENERAL,,,FL,"SHAW, SEAN",Democrat,1,,,,Florida Attorney General,0.95
+FL,Sun Sentinel,107451,2018,AGRICULTURE COMMISSIONER,,,FL,"FRIED, NIKKI",Democrat,1,,,,Florida Agriculture Commissioner,0.95
+FL,Sun Sentinel,107451,2018,CFO,,,FL,"RING, JEREMY",Democrat,1,,,,Florida Chief Financial Officer,0.95
+FL,Sun Sentinel,107451,2018,H,22,,FL,"DEUTCH, TED",Democrat,1,1,,,U.S. House District 22,0.96
+FL,Sun Sentinel,107451,2018,H,23,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,1,,,U.S. House District 23,0.96
+FL,Sun Sentinel,107451,2018,STATE REP,89,,FL,"BONFIGLIO, JAMES",Democrat,1,,,,Florida House District 89,0.94
+FL,Sun Sentinel,107451,2018,STATE REP,93,,FL,"LAMARCA, CHIP",Republican,1,,,,Florida House District 93,0.94
+FL,Sun Sentinel,107451,2018,STATE REP,98,,FL,"GOTTLIEB, MICHAEL",Democrat,1,,,,Florida House District 98,0.94
+FL,Sun Sentinel,107451,2018,SUPREME COURT,,Florida Supreme Court,FL,"LAWSON, ALAN",,1,1,,,Vote YES for retention,0.94
+FL,Sun Sentinel,107451,2018,COURT OF APPEALS,4,Fourth District Court of Appeal,FL,"CONNER, BURTON",,1,,,,Vote YES for retention,0.93
+FL,Sun Sentinel,107451,2018,COURT OF APPEALS,4,Fourth District Court of Appeal,FL,"KUNTZ, JEFFREY",,1,,,,Vote YES for retention,0.93
+FL,Sun Sentinel,107451,2018,COURT OF APPEALS,4,Fourth District Court of Appeal,FL,"TAYLOR, CAROLE",,1,,,,Vote YES for retention,0.93
+FL,Sun Sentinel,107451,2018,CNTY COMM,4,Broward County,FL,"MCCARTNEY, SHARI",,1,,,,Broward County Commission District 4,0.93
+FL,Sun Sentinel,107451,2018,CNTY COMM,,Palm Beach County,FL,"WEINROTH, ROBERT",,1,,,,Palm Beach County Commission,0.93
+FL,Sun Sentinel,107451,2018,SCHOOL BOARD,1,Broward County,FL,"SILVERNALE, JIM",,1,,,,Broward School Board District 1,0.93
+FL,Sun Sentinel,107451,2018,JUDGE,9,Broward County Court Group 9,FL,"CAWTHON, COREY AMANDA",,1,,,,Broward County Court Group 9,0.91
+FL,Sun Sentinel,107451,2018,JUDGE,19,Broward County Court Group 19,FL,"POWELL, JACKIE",,1,,,,Broward County Court Group 19,0.91
+FL,Sun Sentinel,107451,2018,JUDGE,38,Broward Circuit Court Group 38,FL,"MOON, STEFANIE CAMILLE",,1,,,,Broward Circuit Court Group 38,0.91
+FL,Sun Sentinel,107451,2018,JUDGE,46,Broward Circuit Court Group 46,FL,"MARKHASIN-WEEKES, MARIA",,1,,,,Broward Circuit Court Group 46,0.91
+FL,Sun Sentinel,107451,2018,JUDGE,4,Palm Beach County Court Group 4,FL,"FUNG, ALLEGRA",,1,,,,Palm Beach County Court Group 4,0.91
+FL,Sun Sentinel,107451,2018,JUDGE,13,Palm Beach Circuit Court Group 13,FL,"ST. JUSTE, ALCOLYA",,1,,,,Palm Beach Circuit Court Group 13,0.91
+FL,Sun Sentinel,107451,2018,JUDGE,18,Palm Beach Circuit Court Group 18,FL,"CHEESMAN, MAXINE",,1,,,,Palm Beach Circuit Court Group 18,0.91
+FL,Sun Sentinel,107451,2018,JUDGE,25,Palm Beach Circuit Court Group 25,FL,"MCAULIFFE, MICHAEL",,1,,,,Palm Beach Circuit Court Group 25,0.91
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,2,Cooper City,FL,"MELTZER, HOWARD",,1,,,,Cooper City District 2,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,2,Coral Springs,FL,"DALEY, DAN",,1,,,,Coral Springs Seat 2,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,4,Coral Springs,FL,"SIMMONS, JOSHUA",,1,,,,Coral Springs Seat 4,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,Dania Beach,FL,"ODMAN, LAUREN",,1,,,,Dania Beach Commission,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,Dania Beach,FL,"LEWELLEN, LORI",,1,,,,Dania Beach Commission,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,2,Davie,FL,"HATTAN, CARYL M.",,1,,,,Davie Town Council District 2,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,3,Davie,FL,"STARKEY, SUSAN",,1,,,,Davie Town Council District 3,0.9
+FL,Sun Sentinel,107451,2018,MAYOR,,Hallandale Beach,FL,"LONDON, KEITH",,1,,,,Hallandale Beach Mayor,0.92
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,Hallandale Beach,FL,"BUTLER, MIKE",,1,,,,Hallandale Beach Commission,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,Hallandale Beach,FL,"DALLY, RICH",,1,,,,Hallandale Beach Commission,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,1,Hollywood,FL,"SHUHAM, CARYL SANDLER",,1,,,,Hollywood Commission District 1,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,3,Hollywood,FL,"UNGLEICH, THOMAS",,1,,,,Hollywood Commission District 3,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,5,Hollywood,FL,"BIEDERMAN, KEVIN",,1,,,,Hollywood Commission District 5,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,1,Lauderdale Lakes,FL,"DAVI, MARILYN",,1,,,,Lauderdale Lakes Seat 1,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,2,Lauderdale Lakes,FL,"WILLIAMS, BEVERLY",,1,,,,Lauderdale Lakes Seat 2,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,2,Lauderhill,FL,"CAMPBELL, RICHARD",,1,,,,Lauderhill District 2,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,4,Lauderhill,FL,"MARTIN, RAY",,1,,,,Lauderhill District 4,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,3,Margate,FL,"CASTRO, RENATA",,1,,,,Margate Seat 3,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,5,Margate,FL,"SPAVENTO, TONY",,1,,,,Margate Seat 5,0.9
+FL,Sun Sentinel,107451,2018,MAYOR,,North Lauderdale,FL,"ZIADE, ANA M.",,1,,,,North Lauderdale Mayor,0.91
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,A,North Lauderdale,FL,"WOOD, LORENZO",,1,,,,North Lauderdale District A,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,B,North Lauderdale,FL,"GRAZIOSE, GERALD ""JERRY""",,1,,,,North Lauderdale District B,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,Oakland Park,FL,"CARN, MICHAEL",,1,,,,Oakland Park Commission,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,Oakland Park,FL,"BOLIN, JANE",,1,,,,Oakland Park Commission,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,2,Parkland,FL,"WALKER, RICHARD",,1,,,,Parkland Commission District 2,0.9
+FL,Sun Sentinel,107451,2018,MAYOR,,Plantation,FL,"TINGOM, PETE",,1,,,,Plantation Mayor,0.91
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,1,Plantation,FL,"ANDERSON, ERIK",,1,,,,Plantation Group 1,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,2,Plantation,FL,"HORLAND, DENISE",,1,,,,Plantation Group 2,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,5,Plantation,FL,"SORTAL, NICK",,1,,,,Plantation Group 5,0.9
+FL,Sun Sentinel,107451,2018,MAYOR,,Pompano Beach,FL,"SOBEL, MIKE",,1,,,,Pompano Beach Mayor,0.91
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,1,Pompano Beach,FL,"GEER, JOHN",,1,,,,Pompano Beach District 1,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,2,Pompano Beach,FL,"TERWILLIGER, TOM",,1,,,,Pompano Beach District 2,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,3,Pompano Beach,FL,"SKVERSKY, MICHAEL",,1,,,,Pompano Beach District 3,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,4,Pompano Beach,FL,"PERKINS, BEVERLY",,1,,,,Pompano Beach District 4,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,5,Pompano Beach,FL,"MOAVERO, LEILA",,1,,,,Pompano Beach District 5,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,1,Southwest Ranches,FL,"HARTMANN, BOB",,1,,,,Southwest Ranches Town Council District 1,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,D,Sunrise,FL,"SOFIELD, LARRY",,1,,,,Sunrise Group D,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,C,Sunrise,FL,"KERCH, NEIL",,1,,,,Sunrise Group C,0.9
+FL,Sun Sentinel,107451,2018,MAYOR,,Tamarac,FL,"GOMEZ, MICHELLE",,1,,,,Tamarac Mayor,0.91
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,2,Tamarac,FL,"GELIN, ELBERG ""MIKE""",,1,,,,Tamarac District 2,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,4,Tamarac,FL,"PLACKO, DEBRA",,1,,,,Tamarac District 4,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,4,Weston,FL,"MOLINA-MACFIE, MARY",,1,,,,Weston Seat 4,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,West Park,FL,"JUDEIKIS, CHRISTINE",,1,,,,West Park Commission,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,West Park,FL,"TOUCHTON, KATRINA",,1,,,,West Park Commission,0.9
+FL,Sun Sentinel,107451,2018,MAYOR,,Wilton Manors,FL,"FLIPPEN, JUSTIN",,1,,,,Wilton Manors Mayor,0.91
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,Wilton Manors,FL,"RESNICK, GARY",,1,1,,,Wilton Manors Commission,0.9
+FL,Sun Sentinel,107451,2018,CITY COUNCIL,,Wilton Manors,FL,"NEWTON, SCOTT",,1,,,,Wilton Manors Commission,0.9
+FL,Sun Sentinel,107451,2018,DIRECTOR,2,Broward Soil and Water Conservation District,FL,RICHARDS,,1,,,,Broward County Soil and Water Conservation District Seat 2,0.85
+FL,Sun Sentinel,107451,2018,DIRECTOR,1,Palm Beach Soil and Water Conservation District,FL,"SYLVESTER, MICHELLE",,1,,,,Palm Beach County Soil and Water Conservation Group 1,0.85
+FL,Sun Sentinel,107451,2018,DIRECTOR,5,Palm Beach Soil and Water Conservation District,FL,"BEAUMONT, MARK",,1,,,,Palm Beach County Soil and Water Conservation Group 5,0.85
+FL,Sun Sentinel,107451,2020,PRESIDENT,,,FL,"BIDEN, JOE",Democrat,1,,,,Sun Sentinel endorsement for President,0.97
+FL,Sun Sentinel,107451,2020,H,20,,FL,"HASTINGS, ALCEE",Democrat,1,1,,,U.S. House District 20,0.96
+FL,Sun Sentinel,107451,2020,H,21,,FL,"FRANKEL, LOIS",Democrat,1,1,,,U.S. House District 21,0.96
+FL,Sun Sentinel,107451,2020,H,22,,FL,"DEUTCH, TED",Democrat,1,1,,,U.S. House District 22,0.96
+FL,Sun Sentinel,107451,2020,H,23,,FL,"WASSERMAN SCHULTZ, DEBBIE",Democrat,1,1,,,U.S. House District 23,0.96
+FL,Sun Sentinel,107451,2020,STATE SENATOR,29,,FL,"POLSKY, TINA",Democrat,1,,,,Florida Senate District 29,0.94
+FL,Sun Sentinel,107451,2020,STATE SENATOR,31,,FL,"BERMAN, LORI",Democrat,1,1,,,Florida Senate District 31,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,81,,FL,"SKIDMORE, KELLY",Democrat,1,,,,Florida House District 81,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,88,,FL,"HARDY, OMARI",Democrat,1,,,,Florida House District 88,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,89,,FL,"CARUSO, MIKE",Republican,1,1,,,Florida House District 89,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,91,,FL,"SLOSBERG, EMILY",Democrat,1,1,,,Florida House District 91,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,92,,FL,"HAWKINS-WILLIAMS, PATRICIA",Democrat,1,,,,Florida House District 92,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,93,,FL,"LAMARCA, CHIP",Republican,1,1,,,Florida House District 93,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,101,,FL,"WOODSON, MARIE",Democrat,1,,,,Florida House District 101,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,103,,FL,"POLO, CINDY",Democrat,1,1,,,Florida House District 103,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,104,,FL,"BARTLEMAN, ROBIN",Democrat,1,,,,Florida House District 104,0.94
+FL,Sun Sentinel,107451,2020,STATE REP,105,,FL,"PORRAS, MAUREEN",Democrat,1,,,,Florida House District 105,0.94
+FL,Sun Sentinel,107451,2020,SUPREME COURT,,Florida Supreme Court,FL,"MUNIZ, CARLOS G.",,0,,,1,Vote NO on retention,0.94
+FL,Sun Sentinel,107451,2020,COURT OF APPEALS,4,Florida 4th DCA,FL,"FORST, ALAN O.",,0,,,1,Vote NO on retention,0.94
+FL,Sun Sentinel,107451,2020,COURT OF APPEALS,4,Florida 4th DCA,FL,"KLINGENSMITH, MARK W.",,0,,,1,Vote NO on retention,0.94
+FL,Sun Sentinel,107451,2020,COURT OF APPEALS,4,Florida 4th DCA,FL,"WARNER, MARTHA C.",,1,,,1,Vote YES on retention,0.94
+FL,Sun Sentinel,107451,2020,DA/PROSECUTOR,,Broward County (State Attorney),FL,"PRYOR, HAROLD",Democrat,1,,,,Broward State Attorney,0.93
+FL,Sun Sentinel,107451,2020,SUPERVISOR OF ELECTIONS,,Broward County (Supervisor of Elections),FL,"SCOTT, JOE",Democrat,1,,,,Broward Supervisor of Elections,0.93
+FL,Sun Sentinel,107451,2020,SCHOOL BOARD,9,Broward County,FL,"HIXON, DEBRA",,1,,,,Broward School Board District 9,0.93
+FL,Sun Sentinel,107451,2020,JUDGE,16,Broward Circuit Court Group 16,FL,"BAILEY, DENNIS",,1,,,,Broward Circuit Court Group 16,0.92
+FL,Sun Sentinel,107451,2020,DIRECTOR,5,Broward Soil and Water Conservation District,FL,"SEGAL, FRED",,1,,,,Broward Soil and Water Conservation Seat 5,0.88
+FL,Sun Sentinel,107451,2020,CNTY COMM,3,Palm Beach County,FL,"KERNER, DAVE",Democrat,1,1,,,Palm Beach County Commission District 3,0.94
+FL,Sun Sentinel,107451,2020,CNTY COMM,5,Palm Beach County,FL,"SACHS, MARIA",Democrat,1,,,,Palm Beach County Commission District 5,0.94
+FL,Sun Sentinel,107451,2020,CNTY COMM,7,Palm Beach County,FL,"BERNARD, MACK",Democrat,1,1,,,Palm Beach County Commission District 7,0.94
+FL,Sun Sentinel,107451,2020,TAX COLLECTOR,,Palm Beach County (Tax Collector),FL,"GANNON, ANNE",Democrat,1,1,,,Palm Beach Tax Collector,0.93
+FL,Sun Sentinel,107451,2020,SHERIFF,,Palm Beach County,FL,"BRADSHAW, RIC",Democrat,1,1,,,Palm Beach Sheriff,0.94
+FL,Sun Sentinel,107451,2020,JUDGE,30,Palm Beach Circuit Court Group 30,FL,"MYRON, ADAM",,1,,,,Palm Beach Circuit Court Group 30,0.92
+FL,Sun Sentinel,107451,2020,DIRECTOR,2,Palm Beach Soil and Water Conservation District,FL,"SORRELL, ANN MARIE",,1,,,,Palm Beach Soil and Water Conservation Seat 2,0.88
+FL,Sun Sentinel,107451,2020,DIRECTOR,3,Palm Beach Soil and Water Conservation District,FL,"SHAW, JON E.",,1,,,,Palm Beach Soil and Water Conservation Seat 3,0.88
+FL,Sun Sentinel,107451,2020,DIRECTOR,4,Palm Beach Soil and Water Conservation District,FL,"LONG, ROB",,1,,,,Palm Beach Soil and Water Conservation Seat 4,0.88
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,3,Coral Springs,FL,"MORERA, JOSE ""JOE""",,1,,,,Coral Springs Seat 3,0.91
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,5,Coral Springs,FL,"CARTER, JOY",,1,,,,Coral Springs Seat 5,0.91
+FL,Sun Sentinel,107451,2020,MAYOR,,Fort Lauderdale,FL,"TRANTALIS, DEAN",,1,1,,,Fort Lauderdale Mayor,0.93
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,2,Fort Lauderdale,FL,"GLASSMAN, STEVE",,1,1,,,Fort Lauderdale District 2,0.91
+FL,Sun Sentinel,107451,2020,MAYOR,,Hallandale Beach,FL,"COOPER, JOY",,1,,,,Hallandale Beach Mayor,0.92
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,3,Hallandale Beach,FL,"CABRERA, CYNTHIA",,1,,,,Hallandale Beach Seat 3,0.91
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,4,Hallandale Beach,FL,"LAZAROW, MICHELE",,1,1,,,Hallandale Beach Seat 4,0.91
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,2,Hollywood,FL,"ANDERSON, LINDA",,1,,,,Hollywood District 2,0.91
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,4,Hollywood,FL,"BLATTNER, RICHARD",,1,1,,,Hollywood District 4,0.91
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,6,Hollywood,FL,"SHERWOOD, LINDA",,1,1,,,Hollywood District 6,0.91
+FL,Sun Sentinel,107451,2020,MAYOR,,Pompano Beach,FL,"HARDIN, REX",,1,1,,,Pompano Beach Mayor,0.93
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,1,Pompano Beach,FL,"MCGEE, ANDREA LEIGH",,1,,,,Pompano Beach District 1,0.91
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,2,Pompano Beach,FL,"EATON, RHONDA",,1,,,,Pompano Beach District 2,0.91
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,3,Pompano Beach,FL,"MCMAHON, TOM",,1,,,,Pompano Beach District 3,0.91
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,4,Pompano Beach,FL,"PERKINS, BEVERLY",,1,1,,,Pompano Beach District 4,0.91
+FL,Sun Sentinel,107451,2020,CITY COUNCIL,5,Pompano Beach,FL,"MOSS, BARRY",,1,1,,,Pompano Beach District 5,0.91

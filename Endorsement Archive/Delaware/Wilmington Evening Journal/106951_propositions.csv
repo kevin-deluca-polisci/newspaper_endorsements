@@ -1,0 +1,4 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+DE,Wilmington Evening Journal,106951,1964,DE,proposition,,,1,"Pull the 'Yes' lever for the charter--modern, efficient government for the city. A 'No' vote is for continuation of archaic government.",0.98
+DE,Wilmington Evening Journal,106951,1970,DE,proposition,,,1,Urges YES vote to strike down rule requiring city employes other than officers to live within city limits; would permit city to compete for best available employes,0.98
+DE,Wilmington Evening Journal,106951,1978,DE,proposition,,,1,approval of revised Home Rule Charter; housekeeping changes; police and fire as autonomous agencies; mayor authority to prepare budget; strengthened bidding; mayor reorganization authority,0.98

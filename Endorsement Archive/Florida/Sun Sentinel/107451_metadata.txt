@@ -1,0 +1,37 @@
+Newspaper Name: Sun Sentinel
+Alternative Names: South Florida Sun Sentinel, Fort Lauderdale Sun-Sentinel
+Years Published: 1910-present
+Newspaper ID number: 107451
+State: FL (Fort Lauderdale / Broward County; serves Broward and Palm Beach Counties)
+Number of clippings: 25
+Endorsement data years: 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 767
+  Endorsed (=1): 762
+  Opposed (=0): 5
+Total proposition records: 529
+  Endorsed (=1): 423
+  Opposed (=0): 106
+
+--- CONFIDENCE SCORES ---
+Min: 0.70
+Mean: 0.93
+Max: 0.98
+Below threshold (0.75): 1
+
+--- NOTES ---
+Sun Sentinel, daily of Fort Lauderdale / Broward County, Florida (also serves
+Palm Beach County). Owned by Tribune Publishing. Endorsement coverage 1982-2020,
+every even-year general election (20 distinct years).
+
+Five years (1990, 1992, 1994, 1996, 2000) had two distinct clippings each
+(election-day editorial + endorsement summary article). Both were extracted
+independently and deduplicated at compile time.
+
+Florida ballots are dense — typical clipping covers federal (Pres/VP/Sen/H),
+state cabinet (Gov, AG, CFO, Agriculture), state legislature (FL House 1-120,
+FL Senate 1-40), judicial retention (FL Supreme Court + 4th DCA), Broward
+and Palm Beach County offices, school board, and 5-12 constitutional amendments.
+
+Compiled: 2026-05-20

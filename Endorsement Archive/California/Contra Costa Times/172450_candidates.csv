@@ -1,0 +1,199 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+CA,Contra Costa Times,172450,1952,PRESIDENT,,,CA,"EISENHOWER, DWIGHT D.",Republican,1,,,,Listed under 'The Times Recommends' on election eve front page,0.98
+CA,Contra Costa Times,172450,1952,SENATOR,,,CA,"KNOWLAND, WILLIAM F.",Republican,1,,1,,U.S. Senator endorsement; Knowland was incumbent,0.97
+CA,Contra Costa Times,172450,1952,H,,,CA,"BALDWIN, JOHN F.",Republican,1,,,,Endorsed for Congressman by The Times,0.95
+CA,Contra Costa Times,172450,1952,STATE REP,,,CA,"DOYLE, DONALD D.",Republican,1,,,,Endorsed for Assemblyman by The Times,0.95
+CA,Contra Costa Times,172450,1958,H,6,,CA,"BALDWIN, JOHN F.",Republican,1,,1,,Times Recommends - Congress 6th District,0.95
+CA,Contra Costa Times,172450,1958,SUPERINTENDENT,,,CA,"MARCHUS, FLOYD",,1,,,,County Superintendent of Schools; editorial endorses Dr. Floyd Marchus of Walnut Creek,0.96
+CA,Contra Costa Times,172450,1958,SHERIFF,,,CA,"YOUNG, WALT",,1,,,,Times Recommends Walt Young for Sheriff; opposes incumbent Sheriff Harry Brown,0.97
+CA,Contra Costa Times,172450,1958,CNTY COMM,3,,CA,"COLL, TOM",,1,,,,Supervisor 3rd District,0.95
+CA,Contra Costa Times,172450,1958,JUDGE,,,CA,"MITCHELL, RICHARD J.",,1,,,,Walnut Creek Judicial District Judge - Ward 1,0.94
+CA,Contra Costa Times,172450,1958,JUDGE,,,CA,"HIGGINS, NEAL S.",,1,,,,Walnut Creek Judicial District Judge - Ward 2,0.94
+CA,Contra Costa Times,172450,1960,PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,,,Listed under 'The Times Recommends',0.97
+CA,Contra Costa Times,172450,1960,VICE PRESIDENT,,,CA,"LODGE, HENRY CABOT JR.",Republican,1,,,,Times Recommends,0.95
+CA,Contra Costa Times,172450,1960,H,,,CA,"BALDWIN, JOHN F.",Republican,1,,1,,Congressman; Times Recommends,0.95
+CA,Contra Costa Times,172450,1960,STATE REP,,,CA,"WALDIE, JEROME R.",Democrat,1,1,,,Assemblyman; Times Recommends,0.93
+CA,Contra Costa Times,172450,1962,GOVERNOR,,,CA,"NIXON, RICHARD M.",Republican,1,,,,Times Recommends,0.97
+CA,Contra Costa Times,172450,1962,LT GOVERNOR,,,CA,"CHRISTOPHER, GEORGE",Republican,1,,,,Times Recommends - Republican primary,0.95
+CA,Contra Costa Times,172450,1962,SENATOR,,,CA,"KUCHEL, THOMAS",Republican,1,,1,,Times Recommends - Republican primary; Kuchel incumbent,0.95
+CA,Contra Costa Times,172450,1962,ATTORNEY GENERAL,,,CA,"COAKLEY, TOM",Republican,1,,,,Times Recommends - Republican primary,0.94
+CA,Contra Costa Times,172450,1962,COMPTROLLER,,,CA,"HARDESTY, CECIL",Republican,1,,,,Times Recommends Controller - Republican primary,0.93
+CA,Contra Costa Times,172450,1962,CNTY COMM,,,CA,"COLL, TOM",,1,,,,Supervisor; nonpartisan county office,0.93
+CA,Contra Costa Times,172450,1962,SHERIFF,,,CA,"YOUNG, WALTER",,1,1,,,Times Recommends Walter Young for Sheriff; nonpartisan,0.94
+CA,Contra Costa Times,172450,1962,TREASURER,,,CA,"HITCHCOCK, EMMETT",,1,,,,Tax Collector-Treasurer; county office,0.93
+CA,Contra Costa Times,172450,1962,SEC OF STATE,,,CA,"JORDAN, FRANK M.",Republican,1,,1,,Times Recommends; incumbent Secretary of State,0.95
+CA,Contra Costa Times,172450,1962,COMPTROLLER,,,CA,"CRANSTON, ALAN",Democrat,1,1,,,Times Recommends; Cranston was incumbent Controller,0.94
+CA,Contra Costa Times,172450,1962,TREASURER,,,CA,"BUSTERUD, JOHN A.",Republican,1,,,,Times Recommends for Treasurer,0.9
+CA,Contra Costa Times,172450,1962,STATE BOARD OF ED,2,,CA,"RICHARDSON, RALPH",,1,,,,Board of Equalization 2nd District; Times Recommends,0.9
+CA,Contra Costa Times,172450,1962,H,14,,CA,"BALDWIN, JOHN F.",Republican,1,,1,,Congress 14th District; Times Recommends,0.96
+CA,Contra Costa Times,172450,1962,STATE REP,10,,CA,"WALDIE, JEROME R.",Democrat,1,1,,,Assembly 10th District; Times Recommends,0.95
+CA,Contra Costa Times,172450,1962,DIRECTOR,,,CA,"BLUMBERG, FRED C.",,1,,,,Pleasant Hill Parks-Recreation District board [Pleasant Hill Parks-Recreation District],0.9
+CA,Contra Costa Times,172450,1962,DIRECTOR,,,CA,"FRASER, W. WHITNEY",,1,,,,Pleasant Hill Parks-Recreation District board [Pleasant Hill Parks-Recreation District],0.9
+CA,Contra Costa Times,172450,1962,DIRECTOR,,,CA,"SMITH, DORIS F.",,1,,,,Pleasant Hill Parks-Recreation District board [Pleasant Hill Parks-Recreation District],0.9
+CA,Contra Costa Times,172450,1962,DIRECTOR,,,CA,"MEEHAN, THOMAS P.",,1,,,,Concord Hospital District board [Concord Hospital District],0.9
+CA,Contra Costa Times,172450,1962,DIRECTOR,,,CA,"WHALEN, ELMER",,1,,,,Concord Hospital District board [Concord Hospital District],0.9
+CA,Contra Costa Times,172450,1964,PRESIDENT,,,CA,"JOHNSON, LYNDON B.",Democrat,1,1,,,Times Recommends - President,0.98
+CA,Contra Costa Times,172450,1964,VICE PRESIDENT,,,CA,"HUMPHREY, HUBERT H.",Democrat,1,,,,Times Recommends - Vice President,0.98
+CA,Contra Costa Times,172450,1964,SENATOR,,,CA,"MURPHY, GEORGE",Republican,1,,,,Times Recommends - U.S. Senator,0.97
+CA,Contra Costa Times,172450,1964,H,14,,CA,"BALDWIN, JOHN F.",Republican,1,,1,,"Times Recommends - Congressman, 14th District (incumbent)",0.97
+CA,Contra Costa Times,172450,1964,STATE SENATOR,17,,CA,"MILLER, GEORGE JR.",Democrat,1,1,,,"Times Recommends - State Senator, 17th District (incumbent)",0.97
+CA,Contra Costa Times,172450,1964,STATE REP,10,,CA,"WALDIE, JEROME",Democrat,1,1,,,"Times Recommends - Assemblyman, 10th District (incumbent)",0.97
+CA,Contra Costa Times,172450,1964,STATE REP,11,,CA,"KNOX, JOHN",Democrat,1,1,,,"Times Recommends - Assemblyman, 11th District (incumbent)",0.97
+CA,Contra Costa Times,172450,1964,CNTY COMM,3,,CA,"NIELSEN, MEL",,1,,,,"Times Recommends - Supervisor, Third District",0.93
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"SPROUL, ROBERT G.",,1,,,,Times Recommends - Regional Park District,0.9
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"WOOLRIDGE, CLYDE R.",,1,,,,Times Recommends - Regional Park District,0.9
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"MACDONALD, JOHN A.",,1,,,,Times Recommends - Regional Park District,0.9
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"BUTTON, ALVIN",,1,,,,Times Recommends - Regional Park District,0.9
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"RUIZ, PRIMO",,1,,,,Times Recommends - Regional Park District,0.9
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"KIMBALL, BILL",,1,,,,Times Recommends - Pleasant Hill Park Commission,0.9
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"WINSLOW, TED",,1,,,,Times Recommends - Pleasant Hill Park Commission,0.9
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"SHAUL, B. C.",,1,,,,Times Recommends - Concord Hospital District,0.9
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"CHRISTIANSEN, ROBERT",,1,,,,Times Recommends - Concord Hospital District (Rev.),0.9
+CA,Contra Costa Times,172450,1964,DIRECTOR,,,CA,"BALES, N. E.",,1,,,,Times Recommends - Concord Hospital District,0.9
+CA,Contra Costa Times,172450,1966,CNTY COMM,4,,CA,"COLL, TOM",,1,,,,"Times Recommends - County Supervisor, 4th District",0.93
+CA,Contra Costa Times,172450,1966,DA/PROSECUTOR,,,CA,"NEJEDLY, JOHN",,1,1,,,Times Recommends - District Attorney (incumbent),0.93
+CA,Contra Costa Times,172450,1966,SHERIFF,,,CA,"YOUNG, WALTER",,1,,,1,Times Recommends - Sheriff (incumbent),0.93
+CA,Contra Costa Times,172450,1966,CNTY CLERK,,,CA,"SHORES, JAMES",,1,,,,Times Recommends - County Clerk,0.93
+CA,Contra Costa Times,172450,1966,COMPTROLLER,,,CA,"FUNK, DONALD",,1,,,,Times Recommends - Auditor,0.92
+CA,Contra Costa Times,172450,1966,CORONER,,,CA,"ARCHIBALD, VERNON",,1,,,,Times Recommends - Coroner (Dr.),0.92
+CA,Contra Costa Times,172450,1966,SUPERINTENDENT,,,CA,"MARCHUS, FLOYD",,1,,,,Times Recommends - Superintendent of Schools (unopposed),0.9
+CA,Contra Costa Times,172450,1966,ASSESSOR,,,CA,"WANAKA, FRED",,1,,,,Times Recommends - Assessor (unopposed),0.9
+CA,Contra Costa Times,172450,1966,TAX COLLECTOR,,,CA,"HITCHCOCK, EMMETT",,1,,,,Times Recommends - Tax Collector (unopposed),0.9
+CA,Contra Costa Times,172450,1966,H,,,CA,"WALDIE, JEROME",Democrat,1,,,,Times Recommends - Partisan Special Election: Congress (to succeed late Congressman John F. Baldwin),0.95
+CA,Contra Costa Times,172450,1966,STATE SENATOR,7,,CA,"MILLER, GEORGE JR.",Democrat,1,1,,,"Times Recommends - Democratic Primary: State Senate (Incumbent, unopposed)",0.95
+CA,Contra Costa Times,172450,1966,STATE REP,10,,CA,"DENT, LENARD",Democrat,1,,,,"Times Recommends - Democratic Primary: Assembly, 10th District",0.93
+CA,Contra Costa Times,172450,1966,STATE REP,11,,CA,"KNOX, JOHN",Democrat,1,1,,,"Times Recommends - Democratic Primary: Assembly, 11th District (Incumbent)",0.95
+CA,Contra Costa Times,172450,1966,H,,,CA,"NEWMAN, FRANK",Republican,1,,,,Times Recommends - Republican Primary: Congress,0.93
+CA,Contra Costa Times,172450,1966,STATE REP,10,,CA,"DENT, JAMES",Republican,1,,,,"Times Recommends - Republican Primary: Assembly, 10th District",0.92
+CA,Contra Costa Times,172450,1966,STATE REP,11,,CA,"ELLIS, LESTER",Republican,1,,,,"Times Recommends - Republican Primary: Assembly, 11th District",0.92
+CA,Contra Costa Times,172450,1966,GOVERNOR,,,CA,"REAGAN, RONALD",Republican,1,,,,Times Recommends - Governor,0.98
+CA,Contra Costa Times,172450,1966,LT GOVERNOR,,,CA,"FINCH, ROBERT",Republican,1,,,,Times Recommends - Lt. Gov.,0.97
+CA,Contra Costa Times,172450,1966,SEC OF STATE,,,CA,"SCHLEI, NORBERT",Democrat,1,,,,Times Recommends - Sec. of State,0.93
+CA,Contra Costa Times,172450,1966,COMPTROLLER,,,CA,"FLOURNOY, HOUSTON",Republican,1,,,,Times Recommends - Controller,0.95
+CA,Contra Costa Times,172450,1966,TREASURER,,,CA,"PRIEST, IVY BAKER",Republican,1,,,,Times Recommends - Treasurer,0.95
+CA,Contra Costa Times,172450,1966,ATTORNEY GENERAL,,,CA,"LYNCH, THOMAS",Democrat,1,1,,,Times Recommends - Attorney General (incumbent),0.95
+CA,Contra Costa Times,172450,1966,STATE REP,10,,CA,"WALDIE, JEROME",Democrat,1,1,,,"Times Recommends - Assembly, 10th District",0.95
+CA,Contra Costa Times,172450,1970,CNTY COMM,4,,CA,"BOGGESS, WARREN N.",,1,,,,"Times Recommends - Non-Partisan: Supervisor, 4th District",0.93
+CA,Contra Costa Times,172450,1970,DA/PROSECUTOR,,,CA,"O'MALLEY, WILLIAM A.",,1,,,,Times Recommends - Non-Partisan: District Attorney,0.93
+CA,Contra Costa Times,172450,1970,SHERIFF,,,CA,"YOUNG, WALTER F.",,1,1,,,Times Recommends - Non-Partisan: Sheriff (incumbent),0.93
+CA,Contra Costa Times,172450,1970,JUDGE,,,CA,"RENAGHAN, P. F.",,1,,,,Times Recommends - Mt. Diablo Municipal Court Judge,0.9
+CA,Contra Costa Times,172450,1970,STATE BOARD OF ED,,,CA,"RILES, WILSON",,1,,,,Times Recommends - State Superintendent of Public Instruction,0.92
+CA,Contra Costa Times,172450,1970,STATE BOARD OF ED,,,CA,"LYNCH, JOHN N.",,1,,,,Times Recommends - State Board of Equalization,0.9
+CA,Contra Costa Times,172450,1970,GOVERNOR,,,CA,"UNRUH, JESS",Democrat,1,,,,Times Recommends - Democratic Primary: Governor,0.95
+CA,Contra Costa Times,172450,1970,LT GOVERNOR,,,CA,"ALQUIST, ALFRED E.",Democrat,1,,,,Times Recommends - Democratic Primary: Lt. Gov.,0.93
+CA,Contra Costa Times,172450,1970,SEC OF STATE,,,CA,"BURNS, HUGH M.",Democrat,1,,,,Times Recommends - Democratic Primary: Secy. of State,0.92
+CA,Contra Costa Times,172450,1970,ATTORNEY GENERAL,,,CA,"O'BRIEN, CHARLES A.",Democrat,1,,,,Times Recommends - Democratic Primary: Attorney General,0.92
+CA,Contra Costa Times,172450,1970,SENATOR,,,CA,,Democrat,0,,,,Times - No Recommendation - Democratic Primary: U.S. Senator,0.85
+CA,Contra Costa Times,172450,1970,H,,,CA,"WALDIE, JEROME R.",Democrat,1,1,,,Times Recommends - Democratic Primary: Congress (incumbent),0.95
+CA,Contra Costa Times,172450,1970,STATE REP,10,,CA,"DENT, WILLIAM",Democrat,1,,,,"Times Recommends - Democratic Primary: Assembly, 10th District",0.92
+CA,Contra Costa Times,172450,1970,STATE REP,11,,CA,"KNOX, JOHN T.",Democrat,1,1,,,"Times Recommends - Democratic Primary: Assembly, 11th District (incumbent)",0.95
+CA,Contra Costa Times,172450,1970,GOVERNOR,,,CA,"REAGAN, RONALD",Republican,1,,1,,Times Recommends - Governor (incumbent),0.97
+CA,Contra Costa Times,172450,1970,LT GOVERNOR,,,CA,"MILLIAS, GEORGE W.",Republican,1,,,,Times Recommends - Republican Primary: Secy. of State,0.88
+CA,Contra Costa Times,172450,1970,ATTORNEY GENERAL,,,CA,"YOUNGER, EVELLE J.",Republican,1,,,,Times Recommends - Republican Primary: Attorney General,0.92
+CA,Contra Costa Times,172450,1970,H,14,,CA,"MATHIAS, BYRON D.",Republican,1,,,,"Times Recommends - Republican Primary: Congress, 14th District",0.9
+CA,Contra Costa Times,172450,1970,STATE REP,10,,CA,"DENT, JAMES W.",Republican,1,,,,"Times Recommends - Assembly, 10th District",0.92
+CA,Contra Costa Times,172450,1970,STATE REP,11,,CA,"KELLEHER, GUY S.",Republican,1,,,,"Times Recommends - Republican Primary: Assembly, 11th District",0.9
+CA,Contra Costa Times,172450,1970,LT GOVERNOR,,,CA,"REINECKE, ED",Republican,1,,1,,Times Recommends - Lt. Gov. (incumbent),0.95
+CA,Contra Costa Times,172450,1970,SEC OF STATE,,,CA,"BROWN, EDMUND JR.",Democrat,1,,,,Times Recommends - Secy. of State (Jerry Brown),0.95
+CA,Contra Costa Times,172450,1970,COMPTROLLER,,,CA,"FLOURNOY, HOUSTON",Republican,1,1,,,Times Recommends - Controller (incumbent - actually R inc),0.95
+CA,Contra Costa Times,172450,1970,TREASURER,,,CA,"PRIEST, IVY BAKER",Republican,1,,1,,Times Recommends - Treasurer (incumbent),0.95
+CA,Contra Costa Times,172450,1970,STATE BOARD OF ED,,,CA,"ALIOTO, ANN",,1,,,,Times Recommends - Board of Equalization,0.85
+CA,Contra Costa Times,172450,1970,SENATOR,,,CA,"MURPHY, GEORGE",Republican,1,,1,,Times Recommends - U.S. Senator (incumbent),0.95
+CA,Contra Costa Times,172450,1970,H,14,,CA,"WALDIE, JEROME R.",Democrat,1,1,,,"Times Recommends - Congress, 14th District (incumbent)",0.95
+CA,Contra Costa Times,172450,1970,STATE BOARD OF ED,,,CA,"RAFFERTY, MAX",,1,1,,,Times Recommends - State Superintendent of Public Instruction (incumbent),0.92
+CA,Contra Costa Times,172450,1972,PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,1,,The Times Recommends For President,0.98
+CA,Contra Costa Times,172450,1972,H,14,,CA,"WALDIE, JEROME R.",Democrat,1,1,,,"For Congress, 14th District",0.95
+CA,Contra Costa Times,172450,1972,H,8,,CA,"HANNAFORD, PETER",Republican,1,,,,"For Congress, 8th District (No Recommendation listed separately, but Hannaford named)",0.88
+CA,Contra Costa Times,172450,1972,STATE SENATOR,7,,CA,"NEJEDLY, JOHN A.",Republican,1,,1,,"For State Senator, 7th District",0.95
+CA,Contra Costa Times,172450,1972,STATE REP,11,,CA,"NEAL, RALPH",Republican,1,,,,"For State Assembly, 11th District",0.92
+CA,Contra Costa Times,172450,1972,STATE REP,10,,CA,"BOGGESS, WARREN N.",Republican,1,,,,"For State Assembly, 10th District",0.92
+CA,Contra Costa Times,172450,1972,CNTY COMM,3,,CA,"MORIARTY, JAMES E.",,1,,,,"For County Supervisor, 3rd District",0.9
+CA,Contra Costa Times,172450,1974,GOVERNOR,,,CA,"FLOURNOY, HOUSTON",Republican,1,,,,The Times recommends for Governor,0.98
+CA,Contra Costa Times,172450,1974,LT GOVERNOR,,,CA,"HARMER, JOHN",Republican,1,,,,Lieutenant Governor,0.95
+CA,Contra Costa Times,172450,1974,SEC OF STATE,,,CA,"VAN CAMP, BRIAN",Republican,1,,,,Secretary of State,0.95
+CA,Contra Costa Times,172450,1974,COMPTROLLER,,,CA,"BAGLEY, WILLIAM",Republican,1,,,,Controller,0.95
+CA,Contra Costa Times,172450,1974,TREASURER,,,CA,"UNRUH, JESSE",Democrat,1,,,,Treasurer,0.95
+CA,Contra Costa Times,172450,1974,ATTORNEY GENERAL,,,CA,"YOUNGER, EVELLE",Republican,1,1,,,Attorney General,0.95
+CA,Contra Costa Times,172450,1974,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,1,1,,,United States Senate,0.95
+CA,Contra Costa Times,172450,1974,STATE BOARD OF ED,,,CA,"MASTRANGELO, TALLY",,1,,,,Board of Equalization,0.85
+CA,Contra Costa Times,172450,1974,H,7,,CA,"FERNANDEZ, GARY",Republican,1,,,,U.S. Congress 7th District,0.92
+CA,Contra Costa Times,172450,1974,H,8,,CA,"BEATLEN, JACK",Republican,1,,,,U.S. Congress 8th District,0.88
+CA,Contra Costa Times,172450,1974,H,9,,CA,"ADAMS, EDSON",Republican,1,,,,U.S. Congress 9th District,0.92
+CA,Contra Costa Times,172450,1974,STATE REP,10,,CA,"BOATWRIGHT, DAN",Democrat,1,,,,State Assembly 10th District,0.92
+CA,Contra Costa Times,172450,1974,STATE REP,11,,CA,"KNOX, JOHN",Democrat,1,1,,,State Assembly 11th District,0.95
+CA,Contra Costa Times,172450,1974,STATE REP,12,,CA,"FLEGAL, ARTHUR R.",Republican,1,,,,State Assembly 12th District - 'Vote for the MAN instead of the PARTY LABEL' - opposes incumbent Ken Meade,0.95
+CA,Contra Costa Times,172450,1974,DIRECTOR,1,,CA,"MOSSMAN, NELLO",,1,,,,BART Directors 1st District,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,2,,CA,"BLANCO, JAMES",,1,,,,BART Directors 2nd District,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"KRUEGER, DEWITT",,1,,,,East Bay Municipal Utility District,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"NAHAS, ROBERT",,1,,,,East Bay Municipal Utility District,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"LEWIS, GWILYM",,1,,,,East Bay Municipal Utility District,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"HITCHCOCK, C. R.",,1,,,,East Bay Municipal Utility District,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,3,,CA,"JARDIN, WILLIAM",,1,,,,East Bay Park District Ward 3,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,7,,CA,"BADGER, PAUL",,1,,,,East Bay Park District Ward 7,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"MOSSMAN, CARVER",,1,,,,Mt. Diablo Hospital Board,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"CUSACK, ROBERT",,1,,,,Mt. Diablo Hospital Board,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"SWITZER, VIRGINIA",,1,,,,Mt. Diablo Hospital Board,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"WEISNER, HELEN",,1,,,,Pleasant Hill Park and Recreation Board,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"WALTERS, MARY",,1,,,,Pleasant Hill Park and Recreation Board,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"WRIGHT, LOWELL",,1,,,,Pleasant Hill Park and Recreation Board,0.85
+CA,Contra Costa Times,172450,1974,DIRECTOR,,,CA,"PHALEN, MICHAEL",,1,,,,Pleasant Hill Park and Recreation Board,0.85
+CA,Contra Costa Times,172450,1976,PRESIDENT,,,CA,"FORD, GERALD R.",Republican,1,,1,,U.S. President,0.98
+CA,Contra Costa Times,172450,1976,VICE PRESIDENT,,,CA,"DOLE, ROBERT",Republican,1,,,,Vice President,0.95
+CA,Contra Costa Times,172450,1976,SENATOR,,,CA,"HAYAKAWA, S. I.",Republican,1,,,,U.S. Senator,0.95
+CA,Contra Costa Times,172450,1976,H,7,,CA,"MILLER, GEORGE",Democrat,1,1,,,Congressional 7th District,0.9
+CA,Contra Costa Times,172450,1976,H,8,,CA,"BRECK, PHILIP S.",Republican,1,,,,Congressional 8th District,0.9
+CA,Contra Costa Times,172450,1976,H,9,,CA,"MILLS, JAMES K.",Republican,1,,,,Congressional 9th District,0.88
+CA,Contra Costa Times,172450,1976,STATE SENATOR,7,,CA,"NEJEDLY, JOHN A.",Republican,1,,1,,State Senate 7th District,0.95
+CA,Contra Costa Times,172450,1976,STATE REP,10,,CA,"BOATWRIGHT, DAN",Democrat,1,1,,,State Assembly 10th District,0.95
+CA,Contra Costa Times,172450,1976,STATE REP,11,,CA,"KNOX, JOHN T.",Democrat,1,1,,,State Assembly 11th District,0.95
+CA,Contra Costa Times,172450,1976,STATE REP,12,,CA,"FLEGAL, ARTHUR R.",Republican,1,,,,State Assembly 12th District,0.9
+CA,Contra Costa Times,172450,1976,CNTY COMM,3,,CA,"SCHRODER, ROBERT I.",,1,,,,County Supervisor 3rd District,0.9
+CA,Contra Costa Times,172450,1976,CNTY COMM,5,,CA,"GIERSCH, LOUISE",,1,,,,County Supervisor 5th District,0.9
+CA,Contra Costa Times,172450,1976,DIRECTOR,,,CA,"CUSACK, ROBERT A.",,1,,,,Mt. Diablo Hospital District,0.88
+CA,Contra Costa Times,172450,1976,DIRECTOR,,,CA,"MOOSMAN, WANDA M. STANLEY",,1,,,,Mt. Diablo Hospital District (Carrel L. Moosman noted),0.75
+CA,Contra Costa Times,172450,1976,DIRECTOR,2,,CA,"DUSED, ROBERT W.",,1,,,,Regional Park District Ward 2 (Robert W. Dused/Read),0.7
+CA,Contra Costa Times,172450,1976,DIRECTOR,6,,CA,"BLUMBERG, FRED C.",,1,,,,Regional Park District Ward 6,0.88
+CA,Contra Costa Times,172450,1976,DIRECTOR,,,CA,"ERNST, TIM",,1,,,,PH Recreation and Park District - Four year terms,0.85
+CA,Contra Costa Times,172450,1976,DIRECTOR,,,CA,"HOLMES, OLIVER L.",,1,,,,PH Recreation and Park District - Four year terms,0.85
+CA,Contra Costa Times,172450,1976,DIRECTOR,,,CA,"COSTA, WALTER",,1,,,,PH Recreation and Park District - Two year term (Walter Costa or Michael E. Phalen),0.7
+CA,Contra Costa Times,172450,1976,DIRECTOR,,,CA,"PHALEN, MICHAEL E.",,1,,,,PH Recreation and Park District - Two year term,0.7
+CA,Contra Costa Times,172450,1976,DIRECTOR,1,,CA,"TREMBATH, JAMES R.",,1,,,,BART Directors District 1,0.9
+CA,Contra Costa Times,172450,1976,DIRECTOR,5,,CA,"ALLEN, ROBERT S.",,1,,,,BART Directors District 5,0.9
+CA,Contra Costa Times,172450,1978,GOVERNOR,,,CA,"WILSON, PETE",Republican,1,,,,"Republican primary - Mayor of San Diego, exceptional fine career, member of California Assembly for 5 1/2 years",0.95
+CA,Contra Costa Times,172450,1978,GOVERNOR,,,CA,"YOUNGER, EVELLE",Republican,1,,,,Times' endorsement for Governor,0.98
+CA,Contra Costa Times,172450,1978,LT GOVERNOR,,,CA,"ANTONOVICH, MIKE",Republican,1,,,,"Assemblyman from Los Angeles area - 'Mike Curb, an outstanding young businessman who has built from scratch... but both have many excellent attributes'",0.92
+CA,Contra Costa Times,172450,1978,LT GOVERNOR,,,CA,"CURB, MIKE",Republican,1,,,,Lieutenant Governor,0.95
+CA,Contra Costa Times,172450,1978,ATTORNEY GENERAL,,,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,"Republican primary - State Senator from Long Beach, former Attorney General nominee",0.95
+CA,Contra Costa Times,172450,1978,ATTORNEY GENERAL,,,CA,"BURKE, YVONNE",Democrat,1,,,,Democratic primary - congresswoman from Los Angeles County,0.92
+CA,Contra Costa Times,172450,1978,STATE REP,,,CA,"DENT, JAMES",Republican,1,,,,"Contra Costa County's beloved former assemblyman, served with Pete Wilson - assembly endorsement",0.85
+CA,Contra Costa Times,172450,1978,SEC OF STATE,,,CA,"FONG EU, MARCH",Democrat,1,1,,,Secretary of State,0.95
+CA,Contra Costa Times,172450,1978,TREASURER,,,CA,"UNRUH, JESSE M.",Democrat,1,1,,,Treasurer,0.95
+CA,Contra Costa Times,172450,1978,SUPERINTENDENT,,,CA,"RILES, WILSON",,1,1,,,"Superintendent of Public Instruction - incumbent, 'doing well, having sat with him on a major board for five years'",0.92
+CA,Contra Costa Times,172450,1978,SEC OF STATE,,,CA,"MARGOSIAN, JAY",Republican,1,,,,Contra Costa resident; recommended in Republican primary editorial 1978-05-28,0.85
+CA,Contra Costa Times,172450,1978,STATE SENATOR,,,CA,"DYMALLY, MERVYN",Democrat,0,1,,,Lt Gov - 'considerable criticism of Dymally's record' - opposed,0.85
+CA,Contra Costa Times,172450,1978,ATTORNEY GENERAL,,,CA,"DIXON, ARNETT",Republican,1,,,,"Assemblyman, outstanding candidate. He stands head and shoulders above not only his competition for the Republican nomination",0.85
+CA,Contra Costa Times,172450,1978,H,7,,CA,"MILLER, GEORGE",Democrat,1,1,,,"Representatives in Congress, District 7",0.95
+CA,Contra Costa Times,172450,1978,H,9,,CA,"ALLEN, ROBERT S.",Republican,1,,,,"District 9: Robert S. Allen, Republican [fixed from DELLUMS to ALLEN per agent note]",0.7
+CA,Contra Costa Times,172450,1978,STATE REP,10,,CA,"BOATWRIGHT, DANIEL",Democrat,1,1,,,State Assembly District 10 (unopposed),0.95
+CA,Contra Costa Times,172450,1978,STATE REP,11,,CA,"NIEMANN, BOB",Republican,1,,,,State Assembly District 11,0.92
+CA,Contra Costa Times,172450,1978,STATE REP,12,,CA,"KNOX, JOHN T.",Democrat,1,1,,,State Assembly District 12,0.95
+CA,Contra Costa Times,172450,1978,SUPREME COURT,,,CA,"BIRD, ROSE",,0,1,,,"State Supreme Court, Chief Justice: NO",0.95
+CA,Contra Costa Times,172450,1978,SUPREME COURT,,,CA,"MANUEL, WILEY",,1,,,,Associate Justice: YES,0.95
+CA,Contra Costa Times,172450,1978,SUPREME COURT,,,CA,"NEWMAN, FRANK C.",,1,,,,Associate Justice: YES,0.95
+CA,Contra Costa Times,172450,1978,SUPREME COURT,,,CA,"RICHARDSON, FRANK K.",,1,,,,Associate Justice: YES,0.95
+CA,Contra Costa Times,172450,1978,CNTY COMM,4,,CA,"FAHDEN, CARL",,1,,,,Board of Supervisors District 4,0.9
+CA,Contra Costa Times,172450,1978,SUPREME COURT,,,CA,"MANUEL, WILEY M.",,0,,,,CA Supreme Court justice (first African-American on the court); judicial retention,0.7
+CA,Contra Costa Times,172450,1978,SHERIFF,,,CA,"RAINEY, RICHARD",,1,,,,Sheriff: Capt. Richard Rainey,0.92
+CA,Contra Costa Times,172450,1978,DIRECTOR,,,CA,"SKAGGS, SANDY",,1,,,,EBMUD Board of Directors Ward 4,0.9
+CA,Contra Costa Times,172450,1978,DIRECTOR,2,,CA,"JARDIN, WILLIAM",,1,,,,East Bay Regional Parks Board of Directors Ward 2,0.9
+CA,Contra Costa Times,172450,1978,DIRECTOR,7,,CA,"COSTA, WALTER",,1,,,,East Bay Regional Parks Board of Directors Ward 7 (unopposed),0.9
+CA,Contra Costa Times,172450,1978,DIRECTOR,7,,CA,"RADKE, TED",,1,,,,East Bay Regional Parks Board of Directors Ward 7 (unopposed),0.85
+CA,Contra Costa Times,172450,1978,DIRECTOR,,,CA,"BACIGALUPO, ART",,1,,,,Mt. Diablo Hospital Board of Directors,0.9
+CA,Contra Costa Times,172450,1978,DIRECTOR,,,CA,"ALM, CHARLOTTE",,1,,,,Mt. Diablo Hospital Board of Directors,0.9
+CA,Contra Costa Times,172450,1978,CITY COUNCIL,,,CA,"PATRICK, DIANA",,1,,,,Martinez City Council,0.92
+CA,Contra Costa Times,172450,1978,SCHOOL BOARD,,,CA,"BARDELLINI, PAT",,0,,,,Recall of Mt. Diablo Unified School District Board of Trustees - candidates listed for recall (against incumbent board),0.65
+CA,Contra Costa Times,172450,1978,SCHOOL BOARD,,,CA,"KELLY, HELEN",,0,,,,Recall of Mt. Diablo Unified School District Board of Trustees candidate,0.65
+CA,Contra Costa Times,172450,1978,SCHOOL BOARD,,,CA,"COSGROVE, MILTON C.",,0,,,,Recall of Mt. Diablo Unified School District Board of Trustees candidate,0.65
+CA,Contra Costa Times,172450,1978,SCHOOL BOARD,,,CA,"LANDI, VIRGINIA",,0,,,,Recall of Mt. Diablo Unified School District Board of Trustees candidate,0.65
+CA,Contra Costa Times,172450,1978,SCHOOL BOARD,,,CA,"MICHAELS, WILLIAM R.",,0,,,,Recall of Mt. Diablo Unified School District Board of Trustees candidate,0.65
+CA,Contra Costa Times,172450,1978,JUDGE,,,CA,"PHELAN, MICHAEL",,1,,,,Walnut Creek - Danville Municipal Court Judge,0.92

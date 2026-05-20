@@ -1,0 +1,14 @@
+Newspaper Name: Wilmington News Journal
+Newspaper ID: 106952
+State: DE
+Processing Date: 2026-05-20
+Last QA Date: 2026-05-20
+
+Clippings: 20
+Date range: 1990-2018
+Total candidate records: 48 (endorsed 28, opposed 20)
+Total proposition records: 0 (endorsed 0, opposed 0)
+Mean confidence: 0.953
+
+Notes:
+- Combined Wilmington, Delaware daily formed 1989 from merger of Morning News and Evening Journal. Gannett-owned.
