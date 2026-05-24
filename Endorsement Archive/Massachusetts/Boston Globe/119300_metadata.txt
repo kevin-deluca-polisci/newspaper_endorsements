@@ -1,0 +1,32 @@
+Newspaper Name: Boston Globe
+Years Published: 1872-present
+Newspaper ID number: 119300
+State: MA (Boston / Massachusetts / New England-wide)
+Number of clippings: 45
+Endorsement data years: 1964, 1966, 1968, 1974, 1976, 1978, 1982, 1984, 1986, 1988, 1990, 2008, 2010, 2012, 2014, 2016, 2018
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 141 (104 endorsed, 1 opposed, 36 neutral/non-endorsement)
+Total proposition records: 79 (43 YES, 32 NO, 4 neutral)
+
+--- CONFIDENCE SCORES ---
+Min: 0.95
+Mean: 0.95
+Max: 0.95
+
+--- NOTES ---
+Major New England daily. Taylor family ownership through 1993, NYT Co 1993-2013,
+then Boston Globe Media (John Henry) 2013-present. Strongly Democratic-leaning
+editorial board with notable Republican gubernatorial endorsements (Sargent 1974,
+Weld 1990, Baker 2014/2018).
+
+Coverage clusters:
+- 1964-1990: traditional editorials + summary recaps
+- 2008-2018: shifted to one-race-per-clipping individual editorials
+  (industry trend; many single-race clippings 2010-2018)
+
+Boston Globe sometimes endorses in NH and RI races (2008 Shaheen NH, 2016 Hassan
+NH, 2018 Raimondo RI) — these are included with their respective state_election
+matching MA per the standard pipeline.
+
+Compiled: 2026-05-23

@@ -1,0 +1,76 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+NC,Charlotte Observer,132300,1960,NC,BOND,1,"$675,000 bond for Charlotte Community College system",1,,0.95
+NC,Charlotte Observer,132300,1962,NC,AMENDMENT,1,State Constitutional Amendment,1,Vote Yes on all six,0.9
+NC,Charlotte Observer,132300,1962,NC,AMENDMENT,2,State Constitutional Amendment,1,Vote Yes on all six,0.9
+NC,Charlotte Observer,132300,1962,NC,AMENDMENT,3,State Constitutional Amendment,1,Vote Yes on all six,0.9
+NC,Charlotte Observer,132300,1962,NC,AMENDMENT,4,State Constitutional Amendment,1,Vote Yes on all six,0.9
+NC,Charlotte Observer,132300,1962,NC,AMENDMENT,5,State Constitutional Amendment,1,Vote Yes on all six,0.9
+NC,Charlotte Observer,132300,1962,NC,AMENDMENT,6,State Constitutional Amendment,1,Vote Yes on all six,0.9
+NC,Charlotte Observer,132300,1964,NC,BOND,1,State School Bonds,1,Vote For,0.95
+NC,Charlotte Observer,132300,1968,NC,AMENDMENT,1,Constitutional Amendment No. 1,1,For,0.95
+NC,Charlotte Observer,132300,1968,NC,AMENDMENT,2,Constitutional Amendment No. 2,1,For,0.95
+NC,Charlotte Observer,132300,1970,NC,AMENDMENT,1,State Constitutional Amendment,1,Vote FOR all seven,0.9
+NC,Charlotte Observer,132300,1970,NC,AMENDMENT,2,State Constitutional Amendment,1,Vote FOR all seven,0.9
+NC,Charlotte Observer,132300,1970,NC,AMENDMENT,3,State Constitutional Amendment,1,Vote FOR all seven,0.9
+NC,Charlotte Observer,132300,1970,NC,AMENDMENT,4,State Constitutional Amendment,1,Vote FOR all seven,0.9
+NC,Charlotte Observer,132300,1970,NC,AMENDMENT,5,State Constitutional Amendment,1,Vote FOR all seven,0.9
+NC,Charlotte Observer,132300,1970,NC,AMENDMENT,6,State Constitutional Amendment,1,Vote FOR all seven,0.9
+NC,Charlotte Observer,132300,1970,NC,AMENDMENT,7,State Constitutional Amendment,1,Vote FOR all seven,0.9
+NC,Charlotte Observer,132300,1972,NC,AMENDMENT,1,Reduce voting age to 18; conform to 26th Amendment,0,AGAINST,0.9
+NC,Charlotte Observer,132300,1972,NC,AMENDMENT,2,Require maximum age 75 for justices and judges,1,FOR,0.9
+NC,Charlotte Observer,132300,1972,NC,AMENDMENT,3,Authorize procedures for censure and removal of justices and judges,1,FOR,0.9
+NC,Charlotte Observer,132300,1972,NC,AMENDMENT,4,Constitutional framework for protection of the environment,1,FOR,0.9
+NC,Charlotte Observer,132300,1972,NC,AMENDMENT,5,Limit incorporation of cities and towns,1,FOR,0.9
+NC,Charlotte Observer,132300,1974,NC,AMENDMENT,1,Change title of office of solicitor to district attorney,1,FOR,0.95
+NC,Charlotte Observer,132300,1974,NC,AMENDMENT,2,Authorize issuance of revenue bonds to finance industrial and pollution-control facilities,1,FOR,0.95
+NC,Charlotte Observer,132300,1978,NC,BOND,,County bonds parks and recreational facilities,1,,0.6
+NC,Charlotte Observer,132300,1978,NC,BOND,,City bonds streets and sidewalks,1,,0.6
+NC,Charlotte Observer,132300,1982,NC,AMENDMENT,1,Sets terms of state legislators,1,,0.9
+NC,Charlotte Observer,132300,1982,NC,AMENDMENT,2,Allowing tax-increment bonds,1,,0.9
+NC,Charlotte Observer,132300,1982,NC,REFERENDUM,,"4-District, 3-At-Large Plan For County Commissioners",1,,0.85
+NC,Charlotte Observer,132300,1982,NC,BOND,,Mint Museum Bonds,1,,0.9
+NC,Charlotte Observer,132300,1984,NC,AMENDMENT,,Constitutional amendment requiring attorney general and district attorneys to be duly authorized to practice law prior to election or appointment,1,,0.9
+NC,Charlotte Observer,132300,1984,NC,BOND,,$47.4 million to build a new coliseum,1,Charlotte residents only,0.9
+NC,Charlotte Observer,132300,1984,NC,BOND,,$16 million for city street improvements,1,,0.9
+NC,Charlotte Observer,132300,1984,NC,BOND,,$11.385 million to extend and improve city water system,1,,0.9
+NC,Charlotte Observer,132300,1984,NC,BOND,,$2.3 million to extend and improve city sewer system,1,,0.9
+NC,Charlotte Observer,132300,1986,NC,AMENDMENT,1,"Permit state issuance of revenue bonds for facilities of private, nonprofit colleges and universities",1,,0.9
+NC,Charlotte Observer,132300,1986,NC,AMENDMENT,2,Election held by fill-the-remainder of unexpired terms if vacancy occurs more than 60 days before next election rather than 30 days as presently provided,1,,0.85
+NC,Charlotte Observer,132300,1986,NC,AMENDMENT,3,"Permit state issuance of revenue bonds for improvements, both public and private, of airports and seaports",1,,0.85
+NC,Charlotte Observer,132300,1986,NC,BOND,,Mecklenburg County Park Bonds $15.55 million for county park and recreational facilities,1,,0.9
+NC,Charlotte Observer,132300,1986,NC,BOND,,Mecklenburg County Farmland Bonds $10 million for preserving farmland,1,,0.9
+NC,Charlotte Observer,132300,1986,NC,BOND,,Charlotte Water Bonds $19.4 million for improvements to water system,1,,0.9
+NC,Charlotte Observer,132300,1986,NC,BOND,,Charlotte Sewer Bonds $11.2 million for sewer improvements,1,,0.9
+NC,Charlotte Observer,132300,1986,NC,BOND,,Charlotte Drainage Bonds $2.1 million for storm drainage improvements,1,,0.9
+NC,Charlotte Observer,132300,1988,NC,BOND,,"City Street Improvement Bonds $100,800,000",1,Charlotte residents only,0.95
+NC,Charlotte Observer,132300,1988,NC,BOND,,"City Sanitary Sewer Bonds $32,400,000",1,,0.95
+NC,Charlotte Observer,132300,1988,NC,BOND,,"City Water Bonds $24,695,000",0,Observer voted No,0.85
+NC,Charlotte Observer,132300,1988,NC,BOND,,"City Parks And Recreational Facilities Bonds $9,500,000",1,,0.95
+NC,Charlotte Observer,132300,1988,NC,BOND,,"City Cultural Facilities/Discovery Place Bonds $9,000,000",0,Observer voted No,0.85
+NC,Charlotte Observer,132300,1988,NC,BOND,,"City Storm Drainage Bonds $6,400,000",1,,0.95
+NC,Charlotte Observer,132300,1990,NC,BOND,,"State Prisons Bonds $200,000,000",1,,0.9
+NC,Charlotte Observer,132300,1990,NC,BOND,,"Mecklenburg Jail Bonds $112,800,000",0,Observer voted Against,0.85
+NC,Charlotte Observer,132300,1990,NC,BOND,,"Charlotte Sewers Bonds $112,310,000",1,,0.9
+NC,Charlotte Observer,132300,1990,NC,BOND,,"Charlotte Water Bonds $24,285,000",1,,0.9
+NC,Charlotte Observer,132300,2006,NC,BOND,,"$85.2 million for road, sidewalk and bridge improvements",1,Charlotte city bond,0.95
+NC,Charlotte Observer,132300,2006,NC,BOND,,$25 million for infrastructure projects in distressed neighborhoods,1,Charlotte city bond,0.95
+NC,Charlotte Observer,132300,2006,NC,BOND,,$10 million for building and refurbishing low- and moderate-income housing,1,Charlotte city bond,0.95
+NC,Charlotte Observer,132300,2008,NC,BOND,,Four bond referenda (endorsed all with reservations about parks bonds),1,"endorsed all four bonds, with reservations about parks bonds",0.9
+NC,Charlotte Observer,132300,2010,NC,AMENDMENT,,State constitutional amendment to bar felons from running for sheriff,1,,0.95
+NC,Charlotte Observer,132300,2010,NC,BOND,,"Charlotte city bonds for streets, neighborhood improvements and affordable housing",1,,0.95
+NC,Charlotte Observer,132300,2014,NC,REFERENDUM,,Quarter-cent sales tax,1,Mecklenburg County quarter-cent sales tax,0.94
+NC,Charlotte Observer,132300,2014,NC,BOND,,City of Charlotte bonds (all),1,vote yes on all the bonds,0.93
+NC,Charlotte Observer,132300,2014,NC,AMENDMENT,,Constitutional amendment to allow defendants to be tried by a judge rather than a jury,1,state constitutional amendment,0.94
+NC,Charlotte Observer,132300,2016,NC,BOND,,"Mecklenburg bonds for transportation, aging infrastructure and low- and middle-income housing",1,recommended each bond package,0.93
+NC,Charlotte Observer,132300,2018,NC,AMENDMENT,,Judicial vacancies amendment (strip governor's power to fill vacant judicial seats),0,oppose - GOP power grab,0.94
+NC,Charlotte Observer,132300,2018,NC,AMENDMENT,,Board of Elections amendment,0,oppose - eviscerates governor's power,0.94
+NC,Charlotte Observer,132300,2018,NC,AMENDMENT,,Voter ID amendment,0,oppose,0.94
+NC,Charlotte Observer,132300,2018,NC,AMENDMENT,,Hunting and Fishing amendment,1,reluctant yes - symbolic,0.9
+NC,Charlotte Observer,132300,2018,NC,AMENDMENT,,Income Tax Cap amendment (cap state income tax at 7%),0,oppose - voters should say no,0.94
+NC,Charlotte Observer,132300,2018,NC,AMENDMENT,,Victims' Rights amendment,0,oppose - voters should reject it,0.93
+NC,Charlotte Observer,132300,2018,NC,BOND,,$50 million for affordable housing,1,Charlotte bond,0.94
+NC,Charlotte Observer,132300,2018,NC,BOND,,"$118 million for streets, bridges, sidewalks",1,Charlotte bond,0.94
+NC,Charlotte Observer,132300,2018,NC,BOND,,$35 million for neighborhood projects,1,Charlotte bond,0.94
+NC,Charlotte Observer,132300,2020,NC,BOND,,Charlotte bond - transportation,1,Yes on three bonds,0.94
+NC,Charlotte Observer,132300,2020,NC,BOND,,Charlotte bond - affordable housing,1,Yes on three bonds,0.94
+NC,Charlotte Observer,132300,2020,NC,BOND,,Charlotte bond - neighborhood improvements,1,Yes on three bonds,0.94

@@ -55,3 +55,21 @@ Three records were removed from the 2008 extraction as they were not editorial e
 - DUKES, DAWNNA (State Rep Dist 46) - mentioned in article but not endorsed
 - NAISHTAT, ELLIOTT (State Rep Dist 49) - mentioned but not endorsed
 - BISCOE, SAM (Travis County Judge) - mentioned but not endorsed
+
+---
+
+## QA Addendum: 2026-05-20 (raw/more austin supplementary)
+
+Added 13 net-new supplementary clippings extending Austin American-Statesman coverage:
+- 4 single-race 1974 articles (Gov, RR Commission, State House, State Senate)
+- 7 annual endorsement summaries (1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990)
+- 1 DELUCA 2022 article (Oct 23 2022)
+
+**Results:**
+- 205 new candidate records, 41 new proposition records added (no cross-record duplicates with existing data — these are distinct year ranges)
+- Total Austin American-Statesman dataset now: 332 cands, 63 props, 19 clippings, 1974-2022
+- Mean extraction confidence: 0.95 (much higher than pre-2026-05-20 baseline)
+- Fixed 246 non-numeric extraction_confidence values from new extractions ("high"/"medium"/"low" -> 0.95/0.8/0.6)
+- Fixed 22 YES/NO -> 1/0 in propositions endorsed field
+
+**raw/more austin folder context:** 227 raw files (~70 unique hashes) contained 35 exact duplicates of existing Austin archives, 13 net new for Austin American-Statesman, 19 misfiled clippings (actually Wilkes-Barre Citizens' Voice — processed as a separate new paper), 1 Dallas Morning News file (skipped), 3 .pages files (Apple format, only title preview extractable; skipped).

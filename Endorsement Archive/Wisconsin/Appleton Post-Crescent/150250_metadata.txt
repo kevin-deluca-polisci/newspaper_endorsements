@@ -1,0 +1,25 @@
+Newspaper Name: Appleton Post-Crescent
+Alternative Names: The Post-Crescent
+Years Published: 1853-present (current title since 1920)
+Newspaper ID number: 150250
+State: WI (Appleton / Outagamie County / Fox Valley region)
+Number of clippings: 94
+Endorsement data years: 1960, 1962, 1964, 1966, 1968, 1972, 1978, 1980, 1982, 1984, 1986, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 297 (174 endorsed, 123 opposed)
+Total proposition records: 14 (8 YES, 6 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.60
+Mean: 0.93
+Max: 0.95
+
+--- NOTES ---
+Daily covering Outagamie County and the Fox Valley region of northeast Wisconsin
+(Appleton, Neenah, Menasha, Kaukauna). Currently Gannett owned.
+
+Format evolution: 1960s-1980s comprehensive editorials; 2000-2006 endorsement
+grid/box format; 2008+ shifted to one-race-per-clipping individual editorials.
+
+Compiled: 2026-05-23

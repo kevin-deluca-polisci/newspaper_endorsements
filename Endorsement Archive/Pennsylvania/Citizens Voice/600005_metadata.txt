@@ -1,0 +1,25 @@
+Newspaper Name: Citizens' Voice
+Alternative Names: The Citizens' Voice, Wilkes-Barre Citizens' Voice
+Years Published: 1978-present (founded during the Wilkes-Barre Sunday Independent strike;
+                  initially employee-owned cooperative, now owned by Times-Shamrock)
+Newspaper ID number: 600005
+NOTE on newspaper_id: ID 600005 per Gentzkow-Shapiro lookup maps to "Austin Citizen (TX)".
+The 600005 prefix was inherited from the source filenames in raw/more austin/Austin Citizen
+600005/ folder, which were misfiled. The Citizens' Voice (Wilkes-Barre PA) does not have
+an official GS permid. This ID should be reviewed and possibly reassigned during downstream
+augmentation.
+
+State: PA (Wilkes-Barre / Luzerne County / Wyoming Valley)
+Number of clippings: 19
+Endorsement data years: 1984, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 98
+Total proposition records: 4
+
+--- CONFIDENCE SCORES ---
+Min: 0.45
+Mean: 0.92
+Max: 0.98
+
+Compiled: 2026-05-20

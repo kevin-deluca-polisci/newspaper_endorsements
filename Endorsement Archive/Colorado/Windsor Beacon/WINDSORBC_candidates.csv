@@ -1,0 +1,368 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+CO,Windsor Beacon,WINDSORBC,1950,CNTY COMM,,,CO,"WINTER, ADOLPH",,1,,,,Beacon editorial 'Candidates That Stand Out'; described as neighbor who deserves and will probably receive near-unanimous vote for county commissioner,0.95
+CO,Windsor Beacon,WINDSORBC,1950,SCHOOL BOARD,,,CO,"WARING, HOUSTON",DEM,1,,,,Democratic candidate for State Board of Education from Littleton; described as best-known weekly newspaper editor in the country; Beacon urges both Republicans and Democrats to support,0.95
+CO,Windsor Beacon,WINDSORBC,1950,SCHOOL BOARD,,,CO,"PETTYS, ALONZO (MRS.)",,1,,,,Candidate at large for State Board of Education; from Brush; friend of Beacon family,0.95
+CO,Windsor Beacon,WINDSORBC,1950,ASSESSOR,,,CO,"FRANKLIN, OTHO",DEM,1,,,,From Greeley; retired publisher of Johnstown Breeze; running for county assessor on the Democratic ticket; described as honest and fair-minded,0.95
+CO,Windsor Beacon,WINDSORBC,1954,SUPREME COURT,,,CO,"STONE, MORTIMER",,1,,,1,"Editorial '...AND STONE, THE WATER'; CO Chief Justice; endorse re-election because of his decision in Denver's Blue River water diversion case preserving water rights for Big Thompson Project users (52,000 acre feet in Green Mountain reservoir); Beacon urges residents regardless of party to mark ballot for Judge Stone",0.95
+CO,Windsor Beacon,WINDSORBC,1956,PRESIDENT,,,CO,"EISENHOWER, DWIGHT D.",REP,0,,1,,"Editorial 'EVERY WHICH WAY': Beacon has NOT taken a stand on the presidential candidates; mentions one Beacon voter is for Eisenhower, one for Stevenson, two are 'on the fence'; explicitly declines to endorse",0.95
+CO,Windsor Beacon,WINDSORBC,1956,PRESIDENT,,,CO,"STEVENSON, ADLAI",DEM,0,,,,Editorial 'EVERY WHICH WAY': Beacon explicitly declines to endorse for president; staff split among candidates,0.95
+CO,Windsor Beacon,WINDSORBC,1960,PRESIDENT,,,CO,"NIXON, RICHARD",REP,1,,,,Editorial 'I'LL PROBABLY VOTE THIS WAY'; writer plans to vote for Nixon but says 'no joy or enthusiasm behind the crossmark'; may change mind based on Cuba debate,0.95
+CO,Windsor Beacon,WINDSORBC,1960,SENATOR,,,CO,"ALLOTT, GORDON",REP,1,,1,,"Plans to vote for Allott; one of five crucial Senate posts which may decide balance of power; need to balance Republicans and southern Democrats on one side, liberal Democrats on the other; Allott described as 'handing out federal aid as fast as Democrats'",0.95
+CO,Windsor Beacon,WINDSORBC,1960,GOVERNOR,,,CO,"JOHNSON, BYRON",DEM,0,,,,"'Only candidate I'm enthusiastic about, but I don't think he'll be re-elected. He's a maverick who sees no real lasting value in balance-of-power programs or an obsession about anti-communist actions'; Beacon writer notes he votes for Johnson on principle but expects Republican trend nationally",0.95
+CO,Windsor Beacon,WINDSORBC,1960,H,,,CO,"DOMINICK, PETER",REP,1,,,,'I think Dominick will win'; vote for Johnson [for governor] but vote for Dominick; note: Peter Dominick won CO-2 House seat in 1960,0.95
+CO,Windsor Beacon,WINDSORBC,1960,STATE REP,,,CO,"MAGNUSON, CARL",REP,1,,1,,Editorial 'In the Statehouse'; only Republican Weld county sent to statehouse two years ago vs four Democrats; held the bag and filled with promises; Beacon supports his re-election,0.95
+CO,Windsor Beacon,WINDSORBC,1960,SENATOR,,,CO,"CARROLL, JOHN",DEM,0,,,,Implied non-endorsement - Beacon endorses Allott (Republican) against Carroll for the US Senate seat; not explicitly named in clipping but Allott's 1960 opponent was John Carroll. Setting as low confidence inference,0.6
+CO,Windsor Beacon,WINDSORBC,1960,STATE SENATOR,,,CO,"OLIVER, FLOYD",,1,,1,,Incumbent state senator; Beacon will vote against incumbent senator Floyd Oliver; correction - text says 'I'll vote against incumbent senator Floyd Oliver',0.95
+CO,Windsor Beacon,WINDSORBC,1960,STATE SENATOR,,,CO,"THOMAS, WILBER",,1,,,,Will vote for Wilber Thomas for state senate (against incumbent Oliver),0.95
+CO,Windsor Beacon,WINDSORBC,1960,STATE REP,,,CO,"ADCOCK, HAROLD",,0,1,,,Incumbent representative; Beacon will vote against him in favor of Republicans Abbett and Littler,0.95
+CO,Windsor Beacon,WINDSORBC,1960,STATE REP,,,CO,"LOVE, NOBLE",,0,1,,,Incumbent representative; Beacon will vote against him in favor of Republicans Abbett and Littler,0.95
+CO,Windsor Beacon,WINDSORBC,1960,STATE REP,,,CO,"ABBETT, LEONARD",REP,1,,,,Will vote for Republican Leonard Abbett for statehouse (against incumbents Adcock and Love),0.95
+CO,Windsor Beacon,WINDSORBC,1960,STATE REP,,,CO,"LITTLER, KATHLEEN",REP,1,,,,Will vote for Republican Kathleen Littler for statehouse (against incumbents Adcock and Love),0.95
+CO,Windsor Beacon,WINDSORBC,1960,CNTY COMM,,,CO,"REED, TOM",REP,1,,,,Editorial 'In the County'; Republican; Beacon supports for commissioner; main concern letting local government slip away to statehouse,0.95
+CO,Windsor Beacon,WINDSORBC,1960,CNTY COMM,,,CO,"EWING, MILLARD",REP,1,,,,Republican; Beacon supports for county commissioner,0.95
+CO,Windsor Beacon,WINDSORBC,1960,CNTY CLERK,,,CO,ANDERSON,,0,,,,"Driver-licensing issue; Anderson wanted to bring it back to county; Shultz didn't; Beacon supports keeping Republican Shultz, so against Anderson",0.8
+CO,Windsor Beacon,WINDSORBC,1960,CNTY CLERK,,,CO,SHULTZ,REP,1,,1,,Has two more years to serve; Beacon will vote for Republicans (including Shultz); didn't want to bring driver-licensing back to county,0.95
+CO,Windsor Beacon,WINDSORBC,1960,CNTY,,,CO,WARREN,REP,1,,1,,Beacon will vote for Republican Warren who is trying again as independent (running again as 'an independent'); listed alongside Shultz,0.8
+CO,Windsor Beacon,WINDSORBC,1960,SHERIFF,,,CO,WELSH,,1,,1,,Welsh has been a pretty good sheriff - at least Beacon has read no complaints on editorial pages of other county papers; will vote for Welsh (notes Tegtman is trying again on 'Taxpayer's' ticket),0.95
+CO,Windsor Beacon,WINDSORBC,1962,GOVERNOR,,,CO,"MCNICHOLS, STEVE",DEM,1,1,,,Editorial 'AND THE FOUR LEADING CANDIDATES'; 'It becomes more and more obvious that Steve McNichols will again be governor. Even the Rocky Mountain News is backing him'; implied endorsement noting Denver Post poll showing Love ahead is odd-ball,0.8
+CO,Windsor Beacon,WINDSORBC,1962,H,,,CO,"DOMINICK, PETER",REP,1,,1,,"Dominick-Carroll race 'almost identical to Nixon-Kennedy one two years ago'; 'Republicans could have won easily over their socialistic rivals, but they were so eager they wooed John Birch-type votes. This hurt Nixon, and it's hurting Dominick. It'll be a close race'; mild support for Dominick; Beacon laments lack of Allott (GOP Senator) support; note: this likely refers to US Senate race - Dominick ran for Senate against Carroll in 1962",0.8
+CO,Windsor Beacon,WINDSORBC,1962,SENATOR,,,CO,"CARROLL, JOHN",DEM,0,1,,,Incumbent US Senator; Dominick described as opposing 'socialistic rival' - implied non-endorsement,0.8
+CO,Windsor Beacon,WINDSORBC,1964,STATE SENATOR,,,CO,"OLIVER, FLOYD",DEM,0,1,,,"Editorial 'Vote For a Free Press'; Democratic state senator of Greeley; chaired senate committee that, faced with a touchy bill, let the lobbyists write the bill and voted for its passage; 'I don't think that's a very good way to write laws into our books'; explicitly will not vote for Oliver",0.95
+CO,Windsor Beacon,WINDSORBC,1964,STATE REP,,,CO,"ATKINSON, GEORGE",,0,,,,"State representative; attended CSC meeting to find ways to influence legislators on bills affecting education; school lobby is by far our biggest in this state; educators running for boards of education - 'I wouldn't vote for one, any more than I'd want a military man named secretary of defense'; implied non-endorsement",0.8
+CO,Windsor Beacon,WINDSORBC,1964,SUPREME COURT,,,CO,"SUTTON, LEONARD V. B.",,1,,,1,Appears to be paid political advertisement ('THE QUALIFIED CANDIDATE! RE-ELECT Judge Leonard v. B. SUTTON to the SUPREME COURT'); not an editorial endorsement by the Beacon; included as the only content in this clipping,0.6
+CO,Windsor Beacon,WINDSORBC,1968,PRESIDENT,,,CO,"PAULSEN, PAT",,1,,,,"Editorial 'Paulsen for President'; semi-satirical endorsement of comedian Pat Paulsen; 'It all started as a joke, but I suspect a great many Americans are seriously considering voting for comedian Pat Paulsen for President'; suggests Paulsen has a clearer perspective on issues than serious candidates; Beacon writer suggests the two leading parties 'threw all our votes away' at their conventions",0.8
+CO,Windsor Beacon,WINDSORBC,1968,SENATOR,,,CO,"DOMINICK, PETER",REP,0,,1,,"Editorial 'One Man's Thinking'; 'U.S. Senators can be judged fairly in one six-year term, and so I do not think we owe Peter Dominick another chance to make good in Washington'; explicitly NOT endorsing",0.95
+CO,Windsor Beacon,WINDSORBC,1968,SENATOR,,,CO,"MCNICHOLS, STEVE",DEM,1,,,,"'I'll vote for Steve McNichols, who showed ability and integrity when he was our governor'; former Democratic governor running for Senate",0.95
+CO,Windsor Beacon,WINDSORBC,1968,STATE REP,,,CO,"MILLS, JIM",,1,,,,'I'll probably vote for Jim Mills as state representative'; preferring an experienced leader rather than inexperienced legislators dedicated to keeping down taxes,0.95
+CO,Windsor Beacon,WINDSORBC,1968,CNTY COMM,,,CO,"BILLINGS, GLENN",,1,,,,'Glenn Billings and Mel Busch for county commissioners',0.95
+CO,Windsor Beacon,WINDSORBC,1968,CNTY COMM,,,CO,"BUSCH, MEL",,1,,,,'Glenn Billings and Mel Busch for county commissioners',0.95
+CO,Windsor Beacon,WINDSORBC,1968,SHERIFF,,,CO,"MARTINEZ, RICH",,1,,1,,"'Rich Martinez is, I think, the best lawman Weld county has ever had as sheriff. He may be weak in office organization and political acumen, but I'll vote for him for his experience and capability as a law enforcement officer'",0.95
+CO,Windsor Beacon,WINDSORBC,1968,PRESIDENT,,,CO,"NIXON, RICHARD",REP,1,,,,"Editorial 'Time for Our Medicine'; reluctant/sardonic endorsement of Nixon over Paulsen as a means to bring on a needed depression to cure American immorality and 'gimme gimme' culture; 'And to bring on this depression, Nixon's the best bet'",0.95
+CO,Windsor Beacon,WINDSORBC,1968,PRESIDENT,,,CO,"PAULSEN, PAT",,0,,,,"Writer reversing earlier endorsement: 'I've just about decided not to vote for Pat Paulsen for president, after all. Something has to be done about the immorality of this nation'",0.95
+CO,Windsor Beacon,WINDSORBC,1972,DA/PROSECUTOR,,,CO,"MILLER, BOB",,0,,1,,Editorial 'IN WELD COUNTY... The Election'; Weld County DA running unopposed; Beacon writer says 'I do not plan to touch the lower order district attorney when I go to the polls'; critical of Miller for holding grand jury that didn't pay off in stopping crime/corruption; deliberately skipping race in protest,0.95
+CO,Windsor Beacon,WINDSORBC,1972,JUDGE,,,CO,"EMERSON, SID",,1,,,1,"Judge up for re-election; 'not the most erudite man that ever sat as judge, but I think he's a good guy who means well and does his best to be fair in all cases'; Vote YES for Emerson because he got a raw deal from grand jury",0.95
+CO,Windsor Beacon,WINDSORBC,1972,JUDGE,,,CO,"CARPENTER, DON",,0,,,1,Judge up for re-election; 'I'll vote No for Carpenter for the same reason I vote Yes for Emerson. Judge Carpenter was involved in the grand jury last summer',0.95
+CO,Windsor Beacon,WINDSORBC,1972,STATE REP,,,CO,"SHOWALTER, CARL",,1,,1,,State representative; 'represents some segments of the county voters a lot better than others. I don't feel he represents my own liberal ideas too well'; but says opponent Jim Smith 'has too-definite ideas of all that's wrong with the world. I doubt if he would be very effective in the statehouse. Showalter will probably get my vote',0.95
+CO,Windsor Beacon,WINDSORBC,1972,STATE REP,,,CO,"SMITH, JIM",,0,,,,Opponent of Showalter; 'a rather humanitarian young fellow with too-definite ideas of all that's wrong with the world. I doubt if he would be very effective in the statehouse'; implied non-endorsement,0.95
+CO,Windsor Beacon,WINDSORBC,1980,SENATOR,,,CO,"HART, GARY",DEM,1,1,,,"Editorial 'Our reflections on the campaign, candidates' by G.G.; incumbent US Senator; though Beacon sees little difference between Hart and Buchanan; Hart most responsive to letters related to newspaper legislation; 'his leadership for Colorado in the Senate deserves another term'",0.95
+CO,Windsor Beacon,WINDSORBC,1980,SENATOR,,,CO,"BUCHANAN, MARY ESTILL",REP,0,,,,Republican challenger; Beacon sees little difference between candidates; implied non-endorsement,0.95
+CO,Windsor Beacon,WINDSORBC,1980,H,4,,CO,"BROWN, HANK",REP,1,,1,,"Incumbent Republican; Beacon commends; 'He does his homework, is personable and sincere, and listens to his constituents'",0.95
+CO,Windsor Beacon,WINDSORBC,1980,H,4,,CO,"BACA BARRAGAN, POLLY",DEM,0,,,,Democratic challenger; 'seems to lack depth and knowledge in her approach to the issues'; one of worst attendance records during tenure in Colorado House and Senate,0.95
+CO,Windsor Beacon,WINDSORBC,1980,STATE SENATOR,24,,CO,"STIEVE, MARY ANNE",REP,1,,1,,GOP State Senator; Beacon impressed with both candidates; Stieve's party political experience and long record of community service give her a slight edge,0.95
+CO,Windsor Beacon,WINDSORBC,1980,STATE SENATOR,24,,CO,"GIANQUINT, JOHN",DEM,0,,,,Democratic challenger; Beacon impressed but gives Stieve slight edge,0.95
+CO,Windsor Beacon,WINDSORBC,1980,STATE REP,48,,CO,"GRIFFITH, STEVE",DEM,1,,,,Democratic challenger to Republican Bill Artist for State House District 48; Beacon describes Griffith as 'overwhelming' the new opponent; lamenting loss of retiring Rep. Carl (Showalter)'s knowledge of education and agriculture,0.95
+CO,Windsor Beacon,WINDSORBC,1980,STATE REP,48,,CO,"ARTIST, BILL",REP,0,,,,Republican candidate for State House District 48; Beacon prefers Griffith,0.95
+CO,Windsor Beacon,WINDSORBC,1980,STATE REP,51,,CO,"YOUNGLAND, WALT",REP,1,,1,,Longtime Republican State Representative being challenged by former Fort Lupton mayor Phil Marrero; knowledge of agriculture and water debate his re-election,0.95
+CO,Windsor Beacon,WINDSORBC,1980,STATE REP,51,,CO,"MARRERO, PHIL",DEM,0,,,,Former Fort Lupton mayor challenging Youngland; implied non-endorsement,0.8
+CO,Windsor Beacon,WINDSORBC,1980,CNTY COMM,At Large,,CO,WILLIAMS,DEM,1,,,,Rural Democrat for at-large county commissioner; Beacon likes 'Mr. Williams' political experience and approach to the roads problem in Weld County',0.95
+CO,Windsor Beacon,WINDSORBC,1980,CNTY COMM,At Large,,CO,"CARLSON, NORM",REP,0,,1,,Republican incumbent at-large county commissioner; Beacon prefers Williams,0.95
+CO,Windsor Beacon,WINDSORBC,1980,CNTY COMM,1,,CO,"CARLSON, CHUCK",REP,1,,,,Republican; running to replace retiring Lydia Hatker; both candidates have strong knowledge; banking and finance background gives him an edge,0.95
+CO,Windsor Beacon,WINDSORBC,1980,CNTY COMM,1,,CO,"HAHNAK, CUBBY",DEM,0,,,,Democratic challenger; both candidates strong; Beacon prefers Carlson,0.95
+CO,Windsor Beacon,WINDSORBC,1980,CNTY COMM,3,,CO,CARLSON,DEM,1,1,,,District 3 incumbent (likely Democrat Bach Carlson) being challenged by Republican John Martin; 'We feel Bach Carlson has had time on the County Council. We feel Bach's dedication deserves another time'; Weld County will win either way,0.8
+CO,Windsor Beacon,WINDSORBC,1980,CNTY COMM,3,,CO,"MARTIN, JOHN",REP,0,,,,Republican challenger; Beacon impressed but slight edge to incumbent,0.8
+CO,Windsor Beacon,WINDSORBC,1980,DA/PROSECUTOR,,,CO,"MILLER, BOB",,1,,1,,Long been considered one of the state's top DAs; no Democratic opponent; challenged by independent Mike Veno; 'Miller's distinguished record should prevail',0.95
+CO,Windsor Beacon,WINDSORBC,1980,DA/PROSECUTOR,,,CO,"VENO, MIKE",IND,0,,,,Independent challenger to Miller; 'personable young guy and has a strong grasp of the issues'; non-endorsement,0.95
+CO,Windsor Beacon,WINDSORBC,1980,CITY COUNCIL,At Large,,CO,"MARTIN, ROBERT",,,,,,Unopposed in nonpartisan race for at-large seat on County Council,0.95
+CO,Windsor Beacon,WINDSORBC,1980,CITY COUNCIL,2,,CO,"ANDERSON, DEANN",,,,,,Advertising executive and Republican party worker; write-in candidate for non-partisan County Council District 2 race; both candidates very bright and would make good members; no explicit preference between Anderson and Hatzison,0.95
+CO,Windsor Beacon,WINDSORBC,1980,CITY COUNCIL,2,,CO,"HATZISON, LARRY",,,,,,Rural school clerk and Democratic party worker; write-in candidate for non-partisan County Council District 2 race; no explicit preference,0.95
+CO,Windsor Beacon,WINDSORBC,1980,JUDGE,,,CO,PETERSEN,,1,,,1,Court judge; Beacon impressed with Judge Petersen,0.8
+CO,Windsor Beacon,WINDSORBC,1980,JUDGE,,,CO,"HAYS, JONATHON",,1,,,1,Court judge; heard good comments about Jonathon Hays,0.8
+CO,Windsor Beacon,WINDSORBC,1980,PRESIDENT,,,CO,"CARTER, JIMMY",DEM,0,1,,,"'Two parting shots: One, we feel that the policies of the Carter administration have been disastrous for the small business and the American farmer'; implied non-endorsement of Carter for re-election",0.95
+CO,Windsor Beacon,WINDSORBC,1982,H,4,,CO,"BROWN, HANK",REP,1,,1,,"Editorial 'To stimulate thought...' by G.G.; Republican incumbent; 'favorite son of Weld County'; intelligent, most-studied and most articulate member of Colorado's Washington delegation; cares about agriculture and is a genuine fiscal conservative",0.95
+CO,Windsor Beacon,WINDSORBC,1982,H,4,,CO,"BISHOPP, BRAD",DEM,0,,,,"Democratic challenger; 'sincere, well-meaning, but no match in this case for the Brown record'",0.95
+CO,Windsor Beacon,WINDSORBC,1982,GOVERNOR,,,CO,"LAMM, DICK",DEM,1,1,,,Incumbent Governor; Beacon disagrees with his blocking of I-470 around Denver and slowing dam construction in Weld County; doesn't appreciate remarks about James Watt's religious convictions; but Lamm has been instrumental in promoting tourism and extending industry; GOP ticket of Fuhr and Steffan attempting wrong issues like abortion; vote goes to Lamm/Dick Democratic team,0.95
+CO,Windsor Beacon,WINDSORBC,1982,LT GOVERNOR,,,CO,"DICK, NANCY",DEM,1,1,,,Incumbent Lt Governor; endorsed as part of Lamm/Dick Democratic team,0.95
+CO,Windsor Beacon,WINDSORBC,1982,GOVERNOR,,,CO,"FUHR, JOHN",REP,0,,,,GOP gubernatorial candidate; 'attempting to use the wrong problems instead all the abortion issues',0.95
+CO,Windsor Beacon,WINDSORBC,1982,LT GOVERNOR,,,CO,STEFFAN,REP,0,,,,GOP Lt Governor candidate; part of Fuhr/Steffan ticket,0.95
+CO,Windsor Beacon,WINDSORBC,1982,SEC OF STATE,,,CO,"MEYER, NATALIE",REP,0,,,,"Republican candidate; from Denver area; never held elected office, only local GOP campaign worker; implied non-endorsement",0.8
+CO,Windsor Beacon,WINDSORBC,1982,SEC OF STATE,,,CO,"GIVAN, BERRY",DEM,1,,,,Democratic candidate; from Denver area; 'may have an edge because of his good record as a state legislator',0.8
+CO,Windsor Beacon,WINDSORBC,1982,TREASURER,,,CO,"ROMER, ROY",DEM,0,1,,,Incumbent Democratic State Treasurer; capable and has long record as loyal Democrat and able legislator; but Beacon prefers Hughes,0.95
+CO,Windsor Beacon,WINDSORBC,1982,TREASURER,,,CO,"HUGHES, BILL",REP,1,,,,"Republican challenger; 'exceptionally bright and imaginative, possibly giving the state some new energy ideas in its dealings with money'; nod goes to Hughes",0.95
+CO,Windsor Beacon,WINDSORBC,1982,ATTORNEY GENERAL,,,CO,"WOODARD, DUANE",REP,1,,,,Republican; represented western Weld County District Court; brilliant record on Public Utilities Commission; independent thinking Republican; 'Woodard has enough law-and-order flavor for us. Duane Woodard gets our vote',0.95
+CO,Windsor Beacon,WINDSORBC,1982,ATTORNEY GENERAL,,,CO,"KNAPPER, CARL",DEM,0,,,,Democratic; one of Governor Lamm's chief cabinet members; described as attorney-libertarian,0.95
+CO,Windsor Beacon,WINDSORBC,1982,TRUSTEE,,,CO,"FOWLER, HUGH",REP,1,,,,Republican candidate for University of Colorado Board of Regents (at-large); fiscal conservative; longtime legislator and senator from Arapahoe County; 'just the kind of troublemaker that the ultra-liberal university environment needs. Our nod goes to Fowler',0.95
+CO,Windsor Beacon,WINDSORBC,1982,TRUSTEE,,,CO,"BETZ, FRED JR.",DEM,0,,,,Democratic candidate for CU Board of Regents; long-time newspaper publisher in Lamar; following his father's footsteps as regent,0.95
+CO,Windsor Beacon,WINDSORBC,1982,STATE SENATOR,24,,CO,"STULLEY, JOHN",REP,1,,,,Republican candidate to succeed retiring Democrat Jim Kadlecek; 'has slight edge at the moment over current County Commissioner-at-large Stensaeth'; nod goes to Stulley to give Weld County another GOP voice in Denver,0.95
+CO,Windsor Beacon,WINDSORBC,1982,STATE SENATOR,24,,CO,"STENSAETH, JOAN",DEM,0,,,,Democratic candidate; current County Commissioner-at-large; both have intelligence and would do homework; Beacon prefers Stulley,0.95
+CO,Windsor Beacon,WINDSORBC,1982,STATE SENATOR,4,,CO,"BRANDON, JIM",REP,1,,,,"Republican; colorful, dynamic force as state representative; farmer, foreign service and business background; well-educated and articulate; 'Brandon gets our vote'",0.95
+CO,Windsor Beacon,WINDSORBC,1982,STATE SENATOR,4,,CO,"HETTINGA, EUNICE",DEM,0,,,,Democratic candidate in Senate District 4; implied non-endorsement,0.95
+CO,Windsor Beacon,WINDSORBC,1982,STATE REP,48,,CO,"ARTIST, BILL",REP,1,,1,,Incumbent Republican State Representative; unopposed for re-election; impressive representative of his district,0.95
+CO,Windsor Beacon,WINDSORBC,1982,STATE REP,51,,CO,"YOUNGLAND, WALT",REP,1,,1,,Incumbent Republican; unopposed; 'Youngland is agriculture's most-valuable voice in Denver',0.95
+CO,Windsor Beacon,WINDSORBC,1982,DA/PROSECUTOR,,,CO,"PEEK, STAN",DEM,1,1,,,Editorial 'Some more choices' by G.G.; Democrat appointed DA after Bob Miller became US Attorney for Colorado; assistant prosecutor; slight edge to Peek because of greater experience as state attorney; though Beacon prefers Bill Arnts' tightening up on plea bargaining where Peek has been too liberal,0.95
+CO,Windsor Beacon,WINDSORBC,1982,DA/PROSECUTOR,,,CO,"ARNTS, BILL",REP,0,,,,Republican; Beacon gives slight edge to Peek but appreciates Arnts' approach to plea bargaining,0.95
+CO,Windsor Beacon,WINDSORBC,1982,CNTY COMM,At Large,,CO,"BRANTNER, GENE",REP,1,,,,Republican; Weld County native from old line family with extensive agricultural involvement; owns and operates two businesses; background invaluable on commission; 'gets our vote',0.95
+CO,Windsor Beacon,WINDSORBC,1982,CNTY COMM,At Large,,CO,"KOLAR, JUDY",DEM,0,,,,"Democrat; served on planning committees for governor, League of Women Voters; Beacon prefers Brantner",0.95
+CO,Windsor Beacon,WINDSORBC,1982,CNTY COMM,2,,CO,"JOHNSON, JACKIE",REP,1,,,,"Republican; covers Windsor, Johnstown and West Greeley areas; member of Greeley Planning Commission and District 6 accountability committee; Johnstown area already has at-large representative; 'very bright and personable; would ably represent growth interests of West Greeley and Windsor area'",0.95
+CO,Windsor Beacon,WINDSORBC,1982,CNTY COMM,2,,CO,"STOUTZ, JOHN",DEM,0,,,,Democrat; member of Johnstown Town Council; Beacon prefers Johnson because Johnstown already has Norm Carlson,0.95
+CO,Windsor Beacon,WINDSORBC,1982,CNTY CLERK,,,CO,"FOUNTAIN, MARY ANN",REP,1,,1,,Republican County Clerk; unopposed for re-election; 'Mary Ann gets our vote',0.95
+CO,Windsor Beacon,WINDSORBC,1982,TREASURER,,,CO,"LAVARAD, MIKE",REP,1,,1,,Republican County Treasurer; unopposed for re-election,0.95
+CO,Windsor Beacon,WINDSORBC,1982,ASSESSOR,,,CO,"HAYDEN, HERB",DEM,1,1,,,Democrat County Assessor; unopposed for re-election; 'done some fine work with assessing local businesses',0.95
+CO,Windsor Beacon,WINDSORBC,1982,SHERIFF,,,CO,"STUTZGAR, PAUL",REP,1,,1,,Republican Sheriff; unopposed for re-election; Note: there is some ambiguity in clipping with a separate sheriff race for Andrews/Powers; may be different position. Stutzgar appears unopposed for County Sheriff,0.8
+CO,Windsor Beacon,WINDSORBC,1982,SHERIFF,,,CO,POWNALL,,1,,,,"Likely sheriff race - though text is ambiguous; 'We'll probably vote for Pownall, because of his legal training'; six years with Greeley PD; opposed by Andrews",0.8
+CO,Windsor Beacon,WINDSORBC,1982,SHERIFF,,,CO,ANDREWS,,0,,1,,Incumbent (likely Sheriff Andrews); 'major criticisms... too much turnover in deputy ranks and officers not as competent'; Beacon prefers Pownall,0.8
+CO,Windsor Beacon,WINDSORBC,1982,CITY COUNCIL,At Large,,CO,"WEBB, RALPH K. JR.",,1,,,,Non-partisan candidate; attorney; former Public Trustee for Weld County; member of County School Board #3 Education; on County Council since 1976; 'experience is invaluable',0.95
+CO,Windsor Beacon,WINDSORBC,1982,CITY COUNCIL,At Large,,CO,"HEWLETT, JAMES",,0,,,,Non-partisan candidate; attorney; general manager of Hesa homes; 'may not have the time to devote that Webb would',0.95
+CO,Windsor Beacon,WINDSORBC,1982,CITY COUNCIL,,,CO,"EDLICH, DAVID",,1,,,,Unopposed candidate for 2-year vacancy term on County Council; 'by-far the best of the candidates that have applied',0.95
+CO,Windsor Beacon,WINDSORBC,1982,JUDGE,,,CO,"ARNTS, HUGH",,,,,1,District Judge up for retention; Beacon does not provide explicit recommendation,0.6
+CO,Windsor Beacon,WINDSORBC,1982,JUDGE,,,CO,"BURG, ANDREW",,,,,1,County Judge up for retention; Beacon does not provide explicit recommendation,0.6
+CO,Windsor Beacon,WINDSORBC,1982,JUDGE,,,CO,"KELP, TOMY",,,,,1,County Judge up for retention; Beacon does not provide explicit recommendation,0.6
+CO,Windsor Beacon,WINDSORBC,1984,PRESIDENT,,,CO,"REAGAN, RONALD",REP,1,,1,,"Editorial 'My picks for Nov. 6'; consumer inflation down from 12.4% to 4.2%; Reagan's tax cuts stimulated economic expansion; success in Lebanon, Grenada, El Salvador",0.95
+CO,Windsor Beacon,WINDSORBC,1984,VICE PRESIDENT,,,CO,"BUSH, GEORGE",REP,1,,1,,"Successful businessman, congressman, UN ambassador, envoy to China, four years in White House decision making; 'I'll take Bush'",0.95
+CO,Windsor Beacon,WINDSORBC,1984,PRESIDENT,,,CO,"MONDALE, WALTER",DEM,0,,,,Beacon notes inflation was 12.4% under Carter/Mondale years; Mondale's plan would still leave deficit at $80B in 1989,0.95
+CO,Windsor Beacon,WINDSORBC,1984,VICE PRESIDENT,,,CO,"FERRARO, GERALDINE",DEM,0,,,,Beacon notes only assistant DA in Queens and rubber stamp for Tip O'Neill,0.95
+CO,Windsor Beacon,WINDSORBC,1984,SENATOR,,,CO,"ARMSTRONG, BILL",REP,1,,1,,"Arch-conservative; honest, candid, voter responsive; stands firmly behind Reagan on economic and foreign policy; with Beacon on moral issues like opposition to abortion and prayer in schools; 'Sen. Armstrong deserves another term'",0.95
+CO,Windsor Beacon,WINDSORBC,1984,SENATOR,,,CO,"DICK, NANCY",DEM,0,,,,Democratic challenger; 'crawled into the lowest of gutters to conduct her campaign'; blatantly misrepresented Armstrong's religious beliefs; would favor unilateral nuclear freeze and massive social program spending,0.95
+CO,Windsor Beacon,WINDSORBC,1984,H,4,,CO,"BROWN, HANK",REP,1,,1,,Republican incumbent; negotiating moderate on water and environmental issues; one of most vocal members of Congress on dollar accountability; pro-choice but should be brought around; 'I'll vote for Hank Brown',0.95
+CO,Windsor Beacon,WINDSORBC,1984,H,4,,CO,"BATES, MARY FAGAN",DEM,0,,,,Democratic challenger; 'peace at any price'; weak in knowledge of legislative process and agriculture policy,0.95
+CO,Windsor Beacon,WINDSORBC,1984,TRUSTEE,,,CO,"DIETZE, PETER",REP,1,,1,,Republican incumbent CU Regent; voice of moderation on board,0.95
+CO,Windsor Beacon,WINDSORBC,1984,TRUSTEE,,,CO,"SGARLETTI, FRANCES",DEM,0,,,,Student; 'represent the very narrow interests of the student radical left',0.95
+CO,Windsor Beacon,WINDSORBC,1984,STATE REP,48,,CO,"ARTIST, BILL",REP,1,,1,,Republican incumbent; unopposed; served well in two terms; good attendance record; does homework; not rubber stamp for GOP leadership,0.95
+CO,Windsor Beacon,WINDSORBC,1984,STATE REP,51,,CO,"YOUNGLAND, WALT",REP,1,,1,,Long-time Republican incumbent; through personal financial disaster and exonerated scrape with law; most knowledgeable man in state house on water and agricultural issues; farmer and rancher,0.95
+CO,Windsor Beacon,WINDSORBC,1984,STATE REP,51,,CO,"ALVARADO, ERNESTO",DEM,0,,,,"Intelligent Democratic challenger; doctoral student in cooperative learning; 'apt to be a good speaker, especially in the areas of planning for social spending and progress'",0.95
+CO,Windsor Beacon,WINDSORBC,1984,SUPREME COURT,,,CO,ERICKSON,,0,,,1,Beacon advises 'vote no on each' for retention; 'keep them humble'; Erickson had 39.3% 'do not retain' rating in bar association poll,0.8
+CO,Windsor Beacon,WINDSORBC,1984,COURT OF APPEALS,,,CO,ROMAN,,0,,,1,Court of Appeals judge; Beacon advises vote no; 36.8% 'do not retain',0.8
+CO,Windsor Beacon,WINDSORBC,1984,COURT OF APPEALS,,,CO,TULLY,,0,,,1,Court of Appeals judge; Beacon advises vote no; 36.5% 'do not retain',0.8
+CO,Windsor Beacon,WINDSORBC,1984,COURT OF APPEALS,,,CO,STERNBERG,,0,,,1,Court of Appeals judge; Beacon advises vote no; 36.7% 'do not retain',0.8
+CO,Windsor Beacon,WINDSORBC,1984,COURT OF APPEALS,,,CO,TONY,,0,,,1,Court of Appeals judge; Beacon advises vote no; 39.6% 'do not retain',0.8
+CO,Windsor Beacon,WINDSORBC,1984,COURT OF APPEALS,,,CO,VAN CISE,,0,,,1,Court of Appeals judge; Beacon advises vote no; 42.9% 'do not retain' (highest),0.8
+CO,Windsor Beacon,WINDSORBC,1986,SENATOR,,,CO,"KRAMER, KEN",Republican,1,,,,WIRTH HAS LOST MUCH CREDIBILITY BECAUSE OF HIS REPEATED DENIAL OF INVOLVEMENT WITH THE DISMANTLING OF THE PHONE SYSTEM,0.9
+CO,Windsor Beacon,WINDSORBC,1986,SENATOR,,,CO,"WIRTH, TIM",Democrat,0,,,,LOST CREDIBILITY DUE TO PHONE SYSTEM DISMANTLING DENIAL,0.85
+CO,Windsor Beacon,WINDSORBC,1986,H,4,,CO,"BROWN, HANK",Republican,1,,1,,STAR OF COLORADO CONGRESSIONAL DELEGATION; FIERCELY INDEPENDENT FISCAL CONSERVATIVE,0.95
+CO,Windsor Beacon,WINDSORBC,1986,GOVERNOR,,,CO,"STRICKLAND, TED",Republican,1,,,,DEMS HAVE HELD STATE'S TOP JOB FOR 12 YEARS; TIME FOR A CHANGE; ACCOMPANYING HOUSE CLEANING IN EXECUTIVE BRANCH,0.95
+CO,Windsor Beacon,WINDSORBC,1986,SEC OF STATE,,,CO,"MEYER, NATALIE",Republican,1,,1,,RECORD INDICATES SHE HAS DONE A THOROUGH JOB CAREFULLY MANAGING STATE'S RECORD KEEPING FUNCTIONS,0.9
+CO,Windsor Beacon,WINDSORBC,1986,ATTORNEY GENERAL,,,CO,"WOODARD, DUANE",Republican,1,,1,,FORMER STATE SENATOR FROM WELD; HAS RECORD GOOD ENOUGH TO MERIT YOUR VOTE,0.85
+CO,Windsor Beacon,WINDSORBC,1986,CU REGENT,4,,CO,"SHORE, ROY",Republican,1,,1,,FORMER WELD GOP CHAIRMAN; INJECTED COMMON SENSE INTO UNIVERSITY ENVIRONMENT; DESERVES ANOTHER FOUR YEARS,0.9
+CO,Windsor Beacon,WINDSORBC,1986,STATE REP,51,,CO,"YOUNGLUND, WALT",Republican,1,,1,,KNOWLEDGE OF AGRICULTURE AND WATER UNPARALLELED IN COLORADO GOVERNMENT; SAYS WHAT HE THINKS AND VOTES HIS CONVICTIONS,0.85
+CO,Windsor Beacon,WINDSORBC,1986,CNTY COMM,AT-LARGE,,CO,"SHELTON, JIM",Democrat,1,,,,LONG-TIME DEM ACTIVIST; OUTSTANDING COMMISSIONER FOR RURAL WELD COUNTY; FRIEND AND LOVER OF WELD COUNTY; SNUG TO THE GREELEY POWER CARTEL OBJECTIVE VOICE FOR ALL,0.9
+CO,Windsor Beacon,WINDSORBC,1986,CNTY COMM,AT-LARGE,,CO,"BRANTNER, GENE",Republican,0,,1,,PRETTY COZY TO CURRENT GREELEY POWER STRUCTURE,0.85
+CO,Windsor Beacon,WINDSORBC,1986,CNTY COMM,2,,CO,"JOHNSON, JACKIE",Republican,1,,1,,UNOPPOSED; HIGHLY CREDITABLE JOB; GOOD LISTENER AND EVALUATOR; RESPONSIVE TO RURAL NEEDS,0.75
+CO,Windsor Beacon,WINDSORBC,1986,CNTY CLERK,,,CO,"FEUERSTEIN, MARY",Republican,1,,1,,UNOPPOSED; DOING A THOROUGH AND PROFESSIONAL JOB,0.75
+CO,Windsor Beacon,WINDSORBC,1986,TREASURER,,,CO,"LOUSTALET, MIKE",Republican,1,,1,,COUNTY TREASURER; UNOPPOSED; THOROUGH AND PROFESSIONAL JOB,0.75
+CO,Windsor Beacon,WINDSORBC,1986,CORONER,,,CO,"STODDARD, PAUL",Republican,1,,1,,UNOPPOSED; THOROUGH AND PROFESSIONAL JOB,0.75
+CO,Windsor Beacon,WINDSORBC,1986,SHERIFF,,,CO,"JORDAN, ED",Republican,1,,,,EXPERIENCE WITH GREELEY PD; HELD KEY LEADERSHIP POSITIONS; OBVIOUS LEADERSHIP PERSONALITY AND SHERIFF'S OFFICE EXPERIENCE,0.9
+CO,Windsor Beacon,WINDSORBC,1986,SHERIFF,,,CO,"PLASTERS, DAVE",Democrat,0,,,,EXTENSIVE LAW ENFORCEMENT EXPERIENCE; ATTORNEY; HAS BEEN AN ASSISTANT DA,0.8
+CO,Windsor Beacon,WINDSORBC,1986,CITY COUNCIL,AT-LARGE,,CO,"CARLSON, NORM",,1,,,,COUNTY COUNCIL AT LARGE (GREELEY); FORMER COUNTY COMMISSIONER; FREQUENT VICTIM OF COUNTY COUNCIL ABUSE; HE'LL BE GROSSLY ANTI-COUNCIL; ENOUGH OF A STATESMAN TO STEP FORWARD AND GUIDE THE COUNCIL,0.85
+CO,Windsor Beacon,WINDSORBC,1986,CITY COUNCIL,AT-LARGE,,CO,"REIN, SHIRLEY",,0,,,,REIN OPENLY HOPES TO PERSUADE THE ELECTORATE TO DO AWAY WITH COUNCIL,0.75
+CO,Windsor Beacon,WINDSORBC,1986,CITY COUNCIL,AT-LARGE,,CO,"ALLEN, PAUL",,0,,,,FREQUENT COUNTY COUNCIL CRITIC,0.7
+CO,Windsor Beacon,WINDSORBC,1986,CITY COUNCIL,1,,CO,"RICHTER, MARION",,1,,,,WRITE-IN OPPONENT; GREELEY PLUMBING CONTRACTOR; FRESH FACE NEEDED; WILL TAKE LONG HARD OBJECTIVE LOOK AT COUNCIL FUNCTIONS AND DEMAND ACCOUNTABILITY,0.9
+CO,Windsor Beacon,WINDSORBC,1986,CITY COUNCIL,1,,CO,"RUPP, BILL",,0,,,,INCUMBENT; AUTHOR OF MUCH CONTROVERSY; OPENLY QUESTIONING REASON FOR COUNTY COUNCIL,0.8
+CO,Windsor Beacon,WINDSORBC,1988,PRESIDENT,,,CO,"BUSH, GEORGE",Republican,1,,,,MAY BE MOST QUALIFIED MAN EVER TO RUN FOR OVAL OFFICE; STARTED AND RAN A LARGE BUSINESS; SERVED IN CONGRESS; UN AMBASSADOR; VP TO A GREAT PRESIDENT,0.95
+CO,Windsor Beacon,WINDSORBC,1988,VICE PRESIDENT,,,CO,"QUAYLE, DAN",Republican,1,,,,SOLID CONSERVATIVE; BIBLE BELIEVER,0.95
+CO,Windsor Beacon,WINDSORBC,1988,H,4,,CO,"BROWN, HANK",Republican,1,,1,,DESPITE REPEATED VOTES IN FAVOR OF ABORTION AND UNFORTUNATE SUPPORT OF CIVIL RIGHTS RESTORATION ACT OF 1987; INTRUSIVE PIECE OF BIG BROTHER LEGISLATION AGAINST BUSINESS AND CHURCHES; ONE OF FINEST MONEY CONSERVATIVES IN WASHINGTON,0.95
+CO,Windsor Beacon,WINDSORBC,1988,STATE BOARD OF ED,,,CO,"DOWNING, SYBIL",Republican,1,,,,REASONABLE AS LIBERALS GET; NOT CONSERVATIVE; INTERESTED IN WATCHING OUR DOLLARS CAREFULLY,0.85
+CO,Windsor Beacon,WINDSORBC,1988,STATE BOARD OF ED,,,CO,"EDDY, GLADYS",Republican,1,,,,REASONABLE AS LIBERALS GET; INTERESTED IN WATCHING OUR DOLLARS CAREFULLY,0.85
+CO,Windsor Beacon,WINDSORBC,1988,CU REGENT,,,CO,"ARNOLD, KATHY",Republican,1,,,,DONE A CREDITABLE JOB; NEED REASONABLE ELOQUENT MODERATES TO HELP OFFSET RADICAL LEFT THAT DOMINATES THE BOULDER CAMPUS,0.85
+CO,Windsor Beacon,WINDSORBC,1988,STATE SENATOR,17,,CO,"NORTON, TOM",Republican,1,,1,,UNOPPOSED; RESPONSIVE TO NEEDS OF ELECTORATE; DESERVES VOTE OF CONFIDENCE,0.8
+CO,Windsor Beacon,WINDSORBC,1988,STATE REP,48,,CO,"OWEN, DAVE",Republican,1,,1,,UNOPPOSED; RESPONSIVE TO NEEDS OF ELECTORATE; DESERVES VOTE OF CONFIDENCE,0.8
+CO,Windsor Beacon,WINDSORBC,1988,CNTY COMM,,,CO,"KIRBY, BILL",Republican,1,,1,,UNOPPOSED FOR RE-ELECTION; RESPONSIVE TO NEEDS OF ELECTORATE,0.8
+CO,Windsor Beacon,WINDSORBC,1988,CNTY COMM,,,CO,"LACEY, GORDON",Democrat,1,1,,,UNOPPOSED FOR RE-ELECTION; RESPONSIVE TO NEEDS OF ELECTORATE,0.8
+CO,Windsor Beacon,WINDSORBC,1988,STATE REP,15,,CO,"BERGER, LEE",Democrat,1,1,,,WORKED HARD LAST TWO YEARS; FRIEND OF AGRICULTURE; SLIGHT EDGE TO BERGER,0.8
+CO,Windsor Beacon,WINDSORBC,1988,DA/PROSECUTOR,,,CO,"DOMINGUEZ, AL",Republican,1,,,,BELIEVES DA OUGHT TO TRY A FEW CASES HIMSELF AND NOT BE AS QUICK TO PLEA BARGAIN; LEANING TO DOMINGUEZ,0.85
+CO,Windsor Beacon,WINDSORBC,1988,DA/PROSECUTOR,,,CO,PEEK,Democrat,0,1,,,INCUMBENT; CLAIMS GOOD ADMINISTRATOR AND BUDGET MIZER FOR EIGHT YEARS,0.75
+CO,Windsor Beacon,WINDSORBC,1988,CITY COUNCIL,AT-LARGE,,CO,"WILLIAMS, DAWN",,1,,,,COUNTY COUNCIL AT LARGE; REAL BATTLER FOR AGRICULTURE AND PENNY PINCHING,0.85
+CO,Windsor Beacon,WINDSORBC,1988,CITY COUNCIL,2,,CO,"FAHRENBRUCH, HAROLD",,1,,,,UNOPPOSED FOR NON-PARTISAN COUNTY COUNCIL SEAT; REPLACING NELS NELSON,0.75
+CO,Windsor Beacon,WINDSORBC,1988,SUPREME COURT,,,CO,"VOLLACK, ANTHONY",,0,,,,NO VOTE ON RETENTION; LITTLE IDEA OF ANY JUDGES; BAR IS FAVORABLE ON ALL,0.7
+CO,Windsor Beacon,WINDSORBC,1988,COURT OF APPEALS,,,CO,"CRISWELL, JOHN",,0,,,,NO VOTE ON RETENTION,0.7
+CO,Windsor Beacon,WINDSORBC,1988,COURT OF APPEALS,,,CO,"PIERCE, CHARLES",,0,,,,NO VOTE ON RETENTION,0.7
+CO,Windsor Beacon,WINDSORBC,1988,JUDGE,,,CO,"CHAPMAN, SCOTT",,0,,,,COUNTY JUDGE; NO VOTE ON RETENTION,0.7
+CO,Windsor Beacon,WINDSORBC,1990,SENATOR,,,CO,"BROWN, HANK",Republican,1,,,,CHOICE IS OBVIOUS; STERLING STINT IN THE HOUSE; CLEAR THINKING; UNQUALIFIED DESIRE TO BALANCE FEDERAL BUDGET AND PUT COMMON SENSE BACK INTO DC; OPPONENT COMES OFF NEGATIVELY,0.95
+CO,Windsor Beacon,WINDSORBC,1990,H,4,,CO,"ALLARD, WAYNE",Republican,1,,,,FISCAL CONSERVATIVE THAN THE MAINSTREAM OF HIS PARTY; GREW UP IN AGRICULTURE; OWN VERY SUCCESSFUL SMALL BUSINESS AND MORE QUALITY EXPERIENCE IN STATE; WORKED VERY [HARD] LAST FOUR YEARS TO FAMILIARIZE WITH PEOPLE OF WHOLE FOURTH,0.95
+CO,Windsor Beacon,WINDSORBC,1990,GOVERNOR,,,CO,"ROMER, ROY",Democrat,1,1,,,HAVE DONE A GOOD JOB FOR THE STATE OVER LAST FOUR YEARS; GOP TEAM OF JOHN ANDREWS AND LILLIAN BICKEL MOUNTED AMUSING CAMPAIGN,0.85
+CO,Windsor Beacon,WINDSORBC,1990,GOVERNOR,,,CO,"ANDREWS, JOHN",Republican,0,,,,GOP TEAM MOUNTED AN EFFECTIVE IF SOMEWHAT AMUSING CAMPAIGN,0.75
+CO,Windsor Beacon,WINDSORBC,1990,SEC OF STATE,,,CO,"MEYER, NATALIE",Republican,1,,1,,ONE OF MOST POPULAR VOTE-GETTERS IN STATE'S HISTORY; QUALITY PUBLIC SERVANT; DESERVES ANOTHER FOUR YEARS,0.9
+CO,Windsor Beacon,WINDSORBC,1990,TREASURER,,,CO,"SARGENT, DICK",Republican,1,,,,WOULD DO A SUPERB JOB BASED ON QUALIFICATIONS; INCUMBENT SCHOETTLER PROBABLY UNBEATABLE RIDING ROMER COATTAILS,0.85
+CO,Windsor Beacon,WINDSORBC,1990,ATTORNEY GENERAL,,,CO,"NORTON, GALE",Republican,1,,,,"IMPRESSED NEARLY ALL; WILL GET MANY EDITORIAL ENDORSEMENTS; INCUMBENT WOODARD A FORMER REPUBLICAN IS RIPE FOR PICKING; ANTI-BUSINESS, SIDES WITH RADICAL ENVIRONMENTALISTS",0.9
+CO,Windsor Beacon,WINDSORBC,1990,ATTORNEY GENERAL,,,CO,"WOODARD, DUANE",Democrat,0,,,,INCUMBENT; FORMER REPUBLICAN; RIPE FOR PICKING; ANTI-BUSINESS; SIDES WITH RADICAL ENVIRONMENTALISTS ON ALMOST EVERY ISSUE,0.8
+CO,Windsor Beacon,WINDSORBC,1990,CU REGENT,,,CO,"DIETZE, PETER",Republican,1,,1,,"INCUMBENT; DONE GOOD JOB OF NEGOTIATING BETWEEN RADICAL LEFT ON CAMPUS AND MODERATELY CONSERVATIVE POPULACE; WORKS HARD, STUDIES, LISTENS; OPPONENT KELLEY UNKNOWN QUANTITY",0.85
+CO,Windsor Beacon,WINDSORBC,1990,STATE SENATOR,1,,CO,"AMENT, DON",Republican,1,,,,FORT MORGAN; SEAT ABANDONED BY JIM BRANDON IN ILL-FATED BID FOR CONGRESS; ONE OF MOST AWARDED LEGISLATORS; SHOO-IN FOR STATE SENATE; EASTERN AG CONCERNS COULD DO NO BETTER,0.9
+CO,Windsor Beacon,WINDSORBC,1990,STATE SENATOR,16,,CO,"NORTON, TOM",Republican,1,,1,,GREELEY; HOPEFULLY HAS GOTTEN HIS ALCOHOL ABUSE UNDER CONTROL,0.75
+CO,Windsor Beacon,WINDSORBC,1990,STATE REP,48,,CO,"OWEN, DAVE",Republican,1,,1,,VERY GOOD LEGISLATOR; DEEPLY KNOWLEDGEABLE ON ISSUES OF CONCERN TO WEST AND EAST WELD; FRIEND TO SMALL PERSON AND GOOD LISTENER,0.9
+CO,Windsor Beacon,WINDSORBC,1990,STATE REP,51,,CO,"JERKE, BILL",Republican,1,,1,,GOP INCUMBENT; TOUGH CONSERVATIVE; HARMS A MODERATE DEM; STILL SUPPORT JERKE BECAUSE OF COMMON SENSE APPROACH TO TIGHTLY RUN GOVERNMENT,0.85
+CO,Windsor Beacon,WINDSORBC,1990,CNTY COMM,AT-LARGE,,CO,"RICHTER, MARION",Democrat,1,,,,WELD COMMISSIONER AT-LARGE; CLOSE CALL BUT GO FOR RICHTER,0.85
+CO,Windsor Beacon,WINDSORBC,1990,SHERIFF,,,CO,"JORDAN, ED",Republican,1,,1,,PROFESSIONAL LAW ENFORCEMENT MAN; REALLY RAISED STANDARDS OF SHERIFF'S OFFICE; DESERVES ANOTHER FOUR YEARS,0.95
+CO,Windsor Beacon,WINDSORBC,1990,ASSESSOR,,,CO,"LASELL, WARREN",Democrat,1,,,,"REAL ESTATE, PROFESSIONAL APPRAISER AND ASSESSOR'S OFFICE EXPERIENCE MAKE HIM LOGICAL CHOICE; BRANTNER SERVED COUNTY EIGHT YEARS AS COMMISSIONER BUT HASN'T CREDENTIALS",0.9
+CO,Windsor Beacon,WINDSORBC,1990,CORONER,,,CO,"HALL, WESLEY",Republican,1,,,,POLICE INVESTIGATIVE BACKGROUND AND EDUCATION MAKE HIM THE CHOICE; REPLACING PAUL STODDARD WHO CHOSE NOT TO SEEK AGAIN,0.9
+CO,Windsor Beacon,WINDSORBC,1990,CNTY COMM,2,,CO,"HARBERT, ANNE",Republican,1,,1,,UNOPPOSED FOR RE-ELECTION,0.75
+CO,Windsor Beacon,WINDSORBC,1990,CNTY CLERK,,,CO,"FEUERSTEIN, MARY ANN",Republican,1,,1,,UNOPPOSED FOR RE-ELECTION,0.75
+CO,Windsor Beacon,WINDSORBC,1990,TREASURER,,,CO,"LOUSTALET, MIKE",Republican,1,,1,,COUNTY TREASURER; UNOPPOSED FOR RE-ELECTION,0.75
+CO,Windsor Beacon,WINDSORBC,1990,CITY COUNCIL,2,,CO,"YOUNG, DAVID",,1,,,,WELD COUNTY COUNCIL DIST 2; UNOPPOSED TO REPLACE MARION RICHTER,0.75
+CO,Windsor Beacon,WINDSORBC,1990,CITY COUNCIL,1,,CO,"ORR, CLAIRE",,1,,,,WELD COUNTY COUNCIL DIST 1; UNOPPOSED,0.75
+CO,Windsor Beacon,WINDSORBC,1992,PRESIDENT,,,CO,"BUSH, GEORGE",Republican,1,,1,,MAN OF MORAL FIBER; STANDS BETWEEN OUR CONTINUED LIBERTY AND LIBERALISM AND THEIR DESIRE TO INFRINGE ON OUR FREEDOMS,0.95
+CO,Windsor Beacon,WINDSORBC,1992,PRESIDENT,,,CO,"CLINTON, BILL",Democrat,0,,,,LYING STRATEGY; CAMPAIGN HAS BEEN USING THE LINE THESE ARE WORST ECONOMIC TIMES; LIES ABOUT NATIONAL ECONOMY ARE NOTHING MORE THAN A SCARE TACTIC; ONE OF THIS CENTURY'S GREATEST COLLECTION OF SUCKERS,0.95
+CO,Windsor Beacon,WINDSORBC,1992,SENATOR,,,CO,"CONSIDINE, TERRY",Republican,1,,,,DESERVES OUR VOTE; STANDS BETWEEN OUR CONTINUED LIBERTY AND LIBERALISM; MAN OF MORAL FIBER,0.95
+CO,Windsor Beacon,WINDSORBC,1992,H,4,,CO,"ALLARD, WAYNE",Republican,1,,1,,DESERVES OUR VOTE; ONE DISGRUNTLED FARMER WOULDN'T VOTE FOR ALLARD UNLESS PIGS LEARNED TO FLY; THESE THREE MEN NEED OUR SUPPORT; MAN OF MORAL FIBER,0.95
+CO,Windsor Beacon,WINDSORBC,1992,STATE REP,48,,CO,"OWEN, DAVE",Republican,1,,1,,DESERVES OUR VOTE; MAN OF MORAL FIBER; STANDS BETWEEN OUR CONTINUED LIBERTY AND LIBERALISM,0.95
+CO,Windsor Beacon,WINDSORBC,1994,GOVERNOR,,,CO,"ROMER, ROY",Democrat,1,1,,,INCUMBENT; REMARKABLE IN WORKING WITH LEGISLATURE AND PEOPLE OF COLORADO; ROLL-UP-YOUR-SLEEVES CHIEF EXECUTIVE; HIGH MARKS FOR HELPING FACILITATE DENVER TEACHERS' STRIKE,0.95
+CO,Windsor Beacon,WINDSORBC,1994,GOVERNOR,,,CO,"BENSON, BRUCE",Republican,0,,,,NOT ENDORSED,0.85
+CO,Windsor Beacon,WINDSORBC,1994,LT GOVERNOR,,,CO,"SCHOETTLER, GAIL",Democrat,1,,,,DEMONSTRATED IN PRESENT POSITION OF STATE TREASURER AND EARLIER AS STATE PERSONNEL DIRECTOR THAT SHE CAN SUCCESSFULLY HANDLE A BIG JOB,0.95
+CO,Windsor Beacon,WINDSORBC,1994,LT GOVERNOR,,,CO,"SCHAEFFER, BOB",Republican,0,,,,FAVORITE SON OF AREA BUT IN GOOD FAITH CANNOT ENDORSE,0.85
+CO,Windsor Beacon,WINDSORBC,1994,H,4,,CO,"ALLARD, WAYNE",Republican,1,,1,,TWO-TERM INCUMBENT; FOLKSY STYLE WORKS WELL AMONG CONSTITUENTS; TOUGH ON SPENDING; NO BONES ABOUT OPPOSITION TO PORK-BARRELING; PLAN TO REDUCE NATIONAL DEBT MAKES MORE SENSE THAN MOST; DESERVES ANOTHER TWO YEARS,0.95
+CO,Windsor Beacon,WINDSORBC,1994,H,4,,CO,"KIPP, CATHY",Democrat,0,,,,NOT ENDORSED,0.8
+CO,Windsor Beacon,WINDSORBC,1994,ATTORNEY GENERAL,,,CO,"NORTON, GALE",Republican,1,,1,,EXPERIENCE AND POTENTIAL; SERVED IN BOTH WASHINGTON AND COLORADO IN ELECTED AND APPOINTED POSITIONS; TOUGH ON CRIME; POSSIBLE GUBERNATORIAL CANDIDATE IN FUTURE,0.95
+CO,Windsor Beacon,WINDSORBC,1994,ATTORNEY GENERAL,,,CO,"FREESE, RICHARD",Democrat,0,,,,NOT ENDORSED,0.8
+CO,Windsor Beacon,WINDSORBC,1994,TREASURER,,,CO,"GREENWOOD, DAPHNE",Democrat,1,,,,"UNDERDOG; EDGE FROM EXPERIENCE; FORMER CORPORATE ECONOMIST, ASSOCIATE PROFESSOR OF ECONOMICS AT CU, STATE REPRESENTATIVE; VISITING SCHOLAR AT US TREASURY DEPARTMENT; KNOWN AS BEING TOUGH; SEN BILL OWENS PALES IN COMPARISON",0.95
+CO,Windsor Beacon,WINDSORBC,1994,TREASURER,,,CO,"OWENS, BILL",Republican,0,,,,PALES IN COMPARISON TO GREENWOOD,0.85
+CO,Windsor Beacon,WINDSORBC,1994,SEC OF STATE,,,CO,"BUCKLEY, VICKKI",Republican,1,,,,"WORKED IN STATE GOVERNMENT FOR PAST 20 YEARS, MOST RECENTLY UNDER TUTELAGE OF RETIRING NATALIE MEYER; ON-THE-JOB EXPERIENCE MORE THAN COMPENSATES FOR LACK OF ACADEMIC CREDENTIALS",0.95
+CO,Windsor Beacon,WINDSORBC,1994,SEC OF STATE,,,CO,"WOLFF, SHERRIE",Democrat,0,,,,CAMPAIGN MANAGEMENT AND PARTY INVOLVEMENT WERE ONLY CRITERIA; THIS IS A SERIOUS JOB AND EXPERIENCE SHOULD COUNT,0.85
+CO,Windsor Beacon,WINDSORBC,1994,CU REGENT,AT-LARGE,,CO,"MUNOZ, RAYMOND",Democrat,1,,,,MORE COMMITTED TO REAL BUSINESS OF ACADEMIC; FRESH FACE WITH NEW IDEAS ON HOLDING DOWN COST OF ATTENDING CU,0.9
+CO,Windsor Beacon,WINDSORBC,1994,CU REGENT,AT-LARGE,,CO,"STEINHAUER, P.",Republican,0,,,,BOASTS POSITIONS HE HAS HELD ON ATHLETIC C CLUB AND CU BUFFALOES,0.8
+CO,Windsor Beacon,WINDSORBC,1994,STATE BOARD OF ED,,,CO,"ORR, CLAIR B.",Republican,1,,,,KERSEY; FOURTH DISTRICT; STAND ON MAKING PUBLIC SCHOOLS ACCOUNTABLE,0.9
+CO,Windsor Beacon,WINDSORBC,1994,STATE BOARD OF ED,,,CO,"NEWCOMB, JOELYN",Democrat,1,,,,AT-LARGE; SUPPORT FROM EDITORIAL,0.85
+CO,Windsor Beacon,WINDSORBC,1994,STATE REP,48,,CO,"KAHN, BOB",Democrat,1,,,,"GREELEY; LIKE SOME OF THE THINGS HE SAYS, WORRIED ABOUT LACK OF EXPERIENCE BUT MORE WORRIED ABOUT OWEN'S RHETORIC ESPECIALLY HIS IDEAS ON ELIMINATION OF PROPERTY TAXES AND 11TH AND 12TH GRADES",0.85
+CO,Windsor Beacon,WINDSORBC,1994,STATE REP,48,,CO,"OWEN, DAVE",Republican,0,,1,,"INCUMBENT; WORRIED ABOUT RHETORIC ESPECIALLY IDEAS ON ELIMINATION OF PROPERTY TAXES AND 11TH AND 12TH GRADES, OR THAT CRIMINALS SHOULD BE RELEASED ON OWN RECOGNIZANCE",0.9
+CO,Windsor Beacon,WINDSORBC,1994,STATE SENATOR,16,,CO,"NORTON, TOM",Republican,1,,1,,GREELEY; UNOPPOSED,0.8
+CO,Windsor Beacon,WINDSORBC,1994,JUDGE,19,,CO,"KULP, WILLIS",,1,,,,"19TH JUDICIAL DISTRICT; HIGH MARKS FROM ATTORNEYS AND COURTHOUSE PERSONNEL; ENTHUSIASTIC, COURTEOUS, EVEN-TEMPERED; ABLE TO MAINTAIN ORDER IN COURTROOM; RECOMMEND HE BE RETAINED",0.9
+CO,Windsor Beacon,WINDSORBC,1994,CNTY CLERK,,,CO,"RHODES, GLENDA",Democrat,1,,,,WELD COUNTY CLERK AND RECORDER; MORE IMPRESSED WITH RHODES MANAGEMENT EXPERIENCE; STYLE AND EXPERIENCE BASE WOULD BEST REPRESENT THE OFFICE; CLEAN CAMPAIGN,0.95
+CO,Windsor Beacon,WINDSORBC,1994,CNTY CLERK,,,CO,"TSUKAMOTO, SUKI",Republican,0,,,,24 YEARS OF LINE EXPERIENCE; NOT SURE THAT IS ENOUGH,0.85
+CO,Windsor Beacon,WINDSORBC,1994,SHERIFF,,,CO,"BRATTON, PETE",Democrat,1,,,,WELD COUNTY SHERIFF; VISION AND ENTHUSIASM; STYLE REMINDS US OF OWN WINDSOR POLICE CHIEF JOHN MICHAELS; KEEPS TOWN SAFE; DESERVES CHANCE TO DELIVER,0.95
+CO,Windsor Beacon,WINDSORBC,1994,SHERIFF,,,CO,"JORDAN, ED",Republican,0,,1,,INCUMBENT; ADMITS MANY CHALLENGES INCLUDING BUDGET CUTBACKS AND INADEQUATE JAIL FACILITIES,0.85
+CO,Windsor Beacon,WINDSORBC,1994,TREASURER,,,CO,"SANCHEZ, DAVID",Democrat,1,,,,WELD COUNTY TREASURER; BACKGROUND ALONE GIVES NOD; CPA; INTERPRETED TAX LAWS AS IRS AUDITOR; UNDERSTANDS SOUND INVESTMENT PRACTICES,0.95
+CO,Windsor Beacon,WINDSORBC,1994,TREASURER,,,CO,"WILLIS, ART",Republican,0,,,,"BACKGROUND IN MARKETING, PUBLIC RELATIONS AND PASTORAL THEOLOGY DOES NOT QUALIFY TO MANAGE TAX COLLECTION",0.85
+CO,Windsor Beacon,WINDSORBC,1994,ASSESSOR,,,CO,"LASELL, WARREN",Democrat,1,1,,,INCUMBENT WELD COUNTY ASSESSOR; FIND NO REASON WHATSOEVER TO OUST; OFFICE IS WELL-TRAINED AND CUSTOMER-SERVICE ORIENTED,0.95
+CO,Windsor Beacon,WINDSORBC,1994,ASSESSOR,,,CO,"LAWS, DIANA",Republican,0,,,,SAID OFFICE IS WELL-TRAINED AND CUSTOMER-SERVICE ORIENTED; CAN'T ASK FOR MUCH MORE,0.85
+CO,Windsor Beacon,WINDSORBC,1994,CORONER,,,CO,"ANTHONY, SCOTT",Republican,1,,,,COUNTY CORONER; UNOPPOSED,0.8
+CO,Windsor Beacon,WINDSORBC,1994,CNTY COMM,AT-LARGE,,CO,"WEBSTER, W.H. ""BILL""",Republican,1,,,,COUNTY COMMISSIONER AT-LARGE; UNOPPOSED,0.8
+CO,Windsor Beacon,WINDSORBC,1994,CITY COUNCIL,AT-LARGE,,CO,"MALCOLM, PAMELA R.",Independent,1,,,1,COUNTY COUNCIL AT-LARGE; UNOPPOSED,0.75
+CO,Windsor Beacon,WINDSORBC,1996,PRESIDENT,,,CO,"CLINTON, BILL",Democrat,1,1,,,OFFERS MORE POSITIVE COMPASSIONATE VIEW OF THE FUTURE; MOST DILIGENT PRESIDENT IN MODERN HISTORY; WORKS HARD; THOSE WHO KNOW HIS WORK HABITS SAY THEY'VE NEVER SEEN SUCH DEDICATION; HOUSE-CLEANING IS NORMAL,0.95
+CO,Windsor Beacon,WINDSORBC,1996,VICE PRESIDENT,,,CO,"GORE, AL",Democrat,1,1,,,RECOMMEND CLINTON-GORE RE-ELECTION,0.95
+CO,Windsor Beacon,WINDSORBC,1996,PRESIDENT,,,CO,"DOLE, BOB",Republican,0,,,,GOOD MAN; SERVED COUNTRY WELL; CLINTON OFFERS MORE POSITIVE COMPASSIONATE VIEW OF FUTURE,0.85
+CO,Windsor Beacon,WINDSORBC,1996,SENATOR,,,CO,"ALLARD, WAYNE",Republican,1,,,,"WHILE TOM STRICKLAND HAD HIS CHANCE TO EARN OUR RESPECT, ALLARD GETS OUR SUPPORT; NOT PARTICULARLY HAPPY WITH ALLARD'S DESIGNATION AS ENVIRONMENTALLY-UNFRIENDLY OR HIS UNDYING DEVOTION TO NEWT GINGRICH; FEEL CONGRESS NEEDS A COLORADO SENATOR WHO ACTUALLY KNOWS WINDSOR",0.95
+CO,Windsor Beacon,WINDSORBC,1996,SENATOR,,,CO,"STRICKLAND, TOM",Democrat,0,,,,HAD HIS CHANCE TO EARN OUR RESPECT; HAVE YET TO HEAR FROM CANDIDATE,0.85
+CO,Windsor Beacon,WINDSORBC,1996,H,4,,CO,"KELLEY, GUY",Democrat,1,,,,ROUGH UNPOLISHED APPROACH; STUMBLED IN ANSWERING QUESTIONS BUT ALWAYS LANDED ON HIS FEET; HOMEMADE HANDWRITTEN NOTE CARDS; COMMITMENT TO DISTRICT IS REAL; FROM MAVERICK PERFORMANCE AS CU REGENT WE THINK KELLEY WOULD SERVE US WELL IN CONGRESS; HIS OWN MAN,0.9
+CO,Windsor Beacon,WINDSORBC,1996,H,4,,CO,"SCHAFFER, BOB",Republican,0,,,,ARGUED HIS POINTS OF VIEW AT COMMUNITY FORUM,0.8
+CO,Windsor Beacon,WINDSORBC,1996,CU REGENT,,,CO,"BEER, LARRY",,1,,,,CANDIDATE WHOSE ZEAL FOR EFFICIENT MANAGEMENT OF THE UNIVERSITY OF COLORADO IS MORE IMPRESSIVE THAN JOHNSON'S UNIQUE CANDIDACY,0.9
+CO,Windsor Beacon,WINDSORBC,1996,CU REGENT,,,CO,"JOHNSON, ""MO""",,0,,,,STUDENT WANTS TO SERVE AS CU REGENT; LAUDABLE EFFORT BUT JOHNSON'S UNIQUE CANDIDACY,0.8
+CO,Windsor Beacon,WINDSORBC,1996,CITY COUNCIL,,,CO,"FOLSOM, JOHN",,1,,,,WELD COUNTY COUNCIL AT-LARGE; COMMITTED AND QUALIFIED CANDIDATE; ACTUALLY CAMPAIGNING FOR THE JOB; OPPONENT DAN OSTER,0.9
+CO,Windsor Beacon,WINDSORBC,1998,GOVERNOR,,,CO,"SCHOETTLER, GAIL",Democrat,1,,,,BEACON PICK FOR GOVERNOR,0.9
+CO,Windsor Beacon,WINDSORBC,1998,SENATOR,,,CO,"CAMPBELL, BEN NIGHTHORSE",Republican,1,,1,,BEACON PICK FOR US SENATE,0.9
+CO,Windsor Beacon,WINDSORBC,1998,H,4,,CO,"KIRKPATRICK, SUSAN",Democrat,1,,,,BEACON PICK FOR US HOUSE 4TH DISTRICT,0.9
+CO,Windsor Beacon,WINDSORBC,1998,SEC OF STATE,,,CO,"BAXTER, RIC",Democrat,1,,,,BEACON PICK FOR SECRETARY OF STATE,0.9
+CO,Windsor Beacon,WINDSORBC,1998,TREASURER,,,CO,"POLIFUT, JIM",Democrat,1,,,,BEACON PICK FOR STATE TREASURER,0.85
+CO,Windsor Beacon,WINDSORBC,1998,ATTORNEY GENERAL,,,CO,"SUTHERS, JOHN",Republican,1,,,,BEACON PICK FOR ATTORNEY GENERAL,0.9
+CO,Windsor Beacon,WINDSORBC,1998,STATE REP,48,,CO,"BURKHART, CAROL",Democrat,1,,,,BEACON PICK FOR DISTRICT 48,0.9
+CO,Windsor Beacon,WINDSORBC,2000,PRESIDENT,,,CO,"BUSH, GEORGE W.",Republican,1,,,,NO CANDIDATES STAND OUT AS GREAT BUT BUSH'S VIEWS ARE MORE IN LINE WITH THE CONSERVATIVE NATURE OF WINDSOR,0.95
+CO,Windsor Beacon,WINDSORBC,2000,H,4,,CO,"SCHAFFER, BOB",Republican,1,,1,,REP TO 107TH US CONGRESS; SHOO-IN SINCE HE HAS NO REAL COMPETITION,0.9
+CO,Windsor Beacon,WINDSORBC,2000,SEC OF STATE,,,CO,"DAVIDSON, DONETTA",Republican,1,,,,WILL DO A GOOD JOB IN THIS POSITION,0.9
+CO,Windsor Beacon,WINDSORBC,2000,STATE BOARD OF ED,AT-LARGE,,CO,"POLIS, JARED",Democrat,1,,,,ENTHUSIASTIC YOUNGSTER WHO IS EXACTLY WHAT THE STATE BOARD OF EDUCATION NEEDS,0.9
+CO,Windsor Beacon,WINDSORBC,2000,STATE BOARD OF ED,4,,CO,"ORR, CLAIRE B.",Republican,1,,1,,MEMBER OF STATE BOARD OF EDUCATION 4TH CONGRESSIONAL DISTRICT; HAS THE EXPERTISE NEEDED FOR POSITION,0.85
+CO,Windsor Beacon,WINDSORBC,2000,STATE REP,48,,CO,"WEBSTER, W.H. ""BILL""",Republican,1,,,,PROVEN TRACK RECORD IN ELECTED OFFICE; HAS NO REAL COMPETITION,0.9
+CO,Windsor Beacon,WINDSORBC,2000,SUPREME COURT,,,CO,ALL SUPREME COURT JUDGES,,0,,,,VOTE ALL OUT; THIS IS OUR LIVELY CHANCE TO GET THESE LIFERS OFF THE BENCH AND GET NEW BLOOD INTO THE SYSTEM,0.85
+CO,Windsor Beacon,WINDSORBC,2000,COURT OF APPEALS,,,CO,ALL COURT OF APPEALS JUDGES,,0,,,,VOTE ALL OUT; SAME AS SUPREME COURT JUDGES,0.85
+CO,Windsor Beacon,WINDSORBC,2000,JUDGE,,,CO,"GUITERREZ, GILBERT A.",,1,,,,WELD COUNTY JUDGE; RETAIN BOTH; NO UNREASONABLE RULINGS WHILE ON THE BENCH,0.9
+CO,Windsor Beacon,WINDSORBC,2000,JUDGE,,,CO,"HALLER, CAROL M.",,1,,,,WELD COUNTY JUDGE; RETAIN BOTH; NO UNREASONABLE RULINGS WHILE ON THE BENCH,0.9
+CO,Windsor Beacon,WINDSORBC,2004,PRESIDENT,,,CO,"KERRY, JOHN",Democrat,1,,,,TIME FOR A CHANGE; WE ENDORSE SEN JOHN KERRY,0.95
+CO,Windsor Beacon,WINDSORBC,2004,PRESIDENT,,,CO,"BUSH, GEORGE W.",Republican,0,1,,,INCUMBENT; DID AN ADMIRABLE JOB LEADING COUNTRY AFTER SEPT 11; PRAISE FOR AFGHANISTAN; DECISION TO GO TO IRAQ WAS MIRED IN FAULT; PATRIOT ACT IS ONE OF MOST UN-PATRIOTIC ACTS IMAGINABLE; TIME FOR A CHANGE,0.95
+CO,Windsor Beacon,WINDSORBC,2004,SENATOR,,,CO,"SALAZAR, KEN",Democrat,1,,,,AS ATTORNEY GENERAL HAS SHOWN TIME AND AGAIN HE IS TOUGH ON CRIME AND CAN GET THINGS DONE; PETE COORS POLITICAL BACKGROUND IS TOO LIMITED FOR THIS CRITICAL POSITION,0.95
+CO,Windsor Beacon,WINDSORBC,2004,SENATOR,,,CO,"COORS, PETE",Republican,0,,,,POLITICAL BACKGROUND IS TOO LIMITED FOR THIS CRITICAL POSITION,0.85
+CO,Windsor Beacon,WINDSORBC,2004,H,4,,CO,"MATSUNAKA, STAN",Democrat,1,,,,PROVEN TRACK RECORD IN NORTHERN COLORADO; WILL DO A BETTER JOB; READILY ENDORSE HIM,0.95
+CO,Windsor Beacon,WINDSORBC,2004,H,4,,CO,"MUSGRAVE, MARILYN",Republican,0,,1,,SPENT A LOT OF TIME AND ENERGY EXPLAINING HER VIEWS ON FAMILY AND DEFINITION OF WHAT CONSTITUTES A TRUE MARRIAGE; HAS TAKEN FOCUS OFF MANY MORE IMPORTANT ISSUES FACING STATE,0.9
+CO,Windsor Beacon,WINDSORBC,2004,CU REGENT,AT-LARGE,,CO,"BOSLEY, STEVE",,1,,,,UNIVERSITY OF COLORADO REGENT AT-LARGE; ENDORSED,0.9
+CO,Windsor Beacon,WINDSORBC,2004,CU REGENT,4,,CO,"LUCERO, TOM",,1,,,,UNIVERSITY OF COLORADO REGENT DISTRICT 4; ENDORSED,0.9
+CO,Windsor Beacon,WINDSORBC,2004,STATE REP,49,,CO,"FRISBIE, DOUG",Democrat,1,,,,"LIKE BACKGROUND, HARD WORK ETHIC AND HONESTY; ENDORSE HIM",0.9
+CO,Windsor Beacon,WINDSORBC,2004,STATE REP,49,,CO,"LUNDBERG, KEVIN",Republican,0,,,,UNTIL RECENT MONTHS HAS NOT VISITED WINDSOR REGULARLY; DOES NOT UNDERSTAND NEED TO MEET WITH CONSTITUENCY ON A REGULAR BASIS,0.9
+CO,Windsor Beacon,WINDSORBC,2004,DA/PROSECUTOR,19,,CO,"BUCK, KEN",Republican,1,,,,DISTRICT ATTORNEY 19TH JUDICIAL DISTRICT; RUNNING UNOPPOSED,0.85
+CO,Windsor Beacon,WINDSORBC,2004,CNTY COMM,,,CO,"IBARRA, LAURA",,1,,,,WELD COUNTY COMMISSIONER; ENDORSED,0.9
+CO,Windsor Beacon,WINDSORBC,2006,H,4,,CO,"PACCIONE, ANGIE",Democrat,1,,,,RECENT TRACK RECORD IN THE STATE HOUSE CLEARLY DISTINGUISHES HER FROM REST OF FIELD,0.95
+CO,Windsor Beacon,WINDSORBC,2006,H,4,,CO,"MUSGRAVE, MARILYN",Republican,0,,1,,COUNTLESS EXAMPLES OF HOW INCUMBENT HAS MISLED PUBLIC; CONTINUAL INSISTENCE THAT DEFINITION OF MARRIAGE IS MOST PRESSING ISSUE; COMPLETELY OUT OF TOUCH WITH REALITY; ALIGNING WITH BUSH AND REPUBLICAN DOESN'T HELP PARTY OR ANYONE ELSE,0.95
+CO,Windsor Beacon,WINDSORBC,2006,H,4,,CO,"EIDSNESS, ERIC",,0,,,,COLORADO REFORM CANDIDATE; LIKE WHAT WE HAVE HEARD FROM HIM,0.75
+CO,Windsor Beacon,WINDSORBC,2006,GOVERNOR,,,CO,"RITTER, BILL",Democrat,1,,,,RITTER-O'BRIEN TICKET OFFERS MORE HOPE FOR COLORADO AS IT FACES THE TOUGH ISSUES OF CONTROLLING ILLEGAL IMMIGRANTS AND WATER USAGE,0.95
+CO,Windsor Beacon,WINDSORBC,2006,LT GOVERNOR,,,CO,"O'BRIEN, BARBARA",Democrat,1,,,,RITTER-O'BRIEN TICKET OFFERS MORE HOPE FOR COLORADO,0.95
+CO,Windsor Beacon,WINDSORBC,2006,GOVERNOR,,,CO,"BEAUPREZ, BOB",Republican,0,,,,RUNNING NECK-AND-NECK WITH DEMOCRATIC TICKET; FIND GOOD AND BAD THINGS TO SAY ABOUT BOTH PARTIES,0.9
+CO,Windsor Beacon,WINDSORBC,2006,LT GOVERNOR,,,CO,"ROWLAND, JANET",Republican,0,,,,RUNNING WITH BEAUPREZ,0.85
+CO,Windsor Beacon,WINDSORBC,2006,SEC OF STATE,,,CO,"COFFMAN, MIKE",Republican,1,,,,HAS THE MOST TO OFFER,0.95
+CO,Windsor Beacon,WINDSORBC,2006,TREASURER,,,CO,"HILLMAN, MARK",Republican,1,,,,STATE TREASURER,0.9
+CO,Windsor Beacon,WINDSORBC,2006,ATTORNEY GENERAL,,,CO,"O'BRIEN, FERN",Democrat,1,,,,LIKE STANCE ON LAW AND ORDER,0.95
+CO,Windsor Beacon,WINDSORBC,2006,STATE BOARD OF ED,4,,CO,"SCHAFFER, BOB",Republican,1,,,,VERY FAMILIAR NAME TO NORTHERN COLORADO RESIDENTS; POLITICAL CAREER OVER PAST 15-20 YEARS IS WELL-DOCUMENTED; SOLID CHOICE,0.9
+CO,Windsor Beacon,WINDSORBC,2006,CU REGENT,AT-LARGE,,CO,"LUDWIG, STEPHEN C.",Democrat,1,,,,"ONE OF MORE COLORFUL NICKNAME RACES FEATURING FIVE CANDIDATES; CUTTING THROUGH SILLINESS, ENDORSE LUDWIG",0.9
+CO,Windsor Beacon,WINDSORBC,2006,STATE SENATOR,13,,CO,"RENFROE, SCOTT W.",Republican,1,,,,ENDORSED,0.9
+CO,Windsor Beacon,WINDSORBC,2006,STATE REP,49,,CO,"RADFORD, SUE",Democrat,1,,,,LUNDBERG HAS HAD HIS RUN; DIDN'T HAVE SIGNIFICANT LEGISLATION OF HIS OWN PASSED; SELDOM VISITED WINDSOR; TIME TO TRY SOMEONE ELSE,0.95
+CO,Windsor Beacon,WINDSORBC,2006,STATE REP,49,,CO,"LUNDBERG, KEVIN",Republican,0,,1,,INCUMBENT; HAS HAD HIS RUN; DIDN'T HAVE SIGNIFICANT LEGISLATION OF HIS OWN PASSED; SELDOM VISITED WINDSOR,0.95
+CO,Windsor Beacon,WINDSORBC,2006,CNTY COMM,AT-LARGE,,CO,"LEISE, DUANE J.",Democrat,1,,,,WELD COUNTY COMMISSIONER AT-LARGE,0.9
+CO,Windsor Beacon,WINDSORBC,2006,CNTY CLERK,,,CO,"MORENO, STEVE",Republican,1,,,,WELD COUNTY CLERK AND RECORDER; RUNNING UNOPPOSED,0.85
+CO,Windsor Beacon,WINDSORBC,2006,ASSESSOR,,,CO,"WOODRUFF, CHRISTOPHER M.",Republican,1,,,,WELD COUNTY ASSESSOR; RUNNING UNOPPOSED,0.85
+CO,Windsor Beacon,WINDSORBC,2006,SHERIFF,,,CO,"COOKE, JOHN B.",Republican,1,,,,WELD COUNTY SHERIFF; RUNNING UNOPPOSED,0.85
+CO,Windsor Beacon,WINDSORBC,2008,PRESIDENT,,,CO,"OBAMA, BARACK",Democrat,1,,,,,0.95
+CO,Windsor Beacon,WINDSORBC,2008,H,2,,CO,"POLIS, JARED",Democrat,1,,,,US CONGRESSIONAL HOUSE DISTRICT 2; WELD COUNTY VOTERS ONLY,0.95
+CO,Windsor Beacon,WINDSORBC,2008,H,4,,CO,"MARKEY, BETSY",Democrat,1,,,,US CONGRESSIONAL HOUSE DISTRICT 4; WELD AND LARIMER VOTERS,0.95
+CO,Windsor Beacon,WINDSORBC,2008,SENATOR,,,CO,NO RECOMMENDATION,,,,,,US SENATOR; NO RECOMMENDATION FOR DEMOCRAT MARK UDALL OR REPUBLICAN BOB SCHAFFER,0.95
+CO,Windsor Beacon,WINDSORBC,2008,STATE SENATOR,23,,CO,"MITCHELL, SHAWN",Republican,1,,,,WELD COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,STATE REP,33,,CO,"PRIMAVERA, DIANNE",Democrat,1,,,,WELD COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,STATE REP,48,,CO,"VAAD, GLENN",Republican,1,,,,WELD COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,STATE REP,49,,CO,"ROSS, JAMES",Democrat,1,,,,WELD AND LARIMER COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,STATE REP,50,,CO,"RIESBERG, JIM",Democrat,1,,,,WELD COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,STATE REP,65,,CO,"SONNENBERG, JERRY",Republican,1,,,,WELD COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,STATE SENATOR,14,,CO,"BACON, BOB",Democrat,1,,,,LARIMER COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,STATE REP,51,,CO,"MAROSTICA, DON",Republican,1,,,,LARIMER COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,STATE REP,52,,CO,"KEFALAS, JOHN",Democrat,1,,,,LARIMER COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,STATE REP,53,,CO,"FISCHER, RANDY",Democrat,1,,,,LARIMER COUNTY VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2008,DA/PROSECUTOR,19,,CO,"BUCK, KEN",Republican,1,,,,DISTRICT ATTORNEY 19TH JUDICIAL DISTRICT WELD COUNTY,0.9
+CO,Windsor Beacon,WINDSORBC,2008,DA/PROSECUTOR,8,,CO,"ABRAHAMSON, LARRY",Republican,1,,,,DISTRICT ATTORNEY 8TH JUDICIAL DISTRICT LARIMER COUNTY,0.9
+CO,Windsor Beacon,WINDSORBC,2008,CNTY COMM,AT-LARGE,,CO,"CONWAY, SEAN",Republican,1,,,,WELD COUNTY COMMISSIONER AT LARGE,0.9
+CO,Windsor Beacon,WINDSORBC,2008,CNTY COMM,1,,CO,"DEMILT, PIERRE",Democrat,1,,,,WELD COUNTY COMMISSIONER DISTRICT 1,0.9
+CO,Windsor Beacon,WINDSORBC,2008,CNTY COMM,3,,CO,"KIRKMEYER, BARBARA J.",Republican,1,,,,WELD COUNTY COMMISSIONER DISTRICT 3,0.9
+CO,Windsor Beacon,WINDSORBC,2008,CITY COUNCIL,AT-LARGE,,CO,"MELLON, TROY D.",,1,,,,WELD COUNTY COUNCIL AT LARGE 4 YEARS,0.85
+CO,Windsor Beacon,WINDSORBC,2008,CITY COUNCIL,AT-LARGE,,CO,"TEKSTEN, NANCY",,1,,,,WELD COUNTY COUNCIL AT LARGE 2 YEARS,0.85
+CO,Windsor Beacon,WINDSORBC,2008,CITY COUNCIL,1,,CO,"STILLE, GENE",,1,,,,WELD COUNTY COUNCIL DISTRICT 1 4 YEARS,0.85
+CO,Windsor Beacon,WINDSORBC,2008,CITY COUNCIL,2,,CO,"BUCZEK, VIRGINIA",,1,,,,WELD COUNTY COUNCIL DISTRICT 2 4 YEARS,0.85
+CO,Windsor Beacon,WINDSORBC,2008,CITY COUNCIL,3,,CO,"KIVIMAKI, JOHN",,1,,,,WELD COUNTY COUNCIL DISTRICT 3 2 YEARS,0.85
+CO,Windsor Beacon,WINDSORBC,2008,CNTY COMM,2,,CO,"EUBANKS, RANDY",Democrat,1,,,,LARIMER COUNTY COMMISSIONER DISTRICT 2,0.9
+CO,Windsor Beacon,WINDSORBC,2008,CNTY COMM,3,,CO,"HOFFMANN, ROGER",Democrat,1,,,,LARIMER COUNTY COMMISSIONER DISTRICT 3,0.9
+CO,Windsor Beacon,WINDSORBC,2008,SUPREME COURT,,,CO,"EID, ALLISON H.",,1,,,,RETAIN JUSTICE OF COLORADO SUPREME COURT,0.9
+CO,Windsor Beacon,WINDSORBC,2008,SUPREME COURT,,,CO,"HOBBS JR, GREGORY J.",,1,,,,RETAIN JUSTICE OF COLORADO SUPREME COURT,0.9
+CO,Windsor Beacon,WINDSORBC,2008,COURT OF APPEALS,,,CO,"BERNARD, STEVEN L.",,1,,,,RETAIN COURT OF APPEALS JUDGE,0.9
+CO,Windsor Beacon,WINDSORBC,2008,COURT OF APPEALS,,,CO,"FURMAN, DAVID M.",,1,,,,RETAIN COURT OF APPEALS JUDGE,0.9
+CO,Windsor Beacon,WINDSORBC,2008,COURT OF APPEALS,,,CO,"HAWTHORNE, ROBERT D.",,1,,,,RETAIN COURT OF APPEALS JUDGE,0.9
+CO,Windsor Beacon,WINDSORBC,2008,COURT OF APPEALS,,,CO,"JONES, JERRY N.",,1,,,,RETAIN COURT OF APPEALS JUDGE,0.9
+CO,Windsor Beacon,WINDSORBC,2008,COURT OF APPEALS,,,CO,"ROMAN, GILBERT M.",,1,,,,RETAIN COURT OF APPEALS JUDGE,0.9
+CO,Windsor Beacon,WINDSORBC,2008,COURT OF APPEALS,,,CO,"TERRY, DIANA L.",,1,,,,RETAIN COURT OF APPEALS JUDGE,0.9
+CO,Windsor Beacon,WINDSORBC,2008,JUDGE,19,,CO,"KOPCOW, MARCELO A.",,1,,,,RETAIN DISTRICT JUDGE 19TH JUDICIAL DISTRICT,0.9
+CO,Windsor Beacon,WINDSORBC,2008,JUDGE,,,CO,"CARNEY, CHRISTINE A.",,1,,,,RETAIN LARIMER COUNTY JUDGE,0.9
+CO,Windsor Beacon,WINDSORBC,2008,JUDGE,,,CO,"SCHULTZ, RONALD L.",,1,,,,RETAIN LARIMER COUNTY JUDGE,0.9
+CO,Windsor Beacon,WINDSORBC,2010,SENATOR,,,CO,"BENNET, MICHAEL F.",Democrat,1,1,,,US SENATE,0.95
+CO,Windsor Beacon,WINDSORBC,2010,SENATOR,,,CO,"BUCK, KEN",Republican,0,,,,US SENATE,0.9
+CO,Windsor Beacon,WINDSORBC,2010,H,4,,CO,"MARKEY, BETSY",Democrat,1,1,,,US REPRESENTATIVE 4TH DISTRICT,0.95
+CO,Windsor Beacon,WINDSORBC,2010,H,4,,CO,"GARDNER, CORY",Republican,0,,,,US REPRESENTATIVE 4TH DISTRICT,0.9
+CO,Windsor Beacon,WINDSORBC,2010,GOVERNOR,,,CO,"HICKENLOOPER, JOHN",Democrat,1,,,,COLORADO GOVERNOR,0.95
+CO,Windsor Beacon,WINDSORBC,2010,LT GOVERNOR,,,CO,"GARCIA, JOSEPH",Democrat,1,,,,COLORADO LT GOVERNOR,0.95
+CO,Windsor Beacon,WINDSORBC,2010,GOVERNOR,,,CO,"MAES, DAN",Republican,0,,,,COLORADO GOVERNOR,0.85
+CO,Windsor Beacon,WINDSORBC,2010,GOVERNOR,,,CO,"TANCREDO, TOM",American Constitution,0,,,,COLORADO GOVERNOR; THIRD PARTY,0.85
+CO,Windsor Beacon,WINDSORBC,2010,SEC OF STATE,,,CO,"BUESCHER, BERNIE",Democrat,1,1,,,COLORADO SECRETARY OF STATE,0.95
+CO,Windsor Beacon,WINDSORBC,2010,SEC OF STATE,,,CO,"GESSLER, SCOTT",Republican,0,,,,COLORADO SECRETARY OF STATE,0.9
+CO,Windsor Beacon,WINDSORBC,2010,TREASURER,,,CO,"KENNEDY, CARY",Democrat,1,1,,,COLORADO STATE TREASURER,0.95
+CO,Windsor Beacon,WINDSORBC,2010,TREASURER,,,CO,"STAPLETON, WALKER",Republican,0,,,,COLORADO STATE TREASURER,0.9
+CO,Windsor Beacon,WINDSORBC,2010,ATTORNEY GENERAL,,,CO,"SUTHERS, JOHN",Republican,1,,1,,COLORADO ATTORNEY GENERAL,0.95
+CO,Windsor Beacon,WINDSORBC,2010,ATTORNEY GENERAL,,,CO,"GARNETT, STAN",Democrat,0,,,,COLORADO ATTORNEY GENERAL,0.9
+CO,Windsor Beacon,WINDSORBC,2010,STATE BOARD OF ED,2,,CO,"FERRY, KAYE",Republican,1,,,,CONGRESSIONAL DISTRICT 2 STATE BOARD OF EDUCATION,0.9
+CO,Windsor Beacon,WINDSORBC,2010,STATE BOARD OF ED,2,,CO,"SCHROEDER, ANGELIKA",Democrat,0,,,,CONGRESSIONAL DISTRICT 2 STATE BOARD OF EDUCATION,0.85
+CO,Windsor Beacon,WINDSORBC,2010,CU REGENT,AT-LARGE,,CO,"BOSLEY, STEVE",Republican,1,,,,AT LARGE REGENT OF UNIVERSITY OF COLORADO,0.9
+CO,Windsor Beacon,WINDSORBC,2010,CU REGENT,AT-LARGE,,CO,"HART, MELISSA",Democrat,0,,,,AT LARGE REGENT OF UNIVERSITY OF COLORADO,0.85
+CO,Windsor Beacon,WINDSORBC,2010,CU REGENT,4,,CO,"BISHOP-COTNER, ROBERT",Democrat,1,,,,CONGRESSIONAL DISTRICT 4 REGENT OF UNIVERSITY OF COLORADO,0.9
+CO,Windsor Beacon,WINDSORBC,2010,CU REGENT,4,,CO,"SHARKEY, SUE",Republican,0,,,,CONGRESSIONAL DISTRICT 4 REGENT OF UNIVERSITY OF COLORADO,0.85
+CO,Windsor Beacon,WINDSORBC,2010,STATE SENATOR,13,,CO,"STORCK, KEN",Democrat,1,,,,STATE SENATE DISTRICT 13; WINDSOR-WELD VOTERS ONLY,0.9
+CO,Windsor Beacon,WINDSORBC,2010,STATE SENATOR,13,,CO,"RENFROE, SCOTT W.",Republican,0,,1,,STATE SENATE DISTRICT 13,0.85
+CO,Windsor Beacon,WINDSORBC,2010,STATE SENATOR,15,,CO,"BALL, RICHARD",Democrat,1,,,,STATE SENATE DISTRICT 15; WINDSOR-LARIMER VOTERS ONLY,0.9
+CO,Windsor Beacon,WINDSORBC,2010,STATE SENATOR,15,,CO,"LUNDBERG, KEVIN",Republican,0,,,,STATE SENATE DISTRICT 15,0.85
+CO,Windsor Beacon,WINDSORBC,2010,STATE REP,49,,CO,"NIKKEL, B.J.",Republican,1,,1,,STATE HOUSE REPRESENTATIVE DISTRICT 49,0.9
+CO,Windsor Beacon,WINDSORBC,2010,STATE REP,49,,CO,"STOCKLEY, KAREN",Democrat,0,,,,STATE HOUSE REPRESENTATIVE DISTRICT 49,0.85
+CO,Windsor Beacon,WINDSORBC,2010,STATE REP,51,,CO,"DELGROSSO, BRIAN",Republican,1,,,,STATE HOUSE REPRESENTATIVE DISTRICT 51; WINDSOR-LARIMER VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2010,STATE REP,51,,CO,"MCCREARY, BILL",Democrat,0,,,,STATE HOUSE REPRESENTATIVE DISTRICT 51,0.85
+CO,Windsor Beacon,WINDSORBC,2010,STATE REP,52,,CO,"KEFALAS, JOHN",Democrat,1,,1,,STATE HOUSE REPRESENTATIVE DISTRICT 52; WINDSOR-LARIMER VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2010,STATE REP,52,,CO,"MORAIN, BOB",Republican,0,,,,STATE HOUSE REPRESENTATIVE DISTRICT 52,0.85
+CO,Windsor Beacon,WINDSORBC,2010,STATE REP,53,,CO,"FISCHER, RANDY",Democrat,1,,1,,STATE HOUSE REPRESENTATIVE DISTRICT 53; WINDSOR-LARIMER VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2010,STATE REP,53,,CO,"BISSET, DAVE",Republican,0,,,,STATE HOUSE REPRESENTATIVE DISTRICT 53,0.85
+CO,Windsor Beacon,WINDSORBC,2010,CNTY COMM,AT-LARGE,,CO,"GARCIA, BILL",Republican,1,,,,WELD COUNTY COMMISSIONER AT LARGE; WINDSOR-WELD VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2010,CNTY COMM,AT-LARGE,,CO,"PETIT, TOM",Democrat,0,,,,WELD COUNTY COMMISSIONER AT LARGE,0.85
+CO,Windsor Beacon,WINDSORBC,2010,CNTY COMM,2,,CO,"RADEMACHER, DOUGLAS J.",Republican,1,,,,WELD COUNTY COMMISSIONER DISTRICT 2,0.9
+CO,Windsor Beacon,WINDSORBC,2010,CNTY COMM,1,,CO,"GAITER III, LEW",Republican,1,,,,LARIMER COUNTY COMMISSIONER DISTRICT 1; WINDSOR-LARIMER VOTERS,0.9
+CO,Windsor Beacon,WINDSORBC,2010,CNTY COMM,1,,CO,"BOWEN, ADAM",Democrat,0,,,,LARIMER COUNTY COMMISSIONER DISTRICT 1,0.85
+CO,Windsor Beacon,WINDSORBC,2010,CNTY CLERK,,,CO,"MORENO, STEVE",Republican,1,,1,,WELD COUNTY CLERK AND RECORDER,0.9
+CO,Windsor Beacon,WINDSORBC,2010,CNTY CLERK,,,CO,"DOYLE, SCOTT",Republican,1,,,,LARIMER COUNTY CLERK AND RECORDER,0.9
+CO,Windsor Beacon,WINDSORBC,2010,TREASURER,,,CO,"RODENBERGER, MYRNA",Republican,1,,,,LARIMER COUNTY TREASURER,0.9
+CO,Windsor Beacon,WINDSORBC,2010,ASSESSOR,,,CO,"WOODRUFF, CHRISTOPHER M.",Republican,1,,1,,WELD COUNTY ASSESSOR,0.9
+CO,Windsor Beacon,WINDSORBC,2010,ASSESSOR,,,CO,"MILLER, STEVE",Republican,1,,,,LARIMER COUNTY ASSESSOR,0.9
+CO,Windsor Beacon,WINDSORBC,2010,SHERIFF,,,CO,"COOKE, JOHN B.",Republican,1,,1,,WELD COUNTY SHERIFF,0.9
+CO,Windsor Beacon,WINDSORBC,2010,SHERIFF,,,CO,"PADILLA, JOSEPH ""JOE"" R.",Democrat,0,,,,WELD COUNTY SHERIFF,0.85
+CO,Windsor Beacon,WINDSORBC,2010,SHERIFF,,,CO,"BEAN, DELL H.",Unaffiliated,1,,,1,LARIMER COUNTY SHERIFF; UNAFFILIATED,0.9
+CO,Windsor Beacon,WINDSORBC,2010,SHERIFF,,,CO,"SMITH, JUSTIN E.",Republican,0,,,,LARIMER COUNTY SHERIFF,0.85
+CO,Windsor Beacon,WINDSORBC,2010,SURVEYOR,,,CO,"WASHBURN, CHAD",Republican,1,,,,LARIMER COUNTY SURVEYOR,0.9
+CO,Windsor Beacon,WINDSORBC,2010,CORONER,,,CO,"ALLEN, PATRICK C.",Republican,1,,,,LARIMER COUNTY CORONER,0.9

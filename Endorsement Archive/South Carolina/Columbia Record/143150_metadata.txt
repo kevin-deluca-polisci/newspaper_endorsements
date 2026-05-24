@@ -1,0 +1,40 @@
+Newspaper Name: Columbia Record
+Alternative Names: The Columbia Record, The Record
+Years Published: 1897-1988 (ceased publication April 1, 1988)
+Newspaper ID number: 143150
+State: SC (Columbia, Richland County + Lexington County)
+Number of clippings: 50
+Endorsement data years: 1950, 1952, 1960, 1964, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 99 (99 endorsed, 0 opposed)
+Total proposition records: 40 (37 YES, 3 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.60
+Mean: 0.90
+Max: 0.95
+
+--- NOTES ---
+Coverage: 1950, 1952, 1960-1986 even years. The Columbia Record ceased publication April 1, 1988,
+so the dataset ends at the 1986 general election.
+
+Editorial format: The Record endorsed each race in a separate editorial throughout the week
+before an election, rather than producing a consolidated election-day list. Most clippings
+focus on 1-3 races, with detailed reasoning. This produces a high number of clippings per
+election year (5-6 in 1972/74/76/80/82/84/86) but a relatively low candidate count per clipping.
+
+The Record was the afternoon (PM) sister paper to The State (Columbia's morning paper) after
+State-Record Company was formed in 1945. The two papers had separate editorial boards.
+
+Notable picks:
+- 1952: Eisenhower (R) for President
+- 1960, 1968, 1972: Nixon (R) for President
+- 1976: Ford (R) for President
+- 1984: Reagan/Bush (R) for President
+- 1986: Campbell (R) for Governor (the Record reflected SC's mid-century shift toward GOP)
+
+The 1960-11-07 clipping was too faded to extract specific endorsements; the 1974-11-01 Governor
+race editorial ("An Unhappy Choice") explicitly declined to endorse Dorn or Edwards.
+
+Compiled: 2026-05-24

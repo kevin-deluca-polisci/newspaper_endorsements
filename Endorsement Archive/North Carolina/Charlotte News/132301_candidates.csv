@@ -1,0 +1,262 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+NC,Charlotte News,132301,1960,GOVERNOR,,,NC,"SANFORD, TERRY",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1960,SENATOR,,,NC,"JORDAN, B. EVERETT",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1960,H,10,,NC,"JONAS, CHARLES RAPER",Republican,1,,,,Tenth District,0.95
+NC,Charlotte News,132301,1960,CNTY COMM,,,NC,"BROWN, ERNEST",,1,,,,Mecklenburg County Commission,0.9
+NC,Charlotte News,132301,1960,CNTY COMM,,,NC,"GARRISON, HERBERT",,1,,,,Mecklenburg County Commission,0.9
+NC,Charlotte News,132301,1960,CNTY COMM,,,NC,"LAWING, CRAIG",,1,,,,Mecklenburg County Commission,0.9
+NC,Charlotte News,132301,1960,CNTY COMM,,,NC,"MCADEN, SID",,1,,,,Mecklenburg County Commission,0.9
+NC,Charlotte News,132301,1960,CNTY COMM,,,NC,"BLYTHE, FRANK",,1,,,,Mecklenburg County Commission,0.9
+NC,Charlotte News,132301,1962,SENATOR,,,NC,"ERVIN, SAM J. JR.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1962,H,8,,NC,"JONAS, CHARLES R.",Republican,1,,,,Eighth District,0.95
+NC,Charlotte News,132301,1962,STATE SENATOR,,,NC,"BELK, IRWIN",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1962,STATE REP,,,NC,"HICKS, ERNEST L.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1962,STATE REP,,,NC,"VOGLER, JAMES B.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1962,STATE REP,,,NC,"GARINGER, ELMER H.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1962,STATE REP,,,NC,"HAYNES, A. MYLES JR.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1962,STATE REP,,,NC,"EVANS, MARTHA",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1962,CNTY COMM,,,NC,"LOWE, CHARLES M.",Democrat,1,,,,incumbent,0.95
+NC,Charlotte News,132301,1962,CNTY COMM,,,NC,"BLYTHE, FRANK",Democrat,1,,,,incumbent,0.95
+NC,Charlotte News,132301,1962,CNTY COMM,,,NC,"LAWING, CRAIG",Democrat,1,,,,incumbent,0.95
+NC,Charlotte News,132301,1962,CNTY COMM,,,NC,"WILMER, HENRY",Republican,1,,,,,0.95
+NC,Charlotte News,132301,1962,CNTY COMM,,,NC,"SHRIVER, ALFRED JR.",Republican,1,,,,,0.95
+NC,Charlotte News,132301,1962,DA/PROSECUTOR,,,NC,"DOWNS, KENNETH R.",Democrat,1,,,,Mecklenburg District Solicitor; incumbent,0.95
+NC,Charlotte News,132301,1964,PRESIDENT,,,NC,"JOHNSON, LYNDON B.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1964,GOVERNOR,,,NC,"MOORE, DAN K.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1964,LT GOVERNOR,,,NC,"SCOTT, ROBERT W.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1964,INSURANCE COMMISSIONER,,,NC,"LANIER, EDWIN S.",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1964,TREASURER,,,NC,"GILL, EDWIN",Democrat,1,,,,State Treasurer,0.9
+NC,Charlotte News,132301,1964,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JAMES",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1964,H,8,,NC,"JONAS, CHARLES RAPER",Republican,1,,,,Eighth District Congress,0.95
+NC,Charlotte News,132301,1964,STATE SENATOR,,,NC,"BELK, IRWIN",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1964,STATE SENATOR,,,NC,"EVANS, MARTHA",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1964,STATE SENATOR,,,NC,"MOORE, HERMAN",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1964,STATE REP,,,NC,"VOGLER, JAMES B.",Democrat,1,,,,incumbent,0.95
+NC,Charlotte News,132301,1964,STATE REP,,,NC,"HICKS, E. L.",Democrat,1,,,,incumbent,0.95
+NC,Charlotte News,132301,1964,STATE REP,,,NC,"GARINGER, E. H.",Democrat,1,,,,incumbent,0.95
+NC,Charlotte News,132301,1964,STATE REP,,,NC,"SAXON, HERMAN",Republican,1,,,,incumbent,0.95
+NC,Charlotte News,132301,1964,STATE REP,,,NC,"GOODMAN, ARTHUR",Democrat,1,,,,fifth seat,0.95
+NC,Charlotte News,132301,1964,CNTY COMM,,,NC,"BLYTHE, J. FRANK",Democrat,1,,,,incumbent,0.95
+NC,Charlotte News,132301,1964,CNTY COMM,,,NC,"ATKINSON, SAM T. JR.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1964,CNTY COMM,,,NC,"WALLACE, J. MASON JR.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1964,CNTY COMM,,,NC,"WILMER, HENRY",Republican,1,,,,,0.95
+NC,Charlotte News,132301,1964,TREASURER,,,NC,"CADIEU, JUANITA",,1,,,,County Treasurer; incumbent,0.95
+NC,Charlotte News,132301,1966,STATE SENATOR,,,NC,"MOORE, HERMAN",Democrat,1,,,,incumbent,0.9
+NC,Charlotte News,132301,1966,STATE SENATOR,,,NC,"EVANS, MARTHA",Democrat,1,,,,incumbent,0.9
+NC,Charlotte News,132301,1966,STATE SENATOR,,,NC,"MAXWELL, CHARLES",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1966,SHERIFF,,,NC,"HUNTER, J. CLYDE",Democrat,1,,,,incumbent,0.9
+NC,Charlotte News,132301,1966,H,8,,NC,"JONAS, CHARLES R.",Republican,1,,,,Eighth District Congressman,0.95
+NC,Charlotte News,132301,1966,SENATOR,,,NC,"JORDAN, B. EVERETT",Democrat,1,,,,incumbent over Shallcross,0.9
+NC,Charlotte News,132301,1966,DA/PROSECUTOR,,,NC,"SCHWARTZ, ELLIOTT",Democrat,1,,,,Mecklenburg County Solicitor Superior Court; running unopposed,0.9
+NC,Charlotte News,132301,1966,CNTY COMM,,,NC,"ATKINSON, SAM T. JR.",Democrat,1,,,,incumbent Chairman,0.9
+NC,Charlotte News,132301,1966,CNTY COMM,,,NC,"WALLACE, J. MASON",Democrat,1,,,,incumbent,0.9
+NC,Charlotte News,132301,1966,CNTY COMM,,,NC,"HOOD, W. A. LEX",Democrat,1,,,,incumbent,0.9
+NC,Charlotte News,132301,1966,CNTY COMM,,,NC,"PETERSON, M. W. PETE",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1966,CNTY COMM,,,NC,"POTTER, ROBERT",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1966,STATE REP,,,NC,"VOGLER, JAMES B.",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1966,STATE REP,,,NC,"HICKS, ERNEST L.",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1966,STATE REP,,,NC,"JONES, ARTHUR H.",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1966,STATE REP,,,NC,"GRAHAM, W. E.",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1966,STATE REP,,,NC,"BAUGH, P. J.",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1966,STATE REP,,,NC,"BEATTY, JIM",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1966,STATE REP,,,NC,"HUNTER, G. PAT",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1968,PRESIDENT,,,NC,"NIXON, RICHARD M.",Republican,1,,,,,0.95
+NC,Charlotte News,132301,1968,GOVERNOR,,,NC,"SCOTT, BOB",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1968,STATE SENATOR,,,NC,"MAXWELL, CHARLES K.",Democrat,1,,,,incumbent,0.9
+NC,Charlotte News,132301,1968,STATE SENATOR,,,NC,"KRATT, E. F. JIM",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1968,H,9,,NC,"MOORE, HERMAN A.",Democrat,1,,,,for Congress over incumbent Sen. Cobb,0.85
+NC,Charlotte News,132301,1968,STATE SENATOR,,,NC,"COBB, LAWRENCE A.",Democrat,1,,,,incumbent,0.85
+NC,Charlotte News,132301,1968,STATE REP,,,NC,"BAUGH, JACK",,1,,,,,0.85
+NC,Charlotte News,132301,1968,STATE REP,,,NC,"HICKS, ERNEST L.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,STATE REP,,,NC,"JONES, ARTHUR H.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,STATE REP,,,NC,"VOGLER, JAMES B.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,STATE REP,,,NC,"CARSON, JAMES B. JR.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,STATE REP,,,NC,"JORDAN, DAVID D.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,CNTY COMM,,,NC,"LOWE, CHARLES M.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,CNTY COMM,,,NC,"KELLY, DAVID",,1,,,,,0.85
+NC,Charlotte News,132301,1968,CNTY COMM,,,NC,"OSBORNE, WALLACE",,1,,,,,0.85
+NC,Charlotte News,132301,1968,CNTY COMM,,,NC,"MARTIN, JAMES G.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,CNTY COMM,,,NC,"PETERSON, M. W. PETE",,1,,,,,0.85
+NC,Charlotte News,132301,1968,SUPERINTENDENT,,,NC,"PHILLIPS, A. CRAIG",Democrat,1,,,,Superintendent of Public Instruction,0.9
+NC,Charlotte News,132301,1968,LT GOVERNOR,,,NC,"TAYLOR, H. PAT",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1968,ATTORNEY GENERAL,,,NC,"MORGAN, ROBERT",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1968,AUDITOR,,,NC,"BRIDGES, HENRY L.",Democrat,1,,,,State Auditor; incumbent,0.85
+NC,Charlotte News,132301,1968,TREASURER,,,NC,"GILL, EDWIN",Democrat,1,,,,State Treasurer; incumbent,0.85
+NC,Charlotte News,132301,1968,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JAMES A.",Democrat,1,,,,incumbent,0.9
+NC,Charlotte News,132301,1968,DIRECTOR,,,NC,"CRANE, FRANK",Democrat,1,,,,Labor Commissioner,0.85
+NC,Charlotte News,132301,1968,INSURANCE COMMISSIONER,,,NC,"LANIER, EDWIN S.",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1968,SUPREME COURT,,,NC,"COLLIER, ROBERT A.",,1,,,,Court judge,0.7
+NC,Charlotte News,132301,1968,SUPREME COURT,,,NC,"ERVIN, SAM J. III",,1,,,,Court judge,0.7
+NC,Charlotte News,132301,1968,DISTRICT COURT JUDGE,,,NC,"GATLING, WILLARD I.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,DISTRICT COURT JUDGE,,,NC,"WALKER, J. EDWARD",,1,,,,,0.85
+NC,Charlotte News,132301,1968,DISTRICT COURT JUDGE,,,NC,"BRACKEN, P. B.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,DISTRICT COURT JUDGE,,,NC,"ABERNATHY, WILLIAM H.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,DISTRICT COURT JUDGE,,,NC,"ARBUCKLE, HOWARD B.",,1,,,,,0.85
+NC,Charlotte News,132301,1968,DISTRICT COURT JUDGE,,,NC,"WATKINS, CLAUDIA L.",,1,,,,,0.85
+NC,Charlotte News,132301,1970,DA/PROSECUTOR,,,NC,"MOORE, THOMAS F.",Democrat,1,,,,Solicitor,0.85
+NC,Charlotte News,132301,1970,H,9,,NC,"JONAS, CHARLES RAPER",Republican,1,,,,Ninth District incumbent,0.9
+NC,Charlotte News,132301,1970,CNTY COMM,,,NC,"CAMPBELL, JOHN A. SAM",Democrat,1,,,,incumbent Chairman,0.85
+NC,Charlotte News,132301,1970,CNTY COMM,,,NC,"PETERSON, M. W. PETE",Republican,1,,,,incumbent,0.85
+NC,Charlotte News,132301,1970,CNTY COMM,,,NC,"MARTIN, JAMES G.",Republican,1,,,,incumbent,0.85
+NC,Charlotte News,132301,1970,CNTY COMM,,,NC,"LOWE, CHARLES W.",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1970,CNTY COMM,,,NC,"HARRIS, W. T.",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1970,STATE REP,,,NC,"VOGLER, JAMES B.",Democrat,1,,,,incumbent,0.85
+NC,Charlotte News,132301,1970,STATE REP,,,NC,"GUDGER, ERNEST L.",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1970,STATE REP,,,NC,"CAMPBELL, HUGH",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1970,STATE REP,,,NC,"BEATTY, JIM",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1970,STATE REP,,,NC,"FOLEY, PETER R.",,1,,,,,0.8
+NC,Charlotte News,132301,1970,STATE REP,,,NC,"COBB, LAWRENCE A.",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1970,STATE SENATOR,,,NC,"KRATT, E. F. JIM",Republican,1,,,,Seat 2 endorsement,0.8
+NC,Charlotte News,132301,1970,SHERIFF,,,NC,"STAHL, DONALD W.",Republican,1,,,,incumbent,0.85
+NC,Charlotte News,132301,1972,PRESIDENT,,,NC,"NIXON, RICHARD M.",Republican,1,,,,,0.95
+NC,Charlotte News,132301,1972,SENATOR,,,NC,"JORDAN, B. EVERETT",Democrat,1,,,,U.S. Senate,0.7
+NC,Charlotte News,132301,1972,H,9,,NC,"MARTIN, JAMES G.",Republican,1,,,,9th District Congress,0.7
+NC,Charlotte News,132301,1972,GOVERNOR,,,NC,"BOWLES, HARGROVE SKIPPER",Democrat,1,,,,,0.75
+NC,Charlotte News,132301,1972,LT GOVERNOR,,,NC,"HUNT, JAMES B. JR.",Democrat,1,,,,,0.75
+NC,Charlotte News,132301,1974,SENATOR,,,NC,"MORGAN, ROBERT",Democrat,1,,,,U.S. Senate,0.7
+NC,Charlotte News,132301,1974,ATTORNEY GENERAL,,,NC,"EDMISTEN, RUFUS",Democrat,1,,,,State Attorney General,0.6
+NC,Charlotte News,132301,1974,H,9,,NC,"MARTIN, JAMES G.",Republican,1,,,,9th District Congress,0.85
+NC,Charlotte News,132301,1976,PRESIDENT,,,NC,"FORD, GERALD R.",Republican,1,,,,,0.95
+NC,Charlotte News,132301,1976,GOVERNOR,,,NC,"HUNT, JAMES B.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1976,LT GOVERNOR,,,NC,"GREEN, JIMMY",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,SUPREME COURT,,,NC,"HUSKINS, J. FRANK",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1976,SEC OF STATE,,,NC,"EURE, THAD",Democrat,1,,,,Secretary of State,0.9
+NC,Charlotte News,132301,1976,TREASURER,,,NC,"BOYLES, HARLAN",Democrat,1,,,,State Treasurer,0.9
+NC,Charlotte News,132301,1976,AUDITOR,,,NC,"BRIDGES, HENRY",Democrat,1,,,,State Auditor,0.9
+NC,Charlotte News,132301,1976,ATTORNEY GENERAL,,,NC,"POWELL, EDWARD",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1976,INSURANCE COMMISSIONER,,,NC,"TENNEY, EDWIN",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1976,DIRECTOR,,,NC,"BROOKS, JOHN",Democrat,1,,,,Labor Commissioner,0.85
+NC,Charlotte News,132301,1976,SUPERINTENDENT,,,NC,"PHILLIPS, CRAIG",Democrat,1,,,,State School Superintendent,0.9
+NC,Charlotte News,132301,1976,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JIM",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,H,9,,NC,"MARTIN, JIM",Republican,1,,,,9th District Congress,0.95
+NC,Charlotte News,132301,1976,STATE SENATOR,,,NC,"ALEXANDER, FRED",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,STATE SENATOR,,,NC,"LAWING, CRAIG",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,STATE SENATOR,,,NC,"MATHIS, CAROLYN",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,STATE SENATOR,,,NC,"MILLER, BARRY",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1976,STATE REP,,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,STATE REP,,,NC,"TISON, BEN",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,STATE REP,,,NC,"HELMS, PARKS",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,STATE REP,,,NC,"BISSELL, MARILYN",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1976,STATE REP,,,NC,"JORDAN, DAVID",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1976,STATE REP,,,NC,"BRENNAN, LOUISE",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1976,STATE REP,,,NC,"EASTERLING, RUTH",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1976,CNTY COMM,,,NC,"HAIR, ELIZABETH G.",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1976,CNTY COMM,,,NC,"FOLEY, PETE",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,CNTY COMM,,,NC,"PEACOCK, ED",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1976,CNTY COMM,,,NC,"MOORE, TOM",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1976,CNTY COMM,,,NC,"WALTON, BOB",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1976,DIRECTOR,,,NC,"NUNNALLY, NELSON",,1,,,,Soil & Water Conservation,0.85
+NC,Charlotte News,132301,1976,RECORDER,,,NC,"CROWDER, CHARLES",Democrat,1,,,,Register of Deeds; unopposed,0.85
+NC,Charlotte News,132301,1978,SENATOR,,,NC,"INGRAM, JOHN",Democrat,1,,,,"U.S. Senate; News endorses Ingram, bullet by Helms (opposed)",0.85
+NC,Charlotte News,132301,1978,H,9,,NC,"MARTIN, JAMES G. JIM",Republican,1,,,,9th District Congress,0.9
+NC,Charlotte News,132301,1978,STATE SENATOR,,,NC,"ALEXANDER, FRED D.",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1978,STATE SENATOR,,,NC,"JENKINS, CECIL D. JR.",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1978,STATE SENATOR,,,NC,"LAWING, CRAIG",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1978,STATE SENATOR,,,NC,"MATHIS, CAROLYN",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1978,STATE REP,,,NC,"BRENNAN, LOUISE S.",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1978,STATE REP,,,NC,"EASTERLING, RUTH M.",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1978,STATE REP,,,NC,"ECONOMOS, GUS",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1978,STATE REP,,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1978,STATE REP,,,NC,"HELMS, PARKS",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1978,STATE REP,,,NC,"TODD, PARKS",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1978,STATE REP,,,NC,"BISSELL, MARILYN R.",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1978,STATE REP,,,NC,"SPOON, ROY",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1978,CNTY COMM,,,NC,"HAIR, ELIZABETH G.",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1978,CNTY COMM,,,NC,"WALTON, ROBERT L. BOB",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1978,CNTY COMM,,,NC,"PEACOCK, ED",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1978,CNTY COMM,,,NC,"WHITFIELD, PAUL J.",Republican,1,,,,,0.8
+NC,Charlotte News,132301,1978,SCHOOL BOARD,,,NC,"BRADFORD, LARRY R.",,1,,,,School Board,0.85
+NC,Charlotte News,132301,1978,SCHOOL BOARD,,Westmoreland,NC,"KIRKMENDALL, KENNETH A.",,1,,,,School Board - Westmoreland,0.6
+NC,Charlotte News,132301,1978,SHERIFF,,,NC,"STAHL, DONALD W.",Republican,1,,,,incumbent,0.9
+NC,Charlotte News,132301,1978,CNTY CLERK,,,NC,"BLACKBURN, R. MAX",Democrat,1,,,,Clerk of Superior Court,0.85
+NC,Charlotte News,132301,1978,SUPREME COURT,,,NC,"BRITT, DAVID M.",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1978,COURT OF APPEALS,,,NC,"ERWIN, RICHARD C.",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1978,DISTRICT COURT JUDGE,,,NC,"LANNING, JAMES E.",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1978,JUDGE,,,NC,"WASHINGTON, EDWARD K.",Democrat,1,,,,Superior Court,0.8
+NC,Charlotte News,132301,1980,PRESIDENT,,,NC,"CARTER, JIMMY",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1980,GOVERNOR,,,NC,"HUNT, JAMES B. JIM JR.",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1980,LT GOVERNOR,,,NC,"GREEN, JAMES C. JIMMY",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1980,SEC OF STATE,,,NC,"FLAHERTY, DAVID T.",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1980,AUDITOR,,,NC,"RENFROW, EDWARD",Democrat,1,,,,State Auditor,0.9
+NC,Charlotte News,132301,1980,ATTORNEY GENERAL,,,NC,"SNYDER, KEITH S.",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1980,INSURANCE COMMISSIONER,,,NC,"TENNEY, EDWIN W.",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1980,SENATOR,,,NC,"MORGAN, ROBERT",Democrat,1,,,,U.S. Senate; incumbent,0.95
+NC,Charlotte News,132301,1980,H,9,,NC,"MARTIN, JAMES G.",Republican,1,,,,9th District Congress,0.95
+NC,Charlotte News,132301,1980,STATE SENATOR,,,NC,"LAWING, CRAIG",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1980,STATE SENATOR,,,NC,"MATHIS, CAROLYN",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1980,STATE SENATOR,,,NC,"JENKINS, CECIL",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1980,STATE REP,,,NC,"TISON, BEN",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1980,STATE REP,,,NC,"HELMS, PARKS",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1980,STATE REP,,,NC,"BRENNAN, LOUISE",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1980,STATE REP,,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1980,STATE REP,,,NC,"SPOON, ROY",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1980,STATE REP,,,NC,"MAXWELL, BERTHA",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1980,STATE REP,,,NC,"LEFLER, CLAY",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1980,STATE REP,,,NC,"BLACK, JIM",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1980,CNTY COMM,,,NC,"RAY, TOM",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1980,CNTY COMM,,,NC,"ODOM, T.L. FOUNTAIN",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1980,CNTY COMM,,,NC,"GREEN, SUSAN",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1980,CNTY COMM,,,NC,"BYNUM, RALEIGH",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1980,CNTY COMM,,,NC,"SENTELLE, DAVID",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1980,DIRECTOR,,,NC,"LERNER, RITA",Nonpartisan,1,,,,Soil and water supervisor,0.85
+NC,Charlotte News,132301,1980,COURT OF APPEALS,,,NC,"WHICHARD, WILLIS",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1982,H,9,,NC,"MARTIN, JAMES G.",Republican,1,,,,Congress,0.95
+NC,Charlotte News,132301,1982,SHERIFF,,,NC,"KIDD, C. W. JR.",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE SENATOR,,,NC,"LAWING, CRAIG",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE SENATOR,,,NC,"POLK, JAMES K. JIM",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE SENATOR,,,NC,"TISON, BENJAMIN T. BEN",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE SENATOR,,,NC,"HARRIS, KENNETH R.",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE REP,,,NC,"BERRY, PHILLIP O. PHIL",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE REP,,,NC,"BLACK, J.B. JIM",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE REP,,,NC,"BRENNAN, LOUISE S.",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE REP,,,NC,"ECONOMOS, GUS",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE REP,,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE REP,,,NC,"HELMS, PARKS",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE REP,,,NC,"RICHARDSON, JAMES F. JIM",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1982,STATE REP,,,NC,"SPOON, L. P. RAY",Republican,1,,,,,0.9
+NC,Charlotte News,132301,1982,CNTY COMM,,,NC,"BISSELL, MARILYN R.",Republican,1,,,,,0.85
+NC,Charlotte News,132301,1982,CNTY COMM,,,NC,"GREEN, SUSAN",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1982,CNTY COMM,,,NC,"ODOM, T.L. FOUNTAIN",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1982,CNTY COMM,,,NC,"RAY, W. THOMAS TOM",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1982,CNTY COMM,,,NC,"WALTON, ROBERT L. BOB",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1982,COURT OF APPEALS,,,NC,"BEGIN, SIDNEY S. JR.",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1982,DIRECTOR,,,NC,"WESTMORELAND, KENNETH A.",Nonpartisan,1,,,,Soil and Water Conservation District,0.85
+NC,Charlotte News,132301,1982,DIRECTOR,,,NC,"LAMMERS, WILLIAM T.",Nonpartisan,1,,,,Soil and Water Conservation District,0.85
+NC,Charlotte News,132301,1984,PRESIDENT,,,NC,"REAGAN, RONALD",Republican,1,,,,,0.95
+NC,Charlotte News,132301,1984,SENATOR,,,NC,"HUNT, JAMES B. JIM JR.",Democrat,1,,,,U.S. Senate,0.95
+NC,Charlotte News,132301,1984,H,9,,NC,"MCMILLAN, J. ALEX",Republican,1,,,,9th District Congress,0.95
+NC,Charlotte News,132301,1984,GOVERNOR,,,NC,"MARTIN, JAMES G. JIM",Republican,1,,,,,0.95
+NC,Charlotte News,132301,1984,LT GOVERNOR,,,NC,"JORDAN, ROBERT B. BOB",Democrat,1,,,,,0.95
+NC,Charlotte News,132301,1984,SEC OF STATE,,,NC,"EURE, THAD",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1984,TREASURER,,,NC,"BOYLES, HARLAN",Democrat,1,,,,State Treasurer,0.9
+NC,Charlotte News,132301,1984,AUDITOR,,,NC,"RENFROW, EDWARD",Democrat,1,,,,State Auditor,0.9
+NC,Charlotte News,132301,1984,ATTORNEY GENERAL,,,NC,"EURE, LACY H. THORNBURG",Democrat,1,,,,Lacy H. Thornburg,0.7
+NC,Charlotte News,132301,1984,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JAMES A. JIM",Democrat,1,,,,,0.9
+NC,Charlotte News,132301,1984,INSURANCE COMMISSIONER,,,NC,"MORGAN, ROBERT",Democrat,1,,,,,0.85
+NC,Charlotte News,132301,1984,DIRECTOR,,,NC,"BROOKS, JOHN C.",Democrat,1,,,,Labor Commissioner,0.85
+NC,Charlotte News,132301,1984,SUPERINTENDENT,,,NC,"PHILLIPS, CRAIG",Democrat,1,,,,Superintendent of Public Instruction,0.9
+NC,Charlotte News,132301,1984,SUPREME COURT,,,NC,"FRYE, HENRY E.",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1984,SUPREME COURT,,,NC,"MITCHELL, BURLEY B.",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1984,JUDGE,,,NC,"GRIFFIN, C. WAYNE",Democrat,1,,,,Superior Court 24th District,0.7
+NC,Charlotte News,132301,1984,JUDGE,,,NC,"LAMM, CHARLES C.",Democrat,1,,,,Superior Court 26th District,0.7
+NC,Charlotte News,132301,1984,JUDGE,,,NC,"MIKEAL, T.",Democrat,1,,,,District Court 26th District,0.7
+NC,Charlotte News,132301,1984,STATE SENATOR,22,,NC,"POLK, CECIL B. JR.",Democrat,1,,,,N.C. Senate District 22,0.75
+NC,Charlotte News,132301,1984,STATE SENATOR,34,,NC,"LAWING, W. CRAIG",Democrat,1,,,,N.C. Senate District 34,0.85
+NC,Charlotte News,132301,1984,STATE SENATOR,35,,NC,"HELMS, PARKS",Democrat,1,,,,N.C. Senate District 35,0.7
+NC,Charlotte News,132301,1984,CNTY COMM,,,NC,"BRADLEY, C. W. WYN",Democrat,1,,,,Board of county commissioners,0.8
+NC,Charlotte News,132301,1984,CNTY COMM,,,NC,"KINCAID, RANDALL R.",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1984,CNTY COMM,,,NC,"ODOM, T. L. FOUNTAIN",Democrat,1,,,,,0.8
+NC,Charlotte News,132301,1984,CNTY COMM,,,NC,"AUTREY, ROBERT L. BOB",Republican,1,,,,,0.8
+NC,Charlotte News,132301,1984,CNTY COMM,,,NC,"BUCKMAN, JERRY",Republican,1,,,,,0.7
+NC,Charlotte News,132301,1984,STATE REP,36,,NC,"BLACK, JAMES B. JIM",Democrat,1,,,,N.C. House District 36,0.85
+NC,Charlotte News,132301,1984,STATE REP,54,,NC,"MCGLOHON, JOHN R.",Republican,1,,,,N.C. House District 54,0.85
+NC,Charlotte News,132301,1984,STATE REP,55,,NC,"BRENNAN, LOUISE S.",Democrat,1,,,,N.C. House District 55,0.85
+NC,Charlotte News,132301,1984,STATE REP,56,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,N.C. House District 56,0.85
+NC,Charlotte News,132301,1984,STATE REP,57,,NC,"SPOON, L. P. RAY",Republican,1,,,,N.C. House District 57,0.85
+NC,Charlotte News,132301,1984,STATE REP,58,,NC,"EASTERLING, RUTH M.",Democrat,1,,,,N.C. House District 58,0.85
+NC,Charlotte News,132301,1984,STATE REP,59,,NC,"RICHARDSON, JAMES F. JIM",Democrat,1,,,,N.C. House District 59,0.85
+NC,Charlotte News,132301,1984,STATE REP,60,,NC,"CHEEK, HOWARD C.",Democrat,1,,,,N.C. House District 60; unopposed,0.8
+NC,Charlotte News,132301,1984,DIRECTOR,,,NC,"GARDNER, RICKY S.",Nonpartisan,1,,,,Soil & water supervisor,0.8
+NC,Charlotte News,132301,1984,DIRECTOR,,,NC,"LAMMERS, WILLIAM T.",Nonpartisan,1,,,,Soil & water supervisor,0.8
+NC,Charlotte News,132301,1984,DIRECTOR,,,NC,"NUNNALLY, NELSON",Nonpartisan,1,,,,Soil & water supervisor,0.8
+NC,Charlotte News,132301,1984,RECORDER,,,NC,"CROWDER, CHARLES E.",Democrat,1,,,,Register of Deeds; unopposed,0.85

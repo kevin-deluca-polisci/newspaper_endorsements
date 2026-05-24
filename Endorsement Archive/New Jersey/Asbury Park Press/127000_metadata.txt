@@ -1,0 +1,24 @@
+Newspaper Name: Asbury Park Press
+Years Published: 1879-present
+Newspaper ID number: 127000
+State: NJ (Asbury Park / Neptune; covers Monmouth and Ocean counties / Jersey Shore)
+Number of clippings: 26
+Endorsement data years: 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 286 (206 endorsed, 80 opposed)
+Total proposition records: 56 (43 YES, 13 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.80
+Mean: 0.95
+Max: 0.95
+
+--- NOTES ---
+Jersey Shore daily covering Monmouth and Ocean counties. Gannett ownership since
+1997. Coverage 1978-2018 (annual federal/state cycles).
+
+NJ holds gubernatorial elections in odd years (off-cycle from federal); this dataset
+captures even-year federal/state legislative endorsements only.
+
+Compiled: 2026-05-23

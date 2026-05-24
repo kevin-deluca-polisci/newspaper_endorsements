@@ -1,0 +1,41 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+SC,Columbia Record,143150,1950,SC,AMENDMENT,1,Repeal poll tax requirement for voting,1,Statewide amendment,0.95
+SC,Columbia Record,143150,1950,SC,AMENDMENT,2,Eliminate limitation on size of school districts,1,Statewide amendment,0.95
+SC,Columbia Record,143150,1950,SC,AMENDMENT,3,Abolish separate registration for municipal elections,1,Statewide amendment,0.95
+SC,Columbia Record,143150,1964,SC,AMENDMENT,1,Change method of selecting State Superintendent of Education; remove from constitutional officers and have State Board of Education appoint,1,Both questions/parts of Amendment No. 1 endorsed YES,0.95
+SC,Columbia Record,143150,1964,SC,REFERENDUM,,Permit State Board of Education to appoint State Superintendent of Education,1,Headline: Appointing a Superintendent; Record urges Yes vote on Nov 3 referendum,0.95
+SC,Columbia Record,143150,1968,SC,AMENDMENT,9,Extend school bond debt limit from 15% to 30% of assessed valuation for Richland County School District,1,School bonds amendment,0.95
+SC,Columbia Record,143150,1968,SC,AMENDMENT,10,Extend school bond debt limit from 15% to 30% of assessed valuation for Richland County School District,1,School bonds amendment,0.95
+SC,Columbia Record,143150,1968,SC,AMENDMENT,11,Extend school bond debt limit from 15% to 30% of assessed valuation for Richland County School District,1,School bonds amendment,0.95
+SC,Columbia Record,143150,1970,SC,AMENDMENT,,"Constitutional revisions (WHITE sheet): Declaration of Rights, Right of Suffrage, Corporations, Functions of Government, Impeachment - revisions to 5 of 17 articles of SC Constitution of 1895",1,WHITE sheet - statewide constitutional revisions,0.95
+SC,Columbia Record,143150,1970,SC,AMENDMENT,,"Single-item amendments (PINK sheet): prisoner rehabilitation, homestead tax exemptions, regional councils of government, unclaimed property",1,PINK sheet - single-item statewide amendments,0.9
+SC,Columbia Record,143150,1970,SC,AMENDMENT,,Urban renewal amendments for Charleston and Richland counties,1,BLUE sheet - urban renewal for Richland County,0.95
+SC,Columbia Record,143150,1972,SC,AMENDMENT,6,"Vote Yes for Private Colleges - permits state tuition grants to students attending independent colleges (No. 6, Article XI Public Education)",1,,0.95
+SC,Columbia Record,143150,1972,SC,REFERENDUM,,Vote Yes for District Five - Lexington-Richland School District No. 5 bond increase referendum,1,,0.95
+SC,Columbia Record,143150,1972,SC,AMENDMENT,5,Your Ballot for Temperance - moderate control of alcoholic beverages (mini-bottle legislation),1,,0.95
+SC,Columbia Record,143150,1972,SC,AMENDMENT,1,Clarifies gubernatorial succession and broadens Governor's authority against officials suspected of malfeasance,1,Statewide,0.9
+SC,Columbia Record,143150,1972,SC,AMENDMENT,2,Provides for judicial reform to speed up justice and make the Chief Justice administrative head of the system,1,Statewide,0.9
+SC,Columbia Record,143150,1972,SC,AMENDMENT,3,Re-groups provisions on state officials without making changes in method of electing statewide constitutional officers,1,Statewide,0.9
+SC,Columbia Record,143150,1972,SC,AMENDMENT,4,"Permits modernizing of county and municipal governments, broadening permissible county services",1,Statewide,0.9
+SC,Columbia Record,143150,1972,SC,AMENDMENT,5,Permits sale and serving of less than two ounces of alcoholic beverages in licensed restaurants,1,Statewide,0.9
+SC,Columbia Record,143150,1972,SC,AMENDMENT,6,Enlarges State Board of Education by one member and permits scholarship assistance to students in denominational colleges,1,Statewide,0.9
+SC,Columbia Record,143150,1972,SC,AMENDMENT,7,Eliminates clutter from old Constitution without substantive changes,1,Statewide,0.9
+SC,Columbia Record,143150,1972,SC,AMENDMENT,1,"Permits towns to be incorporated by majority approval of citizens voting in a referendum, rather than majority of eligible electors",1,Statewide (pink ballot),0.9
+SC,Columbia Record,143150,1972,SC,AMENDMENT,2,Authorizes South Carolina Public Service Authority (Santee-Cooper) to join private utility company in ownership of facilities,1,Statewide (pink ballot),0.9
+SC,Columbia Record,143150,1972,SC,AMENDMENT,3,Permits a 1974 referendum on remaining articles to complete the constitutional revision process,1,Statewide (pink ballot),0.9
+SC,Columbia Record,143150,1972,SC,REFERENDUM,,Bonded indebtedness of Richland-Lexington School District No. 5 to issue seven million dollars in general obligation bonds,1,Local - Greater Columbia,0.9
+SC,Columbia Record,143150,1972,SC,REFERENDUM,,Increased borrowing privileges for public hospital facilities (Lexington County),1,Local - Lexington,0.85
+SC,Columbia Record,143150,1974,SC,AMENDMENT,2,"Constitutional amendment regarding offices of sheriff, coroner, auditor and clerk of court - would strip these local offices of constitutional status",0,Vote No on No. 2,0.95
+SC,Columbia Record,143150,1974,SC,AMENDMENT,1,Constitutional amendment to allow extended business hours for retail liquor stores (open sunrise to sunset),1,Booze and Bingo,0.9
+SC,Columbia Record,143150,1974,SC,AMENDMENT,3,Constitutional amendment exempting bingo for charitable purposes from gambling prohibition,1,Booze and Bingo,0.9
+SC,Columbia Record,143150,1974,SC,AMENDMENT,4,Vote For Orderly Change - extends through 1976 general election the article-by-article method of amending the state constitution,1,,0.95
+SC,Columbia Record,143150,1976,SC,AMENDMENT,1,Allows the House of Representatives to hold an organizational session after each general election,1,Support Amendment,0.95
+SC,Columbia Record,143150,1976,SC,AMENDMENT,2,Extends until 1978 the article-by-article amendment process,1,Support Amendment,0.95
+SC,Columbia Record,143150,1976,SC,AMENDMENT,3,"Tax reforms and provisions for sound fiscal policies; uniform property tax structure and balanced budget concept extended to counties, municipalities, school districts",1,Support Amendment - most important proposition,0.95
+SC,Columbia Record,143150,1978,SC,AMENDMENT,1,Reserve Fund - constitutional reserve fund up to 5% of general fund,1,Yes on Amendment 1,0.95
+SC,Columbia Record,143150,1978,SC,AMENDMENT,7,Shorten separation period for divorce from three years to one year,1,Endorsed shortening separation requirement,0.9
+SC,Columbia Record,143150,1980,SC,REFERENDUM,,Lowcountry South Carolina Medical Education National Advisory Committee question,0,Editorial recommended Stay Out / against the measure,0.7
+SC,Columbia Record,143150,1982,SC,AMENDMENT,,Constitutional amendment to fill agriculture commissioner and other statewide offices by popular election under statutory mandate,1,Editorial 'Why yes?' urges yes vote,0.85
+SC,Columbia Record,143150,1986,SC,AMENDMENT,,Statewide constitutional amendment for uniform term of office for all magistrates,1,Editorial supports yes vote,0.9
+SC,Columbia Record,143150,1986,SC,REFERENDUM,,Richland County referendum: should county appropriate enough money to vigorously enforce obscenity laws,0,Editorial urges 'no' vote as a protest against forced affirmative response,0.85
+SC,Columbia Record,143150,1986,SC,REFERENDUM,,Lexington County referendum: should Sunday liquor be sold to purchase special ABC permits for two years,1,Editorial supports yes vote for business,0.85

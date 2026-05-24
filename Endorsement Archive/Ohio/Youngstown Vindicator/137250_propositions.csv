@@ -1,0 +1,74 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+OH,Youngstown Vindicator,137250,2002,OH,TAX LEVY,,Mahoning County 0.5 percent sales tax renewal,1,Vindicator endorsed renewal of 0.5% sales tax in Mahoning County,0.96
+OH,Youngstown Vindicator,137250,2002,OH,TAX LEVY,,Trumbull LifeLines 1-mill additional levy (mental health/drug/alcohol board),1,Vindicator endorsed 1-mill additional levy for Trumbull LifeLines,0.96
+OH,Youngstown Vindicator,137250,2002,OH,TAX LEVY,,Local school district levies and renewals (general support),1,Vindicator endorses school tax levies and renewals on ballot generally; no specific district identified in clipping,0.85
+OH,Youngstown Vindicator,137250,2004,OH,AMENDMENT,1,Ohio State Issue 1 - Constitutional amendment defining marriage as between one man and one woman,0,Vindicator opposes Issue 1 (same-sex marriage ban).,0.96
+OH,Youngstown Vindicator,137250,2004,OH,TAX LEVY,,Columbiana County 1 percent sales tax,1,Vindicator strongly encourages YES.,0.95
+OH,Youngstown Vindicator,137250,2004,OH,TAX LEVY,,Mahoning County 0.5 percent sales tax renewal,1,Vindicator strongly encourages YES.,0.95
+OH,Youngstown Vindicator,137250,2004,OH,TAX LEVY,,Mahoning County Children Services Board levy renewal,1,YES.,0.94
+OH,Youngstown Vindicator,137250,2004,OH,TAX LEVY,,Trumbull County LifeLines levy (replacement),1,Replacement levy deserves strong support.,0.95
+OH,Youngstown Vindicator,137250,2008,OH,STATE,1,Ohio Issue 1 (2008 statewide),1,Vindicator supported statewide Issue 1,0.95
+OH,Youngstown Vindicator,137250,2008,OH,STATE,2,Ohio Issue 2 (2008 statewide),1,Vindicator supported statewide Issue 2,0.95
+OH,Youngstown Vindicator,137250,2008,OH,STATE,3,Ohio Issue 3 (2008 statewide),0,Vindicator opposed statewide Issue 3,0.95
+OH,Youngstown Vindicator,137250,2008,OH,STATE,5,Ohio Issue 5 (2008 statewide),1,Vindicator supported statewide Issue 5,0.95
+OH,Youngstown Vindicator,137250,2008,OH,STATE,6,Ohio Issue 6 (2008 statewide - casino expansion),0,Vindicator opposed statewide Issue 6 (casino expansion),0.95
+OH,Youngstown Vindicator,137250,2008,OH,LOCAL,,Western Reserve Transit Authority countywide sales tax,1,Vindicator strongly supported,0.95
+OH,Youngstown Vindicator,137250,2008,OH,LOCAL,,School levies on ballot (general support for all school levies in coverage area),1,Vindicator urged passage of all school levies on the ballot,0.8
+OH,Youngstown Vindicator,137250,2010,OH,LOCAL,,"Levies in Mahoning, Trumbull and Columbiana counties supporting schools, libraries, boards of mental health and developmental disabilities, and children services",1,Vindicator urged support for these levies; recap editorial confirming previously-issued endorsements,0.8
+OH,Youngstown Vindicator,137250,2012,OH,STATE,1,"Create a convention to revise, alter or amend the state constitution",0,Vote no recommended,0.95
+OH,Youngstown Vindicator,137250,2012,OH,STATE,2,Create a citizen commission to draw legislative and congressional district maps,1,Vote yes recommended,0.95
+OH,Youngstown Vindicator,137250,2012,OH,LOCAL,,Mahoning County renewal levy to treat those with tuberculosis and related diseases,1,Endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,OH,LOCAL,,Mahoning County Children Services renewal levy,1,Endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,OH,LOCAL,,Western Reserve Transit Authority renewal levy (Mahoning County),1,Endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,OH,LOCAL,,Trumbull County Fairhaven program renewal levy,1,Endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,OH,LOCAL,,All school renewal levies including Youngstown school district renewal,1,Endorsed generally,0.95
+OH,Youngstown Vindicator,137250,2014,OH,COUNTY,1,Mahoning County 0.75 percent five-year sales-tax for criminal-justice operations,1,Vote yes recommended,0.95
+OH,Youngstown Vindicator,137250,2014,OH,COUNTY,2,Mahoning County children services replacement levy,1,Vote yes recommended,0.95
+OH,Youngstown Vindicator,137250,2014,OH,COUNTY,3,Mahoning County public library levy renewal and increase,1,Vote yes recommended,0.95
+OH,Youngstown Vindicator,137250,2014,OH,CITY,4,Youngstown Community Bill of Rights (anti-fracking ban),0,Vote no recommended,0.95
+OH,Youngstown Vindicator,137250,2014,OH,CITY,5,Youngstown combining of community development and economic development departments,1,Vote yes recommended,0.95
+OH,Youngstown Vindicator,137250,2014,OH,CITY,6,Youngstown making code-enforcement superintendent unclassified position,1,Vote yes recommended,0.95
+OH,Youngstown Vindicator,137250,2014,OH,CITY,7,Youngstown reducing city wards from seven to five,1,Vote yes recommended,0.95
+OH,Youngstown Vindicator,137250,2014,OH,LOCAL,,Boardman schools 3.9 mills for three years renewal levy,1,Mahoning County renewal school levy,0.95
+OH,Youngstown Vindicator,137250,2014,OH,LOCAL,,Campbell schools 14.4 mills for 10 years renewal levy,1,Mahoning County renewal school levy,0.95
+OH,Youngstown Vindicator,137250,2014,OH,LOCAL,,Jackson-Milton 1.8 mill for five years renewal levy,1,Mahoning County renewal school levy,0.95
+OH,Youngstown Vindicator,137250,2014,OH,LOCAL,,Springfield 1 percent income tax for five years renewal,1,Mahoning County renewal school levy,0.95
+OH,Youngstown Vindicator,137250,2014,OH,COUNTY,1,Trumbull County 1-mill renewal levy for alcohol and drug addiction programs (Mental Health Board),1,Vote yes recommended,0.95
+OH,Youngstown Vindicator,137250,2014,OH,COUNTY,,Trumbull County Children Services 0.8-mill 10-year renewal levy,1,Vote yes recommended,0.95
+OH,Youngstown Vindicator,137250,2014,OH,LOCAL,,Trumbull Career and Technical Center 2.4 mills for 10 years renewal,1,Trumbull County renewal school levy,0.95
+OH,Youngstown Vindicator,137250,2014,OH,LOCAL,,Howland schools 4.1 mills for 10 years renewal,1,Trumbull County renewal school levy,0.95
+OH,Youngstown Vindicator,137250,2014,OH,LOCAL,,Mathews 7.8 mills for five years renewal,1,Trumbull County renewal school levy,0.95
+OH,Youngstown Vindicator,137250,2014,OH,LOCAL,,Southington 3.9 mills for three years renewal,1,Trumbull County renewal school levy,0.95
+OH,Youngstown Vindicator,137250,2016,OH,INITIATIVE,,Youngstown anti-fracking Community Bill of Rights initiative,0,Vindicator urges 'no' vote,0.95
+OH,Youngstown Vindicator,137250,2016,OH,CHARTER AMENDMENT,,Youngstown charter amendment to broaden rights of part-time workers,0,Vindicator urges 'no' vote,0.95
+OH,Youngstown Vindicator,137250,2016,OH,LEVY,,All property tax renewal levies for school districts in the Mahoning Valley,1,Vindicator endorses all renewal levies (general endorsement),0.8
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,2,"Mahoning County Mental Health and Recovery Board 1.35-mill (0.85-mill renewal plus 0.5-mill increase) operating levy, 5 years",1,Combines existing levies; supports mental health and opiate epidemic services,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,3,Mahoning County Children Services 1.85-mill renewal levy,1,No new taxation; generates $8.2M of $15.1M annual budget,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,"Boardman Schools 2.4-mill, 10-year renewal levy for emergency requirements ($1,999,547 annually)",1,Renewal endorsement,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,"Poland Schools 2.65-mill, 5-year renewal levy for emergency requirements ($1,068,055 annually)",1,Renewal endorsement,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,"South Range Schools 8.8-mill, 10-year renewal levy ($1,781,555 annually)",1,Renewal endorsement to avoid operating deficit,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,"Labrae Schools 3-mill, 5-year renewal levy for renovating/equipping ($225,430 annually)",1,Renewal endorsement,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,"Lakeview Schools 3.2-mill, 5-year renewal levy for emergency requirements ($890,000 annually)",1,Renewal endorsement,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,"Liberty Schools 3.7-mill, 5-year renewal levy for emergency requirements ($839,531 annually)",1,Renewal endorsement,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,"Maplewood Schools 5-mill, 5-year renewal for renovating/remodeling ($180,230 annually)",1,Renewal endorsement,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,"Niles Schools 11.7-mill substitute levy, continuing, for necessary requirements ($2.6M annually)",1,Substitute levy endorsement (no new tax),0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,"Southington Schools 3.85-mill renewal levy, 4 years ($250,000 annually)",1,Renewal endorsement,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,United Local Schools 3-mill permanent improvement levy renewal,1,Renewal endorsement,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Wellsville School District 2-mill permanent improvement levy renewal,1,Renewal endorsement,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,West Branch Local School District tax-levy increase,1,Vindicator takes no position on school tax-levy increases,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Crestview Local School District tax-levy increase,1,Vindicator takes no position on school tax-levy increases,0.95
+OH,Youngstown Vindicator,137250,2018,OH,CONSTITUTIONAL AMENDMENT,1,"Ohio Issue 1: Reduce penalties for drug obtaining, possessing and using crimes to misdemeanors; prevent jail sentences on first two offenses; add Section 12 to Article XV of Ohio Constitution",0,Vindicator urges 'no' vote; issue is overly specific for constitution and should be statutory,0.95
+OH,Youngstown Vindicator,137250,2018,OH,CONSTITUTIONAL AMENDMENT,1,Ohio Issue 1 (drug sentencing constitutional amendment),0,Recap: vote NO,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Mahoning Mental Health Board Levy,1,Recap: vote YES,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Mahoning Children Services Levy,1,Recap: vote YES,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Boardman Local school renewal levy,1,Recap,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Poland Local school renewal levy,1,Recap,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,South Range Local school renewal levy,1,Recap,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,LaBrae Local school renewal levy,1,Recap,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Lakeview Local school renewal levy,1,Recap,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Liberty Local school renewal levy,1,Recap,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Maplewood Local school renewal levy,1,Recap,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Niles City school renewal levy,1,Recap,0.95
+OH,Youngstown Vindicator,137250,2018,OH,LEVY,,Southington Local school renewal levy,1,Recap,0.95
+OH,Youngstown Vindicator,137250,2018,OH,CHARTER AMENDMENT,,Youngstown charter amendments eliminating term limits for council members and president,0,Recap: vote NO,0.95
+OH,Youngstown Vindicator,137250,2018,OH,INITIATIVE,,Youngstown Drinking Water Protection Bill of Rights,0,Recap: vote NO,0.95

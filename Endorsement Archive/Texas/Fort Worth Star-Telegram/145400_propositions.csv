@@ -1,0 +1,127 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+TX,Fort Worth Star-Telegram,145400,1960,TX,AMENDMENT,1,Raise interest rate on veterans' land bonds from 3% to 3.5%,1,Editorial says all four amendments should receive voters' approval,0.95
+TX,Fort Worth Star-Telegram,145400,1960,TX,AMENDMENT,2,"Authorize creation of special hospital districts in Lamar County, Hidalgo County, and Commissioners Precinct No. 4 of Comanche County",1,Editorial says all four amendments should receive voters' approval,0.95
+TX,Fort Worth Star-Telegram,145400,1960,TX,AMENDMENT,3,"Put state legislators on annual salary of $4,800",1,Editorial says all four amendments should receive voters' approval,0.95
+TX,Fort Worth Star-Telegram,145400,1960,TX,AMENDMENT,4,Enable Legislature to control and regulate small loan business,1,Editorial says all four amendments should receive voters' approval,0.95
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,1,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval of all amendments except No. 6 and No. 14",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,2,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,3,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,4,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,5,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,6,Increase welfare aid (would authorize $5 million/year additional for state-federal welfare programs),0,Editorial suggests No. 6 ought to be defeated,0.95
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,7,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,8,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,9,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,10,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,11,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,12,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,13,Constitutional amendment (one of 14 on ballot),1,"Editorial 'Defeat Two, Approve Twelve' - recommends approval",0.85
+TX,Fort Worth Star-Telegram,145400,1962,TX,AMENDMENT,14,Constitutional amendment (suggested for defeat),0,Editorial suggests No. 14 ought to be defeated,0.95
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,1,Dual valuation for tax purposes of land used for farming (ag-use appraisal),0,Editorial 'Only First of Amendment Proposals Should Fail' - voters should reject the first proposal,0.95
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,2,Empower Legislature to allow counties to establish airport authority for construction and operation - needed urgently by Tarrant and Dallas counties,1,Especially important; should be adopted,0.97
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,3,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,4,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,5,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,6,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,7,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,8,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,9,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,10,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,11,Water resources amendment - safety provision against removal of surplus water from areas with more than they need,1,Especially important; should be adopted - Texas needs this,0.97
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,12,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,13,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,14,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,15,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1966,TX,AMENDMENT,16,Constitutional amendment (one of 16 on ballot),1,All amendments other than #1 should be approved,0.85
+TX,Fort Worth Star-Telegram,145400,1970,TX,AMENDMENT,1,Constitutional amendment (one of 7),1,Vote 'Yes' on all amendments except No. 3,0.9
+TX,Fort Worth Star-Telegram,145400,1970,TX,AMENDMENT,2,"Liquor by the drink - 'Realistic Control' - allow Legislature to write new, more enforceable liquor laws on local-option basis",1,Editorial 'Amendment No. 2: Realistic Control' - strongly endorsed,0.97
+TX,Fort Worth Star-Telegram,145400,1970,TX,AMENDMENT,3,Constitutional amendment (one of 7) - opposed,0,Vote 'No' on No. 3,0.95
+TX,Fort Worth Star-Telegram,145400,1970,TX,AMENDMENT,4,Constitutional amendment (one of 7),1,Vote 'Yes' on all amendments except No. 3,0.9
+TX,Fort Worth Star-Telegram,145400,1970,TX,AMENDMENT,5,Constitutional amendment (one of 7),1,Vote 'Yes' on all amendments except No. 3,0.9
+TX,Fort Worth Star-Telegram,145400,1970,TX,AMENDMENT,6,Constitutional amendment (one of 7),1,Vote 'Yes' on all amendments except No. 3,0.9
+TX,Fort Worth Star-Telegram,145400,1970,TX,AMENDMENT,7,Constitutional amendment (one of 7),1,Vote 'Yes' on all amendments except No. 3,0.9
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,1,"Annual salaries of $8,400 for members of State Senate and House",1,Editorial 'Voters Must Decide On 14 Amendments' - recommends approval as step toward greater independence for lawmakers,0.95
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,2,Abolish Lamar County Hospital District,1,Local matter not affecting Tarrant; no reason to oppose,0.95
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,3,Require commissioners courts in all counties to compensate justices of the peace on a salary basis (rather than fees),1,Would eliminate possible conflicts of interest; justice should be subject to few conflicts,0.95
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,4,Allow Legislature to sit as constitutional convention and draft new constitution for state,0,Identified among the four that should be turned down; full discussion deferred to Saturday,0.85
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,5,"Tax exemption (up to $1,500-$3,000) for disabled veterans, done by local government entities",0,Star-Telegram strongly favors state/local assistance to veterans but says this should be done through legislation and ordinances; opposes erosion of tax uniformity,0.96
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,6,"Tax exemption ($3,000) for persons age 65 or older",0,Opposed - would open the door to erosion of uniformity principle; aid should come through legislation/ordinances,0.96
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,7,"Equal protection - equality under the law not denied by sex, race, color, creed or national origin",1,"Constitution already provides for equality, but more explicit guarantees are needed",0.95
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,8,"Four-year terms for Governor, Lt Governor, Attorney General, Comptroller, Treasurer, Land Commissioner and certain statutory state offices",1,Allow officials to develop programs and serve public more effectively; vote 'yes',0.97
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,9,Exempt directors of soil and water conservation districts from prohibition against dual office-holding and dual compensation,1,Make it less difficult to fill conservation directors' offices in populated areas,0.93
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,10,Allow constitutional amendments to be proposed at special sessions of Legislature and modify method of publishing notice,0,Would proliferate amendments; should be defeated,0.96
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,11,"Salary of $22,500/year for Lt Governor and Speaker of the House",1,Full-time jobs deserve full-time compensation; we are for No. 11,0.97
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,12,"Allow state employees to serve on governing bodies of school districts, cities, towns or other governmental districts without forfeiting state salary",1,Local government should not be denied this rich source of talent; should be adopted,0.96
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,13,Increase the maximum interest rate that may be borne by certain bonds issued under conditional authority (state/local park bonds),1,Voters should approve this one,0.95
+TX,Fort Worth Star-Telegram,145400,1972,TX,AMENDMENT,14,Allow commissioners courts to distribute portions of county permanent school funds to school districts for reducing bonded indebtedness or making permanent improvements,1,Almost a local proposition; benefits only a few counties; no reason to oppose,0.93
+TX,Fort Worth Star-Telegram,145400,1976,TX,AMENDMENT,,Water Amendments (state water development/bond program amendments on ballot),1,'Water Amendments — Yes' in recommendations summary,0.95
+TX,Fort Worth Star-Telegram,145400,1978,TX,AMENDMENT,TaxRelief,Unnumbered Tax Relief Amendment (ambiguous and superficial; does not offer substantial relief),0,Vote 'no' - editorial 'Most amendments worthy' opposes tax relief amendment,0.97
+TX,Fort Worth Star-Telegram,145400,1978,TX,AMENDMENT,1,Permit purchase of materials made by handicapped persons in nonprofit sheltered workshops without bidding,1,Vote 'yes' - favors effort to help the handicapped,0.97
+TX,Fort Worth Star-Telegram,145400,1978,TX,AMENDMENT,2,Let the legislature authorize political subdivisions to issue revenue bonds for developing new industries,1,Vote 'yes' - necessary step to let Texas compete with other states,0.97
+TX,Fort Worth Star-Telegram,145400,1978,TX,AMENDMENT,3,Permit legislature to authorize cities/towns to issue tax increment bonds to finance redevelopment of blighted areas,1,Vote 'yes' - help cities like Fort Worth improve blighted areas,0.97
+TX,Fort Worth Star-Telegram,145400,1978,TX,AMENDMENT,4,Authorize legislature to exempt from taxation solar or wind powered energy devices,1,Vote 'yes' - encourage search for energy sources,0.97
+TX,Fort Worth Star-Telegram,145400,1978,TX,AMENDMENT,5,Expand jurisdiction of peace justice (justice of the peace) courts in civil cases,0,Vote 'no' - would perpetuate outdated justice court system,0.97
+TX,Fort Worth Star-Telegram,145400,1978,TX,AMENDMENT,6,Permit legislature to increase number of associate justices on a court of civil appeals and permit a court of civil appeals to sit in sections,1,Vote 'yes' - help with increasing court case load,0.97
+TX,Fort Worth Star-Telegram,145400,1978,TX,AMENDMENT,7,Abolish State Building Commission (functions passed to another agency),1,Vote 'yes',0.97
+TX,Fort Worth Star-Telegram,145400,1978,TX,AMENDMENT,8,Let water districts engage in fire fighting activities,1,Vote 'yes' - water districts in heavily populated areas should be able to provide fire protection,0.97
+TX,Fort Worth Star-Telegram,145400,1980,TX,AMENDMENT,1,Texas constitutional amendment (one of nine on ballot),1,Star-Telegram recommends approval of all except Proposition No. 7,0.93
+TX,Fort Worth Star-Telegram,145400,1980,TX,AMENDMENT,2,Texas constitutional amendment (one of nine on ballot),1,Star-Telegram recommends approval of all except Proposition No. 7,0.93
+TX,Fort Worth Star-Telegram,145400,1980,TX,AMENDMENT,3,Texas constitutional amendment (one of nine on ballot),1,Star-Telegram recommends approval of all except Proposition No. 7,0.93
+TX,Fort Worth Star-Telegram,145400,1980,TX,AMENDMENT,4,Texas constitutional amendment (one of nine on ballot),1,Star-Telegram recommends approval of all except Proposition No. 7,0.93
+TX,Fort Worth Star-Telegram,145400,1980,TX,AMENDMENT,5,Texas constitutional amendment (one of nine on ballot),1,Star-Telegram recommends approval of all except Proposition No. 7,0.93
+TX,Fort Worth Star-Telegram,145400,1980,TX,AMENDMENT,6,Texas constitutional amendment (one of nine on ballot),1,Star-Telegram recommends approval of all except Proposition No. 7,0.93
+TX,Fort Worth Star-Telegram,145400,1980,TX,AMENDMENT,7,Texas constitutional amendment (proposition opposed),0,Recommends voting against Proposition No. 7,0.97
+TX,Fort Worth Star-Telegram,145400,1980,TX,AMENDMENT,8,Texas constitutional amendment (one of nine on ballot),1,Star-Telegram recommends approval of all except Proposition No. 7,0.93
+TX,Fort Worth Star-Telegram,145400,1980,TX,AMENDMENT,9,Texas constitutional amendment (one of nine on ballot),1,Star-Telegram recommends approval of all except Proposition No. 7,0.93
+TX,Fort Worth Star-Telegram,145400,1982,TX,AMENDMENT,1,Texas constitutional amendment (one of six on ballot),1,Voters urged to vote 'yes' on all six constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1982,TX,AMENDMENT,2,Texas constitutional amendment (one of six on ballot),1,Voters urged to vote 'yes' on all six constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1982,TX,AMENDMENT,3,Texas constitutional amendment (one of six on ballot),1,Voters urged to vote 'yes' on all six constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1982,TX,AMENDMENT,4,Texas constitutional amendment (one of six on ballot),1,Voters urged to vote 'yes' on all six constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1982,TX,AMENDMENT,5,Texas constitutional amendment (one of six on ballot),1,Voters urged to vote 'yes' on all six constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1982,TX,AMENDMENT,6,Texas constitutional amendment (one of six on ballot),1,Voters urged to vote 'yes' on all six constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1986,TX,AMENDMENT,1,Texas constitutional amendment (one of four on ballot),1,Star-Telegram recommends support of all four constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1986,TX,AMENDMENT,2,Texas constitutional amendment (one of four on ballot),1,Star-Telegram recommends support of all four constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1986,TX,AMENDMENT,3,Texas constitutional amendment (one of four on ballot),1,Star-Telegram recommends support of all four constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1986,TX,AMENDMENT,4,Texas constitutional amendment (one of four on ballot),1,Star-Telegram recommends support of all four constitutional amendments,0.93
+TX,Fort Worth Star-Telegram,145400,1988,TX,AMENDMENT,1,Texas constitutional amendment (one of three on ballot),1,Yes on all three proposals (state constitutional amendments),0.93
+TX,Fort Worth Star-Telegram,145400,1988,TX,AMENDMENT,2,Texas constitutional amendment (one of three on ballot),1,Yes on all three proposals,0.93
+TX,Fort Worth Star-Telegram,145400,1988,TX,AMENDMENT,3,Texas constitutional amendment (one of three on ballot),1,Yes on all three proposals,0.93
+TX,Fort Worth Star-Telegram,145400,1988,TX,REFERENDUM,,County Civil Service Proposition,1,County Civil Service Proposition: Yes,0.95
+TX,Fort Worth Star-Telegram,145400,1990,TX,STATE,1,Housekeeping measure clarifying Senate confirmation rules on appointments by the governor,1,,0.9
+TX,Fort Worth Star-Telegram,145400,2004,TX,LOCAL,,Arlington Stadium Election - stadium proposal (Texas Rangers/Cowboys stadium financing),1,Vote for the stadium proposal,0.92
+TX,Fort Worth Star-Telegram,145400,2006,TX,LOCAL,,Tarrant County Special Election - Senior tax freeze,0,Against,0.94
+TX,Fort Worth Star-Telegram,145400,2006,TX,LOCAL,,Fort Worth Special Election - Meet and confer (police/fire collective bargaining),0,Against,0.92
+TX,Fort Worth Star-Telegram,145400,2006,TX,LOCAL,,Birdville School District Special Election - Bond election,1,For,0.93
+TX,Fort Worth Star-Telegram,145400,2006,TX,LOCAL,,Keller School District Special Election - Bond election (both propositions),1,For both propositions,0.93
+TX,Fort Worth Star-Telegram,145400,2006,TX,LOCAL,,Grapevine Special Election - Sales tax (both propositions),1,For both propositions,0.92
+TX,Fort Worth Star-Telegram,145400,2008,TX,LOCAL,1,Fort Worth - Sale of beer and wine for off-premise consumption,1,Yes,0.93
+TX,Fort Worth Star-Telegram,145400,2008,TX,LOCAL,2,Fort Worth - Sale of mixed beverages in restaurants,1,Yes,0.93
+TX,Fort Worth Star-Telegram,145400,2008,TX,LOCAL,1,Arlington city bonds - $15.5 million for park and recreation projects,1,Yes,0.93
+TX,Fort Worth Star-Telegram,145400,2008,TX,LOCAL,2,"Arlington city bonds - $103.7 million for streets including major rebuilding of Abram Street, Lamar Boulevard, Great Southwest Parkway and residential streets",1,Yes,0.93
+TX,Fort Worth Star-Telegram,145400,2008,TX,LOCAL,3,"Arlington city bonds - $500,000 to expand East Arlington Branch Library",1,Yes,0.93
+TX,Fort Worth Star-Telegram,145400,2008,TX,LOCAL,4,Arlington city bonds - $9.1 million for fire station rebuilding and remodeling,1,Yes,0.93
+TX,Fort Worth Star-Telegram,145400,2008,TX,LOCAL,5,Arlington city bonds - $12 million for flood control on Rush Creek south of Pioneer Parkway,1,Yes,0.93
+TX,Fort Worth Star-Telegram,145400,2008,TX,LOCAL,1,"Keller school bonds - $142 million for two new schools, land, athletic facility upgrades",0,No,0.93
+TX,Fort Worth Star-Telegram,145400,2008,TX,LOCAL,2,Keller school bonds - $25.6 million for athletic stadium,0,No,0.93
+TX,Fort Worth Star-Telegram,145400,2010,TX,LOCAL,,Richland Hills transportation proposition,1,Yes,0.93
+TX,Fort Worth Star-Telegram,145400,2012,TX,LOCAL,,"Northwest ISD, Grapevine bonds",1,For all ballot propositions,0.92
+TX,Fort Worth Star-Telegram,145400,2014,TX,STATE,1,Statewide Prop 1 - Using some oil and gas tax revenue for highways,1,For,0.95
+TX,Fort Worth Star-Telegram,145400,2014,TX,LOCAL,,"Arlington bonds - $236 million for streets, parks, fire facilities and libraries (4 propositions)",1,For all four propositions,0.94
+TX,Fort Worth Star-Telegram,145400,2014,TX,LOCAL,,Fort Worth arena - Establishing user fees to pay half cost of $450 million multi-purpose arena in Will Rogers Center,1,For all propositions,0.94
+TX,Fort Worth Star-Telegram,145400,2014,TX,LOCAL,,Birdville ISD bonds - $163.2 million for school construction and renovation,1,For,0.94
+TX,Fort Worth Star-Telegram,145400,2014,TX,LOCAL,,Keller ISD bonds - $169.5 million for school construction and renovation,1,For,0.94
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,1,Tarrant County Proposition 1 - Legal sale of alcoholic beverages for off-premise consumption,1,Caution,0.92
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,,Arlington Proposition - New Rangers stadium,1,For,0.93
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,1,Colleyville Proposition 1 - Mayor term limits,0,Against,0.92
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,2,Colleyville Proposition 2 - No roll-call vote for nominations,1,For,0.92
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,3,"Colleyville Proposition 3 - City Council approval on new hires for city secretary, police chief, director of public works and head of Department of Finance",0,Against,0.92
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,4,Colleyville Proposition 4 - Elimination of city charter Article XII,1,For,0.92
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,5,Colleyville Proposition 5 - Amendment of city charter Section 14.02,1,For,0.92
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,1,Grapevine Proposition 1 - Legal sale of alcoholic beverages for off-premise consumption,0,Against,0.92
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,1,Richland Hills Proposition 1 - Continuation of Fort Worth Transportation Authority service,0,Against,0.92
+TX,Fort Worth Star-Telegram,145400,2016,TX,LOCAL,1,Roanoke Proposition 1 - Legal sale of alcoholic beverages,1,Caution,0.92
+TX,Fort Worth Star-Telegram,145400,2018,TX,LOCAL,,Arlington City Council Term Limits - ballot measure to set term limits for council members,0,No (oppose term limits),0.94
+TX,Fort Worth Star-Telegram,145400,2018,TX,LOCAL,,"JPS Bonds - John Peter Smith Hospital psychiatric care and suburban clinics master plan, including 298 psych beds",1,Yes,0.94
+TX,Fort Worth Star-Telegram,145400,2020,TX,LOCAL,,Fort Worth ISD property tax rate increase,0,No specific recommendation but generally believe governments need extraordinary reasons to raise taxes when unemployment remains high and economy unstable due to coronavirus pandemic,0.85
+TX,Fort Worth Star-Telegram,145400,2020,TX,LOCAL,,"Arlington school district property tax rate increase (teacher pay and retention, technology)",0,No specific recommendation but generally against tax increases during pandemic,0.85
+TX,Fort Worth Star-Telegram,145400,2020,TX,LOCAL,,Arlington city quarter-cent sales tax boost (economic development funding),0,No specific recommendation but generally against tax increases during pandemic,0.85

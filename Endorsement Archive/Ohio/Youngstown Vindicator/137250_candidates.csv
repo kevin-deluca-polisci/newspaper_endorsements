@@ -1,0 +1,396 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+OH,Youngstown Vindicator,137250,2002,CNTY COMM,,,OH,"CRANMER, DAVID",Democrat,1,1,,,Columbiana County commissioner; endorsed for re-election despite voting to impose 0.5% sales tax,0.97
+OH,Youngstown Vindicator,137250,2002,CNTY COMM,,,OH,"WILLIAMS, GARY L",Republican,0,,,,Columbiana County recorder challenging Cranmer; Vindicator opposed his position on tax issue,0.95
+OH,Youngstown Vindicator,137250,2002,COURT OF APPEALS,7,,OH,"VUKOVICH, JOSEPH J",Democrat,1,1,,,7th District Court of Appeals incumbent; endorsed for re-election,0.97
+OH,Youngstown Vindicator,137250,2002,COURT OF APPEALS,7,,OH,"PIKE, ASHLEY",Republican,0,,,,Columbiana County Common Pleas judge challenging Vukovich for 7th District Court of Appeals,0.95
+OH,Youngstown Vindicator,137250,2002,COURT OF APPEALS,7,,OH,"WAITE, CHERYL",Democrat,1,1,,,7th District Court of Appeals incumbent; unopposed; endorsed for re-election,0.95
+OH,Youngstown Vindicator,137250,2002,JUDGE,,,OH,"VETTORI, DIANE S",,1,,,,Mahoning County Court judge race; nonpartisan ballot; former assistant prosecutor; Democrat-aligned; endorsed,0.95
+OH,Youngstown Vindicator,137250,2002,JUDGE,,,OH,"POPIO, LOREN",,0,,1,,Mahoning County Court incumbent (appointed July 2001 by Gov Taft); nonpartisan ballot; Republican-aligned,0.94
+OH,Youngstown Vindicator,137250,2002,JUDGE,,,OH,"DOCKRY, MICHAEL B",,0,,,,Mahoning County Court candidate; former Austintown Township administrator; nonpartisan ballot; Republican-aligned,0.93
+OH,Youngstown Vindicator,137250,2002,CNTY COMM,,,OH,"MANNING, DON",Republican,1,,,,Trumbull County Commissioner candidate; endorsed over Tsagaris in light of corruption investigations,0.97
+OH,Youngstown Vindicator,137250,2002,CNTY COMM,,,OH,"TSAGARIS, JAMES",Democrat,0,1,,,Trumbull County Commissioner incumbent; did not keep editorial board appointment; subject of federal corruption investigation,0.97
+OH,Youngstown Vindicator,137250,2002,STATE SENATOR,33,,OH,"HAGAN, ROBERT F",Democrat,1,1,,,Ohio Senate 33rd District incumbent; endorsed for re-election,0.97
+OH,Youngstown Vindicator,137250,2002,STATE SENATOR,33,,OH,"HANNI, HOLLY",Republican,0,,,,Ohio Senate 33rd District Republican challenger; field market manager; daughter of former Mahoning Dem chair,0.95
+OH,Youngstown Vindicator,137250,2002,STATE REP,65,,OH,"HARWOOD, SANDRA STABILE",Democrat,1,,,,Ohio House 65th District Democratic nominee; lawyer in private practice; endorsed,0.97
+OH,Youngstown Vindicator,137250,2002,STATE REP,65,,OH,"CALKO, JAMES A JR",Republican,0,,,,Ohio House 65th District Republican; 21-year-old YSU junior; inexperience cited,0.94
+OH,Youngstown Vindicator,137250,2002,STATE REP,65,,OH,"LANGE, WERNER",Independent,0,,,,Ohio House 65th District independent; minister and former college teacher; strong supporter of Traficant,0.93
+OH,Youngstown Vindicator,137250,2002,STATE REP,64,,OH,"SFERRA, DANIEL",Democrat,0,1,,,Ohio House 64th District incumbent; former Warren mayor; mentioned in Sabatine bribery testimony; not endorsed due to federal corruption investigation concerns,0.93
+OH,Youngstown Vindicator,137250,2002,STATE REP,64,,OH,"LAW, RANDY",Republican,0,,,,Ohio House 64th District Republican challenger; did not keep editorial board appointment; cannot be considered for endorsement,0.93
+OH,Youngstown Vindicator,137250,2002,ATTORNEY GENERAL,,,OH,"PETRO, JIM",Republican,1,,,,Republican nominee for Ohio Attorney General; outgoing state auditor; endorsed,0.97
+OH,Youngstown Vindicator,137250,2002,ATTORNEY GENERAL,,,OH,"HERINGTON, LEIGH",Democrat,0,,,,Democratic state senator from Ravenna; lacks experience running major public agency,0.95
+OH,Youngstown Vindicator,137250,2002,AUDITOR,,,OH,"MONTGOMERY, BETTY",Republican,1,,,,Republican attorney general running for state auditor; endorsed,0.97
+OH,Youngstown Vindicator,137250,2002,AUDITOR,,,OH,"SMITH, HELEN KNIPE",Democrat,0,,,,Democratic opponent; did not respond to editorial board invitation; cannot be considered for endorsement,0.95
+OH,Youngstown Vindicator,137250,2002,JUDGE,,,OH,"KRICHBAUM, R SCOTT",,1,,1,,Mahoning County Common Pleas judge incumbent; Republican-aligned; nonpartisan ballot; endorsed for re-election,0.95
+OH,Youngstown Vindicator,137250,2002,JUDGE,,,OH,"CALLEN, JAMES B",,0,,,,Mahoning Common Pleas challenger; Democratic-aligned; executive director of Northeast Ohio Legal Services; nonpartisan ballot,0.94
+OH,Youngstown Vindicator,137250,2002,TREASURER,,,OH,"DETERS, JOSEPH",Republican,1,,1,,Ohio State Treasurer incumbent; endorsed for re-election,0.97
+OH,Youngstown Vindicator,137250,2002,TREASURER,,,OH,"BOYLE, MARY",Democrat,0,,,,Democratic challenger; pay-to-play allegations not supported by evidence per editorial,0.96
+OH,Youngstown Vindicator,137250,2002,SUPREME COURT,,,OH,"STRATTON, EVELYN LUNDBERG",,1,,1,,Ohio Supreme Court justice; Republican-aligned; nonpartisan ballot; endorsed for re-election,0.97
+OH,Youngstown Vindicator,137250,2002,SUPREME COURT,,,OH,"BURNSIDE, JANET",,0,,,,Cuyahoga County Common Pleas judge; Democratic-aligned; nonpartisan ballot; challenging Stratton,0.95
+OH,Youngstown Vindicator,137250,2002,SUPREME COURT,,,OH,"BLACK, TIM",,1,,,,Endorsement summary; nonpartisan ballot; Democratic-aligned,0.97
+OH,Youngstown Vindicator,137250,2002,SUPREME COURT,,,OH,"O'CONNOR, MAUREEN",,0,,,,Ohio lieutenant governor; Republican-aligned; nonpartisan ballot; not endorsed for seat vacated by Justice Douglas,0.96
+OH,Youngstown Vindicator,137250,2002,JUDGE,,,OH,"MALONEY, TIMOTHY P",,1,,,,Mahoning County Probate Court judge; incumbent; nonpartisan ballot; endorsed for re-election,0.96
+OH,Youngstown Vindicator,137250,2002,JUDGE,,,OH,"SWEENEY, MAUREEN A",,0,,,,Mahoning County Probate challenger; in private practice; former Poland Village solicitor; nonpartisan ballot,0.95
+OH,Youngstown Vindicator,137250,2002,COURT OF APPEALS,11,,OH,"RICE, CYNTHIA",,1,,,,11th District Court of Appeals; former assistant US attorney; nonpartisan ballot; endorsed for seat vacated by Judge Nader,0.96
+OH,Youngstown Vindicator,137250,2002,COURT OF APPEALS,11,,OH,"HASSETT, MARK J",,0,,,,11th District Court of Appeals candidate from Chagrin Falls; in private practice; nonpartisan ballot,0.94
+OH,Youngstown Vindicator,137250,2002,COURT OF APPEALS,11,,OH,"BLACK, JEFF",,0,,,,11th District Court of Appeals candidate from Willoughby; magistrate in Willoughby Municipal Court; nonpartisan ballot,0.94
+OH,Youngstown Vindicator,137250,2002,COURT OF APPEALS,11,,OH,"CHRISTLEY, JUDITH",,1,,1,,11th District Court of Appeals incumbent judge; Republican-aligned; nonpartisan ballot; challenged colleague O'Neill,0.95
+OH,Youngstown Vindicator,137250,2002,COURT OF APPEALS,11,,OH,"O'NEILL, WILLIAM M",,0,1,,,11th District Court of Appeals incumbent judge; Democratic-aligned; nonpartisan ballot,0.95
+OH,Youngstown Vindicator,137250,2002,STATE REP,57,,OH,"BOCCIERI, JOHN",Democrat,1,,,,Ohio House 57th District; C-130 pilot in USAF Reserves; endorsed over Republican Ron Hood,0.96
+OH,Youngstown Vindicator,137250,2002,STATE REP,57,,OH,"HOOD, RON",Republican,0,1,,,Ohio House 57th District incumbent; refused editorial board interview; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2002,STATE REP,59,,OH,"CARANO, KENNETH",Democrat,1,,,,Endorsement summary,0.95
+OH,Youngstown Vindicator,137250,2002,STATE REP,59,,OH,"HULL, NANCY",Republican,0,,,,Ohio House Republican nominee; Boardman Board of Education member; teacher and guidance counselor,0.9
+OH,Youngstown Vindicator,137250,2002,STATE REP,60,,OH,"PATTON, SYLVESTER",Democrat,1,1,,,Endorsement summary,0.95
+OH,Youngstown Vindicator,137250,2002,STATE REP,60,,OH,"FOCKLER, JOHN K JR",Libertarian,0,,,,Libertarian challenger; Struthers resident and hotel employee,0.93
+OH,Youngstown Vindicator,137250,2002,CNTY CLERK,,,OH,"O'BRIEN, MARGARET R",Democrat,1,1,,,Trumbull County Clerk of Courts; third four-year term incumbent; endorsed,0.95
+OH,Youngstown Vindicator,137250,2002,CNTY CLERK,,,OH,"MANNING, DON",Republican,0,,,,Republican challenger for Trumbull Clerk of Courts; did not respond to editorial board; cannot be considered for endorsement. Note: name matches the Manning endorsed for Trumbull Commissioner on 10/13 but editorial here lists different challenger for clerk race,0.8
+OH,Youngstown Vindicator,137250,2002,RECORDER,,,OH,"MARCHESE, DIANA",Democrat,1,1,,,Trumbull County Recorder incumbent; second term; endorsed,0.95
+OH,Youngstown Vindicator,137250,2002,RECORDER,,,OH,"NEVARD, RICHARD",Republican,0,,,,Republican challenger for Trumbull Recorder; did not respond to editorial board; cannot be considered for endorsement,0.94
+OH,Youngstown Vindicator,137250,2002,GOVERNOR,,,OH,"TAFT, BOB",Republican,1,,1,,Ohio Governor incumbent; endorsed for re-election largely for role in securing GM Lordstown investment,0.97
+OH,Youngstown Vindicator,137250,2002,GOVERNOR,,,OH,"HAGAN, TIM",Democrat,0,,,,Democratic challenger; Youngstown native; former Cuyahoga County commissioner,0.96
+OH,Youngstown Vindicator,137250,2002,H,17,,OH,"WOMER BENJAMIN, ANN",Republican,1,,,,Ohio US House 17th District; Ohio state representative for four terms; endorsed over Ryan and Traficant,0.97
+OH,Youngstown Vindicator,137250,2002,H,17,,OH,"RYAN, TIMOTHY J",Democrat,0,,,,Ohio state senator from Niles; characterized as inexperienced,0.96
+OH,Youngstown Vindicator,137250,2002,H,17,,OH,"TRAFICANT, JAMES A JR",Independent,0,,,1,Former US Representative (had been Democrat) expelled from Congress July 2002 and imprisoned for bribery/racketeering; running as independent,0.97
+OH,Youngstown Vindicator,137250,2002,H,6,,OH,"STRICKLAND, TED",Democrat,1,1,,,US House 6th District; four-term incumbent from Lucasville; endorsed for new 6th District,0.97
+OH,Youngstown Vindicator,137250,2002,H,6,,OH,"HALLECK, MIKE",Republican,0,,,,US House 6th District Republican; former Columbiana County commissioner; ODOT administrator on leave,0.96
+OH,Youngstown Vindicator,137250,2002,SEC OF STATE,,,OH,"BLACKWELL, KENNETH",Republican,1,,1,,Endorsement summary; no individual endorsement editorial in this clipping set,0.93
+OH,Youngstown Vindicator,137250,2002,STATE REP,1,,OH,"BLASDEL, CHARLES",Republican,1,,,,Endorsement summary; no individual endorsement editorial in this clipping set; party inferred,0.85
+OH,Youngstown Vindicator,137250,2002,STATE REP,61,,OH,"BOCCIERI, JOHN",Democrat,1,,,,Endorsement summary; listed as 57th in original 10/24 editorial - district renumbered,0.94
+OH,Youngstown Vindicator,137250,2002,CNTY COMM,,,OH,"LUDT, DAVID",,1,,,,Mahoning County Commissioner; endorsement summary; no individual endorsement editorial in this clipping set,0.85
+OH,Youngstown Vindicator,137250,2004,COURT OF APPEALS,11,,OH,"TRAPP, MARY JANE",Democrat,1,,,,"11th District Court of Appeals, open seat (Christley vacating). Endorsed over O'Toole based on more extensive background.",0.97
+OH,Youngstown Vindicator,137250,2004,COURT OF APPEALS,11,,OH,"O'TOOLE, COLLEEN M",Republican,0,,,,Opposed in favor of Trapp; Vindicator found both qualified but Trapp more extensive.,0.95
+OH,Youngstown Vindicator,137250,2004,CNTY CLERK,,,OH,"VIVO, ANTHONY",Democrat,1,1,,,Mahoning County clerk of courts; 10-year incumbent; endorsed for re-election.,0.98
+OH,Youngstown Vindicator,137250,2004,CNTY CLERK,,,OH,"HOLOWATUK, SANDRA",Republican,0,,,,Mahoning County clerk of courts challenger; opposed.,0.95
+OH,Youngstown Vindicator,137250,2004,RECORDER,,,OH,"GERBERRY, RONALD",Democrat,1,1,,,"Mahoning County recorder, completing first term; endorsed for second term.",0.97
+OH,Youngstown Vindicator,137250,2004,RECORDER,,,OH,"GILLAM, RUSSELL III",Republican,0,,,,Mahoning County recorder challenger; opposed.,0.94
+OH,Youngstown Vindicator,137250,2004,STATE REP,1,,OH,"BLASDEL, CHARLES",Republican,1,,1,,Ohio House 1st District (East Liverpool); endorsed for needing a Valley voice at GOP table.,0.95
+OH,Youngstown Vindicator,137250,2004,STATE REP,1,,OH,"RAYL, FRANK E JR",Democrat,0,,,,Ohio House 1st District; did not appear for interview; opposed.,0.9
+OH,Youngstown Vindicator,137250,2004,STATE REP,59,,OH,"CARANO, KENNETH A",Democrat,1,1,,,Ohio House 59th District; incumbent endorsed for re-election.,0.96
+OH,Youngstown Vindicator,137250,2004,STATE REP,59,,OH,"MILLER, KATHY",Republican,0,,,,"Ohio House 59th District; Boardman Trustee, party-switcher; opposed.",0.93
+OH,Youngstown Vindicator,137250,2004,STATE REP,60,,OH,"PATTON, SYLVESTER",Democrat,1,1,,,Ohio House 60th District; incumbent endorsed despite his mayoral plans.,0.95
+OH,Youngstown Vindicator,137250,2004,STATE REP,60,,OH,"KELLER, NICOLAS",Republican,0,,,,Ohio House 60th District; YSU student; opposed.,0.92
+OH,Youngstown Vindicator,137250,2004,STATE REP,61,,OH,"BOCCIERI, JOHN A",Democrat,1,1,,,Ohio House 61st District; Air National Guard major; endorsed.,0.96
+OH,Youngstown Vindicator,137250,2004,STATE REP,61,,OH,"POPE, RANDY",Republican,0,,,,Ohio House 61st District; opposed.,0.92
+OH,Youngstown Vindicator,137250,2004,STATE REP,64,,OH,"SFERRA, DAN",Democrat,1,1,,,Ohio House 64th District; former Warren mayor; incumbent endorsed.,0.95
+OH,Youngstown Vindicator,137250,2004,STATE REP,64,,OH,"LAW, RANDY",Republican,0,,,,Ohio House 64th District; did not appear for interview; opposed.,0.9
+OH,Youngstown Vindicator,137250,2004,STATE REP,65,,OH,"HARWOOD, SANDRA STABILE",Democrat,1,1,,,Ohio House 65th District; effective on air base fight; endorsed.,0.96
+OH,Youngstown Vindicator,137250,2004,STATE REP,65,,OH,"JOHNSON, DON",Republican,0,,,,"Ohio House 65th District; retired truck driver, Teamsters; opposed.",0.9
+OH,Youngstown Vindicator,137250,2004,CNTY CLERK,,,OH,"INFANTE ALLEN, KAREN",Democrat,1,,,,Trumbull County clerk of courts; open seat (O'Brien retiring); endorsed.,0.97
+OH,Youngstown Vindicator,137250,2004,CNTY CLERK,,,OH,"SIMON, DAVID T",Republican,0,,,,Trumbull County clerk of courts; opposed.,0.95
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"POLIVKA, DANIEL E",Democrat,1,1,,,Trumbull County commissioner; summary endorsement.,0.95
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"DECAPITO, PHILIP O",Republican,0,,,,Trumbull County commissioner challenger; Citigroup account executive; opposed.,0.93
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"HELTZEL, PAUL E",Democrat,1,,,,Trumbull County commissioner; defeated incumbent Angelo in primary; strongly endorsed.,0.97
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"COLELLO, MICHAEL",Republican,0,,,,Trumbull County commissioner; Mecca Township trustee; opposed.,0.93
+OH,Youngstown Vindicator,137250,2004,STATE SENATOR,32,,OH,"DANN, MARC",Democrat,1,1,,,Ohio Senate 32nd District (Trumbull/Ashtabula); appointed 2003 after Ryan elected to Congress; endorsed for full term.,0.97
+OH,Youngstown Vindicator,137250,2004,STATE SENATOR,32,,OH,"PASQUALONE, GARY L",Republican,0,,,,Ohio Senate 32nd District challenger; lawyer; opposed.,0.94
+OH,Youngstown Vindicator,137250,2004,SUPREME COURT,,,OH,"MOYER, THOMAS J",Republican,1,,1,,Ohio Supreme Court Chief Justice; nonpartisan ballot but Republican primary; seeking 4th term; endorsed.,0.96
+OH,Youngstown Vindicator,137250,2004,SUPREME COURT,,,OH,"CONNALLY, C ELLEN",Democrat,0,,,,Ohio Supreme Court CJ challenger; former Cleveland Municipal Court judge; opposed.,0.93
+OH,Youngstown Vindicator,137250,2004,SUPREME COURT,,,OH,"PFEIFER, PAUL E",Republican,1,,1,,Ohio Supreme Court; unopposed; Vindicator urges complimentary vote.,0.93
+OH,Youngstown Vindicator,137250,2004,SUPREME COURT,,,OH,"LANZINGER, JUDITH ANN",Republican,1,,,,"Ohio Supreme Court (Sweeney's seat, open); 6th District Court of Appeals judge; endorsed.",0.96
+OH,Youngstown Vindicator,137250,2004,SUPREME COURT,,,OH,"FUERST, NANCY A",Democrat,0,,,,Ohio Supreme Court (Sweeney's open seat); Cuyahoga common pleas judge; opposed.,0.93
+OH,Youngstown Vindicator,137250,2004,SUPREME COURT,,,OH,"O'DONNELL, TERRENCE",Republican,0,,1,,Ohio Supreme Court; appointed May 2003; Vindicator endorsed O'Neill instead.,0.95
+OH,Youngstown Vindicator,137250,2004,SUPREME COURT,,,OH,"O'NEILL, WILLIAM",Democrat,1,,,,Ohio Supreme Court; 11th District Court of Appeals judge; endorsed for dissenting voice.,0.96
+OH,Youngstown Vindicator,137250,2004,H,17,,OH,"RYAN, TIM",Democrat,1,1,,,US House 17th District (Trumbull/Mahoning/Portage/Summit); completing first term; endorsed.,0.97
+OH,Youngstown Vindicator,137250,2004,H,17,,OH,"CUSIMANO, FRANK J",Republican,0,,,,US House 17th District challenger; political newcomer; opposed.,0.93
+OH,Youngstown Vindicator,137250,2004,H,14,,OH,"LATOURETTE, STEVEN",Republican,1,,1,,US House 14th District; completing 10 years; endorsed.,0.96
+OH,Youngstown Vindicator,137250,2004,H,14,,OH,"CAFARO, CAPRI",Democrat,0,,,,US House 14th District challenger; did not appear for Vindicator interview; opposed.,0.92
+OH,Youngstown Vindicator,137250,2004,H,6,,OH,"STRICKLAND, TED",Democrat,1,1,,,US House 6th District (Mahoning/Columbiana/Ohio River counties); faces write-in challenger; endorsed.,0.96
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"TRAFICANTI, ANTHONY",Democrat,1,,,,Mahoning County commissioner; succeeding Sherlock (open seat); endorsed.,0.96
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"MCNALLY, JOHN A IV",Democrat,1,,,,Mahoning County commissioner; Youngstown law director; succeeding Reese (open seat); endorsed.,0.97
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"MOFFIE, SAM",Republican,0,,,,Mahoning County commissioner; opposed sales tax; opposed.,0.95
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"STRANGE, PATRICK",Republican,0,,,,Mahoning County commissioner; opposed sales tax; opposed.,0.95
+OH,Youngstown Vindicator,137250,2004,JUDGE,,,OH,"DELLICK, THERESA",Republican,1,,1,,Mahoning County Juvenile Court judge; appointed by Taft 2001; endorsed for full term.,0.95
+OH,Youngstown Vindicator,137250,2004,JUDGE,,,OH,"SMITH, WADE W JR",Democrat,0,,,,Mahoning County Juvenile Court challenger; opposed.,0.93
+OH,Youngstown Vindicator,137250,2004,JUDGE,,,OH,"KOBLY, ELIZABETH A",Democrat,1,,,,Mahoning Common Pleas Court; current Youngstown Municipal Court judge; endorsed over short-tenure incumbent.,0.95
+OH,Youngstown Vindicator,137250,2004,JUDGE,,,OH,"SWEENEY, MAUREEN A",Republican,0,,1,,Mahoning Common Pleas; appointed by Taft in July 2004; opposed (only 3 months tenure).,0.93
+OH,Youngstown Vindicator,137250,2004,JUDGE,,,OH,"D'APOLITO, DAVID A",Republican,1,,1,,Mahoning County Court (Austintown); incumbent since 2000; endorsed.,0.95
+OH,Youngstown Vindicator,137250,2004,JUDGE,,,OH,"GERCHAK, DAVID J",Democrat,0,,,,Mahoning County Court challenger; opposed.,0.92
+OH,Youngstown Vindicator,137250,2004,PRESIDENT,,,OH,"BUSH, GEORGE W",Republican,1,,1,,President; incumbent; endorsed for re-election after 9/11 leadership.,0.98
+OH,Youngstown Vindicator,137250,2004,VICE PRESIDENT,,,OH,"CHENEY, DICK",Republican,1,,1,,Vice President; incumbent; endorsed.,0.97
+OH,Youngstown Vindicator,137250,2004,PRESIDENT,,,OH,"KERRY, JOHN F",Democrat,0,,,,President; Democratic challenger; opposed.,0.96
+OH,Youngstown Vindicator,137250,2004,SENATOR,,,OH,"VOINOVICH, GEORGE V",Republican,1,,1,,US Senator; incumbent; summary endorsement.,0.96
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"LOGAN, SEAN D",Democrat,1,,,,Columbiana County commissioner (1/2/05 term); summary endorsement.,0.93
+OH,Youngstown Vindicator,137250,2004,CNTY COMM,,,OH,"HOPPEL, JIM",Republican,1,,,,Columbiana County commissioner (1/3/05 term); summary endorsement.,0.93
+OH,Youngstown Vindicator,137250,2006,SEC OF STATE,,,OH,"BRUNNER, JENNIFER LEE",Democrat,1,,,,Ohio Secretary of State (open seat); former Franklin Co Common Pleas judge; endorsed to restore voter trust.,0.97
+OH,Youngstown Vindicator,137250,2006,SEC OF STATE,,,OH,"HARTMANN, GREG",Republican,0,,,,Ohio Secretary of State; Hamilton County clerk of courts; opposed.,0.94
+OH,Youngstown Vindicator,137250,2006,TREASURER,,,OH,"CORDRAY, RICHARD",Democrat,1,,,,Ohio Treasurer (open seat); Franklin County treasurer; endorsed.,0.97
+OH,Youngstown Vindicator,137250,2006,TREASURER,,,OH,"O'BRIEN, SANDRA",Republican,0,,,,Ohio Treasurer; Ashtabula County auditor; opposed.,0.95
+OH,Youngstown Vindicator,137250,2006,STATE REP,64,,OH,"LAW, RANDY",Republican,1,,1,,Ohio House 64th District; incumbent (defeated Sferra in 2004); endorsed.,0.95
+OH,Youngstown Vindicator,137250,2006,STATE REP,64,,OH,"LETSON, TOM",Democrat,0,,,,Ohio House 64th District challenger; Warren attorney; opposed.,0.94
+OH,Youngstown Vindicator,137250,2006,STATE REP,65,,OH,"HARWOOD, SANDRA STABILE",Democrat,1,1,,,Ohio House 65th District; incumbent; endorsed.,0.96
+OH,Youngstown Vindicator,137250,2006,STATE REP,65,,OH,"HILL, ARNO",Republican,0,,,,Ohio House 65th District; former mayor of Lordstown; opposed.,0.94
+OH,Youngstown Vindicator,137250,2006,STATE REP,1,,OH,"BOLON, LINDA S",Democrat,1,,,,Ohio House 1st District (open seat as Blasdel runs for Congress); Columbiana County treasurer since 1999; endorsed.,0.96
+OH,Youngstown Vindicator,137250,2006,STATE REP,1,,OH,"HOPPEL, JIM",Republican,0,,,,Ohio House 1st District; Columbiana County commissioner; opposed (Vindicator says he's more valuable as commissioner).,0.94
+OH,Youngstown Vindicator,137250,2006,CNTY COMM,,,OH,"FUDA, FRANK",Democrat,1,,,,Trumbull County commissioner; Niles City Council 16 yrs; open seat (Tsagaris not seeking re-election); endorsed.,0.96
+OH,Youngstown Vindicator,137250,2006,CNTY COMM,,,OH,"FRENCHKO, NIKI",Republican,0,,,,Trumbull County commissioner; opposed.,0.94
+OH,Youngstown Vindicator,137250,2006,COURT OF APPEALS,11,,OH,"TRAPP, MARY JANE",Democrat,1,,,,"11th District Court of Appeals (open seat, Judge Ford retiring); endorsed.",0.96
+OH,Youngstown Vindicator,137250,2006,COURT OF APPEALS,11,,OH,"BRICKNER, PAUL",Republican,0,,,,11th District Court of Appeals; retired US administrative judge; opposed.,0.94
+OH,Youngstown Vindicator,137250,2006,COURT OF APPEALS,11,,OH,"GRENDELL, DIANE V",Republican,1,,1,,11th District Court of Appeals; Republican incumbent seeking 2nd term; endorsed.,0.96
+OH,Youngstown Vindicator,137250,2006,COURT OF APPEALS,11,,OH,"HARRIS, THOMAS E",Democrat,0,,,,11th District Court of Appeals challenger; Conneaut Municipal Court judge; opposed.,0.94
+OH,Youngstown Vindicator,137250,2006,ATTORNEY GENERAL,,,OH,"DANN, MARC",Democrat,1,,,,Ohio Attorney General; state senator from Liberty Twp; led Coingate probe; endorsed.,0.97
+OH,Youngstown Vindicator,137250,2006,ATTORNEY GENERAL,,,OH,"MONTGOMERY, BETTY",Republican,0,,,,Ohio Attorney General; current state auditor and former AG; ties to Noe (Coingate); opposed.,0.95
+OH,Youngstown Vindicator,137250,2006,AUDITOR,,,OH,"TAYLOR, MARY",Republican,1,,,,"Ohio Auditor of State (open seat); state rep 43rd District, CPA; endorsed.",0.97
+OH,Youngstown Vindicator,137250,2006,AUDITOR,,,OH,"SYKES, BARBARA",Democrat,0,,,,Ohio Auditor of State; state rep 44th District; opposed.,0.95
+OH,Youngstown Vindicator,137250,2006,COURT OF APPEALS,7,,OH,"DEGENARO, MARY",Republican,1,,1,,7th District Court of Appeals (Mahoning/Columbiana etc); incumbent since 2000; endorsed for 2nd term.,0.95
+OH,Youngstown Vindicator,137250,2006,COURT OF APPEALS,7,,OH,"FRANKEN, TIMOTHY",Democrat,0,,,,7th District Court of Appeals; Mahoning chief assistant prosecutor; opposed.,0.94
+OH,Youngstown Vindicator,137250,2006,H,17,,OH,"RYAN, TIM",Democrat,1,1,,,US House 17th District; incumbent; endorsed.,0.97
+OH,Youngstown Vindicator,137250,2006,H,14,,OH,"LATOURETTE, STEVEN",Republican,1,,1,,US House 14th District; 12-year incumbent; endorsed.,0.97
+OH,Youngstown Vindicator,137250,2006,H,6,,OH,"WILSON, CHARLIE",Democrat,1,,,,"US House 6th District (open seat, Strickland running for governor); state senator from 30th District; endorsed.",0.96
+OH,Youngstown Vindicator,137250,2006,H,6,,OH,"BLASDEL, CHUCK",Republican,0,,,,"US House 6th District; state rep 1st District, speaker pro tem; opposed.",0.95
+OH,Youngstown Vindicator,137250,2006,GOVERNOR,,,OH,"STRICKLAND, TED",Democrat,1,,,,Ohio Governor; US Rep 6th District; endorsed as Valley's claim to fame.,0.97
+OH,Youngstown Vindicator,137250,2006,GOVERNOR,,,OH,"BLACKWELL, J KENNETH",Republican,0,,,,Ohio Governor; current secretary of state; opposed (resorted to 'gutter tactics').,0.96
+OH,Youngstown Vindicator,137250,2006,GOVERNOR,,,OH,"PEIRCE, BILL",Independent,0,,,,Independent (Libertarian) gubernatorial candidate; not endorsed.,0.9
+OH,Youngstown Vindicator,137250,2006,SENATOR,,,OH,"DEWINE, MIKE",Republican,1,,1,,US Senator; incumbent; endorsed despite reservations on Iraq war due to Mahoning Valley work.,0.96
+OH,Youngstown Vindicator,137250,2006,SENATOR,,,OH,"BROWN, SHERROD",Democrat,0,,,,US Senator; US House incumbent; opposed.,0.95
+OH,Youngstown Vindicator,137250,2006,SUPREME COURT,,,OH,"O'NEILL, WILLIAM",Democrat,1,,,,Ohio Supreme Court; 11th District appeals court judge; endorsed for balance.,0.96
+OH,Youngstown Vindicator,137250,2006,SUPREME COURT,,,OH,"O'DONNELL, TERRENCE",Republican,0,,1,,Ohio Supreme Court incumbent (Rocky River); opposed.,0.95
+OH,Youngstown Vindicator,137250,2006,SUPREME COURT,,,OH,"ESPY, BEN",Democrat,1,,,,"Ohio Supreme Court (open seat, Resnick retiring); former Columbus city council/state senator; endorsed.",0.96
+OH,Youngstown Vindicator,137250,2006,SUPREME COURT,,,OH,"CUPP, ROBERT",Republican,0,,,,Ohio Supreme Court (Resnick's open seat); 3rd District Court of Appeals judge; opposed (also qualified but Espy preferred for balance).,0.94
+OH,Youngstown Vindicator,137250,2008,JUDGE,Mahoning County Probate,,OH,"BELINKY, MARK A",Democrat,1,1,,,Appointed Dec 2007 by Gov Strickland to fill vacancy from Judge Maloney's retirement; won Democratic primary; Vindicator endorsed for full six-year term,0.95
+OH,Youngstown Vindicator,137250,2008,JUDGE,Mahoning County Probate,,OH,"HUNTER, SCOTT",Republican,0,,,,"Mahoning County Area Courts judge since 1999, former mayor/councilman in Canfield; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,1,,OH,"BOLON, LINDA",Democrat,1,1,,,Seeking second term; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,1,,OH,"HERGENROTHER, CAROLINE",Republican,0,,,,"Nursing home operator, first run for public office; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,STATE SENATOR,30,,OH,"WILSON, JASON",Democrat,1,1,,,Appointed to seat when father Charlie Wilson elected to Congress; seeking full term; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,STATE SENATOR,30,,OH,"GINTHER, TIM",Republican,0,,,,Did not attend Vindicator editorial board interview,0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,59,,OH,"GERBERRY, RONALD V",Democrat,1,1,,,20+ years in House and 6+ years as county recorder; education committee expertise; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,59,,OH,"MCCARTHY, DICK",Republican,0,,,,PricewaterhouseCoopers accounts executive from Boardman; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,60,,OH,"HAGAN, ROBERT F",Democrat,1,1,,,"Youngstown Democrat; 12 years in House, 9 in Senate; health care expert; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,60,,OH,"GORDON, TIMOTHY A JR",Republican,0,,,,Bar manager at South Bridge Billiards/The Cellar; did not accept Vindicator interview,0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,61,,OH,"OKEY, MARK",Democrat,1,1,,,"Carrollton Democrat, lawyer, completing first term; district includes small portion of Mahoning County; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,61,,OH,"SUSANY, KIRK",Republican,0,,,,Owns construction company; did not accept Vindicator interview,0.95
+OH,Youngstown Vindicator,137250,2008,RECORDER,Mahoning County,,OH,"PALERMO, NORALYNN",Democrat,1,1,,,"30+ years in office, appointed June 2007 by Mahoning Co Democratic Party; Vindicator endorsed for full four-year term",0.95
+OH,Youngstown Vindicator,137250,2008,RECORDER,Mahoning County,,OH,"GARR, JEANETTE",Republican,0,,,,Professor of chemical engineering at YSU; never run for public office before; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,65,,OH,"HARWOOD, SANDRA STABILE",Democrat,1,1,,,"Niles Democrat, attorney; conscientious legislator; last term due to term limits; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,65,,OH,"WADDELL, LYLE",Republican,0,,,,Newton Falls electrical contracting company owner; could not meet with editors,0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,65,,OH,"MCNEIL, TIMOTHY J",L,0,,,,Libertarian challenger from Mineral Ridge; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,64,,OH,"LETSON, TOM",Democrat,0,1,,,"Warren Democrat, attorney, seeking second term; Vindicator made NO endorsement in 64th District due to concerns about Letson's credibility regarding race comments",0.95
+OH,Youngstown Vindicator,137250,2008,STATE REP,64,,OH,"MONTGOMERY, THOMAS",Republican,0,,,,Cortland Republican; did not return questionnaire or schedule interview; Vindicator made NO endorsement in 64th District,0.95
+OH,Youngstown Vindicator,137250,2008,H,14,,OH,"LATOURETTE, STEVEN C",Republican,1,,1,,"Bainbridge Republican, seven terms in Congress; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,H,14,,OH,"O'NEILL, WILLIAM",Democrat,0,,,,Former 11th District Court of Appeals judge; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,H,17,,OH,"RYAN, TIM",Democrat,1,1,,,"Niles Democrat, close ally of House Speaker Nancy Pelosi; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,H,17,,OH,"GRASSELL, DUANE",Republican,0,,,,Mogadore Republican; unable to keep interview appointment,0.95
+OH,Youngstown Vindicator,137250,2008,H,6,,OH,"WILSON, CHARLIE",Democrat,1,1,,,"St. Clairsville Democrat, conservative Blue Dog; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,H,6,,OH,"STOBBS, RICHARD",Republican,0,,,,Splits time between Columbus and Belmont County; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,H,6,,OH,"SPISAK, DENNIS",G,0,,,,Struthers Green Party candidate; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,ATTORNEY GENERAL,Ohio,,OH,"CORDRAY, RICHARD",Democrat,1,,,,"State treasurer since 2006, former state legislator, Franklin County treasurer; running for unexpired 2-year term left by Marc Dann; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,ATTORNEY GENERAL,Ohio,,OH,"CRITES, MIKE",Republican,0,,,,Former U.S. attorney for Southern District of Ohio; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,ATTORNEY GENERAL,Ohio,,OH,"OWENS, ROBERT",Independent,0,,,,"Independent candidate, private practice attorney and Sunbury prosecutor; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Columbiana County,,OH,"HOPPEL, JIM",Republican,1,,1,,Completing third four-year term; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Columbiana County,,OH,"MYERS, BRENDA DICKEY",Democrat,0,,,,From Salem; did not respond to invitation from Vindicator editorial board,0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Columbiana County,,OH,"TRAINA, PENNY",Democrat,1,1,,,Appointed commissioner January 2007; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Columbiana County,,OH,"BURKE, BECKY",Republican,0,,,,Not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Columbiana County,,OH,"SHAFFER, GREGORY A",Independent,0,,,,Independent; did not come in for interview,0.95
+OH,Youngstown Vindicator,137250,2008,SHERIFF,Columbiana County,,OH,"STONE, RAYMOND",Republican,1,,1,,"Appointed sheriff effective Sept 10, 2008 after former sheriff David Smith's DUI resignation; former Perry Township police chief; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,SHERIFF,Columbiana County,,OH,"SOLDANO, JOHN",Democrat,0,,,,Leetonia police chief for 19 years; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Mahoning County,,OH,"TRAFICANTI, ANTHONY",Democrat,1,1,,,President of board of commissioners; completing first four-year term; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Mahoning County,,OH,"MCCARTY, CHRISTOPHER",Republican,0,,,,Did not respond to Vindicator editorial board invitation,0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Mahoning County,,OH,"MCNALLY, JOHN A IV",Democrat,1,1,,,Completing first four-year term; Vindicator endorsed with reservations regarding Oakhill Renaissance issue,0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Mahoning County,,OH,"LOTZE, LISA S",Republican,0,,,,Political newcomer; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,CNTY COMM,Mahoning County,,OH,"LORENZI, MAGGIE",Independent,0,,,,Independent; community activist and government watchdog; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,JUDGE,Mahoning County Common Pleas General Division,,OH,"SWEENEY, MAUREEN",Republican,1,,1,,Appointed July 2004 by Gov Bob Taft to fill Lisotto vacancy; established mental health court; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,JUDGE,Mahoning County Common Pleas General Division,,OH,"GERCHAK, DAVID",Democrat,0,,,,Previously ran for county recorder in 2000 and county court in 2004; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,PRESIDENT,,,OH,"OBAMA, BARACK",Democrat,1,,,,Vindicator endorsed; previously endorsed Bush in 2000 and 2004,0.95
+OH,Youngstown Vindicator,137250,2008,PRESIDENT,,,OH,"MCCAIN, JOHN",Republican,0,,,,Honored his military and Congressional service but not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,SUPREME COURT,Ohio,,OH,"STRATTON, EVELYN LUNDBERG",Republican,1,,1,,On court since 1996; nonpartisan general election but won Republican primary; mental health court advocate; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,SUPREME COURT,Ohio,,OH,"SIKORA, PETER",Democrat,0,,,,Cuyahoga County Common Pleas judge; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,SUPREME COURT,Ohio,,OH,"O'CONNOR, MAUREEN",Republican,1,,1,,"On court since 2003, former Taft lieutenant governor; nonpartisan general election but won Republican primary; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2008,SUPREME COURT,Ohio,,OH,"RUSSO, JOSEPH",Democrat,0,,,,Cuyahoga County Common Pleas judge; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2008,DA/PROSECUTOR,Mahoning County,,OH,"GAINS, PAUL",Democrat,1,1,,,Listed in Nov 3 recap as endorsed Mahoning County Prosecutor; no separate editorial available in this clippings set,0.95
+OH,Youngstown Vindicator,137250,2010,CNTY COMM,Trumbull County,,OH,"FUDA, FRANK",Democrat,1,1,,,Seeking second four-year term; former Niles city councilman and retired school teacher; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,CNTY COMM,Trumbull County,,OH,"ALLEN, MARK",Republican,0,,,,From West Farmington; did not accept Vindicator interview invitation,0.95
+OH,Youngstown Vindicator,137250,2010,AUDITOR,Mahoning County,,OH,"SCIORTINO, MICHAEL",Democrat,0,1,,,In office since September 2005; under indictment for criminal wrongdoing connected with Oakhill Renaissance purchase; Vindicator explicitly withheld endorsement,0.95
+OH,Youngstown Vindicator,137250,2010,AUDITOR,Mahoning County,,OH,"WINBUSH, TRACEY",Republican,0,,,,"Radio talk show host, owner of T-Win Media Group; no college degree; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,AUDITOR,Mahoning County,,OH,"MARKOVITCH, JOSEPH",Independent,0,,,,Independent; business degree from Adrian College; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,SEC OF STATE,Ohio,,OH,"HUSTED, JON",Republican,1,,,,State senator from Kettering; former two-time Ohio House speaker; succeeding incumbent Jennifer Brunner (D); Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,SEC OF STATE,Ohio,,OH,"O'SHAUGHNESSY, MARYELLEN",Democrat,0,,,,"Franklin County clerk of courts, former three-term Columbus City Council member; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,CNTY COMM,Mahoning County,,OH,"RIMEDIO-RIGHETTI, CAROL",Democrat,1,,,,Defeated three-term incumbent David Ludt in primary; former Youngstown Fourth Ward councilman for eight years; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,CNTY COMM,Mahoning County,,OH,"MANNING, DON",Republican,0,,,,Did not attend Vindicator endorsement interview,0.95
+OH,Youngstown Vindicator,137250,2010,ATTORNEY GENERAL,Ohio,,OH,"CORDRAY, RICHARD",Democrat,1,1,,,Won special election 2008 to fill Marc Dann unexpired term; rebuilt office after Dann scandal; Vindicator strongly endorsed for full term,0.95
+OH,Youngstown Vindicator,137250,2010,ATTORNEY GENERAL,Ohio,,OH,"DEWINE, MIKE",Republican,0,,,,"Former U.S. senator, former Ohio lieutenant governor; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,GOVERNOR,Ohio,,OH,"STRICKLAND, TED",Democrat,1,1,,,"Seeking re-election; balanced budgets, education reform, secured $7.8 billion stimulus; Vindicator endorsed without reservation",0.95
+OH,Youngstown Vindicator,137250,2010,GOVERNOR,Ohio,,OH,"KASICH, JOHN",Republican,0,,,,"Former member of Congress, former Lehman Brothers director; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,SUPREME COURT,Ohio Chief Justice,,OH,"O'CONNOR, MAUREEN",Republican,1,,1,,Justice since 2003; running for chief justice seat after Thomas Moyer's death; nonpartisan general election but won Republican primary; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,SUPREME COURT,Ohio Chief Justice,,OH,"BROWN, ERIC",Democrat,0,1,,,Appointed by Gov Strickland to fill Moyer's term; former Franklin County Probate Court judge; nonpartisan general election but won Democratic primary; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,SUPREME COURT,Ohio Justice,,OH,"LANZINGER, JUDITH ANN",Republican,1,,1,,Finishing first six-year term; former Lucas County Common Pleas judge and 6th District Court of Appeals; nonpartisan general election but won Republican primary; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,SUPREME COURT,Ohio Justice,,OH,"TRAPP, MARY JANE",Democrat,0,,,,"11th District Court of Appeals judge, former president of Ohio State Bar Association; nonpartisan general election but won Democratic primary; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,SENATOR,Ohio,,OH,"FISHER, LEE",Democrat,1,,,,"Current Ohio lieutenant governor, former Ohio attorney general; running for open seat (Voinovich retiring); Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,SENATOR,Ohio,,OH,"PORTMAN, ROB",Republican,0,,,,"Former congressman from Cincinnati, former U.S. trade representative and OMB director under George W. Bush; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,SENATOR,Ohio,,OH,"DEATON, ERIC W",Constitution,0,,,,Constitution Party; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,SENATOR,Ohio,,OH,"PRYCE, MICHAEL L",Independent,0,,,,Independent; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,SENATOR,Ohio,,OH,"LABOTZ, DANIEL H",Socialist,0,,,,Socialist Party; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,SENATOR,Ohio,,OH,"SULLIVAN, ARTHUR T",Independent,0,,,,Write-in candidate; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,TREASURER,Ohio,,OH,"BOYCE, KEVIN L",Democrat,1,1,,,Appointed by Gov Strickland in January 2009 when Cordray became AG; former Columbus city councilman; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,TREASURER,Ohio,,OH,"MANDEL, JOSH",Republican,0,,,,State representative from Lyndhurst; Vindicator criticized his bigoted campaign ad; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,H,17,,OH,"RYAN, TIM",Democrat,1,1,,,Niles Democrat; senior member of House Appropriations Committee; Vindicator endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,H,17,,OH,"GRAHAM, JIM",Republican,0,,,,"Cortland Republican, political novice; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,H,17,,OH,"TRAFICANT, JAMES A JR",Independent,0,,,,Independent; former congressman convicted of felonies and expelled from Congress; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,H,6,,OH,"WILSON, CHARLIE",Democrat,1,1,,,"67-year-old businessman from St. Clairsville, in second term; Blue Dog Democrat; Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,H,6,,OH,"JOHNSON, BILL",Republican,0,,,,"55-year-old from Poland, retired Air Force veteran, computer information officer for Warren company; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,H,6,,OH,"ELSASS, MARTIN J",L,0,,,,Libertarian from Columbiana; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,H,6,,OH,"CADLE, RICHARD E",Constitution,0,,,,Constitution Party from North Jackson; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,AUDITOR,Ohio,,OH,"PEPPER, DAVE",Democrat,1,,,,"Hamilton County commissioner; 39 years old; running to succeed Mary Taylor (R, running for Lt Gov); Vindicator endorsed",0.95
+OH,Youngstown Vindicator,137250,2010,AUDITOR,Ohio,,OH,"YOST, DAVE",Republican,0,,,,Delaware County prosecutor and former auditor; 53 years old; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2010,AUDITOR,Ohio,,OH,"HOWARD, L MICHAEL",L,0,,,,"Libertarian, only CPA in race; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2012,SENATOR,,,OH,"BROWN, SHERROD",Democrat,1,1,,,Incumbent seeking second six-year term; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,SENATOR,,,OH,"MANDEL, JOSH",Republican,0,,,,Ohio treasurer; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,STATE SENATOR,32,,OH,"CAFARO, CAPRI",Democrat,1,1,,,"Incumbent, 32nd Ohio Senate district; endorsed for re-election",0.95
+OH,Youngstown Vindicator,137250,2012,STATE SENATOR,32,,OH,"MCARTHUR, NANCY",Republican,0,,,,Chardon City Council member; challenger; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,CNTY COMM,,,OH,"POLIVKA, DAN",Democrat,1,1,,,Trumbull County Commissioner seeking third term; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,CNTY COMM,,,OH,"HULL, JOHN",Republican,0,,,,"Hubbard, former Youngstown police officer; challenger; not endorsed",0.95
+OH,Youngstown Vindicator,137250,2012,H,13,,OH,"RYAN, TIM",Democrat,1,1,,,Five-term incumbent in OH-13 (post-redistricting); endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,H,13,,OH,"AGANA, MARISHA",Republican,0,,,,Pediatrician from Warren; political newcomer; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,COURT OF APPEALS,7,,OH,"DEGENARO, MARY",Republican,1,,1,,7th District Court of Appeals incumbent seeking third term; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,COURT OF APPEALS,7,,OH,"HANNI, MARK A",Democrat,0,,,,Canfield attorney; deemed not qualified by bar; declined editorial board interview; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,STATE REP,59,,OH,"GERBERRY, RONALD V",Democrat,1,1,,,"Incumbent state rep, 59th Ohio House District; endorsed",0.95
+OH,Youngstown Vindicator,137250,2012,STATE REP,59,,OH,"POMA, KIMBERLY S",Republican,0,,,,Boardman school board member; challenger; not endorsed but praised,0.95
+OH,Youngstown Vindicator,137250,2012,STATE REP,63,,OH,"O'BRIEN, SEAN",Democrat,1,1,,,Incumbent from old 65th now running in redistricted 63rd Ohio House; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,STATE REP,63,,OH,"PARIDON, PAT",Republican,0,,,,Niles Republican challenger; did not seek endorsement; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,STATE REP,64,,OH,"LETSON, TOM",Democrat,1,1,,,"Democratic incumbent, 64th Ohio House; endorsed",0.95
+OH,Youngstown Vindicator,137250,2012,STATE REP,64,,OH,"LAW, RANDY",Republican,0,,,,Former state representative from Warren; challenger; did not schedule general election interview; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,CNTY COMM,,,OH,"DITZLER, DAVID",Democrat,1,,,,Mahoning County commissioner race; 18-year Austintown Township trustee; endorsed (seat being vacated by McNally),0.95
+OH,Youngstown Vindicator,137250,2012,CNTY COMM,,,OH,"MARKERT, HOWARD",G,0,,,,Green Party candidate for Mahoning commissioner; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,CNTY COMM,,,OH,"ROSSI, DAVID",Republican,0,,,,Republican; declined editorial board; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,CNTY COMM,,,OH,"GOLDNER, EDWARD L JR",Independent,0,,,,Independent; declined editorial board; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,JUDGE,,,OH,"PLATT, ROBERT M JR",Republican,1,,,,Trumbull County Eastern District Court judge race; Cortland attorney; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,JUDGE,,,OH,"RUDLOFF, RANDIL J",Democrat,0,,,,Cortland attorney; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,JUDGE,,,OH,"HUNTER, SCOTT D",,1,,,1,Mahoning County Court judge in Canfield; 13-year incumbent; nonpartisan; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,JUDGE,,,OH,"HANNI, HEIDI",,0,,,,Challenger; daughter of Don L Hanni Jr; deemed not qualified by bar; nonpartisan judicial; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,H,6,,OH,"WILSON, CHARLIE",Democrat,1,,,,Former congressman seeking to reclaim seat in OH-6; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,H,6,,OH,"JOHNSON, BILL",Republican,0,,1,,Incumbent congressman OH-6; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,JUDGE,,,OH,"JAMES, RICHARD L",,1,,,1,Trumbull County Domestic Juvenile Court judge; seeking fourth six-year term; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,JUDGE,,,OH,"HARWOOD, SANDRA STABILE",,0,,,,Former state legislator/attorney; challenger; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,SUPREME COURT,,,OH,"MCGEE BROWN, YVETTE",Democrat,1,1,,,Appointed incumbent; first African American woman on court; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,SUPREME COURT,,,OH,"KENNEDY, SHARON L",Republican,0,,,,Butler County judge; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,SUPREME COURT,,,OH,"O'DONNELL, TERRENCE",Republican,1,,1,,Incumbent justice seeking third term; endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,SUPREME COURT,,,OH,"SKINDELL, MIKE",Democrat,0,,,,Ohio Senate member; lacks judicial experience; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,SUPREME COURT,,,OH,"CUPP, ROBERT A",Republican,1,,1,,Incumbent justice; endorsed for re-election,0.95
+OH,Youngstown Vindicator,137250,2012,SUPREME COURT,,,OH,"O'NEILL, WILLIAM M",Democrat,0,,,,Former appellate judge and registered nurse; not endorsed in this race,0.95
+OH,Youngstown Vindicator,137250,2012,PRESIDENT,,,OH,"OBAMA, BARACK",Democrat,1,1,,,Endorsed for re-election,0.95
+OH,Youngstown Vindicator,137250,2012,PRESIDENT,,,OH,"ROMNEY, MITT",Republican,0,,,,Republican nominee; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2012,COURT OF APPEALS,11,,OH,"TRAPP, MARY JANE",Democrat,1,,,,Endorsement recap editorial; 11th District appellate court endorsement mentioned only here,0.8
+OH,Youngstown Vindicator,137250,2014,STATE REP,59,,OH,"GERBERRY, RONALD",Democrat,1,1,,,27-year incumbent state rep; endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,STATE REP,59,,OH,"MITCHELL, PAUL",Republican,0,,,,Canfield Republican challenger; did not attend editorial board; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,STATE REP,63,,OH,"O'BRIEN, SEAN",Democrat,1,1,,,Incumbent state rep 63rd; endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,STATE REP,63,,OH,"STANLEY, DEVON",Republican,0,,,,Republican challenger; did not meet with editorial board; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,STATE REP,64,,OH,"O'BRIEN, MICHAEL",Democrat,1,,,,"Former Trumbull commissioner, mayor of Warren, Warren councilman; endorsed",0.95
+OH,Youngstown Vindicator,137250,2014,STATE REP,64,,OH,"LAW, RANDY",Republican,0,,,,Served 64th District 2005-2006; not endorsed but praised,0.95
+OH,Youngstown Vindicator,137250,2014,STATE REP,58,,OH,"LEPORE-HAGAN, MICHELLE",Democrat,1,,,,Running unopposed in 58th State House District based in Youngstown; mentioned as endorsee,0.8
+OH,Youngstown Vindicator,137250,2014,CNTY COMM,,,OH,"FUDA, FRANK",Democrat,1,1,,,Trumbull County commissioner since 2007; endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,CNTY COMM,,,OH,"PARIDON, PATRICIA HALE",Republican,0,,,,Did not respond to editorial board invitation; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,CNTY COMM,,,OH,"CANTALAMESSA, MAURO",Democrat,1,1,,,Trumbull commissioner appointed to fill seat after Heltzel's death; endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,CNTY COMM,,,OH,"WILLIAMS, J.D.",Republican,0,,,,United Airlines pilot/Air Force reservist; Republican challenger; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,JUDGE,,,OH,"RUSU, ROBERT",Independent,1,,,1,Mahoning County Probate Judge appointed by Gov Kasich after Belinky resignation; running as independent; endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,JUDGE,,,OH,"MARUCA, SUSAN",Democrat,0,,,,Democratic nominee for Mahoning County Probate Judge; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,COURT OF APPEALS,11,,OH,"CANNON, TIMOTHY",Democrat,1,1,,,11th District Court of Appeals presiding/admin judge for 4 years; endorsed for 2/9/2015 term,0.95
+OH,Youngstown Vindicator,137250,2014,COURT OF APPEALS,11,,OH,"TAMBURRINO, RON",Republican,0,,,,Trumbull Township trustee/Sherwin Williams legal dept; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,COURT OF APPEALS,11,,OH,"RICE, CYNTHIA",Democrat,1,1,,,11th District incumbent judge; endorsed for 2/10 term,0.95
+OH,Youngstown Vindicator,137250,2014,COURT OF APPEALS,11,,OH,"WEAVER, GEOFFREY",Republican,0,,,,Kirtland attorney; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,COURT OF APPEALS,7,,OH,"ROBB, CAROL",Republican,1,,,,Columbiana County Municipal Court Judge; endorsed for 7th District Court of Appeals open seat (Vukovich retiring); term begins Feb 9,0.95
+OH,Youngstown Vindicator,137250,2014,COURT OF APPEALS,7,,OH,"DONOFRIO, ANTHONY",Democrat,0,,,,Youngstown deputy law director; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,COURT OF APPEALS,7,,OH,"WAITE, CHERYL",,1,,,1,"Incumbent unopposed in general election for 2/10 term; mention only, treated as endorsed",0.8
+OH,Youngstown Vindicator,137250,2014,AUDITOR,,,OH,"MEACHAM, RALPH T",Republican,1,,,,Mahoning County Auditor race; CPA challenger; endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,AUDITOR,,,OH,"SCIORTINO, MICHAEL V",Democrat,0,1,,,Mahoning County Auditor incumbent; under 16 state felony charges; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,H,13,,OH,"RYAN, TIM",Democrat,1,1,,,Sixth-term incumbent OH-13; endorsed for re-election,0.95
+OH,Youngstown Vindicator,137250,2014,H,13,,OH,"PEKAREK, THOMAS",Republican,0,,,,Cleveland; perennial candidate; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,H,6,,OH,"JOHNSON, BILL",Republican,1,,1,,Two-term incumbent OH-6; endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,H,6,,OH,"GARRISON, JENNIFER",Democrat,0,,,,Former Ohio state legislator; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,H,14,,OH,"JOYCE, DAVID",Republican,1,,1,,Russell Township incumbent OH-14; endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,H,14,,OH,"WAGER, MICHAEL",Democrat,0,,,,Moreland Hills progressive; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,ATTORNEY GENERAL,,,OH,"DEWINE, MIKE",Republican,1,,1,,Incumbent Ohio Attorney General; endorsed for second term,0.95
+OH,Youngstown Vindicator,137250,2014,ATTORNEY GENERAL,,,OH,"PEPPER, DAVID",Democrat,0,,,,Former Hamilton County commissioner; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,AUDITOR,,,OH,"YOST, DAVID",Republican,1,,1,,Ohio state auditor incumbent; endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,AUDITOR,,,OH,"CARNEY, JOHN PATRICK",Democrat,0,,,,Democratic challenger; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,SEC OF STATE,,,OH,"HUSTED, JON",Republican,1,,1,,Ohio Secretary of State incumbent; endorsed despite disagreements over voting access,0.95
+OH,Youngstown Vindicator,137250,2014,SEC OF STATE,,,OH,"TURNER, NINA",Democrat,0,,,,Democratic state senator; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,TREASURER,,,OH,"PILLICH, CONNIE",Democrat,1,,,,Suburban Cincinnati Democrat challenger; endorsed for Ohio treasurer,0.95
+OH,Youngstown Vindicator,137250,2014,TREASURER,,,OH,"MANDEL, JOSH",Republican,0,,1,,Incumbent Ohio treasurer; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,SUPREME COURT,,,OH,"FRENCH, JUDI",Republican,1,,1,,Appointed Justice in Jan 2013; endorsed for full term beginning Jan 2,0.95
+OH,Youngstown Vindicator,137250,2014,SUPREME COURT,,,OH,"O'DONNELL, JOHN",Democrat,0,,,,Cuyahoga Common Pleas judge for 10 years; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,SUPREME COURT,,,OH,"KENNEDY, SHARON",Republican,1,,1,,Butler County Justice; endorsed for full term beginning Jan 1,0.95
+OH,Youngstown Vindicator,137250,2014,SUPREME COURT,,,OH,"LETSON, TOM",Democrat,0,,,,Term-limited Warren state rep; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2014,GOVERNOR,,,OH,"KASICH, JOHN",Republican,1,,1,,Republican incumbent governor; endorsed for second term,0.95
+OH,Youngstown Vindicator,137250,2014,GOVERNOR,,,OH,"FITZGERALD, ED",Democrat,0,,,,Cuyahoga County executive; Democratic nominee; not endorsed,0.95
+OH,Youngstown Vindicator,137250,2016,CORONER,,,OH,"KENNEDY, DAVID",Democrat,1,1,,,"Mahoning County coroner, 22 years incumbent, endorsed for re-election",0.95
+OH,Youngstown Vindicator,137250,2016,CORONER,,,OH,"VARGO, JOHN",Republican,0,,,,"Mahoning County coroner challenger; declined Vindicator interview, ineligible for endorsement",0.95
+OH,Youngstown Vindicator,137250,2016,CNTY COMM,,,OH,"TRAFICANTI, ANTHONY",Democrat,1,1,,,"Mahoning County commissioner, seeking 4th term",0.95
+OH,Youngstown Vindicator,137250,2016,CNTY COMM,,,OH,"DITZLER, DAVID",Democrat,1,1,,,"Mahoning County commissioner, seeking 2nd term",0.95
+OH,Youngstown Vindicator,137250,2016,CNTY COMM,,,OH,"RUTUSHIN, ADAM",Republican,0,,,,Mahoning County commissioner challenger to Traficanti,0.95
+OH,Youngstown Vindicator,137250,2016,CNTY COMM,,,OH,"LEVENDIS, GEORGE",Republican,0,,,,Mahoning County commissioner challenger to Ditzler; Campbell City Council president,0.95
+OH,Youngstown Vindicator,137250,2016,JUDGE,,,OH,"CHRISTIAN, SHIRLEY",Republican,1,,1,,Mahoning County Court of Common Pleas; incumbent judge appointed by Gov. Kasich in 2014,0.95
+OH,Youngstown Vindicator,137250,2016,JUDGE,,,OH,"D'APOLITO, ANTHONY",Democrat,0,,,,Mahoning County Court of Common Pleas challenger; juvenile court magistrate,0.95
+OH,Youngstown Vindicator,137250,2016,SENATOR,,,OH,"PORTMAN, ROB",Republican,1,,1,,US Senate incumbent seeking 2nd term,0.95
+OH,Youngstown Vindicator,137250,2016,SENATOR,,,OH,"STRICKLAND, TED",Democrat,0,,,,Former Ohio governor 2007-2010; Democratic challenger,0.95
+OH,Youngstown Vindicator,137250,2016,SUPREME COURT,,,OH,"RICE, CYNTHIA",Democrat,1,,,,"Ohio Supreme Court Jan. 2, 2017 term; 11th District Court of Appeals presiding judge 14 years; OSBA highly recommended",0.95
+OH,Youngstown Vindicator,137250,2016,SUPREME COURT,,,OH,"DEWINE, PAT",Republican,0,,,,"Ohio Supreme Court Jan. 2, 2017 term challenger; 1st District Court of Appeals; son of Mike DeWine; OSBA not recommended",0.95
+OH,Youngstown Vindicator,137250,2016,SUPREME COURT,,,OH,"FISCHER, PATRICK",Republican,1,,,,"Ohio Supreme Court Jan. 1, 2017 term; 1st District Court of Appeals; OSBA highly recommended",0.95
+OH,Youngstown Vindicator,137250,2016,SUPREME COURT,,,OH,"O'DONNELL, JOHN",Democrat,0,,,,"Ohio Supreme Court Jan. 1, 2017 term; Cuyahoga County Common Pleas judge",0.95
+OH,Youngstown Vindicator,137250,2016,STATE SENATOR,32,,OH,"O'BRIEN, SEAN",Democrat,1,,,,Ohio Senate 32nd District; currently state rep 63rd House District; seat being vacated by Capri Cafaro,0.95
+OH,Youngstown Vindicator,137250,2016,STATE SENATOR,32,,OH,"ALLEN, ROBERT",Republican,0,,,,Ohio Senate 32nd District challenger; political novice; security officer at Kent State Geauga,0.95
+OH,Youngstown Vindicator,137250,2016,H,13,,OH,"RYAN, TIM",Democrat,1,1,,,US House OH-13; incumbent seeking 8th term,0.95
+OH,Youngstown Vindicator,137250,2016,H,13,,OH,"MORCKEL, RICHARD",Republican,0,,,,US House OH-13 challenger from Akron,0.95
+OH,Youngstown Vindicator,137250,2016,H,6,,OH,"JOHNSON, BILL",Republican,1,,1,,US House OH-6; incumbent seeking 4th term,0.95
+OH,Youngstown Vindicator,137250,2016,H,6,,OH,"LORENTZ, MICHAEL",Democrat,0,,,,US House OH-6 challenger from Belpre,0.95
+OH,Youngstown Vindicator,137250,2016,STATE REP,63,,OH,"HOLMES, GLENN",Democrat,1,,,,Ohio House 63rd District; McDonald mayor; open seat (Sean O'Brien running for state senate),0.95
+OH,Youngstown Vindicator,137250,2016,STATE REP,63,,OH,"STANLEY, DEVON",Republican,0,,,,Ohio House 63rd District challenger; attorney from Girard,0.95
+OH,Youngstown Vindicator,137250,2016,STATE REP,64,,OH,"O'BRIEN, MICHAEL",Democrat,1,1,,,"Ohio House 64th District incumbent (one term); former Warren councilman, mayor, Trumbull County commissioner",0.95
+OH,Youngstown Vindicator,137250,2016,STATE REP,64,,OH,"YODER, MARTHA",Republican,0,,,,Ohio House 64th District challenger; Farmington Township trustee,0.95
+OH,Youngstown Vindicator,137250,2016,STATE REP,59,,OH,"BOCCIERI, JOHN",Democrat,1,1,,,"Ohio House 59th District incumbent; former congressman, state senator",0.95
+OH,Youngstown Vindicator,137250,2016,STATE REP,59,,OH,"MANNING, DON",Republican,0,,,,Ohio House 59th District challenger,0.95
+OH,Youngstown Vindicator,137250,2016,STATE REP,58,,OH,"SANDERSON, CORRINE",Republican,1,,,,Ohio House 58th District challenger; Youngstown city school board member; supports Youngstown Plan (HB 70),0.95
+OH,Youngstown Vindicator,137250,2016,STATE REP,58,,OH,"LEPORE-HAGAN, MICHELE",Democrat,0,1,,,Ohio House 58th District incumbent; opposed by Vindicator over Youngstown Plan stance,0.95
+OH,Youngstown Vindicator,137250,2016,STATE REP,58,,OH,"MAHONE, ANDREA",Independent,0,,,,Ohio House 58th District; independent candidate,0.95
+OH,Youngstown Vindicator,137250,2016,CNTY COMM,,,OH,"CANTALAMESSA, MAURO",Democrat,1,1,,,Trumbull County commissioner Jan. 2 term; appointed 2014 after death of Paul Heltzel; Howland restaurateur,0.95
+OH,Youngstown Vindicator,137250,2016,CNTY COMM,,,OH,"PRIESTER, JIM",Republican,0,,,,Trumbull County commissioner Jan. 2 term challenger; declined Vindicator interview,0.95
+OH,Youngstown Vindicator,137250,2016,CNTY COMM,,,OH,"POLIVKA, DANIEL",Democrat,1,1,,,Trumbull County commissioner Jan. 3 term incumbent; endorsement with reservations over nepotism allegations,0.95
+OH,Youngstown Vindicator,137250,2016,CNTY COMM,,,OH,"WILLIAMS, MARY",Republican,0,,,,Trumbull County commissioner Jan. 3 term challenger; Lakeview Local Schools board member,0.95
+OH,Youngstown Vindicator,137250,2016,CNTY COMM,,,OH,"JOHNSON, TODD",Independent,0,,,,Trumbull County commissioner Jan. 3 term; write-in candidate; Vindicator does not endorse write-ins,0.95
+OH,Youngstown Vindicator,137250,2016,PRESIDENT,,,OH,"CLINTON, HILLARY",Democrat,1,,,,Endorsed 'with much apprehension'; major concerns about character noted,0.95
+OH,Youngstown Vindicator,137250,2016,PRESIDENT,,,OH,"TRUMP, DONALD J",Republican,0,,,,Republican nominee; deemed unqualified by editorial board,0.95
+OH,Youngstown Vindicator,137250,2016,TREASURER,,,OH,"OLIVER, CHRISTINE LUCARELL",Republican,1,,,,"Mahoning County treasurer; licensed insurance agent, 25 years in banking",0.95
+OH,Youngstown Vindicator,137250,2016,TREASURER,,,OH,"YEMMA, DANIEL",Democrat,0,1,,,Mahoning County treasurer incumbent; denied endorsement over inappropriate email controversy,0.95
+OH,Youngstown Vindicator,137250,2018,H,13,,OH,"RYAN, TIM",Democrat,1,1,,,US House OH-13 incumbent seeking 9th term,0.95
+OH,Youngstown Vindicator,137250,2018,H,13,,OH,"DEPIZZO, CHRIS",Republican,0,,,,US House OH-13 challenger; Valley native living in Cuyahoga Falls,0.95
+OH,Youngstown Vindicator,137250,2018,H,6,,OH,"JOHNSON, BILL",Republican,1,,1,,US House OH-6 incumbent seeking 5th term,0.95
+OH,Youngstown Vindicator,137250,2018,H,6,,OH,"ROBERTS, SHAWNA",Democrat,0,,,,US House OH-6 challenger from Belmont,0.95
+OH,Youngstown Vindicator,137250,2018,CNTY COMM,,,OH,"FUDA, FRANK",Democrat,1,1,,,Trumbull County commissioner; 11-year incumbent; from Niles,0.95
+OH,Youngstown Vindicator,137250,2018,CNTY COMM,,,OH,"WILLIAMS, MARY",Republican,0,,,,Trumbull County commissioner challenger; Lakeview Local Schools and Trumbull Career Tech Center board member,0.95
+OH,Youngstown Vindicator,137250,2018,CNTY COMM,,,OH,"FRENCHKO, NIKI",Independent,0,,,,"Trumbull County commissioner; Independent; did not meet with editorial board, disqualified from endorsement",0.95
+OH,Youngstown Vindicator,137250,2018,STATE REP,63,,OH,"HOLMES, GLENN",Democrat,1,1,,,Ohio House 63rd District incumbent completing 1st term,0.95
+OH,Youngstown Vindicator,137250,2018,STATE REP,63,,OH,"HUGHES, JAMES",Republican,0,,,,"Ohio House 63rd District challenger; bank manager from Cortland; did not meet editorial board, ineligible for endorsement",0.95
+OH,Youngstown Vindicator,137250,2018,STATE REP,64,,OH,"O'BRIEN, MICHAEL",Democrat,1,1,,,Ohio House 64th District incumbent; 4 decades of public service,0.95
+OH,Youngstown Vindicator,137250,2018,STATE REP,64,,OH,"YODER, MARTHA",Republican,0,,,,Ohio House 64th District challenger; former Farmington Township trustee,0.95
+OH,Youngstown Vindicator,137250,2018,CNTY COMM,,,OH,"RIMEDIO-RIGHETTI, CAROL",Democrat,0,1,,,Mahoning County commissioner incumbent; no endorsement due to her support of convicted former mayor John McNally,0.95
+OH,Youngstown Vindicator,137250,2018,CNTY COMM,,,OH,"BARRON, RICHARD",Republican,0,,,,Mahoning County commissioner challenger; self-employed bricklayer; not endorsed; did not study county budget,0.95
+OH,Youngstown Vindicator,137250,2018,SENATOR,,,OH,"BROWN, SHERROD",Democrat,1,1,,,US Senate incumbent seeking 3rd term; endorsed without reservation,0.95
+OH,Youngstown Vindicator,137250,2018,SENATOR,,,OH,"RENACCI, JAMES",Republican,0,,,,US House OH-16 incumbent; criticized for attacks on Brown's divorce,0.95
+OH,Youngstown Vindicator,137250,2018,STATE REP,58,,OH,"LEPORE-HAGAN, MICHELE",Democrat,1,1,,,Ohio House 58th District incumbent (4 years),0.95
+OH,Youngstown Vindicator,137250,2018,STATE REP,58,,OH,"SIMON, DAVID",Republican,0,,,,Ohio House 58th District challenger; president of Smart Environmental Engineering,0.95
+OH,Youngstown Vindicator,137250,2018,STATE REP,59,,OH,"UNGARO, ERIC",Democrat,1,,,,Ohio House 59th District open seat (Boccieri running for state senate); Poland Township trustee; 28 years in education,0.95
+OH,Youngstown Vindicator,137250,2018,STATE REP,59,,OH,"MANNING, DON",Republican,0,,,,Ohio House 59th District challenger; New Middletown Village councilman; 2nd time running,0.95
+OH,Youngstown Vindicator,137250,2018,JUDGE,,,OH,"MORGAN, J P",,1,,,,Mahoning County Area Court judge; nonpartisan/judicial race; practicing attorney 17 years,0.95
+OH,Youngstown Vindicator,137250,2018,JUDGE,,,OH,"DOUGLASS, A ROSS",,0,,,,Mahoning County Area Court judge candidate,0.95
+OH,Youngstown Vindicator,137250,2018,JUDGE,,,OH,"GAMBREL, MATT",,0,,,,Mahoning County Area Court judge candidate,0.95
+OH,Youngstown Vindicator,137250,2018,JUDGE,,,OH,"MCNABB WELSH, KATHI",,0,,,,Mahoning County Area Court judge candidate,0.95
+OH,Youngstown Vindicator,137250,2018,JUDGE,,,OH,"JOHNSON, MOLLY",,0,,,,Mahoning County Area Court judge; from Canfield; did not participate in editorial board interview; not considered,0.95
+OH,Youngstown Vindicator,137250,2018,JUDGE,,,OH,"SAMMARONE, CHRISTOPHER",,0,,,,Mahoning County Area Court judge; disqualified for refusing to discuss 2014 meeting with father (former mayor under criminal indictment),0.95
+OH,Youngstown Vindicator,137250,2018,ATTORNEY GENERAL,,,OH,"YOST, DAVE",Republican,1,,,,"Ohio Attorney General; current state auditor; credited for going after Mahoning Valley public corruption (Infante, Bozanich, Sammarone, Marchionda)",0.95
+OH,Youngstown Vindicator,137250,2018,ATTORNEY GENERAL,,,OH,"DETTELBACH, STEVE",Democrat,0,,,,Ohio AG challenger; former US Attorney for Northern District of Ohio,0.95
+OH,Youngstown Vindicator,137250,2018,SUPREME COURT,,,OH,"DONNELLY, MICHAEL",Democrat,1,,,,Ohio Supreme Court Jan. 1 term; Cuyahoga County Common Pleas judge 13 years,0.95
+OH,Youngstown Vindicator,137250,2018,SUPREME COURT,,,OH,"BALDWIN, CRAIG",Republican,0,,,,Ohio Supreme Court Jan. 1 term; 5th District Court of Appeals 5 years; from Newark,0.95
+OH,Youngstown Vindicator,137250,2018,SUPREME COURT,,,OH,"DEGENARO, MARY",Republican,1,,1,,Ohio Supreme Court Jan. 2 term; appointed earlier in 2018; Poland native; 7th District Court of Appeals 17 years,0.95
+OH,Youngstown Vindicator,137250,2018,SUPREME COURT,,,OH,"STEWART, MELODY",Democrat,0,,,,Ohio Supreme Court Jan. 2 term; 8th District Court of Appeals 12 years,0.95
+OH,Youngstown Vindicator,137250,2018,GOVERNOR,,,OH,"CORDRAY, RICHARD",Democrat,1,,,,Ohio governor; former CFPB director; supports Medicaid expansion and ACA,0.95
+OH,Youngstown Vindicator,137250,2018,GOVERNOR,,,OH,"DEWINE, MIKE",Republican,0,,,,Ohio governor; current Ohio Attorney General; criticized for not charging Cafaro and for supporting Trump,0.95
+OH,Youngstown Vindicator,137250,2018,COURT OF APPEALS,7,,OH,"D'APOLITO, DAVID",,1,,,,7th District Court of Appeals Judge; recap (first mention in this recap clipping),0.95
+OH,Youngstown Vindicator,137250,2022,STATE REP,59,,OH,"MCNALLY, LAUREN",Democrat,,,,,From editorials index headline 'Ungaro gets statehouse seat nod' - one of three candidates for new 59th Statehouse; from Youngstown; full article body not visible in clipping,0.6
+OH,Youngstown Vindicator,137250,2022,STATE REP,59,,OH,"BEIGHT, GREG",Independent,,,,,Nonparty candidate from New Springfield; full article body not visible,0.6
+OH,Youngstown Vindicator,137250,2022,STATE REP,59,,OH,"UNGARO, ERIC",,1,,,,Headline 'Ungaro gets statehouse seat nod' - endorsed for 59th Statehouse seat; full article body not visible in clipping (only editorials index visible),0.8
+OH,Youngstown Vindicator,137250,2022,H,,,OH,"MAJEWSKI, J R",Republican,0,,,,Headline 'Majewski's lies should not be tolerated' (Oct 10 2022 editorial) - Republican Ohio congressional candidate criticized for dishonesty about military service,0.8
+OH,Youngstown Vindicator,137250,2022,H,13,,OH,"RYAN, TIM",Democrat,1,1,,,Recap list - US Congress 13th District,0.95
+OH,Youngstown Vindicator,137250,2022,H,6,,OH,"JOHNSON, BILL",Republican,1,,1,,Recap list - US Congress 6th District,0.95
+OH,Youngstown Vindicator,137250,2022,STATE SENATOR,32,,OH,"O'BRIEN, SEAN",Democrat,1,,,,Recap list - Ohio State Senate 32nd District,0.95
+OH,Youngstown Vindicator,137250,2022,STATE REP,63,,OH,"BLAIR, GIL",Democrat,1,,,,Recap list - Ohio State Rep 63rd District,0.95
+OH,Youngstown Vindicator,137250,2022,STATE REP,58,,OH,"LEPORE-HAGAN, MICHELE",Democrat,1,1,,,Recap list - Ohio State Rep 58th District,0.95
+OH,Youngstown Vindicator,137250,2022,STATE REP,59,,OH,"STANLEY, CHRIS",,1,,,,Recap list - Ohio State Rep 59th District - note this conflicts with Oct 11 'Ungaro gets nod' headline; possibly different race/district or recap reflects updated endorsement,0.8
+OH,Youngstown Vindicator,137250,2022,CNTY COMM,,,OH,"TRAFICANTI, ANTHONY",Democrat,1,,,,Mahoning County Commissioner 1/2/21 term - recap list,0.95
+OH,Youngstown Vindicator,137250,2022,CNTY COMM,,,OH,"DITZLER, DAVID",Democrat,1,,,,Mahoning County Commissioner 1/3/21 term - recap list,0.95
+OH,Youngstown Vindicator,137250,2022,DA/PROSECUTOR,,,OH,"GAINS, PAUL",Democrat,1,1,,,Mahoning County Prosecutor - recap list,0.95

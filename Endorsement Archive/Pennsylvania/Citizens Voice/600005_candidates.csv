@@ -1,0 +1,99 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+PA,Citizens Voice,600005,1984,PRESIDENT,,,PA,"MONDALE, WALTER F.",Democrat,1,,,,"Editorial 'Consider Endorsement, Make Your Decision, Vote' endorses Mondale; opposes decline of middle class, wants to cut deficits, supports arms limitation, strong defense, benefits NEPA",0.98
+PA,Citizens Voice,600005,1984,PRESIDENT,,,PA,"REAGAN, RONALD",Republican,0,,1,,"Editorial opposes Reagan; criticizes his policies on pensions, Black Lung, Social Security, public education, college access",0.97
+PA,Citizens Voice,600005,1990,GOVERNOR,,,PA,"CASEY, ROBERT P.",Democrat,1,1,,,"Editorial 'Governor's race: Casey deserves a second term'; hard-working governor; cut auto insurance, PennVest, sewer funding, Wyoming Valley improvements, Mountaintop interchange, Harveys Lake stadium",0.98
+PA,Citizens Voice,600005,1990,GOVERNOR,,,PA,"HAFER, BARBARA",Republican,0,,,,Challenger; State Auditor General; former Allegheny County commissioner; campaign has fallen short and become negative,0.95
+PA,Citizens Voice,600005,1990,STATE REP,120,,PA,"MUNDY, PHYLLIS",Democrat,1,,,,120th PA Legislative District (West Side/Back Mountain); challenger; business manager/inspector at Holding Corp.; League of Women Voters former president; B.S. Bloomsburg,0.97
+PA,Citizens Voice,600005,1990,STATE REP,120,,PA,"DIETTERICK, SCOTT",Republican,0,,1,,"Incumbent in 120th; Editorial Board cites troubles with current officeholder (insurance fraud charges/conviction issues), would not be seated even if reelected; opposed",0.93
+PA,Citizens Voice,600005,1992,PRESIDENT,,,PA,"CLINTON, BILL",Democrat,1,,,,Recap editorial 'These are candidates we believe would best serve this area',0.98
+PA,Citizens Voice,600005,1992,VICE PRESIDENT,,,PA,"GORE, AL",Democrat,1,,,,Recap editorial endorsement,0.98
+PA,Citizens Voice,600005,1992,SENATOR,,,PA,"YEAKEL, LYNN",Democrat,1,,,,U.S. Senator from Pennsylvania endorsement,0.97
+PA,Citizens Voice,600005,1992,H,11,,PA,"KANJORSKI, PAUL",Democrat,1,1,,,U.S. Congressman from 11th District,0.97
+PA,Citizens Voice,600005,1992,ATTORNEY GENERAL,,,PA,"PREATE, ERNIE",Republican,1,,1,,Attorney General of Pennsylvania endorsement,0.95
+PA,Citizens Voice,600005,1992,AUDITOR,,,PA,"HAFER, BARBARA",Republican,1,,,,Auditor General of Pennsylvania endorsement,0.95
+PA,Citizens Voice,600005,1992,TREASURER,,,PA,"KNOLL, CATHERINE BAKER",Democrat,1,,,,Treasurer of Pennsylvania endorsement,0.95
+PA,Citizens Voice,600005,1992,STATE REP,,,PA,"MUNDY, PHYLLIS",Democrat,1,,,,Back Mountain/West Side (120th district),0.95
+PA,Citizens Voice,600005,1992,STATE REP,,,PA,"HASAY, GEORGE",Republican,1,1,1,,Mountaintop/Shickshinny area,0.92
+PA,Citizens Voice,600005,1992,STATE REP,,,PA,"BLAUM, KEVIN",Democrat,1,1,,,Wilkes-Barre area,0.95
+PA,Citizens Voice,600005,1992,STATE REP,,,PA,"JAROLIN, STANLEY",Democrat,1,1,,,Nanticoke area,0.95
+PA,Citizens Voice,600005,1992,STATE REP,,,PA,"TIGUE, TOM",Democrat,1,1,,,Pittston area,0.95
+PA,Citizens Voice,600005,1994,SENATOR,,,PA,"WOFFORD, HARRIS",Democrat,1,1,,,U.S. Senator from Pennsylvania; 'thoughtful and caring man'; Northeastern Pennsylvania tradition,0.97
+PA,Citizens Voice,600005,1994,GOVERNOR,,,PA,"SINGEL, MARK",Democrat,1,,,,"Governor of Pennsylvania; served as interim governor during Casey's illness; jobs creation, property tax reform, education reform, welfare reform",0.97
+PA,Citizens Voice,600005,1994,LT GOVERNOR,,,PA,"FOLEY, TOM",Democrat,1,,,,Lt. Governor running mate; 'rousing mate'; served successful term as secretary of labor,0.93
+PA,Citizens Voice,600005,1994,STATE SENATOR,,,PA,"MUSTO, RAPHAEL",Democrat,1,1,,,"PA State Senate; consumer-oriented positions, fights environmental abuse, on side of the public",0.97
+PA,Citizens Voice,600005,1994,H,11,,PA,"KANJORSKI, PAUL",Democrat,1,1,,,"U.S. Congress from this district; saving Social Security center, bringing federal share of flood funding for the Susquehanna, responds to local residents' calls",0.97
+PA,Citizens Voice,600005,1996,PRESIDENT,,,PA,"CLINTON, BILL",Democrat,1,1,,,Recap editorial 'Numerous clear choices',0.98
+PA,Citizens Voice,600005,1996,H,11,,PA,"KANJORSKI, PAUL",Democrat,1,1,,,United States Congress,0.97
+PA,Citizens Voice,600005,1996,ATTORNEY GENERAL,,,PA,"KOHN, JOE",Democrat,1,,,,Attorney General of Pennsylvania,0.95
+PA,Citizens Voice,600005,1996,STATE REP,,,PA,"EACHUS, TODD",Democrat,1,,,,"PA House of Representatives, Hazleton Area",0.93
+PA,Citizens Voice,600005,1996,STATE REP,120,,PA,"MUNDY, PHYLLIS",Democrat,1,1,,,"PA House of Representatives, West Side and Back Mountain (120th District)",0.97
+PA,Citizens Voice,600005,1998,GOVERNOR,,,PA,"RIDGE, TOM",Republican,0,,1,,"'For governor, no endorsement'; editorial declines to endorse Ridge; cites image issues and willingness to work on behalf of business and on traditional issues such as crime prevention; first term has been left mixed by uncompromisable initiatives (state police crime lab; vehicle registration fees while state has $1.5 billion surplus)",0.93
+PA,Citizens Voice,600005,1998,GOVERNOR,,,PA,"LLOYD, IVAN ITKIN",Democrat,0,,,,"'For governor, no endorsement'; long-time member of House of Representatives; positions on issues more positive (progressive, environmental, educational); however election has been taken up with challenge of running with few resources and little funding; would be inclined to make him the choice but issues remain",0.78
+PA,Citizens Voice,600005,1998,GOVERNOR,,,PA,"LUKSIK, PEG",Independent,0,,,,Constitutional party candidate; has not put together a wide-ranging enough platform; no endorsement,0.88
+PA,Citizens Voice,600005,1998,STATE REP,117,,PA,"HASAY, GEORGE",Republican,1,,1,,'Two fine choices in 117th District'; incumbent has a steady presence in Harrisburg and on area's behalf; open-minded leader with interest of the community genuinely at heart; weighs incumbency as a virtue; final endorsement for Hasay,0.92
+PA,Citizens Voice,600005,1998,STATE REP,117,,PA,"CONYNGHAM, WILL",Democrat,0,,,,"Challenger in 117th; one of the most promising political newcomers; complete grasp of the issues; well-spoken, intelligent; not endorsed but called a 'fine choice'",0.85
+PA,Citizens Voice,600005,2000,SENATOR,,,PA,"KLINK, RON",Democrat,1,,,,"'Senator's actions should match words, Ron Klink's would'; supports Patients' Bill of Rights, stronger trade laws on behalf of American workers, fair reimbursement for hospitals, Social Security reform, keeping seniors out of poverty",0.97
+PA,Citizens Voice,600005,2000,SENATOR,,,PA,"SANTORUM, RICK",Republican,0,,1,,Incumbent; almost eerie disconnect between his record and what he says/does; voted to put off flood relief package; helped pass Tobyhanna closing; large numbers of NEPA farmers publicly stated they will not vote for him,0.95
+PA,Citizens Voice,600005,2002,GOVERNOR,,,PA,"RENDELL, ED",Democrat,1,,,,"'Rendell for governor'; gives better answers on property tax reform, appointing members of boards and commissions, economic development; would deliver enthusiastic action",0.98
+PA,Citizens Voice,600005,2002,H,11,,PA,"KANJORSKI, PAUL",Democrat,1,1,,,'Kanjorski for Congress'; seniority of immense value; party wins control of House; reduced Susquehanna's flood threat; supports Social Security and prescription drug programs; reclamation efforts,0.97
+PA,Citizens Voice,600005,2002,STATE SENATOR,,,PA,"LEMMOND, CHARLES",Republican,1,1,1,,"'Lemmond for Pennsylvania Senate'; on three issues during this term has excelled; has rose above party politics; 11th senatorial district; advocated open records law in Pennsylvania, gave public greater access; Back Mountain Recreational Complex",0.94
+PA,Citizens Voice,600005,2002,STATE REP,120,,PA,"MUNDY, PHYLLIS",Democrat,1,1,,,"'Mundy for House of Representatives'; on every important issue facing this area, Mundy takes stands; stands in the public interest; leads the Northeastern Delegation, giving clout to this area in the legislature",0.97
+PA,Citizens Voice,600005,2004,PRESIDENT,,,PA,"KERRY, JOHN",Democrat,1,,,,'Election 2004 Endorsements' recap; Kerry has taken us in the wrong direction on many fronts; we believe Kerry is the best candidate; Luzerne County residents have lost good jobs/health care benefits/respect; Kerry will help re-establish our relationships with other world leaders,0.96
+PA,Citizens Voice,600005,2004,PRESIDENT,,,PA,"BUSH, GEORGE W.",Republican,0,,1,,"Incumbent; editorial criticizes administration on jobs, health care, deficits and basic respect for working-class families",0.94
+PA,Citizens Voice,600005,2004,SENATOR,,,PA,"SPECTER, ARLEN",Republican,1,,1,,U.S. Senate; has endured tough times; experienced; impressive record/program of clout on Capitol Hill; beneficial to local 'severed' veterans' efforts,0.9
+PA,Citizens Voice,600005,2004,H,11,,PA,"KANJORSKI, PAUL",Democrat,1,1,,,11th Congressional district; Kanjorski and Sen. Specter make a solid team representing the region; veteran with seniority and clout,0.92
+PA,Citizens Voice,600005,2004,ATTORNEY GENERAL,,,PA,"EACHUS, JIM",Democrat,1,,,,Pennsylvania attorney general endorsement; has demonstrated record of public service; would make good attorney general,0.78
+PA,Citizens Voice,600005,2004,STATE SENATOR,,,PA,"LEMMOND, CHARLES",Republican,1,1,1,,State Senate; respected by independents from the state legislature; responsible for drafting/passing key legislation,0.85
+PA,Citizens Voice,600005,2004,STATE REP,,,PA,"MUNDY, PHYLLIS",Democrat,1,1,,,PA House of Representatives endorsement among slate of Luzerne County incumbents,0.85
+PA,Citizens Voice,600005,2004,STATE REP,,,PA,"BELARDI, JOHN",Democrat,1,,,,PA House endorsement listed among slate of state representatives,0.7
+PA,Citizens Voice,600005,2004,STATE REP,,,PA,"EACHUS, TODD",Democrat,1,1,,,PA House endorsement; Hazleton area,0.75
+PA,Citizens Voice,600005,2004,STATE REP,,,PA,"TIGUE, TOM",Democrat,1,1,,,PA House endorsement; Pittston area,0.75
+PA,Citizens Voice,600005,2004,STATE REP,121,,PA,"STABACK, PHYLLIS",Democrat,1,1,,,"PA House endorsement; recap reads Mundy, Belardi, Eachus, Tigue, Staback among incumbents",0.7
+PA,Citizens Voice,600005,2004,STATE REP,119,,PA,"STAIRS, JOHN",Republican,1,,1,,Recap state house endorsements; one of seated incumbents in Luzerne County delegation noted as endorsed,0.5
+PA,Citizens Voice,600005,2006,GOVERNOR,,,PA,"RENDELL, ED",Democrat,1,1,,,Recap endorsement for Governor of Pennsylvania; incumbent seeking re-election,0.98
+PA,Citizens Voice,600005,2006,SENATOR,,,PA,"CASEY, BOB",Democrat,1,,,,Endorsed for U.S. Senate against Rick Santorum,0.98
+PA,Citizens Voice,600005,2006,H,10,,PA,"CARNEY, CHRIS",Democrat,1,,,,Endorsed for U.S. Congress 10th District; race against Don Sherwood,0.98
+PA,Citizens Voice,600005,2006,H,11,,PA,"KANJORSKI, PAUL",Democrat,1,1,,,Endorsed for U.S. Congress 11th District; incumbent,0.98
+PA,Citizens Voice,600005,2006,STATE SENATOR,,,PA,"BAKER, LISA",Republican,1,,,,Endorsed for Pennsylvania Senate,0.95
+PA,Citizens Voice,600005,2006,STATE REP,117,,PA,"BOBACK, KAREN",Republican,1,,,,Endorsed for Pennsylvania House 117th District,0.95
+PA,Citizens Voice,600005,2006,STATE REP,118,,PA,"CARROLL, MIKE",Democrat,1,,,,Endorsed jointly with Maureen Tatu (dual endorsement) for PA House 118th District,0.9
+PA,Citizens Voice,600005,2006,STATE REP,118,,PA,"TATU, MAUREEN",Republican,1,,,,Endorsed jointly with Mike Carroll (dual endorsement) for PA House 118th District,0.9
+PA,Citizens Voice,600005,2006,STATE REP,119,,PA,"YUDICHAK, JOHN",Democrat,1,,,,Endorsed for Pennsylvania House 119th District,0.95
+PA,Citizens Voice,600005,2006,STATE REP,120,,PA,"MUNDY, PHYLLIS",Democrat,1,1,,,Endorsed for Pennsylvania House 120th District; incumbent,0.95
+PA,Citizens Voice,600005,2006,STATE REP,121,,PA,"PASHINSKI, ED",Democrat,1,,,,Endorsed for Pennsylvania House 121st District,0.95
+PA,Citizens Voice,600005,2008,PRESIDENT,,,PA,"OBAMA, BARACK",Democrat,1,,,,Editorial endorsement: Obama for President over John McCain,0.98
+PA,Citizens Voice,600005,2008,H,11,,PA,"KANJORSKI, PAUL",Democrat,1,1,,,Endorsed for U.S. Congress 11th District; incumbent against Lou Barletta,0.97
+PA,Citizens Voice,600005,2008,H,10,,PA,"CARNEY, CHRIS",Democrat,1,1,,,Endorsed for U.S. Congress 10th District; incumbent,0.97
+PA,Citizens Voice,600005,2012,PRESIDENT,,,PA,"OBAMA, BARACK",Democrat,1,1,,,"Editorial 'Barack Obama, still the better choice'; incumbent endorsed against Mitt Romney",0.98
+PA,Citizens Voice,600005,2012,PRESIDENT,,,PA,"ROMNEY, MITT",Republican,0,,,,Opposed; described as 'a candidate who has refashioned his positions again and again to fit the demands of the audience at hand and his own ambitions',0.9
+PA,Citizens Voice,600005,2014,GOVERNOR,,,PA,"WOLF, TOM",Democrat,1,,,,Endorsed for Governor over incumbent Republican Tom Corbett,0.98
+PA,Citizens Voice,600005,2014,H,17,,PA,"CARTWRIGHT, MATT",Democrat,1,1,,,Endorsed for Congress 17th District; incumbent,0.97
+PA,Citizens Voice,600005,2014,H,11,,PA,"BARLETTA, LOU",Republican,1,1,,,Endorsed for Congress 11th District; incumbent,0.97
+PA,Citizens Voice,600005,2014,STATE REP,120,,PA,"CIPRIANI, EILEEN",Democrat,1,,,,Endorsed for state House 120th District,0.95
+PA,Citizens Voice,600005,2014,STATE REP,117,,PA,"BOBACK, KAREN",Republican,1,,1,,Endorsed for state House 117th District; incumbent,0.95
+PA,Citizens Voice,600005,2014,STATE REP,121,,PA,"PASHINSKI, EDDIE DAY",Democrat,1,1,,,Endorsed for state House 121st District; incumbent,0.95
+PA,Citizens Voice,600005,2016,STATE REP,117,,PA,"BOBACK, KAREN",Republican,1,,1,,"Editorial 'Boback, Mullery, Kaufer, Pashinski deserving of re-election'; PA House 117th, incumbent",0.97
+PA,Citizens Voice,600005,2016,STATE REP,119,,PA,"MULLERY, GERALD",Democrat,1,1,,,"PA House 119th; incumbent, deserving of re-election",0.95
+PA,Citizens Voice,600005,2016,STATE REP,120,,PA,"KAUFER, AARON",Republican,1,,1,,"PA House 120th; incumbent, deserving of re-election",0.95
+PA,Citizens Voice,600005,2016,STATE REP,121,,PA,"PASHINSKI, EDDIE DAY",Democrat,1,1,,,"PA House 121st; incumbent, deserving of re-election",0.95
+PA,Citizens Voice,600005,2016,PRESIDENT,,,PA,"CLINTON, HILLARY",Democrat,1,,,,"Listed in 'Our endorsements for national, state office' sidebar",0.85
+PA,Citizens Voice,600005,2016,SENATOR,,,PA,"MCGINTY, KATIE",Democrat,1,,,,"Listed in 'Our endorsements for national, state office' sidebar; PA U.S. Senate challenger to Pat Toomey",0.85
+PA,Citizens Voice,600005,2016,H,11,,PA,"BARLETTA, LOU",Republican,1,1,,,"Listed in 'Our endorsements for national, state office' sidebar; 11th Congressional District incumbent",0.85
+PA,Citizens Voice,600005,2016,H,17,,PA,"CARTWRIGHT, MATT",Democrat,1,1,,,"Listed in 'Our endorsements for national, state office' sidebar; 17th Congressional District incumbent",0.85
+PA,Citizens Voice,600005,2016,ATTORNEY GENERAL,,,PA,"SHAPIRO, JOSH",Democrat,1,,,,"Listed in 'Our endorsements for national, state office' sidebar; PA Attorney General",0.8
+PA,Citizens Voice,600005,2016,TREASURER,,,PA,"TORSELLA, JOE",Democrat,1,,,,"Listed in 'Our endorsements for national, state office' sidebar; PA Treasurer",0.8
+PA,Citizens Voice,600005,2016,AUDITOR,,,PA,"DEPASQUALE, EUGENE",Democrat,1,1,,,"Listed in 'Our endorsements for national, state office' sidebar; PA Auditor General incumbent",0.75
+PA,Citizens Voice,600005,2018,STATE REP,121,,PA,"PASHINSKI, EDDIE DAY",Democrat,1,1,,,Endorsed for PA House 121st Legislative District; opposed property-tax-elimination Senate Bill 76 sponsored by Republican opponent,0.95
+PA,Citizens Voice,600005,2018,STATE REP,119,,PA,"MULLERY, GERALD",Democrat,1,1,,,Endorsed for PA House 119th Legislative District; incumbent over Republican Thompson,0.95
+PA,Citizens Voice,600005,2018,STATE REP,117,,PA,"BOBACK, KAREN",Republican,1,,1,,Endorsed for PA House 117th Legislative District; incumbent,0.95
+PA,Citizens Voice,600005,2018,STATE SENATOR,20,,PA,"BAKER, LISA",Republican,1,,1,,Endorsed for 20th Senatorial District; incumbent seeking a fourth term,0.95
+PA,Citizens Voice,600005,2018,STATE SENATOR,22,,PA,"BLAKE, JOHN",Democrat,1,1,,,Endorsed for 22nd Senatorial District; incumbent over Republican Frank Scavo,0.9
+PA,Citizens Voice,600005,2020,PRESIDENT,,,PA,"BIDEN, JOE",Democrat,1,,,,Listed in 'OUR ENDORSEMENTS' box: U.S. President,0.97
+PA,Citizens Voice,600005,2020,H,8,,PA,"CARTWRIGHT, MATT",Democrat,1,1,,,U.S. Congress 8th District; incumbent,0.95
+PA,Citizens Voice,600005,2020,H,9,,PA,"NELSON, GARY WEGMAN",Democrat,1,,,,"U.S. Congress 9th District; name listed as NELSON in graphic, low-confidence on exact spelling",0.45
+PA,Citizens Voice,600005,2020,ATTORNEY GENERAL,,,PA,"SHAPIRO, JOSH",Democrat,1,1,,,Pennsylvania Attorney General; incumbent,0.95
+PA,Citizens Voice,600005,2020,TREASURER,,,PA,"TORSELLA, JOE",Democrat,1,1,,,Pennsylvania Treasurer; incumbent,0.95
+PA,Citizens Voice,600005,2020,AUDITOR,,,PA,"DEFOOR, TIMOTHY",Republican,1,,,,Pennsylvania Auditor General,0.85
+PA,Citizens Voice,600005,2020,STATE REP,118,,PA,"CARROLL, MIKE",Democrat,1,1,,,PA House 118th District; incumbent,0.85
+PA,Citizens Voice,600005,2020,STATE REP,119,,PA,"MULLERY, GERALD",Democrat,1,1,,,PA House 119th District; incumbent,0.95
+PA,Citizens Voice,600005,2020,STATE REP,120,,PA,"KAUFER, AARON",Republican,1,,1,,PA House 120th District; incumbent,0.95

@@ -1,0 +1,142 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+MA,Boston Globe,119300,1966,SENATOR,,,MA,"BROOKE, EDWARD W.",Republican,1,,,,MA Attorney General; on Vietnam Brooke's posture seems the better way to get peace; close to draw on civil rights and performance in office; Globe rejects white backlash voting,0.95
+MA,Boston Globe,119300,1966,SENATOR,,,MA,"PEABODY, ENDICOTT",Democrat,0,,,,former Governor; fine reform record but supports administration position on Vietnam including bombing/escalation; Globe sees Brooke's Vietnam position as better,0.95
+MA,Boston Globe,119300,1974,GOVERNOR,,,MA,"SARGENT, FRANCIS W.",Republican,1,,1,,incumbent Governor; Globe endorsement in final review,0.95
+MA,Boston Globe,119300,1974,ATTORNEY GENERAL,,,MA,"SPAULDING, JOSIAH A.",Republican,1,,,,Globe endorsement for Attorney General in final review,0.95
+MA,Boston Globe,119300,1974,SEC OF STATE,,,MA,"GUZZI, PAUL H.",Democrat,1,,,,Globe endorsement for Secretary of State in final review,0.95
+MA,Boston Globe,119300,1974,H,5,,MA,"TSONGAS, PAUL E.",Democrat,1,,,,Globe endorsement for Congress 5th District,0.95
+MA,Boston Globe,119300,1974,SHERIFF,,Middlesex,MA,"BUCKLEY, JOHN J.",,1,,,,Globe endorsement for Middlesex County Sheriff,0.95
+MA,Boston Globe,119300,1982,SENATOR,,,MA,"KENNEDY, EDWARD M.",Democrat,1,1,,,incumbent US Senator; Globe endorsed in summary recap,0.95
+MA,Boston Globe,119300,1982,GOVERNOR,,,MA,"DUKAKIS, MICHAEL S.",Democrat,1,,,,former Governor seeking comeback; Globe endorsed; not incumbent in 1982 (King D was incumbent),0.95
+MA,Boston Globe,119300,1982,H,4,,MA,"FRANK, BARNEY",Democrat,1,1,,,incumbent Congressman 4th District; Globe endorsed,0.95
+MA,Boston Globe,119300,1982,H,6,,MA,"TRIMARCO, THOMAS H.",Republican,1,,,,Globe endorsed for 6th District; challenger against incumbent Nicholas Mavroules D,0.95
+MA,Boston Globe,119300,1982,H,7,,MA,"MARKEY, EDWARD J.",Democrat,1,1,,,incumbent Congressman 7th District; Globe endorsed,0.95
+MA,Boston Globe,119300,1982,H,8,,MA,"O'NEILL, THOMAS P., JR.",Democrat,1,1,,,incumbent Speaker of the House 8th District (Tip O'Neill); Globe endorsed,0.95
+MA,Boston Globe,119300,1982,H,9,,MA,"MOAKLEY, J. JOSEPH",Democrat,1,1,,,incumbent Congressman 9th District; Globe endorsed,0.95
+MA,Boston Globe,119300,1982,H,10,,MA,"STUDDS, GERRY E.",Democrat,1,1,,,incumbent Congressman 10th District; Globe endorsed,0.95
+MA,Boston Globe,119300,1984,PRESIDENT,,,MA,"MONDALE, WALTER F.",Democrat,1,,,,Globe endorsed for President,0.95
+MA,Boston Globe,119300,1984,VICE PRESIDENT,,,MA,"FERRARO, GERALDINE",Democrat,1,,,,Globe endorsed for Vice President,0.95
+MA,Boston Globe,119300,1984,SENATOR,,,MA,"KERRY, JOHN F.",Democrat,1,,,,"Globe endorsed for US Senate (open seat, Tsongas retiring)",0.95
+MA,Boston Globe,119300,1984,H,1,,MA,"CONTE, SILVIO O.",Republican,1,,1,,incumbent Congressman 1st District (of Pittsfield); Globe endorsed,0.95
+MA,Boston Globe,119300,1984,H,2,,MA,"BOLAND, EDWARD P.",Democrat,1,1,,,incumbent Congressman 2nd District (of Springfield); Globe endorsed,0.95
+MA,Boston Globe,119300,1984,H,3,,MA,"EARLY, JOSEPH D.",Democrat,1,1,,,incumbent Congressman 3rd District (of Worcester); Globe endorsed,0.95
+MA,Boston Globe,119300,1984,H,4,,MA,"FRANK, BARNEY",Democrat,1,1,,,incumbent Congressman 4th District (of Newton); Globe endorsed,0.95
+MA,Boston Globe,119300,1984,H,5,,MA,"ATKINS, CHESTER G.",Democrat,1,,,,5th District (of Concord); Globe endorsed; open seat after Tsongas retired and Markey moved,0.95
+MA,Boston Globe,119300,1984,H,6,,MA,"MAVROULES, NICHOLAS",Democrat,1,1,,,incumbent Congressman 6th District (of Peabody); Globe endorsed,0.95
+MA,Boston Globe,119300,1984,H,7,,MA,"MARKEY, EDWARD J.",Democrat,1,1,,,incumbent Congressman 7th District (of Malden); Globe endorsed,0.95
+MA,Boston Globe,119300,1984,H,8,,MA,"O'NEILL, THOMAS P., JR.",Democrat,1,1,,,incumbent Speaker 8th District (of Cambridge); Globe endorsed,0.95
+MA,Boston Globe,119300,1984,H,10,,MA,"STUDDS, GERRY E.",Democrat,1,1,,,incumbent Congressman 10th District (of Cohasset); Globe endorsed,0.95
+MA,Boston Globe,119300,1986,GOVERNOR,,,MA,"DUKAKIS, MICHAEL S.",Democrat,1,1,,,incumbent Governor; Globe endorsed,0.95
+MA,Boston Globe,119300,1986,LT GOVERNOR,,,MA,"MURPHY, EVELYN",Democrat,1,,,,Globe endorsed for Lt Governor,0.95
+MA,Boston Globe,119300,1986,ATTORNEY GENERAL,,,MA,"SHANNON, JAMES M.",Democrat,1,,,,Globe endorsed for Attorney General,0.95
+MA,Boston Globe,119300,1986,SEC OF STATE,,,MA,"CONNOLLY, MICHAEL JOSEPH",Democrat,1,1,,,incumbent Secretary of State; Globe endorsed,0.95
+MA,Boston Globe,119300,1986,TREASURER,,,MA,"CRANE, ROBERT Q.",Democrat,1,1,,,incumbent Treasurer; Globe endorsed,0.95
+MA,Boston Globe,119300,1986,AUDITOR,,,MA,"DENUCCI, A. JOSEPH",Democrat,1,,,,Globe endorsed for Auditor,0.95
+MA,Boston Globe,119300,1988,PRESIDENT,,,MA,"DUKAKIS, MICHAEL",Democrat,1,,,,MA Governor; Globe endorsed despite uneasiness with leadership style and lack of focus in campaign; concerns over presidential succession and domestic/foreign issues,0.95
+MA,Boston Globe,119300,1988,VICE PRESIDENT,,,MA,"BENTSEN, LLOYD",Democrat,1,,,,Globe endorsed for VP alongside Dukakis,0.95
+MA,Boston Globe,119300,1988,SENATOR,,,MA,"KENNEDY, EDWARD M.",Democrat,1,1,,,incumbent US Senator; Globe endorsed as 'a powerful leader' with 'unflagging commitment to the cause of human dignity',0.95
+MA,Boston Globe,119300,1990,SENATOR,,,MA,"KERRY, JOHN",Democrat,1,1,,,incumbent US Senator; Globe endorsed,0.95
+MA,Boston Globe,119300,1990,GOVERNOR,,,MA,"WELD, WILLIAM",Republican,1,,,,Globe endorsed for Governor; open seat (Dukakis not running for re-election),0.95
+MA,Boston Globe,119300,1990,LT GOVERNOR,,,MA,"CELLUCCI, PAUL",Republican,1,,,,Globe endorsed for Lt Governor (Weld running mate),0.95
+MA,Boston Globe,119300,1990,ATTORNEY GENERAL,,,MA,"HARSHBARGER, SCOTT",Democrat,1,,,,Globe endorsed for Attorney General,0.95
+MA,Boston Globe,119300,1990,SEC OF STATE,,,MA,"AHEARN, BARBARA",Republican,1,,,,Globe endorsed for Secretary of State (challenger to incumbent Connolly D),0.95
+MA,Boston Globe,119300,1990,TREASURER,,,MA,"MALONE, JOSEPH",Republican,1,,,,Globe endorsed for Treasurer (Crane not running),0.95
+MA,Boston Globe,119300,1990,AUDITOR,,,MA,"DENUCCI, A. JOSEPH",Democrat,1,1,,,incumbent Auditor; Globe endorsed,0.95
+MA,Boston Globe,119300,2008,PRESIDENT,,,MA,"OBAMA, BARACK",Democrat,1,,,,Globe strongly endorses Obama-Biden ticket,0.95
+MA,Boston Globe,119300,2008,VICE PRESIDENT,,,MA,"BIDEN, JOSEPH",Democrat,1,,,,Globe strongly endorses Obama-Biden ticket,0.95
+MA,Boston Globe,119300,2008,SENATOR,,,MA,"KERRY, JOHN",Democrat,1,1,,,MA incumbent; Globe endorses for fifth term,0.95
+MA,Boston Globe,119300,2008,SENATOR,,,MA,"SHAHEEN, JEANNE",Democrat,1,,,,New Hampshire US Senate; Globe supports,0.95
+MA,Boston Globe,119300,2008,H,1,,MA,"OLVER, JOHN W.",Democrat,1,1,,,MA-1 incumbent; Globe endorses,0.95
+MA,Boston Globe,119300,2008,H,4,,MA,"FRANK, BARNEY",Democrat,1,1,,,MA-4 incumbent; Globe endorses,0.95
+MA,Boston Globe,119300,2008,H,6,,MA,"TIERNEY, JOHN F.",Democrat,1,1,,,MA-6 incumbent; Globe endorses,0.95
+MA,Boston Globe,119300,2008,H,7,,MA,"MARKEY, EDWARD J.",Democrat,1,1,,,MA-7 incumbent; Globe endorses,0.95
+MA,Boston Globe,119300,2008,STATE SENATOR,Second Suffolk,,MA,"CHANG-DIAZ, SONIA ROSA",Democrat,1,,,,Second Suffolk District; Globe endorses,0.95
+MA,Boston Globe,119300,2008,STATE SENATOR,Middlesex and Worcester,,MA,"ELDRIDGE, JAMES B.",Democrat,1,,,,Middlesex and Worcester District; state rep elevated to Senate seat,0.95
+MA,Boston Globe,119300,2008,STATE SENATOR,"Norfolk, Bristol, and Middlesex",,MA,"OROZCO, SARA",Democrat,1,,,,"Norfolk, Bristol, and Middlesex District; promising newcomer",0.95
+MA,Boston Globe,119300,2008,STATE REP,Third Middlesex,,MA,"HOGAN, KATE",Democrat,1,,,,"3rd Middlesex District (Hudson, Stow, Maynard, Bolton); open seat",0.95
+MA,Boston Globe,119300,2008,STATE REP,31st Middlesex,,MA,"LEWIS, JASON M.",Democrat,1,,,,"31st Middlesex (Winchester, Stoneham); open seat",0.95
+MA,Boston Globe,119300,2008,STATE REP,Eighth Middlesex,,MA,"DYKEMA, CAROLYN C.",Democrat,1,,,,"8th Middlesex (Holliston, Hopkinton); open seat",0.95
+MA,Boston Globe,119300,2008,STATE REP,20th Middlesex,,MA,"JONES, BRADLEY H., JR.",Republican,1,,1,,20th Middlesex (North Reading); incumbent House minority leader,0.95
+MA,Boston Globe,119300,2008,STATE REP,Fourth Essex,,MA,"HILL, BRADFORD R.",Republican,1,,1,,4th Essex (Ipswich); Globe endorses Republican incumbent,0.95
+MA,Boston Globe,119300,2008,STATE REP,18th Essex,,MA,"L'ITALIEN, BARBARA A.",Democrat,1,1,,,18th Essex (Andover); incumbent reelection,0.95
+MA,Boston Globe,119300,2008,STATE REP,13th Middlesex,,MA,"CONROY, THOMAS P.",Democrat,1,1,,,13th Middlesex (Wayland); incumbent in rematch,0.95
+MA,Boston Globe,119300,2010,ATTORNEY GENERAL,,,MA,"COAKLEY, MARTHA",Democrat,1,1,,,incumbent MA Attorney General; Globe endorses for reelection,0.95
+MA,Boston Globe,119300,2010,ATTORNEY GENERAL,,,MA,"MCKENNA, JAMES",Republican,,,,,Republican challenger; Millbury attorney,0.95
+MA,Boston Globe,119300,2010,TREASURER,,,MA,"GROSSMAN, STEVE",Democrat,1,,,,former DNC chairman; Globe endorses for state treasurer; better prepared,0.95
+MA,Boston Globe,119300,2010,TREASURER,,,MA,"POLITO, KARYN",Republican,,,,,Republican state legislator from Shrewsbury,0.95
+MA,Boston Globe,119300,2010,AUDITOR,,,MA,"CONNAUGHTON, MARY Z.",Republican,1,,,,"CPA, served on MA Turnpike Authority board; Globe endorses for auditor",0.95
+MA,Boston Globe,119300,2010,AUDITOR,,,MA,"BUMP, SUZANNE",Democrat,,,,,former state representative and labor secretary under Patrick,0.95
+MA,Boston Globe,119300,2010,STATE SENATOR,Middlesex and Essex,,MA,"SPADAFORA, CRAIG",Republican,1,,,,Malden city councilor; open seat replacing Tisei; Globe endorses,0.95
+MA,Boston Globe,119300,2010,STATE SENATOR,Middlesex and Essex,,MA,"CLARK, KATHERINE",Democrat,,,,,state representative from Melrose; Democratic opponent,0.95
+MA,Boston Globe,119300,2010,STATE SENATOR,Suffolk and Norfolk,,MA,"WILLIAMS, BRAD",Republican,1,,,,investment manager; Globe endorses for open seat,0.95
+MA,Boston Globe,119300,2010,STATE SENATOR,Suffolk and Norfolk,,MA,"RUSH, MICHAEL",Democrat,,,,,Democratic state representative from West Roxbury,0.95
+MA,Boston Globe,119300,2010,STATE REP,32nd Middlesex,,MA,"LUCAS, DAVID",Republican,1,,,,Melrose attorney; Globe endorses for open seat,0.95
+MA,Boston Globe,119300,2010,STATE REP,1st Worcester,,MA,"FERGUSON, KIM",Republican,1,,,,Holden selectman and former school committee member; Globe endorses,0.95
+MA,Boston Globe,119300,2010,STATE REP,9th Norfolk,,MA,"WINSLOW, DAN",Republican,1,,,,former sitting judge and Romney legal counsel; Norfolk resident; Globe endorses,0.95
+MA,Boston Globe,119300,2010,STATE REP,22nd Middlesex,,MA,"LOMBARDO, MARC",Republican,1,,,,Billerica Selectman; Globe endorses for open seat,0.95
+MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"PATRICK, DEVAL",Democrat,1,1,,,incumbent Governor; Globe endorses for second term,0.95
+MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"BAKER, CHARLIE",Republican,,,,,Republican challenger; former HMO CEO,0.95
+MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"CAHILL, TIM",Independent,,,,,state treasurer running as independent,0.95
+MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"STEIN, JILL",G,,,,,Green-Rainbow nominee,0.95
+MA,Boston Globe,119300,2012,PRESIDENT,,,MA,"OBAMA, BARACK",Democrat,1,1,,,incumbent President; Globe endorses for reelection,0.95
+MA,Boston Globe,119300,2012,SENATOR,,,MA,"WARREN, ELIZABETH",Democrat,1,,,,challenger to incumbent Brown; Globe endorses,0.95
+MA,Boston Globe,119300,2012,SENATOR,,,MA,"BROWN, SCOTT",Republican,,,1,,incumbent Republican Senator; lost endorsement to Warren,0.95
+MA,Boston Globe,119300,2012,H,6,,MA,"TISEI, RICHARD",Republican,1,,,,MA-6 North Shore; Globe endorses challenger to Tierney,0.95
+MA,Boston Globe,119300,2012,H,6,,MA,"TIERNEY, JOHN",Democrat,,1,,,MA-6 incumbent; not endorsed due to family scandal,0.95
+MA,Boston Globe,119300,2012,H,4,,MA,"KENNEDY, JOSEPH P., III",Democrat,1,,,,MA-4; open seat (Frank retiring); Globe endorses,0.95
+MA,Boston Globe,119300,2012,H,4,,MA,"BIELAT, SEAN",Republican,,,,,Republican opponent,0.95
+MA,Boston Globe,119300,2012,H,3,,MA,"TSONGAS, NIKI",Democrat,1,1,,,MA-3 incumbent (northwest of Boston); Globe endorses,0.95
+MA,Boston Globe,119300,2012,H,5,,MA,"MARKEY, EDWARD",Democrat,1,1,,,MA-5 incumbent (Malden and suburbs); Globe endorses,0.95
+MA,Boston Globe,119300,2012,H,8,,MA,"LYNCH, STEPHEN",Democrat,1,1,,,"MA-8 incumbent (Boston, Quincy, and suburbs); Globe endorses",0.95
+MA,Boston Globe,119300,2012,H,9,,MA,"KEATING, WILLIAM",Democrat,1,1,,,"MA-9 incumbent (South Shore, Cape Cod, South Coast); Globe endorses",0.95
+MA,Boston Globe,119300,2012,STATE SENATOR,First Essex,,MA,"MAGLIOCCHETTI, PAUL",Independent,1,,,,First Essex (Haverhill); independent; open seat; Globe endorses,0.95
+MA,Boston Globe,119300,2012,STATE SENATOR,Second Essex,,MA,"LOVELY, JOAN",Democrat,1,,,,Second Essex (Salem); open seat; Globe endorses,0.95
+MA,Boston Globe,119300,2012,STATE SENATOR,Third Middlesex,,MA,"BARRETT, MICHAEL",Democrat,1,,,,Third Middlesex (Lexington); open seat; Globe endorses,0.95
+MA,Boston Globe,119300,2012,STATE REP,10th Norfolk,,MA,"EUSTIS, RICHARD",Republican,1,,,,10th Norfolk (Medway); open seat; Globe endorses,0.95
+MA,Boston Globe,119300,2012,STATE REP,Sixth Plymouth,,MA,"BARRY, KAREN",Republican,1,,,,6th Plymouth (Duxbury); open seat; Globe endorses,0.95
+MA,Boston Globe,119300,2012,STATE REP,Second Essex,,MA,"FOGEL, BARRY",Democrat,1,,,,Second Essex (West Newbury); open seat; Globe endorses,0.95
+MA,Boston Globe,119300,2012,STATE REP,21st Middlesex,,MA,"GORDON, KENNETH",Democrat,1,,,,21st Middlesex (Bedford); open seat; Globe endorses,0.95
+MA,Boston Globe,119300,2012,STATE REP,14th Essex,,MA,"RHOTON, KARIN",Republican,1,,,,14th Essex (North Andover); open seat; Globe endorses,0.95
+MA,Boston Globe,119300,2014,ATTORNEY GENERAL,,,MA,"HEALEY, MAURA",Democrat,1,,,,former assistant AG; Globe endorses for attorney general,0.95
+MA,Boston Globe,119300,2014,ATTORNEY GENERAL,,,MA,"MILLER, JOHN",Republican,,,,,Winchester attorney; Republican opponent,0.95
+MA,Boston Globe,119300,2014,TREASURER,,,MA,"GOLDBERG, DEB",Democrat,1,,,,former Brookline Selectman; Stop & Shop family; Globe endorses for treasurer,0.95
+MA,Boston Globe,119300,2014,TREASURER,,,MA,"HEFFERNAN, MIKE",Republican,,,,,25 years in financial industry; Wellesley,0.95
+MA,Boston Globe,119300,2014,TREASURER,,,MA,"JACKSON, IAN",G,,,,,Green-Rainbow party,0.95
+MA,Boston Globe,119300,2014,H,3,,MA,"TSONGAS, NIKI",Democrat,1,1,,,MA-3 incumbent; Globe endorses for another term,0.95
+MA,Boston Globe,119300,2014,H,3,,MA,"WOFFORD, ANN",Republican,,,,,former chemical engineer from Haverhill; Republican opponent,0.95
+MA,Boston Globe,119300,2014,H,9,,MA,"KEATING, BILL",Democrat,1,1,,,MA-9 incumbent (South Shore and Cape Cod); Globe endorses for reelection,0.95
+MA,Boston Globe,119300,2014,H,9,,MA,"CHAPMAN, JOHN C.",Republican,,,,,Republican opponent; disqualifies himself with debt ceiling stance,0.95
+MA,Boston Globe,119300,2014,AUDITOR,,,MA,"SAINT AUBIN, PATRICIA",Republican,1,,,,"professional auditor (Shawmut Bank, John Hancock); Globe endorses",0.95
+MA,Boston Globe,119300,2014,AUDITOR,,,MA,"BUMP, SUZANNE",Democrat,,1,,,incumbent Democratic auditor; Globe declined to endorse,0.95
+MA,Boston Globe,119300,2014,SEC OF STATE,,,MA,"GALVIN, BILL",Democrat,1,1,,,incumbent Secretary of State since 1995; Globe endorses,0.95
+MA,Boston Globe,119300,2014,SEC OF STATE,,,MA,"D'ARCANGELO, DAVID",Republican,,,,,Malden city councilor-at-large; Republican opponent,0.95
+MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"BAKER, CHARLIE",Republican,1,,,,former HHS and A&F secretary; Globe endorses for governor; open seat,0.95
+MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"COAKLEY, MARTHA",Democrat,,,,,current attorney general; Democratic nominee,0.95
+MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"LIVELY, SCOTT",Independent,,,,,independent candidate; religious crusader,0.95
+MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"FALCHUK, EVAN",Independent,,,,,independent candidate; United Independent Party,0.95
+MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"MCCORMICK, JEFF",Independent,,,,,independent candidate; businessman,0.95
+MA,Boston Globe,119300,2014,H,6,,MA,"MOULTON, SETH",Democrat,1,,,,MA-6; Marine veteran from Marblehead; beat incumbent Tierney in primary; Globe endorses,0.95
+MA,Boston Globe,119300,2014,H,6,,MA,"TISEI, RICHARD",Republican,,,,,former Republican state senator; reprising 2012 run,0.95
+MA,Boston Globe,119300,2014,SENATOR,,,MA,"MARKEY, ED",Democrat,1,1,,,incumbent US Senator (elected 2013 to fill Kerry seat); Globe endorses for full term,0.95
+MA,Boston Globe,119300,2014,SENATOR,,,MA,"HERR, BRIAN",Republican,,,,,Republican opponent,0.95
+MA,Boston Globe,119300,2016,SENATOR,,,MA,"HASSAN, MAGGIE",Democrat,1,,,,New Hampshire US Senate; incumbent governor; Globe endorses challenger to Ayotte,0.95
+MA,Boston Globe,119300,2016,SENATOR,,,MA,"AYOTTE, KELLY",Republican,,,1,,NH incumbent Republican Senator; fumbled position on Trump,0.95
+MA,Boston Globe,119300,2016,STATE SENATOR,Cape and Islands,,MA,"CYR, JULIAN",Democrat,1,,,,Cape and Islands district; Truro native; open seat (Wolf retiring); Globe endorses,0.95
+MA,Boston Globe,119300,2016,STATE SENATOR,Cape and Islands,,MA,"SCHIAVI, ANTHONY",Republican,,,,,retired Air Force brigadier general; former Ashland town manager,0.95
+MA,Boston Globe,119300,2018,SENATOR,,,MA,"WARREN, ELIZABETH",Democrat,1,1,,,MA incumbent US Senator; Globe endorses for second term,0.95
+MA,Boston Globe,119300,2018,SENATOR,,,MA,"DIEHL, GEOFF",Republican,,,,,Republican opponent; state representative; cochaired Trump's MA campaign,0.95
+MA,Boston Globe,119300,2018,SENATOR,,,MA,"AYYADURAI, SHIVA",Independent,,,,,independent candidate,0.95
+MA,Boston Globe,119300,2018,SEC OF STATE,,,MA,"GALVIN, WILLIAM F.",Democrat,1,1,,,incumbent Secretary of State; Globe endorses for seventh term,0.95
+MA,Boston Globe,119300,2018,SEC OF STATE,,,MA,"AMORE, ANTHONY",Republican,,,,,director of security at Isabella Stewart Gardner Museum; Republican opponent,0.95
+MA,Boston Globe,119300,2018,H,3,,MA,"TRAHAN, LORI",Democrat,1,,,,MA-3; Westford; open seat (Tsongas retiring); Globe endorses,0.95
+MA,Boston Globe,119300,2018,H,3,,MA,"GREEN, RICK",Republican,,,,,Pepperell entrepreneur; Republican opponent,0.95
+MA,Boston Globe,119300,2018,TREASURER,,,MA,"GOLDBERG, DEB",Democrat,1,1,,,incumbent state Treasurer; Globe endorses for second term,0.95
+MA,Boston Globe,119300,2018,TREASURER,,,MA,"ORRALL, KEIKO",Republican,,,,,state Representative from Lakeville; Republican opponent,0.95
+MA,Boston Globe,119300,2018,GOVERNOR,,,MA,"BAKER, CHARLIE",Republican,1,,1,,incumbent Republican Governor; Globe endorses for reelection,0.95
+MA,Boston Globe,119300,2018,GOVERNOR,,,MA,"GONZALEZ, JAY",Democrat,,,,,former health insurance CEO and Patrick admin cabinet member; Democratic opponent,0.95
+MA,Boston Globe,119300,2018,AUDITOR,,,MA,"FISHMAN, DANIEL",Libertarian,1,,,,Beverly Libertarian; software architect; Globe endorses (rare third party endorsement),0.95
+MA,Boston Globe,119300,2018,AUDITOR,,,MA,"BUMP, SUZANNE",Democrat,,1,,,incumbent Democratic auditor; should not serve third term,0.95
+MA,Boston Globe,119300,2018,AUDITOR,,,MA,"BRADY, HELEN",Republican,,,,,Boston Symphony Orchestra sales director; Republican nominee,0.95
+MA,Boston Globe,119300,2018,AUDITOR,,,MA,"STAMAS, EDWARD J.",G,,,,,physicist and teacher from Northampton; Green-Rainbow nominee,0.95
+MA,Boston Globe,119300,2018,GOVERNOR,,,MA,"RAIMONDO, GINA",Democrat,1,1,,,Rhode Island Democratic Governor; Globe endorses for reelection,0.95
+MA,Boston Globe,119300,2018,GOVERNOR,,,MA,"FUNG, ALLAN",Republican,,,,,RI Republican; mayor of Cranston for nearly a decade,0.95

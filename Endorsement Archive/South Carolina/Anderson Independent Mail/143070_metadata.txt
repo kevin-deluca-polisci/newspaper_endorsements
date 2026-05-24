@@ -1,0 +1,30 @@
+Newspaper Name: Anderson Independent Mail
+Alternative Names: Anderson Independent, Anderson Daily Mail, The Independent Mail
+Years Published: combined paper 1986-present (predecessors Anderson Independent + Anderson Daily Mail)
+Newspaper ID number: 143070
+State: SC (Anderson / Anderson County, upstate SC)
+Number of clippings: 24
+Endorsement data years: 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 294 (253 endorsed, 41 opposed)
+Total proposition records: 40 (32 YES, 8 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.60
+Mean: 0.93
+Max: 0.95
+
+--- NOTES ---
+Anderson Independent Mail is the daily paper of Anderson County, SC. Pre-merger
+clippings (before ~1986) may be from the Anderson Daily Mail (evening paper) or
+Anderson Independent (morning paper). Both predecessors used for older clippings.
+
+Coverage gap: No endorsement clippings present for 2010-2016 in source folder
+(jumps from 2008 directly to 2018, which itself is a non-endorsement editor's note).
+
+Endorsement style: Comprehensive full-slate endorsements 1974-2004 (federal,
+state, local). Decline to single ballot-measure clippings in 2006 and 2008. No
+candidate endorsements visible 2010-2018.
+
+Compiled: 2026-05-22

@@ -1,0 +1,31 @@
+Newspaper Name: Charlotte Observer
+Alternative Names: The Charlotte Observer
+Years Published: 1886-present (founded as the Daily Charlotte Observer)
+Newspaper ID number: 132300
+State: NC (Charlotte, Mecklenburg County)
+Number of clippings: 26
+Endorsement data years: 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 704 (700 endorsed, 4 opposed)
+Total proposition records: 75 (66 YES, 9 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.60
+Mean: 0.91
+Max: 0.98
+
+--- NOTES ---
+Coverage: 1960-1990 (continuous, even years) plus 2006-2020 (continuous, even years).
+Gap: no clippings 1992-2004 in this batch.
+1976 has 3 clippings (Aug 13 primary recap, Oct 29 pre-election, Nov 2 election day).
+
+Editorial format evolved from compact "Observer Recommends" / "Observer's Choices" / "We Recommend"
+lists in the 1960s-1980s to long-form ARTICLE editorials with embedded picks in the 2000s-2010s,
+returning to a consolidated LIST format for the final 2020 election-day summary.
+
+Mecklenburg County local races (county commissioners, sheriff, register of deeds, judges, school
+board) appear throughout. NC General Assembly multi-member district seats common pre-2002
+(36th House district elected up to 7 members; 22nd Senate district elected multiple).
+
+Compiled: 2026-05-24

@@ -1,0 +1,705 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+NC,Charlotte Observer,132300,1960,PRESIDENT,,,NC,"NIXON, RICHARD",Republican,1,,,,Lodge for VP,0.98
+NC,Charlotte Observer,132300,1960,GOVERNOR,,,NC,"GAVIN, ROBERT L.",Republican,1,,,,,0.97
+NC,Charlotte Observer,132300,1960,LT GOVERNOR,,,NC,"PHILPOTT, H. CLOYD",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1960,SENATOR,,,NC,"JORDAN, B. EVERETT",Democrat,1,1,,,incumbent,0.96
+NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"BLYTHE, J. FRANK",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"BROWN, ERNEST K.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"GARRISON, J. HERBERT",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"BUTCHER, JERRY",Republican,0,,,,fourth seat - hope one of four Rs wins,0.6
+NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"PAGE JR., JESSE W.",Republican,0,,,,fourth seat candidate,0.6
+NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"RANDLE, MERLE D.",Republican,0,,,,fourth seat candidate,0.6
+NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"VINROOT, G. E.",Republican,0,,,,fourth seat candidate,0.6
+NC,Charlotte Observer,132300,1960,DA/PROSECUTOR,,,NC,"LEAVING, CRAIG",Democrat,1,,,,Solicitor,0.9
+NC,Charlotte Observer,132300,1962,SENATOR,,,NC,"ERVIN JR., SAM J.",Democrat,1,,,,,0.97
+NC,Charlotte Observer,132300,1962,INSURANCE COMMISSIONER,,,NC,"LANIER, EDWIN S.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1962,SUPREME COURT,,,NC,"DENNY, EMERY B.",Democrat,1,,,,Chief Justice,0.95
+NC,Charlotte Observer,132300,1962,SUPREME COURT,,,NC,"SHARP, SUSIE",Democrat,1,,,,Associate Justice,0.95
+NC,Charlotte Observer,132300,1962,H,,,NC,"JONAS, CHARLES R.",Republican,1,,,,take your choice,0.9
+NC,Charlotte Observer,132300,1962,H,,,NC,"KITCHIN, A. PAUL",Democrat,1,,,,take your choice,0.9
+NC,Charlotte Observer,132300,1962,STATE SENATOR,,,NC,"BELK, IRWIN",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1962,STATE REP,,,NC,"EVANS, MARTHA W.",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1962,STATE REP,,,NC,"HAYNES, MYLES",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1962,STATE REP,,,NC,"GARINGER, ELMER H.",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1962,STATE REP,,,NC,"HICKS, ERNEST",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1962,STATE REP,,,NC,"HARTSOCK JR., T. G.",Republican,1,,,,vote for five - take choice,0.9
+NC,Charlotte Observer,132300,1962,STATE REP,,,NC,"SAXON, J. HERMAN",Republican,1,,,,vote for five - take choice,0.9
+NC,Charlotte Observer,132300,1962,CNTY COMM,,,NC,"BLYTHE, J. FRANK",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1962,CNTY COMM,,,NC,"SHRIVER JR., ALFRED W.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1962,CNTY COMM,,,NC,"LOWE, CHARLES M.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1962,CNTY COMM,,,NC,"WILMER, HENRY B.",Democrat,1,,,,no recommendation for fifth seat,0.95
+NC,Charlotte Observer,132300,1962,DA/PROSECUTOR,,,NC,"DOWNS, KENNETH R.",Democrat,1,,,,District Solicitor,0.95
+NC,Charlotte Observer,132300,1964,PRESIDENT,,,NC,"JOHNSON, LYNDON B.",Democrat,1,1,,,Humphrey for VP,0.98
+NC,Charlotte Observer,132300,1964,H,,,NC,"JONAS, CHARLES RAPER",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1964,LT GOVERNOR,,,NC,"SCOTT, ROBERT W.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1964,AUDITOR,,,NC,"BRIDGES, HENRY",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1964,TREASURER,,,NC,"GILL, EDWIN",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1964,ATTORNEY GENERAL,,,NC,"BRUTON, THOMAS WADE",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1964,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JAMES A. (JIM)",Democrat,1,,,,take your choice,0.9
+NC,Charlotte Observer,132300,1964,AGRICULTURE COMMISSIONER,,,NC,"WATSON, VAN S.",Republican,1,,,,take your choice,0.9
+NC,Charlotte Observer,132300,1964,INSURANCE COMMISSIONER,,,NC,"LANIER, EDWIN S.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1964,STATE SENATOR,,,NC,"MOORE, HERMAN A.",Democrat,1,,,,three to be elected,0.95
+NC,Charlotte Observer,132300,1964,STATE SENATOR,,,NC,"EVANS, MARTHA W.",Democrat,1,,,,three to be elected,0.95
+NC,Charlotte Observer,132300,1964,STATE SENATOR,,,NC,"BELK, IRWIN",Democrat,1,,,,three to be elected,0.95
+NC,Charlotte Observer,132300,1964,STATE REP,,,NC,"HICKS, ERNEST L.",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,STATE REP,,,NC,"GOODMAN JR., ARTHUR",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,STATE REP,,,NC,"SAXON, J. HERMAN",Republican,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,STATE REP,,,NC,"HARTSOCK, T. G. (TED)",Republican,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,STATE REP,,,NC,"GARINGER, ELMER H.",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,STATE REP,,,NC,"VOGLER, JAMES B.",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,CNTY COMM,,,NC,"ATKINSON JR., SAM T.",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,CNTY COMM,,,NC,"BLYTHE, J. FRANK",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,CNTY COMM,,,NC,"WILMER, HENRY R.",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,CNTY COMM,,,NC,"KINCAID, CHARLES A.",Republican,1,,,,five to be elected; no choice among Shriver/Wallace/Hood for fifth seat,0.9
+NC,Charlotte Observer,132300,1964,TREASURER,,,NC,"CADIEU, JUANITA IRBY",Democrat,1,,,,County Treasurer,0.95
+NC,Charlotte Observer,132300,1966,SENATOR,,,NC,"JORDAN, B. EVERETT",Democrat,1,1,,,,0.97
+NC,Charlotte Observer,132300,1966,H,,,NC,"JONAS, CHARLES RAPER",Republican,1,,1,,,0.97
+NC,Charlotte Observer,132300,1966,STATE REP,,,NC,"BAUGH, JACK",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1966,STATE REP,,,NC,"BEATTY, JIM",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1966,STATE REP,,,NC,"GRAHAM, W. E. (DUB)",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1966,STATE REP,,,NC,"HUNTER, PAT",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1966,STATE REP,,,NC,"JONES, A. H. (ART)",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1966,STATE REP,,,NC,"VOGLER, JAMES B.",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1966,STATE REP,,,NC,"CALVERT, RICHARD B.",Republican,1,,,,plus one of these two,0.9
+NC,Charlotte Observer,132300,1966,STATE REP,,,NC,"CARSON JR., JAMES H.",Republican,1,,,,plus one of these two,0.9
+NC,Charlotte Observer,132300,1966,CNTY COMM,,,NC,"ATKINSON JR., SAM T.",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1966,CNTY COMM,,,NC,"BLYTHE, J. FRANK",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1966,CNTY COMM,,,NC,"HOOD, W. A. (LEX)",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1966,CNTY COMM,,,NC,"WALLACE JR., J. MASON",Democrat,1,,,,plus two of these three,0.9
+NC,Charlotte Observer,132300,1966,CNTY COMM,,,NC,"CAMPBELL, JOHN A.",Republican,1,,,,plus two of these three,0.9
+NC,Charlotte Observer,132300,1966,CNTY COMM,,,NC,"MARTIN, JAMES G.",Republican,1,,,,plus two of these three,0.9
+NC,Charlotte Observer,132300,1968,PRESIDENT,,,NC,"NIXON, RICHARD M.",Republican,1,,,,Agnew for VP,0.97
+NC,Charlotte Observer,132300,1968,SENATOR,,,NC,"ERVIN JR., SAM J.",Democrat,1,1,,,,0.97
+NC,Charlotte Observer,132300,1968,GOVERNOR,,,NC,"SCOTT, ROBERT W. (BOB)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1968,LT GOVERNOR,,,NC,"TAYLOR JR., H. PAT",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1968,AUDITOR,,,NC,"BRIDGES, HENRY L.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1968,TREASURER,,,NC,"GILL, EDWIN",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1968,SUPERINTENDENT,,,NC,"PHILLIPS, CRAIG",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1968,ATTORNEY GENERAL,,,NC,"MORGAN, ROBERT",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1968,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JAMES A. (JIM)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1968,DIRECTOR,,,NC,"CRANE, FRANK",Democrat,1,,,,Labor Commissioner,0.95
+NC,Charlotte Observer,132300,1968,INSURANCE COMMISSIONER,,,NC,"LANIER, EDWIN S.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1968,DISTRICT COURT JUDGE,26,,NC,"ARBUCKLE, HOWARD B.",Democrat,1,,,,six to be elected,0.95
+NC,Charlotte Observer,132300,1968,DISTRICT COURT JUDGE,26,,NC,"BEACHAM JR., P. B.",Democrat,1,,,,six to be elected,0.95
+NC,Charlotte Observer,132300,1968,DISTRICT COURT JUDGE,26,,NC,"GAILING, WILLARD I.",Democrat,1,,,,six to be elected,0.95
+NC,Charlotte Observer,132300,1968,DISTRICT COURT JUDGE,26,,NC,"STOKES, J. EDWARD",Democrat,1,,,,six to be elected,0.95
+NC,Charlotte Observer,132300,1968,DISTRICT COURT JUDGE,26,,NC,"BRENDLE, WAYNE M.",Republican,1,,,,and two of these four,0.9
+NC,Charlotte Observer,132300,1968,DISTRICT COURT JUDGE,26,,NC,"GRAY, MARVIN K.",Republican,1,,,,and two of these four,0.9
+NC,Charlotte Observer,132300,1968,DISTRICT COURT JUDGE,26,,NC,"LOWE, J. RUSSELL",Republican,1,,,,and two of these four,0.9
+NC,Charlotte Observer,132300,1968,DISTRICT COURT JUDGE,26,,NC,"WATKINS, CLAUDIA E.",Democrat,1,,,,and two of these four,0.9
+NC,Charlotte Observer,132300,1968,JUDGE,,,NC,"COLLIER JR., ROBERT A.",Democrat,1,,,,Superior Court,0.95
+NC,Charlotte Observer,132300,1968,JUDGE,,,NC,"ERVIN III, SAM J.",Democrat,1,,,,Superior Court,0.95
+NC,Charlotte Observer,132300,1968,STATE SENATOR,22,,NC,"EVANS, MARTHA W.",Democrat,1,,,,Seat No. 1; 22nd Mecklenburg Senatorial District,0.95
+NC,Charlotte Observer,132300,1968,STATE SENATOR,22,,NC,"MOORE, HERMAN A.",Democrat,1,,,,Seat No. 2,0.95
+NC,Charlotte Observer,132300,1968,STATE SENATOR,22,,NC,"MAXWELL, CHARLES K.",Democrat,1,,,,Seat No. 3,0.95
+NC,Charlotte Observer,132300,1968,STATE REP,36,,NC,"BAUGH, JACK",Democrat,1,,,,seven to be elected,0.95
+NC,Charlotte Observer,132300,1968,STATE REP,36,,NC,"CAMPBELL JR., HUGH B.",Democrat,1,,,,seven to be elected,0.95
+NC,Charlotte Observer,132300,1968,STATE REP,36,,NC,"JONES, ARTHUR H. (ART)",Democrat,1,,,,seven to be elected,0.95
+NC,Charlotte Observer,132300,1968,STATE REP,36,,NC,"VOGLER, JAMES B.",Democrat,1,,,,seven to be elected,0.95
+NC,Charlotte Observer,132300,1968,STATE REP,36,,NC,"CARSON JR., JAMES H.",Republican,1,,,,seven to be elected,0.95
+NC,Charlotte Observer,132300,1968,STATE REP,36,,NC,"JORDAN, DAVID D.",Republican,1,,,,seven to be elected,0.95
+NC,Charlotte Observer,132300,1968,STATE REP,36,,NC,"CALVERT, RICHARD B.",Republican,1,,,,and one of these two,0.9
+NC,Charlotte Observer,132300,1968,STATE REP,36,,NC,"HICKS, ERNEST L.",Democrat,1,,,,and one of these two,0.9
+NC,Charlotte Observer,132300,1968,CNTY COMM,,,NC,"KELLY, DAVE",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1968,CNTY COMM,,,NC,"LOWE, CHARLES M.",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1968,CNTY COMM,,,NC,"OSBORNE, WALLACE S.",Democrat,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1968,CNTY COMM,,,NC,"MARTIN, JAMES G. (JIM)",Republican,1,,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1968,CNTY COMM,,,NC,"MYERS, CHARLES TRUETT",Democrat,1,,,,and one of these three,0.9
+NC,Charlotte Observer,132300,1968,CNTY COMM,,,NC,"PETERSON, M. W. (PETE)",Republican,1,,,,and one of these three,0.9
+NC,Charlotte Observer,132300,1968,CNTY COMM,,,NC,"ROBINSON, WM. G. (BILL)",Republican,1,,,,and one of these three,0.9
+NC,Charlotte Observer,132300,1970,DA/PROSECUTOR,,,NC,"MOORE JR., THOMAS F.",Republican,1,,,,Solicitor,0.95
+NC,Charlotte Observer,132300,1970,SHERIFF,,,NC,"STAHL, DONALD W.",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1970,STATE REP,,,NC,"BEATTY, JIM",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1970,STATE REP,,,NC,"CAMPBELL JR., HUGH",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1970,STATE REP,,,NC,"COBB, LAURENCE A.",Republican,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1970,STATE REP,,,NC,"HICKS, ERNEST L.",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1970,STATE REP,,,NC,"ROSS, JAMES",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1970,STATE REP,,,NC,"VOGLER, JAMES D.",Democrat,1,,,,vote for seven,0.95
+NC,Charlotte Observer,132300,1970,STATE REP,,,NC,"FOLEY, PETER A.",Democrat,1,,,,or Dick Calvert,0.9
+NC,Charlotte Observer,132300,1970,STATE REP,,,NC,"CALVERT, DICK",Republican,1,,,,or Peter Foley,0.9
+NC,Charlotte Observer,132300,1970,CNTY COMM,,,NC,"HARRIS, W. T.",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1970,CNTY COMM,,,NC,"HENNIGAN, DANIEL O.",Republican,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1970,CNTY COMM,,,NC,"LOWE, CHARLES M.",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1970,CNTY COMM,,,NC,"MARTIN, JAMES G.",Republican,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1970,CNTY COMM,,,NC,"OSBORNE, WALLACE S.",Democrat,1,,,,vote for five,0.95
+NC,Charlotte Observer,132300,1972,SENATOR,,,NC,"GALIFIANAKIS, NICK",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,GOVERNOR,,,NC,"HOLSHOUSER JR., JAMES E.",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,LT GOVERNOR,,,NC,"HUNT JR., JAMES B. (JIM)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,H,9,,NC,"BEATTY, JAMES (JIM)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,SEC OF STATE,,,NC,"ROHRER, GRACE JEMISON",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,TREASURER,,,NC,"GILL, EDWIN",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,AUDITOR,,,NC,"BRIDGES, HENRY L.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,ATTORNEY GENERAL,,,NC,"MORGAN, ROBERT",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JAMES A. (JIM)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,INSURANCE COMMISSIONER,,,NC,"INGRAM, JOHN",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,DIRECTOR,,,NC,"CREEL, W. C. (BILLY)",Democrat,1,,,,Labor Commissioner,0.95
+NC,Charlotte Observer,132300,1972,SUPERINTENDENT,,,NC,"PHILLIPS, CRAIG",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,JUDGE,,,NC,"WOOD, WILLIAM Z.",Democrat,1,,,,Superior Court 21st District contest,0.85
+NC,Charlotte Observer,132300,1972,JUDGE,,,NC,"BOOKER, JAMES J.",Republican,1,,,,Superior Court 21st District contest,0.85
+NC,Charlotte Observer,132300,1972,DISTRICT COURT JUDGE,26,,NC,"ROBINSON, WILLIAM G. (BILL)",Republican,1,,,,opposing Howard Arbuckle (D) incumbent,0.9
+NC,Charlotte Observer,132300,1972,STATE SENATOR,22,,NC,"ALEXANDER, FRED D.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,STATE SENATOR,22,,NC,"BARNARD, CY N.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,STATE SENATOR,22,,NC,"KNOX, EDDIE",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,STATE SENATOR,22,,NC,"MULLINS, MICHAEL P.",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,STATE REP,36,,NC,"ECONOMOS, GUS",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,STATE REP,36,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,STATE REP,36,,NC,"ROSS, JAMES",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,STATE REP,36,,NC,"TYSON, BEN",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,STATE REP,36,,NC,"MOTLEY, ROWE",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,STATE REP,36,,NC,"VOGLER, JAMES B.",Democrat,1,,,,not on ballot but will receive vote if rejoins ticket,0.7
+NC,Charlotte Observer,132300,1972,STATE REP,36,,NC,"COBB, LAURENCE A.",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1972,STATE REP,36,,NC,"JORDAN, DAVID D.",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1972,STATE REP,36,,NC,"MATHIS, CAROLYN",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1972,CNTY COMM,,,NC,"HAIR, MRS. ELISABETH (LIZ)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,CNTY COMM,,,NC,"HARRIS, WILLIAM T.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,CNTY COMM,,,NC,"KELLY, DAVE",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,CNTY COMM,,,NC,"GERDES, PHILIP E.",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1972,CNTY COMM,,,NC,"MCMILLAN, ALEX",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,SENATOR,,,NC,"MORGAN, ROBERT",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,H,9,,NC,"SHORT, MILTON",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,ATTORNEY GENERAL,,,NC,"EDMISTEN, RUFUS L.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,SUPREME COURT,,,NC,"SHARP, SUSIE",Democrat,1,,,,Chief Justice,0.95
+NC,Charlotte Observer,132300,1974,SUPREME COURT,,,NC,"COPELAND, J. WILLIAM",Democrat,1,,,,Associate Justice,0.95
+NC,Charlotte Observer,132300,1974,DISTRICT COURT JUDGE,26,,NC,"LANNING, JAMES E.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE SENATOR,22,,NC,"ALEXANDER, FRED D.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE SENATOR,22,,NC,"MOORE, HERMAN A.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE REP,36,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE REP,36,,NC,"GRIFFIN, HOKE S.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE REP,36,,NC,"HELMS, H. PARKS",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE REP,36,,NC,"LAWING, CRAIG",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE REP,36,,NC,"BISSELL, MARILYN K.",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE REP,36,,NC,"COBB, LAURENCE A.",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE REP,36,,NC,"JORDAN, DAVID D.",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,STATE REP,36,,NC,"SPOON, ROY",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,SHERIFF,,,NC,"STAHL, DONALD W.",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,CNTY CLERK,,,NC,"BLACKBURN, R. MAX",Democrat,1,,,,Clerk of Superior Court,0.95
+NC,Charlotte Observer,132300,1974,CNTY COMM,,,NC,"FOLEY, PETE",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,CNTY COMM,,,NC,"HAIR, ELISABETH G.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1974,CNTY COMM,,,NC,"MOTLEY, ROWE R.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,GOVERNOR,,,NC,"HUNT JR., JAMES B. (JIM)",Democrat,1,,,,,0.97
+NC,Charlotte Observer,132300,1976,GOVERNOR,,,NC,"FLAHERTY, DAVID T.",Republican,1,,,,Republican primary endorsement,0.9
+NC,Charlotte Observer,132300,1976,PRESIDENT,,,NC,"CARTER, JIMMY",Democrat,1,,,,Mondale for VP,0.97
+NC,Charlotte Observer,132300,1976,H,9,,NC,"GOODMAN JR., ARTHUR",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,LT GOVERNOR,,,NC,"GREEN, JAMES C. (JIMMY)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,SEC OF STATE,,,NC,"EURE, THAD",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,TREASURER,,,NC,"BOYLES, HARLAN",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,AUDITOR,,,NC,"BRIDGES, HENRY L.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,ATTORNEY GENERAL,,,NC,"EDMISTEN, RUFUS",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,SUPERINTENDENT,,,NC,"PHILLIPS, CRAIG",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JAMES A. (JIM)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,DIRECTOR,,,NC,"BROOKS, JOHN",Democrat,1,,,,Labor Commissioner,0.95
+NC,Charlotte Observer,132300,1976,INSURANCE COMMISSIONER,,,NC,"INGRAM, JOHN R.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,SUPREME COURT,,,NC,"HUSKINS, J. FRANK",Democrat,1,,,,Supreme Court Justice,0.95
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"ALEXANDER, FRED",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"LAWING, CRAIG",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"RUTLEDGE, J. CARLYLE",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"CLUSENA, SAM C.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"MATHIS, CAROLYN",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"MILLER, BARRY G.",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"HOWE, JAMES B. (JIM)",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"BRENNAN, LOUISE S.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"EASTERLING, RUTH M.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"ECONOMOS, GUS",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"HELMS, PARKS",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"THON, JOSEPH E.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"WHITE, FRED W.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"BINGMAN, STEVE M.",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"BISSELL, MARILYN R.",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"HARGEY, BOB E.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"JAFFEE, ALAN",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"JORDAN, DAVID D.",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"MATHIS, RAY",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"SPOON, ROY",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"COLEMAN, LOUIS (L.C.)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"FOLEY, PETE",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"HAIR, ELISABETH G.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"ROBINSON, HARRY A.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"WALTON, ROBERT L. (BOB)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"BOOR, WILLIAM",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"GRIFFIN, WILLIAM L. (WIL)",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"MOORE JR., THOMAS F.",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"PEACOCK, ED",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"TAYLOR, JERRY",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1978,SENATOR,,,NC,"INGRAM, JOHN",Democrat,1,,,,,0.7
+NC,Charlotte Observer,132300,1978,H,9,,NC,"MARTIN, JAMES G. (JIM)",Republican,1,,,,9th District,0.8
+NC,Charlotte Observer,132300,1978,SUPREME COURT,,,NC,"BOLT, DAVID M.",Democrat,1,,,,Associate Justice,0.7
+NC,Charlotte Observer,132300,1978,COURT OF APPEALS,,,NC,"ERWIN, RICHARD C.",Democrat,1,,,,,0.7
+NC,Charlotte Observer,132300,1978,DISTRICT COURT JUDGE,26,,NC,"LANNING, JAMES E.",Democrat,1,,,,Mecklenburg County,0.7
+NC,Charlotte Observer,132300,1978,STATE SENATOR,22,,NC,"ALEXANDER, FRED D.",Democrat,1,,,,vote for 4,0.7
+NC,Charlotte Observer,132300,1978,STATE SENATOR,22,,NC,"FULTON, FRED D.",Democrat,1,,,,vote for 4,0.6
+NC,Charlotte Observer,132300,1978,STATE SENATOR,22,,NC,"LONG, CRAIG",Democrat,1,,,,vote for 4,0.6
+NC,Charlotte Observer,132300,1978,STATE SENATOR,22,,NC,"MATHIS, CAROLYN",Democrat,1,,,,vote for 4,0.6
+NC,Charlotte Observer,132300,1978,STATE REP,,,NC,"BERRY, PHILLIP O.",Democrat,1,,,,vote for 8 Mecklenburg,0.6
+NC,Charlotte Observer,132300,1978,STATE REP,,,NC,"BLACK, JIM",Democrat,1,,,,,0.6
+NC,Charlotte Observer,132300,1978,STATE REP,,,NC,"EASTERLING, RUTH M.",Democrat,1,,,,,0.6
+NC,Charlotte Observer,132300,1978,STATE REP,,,NC,"ECONOMOS, GUS",Democrat,1,,,,,0.6
+NC,Charlotte Observer,132300,1978,STATE REP,,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,,0.6
+NC,Charlotte Observer,132300,1978,STATE REP,,,NC,"HELMS, PARKS",Democrat,1,,,,,0.6
+NC,Charlotte Observer,132300,1978,STATE REP,,,NC,"ROUSH, SHELBY",Republican,1,,,,,0.6
+NC,Charlotte Observer,132300,1978,STATE REP,,,NC,"SYMON, ROY",Republican,1,,,,,0.6
+NC,Charlotte Observer,132300,1978,CNTY CLERK,,,NC,"BLACKBURN, R. WES",Democrat,1,,,,Clerk of Superior Court,0.7
+NC,Charlotte Observer,132300,1978,SHERIFF,,,NC,"WALL, JOHN KIRBY",Democrat,1,,,,,0.7
+NC,Charlotte Observer,132300,1978,CNTY COMM,,,NC,"COLEMAN, J.C.",Democrat,1,,,,vote for 3,0.6
+NC,Charlotte Observer,132300,1978,CNTY COMM,,,NC,"HAIR, ELIZABETH G. (LIZ)",Democrat,1,,,,vote for 3,0.6
+NC,Charlotte Observer,132300,1978,CNTY COMM,,,NC,"RAY, TOM",Democrat,1,,,,vote for 3,0.6
+NC,Charlotte Observer,132300,1978,JUDGE,,,NC,"WASHINGTON, EDWARD",Democrat,1,,,,Superior Court 18th District Guilford,0.6
+NC,Charlotte Observer,132300,1980,PRESIDENT,,,NC,"CARTER, JIMMY",Democrat,1,,,,,0.97
+NC,Charlotte Observer,132300,1980,SENATOR,,,NC,"MORGAN, ROBERT",Democrat,1,,,,,0.97
+NC,Charlotte Observer,132300,1980,H,9,,NC,"KINCAID, RANDALL R.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1980,GOVERNOR,,,NC,"HUNT, JAMES B. (JIM)",Democrat,1,,,,,0.97
+NC,Charlotte Observer,132300,1980,LT GOVERNOR,,,NC,"GREEN, JAMES C. (JIMMY)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1980,SEC OF STATE,,,NC,"FLAHERTY, DAVID T.",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1980,AUDITOR,,,NC,"RENFROW, EDWARD",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1980,ATTORNEY GENERAL,,,NC,"EDMISTEN, RUFUS",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1980,INSURANCE COMMISSIONER,,,NC,"TENNEY, EDWIN W., JR.",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,COURT OF APPEALS,,,NC,"WHICHARD, WILLIS P., JR.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1980,STATE SENATOR,,,NC,"JENKINS, CECIL R., JR.",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE SENATOR,,,NC,"LAWING, CRAIG",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE SENATOR,,,NC,"MATHIS, CAROLYN",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE SENATOR,,,NC,"MCDUFFIE, JAMES D. (JIM)",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE REP,,,NC,"BLACK, JIM",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE REP,,,NC,"BRENNAN, LOUISE S.",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE REP,,,NC,"EASTERLING, RUTH M.",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE REP,,,NC,"FOSTER, JO GRAHAM",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE REP,,,NC,"HELMS, PARKS",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE REP,,,NC,"LENTZ, BRUCE A.",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE REP,,,NC,"SPOON, ROY",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,STATE REP,,,NC,"TISON, BEN",,1,,,,,0.9
+NC,Charlotte Observer,132300,1980,CNTY COMM,,,NC,"BISSELL, MARILYN R.",,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1980,CNTY COMM,,,NC,"GREEN, SUSAN",,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1980,CNTY COMM,,,NC,"ODOM, T.L. (FOUNTAIN)",,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1980,CNTY COMM,,,NC,"RAY, TOM",,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1980,CNTY COMM,,,NC,"SENTELLE, DAVID",,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1980,CNTY COMM,,,NC,"WALTON, ROBERT L. (BOB)",,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1982,H,9,,NC,"MARTIN, JAMES G. (JIM)",Republican,1,,,,,0.95
+NC,Charlotte Observer,132300,1982,COURT OF APPEALS,,,NC,"EAGLES, SIDNEY S., JR.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1982,STATE SENATOR,,,NC,"JENKINS, CECIL R., JR.",Democrat,1,,,,vote for 4,0.9
+NC,Charlotte Observer,132300,1982,STATE SENATOR,,,NC,"LAWING, CRAIG",Democrat,1,,,,vote for 4,0.9
+NC,Charlotte Observer,132300,1982,STATE SENATOR,,,NC,"POLK, JAMES R. (JIM)",Democrat,1,,,,vote for 4,0.9
+NC,Charlotte Observer,132300,1982,STATE SENATOR,,,NC,"TISON, BENJAMIN T. (BEN)",Democrat,1,,,,vote for 4,0.9
+NC,Charlotte Observer,132300,1982,STATE REP,,,NC,"BERRY, PHILLIP O. (PHIL)",Democrat,1,,,,vote for 8,0.9
+NC,Charlotte Observer,132300,1982,STATE REP,,,NC,"BLACK, JIM",Democrat,1,,,,vote for 8,0.9
+NC,Charlotte Observer,132300,1982,STATE REP,,,NC,"BRENNAN, LOUISE S.",Democrat,1,,,,vote for 8,0.9
+NC,Charlotte Observer,132300,1982,STATE REP,,,NC,"EASTERLING, RUTH M.",Democrat,1,,,,vote for 8,0.9
+NC,Charlotte Observer,132300,1982,STATE REP,,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,vote for 8,0.9
+NC,Charlotte Observer,132300,1982,STATE REP,,,NC,"HELMS, PARKS",Democrat,1,,,,vote for 8,0.9
+NC,Charlotte Observer,132300,1982,STATE REP,,,NC,"RICHARDSON, JAMES F. (JIM)",Democrat,1,,,,vote for 8,0.9
+NC,Charlotte Observer,132300,1982,STATE REP,,,NC,"DAVIS, RUSSELL S. (RUSTY), JR.",Republican,1,,,,vote for 8,0.9
+NC,Charlotte Observer,132300,1982,SHERIFF,,,NC,"KIDD, C.W., JR.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1982,CNTY COMM,,,NC,"GREEN, SUSAN",Democrat,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1982,CNTY COMM,,,NC,"ODOM, T.L. (FOUNTAIN)",Democrat,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1982,CNTY COMM,,,NC,"RAY, W. THOMAS (TOM)",Democrat,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1982,CNTY COMM,,,NC,"WALTON, ROBERT L. (BOB)",Democrat,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1982,CNTY COMM,,,NC,"BISSELL, MARILYN R.",Republican,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1984,PRESIDENT,,,NC,"MONDALE, WALTER",Democrat,1,,,,,0.97
+NC,Charlotte Observer,132300,1984,SENATOR,,,NC,"HUNT, JAMES B. (JIM), JR.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,H,9,,NC,"MARTIN, D.G.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,GOVERNOR,,,NC,"EDMISTEN, RUFUS",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,LT GOVERNOR,,,NC,"JORDAN, ROBERT B. (BOB), III",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,SEC OF STATE,,,NC,"EURE, THAD",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,AUDITOR,,,NC,"RENFROW, EDWARD",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,ATTORNEY GENERAL,,,NC,"THORNBURG, LACY H.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JAMES A. (JIM)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,INSURANCE COMMISSIONER,,,NC,"LONG, JAMES E. (JIM)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,DIRECTOR,,,NC,"BROOKS, JOHN C.",Democrat,1,,,,Labor Commissioner,0.95
+NC,Charlotte Observer,132300,1984,SUPERINTENDENT,,,NC,"PHILLIPS, CRAIG",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1984,SUPREME COURT,,,NC,"FRYE, HENRY E.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,SUPREME COURT,,,NC,"MITCHELL, BURLEY B., JR.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,JUDGE,2,,NC,"GRIFFIN, WILLIAM C., JR.",Democrat,1,,,,Superior Court 2nd District,0.9
+NC,Charlotte Observer,132300,1984,JUDGE,24,,NC,"LAMM, CHARLES C., JR.",Democrat,1,,,,Superior Court 24th District,0.9
+NC,Charlotte Observer,132300,1984,DISTRICT COURT JUDGE,26,,NC,"TODD, T. MICHAEL",Democrat,1,,,,26th District,0.9
+NC,Charlotte Observer,132300,1984,STATE SENATOR,22,,NC,"JENKINS, CECIL R., JR.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,STATE SENATOR,34,,NC,"LAWING, W. CRAIG",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,STATE SENATOR,35,,NC,"HELMS, PARKS",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,STATE REP,36,,NC,"BLACK, JAMES B. (JIM)",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,STATE REP,54,,NC,"MCLAUGHLIN, JOHN B.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,STATE REP,55,,NC,"BRENNAN, LOUISE S.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,STATE REP,56,,NC,"FOSTER, JO GRAHAM",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,STATE REP,58,,NC,"EASTERLING, RUTH M.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1984,CNTY COMM,,,NC,"BYNUM, RALEIGH",Democrat,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1984,CNTY COMM,,,NC,"KINCAID, RANDALL R.",Democrat,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1984,CNTY COMM,,,NC,"ODOM, T.L. (FOUNTAIN)",Democrat,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1984,CNTY COMM,,,NC,"WALTON, ROBERT L. (BOB)",Democrat,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1984,CNTY COMM,,,NC,"AUTREY, T. RODNEY (ROD)",Republican,1,,,,vote for 5,0.9
+NC,Charlotte Observer,132300,1986,SENATOR,,,NC,"SANFORD, TERRY",Democrat,1,,,,,0.97
+NC,Charlotte Observer,132300,1986,H,9,,NC,"MARTIN, D.G.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1986,SUPREME COURT,,,NC,"EXUM, JAMES G., JR.",Democrat,1,,,,Chief Justice,0.9
+NC,Charlotte Observer,132300,1986,SUPREME COURT,,,NC,"MARTIN, HARRY C.",Democrat,1,,,,Associate Justice,0.9
+NC,Charlotte Observer,132300,1986,SUPREME COURT,,,NC,"MEYER, LOUIS B.",Republican,1,,,,Associate Justice,0.85
+NC,Charlotte Observer,132300,1986,SUPREME COURT,,,NC,"PARKER, FRANCIS I.",Republican,1,,,,Associate Justice,0.85
+NC,Charlotte Observer,132300,1986,SUPREME COURT,,,NC,"WHICHARD, WILLIS P.",Democrat,1,,,,Associate Justice,0.85
+NC,Charlotte Observer,132300,1986,COURT OF APPEALS,,,NC,"COZORT, JACK",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,COURT OF APPEALS,,,NC,"PEARCE, BETTY J.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,COURT OF APPEALS,,,NC,"MCNAMARA, THOMAS P.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,COURT OF APPEALS,,,NC,"GREENE, K. EDWARD (EDDIE)",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,JUDGE,2,,NC,"GRIFFIN, WILLIAM C., JR.",Democrat,1,,,,Superior Court 2nd District,0.85
+NC,Charlotte Observer,132300,1986,JUDGE,26,,NC,"BURROUGHS, ROBERT",Democrat,1,,,,Superior Court 26th District vote for two,0.8
+NC,Charlotte Observer,132300,1986,JUDGE,26,,NC,"SHERRILL, W. TERRY",Democrat,1,,,,Superior Court 26th District,0.8
+NC,Charlotte Observer,132300,1986,DISTRICT COURT JUDGE,26,,NC,"LANNING, JAMES E. (JIM)",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,SHERIFF,,,NC,"KIDD, C.W.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1986,CNTY COMM,,,NC,"CULBERTSON, PEGGY R.",,1,,,,At-Large vote for three,0.85
+NC,Charlotte Observer,132300,1986,CNTY COMM,,,NC,"CHESTNUT, MIKE",,1,,,,At-Large,0.8
+NC,Charlotte Observer,132300,1986,CNTY COMM,,,NC,"WALL, JOHN KELLY",,1,,,,At-Large,0.8
+NC,Charlotte Observer,132300,1986,CNTY COMM,1,,NC,"FRIDAY, SUE M.",,1,,,,District 1,0.85
+NC,Charlotte Observer,132300,1986,CNTY COMM,3,,NC,"BARROW, SAMUEL (DARK)",,1,,,,District 3,0.75
+NC,Charlotte Observer,132300,1986,CNTY COMM,4,,NC,"ANTHONY, TROY",,1,,,,District 4,0.85
+NC,Charlotte Observer,132300,1986,STATE SENATOR,22,,NC,"PUCCIO, CHARLES A.",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,STATE SENATOR,34,,NC,"JOHNSON, JAMES C. (JIM), JR.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,STATE REP,36,,NC,"BLACK, JIM",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1986,STATE REP,36,,NC,"WARREN, RAY",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,STATE REP,54,,NC,"MCLAUGHLIN, JOHN B.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1986,STATE REP,55,,NC,"BELL, GREG",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,STATE REP,55,,NC,"GRIMMER, HARRY",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1986,STATE REP,58,,NC,"EASTERLING, RUTH M.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1986,STATE REP,58,,NC,"DAVIS, RUSSELL S. (RUSTY), JR.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1988,PRESIDENT,,,NC,"DUKAKIS, MICHAEL S.",Democrat,1,,,,,0.97
+NC,Charlotte Observer,132300,1988,H,9,,NC,"SHOLANDER, MARK",Democrat,1,,,,U.S. Congress,0.9
+NC,Charlotte Observer,132300,1988,GOVERNOR,,,NC,"JORDAN, ROBERT B. (BOB), III",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1988,LT GOVERNOR,,,NC,"RAND, TONY",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1988,SEC OF STATE,,,NC,"EDMISTEN, RUFUS L.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1988,TREASURER,,,NC,"BOYLES, HARLAN E.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1988,AUDITOR,,,NC,"RENFROW, EDWARD",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1988,ATTORNEY GENERAL,,,NC,"THORNBURG, LACY H.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1988,AGRICULTURE COMMISSIONER,,,NC,"GRAHAM, JAMES A. (JIM)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1988,INSURANCE COMMISSIONER,,,NC,"LONG, JIM",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1988,DIRECTOR,,,NC,"BROOKS, JOHN C.",Democrat,1,,,,Labor Commissioner,0.95
+NC,Charlotte Observer,132300,1988,SUPERINTENDENT,,,NC,"ETHERIDGE, BOB",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1988,COURT OF APPEALS,,,NC,"FRIDAY, JOHN R.",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1988,COURT OF APPEALS,,,NC,"ORR, ROBERT F. (BOB)",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1988,COURT OF APPEALS,,,NC,"LEWIS, JOHN B. (JACK), JR.",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1988,COURT OF APPEALS,,,NC,"SMITH, DONALD L.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1988,JUDGE,6B,,NC,"GRANT, CY A., SR.",Democrat,1,,,,Superior Court 6B District,0.85
+NC,Charlotte Observer,132300,1988,JUDGE,10A,,NC,"GREENE, GEORGE R.",Democrat,1,,,,Superior Court 10A District,0.85
+NC,Charlotte Observer,132300,1988,JUDGE,10C,,NC,"CASHWELL, NARLEY L.",Democrat,1,,,,Superior Court 10C District,0.85
+NC,Charlotte Observer,132300,1988,DISTRICT COURT JUDGE,,,NC,"BLUM, SHELBY",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1988,DISTRICT COURT JUDGE,,,NC,"BONER, RICHARD",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1988,DISTRICT COURT JUDGE,,,NC,"GRONQUIST, JAMES (JIM)",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1988,DISTRICT COURT JUDGE,,,NC,"EVANS, YVONNE MIMS",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1988,STATE SENATOR,22,,NC,"JENKINS, CECIL R.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1988,STATE SENATOR,22,,NC,"JOHNSON, JAMES C. (JIM)",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1988,STATE SENATOR,34,,NC,"ODOM, T.L. (FOUNTAIN)",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1988,STATE REP,36,,NC,"BLACK, JIM",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1988,STATE REP,54,,NC,"MCLAUGHLIN, JOHN B.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1988,STATE REP,55,,NC,"KINSEY, PATSY B.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1988,RECORDER,,,NC,"GIBSON, JUDY A.",Democrat,1,,,,Register of Deeds,0.9
+NC,Charlotte Observer,132300,1988,CNTY COMM,,,NC,"GHEESLING, MIKE",Democrat,1,,,,At-Large vote for 3,0.9
+NC,Charlotte Observer,132300,1988,CNTY COMM,,,NC,"JONES, CEDRIC H.",Democrat,1,,,,At-Large,0.85
+NC,Charlotte Observer,132300,1988,CNTY COMM,,,NC,"WIGGINS, NANCY B.",Democrat,1,,,,At-Large,0.85
+NC,Charlotte Observer,132300,1988,CNTY COMM,,,NC,"AUTREY, ROD",Republican,1,,,,At-Large,0.85
+NC,Charlotte Observer,132300,1988,CNTY COMM,,,NC,"BLACKMON, JOHN G. (JERRY)",Republican,1,,,,At-Large,0.85
+NC,Charlotte Observer,132300,1988,CNTY COMM,,,NC,"DUPUY, CARLA",Republican,1,,,,At-Large,0.85
+NC,Charlotte Observer,132300,1988,CNTY COMM,1,,NC,"LOCKWOOD, BARBARA",Republican,1,,,,District 1,0.85
+NC,Charlotte Observer,132300,1988,CNTY COMM,2,,NC,"WALTON, ROBERT L. (BOB)",Democrat,1,,,,District 2,0.85
+NC,Charlotte Observer,132300,1988,CNTY COMM,4,,NC,"HIGGINS, GEORGE",Republican,1,,,,District 4,0.85
+NC,Charlotte Observer,132300,1990,SENATOR,,,NC,"GANTT, HARVEY B.",Democrat,1,,,,,0.97
+NC,Charlotte Observer,132300,1990,H,9,,NC,"MICKNIGHT, DAVID P.",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,SUPREME COURT,,,NC,"EXUM, JAMES G., JR.",Democrat,1,,,,Chief Justice,0.9
+NC,Charlotte Observer,132300,1990,SUPREME COURT,,,NC,"WEBB, JOHN",Democrat,1,,,,Associate Justice,0.85
+NC,Charlotte Observer,132300,1990,SUPREME COURT,,,NC,"WHICHARD, WILLIS P.",Democrat,1,,,,Associate Justice,0.85
+NC,Charlotte Observer,132300,1990,COURT OF APPEALS,,,NC,"PHILLIPS, EUGENE H. (GENE)",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,COURT OF APPEALS,,,NC,"JOHNSTON, CLIFTON E.",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,COURT OF APPEALS,,,NC,"PARKER, SARAH",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,COURT OF APPEALS,,,NC,"EAGLES, SIDNEY S., JR.",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,COURT OF APPEALS,,,NC,"GREENE, K. EDWARD",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,COURT OF APPEALS,,,NC,"WYNN, JAMES A., JR.",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,JUDGE,7-A,,NC,"MESSNER, QUENTIN T.",Democrat,1,,,,Superior Court 7-A District (Observer and other cands),0.75
+NC,Charlotte Observer,132300,1990,JUDGE,21-A,,NC,"WOOD, WILLIAM Z. (BILL), JR.",Democrat,1,,,,Superior Court 21-A District,0.8
+NC,Charlotte Observer,132300,1990,JUDGE,26-A,,NC,"JOHNSON, MARION",Democrat,1,,,,Superior Court 26-A District,0.8
+NC,Charlotte Observer,132300,1990,JUDGE,26-B,,NC,"JOHNSTON, ROBERT P.",Democrat,1,,,,Superior Court 26-B District (vote for 2),0.8
+NC,Charlotte Observer,132300,1990,JUDGE,26-B,,NC,"JONES, JULIA",Democrat,1,,,,Superior Court 26-B District,0.8
+NC,Charlotte Observer,132300,1990,JUDGE,26,,NC,"WILSON, SAMUEL A., III",Democrat,1,,,,Superior Court,0.75
+NC,Charlotte Observer,132300,1990,JUDGE,29,,NC,"GREENLEE, LOTO J.",Democrat,1,,,,Superior Court 29th District (vote for 2),0.75
+NC,Charlotte Observer,132300,1990,JUDGE,29,,NC,"BURRELL, CHARLES R.",Republican,1,,,,Superior Court,0.75
+NC,Charlotte Observer,132300,1990,DISTRICT COURT JUDGE,,,NC,"HARPER, JANE",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,CNTY CLERK,,,NC,"CURRAN, MARTHA",Republican,1,,,,Clerk Superior Court,0.9
+NC,Charlotte Observer,132300,1990,SHERIFF,,,NC,"KIDD, C.W.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1990,CNTY COMM,,,NC,"KISER, PATSY",Democrat,1,,,,At-Large vote for three,0.85
+NC,Charlotte Observer,132300,1990,CNTY COMM,,,NC,"CRUSE, NEIL",Democrat,1,,,,At-Large,0.85
+NC,Charlotte Observer,132300,1990,CNTY COMM,,,NC,"AUTREY, ROD",Republican,1,,,,At-Large,0.85
+NC,Charlotte Observer,132300,1990,CNTY COMM,,,NC,"KEIBER, PETER",Republican,1,,,,At-Large,0.8
+NC,Charlotte Observer,132300,1990,CNTY COMM,,,NC,"SCHRADER, ANN",Republican,1,,,,At-Large,0.8
+NC,Charlotte Observer,132300,1990,CNTY COMM,4,,NC,"BEHER, LLOYD",Democrat,1,,,,District 4,0.7
+NC,Charlotte Observer,132300,1990,CNTY COMM,5,,NC,"ANDREWS, KEN",Republican,1,,,,District 5,0.8
+NC,Charlotte Observer,132300,1990,STATE SENATOR,22,,NC,"JOHNSON, JAMES C. (JIM), SR.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,STATE SENATOR,22,,NC,"HARTSELL, FLETCHER, JR.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,STATE SENATOR,34,,NC,"ODOM, T.L. (FOUNTAIN)",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1990,STATE SENATOR,35,,NC,"ALEXANDER, MARTHA",Democrat,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,STATE SENATOR,35,,NC,"BLACKMON, J.G. (JERRY)",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,STATE REP,36,,NC,"BLACK, JAMES B. (JIM)",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1990,STATE REP,54,,NC,"MCLAUGHLIN, JOHN B.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,1990,STATE REP,55,,NC,"BALMER, DAVID G.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1990,STATE REP,57,,NC,"SPRINKLE, WILLA VON",Democrat,1,,,,,0.75
+NC,Charlotte Observer,132300,1990,STATE REP,58,,NC,"EASTERLING, RUTH M.",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,2006,H,8,,NC,"KISSELL, LARRY",Democrat,1,,,,over Republican Rep. Robin Hayes,0.97
+NC,Charlotte Observer,132300,2006,H,9,,NC,"MYRICK, SUE",Republican,1,,,,incumbent over Democrat Bill Glass,0.97
+NC,Charlotte Observer,132300,2006,H,12,,NC,"WATT, MEL",Democrat,1,,,,incumbent over Republican Ada Fisher,0.97
+NC,Charlotte Observer,132300,2006,CNTY COMM,AT-LARGE,Mecklenburg,NC,"HELMS, PARKS",Democrat,1,,,,at-large incumbent,0.95
+NC,Charlotte Observer,132300,2006,CNTY COMM,AT-LARGE,Mecklenburg,NC,"REMBERT, WILHELMENIA",Democrat,1,,,,at-large incumbent,0.95
+NC,Charlotte Observer,132300,2006,CNTY COMM,AT-LARGE,Mecklenburg,NC,"ROBERTS, JENNIFER",Democrat,1,,,,at-large incumbent,0.95
+NC,Charlotte Observer,132300,2006,CNTY COMM,1,Mecklenburg,NC,"BENTLEY, KAREN",Republican,1,,,,over Democrat Thurman Ross,0.95
+NC,Charlotte Observer,132300,2006,CNTY COMM,2,Mecklenburg,NC,"MITCHELL, NORMAN",Democrat,1,,,,incumbent over Republican Debbie Ware,0.95
+NC,Charlotte Observer,132300,2006,CNTY COMM,4,Mecklenburg,NC,"CLARKE, DUMONT",Democrat,1,,,,incumbent over Republican Clarence Puckett,0.95
+NC,Charlotte Observer,132300,2006,SUPREME COURT,,,NC,"PARKER, SARAH",,1,,,,Chief Justice; over Rusty Duke,0.95
+NC,Charlotte Observer,132300,2006,SUPREME COURT,,,NC,"MARTIN, MARK",,1,,,,Associate Justice; over Rachel Lea Hunter,0.95
+NC,Charlotte Observer,132300,2006,SUPREME COURT,,,NC,"TIMMONS-GOODSON, PATRICIA",,1,,,,Associate Justice; over Eric Levinson,0.95
+NC,Charlotte Observer,132300,2006,SUPREME COURT,,,NC,"HUDSON, ROBIN",,1,,,,Associate Justice; over Ann Marie Calabria,0.95
+NC,Charlotte Observer,132300,2006,COURT OF APPEALS,,,NC,"HUNTER, ROBERT",,1,,,,incumbent over Kris Bailey,0.95
+NC,Charlotte Observer,132300,2006,COURT OF APPEALS,,,NC,"STEPHENS, LINDA",,1,,,,incumbent over Donna Stroud,0.95
+NC,Charlotte Observer,132300,2006,DISTRICT COURT JUDGE,,Mecklenburg,NC,"SMITH, TIM",,1,,,,over Tonja Damon,0.93
+NC,Charlotte Observer,132300,2006,STATE REP,100,,NC,"JORDAN, HAL",Republican,1,,,,over incumbent Democrat Jim Black,0.95
+NC,Charlotte Observer,132300,2006,STATE SENATOR,40,,NC,"GRAHAM, MALCOLM",Democrat,1,,,,incumbent over Ed Mulheren,0.95
+NC,Charlotte Observer,132300,2006,STATE REP,103,,NC,"PASSALY, EVERETTE",Democrat,1,,,,over Republican incumbent Jim Gulley,0.93
+NC,Charlotte Observer,132300,2006,STATE REP,104,,NC,"SAMUELSON, RUTH",Republican,1,,,,over Democrat Paula McSwain,0.95
+NC,Charlotte Observer,132300,2006,SHERIFF,,Mecklenburg,NC,"PENDERGRAPH, JIM",Democrat,1,,,,over Republican Steve Ridge,0.95
+NC,Charlotte Observer,132300,2006,DIRECTOR,,Mecklenburg,NC,"NEWMAN, GRAY",,1,,,,Soil & Water Conservation; over Brett Froelich,0.92
+NC,Charlotte Observer,132300,2006,DIRECTOR,,Mecklenburg,NC,"AUTRY, JOHN",,1,,,,Soil & Water Conservation; over Brett Froelich,0.92
+NC,Charlotte Observer,132300,2008,PRESIDENT,,,NC,"OBAMA, BARACK",Democrat,1,,,,over John McCain,0.98
+NC,Charlotte Observer,132300,2008,GOVERNOR,,,NC,"MCCRORY, PAT",Republican,1,,,,over Democrat Bev Perdue,0.97
+NC,Charlotte Observer,132300,2008,SENATOR,,,NC,"HAGAN, KAY",Democrat,1,,,,over Republican incumbent Elizabeth Dole,0.97
+NC,Charlotte Observer,132300,2008,H,8,,NC,"KISSELL, LARRY",Democrat,1,,,,over Republican Robin Hayes,0.97
+NC,Charlotte Observer,132300,2008,H,9,,NC,"MYRICK, SUE",Republican,1,,,,incumbent over Democrat Harry Taylor,0.96
+NC,Charlotte Observer,132300,2008,H,10,,NC,"JOHNSON, DANIEL",Democrat,1,,,,over Republican Patrick McHenry,0.95
+NC,Charlotte Observer,132300,2008,H,12,,NC,"WATT, MEL",Democrat,1,,,,incumbent over Republican Ty Cobb,0.97
+NC,Charlotte Observer,132300,2008,LT GOVERNOR,,,NC,"DALTON, WALTER",Democrat,1,,,,over Republican Robert Pittenger,0.94
+NC,Charlotte Observer,132300,2008,ATTORNEY GENERAL,,,NC,"COOPER, ROY",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,2008,AUDITOR,,,NC,"WOOD, BETH",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,2008,AGRICULTURE COMMISSIONER,,,NC,"TROXLER, STEVE",Republican,1,,,,incumbent,0.95
+NC,Charlotte Observer,132300,2008,DIRECTOR,,,NC,"DONNAN, MARY FANT",Democrat,1,,,,Labor Commissioner; over Republican incumbent Cherie Berry,0.94
+NC,Charlotte Observer,132300,2008,INSURANCE COMMISSIONER,,,NC,"GOODWIN, WAYNE",Democrat,1,,,,,0.94
+NC,Charlotte Observer,132300,2008,SEC OF STATE,,,NC,"MARSHALL, ELAINE",Democrat,1,,,,incumbent,0.95
+NC,Charlotte Observer,132300,2008,TREASURER,,,NC,"DAUGHTRIDGE, BILL",Republican,1,,,,,0.93
+NC,Charlotte Observer,132300,2008,STATE SENATOR,,,NC,"CLODFELTER, DAN",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2008,STATE SENATOR,,,NC,"DANNELLY, CHARLIE",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2008,STATE SENATOR,,,NC,"GRAHAM, MALCOLM",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2008,STATE REP,99,,NC,"MILLER, DEMPSEY",Republican,1,,,,over Democrat Nick Mackey,0.93
+NC,Charlotte Observer,132300,2008,STATE REP,,,NC,"COTHAM, TRICIA",Democrat,1,,,,,0.92
+NC,Charlotte Observer,132300,2008,STATE REP,,,NC,"EARLE, BEVERLY",Democrat,1,,,,,0.92
+NC,Charlotte Observer,132300,2008,STATE REP,,,NC,"CARNEY, BECKY",Democrat,1,,,,opponent dropped out,0.92
+NC,Charlotte Observer,132300,2008,STATE REP,,,NC,"ALEXANDER, KELLY",Democrat,1,,,,,0.92
+NC,Charlotte Observer,132300,2008,STATE REP,103,,NC,"BRODY, MARK",Independent,1,,,,over Republican incumbent Jim Gulley,0.93
+NC,Charlotte Observer,132300,2008,CNTY COMM,AT-LARGE,Mecklenburg,NC,"ROBERTS, JENNIFER",Democrat,1,,,,at-large,0.93
+NC,Charlotte Observer,132300,2008,CNTY COMM,AT-LARGE,Mecklenburg,NC,"MURREY, DAN",Democrat,1,,,,at-large,0.93
+NC,Charlotte Observer,132300,2008,CNTY COMM,AT-LARGE,Mecklenburg,NC,"JORDAN, HAL",Republican,1,,,,at-large,0.93
+NC,Charlotte Observer,132300,2008,CNTY COMM,1,Mecklenburg,NC,"BENTLEY, KAREN",Republican,1,,,,first-term incumbent,0.93
+NC,Charlotte Observer,132300,2008,RECORDER,,Mecklenburg,NC,"GIBSON, JUDY",Republican,1,,,,Register of Deeds,0.92
+NC,Charlotte Observer,132300,2008,SUPREME COURT,,,NC,"EDMUNDS, BOB",,1,,,,nonpartisan,0.92
+NC,Charlotte Observer,132300,2008,COURT OF APPEALS,,,NC,"WYNN, JAMES",,1,,,,nonpartisan,0.9
+NC,Charlotte Observer,132300,2008,COURT OF APPEALS,,,NC,"ARROWOOD, JOHN",,1,,,,nonpartisan,0.9
+NC,Charlotte Observer,132300,2008,COURT OF APPEALS,,,NC,"ERVIN IV, SAM",,1,,,,nonpartisan,0.9
+NC,Charlotte Observer,132300,2008,COURT OF APPEALS,,,NC,"MCCULLOUGH, DOUG",,1,,,,nonpartisan,0.9
+NC,Charlotte Observer,132300,2008,COURT OF APPEALS,,,NC,"STEPHENS, LINDA",,1,,,,nonpartisan,0.9
+NC,Charlotte Observer,132300,2008,DISTRICT COURT JUDGE,,Mecklenburg,NC,"HOOVER, DONNIE",,1,,,,,0.9
+NC,Charlotte Observer,132300,2008,DISTRICT COURT JUDGE,,Mecklenburg,NC,"KEARNEY, STEPHEN",,1,,,,,0.9
+NC,Charlotte Observer,132300,2008,DISTRICT COURT JUDGE,,Mecklenburg,NC,"MERCER, FRITZ",,1,,,,,0.9
+NC,Charlotte Observer,132300,2008,DISTRICT COURT JUDGE,,Mecklenburg,NC,"NIXON, THEO",,1,,,,,0.9
+NC,Charlotte Observer,132300,2008,DISTRICT COURT JUDGE,,Mecklenburg,NC,"OWENS, TODD",,1,,,,,0.9
+NC,Charlotte Observer,132300,2008,DISTRICT COURT JUDGE,,Mecklenburg,NC,"MOORE, TOM",,1,,,,,0.9
+NC,Charlotte Observer,132300,2008,DISTRICT COURT JUDGE,,Mecklenburg,NC,"THALHEIM, BEN",,1,,,,,0.9
+NC,Charlotte Observer,132300,2010,SENATOR,,,NC,"MARSHALL, ELAINE",Democrat,1,,,,over Richard Burr,0.96
+NC,Charlotte Observer,132300,2010,H,8,,NC,"KISSELL, LARRY",Democrat,1,,,,first-term incumbent,0.96
+NC,Charlotte Observer,132300,2010,H,9,,NC,"MYRICK, SUE",Republican,1,,,,incumbent,0.96
+NC,Charlotte Observer,132300,2010,H,12,,NC,"WATT, MEL",Democrat,1,,,,incumbent,0.96
+NC,Charlotte Observer,132300,2010,STATE SENATOR,35,,NC,"TUCKER, TOMMY",Republican,1,,,,,0.93
+NC,Charlotte Observer,132300,2010,STATE SENATOR,37,,NC,"CLODFELTER, DAN",Democrat,1,,,,,0.94
+NC,Charlotte Observer,132300,2010,STATE SENATOR,38,,NC,"DANNELLY, CHARLIE",Democrat,1,,,,,0.94
+NC,Charlotte Observer,132300,2010,STATE SENATOR,40,,NC,"GRAHAM, MALCOLM",Democrat,1,,,,four-term incumbent,0.94
+NC,Charlotte Observer,132300,2010,STATE REP,99,,NC,"MOORE, RODNEY",Democrat,1,,,,beat incumbent Nick Mackey in primary,0.93
+NC,Charlotte Observer,132300,2010,STATE REP,101,,NC,"EARLE, BEVERLY",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2010,STATE REP,103,,NC,"NEWMAN, ANN",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2010,STATE REP,104,,NC,"SAMUELSON, RUTH",Republican,1,,,,,0.93
+NC,Charlotte Observer,132300,2010,STATE REP,106,,NC,"ALEXANDER, MARTHA",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2010,STATE REP,107,,NC,"ALEXANDER, KELLY",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2010,DA/PROSECUTOR,,Mecklenburg,NC,"MURRAY, ANDREW",Republican,1,,,,replacing Peter Gilchrist,0.93
+NC,Charlotte Observer,132300,2010,CNTY COMM,AT-LARGE,Mecklenburg,NC,"MURREY, DAN",Democrat,1,,,,at-large incumbent,0.92
+NC,Charlotte Observer,132300,2010,CNTY COMM,AT-LARGE,Mecklenburg,NC,"COGDELL, HAROLD",Democrat,1,,,,at-large incumbent,0.92
+NC,Charlotte Observer,132300,2010,CNTY COMM,AT-LARGE,Mecklenburg,NC,"PENDERGRAPH, JIM",Republican,1,,,,at-large; former sheriff,0.92
+NC,Charlotte Observer,132300,2010,CNTY COMM,2,Mecklenburg,NC,"LEAKE, VILMA",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,2010,CNTY COMM,4,Mecklenburg,NC,"CLARKE, DUMONT",Democrat,1,,,,,0.9
+NC,Charlotte Observer,132300,2010,SHERIFF,,Mecklenburg,NC,"BAILEY, CHIPP",Democrat,1,,,,incumbent,0.95
+NC,Charlotte Observer,132300,2010,SUPREME COURT,,,NC,"HUNTER, ROBERT C. (BOB)",,1,,,,nonpartisan,0.93
+NC,Charlotte Observer,132300,2010,COURT OF APPEALS,,,NC,"GRAY, STEVEN",,1,,,,Mecklenburg district judge,0.85
+NC,Charlotte Observer,132300,2010,COURT OF APPEALS,,,NC,"ELMORE, RICK",,1,,,,,0.9
+NC,Charlotte Observer,132300,2010,COURT OF APPEALS,,,NC,"GEER, MARTHA",,1,,,,appeals court judge since 2003,0.9
+NC,Charlotte Observer,132300,2010,COURT OF APPEALS,,,NC,"THIGPEN, CRESSIE",,1,,,,"Instant Runoff Voting; first/second/third choices: Thigpen, then Stan Hammer and Mark Klass",0.88
+NC,Charlotte Observer,132300,2010,JUDGE,,Mecklenburg,NC,"WILLIAMSON, LANE",,1,,,,nonpartisan; Superior Court,0.9
+NC,Charlotte Observer,132300,2010,JUDGE,,Mecklenburg,NC,"LEWIS, HUGH",,1,,,,district court judge since 2000; Superior Court,0.9
+NC,Charlotte Observer,132300,2010,DISTRICT COURT JUDGE,,Mecklenburg,NC,"BELL, LISA",,1,,,,,0.9
+NC,Charlotte Observer,132300,2010,DISTRICT COURT JUDGE,,Mecklenburg,NC,"CULLER, JENA",,1,,,,,0.9
+NC,Charlotte Observer,132300,2010,DISTRICT COURT JUDGE,,Mecklenburg,NC,"HANDS, TYYAWDI",,1,,,,,0.88
+NC,Charlotte Observer,132300,2010,DISTRICT COURT JUDGE,,Mecklenburg,NC,"OSMAN, MATT",,1,,,,assistant DA in Union County,0.9
+NC,Charlotte Observer,132300,2010,DIRECTOR,,Mecklenburg,NC,"AUTRY, JOHN",,1,,,,Soil & Water Conservation incumbent,0.9
+NC,Charlotte Observer,132300,2010,DIRECTOR,,Mecklenburg,NC,"ENTREKIN, MICHAEL",,1,,,,Soil & Water Conservation incumbent,0.9
+NC,Charlotte Observer,132300,2012,PRESIDENT,,,NC,"OBAMA, BARACK",Democrat,1,,,,over Mitt Romney,0.97
+NC,Charlotte Observer,132300,2012,H,9,,NC,"ROBERTS, JENNIFER",Democrat,1,,,,over Republican Robert Pittenger,0.95
+NC,Charlotte Observer,132300,2012,H,8,,NC,"HUDSON, RICHARD",Republican,1,,,,over incumbent Democrat Larry Kissell,0.95
+NC,Charlotte Observer,132300,2012,H,12,,NC,"WATT, MEL",Democrat,1,,,,10-term incumbent; over Republican Jack Brosch,0.96
+NC,Charlotte Observer,132300,2012,GOVERNOR,,,NC,"MCCRORY, PAT",Republican,1,,,,former Charlotte mayor,0.96
+NC,Charlotte Observer,132300,2012,LT GOVERNOR,,,NC,"COLEMAN, LINDA",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2012,AUDITOR,,,NC,"WOOD, BETH",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2012,AGRICULTURE COMMISSIONER,,,NC,"TROXLER, STEVE",Republican,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2012,INSURANCE COMMISSIONER,,,NC,"GOODWIN, WAYNE",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2012,DIRECTOR,,,NC,"BROOKS, JOHN",Democrat,1,,,,Labor Commissioner; over incumbent Cherie Berry,0.93
+NC,Charlotte Observer,132300,2012,SEC OF STATE,,,NC,"MARSHALL, ELAINE",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2012,SUPERINTENDENT,,,NC,"ATKINSON, JUNE",Democrat,1,,,,two-term incumbent,0.93
+NC,Charlotte Observer,132300,2012,TREASURER,,,NC,"COWELL, JANET",Democrat,1,,,,incumbent (referenced),0.85
+NC,Charlotte Observer,132300,2012,STATE SENATOR,32,,NC,"CLODFELTER, DAN",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2012,STATE SENATOR,38,,NC,"FORD, JOEL",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2012,STATE SENATOR,39,,NC,"RUCHO, BOB",Republican,1,,,,incumbent over Democrat Jack Flynn,0.93
+NC,Charlotte Observer,132300,2012,STATE SENATOR,40,,NC,"GRAHAM, MALCOLM",Democrat,1,,,,four-term incumbent,0.93
+NC,Charlotte Observer,132300,2012,STATE REP,92,,NC,"JETER, CHARLES",Republican,1,,,,Huntersville town commissioner,0.93
+NC,Charlotte Observer,132300,2012,CNTY COMM,AT-LARGE,Mecklenburg,NC,"COTHAM, PAT",Democrat,1,,,,at-large,0.93
+NC,Charlotte Observer,132300,2012,CNTY COMM,AT-LARGE,Mecklenburg,NC,"FULLER, TREVOR",Democrat,1,,,,at-large,0.93
+NC,Charlotte Observer,132300,2012,CNTY COMM,AT-LARGE,Mecklenburg,NC,"POWERS, MARK",Republican,1,,,,at-large; radio talk show host,0.92
+NC,Charlotte Observer,132300,2012,CNTY COMM,1,Mecklenburg,NC,"BENTLEY, KAREN",Republican,1,,,,incumbent,0.93
+NC,Charlotte Observer,132300,2012,CNTY COMM,2,Mecklenburg,NC,"LEAKE, VILMA",Democrat,1,,,,incumbent over Republican Kevin Spitzmiller,0.92
+NC,Charlotte Observer,132300,2012,CNTY COMM,5,Mecklenburg,NC,"RIDENHOUR, MATTHEW",Republican,1,,,,Hans alternative is Hans Plotseneder - mention of strong candidate,0.85
+NC,Charlotte Observer,132300,2012,CNTY COMM,6,Mecklenburg,NC,"JAMES, BILL",Republican,1,,,,incumbent,0.9
+NC,Charlotte Observer,132300,2012,RECORDER,,Mecklenburg,NC,"GRANBERRY, DAVID",,1,,,,Register of Deeds incumbent,0.93
+NC,Charlotte Observer,132300,2012,SUPREME COURT,,,NC,"NEWBY, PAUL",,1,,,,Justice Paul Newby for reelection,0.92
+NC,Charlotte Observer,132300,2012,COURT OF APPEALS,,,NC,"BEASLEY, CHERI",,1,,,,incumbent,0.9
+NC,Charlotte Observer,132300,2012,COURT OF APPEALS,,,NC,"ERVIN, SAM IV",,1,,,,incumbent,0.9
+NC,Charlotte Observer,132300,2012,COURT OF APPEALS,,,NC,"DAVIS, MARK",,1,,,,incumbent,0.9
+NC,Charlotte Observer,132300,2012,DISTRICT COURT JUDGE,,Mecklenburg,NC,"WATSON, CHURCH",,1,,,,over David Strickland,0.88
+NC,Charlotte Observer,132300,2012,DIRECTOR,,Mecklenburg,NC,"FROST, JENNIFER KRUPOWICZ",,1,,,,Soil & Water Conservation incumbent,0.9
+NC,Charlotte Observer,132300,2014,SENATOR,,,NC,"HAGAN, KAY",Democrat,1,,,,incumbent over Thom Tillis,0.95
+NC,Charlotte Observer,132300,2014,H,8,,NC,"HUDSON, RICHARD",Republican,1,,,,incumbent over Antonio Blue,0.94
+NC,Charlotte Observer,132300,2014,H,12,,NC,"ADAMS, ALMA",Democrat,1,,,,over Republican Vince Coakley,0.94
+NC,Charlotte Observer,132300,2014,STATE SENATOR,38,,NC,"FORD, JOEL",Democrat,1,,,,incumbent over Republican Richard Rivette,0.94
+NC,Charlotte Observer,132300,2014,STATE SENATOR,41,,NC,"TARTE, JEFF",Republican,1,,,,incumbent over Latrice McRae,0.94
+NC,Charlotte Observer,132300,2014,STATE REP,88,,NC,"STORCH, MARGIE",Democrat,1,,,,over incumbent Rob Bryan,0.93
+NC,Charlotte Observer,132300,2014,STATE REP,92,,NC,"JETER, CHARLES",Republican,1,,,,incumbent over Robin Bradford,0.93
+NC,Charlotte Observer,132300,2014,STATE REP,98,,NC,"BRADFORD, JOHN",Republican,1,,,,for seat vacated by Thom Tillis; over Natasha Marcus,0.93
+NC,Charlotte Observer,132300,2014,STATE REP,104,,NC,"BISHOP, DAN",Republican,1,,,,over Libertarian Eric Cable,0.93
+NC,Charlotte Observer,132300,2014,STATE REP,106,,NC,"CUNNINGHAM, CARLA",Democrat,1,,,,incumbent over Trey Lowe,0.93
+NC,Charlotte Observer,132300,2014,SUPREME COURT,,,NC,"MARTIN, MARK",,1,,,,for chief justice over Ola Lewis,0.93
+NC,Charlotte Observer,132300,2014,SUPREME COURT,,,NC,"ERVIN IV, SAM",,1,,,,Court of Appeals judge running for Supreme Court,0.92
+NC,Charlotte Observer,132300,2014,SUPREME COURT,,,NC,"HUDSON, ROBIN",,1,,,,incumbent over Eric Levinson,0.92
+NC,Charlotte Observer,132300,2014,SUPREME COURT,,,NC,"BEASLEY, CHERI",,1,,,,incumbent,0.92
+NC,Charlotte Observer,132300,2014,COURT OF APPEALS,,,NC,"INMAN, LUCY",,1,,,,over Bill Southern,0.92
+NC,Charlotte Observer,132300,2014,COURT OF APPEALS,,,NC,"DAVIS, MARK",,1,,,,incumbent,0.92
+NC,Charlotte Observer,132300,2014,COURT OF APPEALS,,,NC,"ARROWOOD, JOHN",,1,,,,,0.92
+NC,Charlotte Observer,132300,2014,JUDGE,,Mecklenburg,NC,"BELL, BOB",,1,,,,respected Superior Court judge,0.9
+NC,Charlotte Observer,132300,2014,JUDGE,,Mecklenburg,NC,"BOWERS, JOHN",,1,,,,Superior Court,0.9
+NC,Charlotte Observer,132300,2014,DISTRICT COURT JUDGE,,Mecklenburg,NC,"NIXON, THEO",,1,,,,incumbent,0.9
+NC,Charlotte Observer,132300,2014,DISTRICT COURT JUDGE,,Mecklenburg,NC,"VISER, CASEY",,1,,,,incumbent,0.9
+NC,Charlotte Observer,132300,2014,CNTY CLERK,,Mecklenburg,NC,"EFIRD, MARTHA",,1,,,,Clerk of Superior Court; over Elisa Chinn Gary,0.88
+NC,Charlotte Observer,132300,2014,CNTY COMM,AT-LARGE,Mecklenburg,NC,"COTHAM, PAT",Democrat,1,,,,at-large incumbent,0.93
+NC,Charlotte Observer,132300,2014,CNTY COMM,AT-LARGE,Mecklenburg,NC,"FULLER, TREVOR",Democrat,1,,,,at-large incumbent,0.93
+NC,Charlotte Observer,132300,2014,CNTY COMM,AT-LARGE,Mecklenburg,NC,"PUCKETT, JIM",Republican,1,,,,at-large; Huntersville businessman,0.92
+NC,Charlotte Observer,132300,2014,CNTY COMM,,Mecklenburg,NC,"RIDENHOUR, MATTHEW",Republican,1,,,,incumbent,0.91
+NC,Charlotte Observer,132300,2014,SHERIFF,,Mecklenburg,NC,"CARMICHAEL, IRWIN",Democrat,1,,,,over Chris Hailey,0.93
+NC,Charlotte Observer,132300,2016,PRESIDENT,,,NC,"CLINTON, HILLARY",Democrat,1,,,,over Donald Trump,0.97
+NC,Charlotte Observer,132300,2016,SENATOR,,,NC,"ROSS, DEBORAH",Democrat,1,,,,over incumbent Richard Burr,0.95
+NC,Charlotte Observer,132300,2016,H,9,,NC,"CANO, CHRISTIAN",Democrat,1,,,,over incumbent Robert Pittenger,0.94
+NC,Charlotte Observer,132300,2016,H,12,,NC,"ADAMS, ALMA",Democrat,1,,,,over Republican Leon Threatt,0.94
+NC,Charlotte Observer,132300,2016,GOVERNOR,,,NC,"COOPER, ROY",Democrat,1,,,,over incumbent Pat McCrory,0.96
+NC,Charlotte Observer,132300,2016,LT GOVERNOR,,,NC,"COLEMAN, LINDA",Democrat,1,,,,over incumbent Dan Forest,0.94
+NC,Charlotte Observer,132300,2016,ATTORNEY GENERAL,,,NC,"STEIN, JOSH",Democrat,1,,,,over Buck Newton,0.94
+NC,Charlotte Observer,132300,2016,TREASURER,,,NC,"FOLWELL, DALE",Republican,1,,,,,0.93
+NC,Charlotte Observer,132300,2016,DIRECTOR,,,NC,"MEEKER, CHARLES",Democrat,1,,,,Labor Commissioner; over incumbent Cherie Berry,0.93
+NC,Charlotte Observer,132300,2016,AUDITOR,,,NC,"WOOD, BETH",Democrat,1,,,,incumbent over Chuck Stuber,0.94
+NC,Charlotte Observer,132300,2016,SEC OF STATE,,,NC,"MARSHALL, ELAINE",Democrat,1,,,,incumbent over Michael LaPaglia,0.94
+NC,Charlotte Observer,132300,2016,INSURANCE COMMISSIONER,,,NC,"GOODWIN, WAYNE",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2016,AGRICULTURE COMMISSIONER,,,NC,"TROXLER, STEVE",Republican,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2016,SUPERINTENDENT,,,NC,"ATKINSON, JUNE",Democrat,1,,,,incumbent,0.93
+NC,Charlotte Observer,132300,2016,SUPREME COURT,,,NC,"EDMUNDS, BOB",,1,,,,,0.93
+NC,Charlotte Observer,132300,2016,COURT OF APPEALS,,,NC,"STEPHENS, LINDA",,1,,,,joined court 2006,0.92
+NC,Charlotte Observer,132300,2016,COURT OF APPEALS,,,NC,"EAGLES, MARGARET",,1,,,,Wake County District Court judge,0.92
+NC,Charlotte Observer,132300,2016,COURT OF APPEALS,,,NC,"HUNTER, BOB",,1,,,,,0.92
+NC,Charlotte Observer,132300,2016,COURT OF APPEALS,,,NC,"DIETZ, RICHARD",,1,,,,McCrory appointee,0.92
+NC,Charlotte Observer,132300,2016,COURT OF APPEALS,,,NC,"MCKOY-MITCHELL, RICKYE",,1,,,,Mecklenburg District Court judge,0.92
+NC,Charlotte Observer,132300,2016,STATE SENATOR,37,,NC,"JACKSON, JEFF",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2016,STATE SENATOR,38,,NC,"FORD, JOEL",Democrat,1,,,,incumbent,0.93
+NC,Charlotte Observer,132300,2016,STATE SENATOR,39,,NC,"SCHER, LLOYD",Democrat,1,,,,over incumbent Dan Bishop,0.92
+NC,Charlotte Observer,132300,2016,STATE SENATOR,40,,NC,"WADDELL, JOYCE",Democrat,1,,,,,0.92
+NC,Charlotte Observer,132300,2016,STATE SENATOR,41,,NC,"TARTE, JEFF",Republican,1,,,,incumbent,0.93
+NC,Charlotte Observer,132300,2016,STATE REP,88,,NC,"BELK, MARY",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2016,STATE REP,92,,NC,"BEASLEY, CHAZ",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2016,STATE REP,98,,NC,"CAMPBELL, JANE",Independent,1,,,,"unaffiliated, backed by Democrats",0.92
+NC,Charlotte Observer,132300,2016,STATE REP,101,,NC,"EARLE, BEVERLY",Democrat,1,,,,12th term,0.93
+NC,Charlotte Observer,132300,2016,STATE REP,102,,NC,"BRAWLEY, BILL",Republican,1,,,,,0.93
+NC,Charlotte Observer,132300,2016,STATE REP,104,,NC,"NORIS, PETER",Democrat,1,,,,over Republican Andy Dulin,0.92
+NC,Charlotte Observer,132300,2016,STATE REP,105,,NC,"STONE, SCOTT",Republican,1,,,,,0.93
+NC,Charlotte Observer,132300,2016,CNTY COMM,AT-LARGE,Mecklenburg,NC,"COTHAM, PAT",Democrat,1,,,,at-large incumbent,0.93
+NC,Charlotte Observer,132300,2016,CNTY COMM,AT-LARGE,Mecklenburg,NC,"FULLER, TREVOR",Democrat,1,,,,at-large incumbent,0.93
+NC,Charlotte Observer,132300,2016,CNTY COMM,AT-LARGE,Mecklenburg,NC,"BRASCH, JEREMY",Republican,1,,,,at-large,0.92
+NC,Charlotte Observer,132300,2016,CNTY COMM,5,Mecklenburg,NC,"RIDENHOUR, MATTHEW",Republican,1,,,,incumbent,0.93
+NC,Charlotte Observer,132300,2016,DISTRICT COURT JUDGE,,Mecklenburg,NC,"MANN, CHRISTY",,1,,,,,0.92
+NC,Charlotte Observer,132300,2016,DISTRICT COURT JUDGE,,Mecklenburg,NC,"STRICKLAND, DAVID",,1,,,,lead juvenile court judge,0.92
+NC,Charlotte Observer,132300,2016,DISTRICT COURT JUDGE,,Mecklenburg,NC,"HEWETT, TRACY",,1,,,,public defender,0.92
+NC,Charlotte Observer,132300,2016,DIRECTOR,,Mecklenburg,NC,"JOHNSON, BRAD",,1,,,,Soil & Water Conservation; Davidson College professor,0.9
+NC,Charlotte Observer,132300,2018,H,9,,NC,"MCCREADY, DAN",Democrat,1,,,,over Republican Mark Harris,0.96
+NC,Charlotte Observer,132300,2018,H,12,,NC,"ADAMS, ALMA",Democrat,1,,,,seeks third term,0.95
+NC,Charlotte Observer,132300,2018,STATE SENATOR,37,,NC,"JACKSON, JEFF",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2018,STATE SENATOR,38,,NC,"MOHAMMED, MUJTABA",Democrat,1,,,,beat incumbent Joel Ford in primary,0.94
+NC,Charlotte Observer,132300,2018,STATE SENATOR,41,,NC,"MARCUS, NATASHA",Democrat,1,,,,,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,88,,NC,"BELK, MARY",Democrat,1,,,,freshman incumbent,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,92,,NC,"BEASLEY, CHAZ",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,98,,NC,"CLARK, CHRISTY",Democrat,1,,,,Huntersville paralegal,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,99,,NC,"MAJEED, NASIF",Democrat,1,,,,,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,100,,NC,"AUTRY, JOHN",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,101,,NC,"LOGAN, CAROLYN",Democrat,1,,,,first black female Highway Patrol trooper,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,102,,NC,"CARNEY, BECKY",Democrat,1,,,,eight-term incumbent,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,103,,NC,"HUNT, RACHEL",Democrat,1,,,,over Republican incumbent Bill Brawley,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,104,,NC,"LOFTON, BRANDON",Democrat,1,,,,Charlotte attorney,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,105,,NC,"STONE, SCOTT",Republican,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2018,STATE REP,106,,NC,"CUNNINGHAM, CARLA",Democrat,1,,,,three-term incumbent,0.94
+NC,Charlotte Observer,132300,2018,CNTY COMM,AT-LARGE,Mecklenburg,NC,"COTHAM, PAT",Democrat,1,,,,at-large incumbent,0.94
+NC,Charlotte Observer,132300,2018,CNTY COMM,AT-LARGE,Mecklenburg,NC,"FULLER, TREVOR",Democrat,1,,,,at-large incumbent,0.94
+NC,Charlotte Observer,132300,2018,CNTY COMM,1,Mecklenburg,NC,"POWELL, ELAINE",Democrat,1,,,,slight nod over incumbent Republican Jim Puckett,0.92
+NC,Charlotte Observer,132300,2018,CNTY COMM,5,Mecklenburg,NC,"RIDENHOUR, MATTHEW",Republican,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2018,CNTY COMM,6,Mecklenburg,NC,"MCDOWELL, SUSAN",Democrat,1,,,,over incumbent Republican Bill James,0.92
+NC,Charlotte Observer,132300,2018,DIRECTOR,,Mecklenburg,NC,"CARTER, NANCY",,1,,,,Soil & Water Conservation,0.92
+NC,Charlotte Observer,132300,2018,DIRECTOR,,Mecklenburg,NC,"BLEIWEIS, BARBARA",,1,,,,Soil & Water Conservation,0.92
+NC,Charlotte Observer,132300,2018,SUPREME COURT,,,NC,"EARLS, ANITA",Democrat,1,,,,Williams College and Yale Law graduate,0.93
+NC,Charlotte Observer,132300,2018,COURT OF APPEALS,,,NC,"ARROWOOD, JOHN",Democrat,1,,,,Seat 1,0.93
+NC,Charlotte Observer,132300,2018,COURT OF APPEALS,,,NC,"HAMPSON, TOBY",Democrat,1,,,,Seat 2,0.93
+NC,Charlotte Observer,132300,2018,COURT OF APPEALS,,,NC,"KITCHEN, CHUCK",Republican,1,,,,Seat 3,0.93
+NC,Charlotte Observer,132300,2018,DISTRICT COURT JUDGE,,Mecklenburg,NC,"CURETON, DONALD",Democrat,1,,,,eight-year incumbent,0.93
+NC,Charlotte Observer,132300,2018,DISTRICT COURT JUDGE,,Mecklenburg,NC,"SMITH, SEAN",Republican,1,,,,eight-year incumbent; family court judge,0.93
+NC,Charlotte Observer,132300,2018,DISTRICT COURT JUDGE,,Mecklenburg,NC,"BROOKS, ALICIA",Democrat,1,,,,judge since 2014,0.93
+NC,Charlotte Observer,132300,2018,DISTRICT COURT JUDGE,,Mecklenburg,NC,"MCCALLUM, KAREN",Democrat,1,,,,senior prosecutor in DA's office,0.93
+NC,Charlotte Observer,132300,2018,JUDGE,,Mecklenburg,NC,"KNIGHT, REGGIE",Democrat,1,,,,most courtroom experience; Superior Court,0.92
+NC,Charlotte Observer,132300,2020,GOVERNOR,,,NC,"COOPER, ROY",Democrat,1,,,,incumbent,0.96
+NC,Charlotte Observer,132300,2020,H,9,,NC,"WALLACE, CYNTHIA",Democrat,1,,,,over Republican Dan Bishop,0.95
+NC,Charlotte Observer,132300,2020,LT GOVERNOR,,,NC,"HOLLEY, YVONNE LEWIS",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,2020,ATTORNEY GENERAL,,,NC,"STEIN, JOSH",Democrat,1,,,,incumbent,0.95
+NC,Charlotte Observer,132300,2020,INSURANCE COMMISSIONER,,,NC,"CAUSEY, MIKE",Republican,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,TREASURER,,,NC,"FOLWELL, DALE",Republican,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,AUDITOR,,,NC,"WOOD, BETH",Democrat,1,,,,incumbent,0.95
+NC,Charlotte Observer,132300,2020,SUPERINTENDENT,,,NC,"MANGRUM, JENNIFER",Democrat,1,,,,,0.94
+NC,Charlotte Observer,132300,2020,AGRICULTURE COMMISSIONER,,,NC,"TROXLER, STEVE",Republican,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,DIRECTOR,,,NC,"HOLMES, JESSICA",Democrat,1,,,,Labor Commissioner,0.94
+NC,Charlotte Observer,132300,2020,SEC OF STATE,,,NC,"MARSHALL, ELAINE",Democrat,1,,,,incumbent,0.95
+NC,Charlotte Observer,132300,2020,STATE REP,88,,NC,"BELK, MARY",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE REP,92,,NC,"BROWN, TERRY",Democrat,1,,,,,0.94
+NC,Charlotte Observer,132300,2020,STATE REP,98,,NC,"CLARK, CHRISTY",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE REP,99,,NC,"MAJEED, NASIF",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE REP,100,,NC,"AUTRY, JOHN",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE REP,101,,NC,"LOGAN, CAROLYN",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE REP,102,,NC,"CARNEY, BECKY",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE REP,103,,NC,"HUNT, RACHEL",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE REP,104,,NC,"LOFTON, BRANDON",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE REP,105,,NC,"BYNUM, AMY",Republican,1,,,,,0.93
+NC,Charlotte Observer,132300,2020,STATE REP,107,,NC,"ALEXANDER, KELLY",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE SENATOR,37,,NC,"JACKSON, JEFF",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE SENATOR,38,,NC,"MOHAMMED, MUJTABA",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,STATE SENATOR,39,,NC,"SALVADOR, DEANDREA",Democrat,1,,,,,0.94
+NC,Charlotte Observer,132300,2020,STATE SENATOR,40,,NC,"SHIELDS, BOBBIE",Republican,1,,,,,0.93
+NC,Charlotte Observer,132300,2020,STATE SENATOR,41,,NC,"MARCUS, NATASHA",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,CNTY COMM,1,Mecklenburg,NC,"POWELL, ELAINE",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,CNTY COMM,5,Mecklenburg,NC,"RIDENHOUR, MATTHEW",Republican,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,CNTY COMM,6,Mecklenburg,NC,"RODRIGUEZ-MCDOWELL, SUSAN",Democrat,1,,,,incumbent,0.94
+NC,Charlotte Observer,132300,2020,JUDGE,,Mecklenburg,NC,"VISER, CASEY",Republican,1,,,,Superior Court,0.93
+NC,Charlotte Observer,132300,2020,DISTRICT COURT JUDGE,,Mecklenburg,NC,"BEST, KIMBERLY",Democrat,1,,,,,0.93
+NC,Charlotte Observer,132300,2020,DISTRICT COURT JUDGE,,Mecklenburg,NC,"PANYANOUVONG-RUBECK, SUNNY",Republican,1,,,,,0.93
+NC,Charlotte Observer,132300,2020,DIRECTOR,,Mecklenburg,NC,"GEORGE, RICH",,1,,,,Soil & Water Conservation District,0.92
+NC,Charlotte Observer,132300,2020,SUPREME COURT,,,NC,"BEASLEY, CHERI",Democrat,1,,,,Chief Justice,0.94
+NC,Charlotte Observer,132300,2020,SUPREME COURT,,,NC,"INMAN, LUCY",Democrat,1,,,,Associate Justice,0.93
+NC,Charlotte Observer,132300,2020,SUPREME COURT,,,NC,"BARRINGER, TAMARA",Republican,1,,,,Associate Justice,0.93
+NC,Charlotte Observer,132300,2020,COURT OF APPEALS,,,NC,"SHIELDS, TRICIA",Democrat,1,,,,Seat 4,0.93
+NC,Charlotte Observer,132300,2020,COURT OF APPEALS,,,NC,"CUBBAGE, LORA C.",Democrat,1,,,,Seat 5,0.93
+NC,Charlotte Observer,132300,2020,COURT OF APPEALS,,,NC,"STYERS, GRAY",Democrat,1,,,,Seat 6,0.93
+NC,Charlotte Observer,132300,2020,COURT OF APPEALS,,,NC,"YOUNG, REUBEN",Democrat,1,,,,Seat 7,0.93
+NC,Charlotte Observer,132300,2020,COURT OF APPEALS,,,NC,"BROOK, CHRIS",Democrat,1,,,,Seat 13,0.93

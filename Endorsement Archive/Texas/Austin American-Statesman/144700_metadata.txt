@@ -1,37 +1,24 @@
-Newspaper Name: AUSTIN AMERICAN-STATESMAN 2008-2020
-Alternative Names: REVIEW
-Years Published: REVIEW
-Newspaper ID number: REVIEW
-Number of clippings: 6
-Endorsement data years: 2008, 2010, 2012, 2014
+Newspaper Name: Austin American-Statesman
+Alternative Names: Austin Statesman, Austin American
+Years Published: 1871-present (current title since 1973 merger)
+Newspaper ID number: 144700
+State: TX (Austin / Travis County)
+Number of clippings: 19
+Endorsement data years: 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 2008, 2010, 2012, 2014, 2022
 
 --- ENDORSEMENT COUNTS ---
-Total candidate records: 127
-  Endorsed (=1): 125
-  Opposed (=0): 0
-  No position (null): 2
-Total proposition records: 22
-  Endorsed (=1): 14
-  Opposed (=0): 8
-
---- DATA QUALITY ---
-Flagged for review: 5 candidates, 0 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 2
-Duplicates removed: 0 candidates, 4 propositions
+Total candidate records: 332 (310 endorsed, 20 opposed)
+Total proposition records: 63
 
 --- CONFIDENCE SCORES ---
 Min: 0.65
-Mean: 0.98
+Mean: 0.95
 Max: 1.00
-Below threshold (0.75): 3
-
---- REVIEW QUEUE ---
-  [no_endorsements] 144700_20161101: EARLY VOTING TURNOUT STATISTICS ARTICLE - REPORTS VOTER TURNOUT PERCENTAGES FOR TRAVIS, WILLIAMSON, HAYS, AND BASTROP COUNTIES. NO ENDORSEMENTS OF ANY KIND.
-  [no_endorsements] 144700_20161106: TWO VIEWS OP-ED PAGE PRESENTING BOTH TRUMP AND CLINTON PERSPECTIVES FROM GUEST CONTRIBUTORS. THE AMERICAN-STATESMAN EXPLICITLY STEPS BACK TO PRESENT TWO POINTS OF VIEW RATHER THAN MAKING AN EDITORIAL ENDORSEMENT. NOT AN OFFICIAL NEWSPAPER ENDORSEMENT.
 
 --- NOTES ---
-(Add any additional notes here)
+2026-05-20: Added 13 supplementary clippings from raw/more austin/ folder
+(1974-1990 single-race articles + summary endorsements + 1 DELUCA 2022).
+205 new candidate records and 41 new proposition records added after cross-record dedup.
+Also fixed 246 non-numeric extraction_confidence values from earlier extractions.
 
-Compiled: 2026-04-02 06:20:06
+Compiled: 2026-05-20

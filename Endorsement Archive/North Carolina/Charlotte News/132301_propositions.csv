@@ -1,0 +1,29 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+NC,Charlotte News,132301,1962,NC,AMENDMENT,1,Six constitutional amendments - News urges approval of all six,1,,0.8
+NC,Charlotte News,132301,1962,NC,AMENDMENT,2,Six constitutional amendments - News urges approval of all six,1,,0.8
+NC,Charlotte News,132301,1962,NC,AMENDMENT,3,Six constitutional amendments - News urges approval of all six,1,,0.8
+NC,Charlotte News,132301,1962,NC,AMENDMENT,4,Six constitutional amendments - News urges approval of all six,1,,0.8
+NC,Charlotte News,132301,1962,NC,AMENDMENT,5,Six constitutional amendments - News urges approval of all six,1,,0.8
+NC,Charlotte News,132301,1962,NC,AMENDMENT,6,Six constitutional amendments - News urges approval of all six,1,,0.8
+NC,Charlotte News,132301,1970,NC,AMENDMENT,,State constitutional amendments,1,Recommends approval of the amendments,0.7
+NC,Charlotte News,132301,1970,NC,REFERENDUM,,Sale of beer and wine - retain current law (yes vote retains),1,Vote FOR No. 1 to retain law,0.6
+NC,Charlotte News,132301,1970,NC,REFERENDUM,,Liquor by the drink in private clubs - approve (Vote FOR No. 2),1,Vote FOR No. 2,0.6
+NC,Charlotte News,132301,1972,NC,AMENDMENT,,State constitutional amendments,1,News recommends approval of state constitutional amendments,0.6
+NC,Charlotte News,132301,1974,NC,AMENDMENT,,State Constitutional Amendments,1,Endorsement direction not fully legible,0.5
+NC,Charlotte News,132301,1976,NC,BOND,,"Water, Sewer Bonds - Vote Yes",1,,0.9
+NC,Charlotte News,132301,1978,NC,BOND,,"County parks and recreation bond facilities - $10,000,000 - Vote YES",1,,0.85
+NC,Charlotte News,132301,1978,NC,BOND,,"Community college bond - $1,000,000 - Vote YES",1,,0.85
+NC,Charlotte News,132301,1978,NC,BOND,,"City parks and recreation bonds - $9,750,000 - Vote YES",1,,0.85
+NC,Charlotte News,132301,1978,NC,BOND,,"City water bonds - $7,500,000 - Vote YES",1,,0.85
+NC,Charlotte News,132301,1978,NC,BOND,,"City sanitary sewer bonds - $3,300,000 - Vote YES",1,,0.85
+NC,Charlotte News,132301,1978,NC,BOND,,"City storm sewers bonds - $1,500,000 - Vote YES",1,,0.85
+NC,Charlotte News,132301,1980,NC,AMENDMENT,,Constitutional Amendment,1,Vote FOR,0.7
+NC,Charlotte News,132301,1982,NC,AMENDMENT,1,Constitutional amendment,1,FOR,0.85
+NC,Charlotte News,132301,1982,NC,AMENDMENT,2,Constitutional amendment,1,FOR,0.85
+NC,Charlotte News,132301,1982,NC,REFERENDUM,,4-3 County Election Plan,0,AGAINST,0.85
+NC,Charlotte News,132301,1982,NC,BOND,,Mint Museum Bonds,1,FOR,0.85
+NC,Charlotte News,132301,1984,NC,AMENDMENT,,Constitutional amendment - require district attorneys to be duly authorized to practice law prior to election or appointment,1,Vote FOR,0.85
+NC,Charlotte News,132301,1984,NC,BOND,,Charlotte $47.4 million in column bonds to build new facility on Billy Graham Parkway,1,Vote FOR,0.8
+NC,Charlotte News,132301,1984,NC,BOND,,$30 million in street improvement bonds for Tyvola Road Extension to serve new coliseum site and west side,1,Vote FOR,0.8
+NC,Charlotte News,132301,1984,NC,BOND,,$11.265 million water bonds for water system improvements,1,Vote FOR,0.8
+NC,Charlotte News,132301,1984,NC,BOND,,$23 million in sanitary sewer bonds for the sewer system extensions,1,Vote FOR,0.8

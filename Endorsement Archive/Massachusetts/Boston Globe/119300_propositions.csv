@@ -1,0 +1,80 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+MA,Boston Globe,119300,1964,MA,AMENDMENT,3,Constitutional amendment requiring two-thirds vote of each branch of Legislature to lend/pledge state credit; would restrict expansion plans for Mass. Bay Transportation Authority and state backing for housing for aged and higher education,0,Globe recommends NO vote; second sentence is misleading as prohibition already exists; would close a door to the future,0.95
+MA,Boston Globe,119300,1964,MA,AMENDMENT,2,Constitutional amendment to let the Legislature assure continuity of government in event of enemy attack,1,"Globe notes little or no opposition, supports passage",0.95
+MA,Boston Globe,119300,1964,MA,AMENDMENT,4,"Permit either the governor or the Executive Council, independently, to seek advisory opinions from the Supreme Judicial Court",1,Globe notes little or no opposition; would prevent Council from blocking governor as it did to ex-Gov. Volpe,0.95
+MA,Boston Globe,119300,1964,MA,REFERENDUM,6,Referendum on the 1963 legislative pay raise (lawmakers' salaries from $5200 to $7800),1,"Globe urges YES vote; pay raise has been earned; lawmakers have accepted reforms, passed MBTA bill, established Crime Commission; Globe attacked Ballot Law Commission for trying to keep question off ballot but supports the raise itself",0.95
+MA,Boston Globe,119300,1964,MA,BALLOT QUESTION,5,Repeal most of the statutory powers of the Executive Council,1,Globe urges YES; first chance since Revolution to strike at worst evil in state government; council has kept governors from picking own department heads; only 2 other states still have a council; requires 30% of all who vote to pass,0.95
+MA,Boston Globe,119300,1964,MA,REFERENDUM,7,Local-option liquor license referendum (broken into three parts: all alcoholic beverages on/off premises; wines and malt beverages only; package stores),,Globe does not endorse YES or NO; urges voters to take part since each community decides its own policy; concerns about blank votes from 1962,0.95
+MA,Boston Globe,119300,1964,MA,AMENDMENT,1,Four-year term (starting in 1966) for the governor and other constitutional officers,1,Globe urges YES vote,0.95
+MA,Boston Globe,119300,1964,MA,AMENDMENT,2,Continuity of government in case of enemy attack,1,Globe favors YES vote,0.95
+MA,Boston Globe,119300,1964,MA,AMENDMENT,3,Two-thirds vote of Legislature to pledge the State's credit,0,Globe urges NO vote,0.95
+MA,Boston Globe,119300,1964,MA,AMENDMENT,4,Let the governor get advisory opinions from Supreme Judicial Court without Council agreement,1,Globe urges YES vote,0.95
+MA,Boston Globe,119300,1964,MA,BALLOT QUESTION,5,Repeal most statutory powers of the Governor's Council,1,Globe calls for reform and a resounding YES vote,0.95
+MA,Boston Globe,119300,1964,MA,REFERENDUM,6,Legislators' pay raise of $2600,1,Globe urges YES; above-board this time and lawmakers enacted reform measures to earn it,0.95
+MA,Boston Globe,119300,1964,MA,REFERENDUM,7,"Liquor licenses (local option, three parts)",,Globe takes no position; policy varies by community; urges vote on each of three parts,0.95
+MA,Boston Globe,119300,1968,MA,AMENDMENT,1,Amend Constitution to increase from 5 to 10 days the time governor may act on legislative measures,1,Globe recommends YES; facilitates research on complex legislation,0.95
+MA,Boston Globe,119300,1968,MA,AMENDMENT,2,Amend Constitution to enable Legislature to adopt a graduated income tax,1,Globe most strongly urges YES; needed to address urban blight and deprivation; tax based on ability to pay,0.95
+MA,Boston Globe,119300,1968,MA,AMENDMENT,3,Amend Constitution to spell out in detail what should be done if governor becomes physically or mentally disabled,0,Globe recommends NO; well-intended but defective; gives Legislature too much power over chief executive,0.95
+MA,Boston Globe,119300,1968,MA,BALLOT QUESTION,4,Whether to put on 1970 ballot a question asking whether a limited constitutional convention should be called the following year,1,Globe urges YES; pressures Legislature to continue piecemeal constitutional reforms; only vehicle to reduce size of House of Representatives,0.95
+MA,Boston Globe,119300,1968,MA,REFERENDUM,5,Local-option sales of alcoholic beverages (three or four sections),,Globe cannot recommend on each section because policy/conditions vary by community,0.95
+MA,Boston Globe,119300,1968,MA,BALLOT QUESTION,6,Whether Massachusetts should retain capital punishment for crime,0,Globe strongly urges NO; death penalty is barbarous and self-defeating; special commission found it is not a deterrent to murder,0.95
+MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,1,Authorize 30-day legislative recesses,1,Globe says YES,0.95
+MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,2,Reduce from 240 to 160 the number of seats in the Massachusetts House of Representatives,1,Globe says YES,0.95
+MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,3,Permit use of state funds for private higher education,1,Globe says YES,0.95
+MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,4,Empower the Legislature to tap the state Highway Trust Fund for mass transit,1,Globe says YES,0.95
+MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,5,Wholesale revisions in the state's 1973 campaign finance law,0,"Globe says NO, opposing revisions",0.95
+MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,6,Urge Legislature to create a new state Department of Health System Regulation,1,Globe says YES,0.95
+MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,7,"Replace the five-member Boston school committee with a network of local, area and citywide councils and a school department directly accountable to the mayor, effective 1976 (Boston only)",1,Globe says YES; Boston only,0.95
+MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,,"Handgun control (Brookline, Newton, Wellesley, and Winthrop only): urge legislators to limit possession of handguns to police, military, security personnel, collectors, and sporting clubs",1,Globe says YES; non-binding local question in 4 towns only,0.95
+MA,Boston Globe,119300,1976,MA,AMENDMENT,1,"Women's Equal Rights Amendment to the state constitution, barring discrimination based on sex, race, color, creed or national origin",1,Globe urges YES,0.95
+MA,Boston Globe,119300,1976,MA,AMENDMENT,2,Graduated income tax amendment permitting Legislature and governor to tax higher percentages of higher incomes,1,Globe urges YES,0.95
+MA,Boston Globe,119300,1976,MA,AMENDMENT,3,"Absentee voting for religious reasons, amendment to state constitution",1,Globe urges YES,0.95
+MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,4,"State takeover of right to build new power plants, and perhaps buy out existing utilities (initiative petition)",0,Globe urges NO,0.95
+MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,5,Ban on private possession of handguns (barrels shorter than 16 inches) with compensation for weapons turned in to police (initiative petition),1,Globe urges YES,0.95
+MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,6,"Bottle bill: minimum 5-cent deposit on bottles of soft drinks, beer and other malt beverages; prohibits sale of containers with detachable flip-tops (initiative petition)",1,Globe urges YES,0.95
+MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,7,"Uniform electric rate requirement, eliminating discount rates for major electricity users (initiative petition)",0,Globe urges NO,0.95
+MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,8,"Non-binding question testing public support for construction of an oil refinery and deep-water port in Massachusetts, subject to local consent",1,Globe urges YES,0.95
+MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,9,Non-binding question testing public support for permitting retail and liquor package stores to open on Sundays,1,Globe urges YES,0.95
+MA,Boston Globe,119300,1978,MA,AMENDMENT,1,Permits Legislature to set up four different categories of real estate to be taxed at different rates (real estate tax classification),1,Globe recommends YES; aimed at offsetting 100 percent valuation ordered by state's courts,0.95
+MA,Boston Globe,119300,1978,MA,AMENDMENT,2,Gives a new governor eight weeks rather than the normal three for submitting a budget to the Legislature,1,Globe says YES; proposal is sensible,0.95
+MA,Boston Globe,119300,1978,MA,AMENDMENT,3,Allows secretary of state to distribute information about ballot questions to each household rather than each voter,1,Globe says YES; guarantees more widespread distribution,0.95
+MA,Boston Globe,119300,1978,MA,AMENDMENT,4,Stipulates state census procedures for determining residence conform with those used by Federal government,1,Globe says YES,0.95
+MA,Boston Globe,119300,1978,MA,AMENDMENT,5,Grants municipal charter commissions 18 rather than 10 months for completion of any proposed revision in local government,1,Globe says YES,0.95
+MA,Boston Globe,119300,1978,MA,AMENDMENT,6,Bars admission or rejection of pupils by public schools on basis of race or religion,0,Globe recommends NO; poses danger to voluntary programs like Metco and magnet programs trying to avoid court intervention,0.95
+MA,Boston Globe,119300,1978,MA,AMENDMENT,7,Allows legislature to set lower real estate taxes on recreational or wilderness land,1,Globe says YES; Legislature can use current laws covering forest/farm land as model,0.95
+MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,1,Provide public aid to private schools,0,Globe says NO,0.95
+MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,2,Restore capital punishment,0,Globe says NO,0.95
+MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,3,Require new nuclear power plants and new nuclear waste facilities to be approved in statewide referendums,0,Globe says NO,0.95
+MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,4,Bottle bill,1,Globe says YES,0.95
+MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,5,Endorsing a freeze on nuclear weapons,1,Globe says YES,0.95
+MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,1,Legislative regulation of abortion,0,Globe says NO,0.95
+MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,2,State aid to nonpublic schools,0,Globe says NO,0.95
+MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,3,Enforced cap on state taxes,0,Globe says NO,0.95
+MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,4,Enforced requirements for cleaning up hazardous waste,0,Globe says NO,0.95
+MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,5,Keeping a law requiring automobile seat belts,1,Globe says YES,0.95
+MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,6,Allow voter registration by mail,1,Globe says YES,0.95
+MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,9,Non-binding referendum instructing state representatives to vote for secession of a major part of Boston (about one-third of Boston voters),0,Globe says NO; Boston-specific advisory question,0.95
+MA,Boston Globe,119300,1988,MA,BALLOT QUESTION,1,Repeal a pay raise for legislators and constitutional officers (NO vote would repeal),1,Globe recommends YES to keep the pay raise; resist easy vote of frustration with politicians,0.95
+MA,Boston Globe,119300,1988,MA,BALLOT QUESTION,2,Repeal the state's prevailing wage law (YES vote would repeal),0,Globe recommends NO; union wages set a fair and just standard; projected savings are illusory,0.95
+MA,Boston Globe,119300,1988,MA,BALLOT QUESTION,3,Code of 'rights' for farm animals (YES vote would approve),0,Globe recommends NO; unnecessarily restrictive; concern over impact on Massachusetts farmers,0.95
+MA,Boston Globe,119300,1988,MA,BALLOT QUESTION,4,"Force the shutdown of the state's nuclear power plants, Pilgrim at Plymouth and Yankee at Rowe (YES vote would force shutdown)",0,Globe recommends NO; concern shutdown would disrupt supply and cost of electrical power; safety depends on faithful monitoring of rigorous standards,0.95
+MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,1,Repeal the constitutionally required decennial state census,1,Globe says YES,0.95
+MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,2,Impose a sharp limitation on the use of consultants and contract providers of services,0,Globe says NO,0.95
+MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,3,"Reduce state tax rates, license fees and charges by all independent state authorities to their levels as of Jan. 1, 1988",0,Globe says NO; CLT tax rollback measure,0.95
+MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,4,Reduce the number of signatures required for smaller political parties and independent candidates to qualify for appearing on the ballot,1,Globe says YES,0.95
+MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,5,"Mandate that state aid to municipalities be a minimum of 40 percent of state receipts from income, sales and corporate taxes, in addition to lottery distributions",0,Globe says NO,0.95
+MA,Boston Globe,119300,2008,MA,BALLOT QUESTION,1,Eliminate the state income tax,0,Globe urges NO; reckless idea,0.95
+MA,Boston Globe,119300,2008,MA,BALLOT QUESTION,2,Decriminalize possession of marijuana,0,Globe urges NO,0.95
+MA,Boston Globe,119300,2008,MA,BALLOT QUESTION,3,Ban dog racing in Massachusetts,0,Globe recommends NO,0.95
+MA,Boston Globe,119300,2010,MA,BALLOT QUESTION,2,Repeal the state's affordable housing law (Chapter 40B),0,Globe urges NO; misguided repeal attempt,0.95
+MA,Boston Globe,119300,2010,MA,BALLOT QUESTION,1,Repeal the state sales tax on alcoholic beverages,0,Globe urges NO vote to keep funding treatment programs,0.95
+MA,Boston Globe,119300,2010,MA,BALLOT QUESTION,3,Reduce the state sales tax from 6.25 percent to 3 percent,0,Globe urges NO; stunt that would create chaos,0.95
+MA,Boston Globe,119300,2012,MA,BALLOT QUESTION,1,Right to repair motor vehicle information,,Globe says skip it; compromise already reached,0.95
+MA,Boston Globe,119300,2012,MA,BALLOT QUESTION,2,Allow physician-assisted suicide,0,Globe says NO; deeply divisive,0.95
+MA,Boston Globe,119300,2012,MA,BALLOT QUESTION,3,Allow medical marijuana use,0,Globe says NO; should be regulated by FDA,0.95
+MA,Boston Globe,119300,2014,MA,BALLOT QUESTION,1,Eliminate the requirement that the state's gasoline tax be tied to inflation,0,Globe urges NO; hobbling gas tax would damage state economy,0.95
+MA,Boston Globe,119300,2014,MA,BALLOT QUESTION,2,"Expand the bottle deposit bill to include non-alcoholic, non-carbonated beverage containers",1,Globe urges YES; sensible evolution of the bottle bill,0.95
+MA,Boston Globe,119300,2014,MA,BALLOT QUESTION,3,Block casino gambling by repealing the state's 2011 casino law,1,Globe says YES to repeal of casino law,0.95
+MA,Boston Globe,119300,2014,MA,BALLOT QUESTION,4,Allow employees to earn and use paid sick time,1,Globe says YES; allow workers to earn paid/unpaid sick time,0.95
+MA,Boston Globe,119300,2018,MA,BALLOT QUESTION,1,Require Massachusetts hospitals to follow patient-to-nurse staffing ratios,0,Globe urges NO; too risky with too many unintended consequences,0.95
+MA,Boston Globe,119300,2018,MA,BALLOT QUESTION,2,Create a state commission to study amending the US Constitution to overturn Citizens United v. FEC,1,Globe endorses YES with misgivings; commission should be diverse,0.95

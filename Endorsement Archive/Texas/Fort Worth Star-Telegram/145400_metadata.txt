@@ -1,0 +1,35 @@
+Newspaper Name: Fort Worth Star-Telegram
+Alternative Names: Star-Telegram, FWST
+Years Published: 1909-present
+Newspaper ID number: 145400
+State: TX (Fort Worth / Tarrant County)
+Number of clippings: 31
+Endorsement data years: 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 452 (448 endorsed, 4 opposed)
+Total proposition records: 126 (103 YES, 23 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.55
+Mean: 0.95
+Max: 0.98
+
+--- NOTES ---
+Major Tarrant County daily. Carter Publications (1909-1997), Knight Ridder
+(1997-2006), McClatchy (2006-present).
+
+Endorsement format evolution:
+- 1960s-70s: extensive narrative endorsements
+- 1978-1992: comprehensive ballot-format listings (often 17-39 candidates per cycle)
+- 2000s-2010s: compact bullet lists
+- 2018-2020: sharp decline to 4-8 endorsements (industry-wide retreat)
+
+Notable: 2016 issued only a negative endorsement against Trump (no candidate
+positively endorsed for President); coded as endorsed=0 for Trump.
+
+Cross-party endorsement pattern: willingness to cross party lines historically
+(LBJ 1960/1964, Hill D 1978, Clements R 1982 first GOP gov endorsement,
+Bush 1988-2000-2004, Bell D 2006, White D 2010, Beto D 2018).
+
+Compiled: 2026-05-21
