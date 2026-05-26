@@ -1,0 +1,101 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+OH,Dayton Daily News,135101,1960,OH,REFERENDUM,,Renewal of Montgomery County one-mill hospital levy,1,essential,0.9
+OH,Dayton Daily News,135101,1960,OH,BOND,,"School, county and township bond issues and tax levies in Miami Valley (general support)",1,Generally support; school issues deserve support across the board,0.75
+OH,Dayton Daily News,135101,1962,OH,AMENDMENT,1,Blue Law amendment (Lawson Milk Co. sponsored) exempting some activities/goods from Sunday closing laws,0,Calls for a No vote on No. 1,0.95
+OH,Dayton Daily News,135101,1968,OH,AMENDMENT,1,Ohio State Amendment 1 (allows funding of vital capital improvements),1,State Issue,0.9
+OH,Dayton Daily News,135101,1968,OH,AMENDMENT,2,Ohio State Amendment 2 (Ohio legislature authority to grant homestead exemptions to ease property tax burden on those over 65),1,State Issue,0.9
+OH,Dayton Daily News,135101,1968,OH,REFERENDUM,,"Montgomery County 1.5-mill children's services levy (welfare programs, juvenile detention center, retarded children's work and neighborhood parks and playgrounds)",1,,0.9
+OH,Dayton Daily News,135101,1968,OH,REFERENDUM,1,"Dayton Charter Amendment 1 (boost salaries of mayor and commissioners, permit separate election of mayor)",1,,0.9
+OH,Dayton Daily News,135101,1968,OH,REFERENDUM,2,Dayton Charter Amendment 2 (boost salaries; separate election of mayor),1,,0.85
+OH,Dayton Daily News,135101,1968,OH,BOND,,Kettering 2.5-mill government levy,1,,0.85
+OH,Dayton Daily News,135101,1968,OH,BOND,,Kettering 9.9-mill levy for schools,1,,0.85
+OH,Dayton Daily News,135101,1968,OH,REFERENDUM,,Townsend charter amendment opening way for an income tax (Farmersville and Jefferson Twp. government levies),1,,0.8
+OH,Dayton Daily News,135101,1968,OH,BOND,,"School fund requests in Oakwood, Beavercreek, Fairborn, Miamisburg, Northridge, Mad River, Sugar Creek, Valley View, Washington Twp., Madison Twp., Yellow Springs, Brookville, Jefferson Twp., New Lebanon, Northmont and Wayne Twp.",1,Other Indorsements,0.85
+OH,Dayton Daily News,135101,1968,OH,REFERENDUM,,Park-recreation levies in Washington and Beavercreek Twps.,1,,0.85
+OH,Dayton Daily News,135101,1968,OH,REFERENDUM,,Levy for operating new of the Oakland school district in Preble county,1,,0.8
+OH,Dayton Daily News,135101,1968,OH,REFERENDUM,,"Greene County passage of funds for health, child welfare and recreation programs",1,,0.85
+OH,Dayton Daily News,135101,1968,OH,REFERENDUM,,Warren County jail funds,1,new jail in Warren county,0.85
+OH,Dayton Daily News,135101,1970,OH,AMENDMENT,1,Allow Ohio legislature to ease property tax burden on the elderly,1,State Issue,0.95
+OH,Dayton Daily News,135101,1970,OH,AMENDMENT,2,Reduce Ohio residency voting requirement from one year to six months,1,State Issue,0.95
+OH,Dayton Daily News,135101,1970,OH,AMENDMENT,3,Allow municipalities to advertise proposed city charter amendments in local newspapers rather than mailing each registered voter a copy,1,State Issue,0.95
+OH,Dayton Daily News,135101,1972,OH,AMENDMENT,1,State constitutional convention,0,Vote NO to oppose,0.95
+OH,Dayton Daily News,135101,1972,OH,AMENDMENT,2,Income tax repeal and avoid increases in sales and property taxes,0,Vote NO,0.95
+OH,Dayton Daily News,135101,1972,OH,REFERENDUM,,"Montgomery County Mental Health Levy (1.5 mill, five year)",1,Vote YES,0.95
+OH,Dayton Daily News,135101,1972,OH,REFERENDUM,,County vocational school district levy,1,Vote YES to improve vocational training (limited to certain area precincts),0.9
+OH,Dayton Daily News,135101,1972,OH,REFERENDUM,,Kettering Charter (direct election of the Kettering Mayor),1,Vote YES,0.95
+OH,Dayton Daily News,135101,1972,OH,REFERENDUM,,Dayton Charter Amendment (give each city district a representative in city government),1,Vote YES,0.95
+OH,Dayton Daily News,135101,1972,OH,REFERENDUM,,Dayton Income Tax Increase (one half per cent),1,"Vote YES; for public safety, street maintenance, capital improvements and neighborhood grants",0.95
+OH,Dayton Daily News,135101,1972,OH,REFERENDUM,,Dayton Liquor Option (Sunday liquor sales),1,Vote YES; limited to certain downtown precincts,0.95
+OH,Dayton Daily News,135101,1974,OH,REFERENDUM,,"Montgomery County 'Green' issue - renew .26 mill and increase by .32 mill, for a total of one-half mill, to expand and operate the county's park district",1,Vote YES,0.95
+OH,Dayton Daily News,135101,1974,OH,REFERENDUM,,"Montgomery County mental retardation levy of .47 mills to continue schools, training centers, workshops, clinics and residential facilities for retarded children and adults",1,Vote YES,0.95
+OH,Dayton Daily News,135101,1974,OH,REFERENDUM,,Kettering 2 per cent income tax (to keep programs and improvements apace with inflation and assume responsibility for city garbage collection),1,Vote YES,0.95
+OH,Dayton Daily News,135101,1974,OH,AMENDMENT,1,Statewide Issue 1 - property tax exemption for permanently and totally disabled residents,1,wary YES,0.85
+OH,Dayton Daily News,135101,1974,OH,AMENDMENT,2,Statewide Issue 2 - Housecleaning measure removing requirement that governor appoint a superintendent of public works for a one-year term,1,YES,0.9
+OH,Dayton Daily News,135101,1974,OH,AMENDMENT,3,Statewide Issue 3 - Allow utilities to take advantage of development revenue bonds and loan guarantees without obligating tax money for water and air clean-up equipment,1,YES; most important,0.95
+OH,Dayton Daily News,135101,1974,OH,REFERENDUM,,"Dayton Charter Amendment - change city's primary date from May to June so it can be held with state elections, saving election costs",1,YES on first issue,0.95
+OH,Dayton Daily News,135101,1974,OH,REFERENDUM,,Dayton Charter Amendment - allow charter amendments to be publicized by newspaper advertising rather than direct mailing,1,YES on second amendment,0.95
+OH,Dayton Daily News,135101,1976,OH,AMENDMENT,1,State Issue 1 - Housekeeping measures to remove outdated provisions from the Ohio Constitution,1,YES,0.95
+OH,Dayton Daily News,135101,1976,OH,AMENDMENT,2,State Issue 2 - Housekeeping measure,1,YES,0.95
+OH,Dayton Daily News,135101,1976,OH,AMENDMENT,3,State Issue 3 - Housekeeping measure,1,YES,0.95
+OH,Dayton Daily News,135101,1976,OH,AMENDMENT,4,State Issue 4 - Enacts 'lifeline' utility rates,1,YES,0.95
+OH,Dayton Daily News,135101,1976,OH,AMENDMENT,5,State Issue 5 - Forms utility consumer agency,0,NO,0.95
+OH,Dayton Daily News,135101,1976,OH,AMENDMENT,6,State Issue 6 - Makes development of nuclear power plants more difficult,0,NO,0.95
+OH,Dayton Daily News,135101,1976,OH,AMENDMENT,7,State Issue 7 - Makes referendums easier,1,YES,0.95
+OH,Dayton Daily News,135101,1976,OH,REFERENDUM,,Montgomery County 1.34 mills levy for mental health and retardation services,1,YES; renew,0.95
+OH,Dayton Daily News,135101,1976,OH,BOND,,Montgomery County 0.4-mill levy to build a new county home,1,YES,0.95
+OH,Dayton Daily News,135101,1976,OH,REFERENDUM,,Montgomery County 0.6-mill levy to provide operating funds for the new county home and Stillwater Health Center,1,YES,0.95
+OH,Dayton Daily News,135101,1978,OH,AMENDMENT,1,"State Issue 1 - simplify procedures by which voters may adopt, amend or repeal a charter form of government",1,YES,0.95
+OH,Dayton Daily News,135101,1978,OH,AMENDMENT,2,"State Issue 2 - remove constitutional ban on prison labor and restrictions on prison-made goods, allowing the legislature to regulate this area by law",1,YES,0.95
+OH,Dayton Daily News,135101,1978,OH,REFERENDUM,,Dayton renewal of 1.75 percent income tax,1,YES,0.95
+OH,Dayton Daily News,135101,1978,OH,REFERENDUM,,West Carrollton 1/4 percent increase in income tax,1,YES,0.95
+OH,Dayton Daily News,135101,1978,OH,REFERENDUM,,Englewood 3/4 percent increase in income tax,1,YES,0.95
+OH,Dayton Daily News,135101,1978,OH,BOND,,Dayton schools 8.9 mills tax levy,1,School levy support,0.95
+OH,Dayton Daily News,135101,1978,OH,BOND,,Oakwood schools 3.8 mills tax levy,1,School levy support,0.95
+OH,Dayton Daily News,135101,1978,OH,BOND,,Mad River schools 2 mills tax levy,1,School levy support,0.95
+OH,Dayton Daily News,135101,1978,OH,BOND,,Valley View schools 3 mills tax levy,1,School levy support,0.95
+OH,Dayton Daily News,135101,1978,OH,BOND,,Brookville schools 3.5 mills tax levy,1,School levy support,0.95
+OH,Dayton Daily News,135101,1980,OH,AMENDMENT,1,State Issue 1 - state constitutional amendment requested by the legislature; would allow the legislature to separate residential and agricultural property from business property as a property tax adjustment,1,YES,0.95
+OH,Dayton Daily News,135101,1980,OH,AMENDMENT,2,State Issue 2 - petition-initiated state law for changes in the state tax structure,0,NO; vote NO is the only way to get the governor and legislature to face the state's financing problem,0.95
+OH,Dayton Daily News,135101,1980,OH,REFERENDUM,3,Montgomery County Issue 3 - .81 mill levy for services to abused or neglected children and for foster care and adoption services,1,YES,0.95
+OH,Dayton Daily News,135101,1980,OH,REFERENDUM,4,Montgomery County Issue 4 - 1.75 mill levy half of it a renewal to pay for hospitalization and care of indigent sick and to support county-owned Stillwater Health Center,1,YES,0.95
+OH,Dayton Daily News,135101,1980,OH,REFERENDUM,5,Dayton Issue 5 - city charter amendment allowing city commission members to represent the city on boards and agencies whose works affect Daytonians,1,YES,0.95
+OH,Dayton Daily News,135101,1980,OH,REFERENDUM,6,"Dayton Issue 6 - city charter amendment raising commissioners' pay to $9,800 and the mayor's to $13,500",1,YES,0.95
+OH,Dayton Daily News,135101,1980,OH,REFERENDUM,7,"Dayton Issue 7 - would allow the city manager to approve contracts for amounts less than $5,000",1,YES,0.95
+OH,Dayton Daily News,135101,1980,OH,REFERENDUM,,"Kettering Zoning Initiative - initiative would require city boards, commissions and a majority of voters in a particular ward to approve any planned unit development",0,NO; threatens too much red tape and hassle,0.95
+OH,Dayton Daily News,135101,1980,OH,BOND,,"School levy requests in Valley View, Miamisburg, West Carrollton, New Lebanon, Jefferson Twp., Centerville, Trotwood-Madison and Brookville",1,DDN supports school levy requests for these districts,0.95
+OH,Dayton Daily News,135101,1982,OH,AMENDMENT,1,Housing bonds,1,State Issue 1,0.85
+OH,Dayton Daily News,135101,1982,OH,AMENDMENT,2,Highway bonds,1,State Issue 2,0.85
+OH,Dayton Daily News,135101,1982,OH,AMENDMENT,3,Local government bonds,0,"State Issue 3, opposed",0.8
+OH,Dayton Daily News,135101,1982,OH,AMENDMENT,1,Election Issue 1 - Closed primaries,0,"Election Issue 1, opposed",0.8
+OH,Dayton Daily News,135101,1982,OH,AMENDMENT,2,Election Issue 2 - Voter registration,1,Election Issue 2,0.8
+OH,Dayton Daily News,135101,1988,OH,REFERENDUM,,Sewer tax issue,1,,0.6
+OH,Dayton Daily News,135101,1988,OH,REFERENDUM,,School levy / Park levy,1,,0.55
+OH,Dayton Daily News,135101,1990,OH,AMENDMENT,1,Housing bonds - state and local set aside for affordable housing for low and moderate income families,1,State Issue 1,0.85
+OH,Dayton Daily News,135101,1990,OH,AMENDMENT,2,Tax exemption for residential property improvements,1,State Issue 2,0.85
+OH,Dayton Daily News,135101,1990,OH,AMENDMENT,3,Casino gambling for human services,0,"State Issue 3, opposed",0.8
+OH,Dayton Daily News,135101,1996,OH,AMENDMENT,1,Riverboat casino option,1,State Issue 1,0.95
+OH,Dayton Daily News,135101,2008,OH,AMENDMENT,1,Move Ohio primary election date,1,State Issue 1,0.7
+OH,Dayton Daily News,135101,2008,OH,AMENDMENT,2,Clean Ohio bond program (parks and conservation),1,State Issue 2,0.7
+OH,Dayton Daily News,135101,2008,OH,AMENDMENT,3,Property rights to use water,1,State Issue 3,0.7
+OH,Dayton Daily News,135101,2008,OH,AMENDMENT,5,Payday lending regulation,1,State Issue 5,0.7
+OH,Dayton Daily News,135101,2008,OH,AMENDMENT,6,Casino in Wilmington/Clinton County,0,"State Issue 6, opposed",0.7
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,4,Butler MetroParks 0.5-mill levy,1,Butler County Issue 4,0.95
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,6,Butler County elderly services levy renewal (1.3 mill),1,Butler County Issue 6,0.95
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,9,Franklin city income tax increase from 1.5% to 2%,1,Franklin Issue 9,0.95
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,,Montgomery County human services replacement levy 6.03 mill for 8 years,1,Montgomery County,0.75
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,,Montgomery County mental retardation/developmental disabilities levy,1,Montgomery County,0.7
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,,Brookville schools renewal levy 5.4 mills for 5 years,1,Montgomery County schools,0.65
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,,Jefferson Twp schools renewal levy 7.5 mill continuing,1,Montgomery County schools,0.65
+OH,Dayton Daily News,135101,2010,OH,BOND,,Kettering schools additional levy 4.99 mill for 5 years,1,Montgomery County schools,0.65
+OH,Dayton Daily News,135101,2010,OH,BOND,,Oakwood schools additional levy,1,Montgomery County schools,0.6
+OH,Dayton Daily News,135101,2010,OH,BOND,,Trotwood-Madison schools additional levy 7.6 mills continuing,1,Montgomery County schools,0.6
+OH,Dayton Daily News,135101,2010,OH,BOND,,West Carrollton schools additional levy 5.95 mill for 5 years,1,Montgomery County schools,0.6
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,6,Greene County Commission Mims-Beverly replacement levy,1,Greene County,0.7
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,,Court of Common Pleas Beavercreek schools renewal levy,1,Greene County schools,0.6
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,,Beavercreek schools renewal levy 5.45 mill 5 years,1,Greene County schools,0.6
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,,City of Xenia municipal income tax 0.5%,1,Greene County,0.6
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,,"City of Xenia proposed charter amendment, public safety",0,Greene County,0.5
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,4,Butler MetroParks levy,1,Butler County Issue 4,0.85
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,6,Butler County elderly services renewal levy 1.3 mill 5 years,1,Butler County Issue 6,0.85
+OH,Dayton Daily News,135101,2010,OH,REFERENDUM,9,Franklin income tax increase 0.5%,1,Franklin Issue 9,0.85
+OH,Dayton Daily News,135101,2010,OH,BOND,,Springboro schools additional levy,1,Warren County schools,0.55

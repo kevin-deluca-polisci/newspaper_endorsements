@@ -1,0 +1,11 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+TX,Dallas Morning News,145050,2018,TX,REFERENDUM,,Dallas ISD Tax Ratification Election,1,Vote Yes,0.95
+TX,Dallas Morning News,145050,2018,TX,REFERENDUM,,Frisco ISD tax ratification + $691M bond,1,Vote Yes,0.95
+TX,Dallas Morning News,145050,2020,TX,BOND,A,Dallas ISD $3.27 billion for facilities,1,Vote Yes; part of $3.7B DISD bond program,0.97
+TX,Dallas Morning News,145050,2020,TX,BOND,B,Dallas ISD $270 million for technology,1,Vote Yes,0.97
+TX,Dallas Morning News,145050,2020,TX,BOND,C,Dallas ISD $53.3 million for athletic facilities,1,Vote Yes,0.97
+TX,Dallas Morning News,145050,2020,TX,BOND,D,Dallas ISD $66.1 million for performing arts center,1,Vote Yes,0.97
+TX,Dallas Morning News,145050,2020,TX,BOND,E,Dallas ISD $33.5 million for natatoriums,1,Vote Yes,0.97
+TX,Dallas Morning News,145050,2022,TX,AMENDMENT,1,Limit total property taxes school districts can impose on homestead of those 65+ or disabled,1,May 7 ballot,0.98
+TX,Dallas Morning News,145050,2022,TX,AMENDMENT,2,"Increase residential homestead exemption from school property taxes from $25,000 to $40,000",1,May 7 ballot,0.98
+TX,Dallas Morning News,145050,2022,TX,REFERENDUM,A,City of Dallas Proposition A - hotel occupancy tax to fund Kay Bailey Hutchison Convention Center and Fair Park improvements,1,Vote yes; $1.5 billion in public funds over 30 years,0.97

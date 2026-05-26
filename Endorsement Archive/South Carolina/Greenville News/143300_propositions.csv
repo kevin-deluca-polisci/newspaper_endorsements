@@ -1,0 +1,43 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+SC,Greenville News,143300,1962,SC,AMENDMENT,,Forestry districts amendment - Section 34 of Article III allowing General Assembly to divide state into forestry districts,1,,0.95
+SC,Greenville News,143300,1974,SC,AMENDMENT,1,Federal conformity for 18-year-old vote and residency requirements,1,,0.95
+SC,Greenville News,143300,1974,SC,AMENDMENT,2,"Move provisions on elected officials (clerks, coroners, sheriffs, solicitors) from constitution to statutory law",0,Editorial title 'Amendment 2 Is Bad' - opposes,0.95
+SC,Greenville News,143300,1974,SC,AMENDMENT,3,Extend constitutional revision time until 1976,1,,0.95
+SC,Greenville News,143300,1974,SC,AMENDMENT,4,Change constitutional limits on liquor sale hours (sunrise to sunset to 9am-7pm),1,"All right, depending on voter desires",0.9
+SC,Greenville News,143300,1974,SC,AMENDMENT,5,Exempt full legal rights bingo games conducted by religious/charitable/fraternal organizations from gambling ban,1,"All right, depending on voter desires",0.9
+SC,Greenville News,143300,1974,SC,AMENDMENT,6,Restore full legal rights except alcohol to persons over 18,1,,0.95
+SC,Greenville News,143300,1976,SC,AMENDMENT,,Total revision of Article X (finance and taxation) - eight property classifications,1,,0.95
+SC,Greenville News,143300,1976,SC,AMENDMENT,,Amend Section 9 of Article III requiring House to meet every two years for organizational session,1,,0.95
+SC,Greenville News,143300,1976,SC,AMENDMENT,,Extend to 1978 the provision allowing Constitution to be revised by article-by-article method,1,,0.95
+SC,Greenville News,143300,1978,SC,AMENDMENT,4,Amend Article XVI to allow constitutional provisions from other articles to be changed if those provisions relate to article being revised; also amend bonded debt limitation provisions,1,,0.95
+SC,Greenville News,143300,1978,SC,AMENDMENT,5,Amend Section 3 of Article XVII to allow divorce on grounds of continuous separation for one year rather than three,1,,0.95
+SC,Greenville News,143300,1978,SC,AMENDMENT,1,Establish mandatory reserve fund for state to prevent disruption from revenue shortfall,1,Described as 'most urgent',0.85
+SC,Greenville News,143300,1984,SC,AMENDMENT,1,State spending limitation and permanent emergency appeals court - allow state government to match federal dollars after natural disasters,1,Editorial endorses 5 of 6 amendments,0.9
+SC,Greenville News,143300,1984,SC,AMENDMENT,2,Give municipal governing bodies discretionary power to extend property tax concessions up to 5 years to encourage economic development,1,,0.9
+SC,Greenville News,143300,1984,SC,AMENDMENT,3,Permit sensible expediency to allow amendments to Constitution to be proposed by whole articles rather than sections at elections since 1980 and 1988,1,,0.9
+SC,Greenville News,143300,1984,SC,AMENDMENT,4,Strengthen state's balanced budget requirement by adding restrictions on associated provisions,1,,0.9
+SC,Greenville News,143300,1984,SC,AMENDMENT,5,Require state Supreme Court chief justice to administer unified court system; submit rules to House and Senate Judiciary Committees,1,,0.9
+SC,Greenville News,143300,1984,SC,AMENDMENT,6,Write new state Court of Appeals into Constitution,1,,0.9
+SC,Greenville News,143300,1984,SC,AMENDMENT,,State constitutional amendments - editorial 'Yes to amendments' supports both proposed amendments,1,Both amendments endorsed,0.85
+SC,Greenville News,143300,1990,SC,REFERENDUM,,Greenville County local option sales tax,1,extra penny sales tax for property tax relief,0.95
+SC,Greenville News,143300,1990,SC,BOND,,Proposed coliseum project bond,1,$37 million in bonds to build coliseum,0.95
+SC,Greenville News,143300,1990,SC,REFERENDUM,,Local Option Sales Tax,1,summary recap,0.9
+SC,Greenville News,143300,1996,SC,AMENDMENT,1,Constitutional Amendment 1 - civil/Constitutional measure,1,recommended yes,0.7
+SC,Greenville News,143300,1996,SC,AMENDMENT,3,Constitutional Amendment 3 - voter approval requirement,1,recommended yes,0.7
+SC,Greenville News,143300,1996,SC,AMENDMENT,4,Constitutional Amendment 4,1,recommended yes,0.7
+SC,Greenville News,143300,1996,SC,REFERENDUM,,Local Question - Sunday alcohol sales,1,recommended yes,0.7
+SC,Greenville News,143300,1996,SC,REFERENDUM,,School Board structure reform - Greenville County,1,recommended yes,0.7
+SC,Greenville News,143300,2000,SC,REFERENDUM,,State Lottery,0,newspaper opposed lottery,0.85
+SC,Greenville News,143300,2000,SC,BOND,,Greenville County Courthouse bond,1,recommended yes,0.8
+SC,Greenville News,143300,2000,SC,AMENDMENT,,Constitutional Amendments,1,recommended yes on amendments,0.6
+SC,Greenville News,143300,2008,SC,AMENDMENT,1,Constitutional Amendment 1,1,Yes on all 3 amendments,0.9
+SC,Greenville News,143300,2008,SC,AMENDMENT,2,Constitutional Amendment 2,1,Yes on all 3 amendments,0.9
+SC,Greenville News,143300,2008,SC,AMENDMENT,3,Constitutional Amendment 3,1,Yes on all 3 amendments,0.9
+SC,Greenville News,143300,2010,SC,AMENDMENT,1,Constitutional Amendment 1 - secret ballot for union authorization,1,yes on all 4 amendments,0.9
+SC,Greenville News,143300,2010,SC,AMENDMENT,2,Constitutional Amendment 2 - hunting and fishing right,1,yes on all 4 amendments,0.9
+SC,Greenville News,143300,2010,SC,AMENDMENT,3,Constitutional Amendment 3 - general reserve fund,1,yes on all 4 amendments,0.9
+SC,Greenville News,143300,2010,SC,AMENDMENT,4,Constitutional Amendment 4,1,yes on all 4 amendments,0.9
+SC,Greenville News,143300,2010,SC,REFERENDUM,,Sunday alcohol sales - Greer and Simpsonville,1,local referendum,0.85
+SC,Greenville News,143300,2014,SC,AMENDMENT,1,Make charitable raffles legal,1,yes,0.95
+SC,Greenville News,143300,2014,SC,AMENDMENT,2,Adjutant General to be appointed by governor rather than elected,1,yes,0.95
+SC,Greenville News,143300,2014,SC,REFERENDUM,,Greenville County 1 percent sales tax for road improvements,1,Transportation Projects Funding Referendum Ordinance,0.95

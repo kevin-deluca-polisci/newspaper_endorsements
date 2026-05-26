@@ -1,0 +1,48 @@
+Newspaper Name: Las Vegas Review-Journal
+Alternative Names: Review-Journal, LVRJ, R-J
+Years Published: 1909-present (founded as Clark County Review)
+Newspaper ID number: 126500
+State: NV (Las Vegas, Clark County)
+Number of clippings: 23
+Endorsement data years: 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2022
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 1235 (1235 endorsed, 0 opposed)
+Total proposition records: 171 (99 YES, 72 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.50
+Mean: 0.92
+Max: 0.95
+
+--- NOTES ---
+Coverage: 1968-2010 (continuous biennial general elections, every even year) plus 2022 digital
+endorsement summary. Gap: 2012-2020 (no clippings in this batch).
+
+Editorial format: The LVRJ historically published one large composite "election day" or
+"election eve" recap listing every endorsement, including the full Clark County local ballot
+(county commissioners, judicial races across the 8th Judicial District, justices of the peace,
+constables, school board, university regents, plus municipal races for Las Vegas, North Las
+Vegas, Henderson, and Boulder City). This produces a high record count per clipping
+(40-85 per year typical).
+
+The LVRJ is well-known as a libertarian/conservative-leaning paper. Presidential picks:
+- 1968: Nixon
+- 1972: Nixon
+- 1976: Carter (notable Democratic crossover)
+- 1980: Reagan
+- 1984: Reagan
+- 1988: Bush
+- 1992: Bush
+- 1996: Dole
+- 2000-2008: Bush/Bush/McCain
+- (No 2012-2020 in this batch)
+
+Sheldon Adelson purchased the paper in 2015 which strengthened its conservative editorial stance,
+but the libertarian streak (opposition to tax increases, bonds, government expansion) was
+present throughout the entire dataset's range.
+
+2022 clipping is from the post-Adelson era and is a digital "Review-Journal endorsements for the
+2022 election" composite article saved as PDF.
+
+Compiled: 2026-05-25

@@ -1,0 +1,172 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+NV,Las Vegas Review-Journal,126500,1968,NV,BOND,,Clark County $22M general obligation bonds for convention center expansion & recreational facilities,1,,0.95
+NV,Las Vegas Review-Journal,126500,1968,NV,BOND,,Clark County $3M courthouse expansion bonds,1,,0.95
+NV,Las Vegas Review-Journal,126500,1968,NV,AMENDMENT,,Constitutional amendment authorizing legislature to combine some Ormsby County/Carson City offices,1,consolidation of Ormsby County and Carson City government,0.9
+NV,Las Vegas Review-Journal,126500,1968,NV,PUBLIC QUESTION,,Firemen's $144/month pay raise initiative (retroactive to July),0,RJ recommends vote NO,0.95
+NV,Las Vegas Review-Journal,126500,1968,NV,AMENDMENT,,Constitutional amendment granting private corporation franchise to operate lottery,0,RJ recommends vote NO,0.95
+NV,Las Vegas Review-Journal,126500,1974,NV,PUBLIC QUESTION,1,Whether voters believe Nevada Constitution should be amended to allow direct financing by state of a maximum of three per cent of assessed valuation of property instead of the per cent limitation established in 1936,1,RJ recommends WE VOTE YES,0.9
+NV,Las Vegas Review-Journal,126500,1974,NV,PUBLIC QUESTION,2,Nevada Constitution should be amended re: financing by the state,1,WE VOTE YES,0.8
+NV,Las Vegas Review-Journal,126500,1974,NV,PUBLIC QUESTION,3,Preserving Nevada's vast open spaces; tax breaks to owners of farms and green belts adjacent to fast expanding urban areas,1,WE VOTE YES,0.85
+NV,Las Vegas Review-Journal,126500,1974,NV,PUBLIC QUESTION,4,Nevada Tax Commission should have more flexibility on imposing fines for late payments by merchants of state sales and use tax collections,1,WE VOTE YES,0.85
+NV,Las Vegas Review-Journal,126500,1974,NV,PUBLIC QUESTION,5,Voters asked whether they believe the Nevada Tax Commission should have more flexibility on imposing fines for late payments by merchants of state sales and use tax collections; lesser file to fit circumstances,1,WE VOTE YES,0.8
+NV,Las Vegas Review-Journal,126500,1974,NV,BOND,6,Clark County voters to approve a $12 million bond issue to allow proposed expansion of Las Vegas Convention Center,1,WE VOTE YES,0.9
+NV,Las Vegas Review-Journal,126500,1974,NV,BOND,7,Clark County voters to approve a $12 million bond issue to allow proposed expansion of county-owned Southern Nevada Memorial Hospital,1,WE VOTE YES,0.9
+NV,Las Vegas Review-Journal,126500,1978,NV,PUBLIC QUESTION,1,Question No. 1,1,RJ recommends YES,0.85
+NV,Las Vegas Review-Journal,126500,1978,NV,PUBLIC QUESTION,2,Question No. 2,1,RJ recommends YES,0.85
+NV,Las Vegas Review-Journal,126500,1978,NV,PUBLIC QUESTION,3,Question No. 3,1,RJ recommends YES,0.85
+NV,Las Vegas Review-Journal,126500,1978,NV,PUBLIC QUESTION,4,Question No. 4,1,RJ recommends YES,0.85
+NV,Las Vegas Review-Journal,126500,1978,NV,PUBLIC QUESTION,5,Question No. 5 - Equal Rights Amendment,0,"RJ feels this should be left up to voters; no rec, but neither Yes nor No marked X; treat as no endorsement",0.5
+NV,Las Vegas Review-Journal,126500,1978,NV,PUBLIC QUESTION,6,Question No. 6,1,RJ recommends YES,0.85
+NV,Las Vegas Review-Journal,126500,1980,NV,PUBLIC QUESTION,1,Question 1 - support allowing judges greater latitude in denying bail to defendants,1,RJ recommends YES,0.9
+NV,Las Vegas Review-Journal,126500,1980,NV,PUBLIC QUESTION,2,Question 2 - oppose allowing a raise for state judges in the middle of their term,0,RJ recommends NO,0.9
+NV,Las Vegas Review-Journal,126500,1980,NV,PUBLIC QUESTION,3,Question 3 - oppose giving legislators what amounts to a blank check to cover their postal expenses,0,RJ recommends NO,0.9
+NV,Las Vegas Review-Journal,126500,1980,NV,AMENDMENT,4,Question 4 - passage of this measure would correct anachronism in state constitution,1,RJ recommends YES,0.9
+NV,Las Vegas Review-Journal,126500,1980,NV,PUBLIC QUESTION,5,Question 5 - favor turning the public administration into appointive rather than elective post,1,RJ recommends YES,0.85
+NV,Las Vegas Review-Journal,126500,1980,NV,PUBLIC QUESTION,6,Question 6 - approach to tax reform is dangerous and simplistic; oppose it strongly,0,RJ recommends NO,0.9
+NV,Las Vegas Review-Journal,126500,1980,NV,PUBLIC QUESTION,7,Question 7 - reluctantly support establishment of an expensive but necessary appellate court,1,RJ recommends YES,0.85
+NV,Las Vegas Review-Journal,126500,1980,NV,PUBLIC QUESTION,8,Question 8 - favor prohibiting taxes on household goods,1,RJ recommends YES,0.9
+NV,Las Vegas Review-Journal,126500,1980,NV,PUBLIC QUESTION,9,Question 9 - proposal to ban sales tax on food is fatally flawed because it may remove taxes on restaurant meals,0,RJ recommends NO,0.85
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,1,Question 1: Would give tax breaks for using alternative energy sources,1,Vote yes,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,AMENDMENT,2,Question 2: Would include right to bear arms clause in state constitution,0,Vote no,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,3,Question 3: Would give judges power of alternative sentencing,1,Vote yes,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,4,Question 4: Would tighten life without possibility of parole sentence,1,Vote yes,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,5,Question 5: Would officially include Southern Nevada as part of the state,1,Vote yes,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,6,Question 6: Would allow Nevada to collect its share of federal estate taxes,1,Vote yes,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,7,Question 7: Would treat mobile homes as regular homes for purposes of sales tax,1,Vote yes,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,8,Question 8: Would prohibit property tax on household goods,1,Vote yes,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,9,Question 9: Would take sales tax off restaurant food,0,Vote no,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,BOND,10,Question 10: Would allow bonds to build new libraries,1,Vote yes,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,11,Question 11: Would strengthen consumer advocate's office,1,Vote yes,0.9
+NV,Las Vegas Review-Journal,126500,1982,NV,PUBLIC QUESTION,12,Question 12: A weaker version of Question 11,0,Vote no,0.9
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,1,Question 1,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,2,Question 2,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,3,Question 3,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,4,Question 4,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,5,Question 5,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,6,Question 6,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,7,Question 7,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,8,Question 8,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,9,Question 9,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,10,Question 10,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,11,Question 11,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,12,Question 12,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,,County Question,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1984,NV,PUBLIC QUESTION,,Advisory Question,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,1,Question 1,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,2,Question 2,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,3,Question 3,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,4,Question 4,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,5,Question 5,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,6,Question 6,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,7,Question 7,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,8,Question 8,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,9,Question 9,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1988,NV,PUBLIC QUESTION,H1,Question H1,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,1,Question 1,0,No recommendation,0.6
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,2,Question 2,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,3,Question 3,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,4,Question 4,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,5,Question 5,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,6,Question 6 - corporate profits tax up to 10 percent,0,Vote NO; would impose punitive tax; consumers ultimately pay,0.9
+NV,Las Vegas Review-Journal,126500,1990,NV,REFERENDUM,7,Question 7 - referendum on Nevada's existing abortion laws,0,Vote NO; would set in concrete Nevada's virtually unrestricted abortion laws,0.9
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,8,Question 8,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,9,Question 9,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,10,Question 10 - advisory measure to allow Clark County to finance comprehensive package of transportation improvements,1,Vote YES; taxes and fees would be distributed equitably,0.9
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,,North Las Vegas Question 205,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1990,NV,PUBLIC QUESTION,,Las Vegas Local Questions 1 and 2,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1992,NV,PUBLIC QUESTION,1,Ballot Question 1,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1992,NV,PUBLIC QUESTION,2,Ballot Question 2,1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1992,NV,PUBLIC QUESTION,3,Ballot Question 3,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1992,NV,PUBLIC QUESTION,4,Ballot Question 4,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1992,NV,PUBLIC QUESTION,5,Ballot Question 5,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1992,NV,PUBLIC QUESTION,6,Ballot Question 6,0,No,0.85
+NV,Las Vegas Review-Journal,126500,1992,NV,PUBLIC QUESTION,8,Ballot Question 8 (advisory),0,No recommendation,0.7
+NV,Las Vegas Review-Journal,126500,1992,NV,PUBLIC QUESTION,9,Ballot Question 9 (city of Las Vegas),1,Yes,0.85
+NV,Las Vegas Review-Journal,126500,1994,NV,BOND,Part A,School Bonds Part A,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,BOND,Part B,School Bonds Part B,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,1,Extend jurisdiction of Judicial Discipline Commission,0,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,2,Require open Legislature meetings,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,3,Allow pay hikes during judge's term,0,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,4,Sales tax exemption for sale of horses,0,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,5,Sales tax break for businesses that relocate hazardous operations,0,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,6,"Sales tax break to property sold by federal government, state, religious and charitable orgs",0,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,7,Allow state to enter lease purchase agreements notwithstanding indebtedness limitations,0,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,8,Limit terms of federal representatives,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,9,Limit terms of state and local officials,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,10,Limit and define campaign contributions,0,,0.95
+NV,Las Vegas Review-Journal,126500,1994,NV,AMENDMENT,11,Require two-thirds of each state house to approve any tax or fee increase,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,1,Public Employee Retirement System reform,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,AMENDMENT,2,Constitutional amendment for victims rights,0,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,3,Clarify recall petition signature requirements,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,4,Public lands,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,5,Allow legislative review of regulations,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,6,Debt limit exception for state projects,0,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,7,Tax money for businesses,0,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,9,Local and state term limits,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,9b,Term limits for state and local judges,0,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,AMENDMENT,10,Constitutional amendment on campaign finance,0,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,11,Two-thirds legislative majority for tax increases,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,BOND,12,Lake Tahoe bonds,0,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,13,Sales tax exemption for orthopedic supplies,0,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,14,"Sales tax exemption for non-profits, charities",1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,15,Sales tax exemption for aircraft parts,0,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,16,Legislature must approve tax increases twice,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,17,Term limits for Congress,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,BOND,18,Clark County school construction bond,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,19,Metro police manpower,1,,0.95
+NV,Las Vegas Review-Journal,126500,1996,NV,PUBLIC QUESTION,19,North Las Vegas Police manpower,1,North Las Vegas ballot question,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,AMENDMENT,1,Constitutional amendment to resolve conflicts between competing ballot questions,1,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,AMENDMENT,2,Revise provisions regarding application of judicial discipline,1,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,AMENDMENT,3,Allow Nevada counties to hold district court proceedings outside county seats,1,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,AMENDMENT,4,Move legal observance of Nevada Day to last Friday of October,0,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,AMENDMENT,5,Limit state's biennial legislative sessions to 120 days,1,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,AMENDMENT,6,Tax break for property used in manner that conserves water,0,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,AMENDMENT,7,Apply quarter-cent sales tax hike to public by governmental entity,1,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,AMENDMENT,8,Reduce role of lt governor and change line of gubernatorial succession,0,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,PUBLIC QUESTION,9,Allow medical marijuana when prescribed by physician,1,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,PUBLIC QUESTION,17,Urge Congress to pass term limits for federal office holders,1,,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,PUBLIC QUESTION,1,Clark County option A on quarter-cent sales tax hike for water system improvements,1,Clark County,0.9
+NV,Las Vegas Review-Journal,126500,1998,NV,BOND,2,Clark County bond issue for local school construction,1,Clark County,0.95
+NV,Las Vegas Review-Journal,126500,1998,NV,PUBLIC QUESTION,5,No endorsement,0,State Board of Education Subdistrict E - no endorsement,0.5
+NV,Las Vegas Review-Journal,126500,2000,NV,PUBLIC QUESTION,1,Clark County: Remove fluoride from water supply,0,Clark County,0.95
+NV,Las Vegas Review-Journal,126500,2000,NV,PUBLIC QUESTION,1,Allow state funds for economic development,0,State,0.95
+NV,Las Vegas Review-Journal,126500,2000,NV,AMENDMENT,2,General constitution to prohibit gay marriage,0,State,0.95
+NV,Las Vegas Review-Journal,126500,2000,NV,PUBLIC QUESTION,9,Allow medical marijuana,1,State,0.95
+NV,Las Vegas Review-Journal,126500,2000,NV,PUBLIC QUESTION,1,Henderson fire/police protection,0,Henderson,0.9
+NV,Las Vegas Review-Journal,126500,2000,NV,PUBLIC QUESTION,1,Las Vegas fire protection,1,Las Vegas,0.9
+NV,Las Vegas Review-Journal,126500,2002,NV,PUBLIC QUESTION,1,Ballot question 1,1,,0.85
+NV,Las Vegas Review-Journal,126500,2002,NV,PUBLIC QUESTION,2,Ballot question 2,0,,0.85
+NV,Las Vegas Review-Journal,126500,2002,NV,PUBLIC QUESTION,9,Ballot question 9,1,,0.85
+NV,Las Vegas Review-Journal,126500,2004,NV,PUBLIC QUESTION,1,Require Legislature to fund education before other spending items,1,,0.95
+NV,Las Vegas Review-Journal,126500,2004,NV,AMENDMENT,2,Funding education at national average,0,,0.95
+NV,Las Vegas Review-Journal,126500,2004,NV,PUBLIC QUESTION,3,Stabilize physicians' insurance rates,1,,0.95
+NV,Las Vegas Review-Journal,126500,2004,NV,PUBLIC QUESTION,4,Trial lawyer-sponsored measure to roll back medical malpractice reforms,0,,0.95
+NV,Las Vegas Review-Journal,126500,2004,NV,PUBLIC QUESTION,5,Trial lawyer measure to prevent frivolous lawsuits,0,,0.95
+NV,Las Vegas Review-Journal,126500,2004,NV,PUBLIC QUESTION,6,Raise minimum wage,0,,0.95
+NV,Las Vegas Review-Journal,126500,2004,NV,AMENDMENT,7,Change language prohibiting idiots/insane persons from voting,0,,0.95
+NV,Las Vegas Review-Journal,126500,2004,NV,PUBLIC QUESTION,8,"Amend sales tax exemption for used vehicles, farm machinery, fine art, race cars, ophthalmic and ocular devices, appliances",0,,0.95
+NV,Las Vegas Review-Journal,126500,2004,NV,PUBLIC QUESTION,9,Raise county sales and use tax for more police officers,1,,0.95
+NV,Las Vegas Review-Journal,126500,2004,NV,PUBLIC QUESTION,10,Prohibit Legislature from imposing unfunded mandates on local governments,1,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,1,Education First,1,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,2,Property rights,1,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,4,Smoking restrictions,0,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,5,Smoking restrictions,0,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,6,Minimum wage increase,0,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,7,Marijuana,1,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,8,Sales and Use Tax,1,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,9,Board of Regents change,0,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,10,Legislative special sessions,0,,0.95
+NV,Las Vegas Review-Journal,126500,2006,NV,PUBLIC QUESTION,11,Legislative pay,0,,0.95
+NV,Las Vegas Review-Journal,126500,2008,NV,AMENDMENT,1,Voter Eligibility - state constitution in line with federal court rulings,1,,0.95
+NV,Las Vegas Review-Journal,126500,2008,NV,AMENDMENT,2,Eminent Domain,1,,0.95
+NV,Las Vegas Review-Journal,126500,2008,NV,PUBLIC QUESTION,3,Sales Tax Exemptions,0,,0.95
+NV,Las Vegas Review-Journal,126500,2008,NV,PUBLIC QUESTION,4,Legislature and Sales Taxes,0,,0.95
+NV,Las Vegas Review-Journal,126500,2008,NV,PUBLIC QUESTION,5,Room Tax Hike,0,,0.95
+NV,Las Vegas Review-Journal,126500,2010,NV,PUBLIC QUESTION,1,Appoint state judges,0,,0.95
+NV,Las Vegas Review-Journal,126500,2010,NV,PUBLIC QUESTION,2,Create appellate court,1,,0.95
+NV,Las Vegas Review-Journal,126500,2010,NV,PUBLIC QUESTION,3,Internet sales tax,0,,0.95
+NV,Las Vegas Review-Journal,126500,2010,NV,AMENDMENT,4,Repeal eminent domain amendment,0,,0.95
+NV,Las Vegas Review-Journal,126500,2010,NV,PUBLIC QUESTION,5,Protect local government funds from state,0,,0.95
+NV,Las Vegas Review-Journal,126500,2022,NV,AMENDMENT,1,Equal Rights,0,,0.95
+NV,Las Vegas Review-Journal,126500,2022,NV,AMENDMENT,2,Minimum Wage,0,,0.95
+NV,Las Vegas Review-Journal,126500,2022,NV,AMENDMENT,3,"Ranked-choice Voting, Open Primaries",0,,0.95

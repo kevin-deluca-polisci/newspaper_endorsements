@@ -1,0 +1,48 @@
+Newspaper Name: Dayton Daily News
+Alternative Names: DDN
+Years Published: 1898-present (founded by James M. Cox; absorbed the Journal Herald in 1986
+                 to become the modern combined Dayton Daily News)
+Newspaper ID number: 135101
+State: OH (Dayton, Montgomery County; later coverage includes Greene, Butler, Warren counties)
+Number of clippings: 21
+Endorsement data years: 1960, 1962, 1964, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1996, 2008, 2010
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 444 (442 endorsed, 2 opposed)
+Total proposition records: 100 (88 YES, 12 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.50
+Mean: 0.90
+Max: 0.95
+
+--- NOTES ---
+Coverage: 1960-1990 (continuous biennial general elections), plus 1996, 2008, and 2010 (two
+clippings: the standard pre-election composite AND a digital web "recap" archive that covers
+additional Butler County races). Gap: 1992-1994, 1998-2006, 2012+ in this batch.
+
+Editorial format: Composite election-day lists ("Recommended Candidates", "Good Choices for
+Voters In State and Local Races", "Clear Choices Offered In Many Local Contests", "Miami Valley
+Voters Have Good Choices for Tuesday", "JH Endorsements"-style after merger). 2010 has both a
+print election-day composite (20101102) and a digital "A recap of our endorsements" web archive
+(20101029) -- some overlap captured by compile dedup.
+
+The DDN was the Democratic-leaning afternoon sister paper to the Republican-leaning Journal
+Herald (135102) within Cox Newspapers; both were owned by James M. Cox's family. The two papers
+merged in 1986 (the Journal Herald ceased publication and the DDN became the combined paper).
+
+Notable picks:
+- Kennedy 1960, Humphrey 1968, Carter 1976/1980, Clinton 1996, Obama 2008 (D)
+- Nixon 1972 (notable Republican crossover, matching JH's 1972 endorsement)
+- Robert Taft Jr. (R) 1964 Senate over Stephen Young (D) -- another notable R crossover
+- Strong support for Gilligan (D Gov 1970/74), Glenn (D Sen 1974+), Metzembaum (D Sen)
+- 2010 split slate: Strickland D Gov + Fisher D Sen + most state Ds, but Mandel R Treas, Husted R SoS, OH SC O'Connor + Lanzinger R, plus Boehner R US-8 (heavy Republican area)
+
+Two legitimate anti-endorsements preserved (1996 Greene County Common Pleas judges Shattuck
+and Reid -- paper urged "No" votes).
+
+Hash-dedup: 71 raw PDFs -> 23 unique. Skipped: 4-page bundle DaytonDailyNews_19681103.pdf
+(all 4 pages already covered by DELUCA clippings) + Wikipedia reference PDF. Kept 19 DELUCA-
+named + 1996 + 2010 web recap = 21 unique clippings processed.
+
+Compiled: 2026-05-25

@@ -1,0 +1,1236 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+NV,Las Vegas Review-Journal,126500,1968,SENATOR,,,NV,"BIBLE, ALAN",Democrat,1,1,,,incumbent,0.95
+NV,Las Vegas Review-Journal,126500,1968,H,AL,,NV,"BARING, WALTER",Democrat,1,1,,,incumbent; opponent State Sen. James Slattery,0.9
+NV,Las Vegas Review-Journal,126500,1968,SUPREME COURT,,,NV,"BATJER, CAMERON",Nonpartisan,1,,,1,Justice; re-election vs Dist. Court Judge John Mendoza,0.95
+NV,Las Vegas Review-Journal,126500,1968,STATE SENATOR,3,,NV,"TURNER, KEN",Republican,1,,,,vs incumbent State Senator Floyd Lamb,0.9
+NV,Las Vegas Review-Journal,126500,1968,STATE SENATOR,4,,NV,"BROWN, B. MAHLON",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1968,STATE SENATOR,2,,NV,"WHITE, MARVIN",,1,,,,North Las Vegas area,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"ASHWORTH, KEITH",,1,,,,Vote for multiple,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"BRYAN, RICHARD",,1,,,,Vote for multiple,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"RONZONE, NORMAN",,1,,,,Vote for multiple,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"HIBRECHT, JOHN",,1,,,,Vote for multiple,0.7
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"LEERMAN, JOE",,1,,,,Vote for multiple; spelling uncertain,0.7
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"NOCEDA, MIKE",,1,,,,Vote for multiple,0.7
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"REID, HARRY",,1,,,,Vote for multiple,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"SCHOFIELD, JACK",,1,,,,Vote for multiple,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"TYSON, GERALDINE",,1,,,,Vote for multiple,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"WILSON, WOODROW",,1,,,,Vote for multiple,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,4,,NV,"YOUNG, FRANK",,1,,,,Vote for multiple,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,5,,NV,"CLOSE, MEL JR.",,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,5,,NV,"BOWLER, AUSTIN",,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,2,,NV,"BRANCH, DAVE",,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,1968,STATE REP,2,,NV,"MAY, PAUL",,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,1968,DISTRICT COURT JUDGE,3,,NV,"REID, ROBERT",Nonpartisan,1,,,1,incumbent Dept 3,0.9
+NV,Las Vegas Review-Journal,126500,1968,DISTRICT COURT JUDGE,2,,NV,"WARTMAN, ALVIN",Nonpartisan,1,,,,vs attorney Robert Reid,0.85
+NV,Las Vegas Review-Journal,126500,1968,CNTY COMM,,,NV,"BRENNAN, JIM",,1,,,,Las Vegas County Commissioner; vs Sam Keith,0.85
+NV,Las Vegas Review-Journal,126500,1968,CNTY COMM,,,NV,"BROADNETT, ROBERT",,1,,,,Unincorporated areas of Las Vegas; vs G.L. Franklin,0.8
+NV,Las Vegas Review-Journal,126500,1968,JUDGE,,,NV,"WALKER, LEE",Nonpartisan,1,,,,Justice of the Peace; vs incumbent JP Pavlikowski,0.85
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,2,,NV,"RAMSON, B.J. (DICK)",,1,,,,University of Nevada Regent; State University race district 2,0.85
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,2,,NV,"MCDERMOTT, PAUL",,1,,,,University of Nevada Regent; State University race district 2,0.85
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,2,,NV,"GRANT, ARCHIE",,1,,,,University of Nevada Regent; State University race district 2,0.85
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,,,NV,"BILBRAY, JAMES JR.",,1,,,,University of Nevada Regent; two-year term; vs Harry J. McKissick,0.8
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,,,NV,"BELL, TOM",,1,,,,University of Nevada Regent; two-year term; vs Rex A. Tyson,0.8
+NV,Las Vegas Review-Journal,126500,1968,STATE BOARD OF ED,,,NV,"HARRIS, GEORGE D.",,1,,,,vs Sam Paternostro,0.85
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,,,NV,"KIRCH, WAYNE E.",,1,,,,State Fish and Game Commission,0.85
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,,,NV,"ADAMS, NEIL",,1,,,,State Fish and Game Commission,0.85
+NV,Las Vegas Review-Journal,126500,1968,SCHOOL BOARD,3,,NV,"BROWN, DONALD",Nonpartisan,1,,,,Clark County School District trustee dist 3,0.85
+NV,Las Vegas Review-Journal,126500,1968,SCHOOL BOARD,3,,NV,"CASSON, HELEN C.",Nonpartisan,1,,,,Clark County School District trustee dist 3,0.85
+NV,Las Vegas Review-Journal,126500,1968,SCHOOL BOARD,,,NV,"WILKINSON, GEORGE",Nonpartisan,1,,,,unincorporated trustee; vs David Canter,0.85
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,,,NV,"YOUNG, ED",,1,,,,"Southern Nevada Memorial Board, inside Las Vegas, four-year term",0.8
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,,,NV,"MCGINTY, DAVID",,1,,,,"Southern Nevada Memorial Board, four-year term outside Las Vegas; vs Wade L. Sell",0.75
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,3,,NV,"FARNSWORTH, LARRY",,1,,,,Las Vegas Valley Water District; division 3,0.8
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,4,,NV,"LICO, HARVEY E.",,1,,,,Las Vegas Valley Water District; division 4,0.8
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,6,,NV,"FAYLE, LEONARD",,1,,,,Las Vegas Valley Water District; division 6,0.8
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,,,NV,"STRIKE, ROBERT E.",,1,,,,Clark County Library District trustee,0.8
+NV,Las Vegas Review-Journal,126500,1968,DIRECTOR,,,NV,"MONSEY, EARL",,1,,,,Clark County Library District trustee,0.8
+NV,Las Vegas Review-Journal,126500,1970,SENATOR,,,NV,"CANNON, HOWARD",Democrat,1,1,,,incumbent; third term,0.95
+NV,Las Vegas Review-Journal,126500,1970,GOVERNOR,,,NV,"FIKE, ED",Republican,1,,,,Lt. Gov running for Governor,0.95
+NV,Las Vegas Review-Journal,126500,1970,H,AL,,NV,"BARING, WALTER",Democrat,1,1,,,incumbent Rep.,0.95
+NV,Las Vegas Review-Journal,126500,1970,ATTORNEY GENERAL,,,NV,"LIST, ROBERT",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1970,LT GOVERNOR,,,NV,"BROADBENT, ROBERT",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1970,DA/PROSECUTOR,,,NV,"FRANKLIN, GEORGE",,1,,,1,Clark County District Attorney; re-election,0.95
+NV,Las Vegas Review-Journal,126500,1970,STATE SENATOR,,,NV,"HECHT, CHIC",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,SEC OF STATE,,,NV,"KOONTZ, JOHN",,1,,,1,incumbent,0.95
+NV,Las Vegas Review-Journal,126500,1970,TREASURER,,,NV,"MIRABELLI, MIKE",,1,,,1,incumbent State Treasurer,0.95
+NV,Las Vegas Review-Journal,126500,1970,DISTRICT COURT JUDGE,3,,NV,"PAVLIKOWSKI, JOHN",Nonpartisan,1,,,,Dept 3; vs John Bonner; Justice of the Peace running for vacant seat,0.9
+NV,Las Vegas Review-Journal,126500,1970,DISTRICT COURT JUDGE,4,,NV,"O'DONNELL, THOMAS",Nonpartisan,1,,,1,Dept 4; incumbent; vs Charles Kellar,0.95
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,1,,NV,"WHITE, JUANITA",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,2,,NV,"BRANCH, DAVE",,1,,,1,incumbent,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,2,,NV,"MAY, PAUL",,1,,,1,incumbent,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,3,,NV,"ESPINOZA, ARTHUR",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,3,,NV,"SMITH, R. HAL",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"HAFEN, BRYAN K.",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"OLSEN, ARTHUR",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"RONZONE, R. J. DICK",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"SCHOFIELD, JACK",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"WILSON, WOODROW",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"YOUNG, FRANK",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"LOWMAN, ZEL",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"ROBINSON, ROBERT",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"HILBRECHT, TY",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"EMBRY, BILL",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,4,,NV,"DREYER, DARRELL",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,5,,NV,"ASHWORTH, KEITH",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE REP,5,,NV,"BRYAN, RICHARD H.",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE SENATOR,3,,NV,"HECHT, CHIC",Republican,1,,,,state senate district 3,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE SENATOR,3,,NV,"FOLEY, JOHN",,1,,,,state senate district 3,0.9
+NV,Las Vegas Review-Journal,126500,1970,STATE SENATOR,3,,NV,"BUNKER, VERNON",,1,,,,state senate district 3,0.9
+NV,Las Vegas Review-Journal,126500,1970,CNTY COMM,,,NV,"RYAN, JAMES",,1,,,1,Unincorporated; incumbent; vs Russell Miller,0.9
+NV,Las Vegas Review-Journal,126500,1970,CNTY COMM,,,NV,"LEAVITT, MYRON",,1,,,,Las Vegas; vs Sam Keith,0.9
+NV,Las Vegas Review-Journal,126500,1970,CNTY COMM,,,NV,"LAMB, DARWIN",,1,,,1,At Large; incumbent,0.9
+NV,Las Vegas Review-Journal,126500,1970,SHERIFF,,,NV,"LAMB, RALPH",,1,,,1,incumbent; re-election,0.95
+NV,Las Vegas Review-Journal,126500,1970,ASSESSOR,,,NV,"BILBRAY, JAMES",,1,,,1,incumbent county assessor,0.95
+NV,Las Vegas Review-Journal,126500,1970,RECORDER,,,NV,"HORN, PAUL",,1,,,1,incumbent county recorder,0.95
+NV,Las Vegas Review-Journal,126500,1970,JUDGE,,,NV,"SANTINI, JIM",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Township,0.9
+NV,Las Vegas Review-Journal,126500,1970,JUDGE,,,NV,"BECKER, AL",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Township,0.9
+NV,Las Vegas Review-Journal,126500,1970,CONSTABLE,,,NV,"LEAVITT, GEORGE (BEN)",,1,,,,Las Vegas constable; vs incumbent Woody Cole,0.9
+NV,Las Vegas Review-Journal,126500,1970,DIRECTOR,,,NV,"MORSE, WILLIAM",,1,,,,University of Nevada Regent (Board of Regents),0.9
+NV,Las Vegas Review-Journal,126500,1970,DIRECTOR,,,NV,"GIBSON, FRED D.",,1,,,,University of Nevada Regent (Board of Regents),0.9
+NV,Las Vegas Review-Journal,126500,1970,SCHOOL BOARD,,,NV,"BARTLETT, ADELENE",Nonpartisan,1,,,,Clark County School District,0.9
+NV,Las Vegas Review-Journal,126500,1970,SCHOOL BOARD,,,NV,"SMITH, PEGGY",Nonpartisan,1,,,,Clark County School District,0.9
+NV,Las Vegas Review-Journal,126500,1970,SCHOOL BOARD,,,NV,"WOODBURY, CLARE",Nonpartisan,1,,,,Clark County School District,0.9
+NV,Las Vegas Review-Journal,126500,1972,PRESIDENT,,,NV,"NIXON, RICHARD",Republican,1,,1,,vs George McGovern,0.95
+NV,Las Vegas Review-Journal,126500,1972,H,AL,,NV,"BILBRAY, JAMES H.",Democrat,1,,,,vs David Towell,0.95
+NV,Las Vegas Review-Journal,126500,1972,SUPREME COURT,2,,NV,"BATJER, CAMERON",Nonpartisan,1,,,1,Dept 2; vs James H. Phillips,0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE SENATOR,2,,NV,"ECHOLS, EUGENE V.",Democrat,1,,,,2-year term; vs Ted Strickler (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE SENATOR,2,,NV,"WALKER, LEE E.",Democrat,1,,,,4-year term; vs Willis Evans (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE SENATOR,3,,NV,"BROWN, B. MAHLON",Democrat,1,,,,Dist 3,0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE SENATOR,3,,NV,"BRYAN, RICHARD",Democrat,1,,,,Dist 3,0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE SENATOR,3,,NV,"HERR, HELEN E.",Democrat,1,,,,Dist 3,0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE SENATOR,3,,NV,"LAMB, FLOYD R.",Democrat,1,,,,Dist 3,0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE SENATOR,4,,NV,"WILSON, WOODROW",Republican,1,,,,Dist 4; vs Joe Neal (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,1,,NV,"SHIPP, JOHN",Republican,1,,,,vs Daniel Demers (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,2,,NV,"RUFF, DARRELL W.",Republican,1,,,,vs William C. Stapp (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,3,,NV,"BREMNER, DOUGLAS ROGER",Democrat,1,,,,vs Michael A. Casey (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,4,,NV,"ROBINSON, ROBERT",Democrat,1,,,,vs Frank Young (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,5,,NV,"LOWMAN, ZELVIN",Republican,1,,,,vs Manuel Cortez (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,6,,NV,"BENNETT, MARION",Democrat,1,,,,vs Vetters Atkins (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,7,,NV,"BROOKS, VIRGINIA",Democrat,1,,,,vs Cranford Crawford Jr. (D),0.9
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,8,,NV,"ASHWORTH, KEITH",Democrat,1,,,,vs Damon Loy (Robert Cantarella) (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,9,,NV,"SANCHEZ, DANIEL JR.",Republican,1,,,,vs Eileen Brookman (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,10,,NV,"MANGRUM, HARRY",Republican,1,,,,vs John Vergiels (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,11,,NV,"BANNER, JAMES",Democrat,1,,,,vs James Holt (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,13,,NV,"HAYES, KEITH C.",Democrat,1,,,,vs Richard Mainville (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,14,,NV,"DREYER, DARRELL",Democrat,1,,,,vs Deborah Carter (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,15,,NV,"FORD, IMOGENE",Republican,1,,,,vs David Brandstaess (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,16,,NV,"ULLOM, JAMES",Democrat,1,,,,vs William Waltermire (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,17,,NV,"MCNEEL, RICHARD",Republican,1,,,,vs David Branch (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,18,,NV,"HICKEY, THOMAS",Democrat,1,,,,vs Douglas Wuerzig (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,19,,NV,"MAY, PAUL JR.",Democrat,1,,,,vs Guido Ravelo (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,20,,NV,"CRADDOCK, ROBERT GLENN",Democrat,1,,,,vs Lawrence Davis Jr. (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,21,,NV,"SWALLEY, JAMES",Democrat,1,,,,vs Ralph Mangum (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE REP,22,,NV,"SMITH, ROBERT HALLOCK",Republican,1,,,,vs Ruth Day (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,CNTY COMM,A,,NV,"BROADBENT, ROBERT",Republican,1,,,,Clark County Commission seat A; vs Jerry Franklin,0.95
+NV,Las Vegas Review-Journal,126500,1972,CNTY COMM,B,,NV,"PETITTI, JACK",Democrat,1,,,,Commission seat B; vs David Bingham (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,CNTY COMM,C,,NV,"WILLIAMS, AARON",Democrat,1,,,,Commission seat C; vs Elbert Sawyer (R),0.95
+NV,Las Vegas Review-Journal,126500,1972,CNTY COMM,E,,NV,"RONZONE, RICHARD",Republican,1,,,,Commission seat E; vs James Brennan (D),0.95
+NV,Las Vegas Review-Journal,126500,1972,DISTRICT COURT JUDGE,8,,NV,"WENDELL, MICHAEL",Nonpartisan,1,,,,District Judge Dept 8; vs Emilie Wanderer,0.95
+NV,Las Vegas Review-Journal,126500,1972,DISTRICT COURT JUDGE,9,,NV,"GANG, LEONARD",Nonpartisan,1,,,,District Judge Dept 9; vs John Bonner,0.95
+NV,Las Vegas Review-Journal,126500,1972,JUDGE,,,NV,"BELL, REX",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Township,0.95
+NV,Las Vegas Review-Journal,126500,1972,JUDGE,,,NV,"LAGAKES, ROBERT",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Township,0.95
+NV,Las Vegas Review-Journal,126500,1972,JUDGE,,,NV,"KELLY, JAMES",Nonpartisan,1,,,,Justice of the Peace; North Las Vegas,0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE BOARD OF ED,A,,NV,"FRANZINELLI, BENJAMIN",,1,,,,Sub-district A; vs Wendell Gordon Hansen,0.95
+NV,Las Vegas Review-Journal,126500,1972,STATE BOARD OF ED,D,,NV,"FLEMING, CHARLES",,1,,,,Sub-district D; vs Joan Kenney,0.95
+NV,Las Vegas Review-Journal,126500,1972,SCHOOL BOARD,A,,NV,"TAYLOR, GLEN",Nonpartisan,1,,,,County School Trustee District A; vs Carlton Lawrence,0.95
+NV,Las Vegas Review-Journal,126500,1972,SCHOOL BOARD,B,,NV,"TABAT, LOUIS",Nonpartisan,1,,,,County School Trustee District B; vs Earl A. Evans Jr.,0.95
+NV,Las Vegas Review-Journal,126500,1972,SCHOOL BOARD,C,,NV,"JOHNSON, LEO ADOLPHUS",Nonpartisan,1,,,,County School Trustee District C; vs Birdia B. Moten,0.95
+NV,Las Vegas Review-Journal,126500,1972,SCHOOL BOARD,E,,NV,"CANNON, HELEN C.",Nonpartisan,1,,,,County School Trustee District E; vs John C. Hamel Jr.,0.95
+NV,Las Vegas Review-Journal,126500,1972,DIRECTOR,D,,NV,"CLOSE, JACK",,1,,,,Hospital Trustee District D; vs William Edward Kemp,0.9
+NV,Las Vegas Review-Journal,126500,1972,DIRECTOR,E,,NV,"CARTER, ANTHONY",,1,,,,Hospital Trustee District E; vs Glen Anderson,0.9
+NV,Las Vegas Review-Journal,126500,1972,DIRECTOR,B,,NV,"MCDERMOTT, PAUL",,1,,,,University of Nevada Regent Sub-District B; vs Vivian McMahon,0.9
+NV,Las Vegas Review-Journal,126500,1972,DIRECTOR,D,,NV,"WHITE, JUANITA GREER",,1,,,,University of Nevada Regent Sub-district D; vs James Buchanan,0.9
+NV,Las Vegas Review-Journal,126500,1972,DIRECTOR,E,,NV,"LEAVITT, BERT",,1,,,,University of Nevada Regent Sub-district E; vs Flora Dungan,0.9
+NV,Las Vegas Review-Journal,126500,1974,SENATOR,,,NV,"LAXALT, PAUL",Republican,1,,,,"vs Harry Reid (D), Jack Doyle (Independent)",0.95
+NV,Las Vegas Review-Journal,126500,1974,H,AL,,NV,"SANTINI, JIM",Democrat,1,,,,"vs David Towell (R), James Hansen (I)",0.95
+NV,Las Vegas Review-Journal,126500,1974,GOVERNOR,,,NV,"O'CALLAGHAN, MIKE",Democrat,1,1,,,"incumbent; vs Shirley Crumpler (R), James Ray Houston (I)",0.95
+NV,Las Vegas Review-Journal,126500,1974,LT GOVERNOR,,,NV,"ROSE, ROBERT E.",Democrat,1,,,,"vs Bill Raggio (R), Jack A. Long (I)",0.95
+NV,Las Vegas Review-Journal,126500,1974,SEC OF STATE,,,NV,"SWACKHAMER, WILLIAM D.",Democrat,1,,,,vs Stanley W. Paher (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,TREASURER,,,NV,"MIRABELLI, MICHAEL",Democrat,1,,,1,vs James J. Kennedy (R); incumbent State Treasurer,0.95
+NV,Las Vegas Review-Journal,126500,1974,ATTORNEY GENERAL,,,NV,"LIST, ROBERT",Republican,1,,,,vs Richard H. Bryan (D),0.95
+NV,Las Vegas Review-Journal,126500,1974,COMPTROLLER,,,NV,"MCGOWAN, WILSON",Republican,1,,,,vs Thomas E. Kruse (D); State Controller,0.95
+NV,Las Vegas Review-Journal,126500,1974,SUPREME COURT,,,NV,"THOMPSON, GORDON",Nonpartisan,1,,,1,vs Charles Springer; serving since 1961,0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE SENATOR,1,,NV,"GIBSON, JAMES I.",Democrat,1,,,1,incumbent; senate since 1965; vs Don Richard (D),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE SENATOR,2,,NV,"ECHOLS, GENE",Democrat,1,,,1,incumbent; vs Richard K. McNeel (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE SENATOR,3,,NV,"HECHT, JACOB CHIC",Republican,1,,,,Dist 3,0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE SENATOR,3,,NV,"HILBRECHT, NORMAN TY",Democrat,1,,,,Dist 3,0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE SENATOR,3,,NV,"CLOSE, MELVIN D.",Democrat,1,,,,Dist 3,0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,1,,NV,"DEMERS, DANNY",Democrat,1,,,,vs John H. Shipp (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,2,,NV,"HUFF, DARRELL",Republican,1,,,,vs Lloyd W. Mann (D),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,3,,NV,"BECKER, BARRY W.",Republican,1,,,,vs Roger Bremner (D),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,4,,NV,"ROBINSON, ROBERT E.",Democrat,1,,,,vs Doris D. Caston (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,5,,NV,"LOWMAN, ZEL",Republican,1,,,,vs Will Deiss (D),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,6,,NV,"BENNETT, MARION D.",Democrat,1,,,,vs Sam Mosby (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,7,,NV,"CHANEY, LONE",Democrat,1,,,,vs Earl Swift (R),0.9
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,8,,NV,"BROOKMAN, EILEEN",Democrat,1,,,,vs Roger E. Unger (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,10,,NV,"VERGIELS, JOHN M.",Democrat,1,,,,vs Harvey G. Schnitzer (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,11,,NV,"BANNER, JIM",Democrat,1,,,,vs James E. Holt (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,12,,NV,"AHBASTILDO, MARY A.",Republican,1,,,,vs Jim Schofield (D); spelling uncertain,0.75
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,13,,NV,"HOFFMAN, ROBERT",Republican,1,,,,vs Karen Hayes (D),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,14,,NV,"DREYER, DARRELL",Democrat,1,,,,vs Dona Winger (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,15,,NV,"FORD, JEAN",Republican,1,,,,vs Jon Wassell (D),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,16,,NV,"BENNETT, HARLEY L.",Democrat,1,,,,vs Chad Anderson (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,17,,NV,"PRICE, BOB",Democrat,1,,,,vs Paul May (D),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,18,,NV,"DUNCAN, RUBY",Democrat,1,,,,vs Gary Davis (R),0.9
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,19,,NV,"CRADDOCK, R. G. BOB",Democrat,1,,,,vs Leslie Stephen Barr (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,20,,NV,"LOGAN, BARRY S.",Independent,1,,,,Independent Party,0.9
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,21,,NV,"DEIMUNDO, JANE",Democrat,1,,,,vs Billy K. Dedmon (R); name spelling uncertain,0.7
+NV,Las Vegas Review-Journal,126500,1974,STATE REP,22,,NV,"SMITH, HAL",Democrat,1,,,,vs John E. Jeffrey (D),0.9
+NV,Las Vegas Review-Journal,126500,1974,SHERIFF,,,NV,"LAMB, RALPH",Democrat,1,,,1,incumbent; vs Alan Bray (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,DA/PROSECUTOR,,,NV,"HOLT, GEORGE",Democrat,1,,,,vs Roy Woofter (R); District Attorney,0.95
+NV,Las Vegas Review-Journal,126500,1974,CNTY COMM,,,NV,"GARRETT, MARK",Democrat,1,,,,vs Thalia Dondero (R),0.95
+NV,Las Vegas Review-Journal,126500,1974,CNTY COMM,,,NV,"WIESNER, TOM",Republican,1,,,,vs Ralph Mona,0.9
+NV,Las Vegas Review-Journal,126500,1974,CNTY CLERK,,,NV,"CANTER, DAVID",Democrat,1,,,,vs Bill Byrnes (Republican); County Clerk,0.9
+NV,Las Vegas Review-Journal,126500,1974,ASSESSOR,,,NV,"BUTLER, JEAN",Democrat,1,,,,vs W.H. Bill Brye (Republican); County Assessor,0.85
+NV,Las Vegas Review-Journal,126500,1974,DIRECTOR,,,NV,"SANDMAN, LARRY",,1,,,,Public Administrator; vs Hank Pendrak (R); spelling uncertain,0.7
+NV,Las Vegas Review-Journal,126500,1974,DISTRICT COURT JUDGE,8,,NV,"THOMPSON, CHARLES",Nonpartisan,1,,,,District Judge Dept 8; vs John C. Sutton,0.85
+NV,Las Vegas Review-Journal,126500,1974,DISTRICT COURT JUDGE,10,,NV,"GOODMAN, JERRY",Nonpartisan,1,,,,District Judge Dept 10; vs Tom O'Donnell,0.85
+NV,Las Vegas Review-Journal,126500,1974,JUDGE,,,NV,"BECKER, AL",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Township,0.9
+NV,Las Vegas Review-Journal,126500,1974,JUDGE,,,NV,"FOXX, MAHLON BROWN",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Township; spelling uncertain,0.6
+NV,Las Vegas Review-Journal,126500,1974,JUDGE,,,NV,"POST, PAUL",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Township,0.7
+NV,Las Vegas Review-Journal,126500,1974,JUDGE,,,NV,"LEGAKES, ROBERT",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Township,0.9
+NV,Las Vegas Review-Journal,126500,1974,JUDGE,,,NV,"KELLY, JAMES",Nonpartisan,1,,,,Justice of the Peace; North Las Vegas,0.85
+NV,Las Vegas Review-Journal,126500,1974,JUDGE,,,NV,"CARTER, BOBBY",Nonpartisan,1,,,,Justice of the Peace; Henderson,0.85
+NV,Las Vegas Review-Journal,126500,1974,JUDGE,,,NV,"PORTER, R.L. LARRY",Nonpartisan,1,,,,Justice of the Peace; Nelson,0.85
+NV,Las Vegas Review-Journal,126500,1974,JUDGE,,,NV,"LOCKWOOD, ROBERT E.",Nonpartisan,1,,,,Justice of the Peace; Nelson,0.85
+NV,Las Vegas Review-Journal,126500,1974,CONSTABLE,,,NV,"TABATA, LOUIS",,1,,,,Constable Las Vegas; vs Woods Q. DeMercurio (D); spelling uncertain,0.6
+NV,Las Vegas Review-Journal,126500,1974,DIRECTOR,A,,NV,"ROBERTSON, ROBBIE",Nonpartisan,1,,,,University of Nevada Regent A,0.9
+NV,Las Vegas Review-Journal,126500,1974,DIRECTOR,B,,NV,"BUFF, WILLIAM (BILL)",Nonpartisan,1,,,,University of Nevada Regent B; vs Lilly Fong,0.85
+NV,Las Vegas Review-Journal,126500,1974,DIRECTOR,E,,NV,"THOMPSON, SAM",Nonpartisan,1,,,,University of Nevada Regent E; vs Steven R. Thompson,0.85
+NV,Las Vegas Review-Journal,126500,1974,STATE BOARD OF ED,B,,NV,"SETARES, KEVIN RODGERS",Nonpartisan,1,,,,State Board of Education B; spelling uncertain,0.7
+NV,Las Vegas Review-Journal,126500,1974,STATE BOARD OF ED,E,,NV,"YOUNG, ANITA L.",Nonpartisan,1,,,,State Board of Education E,0.85
+NV,Las Vegas Review-Journal,126500,1974,SCHOOL BOARD,D,,NV,"HARRIMAN, RUBE",Nonpartisan,1,,,,School Trustee D; vs George Earley Herrera,0.85
+NV,Las Vegas Review-Journal,126500,1974,SCHOOL BOARD,G,,NV,"WOODBURY, CLARE W.",Nonpartisan,1,,,,School Trustee G; vs Robert Porlson,0.85
+NV,Las Vegas Review-Journal,126500,1974,DIRECTOR,B,,NV,"BELDEN, HERMAN VAN",Nonpartisan,1,,,,Hospital Trustee B; spelling uncertain,0.65
+NV,Las Vegas Review-Journal,126500,1974,DIRECTOR,E,,NV,"BURKE, CARRIE G.",Nonpartisan,1,,,,Hospital Trustee E,0.8
+NV,Las Vegas Review-Journal,126500,1976,PRESIDENT,,,NV,"CARTER, JIMMY",Democrat,1,,,,Carter-Mondale; vs Republican Nixon legacy,0.95
+NV,Las Vegas Review-Journal,126500,1976,SENATOR,,,NV,"CANNON, H.W.",Democrat,1,1,,,Sen. Howard Cannon; incumbent 18 years,0.95
+NV,Las Vegas Review-Journal,126500,1976,H,AL,,NV,"SANTINI, JIM",Democrat,1,1,,,freshman Congressman,0.95
+NV,Las Vegas Review-Journal,126500,1976,STATE SENATOR,2,,NV,"FAISS, W.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE SENATOR,3,,NV,"ASHWORTH, K.",Democrat,1,,,,Vote for multiple; five endorsed,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE SENATOR,3,,NV,"BRYAN, R.H.",Democrat,1,,,,Vote for multiple; five endorsed,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE SENATOR,3,,NV,"FORD, J.",Republican,1,,,,Vote for multiple; five endorsed,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE SENATOR,3,,NV,"LAMB, F.",Democrat,1,,,,Vote for multiple; five endorsed,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE SENATOR,3,,NV,"LOWMAN, Z.",Republican,1,,,,Vote for multiple; five endorsed,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE SENATOR,4,,NV,"BAILEY, B.",Democrat,1,,,,Bob Bailey; vs Joe Neal,0.95
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,1,,NV,"DEMERS, D.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,2,,NV,"MANN, L.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,3,,NV,"BREMER, R.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,4,,NV,"KISSAM, W.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,5,,NV,"MARSH, J.",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,6,,NV,"BENNETT, M.D.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,7,,NV,"CHANEY, L.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,8,,NV,"ROBINSON, R.E.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,9,,NV,"BROOKMAN, E.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,10,,NV,"VERGIELS, J.M.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,11,,NV,"BANNER, J.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,12,,NV,"SCHOFIELD, JACK",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,13,,NV,"HAYES, K.W.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,14,,NV,"DREYER, D.H.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,15,,NV,"HORN, N.J.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,16,,NV,"HARMON, H.L.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,17,,NV,"PRICE, B.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,18,,NV,"HICKEY, T.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,19,,NV,"MAY, PAUL",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,20,,NV,"CRADDOCK, R.G.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,21,,NV,"SENA, N.M.",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE REP,22,,NV,"ROBINSON, A.",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1976,CNTY COMM,A,,NV,"DONDERO, T.",Democrat,1,,,,County Commission Seat A,0.95
+NV,Las Vegas Review-Journal,126500,1976,CNTY COMM,B,,NV,"STANTON, B.",Republican,1,,,,County Commissioner Seat B,0.95
+NV,Las Vegas Review-Journal,126500,1976,CNTY COMM,C,,NV,"CANTER, D.",Democrat,1,,,,County Commission Seat C,0.95
+NV,Las Vegas Review-Journal,126500,1976,CNTY COMM,D,,NV,"RONZONE, R.J.",Democrat,1,,,,County Commission Seat D,0.95
+NV,Las Vegas Review-Journal,126500,1976,CNTY COMM,E,,NV,"PETITTI, J.R.",Democrat,1,,,,County Commission Seat E,0.95
+NV,Las Vegas Review-Journal,126500,1976,CNTY COMM,F,,NV,"BROADBENT, R.",Republican,1,,,,County Commission Seat F,0.95
+NV,Las Vegas Review-Journal,126500,1976,CNTY COMM,G,,NV,"BOWLER, S.",Democrat,1,,,,County Commission Seat G,0.95
+NV,Las Vegas Review-Journal,126500,1976,DISTRICT COURT JUDGE,11,,NV,"GUY, A.D.",Nonpartisan,1,,,,District Court Judge Dept 11,0.95
+NV,Las Vegas Review-Journal,126500,1976,JUDGE,,,NV,"MILLER, B.",Nonpartisan,1,,,,Justice of the Peace; LV Township,0.9
+NV,Las Vegas Review-Journal,126500,1976,JUDGE,,,NV,"SHEARING, M.",Nonpartisan,1,,,,Justice of the Peace; LV Township,0.9
+NV,Las Vegas Review-Journal,126500,1976,DIRECTOR,A,,NV,"MASON, B.D.",Nonpartisan,1,,,,University of Nevada Regent Sub-District A,0.9
+NV,Las Vegas Review-Journal,126500,1976,DIRECTOR,B,,NV,"CRAMER, B.",Nonpartisan,1,,,,University of Nevada Regent Sub-District B; vs James Buchanan,0.9
+NV,Las Vegas Review-Journal,126500,1976,STATE BOARD OF ED,D,,NV,"KENNEY, J.",Nonpartisan,1,,,,State Board of Education Sub District D,0.9
+NV,Las Vegas Review-Journal,126500,1976,SCHOOL BOARD,A,,NV,"TAYLOR, G.C.",Nonpartisan,1,,,,Trustee Clark County School District A,0.9
+NV,Las Vegas Review-Journal,126500,1976,SCHOOL BOARD,B,,NV,"EVANS, J.R. FR.",Nonpartisan,1,,,,Trustee Clark County School District B,0.85
+NV,Las Vegas Review-Journal,126500,1976,SCHOOL BOARD,C,,NV,"GAY, J.",Nonpartisan,1,,,,Trustee Clark County School District C,0.9
+NV,Las Vegas Review-Journal,126500,1976,SCHOOL BOARD,E,,NV,"CANNON, H.C.",Nonpartisan,1,,,,Trustee Clark County School District E,0.9
+NV,Las Vegas Review-Journal,126500,1978,H,AL,,NV,"SANTINI, JAMES",Democrat,1,1,,,"vs Bill O'Mara (R), Linda West (Lib)",0.95
+NV,Las Vegas Review-Journal,126500,1978,GOVERNOR,,,NV,"LIST, ROBERT",Republican,1,,,,"vs John W. Grayson Jr. (Lib), Thomas Jefferson (IAP), Robert Rose (D)",0.95
+NV,Las Vegas Review-Journal,126500,1978,LT GOVERNOR,,,NV,"HEATON, DEVOE",Republican,1,,,,"vs Florence Fields (Lib), Myron Leavitt (D), B.F. Bud Pritchard (IAP)",0.95
+NV,Las Vegas Review-Journal,126500,1978,SEC OF STATE,,,NV,"SWACKHAMER, WILLIAM",Democrat,1,,,,vs Walden Earhart (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,TREASURER,,,NV,"COLTON, STAN",Democrat,1,,,,"vs Patty Cafferata (R), Bonita M. Cornett (Lib), Donald L. Hancock (IAP)",0.95
+NV,Las Vegas Review-Journal,126500,1978,COMPTROLLER,,,NV,"MCGOWAN, WILSON",Republican,1,,,,"vs Michael Daly (D), C. Fields (Lib); State Controller",0.95
+NV,Las Vegas Review-Journal,126500,1978,ATTORNEY GENERAL,,,NV,"BRYAN, RICHARD",Democrat,1,,,,"vs Harry J. Mangrum Jr. (Lib), Donald Robb (R), Merritt Ike Yochum (IAP)",0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE SENATOR,1,,NV,"GIBSON, JAMES",Democrat,1,,,,vs Fred Bush (Lib),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE SENATOR,2,,NV,"ECHOLS, GENE",Democrat,1,,,,vs Richard Deeds (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE SENATOR,3,,NV,"CLOSE, MEL",Democrat,1,,,,Vote for three,0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE SENATOR,3,,NV,"FORD, JEAN",Democrat,1,,,,Vote for three,0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE SENATOR,3,,NV,"LOWMAN, ZEL",Republican,1,,,,Vote for three,0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,1,,NV,"KOVACS, EDWARD",Democrat,1,,,,"vs Peggy Cavnar (R), Iris Henderson (IAP)",0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,2,,NV,"LUSK, JERRY",Republican,1,,,,vs Lloyd Mann (D),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,3,,NV,"BREMNER, ROGER",Democrat,1,,,,vs Patrick O'Neill (Lib),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,4,,NV,"ARDIE, DAVE",Libertarian,1,,,,"vs William Kissam (D), Michael Malone (R); endorsement choice unclear, none has X clearly",0.6
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,5,,NV,"ROSS, IAN",Democrat,1,,,,vs Bill Brady (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,6,,NV,"BENNETT, MARION",Democrat,1,,,,vs Luie Davis (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,7,,NV,"CHANEY, LONIE",Democrat,1,,,,vs Fred Smith (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,8,,NV,"ROBINSON, ROBERT",Democrat,1,,,,"vs Nicole Grayson (Lib), Ted Robey (R)",0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,9,,NV,"TANNER, DARRELL",Republican,1,,,,vs Lawrence Luna (D),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,10,,NV,"VERGIELS, JOHN",Democrat,1,,,,vs Don B. Casey (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,11,,NV,"BANNER, JAMES",Democrat,1,,,,vs Kenneth Divich (D),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,12,,NV,"FITZPATRICK, MICHAEL",Republican,1,,,,vs Beverly Carlino (D),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,13,,NV,"HAYES, KAREN",Republican,1,,,,"vs Dennis Waugh (D), Ronald G. Wittig (Lib)",0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,14,,NV,"STEWART, JAN",Democrat,1,,,,vs Rick Kuhlmey (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,15,,NV,"HORN, NICHOLAS",Democrat,1,,,,"vs Jerry Fisler (R), Bob Pierson (Lib)",0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,16,,NV,"HARMON, HARLEY",Democrat,1,,,,vs Jane Ham (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,17,,NV,"PRICE, BOB",Democrat,1,,,,vs Robert Memmott (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,18,,NV,"HICKEY, TOM",Democrat,1,,,,"vs Jim Burns (Lib), Clyde Perkins (R)",0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,19,,NV,"MAY, PAUL JR.",Democrat,1,,,,vs Michael Connolly (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,20,,NV,"CRADDOCK, ROBERT G.",Democrat,1,,,,vs Weston R. Hill (Lib),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,21,,NV,"SENA, NASH",Democrat,1,,,,vs Frederic M. Geiger (Lib),0.95
+NV,Las Vegas Review-Journal,126500,1978,STATE REP,22,,NV,"JEFFREY, JOHN",Democrat,1,,,,vs Greg Hillspaugh (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,CNTY COMM,E,,NV,"DONDERO, THALIA",Democrat,1,,,,vs Anthony Wilde (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,CNTY COMM,F,,NV,"CORTEZ, MANUEL",Democrat,1,,,,vs Courdia McDaniel (Lib),0.95
+NV,Las Vegas Review-Journal,126500,1978,CNTY COMM,G,,NV,"CANTER, DAVID",Democrat,1,,,,vs Ray Haldeman (R),0.95
+NV,Las Vegas Review-Journal,126500,1978,DA/PROSECUTOR,,,NV,"MILLER, BOB",Democrat,1,,,,vs Allan Bray (R); District Attorney,0.95
+NV,Las Vegas Review-Journal,126500,1978,SHERIFF,,,NV,"LAMB, RALPH",Democrat,1,,,1,vs John McCarthy (R); incumbent,0.95
+NV,Las Vegas Review-Journal,126500,1978,ASSESSOR,,,NV,"DUTTON, JEAN",Democrat,1,,,,"vs John Cornett (Lib), Albin Lindgren (R)",0.95
+NV,Las Vegas Review-Journal,126500,1978,CNTY CLERK,,,NV,"BOWMAN, LORETTA",Democrat,1,,,,"vs Carl Hosbond (Lib), Claudette Sineoe (R)",0.95
+NV,Las Vegas Review-Journal,126500,1978,RECORDER,,,NV,"SWIFT, JOAN",Democrat,1,,,,vs Hope H. Weed (Lib),0.95
+NV,Las Vegas Review-Journal,126500,1978,TREASURER,,,NV,"GALLOWAY, WILLIAM W.",Democrat,1,,,,"County Treasurer; vs Mary Ponton (Lib), Kenneth Sawyer (R)",0.95
+NV,Las Vegas Review-Journal,126500,1978,DIRECTOR,,,NV,"ROSENTHAL, JOEL",Democrat,1,,,,"Public Administrator; vs Mary M. McCarty (Lib), Steve Pollack (R)",0.95
+NV,Las Vegas Review-Journal,126500,1978,CONSTABLE,,,NV,"LAUB, ERIK",Democrat,1,,,,"Constable, Bunkerville",0.9
+NV,Las Vegas Review-Journal,126500,1978,CONSTABLE,,,NV,"CRISLER, F.C. FRITZ",Democrat,1,,,,"Constable, Henderson",0.9
+NV,Las Vegas Review-Journal,126500,1978,CONSTABLE,,,NV,"COLE, W.W. WOODY",Democrat,1,,,,"Constable, Las Vegas; vs Ronald Nicolai (R), Tom Rice (IAP)",0.95
+NV,Las Vegas Review-Journal,126500,1978,CONSTABLE,,,NV,"MARSHALL, W.W. BILL",Democrat,1,,,,"Constable, Logan",0.9
+NV,Las Vegas Review-Journal,126500,1978,CONSTABLE,,,NV,"HAFEN, LAVOY",Republican,1,,,,"Constable, Mesquite; vs Clawson Ruth (D)",0.9
+NV,Las Vegas Review-Journal,126500,1978,CONSTABLE,,,NV,"LOFLAND, KENNETH",Democrat,1,,,,"Constable, Moapa; vs Douglas Bow (D)",0.9
+NV,Las Vegas Review-Journal,126500,1978,CONSTABLE,,,NV,"FURGERSON, HARRY W.",Democrat,1,,,,"Constable, Nelson; vs John H. Shipp (D)",0.9
+NV,Las Vegas Review-Journal,126500,1978,CONSTABLE,,,NV,"TABAT, LOUIS A.",Democrat,1,,,,"Constable, North Las Vegas",0.9
+NV,Las Vegas Review-Journal,126500,1978,SUPREME COURT,B,,NV,"BATJER, CAMERON",Nonpartisan,1,,,1,Seat B,0.95
+NV,Las Vegas Review-Journal,126500,1978,SUPREME COURT,D,,NV,"MANOUKIAN, NOEL",Nonpartisan,1,,,,Seat D; vs Edwin Dotson,0.95
+NV,Las Vegas Review-Journal,126500,1978,DIRECTOR,B,,NV,"JONES, JAMES",Nonpartisan,1,,,,University of Nevada Regent District B; vs Lilly Fong,0.9
+NV,Las Vegas Review-Journal,126500,1978,DIRECTOR,C,,NV,"KARAMANOS, CHRIS",Nonpartisan,1,,,,University of Nevada Regent District C; vs Murray Posin,0.9
+NV,Las Vegas Review-Journal,126500,1978,DIRECTOR,E,,NV,"MCBRIDE, JOHN",Nonpartisan,1,,,,University of Nevada Regent District E; vs John Buchanan,0.9
+NV,Las Vegas Review-Journal,126500,1978,STATE BOARD OF ED,B,,NV,"LINE, JANET",Nonpartisan,1,,,,Board of Education District B; vs James Campbell,0.9
+NV,Las Vegas Review-Journal,126500,1978,STATE BOARD OF ED,C,,NV,"CLARKE, ROSEMARY",Nonpartisan,1,,,,Board of Education District C,0.9
+NV,Las Vegas Review-Journal,126500,1978,STATE BOARD OF ED,E,,NV,"EGGERS, CURTIS",Nonpartisan,1,,,,Board of Education District E; vs Florida McDonald,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,1,,NV,"THOMPSON, CHARLES",Nonpartisan,1,,,,Dist Court No. 1,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,2,,NV,"BRENNAN, JAMES",Nonpartisan,1,,,,Dist Court No. 2,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,3,,NV,"PAVLIKOWSKI, JOSEPH",Nonpartisan,1,,,,Dist Court No. 3,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,4,,NV,"O'DONNELL, THOMAS",Nonpartisan,1,,,,Dist Court No. 4,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,5,,NV,"MENDOZA, JOHN",Nonpartisan,1,,,,Dist Court No. 5; vs Harland Hubbard,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,6,,NV,"BABCOCK, HOWARD",Nonpartisan,1,,,,Dist Court No. 6,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,7,,NV,"CHRISTENSEN, CARL",Nonpartisan,1,,,,Dist Court No. 7,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,8,,NV,"WENDELL, MICHAEL",Nonpartisan,1,,,,Dist Court No. 8,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,9,,NV,"HAYES, KEITH",Nonpartisan,1,,,,Dist Court No. 9,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,10,,NV,"GOLDMAN, PAUL",Nonpartisan,1,,,,Dist Court No. 10,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,11,,NV,"GUY, DELL",Nonpartisan,1,,,,Dist Court No. 11,0.9
+NV,Las Vegas Review-Journal,126500,1978,DISTRICT COURT JUDGE,12,,NV,"LEGAKES, ROBERT",Nonpartisan,1,,,,Dist Court No. 12; vs George Ogilvie,0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"LEAVITT, CECIL",Nonpartisan,1,,,,Justice of the Peace; Bunkerville,0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"MCCARTHY, STUART",Nonpartisan,1,,,,Justice of the Peace; Goodsprings,0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"TABONY, LARRY",Nonpartisan,1,,,,Justice of the Peace; Henderson; vs Delwin Potter,0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"AHLSTROM, DAN",Nonpartisan,1,,,,Justice of the Peace; Las Vegas - Four Years,0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"GUBLER, JIM",Nonpartisan,1,,,,Justice of the Peace; Las Vegas - Four Years,0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"SHEARING, MIRIAM",Nonpartisan,1,,,,"Justice of the Peace; Las Vegas - Four Years; vs A.L. Becker, Joseph Bonaventure, Robbie Robertson, John Sleeper, Lillian Sondgeroth",0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"MCGROARTY, JOHN",Nonpartisan,1,,,,Justice of the Peace; Las Vegas - Two Years; vs Glen Anderson,0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"COOPER, WILLIAM",Nonpartisan,1,,,,Justice of the Peace; Logan; vs Marvin Burrows,0.85
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"WALKER, BRENT",Nonpartisan,1,,,,Justice of the Peace; Mesquite; vs Ellis Cheney,0.85
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"WRIGHT, LENARD",Nonpartisan,1,,,,Justice of the Peace; Moapa; vs Marley Robinson,0.85
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"SEGERBLOM, CLIFFORD",Nonpartisan,1,,,,Justice of the Peace; Nelson,0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"KELLY, JAMES",Nonpartisan,1,,,,Justice of the Peace; North Las Vegas; vs Cherri Christensen,0.9
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"PROVENZANO, LATRICE R.",Nonpartisan,1,,,,Justice of the Peace; Overton; vs Robert C. Behmer; spelling uncertain,0.75
+NV,Las Vegas Review-Journal,126500,1978,JUDGE,,,NV,"STRONG, JACK",Nonpartisan,1,,,,Justice of the Peace; Searchlight,0.9
+NV,Las Vegas Review-Journal,126500,1978,SCHOOL BOARD,B,,NV,"FAISS, DONALD",Nonpartisan,1,,,,School Trustee District B; vs James Dreitzler,0.9
+NV,Las Vegas Review-Journal,126500,1978,SCHOOL BOARD,D,,NV,"FORBUSS, ROBERT",Nonpartisan,1,,,,School Trustee District D,0.9
+NV,Las Vegas Review-Journal,126500,1978,SCHOOL BOARD,D,,NV,"SMITH, EDWARD",Nonpartisan,1,,,,School Trustee District D,0.9
+NV,Las Vegas Review-Journal,126500,1978,SCHOOL BOARD,F,,NV,"SEMMENS, THOMAS",Nonpartisan,1,,,,School Trustee District F; vs Connie Larson,0.9
+NV,Las Vegas Review-Journal,126500,1978,SCHOOL BOARD,G,,NV,"LYMAN, JAMES",Nonpartisan,1,,,,School Trustee District G; vs Herman Van Betten,0.9
+NV,Las Vegas Review-Journal,126500,1980,PRESIDENT,,,NV,"REAGAN, RONALD",Republican,1,,,,"Reagan-Bush; vs Carter-Mondale (D), Anderson-Lucey (Ind), Clark-Koch (L); President Carter has shown himself inept, Ronald Reagan is the leader needed",0.95
+NV,Las Vegas Review-Journal,126500,1980,SENATOR,,,NV,"LAXALT, PAUL",Republican,1,,1,,"vs Mary Gojack (D), Alan Hacker (L); incumbent",0.95
+NV,Las Vegas Review-Journal,126500,1980,H,AL,,NV,"SANTINI, JAMES",Democrat,1,1,,,"vs Harry Mangrum (L), Vince Saunders (R); incumbent",0.95
+NV,Las Vegas Review-Journal,126500,1980,SUPREME COURT,C,,NV,"MOWBRAY, JOHN",Nonpartisan,1,,,1,vs Peter Flangas; incumbent,0.95
+NV,Las Vegas Review-Journal,126500,1980,SUPREME COURT,E,,NV,"SPRINGER, CHARLES",Nonpartisan,1,,,,vs Paul Goldman,0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE SENATOR,2,,NV,"MCCARTY, HELEN",Democrat,1,,,,vs Wilbur Faiss (R); North Las Vegas first term in office,0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE SENATOR,3,,NV,"ASHWORTH, KEITH",Democrat,1,,,,Vote for multiple,0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE SENATOR,3,,NV,"BILBRAY, JAMES",Democrat,1,,,,Vote for multiple,0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE SENATOR,3,,NV,"HERNSTADT, BILL",Democrat,1,,,,Vote for multiple,0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE SENATOR,3,,NV,"LAMB, FLOYD",Democrat,1,,,,Vote for multiple,0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE SENATOR,3,,NV,"LAMBERT, CHUCK",Republican,1,,,,Vote for multiple,0.9
+NV,Las Vegas Review-Journal,126500,1980,STATE SENATOR,4,,NV,"MCCURDY, BILL",Republican,1,,,,vs Joe Neal (D),0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,1,,NV,"GRILE, DICK",Republican,1,,,,"We feel either of these qualified candidates can handle the job well; vs Pat Henderson (L), Ed Kovacs (D); no clear endorsement winner — unclear",0.55
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,2,,NV,"DUBOIS, JOHN",Republican,1,,,,"Both strong; vs Teresa Cushman (D), Sylvia Liccio (L)",0.6
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,3,,NV,"BREMNER, ROGER",Democrat,1,,,,"vs Julie Erhart (L), Helen Reed (R)",0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,4,,NV,"KISSAM, BILL",Democrat,1,,,,vs Mike Malone (R) (police officer may pose conflict),0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,5,,NV,"BRADY, BILL",Republican,1,,,,"vs Glenda Latta (L), Allan Triner (D); incumbent",0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,6,,NV,"BENNETT, MARION",Democrat,1,,,,"vs John M. Ketchum (L), Priscilla Myers (R); incumbent",0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,7,,NV,"CHANEY, LONIE",Democrat,1,,,,vs James C. Haynes (R),0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,8,,NV,"ROBINSON, ROBERT",Democrat,1,,,,"vs Arnold Getzel (L), Barbara Zimmer (R); incumbent",0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,9,,NV,"FOLEY, HELEN A.",Democrat,1,,,,vs Sarah Hendrickson (L),0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,10,,NV,"VERGIELS, JOHN",Democrat,1,,,,"vs Sam Bushanie (R), Laurel Young (L)",0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,11,,NV,"BANNER, JIM",Democrat,1,,,,vs Sandra K. Buck (L),0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,12,,NV,"SCHOFIELD, JAMES",Democrat,1,,,,"vs Mike FitzPatrick (R), Cameron Malcolm (L)",0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,13,,NV,"HAYES, KAREN",Republican,1,,,,"vs William Harris (L), Sara Reagan (D)",0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,14,,NV,"STEWART, JAN",Democrat,1,,,,vs George Boddie (R),0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,15,,NV,"FISLER, JERRY",Republican,1,,,,"vs Nick Horn (D), Robert Pierson (L)",0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,16,,NV,"HARMON, HARLEY",Democrat,1,,,,"vs Jane Ham (R), Connie King (L)",0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,17,,NV,"PRICE, BOB",Democrat,1,,,,vs Kathleen Collins (R),0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,18,,NV,"HICKEY, TOM",Democrat,1,,,,vs James Wilson (R); incumbent,0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,19,,NV,"GRUBB, LAWRENCE",Republican,1,,,,may is well respected by colleagues in the Legislature; spelling uncertain,0.7
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,20,,NV,"CAPO, PEGGY",Democrat,1,,,,vs R.G. Craddock (D),0.9
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,21,,NV,"SENA, NASH",Democrat,1,,,,vs Danny Thompson (D),0.95
+NV,Las Vegas Review-Journal,126500,1980,STATE REP,22,,NV,"JEFFREY, JOHN",Democrat,1,,,,vs Bryan Hafen (R); incumbent,0.95
+NV,Las Vegas Review-Journal,126500,1980,CNTY COMM,A,,NV,"BROADBENT, BOB",Republican,1,,,1,Both strong candidates; vote goes to incumbent; vs Arthur A. Hafen (D),0.9
+NV,Las Vegas Review-Journal,126500,1980,CNTY COMM,B,,NV,"PETITTI, JACK",Democrat,1,,,,vs Joey Hale (R),0.95
+NV,Las Vegas Review-Journal,126500,1980,CNTY COMM,C,,NV,"RONZONE, R.J.",Democrat,1,,,,vs Tom Miller (R); incumbent,0.95
+NV,Las Vegas Review-Journal,126500,1980,CNTY COMM,D,,NV,"BOWLER, SAM",Democrat,1,,,1,"vs K. McLaughlin (L), Woodrow Wilson (R); incumbent",0.95
+NV,Las Vegas Review-Journal,126500,1980,DIRECTOR,,,NV,"SHAFER, JARED",Democrat,1,,,1,"Public Administrator; vs Mary Harris (L), James Pollack (R); incumbent",0.95
+NV,Las Vegas Review-Journal,126500,1980,CONSTABLE,,,NV,"SANDERS, MARVIN",Republican,1,,,,"vs John Bonaventura (D), Edwin Junkka (L)",0.9
+NV,Las Vegas Review-Journal,126500,1980,SCHOOL BOARD,A,,NV,"BUTLER, PHILLIP R.",Nonpartisan,1,,,,School Trustee A; vs Shirley Holst,0.9
+NV,Las Vegas Review-Journal,126500,1980,SCHOOL BOARD,B,,NV,"FAISS, DONALD R.",Nonpartisan,1,,,,School Trustee B; vs Pat Little,0.9
+NV,Las Vegas Review-Journal,126500,1980,SCHOOL BOARD,C,,NV,"BREWSTER, VIRGINIA",Nonpartisan,1,,,,School Trustee C,0.9
+NV,Las Vegas Review-Journal,126500,1980,SCHOOL BOARD,E,,NV,"HAYDEN, DON",Nonpartisan,1,,,,School Trustee E; vs Lucille Lusk,0.9
+NV,Las Vegas Review-Journal,126500,1980,DIRECTOR,A,,NV,"WHITLEY, JUNE",Nonpartisan,1,,,,University of Nevada Regents A,0.9
+NV,Las Vegas Review-Journal,126500,1980,DIRECTOR,C,,NV,"JONES, JAMES M.",Nonpartisan,1,,,,University of Nevada Regents C; vs Chris Karamanos,0.9
+NV,Las Vegas Review-Journal,126500,1980,STATE BOARD OF ED,A,,NV,"HOLMES, WARREN",Nonpartisan,1,,,,Board of Education A,0.85
+NV,Las Vegas Review-Journal,126500,1980,STATE BOARD OF ED,D,,NV,"KENNEY, JOAN",Nonpartisan,1,,,,Board of Education D,0.85
+NV,Las Vegas Review-Journal,126500,1980,DISTRICT COURT JUDGE,,,NV,"HUFFAKER, STEPHEN",Nonpartisan,1,,,1,District Judge; incumbent; vs Miriam Shearing,0.85
+NV,Las Vegas Review-Journal,126500,1980,JUDGE,,,NV,"MCGROARTY, JOHN S.",Nonpartisan,1,,,1,JP Dept. 1; incumbent; vs Virginia Bascom,0.85
+NV,Las Vegas Review-Journal,126500,1980,JUDGE,,,NV,"BIXLER, JAMES M.",Nonpartisan,1,,,,JP Dept. 4; vs Jane Lodowyck,0.85
+NV,Las Vegas Review-Journal,126500,1980,JUDGE,,,NV,"WHITE, EARL W. JR.",Nonpartisan,1,,,,JP Dept. 5; vs John Sleeper,0.85
+NV,Las Vegas Review-Journal,126500,1982,GOVERNOR,,,NV,"BRYAN, RICHARD",Democrat,1,,,,vs Bob List (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,SENATOR,,,NV,"HECHT, CHIC",Republican,1,,,,vs Howard Cannon (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,H,1,,NV,"REID, HARRY",Democrat,1,,,,vs Peggy Cavnar (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,H,2,,NV,"VUCANOVICH, BARBARA",Republican,1,,,,vs Mary Gojack (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,SHERIFF,,,NV,"MCCARTHY, JOHN",Republican,1,,,,vs John Moran (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,LT GOVERNOR,,,NV,"CASHELL, BOB",Democrat,1,,,,vs Bill Boyd (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,ATTORNEY GENERAL,,,NV,"BROWN, MAHLON",Democrat,1,,,,vs Brian McKay (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,SEC OF STATE,,,NV,"WILLIAMS, BELLA",Republican,1,,,,vs Bill Swackhamer (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,TREASURER,,,NV,"BARENGO, BOB",Democrat,1,,,,vs Patty Cafferata (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,COMPTROLLER,,,NV,"DAINES, DARREL",Republican,1,,,,vs Gerald Olivet (D); State Controller,0.95
+NV,Las Vegas Review-Journal,126500,1982,SUPREME COURT,C,,NV,"GUNDERSON, AL",Nonpartisan,1,,,,Seat C; vs Robert Van Wagoner,0.95
+NV,Las Vegas Review-Journal,126500,1982,SCHOOL BOARD,F,,NV,"BORDORF, PAT",Nonpartisan,1,,,,School Board District F; vs Tom Semmens,0.9
+NV,Las Vegas Review-Journal,126500,1982,SCHOOL BOARD,G,,NV,"KIRSCHNER, FRED",Nonpartisan,1,,,,School Board District G; vs Dan Goldfarb,0.9
+NV,Las Vegas Review-Journal,126500,1982,DIRECTOR,A,,NV,"CHOWNING, VONNE",Nonpartisan,1,,,,University Regent Subdistrict A; vs June Whitley,0.9
+NV,Las Vegas Review-Journal,126500,1982,STATE BOARD OF ED,B,,NV,"MORRIS, VIVIENNA",Nonpartisan,1,,,,Board of Education Subdistrict B; vs John Hill,0.9
+NV,Las Vegas Review-Journal,126500,1982,STATE BOARD OF ED,C,,NV,"KUNKLE, RICHARD",Nonpartisan,1,,,,Board of Education Subdistrict C; vs June Hammann,0.9
+NV,Las Vegas Review-Journal,126500,1982,STATE BOARD OF ED,E,,NV,"PEPLOWSKI, MARK",Nonpartisan,1,,,,Board of Education Subdistrict E; vs Marianne Long,0.9
+NV,Las Vegas Review-Journal,126500,1982,CNTY COMM,A,,NV,"WOODBURY, BRUCE",Republican,1,,,,vs Jim Jensen (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,CNTY COMM,E,,NV,"DONDERO, THALIA",Democrat,1,,,,vs Scott Griffith (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,CNTY COMM,F,,NV,"CORTEZ, MANNY",Democrat,1,,,,vs George Holt (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,CNTY COMM,G,,NV,"HAYES, KAREN",Republican,1,,,,vs Murray Westgate (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE SENATOR,2,,NV,"HICKEY, TOM",Democrat,1,,,,vs Jack Regan (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE SENATOR,3,,NV,"FOLEY, HELEN",Democrat,1,,,,vs Joe Morris (L),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE SENATOR,5,,NV,"CHRISTENSEN, VERN",Democrat,1,,,,"vs Bob Ryan (R), Patrick O'Neill (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE SENATOR,6,,NV,"ROBINSON, BOB",Democrat,1,,,,"vs Andy Mangeris (R), Allen Hacker (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE SENATOR,7,,NV,"HORN, NICK",Democrat,1,,,,vs Dan Newburn (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,1,,NV,"KOVACS, ED",Democrat,1,,,,vs Sally McMenaway (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,2,,NV,"DUBOIS, JOHN",Republican,1,,,,vs J. Clint Wright (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,3,,NV,"BREMNER, ROGER",Democrat,1,,,,"vs George Kobolis (R), Steven Dusterwald (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,4,,NV,"RUDIN, CARALYNNE",Democrat,1,,,,vs Mike Malone (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,5,,NV,"BRADY, BILL",Republican,1,,,,"vs Wendy Cole (D), Mary Ponton (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,6,,NV,"COLLINS, GENE",Democrat,1,,,,vs Willie Neal (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,7,,NV,"CHANEY, LONIE",Democrat,1,,,,vs Linda Brown (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,8,,NV,"ZIMMER, BARBARA",Republican,1,,,,"vs Robert Voin (D), Edward Junkka (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,9,,NV,"COFFIN, BOB",Democrat,1,,,,"vs Tony Samarzia (R), Arnold Getzel (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,10,,NV,"VERGIELS, JOHN",Democrat,1,,,,"vs Suzanne Cortez (R), Elizabeth Lynch (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,11,,NV,"BANNER, JIM",Democrat,1,,,,"vs Don Lee Wright (R), Lynda Navaiz (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,12,,NV,"SCHOFIELD, JIM",Democrat,1,,,,"vs Nancy Bogan (R), Johanna Hawley (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,13,,NV,"BERKLEY, SHELLEY",Democrat,1,,,,vs Ray Bohart (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,14,,NV,"STEWART, JAN",Democrat,1,,,,"vs Bill Allen (R), Steven Trekles (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,15,,NV,"SEDWAY, MARVIN",Democrat,1,,,,vs Sally Vekus (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,16,,NV,"HAM, JANE",Republican,1,,,,vs Joyce Woodhouse (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,17,,NV,"PRICE, BOB",Democrat,1,,,,vs Kathleen Collins (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,18,,NV,"JARMAN, PATRICIA",Republican,1,,,,vs Robert Fay (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,19,,NV,"MAY, PAUL",Democrat,1,,,,vs Lawrence Grubb (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,20,,NV,"TROWBRIDGE, GLENN",Republican,1,,,,vs Bob Craddock (D),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,21,,NV,"THOMPSON, DANNY",Democrat,1,,,,vs Ray Isom (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,22,,NV,"JEFFREY, JACK",Democrat,1,,,,vs Phil Stout (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,41,,NV,"FRANCO, STEVE",Democrat,1,,,,vs Joe Behar (R),0.9
+NV,Las Vegas Review-Journal,126500,1982,STATE REP,42,,NV,"PERRY, CHARLES",Democrat,1,,,,vs Bob Roy (R),0.9
+NV,Las Vegas Review-Journal,126500,1982,JUDGE,1,,NV,"WAWERNA, JOHN",Nonpartisan,1,,,,Justice Court Dept 1; vs Joe Bowler,0.85
+NV,Las Vegas Review-Journal,126500,1982,JUDGE,2,,NV,"SLADE, KELLY",Nonpartisan,1,,,,Justice Court Dept 2; vs Sam Bowler,0.85
+NV,Las Vegas Review-Journal,126500,1982,JUDGE,3,,NV,"WHITE, EARLE JR.",Nonpartisan,1,,,,Justice Court Dept 3; vs Bob Wolf,0.85
+NV,Las Vegas Review-Journal,126500,1982,DISTRICT COURT JUDGE,1,,NV,"FOLEY, THOMAS",Nonpartisan,1,,,,District Court Dept 1; vs Monte Morris,0.85
+NV,Las Vegas Review-Journal,126500,1982,DISTRICT COURT JUDGE,14,,NV,"AHLSTROM, DAN",Nonpartisan,1,,,,District Court Dept 14; vs Donald Mosley,0.85
+NV,Las Vegas Review-Journal,126500,1982,DISTRICT COURT JUDGE,15,,NV,"SHEARING, MIRIAM",Nonpartisan,1,,,,District Court Dept 15; vs Don Seaton,0.85
+NV,Las Vegas Review-Journal,126500,1982,DISTRICT COURT JUDGE,16,,NV,"MCGROARTY, JOHN",Nonpartisan,1,,,,District Court Dept 16; vs Edwin Dotson,0.85
+NV,Las Vegas Review-Journal,126500,1982,CONSTABLE,,,NV,"SULLIVAN, TERRY",,1,,,,Las Vegas Constable; vs John Bonaventura,0.9
+NV,Las Vegas Review-Journal,126500,1982,DIRECTOR,,,NV,"SHAFER, JARED",Democrat,1,,,,"County Public Administrator; vs Holly Rotow (R), Mary Harris (L)",0.9
+NV,Las Vegas Review-Journal,126500,1982,ASSESSOR,,,NV,"DUTTON, JEAN",Democrat,1,,,,"vs George Leavitt (R), George Pataki (L)",0.95
+NV,Las Vegas Review-Journal,126500,1982,TREASURER,,,NV,"RONZONE, DICK",Republican,1,,,,"vs Keith Latham (D), Sandra K. Black (L); County",0.95
+NV,Las Vegas Review-Journal,126500,1982,RECORDER,,,NV,"SWIFT, JOAN",Democrat,1,,,,vs George Leavitt (R),0.95
+NV,Las Vegas Review-Journal,126500,1982,CNTY CLERK,,,NV,"BOWMAN, LORETTA",Democrat,1,,,,vs Peter O'Brien (L),0.95
+NV,Las Vegas Review-Journal,126500,1984,PRESIDENT,,,NV,"REAGAN, RONALD",Republican,1,,1,,vs Walter Mondale (D),0.95
+NV,Las Vegas Review-Journal,126500,1984,H,1,,NV,"REID, HARRY",Democrat,1,1,,,"vs Peggy Cavnar (R), Joe Morris (L)",0.95
+NV,Las Vegas Review-Journal,126500,1984,H,2,,NV,"VUCANOVICH, BARBARA",Republican,1,,1,,"vs Andy Barbano (D), Dan Becan (L)",0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE SENATOR,3,,NV,"VERGIELS, JOHN",Democrat,1,,,,"vs Andrew Smoke (R), Randy Marchese (L)",0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE SENATOR,4,,NV,"NEAL, JOE",Democrat,1,,,,vs Dave Phillips (D),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE SENATOR,5,,NV,"BERKLEY, SHELLEY",Democrat,1,,,,"vs Ann O'Connell (R), Patrick O'Neill (L)",0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE SENATOR,6,,NV,"BREMNER, ROGER",Democrat,1,,,,"vs Ray Rawson (R), Richard Everson (L)",0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE SENATOR,7,,NV,"BILBRAY, JAMES",Democrat,1,,,,vs Gregory Millspaugh (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,1,,NV,"MCGINTY, STEVE",Democrat,1,,,,vs Jerry Fairchild (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,2,,NV,"DUBOIS, JOHN",Republican,1,,,,vs Jack Hon (D),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,3,,NV,"WISDOM, JANE",Democrat,1,,,,vs Chuck Horne (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,4,,NV,"MALONE, MIKE",Republican,1,,,,"vs Bill O'Donnell (L), A.W. Western (L)",0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,5,,NV,"ADAMSEN, ARNIE",Democrat,1,,,,vs Marvin Dixon (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,7,,NV,"ARBERRY, MORSE",Democrat,1,,,,vs Marvin Dixon (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,8,,NV,"ZIMMER, BARBARA",Republican,1,,,,vs Joseph M. Kadans (D),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,9,,NV,"COFFIN, BOB",Democrat,1,,,,vs Ed Sajovic (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,10,,NV,"WILLIAMS, MYRNA",Democrat,1,,,,vs Harold Miller (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,13,,NV,"ZYDSTRUP, DOUG",Democrat,1,,,,vs James McGaughey (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,14,,NV,"PILKINTON, THOM",Democrat,1,,,,vs Art Rader (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,15,,NV,"SEDWAY, MARVIN",Democrat,1,,,,"vs George Stewart (R), David Boocher (L)",0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,16,,NV,"WOODHOUSE, JOYCE",Democrat,1,,,,vs Jane Ham (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,17,,NV,"PRICE, BOB",Democrat,1,,,,vs Kathy Collins (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,20,,NV,"REGAN, JACK",Democrat,1,,,,vs Bob Craddock (D),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,22,,NV,"JEFFREY, JACK",Democrat,1,,,,vs Rex Newell (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,41,,NV,"FRANCIS, STEVE",Republican,1,,,,vs Joe Behar (D),0.95
+NV,Las Vegas Review-Journal,126500,1984,STATE REP,42,,NV,"TEBBS, TERRY",Republican,1,,,,vs Charles Perry (D),0.95
+NV,Las Vegas Review-Journal,126500,1984,CNTY COMM,A,,NV,"WOODBURY, BRUCE",Republican,1,,,,vs Neil Shannon (D),0.95
+NV,Las Vegas Review-Journal,126500,1984,CNTY COMM,B,,NV,"BINGHAM, JAY",Democrat,1,,,,vs Loren Broadbent (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,CNTY COMM,C,,NV,"CHRISTENSEN, PAUL",Democrat,1,,,,vs Bob Chapman (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,CNTY COMM,D,,NV,"PEARSON, WILLIAM",Democrat,1,,,,vs Jimmie Askin (R),0.95
+NV,Las Vegas Review-Journal,126500,1984,SUPREME COURT,B,,NV,"MANOUKIAN, NOEL",Nonpartisan,1,,,1,Seat B; vs Cliff Young,0.95
+NV,Las Vegas Review-Journal,126500,1984,DISTRICT COURT JUDGE,1,,NV,"THOMPSON, CHARLES",Nonpartisan,1,,,,Dist Court Dept 1; vs Joseph Bonaventure,0.9
+NV,Las Vegas Review-Journal,126500,1984,DISTRICT COURT JUDGE,3,,NV,"PAVLIKOWSKI, JOSEPH",Nonpartisan,1,,,,Dist Court Dept 3; vs Michael Amador,0.9
+NV,Las Vegas Review-Journal,126500,1984,DISTRICT COURT JUDGE,4,,NV,"O'DONNELL, THOMAS",Nonpartisan,1,,,,Dist Court Dept 4; vs Eugenia Ohrenschall,0.9
+NV,Las Vegas Review-Journal,126500,1984,DISTRICT COURT JUDGE,5,,NV,"MENDOZA, JOHN",Nonpartisan,1,,,,Dist Court Dept 5; vs Thomas Leen,0.9
+NV,Las Vegas Review-Journal,126500,1984,DISTRICT COURT JUDGE,6,,NV,"BABCOCK, HOWARD",Nonpartisan,1,,,,Dist Court Dept 6; vs Steven Young,0.9
+NV,Las Vegas Review-Journal,126500,1984,DISTRICT COURT JUDGE,10,,NV,"GOLDMAN, PAUL",Nonpartisan,1,,,,Dist Court Dept 10; vs Harland Hubbard,0.9
+NV,Las Vegas Review-Journal,126500,1984,JUDGE,3,,NV,"AHLSTROM, DAN",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Dept 3; vs Gary Fannon,0.9
+NV,Las Vegas Review-Journal,126500,1984,JUDGE,4,,NV,"BIXLER, JAMES",Nonpartisan,1,,,,Justice of the Peace; Las Vegas Dept 4; vs Bill Rush,0.9
+NV,Las Vegas Review-Journal,126500,1984,DIRECTOR,E,,NV,"FOLEY, JOE",Nonpartisan,1,,,,University Board of Regents District E; vs Leslie Sardinas,0.9
+NV,Las Vegas Review-Journal,126500,1984,STATE BOARD OF ED,D,,NV,"SMITH, HAL",Nonpartisan,1,,,,State Board of Education District D; vs Lonnie Hammargren,0.9
+NV,Las Vegas Review-Journal,126500,1984,SCHOOL BOARD,A,,NV,"HOLLINGSWORTH, HOWARD",Nonpartisan,1,,,,School District Board of Trustees A; vs Gary Livingston,0.9
+NV,Las Vegas Review-Journal,126500,1984,SCHOOL BOARD,B,,NV,"JORDAN, LOUISE",Nonpartisan,1,,,,School District Board of Trustees B,0.9
+NV,Las Vegas Review-Journal,126500,1984,SCHOOL BOARD,E,,NV,"LUSK, LUCILLE",Nonpartisan,1,,,,School District Board of Trustees E; vs Brent Lovett,0.9
+NV,Las Vegas Review-Journal,126500,1986,SENATOR,,,NV,"SANTINI, JIM",Republican,1,,,,vs Harry Reid (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,H,1,,NV,"RYAN, BOB",Republican,1,,,,vs James Bilbray (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,H,2,,NV,"VUCANOVICH, BARBARA",Republican,1,,1,,vs Pete Sferrazza (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,GOVERNOR,,,NV,"BRYAN, RICHARD",Democrat,1,1,,,vs Patty Cafferata (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,LT GOVERNOR,,,NV,"BROWN, JOE",Republican,1,,,,vs Bob Miller (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,SEC OF STATE,,,NV,"DEL PAPA, FRANKIE SUE",Democrat,1,,,,vs Barbara Zimmer (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,COMPTROLLER,,,NV,"DAINES, DARREL",Republican,1,,,,vs James Mace (D); State Controller,0.95
+NV,Las Vegas Review-Journal,126500,1986,ATTORNEY GENERAL,,,NV,"MCKAY, BRIAN",Republican,1,,,,vs Roy Woofter (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,DIRECTOR,,,NV,"KARAMANOS, CHRIS",Nonpartisan,1,,,,University Regent; vs Robert Finley,0.9
+NV,Las Vegas Review-Journal,126500,1986,STATE BOARD OF ED,B,,NV,"SHIPP, JOHN",Nonpartisan,1,,,,State Board of Education District B; vs John Hill,0.9
+NV,Las Vegas Review-Journal,126500,1986,STATE BOARD OF ED,E,,NV,"LONG, MARIANNE",Nonpartisan,1,,,,State Board of Education District E; vs Larry Spigelmyer,0.9
+NV,Las Vegas Review-Journal,126500,1986,STATE SENATOR,1,,NV,"GIBSON, JIM",Democrat,1,,,,vs John Emerick (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE SENATOR,2,,NV,"HICKEY, TOM",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE SENATOR,3,,NV,"COFFIN, BOB",Democrat,1,,,,vs Jim Palmer (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE SENATOR,5,,NV,"SABBATH, DENNIS",Democrat,1,,,,vs Bill O'Donnell (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE SENATOR,6,,NV,"MALONE, MIKE",Republican,1,,,,vs Joseph Benneman (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE SENATOR,7,,NV,"HORN, NICK",Republican,1,,,,vs Steve Francis (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,1,,NV,"CALLISTER, MATTHEW",Democrat,1,,,,vs Jerry Fairchild (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,2,,NV,"DUBOIS, JOHN",Republican,1,,,,vs Harry Korie (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,3,,NV,"HORNE, CHUCK",Republican,1,,,,vs Jane Wisdom (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,4,,NV,"KISSAM, BILL",Democrat,1,,,,vs Kathy Robillard (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,6,,NV,"WILLIAMS, WENDELL",Democrat,1,,,,vs Gene Collins (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,7,,NV,"ARBERRY, MORSE JR.",Democrat,1,,,,vs Katherine McCormick (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,8,,NV,"WADE, JAMES",Republican,1,,,,vs Gene Porter (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,9,,NV,"BROOKMAN, EILEEN",Democrat,1,,,,vs Richard Moss (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,11,,NV,"BANNER, JIM",Democrat,1,,,,vs Andy Mangeris (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,12,,NV,"SCHOFIELD, JIM",Democrat,1,,,,vs Gregory Olsen (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,13,,NV,"MCGAUGHEY, JAMES",Republican,1,,,,vs Barbara Maher (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,14,,NV,"GARNER, VAL",Democrat,1,,,,vs Art Rader (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,15,,NV,"SEDWAY, MARVIN",Democrat,1,,,,vs Don Hayhurst (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,16,,NV,"GASTON, ROBERT",Democrat,1,,,,vs Jane Ham (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,17,,NV,"PRICE, BOB",Democrat,1,,,,vs C.W. Collins (D),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,18,,NV,"FAY, ROBERT",Democrat,1,,,,vs Gary Roberts (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,19,,NV,"MAY, PAUL",Democrat,1,,,,vs Rick Clark (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,20,,NV,"CRADDOCK, BOB",Democrat,1,,,,vs Joyce Davis (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,21,,NV,"THOMPSON, DANNY",Democrat,1,,,,vs Dennis Reber (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,41,,NV,"SPINELLO, JAMES",Democrat,1,,,,vs Roy Clason (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,STATE REP,42,,NV,"DIAMOND, RENEE",Democrat,1,,,,vs Terry Tebbs (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,CNTY COMM,E,,NV,"DONDERO, THALIA",Democrat,1,,,,vs Leonard Kreisler (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,CNTY COMM,F,,NV,"CORTEZ, MANNY",Democrat,1,,,,vs Tim Sueddon (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,CNTY COMM,G,,NV,"HAYES, KAREN",Democrat,1,,,,vs James Uster (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,SHERIFF,,,NV,"MORAN, JOHN",Democrat,1,,,,vs John Williams (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,DA/PROSECUTOR,,,NV,"BEATTY, TOM",Democrat,1,,,,vs Rex Bell (R); District Attorney,0.95
+NV,Las Vegas Review-Journal,126500,1986,ASSESSOR,,,NV,"DUTTON, JEAN",Democrat,1,,,,vs Don Pinson (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,CNTY CLERK,,,NV,"BOWMAN, LORETTA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1986,RECORDER,,,NV,"SWIFT, JOAN",Democrat,1,,,,vs Cliff Murdock (R),0.95
+NV,Las Vegas Review-Journal,126500,1986,TREASURER,,,NV,"ASTON, MARK",Republican,1,,,,vs Keith Latham (D); County,0.95
+NV,Las Vegas Review-Journal,126500,1986,DIRECTOR,,,NV,"SHAFER, JARED",Democrat,1,,,,Public Administrator,0.95
+NV,Las Vegas Review-Journal,126500,1986,CONSTABLE,,,NV,"CHARLEBOIX, DON",Democrat,1,,,,"Constable, Las Vegas Township; vs John Sullivan (R)",0.9
+NV,Las Vegas Review-Journal,126500,1986,JUDGE,,,NV,"TABONY, R.L.",Nonpartisan,1,,,,"Justice of the Peace, Henderson; vs David Gibson",0.9
+NV,Las Vegas Review-Journal,126500,1986,JUDGE,2,,NV,"SLADE, KELLY",Nonpartisan,1,,,,"Justice of the Peace, Las Vegas 2; vs Steve Harney",0.9
+NV,Las Vegas Review-Journal,126500,1986,JUDGE,5,,NV,"JANSEN, BILL",Nonpartisan,1,,,,"Justice of the Peace, Las Vegas 5; vs John Harper",0.9
+NV,Las Vegas Review-Journal,126500,1986,JUDGE,,,NV,"KELLY, JAMES",Nonpartisan,1,,,,"Justice of the Peace, North Las Vegas; vs Raymond Harney",0.9
+NV,Las Vegas Review-Journal,126500,1986,SCHOOL BOARD,C,,NV,"ATKINSON, YVONNE",Nonpartisan,1,,,,School Trustee C; vs Louise Jordan,0.9
+NV,Las Vegas Review-Journal,126500,1986,SCHOOL BOARD,D,,NV,"SCHOFIELD, MARK",Nonpartisan,1,,,,School Trustee D; vs Brent Lovett,0.9
+NV,Las Vegas Review-Journal,126500,1986,SCHOOL BOARD,F,,NV,"NEWBURN, DAN",Nonpartisan,1,,,,School Trustee F; vs Lana Semmens,0.9
+NV,Las Vegas Review-Journal,126500,1986,SCHOOL BOARD,G,,NV,"WITT, JUDY",Nonpartisan,1,,,,School Trustee G; vs Jan Biggerstaff,0.9
+NV,Las Vegas Review-Journal,126500,1988,PRESIDENT,,,NV,"BUSH, GEORGE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1988,SENATOR,,,NV,"HECHT, CHIC",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1988,H,1,,NV,"BILBRAY, JIM",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,1988,H,2,,NV,"VUCANOVICH, BARBARA",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1988,SUPREME COURT,,,NV,"LEAVITT, MYRON",Nonpartisan,1,,,,Nevada Supreme Court Justice,0.95
+NV,Las Vegas Review-Journal,126500,1988,DISTRICT COURT JUDGE,,,NV,"CURRAN, BILL",Nonpartisan,1,,,,District Court Judge,0.9
+NV,Las Vegas Review-Journal,126500,1988,JUDGE,,,NV,"BIXLER, JAMES",Nonpartisan,1,,,,Justice of the Peace,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE SENATOR,1,,NV,"SMITH, HAL",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE SENATOR,2,,NV,"SHAFFER, RAY",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE SENATOR,3,,NV,"VERGIELS, JACK",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE SENATOR,4,,NV,"NEAL, JOE",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE SENATOR,5,,NV,"O'CONNELL, ANN",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE SENATOR,6,,NV,"RAWSON, RAY",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE SENATOR,7,,NV,"TITUS, DINA",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,1,,NV,"CALLISTER, MATT",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,2,,NV,"DUBOIS, JOHN",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,3,,NV,"WISDOM, JANE",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,4,,NV,"BROOKS, JANICE",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,5,,NV,"TRIGGS, VINCE",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,6,,NV,"WILLIAMS, WENDELL",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,7,,NV,"ARBERRY, MORSE",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,8,,NV,"ZIMMER, BARBARA",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,9,,NV,"BROOKMAN, EILEEN",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,10,,NV,"WILLIAMS, MYRNA",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,11,,NV,"BANNER, JIM",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,12,,NV,"SCHOFIELD, JAMES",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,13,,NV,"MCGAUGHEY, JAMES",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,14,,NV,"GARNER, VAL",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,15,,NV,"SEDWAY, MARVIN",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,16,,NV,"GASTON, BOB",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,17,,NV,"PRICE, BOB",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,18,,NV,"HARRIS, GEORGE",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,19,,NV,"CHOWNING, VONNE",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,20,,NV,"REGAN, JACK",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,21,,NV,"THOMPSON, DANNY",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,22,,NV,"JEFFREY, JACK",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,41,,NV,"SPINELLO, JIM",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE REP,42,,NV,"CREVELT, DWIGHT",,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1988,CNTY COMM,,,NV,"WOODBURY, BRUCE",Republican,1,,,,Clark County Commission,0.9
+NV,Las Vegas Review-Journal,126500,1988,CNTY COMM,,,NV,"BINGHAM, JAY",Democrat,1,,,,Clark County Commission,0.9
+NV,Las Vegas Review-Journal,126500,1988,CNTY COMM,,,NV,"CHRISTENSEN, PAUL",Democrat,1,,,,Clark County Commission,0.9
+NV,Las Vegas Review-Journal,126500,1988,CNTY COMM,,,NV,"PEARSON, WILLIAM",Democrat,1,,,,Clark County Commission,0.9
+NV,Las Vegas Review-Journal,126500,1988,SCHOOL BOARD,,,NV,"TWITCHELL, NEIL",Nonpartisan,1,,,,Clark County School Board,0.9
+NV,Las Vegas Review-Journal,126500,1988,SCHOOL BOARD,,,NV,"HOLLINGSWORTH, HOWARD",Nonpartisan,1,,,,Clark County School Board,0.9
+NV,Las Vegas Review-Journal,126500,1988,SCHOOL BOARD,,,NV,"ATKINSON-GATES, YVONNE",Nonpartisan,1,,,,Clark County School Board,0.9
+NV,Las Vegas Review-Journal,126500,1988,SCHOOL BOARD,,,NV,"TARKANIAN, LOIS",Nonpartisan,1,,,,Clark County School Board,0.9
+NV,Las Vegas Review-Journal,126500,1988,DIRECTOR,,,NV,"WHITLEY, JUNE",Nonpartisan,1,,,,University of Nevada Regent (State Board of Regents),0.9
+NV,Las Vegas Review-Journal,126500,1988,DIRECTOR,,,NV,"KENNY, JOAN",Nonpartisan,1,,,,University of Nevada Regent (State Board of Regents),0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE BOARD OF ED,,,NV,"LAWRENCE, DUANE",Nonpartisan,1,,,,State Board of Education,0.9
+NV,Las Vegas Review-Journal,126500,1988,STATE BOARD OF ED,,,NV,"RAMSEY, ULY",Nonpartisan,1,,,,State Board of Education,0.9
+NV,Las Vegas Review-Journal,126500,1990,GOVERNOR,,,NV,"MILLER, BOB",Democrat,1,1,,,incumbent; performed adequately; leadership destined to improve,0.95
+NV,Las Vegas Review-Journal,126500,1990,ATTORNEY GENERAL,,,NV,"DEL PAPA, FRANKIE SUE",Democrat,1,,,,has experience and understands workings of Nevada government,0.95
+NV,Las Vegas Review-Journal,126500,1990,SEC OF STATE,,,NV,"SPINELLO, JIM",Democrat,1,,,,"intelligent, well-informed, enthusiastic, imaginative",0.95
+NV,Las Vegas Review-Journal,126500,1990,TREASURER,,,NV,"SEALE, BOB",Republican,1,,,,"accountant, best candidate for treasurer",0.95
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,1,,NV,"CALLISTER, MATT",Democrat,1,,,1,two terms incumbent,0.95
+NV,Las Vegas Review-Journal,126500,1990,SHERIFF,,,NV,"MORAN, JOHN",Democrat,1,,,1,incumbent; led Metropolitan Police Dept,0.95
+NV,Las Vegas Review-Journal,126500,1990,STATE SENATOR,6,,NV,"COOK, RON",Democrat,1,,,,Senate District 6; successful entrepreneur,0.95
+NV,Las Vegas Review-Journal,126500,1990,H,1,,NV,"BILBRAY, JAMES",Democrat,1,1,,,vs Chuck Horne (R),0.95
+NV,Las Vegas Review-Journal,126500,1990,H,2,,NV,"VUCANOVICH, BARBARA",Republican,1,,1,,vs Sandi Krenzer (D),0.95
+NV,Las Vegas Review-Journal,126500,1990,LT GOVERNOR,,,NV,"GOETTING, BRAD",Republican,1,,,,vs Sue Wagner (R) - both Republicans listed,0.85
+NV,Las Vegas Review-Journal,126500,1990,COMPTROLLER,,,NV,"DAINES, DARREL",Republican,1,,,,State Controller,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE SENATOR,3,,NV,"GREGORY, BILL",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE SENATOR,5,,NV,"WILLIAMS, WENDELL",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE SENATOR,7,,NV,"ARBERRY, MORSE",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,8,,NV,"PORTER, GENE",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,9,,NV,"COFFIN, BOB",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,10,,NV,"WARK, STEVE",Republican,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,11,,NV,"WILLIAMS, MYRNA",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,12,,NV,"BACHE, DOUGLAS",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,13,,NV,"HORN, JOHN",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,14,,NV,"MCGAUGHEY, JAMES",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,14,,NV,"GARNER, VAL",Democrat,1,,,,co-endorsement,0.85
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,15,,NV,"BENNETT, RICK",,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,17,,NV,"PRICE, BOB",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,18,,NV,"HARRIS, GEORGE",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,20,,NV,"HARDY, WARREN",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,21,,NV,"PETTYJOHN, J. CRY",Democrat,1,,,,name spelling uncertain,0.75
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,22,,NV,"JEFFREY, JACK",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,41,,NV,"BENNETT, LARRY",Republican,1,,,,Assembly District 41 - Larry Spitler (D)? not clear,0.7
+NV,Las Vegas Review-Journal,126500,1990,STATE REP,42,,NV,"BIGGERSTAFF, JAN",,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,1990,CNTY COMM,F,,NV,"SCHLESINGER, DON",Democrat,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,1990,ASSESSOR,,,NV,"HAYES, KAREN",Republican,1,,,,County Assessor,0.9
+NV,Las Vegas Review-Journal,126500,1990,CNTY CLERK,,,NV,"DUTTON, JEAN",Democrat,1,,,,County Clerk,0.9
+NV,Las Vegas Review-Journal,126500,1990,RECORDER,,,NV,"BOWMAN, LORETTA",Democrat,1,,,,County Recorder,0.9
+NV,Las Vegas Review-Journal,126500,1990,TREASURER,,,NV,"SWIFT, JOAN",Democrat,1,,,,County Treasurer,0.9
+NV,Las Vegas Review-Journal,126500,1990,DIRECTOR,,,NV,"ASTON, MARK",Republican,1,,,,Public Administrator,0.9
+NV,Las Vegas Review-Journal,126500,1990,DIRECTOR,,,NV,"SHAFER, JARED",Democrat,1,,,,co-listed,0.8
+NV,Las Vegas Review-Journal,126500,1990,DISTRICT COURT JUDGE,4,,NV,"WHITE, EARLE",Nonpartisan,1,,,,District Court Judge Dept 4,0.85
+NV,Las Vegas Review-Journal,126500,1990,DISTRICT COURT JUDGE,5,,NV,"MENDOZA, JOHN",Nonpartisan,1,,,,District Court Judge Dept 5,0.85
+NV,Las Vegas Review-Journal,126500,1990,JUDGE,15,,NV,"MCGROARTY, JOHN",Nonpartisan,1,,,,Department 15 (Justice of the Peace likely),0.8
+NV,Las Vegas Review-Journal,126500,1990,DIRECTOR,B,,NV,"SPARKS, CAROLYN",Nonpartisan,1,,,,University Regent Subdistrict B,0.9
+NV,Las Vegas Review-Journal,126500,1990,DIRECTOR,F,,NV,"GRAVES, MADISON",Nonpartisan,1,,,,University Regent Subdistrict F,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE BOARD OF ED,B,,NV,"MAREK, SHANA TURNER",Nonpartisan,1,,,,State Board of Ed Subdistrict B,0.9
+NV,Las Vegas Review-Journal,126500,1990,STATE BOARD OF ED,C,,NV,"HARRMANN, JUNE",Nonpartisan,1,,,,State Board of Ed Subdistrict C; spelling uncertain,0.7
+NV,Las Vegas Review-Journal,126500,1990,SCHOOL BOARD,A,,NV,"NEWBURN, DAN",Nonpartisan,1,,,,School Trustee District A,0.9
+NV,Las Vegas Review-Journal,126500,1990,SCHOOL BOARD,E,,NV,"BIGGERSTAFF, JAN",Nonpartisan,1,,,,School Trustee District E,0.85
+NV,Las Vegas Review-Journal,126500,1992,PRESIDENT,,,NV,"BUSH, GEORGE",Republican,1,,1,,embraces free trade; less regulation; tax cut on capital gains; minimal state role in health care,0.95
+NV,Las Vegas Review-Journal,126500,1992,SENATOR,,,NV,"REID, HARRY",Democrat,1,1,,,incumbent; unassuming; life-long Nevadan,0.95
+NV,Las Vegas Review-Journal,126500,1992,STATE SENATOR,3,,NV,"LOWDEN, SUE",Republican,1,,,,opposes new taxes,0.95
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,6,,NV,"WILLIAMS, WENDELL",Democrat,1,,,1,incumbent; favors creating local enterprise zones,0.95
+NV,Las Vegas Review-Journal,126500,1992,STATE SENATOR,2,,NV,"CLARK, TAMARA",Libertarian,1,,,,passionately committed to limiting role of state government,0.95
+NV,Las Vegas Review-Journal,126500,1992,SUPREME COURT,,,NV,"THOMPSON, CHARLES",Nonpartisan,1,,,,Nevada Supreme Court; better choice for the seat,0.95
+NV,Las Vegas Review-Journal,126500,1992,H,1,,NV,"BILBRAY, JAMES",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,1992,H,2,,NV,"VUCANOVICH, BARBARA",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1992,STATE SENATOR,5,,NV,"O'CONNELL, ANN",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE SENATOR,6,,NV,"RAWSON, RAY",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE SENATOR,7,,NV,"TITUS, DINA",Democrat,1,,,,Four-year term,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE SENATOR,7,,NV,"LIPMAN BROWN, LORI",Democrat,1,,,,Two-year term,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE SENATOR,8,,NV,"CALLISTER, MATTHEW",Democrat,1,,,,Four-year term,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE SENATOR,8,,NV,"JAMES, MARK",Republican,1,,,,Two-year term,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,1,,NV,"KEMPLE, JEFF",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,2,,NV,"SCHERER, SCOTT",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,3,,NV,"HANSEN, JOEL",Independent,1,,,,Independent American Party,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,4,,NV,"GOETTING, BRAD",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,5,,NV,"GREGORY, BILL",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,7,,NV,"ARBERRY, MORSE",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,8,,NV,"PORTER, GENE",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,9,,NV,"WARK, STEVE",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,11,,NV,"WILLIAMS, MYRNA",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,12,,NV,"AUGUSTINE, KATHY",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,14,,NV,"FISH, HOWARD",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,15,,NV,"WONG, BOB",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,16,,NV,"BAYLEY, JOHN",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,19,,NV,"DAVIS, JOYCE",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,20,,NV,"HARDY, WARREN",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,21,,NV,"TIFFANY, SANDRA",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,22,,NV,"STOUT, PHIL",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,23,,NV,"CHASTAIN, ALLEN",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,41,,NV,"SPITLER, LARRY",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE REP,42,,NV,"SCHNEIDER, MIKE",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1992,CNTY COMM,A,,NV,"WOODBURY, BRUCE",Republican,1,,,,Clark County Commission,0.95
+NV,Las Vegas Review-Journal,126500,1992,CNTY COMM,B,,NV,"BINGHAM, JAY",Democrat,1,,,,Clark County Commission,0.95
+NV,Las Vegas Review-Journal,126500,1992,CNTY COMM,C,,NV,"CHRISTENSEN, PAUL",Republican,1,,,,Clark County Commission,0.95
+NV,Las Vegas Review-Journal,126500,1992,DISTRICT COURT JUDGE,8,,NV,"GATES, LEE",Nonpartisan,1,,,,District Court Department 8,0.9
+NV,Las Vegas Review-Journal,126500,1992,JUDGE,B,,NV,"MERREN, TERRANCE",Nonpartisan,1,,,,Family Court Dept B,0.85
+NV,Las Vegas Review-Journal,126500,1992,JUDGE,C,,NV,"SANCHEZ, GLORIA",Nonpartisan,1,,,,Family Court Dept C,0.85
+NV,Las Vegas Review-Journal,126500,1992,JUDGE,E,,NV,"HARDCASTLE, GERALD",Nonpartisan,1,,,,Family Court Dept E,0.85
+NV,Las Vegas Review-Journal,126500,1992,JUDGE,F,,NV,"GASTON, BOB",Nonpartisan,1,,,,Family Court Dept F; vs Fernando Guzman,0.85
+NV,Las Vegas Review-Journal,126500,1992,JUDGE,1,,NV,"LIPPIS, DEBBIE",Nonpartisan,1,,,,Justice of the Peace Department 1; either Lippis or Tom Bell,0.8
+NV,Las Vegas Review-Journal,126500,1992,JUDGE,1,,NV,"BELL, TOM",Nonpartisan,1,,,,Justice of the Peace Department 1; either Lippis or Tom Bell,0.8
+NV,Las Vegas Review-Journal,126500,1992,SCHOOL BOARD,A,,NV,"BURR, JEFFREY",Nonpartisan,1,,,,Clark County School Board District A,0.9
+NV,Las Vegas Review-Journal,126500,1992,SCHOOL BOARD,C,,NV,"RHODES, JOHN",Nonpartisan,1,,,,Clark County School Board District C,0.9
+NV,Las Vegas Review-Journal,126500,1992,SCHOOL BOARD,E,,NV,"TARKANIAN, LOIS",Nonpartisan,1,,,,Clark County School Board District E,0.9
+NV,Las Vegas Review-Journal,126500,1992,DIRECTOR,C,,NV,"BERKLEY, SHELLEY",Nonpartisan,1,,,,University Board of Regents Subdistrict C,0.9
+NV,Las Vegas Review-Journal,126500,1992,DIRECTOR,F,,NV,"KOESTER, KEN",Nonpartisan,1,,,,University Board of Regents Subdistrict F,0.9
+NV,Las Vegas Review-Journal,126500,1992,DIRECTOR,G,,NV,"GRAVES, MADDY",Nonpartisan,1,,,,University Board of Regents Subdistrict G,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE BOARD OF ED,D,,NV,"BYRNES, BILL",Nonpartisan,1,,,,State Board of Education Subdistrict D,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE BOARD OF ED,F,,NV,"HANLON, WILLIAM",Nonpartisan,1,,,,State Board of Education Subdistrict F,0.9
+NV,Las Vegas Review-Journal,126500,1992,STATE BOARD OF ED,G,,NV,"GARCIA-CAHLAN, TERRY",Nonpartisan,1,,,,State Board of Education Subdistrict G,0.9
+NV,Las Vegas Review-Journal,126500,1994,H,1,,NV,"ENSIGN, JOHN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,H,2,,NV,"VUCANOVICH, BARBARA",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,GOVERNOR,,,NV,"MILLER, BOB",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,LT GOVERNOR,,,NV,"BRIARE, BILL",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,SEC OF STATE,,,NV,"HELLER, DEAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,TREASURER,,,NV,"SEALE, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,COMPTROLLER,,,NV,"DAINES, DARREL",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,ATTORNEY GENERAL,,,NV,"MADDOX, BILL",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE SENATOR,1,,NV,"PORTER, JON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE SENATOR,3,,NV,"PEILTYN, SANDY COLON",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1994,STATE SENATOR,5,,NV,"O'DONNELL, BILL",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE SENATOR,7,,NV,"AUGUSTINE, KATHY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE SENATOR,8,,NV,"JAMES, MARK",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,1,,NV,"COLLINS, TOM",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,5,,NV,"MONAGHAN, JAN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,2,,NV,"HARRINGTON, BILL",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,6,,NV,"WILLIAMS, WENDELL",Democrat,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,3,,NV,"ARBERRY, MORSE",Democrat,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,4,,NV,"BRAUNLIN, DEANNA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,8,,NV,"BUCKLEY, BARBARA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,9,,NV,"GIUNCHIGLIANI, CHRIS",Democrat,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,9,,NV,"VON TOBEL, KATHY",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,10,,NV,"VALE, ROBERT",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,11,,NV,"BACHE, DOUG",Democrat,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,12,,NV,"OHRENSCHALL, GENIE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,13,,NV,"VASWANI, RITA",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,14,,NV,"CLARKE, MARK",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,15,,NV,"CLOSE, JACK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,16,,NV,"STEEL, DIANNE",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,18,,NV,"MANENDO, MARK",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,19,,NV,"KRENZER, SANDI",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,20,,NV,"ALLARD, DENNIS",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,21,,NV,"TIFFANY, SANDRA",Republican,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,41,,NV,"SPITLER, LARRY",Democrat,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,STATE REP,42,,NV,"SCHNEIDER, MIKE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,CNTY COMM,F,,NV,"KENNY, ERIN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,CNTY COMM,G,,NV,"HUNT, LORRAINE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,DA/PROSECUTOR,,,NV,"BELL, STEWART",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,ASSESSOR,,,NV,"SCHOFIELD, MARK",Democrat,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,SHERIFF,,,NV,"KELLER, JERRY",,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,RECORDER,,,NV,"VANDEVER, JUDY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,TREASURER,,,NV,"ASTON, MARK",Democrat,1,,,,County Treasurer,0.95
+NV,Las Vegas Review-Journal,126500,1994,DIRECTOR,,,NV,"SHAFER, JARED",Democrat,1,,,,Public Administrator,0.95
+NV,Las Vegas Review-Journal,126500,1994,SUPREME COURT,Seat C,,NV,"ROSE, BOB",Nonpartisan,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,DISTRICT COURT JUDGE,7,,NV,"MAUPIN, BILL",Nonpartisan,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,DISTRICT COURT JUDGE,13,,NV,"CHAIREZ, DON",Nonpartisan,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,1994,DISTRICT COURT JUDGE,13,,NV,"FOLEY, GEORGE JR",Nonpartisan,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1994,JUDGE,2,,NV,"SMITH, DOUG",Nonpartisan,1,,,,JP Las Vegas Township,0.95
+NV,Las Vegas Review-Journal,126500,1994,DIRECTOR,Subdistrict A,,NV,"PHILLIPS, DAVE",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,1994,DIRECTOR,Subdistrict D,,NV,"PEPLOWSKI, MARK",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,1994,SCHOOL BOARD,D,,NV,"HAYES, CRAIG",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,SCHOOL BOARD,F,,NV,"BUCHANAN, DEE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1994,SCHOOL BOARD,G,,NV,"WITT, JUDY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,PRESIDENT,,,NV,"DOLE, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,H,1,,NV,"ENSIGN, JOHN",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,H,2,,NV,"GIBBONS, JIM",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,1,,NV,"KNIGHT, JEFF",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,3,,NV,"LEE, JOHN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,4,,NV,"BRAUNLIN, DEANNA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,5,,NV,"CEGAVSKE, BARBARA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,7,,NV,"ARBERRY, MORSE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,8,,NV,"BUCKLEY, BARBARA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,9,,NV,"LAGAN, LILI",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,10,,NV,"LANCE, BILL",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,11,,NV,"HENCHIK, BRYAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,12,,NV,"RADER, ART",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,13,,NV,"NOLAN, DENNIS",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,14,,NV,"BENNETT, MAX",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,15,,NV,"CLOSE, JACK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,16,,NV,"IVANOV-STEEL, S",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,17,,NV,"DUBOSE, LEON II",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,19,,NV,"VON TOBEL, SANDI",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,20,,NV,"TIFFANY, KATHY",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,21,,NV,"BLETSCH, IRIS",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,23,,NV,"CHOWNING, VONNE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,41,,NV,"DANE, TONY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE REP,42,,NV,"DENNING, CHRIS",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE SENATOR,3,,NV,"LOWDEN, SUE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE SENATOR,4,,NV,"NEAL, JOE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE SENATOR,5,,NV,"O'CONNELL, ANN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE SENATOR,6,,NV,"RAWSON, RAY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE SENATOR,7,,NV,"MUTH, CHARLES",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE SENATOR,8,,NV,"SCHNEIDER, MICHAEL",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,CNTY COMM,A,,NV,"WOODBURY, BRUCE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,CNTY COMM,B,,NV,"KINCAID, MARY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,CNTY COMM,C,,NV,"CHRISTENSEN, PAUL",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,SUPREME COURT,Seat B,,NV,"MAUPIN, BILL",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,SUPREME COURT,Seat D,,NV,"YOUNG, CLIFF",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,4,,NV,"HARDCASTLE, KATHY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,4,,NV,"LEEN, TOM",Nonpartisan,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,7,,NV,"GIBBONS, MARK",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,8,,NV,"GATES, LEE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,9,,NV,"HUFFAKER, STEPHEN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,11,,NV,"DOUGLAS, MICHAEL",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,14,,NV,"MOSLEY, DONALD",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,15,,NV,"LOEHRER, SALLY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,G,,NV,"GUZMAN, FERNANDO",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,1996,DISTRICT COURT JUDGE,H,,NV,"REDMON, GARY",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,1996,JUDGE,,,NV,"DAWSON, KENT",Nonpartisan,1,,,,JP Henderson,0.95
+NV,Las Vegas Review-Journal,126500,1996,STATE BOARD OF ED,Sub-district G,,NV,"MATHEWS, FRANK",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,SCHOOL BOARD,A,,NV,"SCOW, MARY BETH",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,SCHOOL BOARD,B,,NV,"JOHNSON, RUTH",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,SCHOOL BOARD,C,,NV,"BARBER, SHIRLEY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1996,SCHOOL BOARD,E,,NV,"HUTCHISON, MARK",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,SENATOR,,,NV,"ENSIGN, JOHN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,H,1,,NV,"CHAIREZ, DON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,H,2,,NV,"GIBBONS, JIM",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,GOVERNOR,,,NV,"GUINN, KENNY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,1,,NV,"KNIGHT, JEFF",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,3,,NV,"LEE, JOHN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,4,,NV,"BEERS, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,7,,NV,"ARBERRY, MORSE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,9,,NV,"SCARBOROUGH, MARK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,11,,NV,"HENCHIK, BRYAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,12,,NV,"CLARK, JIM",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,13,,NV,"NOLAN, DENNIS",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,14,,NV,"PLAISTED, MIKE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,15,,NV,"FORTE, JIM",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,16,,NV,"THOMAS, KELLY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,17,,NV,"TUCKER, FRANK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,18,,NV,"MANENDO, MARK",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,19,,NV,"HORROCKS, GARY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,20,,NV,"VON TOBEL, KATHY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,21,,NV,"TIFFANY, SANDRA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,22,,NV,"SEGERBLOM, GENE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,23,,NV,"PERKINS, RICHARD",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,28,,NV,"CHOWNING, VONNE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,41,,NV,"PARKS, DAVID",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE REP,42,,NV,"MORTENSEN, HARRY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE SENATOR,1,,NV,"PORTER, JON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE SENATOR,2,,NV,"MENDOZA, TINO",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE SENATOR,3,,NV,"COFFIN, BOB",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE SENATOR,5,,NV,"CLOSE, JACK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE SENATOR,8,,NV,"JAMES, MARK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,LT GOVERNOR,,,NV,"HUNT, LORRAINE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,LT GOVERNOR,,,NV,"MCKINNEY-JAMES, ROSE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,ATTORNEY GENERAL,,,NV,"SCHERER, SCOTT",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,SEC OF STATE,,,NV,"HELLER, DEAN",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,TREASURER,,,NV,"KROLICKI, BRIAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,COMPTROLLER,,,NV,"SANADA, MARY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,CNTY COMM,E,,NV,"SMITH, MARK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,CNTY COMM,F,,NV,"HARNEY, STEVE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,CNTY COMM,G,,NV,"HERRERA, DARIO",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,ASSESSOR,,,NV,"SCHOFIELD, M.W.",,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,CNTY CLERK,,,NV,"PARRAGUIRRE, SHIRLEY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,RECORDER,,,NV,"VANDEVER, JUDITH",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,TREASURER,,,NV,"FITZPATRICK, LAURN",Democrat,1,,,,County Treasurer,0.9
+NV,Las Vegas Review-Journal,126500,1998,DIRECTOR,,,NV,"SHOFER, JARED",Democrat,1,,,,Public Administrator,0.95
+NV,Las Vegas Review-Journal,126500,1998,SUPREME COURT,Seat F,,NV,"LEAVITT, MYRON",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,13,,NV,"KOHN, PHIL",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,13,,NV,"DENTON, MARK",Nonpartisan,1,,,,or Don Haight,0.9
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,13,,NV,"HAIGHT, DON",Nonpartisan,1,,,,or Mark Denton,0.9
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,17,,NV,"MAHAN, JIM",Nonpartisan,1,,,,or Michael Cherry,0.9
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,17,,NV,"CHERRY, MICHAEL",Nonpartisan,1,,,,or Jim Mahan,0.9
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,18,,NV,"SAITTA, NANCY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,19,,NV,"REDMON, GARY",Nonpartisan,1,,,,or Drake Delanoy,0.9
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,19,,NV,"DELANOY, DRAKE",Nonpartisan,1,,,,or Gary Redmon,0.9
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,A,,NV,"VOY, BILL",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,D,,NV,"HARDESTLE, GERALD",Nonpartisan,1,,,,Family Court,0.9
+NV,Las Vegas Review-Journal,126500,1998,DISTRICT COURT JUDGE,E,,NV,"LUECK, ROBERT",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,1998,JUDGE,7,,NV,"TOGLIATTI, JENNIFER",Nonpartisan,1,,,,JP Las Vegas Township,0.95
+NV,Las Vegas Review-Journal,126500,1998,CONSTABLE,,,NV,"GRONAUER, ROBERT",Democrat,1,,,,Las Vegas Township,0.95
+NV,Las Vegas Review-Journal,126500,1998,CONSTABLE,,,NV,"BROWN, HERB",Democrat,1,,,,North Las Vegas Township,0.95
+NV,Las Vegas Review-Journal,126500,1998,CONSTABLE,,,NV,"MITCHELL, EARL",Republican,1,,,,Henderson Township,0.95
+NV,Las Vegas Review-Journal,126500,1998,SCHOOL BOARD,F,,NV,"BRAGER, SUSAN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,SCHOOL BOARD,G,,NV,"BOYLAN, PATRICK",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,1998,DIRECTOR,"District 2, Subdistrict C",,NV,"ELLERTON, JOHN",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,1998,DIRECTOR,"District 2, Subdistrict F",,NV,"SEASTRAND, DOUG",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,1998,STATE BOARD OF ED,"District 2, Subdistrict B",,NV,"WATERS, GARY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,PRESIDENT,,,NV,"BUSH, GEORGE W",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,SENATOR,,,NV,"ENSIGN, JOHN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,H,1,,NV,"PORTER, JON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,H,2,,NV,"GIBBONS, JIM",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE SENATOR,2,,NV,"GARDNER, RICHARD",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE SENATOR,5,,NV,"O'CONNELL, ANN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE SENATOR,6,,NV,"RAWSON, RAY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE SENATOR,7,,NV,"TITUS, DINA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE SENATOR,8,,NV,"SCHNEIDER, MIKE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,1,,NV,"COLLINS, TOM",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,3,,NV,"LEE, JOHN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,4,,NV,"BEERS, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,5,,NV,"CEGAVSKE, BARBARA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,6,,NV,"MUNFORD, HARVEY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,8,,NV,"BUCKLEY, BARBARA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,9,,NV,"SCARBOROUGH, MARK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,12,,NV,"DEL ROSARIO, GENY",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,14,,NV,"DAVIS, MICHAEL",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,15,,NV,"CLOSE, JACK SR",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,16,,NV,"MCCLAY, JACK",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,17,,NV,"HOLT, TERY",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,19,,NV,"HORROCKS, GARY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,20,,NV,"VON TOBEL, KATHY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,21,,NV,"TIFFANY, SANDRA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,22,,NV,"BROWN, DAVID",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,23,,NV,"PERKINS, RICHARD",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,28,,NV,"DAN, JAMES",Libertarian,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,STATE REP,41,,NV,"RICHIE, JOHN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,CNTY COMM,A,,NV,"WOODBURY, BRUCE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,CNTY COMM,B,,NV,"KINCAID, MARY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,CNTY COMM,C,,NV,"MAXFIELD, CHIP",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,CNTY COMM,D,,NV,"WESLEY, JOANNA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,SUPREME COURT,Department G,,NV,"BECKER, NANCY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,DISTRICT COURT JUDGE,I,,NV,"BEATH, PHIL",Nonpartisan,1,,,,Family Court; or Cheryl Moss,0.9
+NV,Las Vegas Review-Journal,126500,2000,DISTRICT COURT JUDGE,I,,NV,"MOSS, CHERYL",Nonpartisan,1,,,,Family Court; or Phil Beath,0.9
+NV,Las Vegas Review-Journal,126500,2000,DISTRICT COURT JUDGE,J,,NV,"HENDERSON, WILLIAM",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2000,DISTRICT COURT JUDGE,K,,NV,"DEL VECCHIO, NICHOLAS",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2000,JUDGE,2,,NV,"GEORGE, STEPHEN",Nonpartisan,1,,,,JP Henderson; or Matthew Dushoff,0.9
+NV,Las Vegas Review-Journal,126500,2000,JUDGE,2,,NV,"DUSHOFF, MATTHEW",Nonpartisan,1,,,,JP Henderson; or Stephen George,0.9
+NV,Las Vegas Review-Journal,126500,2000,JUDGE,8,,NV,"ZIMMERMAN, ANN",Nonpartisan,1,,,,JP Las Vegas; or George Assad,0.9
+NV,Las Vegas Review-Journal,126500,2000,JUDGE,8,,NV,"ASSAD, GEORGE",Nonpartisan,1,,,,JP Las Vegas; or Ann Zimmerman,0.9
+NV,Las Vegas Review-Journal,126500,2000,JUDGE,2,,NV,"TYNDL, NATALIE",Nonpartisan,1,,,,JP North Las Vegas,0.9
+NV,Las Vegas Review-Journal,126500,2000,STATE BOARD OF ED,"District 2, Subdistrict A",,NV,"LEWIS, TRONY",Nonpartisan,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2000,STATE BOARD OF ED,"District 2, Subdistrict D",,NV,"GOLDMAN, EDWARD",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,DIRECTOR,Subdistrict A,,NV,"HOWARD, LINDA",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,2000,DIRECTOR,Subdistrict D,,NV,"ALDEN, MARK",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,2000,SCHOOL BOARD,A,,NV,"FARRELL, ISAAC",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,SCHOOL BOARD,B,,NV,"JOHNSON, RUTH",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,SCHOOL BOARD,C,,NV,"TURNER, BEATRICE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2000,SCHOOL BOARD,E,,NV,"BRODSKY, DENISE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2002,LT GOVERNOR,,,NV,"HUNT, LORRAINE",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2002,ATTORNEY GENERAL,,,NV,"SANDOVAL, BRIAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2002,SUPREME COURT,,,NV,"MAUPIN, BILL",Nonpartisan,1,,,1,,0.95
+NV,Las Vegas Review-Journal,126500,2002,H,1,,NV,"BOGGS-MCDONALD, LYNETTE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2002,H,3,,NV,"PORTER, JON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2002,STATE REP,4,,NV,"BEERS, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2002,STATE REP,16,,NV,"STRICKLAND, RICH",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2002,STATE REP,28,,NV,"DAN, JAMES",Libertarian,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2002,STATE SENATOR,12,,NV,"HARDY, WARREN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,PRESIDENT,,,NV,"BUSH, GEORGE W",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,SENATOR,,,NV,"REID, HARRY",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,H,1,,NV,"BERKLEY, SHELLEY",Democrat,1,1,,,Party corrected from clipping error (clipping listed as R; Berkley was Democrat incumbent),0.85
+NV,Las Vegas Review-Journal,126500,2004,H,2,,NV,"GIBBONS, JIM",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,H,3,,NV,"PORTER, JON",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,SUPREME COURT,Seat A,,NV,"HARDESTY, JIM",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,SUPREME COURT,Seat E,,NV,"PARRAGUIRRE, RON",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,SUPREME COURT,Seat F,,NV,"DOUGLAS, MICHAEL",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,SCHOOL BOARD,A,,NV,"SCOW, MARY BETH",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,SCHOOL BOARD,B,,NV,"JOHNSON, RUTH",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,SCHOOL BOARD,E,,NV,"BRODSKY, DENISE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,DIRECTOR,7,,NV,"SISOLAK, STEVE",Nonpartisan,1,,,,Board of Regents,0.95
+NV,Las Vegas Review-Journal,126500,2004,DIRECTOR,13,,NV,"STURMAN, GLORIA",Nonpartisan,1,,,,Board of Regents,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,1,,NV,"KIRKPATRICK, MARILYN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,2,,NV,"MABEY, GARN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,3,,NV,"PACKER, BRIAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,4,,NV,"ANDREWS, MARK",Independent American,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,5,,NV,"WEBER, VALERIE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,6,,NV,"MUNFORD, HARVEY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,8,,NV,"BUCKLEY, BARBARA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,10,,NV,"WILHOITE, REX",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,13,,NV,"JONES, JUSTIN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,15,,NV,"ANDERSON, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,16,,NV,"SPRETNAK, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,17,,NV,"GIBBS, DAVID",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,18,,NV,"MUNN, KRIS",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,21,,NV,"SEALE, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,28,,NV,"DENIS, MO",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,29,,NV,"BANDIERO, ANTHONY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,37,,NV,"VITOLO, SANDRA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE REP,42,,NV,"ADNEY, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE SENATOR,1,,NV,"LEE, JOHN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE SENATOR,4,,NV,"HORSFORD, STEVEN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE SENATOR,5,,NV,"FITZPATRICK, RICHARD",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE SENATOR,6,,NV,"BEERS, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,STATE SENATOR,11,,NV,"TARKANIAN, DANNY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,CNTY COMM,A,,NV,"WOODBURY, BRUCE",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,CNTY COMM,B,,NV,"BUCK, SHARI",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,CNTY COMM,C,,NV,"MAXFIELD, CHIP",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,CNTY COMM,F,,NV,"BOGGS-MCDONALD, LYNETTE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,DISTRICT COURT JUDGE,1,,NV,"CORY, KEN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,DISTRICT COURT JUDGE,11,,NV,"DAVIDSON, MIKE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2004,DISTRICT COURT JUDGE,D,,NV,"HARDCASTLE, GERALD",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2004,DISTRICT COURT JUDGE,E,,NV,"LUECK, ROBERT",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2004,DISTRICT COURT JUDGE,F,,NV,"MILEY, STEFANY",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2004,JUDGE,7,,NV,"GUBLER, JIM",Nonpartisan,1,,,,Las Vegas Justice Court,0.95
+NV,Las Vegas Review-Journal,126500,2004,JUDGE,9,,NV,"ZADROWSKI, BERNIE",Nonpartisan,1,,,,Las Vegas Justice Court,0.95
+NV,Las Vegas Review-Journal,126500,2006,SENATOR,,,NV,"ENSIGN, JOHN",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,H,1,,NV,"BERKLEY, SHELLEY",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,H,2,,NV,"HELLER, DEAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,H,3,,NV,"PORTER, JON",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,GOVERNOR,,,NV,"GIBBONS, JIM",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,LT GOVERNOR,,,NV,"KROLICKI, BRIAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,SEC OF STATE,,,NV,"MILLER, ROSS",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,TREASURER,,,NV,"MARSHALL, KATE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,COMPTROLLER,,,NV,"MARTIN, STEVE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,ATTORNEY GENERAL,,,NV,"CHAIREZ, DON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,SUPREME COURT,Seat C,,NV,"CHERRY, MICHAEL",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,SUPREME COURT,Seat F,,NV,"DOUGLAS, MICHAEL",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,SUPREME COURT,Seat G,,NV,"SAITTA, NANCY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,1,,NV,"KIRKPATRICK, MARILYN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,2,,NV,"MABEY, GARN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,3,,NV,"KALAGIAN, MEL",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,4,,NV,"ALLEN, FRANCIS",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,5,,NV,"WEBER, VALERIE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,5,,NV,"TIFFANY, SANDRA",Republican,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,8,,NV,"BUCKLEY, BARBARA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,8,,NV,"CEGAVSKE, BARBARA",Republican,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,9,,NV,"SEGERBLOM, TICK",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,9,,NV,"NOLAN, DENNIS",Republican,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,10,,NV,"OZARK, JONATHAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,12,,NV,"OHRENSCHALL, LEE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,12,,NV,"HARDY, WARREN",Republican,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,13,,NV,"TAYLOR, ADAM",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,16,,NV,"SANTUCCI, NATHAN",Libertarian,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,18,,NV,"MANENDO, MARK",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,20,,NV,"HARDY, JOE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,21,,NV,"BEERS, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,22,,NV,"STEWART, LYNN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,23,,NV,"GRIERSON, STEVEN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,29,,NV,"SMITH, MICHAEL",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE REP,41,,NV,"PARKS, DAVID",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE SENATOR,2,,NV,"MENDOZA, TINO",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,CNTY COMM,E,,NV,"GIUNCHIGLIANI, CHRIS",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,CNTY COMM,G,,NV,"REID, RORY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,DA/PROSECUTOR,,,NV,"ROGER, DAVID",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,ASSESSOR,,,NV,"SCHOFIELD, M.W.",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,CNTY CLERK,,,NV,"PARRAGUIRRE, SHIRLEY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,RECORDER,,,NV,"EDWARDS, JIM",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,TREASURER,,,NV,"FITZPATRICK, LAURA",Democrat,1,,,,County Treasurer,0.95
+NV,Las Vegas Review-Journal,126500,2006,DIRECTOR,,,NV,"HARNEY, JOHN",Republican,1,,,,Public Administrator,0.95
+NV,Las Vegas Review-Journal,126500,2006,DISTRICT COURT JUDGE,16,,NV,"WILLIAMS, TIM",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,DISTRICT COURT JUDGE,23,,NV,"JOHNSON, SUSAN",Nonpartisan,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,2006,DISTRICT COURT JUDGE,23,,NV,"HALVERSON, ELIZABETH",Nonpartisan,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,2006,DISTRICT COURT JUDGE,M,,NV,"POTTER, WILLIAM",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2006,JUDGE,8,,NV,"ZIMMERMAN, ANN",Nonpartisan,1,,,,JP Las Vegas Dept 8,0.95
+NV,Las Vegas Review-Journal,126500,2006,JUDGE,10,,NV,"SILVER, ABBI",Nonpartisan,1,,,,JP Las Vegas Dept 10,0.95
+NV,Las Vegas Review-Journal,126500,2006,JUDGE,2,,NV,"LEE, CHRIS",Nonpartisan,1,,,,JP North Las Vegas Dept 2,0.95
+NV,Las Vegas Review-Journal,126500,2006,SHERIFF,,,NV,"GILLESPIE, DOUGLAS",,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,CONSTABLE,,,NV,"GRONAUER, ROBERT",Democrat,1,,,,Las Vegas,0.95
+NV,Las Vegas Review-Journal,126500,2006,DIRECTOR,1,,NV,"CREAR, CEDRIC",Nonpartisan,1,,,,Board of Regents,0.95
+NV,Las Vegas Review-Journal,126500,2006,DIRECTOR,4,,NV,"ALDEN, MARK",Nonpartisan,1,,,,Board of Regents,0.95
+NV,Las Vegas Review-Journal,126500,2006,STATE BOARD OF ED,2,,NV,"RUGGIERO, ANTHONY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,SCHOOL BOARD,4,,NV,"REID, CINDY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,SCHOOL BOARD,E,,NV,"JANISON, TERRI",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,SCHOOL BOARD,F,,NV,"EDWARDS, CAROLYN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2006,SCHOOL BOARD,G,,NV,"DUPALO, MARTIN DEAN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,PRESIDENT,,,NV,"MCCAIN, JOHN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,H,1,,NV,"BERKLEY, SHELLEY",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,H,2,,NV,"HELLER, DEAN",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,H,3,,NV,"PORTER, JON",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE SENATOR,1,,NV,"LEE, JOHN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE SENATOR,4,,NV,"HORSFORD, STEVEN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE SENATOR,5,,NV,"HECK, JOE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE SENATOR,6,,NV,"BEERS, BOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE SENATOR,7,,NV,"PARKS, DAVID",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE SENATOR,11,,NV,"LOCATELLI, JOE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,1,,NV,"MYERS, LINDA WEST",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,2,,NV,"HAMBRICK, JOHN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,3,,NV,"MORELLI, ERIC",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,4,,NV,"MCARTHUR, RICHARD",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,5,,NV,"TOUSSAINT, DONNA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,8,,NV,"BUCKLEY, BARBARA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,9,,NV,"SEGERBLOM, TICK",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,11,,NV,"HOSTMEYER, MITCH",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,12,,NV,"OHRENSCHALL, JAMES",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,13,,NV,"MARTIN, ANDREW",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,15,,NV,"SNYDER, DALE",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,17,,NV,"MANENDO, MARK",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,18,,NV,"OELKE, NICHOLAS",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,20,,NV,"HARDY, JOE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,21,,NV,"OZARK, JON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,22,,NV,"SANTUCCI, NATHAN",Libertarian,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,23,,NV,"WOODBURY, MELISSA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,28,,NV,"MENDOZA, TINO",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,29,,NV,"FELLOWS, SEAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,34,,NV,"DAESH, MARK",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,37,,NV,"CONKLIN, MARCOS",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,41,,NV,"AIZLEY, PAUL",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE REP,42,,NV,"MORTENSON, HARRY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,CNTY COMM,A,,NV,"SCROGGINS, BRIAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,CNTY COMM,B,,NV,"COLLINS, TOM",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,CNTY COMM,C,,NV,"BROWN, LARRY",Democrat,1,,,,or Valorie Weber,0.9
+NV,Las Vegas Review-Journal,126500,2008,CNTY COMM,C,,NV,"WEBER, VALORIE",Republican,1,,,,or Larry Brown,0.9
+NV,Las Vegas Review-Journal,126500,2008,CNTY COMM,D,,NV,"WEEKLY, LAWRENCE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,SCHOOL BOARD,A,,NV,"GOLDMAN, EDWARD",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,SCHOOL BOARD,C,,NV,"MATTHEW, RONAN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,SCHOOL BOARD,E,,NV,"JANISON, TERRI",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DIRECTOR,1,,NV,"WHIPPLE, BRET",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE BOARD OF ED,1,,NV,"FREDERICK, SHARON",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE BOARD OF ED,2,,NV,"FLETCHER, DORIS WALLACE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,STATE BOARD OF ED,7,,NV,"WALLACE, CHRIS",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,SUPREME COURT,Seat B,,NV,"PICKERING, KRIS",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,SUPREME COURT,Seat D,,NV,"GIBBONS, MARK",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,6,,NV,"CADISH, ELISSA",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,7,,NV,"BELL, LINDA",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,8,,NV,"SMITH, DOUG",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,10,,NV,"KEPHART, WILLIAM",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,14,,NV,"LEAVITT, MICHELLE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,16,,NV,"MOSLEY, DONALD",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,17,,NV,"VILLANI, MICHAEL",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,22,,NV,"JOHNSON, SUSAN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,23,,NV,"LANDIES, JASON",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,25,,NV,"DELANEY, KATHLEEN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,C,,NV,"STEEL, DIANNE",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,I,,NV,"MUIRHEAD, KENNETH",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,J,,NV,"POLLOCK, KENNETH",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,K,,NV,"OCHOA, VINCENT",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,L,,NV,"ELLIOTT, JENNIFER",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,N,,NV,"HARTER, MATHEW",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,O,,NV,"SULLIVAN, FRANK",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,P,,NV,"POMRENZE, SANDRA",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,Q,,NV,"DUCKWORTH, BRYCE",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,DISTRICT COURT JUDGE,R,,NV,"HOSKIN, CHUCK",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2008,JUDGE,,,NV,"GIBSON, DAVID SR",Nonpartisan,1,,,,JP Henderson,0.95
+NV,Las Vegas Review-Journal,126500,2008,JUDGE,,,NV,"SULLIVAN, DIANA",Nonpartisan,1,,,,JP Las Vegas,0.95
+NV,Las Vegas Review-Journal,126500,2008,JUDGE,,,NV,"LEE, CHRIS",Nonpartisan,1,,,,JP North Las Vegas,0.95
+NV,Las Vegas Review-Journal,126500,2010,SENATOR,,,NV,"ANGLE, SHARRON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,H,1,,NV,"BERKLEY, SHELLEY",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,H,2,,NV,"HELLER, DEAN",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,H,3,,NV,"HECK, JOE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,GOVERNOR,,,NV,"SANDOVAL, BRIAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,COMPTROLLER,,,NV,"WALLIN, KIM",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,LT GOVERNOR,,,NV,"KROLICKI, BRIAN",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,SEC OF STATE,,,NV,"MILLER, ROSS",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,TREASURER,,,NV,"MARSHALL, KATE",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE SENATOR,5,,NV,"ROBERSON, MICHAEL",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE SENATOR,7,,NV,"WRIGHT, TONY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE SENATOR,8,,NV,"CEGAVSKE, BARBARA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE SENATOR,9,,NV,"YERUSHALMI, BENNY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE SENATOR,10,,NV,"TYLER, HENRY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE SENATOR,12,,NV,"HARDY, JOE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,1,,NV,"TRUDEAU, MARK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,2,,NV,"HAMBRICK, JOHN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,3,,NV,"MORELLI, ERIC",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,4,,NV,"MCARTHUR, RICHARD",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,5,,NV,"WILLIAMS, TIM",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,6,,NV,"MUNFORD, HARVEY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,7,,NV,"DIAZ, NEAL",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,8,,NV,"FRIERSON, JASON",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,9,,NV,"REDELSPERGER, LOIS",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,10,,NV,"ANDREWS, TYLER",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,12,,NV,"OHRENSCHALL, JAMES",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,13,,NV,"HAMMOND, SCOTT",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,15,,NV,"ANDERSON, ELLIOT",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,16,,NV,"IRWIN, BOB",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,17,,NV,"KING, KENNETH",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,18,,NV,"WALTHER, KEN",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,19,,NV,"BROOKS, STEVEN",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,20,,NV,"HARDY, CRESENT",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,21,,NV,"SHERWOOD, MARK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,22,,NV,"BROWER, LYNN",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,23,,NV,"WOODBURY, MELISSA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,28,,NV,"FLORES, LUCY",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,29,,NV,"HILL, DAN",Republican,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,34,,NV,"DOODS, RICHARD",Republican,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,37,,NV,"CONKLIN, MARCUS",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,41,,NV,"PORTER, JON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE REP,42,,NV,"NJUA, KATHRYN",Republican,1,,,,,0.85
+NV,Las Vegas Review-Journal,126500,2010,CNTY COMM,E,,NV,"GIUNCHIGLIANI, CHRIS",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,CNTY COMM,F,,NV,"BRAGER, SUSAN",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,CNTY COMM,G,,NV,"BELL, DOUGLAS",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,ASSESSOR,,,NV,"SHAFE, MICHELE",Democrat,1,,,,,0.9
+NV,Las Vegas Review-Journal,126500,2010,CNTY CLERK,,,NV,"ALBA, DIANA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DA/PROSECUTOR,,,NV,"ROGER, DAVID",Republican,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DIRECTOR,,,NV,"CAHILL, JOHN",Democrat,1,,,,Public Administrator,0.95
+NV,Las Vegas Review-Journal,126500,2010,RECORDER,,,NV,"CONWAY, DEBBIE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,SHERIFF,,,NV,"GILLESPIE, DOUG",Nonpartisan,1,,1,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,TREASURER,,,NV,"FITZPATRICK, LAURA",Democrat,1,,,,County Treasurer,0.95
+NV,Las Vegas Review-Journal,126500,2010,SCHOOL BOARD,D,,NV,"ALDERMAN, LORRAINE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,SCHOOL BOARD,F,,NV,"EDWARDS, CAROLYN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,SCHOOL BOARD,G,,NV,"CRANOR, ERIN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE BOARD OF ED,2,,NV,"SOLORIO, JOSE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,STATE BOARD OF ED,3,,NV,"CORBETT, STEVEN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DIRECTOR,3,,NV,"PAGE, KEVIN",Nonpartisan,1,,,,Board of Regents,0.95
+NV,Las Vegas Review-Journal,126500,2010,DIRECTOR,7,,NV,"DOUBRAVA, MARK",Nonpartisan,1,,,,Board of Regents,0.95
+NV,Las Vegas Review-Journal,126500,2010,DIRECTOR,10,,NV,"NEWBURN, MARK",Nonpartisan,1,,,,Board of Regents,0.95
+NV,Las Vegas Review-Journal,126500,2010,DIRECTOR,13,,NV,"PITA, JOE",Nonpartisan,1,,,,Board of Regents,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,26,,NV,"STURMAN, GLORIA",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,27,,NV,"ALLF, NANCY",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,28,,NV,"HOWARD, JACK",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,29,,NV,"SCANN, SUSAN",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,30,,NV,"DAVIDSON, MICHAEL",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,31,,NV,"DABNEY, PHIL",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,32,,NV,"BARE, ROB",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,C,,NV,"JONES, STEVEN",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,F,,NV,"ECCLES, JOHN",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,S,,NV,"OCHOA, VINCENT",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2010,DISTRICT COURT JUDGE,T,,NV,"NATHAN, GAYLE",Nonpartisan,1,,,,Family Court,0.95
+NV,Las Vegas Review-Journal,126500,2010,JUDGE,3,,NV,"MARSHALL, JANIECE",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2010,JUDGE,6,,NV,"KEPHART, BILL",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2010,JUDGE,7,,NV,"KURTH, ROBERT",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2010,JUDGE,13,,NV,"BASCUM, SUSAN",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2010,JUDGE,14,,NV,"ZADROWSKI, BERNIE",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2010,CONSTABLE,,,NV,"GARIANO, PETER",Republican,1,,,,Las Vegas,0.95
+NV,Las Vegas Review-Journal,126500,2022,SENATOR,,,NV,"LAXALT, ADAM",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,H,1,,NV,"ROBERTSON, MARK",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,H,3,,NV,"BECKER, APRIL",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,H,4,,NV,"HORSFORD, STEVEN",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,GOVERNOR,,,NV,"LOMBARDO, JOE",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,STATE SENATOR,8,,NV,"PAULOS, JOEY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,STATE SENATOR,9,,NV,"BROWN, TINA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,STATE REP,2,,NV,"KASAMA, HEIDI",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,STATE REP,13,,NV,"HIBBETTS, BRIAN",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,STATE REP,21,,NV,"PETRICK, JON",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,STATE REP,22,,NV,"HARDY, MELISSA",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,STATE REP,35,,NV,"JONES, TIFFANY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,STATE REP,37,,NV,"DEAVILLE, JACOB",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,ATTORNEY GENERAL,,,NV,"FORD, AARON",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,LT GOVERNOR,,,NV,"ANTHONY, STAVROS",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,SEC OF STATE,,,NV,"AGUILAR, CISCO",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,TREASURER,,,NV,"CONINE, ZACH",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,COMPTROLLER,,,NV,"MATTHEWS, ANDY",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,CNTY COMM,E,,NV,"SEGERBLOM, TICK",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,CNTY COMM,F,,NV,"JOHNSON, DREW",Republican,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,CNTY COMM,G,,NV,"GIBSON, JIM",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,CITY COUNCIL,4,,NV,"BEERS, BOB",Nonpartisan,1,,,,Las Vegas Ward 4,0.95
+NV,Las Vegas Review-Journal,126500,2022,CITY COUNCIL,6,,NV,"SPENCER, RAY",Nonpartisan,1,,,,Las Vegas Ward 6,0.95
+NV,Las Vegas Review-Journal,126500,2022,COURT OF APPEALS,1,,NV,"WESTBROOK, DEBORAH",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,DISTRICT COURT JUDGE,9,,NV,"GALL, MARIA",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,DISTRICT COURT JUDGE,11,,NV,"ROOHANI, ELLIE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,JUDGE,6,,NV,"GOODEY, JESSICA",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2022,JUDGE,7,,NV,"WILSON, AMY",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2022,JUDGE,9,,NV,"BONAVENTURE, JOE",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2022,JUDGE,10,,NV,"DOTSON, CYBILL",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2022,JUDGE,13,,NV,"SAXE, REBECCA",Nonpartisan,1,,,,Las Vegas JP,0.95
+NV,Las Vegas Review-Journal,126500,2022,SCHOOL BOARD,D,,NV,"ZAMORA, BRENDA",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,SCHOOL BOARD,F,,NV,"FORD, DANIELLE",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,SCHOOL BOARD,G,,NV,"WIEMAN, GREG",Nonpartisan,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,DIRECTOR,6,,NV,"DAKDUK, JEANINE",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,2022,DIRECTOR,7,,NV,"BRAGER, SUSAN",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,2022,DIRECTOR,8,,NV,"CRAWFORD, MICHELEE",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,2022,DIRECTOR,13,,NV,"GOODMAN, STEPHANIE",Nonpartisan,1,,,,University Regent,0.95
+NV,Las Vegas Review-Journal,126500,2022,DA/PROSECUTOR,,,NV,"WOLFSON, STEVE",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,ASSESSOR,,,NV,"JOHNSON, BRIANA",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,CNTY CLERK,,,NV,"GOYA, LYNN MARIE",Democrat,1,,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,RECORDER,,,NV,"CONWAY, DEBBIE",Democrat,1,1,,,,0.95
+NV,Las Vegas Review-Journal,126500,2022,TREASURER,,,NV,"DIAZ, KEN",Democrat,1,,,,County Treasurer,0.95
+NV,Las Vegas Review-Journal,126500,2022,DIRECTOR,,,NV,"REID, RITA PAGE",Democrat,1,,,,Public Administrator,0.95

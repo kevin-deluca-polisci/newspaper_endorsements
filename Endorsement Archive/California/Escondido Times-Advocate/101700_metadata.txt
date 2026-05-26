@@ -1,0 +1,45 @@
+Newspaper Name: Escondido Times-Advocate
+Alternative Names: Daily Times-Advocate, North County Times-Advocate, T-A
+Years Published: 1909-1996 (merged into the North County Times in 1996, later absorbed by SD Union-Tribune)
+Newspaper ID number: 101700
+State: CA (Escondido, San Diego County -- north county region)
+Number of clippings: 27
+Endorsement data years: 1950, 1960, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1994
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 235 (235 endorsed, 0 opposed)
+Total proposition records: 363 (248 YES, 115 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.60
+Mean: 0.90
+Max: 0.95
+
+--- NOTES ---
+Coverage: 1950, 1960, 1970-1994 (continuous biennial pattern with primary + general endorsements
+for most cycles). Both June primary clippings and November general election clippings present
+for most years 1972-1994.
+
+Editorial format: FULL OPINION PAGE scans (not isolated endorsement articles), requiring careful
+filtering during extraction. Each clipping is a full-page newspaper section that mixes:
+- The paper's own editorial-board endorsements (the data captured here)
+- Syndicated columns (Chamberlain, Hoppe, Buckley, Kilpatrick, etc.) -- filtered out
+- Letters to the editor (Public Forum) -- filtered out
+- Political cartoons -- filtered out
+- Non-endorsement editorials on civic matters -- filtered out
+
+The Times-Advocate's editorial format evolved from compact "T-A recommends" sidebars in the
+1960s-70s to fuller multi-paragraph editorials with bolded "Our endorsements" composite sidebars
+in the 1980s-90s. The 1990 sheriff endorsement plus full "OUR ENDORSEMENTS" sidebar is
+particularly comprehensive.
+
+Three clippings with ZERO endorsements found are legitimate (1972-05-24 was a Chamber of Commerce
+position piece, 1974-05-14 was also Chamber, 1981-10-25 + 1984-04-08 + 1988-10-30 were editor
+columns about endorsement methodology or letters-to-the-editor pages with no T-A picks).
+
+The Times-Advocate was a conservative-leaning North County daily that mostly endorsed
+Republicans at federal/state levels (Nixon, Ford, Reagan, Bush) but did endorse Democrats
+Cranston and Unruh in some years. North County SD has historically been one of California's
+more conservative areas.
+
+Compiled: 2026-05-25

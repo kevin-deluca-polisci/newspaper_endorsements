@@ -1,0 +1,39 @@
+Newspaper Name: Rock Hill Herald
+Alternative Names: The Herald, Rock Hill Evening Herald (historical)
+Years Published: founded 1872 (currently owned by McClatchy)
+Newspaper ID number: 143450
+State: SC (Rock Hill, York County -- Upstate region near Charlotte, NC; SC-5 Congressional)
+Number of clippings: 32
+Endorsement data years: 1964, 1966, 1968, 1980, 1994, 1996, 2010, 2012, 2014
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 33 (33 endorsed, 0 opposed)
+Total proposition records: 23 (20 YES, 3 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.50
+Mean: 0.92
+Max: 0.95
+
+--- NOTES ---
+Coverage: 1964-2016 with scattered early decades and a dense cluster 2010-2014. Modern paper
+runs one-race-per-editorial format in October before election day. The 2014 cycle is especially
+dense (13 clippings, one per day from Oct 22 to Nov 4).
+
+Notable picks:
+- 1968: split-ticket — Nixon (R) for President, but Hollings/Gettys (D) at state level
+- 2010: Sheheen (D) for Governor over Haley (R); Spratt (D) Senate slate
+- 2012: Romney (R), Mulvaney (R) for SC-5
+- 2014: Sheheen (D) for Governor again, but Graham (R) and Tim Scott (R) for Senate;
+  Mulvaney (R) for SC-5 re-elect; mix of Republican and Democratic state legislative picks
+
+The Herald is owned by McClatchy and presents a moderate editorial board with mixed-ticket
+endorsement patterns, especially in modern era.
+
+Hash-dedup: 126 raw PDFs -> 32 unique by SHA-256. 30 DELUCA + 2 orphans:
+- `143450_2012MMDD.pdf` = Nov 4, 2012 York County Council editorial (kept as 20121104_v1 alongside
+  existing DELUCA 20121104; same date, slightly different scan)
+- `Rock_Hill_Herald_nov_2_2012 copy.pdf` = Nov 2, 2012 US House 5th District (Mulvaney) editorial
+  (kept as 20121102_v1 alongside existing DELUCA 20121102; same date, different scan)
+
+Compiled: 2026-05-26

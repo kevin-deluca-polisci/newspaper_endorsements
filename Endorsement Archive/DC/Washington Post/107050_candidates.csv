@@ -1,0 +1,1129 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+DC,Washington Post,107050,1974,H,8,,VA,"HARRIS, HERBERT E.",Democrat,1,,,,Endorsement somewhat implicit; Post argues this year is the time to give Harris a chance over Parris,0.7
+DC,Washington Post,107050,1974,H,10,,VA,"FISHER, JOSEPH L.",Democrat,1,,,,Post endorses Fisher over Broyhill,0.9
+DC,Washington Post,107050,1974,SENATOR,,,MD,"MATHIAS, CHARLES MCC.",Republican,1,,,,Incumbent Republican; Post endorses re-election,0.95
+DC,Washington Post,107050,1978,SENATOR,,,VA,"MILLER, ANDREW P.",Democrat,1,,,,Open seat; Post endorses Miller over Warner,0.95
+DC,Washington Post,107050,1978,H,10,,VA,"FISHER, JOSEPH L.",Democrat,1,,,,Incumbent; Post endorses re-election,0.95
+DC,Washington Post,107050,1978,H,8,,VA,"HARRIS, HERBERT E.",Democrat,1,,,,Incumbent; Post endorses Harris over Herrity,0.9
+DC,Washington Post,107050,1978,MAYOR,,,MD,"HOGAN, LAWRENCE J.",Republican,1,,,,"County Executive, Prince George's County, MD; Post endorses Hogan as energetic new force",0.85
+DC,Washington Post,107050,1978,MAYOR,,,MD,"GILCHRIST, CHARLES W.",Democrat,1,,,,"County Executive, Montgomery County, MD; Post gives edge to Gilchrist",0.9
+DC,Washington Post,107050,1980,SCHOOL BOARD,,,MD,"EWING, BLAIR G.",Independent,1,,,,Montgomery County school board (nonpartisan); Post endorses Ewing/Praisner/King-Shaw slate,0.9
+DC,Washington Post,107050,1980,SCHOOL BOARD,,,MD,"PRAISNER, MARILYN J.",Independent,1,,,,Montgomery County school board (nonpartisan),0.9
+DC,Washington Post,107050,1980,SCHOOL BOARD,,,MD,"KING-SHAW, SANDRA M.",Independent,1,,,,Montgomery County school board (nonpartisan),0.9
+DC,Washington Post,107050,1980,SCHOOL BOARD,1,,MD,"EUGENE, DORIS A.",Independent,1,,,,"Prince George's County school board, District 1 (nonpartisan); 'earned another term'",0.85
+DC,Washington Post,107050,1980,SCHOOL BOARD,3,,MD,"MILES, MALINDA M.",Independent,1,,,,"Prince George's County school board, District 3 (nonpartisan); 'wins an edge'",0.85
+DC,Washington Post,107050,1980,SCHOOL BOARD,9,,MD,"TOUCHSTONE, MARY",Independent,1,,,,"Prince George's County school board, District 9 (nonpartisan); 'offers a constructive change'",0.85
+DC,Washington Post,107050,1980,PRESIDENT,,,DC,"CARTER, JIMMY",Democrat,1,,,,Post endorses Carter over Reagan,0.95
+DC,Washington Post,107050,1983,CNTY COMM,,,VA,"WATT, PATRICIA C.",Democrat,1,,,,Fairfax County Board of Supervisors Chairman; Post: 'she should be elected',0.95
+DC,Washington Post,107050,1983,CNTY COMM,,,VA,"BUFFUM, RICHARD A.",Democrat,1,,,,Arlington County Board; 'We support them',0.9
+DC,Washington Post,107050,1983,CNTY COMM,,,VA,"EISENBERG, ALBERT C.",Democrat,1,,,,Arlington County Board; 'We support them',0.9
+DC,Washington Post,107050,1984,JUDGE,,,MD,"AHALT, ARTHUR M.",Independent,1,,,,Prince George's Circuit Court judge; merits vote,0.9
+DC,Washington Post,107050,1984,JUDGE,,,MD,"JOHNSON, G. R. HOVEY",Independent,1,,,,Prince George's Circuit Court judge; merits vote,0.9
+DC,Washington Post,107050,1984,JUDGE,,,MD,"COUCH, JAMES F. JR.",Independent,1,,,,MD Court of Appeals retention,0.9
+DC,Washington Post,107050,1984,JUDGE,,,MD,"ADKINS, WILLIAM H. II",Independent,1,,,,MD Court of Special Appeals retention,0.9
+DC,Washington Post,107050,1984,JUDGE,,,MD,"ALPERT, PAUL E.",Independent,1,,,,MD Court of Special Appeals retention,0.9
+DC,Washington Post,107050,1984,JUDGE,,,MD,"BELL, ROSALYN B.",Independent,1,,,,MD Court of Special Appeals retention,0.9
+DC,Washington Post,107050,1984,JUDGE,,,MD,"BLOOM, THEODORE G.",Independent,1,,,,MD Court of Special Appeals retention,0.9
+DC,Washington Post,107050,1984,JUDGE,,,MD,"GARRITY, JOHN J.",Independent,1,,,,MD Court of Special Appeals retention,0.9
+DC,Washington Post,107050,1984,JUDGE,,,MD,"GETTY, JAMES S.",Independent,1,,,,MD Court of Special Appeals retention,0.9
+DC,Washington Post,107050,1984,CNTY COMM,,,VA,"MILLIKEN, JOHN G.",Democrat,1,,,,Arlington County Board; 'deserves reelection',0.95
+DC,Washington Post,107050,1984,H,1,,MD,"DYSON, ROY",Democrat,1,,,,Deserves reelection,0.95
+DC,Washington Post,107050,1984,H,3,,MD,"MIKULSKI, BARBARA A.",Democrat,1,,,,Pierpont cannot match her,0.95
+DC,Washington Post,107050,1984,H,4,,MD,"GREENEBAUM, HOWARD",Democrat,1,,,,Should be given a chance to provide more comprehensive representation,0.9
+DC,Washington Post,107050,1984,H,5,,MD,"HOYER, STENY",Democrat,1,,,,Ritchie no match,0.95
+DC,Washington Post,107050,1984,H,6,,MD,"BYRON, BEVERLY",Democrat,1,,,,Should enjoy bipartisan support,0.9
+DC,Washington Post,107050,1984,H,8,,MD,"BARNES, MICHAEL",Democrat,1,,,,Most able House member; no worthy challenge,0.95
+DC,Washington Post,107050,1984,CITY COUNCIL,At-large,,DC,"RAY, JOHN",Democrat,1,,,,DC Council at-large incumbent,0.9
+DC,Washington Post,107050,1984,CITY COUNCIL,At-large,,DC,"MOORE, JERRY A. JR.",Republican,1,,,,DC Council at-large incumbent running as write-in; 'prudent choice',0.9
+DC,Washington Post,107050,1984,CITY COUNCIL,2,,DC,"WILSON, JOHN",Democrat,1,,,,DC Council Ward 2; reaffirmation deserved,0.85
+DC,Washington Post,107050,1984,CITY COUNCIL,4,,DC,"JARVIS, CHARLENE DREW",Democrat,1,,,,DC Council Ward 4; reaffirmation deserved,0.85
+DC,Washington Post,107050,1984,CITY COUNCIL,7,,DC,"CRAWFORD, H. R.",Democrat,1,,,,DC Council Ward 7; reaffirmation deserved,0.85
+DC,Washington Post,107050,1984,CITY COUNCIL,8,,DC,"ROLARK, WILHELMINA J.",Democrat,1,,,,DC Council Ward 8; reaffirmation deserved,0.85
+DC,Washington Post,107050,1985,GOVERNOR,,,VA,"BALILES, GERALD",Democrat,1,,,,Post endorses Baliles over Durrette,0.95
+DC,Washington Post,107050,1985,LT GOVERNOR,,,VA,"WILDER, L. DOUGLAS",Democrat,1,,,,Post endorses Wilder over Chichester,0.95
+DC,Washington Post,107050,1985,ATTORNEY GENERAL,,,VA,"TERRY, MARY SUE",Democrat,1,,,,Post endorses Terry over O'Brien,0.95
+DC,Washington Post,107050,1985,CNTY COMM,,,VA,"BOZMAN, ELLEN M.",Democrat,1,,,,Arlington County Board incumbent; running as independent but with Democratic backing,0.95
+DC,Washington Post,107050,1986,GOVERNOR,,,MD,"SCHAEFER, WILLIAM DONALD",Democrat,1,,,,Post endorses over Mooney,0.95
+DC,Washington Post,107050,1986,SENATOR,,,MD,"MIKULSKI, BARBARA A.",Democrat,1,,,,Post endorses over Chavez,0.95
+DC,Washington Post,107050,1986,H,8,,MD,"MORELLA, CONSTANCE A.",Republican,1,,,,Post prefers Morella over Bainum,0.95
+DC,Washington Post,107050,1986,H,3,,MD,"CARDIN, BENJAMIN L.",Democrat,1,,,,Excellent candidate; vastly preferable to Pierpont,0.95
+DC,Washington Post,107050,1986,H,5,,MD,"HOYER, STENY",Democrat,1,,,,Easy choice against Sellner,0.95
+DC,Washington Post,107050,1986,H,4,,MD,"NEALL, ROBERT R.",Republican,1,,,,Post: Neall should be elected over McMillen,0.95
+DC,Washington Post,107050,1986,H,6,,MD,"BYRON, BEVERLY",Democrat,1,,,,Deserves another term,0.95
+DC,Washington Post,107050,1986,STATE SENATOR,15,,MD,"LEVITAN, LAURENCE",Democrat,1,,,,Montgomery County; gets preference over Ficker,0.9
+DC,Washington Post,107050,1986,STATE SENATOR,16,,MD,"DENIS, HOWARD A.",Republican,1,,,,Montgomery County; Democrats and independents urged to return him,0.95
+DC,Washington Post,107050,1986,MAYOR,,,MD,"KRAMER, SIDNEY",Democrat,1,,,,"County Executive, Montgomery County; strong primary showing deserved",0.85
+DC,Washington Post,107050,1986,CNTY COMM,1,,MD,"POTTER, NEAL",Democrat,1,,,,Montgomery County Council District 1,0.85
+DC,Washington Post,107050,1986,CNTY COMM,2,,MD,"SUBIN, MICHAEL L.",Democrat,1,,,,Montgomery County Council District 2,0.85
+DC,Washington Post,107050,1986,CNTY COMM,3,,MD,"HANNA, WILLIAM JR.",Democrat,1,,,,Montgomery County Council District 3,0.85
+DC,Washington Post,107050,1986,CNTY COMM,4,,MD,"GUDIS, MICHAEL L.",Democrat,1,,,,Montgomery County Council District 4,0.85
+DC,Washington Post,107050,1986,CNTY COMM,5,,MD,"CRENCA, ROSE",Democrat,1,,,,Montgomery County Council District 5,0.85
+DC,Washington Post,107050,1986,CNTY COMM,At-large,,MD,"KRAHNKE, BETTY ANN",Republican,1,,,,Montgomery County Council at-large; 'clear Republican standout',0.9
+DC,Washington Post,107050,1986,MAYOR,,,MD,"GLENDENING, PARRIS N.",Democrat,1,,,,"County Executive, Prince George's County; impressive service over Ritchie",0.9
+DC,Washington Post,107050,1990,GOVERNOR,,,MD,"SCHAEFER, WILLIAM DONALD",Democrat,1,,,,Strongest person for the next stretch; earned another term,0.95
+DC,Washington Post,107050,1990,LT GOVERNOR,,,MD,"STEINBERG, MELVIN A.",Democrat,1,,,,Running mate of Schaefer,0.9
+DC,Washington Post,107050,1990,H,At-large,,DC,"SINGLETON, HARRY",Republican,1,,,,DC non-voting delegate; better prospect than Eleanor Holmes Norton,0.95
+DC,Washington Post,107050,1990,SCHOOL BOARD,8,Ward 8,DC,"MOODY, LINDA H.",,1,,,,"D.C. Board of Education, Ward 8",0.95
+DC,Washington Post,107050,1990,SCHOOL BOARD,At-large,At-large,DC,"SILBERMAN, JAY",,1,,,,"D.C. Board of Education, At-large",0.95
+DC,Washington Post,107050,1990,SCHOOL BOARD,2,Ward 2,DC,"HALL, R. DAVID",,1,,,,"D.C. Board of Education, Ward 2; incumbent",0.95
+DC,Washington Post,107050,1990,SCHOOL BOARD,7,Ward 7,DC,"BUSH, NATE",,1,,,,"D.C. Board of Education, Ward 7",0.9
+DC,Washington Post,107050,1990,CITY COUNCIL,4,Ward 4,DC,"GAY, PRISCILLA ARLENE",,1,,,,DC Council Ward 4 (succeeding Linda Cropp),0.95
+DC,Washington Post,107050,1990,CITY COUNCIL,At-large,At-large,DC,"CROPP, LINDA",Democrat,1,,,,DC Council At-Large,0.95
+DC,Washington Post,107050,1990,CITY COUNCIL,At-large,At-large,DC,"MASON, HILDA",,1,,,1,DC Council At-Large; incumbent (Statehood Party),0.95
+DC,Washington Post,107050,1990,MAYOR,,,DC,"DIXON, SHARON PRATT",Democrat,1,,,,DC Mayor,0.98
+DC,Washington Post,107050,1991,STATE SENATOR,,,VA,"CALHOUN, ROBERT L. ""BOB""",Republican,1,,,,VA state Senate,0.9
+DC,Washington Post,107050,1991,STATE SENATOR,,,VA,"GARTLAN, JOSEPH V. JR.",Democrat,1,,,,VA state Senate,0.9
+DC,Washington Post,107050,1991,STATE SENATOR,,,VA,"HOLLAND, EDWARD M.",Democrat,1,,,,VA state Senate,0.9
+DC,Washington Post,107050,1991,STATE SENATOR,,,VA,"SASLAW, RICHARD L.",Democrat,1,,,,VA state Senate,0.9
+DC,Washington Post,107050,1991,STATE REP,,,VA,"ALMAND, JAMES F.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1991,STATE REP,,,VA,"BYRNE, LESLIE L.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1991,STATE REP,,,VA,"COHEN, BERNARD S.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1991,STATE REP,,,VA,"CALLAHAN, VINCENT",Republican,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1991,STATE REP,,,VA,"SCOTT, JAMES M.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1991,STATE REP,,,VA,"VAN LANDINGHAM, MARIAN A.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1991,STATE REP,13,13th,VA,"REYNOLDS, R. DALE",Democrat,1,,,,"VA House of Delegates, 13th district",0.95
+DC,Washington Post,107050,1991,STATE REP,40,40th,VA,"BARKER, GEORGE L.",Democrat,1,,,,"VA House of Delegates, 40th district",0.95
+DC,Washington Post,107050,1991,CNTY COMM,,Arlington County,VA,"EISENBERG, ALBERT C.",Democrat,1,1,,,Arlington County Board incumbent,0.95
+DC,Washington Post,107050,1991,CNTY COMM,,Arlington County,VA,"NEWMAN, WILLIAM T.",Democrat,1,1,,,Arlington County Board incumbent,0.95
+DC,Washington Post,107050,1991,CNTY COMM,,Prince William County,VA,"SEEFELDT, KATHLEEN K.",Democrat,1,,,,Prince William County Board of Supervisors Chairman,0.95
+DC,Washington Post,107050,1991,CNTY COMM,,Loudoun County,VA,"VAN HUYCK, ALFRED P.",Democrat,1,,,,Loudoun County Board of Supervisors Chairman,0.95
+DC,Washington Post,107050,1992,PRESIDENT,,,DC,"CLINTON, BILL",Democrat,1,,1,,President; running mate Al Gore,0.99
+DC,Washington Post,107050,1992,H,At-large,At-large,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,DC Delegate to Congress; incumbent,0.98
+DC,Washington Post,107050,1992,SCHOOL BOARD,At-large,At-large,DC,"SHOOK, KAREN",,1,,,,"D.C. Board of Education, At-Large; incumbent",0.95
+DC,Washington Post,107050,1992,SCHOOL BOARD,At-large,At-large,DC,"GALLMON, ALBERT JR.",,1,,,,"D.C. Board of Education, At-Large; Reverend",0.95
+DC,Washington Post,107050,1992,SCHOOL BOARD,1,Ward 1,DC,"OTERO, BEATRIZ",,1,,,,"D.C. Board of Education, Ward 1",0.95
+DC,Washington Post,107050,1992,SCHOOL BOARD,3,Ward 3,DC,"LANDBERG, ERIKA",,1,,,,"D.C. Board of Education, Ward 3; incumbent, unopposed",0.9
+DC,Washington Post,107050,1992,SCHOOL BOARD,5,Ward 5,DC,"CORLEY, ANGIE KING",,1,,,,"D.C. Board of Education, Ward 5; incumbent",0.95
+DC,Washington Post,107050,1992,SCHOOL BOARD,6,Ward 6,DC,"TOYER, IRIS",,1,,,,"D.C. Board of Education, Ward 6; incumbent",0.95
+DC,Washington Post,107050,1992,CITY COUNCIL,At-large,At-large,DC,"LIGHTFOOT, WILLIAM P.",Independent,1,,,1,DC Council At-Large; incumbent,0.95
+DC,Washington Post,107050,1992,CITY COUNCIL,At-large,At-large,DC,"RAY, JOHN",Democrat,1,1,,,DC Council At-Large; incumbent,0.95
+DC,Washington Post,107050,1993,GOVERNOR,,,VA,"TERRY, MARY SUE",Democrat,1,,,,VA Governor,0.98
+DC,Washington Post,107050,1993,LT GOVERNOR,,,VA,"BEYER, DON",Democrat,1,1,,,VA Lt. Governor; incumbent,0.95
+DC,Washington Post,107050,1993,ATTORNEY GENERAL,,,VA,"DOLAN, BILL",Democrat,1,,,,VA Attorney General,0.95
+DC,Washington Post,107050,1994,MAYOR,,,DC,"RAY, JOHN",Democrat,1,,,,DC Mayor primary,0.95
+DC,Washington Post,107050,1994,CITY COUNCIL,,Chairman,DC,"CLARKE, DAVID",Democrat,1,,,,DC Council Chairman,0.95
+DC,Washington Post,107050,1994,CITY COUNCIL,At-large,At-large,DC,"SHOOK, KAREN",Democrat,1,,,,DC Council At-Large Democratic primary,0.9
+DC,Washington Post,107050,1994,CITY COUNCIL,At-large,At-large,DC,"CROPP, LINDA",Democrat,1,,,,DC Council At-Large,0.95
+DC,Washington Post,107050,1994,CITY COUNCIL,1,Ward 1,DC,"BRIZILL, DOROTHY",Democrat,1,,,,DC Council Ward 1 primary,0.95
+DC,Washington Post,107050,1994,CITY COUNCIL,3,Ward 3,DC,"PATTERSON, KATHY",Democrat,1,,,,DC Council Ward 3 primary,0.95
+DC,Washington Post,107050,1994,CITY COUNCIL,5,Ward 5,DC,"MAGNUS, RON",Democrat,1,,,,DC Council Ward 5 primary,0.95
+DC,Washington Post,107050,1994,CITY COUNCIL,6,Ward 6,DC,"BRAZIL, HAROLD",Democrat,1,,,,DC Council Ward 6 primary,0.95
+DC,Washington Post,107050,1994,CITY COUNCIL,At-large,At-large,DC,"WIGGINS, DARRYL",,1,,,,DC Council At-Large Statehood Party primary,0.9
+DC,Washington Post,107050,1994,GOVERNOR,,,MD,"GLENDENING, PARRIS",Democrat,1,,,,MD Governor,0.98
+DC,Washington Post,107050,1994,ATTORNEY GENERAL,,,MD,"CURRAN, J. JOSEPH JR.",Democrat,1,,,,MD AG primary,0.95
+DC,Washington Post,107050,1994,COMPTROLLER,,,MD,"GOLDSTEIN, LOUIS L.",Democrat,1,,,,MD Comptroller primary,0.95
+DC,Washington Post,107050,1994,MAYOR,,Montgomery County,MD,"DUNCAN, DOUG",Democrat,1,,,,"County Executive, Montgomery (D primary)",0.95
+DC,Washington Post,107050,1994,MAYOR,,Montgomery County,MD,"ABRAMS, STEVE",Republican,1,,,,"County Executive, Montgomery (R primary)",0.95
+DC,Washington Post,107050,1994,CNTY COMM,At-large,Montgomery County,MD,"LEGGETT, ISIAH",Democrat,1,,,,Montgomery County Council At-Large Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,At-large,Montgomery County,MD,"SUBIN, MICHAEL",Democrat,1,,,,Montgomery County Council At-Large Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,At-large,Montgomery County,MD,"EWING, GAIL",Democrat,1,,,,Montgomery County Council At-Large Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,At-large,Montgomery County,MD,"BRENNEMAN, FRAN",Democrat,1,,,,Montgomery County Council At-Large Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,3,Montgomery County,MD,"HANNA, WILLIAM E. JR.",Democrat,1,,,,Montgomery County Council District 3 Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,5,Montgomery County,MD,"BERLAGE, DERICK",Democrat,1,,,,Montgomery County Council District 5 Dem primary,0.95
+DC,Washington Post,107050,1994,DA/PROSECUTOR,,Montgomery County,MD,"GRIGG, DREW",Democrat,1,,,,Montgomery State's Attorney Dem primary,0.95
+DC,Washington Post,107050,1994,MAYOR,,Prince George's County,MD,"CURRY, WAYNE",Democrat,1,,,,"County Executive, Prince George's Dem primary",0.95
+DC,Washington Post,107050,1994,CNTY COMM,2,Prince George's County,MD,"DEL GIUDICE, STEPHEN",Democrat,1,,,,PG County Council District 2 Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,3,Prince George's County,MD,"MACKINNON, ANNE",Democrat,1,,,,PG County Council District 3 Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,4,Prince George's County,MD,"WEIDENFELD, GIL",Democrat,1,,,,PG County Council District 4 Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,6,Prince George's County,MD,"GARLINGTON, TEE",Democrat,1,,,,PG County Council District 6 Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,7,Prince George's County,MD,"BAILEY, DOROTHY",Democrat,1,,,,PG County Council District 7 Dem primary,0.95
+DC,Washington Post,107050,1994,CNTY COMM,9,Prince George's County,MD,"ESTEPP, M. H. (JIM)",Democrat,1,,,,PG County Council District 9 Dem primary,0.95
+DC,Washington Post,107050,1994,DA/PROSECUTOR,,Prince George's County,MD,"JACKSON, DWIGHT D.",Democrat,1,,,,PG State's Attorney Dem primary,0.95
+DC,Washington Post,107050,1994,SENATOR,,,MD,"SARBANES, PAUL",Democrat,1,1,,,US Senate MD; incumbent,0.95
+DC,Washington Post,107050,1994,H,8,8th,MD,"MORELLA, CONNIE",Republican,1,,1,,US House MD-8; incumbent,0.95
+DC,Washington Post,107050,1994,H,1,1st,MD,"GILCHREST, WAYNE",Republican,1,,1,,US House MD-1; incumbent,0.95
+DC,Washington Post,107050,1994,H,4,4th,MD,"WYNN, ALBERT R.",Democrat,1,1,,,US House MD-4; incumbent,0.95
+DC,Washington Post,107050,1994,H,5,5th,MD,"HOYER, STENY H.",Democrat,1,1,,,US House MD-5; incumbent,0.95
+DC,Washington Post,107050,1994,CNTY COMM,1,Montgomery County,MD,"KRAHNKE, BETTY ANN",Republican,1,1,,,Montgomery County Council District 1; incumbent,0.95
+DC,Washington Post,107050,1994,CNTY COMM,2,Montgomery County,MD,"DACEK, NANCY",Republican,1,,1,,Montgomery County Council District 2; incumbent,0.95
+DC,Washington Post,107050,1994,CNTY COMM,4,Montgomery County,MD,"PRAISNER, MARILYN",Democrat,1,1,,,Montgomery County Council District 4; incumbent,0.95
+DC,Washington Post,107050,1994,DA/PROSECUTOR,,Montgomery County,MD,"SONNER, ANDREW L.",Democrat,1,1,,,Montgomery State's Attorney; 24 yrs incumbent,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,At-large,Montgomery County,MD,"CHEUNG, ALAN",,1,1,,,Montgomery County School Board At-Large; incumbent,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,3,Montgomery County,MD,"ROCHE, TERENCE",,1,,,,Montgomery County School Board District 3,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,5,Montgomery County,MD,"FELTON, REGINALD M.",,1,,,,Montgomery County School Board District 5,0.95
+DC,Washington Post,107050,1994,H,11,11th,VA,"DAVIS, THOMAS M. III",Republican,1,1,,,US House VA-11,0.98
+DC,Washington Post,107050,1994,H,8,8th,VA,"MORAN, JAMES P.",Democrat,1,1,,,US House VA-8; incumbent,0.95
+DC,Washington Post,107050,1994,H,10,10th,VA,"WOLF, FRANK",Republican,1,,1,,US House VA-10; incumbent,0.95
+DC,Washington Post,107050,1994,MAYOR,,,DC,"SCHWARTZ, CAROL",Republican,1,,,,DC Mayor,0.95
+DC,Washington Post,107050,1994,H,At-large,At-large,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,DC Delegate to Congress,0.95
+DC,Washington Post,107050,1994,CITY COUNCIL,At-large,At-large,DC,"HALL, R. DAVID",,1,,,,DC Council At-Large,0.95
+DC,Washington Post,107050,1994,CITY COUNCIL,1,Ward 1,DC,"SMITH, FRANK",Democrat,1,,,,DC Council Ward 1,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,At-large,At-large,DC,"SILBERMAN, JAY",,1,,,,DC Board of Education At-Large,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,2,Ward 2,DC,"WILCOX, ANN",,1,,,,DC Board of Education Ward 2 (dual),0.9
+DC,Washington Post,107050,1994,SCHOOL BOARD,2,Ward 2,DC,"REEVES, WILLIE LLOYD",,1,,,,DC Board of Education Ward 2 (dual),0.9
+DC,Washington Post,107050,1994,SCHOOL BOARD,4,Ward 4,DC,"SIMS, NATHANIEL",,1,,,,DC Board of Education Ward 4 (dual),0.9
+DC,Washington Post,107050,1994,SCHOOL BOARD,4,Ward 4,DC,"STALLWORTH, ALIEZE",,1,,,,DC Board of Education Ward 4 (dual),0.9
+DC,Washington Post,107050,1994,SCHOOL BOARD,7,Ward 7,DC,"KELLY, TOM",,1,,,,DC Board of Education Ward 7,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,8,Ward 8,DC,"MOODY, LINDA",,1,,,,DC Board of Education Ward 8,0.95
+DC,Washington Post,107050,1994,CNTY COMM,At-large,Montgomery County,MD,"HELM, LEWIS M.",,1,,,,Montgomery County Council At-Large (pick one of three for fourth seat),0.85
+DC,Washington Post,107050,1994,CNTY COMM,At-large,Montgomery County,MD,"FESS, THOMAS S.",,1,,,,Montgomery County Council At-Large (pick one of three for fourth seat),0.85
+DC,Washington Post,107050,1994,CNTY COMM,At-large,Montgomery County,MD,"POTTER, NEAL",Democrat,1,,,,Montgomery County Council At-Large (pick one of three for fourth seat); current county executive,0.85
+DC,Washington Post,107050,1994,SCHOOL BOARD,1,Montgomery County,MD,"KING, NANCY",,1,,,,Montgomery County School Board District 1 (dual),0.9
+DC,Washington Post,107050,1994,SCHOOL BOARD,1,Montgomery County,MD,"WALSH, SALLY ANN",,1,,,,Montgomery County School Board District 1 (dual),0.9
+DC,Washington Post,107050,1994,CNTY COMM,1,Prince George's County,MD,"MALONEY, WALTER H.",,1,,,,PG County Council District 1,0.95
+DC,Washington Post,107050,1994,CNTY COMM,4,Prince George's County,MD,"SCOTT, AUDREY E.",,1,,,,PG County Council District 4 (dual),0.9
+DC,Washington Post,107050,1994,CNTY COMM,4,Prince George's County,MD,"ROBINSON, G. FREDERICK",,1,,,,PG County Council District 4 (dual),0.9
+DC,Washington Post,107050,1994,CNTY COMM,5,Prince George's County,MD,"WILSON, MARVIN F.",,1,,,,PG County Council District 5,0.95
+DC,Washington Post,107050,1994,CNTY COMM,6,Prince George's County,MD,"RUSSELL, ROLAND V.",,1,,,,PG County Council District 6,0.95
+DC,Washington Post,107050,1994,CNTY COMM,8,Prince George's County,MD,"GOURDINE, ISAAC",,1,,,,PG County Council District 8,0.95
+DC,Washington Post,107050,1994,DA/PROSECUTOR,,Prince George's County,MD,"JOHNSON, JACK",Democrat,1,,,,PG State's Attorney,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,2,Prince George's County,MD,"PLOGMAN, SUZANNE M.",,1,,,,PG School Board District 2,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,5,Prince George's County,MD,"TEASDALE, VERNA",,1,,,,PG School Board District 5,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,8,Prince George's County,MD,"HUTCHINSON, FRED",,1,,,,PG School Board District 8,0.95
+DC,Washington Post,107050,1994,SENATOR,,,VA,"ROBB, CHARLES",Democrat,1,1,,,US Senate VA,0.95
+DC,Washington Post,107050,1994,CNTY COMM,,Arlington County,VA,"WHIPPLE, MARY MARGARET",Democrat,1,,,,Arlington County Board,0.95
+DC,Washington Post,107050,1994,SCHOOL BOARD,,Arlington County,VA,"HYNES, MARY",,1,,,,Arlington School Board,0.95
+DC,Washington Post,107050,1994,DA/PROSECUTOR,,Arlington County,VA,"TRODDEN, RICHARD",,1,,,,Arlington Commonwealth's Attorney,0.95
+DC,Washington Post,107050,1995,STATE SENATOR,30,30th,VA,"CALHOUN, ROBERT L.",Republican,1,,1,,VA Senate 30th; dual endorsement - voters would be ably served by either Calhoun or Ticer,0.85
+DC,Washington Post,107050,1995,STATE SENATOR,30,30th,VA,"TICER, PATRICIA S. ""PATSY""",Democrat,1,,,,VA Senate 30th; dual endorsement - voters would be ably served by either Calhoun or Ticer,0.85
+DC,Washington Post,107050,1995,STATE SENATOR,36,36th,VA,"GARTLAN, JOSEPH V. JR.",Democrat,1,1,,,VA Senate 36th; incumbent,0.95
+DC,Washington Post,107050,1995,STATE SENATOR,32,32nd,VA,"HOWELL, JANET D.",Democrat,1,1,,,VA Senate 32nd; incumbent,0.95
+DC,Washington Post,107050,1995,STATE SENATOR,33,33rd,VA,"WADDELL, CHARLES L.",Democrat,1,1,,,VA Senate 33rd; incumbent,0.95
+DC,Washington Post,107050,1995,STATE SENATOR,35,35th,VA,"SASLAW, RICHARD L.",Democrat,1,1,,,VA Senate 35th; incumbent,0.95
+DC,Washington Post,107050,1995,STATE SENATOR,31,31st,VA,"WHIPPLE, MARY MARGARET",Democrat,1,,,,VA Senate 31st; from Arlington County Board,0.95
+DC,Washington Post,107050,1995,STATE REP,34,34th,VA,"HUBBARD, KARETTA B.",Democrat,1,,,,VA House 34th; challenges Callahan,0.95
+DC,Washington Post,107050,1995,STATE REP,44,44th,VA,"PULLER, LINDA T. ""TODDY""",Democrat,1,1,,,VA House 44th; incumbent,0.95
+DC,Washington Post,107050,1995,STATE REP,53,53rd,VA,"SCOTT, JAMES M. ""JIM""",Democrat,1,1,,,VA House 53rd; incumbent,0.95
+DC,Washington Post,107050,1995,STATE REP,37,37th,VA,"HARRIS, ROBERT E. ""BOB""",Republican,1,,1,,VA House 37th; dual endorsement (Harris for local-issue voters),0.85
+DC,Washington Post,107050,1995,STATE REP,37,37th,VA,"SCHOENE, L. P. ""LES"" JR.",Democrat,1,,,,VA House 37th; dual endorsement (Schoene for fresh-talent/anti-Allen voters),0.85
+DC,Washington Post,107050,1995,STATE REP,,,VA,"DILLARD, JAMES H. ""JIM"" II",Republican,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1995,STATE REP,,,VA,"SPEVACEK, JOANN",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1995,STATE REP,,,VA,"CECELSKI, MARK S.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1995,STATE REP,,,VA,"CONNALLY, JULIA A. ""JUDY""",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1995,STATE REP,,,VA,"WATTS, VIVIAN E.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1995,STATE REP,,,VA,"PLUM, KENNETH R.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1995,STATE REP,,,VA,"HULL, ROBERT D. ""BOB""",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1995,STATE REP,,,VA,"SCHOENBORN, GAYLA S.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1995,STATE REP,,,VA,"KEATING, GLADYS B.",Democrat,1,,,,VA House of Delegates,0.9
+DC,Washington Post,107050,1996,CNTY COMM,,Arlington County Board,VA,"ZIMMERMAN, CHRIS",Democrat,1,,,,Arlington County Board special election to replace Mary Margaret Whipple,0.97
+DC,Washington Post,107050,1996,CNTY COMM,,Arlington County,VA,"HUNTER, JAMES B. III",Democrat,1,1,,,"Arlington County Board; incumbent, unopposed",0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,,Arlington County,VA,"GARVEY, E. T. ""LIBBY""",,1,,,,Arlington School Board; incumbent,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,,Arlington County,VA,"WILSON, FRANK K.",,1,,,,Arlington School Board; incumbent,0.95
+DC,Washington Post,107050,1996,H,At-large,At-large,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,DC Delegate to Congress; incumbent,0.95
+DC,Washington Post,107050,1996,H,4,4th,MD,"WYNN, ALBERT R.",Democrat,1,1,,,US House MD-4; incumbent,0.95
+DC,Washington Post,107050,1996,H,5,5th,MD,"HOYER, STENY H.",Democrat,1,1,,,US House MD-5; incumbent,0.95
+DC,Washington Post,107050,1996,H,8,8th,MD,"MORELLA, CONSTANCE A.",Republican,1,,1,,US House MD-8; incumbent,0.95
+DC,Washington Post,107050,1996,H,8,8th,VA,"MORAN, JAMES P. JR.",Democrat,1,1,,,US House VA-8; incumbent,0.95
+DC,Washington Post,107050,1996,H,10,10th,VA,"WOLF, FRANK R.",Republican,1,,1,,US House VA-10; incumbent,0.95
+DC,Washington Post,107050,1996,H,11,11th,VA,"DAVIS, THOMAS M. III",Republican,1,,1,,US House VA-11; incumbent,0.95
+DC,Washington Post,107050,1996,CITY COUNCIL,At-large,At-large,DC,"BRAZIL, HAROLD",Democrat,1,1,,,DC Council At-Large,0.95
+DC,Washington Post,107050,1996,CITY COUNCIL,At-large,At-large,DC,"SCHWARTZ, CAROL",Republican,1,,,,DC Council At-Large,0.95
+DC,Washington Post,107050,1996,CITY COUNCIL,2,Ward 2,DC,"EVANS, JACK",Democrat,1,1,,,DC Council Ward 2; incumbent,0.95
+DC,Washington Post,107050,1996,CITY COUNCIL,4,Ward 4,DC,"JARVIS, CHARLENE DREW",Democrat,1,1,,,DC Council Ward 4,0.95
+DC,Washington Post,107050,1996,CITY COUNCIL,7,Ward 7,DC,"CHAVOUS, KEVIN",Democrat,1,1,,,DC Council Ward 7; incumbent,0.95
+DC,Washington Post,107050,1996,CITY COUNCIL,8,Ward 8,DC,"ALLEN, SANDY",Democrat,1,,,,DC Council Ward 8,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,At-large,Montgomery County,MD,"GORDON, BEATRICE B.",,1,1,,,Montgomery County School Board At-Large; incumbent,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,2,Montgomery County,MD,"SIGNER, MONA",,1,,,,Montgomery County School Board District 2,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,4,Montgomery County,MD,"EWING, BLAIR G.",,1,1,,,"Montgomery County School Board District 4; incumbent, unopposed",0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,1,Prince George's County,MD,"BEANDER, BEVERLY K.",,1,1,,,PG County School Board District 1; incumbent,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,3,Prince George's County,MD,"ROBINSON, JUDITH A.",,1,,,,"PG County School Board District 3; slight edge over Nieman, no strong preference",0.75
+DC,Washington Post,107050,1996,SCHOOL BOARD,4,Prince George's County,MD,"HENDERSHOT, THOMAS R.",,1,1,,,PG County School Board District 4; incumbent,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,7,Prince George's County,MD,"GRIFFITH, MELONY",,1,,,,PG County School Board District 7; recommended as write-in (Thornton withdrew),0.85
+DC,Washington Post,107050,1996,SCHOOL BOARD,At-large,At-large,DC,"KINLOW, TONYA VIDAL",,1,,,,DC Board of Education At-Large,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,At-large,At-large,DC,"CHILDS, ROBERT",,1,,,,DC Board of Education At-Large,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,1,Ward 1,DC,"HARVEY, WILMA",,1,1,,,DC Board of Education Ward 1; incumbent,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,3,Ward 3,DC,"REEVES, DON",,1,,,,DC Board of Education Ward 3,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,5,Ward 5,DC,"AUTREY, JANICE DENISE SMITH",,1,,,,DC Board of Education Ward 5,0.95
+DC,Washington Post,107050,1996,SCHOOL BOARD,6,Ward 6,DC,"BONHAM, BENJAMIN",,1,,,,DC Board of Education Ward 6,0.95
+DC,Washington Post,107050,1996,SENATOR,,,VA,"WARNER, JOHN",Republican,1,,1,,US Senate VA; incumbent,0.98
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates - Callahan district,VA,"CALLAHAN, VINCENT F. JR.",Republican,1,,1,,,0.96
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates - Arlington seat,VA,"BRINK, ROBERT H.",Democrat,1,,,,Open seat vacated by Judy Connally,0.96
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates - Vienna-Oakton,VA,"LOVELACE, GEORGE E.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"MIMS, WILLIAM C.",Republican,1,,1,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"MAY, JOE T.",Republican,1,,1,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"PLUM, KENNETH R.",Democrat,1,1,,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"RUST, JOHN H. JR.",Republican,1,,1,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"HULL, ROBERT D.",Democrat,1,1,,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"WATTS, VIVIAN E.",Democrat,1,1,,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"KEATING, GLADYS B.",Democrat,1,1,,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"PULLER, LINDA T. ""TODDY""",Democrat,1,1,,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"VAN LANDINGHAM, MARIAN A.",Democrat,1,1,,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"MORAN, BRIAN J.",Democrat,1,1,,,,0.94
+DC,Washington Post,107050,1997,STATE REP,,Virginia House of Delegates,VA,"DARNER, KAREN",Democrat,1,1,,,,0.94
+DC,Washington Post,107050,1998,H,At-large,DC Delegate,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,Non-voting delegate,0.97
+DC,Washington Post,107050,1998,MAYOR,,DC Mayor,DC,"WILLIAMS, ANTHONY ""TONY""",Democrat,1,,,,,0.97
+DC,Washington Post,107050,1998,CITY COUNCIL,,DC Council Chairman,DC,"CROPP, LINDA",Democrat,1,,,,Council Chairman,0.97
+DC,Washington Post,107050,1998,CITY COUNCIL,At-large,DC Council At-Large,DC,"WILBOURN, BEVERLY",Independent,1,,,,At-Large (pick two),0.96
+DC,Washington Post,107050,1998,CITY COUNCIL,At-large,DC Council At-Large,DC,"CATANIA, DAVID",Republican,1,,,,At-Large (pick two),0.96
+DC,Washington Post,107050,1998,CITY COUNCIL,1,DC Council Ward 1,DC,"GRAHAM, JIM",Democrat,1,,,,,0.96
+DC,Washington Post,107050,1998,CITY COUNCIL,3,DC Council Ward 3,DC,"PATTERSON, KATHY",Democrat,1,,,,,0.96
+DC,Washington Post,107050,1998,CITY COUNCIL,5,DC Council Ward 5,DC,"ORANGE, VINCENT",Democrat,1,,,,,0.96
+DC,Washington Post,107050,1998,CITY COUNCIL,6,DC Council Ward 6,DC,"AMBROSE, SHARON",Democrat,1,,,,,0.96
+DC,Washington Post,107050,1998,SCHOOL BOARD,At-large,DC School Board At-Large,DC,"COUNIHAN, GERRY",,1,,,,,0.93
+DC,Washington Post,107050,1998,SCHOOL BOARD,2,DC School Board Ward 2,DC,"BYRD, WESTY",,1,,,,,0.93
+DC,Washington Post,107050,1998,SCHOOL BOARD,4,DC School Board Ward 4,DC,"SINGLETON, DWIGHT",,1,,,,,0.93
+DC,Washington Post,107050,1998,SCHOOL BOARD,7,DC School Board Ward 7,DC,"KELLY, TOM",,1,,,,,0.93
+DC,Washington Post,107050,1998,SCHOOL BOARD,8,DC School Board Ward 8,DC,"CANADY, JEFF",,1,,,,,0.93
+DC,Washington Post,107050,1998,GOVERNOR,,Maryland Governor,MD,"GLENDENING, PARRIS",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,1998,COMPTROLLER,,Maryland Comptroller,MD,"SCHAEFER, WILLIAM DONALD",Democrat,1,,,,,0.97
+DC,Washington Post,107050,1998,ATTORNEY GENERAL,,Maryland Attorney General,MD,"CURRAN, J. JOSEPH JR.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,1998,SENATOR,,US Senate Maryland,MD,"MIKULSKI, BARBARA A.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,1998,H,4,US House MD-04,MD,"WYNN, ALBERT R.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,1998,H,5,US House MD-05,MD,"HOYER, STENY",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,1998,H,8,US House MD-08,MD,"MORELLA, CONNIE",Republican,1,,1,,,0.97
+DC,Washington Post,107050,1998,MAYOR,,Montgomery County Executive,MD,"DUNCAN, DOUGLAS M.",Democrat,1,1,,,"County Executive, Montgomery",0.96
+DC,Washington Post,107050,1998,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"LEGGETT, ISIAH",Democrat,1,,,,At-Large (four seats),0.94
+DC,Washington Post,107050,1998,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"SUBIN, MICHAEL",Democrat,1,,,,At-Large (four seats),0.94
+DC,Washington Post,107050,1998,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"SILVERMAN, STEVEN",Democrat,1,,,,At-Large (four seats),0.94
+DC,Washington Post,107050,1998,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"DENIS, HOWARD A.",Republican,1,,,,At-Large (four seats),0.94
+DC,Washington Post,107050,1998,CNTY COMM,1,Montgomery County Council District 1,MD,"KRAHNKE, BETTY ANN",Republican,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,2,Montgomery County Council District 2,MD,"DACEK, NANCY H.",Republican,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,3,Montgomery County Council District 3,MD,"ANDREWS, PHILIP M.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,4,Montgomery County Council District 4,MD,"PRAISNER, MARILYN J.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,5,Montgomery County Council District 5,MD,"BERLAGE, DERICK",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,DA/PROSECUTOR,,Montgomery County State's Attorney,MD,"GANSLER, DOUGLAS F.",Democrat,1,,,,State's Attorney,0.96
+DC,Washington Post,107050,1998,SCHOOL BOARD,At-large,Montgomery School Board At-Large,MD,"ABRAMS, STEPHEN N.",,1,,,,,0.92
+DC,Washington Post,107050,1998,SCHOOL BOARD,3,Montgomery School Board District 3,MD,"BARNES, LINNA M.",,1,,,,,0.92
+DC,Washington Post,107050,1998,MAYOR,,Prince George's County Executive,MD,"CURRY, WAYNE",Democrat,1,1,,,"County Executive, Prince George's",0.95
+DC,Washington Post,107050,1998,CNTY COMM,1,Prince George's County Council District 1,MD,"MALONEY, WALTER H.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,2,Prince George's County Council District 2,MD,"SHAPIRO, PETER",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,3,Prince George's County Council District 3,MD,"HENDERSHOT, THOMAS",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,4,Prince George's County Council District 4,MD,"SCOTT, AUDREY",Republican,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,5,Prince George's County Council District 5,MD,"WILSON, MARVIN",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,6,Prince George's County Council District 6,MD,"RUSSELL, RONALD V.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,7,Prince George's County Council District 7,MD,"BAILEY, DOROTHY",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,8,Prince George's County Council District 8,MD,"GOURDINE, ISAAC",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,CNTY COMM,9,Prince George's County Council District 9,MD,"ESTEPP, JIM",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,DA/PROSECUTOR,,Prince George's County State's Attorney,MD,"JOHNSON, JACK",Democrat,1,,,,State's Attorney,0.96
+DC,Washington Post,107050,1998,SCHOOL BOARD,2,PG School Board District 2,MD,"HENDERSON, JAMES E.",,1,,,,,0.92
+DC,Washington Post,107050,1998,SCHOOL BOARD,4,PG School Board District 4,MD,"SMITH, CATHERINE A.",,1,,,,,0.92
+DC,Washington Post,107050,1998,SCHOOL BOARD,5,PG School Board District 5,MD,"FOX, KENNETH",,1,,,,,0.92
+DC,Washington Post,107050,1998,SCHOOL BOARD,8,PG School Board District 8,MD,"PHIFER, BERNARD",,1,,,,,0.92
+DC,Washington Post,107050,1998,MAYOR,,Howard County Executive,MD,"SCHRADER, DENNIS R.",Republican,1,,,,"County Executive, Howard",0.95
+DC,Washington Post,107050,1998,MAYOR,,Anne Arundel County Executive,MD,"GARY, JOHN",Republican,1,,1,,"County Executive, Anne Arundel",0.95
+DC,Washington Post,107050,1998,STATE SENATOR,12,MD State Senate 12,MD,"KASEMEYER, EDWARD J.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,13,MD State Senate 13,MD,"MADDEN, MARTIN G.",Republican,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,14,MD State Senate 14,MD,"HANTMAN, DAVID S.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,15,MD State Senate 15,MD,"EWING, GAIL",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,16,MD State Senate 16,MD,"FROSH, BRIAN",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,17,MD State Senate 17,MD,"FOREHAND, JENNIE M.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,18,MD State Senate 18,MD,"VAN HOLLEN, CHRISTOPHER JR.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,19,MD State Senate 19,MD,"TEITELBAUM, LEONARD H.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,20,MD State Senate 20,MD,"RUBEN, IDA G.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,21,MD State Senate 21,MD,"DORMAN, ARTHUR",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,22,MD State Senate 22,MD,"PINSKY, PAUL G.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,23,MD State Senate 23,MD,"GREEN, LEO E.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,24,MD State Senate 24,MD,"EXUM, NATHANIEL",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,25,MD State Senate 25,MD,"CURRIE, ULYSSES",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,26,MD State Senate 26,MD,"LAWLAH, GLORIA",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,27,MD State Senate 27,MD,"MILLER, THOMAS V. MIKE JR.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE SENATOR,39,MD State Senate 39,MD,"HOGAN, PATRICK J.",Republican,1,,,,,0.94
+DC,Washington Post,107050,1998,STATE REP,13A,MD House 13A,MD,"PENDERGRASS, SHANE",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,13A,MD House 13A,MD,"TURNER, FRANK S.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,13B,MD House 13B,MD,"GIANNETTI, JOHN A. JR.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,14A,MD House 14A,MD,"FAULKNER, PATRICIA A.",Republican,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,14B,MD House 14B,MD,"FLANAGAN, ROBERT L.",Republican,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,14B,MD House 14B,MD,"KITTLEMAN, ROBERT H.",Republican,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,15,MD House 15,MD,"DASHEFSKY, DAVID B.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,15,MD House 15,MD,"SHRIVER, MARK K.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,15,MD House 15,MD,"CRYOR, JEAN B.",Republican,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,16,MD House 16,MD,"BRONROTT, WILLIAM A.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,16,MD House 16,MD,"GOLDWATER, MARILYN",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,16,MD House 16,MD,"KOPP, NANCY K.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,17,MD House 17,MD,"BARVE, KUMAR P.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,17,MD House 17,MD,"GORDON, MICHAEL R.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,17,MD House 17,MD,"KAGAN, CHERYL C.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,18,MD House 18,MD,"BILLINGS, LEON G.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,18,MD House 18,MD,"GROSFELD, SHARON",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,18,MD House 18,MD,"HURSON, JOHN A.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,19,MD House 19,MD,"HELLER, HENRY B.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,19,MD House 19,MD,"MANDEL, ADRIENNE A.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,19,MD House 19,MD,"PETZOLD, CAROL S.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,20,MD House 20,MD,"FRANCHOT, PETER",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,20,MD House 20,MD,"HIXSON, SHEILA ELLIS",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,20,MD House 20,MD,"DEMBROW, DANA LEE",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,21,MD House 21,MD,"FRUSH, BARBARA A.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,21,MD House 21,MD,"MENES, PAULINE H.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,21,MD House 21,MD,"MOE, BRIAN R.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,23,MD House 23,MD,"CONROY, MARY A.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,23,MD House 23,MD,"HUBBARD, JAMES W.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,23,MD House 23,MD,"PITKIN, JOAN B.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,39,MD House 39,MD,"BARKLEY, CHARLES",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,39,MD House 39,MD,"CARLSON, PAUL",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,STATE REP,39,MD House 39,MD,"STERN, JOAN F.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,1998,H,8,US House VA-08,VA,"MORAN, JAMES P. JR.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,1998,H,10,US House VA-10,VA,"WOLF, FRANK R.",Republican,1,,1,,,0.97
+DC,Washington Post,107050,1998,H,11,US House VA-11,VA,"DAVIS, THOMAS M. III",Republican,1,,1,,,0.97
+DC,Washington Post,107050,1998,CNTY COMM,,Arlington County Board,VA,"ZIMMERMAN, CHRISTOPHER E.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1998,SCHOOL BOARD,,Arlington School Board,VA,"HYNES, MARY H.",,1,,,,,0.93
+DC,Washington Post,107050,1999,STATE REP,32,VA House 32,VA,"BURK, C. B. ""KELLY""",Democrat,1,,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,34,VA House 34,VA,"CALLAHAN, VINCENT F.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,1999,STATE REP,35,VA House 35,VA,"DEVOLITES, JEANNEMARIE A.",Republican,1,,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,36,VA House 36,VA,"PLUM, KENNETH R.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,38,VA House 38,VA,"HULL, ROBERT D.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,38,VA House 38,VA,"SMITH, STEPHEN F.",Republican,1,,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,39,VA House 39,VA,"WATTS, VIVIAN E.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,41,VA House 41,VA,"DILLARD, JAMES H. II",Republican,1,,1,,,0.95
+DC,Washington Post,107050,1999,STATE REP,43,VA House 43,VA,"KEATING, GLADYS B.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,44,VA House 44,VA,"AMUNDSON, KRISTEN J.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,45,VA House 45,VA,"VAN LANDINGHAM, MARIAN",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,47,VA House 47,VA,"ALMAND, JAMES F.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,48,VA House 48,VA,"BRINK, ROBERT H.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,53,VA House 53,VA,"SCOTT, JAMES M.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE REP,67,VA House 67,VA,"MITCHELL, JAMES E. III",Democrat,1,,,,,0.95
+DC,Washington Post,107050,1999,STATE SENATOR,29,VA Senate 29,VA,"COLGAN, CHARLES",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE SENATOR,30,VA Senate 30,VA,"TICER, PATRICIA",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE SENATOR,31,VA Senate 31,VA,"WHIPPLE, MARY MARGARET",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE SENATOR,32,VA Senate 32,VA,"HOWELL, JANET D.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE SENATOR,34,VA Senate 34,VA,"WOODS, JANE H.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,1999,STATE SENATOR,35,VA Senate 35,VA,"SASLAW, RICHARD L.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,1999,STATE SENATOR,36,VA Senate 36,VA,"PULLER, LINDA T. ""TODDY""",Democrat,1,,,,,0.95
+DC,Washington Post,107050,1999,CNTY COMM,,Fairfax County Board Chairman,VA,"HANLEY, KATHERINE K. ""KATE""",Democrat,1,1,,,Countywide Chairman,0.95
+DC,Washington Post,107050,1999,CNTY COMM,,Fairfax County Supervisor - Dranesville,VA,"MENDELSOHN, STU",Republican,1,,,,,0.95
+DC,Washington Post,107050,1999,CNTY COMM,,Fairfax County Supervisor - Hunter Mill,VA,"HUDGINS, CATHY",Democrat,1,,,,,0.95
+DC,Washington Post,107050,1999,CNTY COMM,,Fairfax County Supervisor - Lee,VA,"KAUFFMAN, DANA",Democrat,1,,,,,0.95
+DC,Washington Post,107050,1999,CNTY COMM,,Fairfax County Supervisor - Mason,VA,"GROSS, PENELOPE A. ""PENNY""",Democrat,1,,,,,0.95
+DC,Washington Post,107050,1999,SHERIFF,,Fairfax County Sheriff,VA,"BARRY, STAN",Democrat,1,,,,,0.95
+DC,Washington Post,107050,1999,CNTY COMM,,Arlington County Board,VA,"FERGUSON, PAUL",Democrat,1,,,,,0.95
+DC,Washington Post,107050,1999,CNTY COMM,,Arlington County Board,VA,"LANE, MIKE",Republican,1,,,,,0.95
+DC,Washington Post,107050,2000,PRESIDENT,,US President,DC,"GORE, AL",Democrat,1,,,,Gore-Lieberman ticket,0.98
+DC,Washington Post,107050,2000,H,At-large,DC Delegate,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,Non-voting delegate,0.97
+DC,Washington Post,107050,2000,CITY COUNCIL,At-large,DC Council At-Large,DC,"BRAZIL, HAROLD",Democrat,1,,,,At-Large (pick two),0.96
+DC,Washington Post,107050,2000,CITY COUNCIL,At-large,DC Council At-Large,DC,"SCHWARTZ, CAROL",Republican,1,,,,At-Large (pick two),0.96
+DC,Washington Post,107050,2000,CITY COUNCIL,2,DC Council Ward 2,DC,"EVANS, JACK",Democrat,1,,,,,0.96
+DC,Washington Post,107050,2000,CITY COUNCIL,4,DC Council Ward 4,DC,"FENTY, ADRIAN",Democrat,1,,,,,0.96
+DC,Washington Post,107050,2000,CITY COUNCIL,7,DC Council Ward 7,DC,"CHAVOUS, KEVIN",Democrat,1,,,,,0.96
+DC,Washington Post,107050,2000,SCHOOL BOARD,,DC School Board President,DC,"CHILDS, ROBERT",,1,,,,School Board President,0.93
+DC,Washington Post,107050,2000,SCHOOL BOARD,1,"DC School Board District 1 (Wards 1,2)",DC,"MIKUTA, JULIE",,1,,,,,0.93
+DC,Washington Post,107050,2000,SCHOOL BOARD,2,"DC School Board District 2 (Wards 3,4)",DC,"ALLEN, HUGH",,1,,,,,0.93
+DC,Washington Post,107050,2000,SCHOOL BOARD,3,"DC School Board District 3 (Wards 5,6)",DC,"HENDERSON, KATHY",,1,,,,,0.93
+DC,Washington Post,107050,2000,SCHOOL BOARD,4,"DC School Board District 4 (Wards 7,8)",DC,"LOCKRIDGE, WILLIAM",,1,,,,,0.93
+DC,Washington Post,107050,2000,SENATOR,,US Senate Maryland,MD,"SARBANES, PAUL S.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2000,H,4,US House MD-04,MD,"WYNN, ALBERT R.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2000,H,5,US House MD-05,MD,"HOYER, STENY",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2000,H,8,US House MD-08,MD,"MORELLA, CONNIE",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2000,COURT OF APPEALS,,MD Court of Special Appeals,MD,"KRAUSER, PETER B.",,1,,,,Court of Special Appeals,0.94
+DC,Washington Post,107050,2000,SCHOOL BOARD,At-large,Montgomery School Board At-Large,MD,"COX, SHARON",,1,,,,,0.92
+DC,Washington Post,107050,2000,SCHOOL BOARD,2,Montgomery School Board District 2,MD,"SIGNER, MONA",,1,,,,,0.92
+DC,Washington Post,107050,2000,SCHOOL BOARD,1,PG School Board District 1,MD,"COMO, ANGIE",,1,,,,,0.92
+DC,Washington Post,107050,2000,SCHOOL BOARD,3,PG School Board District 3,MD,"NIEMANN, DOYLE",,1,,,,,0.92
+DC,Washington Post,107050,2000,SCHOOL BOARD,4,PG School Board District 4,MD,"SMITH, CATHERINE A.",,1,,,,,0.92
+DC,Washington Post,107050,2000,SCHOOL BOARD,6,PG School Board District 6,MD,"JOHNSON, KENNETH E.",,1,,,,,0.92
+DC,Washington Post,107050,2000,SCHOOL BOARD,7,PG School Board District 7,MD,"LASLEY, FELICIA",,1,,,,,0.92
+DC,Washington Post,107050,2000,SCHOOL BOARD,9,PG School Board District 9,MD,"SANDERS, MINERVA",,1,,,,,0.92
+DC,Washington Post,107050,2000,COURT OF APPEALS,,MD Court of Appeals,MD,"HARRELL, GLENN T. JR.",,1,,,,Court of Appeals,0.94
+DC,Washington Post,107050,2000,SENATOR,,US Senate Virginia,VA,"ROBB, CHARLES S.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2000,H,8,US House VA-08,VA,"MORAN, JAMES P. JR.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2000,H,10,US House VA-10,VA,"WOLF, FRANK R.",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2000,H,11,US House VA-11,VA,"DAVIS, THOMAS M. III",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2000,CNTY COMM,,Arlington County Board,VA,"FAVOLA, BARBARA A.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2000,SCHOOL BOARD,,Arlington School Board,VA,"GARVEY, LIBBY",,1,,,,School Board (pick 2),0.93
+DC,Washington Post,107050,2000,SCHOOL BOARD,,Arlington School Board,VA,"WILSON, FRANK K.",,1,,,,School Board (pick 2),0.93
+DC,Washington Post,107050,2001,STATE REP,34,VA House 34,VA,"CALLAHAN, VINCENT",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2001,STATE REP,42,VA House 42,VA,"ALBO, DAVID B.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2001,STATE REP,41,VA House 41,VA,"DILLARD, JAMES H.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2001,STATE REP,35,VA House 35,VA,"DEVOLITES, JEANNEMARIE A.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2001,STATE REP,52,VA House 52,VA,"ROLLISON, JACK",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2001,STATE REP,37,VA House 37,VA,"RUST, JOHN",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2001,STATE REP,47,VA House 47,VA,"ALMAND, JAMES F.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2001,STATE REP,44,VA House 44,VA,"AMUNDSON, KRISTEN J.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2001,STATE REP,48,VA House 48,VA,"BRINK, ROBERT H.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2001,STATE REP,49,VA House 49,VA,"DARNER, KAREN",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2001,STATE REP,38,VA House 38,VA,"HULL, ROBERT D.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2001,STATE REP,46,VA House 46,VA,"MORAN, BRIAN",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2001,STATE REP,53,VA House 53,VA,"SCOTT, JAMES M.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2001,STATE REP,39,VA House 39,VA,"WATTS, VIVIAN E.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2001,STATE REP,13,VA House 13,VA,"BROOKS, LOUIS R. JR.",Democrat,1,,1,,Challenger vs incumbent Robert G. Marshall,0.94
+DC,Washington Post,107050,2001,STATE REP,32,VA House 32,VA,"MORRISSEY, PATTI",Democrat,1,,1,,Challenger vs incumbent Richard Black,0.94
+DC,Washington Post,107050,2001,STATE REP,43,VA House 43,VA,"SICKLES, MARK D.",Democrat,1,,1,,Challenger vs incumbent Thomas Bolvin,0.94
+DC,Washington Post,107050,2001,STATE REP,18,VA House 18,VA,"SCHWARTZ, PETER B.",Democrat,1,,,,Open seat,0.94
+DC,Washington Post,107050,2001,STATE REP,31,VA House 31,VA,"KRAUSE, MICHELE ""MICKIE""",Democrat,1,,,,Open seat,0.94
+DC,Washington Post,107050,2001,STATE REP,67,VA House 67,VA,"SCHOENBORN, GAYLA G.",Democrat,1,,,,Open seat,0.94
+DC,Washington Post,107050,2001,STATE REP,86,VA House 86,VA,"RUST, THOMAS DAVIS",Republican,1,,,,Open seat; mayor of Herndon,0.94
+DC,Washington Post,107050,2001,STATE REP,88,VA House 88,VA,"JONES, WILLIAM L. ""BILL""",Democrat,1,,,,Former Spotsylvania County supervisor,0.94
+DC,Washington Post,107050,2001,CNTY COMM,,Arlington County Board,VA,"FISETTE, JAY",Democrat,1,1,,,Chairman,0.95
+DC,Washington Post,107050,2001,GOVERNOR,,Virginia Governor,VA,"WARNER, MARK",Democrat,1,,,,,0.98
+DC,Washington Post,107050,2001,LT GOVERNOR,,Virginia Lt Governor,VA,"KAINE, TIM",Democrat,1,,,,Richmond mayor,0.98
+DC,Washington Post,107050,2001,ATTORNEY GENERAL,,Virginia Attorney General,VA,"MCEACHIN, A. DONALD",Democrat,1,,,,,0.97
+DC,Washington Post,107050,2002,STATE SENATOR,14,MD State Senate 14,MD,"KRAMER, RONA E.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2002,STATE REP,14,MD House 14,MD,"TAYLOR, HERMAN",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,14,MD House 14,MD,"FAULKNER, PATRICIA ANNE",Republican,1,,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,14,MD House 14,MD,"GOLDBERG, JIM",Republican,1,,,,,0.93
+DC,Washington Post,107050,2002,STATE SENATOR,15,MD State Senate 15,MD,"ROESSER, JEAN W.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2002,STATE REP,15,MD House 15,MD,"CRYOR, JEAN B.",Republican,1,,1,,,0.93
+DC,Washington Post,107050,2002,STATE REP,15,MD House 15,MD,"KANE, MARY",Republican,1,,,,,0.93
+DC,Washington Post,107050,2002,STATE SENATOR,16,MD State Senate 16,MD,"FROSH, BRIAN E.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2002,STATE REP,16,MD House 16,MD,"BRONROTT, WILLIAM A.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,16,MD House 16,MD,"GOLDWATER, MARILYN R.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,16,MD House 16,MD,"LEE, SUSAN C.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE SENATOR,17,MD State Senate 17,MD,"FOREHAND, JENNIE M.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2002,STATE REP,17,MD House 17,MD,"BARVE, KUMAR P.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,17,MD House 17,MD,"GORDON, MICHAEL R.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,17,MD House 17,MD,"SIMMONS, LUIZ",Democrat,1,,,,Former delegate,0.93
+DC,Washington Post,107050,2002,STATE SENATOR,19,MD State Senate 19,MD,"TEITELBAUM, LEONARD H.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2002,STATE SENATOR,20,MD State Senate 20,MD,"RUBEN, IDA G.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2002,STATE REP,20,MD House 20,MD,"HIXSON, SHEILA ELLIS",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,20,MD House 20,MD,"FRANCHOT, PETER",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,20,MD House 20,MD,"MURRAY, GARETH E.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,21,MD House 21,MD,"FRUSH, BARBARA A.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,21,MD House 21,MD,"MENES, PAULINE H.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,21,MD House 21,MD,"MOE, BRIAN R.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,22,MD House 22,MD,"GAINES, TAWANNA P.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,22,MD House 22,MD,"HEALEY, ANNE",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,22,MD House 22,MD,"ROSS, JUSTIN D.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2002,STATE SENATOR,23,MD State Senate 23,MD,"GREEN, LEO E.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,23A,MD House 23A,MD,"HUBBARD, JAMES W.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,23A,MD House 23A,MD,"GARDNER, DAY",Republican,1,1,,,Replacing Conroy,0.92
+DC,Washington Post,107050,2002,STATE REP,26,MD House 26,MD,"PATTERSON, OBIE",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,26,MD House 26,MD,"TURNER, VERONICA",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,26,MD House 26,MD,"FISHER, JOANN",Republican,1,,,,,0.93
+DC,Washington Post,107050,2002,STATE SENATOR,27,MD State Senate 27,MD,"MILLER, THOMAS V. MIKE JR.",Democrat,1,1,,,Senate President,0.95
+DC,Washington Post,107050,2002,STATE REP,27A,MD House 27A,MD,"PROCTOR, JAMES E. JR.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE SENATOR,39,MD State Senate 39,MD,"HOGAN, PATRICK J.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2002,STATE REP,39,MD House 39,MD,"BARKLEY, CHARLES",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,39,MD House 39,MD,"STERN, JOAN FRANCES",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2002,STATE REP,39,MD House 39,MD,"SMITH, ROBERT J.",Republican,1,,,,,0.93
+DC,Washington Post,107050,2002,H,At-large,DC Delegate,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,Non-voting delegate,0.97
+DC,Washington Post,107050,2002,MAYOR,,DC Mayor,DC,"WILLIAMS, ANTHONY A.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2002,CITY COUNCIL,,DC Council Chairman,DC,"CROPP, LINDA W.",Democrat,1,1,,,Council Chairman,0.97
+DC,Washington Post,107050,2002,CITY COUNCIL,At-large,DC Council At-Large,DC,"CATANIA, DAVID A.",Republican,1,,1,,,0.96
+DC,Washington Post,107050,2002,CITY COUNCIL,At-large,DC Council At-Large,DC,"MENDELSON, PHIL",Democrat,1,,,,,0.96
+DC,Washington Post,107050,2002,CITY COUNCIL,1,DC Council Ward 1,DC,"GRAHAM, JIM",Democrat,1,1,,,,0.96
+DC,Washington Post,107050,2002,CITY COUNCIL,3,DC Council Ward 3,DC,"PATTERSON, KATHY",Democrat,1,1,,,,0.96
+DC,Washington Post,107050,2002,CITY COUNCIL,5,DC Council Ward 5,DC,"ORANGE, VINCENT B. SR.",Democrat,1,1,,,,0.96
+DC,Washington Post,107050,2002,CITY COUNCIL,6,DC Council Ward 6,DC,"AMBROSE, SHARON",Democrat,1,1,,,,0.96
+DC,Washington Post,107050,2002,SCHOOL BOARD,3,DC Board of Education District 3,DC,"WELLS, TOMMY",,1,,,,Wards 5 and 6,0.93
+DC,Washington Post,107050,2002,SCHOOL BOARD,4,DC Board of Education District 4,DC,"LOCKRIDGE, WILLIAM",,1,,,,Wards 7 and 8,0.93
+DC,Washington Post,107050,2002,GOVERNOR,,Maryland Governor,MD,"TOWNSEND, KATHLEEN KENNEDY",Democrat,1,,,,,0.98
+DC,Washington Post,107050,2002,LT GOVERNOR,,Maryland Lt Governor,MD,"LARSON, CHARLES R.",Democrat,1,,,,,0.97
+DC,Washington Post,107050,2002,ATTORNEY GENERAL,,Maryland Attorney General,MD,"CURRAN, J. JOSEPH JR.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2002,COMPTROLLER,,Maryland Comptroller,MD,"SCHAEFER, WILLIAM DONALD",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2002,H,1,US House MD-01,MD,"GILCHREST, WAYNE T.",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2002,H,4,US House MD-04,MD,"WYNN, ALBERT R.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2002,H,5,US House MD-05,MD,"HOYER, STENY H.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2002,H,8,US House MD-08,MD,"MORELLA, CONSTANCE A.",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2002,MAYOR,,Montgomery County Executive,MD,"DUNCAN, DOUGLAS M.",Democrat,1,1,,,"County Executive, Montgomery",0.96
+DC,Washington Post,107050,2002,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"SILVERMAN, STEVEN A.",Democrat,1,,,,At-Large (four seats),0.94
+DC,Washington Post,107050,2002,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"SUBIN, MICHAEL L.",Democrat,1,,,,At-Large (four seats),0.94
+DC,Washington Post,107050,2002,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"LEVENTHAL, GEORGE L.",Democrat,1,,,,At-Large (four seats),0.94
+DC,Washington Post,107050,2002,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"FLOREEN, NANCY",Democrat,1,,,,At-Large (four seats),0.94
+DC,Washington Post,107050,2002,CNTY COMM,1,Montgomery County Council District 1,MD,"DENIS, HOWARD A.",Republican,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,2,Montgomery County Council District 2,MD,"KNAPP, MIKE",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,3,Montgomery County Council District 3,MD,"ANDREWS, PHILIP",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,4,Montgomery County Council District 4,MD,"PRAISNER, MARILYN J.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,5,Montgomery County Council District 5,MD,"PEREZ, TOM",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,JUDGE,,Montgomery Circuit Court,MD,"BEARD, DELAWRENCE",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2002,JUDGE,,Montgomery Circuit Court,MD,"DEBELIUS, JOHN W. III",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2002,JUDGE,,Montgomery Circuit Court,MD,"DUGAN, JOSEPH A. JR.",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2002,JUDGE,,Montgomery Circuit Court,MD,"JOHNSON, ERIC",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2002,JUDGE,,Montgomery Circuit Court,MD,"ROWAN, WILLIAM J. III",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2002,JUDGE,,Montgomery Circuit Court,MD,"SUNDT, ANN N.",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2002,MAYOR,,Prince George's County Executive,MD,"SCOTT, AUDREY E.",Republican,1,,,,"County Executive, Prince George's",0.95
+DC,Washington Post,107050,2002,CNTY COMM,1,PG County Council District 1,MD,"DERNOGA, THOMAS E.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,2,PG County Council District 2,MD,"SHAPIRO, PETER A.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,3,PG County Council District 3,MD,"HENDERSHOT, THOMAS",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,4,PG County Council District 4,MD,"PETERS, DOUGLAS J.J.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,5,PG County Council District 5,MD,"HARRINGTON, DAVID C.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,6,PG County Council District 6,MD,"DEAN, SAMUEL H.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,7,PG County Council District 7,MD,"EXUM, CAMILLE",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,8,PG County Council District 8,MD,"KNOTTS, TONY",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2002,CNTY COMM,9,PG County Council District 9,MD,"HOWELL, ADRION J.",Democrat,1,,,,Write in,0.93
+DC,Washington Post,107050,2002,DA/PROSECUTOR,,PG State's Attorney,MD,"IVEY, GLENN F.",Democrat,1,,,,State's Attorney,0.95
+DC,Washington Post,107050,2002,SENATOR,,US Senate Virginia,VA,"WARNER, JOHN W.",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2002,H,8,US House VA-08,VA,"TATE, SCOTT C.",Republican,1,,,,,0.96
+DC,Washington Post,107050,2002,H,10,US House VA-10,VA,"WOLF, FRANK R.",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2002,H,11,US House VA-11,VA,"DAVIS, THOMAS M. III",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2002,STATE SENATOR,39,VA State Senate 39,VA,"LYNCH, ROSEMARY",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2002,CNTY COMM,,Arlington County Board,VA,"ZIMMERMAN, CHRIS",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,17,VA State Senate 17,VA,"HOUCK, R. EDWARD ""EDD""",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,27,VA State Senate 27,VA,"POTTS, H. RUSS JR.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,29,VA State Senate 29,VA,"COLGAN, CHARLES J. SR.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,31,VA State Senate 31,VA,"WHIPPLE, MARY MARGARET",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,32,VA State Senate 32,VA,"HOWELL, JANET D.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,34,VA State Senate 34,VA,"DEVOLITES, JEANNEMARIE A.",Republican,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,35,VA State Senate 35,VA,"SASLAW, RICHARD L. ""DICK""",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,36,VA State Senate 36,VA,"PULLER, LINDA T. ""TODDY""",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,37,VA State Senate 37,VA,"MITCHELL, JIM E. III",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE SENATOR,39,VA State Senate 39,VA,"GALLIGAN, GREG J.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,31,VA House 31,VA,"BRICKLEY, DAVID G.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,32,VA House 32,VA,"MORRISSEY, PATTI H.M.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,35,VA House 35,VA,"SHANNON, STEPHEN C.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,37,VA House 37,VA,"PETERSEN, J. CHAPMAN",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,41,VA House 41,VA,"DILLARD, JAMES H. ""JIM"" II",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2003,STATE REP,43,VA House 43,VA,"SICKLES, MARK D.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,44,VA House 44,VA,"AMUNDSON, KRISTEN J.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,45,VA House 45,VA,"VAN LANDINGHAM, MARIAN A.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,47,VA House 47,VA,"EISENBERG, ALBERT C.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,48,VA House 48,VA,"BRINK, ROBERT H.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,52,VA House 52,VA,"TAYLOR, CHARLES F.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,86,VA House 86,VA,"KELLY, JIM G.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2003,STATE REP,88,VA House 88,VA,"FELDBUSH, C. A. ""CHUCK""",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2004,H,10,US House VA-10,VA,"WOLF, FRANK R.",Republican,1,,1,,12th term,0.97
+DC,Washington Post,107050,2004,H,11,US House VA-11,VA,"DAVIS, THOMAS M. III",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2004,H,At-large,DC Delegate,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,Non-voting delegate,0.97
+DC,Washington Post,107050,2004,CITY COUNCIL,At-large,DC Council At-Large,DC,"SCHWARTZ, CAROL",Republican,1,,1,,At-Large,0.96
+DC,Washington Post,107050,2004,CITY COUNCIL,2,DC Council Ward 2,DC,"EVANS, JACK",Democrat,1,1,,,,0.96
+DC,Washington Post,107050,2004,CITY COUNCIL,4,DC Council Ward 4,DC,"FENTY, ADRIAN M.",Democrat,1,1,,,,0.96
+DC,Washington Post,107050,2004,CITY COUNCIL,At-large,DC Council At-Large,DC,"BROWN, KWAME R.",Democrat,1,,,,At-Large (pick two),0.96
+DC,Washington Post,107050,2004,CITY COUNCIL,7,DC Council Ward 7,DC,"GRAY, VINCENT",Democrat,1,,,,,0.96
+DC,Washington Post,107050,2004,SCHOOL BOARD,1,DC Board of Education District 1,DC,"KELLER, KEENAN",,1,,,,Wards 1 and 2,0.93
+DC,Washington Post,107050,2004,SCHOOL BOARD,2,DC Board of Education District 2,DC,"REINOSO, VICTOR",,1,,,,Wards 3 and 4,0.93
+DC,Washington Post,107050,2004,SENATOR,,US Senate Maryland,MD,"MIKULSKI, BARBARA A.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2004,H,4,US House MD-04,MD,"WYNN, ALBERT R.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2004,H,5,US House MD-05,MD,"HOYER, STENY H.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2004,H,8,US House MD-08,MD,"VAN HOLLEN, CHRIS",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2004,PRESIDENT,,US President,DC,"KERRY, JOHN",Democrat,1,,,,Kerry-Edwards ticket,0.98
+DC,Washington Post,107050,2004,SCHOOL BOARD,At-large,Montgomery School Board At-Large,MD,"COX, SHARON W.",,1,,,,,0.92
+DC,Washington Post,107050,2004,SCHOOL BOARD,2,Montgomery School Board District 2,MD,"ABRAMS, STEPHEN N.",,1,,,,,0.92
+DC,Washington Post,107050,2004,SCHOOL BOARD,4,Montgomery School Board District 4,MD,"FISHMAN, SHELDON",,1,,,,,0.92
+DC,Washington Post,107050,2004,JUDGE,,Montgomery Circuit Court,MD,"BERNARD, MARIELSA A.",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2004,JUDGE,,Montgomery Circuit Court,MD,"BOYNTON, DAVID A.",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2004,JUDGE,,Montgomery Circuit Court,MD,"MCHUGH, DENNIS MICHAEL",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2004,JUDGE,,Montgomery Circuit Court,MD,"SAVAGE, KATHERINE",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2004,JUDGE,,Anne Arundel Circuit Court,MD,"BRUCE, DAVID S.",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2004,JUDGE,,Anne Arundel Circuit Court,MD,"JAKLITSCH, MICHELE D.",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2004,JUDGE,,Anne Arundel Circuit Court,MD,"WARREN, RODNEY C.",,1,,,,Circuit Judge,0.92
+DC,Washington Post,107050,2004,CNTY COMM,,Arlington County Board Chairman,VA,"FAVOLA, BARBARA A.",Democrat,1,,,,County Board Chairman,0.95
+DC,Washington Post,107050,2004,SCHOOL BOARD,,Arlington School Board,VA,"GARVEY, E.T. ""LIBBY""",,1,,,,,0.93
+DC,Washington Post,107050,2004,SCHOOL BOARD,,Arlington School Board,VA,"WILSON, FRANK K.",,1,,,,,0.93
+DC,Washington Post,107050,2005,GOVERNOR,,Virginia Governor,VA,"KAINE, TIMOTHY M.",Democrat,1,,,,Lt Governor,0.98
+DC,Washington Post,107050,2005,LT GOVERNOR,,Virginia Lt Governor,VA,"BYRNE, LESLIE L.",Democrat,1,,,,"Former state delegate, state senator, congresswoman",0.97
+DC,Washington Post,107050,2005,ATTORNEY GENERAL,,Virginia Attorney General,VA,"DEEDS, R. CREIGH",Democrat,1,,,,State Senator Bath County,0.97
+DC,Washington Post,107050,2005,STATE REP,13,VA House 13,VA,"ROEMMELT, BRUCE E.",Democrat,1,,1,,Challenger vs. incumbent Robert G. Marshall,0.95
+DC,Washington Post,107050,2005,STATE REP,32,VA House 32,VA,"POISSON, DAVID E.",Democrat,1,,1,,Challenger vs. incumbent Richard H. Black,0.95
+DC,Washington Post,107050,2005,STATE REP,35,VA House 35,VA,"SHANNON, STEPHEN C.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2005,STATE REP,36,VA House 36,VA,"PLUM, KENNETH R.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2005,STATE REP,37,VA House 37,VA,"MASON, JOHN",Republican,1,,,,,0.95
+DC,Washington Post,107050,2005,STATE REP,38,VA House 38,VA,"HULL, ROBERT D.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2005,STATE REP,39,VA House 39,VA,"WATTS, VIVIAN E.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2005,STATE REP,41,VA House 41,VA,"MARSDEN, DAVE W.",Democrat,1,,,,Open seat - retirement of James H. Dillard II,0.95
+DC,Washington Post,107050,2005,STATE REP,42,VA House 42,VA,"WERKHEISER, GREGORY A.",Democrat,1,,1,,Challenger vs. incumbent David B. Albo,0.95
+DC,Washington Post,107050,2005,STATE REP,43,VA House 43,VA,"SICKLES, MARK D.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2005,STATE REP,44,VA House 44,VA,"AMUNDSON, KRISTEN J.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2005,STATE REP,45,VA House 45,VA,"ENGLIN, DAVID L.",Democrat,1,,,,Open seat - Van Landingham retiring,0.95
+DC,Washington Post,107050,2005,STATE REP,46,VA House 46,VA,"MORAN, BRIAN J.",Democrat,1,1,,,Democratic caucus leader,0.95
+DC,Washington Post,107050,2005,STATE REP,50,VA House 50,VA,"PARRISH, HARRY J.",Republican,1,,1,,Chairs House Finance Committee,0.95
+DC,Washington Post,107050,2005,STATE REP,51,VA House 51,VA,"PORTA, EARNEST W. JR.",Democrat,1,,1,,Challenger vs. incumbent Michele B. McQuigg,0.95
+DC,Washington Post,107050,2005,STATE REP,52,VA House 52,VA,"BARG, HILDA M.",Democrat,1,,1,,Challenger vs. incumbent Jeffrey M. Frederick,0.95
+DC,Washington Post,107050,2005,STATE REP,67,VA House 67,VA,"CAPUTO, C. CHUCK",Democrat,1,,,,Open seat,0.95
+DC,Washington Post,107050,2005,STATE REP,88,VA House 88,VA,"FELDBUSH, C.A. ""CHUCK""",Democrat,1,,1,,Challenger vs. incumbent Mark L. Cole,0.95
+DC,Washington Post,107050,2005,SCHOOL BOARD,,Arlington School Board,VA,"FENDLEY, ED",,1,,,,,0.93
+DC,Washington Post,107050,2006,MAYOR,,DC Mayor,DC,"FENTY, ADRIAN M.",Democrat,1,,,,,0.97
+DC,Washington Post,107050,2006,H,At-large,DC Delegate,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,Non-voting delegate,0.97
+DC,Washington Post,107050,2006,CITY COUNCIL,,DC Council Chairman,DC,"GRAY, VINCENT C.",Democrat,1,,,,Council Chairman,0.96
+DC,Washington Post,107050,2006,CITY COUNCIL,At-large,DC Council At-Large,DC,"MENDELSON, PHIL",Democrat,1,1,,,At-Large (two seats),0.96
+DC,Washington Post,107050,2006,CITY COUNCIL,At-large,DC Council At-Large,DC,"CATANIA, DAVID A.",Independent,1,,,1,At-Large (two seats),0.96
+DC,Washington Post,107050,2006,CITY COUNCIL,1,DC Council Ward 1,DC,"GRAHAM, JIM",Democrat,1,1,,,,0.96
+DC,Washington Post,107050,2006,CITY COUNCIL,3,DC Council Ward 3,DC,"CHEH, MARY",Democrat,1,,,,,0.96
+DC,Washington Post,107050,2006,CITY COUNCIL,5,DC Council Ward 5,DC,"THOMAS, HARRY ""TOMMY"" JR.",Democrat,1,,,,,0.96
+DC,Washington Post,107050,2006,CITY COUNCIL,6,DC Council Ward 6,DC,"WELLS, TOMMY",Democrat,1,,,,,0.96
+DC,Washington Post,107050,2006,SCHOOL BOARD,,DC School Board President,DC,"BOBB, ROBERT C.",,1,,,,School Board President,0.93
+DC,Washington Post,107050,2006,SCHOOL BOARD,3,DC School Board District 3,DC,"RAYMOND, LISA",,1,,,,Wards 5 and 6,0.93
+DC,Washington Post,107050,2006,SCHOOL BOARD,4,DC School Board District 4,DC,"LOCKRIDGE, WILLIAM",,1,,,,Wards 7 and 8,0.93
+DC,Washington Post,107050,2006,SENATOR,,US Senate Maryland,MD,"CARDIN, BENJAMIN L.",Democrat,1,,,,,0.97
+DC,Washington Post,107050,2006,GOVERNOR,,Maryland Governor,MD,"EHRLICH, ROBERT L. JR.",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2006,COMPTROLLER,,Maryland Comptroller,MD,"FRANCHOT, PETER V.R.",Democrat,1,,,,,0.97
+DC,Washington Post,107050,2006,ATTORNEY GENERAL,,Maryland Attorney General,MD,"GANSLER, DOUGLAS F.",Democrat,1,,,,,0.97
+DC,Washington Post,107050,2006,H,4,US House MD-04,MD,"WYNN, ALBERT R.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2006,H,5,US House MD-05,MD,"HOYER, STENY H.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2006,H,8,US House MD-08,MD,"VAN HOLLEN, CHRIS",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2006,MAYOR,,Montgomery County Executive,MD,"LEGGETT, ISIAH ""IKE""",Democrat,1,,,,"County Executive, Montgomery",0.96
+DC,Washington Post,107050,2006,DA/PROSECUTOR,,Montgomery State's Attorney,MD,"MCCARTHY, JOHN",Democrat,1,,,,State's Attorney,0.95
+DC,Washington Post,107050,2006,CNTY CLERK,,Montgomery Circuit Court Clerk,MD,"KNIGHT, LORETTA E.",Democrat,1,,,,Circuit Court Clerk,0.93
+DC,Washington Post,107050,2006,SHERIFF,,Montgomery Sheriff,MD,"KIGHT, RAYMOND M.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2006,RECORDER,,Montgomery Register of Wills,MD,"GRIFFIN, JOSEPH M.",Democrat,1,,,,Register of wills,0.93
+DC,Washington Post,107050,2006,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"FLOREEN, NANCY",Democrat,1,,,,At large (four seats),0.94
+DC,Washington Post,107050,2006,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"LEVENTHAL, GEORGE L.",Democrat,1,,,,At large (four seats),0.94
+DC,Washington Post,107050,2006,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"TRACHTENBERG, DUCHY",Democrat,1,,,,At large (four seats),0.94
+DC,Washington Post,107050,2006,CNTY COMM,At-large,Montgomery County Council At-Large,MD,"ABRAMS, STEVE",Republican,1,,,,At large (four seats),0.94
+DC,Washington Post,107050,2006,CNTY COMM,1,Montgomery County Council District 1,MD,"DENIS, HOWARD A.",Republican,1,,,,,0.94
+DC,Washington Post,107050,2006,CNTY COMM,2,Montgomery County Council District 2,MD,"KNAPP, MICHAEL",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,CNTY COMM,3,Montgomery County Council District 3,MD,"ANDREWS, PHIL",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,CNTY COMM,4,Montgomery County Council District 4,MD,"PRAISNER, MARILYN J.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,CNTY COMM,5,Montgomery County Council District 5,MD,"ERVIN, VALERIE",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,SCHOOL BOARD,At-large,Montgomery Board of Education At-Large,MD,"BRANDMAN, SHIRLEY",,1,,,,,0.92
+DC,Washington Post,107050,2006,SCHOOL BOARD,1,Montgomery Board of Education District 1,MD,"DOCCA, JUDY",,1,,,,,0.92
+DC,Washington Post,107050,2006,SCHOOL BOARD,5,Montgomery Board of Education District 5,MD,"KAUFFMAN, PHIL",,1,,,,,0.92
+DC,Washington Post,107050,2006,STATE SENATOR,14,MD State Senate 14,MD,"KRAMER, RONA E.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,STATE SENATOR,15,MD State Senate 15,MD,"GARAGIOLA, ROBERT J.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,STATE SENATOR,16,MD State Senate 16,MD,"FROSH, BRIAN E.",Democrat,1,1,,,,0.94
+DC,Washington Post,107050,2006,STATE SENATOR,18,MD State Senate 18,MD,"MADALENO, RICHARD S. JR.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,STATE SENATOR,19,MD State Senate 19,MD,"LENETT, MIKE",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,STATE REP,14,MD House 14,MD,"KAISER, ANNE R.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,14,MD House 14,MD,"MONTGOMERY, KAREN S.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,14,MD House 14,MD,"TAYLOR, HERMAN L. II",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,15,MD House 15,MD,"CRYOR, JEAN B.",Republican,1,,1,,,0.93
+DC,Washington Post,107050,2006,STATE REP,15,MD House 15,MD,"DUMAIS, KATHLEEN M.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,15,MD House 15,MD,"FELDMAN, BRYAN J.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,16,MD House 16,MD,"BRONROTT, WILLIAM A.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,16,MD House 16,MD,"LEE, SUSAN C.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,16,MD House 16,MD,"GOLDWATER, MARILYN R.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,17,MD House 17,MD,"BARVE, KUMAR P.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,17,MD House 17,MD,"SIMMONS, LUIZ R.S.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,17,MD House 17,MD,"GILCHRIST, JIM",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,18,MD House 18,MD,"LAWTON, JANE",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,18,MD House 18,MD,"WALDSTREICHER, JEFF",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,18,MD House 18,MD,"GUTIERREZ, ANA SOL",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,19,MD House 19,MD,"HELLER, HENRY B.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,19,MD House 19,MD,"KRAMER, BENJAMIN F.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,19,MD House 19,MD,"MANNO, ROGER",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,20,MD House 20,MD,"HIXSON, SHEILA E.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,20,MD House 20,MD,"MIZEUR, HEATHER R.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,20,MD House 20,MD,"HUCKER, TOM",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,39,MD House 39,MD,"BARKLEY, CHARLES E.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,39,MD House 39,MD,"KING, NANCY J.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,39,MD House 39,MD,"ALI, SAQIB",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,CNTY COMM,3,PG County Council District 3,MD,"OLSON, ERIC C.",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,CNTY COMM,5,PG County Council District 5,MD,"HARRINGTON, DAVID",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,SCHOOL BOARD,At-large,PG Board of Education At-Large,MD,"BECK, DONNA HATHAWAY",,1,,,,At large (four seats),0.92
+DC,Washington Post,107050,2006,SCHOOL BOARD,At-large,PG Board of Education At-Large,MD,"JACOBS, JEANA",,1,,,,At large (four seats),0.92
+DC,Washington Post,107050,2006,SCHOOL BOARD,At-large,PG Board of Education At-Large,MD,"THOMAS, NATE",,1,,,,At large (four seats),0.92
+DC,Washington Post,107050,2006,SCHOOL BOARD,At-large,PG Board of Education At-Large,MD,"WATSON, RON",,1,,,,At large (four seats),0.92
+DC,Washington Post,107050,2006,SCHOOL BOARD,1,PG Board of Education District 1,MD,"JOHNSON, ROSALIND",,1,,,,,0.92
+DC,Washington Post,107050,2006,SCHOOL BOARD,2,PG Board of Education District 2,MD,"ILIFF, HEATHER",,1,,,,,0.92
+DC,Washington Post,107050,2006,SCHOOL BOARD,3,PG Board of Education District 3,MD,"MICKENS-MURRAY, JUDY",,1,,,,Write-in,0.91
+DC,Washington Post,107050,2006,SCHOOL BOARD,4,PG Board of Education District 4,MD,"MORRIS, STEVEN",,1,,,,,0.92
+DC,Washington Post,107050,2006,SCHOOL BOARD,5,PG Board of Education District 5,MD,"JOHNSON, OWEN JR.",,1,,,,,0.92
+DC,Washington Post,107050,2006,STATE SENATOR,21,MD State Senate 21,MD,"ROSAPEPE, JIM",Democrat,1,,,,,0.94
+DC,Washington Post,107050,2006,STATE REP,21,MD House 21,MD,"FRUSH, BARBARA A.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,21,MD House 21,MD,"PENA-MELNYK, JOSELINE",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,21,MD House 21,MD,"BARNES, BEN",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,23A,MD House 23A,MD,"HUBBARD, JAMES W.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,23A,MD House 23A,MD,"LEVI, GERRON",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,25,MD House 25,MD,"GRIFFITH, MELONY G.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,25,MD House 25,MD,"DAVIS, DERECK E.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,25,MD House 25,MD,"BRAVEBOY, AISHA N.",Democrat,1,,,,,0.93
+DC,Washington Post,107050,2006,STATE REP,27A,MD House 27A,MD,"PROCTOR, JAMES E. JR.",Democrat,1,1,,,,0.93
+DC,Washington Post,107050,2006,MAYOR,,Anne Arundel County Executive,MD,"LEOPOLD, JOHN R.",Republican,1,,,,"County Executive, Anne Arundel",0.95
+DC,Washington Post,107050,2006,MAYOR,,Howard County Executive,MD,"MERDON, CHRISTOPHER J.",Republican,1,,,,"County Executive, Howard",0.95
+DC,Washington Post,107050,2006,SENATOR,,US Senate Virginia,VA,"WEBB, JAMES",Democrat,1,,,,Challenger vs incumbent George Allen,0.97
+DC,Washington Post,107050,2006,H,8,US House VA-08,VA,"MORAN, JAMES P. JR.",Democrat,1,1,,,,0.97
+DC,Washington Post,107050,2006,H,10,US House VA-10,VA,"WOLF, FRANK R.",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2006,H,11,US House VA-11,VA,"DAVIS, THOMAS M. III",Republican,1,,1,,,0.97
+DC,Washington Post,107050,2006,STATE REP,50,VA House 50,VA,"RISHELL, JEANETTE",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2006,CNTY COMM,,Prince William County Board of Supervisors Chairman,VA,"PANDAK, SHARON E.",Democrat,1,,,,Chairman,0.95
+DC,Washington Post,107050,2006,CNTY COMM,,Arlington County Board,VA,"ZIMMERMAN, CHRIS",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2006,SCHOOL BOARD,,Arlington School Board,VA,"ESPENOZA, CECELIA M.",,1,,,,,0.93
+DC,Washington Post,107050,2007,STATE SENATOR,27,,VA,"VOGEL, JILL HOLTZMAN",Republican,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE SENATOR,28,,VA,"POLLARD, ALBERT C. JR.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE SENATOR,29,,VA,"COLGAN, CHARLES J.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE SENATOR,31,,VA,"WHIPPLE, MARY MARGARET",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE SENATOR,33,,VA,"HERRING, MARK R.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE SENATOR,34,,VA,"DAVIS, JEANNEMARIE DEVOLITES",Republican,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE SENATOR,35,,VA,"SASLAW, RICHARD L.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE SENATOR,39,,VA,"BARKER, GEORGE L.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,13,,VA,"ROEMMELT, BRUCE E.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,31,,VA,"DAY, BILL S. JR.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,32,,VA,"POISSON, DAVID E.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,33,,VA,"MAY, JOE T.",Republican,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,34,,VA,"VANDERHYE, MARGARET G.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,35,,VA,"SHANNON, STEPHEN C.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,39,,VA,"WATTS, VIVIAN E.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,40,,VA,"SIMMONS, REX A.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,45,,VA,"ENGLIN, DAVID L.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,49,,VA,"EBBIN, ADAM P.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,50,,VA,"RISHELL, JEANETTE M.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,51,,VA,"NICHOLS, PAUL F.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,52,,VA,"BROWN, CHRISTOPHER K.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,67,,VA,"CAPUTO, C. CHARLES",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,86,,VA,"RUST, THOMAS DAVIS",Republican,1,,,,,0.95
+DC,Washington Post,107050,2007,STATE REP,88,,VA,"DEL TORO, CARLOS",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2007,SHERIFF,,Arlington,VA,"ARTHUR, ELIZABETH F. ""BETH""",,1,,,,Arlington County,0.9
+DC,Washington Post,107050,2007,CNTY COMM,,Arlington,VA,"MCMENAMIN, MICHAEL T.",Republican,1,,,,"Arlington County Board, two seats",0.9
+DC,Washington Post,107050,2007,CNTY COMM,,Arlington,VA,"TEJADA, J. WALTER",Democrat,1,,,,"Arlington County Board, two seats",0.9
+DC,Washington Post,107050,2007,CNTY COMM,Chairman,Fairfax,VA,"CONNOLLY, GERALD E.",Democrat,1,,,,Fairfax Board of Supervisors Chairman,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Braddock,Fairfax,VA,"BULOVA, SHARON S.",Democrat,1,,,,Fairfax BOS Braddock,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Dranesville,Fairfax,VA,"DUBOIS, JOAN M.",Republican,1,,,,Fairfax BOS Dranesville,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Hunter Mill,Fairfax,VA,"HUDGINS, CATHERINE M.",Democrat,1,,,,Fairfax BOS Hunter Mill,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Lee,Fairfax,VA,"MCKAY, JEFF C.",Democrat,1,,,,Fairfax BOS Lee,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Mason,Fairfax,VA,"GROSS, PENELOPE A. ""PENNY""",Democrat,1,,,,Fairfax BOS Mason,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Mt. Vernon,Fairfax,VA,"HYLAND, GERALD W. ""GERRY""",Democrat,1,,,,Fairfax BOS Mt. Vernon,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Springfield,Fairfax,VA,"MCCLANAHAN, P. MIKE",Democrat,1,,,,Fairfax BOS Springfield,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Sully,Fairfax,VA,"FREY, MICHAEL R.",Republican,1,,,,Fairfax BOS Sully,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,At-large,Fairfax,VA,"MOON, ILRYONG",,1,,,,"Fairfax School Board at-large, 3 seats",0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,At-large,Fairfax,VA,"BRAUNLICH, CHRISTIAN N.",,1,,,,"Fairfax School Board at-large, 3 seats",0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,At-large,Fairfax,VA,"COOPER, RALPH M. JR.",,1,,,,"Fairfax School Board at-large, 3 seats",0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Braddock,Fairfax,VA,"WILSON, JUDITH T. ""TESSIE""",,1,,,,,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Hunter Mill,Fairfax,VA,"GIBSON, STUART D.",,1,,,,,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Springfield,Fairfax,VA,"BRADSHER, ELIZABETH T. ""LIZ""",,1,,,,,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Sully,Fairfax,VA,"SMITH, KATHY L.",,1,,,,,0.9
+DC,Washington Post,107050,2007,DA/PROSECUTOR,,Fairfax,VA,"MORROGH, RAYMOND F.",Democrat,1,,,,Fairfax Commonwealth's Attorney,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Chairman,Loudoun,VA,"YORK, SCOTT K.",Independent,1,,,,Loudoun BOS Chairman,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Blue Ridge,Loudoun,VA,"BURTON, JIM G.",Independent,1,,,,Loudoun BOS Blue Ridge,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Broad Run,Loudoun,VA,"WATERS, LORI L.",Republican,1,,,,Loudoun BOS Broad Run,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Catoctin,Loudoun,VA,"HIGGINS, GEARY M.",Republican,1,,,,Loudoun BOS Catoctin,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Dulles,Loudoun,VA,"MILLER, STEVENS R.",Democrat,1,,,,Loudoun BOS Dulles,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Leesburg,Loudoun,VA,"BURK, C. KELLY",Democrat,1,,,,Loudoun BOS Leesburg,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Potomac,Loudoun,VA,"MCGIMSEY, ANDREA C.",Democrat,1,,,,Loudoun BOS Potomac,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Sterling,Loudoun,VA,"WEST, JEANNE R.",Democrat,1,,,,Loudoun BOS Sterling,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Sugarland Run,Loudoun,VA,"BUCKLEY, SUSAN KLIMEK",Democrat,1,,,,Loudoun BOS Sugarland Run,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,At-large,Loudoun,VA,"REED, THOMAS E. ""TOM""",,1,,,,Loudoun School Board,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Blue Ridge,Loudoun,VA,"GODFREY, PRISCILLA B.",,1,,,,Loudoun School Board,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Broad Run,Loudoun,VA,"GREASON, THOMAS A. ""TAG""",,1,,,,Loudoun School Board,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Catoctin,Loudoun,VA,"BERGEL, JENNIFER",,1,,,,Loudoun School Board,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Dulles,Loudoun,VA,"DUPREE, ROBERT JR.",,1,,,,Loudoun School Board,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Sugarland,Loudoun,VA,"GUZMAN, JOSEPH M.",,1,,,,Loudoun School Board,0.9
+DC,Washington Post,107050,2007,SHERIFF,,Loudoun,VA,"SIMPSON, STEVE O.",Independent,1,,,,Loudoun County Sheriff,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Chairman,Prince William,VA,"PANDAK, SHARON E.",Democrat,1,,,,Prince William BOS Chairman,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Gainesville,Prince William,VA,"RILEY, COREY R.",Democrat,1,,,,Prince William BOS Gainesville,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Occoquan,Prince William,VA,"GRAY, JOHN S.",Independent,1,,,,Prince William BOS Occoquan,0.9
+DC,Washington Post,107050,2007,CNTY COMM,Woodbridge,Prince William,VA,"PRINCIPI, FRANK J.",Democrat,1,,,,Prince William BOS Woodbridge,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Neabsco,Prince William,VA,"LUCAS, JULIE C.",,1,,,,Prince William School Board,0.9
+DC,Washington Post,107050,2007,SCHOOL BOARD,Brentsville,Prince William,VA,"ARNAIZ, D.R. ""DESI""",,1,,,,Prince William School Board,0.9
+DC,Washington Post,107050,2007,SHERIFF,,Prince William,VA,"HILL, GLEN",Republican,1,,,,Prince William County Sheriff,0.9
+DC,Washington Post,107050,2008,PRESIDENT,,,DC,"OBAMA, BARACK",Democrat,1,,,,Obama-Biden ticket,0.98
+DC,Washington Post,107050,2008,H,At-large,,DC,"NORTON, ELEANOR HOLMES",Democrat,1,,,,DC Delegate,0.95
+DC,Washington Post,107050,2008,CITY COUNCIL,At-large,,DC,"BROWN, KWAME R.",Democrat,1,,,,"DC Council at-large, 2 seats",0.95
+DC,Washington Post,107050,2008,CITY COUNCIL,At-large,,DC,"MARA, PATRICK",Republican,1,,,,"DC Council at-large, 2 seats",0.95
+DC,Washington Post,107050,2008,CITY COUNCIL,2,,DC,"EVANS, JACK",Democrat,1,,,,DC Council Ward 2,0.95
+DC,Washington Post,107050,2008,CITY COUNCIL,4,,DC,"BOWSER, MURIEL",Democrat,1,,,,DC Council Ward 4,0.95
+DC,Washington Post,107050,2008,CITY COUNCIL,7,,DC,"ALEXANDER, YVETTE M.",Democrat,1,,,,DC Council Ward 7,0.95
+DC,Washington Post,107050,2008,STATE BOARD OF ED,At-large,,DC,"TRABUE, TED",,1,,,,DC State Board of Education,0.9
+DC,Washington Post,107050,2008,STATE BOARD OF ED,1,,DC,"PERDOMO, LILLIAN",,1,,,,DC State Board of Education Ward 1,0.9
+DC,Washington Post,107050,2008,STATE BOARD OF ED,2,,DC,"LORD, MARY",,1,,,,DC State Board of Education Ward 2,0.9
+DC,Washington Post,107050,2008,STATE BOARD OF ED,3,,DC,"SLOVER, LAURA MCGIFFERT",,1,,,,DC State Board of Education Ward 3,0.9
+DC,Washington Post,107050,2008,STATE BOARD OF ED,4,,DC,"BIDDLE, SEKOU",,1,,,,DC State Board of Education Ward 4,0.9
+DC,Washington Post,107050,2008,STATE BOARD OF ED,5,,DC,"JONES, MARK",,1,,,,DC State Board of Education Ward 5,0.9
+DC,Washington Post,107050,2008,STATE BOARD OF ED,6,,DC,"RAYMOND, LISA",,1,,,,DC State Board of Education Ward 6,0.9
+DC,Washington Post,107050,2008,STATE BOARD OF ED,7,,DC,"POLES, CAMERON C.",,1,,,,DC State Board of Education Ward 7,0.9
+DC,Washington Post,107050,2008,STATE BOARD OF ED,8,,DC,"LOCKRIDGE, WILLIAM",,1,,,,DC State Board of Education Ward 8,0.9
+DC,Washington Post,107050,2008,H,1,,MD,"KRATOVIL, FRANK M. JR.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2008,H,4,,MD,"EDWARDS, DONNA",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2008,H,5,,MD,"HOYER, STENY H.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2008,H,8,,MD,"VAN HOLLEN, CHRIS",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2008,SCHOOL BOARD,At-large,Montgomery,MD,"KAUFFMAN, PHIL",,1,,,,Montgomery County School Board,0.9
+DC,Washington Post,107050,2008,SCHOOL BOARD,2,Montgomery,MD,"ABRAMS, STEPHEN N.",,1,,,,Montgomery County School Board Rockville-Potomac,0.9
+DC,Washington Post,107050,2008,SCHOOL BOARD,4,Montgomery,MD,"BARCLAY, CHRISTOPHER S.",,1,,,,Montgomery County School Board Silver Spring,0.9
+DC,Washington Post,107050,2008,JUDGE,6,Montgomery,MD,"MCCORMICK, MARY BETH",,1,,,,"Montgomery Circuit Court 6, two seats",0.9
+DC,Washington Post,107050,2008,JUDGE,6,Montgomery,MD,"GREENBERG, ROBERT A.",,1,,,,"Montgomery Circuit Court 6, two seats",0.9
+DC,Washington Post,107050,2008,SCHOOL BOARD,At-large,Prince George's,MD,"WALLER, AMBER",,1,,,,Prince George's School Board at-large,0.9
+DC,Washington Post,107050,2008,JUDGE,7,Prince George's,MD,"CHAPDELAINE, ANDRE M.",,1,,,,"Prince George's Circuit Court 7, five seats",0.9
+DC,Washington Post,107050,2008,JUDGE,7,Prince George's,MD,"MARTIN, LARNZELL JR.",,1,,,,"Prince George's Circuit Court 7, five seats",0.9
+DC,Washington Post,107050,2008,JUDGE,7,Prince George's,MD,"MITTELSTAEDT, CRYSTAL D.",,1,,,,"Prince George's Circuit Court 7, five seats",0.9
+DC,Washington Post,107050,2008,JUDGE,7,Prince George's,MD,"NORTHROP, ALBERT W.",,1,,,,"Prince George's Circuit Court 7, five seats",0.9
+DC,Washington Post,107050,2008,JUDGE,7,Prince George's,MD,"RATTAL, NICHOLAS E.",,1,,,,"Prince George's Circuit Court 7, five seats",0.9
+DC,Washington Post,107050,2008,COURT OF APPEALS,,,MD,"EYLER, DEBORAH",,1,,,,MD Court of Special Appeals continuance,0.85
+DC,Washington Post,107050,2008,COURT OF APPEALS,,,MD,"ZARNOCH, ROBERT A.",,1,,,,MD Court of Special Appeals continuance,0.85
+DC,Washington Post,107050,2008,SENATOR,,,VA,"WARNER, MARK R.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2008,H,8,,VA,"MORAN, JAMES P. JR.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2008,H,10,,VA,"WOLF, FRANK R.",Republican,1,,,,,0.95
+DC,Washington Post,107050,2008,H,11,,VA,"CONNOLLY, GERALD E.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2008,CNTY COMM,,Arlington,VA,"FAVOLA, BARBARA A.",Democrat,1,,,,Arlington County Board,0.9
+DC,Washington Post,107050,2008,SCHOOL BOARD,,Arlington,VA,"GARVEY, LIBBY T.",,1,,,,"Arlington School Board, two seats",0.9
+DC,Washington Post,107050,2008,SCHOOL BOARD,,Arlington,VA,"VIOLAND-SANCHEZ, EMMA N.",,1,,,,"Arlington School Board, two seats",0.9
+DC,Washington Post,107050,2009,GOVERNOR,,,VA,"DEEDS, R. CREIGH",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2009,LT GOVERNOR,,,VA,"WAGNER, JODY",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2009,ATTORNEY GENERAL,,,VA,"SHANNON, STEPHEN C.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,13,,VA,"BELL, JOHN",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,32,,VA,"POISSON, DAVID E.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,34,,VA,"VANDERHYE, MARGARET G.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,35,,VA,"KEAM, MARK L.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,36,,VA,"PLUM, KENNETH R.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,37,,VA,"BULOVA, DAVID L.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,38,,VA,"SMITH, DANNY R.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,39,,VA,"WATTS, VIVIAN E.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,40,,VA,"CONRAD, SUSAN S.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,41,,VA,"MARSDEN, DAVID W.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,42,,VA,"WERKHEISER, GREGORY A.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,43,,VA,"SICKLES, MARK D.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,44,,VA,"SUROVELL, SCOTT",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,45,,VA,"ENGLIN, DAVID L.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,46,,VA,"HERRING, CHARNIELE L.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,47,,VA,"BRESCIA, ERIC",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,48,,VA,"RINGEL, AARON",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,50,,VA,"RISHELL, JEANETTE M.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,51,,VA,"NICHOLS, PAUL F.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,52,,VA,"TORIAN, LUKE",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,53,,VA,"SCOTT, JAMES M.",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,67,,VA,"CAPUTO, CHUCK",,1,,,,,0.9
+DC,Washington Post,107050,2009,STATE REP,86,,VA,"RUST, THOMAS D.",,1,,,,,0.9
+DC,Washington Post,107050,2009,SCHOOL BOARD,Providence,Fairfax,VA,"JENNISON, JOHN N.",,1,,,,Fairfax School Board Providence District,0.9
+DC,Washington Post,107050,2009,CNTY COMM,,Arlington,VA,"FISETTE, JAY",,1,,,,Arlington County Board,0.9
+DC,Washington Post,107050,2010,H,At-large,,DC,"NORTON, ELEANOR HOLMES",Democrat,1,,,,DC Delegate,0.95
+DC,Washington Post,107050,2010,STATE BOARD OF ED,1,,DC,"MARA, PATRICK",,1,,,,DC State Board of Education Ward 1,0.9
+DC,Washington Post,107050,2010,STATE BOARD OF ED,5,,DC,"JONES, MARK",,1,,,,DC State Board of Education Ward 5,0.9
+DC,Washington Post,107050,2010,STATE BOARD OF ED,6,,DC,"WARREN-JONES, MONICA",,1,,,,DC State Board of Education Ward 6,0.9
+DC,Washington Post,107050,2010,CITY COUNCIL,1,,DC,"GRAHAM, JIM",Democrat,1,,,,DC Council Ward 1,0.95
+DC,Washington Post,107050,2010,CITY COUNCIL,3,,DC,"HEDGEPETH, DAVE",Republican,1,,,,DC Council Ward 3,0.95
+DC,Washington Post,107050,2010,CITY COUNCIL,5,,DC,"DAY, TIM",Republican,1,,,,DC Council Ward 5,0.95
+DC,Washington Post,107050,2010,CITY COUNCIL,6,,DC,"WELLS, TOMMY",Democrat,1,,,,DC Council Ward 6,0.95
+DC,Washington Post,107050,2010,CITY COUNCIL,At-large,,DC,"CATANIA, DAVID A.",Independent,1,,,,DC Council at-large,0.95
+DC,Washington Post,107050,2010,GOVERNOR,,,MD,"O'MALLEY, MARTIN",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2010,COMPTROLLER,,,MD,"FRANCHOT, PETER",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2010,SENATOR,,,MD,"MIKULSKI, BARBARA A.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2010,H,4,,MD,"EDWARDS, DONNA F.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2010,H,5,,MD,"HOYER, STENY H.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2010,H,8,,MD,"VAN HOLLEN, CHRIS",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2010,MAYOR,,Montgomery,MD,"LEGGETT, ISIAH",Democrat,1,,,,"County Executive, Montgomery",0.9
+DC,Washington Post,107050,2010,CNTY COMM,1,Montgomery,MD,"BERLINER, ROGER",Democrat,1,,,,Montgomery County Council,0.9
+DC,Washington Post,107050,2010,CNTY COMM,2,Montgomery,MD,"RICE, CRAIG",Democrat,1,,,,Montgomery County Council,0.9
+DC,Washington Post,107050,2010,CNTY COMM,4,Montgomery,MD,"NAVARRO, NANCY",Democrat,1,,,,Montgomery County Council,0.9
+DC,Washington Post,107050,2010,CNTY COMM,5,Montgomery,MD,"ERVIN, VALERIE",Democrat,1,,,,Montgomery County Council,0.9
+DC,Washington Post,107050,2010,CNTY COMM,At-large,Montgomery,MD,"ELRICH, MARC",Democrat,1,,,,Montgomery County Council at-large,0.9
+DC,Washington Post,107050,2010,CNTY COMM,At-large,Montgomery,MD,"FLOREEN, NANCY",Democrat,1,,,,Montgomery County Council at-large,0.9
+DC,Washington Post,107050,2010,CNTY COMM,At-large,Montgomery,MD,"RIEMER, HANS",Democrat,1,,,,Montgomery County Council at-large,0.9
+DC,Washington Post,107050,2010,CNTY COMM,At-large,Montgomery,MD,"UNCAPHER, ROBIN",Republican,1,,,,Montgomery County Council at-large,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,1,Montgomery,MD,"DOCCA, JUDY",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,3,Montgomery,MD,"O'NEILL, PATRICIA",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,5,Montgomery,MD,"DURSO, MIKE",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,At-large,Montgomery,MD,"BRANDMAN, SHIRLEY",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2010,STATE SENATOR,14,,MD,"MONTGOMERY, KAREN",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,14,,MD,"KAISER, ANNE",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,14,,MD,"ZUCKER, CRAIG",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,14,,MD,"LUEDTKE, ERIC",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE SENATOR,15,,MD,"GARAGIOLA, ROBERT J.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,15,,MD,"FELDMAN, BRIAN J.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,15,,MD,"DUMAIS, KATHLEEN M.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,15,,MD,"MILLER, ARUNA",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE SENATOR,16,,MD,"FROSH, BRIAN E.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,16,,MD,"FRICK, C. WILLIAM",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,16,,MD,"LEE, SUSAN",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,16,,MD,"KELLY, ARIANA",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE SENATOR,17,,MD,"FOREHAND, JENNIE M.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,17,,MD,"BARVE, KUMAR P.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,17,,MD,"SIMMONS, LUIZ R.S.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,17,,MD,"CAMPOS, DAN",Republican,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE SENATOR,18,,MD,"MADALENO, RICHARD S. JR.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE SENATOR,19,,MD,"MANNO, ROGER",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,19,,MD,"KRAMER, BENJAMIN F.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,19,,MD,"CULLISON, BONNIE",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,19,,MD,"ARORA, SAM",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE SENATOR,39,,MD,"SMITH, ROBERT J.",Republican,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,39,,MD,"BARKLEY, CHARLES E.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,39,,MD,"REZNIK, KIRILL",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,39,,MD,"PETTIT, JIM",Republican,1,,,,,0.9
+DC,Washington Post,107050,2010,CNTY COMM,4,Prince George's,MD,"TURNER, INGRID",Democrat,1,,,,Prince George's County Council,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,1,Prince George's,MD,"MURRAY, DAVID",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,2,Prince George's,MD,"HIGGINS, PEGGY",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,3,Prince George's,MD,"WALLER, AMBER",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,4,Prince George's,MD,"OLIVO, AIMEE",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,5,Prince George's,MD,"JACOBS, JEANA",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,6,Prince George's,MD,"BOSTON, CAROLYN",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,7,Prince George's,MD,"ARMWOOD, HENRY JR.",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,8,Prince George's,MD,"MORRIS, STEVEN",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2010,SCHOOL BOARD,9,Prince George's,MD,"BECK, DONNA HATHAWAY",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2010,STATE REP,21,,MD,"PENA-MELNYK, JOSELINE A.",Democrat,1,,,,,0.85
+DC,Washington Post,107050,2010,STATE REP,21,,MD,"BARNES, BENJAMIN S.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,21,,MD,"FRUSH, BARBARA A.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,23A,,MD,"HUBBARD, JAMES W.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,23A,,MD,"VALENTINO-SMITH, GERALDINE",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,26,,MD,"HENDERSON, HOLLY ELLISON",Republican,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,26,,MD,"WALKER, JAY",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,26,,MD,"VALDERRAMA, KRISELDA ""KRIS""",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,27A,,MD,"PROCTOR, JAMES E. JR.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,27A,,MD,"JARBOE-DULEY, ANTOINETTE ""TONI""",Republican,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,47,,MD,"IVEY, JOLENE",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,47,,MD,"NIEMANN, DOYLE L.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,STATE REP,47,,MD,"SUMMERS, MICHAEL G.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2010,H,8,,VA,"MORAN, JAMES P. JR.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2010,H,10,,VA,"WOLF, FRANK R.",Republican,1,,,,,0.95
+DC,Washington Post,107050,2010,H,11,,VA,"CONNOLLY, GERALD E.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2011,STATE SENATOR,13,,VA,"MITCHELL, J. SHAWN",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,27,,VA,"VOGEL, JILL HOLTZMAN",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,29,,VA,"COLGAN, CHARLES J.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,30,,VA,"EBBIN, ADAM",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,31,,VA,"FAVOLA, BARBARA A.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,32,,VA,"HOWELL, JANET D.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,33,,VA,"HERRING, MARK R.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,34,,VA,"PETERSEN, J. CHAPMAN ""CHAP""",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,35,,VA,"SASLAW, RICHARD L.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,36,,VA,"PULLER, LINDA T. ""TODDY""",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,37,,VA,"MARSDEN, DAVID W.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE SENATOR,39,,VA,"BARKER, GEORGE L.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,2,,VA,"DUDENHEFER, L. MARK",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,10,,VA,"MINCHEW, J. RANDALL",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,13,,VA,"GENTHNER, CARL S.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,31,,VA,"COFFEY, ROY D.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,34,,VA,"DANNER, PAMELA B.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,36,,VA,"PLUM, KENNETH R.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,37,,VA,"BULOVA, DAVID L.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,38,,VA,"KORY, KAYE",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,39,,VA,"WATTS, VIVIAN E.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,41,,VA,"FILLER-CORN, EILEEN",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,44,,VA,"SUROVELL, SCOTT A.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,48,,VA,"BRINK, ROBERT H.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,52,,VA,"TORIAN, LUKE E.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,67,,VA,"LEMUNYON, JAMES M.",,1,,,,,0.9
+DC,Washington Post,107050,2011,STATE REP,87,,VA,"KONDRATICK, MIKE D.",,1,,,,,0.9
+DC,Washington Post,107050,2011,CNTY COMM,At-large,Arlington,VA,"TEJADA, J. WALTER",,1,,,,Arlington County Board,0.9
+DC,Washington Post,107050,2011,CNTY COMM,At-large,Arlington,VA,"HYNES, MARY HUGHES",,1,,,,Arlington County Board,0.85
+DC,Washington Post,107050,2011,CNTY COMM,Chairman,Fairfax,VA,"BULOVA, SHARON",,1,,,,Fairfax BOS Chairman,0.9
+DC,Washington Post,107050,2011,CNTY COMM,Braddock,Fairfax,VA,"COOK, JOHN C.",,1,,,,Fairfax BOS Braddock,0.9
+DC,Washington Post,107050,2011,CNTY COMM,Dranesville,Fairfax,VA,"FOUST, JOHN W.",,1,,,,Fairfax BOS Dranesville,0.9
+DC,Washington Post,107050,2011,CNTY COMM,Mason,Fairfax,VA,"GROSS, PENELOPE A.",,1,,,,Fairfax BOS Mason,0.9
+DC,Washington Post,107050,2011,CNTY COMM,Mount Vernon,Fairfax,VA,"HYLAND, GERALD W.",,1,,,,Fairfax BOS Mount Vernon,0.9
+DC,Washington Post,107050,2011,CNTY COMM,Providence,Fairfax,VA,"SMYTH, LINDA Q.",,1,,,,Fairfax BOS Providence,0.9
+DC,Washington Post,107050,2011,CNTY COMM,Sully,Fairfax,VA,"FREY, MICHAEL R.",,1,,,,Fairfax BOS Sully,0.9
+DC,Washington Post,107050,2011,SCHOOL BOARD,At-large,Fairfax,VA,"MOON, ILRYONG",,1,,,,Fairfax School Board at-large,0.9
+DC,Washington Post,107050,2011,SCHOOL BOARD,At-large,Fairfax,VA,"VELKOFF, THEODORE J.",,1,,,,Fairfax School Board at-large,0.9
+DC,Washington Post,107050,2011,SCHOOL BOARD,At-large,Fairfax,VA,"MANCHENO-SMOAK, LOLITA I.",,1,,,,Fairfax School Board at-large,0.9
+DC,Washington Post,107050,2011,SCHOOL BOARD,Braddock,Fairfax,VA,"MCLAUGHLIN, MEGAN O.",,1,,,,Fairfax School Board Braddock,0.9
+DC,Washington Post,107050,2011,SCHOOL BOARD,Hunter Mill,Fairfax,VA,"HYNES, PAT M.",,1,,,,Fairfax School Board Hunter Mill,0.9
+DC,Washington Post,107050,2011,SCHOOL BOARD,Dranesville,Fairfax,VA,"STRAUSS, JANE K.",,1,,,,Fairfax School Board Dranesville,0.9
+DC,Washington Post,107050,2011,SCHOOL BOARD,Mount Vernon,Fairfax,VA,"STORCK, DANIEL G.",,1,,,,Fairfax School Board Mount Vernon,0.9
+DC,Washington Post,107050,2011,SCHOOL BOARD,Springfield,Fairfax,VA,"WITTMAN, JOHN F.",,1,,,,Fairfax School Board Springfield,0.9
+DC,Washington Post,107050,2011,SCHOOL BOARD,Sully,Fairfax,VA,"SMITH, KATHY L.",,1,,,,Fairfax School Board Sully,0.9
+DC,Washington Post,107050,2012,H,10,,VA,"WOLF, FRANK R.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2012,H,11,,VA,"CONNOLLY, GERALD E.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2012,H,8,,VA,"MORAN, JAMES P.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2012,H,6,,MD,"DELANEY, JOHN",Democrat,1,,1,,Challenging Bartlett,0.95
+DC,Washington Post,107050,2012,H,4,,MD,"EDWARDS, DONNA",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2012,H,5,,MD,"HOYER, STENY",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2012,H,8,,MD,"VAN HOLLEN, CHRIS",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2012,SENATOR,,,VA,"KAINE, TIMOTHY M.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2012,CITY COUNCIL,At-large,,DC,"GROSSO, DAVID",Independent,1,,,,"DC Council at-large, 2 seats",0.95
+DC,Washington Post,107050,2012,CITY COUNCIL,At-large,,DC,"SWAIN, LEON JR.",Independent,1,,,,"DC Council at-large, 2 seats",0.95
+DC,Washington Post,107050,2012,SENATOR,,,MD,"CARDIN, BENJAMIN L.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2012,PRESIDENT,,,DC,"OBAMA, BARACK",Democrat,1,1,,,,0.98
+DC,Washington Post,107050,2012,CITY COUNCIL,Chairman,,DC,"MENDELSON, PHIL",Democrat,1,,,,DC Council Chairman,0.95
+DC,Washington Post,107050,2012,CITY COUNCIL,2,,DC,"EVANS, JACK",Democrat,1,1,,,DC Council Ward 2,0.95
+DC,Washington Post,107050,2012,CITY COUNCIL,4,,DC,"BOWSER, MURIEL",Democrat,1,1,,,DC Council Ward 4,0.95
+DC,Washington Post,107050,2012,CITY COUNCIL,7,,DC,"MOTEN, RON",Republican,1,,,,DC Council Ward 7,0.95
+DC,Washington Post,107050,2012,STATE BOARD OF ED,At-large,,DC,"LORD, MARY",,1,,,,DC State Board of Education at-large,0.9
+DC,Washington Post,107050,2012,STATE BOARD OF ED,7,,DC,"WILLIAMS, KAREN",,1,,,,DC State Board of Education Ward 7,0.9
+DC,Washington Post,107050,2012,STATE BOARD OF ED,8,,DC,"PANNELL, PHIL",,1,,,,DC State Board of Education Ward 8,0.9
+DC,Washington Post,107050,2012,H,At-large,,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,DC Delegate,0.95
+DC,Washington Post,107050,2013,STATE REP,2,,VA,"DUDENHEFER, L. MARK",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2013,STATE REP,10,,VA,"MINCHEW, J. RANDALL",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2013,STATE REP,13,,VA,"QARNI, ATIF M.",Democrat,1,,1,,Challenging Marshall,0.95
+DC,Washington Post,107050,2013,STATE REP,31,,VA,"MCPIKE, JEREMY",Democrat,1,,1,,Challenging Lingamfelter,0.95
+DC,Washington Post,107050,2013,STATE REP,32,,VA,"GREASON, THOMAS A. ""TAG""",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2013,STATE REP,33,,VA,"DANIEL, MARY L. COSTELLO",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,34,,VA,"MURPHY, KATHLEEN J.",Democrat,1,,1,,Challenging Comstock,0.95
+DC,Washington Post,107050,2013,STATE REP,35,,VA,"KEAM, MARK",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,37,,VA,"BULOVA, DAVID L.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,38,,VA,"KORY, L. KAYE",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,40,,VA,"FOLTZ, JERRY L.",Democrat,1,,1,,Challenging Hugo,0.95
+DC,Washington Post,107050,2013,STATE REP,41,,VA,"FILLER-CORN, EILEEN",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,42,,VA,"ALBO, DAVID B.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2013,STATE REP,43,,VA,"SICKLES, MARK D.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,44,,VA,"SUROVELL, SCOTT A.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,45,,VA,"KRUPICKA, K. ROB",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,47,,VA,"HOPE, PATRICK A.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,49,,VA,"LOPEZ, ALFONSO",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2013,STATE REP,53,,VA,"SIMON, MARCUS B.",Democrat,1,,,,Open seat,0.95
+DC,Washington Post,107050,2013,STATE REP,67,,VA,"LEMUNYON, JAMES M.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2013,STATE REP,86,,VA,"RUST, THOMAS DAVIS",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2013,STATE REP,87,,VA,"BELL, JOHN J.",Democrat,1,,1,,Challenging Ramadan,0.95
+DC,Washington Post,107050,2013,STATE REP,50,,VA,"MILLER, JACKSON H.",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2013,STATE REP,51,,VA,"HEDDLESTON, ROY REED",Democrat,1,,1,,Challenging Anderson,0.95
+DC,Washington Post,107050,2014,MAYOR,,,DC,"BOWSER, MURIEL",Democrat,1,,,,DC Mayor,0.95
+DC,Washington Post,107050,2014,H,At-large,,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,DC Delegate,0.95
+DC,Washington Post,107050,2014,ATTORNEY GENERAL,,,DC,"RACINE, KARL",Democrat,1,,,,DC Attorney General (first elected),0.95
+DC,Washington Post,107050,2014,STATE BOARD OF ED,1,,DC,"PHELAN, LAURA WILSON",,1,,,,DC State Board of Education Ward 1,0.9
+DC,Washington Post,107050,2014,STATE BOARD OF ED,3,,DC,"BRAUN, TRICIA",,1,,,,DC State Board of Education Ward 3,0.9
+DC,Washington Post,107050,2014,STATE BOARD OF ED,6,,DC,"WEEDON, JOE",,1,,,,DC State Board of Education Ward 6,0.9
+DC,Washington Post,107050,2014,CITY COUNCIL,Chairman,,DC,"MENDELSON, PHIL",Democrat,1,1,,,DC Council Chairman,0.95
+DC,Washington Post,107050,2014,CITY COUNCIL,At-large,,DC,"SNOWDEN, COURTNEY R.",Independent,1,,,,"DC Council at-large, 2 seats",0.9
+DC,Washington Post,107050,2014,CITY COUNCIL,At-large,,DC,"WHITE, ROBERT",Independent,1,,,,"DC Council at-large, 2 seats",0.9
+DC,Washington Post,107050,2014,GOVERNOR,,,MD,"BROWN, ANTHONY",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2014,ATTORNEY GENERAL,,,MD,"FROSH, BRIAN",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2014,COMPTROLLER,,,MD,"FRANCHOT, PETER",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2014,H,4,,MD,"EDWARDS, DONNA F.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2014,H,5,,MD,"HOYER, STENY H.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2014,H,6,,MD,"DELANEY, JOHN K.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2014,H,8,,MD,"VAN HOLLEN, CHRIS",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2014,MAYOR,,Montgomery,MD,"LEGGETT, ISIAH ""IKE""",Democrat,1,1,,,"County Executive, Montgomery",0.9
+DC,Washington Post,107050,2014,DA/PROSECUTOR,,Montgomery,MD,"MCCARTHY, JOHN",Democrat,1,,,,"State's Attorney, Montgomery",0.9
+DC,Washington Post,107050,2014,SCHOOL BOARD,At-large,Montgomery,MD,"ORTMAN-FOUSE, JILL",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2014,SCHOOL BOARD,1,Montgomery,MD,"DOCCA, JUDY",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2014,SCHOOL BOARD,3,Montgomery,MD,"O'NEILL, PATRICIA",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2014,SCHOOL BOARD,5,Montgomery,MD,"DURSO, MIKE",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2014,CNTY COMM,2,Montgomery,MD,"RICE, CRAIG",Democrat,1,,,,Montgomery County Council,0.9
+DC,Washington Post,107050,2014,CNTY COMM,4,Montgomery,MD,"NAVARRO, NANCY",Democrat,1,,,,Montgomery County Council,0.9
+DC,Washington Post,107050,2014,CNTY COMM,At-large,Montgomery,MD,"SKOLNICK, SHELDON ""SHELLY""",Republican,1,,,,Montgomery County Council at-large,0.9
+DC,Washington Post,107050,2014,CNTY COMM,At-large,Montgomery,MD,"FLOREEN, NANCY",Democrat,1,,,,Montgomery County Council at-large,0.9
+DC,Washington Post,107050,2014,CNTY COMM,At-large,Montgomery,MD,"LEVENTHAL, GEORGE",Democrat,1,,,,Montgomery County Council at-large,0.9
+DC,Washington Post,107050,2014,CNTY COMM,At-large,Montgomery,MD,"ELRICH, MARC",Democrat,1,,,,Montgomery County Council at-large,0.9
+DC,Washington Post,107050,2014,STATE SENATOR,14,,MD,"HOWARD, FRANK",Republican,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,14,,MD,"KAISER, ANNE R.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,14,,MD,"LUEDTKE, ERIC G.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,14,,MD,"ZUCKER, CRAIG J.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE SENATOR,15,,MD,"FELDMAN, BRIAN J.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,15,,MD,"DUMAIS, KATHLEEN M.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,15,,MD,"MILLER, ARUNA",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,15,,MD,"FRASER-HIDALGO, DAVID",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,16,,MD,"FRICK, BILL",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,16,,MD,"KORMAN, MARC",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,16,,MD,"LI, ROSE",Republican,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,19,,MD,"KRAMER, BENJAMIN F.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,19,,MD,"CULLISON, BONNIE L.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,19,,MD,"MORALES, MARICE",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,20,,MD,"HIXSON, SHEILA E.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,20,,MD,"SMITH, WILL",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,20,,MD,"ROBINSON, DAN",Independent,1,,,,Green Party,0.9
+DC,Washington Post,107050,2014,JUDGE,,Montgomery,MD,"RUPP, NELSON W. JR.",,1,,,,Montgomery Circuit Court,0.9
+DC,Washington Post,107050,2014,JUDGE,,Montgomery,MD,"RYON, JOAN E.",,1,,,,Montgomery Circuit Court,0.9
+DC,Washington Post,107050,2014,JUDGE,,Montgomery,MD,"BAIR, GARY E.",,1,,,,Montgomery Circuit Court,0.9
+DC,Washington Post,107050,2014,JUDGE,,Montgomery,MD,"CONNELL, DANIEL PATRICK",,1,,,,Montgomery Circuit Court,0.9
+DC,Washington Post,107050,2014,SCHOOL BOARD,2,Prince George's,MD,"GRADY, LUPI",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2014,SCHOOL BOARD,3,Prince George's,MD,"HERNANDEZ, DINORA A.",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2014,SCHOOL BOARD,6,Prince George's,MD,"BOSTON, CAROLYN M.",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2014,SCHOOL BOARD,9,Prince George's,MD,"WILLIAMS, SONYA",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2014,STATE REP,22,,MD,"GAINES, TAWANNA P.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,22,,MD,"HEALEY, ANNE",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,22,,MD,"WASHINGTON, ALONZO T.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,23A,,MD,"VALENTINO-SMITH, GERALDINE",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,23B,,MD,"HOLMES, MARVIN E. JR.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,24,,MD,"BARRON, EREK",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,24,,MD,"HOWARD, CAROLYN J.B.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE REP,24,,MD,"VAUGHN, MICHAEL L.",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,STATE SENATOR,26,,MD,"MUSE, C. ANTHONY",Democrat,1,,,,,0.9
+DC,Washington Post,107050,2014,SENATOR,,,VA,"WARNER, MARK",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2014,H,8,,VA,"BEYER, DON",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2014,H,11,,VA,"CONNOLLY, GERALD E.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2014,CNTY COMM,,Arlington,VA,"VIHSTADT, JOHN E.",Independent,1,,,,Arlington County Board,0.9
+DC,Washington Post,107050,2014,SCHOOL BOARD,,Arlington,VA,"KANNINEN, BARBARA J.",,1,,,,Arlington School Board,0.9
+DC,Washington Post,107050,2015,STATE SENATOR,13,,VA,"MCCABE, JILL",Democrat,1,,1,,Challenging Dick Black,0.95
+DC,Washington Post,107050,2015,STATE SENATOR,29,,VA,"MCPIKE, JEREMY",Democrat,1,,,,Open seat,0.95
+DC,Washington Post,107050,2015,STATE SENATOR,33,,VA,"WEXTON, JENNIFER",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2015,STATE REP,2,,VA,"DUDENHEFER, L. MARK",Republican,1,,,,Open seat,0.95
+DC,Washington Post,107050,2015,STATE REP,13,,VA,"SHAW, DONALD B.",Democrat,1,,1,,Challenging Marshall,0.95
+DC,Washington Post,107050,2015,STATE REP,32,,VA,"GREASON, THOMAS A. ""TAG""",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2015,STATE REP,34,,VA,"MURPHY, KATHLEEN J.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2015,STATE REP,86,,VA,"VARGAS, RAUL ""DANNY""",Republican,1,,,,,0.95
+DC,Washington Post,107050,2015,STATE REP,87,,VA,"BELL, JOHN J.",Democrat,1,,,,Open seat,0.95
+DC,Washington Post,107050,2018,MAYOR,,,DC,"BOWSER, MURIEL E.",Democrat,1,1,,,DC Mayor,0.95
+DC,Washington Post,107050,2018,ATTORNEY GENERAL,,,DC,"RACINE, KARL A.",Democrat,1,1,,,DC Attorney General,0.95
+DC,Washington Post,107050,2018,CITY COUNCIL,Chairman,,DC,"MENDELSON, PHIL",Democrat,1,1,,,DC Council Chairman,0.95
+DC,Washington Post,107050,2018,CITY COUNCIL,At-large,,DC,"REEDER, DIONNE",Independent,1,,,,DC Council at-large,0.95
+DC,Washington Post,107050,2018,CITY COUNCIL,1,,DC,"NADEAU, BRIANNE K.",Democrat,1,1,,,DC Council Ward 1,0.95
+DC,Washington Post,107050,2018,CITY COUNCIL,3,,DC,"DIMTCHEV, PETAR A.",Independent,1,,,,DC Council Ward 3,0.95
+DC,Washington Post,107050,2018,CITY COUNCIL,5,,DC,"MCDUFFIE, KENYAN R.",Democrat,1,1,,,DC Council Ward 5,0.95
+DC,Washington Post,107050,2018,CITY COUNCIL,6,,DC,"ALLEN, CHARLES",Democrat,1,1,,,DC Council Ward 6,0.95
+DC,Washington Post,107050,2018,STATE BOARD OF ED,1,,DC,"ANDREAN, JASON",,1,,,,DC State Board of Education Ward 1,0.9
+DC,Washington Post,107050,2018,STATE BOARD OF ED,3,,DC,"CURREA, DORA",,1,,,,DC State Board of Education Ward 3,0.9
+DC,Washington Post,107050,2018,STATE BOARD OF ED,5,,DC,"PARKER, ZACHARY",,1,,,,DC State Board of Education Ward 5,0.9
+DC,Washington Post,107050,2018,STATE BOARD OF ED,6,,DC,"SUTTER, JESSICA",,1,,,,DC State Board of Education Ward 6,0.9
+DC,Washington Post,107050,2018,H,At-large,,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,DC Delegate,0.95
+DC,Washington Post,107050,2018,GOVERNOR,,,MD,"HOGAN, LARRY",Republican,1,,1,,,0.95
+DC,Washington Post,107050,2018,SENATOR,,,MD,"CARDIN, BENJAMIN L.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2018,ATTORNEY GENERAL,,,MD,"FROSH, BRIAN E.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2018,H,6,,MD,"TRONE, DAVID",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2018,MAYOR,,Montgomery,MD,"FLOREEN, NANCY",Independent,1,,,,"County Executive, Montgomery",0.9
+DC,Washington Post,107050,2018,SCHOOL BOARD,2,Prince George's,MD,"GRADY, LUPI",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2018,SCHOOL BOARD,3,Prince George's,MD,"BOOZER-STROTHER, PAMELA",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2018,SCHOOL BOARD,6,Prince George's,MD,"BOSTON, CAROLYN M.",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2018,SCHOOL BOARD,9,Prince George's,MD,"WILLIAMS, SONYA",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2018,SCHOOL BOARD,At-large,Montgomery,MD,"REILEY, JULIE",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2018,SCHOOL BOARD,1,Montgomery,MD,"BLAEUER, MARIA",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2018,SCHOOL BOARD,3,Montgomery,MD,"O'NEILL, PATRICIA",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2018,SENATOR,,,VA,"KAINE, TIM",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2018,H,10,,VA,"WEXTON, JENNIFER T.",Democrat,1,,,,,0.95
+DC,Washington Post,107050,2020,PRESIDENT,,,DC,"BIDEN, JOE",Democrat,1,,,,Biden-Harris ticket,0.98
+DC,Washington Post,107050,2020,CITY COUNCIL,At-large,,DC,"HENDERSON, CHRISTINA",Independent,1,,,,"DC Council at-large, 2 seats",0.95
+DC,Washington Post,107050,2020,CITY COUNCIL,At-large,,DC,"GOODWIN, MARCUS",Independent,1,,,,"DC Council at-large, 2 seats",0.95
+DC,Washington Post,107050,2020,CITY COUNCIL,2,,DC,"PINTO, BROOKE",Democrat,1,,,,DC Council Ward 2,0.95
+DC,Washington Post,107050,2020,STATE BOARD OF ED,At-large,,DC,"PATTERSON, JACQUE",,1,,,,DC State Board of Education at-large,0.9
+DC,Washington Post,107050,2020,STATE BOARD OF ED,2,,DC,"CHANG, ALLISTER",,1,,,,DC State Board of Education Ward 2,0.9
+DC,Washington Post,107050,2020,STATE BOARD OF ED,7,,DC,"WILLIAMS, KAREN",,1,,,,DC State Board of Education Ward 7,0.9
+DC,Washington Post,107050,2020,STATE BOARD OF ED,8,,DC,"JOHNSON-LAW, LAJOY",,1,,,,DC State Board of Education Ward 8,0.9
+DC,Washington Post,107050,2020,H,At-large,,DC,"NORTON, ELEANOR HOLMES",Democrat,1,1,,,DC Delegate,0.95
+DC,Washington Post,107050,2020,SCHOOL BOARD,At-large,Montgomery,MD,"HARRIS, LYNNE",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2020,SCHOOL BOARD,4,Montgomery,MD,"EVANS, SHEBRA L.",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2020,SCHOOL BOARD,2,Montgomery,MD,"FRYAR, MICHAEL",,1,,,,Montgomery Board of Education,0.9
+DC,Washington Post,107050,2020,SCHOOL BOARD,4,Prince George's,MD,"SWANN, BRYAN M.",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2020,SCHOOL BOARD,7,Prince George's,MD,"HARRIS, KENNETH II",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2020,SCHOOL BOARD,8,Prince George's,MD,"BURROUGHS, EDWARD III",,1,,,,Prince George's Board of Education,0.9
+DC,Washington Post,107050,2020,JUDGE,,Montgomery,MD,"BERRY, BIBI M.",,1,,,,Montgomery Circuit Court,0.9
+DC,Washington Post,107050,2020,JUDGE,,Montgomery,MD,"BOYNTON, DAVID A.",,1,,,,Montgomery Circuit Court,0.9
+DC,Washington Post,107050,2020,JUDGE,,Montgomery,MD,"FOGLEMAN, CHRISTOPHER C.",,1,,,,Montgomery Circuit Court,0.9
+DC,Washington Post,107050,2020,JUDGE,,Montgomery,MD,"MCAULIFFE, MICHAEL JOSEPH",,1,,,,Montgomery Circuit Court,0.9
+DC,Washington Post,107050,2020,JUDGE,,Prince George's,MD,"CURRY, WYTONJA",,1,,,,Prince George's Circuit Court,0.9
+DC,Washington Post,107050,2020,JUDGE,,Prince George's,MD,"SERRETTE, CATHY",,1,,,,Prince George's Circuit Court,0.9
+DC,Washington Post,107050,2020,JUDGE,,Prince George's,MD,"KELSEY, SHARON M. GRAYSON",,1,,,,Prince George's Circuit Court,0.9
+DC,Washington Post,107050,2020,JUDGE,,Prince George's,MD,"MCCARTHY, JARED",,1,,,,Prince George's Circuit Court,0.9
+DC,Washington Post,107050,2020,JUDGE,,Prince George's,MD,"WEATHERSPOON, GLADYS",,1,,,,Prince George's Circuit Court,0.9
+DC,Washington Post,107050,2020,JUDGE,,Howard,MD,"KUCHNO, JOHN",,1,,,,Howard Circuit Court,0.9
+DC,Washington Post,107050,2020,SENATOR,,,VA,"WARNER, MARK R.",Democrat,1,1,,,,0.95
+DC,Washington Post,107050,2020,H,7,,VA,"SPANBERGER, ABIGAIL",Democrat,1,1,,,,0.95

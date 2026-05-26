@@ -1,0 +1,193 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+KY,Louisville Courier-Journal,117400,1960,SCHOOL BOARD,,Louisville Board of Education,KY,"STITES, JAMES W. JR.",,1,,,,non-partisan,0.95
+KY,Louisville Courier-Journal,117400,1960,SCHOOL BOARD,,Louisville Board of Education,KY,"NICHOLSON, W. W.",,1,,,,non-partisan; running on slate with Stites,0.95
+KY,Louisville Courier-Journal,117400,1960,SCHOOL BOARD,,Louisville Board of Education,KY,"RUTHENBURG, DORCAS",,1,,,,non-partisan,0.95
+KY,Louisville Courier-Journal,117400,1960,GOVERNOR,,Indiana,KY,"WELSH, MATTHEW",Democrat,1,,,,Indiana Governor race,0.95
+KY,Louisville Courier-Journal,117400,1960,PRESIDENT,,,KY,"KENNEDY, JOHN F.",Democrat,1,,,,praised for opposing river tolls,0.9
+KY,Louisville Courier-Journal,117400,1962,SENATOR,,,KY,"WYATT, WILSON",Democrat,1,,,,prefers liberal Democrat over conservative Republican Morton,0.95
+KY,Louisville Courier-Journal,117400,1962,SCHOOL BOARD,,Louisville Board of Education,KY,"PORTER, WOODFORD",,1,,,,City Board incumbent; Negro,0.95
+KY,Louisville Courier-Journal,117400,1962,SCHOOL BOARD,,Louisville Board of Education,KY,"WALLER, HERBERT S.",,1,,,,City Board incumbent; Dr.,0.95
+KY,Louisville Courier-Journal,117400,1962,SCHOOL BOARD,,Louisville Board of Education,KY,"HOPKINS, BOYD (MRS)",,1,,,,City board,0.95
+KY,Louisville Courier-Journal,117400,1962,SCHOOL BOARD,2,Jefferson County District 2,KY,"WILSON, JAY",,1,,,,Jefferson County District 2,0.95
+KY,Louisville Courier-Journal,117400,1962,SCHOOL BOARD,5,Jefferson County District 5,KY,"MILLER, RICHARD",,1,,,,Jefferson County District 5,0.95
+KY,Louisville Courier-Journal,117400,1964,SCHOOL BOARD,,Louisville Board of Education,KY,"TATE, JAMES S. (MRS)",,1,,,,City; currently serving,0.95
+KY,Louisville Courier-Journal,117400,1964,SCHOOL BOARD,,Louisville Board of Education,KY,"LEHMAN, ROBERT J.",,1,,,,City,0.95
+KY,Louisville Courier-Journal,117400,1964,SCHOOL BOARD,1,Jefferson County District 1,KY,"HELM, THOMAS C.",,1,,,,County District 1,0.95
+KY,Louisville Courier-Journal,117400,1964,SCHOOL BOARD,2,Jefferson County District 2,KY,"MOORE, CLYDE T.",,1,,,,County District 2; incumbent; Dr.,0.95
+KY,Louisville Courier-Journal,117400,1964,SCHOOL BOARD,4,Jefferson County District 4,KY,"HALL, HAROLD L.",,1,,,,County District 4,0.95
+KY,Louisville Courier-Journal,117400,1964,PRESIDENT,,,KY,"JOHNSON, LYNDON B.",Democrat,1,,,,Why A Big Johnson Victory Is Vital,0.95
+KY,Louisville Courier-Journal,117400,1964,H,3,KY-3,KY,"FARNSLEY, CHARLES P.",Democrat,1,,,,Third KY District; former Mayor of Louisville,0.95
+KY,Louisville Courier-Journal,117400,1966,SCHOOL BOARD,,Louisville Board of Education,KY,"BARKER, D. LARRY",,1,,,,city school board,0.95
+KY,Louisville Courier-Journal,117400,1966,SCHOOL BOARD,,Louisville Board of Education,KY,"TUCKER, NEVILLE M.",,1,,,,city school board,0.95
+KY,Louisville Courier-Journal,117400,1966,SCHOOL BOARD,,Louisville Board of Education,KY,"SCOTT, LELAND L.",,1,,,,city school board; Dr.,0.95
+KY,Louisville Courier-Journal,117400,1966,SENATOR,,Illinois,KY,"DOUGLAS, PAUL",Democrat,1,,,,Illinois Senate race; opposed by Charles H. Percy (R),0.95
+KY,Louisville Courier-Journal,117400,1966,SCHOOL BOARD,,Louisville Board of Education,KY,"BARKER, LARRY",,1,,,,city,0.95
+KY,Louisville Courier-Journal,117400,1966,SCHOOL BOARD,5,Jefferson County District 5,KY,"CONWAY, AUBREY",,1,,,,County District 5,0.95
+KY,Louisville Courier-Journal,117400,1966,SCHOOL BOARD,2,Jefferson County District 2,KY,"STOCKLER, ROBERT C.",,1,,,,County District 2,0.95
+KY,Louisville Courier-Journal,117400,1966,GOVERNOR,,New York,KY,"ROCKEFELLER, NELSON",Republican,1,,,,NY Governor; running on record,0.85
+KY,Louisville Courier-Journal,117400,1966,SENATOR,,Kentucky,KY,"COOPER, JOHN SHERMAN",Republican,1,,,,KY Senator re-election,0.95
+KY,Louisville Courier-Journal,117400,1966,H,3,KY-3,KY,"BLUME, NORBERT",Democrat,1,,,,KY 3rd District,0.95
+KY,Louisville Courier-Journal,117400,1966,H,4,KY-4,KY,"MOLONEY, JOHN",Democrat,1,,,,KY 4th District,0.9
+KY,Louisville Courier-Journal,117400,1966,H,8,IN-8,KY,"DENTON, WINFIELD K.",Democrat,1,,,,Indiana 8th District; Representative,0.95
+KY,Louisville Courier-Journal,117400,1966,H,9,IN-9,KY,"HAMILTON, LEE H.",Democrat,1,,,,Indiana 9th District; Representative,0.95
+KY,Louisville Courier-Journal,117400,1966,H,4,KY-4,KY,"CHELF, FRANK",Democrat,1,,,,replacing deceased John Moloney; former Congressman who repped 4th Dist 22 years,0.95
+KY,Louisville Courier-Journal,117400,1968,SCHOOL BOARD,,Louisville Board of Education,KY,"BELL, JOHN P.",,1,,,,city school board; Dr.; psychiatrist,0.95
+KY,Louisville Courier-Journal,117400,1968,SCHOOL BOARD,,Louisville Board of Education,KY,"HINES, CARL R.",,1,,,,city school board; incumbent; West End resident,0.95
+KY,Louisville Courier-Journal,117400,1968,SCHOOL BOARD,1,Jefferson County District 1,KY,"HELM, THOMAS CARSON",,1,,,,County District 1; chairman; second term,0.95
+KY,Louisville Courier-Journal,117400,1968,SCHOOL BOARD,3,Jefferson County District 3,KY,"VONDERHAAR, WILLIAM PURCELL",,1,,,,"County District 3; Dr., physician",0.95
+KY,Louisville Courier-Journal,117400,1968,GOVERNOR,,Indiana,KY,"ROCK, ROBERT",Democrat,1,,,,Indiana Governor; Lt Gov; Rock-Beatty ticket,0.95
+KY,Louisville Courier-Journal,117400,1968,PRESIDENT,,,KY,"HUMPHREY, HUBERT H.",Democrat,1,,,,Vice President; Muskie running mate,0.95
+KY,Louisville Courier-Journal,117400,1968,SENATOR,,Maine,KY,"MUSKIE, EDMUND",Democrat,1,,,,VP nominee; running for Senate re-election in Maine,0.9
+KY,Louisville Courier-Journal,117400,1968,SENATOR,,Indiana,KY,"BAYH, BIRCH",Democrat,1,,,,Indiana Senate,0.95
+KY,Louisville Courier-Journal,117400,1968,H,,,KY,"PEDEN, KATHERINE",Democrat,1,,,,KY Senate race; Miss Peden,0.9
+KY,Louisville Courier-Journal,117400,1970,SCHOOL BOARD,,City District,KY,"NUNNELLEY, SHERRELL",,1,,,1,Louisville city school board incumbent,0.95
+KY,Louisville Courier-Journal,117400,1970,SCHOOL BOARD,,City District,KY,"DETRICK, SCOTT C",,1,,,1,Louisville city school board incumbent,0.95
+KY,Louisville Courier-Journal,117400,1970,SCHOOL BOARD,,City District,KY,"SAMPSON, FREDERICK G",,1,,,1,"Rev., Louisville city school board incumbent",0.95
+KY,Louisville Courier-Journal,117400,1970,SCHOOL BOARD,2,County District 2,KY,"BRYAN, ALLEN R",,1,,,,Jefferson County school board,0.95
+KY,Louisville Courier-Journal,117400,1970,SCHOOL BOARD,5,County District 5,KY,"MORGAN, CHARLES W",,1,,,,Jefferson County school board,0.95
+KY,Louisville Courier-Journal,117400,1970,SENATOR,,Indiana,KY,"HARTKE, VANCE",Democrat,1,1,,,Indiana US Senate,0.95
+KY,Louisville Courier-Journal,117400,1970,H,9,IN-9,KY,"HAMILTON, LEE",Democrat,1,1,,,Indiana 9th District,0.9
+KY,Louisville Courier-Journal,117400,1970,H,8,IN-8,KY,"HABER, DAVID",Democrat,1,,,,Indiana 8th District,0.9
+KY,Louisville Courier-Journal,117400,1970,H,3,IN-3,KY,"MAZZOLI, ROMANO",Democrat,1,,,,3rd District (Louisville/Indiana area as referenced) - reaffirming earlier endorsement,0.85
+KY,Louisville Courier-Journal,117400,1970,H,4,IN-4,KY,"WEBSTER, CHARLES",Democrat,1,,1,,4th District vs Rep. Snyder,0.9
+KY,Louisville Courier-Journal,117400,1972,PRESIDENT,,,KY,"MCGOVERN, GEORGE",Democrat,1,,1,,,0.95
+KY,Louisville Courier-Journal,117400,1972,SENATOR,,Kentucky,KY,"HUDDLESTON, WALTER DEE",Democrat,1,,,,,0.95
+KY,Louisville Courier-Journal,117400,1972,H,1,KY-1,KY,"STUBBLEFIELD, FRANK A",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1972,H,2,KY-2,KY,"NATCHER, WILLIAM H",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1972,H,3,KY-3,KY,"MAZZOLI, ROMANO",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1972,H,4,KY-4,KY,"KASKE JR, PHIL",Republican,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1972,H,5,KY-5,KY,"WILLIS, LYLE L",Democrat,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1972,H,6,KY-6,KY,"ROGERS, JAMES W",Democrat,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1972,H,7,KY-7,KY,"PERKINS, CARL",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1972,H,7,IN-7,KY,"BREMER, WARREN F",Democrat,1,,,,Indiana House race,0.85
+KY,Louisville Courier-Journal,117400,1972,H,8,IN-8,KY,"DEEN, RICHARD L",Democrat,1,,,,Indiana,0.85
+KY,Louisville Courier-Journal,117400,1972,H,9,IN-9,KY,"HAMILTON, LEE H",Democrat,1,1,,,Indiana,0.95
+KY,Louisville Courier-Journal,117400,1972,GOVERNOR,,Indiana,KY,"WELSH, MATTHEW E",Democrat,1,,,,Indiana governor,0.95
+KY,Louisville Courier-Journal,117400,1972,JUDGE,,"Jefferson County 4th Division, Chancery",KY,"ANDERSON, CHARLES H",Democrat,1,,,,Circuit judgeship,0.9
+KY,Louisville Courier-Journal,117400,1972,JUDGE,,"Jefferson County 5th Division, Chancery",KY,"OLDHAM, RICHARD C",Democrat,1,,,,Circuit judgeship,0.9
+KY,Louisville Courier-Journal,117400,1972,JUDGE,,"Jefferson County 6th Division, Chancery",KY,"BLACK, CLEM H",Republican,1,,,,Circuit judgeship,0.85
+KY,Louisville Courier-Journal,117400,1972,SCHOOL BOARD,1,Jefferson County District 1,KY,"BOSTOCK, WILLARD DAVID",,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1972,SCHOOL BOARD,3,Jefferson County District 3,KY,"VONDERHEAR, WILLIAM F",,1,,,1,"M.D., incumbent",0.85
+KY,Louisville Courier-Journal,117400,1972,SCHOOL BOARD,4,Jefferson County District 4,KY,"WALKER, R K",,1,,,,,0.85
+KY,Louisville Courier-Journal,117400,1972,SCHOOL BOARD,,Louisville school board,KY,"BULGOZDIER, HELEN R",,1,,,,Louisville city school board,0.85
+KY,Louisville Courier-Journal,117400,1972,SCHOOL BOARD,,Louisville school board,KY,"HABLE, RUSSELL D",,1,,,,Louisville city school board,0.85
+KY,Louisville Courier-Journal,117400,1972,SCHOOL BOARD,,Louisville school board,KY,"HINES, CARL B",,1,,,,Louisville city school board,0.85
+KY,Louisville Courier-Journal,117400,1972,SCHOOL BOARD,,Louisville school board,KY,"BELL, JOHN F",,1,,,,"M.D., Louisville city school board",0.85
+KY,Louisville Courier-Journal,117400,1974,SENATOR,,Kentucky,KY,"FORD, WENDELL",Democrat,1,,,,KY Governor running for US Senate,0.95
+KY,Louisville Courier-Journal,117400,1974,SENATOR,,Indiana,KY,"BAYH, BIRCH",Democrat,1,1,,,Indiana US Senate,0.95
+KY,Louisville Courier-Journal,117400,1974,H,1,KY-1,KY,"HUBBARD, CARROLL",Democrat,1,,,,,0.95
+KY,Louisville Courier-Journal,117400,1974,H,2,KY-2,KY,"NATCHER, WILLIAM H",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1974,H,3,KY-3,KY,"MAZZOLI, ROMANO",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1974,H,4,KY-4,KY,"HUBBARD, KYLE",Democrat,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1974,H,5,KY-5,KY,"WILLIS, LYLE",Democrat,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1974,H,6,KY-6,KY,"BRECKINRIDGE, JOHN B",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1974,H,7,KY-7,KY,"PERKINS, CARL",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1974,H,7,IN-7,KY,"TIPTON, HOMER C",Democrat,1,,,,Indiana,0.85
+KY,Louisville Courier-Journal,117400,1974,H,8,IN-8,KY,"HAYES, PHILIP H",Democrat,1,,,,Indiana,0.85
+KY,Louisville Courier-Journal,117400,1974,H,9,IN-9,KY,"HAMILTON, LEE",Democrat,1,1,,,Indiana,0.95
+KY,Louisville Courier-Journal,117400,1974,SCHOOL BOARD,2,Jefferson County District 2,KY,"TOLLIVER, ROBERTA",,1,,,,,0.85
+KY,Louisville Courier-Journal,117400,1974,SCHOOL BOARD,5,Jefferson County District 5,KY,"RIPEY, MRS BURT",,1,,,,,0.8
+KY,Louisville Courier-Journal,117400,1974,SCHOOL BOARD,,Louisville School Board,KY,"HATTON, CAROLYN G",,1,,,,city school board,0.85
+KY,Louisville Courier-Journal,117400,1974,SCHOOL BOARD,,Louisville School Board,KY,"HARRIS, MARGUERITE H",,1,,,,city school board,0.85
+KY,Louisville Courier-Journal,117400,1974,SCHOOL BOARD,,Louisville School Board,KY,"SUMMERS III, WILLIAM E",,1,,,,city school board,0.85
+KY,Louisville Courier-Journal,117400,1974,JUDGE,,Jefferson Circuit Court,KY,"MARTIN JR, BRYAN P",,1,1,,,Circuit Judge,0.85
+KY,Louisville Courier-Journal,117400,1974,COURT OF APPEALS,4,"4th District, Court of Appeals",KY,"BUSS, GEORGE B",,1,,,,,0.85
+KY,Louisville Courier-Journal,117400,1976,PRESIDENT,,,KY,"CARTER, JIMMY",Democrat,1,,,,,0.95
+KY,Louisville Courier-Journal,117400,1976,H,1,KY-1,KY,"HUBBARD, CARROLL",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1976,H,2,KY-2,KY,"NATCHER, WILLIAM",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1976,H,3,KY-3,KY,"MAZZOLI, ROMANO L",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1976,H,4,KY-4,KY,"WINTERBERG, EDWARD J",Democrat,1,,1,,,0.9
+KY,Louisville Courier-Journal,117400,1976,H,5,KY-5,KY,"CARTER, TIM LEE",Republican,1,,1,,,0.9
+KY,Louisville Courier-Journal,117400,1976,H,6,KY-6,KY,"BRECKINRIDGE, JOHN B",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1976,H,7,KY-7,KY,"PERKINS, CARL",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1976,COURT OF APPEALS,4,"4th District, 1st Division",KY,"ECKERT, JOSEPH H",,1,1,,,,0.9
+KY,Louisville Courier-Journal,117400,1976,COURT OF APPEALS,4,"4th District, 2nd Division",KY,"MARTIN JR, BOYCE F",,1,1,,,,0.9
+KY,Louisville Courier-Journal,117400,1976,GOVERNOR,,Indiana,KY,"BOWEN, OTIS",Republican,1,1,,,Indiana governor,0.9
+KY,Louisville Courier-Journal,117400,1976,SENATOR,,Indiana,KY,"LUGAR, RICHARD",Republican,1,,,,Indiana US Senate,0.95
+KY,Louisville Courier-Journal,117400,1976,H,7,IN-7,KY,"MYERS, JOHN",Republican,1,1,,,Indiana,0.9
+KY,Louisville Courier-Journal,117400,1976,H,8,IN-8,KY,"CORNWELL, DAVID",Democrat,1,,,,Indiana,0.85
+KY,Louisville Courier-Journal,117400,1976,H,9,IN-9,KY,"HAMILTON, LEE H",Democrat,1,1,,,Indiana,0.95
+KY,Louisville Courier-Journal,117400,1978,H,1,KY-1,KY,"HUBBARD, CARROLL",Democrat,1,1,,,,0.9
+KY,Louisville Courier-Journal,117400,1978,H,2,KY-2,KY,"NATCHER, WILLIAM H",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1978,H,3,KY-3,KY,"MAZZOLI, ROMANO",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1978,H,5,KY-5,KY,"CARTER, TIM LEE",Republican,1,,1,,,0.9
+KY,Louisville Courier-Journal,117400,1978,H,6,KY-6,KY,"EASTERLY, TOM",Democrat,1,,,,vs Rep. Breckinridge in primary - CJ backs challenger Easterly,0.9
+KY,Louisville Courier-Journal,117400,1978,H,7,KY-7,KY,"PERKINS, CARL D",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1978,SENATOR,,Kentucky,KY,"HUDDLESTON, WALTER DEE",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1978,H,1,KY-1,KY,"HUBBARD JR, CARROLL",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1978,H,4,KY-4,KY,"LORENZEN, NORBERT D",Democrat,1,,,,,0.85
+KY,Louisville Courier-Journal,117400,1978,H,6,KY-6,KY,"HOPKINS, LARRY J",Republican,1,,,,,0.85
+KY,Louisville Courier-Journal,117400,1978,H,7,IN-7,KY,"FIELDER, CHARLOTTE",Democrat,1,,,,Indiana,0.85
+KY,Louisville Courier-Journal,117400,1978,H,8,IN-8,KY,"CORNWELL, DAVID",Democrat,1,1,,,Indiana,0.85
+KY,Louisville Courier-Journal,117400,1978,H,9,IN-9,KY,"HAMILTON, LEE H",Democrat,1,1,,,Indiana,0.95
+KY,Louisville Courier-Journal,117400,1980,PRESIDENT,,,KY,"CARTER, JIMMY",Democrat,1,1,,,with VP Walter Mondale,0.95
+KY,Louisville Courier-Journal,117400,1980,SENATOR,,Kentucky,KY,"FORD, WENDELL H",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1980,H,1,KY-1,KY,"HUBBARD JR, CARROLL",Democrat,1,1,,,unopposed,0.9
+KY,Louisville Courier-Journal,117400,1980,H,2,KY-2,KY,"NATCHER, WILLIAM H",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1980,H,3,KY-3,KY,"MAZZOLI, ROMANO L",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1980,H,4,KY-4,KY,"MCGARY, PHIL M",Democrat,1,,1,,,0.9
+KY,Louisville Courier-Journal,117400,1980,H,5,KY-5,KY,"MARCUM, TED R",Democrat,1,,,,,0.85
+KY,Louisville Courier-Journal,117400,1980,H,6,KY-6,KY,"HOPKINS, LARRY J",Republican,1,,1,,,0.9
+KY,Louisville Courier-Journal,117400,1980,H,7,KY-7,KY,"PERKINS, CARL D",Democrat,1,1,,,unopposed,0.9
+KY,Louisville Courier-Journal,117400,1980,SUPREME COURT,5,5th Appellate District,KY,"STEPHENS, ROBERT F",,1,1,,,KY Supreme Court,0.9
+KY,Louisville Courier-Journal,117400,1980,SUPREME COURT,7,7th Appellate District,KY,"STEPHENSON, JAMES B",,1,,,,KY Supreme Court,0.85
+KY,Louisville Courier-Journal,117400,1980,COURT OF APPEALS,4,"4th District, Court of Appeals",KY,"MCDONALD, MICHAEL O",,1,,,,,0.85
+KY,Louisville Courier-Journal,117400,1980,JUDGE,30,"Jefferson Circuit Court, 30th District",KY,"COBEN, WILLIAM",,1,,,,Circuit Court,0.8
+KY,Louisville Courier-Journal,117400,1980,JUDGE,30,"Jefferson Circuit Court, 30th District",KY,"PEERS, OLGA S",,1,1,,,Circuit Court,0.8
+KY,Louisville Courier-Journal,117400,1980,JUDGE,,"District Court, 15th Division",KY,"MCANULTY JR, WILLIAM E",,1,1,,,District Court,0.85
+KY,Louisville Courier-Journal,117400,1980,JUDGE,,"District Court, 16th Division",KY,"PARKER, ALAN J",,1,1,,,District Court,0.85
+KY,Louisville Courier-Journal,117400,1980,SENATOR,,Indiana,KY,"BAYH, BIRCH",Democrat,1,1,,,,0.95
+KY,Louisville Courier-Journal,117400,1980,H,7,IN-7,KY,"CARRELL, PATRICK D",Democrat,1,,,,Indiana,0.85
+KY,Louisville Courier-Journal,117400,1980,H,8,IN-8,KY,"DECKARD, JOEL",Republican,1,1,,,Indiana,0.9
+KY,Louisville Courier-Journal,117400,1980,H,9,IN-9,KY,"HAMILTON, LEE H",Democrat,1,1,,,Indiana,0.95
+KY,Louisville Courier-Journal,117400,1980,GOVERNOR,,Indiana,KY,"HILLENBRAND, JOHN A",Democrat,1,,,,Indiana governor,0.9
+KY,Louisville Courier-Journal,117400,1982,SUPREME COURT,1,,KY,"VANCE, ROY S.",,1,,,,KY Supreme Court 1st District,0.95
+KY,Louisville Courier-Journal,117400,1982,SUPREME COURT,4,,KY,"LEIBSON, CHARLES M.",,1,,,,KY Supreme Court 4th District,0.95
+KY,Louisville Courier-Journal,117400,1982,SUPREME COURT,6,,KY,"O'HARA, JOHN J.",,1,,,,KY Supreme Court 6th District,0.9
+KY,Louisville Courier-Journal,117400,1982,H,2,,KY,"NATCHER, WILLIAM H.",Democrat,1,,,,,0.95
+KY,Louisville Courier-Journal,117400,1982,H,3,,KY,"MAZZOLI, ROMANO L.",Democrat,1,,,,,0.95
+KY,Louisville Courier-Journal,117400,1982,H,4,,KY,"MARO, TERRY L.",Democrat,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1982,H,6,,KY,"MILLS, DON",Democrat,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1982,H,7,,KY,"PERKINS, CARL D.",Democrat,1,,,,,0.95
+KY,Louisville Courier-Journal,117400,1982,SENATOR,,IN,KY,"FITHIAN, FLOYD",Democrat,1,,,,Indiana US Senate,0.9
+KY,Louisville Courier-Journal,117400,1982,H,2,IN,KY,"SHARP, PHILIP R.",Democrat,1,,,,Indiana,0.9
+KY,Louisville Courier-Journal,117400,1982,H,8,IN,KY,"MCCLOSKEY, FRANCIS",Democrat,1,,,,Indiana,0.9
+KY,Louisville Courier-Journal,117400,1982,H,9,IN,KY,"HAMILTON, LEE",Democrat,1,,,,Indiana,0.9
+KY,Louisville Courier-Journal,117400,1982,JUDGE,30,,KY,"POTTER, JOHN W.",,1,,,,Jefferson Circuit Court 30th Judicial Circuit,0.9
+KY,Louisville Courier-Journal,117400,1982,CITY COUNCIL,10,,KY,"SMITH, ARTHUR",Democrat,1,,,,Louisville Alderman 10th Ward,0.9
+KY,Louisville Courier-Journal,117400,1984,PRESIDENT,,,KY,"MONDALE, WALTER",Democrat,1,,,,Reagan incumbent,0.9
+KY,Louisville Courier-Journal,117400,1984,SENATOR,,KY,KY,"HUDDLESTON, WALTER DEE",Democrat,1,,,,KY US Senate,0.85
+KY,Louisville Courier-Journal,117400,1984,H,3,,KY,"MAZZOLI, ROMANO L.",Democrat,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1984,H,1,,KY,"HUBBARD, CARROLL",Democrat,1,,,,,0.8
+KY,Louisville Courier-Journal,117400,1984,H,2,,KY,"NATCHER, WILLIAM H.",Democrat,1,,,,,0.8
+KY,Louisville Courier-Journal,117400,1984,H,7,,KY,"PERKINS, CARL D.",Democrat,1,,,,,0.8
+KY,Louisville Courier-Journal,117400,1986,STATE SENATOR,37,,KY,"SAUNDERS, LARRY",Democrat,1,,,,Special election for KY 37th Senate district; Yocom resigned,0.95
+KY,Louisville Courier-Journal,117400,1986,SENATOR,,KY,KY,"FORD, WENDELL H.",Democrat,1,,,,Kentucky,0.85
+KY,Louisville Courier-Journal,117400,1986,SENATOR,,IN,KY,"LONG, JILL",Democrat,1,,,,Indiana - Quayle incumbent,0.7
+KY,Louisville Courier-Journal,117400,1986,H,2,,KY,"NATCHER, WILLIAM H.",Democrat,1,,,,,0.8
+KY,Louisville Courier-Journal,117400,1986,H,3,,KY,"MAZZOLI, ROMANO L.",Democrat,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1986,H,4,,KY,"MARO, TERRY L.",Democrat,1,,,,,0.7
+KY,Louisville Courier-Journal,117400,1986,H,7,,KY,"PERKINS, CARL C.",Democrat,1,,,,,0.8
+KY,Louisville Courier-Journal,117400,1988,PRESIDENT,,,KY,"DUKAKIS, MICHAEL",Democrat,1,,,,Dukakis: man for the '90s,0.95
+KY,Louisville Courier-Journal,117400,1988,H,2,,KY,"NATCHER, WILLIAM H.",Democrat,1,,,,,0.85
+KY,Louisville Courier-Journal,117400,1988,H,3,,KY,"MAZZOLI, ROMANO L.",Democrat,1,,,,,0.9
+KY,Louisville Courier-Journal,117400,1988,H,7,,KY,"PERKINS, CARL C.",Democrat,1,,,,,0.8
+KY,Louisville Courier-Journal,117400,1988,H,2,IN,KY,"SHARP, PHILIP R.",Democrat,1,,,,Indiana,0.8
+KY,Louisville Courier-Journal,117400,1988,H,8,IN,KY,"MCCLOSKEY, FRANCIS",Democrat,1,,,,Indiana,0.8
+KY,Louisville Courier-Journal,117400,1988,H,9,IN,KY,"HAMILTON, LEE",Democrat,1,,,,Indiana,0.85
+KY,Louisville Courier-Journal,117400,1988,GOVERNOR,,IN,KY,"GRIFFIN, JOHN MUTZ",,1,,,,Indiana Governor & Lt Governor,0.6
+KY,Louisville Courier-Journal,117400,1990,SENATOR,,KY,KY,"SLOANE, HARVEY",Democrat,1,,,,"McConnell incumbent; Kick Sloane in the tail, and into the Senate",0.95
+KY,Louisville Courier-Journal,117400,1990,ASSESSOR,,,KY,"HARPER-ANGEL, DENISE",Democrat,1,,,,PVA - Jefferson County Property Valuation Administrator,0.95
+KY,Louisville Courier-Journal,117400,1990,H,2,,KY,"NATCHER, WILLIAM H.",Democrat,1,,,,,0.85
+KY,Louisville Courier-Journal,117400,1990,H,3,,KY,"MAZZOLI, ROMANO L.",Democrat,1,,,,,0.95
+KY,Louisville Courier-Journal,117400,1990,H,9,IN,KY,"HAMILTON, LEE",Democrat,1,,,,Indiana,0.85
+KY,Louisville Courier-Journal,117400,1990,SUPREME COURT,4,,KY,"JOHNSTON, CHARLES M.",,1,,,,KY Supreme Court 4th Division,0.85
+KY,Louisville Courier-Journal,117400,1990,JUDGE,,,KY,"KNOPF, THOMAS J.",,1,,,,Jefferson Circuit Judge,0.85
+KY,Louisville Courier-Journal,117400,1990,JUDGE,12,,KY,"DOUGLAS, LAURA W.",,1,,,,Jefferson District Court 12th Division,0.75
+KY,Louisville Courier-Journal,117400,1990,JUDGE,15,,KY,"VICTOR, KARL R.",,1,,,,Jefferson District Court 15th Division,0.75
+KY,Louisville Courier-Journal,117400,1990,SCHOOL BOARD,3,,KY,"DONOVAN, LEONARD J.",,1,,,,Jefferson County School Board District 3,0.8
+KY,Louisville Courier-Journal,117400,1990,SCHOOL BOARD,5,,KY,"HARRELL, JOSEPH L.",,1,,,,Jefferson County School Board District 5,0.8
+KY,Louisville Courier-Journal,117400,1990,STATE SENATOR,19,,KY,"SHAUGHNESSY, TIM",Democrat,1,,,,,0.75
+KY,Louisville Courier-Journal,117400,1990,STATE REP,,,KY,"CLARKE, GERTA BENDL",Democrat,1,,,,KY State House,0.6
+KY,Louisville Courier-Journal,117400,1990,STATE REP,,,KY,"MAZZOLI, MARY",Democrat,1,,,,KY State House,0.5
+KY,Louisville Courier-Journal,117400,1990,STATE REP,,,KY,"WAYNE, JIM",Democrat,1,,,,KY State House,0.7

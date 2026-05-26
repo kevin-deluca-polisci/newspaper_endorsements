@@ -1,0 +1,191 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+DC,Washington Post,107050,1983,VA,BOND,,"Arlington County bond issues (transportation, conservation, water distribution)",1,Four bond issues; responsible leaders recommending Yes votes,0.8
+DC,Washington Post,107050,1984,VA,BOND,,"Arlington County bond issues (transportation, conservation, park/recreation, street/highway)",1,Four bond issues; responsible leaders recommending Yes votes,0.85
+DC,Washington Post,107050,1992,DC,REFERENDUM,41,Initiative Measure No. 41 - lowers campaign contribution limits,0,WaPo recommends voting 'Against',0.95
+DC,Washington Post,107050,1992,DC,REFERENDUM,,Death Penalty Proposal,0,WaPo recommends voting 'Against' - opposes congressional intrusion,0.95
+DC,Washington Post,107050,1996,VA,BOND,,Arlington streets and highways bond,1,WaPo recommends yes,0.95
+DC,Washington Post,107050,1996,VA,BOND,,Arlington schools bond,1,WaPo recommends yes,0.95
+DC,Washington Post,107050,1996,VA,BOND,,Arlington parks bond,1,WaPo recommends yes,0.95
+DC,Washington Post,107050,1996,VA,BOND,,Arlington Metrorail financing bond,1,WaPo recommends yes,0.95
+DC,Washington Post,107050,1998,DC,REFERENDUM,59,DC Initiative 59 - Legalization of marijuana for medical treatment,0,Post recommended NO,0.96
+DC,Washington Post,107050,1998,MD,REFERENDUM,1,Maryland statewide Question 1,1,YES,0.92
+DC,Washington Post,107050,1998,MD,REFERENDUM,2,Maryland statewide Question 2,1,YES,0.92
+DC,Washington Post,107050,1998,MD,REFERENDUM,A,Montgomery County Question A,1,YES,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,B,Montgomery County Question B,1,YES,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,C,Montgomery County Question C,1,YES,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,D,Montgomery County Question D,0,NO,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,E,Montgomery County Question E,0,NO,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,F,Montgomery County Question F,1,YES,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,H,Montgomery County Question H,0,NO,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,A,Prince George's County Question A,1,YES,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,B,Prince George's County Question B,1,YES,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,C,Prince George's County Question C,1,YES,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,D,Prince George's County Question D,1,YES,0.9
+DC,Washington Post,107050,1998,MD,REFERENDUM,E,Prince George's County Question E,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,1,Virginia statewide Question 1,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,2,Virginia statewide Question 2,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,3,Virginia statewide Question 3,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,4,Virginia statewide Question 4,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,5,Virginia statewide Question 5,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,1,Arlington County Question 1,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,2,Arlington County Question 2,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,3,Arlington County Question 3,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,4,Arlington County Question 4,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,1,Fairfax County Question 1,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,2,Fairfax County Question 2,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,1,Prince William County Question 1,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,2,Prince William County Question 2,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,3,Prince William County Question 3,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,1,Loudoun County Question 1,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,2,Loudoun County Question 2,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,3,Loudoun County Question 3,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,4,Loudoun County Question 4,1,YES,0.9
+DC,Washington Post,107050,1998,VA,REFERENDUM,5,Loudoun County Question 5,1,YES,0.9
+DC,Washington Post,107050,2000,MD,REFERENDUM,A,MD - Cecil County Elections,1,FOR,0.9
+DC,Washington Post,107050,2000,MD,REFERENDUM,B,MD - Prince George's Land Acquisition,1,FOR,0.9
+DC,Washington Post,107050,2000,MD,REFERENDUM,A,Montgomery County - Special Spending,1,FOR,0.9
+DC,Washington Post,107050,2000,MD,REFERENDUM,B,Montgomery County - Temporary County Employees,1,FOR,0.9
+DC,Washington Post,107050,2000,MD,REFERENDUM,C,Montgomery County - Ficker Term Limits Proposal,0,AGAINST,0.9
+DC,Washington Post,107050,2000,MD,REFERENDUM,A,"Prince George's - Term Limit Repeal, County Executive",1,FOR,0.9
+DC,Washington Post,107050,2000,MD,REFERENDUM,B,"Prince George's - Term Limit Repeal, Council",1,FOR,0.9
+DC,Washington Post,107050,2000,MD,BOND,C,"Prince George's - Bonds, Police, Fire Stations",1,FOR,0.9
+DC,Washington Post,107050,2000,MD,BOND,D,"Prince George's - Bonds, Community College",1,FOR,0.9
+DC,Washington Post,107050,2000,MD,BOND,E,"Prince George's - Bonds, Libraries",1,FOR,0.9
+DC,Washington Post,107050,2000,MD,BOND,F,"Prince George's - Bonds, Public Works, Transportation",1,FOR,0.9
+DC,Washington Post,107050,2000,MD,BOND,G,"Prince George's - Bonds, Other County Buildings",1,FOR,0.9
+DC,Washington Post,107050,2000,MD,REFERENDUM,H,"Prince George's - Cut Residential Trash Pickup Fees, Impose Commercial Fee",1,FOR,0.9
+DC,Washington Post,107050,2000,VA,AMENDMENT,1,Virginia Constitutional Question 1 - Lottery Proceeds for Education,0,NO,0.9
+DC,Washington Post,107050,2000,VA,AMENDMENT,2,Virginia Constitutional Question 2 - Right to Hunt and Fish,0,NO,0.9
+DC,Washington Post,107050,2001,VA,BOND,,Fairfax County school bond issue,1,Approval merit,0.9
+DC,Washington Post,107050,2001,VA,BOND,,"Loudoun County bond referendum (schools, parks, library)",1,Approval merit,0.9
+DC,Washington Post,107050,2002,DC,REFERENDUM,62,DC Initiative Measure No. 62,0,Against,0.92
+DC,Washington Post,107050,2002,DC,REFERENDUM,A,DC Advisory Referendum A,1,For,0.92
+DC,Washington Post,107050,2002,MD,AMENDMENT,1,Maryland state constitutional amendment Question 1,1,For,0.9
+DC,Washington Post,107050,2002,MD,AMENDMENT,2,Maryland state constitutional amendment Question 2,1,For,0.9
+DC,Washington Post,107050,2002,MD,AMENDMENT,3,Maryland state constitutional amendment Question 3,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,A,Montgomery County Ballot Question A,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,B,Montgomery County Ballot Question B,0,Against,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,C,Montgomery County Ballot Question C,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,A,Prince George's Ballot Question A,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,B,Prince George's Ballot Question B,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,C,Prince George's Ballot Question C,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,D,Prince George's Ballot Question D,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,E,Prince George's Ballot Question E,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,F,Prince George's Ballot Question F,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,G,Prince George's Ballot Question G,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,H,Prince George's Ballot Question H,1,For,0.9
+DC,Washington Post,107050,2002,MD,REFERENDUM,I,Prince George's Ballot Question I,1,For,0.9
+DC,Washington Post,107050,2002,VA,AMENDMENT,1,Virginia Amendment Proposal 1,1,Yes,0.9
+DC,Washington Post,107050,2002,VA,AMENDMENT,2,Virginia Amendment Proposal 2,1,Yes,0.9
+DC,Washington Post,107050,2002,VA,BOND,1,Virginia Bond Proposal 1,1,Yes,0.9
+DC,Washington Post,107050,2002,VA,BOND,2,Virginia Bond Proposal 2,1,Yes,0.9
+DC,Washington Post,107050,2002,VA,REFERENDUM,,Northern Virginia Sales and Use Tax (transportation referendum),1,Yes,0.9
+DC,Washington Post,107050,2002,VA,BOND,1,Arlington County bond issue Question 1,1,For,0.9
+DC,Washington Post,107050,2002,VA,BOND,2,Arlington County bond issue Question 2,1,For,0.9
+DC,Washington Post,107050,2002,VA,BOND,3,Arlington County bond issue Question 3,1,For,0.9
+DC,Washington Post,107050,2004,MD,REFERENDUM,A,Montgomery County Question A - Property tax freeze,0,No,0.92
+DC,Washington Post,107050,2004,MD,REFERENDUM,B,"Montgomery County Question B - Term limits, county council",0,No,0.92
+DC,Washington Post,107050,2004,MD,REFERENDUM,C,Montgomery County Question C - Eliminating four at-large council members,0,No,0.92
+DC,Washington Post,107050,2004,MD,BOND,A,Prince George's Question A - Bonds,1,Yes,0.9
+DC,Washington Post,107050,2004,MD,BOND,B,Prince George's Question B - Bonds,1,Yes,0.9
+DC,Washington Post,107050,2004,MD,BOND,C,Prince George's Question C - Bonds,1,Yes,0.9
+DC,Washington Post,107050,2004,MD,BOND,D,Prince George's Question D - Bonds,1,Yes,0.9
+DC,Washington Post,107050,2004,MD,BOND,E,Prince George's Question E - Bonds,1,Yes,0.9
+DC,Washington Post,107050,2004,MD,REFERENDUM,F,Prince George's Question F - Barring district members of council from at-large seats after term limits,1,Yes,0.9
+DC,Washington Post,107050,2004,MD,REFERENDUM,H,Prince George's Question H - Adding two at-large seats to council,1,Yes,0.9
+DC,Washington Post,107050,2004,VA,AMENDMENT,1,Virginia Amendment Proposal No. 1 - Filling vacancies after decennial redistricting,1,Yes,0.92
+DC,Washington Post,107050,2004,VA,AMENDMENT,2,Virginia Amendment Proposal No. 2 - Expanding line of succession to governor,1,Yes,0.92
+DC,Washington Post,107050,2004,VA,BOND,1,"Arlington bond referendum 1 - Local parks/recreation, transportation, Metro, public schools",1,Yes,0.9
+DC,Washington Post,107050,2004,VA,BOND,2,Arlington bond referendum 2,1,Yes,0.9
+DC,Washington Post,107050,2004,VA,BOND,3,Arlington bond referendum 3,1,Yes,0.9
+DC,Washington Post,107050,2004,VA,BOND,4,Arlington bond referendum 4,1,Yes,0.9
+DC,Washington Post,107050,2004,VA,BOND,,"Fairfax County bond referendums (4) - Human services, library, parks, transportation",1,Yes,0.9
+DC,Washington Post,107050,2005,VA,BOND,,Fairfax County School Bond $246.3 million for new elementary school and renovations,1,Yes,0.92
+DC,Washington Post,107050,2005,VA,BOND,,Loudoun County nine bond proposals - schools and fire station,1,Yes,0.92
+DC,Washington Post,107050,2006,MD,REFERENDUM,1,MD appellate judicial nominee 1,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,2,MD appellate judicial nominee 2,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,3,MD appellate judicial nominee 3,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,4,MD appellate judicial nominee 4,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,5,MD appellate judicial nominee 5,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,6,MD appellate judicial nominee 6,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,7,MD appellate judicial nominee 7,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,1,MD Ballot Question 1,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,2,MD Ballot Question 2,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,3,MD Ballot Question 3,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,4,MD Ballot Question 4,0,No,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,A,Montgomery County Question A,0,No,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,B,Montgomery County Question B,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,A,Prince George's Question A,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,B,Prince George's Question B,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,C,Prince George's Question C,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,D,Prince George's Question D,0,No,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,E,Prince George's Question E,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,F,Prince George's Question F,0,No,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,G,Prince George's Question G,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,H,Prince George's Question H,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,I,Prince George's Question I,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,J,Prince George's Question J,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,K,Prince George's Question K,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,L,Prince George's Question L,1,Yes,0.9
+DC,Washington Post,107050,2006,MD,REFERENDUM,M,Prince George's Question M,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,AMENDMENT,1,Virginia Ballot Question 1 (Marriage amendment),0,No,0.9
+DC,Washington Post,107050,2006,VA,AMENDMENT,2,Virginia Ballot Question 2,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,AMENDMENT,3,Virginia Ballot Question 3,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,1,Prince William County bond Question 1,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,2,Prince William County bond Question 2,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,3,Prince William County bond Question 3,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,1,Arlington bond referendum 1,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,2,Arlington bond referendum 2,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,3,Arlington bond referendum 3,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,4,Arlington bond referendum 4,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,5,Arlington bond referendum 5,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,1,Fairfax County bond Question 1,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,2,Fairfax County bond Question 2,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,1,Loudoun County bond Question 1,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,2,Loudoun County bond Question 2,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,3,Loudoun County bond Question 3,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,4,Loudoun County bond Question 4,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,5,Loudoun County bond Question 5,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,6,Loudoun County bond Question 6,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,7,Loudoun County bond Question 7,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,8,Loudoun County bond Question 8,1,Yes,0.9
+DC,Washington Post,107050,2006,VA,BOND,9,Loudoun County bond Question 9,1,Yes,0.9
+DC,Washington Post,107050,2007,VA,BOND,,Fairfax school construction bond,1,Vote yes,0.9
+DC,Washington Post,107050,2007,VA,BOND,,Fairfax transit bond,1,Vote yes,0.9
+DC,Washington Post,107050,2007,VA,BOND,,Loudoun school land bond,1,Vote yes,0.9
+DC,Washington Post,107050,2007,VA,BOND,,"Prince William bonds (fire, rescue, sheriff's stations, schools, community centers, library)",1,Vote yes,0.9
+DC,Washington Post,107050,2008,MD,REFERENDUM,1,MD early voting,1,Yes,0.9
+DC,Washington Post,107050,2008,MD,REFERENDUM,2,MD slots,0,No,0.9
+DC,Washington Post,107050,2008,MD,PUBLIC QUESTION,A,Montgomery: repeal of legally ineffective provisions,1,Yes,0.9
+DC,Washington Post,107050,2008,MD,PUBLIC QUESTION,B,Montgomery: property tax limit,0,No,0.9
+DC,Washington Post,107050,2008,MD,BOND,A,Prince George's bond referendum A,1,Yes,0.85
+DC,Washington Post,107050,2008,MD,BOND,B,Prince George's bond referendum B,1,Yes,0.85
+DC,Washington Post,107050,2008,MD,BOND,C,Prince George's bond referendum C,1,Yes,0.85
+DC,Washington Post,107050,2008,MD,BOND,D,Prince George's bond referendum D,1,Yes,0.85
+DC,Washington Post,107050,2008,MD,BOND,E,Prince George's bond referendum E,1,Yes,0.85
+DC,Washington Post,107050,2008,MD,PUBLIC QUESTION,F,Prince George's: telecommunications service sales and use tax,1,Yes,0.9
+DC,Washington Post,107050,2008,MD,PUBLIC QUESTION,G,Prince George's: extension of time for notice of public hearing on a bill,1,Yes,0.9
+DC,Washington Post,107050,2008,VA,REFERENDUM,,Arlington Redevelopment and Housing Authority,0,No,0.9
+DC,Washington Post,107050,2008,VA,BOND,,"Arlington bonds (Metro, Community Infrastructure, Utilities, Schools)",1,Yes,0.9
+DC,Washington Post,107050,2008,VA,REFERENDUM,,Loudoun Food and Beverage Tax,1,Yes,0.9
+DC,Washington Post,107050,2008,VA,BOND,,"Loudoun bonds (Fire/Rescue, Ashburn/Dulles schools)",1,Yes,0.9
+DC,Washington Post,107050,2008,VA,BOND,,Fairfax Parks and Park Facilities bond,1,Yes,0.9
+DC,Washington Post,107050,2009,VA,BOND,,Fairfax County School Construction Bond,1,Yes,0.9
+DC,Washington Post,107050,2010,DC,PUBLIC QUESTION,1,DC: Election of Attorney General,0,No,0.9
+DC,Washington Post,107050,2010,MD,PUBLIC QUESTION,1,MD: Constitutional Convention,0,Against,0.9
+DC,Washington Post,107050,2010,MD,PUBLIC QUESTION,A,Montgomery: Ambulance fees,1,For,0.9
+DC,Washington Post,107050,2010,VA,PUBLIC QUESTION,1,VA: Local Property Tax Relief,1,Yes,0.9
+DC,Washington Post,107050,2010,VA,PUBLIC QUESTION,2,VA: Disabled Veteran Property Tax Exemption,1,Yes,0.9
+DC,Washington Post,107050,2010,VA,PUBLIC QUESTION,3,VA: Increase Rainy Day Fund,1,Yes,0.9
+DC,Washington Post,107050,2014,DC,PUBLIC QUESTION,71,DC: Legalization of marijuana,0,No,0.9
+DC,Washington Post,107050,2014,MD,PUBLIC QUESTION,1,MD: Transportation Trust Fund,1,Yes,0.9
+DC,Washington Post,107050,2014,MD,PUBLIC QUESTION,J,Prince George's: extending county council and executive term limits,1,Yes,0.9
+DC,Washington Post,107050,2018,MD,PUBLIC QUESTION,1,MD: Require all tax revenue from casinos earmarked for K-12 public schools,0,No,0.9
+DC,Washington Post,107050,2018,MD,PUBLIC QUESTION,2,MD: Allow same-day voter registration on Election Day,1,Yes,0.9
+DC,Washington Post,107050,2020,MD,PUBLIC QUESTION,1,MD: Empower General Assembly to shift budget spending priorities,1,Yes,0.9
+DC,Washington Post,107050,2020,MD,PUBLIC QUESTION,2,MD: Legalize sports and event betting,1,Yes,0.9
+DC,Washington Post,107050,2020,MD,PUBLIC QUESTION,A,Montgomery: Shift property tax receipts cap to property tax rate cap,0,No,0.9
+DC,Washington Post,107050,2020,MD,PUBLIC QUESTION,B,Montgomery: Lock in current cap on inflation-linked property tax receipts,0,No,0.9
+DC,Washington Post,107050,2020,MD,PUBLIC QUESTION,C,Montgomery: Expand County Council to 11 members,0,No,0.9
+DC,Washington Post,107050,2020,MD,PUBLIC QUESTION,D,Montgomery: Shift to nine district seats County Council,0,No,0.9
+DC,Washington Post,107050,2020,VA,AMENDMENT,1,VA: Bipartisan commission on legislative and congressional redistricting,1,Yes,0.9

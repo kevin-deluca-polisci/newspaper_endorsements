@@ -1,0 +1,41 @@
+Newspaper Name: Dallas Morning News
+Alternative Names: The Dallas Morning News, DMN
+Years Published: 1885-present
+Newspaper ID number: 145050
+State: TX (Dallas, Dallas County)
+Number of clippings: 39
+Endorsement data years: 2012, 2016, 2018, 2020, 2022
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 155 (155 endorsed, 0 opposed)
+Total proposition records: 10 (10 YES, 0 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.50
+Mean: 0.95
+Max: 0.99
+
+--- NOTES ---
+Coverage: digital-era selective sampling — 2012 (1 clipping), 2016 (3 clippings of the same
+Hillary Clinton Presidential endorsement), 2018 (1 large slate), 2020 (Feb non-endorsement + Oct
+full slate), 2022 (32 clippings, mostly one-race-per-editorial across October plus a composite
+slate on Oct 24).
+
+Editorial format: digital era; each clipping is typically one race per editorial with a long
+explanatory write-up. Two large composite slates are present (2018-09-07, 2020-10-13, 2022-10-24)
+that recap many endorsements in a single piece.
+
+Notable history:
+- 2016: DMN's "We recommend Hillary Clinton" editorial was its first Democratic Presidential
+  endorsement since 1940 (broke a 76-year Republican streak)
+- 2020-02-16: paper announced it would NOT recommend a presidential candidate in 2020
+  (the editorial is recorded as a zero-endorsement clipping)
+- 2022-02-06 and 2022-03-07 primary clippings were also non-endorsement editorials
+- 2022 general election: DMN backed O'Rourke (D) for Governor, Collier (D) for Lt Gov,
+  Garza (D) for AG, Veasey/Allred/Johnson (Ds) for several US House races, but Hegar (R) for
+  Comptroller and all three R-incumbent TX Supreme Court justices (mixed-party pattern)
+
+Files in raw folder were a mix of PDF/JPG/PNG (179 files total). Hash-dedup reduced these to
+39 unique clippings; images were converted to PDF via img2pdf during folder setup.
+
+Compiled: 2026-05-24

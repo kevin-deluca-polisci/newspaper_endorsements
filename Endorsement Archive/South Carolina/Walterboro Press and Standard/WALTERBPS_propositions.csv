@@ -1,0 +1,21 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+SC,Walterboro Press and Standard,WALTERBPS,1950,SC,AMENDMENT,1,Eliminate poll tax requirement for voting,1,Vote YES on state wide amendments - editorial endorses all three statewide amendments,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1950,SC,AMENDMENT,2,Allow one registration certificate (county) for all voting incl municipal,1,,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1950,SC,AMENDMENT,3,Third statewide constitutional amendment,1,Editorial urges YES on all three statewide amendments,0.85
+SC,Walterboro Press and Standard,WALTERBPS,1962,SC,AMENDMENT,1,Modernize State Department of Education - change method of selecting State Board of Education members,1,Editorial 'Should Be Considered' urges YES,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1962,SC,AMENDMENT,,Allow voters to vote straight Democratic ticket (change ballot procedure),1,Editorial 'Should Be Changed' urges YES,0.85
+SC,Walterboro Press and Standard,WALTERBPS,1964,SC,AMENDMENT,,State constitutional amendments,1,Editorial 'Vote Yes' urges support for statewide amendments,0.85
+SC,Walterboro Press and Standard,WALTERBPS,1966,SC,AMENDMENT,,State constitutional amendment to allow only affected area to vote on local bond limit amendments,1,Editorial 'Should Be Passed',0.95
+SC,Walterboro Press and Standard,WALTERBPS,1968,SC,AMENDMENT,4,Allow Constitution to be rewritten by approving sections at a time (W.D. Workman study committee proposal),1,Editorial 'Should Vote Yes' - one of four state amendments,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1970,SC,AMENDMENT,,State constitutional amendment to revise education article,1,Editorial 'Should Be Favored' supports proposed amendment,0.8
+SC,Walterboro Press and Standard,WALTERBPS,1972,SC,AMENDMENT,,"Judicial Reform constitutional amendment - eliminate elected status for sheriffs, solicitors, clerks, coroners from Constitution",1,Editorial 'Must Be Passed',0.95
+SC,Walterboro Press and Standard,WALTERBPS,1972,SC,AMENDMENT,,Constitutional amendments including local Colleton amendment to raise legal bonded debt limit for industrial property,1,Editorial 'Amendments Needed' supports state and local amendments,0.85
+SC,Walterboro Press and Standard,WALTERBPS,1974,SC,REFERENDUM,,Merger of Edisto Beach into Colleton County (from Charleston County),1,Editorial 'Well Endorsed' urges YES vote on merger,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1976,SC,REFERENDUM,,County council referendum - establish council-administrator form of government,1,Editorial 'Administrator Needed' supports administrator form,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1976,SC,REFERENDUM,,County council election method - at-large vs single-member districts,1,Editorial 'At-Large Best Method' supports at-large election method,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1978,SC,BOND,,Colleton County school bond referendum to build new high school,1,"Editorial 'An Obligation' supports school bond referendum, criticizes Farm Bureau Board opposition",0.95
+SC,Walterboro Press and Standard,WALTERBPS,1980,SC,REFERENDUM,,Colleton County public hospital referendum,1,Vote Yes,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1990,SC,REFERENDUM,,Colleton County local option sales tax referendum,1,Yes,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1998,SC,REFERENDUM,3,Walterboro-Colleton Airport Commission structure change,0,Vote No,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2006,SC,REFERENDUM,,Edisto Beach bond referendum to issue up to $3.75 million to purchase Bell Buoy property on Big Bay Creek,1,Vote Yes,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2006,SC,REFERENDUM,,Edisto Beach bond referendum (Bell Buoy property purchase),1,Yes,0.95

@@ -1,0 +1,27 @@
+Newspaper Name: Chattanooga News-Free Press
+Alternative Names: The News-Free Press
+Years Published: 1936-1999 (formed from merger of Chattanooga News and Chattanooga Free Press;
+                 became Chattanooga Times Free Press in 1999 after merger with Chattanooga Times)
+Newspaper ID number: 143901
+State: TN (Chattanooga, Hamilton County)
+Number of clippings: 14
+Endorsement data years: 1940, 1944, 1946, 1948, 1952, 1956, 1958, 1960, 1962, 1968, 1970, 1972, 1974
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 83 (73 endorsed, 9 opposed)
+Total proposition records: 22 (13 YES, 9 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.70
+Mean: 0.89
+Max: 0.95
+
+--- NOTES ---
+Coverage: 1940-1974 (continuous even years). Original 1940-1962 coverage augmented 2026-05-23
+with 4 new clippings (1968, 1970, 1972, 1974) from a 4-page bundle in raw/more chattanooga.
+
+Editorial pattern: The News-Free Press was the Republican-leaning afternoon paper in
+Chattanooga (vs. the Democrat-leaning Times). Notable picks: Willkie 1940, Nixon 1968/72,
+Brock 1970 Senate, Dunn 1970 Gov, Alexander 1974.
+
+Compiled: 2026-05-24

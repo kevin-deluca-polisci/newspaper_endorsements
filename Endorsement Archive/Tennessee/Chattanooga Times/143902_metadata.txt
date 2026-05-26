@@ -1,0 +1,33 @@
+Newspaper Name: Chattanooga Times
+Alternative Names: The Chattanooga Times, Chattanooga Daily Times
+Years Published: 1869-1999 (became Chattanooga Times Free Press in 1999 after merger)
+Newspaper ID number: 143902
+State: TN (Chattanooga, Hamilton County)
+Number of clippings: 25
+Endorsement data years: 1922, 1924, 1928, 1930, 1932, 1934, 1936, 1940, 1942, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1968, 1970, 1972, 1974
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 181 (161 endorsed, 15 opposed)
+Total proposition records: 19 (3 YES, 6 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.75
+Mean: 0.95
+Max: 1.00
+
+--- NOTES ---
+Coverage: 1922-1974 (continuous even years). Initial extraction covered 1922-1962;
+additional 1968-1974 clippings added via 4-page bundle from raw/more chattanooga.
+
+Folder standardization: this folder was originally named done/Chattanooga_Times with
+non-standard CSV names (Chattanooga_Times_candidates.csv) and descriptive clipping
+filenames (Chattanooga_Times_YYYY.pdf). Standardized 2026-05-23 to standard convention:
+folder renamed to "Chattanooga Times" (no underscore), CSVs renamed to 143902_*.csv,
+clippings renamed to 143902_YYYYMMDD.pdf using TN election day lookup.
+
+Editorial pattern: The Times historically published one consolidated "In Today's Election"
+list on election day itself. The Times was the Democrat-leaning paper of the two
+Chattanooga dailies (the News-Free Press was Republican). Notable picks: backed
+Humphrey 1968, Hooker 1970, McGovern 1972, Alexander 1974 (broke Democratic pattern).
+
+Compiled: 2026-05-24

@@ -1,0 +1,34 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+SC,Rock Hill Herald,143450,1964,PRESIDENT,,,SC,"JOHNSON, LYNDON B",Democrat,1,,,,,0.95
+SC,Rock Hill Herald,143450,1964,VICE PRESIDENT,,,SC,"HUMPHREY, HUBERT",Democrat,1,,,,,0.95
+SC,Rock Hill Herald,143450,1968,PRESIDENT,,,SC,"NIXON, RICHARD M",Republican,1,,,,,0.95
+SC,Rock Hill Herald,143450,1968,SENATOR,,,SC,"HOLLINGS, FRITZ",Democrat,1,,,,,0.95
+SC,Rock Hill Herald,143450,1968,H,5,,SC,"GETTYS, TOM",Democrat,1,,,,,0.95
+SC,Rock Hill Herald,143450,1968,SENATOR,,,SC,"HOLLINGS, ERNEST F",Democrat,1,,,,Fritz Hollings; re-election,0.95
+SC,Rock Hill Herald,143450,2010,STATE REP,46,,SC,"SIMRILL, GARY",Republican,1,,,,,0.95
+SC,Rock Hill Herald,143450,2010,STATE REP,47,,SC,"POPE, TOMMY",Republican,1,,,,,0.95
+SC,Rock Hill Herald,143450,2010,SCHOOL BOARD,2,Rock Hill,SC,"THOMPSON, DAVID",,1,,,,Seat 2,0.95
+SC,Rock Hill Herald,143450,2010,SCHOOL BOARD,4,Rock Hill,SC,"SHARP, JANE",,1,,,,Seat 4,0.95
+SC,Rock Hill Herald,143450,2010,SCHOOL BOARD,,Rock Hill,SC,"VINING, JIM",,1,,,,At-large,0.95
+SC,Rock Hill Herald,143450,2010,H,5,,SC,"SPRATT, JOHN",Democrat,1,,,,,0.95
+SC,Rock Hill Herald,143450,2010,SUPERINTENDENT,,,SC,"HOLLEMAN, FRANK",Democrat,1,,,,State Superintendent of Education,0.95
+SC,Rock Hill Herald,143450,2010,CNTY COMM,2,York County,SC,"BAIRD, JOE",,1,,,,York County Council District 2,0.95
+SC,Rock Hill Herald,143450,2010,CNTY COMM,3,York County,SC,"CORNWELL-DAVES, NANCY",,1,,,,York County Council District 3,0.95
+SC,Rock Hill Herald,143450,2010,CNTY COMM,4,York County,SC,"RODDEY, WILLIAM BUMP",,1,,,,York County Council District 4,0.95
+SC,Rock Hill Herald,143450,2010,SENATOR,,,SC,"CLEMENTS, TOM",,1,,,,Green Party candidate,0.95
+SC,Rock Hill Herald,143450,2010,GOVERNOR,,,SC,"SHEHEEN, VINCENT",Democrat,1,,,,,0.95
+SC,Rock Hill Herald,143450,2012,SCHOOL BOARD,,Rock Hill,SC,"BALLOU, DAN",,1,,,,At-large seat; slight edge,0.95
+SC,Rock Hill Herald,143450,2012,SCHOOL BOARD,,Rock Hill,SC,"WINGATE, WAYNE",,1,,,,At-large seat,0.95
+SC,Rock Hill Herald,143450,2012,PRESIDENT,,,SC,"OBAMA, BARACK",Democrat,1,,,,,0.95
+SC,Rock Hill Herald,143450,2012,H,5,,SC,"MULVANEY, MICK",Republican,1,,,,,0.95
+SC,Rock Hill Herald,143450,2012,CNTY COMM,6,York County,SC,"WILLIAMS, CURT",Democrat,1,,,,York County Council District 6,0.9
+SC,Rock Hill Herald,143450,2012,CNTY COMM,2,York County,SC,"RINEHART, JOHN",Democrat,1,,,,York County Council District 2,0.9
+SC,Rock Hill Herald,143450,2014,STATE REP,26,,SC,"FELDER, RAYE",Republican,1,,1,,SC House District 26 (York County); incumbent,0.95
+SC,Rock Hill Herald,143450,2014,CNTY COMM,,,SC,"RODDEY, CARLISLE",,1,,,1,Chester County supervisor; incumbent since 1988,0.9
+SC,Rock Hill Herald,143450,2014,H,5,,SC,"MULVANEY, MICK",Republican,1,,1,,US House District 5; incumbent,0.95
+SC,Rock Hill Herald,143450,2014,SCHOOL BOARD,4,Rock Hill,SC,"LEE, MILDRED",,1,,,1,Rock Hill school board District 4; incumbent,0.9
+SC,Rock Hill Herald,143450,2014,SCHOOL BOARD,2,Rock Hill,SC,"HARPER, SARAH",,1,,,,Rock Hill school board District 2; challenger vs incumbent Ginny Moe,0.95
+SC,Rock Hill Herald,143450,2014,STATE REP,49,,SC,"KING, JOHN",Democrat,1,1,,,SC House District 49; incumbent,0.95
+SC,Rock Hill Herald,143450,2014,GOVERNOR,,,SC,"SHEHEEN, VINCENT",Democrat,1,,1,,Challenger to incumbent Gov. Nikki Haley (R),0.95
+SC,Rock Hill Herald,143450,2014,SENATOR,,,SC,"GRAHAM, LINDSEY",Republican,1,,1,,US Senate; incumbent,0.95
+SC,Rock Hill Herald,143450,2014,SENATOR,,,SC,"SCOTT, TIM",Republican,1,,1,,US Senate special election; appointed incumbent; slight edge over American Party candidate Jill Bossi,0.95

@@ -1,0 +1,156 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+TX,Dallas Morning News,145050,2012,PRESIDENT,,,TX,"ROMNEY, MITT",Republican,1,,,,"Opposed Obama (D), Johnson (L), Stein (G)",0.98
+TX,Dallas Morning News,145050,2012,SENATOR,,,TX,"SADLER, PAUL",Democrat,1,,,,"Opposed Cruz (R), Myers (L), Collins (G)",0.98
+TX,Dallas Morning News,145050,2012,H,4,,TX,"HALL, RALPH",Republican,1,1,,,16-term incumbent,0.97
+TX,Dallas Morning News,145050,2012,H,5,,TX,"HENSARLING, JEB",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2012,H,6,,TX,"BARTON, JOE",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2012,H,24,,TX,"MARCHANT, KENNY",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2012,H,26,,TX,"BURGESS, MICHAEL",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2012,H,30,,TX,"JOHNSON, EDDIE BERNICE",Democrat,1,1,,,,0.97
+TX,Dallas Morning News,145050,2012,H,32,,TX,"SESSIONS, PETE",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2012,H,33,,TX,"VEASEY, MARC",Democrat,1,,,,new district,0.97
+TX,Dallas Morning News,145050,2012,COURT OF CRIMINAL APPEALS,,,TX,"HAMPTON, KEITH",Democrat,1,,,,Presiding Judge; opposed Sharon Keller (R),0.97
+TX,Dallas Morning News,145050,2012,TX SUPREME COURT,Place 6,,TX,"HECHT, NATHAN",Republican,1,,1,,Place 6,0.97
+TX,Dallas Morning News,145050,2012,RAILROAD COMMISSION,,,TX,"CRADDICK, CHRISTI",Republican,1,,,,,0.97
+TX,Dallas Morning News,145050,2016,PRESIDENT,,,TX,"CLINTON, HILLARY",Democrat,1,,,,First Democratic presidential endorsement by DMN since before WWII; opposed Trump (R),0.99
+TX,Dallas Morning News,145050,2018,SENATOR,,,TX,"O'ROURKE, BETO",Democrat,1,,,,"Opposed Cruz (R), Dikeman (L)",0.98
+TX,Dallas Morning News,145050,2018,H,3,,TX,"TAYLOR, VAN",Republican,1,,,,Succeeding Sam Johnson,0.97
+TX,Dallas Morning News,145050,2018,H,4,,TX,"RATCLIFFE, JOHN",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2018,H,5,,TX,"GOODEN, LANCE",Republican,1,,,,Replacing retiring Hensarling,0.97
+TX,Dallas Morning News,145050,2018,H,6,,TX,"SANCHEZ, JANA LYNNE",Democrat,1,,,,"Opposed Ron Wright (R), Jason Harber",0.95
+TX,Dallas Morning News,145050,2018,H,12,,TX,"GRANGER, KAY",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2018,H,24,,TX,"MARCHANT, KENNY",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2018,H,26,,TX,"BURGESS, MICHAEL",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2018,H,32,,TX,"SESSIONS, PETE",Republican,1,,1,,"Opposed Allred (D), Baker",0.95
+TX,Dallas Morning News,145050,2018,H,33,,TX,"VEASEY, MARC",Democrat,1,1,,,,0.97
+TX,Dallas Morning News,145050,2018,GOVERNOR,,,TX,"ABBOTT, GREG",Republican,1,,1,,"Opposed Valdez (D), Tippetts",0.98
+TX,Dallas Morning News,145050,2018,LT GOVERNOR,,,TX,"COLLIER, MIKE",Democrat,1,,,,,0.97
+TX,Dallas Morning News,145050,2018,ATTORNEY GENERAL,,,TX,"NELSON, JUSTIN",Democrat,1,,,,"Opposed Paxton (R), Harris",0.97
+TX,Dallas Morning News,145050,2018,COMPTROLLER,,,TX,"HEGAR, GLENN",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2018,LAND COMMISSIONER,,,TX,"BUSH, GEORGE P.",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2018,AGRICULTURE COMMISSIONER,,,TX,"OLSON, KIM",Democrat,1,,,,Opposed Miller (R),0.97
+TX,Dallas Morning News,145050,2018,RAILROAD COMMISSION,,,TX,"CRADDICK, CHRISTI",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2018,TX SUPREME COURT,Place 2,,TX,"KIRKLAND, STEVEN",Democrat,1,,,,Place 2; opposed Blacklock (R),0.97
+TX,Dallas Morning News,145050,2018,TX SUPREME COURT,Place 4,,TX,"DEVINE, JOHN",Republican,1,,1,,Place 4,0.97
+TX,Dallas Morning News,145050,2018,COURT OF CRIMINAL APPEALS,Presiding Judge,,TX,"JACKSON, MARIA",Democrat,1,,,,Presiding judge; opposed Keller (R),0.97
+TX,Dallas Morning News,145050,2018,STATE BOARD OF ED,11,,TX,"HARDY, PATRICIA",Republican,1,,1,,Pat Hardy,0.95
+TX,Dallas Morning News,145050,2018,STATE BOARD OF ED,12,,TX,"SMITH, SUZANNE",Democrat,1,,,,,0.95
+TX,Dallas Morning News,145050,2018,STATE BOARD OF ED,13,,TX,"DAVIS, AICHA",Democrat,1,,,,Open seat,0.95
+TX,Dallas Morning News,145050,2018,STATE SENATOR,2,,TX,"SCUDDER, KENDALL",Democrat,1,,,,Opposed Bob Hall (R); name inferred from context,0.7
+TX,Dallas Morning News,145050,2018,STATE SENATOR,8,,TX,"PHARISS, MARK",Democrat,1,,,,Opposed Angela Paxton (R),0.95
+TX,Dallas Morning News,145050,2018,STATE SENATOR,9,,TX,"HANCOCK, KELLY",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,STATE SENATOR,10,,TX,"POWELL, BEVERLY",Democrat,1,,,,Opposed Burton (R),0.95
+TX,Dallas Morning News,145050,2018,STATE SENATOR,16,,TX,"JOHNSON, NATHAN",Democrat,1,,,,Opposed Huffines (R),0.95
+TX,Dallas Morning News,145050,2018,STATE SENATOR,30,,TX,"LOPEZ, KEVIN",Democrat,1,,,,Opposed Pat Fallon (R),0.95
+TX,Dallas Morning News,145050,2018,STATE REP,33,,TX,"HOLLAND, JUSTIN",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,63,,TX,"PARKER, TAN",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,64,,TX,"STUCKY, LYNN",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,65,,TX,"SIMMONS, RON",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,66,,TX,"SHAHEEN, MATT",Republican,1,,1,,Reluctant endorsement,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,67,,TX,"LEACH, JEFF",Republican,1,,1,,Opposed Sarah Depew,0.9
+TX,Dallas Morning News,145050,2018,STATE REP,70,,TX,"LUTON, JULIE",Democrat,1,,,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,89,,TX,"ASH, RAY",Democrat,1,,,,Open seat,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,102,,TX,"KOOP, LINDA",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,103,,TX,"ANCHIA, RAFAEL",Democrat,1,1,,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,105,,TX,"ANDERSON, RODNEY",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,106,,TX,"THOMPSON, RAMONA",Democrat,1,,,,Opposed Jared Patterson,0.9
+TX,Dallas Morning News,145050,2018,STATE REP,107,,TX,"NEAVE, VICTORIA",Democrat,1,1,,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,108,,TX,"MEYER, MORGAN",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,112,,TX,"BUTTON, ANGIE CHEN",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,113,,TX,"BOWERS, RHETTA ANDREWS",Democrat,1,,,,,0.95
+TX,Dallas Morning News,145050,2018,STATE REP,114,,TX,"TURNER, JOHN",Democrat,1,,,,,0.95
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,5th Court of Appeals Chief Justice,Dallas,TX,"LANG, DOUGLAS",Republican,1,,1,,"Chief Justice, 5th Dist Ct of Appeals",0.95
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,5th Court of Appeals Place 2,Dallas,TX,"EVANS, DAVID",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,5th Court of Appeals Place 5,Dallas,TX,"STODDART, CRAIG",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,5th Court of Appeals Place 9,Dallas,TX,"BOATRIGHT, JASON",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,5th Court of Appeals Place 10,Dallas,TX,"FRANCIS, MOLLY",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,5th Court of Appeals Place 11,Dallas,TX,"BROWNING, JOHN",Republican,1,,,,Inferred from context,0.8
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,5th Court of Appeals Place 12,Dallas,TX,"PIKL, JIM",Republican,1,,,,,0.95
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,5th Court of Appeals Place 13,Dallas,TX,"MIERS, ELIZABETH LANG",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,101st Judicial Court,Dallas,TX,"WILLIAMS, STACI",Democrat,1,,,,,0.9
+TX,Dallas Morning News,145050,2018,DISTRICT COURT JUDGE,283rd Judicial Court,Dallas,TX,"MAYS, LELA",Democrat,1,,,,,0.95
+TX,Dallas Morning News,145050,2018,DA/PROSECUTOR,,Dallas,TX,"JOHNSON, FAITH",Republican,1,,1,,,0.97
+TX,Dallas Morning News,145050,2018,CNTY JUDGE,,Dallas,TX,"JENKINS, CLAY",Democrat,1,1,,,,0.97
+TX,Dallas Morning News,145050,2018,SHERIFF,,Dallas,TX,"BROWN, MARIAN",Democrat,1,1,,,Interim sheriff,0.97
+TX,Dallas Morning News,145050,2018,CNTY COMM,2,Dallas,TX,"KOCH, J.J.",Republican,1,,,,,0.95
+TX,Dallas Morning News,145050,2018,CITY COUNCIL,4,Dallas,TX,"ROBINSON, JOLI ANGEL",Nonpartisan,1,,,,Special election,0.9
+TX,Dallas Morning News,145050,2020,SENATOR,,,TX,"CORNYN, JOHN",Republican,1,,1,,"Opposed Hegar (D), Collin (G), McKennon (L)",0.98
+TX,Dallas Morning News,145050,2020,H,3,,TX,"TAYLOR, VAN",Republican,1,,1,,Opposed Seikaly (D),0.97
+TX,Dallas Morning News,145050,2020,H,4,,TX,"FALLON, PAT",Republican,1,,,,"Opposed Foster (D), Antonelli (L)",0.97
+TX,Dallas Morning News,145050,2020,H,12,,TX,"GRANGER, KAY",Republican,1,,1,,Opposed Lisa Welch (D),0.95
+TX,Dallas Morning News,145050,2020,H,24,,TX,"VAN DUYNE, BETH",Republican,1,,,,"Opposed Valenzuela (D), Hamilton (L)",0.97
+TX,Dallas Morning News,145050,2020,H,26,,TX,"BURGESS, MICHAEL",Republican,1,,1,,Opposed Iannuzzi (D),0.97
+TX,Dallas Morning News,145050,2020,H,32,,TX,"ALLRED, COLIN",Democrat,1,1,,,Opposed Collins (R),0.97
+TX,Dallas Morning News,145050,2020,H,33,,TX,"VEASEY, MARC",Democrat,1,1,,,"Opposed Vasquez (R), Reeves (L)",0.97
+TX,Dallas Morning News,145050,2020,RAILROAD COMMISSION,,,TX,"CASTANEDA, CHRYSTA",Democrat,1,,,,"Opposed Jim Wright (R), Gruene (G), Sterett (L)",0.97
+TX,Dallas Morning News,145050,2020,STATE REP,65,,TX,"THIMESCH, KRONDA",Republican,1,,,,Opposed Beckley (D),0.95
+TX,Dallas Morning News,145050,2020,STATE REP,67,,TX,"LEACH, JEFF",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2020,STATE REP,89,,TX,"NOBLE, CANDY",Republican,1,,1,,Opposed Sugar Ray Ash (D),0.95
+TX,Dallas Morning News,145050,2020,STATE REP,102,,TX,"KOOP, LINDA",Republican,1,,,,Opposed Ramos (D),0.95
+TX,Dallas Morning News,145050,2020,STATE REP,106,,TX,"PATTERSON, JARED",Republican,1,,1,,Opposed Skidonenko (D),0.95
+TX,Dallas Morning News,145050,2020,STATE REP,107,,TX,"NEAVE, VICTORIA",Democrat,1,1,,,Opposed Smith (R),0.95
+TX,Dallas Morning News,145050,2020,STATE REP,108,,TX,"MEYER, MORGAN",Republican,1,,1,,,0.95
+TX,Dallas Morning News,145050,2020,STATE REP,109,,TX,"SHERMAN, CARL SR.",Democrat,1,1,,,Opposed Eugene Allen (R),0.9
+TX,Dallas Morning News,145050,2020,STATE REP,113,,TX,"BOWERS, RHETTA ANDREWS",Democrat,1,1,,,Opposed Douglas (R),0.95
+TX,Dallas Morning News,145050,2020,STATE REP,114,,TX,"DEL ROSAL, LUISA",Republican,1,,,,Opposed John Turner (D),0.9
+TX,Dallas Morning News,145050,2020,STATE REP,115,,TX,"JOHNSON, JULIE",Democrat,1,1,,,Opposed Brownlee (R),0.95
+TX,Dallas Morning News,145050,2020,SHERIFF,,Dallas,TX,"BROWN, MARIAN",Democrat,1,1,,,Opposed Prda (R),0.97
+TX,Dallas Morning News,145050,2020,CNTY COMM,,Dallas,TX,"DANIEL, THERESA",Democrat,1,1,,,"Dallas County Commissioner District 1 incumbent; name corrected from PRICE,THERESA DANIEL parsing error",0.75
+TX,Dallas Morning News,145050,2020,SCHOOL BOARD,2,Dallas ISD,TX,"MARSHALL, DUSTIN",Nonpartisan,1,,,,DISD Trustee,0.95
+TX,Dallas Morning News,145050,2020,SCHOOL BOARD,8,Dallas ISD,TX,"CARREON, JOE",Nonpartisan,1,,,,DISD Trustee,0.95
+TX,Dallas Morning News,145050,2020,MAYOR,,Denton,TX,"HUDSPETH, GERARD",Nonpartisan,1,,,,Denton mayor,0.95
+TX,Dallas Morning News,145050,2020,TX SUPREME COURT,Chief Justice,,TX,"HECHT, NATHAN",Republican,1,,1,,"Chief Justice; opposed Meachum (D), Waterbury (G), Ash (L)",0.97
+TX,Dallas Morning News,145050,2020,TX SUPREME COURT,Place 6,,TX,"BLAND, JANE",Republican,1,,1,,Place 6; opposed Cheng (D),0.97
+TX,Dallas Morning News,145050,2020,TX SUPREME COURT,Place 7,,TX,"BOYD, JEFF",Republican,1,,1,,"Place 7; opposed Williams (D), Strange (L); name inferred from context",0.85
+TX,Dallas Morning News,145050,2020,TX SUPREME COURT,Place 8,,TX,"BUSBY, BRETT",Republican,1,,1,,"Place 8; opposed Triana (D), Oxford (L)",0.97
+TX,Dallas Morning News,145050,2020,COURT OF CRIMINAL APPEALS,Place 3,,TX,"RICHARDSON, BERT",Republican,1,,1,,Place 3,0.95
+TX,Dallas Morning News,145050,2020,COURT OF CRIMINAL APPEALS,Place 4,,TX,"YEARY, KEVIN",Republican,1,,1,,Place 4; opposed Tina Clinton (D),0.95
+TX,Dallas Morning News,145050,2020,COURT OF CRIMINAL APPEALS,Place 9,,TX,"NEWELL, DAVID",Republican,1,,1,,Place 9; opposed Birmingham (D),0.95
+TX,Dallas Morning News,145050,2020,DISTRICT COURT JUDGE,5th Court of Appeals Place 3,Dallas,TX,"EVANS, DAVID",Republican,1,,1,,Fifth Court of Appeals Place 3,0.95
+TX,Dallas Morning News,145050,2020,DISTRICT COURT JUDGE,5th Court of Appeals Place 5,Dallas,TX,"SMITH, CRAIG",Democrat,1,,,,Opposed John Browning (R),0.95
+TX,Dallas Morning News,145050,2020,DISTRICT COURT JUDGE,5th Court of Appeals Place 8,Dallas,TX,"WHITEHILL, BILL",Republican,1,,1,,Opposed Garcia (D),0.95
+TX,Dallas Morning News,145050,2020,DISTRICT COURT JUDGE,96th District Court,Dallas,TX,"GALLAGHER, PAT",Republican,1,,,,,0.95
+TX,Dallas Morning News,145050,2020,DISTRICT COURT JUDGE,162nd District Court,Dallas,TX,"MOORE, MARICELA",Democrat,1,1,,,Opposed Jordan Lewis (R); district inferred from context,0.7
+TX,Dallas Morning News,145050,2020,DISTRICT COURT JUDGE,254th District Court,Dallas,TX,"BROWN, KIM",Democrat,1,,,,Opposed Wysocki (R),0.95
+TX,Dallas Morning News,145050,2020,DISTRICT COURT JUDGE,401st District Court,Dallas,TX,"HOLT, TONYA",Democrat,1,,,,Opposed Flint (R),0.95
+TX,Dallas Morning News,145050,2022,STATE REP,70,,TX,"JOLLY, JAMEE",Republican,1,,,,Opposed Mihaela Plesa (D); newly drawn district covering parts of Plano and southern Collin County,0.98
+TX,Dallas Morning News,145050,2022,STATE REP,33,,TX,"HOLLAND, JUSTIN",Republican,1,,1,,Opposed Graeson Lynskey (D); district covers Rockwall County and part of Collin County,0.98
+TX,Dallas Morning News,145050,2022,STATE REP,63,,TX,"WOOTEN, DENISE",Democrat,1,,,,Opposed Ben Bumgarner (R); reluctant endorsement,0.97
+TX,Dallas Morning News,145050,2022,STATE REP,65,,TX,"THIMESCH, KRONDA",Republican,1,,,,Denton County; open seat (Beckley vacated),0.98
+TX,Dallas Morning News,145050,2022,STATE REP,66,,TX,"SHAHEEN, MATT",Republican,1,,1,,Collin County; incumbent,0.98
+TX,Dallas Morning News,145050,2022,STATE REP,67,,TX,"LEACH, JEFF",Republican,1,,1,,Collin County; incumbent (sixth term),0.98
+TX,Dallas Morning News,145050,2022,STATE REP,102,,TX,"RAMOS, ANA-MARIA",Democrat,1,,,,Incumbent; over Republican Susan Fischer,0.97
+TX,Dallas Morning News,145050,2022,STATE REP,61,,TX,"KING, SHEENA",Democrat,1,,,,McKinney/Frisco/northern Collin County; opponent Frazier indicted,0.97
+TX,Dallas Morning News,145050,2022,STATE REP,105,,TX,"MEZA, TERRY",Democrat,1,1,,,Irving/Grand Prairie; incumbent since 2018,0.98
+TX,Dallas Morning News,145050,2022,STATE REP,108,,TX,"MEYER, MORGAN",Republican,1,,1,,Highland Park/north Dallas; incumbent (fifth term),0.97
+TX,Dallas Morning News,145050,2022,STATE REP,111,,TX,"DAVIS, YVONNE",Democrat,1,1,,,Duncanville/Red Bird/DeSoto/Grand Prairie; incumbent since 1993,0.98
+TX,Dallas Morning News,145050,2022,STATE REP,112,,TX,"BUTTON, ANGIE CHEN",Republican,1,,1,,Garland/Richardson/Rowlett/Sachse/Dallas; incumbent since 2009,0.98
+TX,Dallas Morning News,145050,2022,STATE REP,114,,TX,"LAMB, SARAH",Republican,1,,,,"North/East Dallas (M streets, Casa Linda, White Rock Lake); open seat (Turner departing)",0.97
+TX,Dallas Morning News,145050,2022,STATE REP,115,,TX,"JOHNSON, JULIE",Democrat,1,1,,,Farmers Branch/Carrollton/Coppell/Irving; two-term incumbent,0.97
+TX,Dallas Morning News,145050,2022,STATE SENATOR,12,,TX,"PARKER, TAN",Republican,1,,,,Dallas/Denton/Tarrant/Wise counties; newly drawn district; Parker currently HD63 state rep,0.98
+TX,Dallas Morning News,145050,2022,STATE SENATOR,16,,TX,"JOHNSON, NATHAN",Democrat,1,,,,Incumbent re-elected; defeated Don Huffines 2018,0.98
+TX,Dallas Morning News,145050,2022,STATE SENATOR,8,,TX,"COCKS, JONATHAN",Democrat,1,,,,Endorsed over incumbent Angela Paxton,0.98
+TX,Dallas Morning News,145050,2022,H,30,,TX,"CROCKETT, JASMINE",Democrat,1,,,,Open seat; retiring Eddie Bernice Johnson; defeating Republican James Rodgers,0.98
+TX,Dallas Morning News,145050,2022,H,32,,TX,"ALLRED, COLIN",Democrat,1,,,,Incumbent endorsed over Republican Antonio Swad,0.98
+TX,Dallas Morning News,145050,2022,H,5,,TX,"HILL, TARTISHA",Democrat,1,,,,Endorsed over incumbent Lance Gooden (R),0.97
+TX,Dallas Morning News,145050,2022,H,33,,TX,"VEASEY, MARC",Democrat,1,,,,Incumbent endorsed over Republican Patrick David Gillespie; Libertarian Ken Ashby also running,0.98
+TX,Dallas Morning News,145050,2022,TX SUPREME COURT,Place 3,,TX,"LEHRMANN, DEBRA",Republican,1,,,,Incumbent since 2010; over Dem Erin Nowell and Libertarian Tom Oxford,0.98
+TX,Dallas Morning News,145050,2022,TX SUPREME COURT,Place 5,,TX,"HUDDLE, REBECA",Republican,1,,,,Incumbent appointed 2020 by Abbott; over Dem Amanda Reichek,0.98
+TX,Dallas Morning News,145050,2022,TX SUPREME COURT,Place 9,,TX,"YOUNG, EVAN",Republican,1,,,,Incumbent appointed 2021 by Abbott; over Dem Julia Maldonado,0.98
+TX,Dallas Morning News,145050,2022,RAILROAD COMMISSION,,,TX,"WARFORD, LUKE",Democrat,1,,,,Endorsed over Republican incumbent chairman Wayne Christian,0.98
+TX,Dallas Morning News,145050,2022,AGRICULTURE COMMISSIONER,,,TX,"HAYS, SUSAN",Democrat,1,,,,Endorsed over Republican incumbent Sid Miller,0.98
+TX,Dallas Morning News,145050,2022,LAND COMMISSIONER,,,TX,"KLEBERG, JAY",Democrat,1,,,,Endorsed over Republican state Sen. Dawn Buckingham; open seat,0.98
+TX,Dallas Morning News,145050,2022,ATTORNEY GENERAL,,,TX,"GARZA, ROCHELLE",Democrat,1,,,,Endorsed over Republican incumbent Ken Paxton; Libertarian Mark Ash also running,0.98
+TX,Dallas Morning News,145050,2022,COMPTROLLER,,,TX,"HEGAR, GLENN",Republican,1,,,,Incumbent endorsed over Democrat Janet Tycelia Dudding,0.98
+TX,Dallas Morning News,145050,2022,GOVERNOR,,,TX,"O'ROURKE, BETO",Democrat,1,,,,Composite recap; over GOP incumbent Greg Abbott,0.98
+TX,Dallas Morning News,145050,2022,LT GOVERNOR,,,TX,"COLLIER, MIKE",Democrat,1,,,,Over GOP incumbent Dan Patrick,0.98
+TX,Dallas Morning News,145050,2022,H,12,,TX,"GRANGER, KAY",Republican,1,,,,Incumbent; over Democrat Trey Hunt,0.97
+TX,Dallas Morning News,145050,2022,STATE BOARD OF ED,11,,TX,"HARDY, PATRICIA 'PAT'",Republican,1,,,,Incumbent; over Democrat Luis Sifuentes,0.97
+TX,Dallas Morning News,145050,2022,STATE BOARD OF ED,12,,TX,"LITTLE, PAM",Republican,1,,,,Incumbent; over Democrat Alex Cornwallis,0.97
+TX,Dallas Morning News,145050,2022,CNTY JUDGE,,,TX,"JENKINS, CLAY",Democrat,1,,,,Incumbent over a decade; Dallas County Judge,0.97
+TX,Dallas Morning News,145050,2022,CNTY COMM,2,,TX,"KOCH, J.J.",Republican,1,,,,Incumbent; over Democrat Andrew Sommerman; Dallas County Commissioner Dist 2,0.97
+TX,Dallas Morning News,145050,2022,DA/PROSECUTOR,,,TX,"CREUZOT, JOHN",Democrat,1,,,,Incumbent Dallas County District Attorney; over Republican Faith Johnson,0.97
+TX,Dallas Morning News,145050,2022,CNTY JUDGE,,,TX,"PEOPLES, DEBORAH",Democrat,1,,,,Tarrant County Judge; over Republican Tim O'Hare,0.97
+TX,Dallas Morning News,145050,2022,CNTY JUDGE,,,TX,"JONES, DIANNE KATHRYN",Democrat,1,,,,Dallas County Court at Law No. 4; former prosecutor and judge,0.95
+TX,Dallas Morning News,145050,2022,CNTY JUDGE,,,TX,"TAYLOR, NICOLE",Democrat,1,,,,Dallas County Court at Law No. 5; over Republican Jordan Montgomery Lewis,0.95
+TX,Dallas Morning News,145050,2022,DISTRICT COURT JUDGE,303,,TX,"HUNTER, RHONDA",Democrat,1,,,,Texas 303rd District Court (family law),0.95

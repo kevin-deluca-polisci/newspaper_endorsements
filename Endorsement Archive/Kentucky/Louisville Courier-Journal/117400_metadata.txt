@@ -1,0 +1,50 @@
+Newspaper Name: Louisville Courier-Journal
+Alternative Names: The Courier-Journal, IndyStar (informal), The C-J
+Years Published: founded 1868 (merger of Louisville Daily Journal + Louisville Morning Courier)
+Newspaper ID number: 117400
+State: KY (Louisville, Jefferson County -- KY-3 Congressional District)
+Number of clippings: 55
+Endorsement data years: 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 192 (192 endorsed, 0 opposed)
+Total proposition records: 43 (39 YES, 4 NO)
+
+--- CONFIDENCE SCORES ---
+Min: 0.50
+Mean: 0.89
+Max: 0.95
+
+--- NOTES ---
+Coverage: 1960-1990 continuous biennial. The Courier-Journal was Bingham-family-owned from
+1918 until Gannett's 1986 purchase. Historically considered Kentucky's "Newspaper of Record"
+and ranked among the 10 best dailies in the US (per Wikipedia). Won the 1917, 1975, 1991,
+and 2021 Pulitzer Prizes (multiple categories).
+
+Editorial pattern: Strongly Democratic-leaning at federal level. Presidential picks captured:
+- 1960: Kennedy (D)
+- 1964: LBJ (D)
+- 1968: Humphrey (D)
+- 1972: McGovern (D)
+- 1976: Carter (D)
+- 1980: Carter (D)
+- 1984: Mondale (D)
+- 1988: Dukakis (D)
+
+KY-3 Congressional consistently backed Mazzoli (D) throughout the 1970s-90s.
+
+Notable coverage areas: Jefferson County School Board races (heavy 1960s/70s coverage),
+Louisville Board of Aldermen, KY state legislative + judicial races. The paper also endorsed
+some Indiana races (Senator/House) since Louisville's media market extends into Southern
+Indiana — these are coded with state_election=KY for simplicity per the convention of using
+the newspaper's state.
+
+The paper's editorial board was particularly active on KY constitutional amendments
+(including the 1966 new KY Constitution rewrite and the Broad Form Deed Amendment 2 in 1988
+backed YES).
+
+Hash-dedup: 224 raw PDFs -> 56 unique by SHA-256. 55 DELUCA-named + 1 Wikipedia reference
+PDF (skipped). Two non-endorsement placeholder records dropped during cleanup (1978 Snyder
+critique + 1990 Indiana Coats non-endorsement marker).
+
+Compiled: 2026-05-26

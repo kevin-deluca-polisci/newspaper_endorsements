@@ -1,0 +1,74 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+OH,Dayton Journal Herald,135102,1962,OH,AMENDMENT,,Lawson 'Sunday Necessities' Amendment to OH Constitution,0,Editorial opposes the amendment,0.95
+OH,Dayton Journal Herald,135102,1962,OH,BOND,,"Greene County $515,000 bond issue for new jail",1,,0.95
+OH,Dayton Journal Herald,135102,1962,OH,BOND,,"Greene County $480,000 bond issue for courthouse office annex",1,,0.95
+OH,Dayton Journal Herald,135102,1962,OH,REFERENDUM,,Greene County one-half mill operating levy,1,,0.95
+OH,Dayton Journal Herald,135102,1968,OH,AMENDMENT,1,State Issue One,1,Endorsed,0.9
+OH,Dayton Journal Herald,135102,1968,OH,REFERENDUM,,Montgomery County Children's levy,1,,0.9
+OH,Dayton Journal Herald,135102,1968,OH,REFERENDUM,,Dayton city charter amendment proposals,1,,0.9
+OH,Dayton Journal Herald,135102,1968,OH,BOND,,Dayton city school district renewal,1,,0.9
+OH,Dayton Journal Herald,135102,1970,OH,AMENDMENT,2,Reduce voter residency requirement from one year to six months,1,Proposed Constitutional Amendment No. 2,0.95
+OH,Dayton Journal Herald,135102,1970,OH,AMENDMENT,1,Homestead Exemption Amendment - tax reform for elderly age 65+,1,Issue One,0.95
+OH,Dayton Journal Herald,135102,1970,OH,AMENDMENT,3,Allow newspaper advertising in lieu of mailed notice for proposed municipal charter amendments,1,,0.95
+OH,Dayton Journal Herald,135102,1972,OH,AMENDMENT,II,Repeal graduated state income tax; prohibit graduated tax; require referendum for flat-rate income tax,0,JH urges NO,0.95
+OH,Dayton Journal Herald,135102,1972,OH,AMENDMENT,I,Constitutional Convention,0,JH recommends NO,0.95
+OH,Dayton Journal Herald,135102,1972,OH,AMENDMENT,II,Repeal of State Income Tax,0,JH recommends NO,0.95
+OH,Dayton Journal Herald,135102,1972,OH,REFERENDUM,,Half-percent increase in Dayton city income tax,1,,0.95
+OH,Dayton Journal Herald,135102,1972,OH,BOND,,1.5-mill Montgomery County mental health levy,1,,0.95
+OH,Dayton Journal Herald,135102,1972,OH,BOND,,1.55-mill renewal for Montgomery County Joint Vocational School District,1,,0.95
+OH,Dayton Journal Herald,135102,1972,OH,BOND,,1-mill park levy for Englewood,1,,0.95
+OH,Dayton Journal Herald,135102,1972,OH,REFERENDUM,,Kettering charter revision to permit direct election of mayor,1,,0.95
+OH,Dayton Journal Herald,135102,1972,OH,REFERENDUM,,Local option questions on Sunday sale of liquor,1,,0.9
+OH,Dayton Journal Herald,135102,1972,OH,BOND,,School levies and bond issues,1,,0.9
+OH,Dayton Journal Herald,135102,1972,OH,REFERENDUM,,Dayton charter revision,0,JH recommends NO,0.95
+OH,Dayton Journal Herald,135102,1974,OH,AMENDMENT,,Three state constitutional issues,1,JH recommends YES on all three state issues,0.9
+OH,Dayton Journal Herald,135102,1974,OH,REFERENDUM,,.47-mill Montgomery County mental retardation levy renewal,1,,0.95
+OH,Dayton Journal Herald,135102,1974,OH,REFERENDUM,,Dayton-Montgomery County Park District levy of .5 mills (renewal of .28 + increase of .22),1,,0.95
+OH,Dayton Journal Herald,135102,1974,OH,REFERENDUM,,Increase Kettering city income tax from 1 percent to 2 percent,1,,0.95
+OH,Dayton Journal Herald,135102,1974,OH,REFERENDUM,,Dayton Charter amendments: city notice of charter amendments by newspaper publication and change date of primary elections to conform with state law,1,,0.95
+OH,Dayton Journal Herald,135102,1974,OH,BOND,,School levies and bond issues in affected school districts,1,urges yes on school building needs/inflation levies,0.9
+OH,Dayton Journal Herald,135102,1976,OH,AMENDMENT,1,Constitutional amendment to remove obsolete language,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,AMENDMENT,2,Clarify succession to office of governor,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,AMENDMENT,3,Require declaration of election results for state executive offices at next regular session of General Assembly,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,AMENDMENT,4,"Establish lifeline rate structure for public utilities (residential consumers pay no more than average rate for first 400 kWh / first 20,000 cu ft natural gas)",0,JH recommends NO,0.95
+OH,Dayton Journal Herald,135102,1976,OH,AMENDMENT,5,Create Residential Utility Consumer Action Group (RUCAG) to represent residential customers,0,JH recommends NO,0.95
+OH,Dayton Journal Herald,135102,1976,OH,AMENDMENT,6,"Require General Assembly to license nuclear power plants, specify restrictive criteria, hold public hearings before granting licenses",0,JH recommends NO,0.95
+OH,Dayton Journal Herald,135102,1976,OH,AMENDMENT,7,Simplify the process for placing constitutional amendments on the ballot by petition; permit referendum on legislation enacted by General Assembly,0,JH recommends NO,0.95
+OH,Dayton Journal Herald,135102,1976,OH,REFERENDUM,8,Renewal of 1.34-mill tax levy for 10 years for Montgomery County Board of Mental Health and Mental Retardation,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,BOND,9,.4-mill tax levy for 3 years to finance construction of Montgomery County nursing home,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,REFERENDUM,10,.4-mill tax levy for 5 years to provide operating funds for county nursing home,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,BOND,,Kettering City School District: 4.9-mill additional tax levy for current operating expenses,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,BOND,,"Centerville City School District: 2-mill additional tax levy for two years for renovating, furnishing, equipping existing school buildings",1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,BOND,,Northmont Local School District: 7-mill additional tax levy for current expenses,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,BOND,,Trotwood-Madison City School District: 3.75-mill additional tax levy for current operating expenses,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,BOND,,Valley View Local School District: 3-mill additional tax levy for current operating expenses,1,,0.95
+OH,Dayton Journal Herald,135102,1976,OH,BOND,,Wayne Township Local School District: 4-mill additional tax levy for current operating expenses,1,,0.95
+OH,Dayton Journal Herald,135102,1978,OH,AMENDMENT,1,State constitutional issue (Journal Herald recommends yes),1,,0.85
+OH,Dayton Journal Herald,135102,1978,OH,AMENDMENT,2,State constitutional issue allowing General Assembly to regulate employment of prison labor and the sale of prison-made goods,1,JH would modify but supports,0.85
+OH,Dayton Journal Herald,135102,1978,OH,REFERENDUM,,Dayton city 1.75 percent income tax (renewal of 1.75 percent income tax),1,to preserve acceptable level of local governmental services,0.9
+OH,Dayton Journal Herald,135102,1978,OH,BOND,,5.9-mill Dayton school levy,1,,0.95
+OH,Dayton Journal Herald,135102,1978,OH,BOND,,5.9-mill Oakwood school levy,1,,0.95
+OH,Dayton Journal Herald,135102,1980,OH,AMENDMENT,1,Tax reform - sensible start on tax reform,1,,0.9
+OH,Dayton Journal Herald,135102,1980,OH,AMENDMENT,2,Huge tax increase coupled with regressive tax changes,0,JH recommends NO,0.95
+OH,Dayton Journal Herald,135102,1980,OH,REFERENDUM,3,Montgomery County levy - most equitable way for paying necessary services for less fortunate,1,,0.9
+OH,Dayton Journal Herald,135102,1980,OH,REFERENDUM,4,Montgomery County levy - most equitable way for paying necessary services for less fortunate,1,,0.9
+OH,Dayton Journal Herald,135102,1980,OH,REFERENDUM,5,Dayton Charter amendment - would open city government to individuals unjustly denied opportunity to participate,1,,0.9
+OH,Dayton Journal Herald,135102,1980,OH,REFERENDUM,6,Dayton Charter amendment - necessary to help Dayton attract best available elected officials,1,,0.9
+OH,Dayton Journal Herald,135102,1980,OH,REFERENDUM,7,Dayton Charter amendment - commissioners saddled with unnecessary paperwork and purchasing delays,1,,0.9
+OH,Dayton Journal Herald,135102,1980,OH,BOND,,"School levies in 8 districts: Miamisburg, West Carrollton, Valley View, New Lebanon, Jefferson Twp, Brookville, Trotwood-Madison, Centerville, Bethel Local",1,,0.9
+OH,Dayton Journal Herald,135102,1980,OH,REFERENDUM,,Greene County half-percent sales tax for countywide transit service,1,,0.9
+OH,Dayton Journal Herald,135102,1980,OH,REFERENDUM,,Greene County 0.3-mill additional operating levy for county health department,1,,0.9
+OH,Dayton Journal Herald,135102,1982,OH,AMENDMENT,1,State Issue 1,1,JH recommends YES,0.9
+OH,Dayton Journal Herald,135102,1982,OH,AMENDMENT,2,State Issue 2,1,JH recommends YES,0.9
+OH,Dayton Journal Herald,135102,1982,OH,AMENDMENT,3,State Issue 3,0,JH recommends NO,0.9
+OH,Dayton Journal Herald,135102,1982,OH,REFERENDUM,,City Charter Amendment,1,,0.9
+OH,Dayton Journal Herald,135102,1982,OH,BOND,,Dayton School Levy,1,,0.9
+OH,Dayton Journal Herald,135102,1982,OH,BOND,,Kettering School Levy,1,,0.9
+OH,Dayton Journal Herald,135102,1982,OH,BOND,,Oakwood School Levy,1,,0.9
+OH,Dayton Journal Herald,135102,1982,OH,BOND,,Centerville School Levy,1,,0.9
+OH,Dayton Journal Herald,135102,1982,OH,BOND,,Northmont School Levy,1,,0.9
+OH,Dayton Journal Herald,135102,1982,OH,BOND,,West Carrollton School Levy,1,,0.9
+OH,Dayton Journal Herald,135102,1982,OH,BOND,,Huber Heights School Bond Issue,1,,0.9
+OH,Dayton Journal Herald,135102,1982,OH,BOND,,Trotwood-Madison School Bond Issue,1,,0.9
+OH,Dayton Journal Herald,135102,1984,OH,BOND,,Kettering School Levy,1,,0.95
+OH,Dayton Journal Herald,135102,1984,OH,REFERENDUM,,Beavercreek Income Tax,1,,0.95

@@ -1,0 +1,44 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+KY,Louisville Courier-Journal,117400,1960,KY,BOND,,$100 million road-parks bond issue (KY),1,urging YES,0.95
+KY,Louisville Courier-Journal,117400,1960,KY,REFERENDUM,,Constitutional Convention call (KY),1,urging YES on calling a Constitutional Convention,0.95
+KY,Louisville Courier-Journal,117400,1960,KY,BOND,,$7.9 million City of Louisville bond for University of Louisville,1,Help Louisville By Helping Its University; urging YES,0.95
+KY,Louisville Courier-Journal,117400,1964,KY,REFERENDUM,,School-tax referendum (Louisville city and Jefferson County schools),1,urging YES on school tax,0.95
+KY,Louisville Courier-Journal,117400,1966,KY,REFERENDUM,,New Kentucky State Constitution (proposed new charter to replace 1891 constitution),1,Vote for the New Charter; urging YES,0.95
+KY,Louisville Courier-Journal,117400,1968,KY,REFERENDUM,,Nashville-Davidson County referendum on chicken (private firm) processing plant,0,Let the Owners House the Chicken; opposed to public housing of private firm's plant,0.7
+KY,Louisville Courier-Journal,117400,1968,KY,REFERENDUM,,Extension of Louisville city school building tax,1,city school building tax extension,0.9
+KY,Louisville Courier-Journal,117400,1970,KY,BOND,,Kentucky state bond issue ($48.3 million),1,,0.95
+KY,Louisville Courier-Journal,117400,1970,KY,BOND,,Jefferson County bond issue ($58 million),1,,0.95
+KY,Louisville Courier-Journal,117400,1972,KY,AMENDMENT,1,Indiana amendment - General Assembly to decide selection and term of state superintendent of public instruction,1,Indiana ballot,0.9
+KY,Louisville Courier-Journal,117400,1972,KY,AMENDMENT,2,Indiana amendment - allow Governor to succeed himself (8 of 12 years),1,Indiana ballot,0.9
+KY,Louisville Courier-Journal,117400,1972,KY,AMENDMENT,3,Indiana amendment - clarify governor's veto powers (7 days to veto),1,Indiana ballot,0.9
+KY,Louisville Courier-Journal,117400,1972,KY,AMENDMENT,4,Indiana amendment - permit elected county officials to serve unlimited number of terms,1,Indiana ballot,0.9
+KY,Louisville Courier-Journal,117400,1972,KY,AMENDMENT,5,Indiana amendment - raise competence of county coroners; fill General Assembly vacancies,1,Indiana ballot - combined coroner standards and legislative vacancy provisions,0.9
+KY,Louisville Courier-Journal,117400,1972,KY,BOND,,$3.2 million incinerator bond issue for Louisville (clean-air compliance),1,,0.95
+KY,Louisville Courier-Journal,117400,1972,KY,BOND,,$17 million floodwall bond issue for Southwestern Jefferson County,1,,0.95
+KY,Louisville Courier-Journal,117400,1974,KY,REFERENDUM,,Louisville/Jefferson County transit tax referendum to fund TARC (Transit Authority of River City),1,,0.95
+KY,Louisville Courier-Journal,117400,1978,KY,REFERENDUM,,Jefferson County referendum to switch fiscal court from commissioners to magistrates,0,CJ opposed - urged voters to reject switch to magistrates,0.95
+KY,Louisville Courier-Journal,117400,1982,KY,REFERENDUM,,Louisville-Jefferson County merger / city-county consolidation charter referendum,1,CJ supports merger of Louisville city and Jefferson County governments,0.95
+KY,Louisville Courier-Journal,117400,1982,KY,REFERENDUM,,Jefferson County reorganization - merging Louisville and Jefferson County governments,1,For,0.95
+KY,Louisville Courier-Journal,117400,1984,KY,AMENDMENT,,Sheriffs' amendment - allow sheriffs to succeed themselves in office,1,Editorial: amendment deserves to pass,0.95
+KY,Louisville Courier-Journal,117400,1984,KY,REFERENDUM,,Boost in Jefferson Fiscal Court membership - increase number of commissioners,1,Editorial supports,0.9
+KY,Louisville Courier-Journal,117400,1984,KY,AMENDMENT,,Sheriffs constitutional amendment - re-election,1,,0.85
+KY,Louisville Courier-Journal,117400,1984,KY,PUBLIC QUESTION,,Louisville Board of Aldermen constitutional amendment question,1,,0.7
+KY,Louisville Courier-Journal,117400,1986,KY,REFERENDUM,,Creation of special taxing district for Louisville Free Public Library,1,A vote for the future,0.95
+KY,Louisville Courier-Journal,117400,1986,KY,AMENDMENT,,Constitutional amendment to allow state and city officeholders (including mayors) to succeed themselves,1,And against the past - editorial supports,0.9
+KY,Louisville Courier-Journal,117400,1986,KY,AMENDMENT,,Constitutional amendment - succession for state officeholders,1,,0.8
+KY,Louisville Courier-Journal,117400,1986,KY,AMENDMENT,,Constitutional amendment - allow state to issue bonds for economic development,1,YES recommendation,0.7
+KY,Louisville Courier-Journal,117400,1986,KY,PUBLIC QUESTION,,Question on Sunday liquor by the drink for restaurants in Jefferson County,1,YES,0.7
+KY,Louisville Courier-Journal,117400,1988,KY,AMENDMENT,1,Kentucky constitutional amendment - permit state lottery,1,YES,0.85
+KY,Louisville Courier-Journal,117400,1988,KY,AMENDMENT,2,Kentucky constitutional amendment - local school taxes,1,YES,0.7
+KY,Louisville Courier-Journal,117400,1988,KY,AMENDMENT,,Indiana constitutional amendment - permit state lottery,1,YES,0.7
+KY,Louisville Courier-Journal,117400,1988,KY,AMENDMENT,2,Kentucky Broad Form Deed amendment - strike down broad form deed for coal/mineral rights,1,"Vote YES, for justice",0.95
+KY,Louisville Courier-Journal,117400,1988,KY,AMENDMENT,2,Kentucky constitutional amendment - broad form deed (mineral rights),1,YES,0.9
+KY,Louisville Courier-Journal,117400,1990,KY,AMENDMENT,1,Kentucky constitutional amendment 1 - allow General Assembly to call itself into special session,1,Three winners and a loser,0.85
+KY,Louisville Courier-Journal,117400,1990,KY,AMENDMENT,2,Kentucky constitutional amendment 2 - 20-year limit on city electors petitioning party,1,,0.7
+KY,Louisville Courier-Journal,117400,1990,KY,AMENDMENT,3,Kentucky constitutional amendment 3 - executive branch reorganization power,1,,0.8
+KY,Louisville Courier-Journal,117400,1990,KY,AMENDMENT,4,Kentucky constitutional amendment 4 - tax exemption for religious-owned non-religious property,0,The loser,0.85
+KY,Louisville Courier-Journal,117400,1990,KY,AMENDMENT,1,Kentucky constitutional amendment 1 - General Assembly call itself into special session,1,YES,0.85
+KY,Louisville Courier-Journal,117400,1990,KY,AMENDMENT,2,Kentucky constitutional amendment 2,1,YES,0.75
+KY,Louisville Courier-Journal,117400,1990,KY,AMENDMENT,3,Kentucky constitutional amendment 3,1,YES,0.75
+KY,Louisville Courier-Journal,117400,1990,KY,AMENDMENT,4,Kentucky constitutional amendment 4 - religious property tax exemption,0,NO,0.85
+KY,Louisville Courier-Journal,117400,1990,KY,AMENDMENT,1,Kentucky constitutional amendment 1,1,YES,0.85

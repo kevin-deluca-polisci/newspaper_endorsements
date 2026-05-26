@@ -1,0 +1,54 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
+SC,Walterboro Press and Standard,WALTERBPS,1968,PRESIDENT,,,SC,"HUMPHREY, HUBERT",Democrat,1,,,,Editorial 'Must Decide' endorses Humphrey over Nixon and Wallace,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1970,GOVERNOR,,,SC,"WEST, JOHN C.",Democrat,1,,,,Editorial 'Most Capable Man' endorses West for governor,0.85
+SC,Walterboro Press and Standard,WALTERBPS,1972,H,1,SC-1,SC,"DAVIS, MENDEL J.",Democrat,1,1,,,Editorial 'Davis Is Good Man' endorses Mendel Davis (D) incumbent for First Congressional District,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1974,GOVERNOR,,,SC,"DORN, WILLIAM JENNINGS BRYAN",Democrat,1,,,,Editorial 'Unusual Election' endorses Dorn over Edwards for governor,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1974,JUDGE,,,SC,"MCLEOD, DANIEL R.",Democrat,1,,,,Editorial 'Must Be Good' endorses McLeod (likely Attorney General or judicial race in 14th district),0.7
+SC,Walterboro Press and Standard,WALTERBPS,1976,PRESIDENT,,,SC,"CARTER, JIMMY",Democrat,1,,,1,Editorial 'Our Choice' endorses Carter over incumbent Ford,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1978,SENATOR,,,SC,"RAVENEL, CHARLES ""PUG""",Democrat,1,,1,,endorsed over incumbent Strom Thurmond,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1978,GOVERNOR,,,SC,"RILEY, RICHARD",Democrat,1,,,,over Republican Young,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1980,CNTY COMM,,,SC,"FENNELL, THOMAS",Democrat,1,1,,,Colleton County supervisor; re-election over Republican Sammy Hiott,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1980,PRESIDENT,,,SC,"CARTER, JIMMY",Democrat,1,1,,,,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1980,H,1,,SC,"RAVENEL, CHARLES ""PUG""",Democrat,1,,,,,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1980,SENATOR,,,SC,"HOLLINGS, FRITZ",Democrat,1,1,,,,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1982,H,1,,SC,"MCLEOD, MULLINS",Democrat,1,,,,over incumbent Rep Mendel Davis-replacement; congressional seat,0.85
+SC,Walterboro Press and Standard,WALTERBPS,1982,GOVERNOR,,,SC,"RILEY, RICHARD",Democrat,1,1,,,re-election,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1982,LT GOVERNOR,,,SC,"DANIEL, MIKE",Democrat,1,1,,,over Norma Russell primary opponent; general over Tom Turnipseed,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1982,ATTORNEY GENERAL,,,SC,"MEDLOCK, TRAVIS",Democrat,1,,,,,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1982,AGRICULTURE COMMISSIONER,,,SC,"THEODORE, LES",Democrat,1,,,,,0.85
+SC,Walterboro Press and Standard,WALTERBPS,1984,PRESIDENT,,,SC,"MONDALE, WALTER",Democrat,1,,1,,over Reagan,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1984,H,1,,SC,"PREDMORE, JIMMY",Democrat,1,,,,SC 1st Congressional District,0.85
+SC,Walterboro Press and Standard,WALTERBPS,1986,H,1,,SC,"STUCKEY, JIMMY",Democrat,1,,1,,over incumbent Arthur Ravenel; SC 1st District,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1986,SENATOR,,,SC,"HOLLINGS, FRITZ",Democrat,1,1,,,re-election,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1986,GOVERNOR,,,SC,"DANIEL, MIKE",Democrat,1,,,,over Carroll Campbell,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1986,SCHOOL BOARD,,Western District,SC,"MCMILLAN, JOHNNY D.",,1,,,,"Colleton County Board of Education, Western District; challenger",0.9
+SC,Walterboro Press and Standard,WALTERBPS,1986,SCHOOL BOARD,,Eastern District,SC,"BROWN, CLARENCE",,1,,,,"Colleton County Board of Education, Eastern District; challenger",0.9
+SC,Walterboro Press and Standard,WALTERBPS,1988,PRESIDENT,,,SC,"DUKAKIS, MICHAEL",Democrat,1,,,,over Bush,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1988,STATE SENATOR,45,,SC,"MCLEOD, PEDEN",Democrat,1,1,,,Senate Seat 45; over Republican Kelly Fox,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1988,SCHOOL BOARD,,Eastern District,SC,"KENNEDY, NATHEL",,1,1,,,Colleton County Board of Education re-election,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1990,CNTY COMM,,Western District,SC,"BEACH, ROY",Democrat,1,,,,Colleton County Council; Western District,0.85
+SC,Walterboro Press and Standard,WALTERBPS,1990,CNTY COMM,,Eastern District,SC,"GADDY, JUDITH",Democrat,1,,,,Colleton County Council; Eastern District,0.7
+SC,Walterboro Press and Standard,WALTERBPS,1990,SENATOR,,,SC,"MCBRIDE, BOB",Republican,1,,,,breath of fresh air; over Hollings,0.7
+SC,Walterboro Press and Standard,WALTERBPS,1992,SCHOOL BOARD,4,,SC,"MIKEL, ALICE",,1,,,,"Colleton County Board of Education District 4, unopposed",0.85
+SC,Walterboro Press and Standard,WALTERBPS,1992,SCHOOL BOARD,2,,SC,"SMITH, KATHIE",,1,,,,"District 2, no opposition",0.85
+SC,Walterboro Press and Standard,WALTERBPS,1992,SCHOOL BOARD,3,,SC,"POURNELLE, P.A.",,1,,,,"District 3, no opposition",0.85
+SC,Walterboro Press and Standard,WALTERBPS,1992,SCHOOL BOARD,5,,SC,"KENNEDY, NATHEL",,1,1,,,District 5; re-election,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1992,SCHOOL BOARD,6,,SC,"SHIDER, WAYNE",,1,1,,,District 6; re-election,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1992,SCHOOL BOARD,7,,SC,"DELOACH, JOHN",,1,1,,,District 7; re-election,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1992,SCHOOL BOARD,1,,SC,"MCMILLAN, JOHNNY",,1,,,,District 1; over Lynette Fryar,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1992,CNTY COMM,,,SC,"KINARD, TED",Republican,1,1,,,Colleton County Council; over Democrat Eugene Maxey Jr.,0.95
+SC,Walterboro Press and Standard,WALTERBPS,1998,CNTY COMM,,Western District,SC,"GOODING, JOHN",Democrat,1,1,,,Colleton County Council; over Dwayne Buckner,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1998,CNTY COMM,,At-Large,SC,"BLOCKER, JANIS",Democrat,1,1,,,Colleton County Council at-large incumbent; over Steven Murdaugh,0.9
+SC,Walterboro Press and Standard,WALTERBPS,1998,CNTY COMM,,Eastern District,SC,"ADAMS, JAMES",Democrat,1,,,,Colleton County Council Eastern District; over Republican Roland Gruber and independent Ed Williams,0.9
+SC,Walterboro Press and Standard,WALTERBPS,2000,CNTY COMM,,Eastern District,SC,"WHETSELL, GENE",Republican,1,,,,Colleton County Council Eastern District; over incumbent Floyd Buckner,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2000,SCHOOL BOARD,1,,SC,"CROSBY, MICHAEL",,1,,,,Colleton County Board of Education District 1; over incumbent Lynette Fryar,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2000,SCHOOL BOARD,5,,SC,"FIELDS, REDELL",,1,,,,Colleton County Board of Education District 5; over Michael Bodison and Mackey Williams,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2004,H,6,,SC,"CLYBURN, JAMES E. ""JIM""",Democrat,1,1,,,SC 6th District incumbent; over Republican Gary McLeod,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2004,SCHOOL BOARD,,,SC,"POURNELLE, P.A.",,1,1,,,Colleton County School Board of Trustees re-election,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2004,SCHOOL BOARD,,,SC,"FIELDS, REDELL",,1,1,,,Colleton County School Board of Trustees re-election,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2004,SCHOOL BOARD,,,SC,"CROSBY, MIKE",,1,1,,,"Colleton County School Board of Trustees, unopposed re-election",0.95
+SC,Walterboro Press and Standard,WALTERBPS,2006,CNTY COMM,,At-Large,SC,"WHETSELL, GENE",Republican,1,1,,,Colleton County Council at-large; re-election over Ryan Still,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2006,STATE REP,120,,SC,"FLOWERS, JOE",Republican,1,,,,SC House District 120; over Democrat incumbent Bill Bowers,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2006,SCHOOL BOARD,6,,SC,"SHIDER, WAYNE",,1,1,,,Colleton County School Board District 6; re-election over Joe Mire and James Adams,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2006,SCHOOL BOARD,2,,SC,"BARNES, JOHN",,1,1,,,Colleton County School Board District 2; re-election over Timmy Benton,0.95
+SC,Walterboro Press and Standard,WALTERBPS,2006,SCHOOL BOARD,4,,SC,"JONES, LLOYD",,1,,,,"Colleton County School Board District 4; over Paul Haase, Alroy Headden",0.95

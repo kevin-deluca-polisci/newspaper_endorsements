@@ -1,0 +1,24 @@
+state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
+SC,Rock Hill Herald,143450,1966,SC,AMENDMENT,,State amendments - generally supportive (Amendments important),1,Editorial discusses amendments favorably; specifics unclear from image,0.5
+SC,Rock Hill Herald,143450,1966,SC,AMENDMENT,,To help solve city problems - urban renewal/amendment,1,Supports amendment to help cities,0.6
+SC,Rock Hill Herald,143450,1966,SC,AMENDMENT,,Full citizenship for women,1,Supports women jury service,0.6
+SC,Rock Hill Herald,143450,1968,SC,AMENDMENT,,Article VII amendment - regional councils of government,1,In favor of the amendment,0.95
+SC,Rock Hill Herald,143450,1968,SC,BOND,,Rock Hill School District Three bond issue,1,,0.9
+SC,Rock Hill Herald,143450,1980,SC,REFERENDUM,,"York County ballot proposal to make supervisor, treasurer, auditor elective",0,Editorial: Change is undesirable - urges NO vote,0.9
+SC,Rock Hill Herald,143450,1994,SC,AMENDMENT,1,Allow General Assembly to set minimum qualifications for coroners,1,Statewide Amendment 1,0.95
+SC,Rock Hill Herald,143450,1994,SC,AMENDMENT,2,Give cities power to exempt corporate headquarters and facilities from local property taxes,1,Statewide Amendment 2,0.95
+SC,Rock Hill Herald,143450,1994,SC,REFERENDUM,,Statewide question on video poker cash payouts,0,Vote No on video game payoffs,0.95
+SC,Rock Hill Herald,143450,1994,SC,REFERENDUM,,York County recreation tax district,1,Vote Yes on recreation tax district,0.95
+SC,Rock Hill Herald,143450,1994,SC,REFERENDUM,,Chester County manager form of government,1,Vote Yes,0.95
+SC,Rock Hill Herald,143450,1994,SC,REFERENDUM,,York County $7.50 annual auto license-plate fee for paving,1,Advisory referendum; recommend voters voice approval,0.95
+SC,Rock Hill Herald,143450,1996,SC,AMENDMENT,,Allow state treasurer to invest portion of pension fund in stocks,1,Protecting state pensions amendment,0.9
+SC,Rock Hill Herald,143450,1996,SC,AMENDMENT,4,Judicial selection reforms - merit selection commission,1,,0.95
+SC,Rock Hill Herald,143450,1996,SC,REFERENDUM,,York County Sunday blue laws - keep restrictions on Sunday sales,0,Say 'no' to blue laws - urges no vote,0.9
+SC,Rock Hill Herald,143450,1996,SC,AMENDMENT,1,Victims Bill of Rights,1,,0.9
+SC,Rock Hill Herald,143450,1996,SC,AMENDMENT,2,Sections A and B - bail and elections,1,,0.85
+SC,Rock Hill Herald,143450,1996,SC,AMENDMENT,3,Voter registration deadline change,1,,0.85
+SC,Rock Hill Herald,143450,2014,SC,REFERENDUM,,Extend Lancaster County 1-percent sales tax for road/infrastructure projects,1,,0.95
+SC,Rock Hill Herald,143450,2014,SC,REFERENDUM,,"Chester County 1-percent sales tax for road, school, and county facility projects",1,,0.95
+SC,Rock Hill Herald,143450,2014,SC,AMENDMENT,,Change SC Adjutant General from elected to appointed position,1,Yes on appointing adjutant general,0.95
+SC,Rock Hill Herald,143450,2014,SC,AMENDMENT,,Allow charitable raffles by nonprofits (make raffles legal),1,,0.95
+SC,Rock Hill Herald,143450,2014,SC,PUBLIC QUESTION,,Set up state health insurance exchanges (advisory question),1,,0.85
