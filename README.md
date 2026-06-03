@@ -6,7 +6,7 @@
 
 ## Abstract
 
-The Local Newspaper Endorsements Archive represents the largest systematic collection of newspaper endorsements for political candidates and ballot measures from U.S. newspapers, spanning from 1882 to the present day. The dataset currently contains over 62,232 endorsement records across 128 newspapers in 34 states and continues to grow as additional records are digitized and added. This comprehensive historical record enables researchers to examine newspaper editorial behavior across more than a century of American politics, revealing patterns of partisan bias, editorial slant, and evolving media influence on electoral outcomes. The endorsements also provide a novel measure of candidate quality: candidates who receive support from newspapers with diverse partisan leanings demonstrate broader appeal and measurable strength as political contenders. By combining historical depth with ongoing updates, this archive serves as an essential resource for scholars studying the intersection of media, politics, and democracy.
+The Local Newspaper Endorsements Archive represents the largest systematic collection of newspaper endorsements for political candidates and ballot measures from U.S. newspapers, spanning from 1882 to the present day. The dataset currently contains 60,765 endorsement records (44,729 candidates + 16,036 propositions) across 127 newspapers covering 32 states and the District of Columbia, and continues to grow as additional records are digitized and added. This comprehensive historical record enables researchers to examine newspaper editorial behavior across more than a century of American politics, revealing patterns of partisan bias, editorial slant, and evolving media influence on electoral outcomes. The endorsements also provide a novel measure of candidate quality: candidates who receive support from newspapers with diverse partisan leanings demonstrate broader appeal and measurable strength as political contenders. By combining historical depth with ongoing updates, this archive serves as an essential resource for scholars studying the intersection of media, politics, and democracy.
 
 ## Contributors
 
@@ -18,20 +18,19 @@ The Local Newspaper Endorsements Archive contains historical newspaper endorseme
 
 ## Current Coverage
 
-**84 newspapers** across **26 states**, covering elections from **1882 to 2024**.
+**127 newspapers** covering **32 states + the District of Columbia**, with elections from **1882 to 2024**.
 
 | | Candidates | Propositions | Total |
 |---|----------:|-----------:|------:|
-| **Records** | 45,990 | 16,242 | 62,232 | 11,498 | 38,472 |
+| **Records (compiled)** | 44,729 | 16,036 | 60,765 |
 
 | State | Newspapers | Records | Year Range |
 |-------|----------:|--------:|-----------|
-| Alabama | 5 | 1,944 | 1890-2016 |
+| Alabama | 5 | 1,962 | 1890-2016 |
 | Arizona | 5 | 4,501 | 1920-2020 |
 | California | 14 | 11,809 | 1882-2024 |
 | Colorado | 2 | 1,042 | 1950-2022 |
 | Connecticut | 1 | 58 | 1960-1974 |
-| DC | 1 | 1,318 | 1974-2020 |
 | Delaware | 3 | 725 | 1960-2018 |
 | District of Columbia | 1 | 1,318 | 1974-2020 |
 | Florida | 3 | 3,145 | 1946-2022 |

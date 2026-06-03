@@ -9,8 +9,8 @@ Full listing of all newspapers in the Endorsement Archive, organized by state.
 | State | Newspaper | ID | Candidates | Propositions | Year Range |
 |-------|-----------|---:|----------:|-----------:|-----------|
 | Alabama | Anniston Star | 100050 | 270 | 124 | 1918-2016 |
-| Alabama | Birmingham Age Herald | 100102 | 10 | 30 | 1890-1948 |
-| Alabama | Birmingham News | 100101 | 710 | 201 | 1892-2010 |
+| Alabama | Birmingham Age Herald | 100102 | 17 | 40 | 1890-1948 |
+| Alabama | Birmingham News | 100101 | 717 | 195 | 1892-2010 |
 | Alabama | Birmingham Post | 100103 | 9 | 35 | 1922-1948 |
 | Alabama | Birmingham Post Herald | 100100 | 425 | 130 | 1950-2004 |
 | Arizona | Arizona Daily Star | 100750 | 1,244 | 288 | 1922-2020 |
@@ -136,13 +136,13 @@ Full listing of all newspapers in the Endorsement Archive, organized by state.
 | Wisconsin | Appleton Post-Crescent | 150250 | 298 | 14 | 1960-2014 |
 | Wisconsin | Madison Capital Times | 150701 | 591 | 48 | 1928-2018 |
 | Wisconsin | Madison State Journal | 150700 | 604 | 43 | 1928-2020 |
-| **Total** | **128 newspapers, 34 states** | | **45,990** | **16,242** | **1882-2024** |
+| **Total** | **128 newspapers, 34 states** | | **46,004** | **16,246** | **1882-2024** |
 
 ## Coverage by State
 
 | State | Newspapers | Candidates | Propositions | Total | Year Range |
 |-------|----------:|----------:|-----------:|------:|-----------|
-| Alabama | 5 | 1,424 | 520 | 1,944 | 1890-2016 |
+| Alabama | 5 | 1,438 | 524 | 1,962 | 1890-2016 |
 | Arizona | 5 | 3,688 | 813 | 4,501 | 1920-2020 |
 | California | 14 | 5,171 | 6,638 | 11,809 | 1882-2024 |
 | Colorado | 2 | 679 | 363 | 1,042 | 1950-2022 |
