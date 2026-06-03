@@ -1,5 +1,9 @@
-# Clipping PDFs (copyrighted newspaper scans)
-**/clippings/*.pdf
+# Clipping files (copyrighted newspaper scans — PDFs, JPGs, PNGs, and extensionless PDFs)
+# These are intentionally kept on disk for the team but excluded from the public git repo
+# until each paper's copyright status is reviewed and clippings are released individually.
+**/clippings/**
+# Keep the directory itself trackable so the folder structure is preserved
+!**/clippings/
 
 # macOS
 .DS_Store
