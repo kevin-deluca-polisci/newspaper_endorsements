@@ -1,0 +1,36 @@
+Newspaper Name: Chattanooga News
+Alternative Names: REVIEW
+Years Published: REVIEW
+Newspaper ID number: 143903
+Number of clippings: 9
+Endorsement data years: 1922, 1926, 1930, 1932, 1934, 1936, 1938
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 37
+  Endorsed (=1): 23
+  Opposed (=0): 14
+  No position (null): 0
+Total proposition records: 3
+  Endorsed (=1): 3
+  Opposed (=0): 0
+
+--- DATA QUALITY ---
+Flagged for review: 1 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 1
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.70
+Mean: 0.85
+Max: 0.92
+Below threshold (0.75): 1
+
+--- REVIEW QUEUE ---
+  [no_endorsements] 143903_19281106: No endorsements detected
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-28 15:52:32

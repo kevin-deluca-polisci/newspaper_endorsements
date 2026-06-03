@@ -1,429 +1,371 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,1,"Eliminate present allocation of motor vehicle license tax fees to the Highway Department, while continuing allocation of motor fuel tax revenue. Would correct practice of operating state without an appropriation bill.",1,Constitution reaffirms its endorsement,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,1,Eliminate present allocation of motor vehicle license tax fees to Highway Department; would correct practice of operating state without an appropriation bill.,1,Vote 'Yes',0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,10,Add the commissioner of agriculture as ex-officio member of the Board of Regents of the University System—the only elected official on the board. Special interest amendment that would risk political interference within the University System.,0,Recommends 'No' vote - unwise and dangerous,0.95
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,10,Add the commissioner of agriculture to the Board of Regents of the University System.,0,Constitution agrees with Arnold and Gowen - vote 'No' to protect higher education from encroachment of politicians,0.95
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,10,Add commissioner of agriculture to the University System of Georgia Board of Regents.,0,Vote 'No' - we fear would pack the State Board of Education,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,10,Add commissioner of agriculture to the Board of Regents - threat to higher education in Georgia.,0,"Let Georgians Reject Amendment No. 10 because of threat to University System. Endorsed by Robert Arnold (Regents Chairman), Charles Gowen, Phil Campbell (Commissioner of Agriculture)",0.97
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,11,Provide that no county would award contracts to use county tax money for school lunch purposes.,1,Vote 'Yes',0.70
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,12,Provides for scholarship loans to medical students to be repaid by services at Milledgeville State Hospital.,1,Recommends 'Yes' vote,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,12,Eliminate levy of one dollar maximum on the price of every marriage license in the state for establishment of a Confederate Retirement Bureau; preserve these officers as required.,1,Vote 'Yes',0.75
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,13,"Provides for loans to medical students to be repaid by service in communities of under 5,000.",1,Vote 'Yes',0.85
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,14,Provide for granting of scholarships to physicians and other personnel for specialized training in the field of mental health.,1,Recommends 'Yes' vote,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,15,"Authorize establishment of area schools, including vocational trade schools.",1,Recommends 'Yes' vote,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,15,"Establishment of area schools, including vocational trade schools.",1,Vote 'Yes',0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,16,Proposal would permit creation to purchase liability insurance to cover damages suffered by county-owned vehicles.,1,Vote 'Yes',0.75
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,17,Authorizing creation of a Brunswick Ports Authority; this amendment would facilitate additional port financing there.,1,Vote 'Yes',0.80
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,18,"Authorize state militia/National Guard amendment regarding control of National Guard, would enable the state to assume disciplinary responsibilities.",1,Vote 'Yes',0.70
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,19,"Would create an Athens-Clarke County Public Facilities Authority to enable Athens and Clarke County to finance revenue producing projects of a wide variety, including stadiums, ballfields, recreation of public bodies for athletic and civic forum. Amendment is primarily local in application.",1,Vote 'Yes',0.80
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,2,"Permit state to underwrite authority debts, assuming legal obligation which would save interest costs.",1,Constitution reaffirms its endorsement,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,2,Permit state to underwrite authority debts.,1,Vote 'Yes',0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,3,"Add five state-at-large members to the State Board of Education, to be appointed by the governor and excluding anyone professionally connected with education.",0,Recommends 'No' vote - unwise and dangerous,0.95
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,3,State Board of Education amendment.,0,Vote 'No' - we fear would pack the State Board of Education,0.85
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,3,Add five state-at-large members to State Board of Education appointed by governor.,0,Vote 'No',0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,4,Authorize General Assembly to provide by law for granting of state funds to municipalities.,1,Recommends 'Yes' vote,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,4,Authorize General Assembly to provide grants of state funds to municipalities.,1,Vote 'Yes',0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,45,Local Fulton County amendment - DeKalb amendment regarding industrial development.,1,"Among local amendments, we endorse Number 45 in Fulton County",0.70
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,46,"Local DeKalb County amendment - would bring small industries a dollar a year for instance, on the owner of a $10,000 home in order to finance a drive for industry.",1,"Endorse Number 46 in DeKalb. The drive for industry is successful, the future tax burden on residents will be shared by the industries gained",0.75
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,5,Lift present tax limitation of 15 mills to 20 mills which counties may levy for schools.,1,Recommends 'Yes' vote,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,5,Increase tax limitation from 15 to 20 mills which counties may levy for schools.,1,Vote 'Yes',0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,50,Provides for assumption of certain Fulton County School District obligations by the City of Atlanta in the event of future extensions of its corporate limits (annexations).,1,Fulton County voters should vote 'Yes',0.95
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,6,Authorize General Assembly to enable Legislature to levy taxes to make loans to industrial development agencies throughout the state.,1,Vote 'Yes',0.85
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,7,Enable Legislature to levy taxes to make loans to industrial development agencies throughout the state.,1,Recommends 'Yes' vote,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,7,Enable Legislature to provide for promotion and marketing of agricultural products.,1,Vote 'Yes',0.85
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,8,Permit the Legislature to provide for promotion and marketing of agricultural products.,1,Recommends 'Yes' vote,0.90
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,8,Permit state to withhold payment for taking or damaging private property for road and street purposes until the case is finally settled.,1,Vote 'Yes',0.80
-GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,ALL OTHER LOCAL,"All other amendments are local, to be voted on by counties involved (Fulton/DeKalb counties). No. 46 would permit Athens to assume actual bond responsibilities for public industrial development purposes.",1,Default to a 'Yes' vote on local industrial development - both deserve approval,0.60
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,1,Statewide constitutional amendment 1,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,1,'Freedom from compulsory association' measure assures state support of public schools.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,10,Restrict the Georgia voter's choice by curtailing write-in campaigns. Write-in candidates would not be declared elected unless they or their supporters had given formal notice at least 10 days before the election that a write-in campaign was being waged.,0,Vote against - regrettable attempt to restrict voter's right to write in any name,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,10,Would interfere with freedom of choice in voting in write-in privilege.,0,Should be disapproved,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,10,Restrict write-in candidacies (state amendment).,0,Should be rejected,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,11,Statewide constitutional amendment 11,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,11,Increases reward for bringing in first oil or gas well in the state.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,12,"Help finance urban renewal through the issuance of revenue bonds. Tax receipts from redeveloped land would pay off the bonds. But if receipts ran short, full faith and credit of city or county could be pledged toward paying off the bonds without referendum.",0,Vote against - has good objectives but potentially dangerous provisions,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,12,Provides for issuance of revenue bonds for urban renewal. Intent is good but present form is full of potential loopholes as to be dangerous.,0,Should be disapproved,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,12,Issuance of revenue bonds for urban renewal (state amendment).,0,Should be rejected,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,13,Statewide constitutional amendment 13,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,13,Permit use of state funds to help support school lunchrooms. Currently school lunchrooms operate on federal and local funds; only state funds used are those required to administer distribution of federal funds.,1,Amendment 13 would boost lunch program. Deserves strong backing,0.97
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,13,Authorizes state to make funds available for school lunch program.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,14,Statewide constitutional amendment 14,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,14,Permits counties to conduct slum clearance and redevelopment.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,15,Statewide constitutional amendment 15,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,15,Makes rules for overriding governor's veto.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,1A,Statewide constitutional amendment 1A,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,1A,Provides for election of senators on a county-wide basis.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,2,Statewide constitutional amendment 2,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,2,"Authorize General Assembly to provide for granting of funds to counties in which state owns more than 20,000 acres of land from which affected counties receive no taxes. Healthy step toward fair solution.",1,Urge passage. Let's flash green light,0.97
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,2,"Authorizes Legislature to compensate counties for tax losses in counties in which state owns 20,000 or more acres of land.",1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,3,Statewide constitutional amendment 3,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,3,Requires biennial appropriations bill.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,4,Statewide constitutional amendment 4,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,4,Reorganize the state Commerce department by creating a new agency to be called the Department of Industry and Trade. Run by a 20-man board (two members from each congressional district) and a director appointed by the board.,1,No. 4 would help quest for industry. Vote for Amendment 4 will be a step toward healthy industrial growth,0.97
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,4,Reorganization of Commerce department.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,5,"Make $5 of the daily earnings of law enforcement officers a subsistence allowance, thus not subject to income taxes.",0,"Vote against - opens floodgates for similar demands by other groups, could wreck tax laws",0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,5,Would provide an unjustified tax break for peace officers.,0,Should be disapproved,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,5,Tax break for peace officers (state amendment).,0,Should be rejected for reasons stated previously,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,6,Statewide constitutional amendment 6,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,6,Provides for split sessions of General Assembly in budget-making years.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,67,Fulton County amendment - would raise the ceiling on Atlanta's water and sanitary revenue certificates to 40 per cent of such fees for the previous year. Present ceiling is 30 per cent.,1,Change is in order and should be approved,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,67,Local Fulton County amendment - applies locally to Fulton County,1,Support No. 67,0.90
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,67,Local Fulton County amendment - would raise the ceiling on Atlanta's water and sanitary revenue certificates to 40 per cent of such fees for the previous year.,1,Deserves passage - applies only to Fulton County,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,67,"Local amendment relating to Fulton County, No. 67.",1,Urge approval of the one local amendment relating to Fulton County,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,7,Statewide constitutional amendment 7,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,7,Allow any county or municipality to borrow necessary funds to pay cost of property valuation and equalization programs for ad valorem purposes. Strong safeguard against abuse - no county shall be empowered to create debt under provisions until program is approved by state revenue commissioner.,1,Urge passage. Will advance progress in fair tax distribution,0.97
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,7,Authorizes counties to borrow money for tax revaluation.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,8,Statewide constitutional amendment 8,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,8,Permits medical students receiving loans or scholarships to repay same through service under State Board of Corrections.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,9,Statewide constitutional amendment 9,1,Vote approval,0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,9,Authorizes use of public funds for rapid transit development.,1,Recommend Yes vote,0.95
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,ALL OTHERS,"Of the 15 constitutional amendments to be voted on throughout the state, support all but three (5, 10, 12). Support amendments pertaining to rapid transit, budget reform, Commerce department reorganization, tax revaluation, and school lunch financing.",1,"Support 12 of 15 amendments, including those for rapid transit, budget reform, Commerce dept reorganization, tax revaluation, school lunch financing",0.85
-GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,ALL OTHERS,"Strongly recommend adoption of all 16 statewide constitutional amendments except three (Numbers 5, 10, and 12).",1,All other statewide amendments strike us as being good and necessary,0.90
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 2 - authorize setting up an authority to administer all scholarship programs,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 4 - state-backed student loan program for college students,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 1 - reorganization of the State Highway Department,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 2 - permit setting up a State Scholarship Commission,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 3 - make it easier for counties to consolidate,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 4 - student loans for higher education,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 5 - provide loans for dental students,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 6 - insure continuity of government in case of disaster,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 7 - authorize workmen's compensation for school workers,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 8 - permit collection of taxes on motor vehicles at time of issuance of license tags,,,
-GA,Atlanta Constitution,109051,1964,GA,,,"Constitutional Amendment No. 9 - authorize increased homestead exemptions for persons 65 or older and to disabled veterans and others permanently disabled, within income limitations",,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 10 - provide credit for service at Milledgeville State Hospital for repayment of medical student loans,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 11 - allow Legislature to authorize counties to levy business license fees and taxes on firms outside municipalities,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 12 - extend homestead exemptions for disabled veterans,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 13 - grant tax exemption to tenants and lessees of the Vidalia Development Authority,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 14 - eliminate personal property taxes on household goods and other personal property not held for sale in Muscogee County alone,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Fulton County Amendment No. 56 - rapid transit for the metropolitan area,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Fulton County Amendments Nos. 58 through 61 - other Fulton County amendments (general support),,,
-GA,Atlanta Constitution,109051,1964,GA,,,Fulton County Amendment No. 60 - omnibus measure granting county power to regulate speed and traffic (power reserved to state and city governments),,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 2 - authorizing a State Scholarship Commission,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 3 - making it easier for counties to consolidate,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 5 - authorizing loans for dental students,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 7 - authorize workmen's compensation for school employees,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 8 - authorize collection of taxes on motor vehicles at time of issuance of license tags,,,
-GA,Atlanta Constitution,109051,1964,GA,,,"Constitutional Amendment No. 9 - permit increased homestead exemptions for persons 65 or older and others permanently disabled, within income limitations",,,
-GA,Atlanta Constitution,109051,1964,GA,,,Constitutional Amendment No. 10 - authorize credit for service at Milledgeville State Hospital for repayment of medical student loans,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Fulton County Amendments Nos. 58 through 61 (excluding No. 60),,,
-GA,Atlanta Constitution,109051,1964,GA,,,Fulton County Amendment No. 60 - granting county powers in traffic control not now enjoyed by any other county,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Amendment No. 16 - rapid transit (metro Atlanta four counties),,,
-GA,Atlanta Constitution,109051,1964,GA,,,Statewide Constitutional Amendments Nos. 1 through 12 - approve,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Statewide Constitutional Amendments Nos. 13 and 14 - reject,,,
-GA,Atlanta Constitution,109051,1964,GA,,,Amendment No. 16 - rapid transit (five-county metropolitan Atlanta area),,,
-GA,Atlanta Constitution,109051,1964,GA,,,"Fulton County Local Amendments Nos. 58, 59, and 61",,,
-GA,Atlanta Constitution,109051,1964,GA,,,Fulton County Local Amendment No. 60,,,
-GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,16,"Rapid transit amendment - authorizes creation of a transit authority for Atlanta metropolitan area. Requires majority of votes in each of five metropolitan area counties: Gwinnett, Clayton, Cobb, DeKalb and Fulton. Not a tax increase; financing would be worked out later requiring approval of public's duly elected legislators and local officials.",1,Why Amendment 16 needs your vote. Vital to economic progress of the whole area. Would be eligible for considerable federal assistance,0.98
-GA,Atlanta Constitution,109051,1966,GA,,,All 19 general constitutional amendments,,,
-GA,Atlanta Constitution,109051,1966,GA,,,Constitutional Amendment No. 1 - authorize consolidation of schools across county lines,,,
-GA,Atlanta Constitution,109051,1966,GA,,,Constitutional Amendment No. 14 - open the way for the state to participate in financing of rapid transit systems for metropolitan areas,,,
-GA,Atlanta Constitution,109051,1966,GA,,,Amendment No. 50 - 'Stop Atlanta' amendment proposed by Cobb legislators to prevent Atlanta from extending boundaries beyond the Chattahoochee River,,,
-GA,Atlanta Constitution,109051,1966,GA,,,DeKalb Amendment No. 57 - repeal present sanitation tax for DeKalb and permit county commissioners to set up service charges for garbage collection,,,
-GA,Atlanta Constitution,109051,1966,GA,,,All 19 statewide constitutional amendments,,,
-GA,Atlanta Constitution,109051,1966,GA,,,Local Amendment No. 50 - Cobb County amendment aimed at Atlanta,,,
-GA,Atlanta Constitution,109051,1966,GA,,,Constitutional Amendment No. 14 - rapid transit (authorize General Assembly to appropriate funds for rapid transit aid; allow Metropolitan Atlanta Rapid Transit Authority to acquire right-of-way),,,
-GA,Atlanta Constitution,109051,1966,GA,,,Vote yes on all 19 constitutional amendments of statewide application (with judgment),,,
-GA,Atlanta Constitution,109051,1966,GA,,,Vote no on local amendment M.A1 (Cobb County amendment aimed at Atlanta) - voted on by all of state's municipalities,,,
-GA,Atlanta Constitution,109051,1966,GA,,,Did not endorse either gubernatorial nominee,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Constitutional Amendment No. 13 - Change jurisdiction of justices of the peace in civil cases (raise ceiling from $200 to $500),,,
-GA,Atlanta Constitution,109051,1968,GA,,,Constitutional Amendment No. 14 - Provide for creation of a new Game and Fish Commission (increase size from 11 to 15; legislators in each of 10 congressional districts propose 3 names; governor selects one; governor also chooses two members from state at large and one from coastal counties),,,
-GA,Atlanta Constitution,109051,1968,GA,,,Constitutional Amendment No. 15 - Authorize General Assembly to provide by law for reimbursing employees of the Game and Fish Commission who received a retroactive pay raise in 1966 and were subsequently required to remit the amount of said raise to the State Treasurer,,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Constitutional Amendment No. 16 - Authorize the Department of Industry and Trade, in order to make Georgia competitive with other states in securing new business, industry and tourism, to expend available funds for business meals and incidental expenses of bona fide industrial prospects",,,
-GA,Atlanta Constitution,109051,1968,GA,,,Constitutional Amendment No. 17 - Provide that the General Assembly may submit for ratification proposals to provide for a new Constitution as well as to submit proposed amendments to the Constitution and to provide that such proposals may not be vetoed by the Governor,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Constitutional Amendment No. 18 - Provide that the marketing of milk and milk substitutes is in the public interest and may be regulated by the General Assembly,,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Constitutional Amendment No. 19 - Authorize the General Assembly to provide that programs for the promotion of agricultural products including provisions for quality and/or product control may be instituted, continued or terminated in accordance with the results of referendum conducted among the producers of the product or products affected",,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Constitutional Amendment No. 20 - Provide that the General Assembly may create or authorize any county or municipal corporation or combination thereof to create Development Authorities and authorize such authorities to issue revenue obligations for the purpose of developing industry, trade and employment opportunities",,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Constitutional Amendment No. 21 - Remove the provision freezing civil service preference for honorably discharged veterans of the State of Georgia as of a certain date, and authorize the General Assembly to accord such veterans preference in any civil service program (10 points for veteran with 10% service-connected disability; 5 points for other veterans)",,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Constitutional Amendment No. 22 - Authorize the General Assembly to provide by law for the creation of an actuarially sound, participating retirement system, including school bus drivers, school lunchroom personnel, school maintenance personnel and school custodial personnel; and for the expenditure of State funds and the funds of county and independent boards of education for the support of said retirement system",,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Constitutional Amendment No. 23 - Authorize the General Assembly, in its discretion, to create a new court or system of courts in and for each city of this state having a population of more than 300,000 (applies specifically to Atlanta - empower city's municipal court judges to try state traffic offenses)",,,
-GA,Atlanta Constitution,109051,1968,GA,,,Local Amendment No. 75 - Authorize the governing authority of the City of Atlanta to establish historic zones within a designated area of the City and enact appropriate planning and zoning ordinances applicable thereto,,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Local Amendment No. 76 - Authorize the City of Atlanta to issue in any one year not in excess of $4,000,000 in principal amount of general obligation bonds for any lawful public purpose other than school purposes without a referendum but subject to certain limitations",,,
-GA,Atlanta Constitution,109051,1968,GA,,,Local Amendment No. 77 - Authorize the City of Atlanta to incur bonded indebtedness to the extent of 45 million dollars in addition to any other indebtedness ($45 million bond issue for city schools),,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Local Amendment No. 78 - Authorize the City of Atlanta to issue in any one year not in excess of $4,000,000 in principal amount of general obligation bonds for school purposes without a referendum but subject to certain limitations",,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Local Amendment No. 79 - Authorize the City of Atlanta to incur debt to the extent of 15 per centum (15%) of assessed value of all taxable property therein, of which debt 8% shall be for indebtedness incurred for all lawful corporate purposes prior to November 6, 1956 and existing indebtedness incurred since November 6, 1956 and indebtedness hereafter incurred, for all lawful corporate purposes other than school purposes, and 7 per centum (7%) shall be for existing indebtedness incurred since November 6, 1956 and indebtedness hereafter incurred, for school purposes (Atlanta school system bonded indebtedness ceiling raised to 7%)",,,
-GA,Atlanta Constitution,109051,1968,GA,,,Local Amendment No. 80 - Authorize Fulton County to indemnify the Tax Commissioner and his bondsmen from loss by reason of acceptance of uncertified checks in payment of automobile license fees,,,
-GA,Atlanta Constitution,109051,1968,GA,,,"Local Amendment No. 81 - Authorize Fulton County, within the unincorporated areas of said County, to regulate traffic and parking, and to provide for misdemeanor punishment for violation of such regulations",,,
-GA,Atlanta Constitution,109051,1968,GA,,,Local Amendment No. 82 - Provide for a direct method of appeal from the Criminal Court of Fulton County to Supreme Court and the Court of Appeals of Georgia so that said Appellate Courts shall have original jurisdiction to try and correct errors of law from the Criminal Court of Fulton County,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Local Amendment No. 83 - Authorize Fulton County to issue general obligation bonds without a referendum but subject to certain limitations (up to $2 million a year),,,
-GA,Atlanta Constitution,109051,1968,GA,,,City of Decatur Amendment No. 60 - Authorize the City of Decatur to construct and maintain off-street parking facilities; the city's parking authority would be allowed to issue revenue bonds for construction of a downtown multi-level parking facility (user fees would pay off the bonds),,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 1 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 2 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 3 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 4 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 5 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 6 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 7 - No,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 8 - No,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 9 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 10 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 11 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 12 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 13 - No,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 14 - No,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 15 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 16 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 17 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 18 - No,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 19 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 20 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 21 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 22 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 23 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Atlanta Local Amendment No. 75 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Atlanta Local Amendment No. 76 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Atlanta Local Amendment No. 77 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Atlanta Local Amendment No. 78 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Fulton County Local Amendment No. 80 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Fulton County Local Amendment No. 81 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Fulton County Local Amendment No. 82 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Fulton County Local Amendment No. 83 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,DeKalb County-Decatur Local Amendment No. 60 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 12 - No,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Statewide Constitutional Amendment No. 14 - Yes,,,
-GA,Atlanta Constitution,109051,1968,GA,,,Atlanta Local Amendment No. 79 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 1 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 2 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 3 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 4 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 5 - No,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 6 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 7 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 8 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 9 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 10 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 11 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 12 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 13 - No,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 14 - No,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Statewide Constitutional Amendment No. 15 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Fulton County Local Amendment No. 35 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,Fulton County Local Amendment No. 36 - Yes,,,
-GA,Atlanta Constitution,109051,1970,GA,,,City of DeKalb amendment - Yes,,,
-GA,Atlanta Constitution,109051,1972,GA,,,Statewide Constitutional Amendment No. 1 (Judicial Qualifications Commission) - Yes,,,
-GA,Atlanta Constitution,109051,1972,GA,,,Statewide Constitutional Amendment No. 5 (abolish office of State Treasurer) - Yes,,,
-GA,Atlanta Constitution,109051,1972,GA,,,Statewide Constitutional Amendment No. 10 (ad valorem tax exemption for non-profit hospitals) - Yes,,,
-GA,Atlanta Constitution,109051,1972,GA,,,Statewide Constitutional Amendment No. 19 (allow city/county agreements on local services) - Yes,,,
-GA,Atlanta Constitution,109051,1972,GA,,,Statewide Constitutional Amendment No. 23 (extend Governor veto period from 5 to 15 days) - No,,,
-GA,Atlanta Constitution,109051,1972,GA,,,Other 1972 statewide constitutional amendments (general endorsement that all should pass except No. 23) - Yes,,,
-GA,Atlanta Constitution,109051,1972,GA,,,"1972 Georgia Constitutional Amendments (general endorsement, all 24 except No. 23) - Yes",,,
-GA,Atlanta Constitution,109051,1972,GA,,,Georgia Constitutional Amendment No. 23 - No,,,
-GA,Atlanta Constitution,109051,1974,GA,,,Statewide Constitutional Amendment No. 1 (unified judicial system) - Yes,,,
-GA,Atlanta Constitution,109051,1974,GA,,,Statewide Constitutional Amendment No. 6 (tobacco inventory ad valorem tax exemption) - Yes,,,
-GA,Atlanta Constitution,109051,1974,GA,,,Bibb County local amendment (exempt withdrawn tobacco from ad valorem taxes) - Yes,,,
-GA,Atlanta Constitution,109051,1974,GA,,,All 16 statewide constitutional amendments (general endorsement) - Yes,,,
-GA,Atlanta Constitution,109051,1974,GA,,,Common Day of Rest Act (statewide referendum) - Yes,,,
-GA,Atlanta Constitution,109051,1974,GA,,,"Atlanta local amendment - increase homestead exemption to $10,000 (over 65, income under $8,000) and $5,000 for other city residents - Yes",,,
-GA,Atlanta Constitution,109051,1974,GA,,,Atlanta local amendment - allow city to levy increased ad valorem taxes (up to 2 mills) for transit bonds - Yes,,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 3 - Removal of disabled Executive Officers,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 4 - Change name of Department of Community Development to Board of Industry and Trade,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 5 - Freeport law authorizing local governments to exempt certain inventories and goods-in-transit from ad valorem taxes,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 6 - Local property tax exemption for solar energy equipment,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 25 - State Board of Pardons and Paroles vacancy and pardon limitations,0,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 1 - Ratify proposed new Constitution of the State of Georgia,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 7 - Provide that General Assembly members shall receive compensation as provided by law,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 8 - Authorize Secretary of State to grant corporate charters,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 9 - Delete provisions pertaining to Board of Corrections and substitute Board of Offender Rehabilitation,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 10 - Authorize General Assembly to provide indemnification for death of law enforcement officer or prison guard in line of duty,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 11 - Require minimum standards and training for sheriffs by general law,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,"Amendment 12 - Increase amount of loans and scholarships for medical students to $15,000",1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 13 - Five-member State Personnel Board with policy direction for State Merit System of Personnel Administration,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment - Delete requirement of majority of registered voters for issuing revenue subdivision bonds,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment - Authorize counties and municipalities to invest sinking funds in certificates and accounts insured by FDIC and FSLIC,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,"Amendment - Authorize counties, municipalities and political subdivisions to obtain federal community disaster loans under Public Law 93-288",1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment - Authorize certain bingo games operated by non-profit organizations as legal in Georgia,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 17 - Creation of Subsequent Injury Workmen's Compensation Trust Fund for partially disabled persons,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 18 - Change definition of 'income' for homestead exemption in Fulton County to match federal definition,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 19 - Authorize legislation making mobile homes a separate class of property for ad valorem tax purposes,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 21 - Create State Properties Commission with authority over state property,0,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 22 - Exempt aged citizens 65+ from ad valorem taxation on real estate,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 23 - Allow elderly persons 62+ to attend classes free at University System of Georgia,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 24 - Authorize State to receive federal funds for transportation and authorize General Assembly to provide for use of such funds,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 2 - Allow a governor to succeed himself for one four-year term (gubernatorial succession),0,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 2 - Allow a governor to succeed himself for one four-year term,0,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 4 - Change name of Department of Community Development to Department of Industry and Trade,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 5 - Freeport law authorizing local governments to exempt inventories,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 7 - General Assembly compensation by law,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 9 - Replace Board of Corrections with Board of Offender Rehabilitation,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 10 - Indemnification for line of duty deaths of officers and prison guards,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 11 - Minimum standards and training for sheriffs,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,"Amendment 12 - Increase scholarship amount for medical students to $15,000",1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 13 - Five-member State Personnel Board,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 14 - Eliminate majority requirement for revenue subdivision bonds,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 15 - Counties/municipalities invest sinking funds in FDIC/FSLIC accounts,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 16 - Authorize federal community disaster loans,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 17 - Subsequent Injury Workmen's Compensation Trust Fund,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 18 - Change definition of income for Fulton County homestead exemption,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 19 - Mobile homes as separate class of property for tax purposes,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 20 - Allow non-profit organizations to operate bingo games,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 21 - Create State Properties Commission,0,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 22 - Exempt aged citizens 65+ from ad valorem taxation,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 23 - Free tuition for elderly persons 62+ at University System of Georgia,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 24 - Authorize state use of federal funds for transportation,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 26 - Tax exemption for outdoor advertising and junkyards adjacent to federal roads,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 27 - General Assembly to permit donation of surplus state funds to nonprofit organizations for educational use,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 28 - Inmates 25+ years to qualify for parole,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 30 - Inmates serve 25 years before review for parole,1,,
-GA,Atlanta Constitution,109051,1976,GA,,,Amendment 31 - East Point Business and Industrial Development Authority,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 4 - Double the terms of Georgia legislators from two to four years,0,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 9 - Allow additional penalty assessments in criminal cases to fund law enforcement training,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 26 - Fulton County/Atlanta tax and services package,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 27 - Create city-county water and sewage system in Fulton County/Atlanta,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 28 - Fulton County/Atlanta services package,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 29 - Set up special tax districts to finance services in Fulton County's unincorporated areas,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 30 - Fulton County/Atlanta services package,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 31 - Require tax assessors to be professionally qualified in Fulton County,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 32 - Fulton County/Atlanta services package,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 22 - Authorize General Assembly to provide health insurance plan for retired public school teachers,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 4 - Authorize state board of education to set up a curriculum laboratory of suggested educational professionals,0,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 6 - (opposed for above stated reasons),0,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 7 - Removes possibility of Fulton and DeKalb counties taxing Atlanta and Decatur residents of independent school districts up to 1.5 mills for county school purposes,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 9 - Allows additional fines in criminal and traffic violations; proceeds to fund law enforcement training,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,"Amendment 10 - Exempts ad valorem tax on swine, cattle and horses",0,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 13 - Authorize legislature to grant cities or counties power to encourage redevelopment programs,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 15 - Repeals local laws on recall of elected officials and replaces them with general law for recall of all elected officials,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,"Amendment 18 - Increases homestead exemption from $13,500 to $25,000 for disabled veterans, with surviving widow or minor children entitled to same exemption as long as they continue to live in the home",1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 22 - Includes retired public school teachers in state teachers health insurance plan,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 23 - Allows the General Assembly to reconvene for one day after each session to reconsider bills that have been vetoed by the governor,0,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendments 26 through 32 - Recommendations for streamlining Fulton/Atlanta governments and forming a more equitable tax structure,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 83 - Authorize General Assembly to provide increases in retirement and pension benefits for teachers and employees of Fulton County Board of Education,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 84 - Creates within the county an industrial district that would be competitive with other industrial areas but not included within any municipal corporation; Fulton County taxation would apply (companion to statewide Amendment 7),1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 86 - Excludes low-income elderly persons' Social Security income from adjusted gross income when qualifying for homestead exemptions in Atlanta,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,"Amendment 87 - Provides homestead exemption of $10,000 from county and school district ad valorem taxes for residents 65 or disabled, if certain income requirements are met",1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 91 - Establishes not more than two branch offices to conduct county business and authorizes board of education to establish branch offices,0,,
-GA,Atlanta Constitution,109051,1978,GA,,,Fulton County freeport referendum (three questions at end of ballot) - freeport law would make area more competitive in attempts to lure industry by exempting ad valorem taxes on goods in inventory shipped outside the state,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 69 - Prevents DeKalb school system from levying a one-mill school tax on residents of an independent school district (Decatur); eliminates threat of double taxation,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 71 - Allows General Assembly to draw legislation and submit to a vote of DeKalb residents on a reconstructed county government with strong elected executive chairman and board of commissioners as governing authority,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 78 - Creates a DeKalb County Retirement Home Authority to provide housing for elderly citizens at reasonable cost,0,,
-GA,Atlanta Constitution,109051,1978,GA,,,"Amendment 79 - Increases DeKalb homestead exemption in the next five years from $2,000 to not more than $8,000",1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 4 - Voters do not deserve legislators who further remove themselves from the electorate (related to educational professionals/curriculum laboratory),0,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 7 - Removes the possibility of Fulton and DeKalb counties taxing Atlanta and Decatur residents of independent school districts up to 1.5 mills for county school purposes,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 9 - Raises funds for training law enforcement officials,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 13 - Encourages redevelopment programs in cities and counties,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,"Amendment 14 - Authorizes the General Assembly to legalize, define and regulate non-profit bingo games",1,,
-GA,Atlanta Constitution,109051,1978,GA,,,"Amendment 18 - Increases homestead exemption from $12,500 to $25,000 for disabled veterans",1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 25 - Allows the General Assembly to reconvene for one day after each session to reconsider bills that have been vetoed by the governor,0,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendments 26 through 32 - Recommendations for streamlining the Fulton and Atlanta governments and forming a more equitable tax structure,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 84 - Creates within the county an industrial district,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 91 - Establishes branch offices to conduct county business and authorizes board of education to establish branch offices,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Fulton County freeport referendum (three questions at end of ballot),1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 69 - Prevents DeKalb School System from levying a one mill school tax on an independent school district,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 71 - Allows General Assembly to draw legislation and submit for a vote of DeKalb residents on a reconstruction of county government,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 72 - Allows additional homestead exemption for elderly or disabled residents of Lithonia,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,"Amendment 75 - Exempts from DeKalb school taxes persons 62 or over or disabled with total income of less than $8,000",1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 76 - Eliminates double taxation by allowing DeKalb County to tax city residents only for services provided by the county,1,,
-GA,Atlanta Constitution,109051,1978,GA,,,"Amendment 79 - Increases homestead exemption in the next five years from $2,000 to not more than $8,000",1,,
-GA,Atlanta Constitution,109051,1978,GA,,,Amendment 80 - Allows the General Assembly to provide by local law for recall of members of the DeKalb Board of Education,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 1 - Allow the General Assembly to establish various classifications of property for use by the state revenue commissioner in reviewing county property taxes,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 3 - Allow the state to reimburse teachers for tuition costs when they take courses to retain their certification,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 4 - Authorize expenditure of state money to purchase football and band uniforms,0,,
-GA,Atlanta Constitution,109051,1980,GA,,,"Amendment 5 - Authorize the legislature to adjust the retirement benefits of firemen to offset inflation, with money coming from the Georgia Firemen's Pension Fund",1,,
-GA,Atlanta Constitution,109051,1980,GA,,,"Amendment 6 - Authorize the state to provide indemnification of up to $50,000 for law enforcement officers, firemen and prison guards permanently disabled in the line of duty",1,,
-GA,Atlanta Constitution,109051,1980,GA,,,"Amendment 7 - Allow cities and counties to establish and maintain redevelopment areas which would be exempt from state, county, municipal or ad valorem taxation",1,,
-GA,Atlanta Constitution,109051,1980,GA,,,"Amendment 8 - Allow people over 65 to earn up to $8,000 (up from $4,000) and be eligible for an additional $2,000 exemption of property and school taxes",1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 9 - Allow city courts jurisdiction over cases where a person is charged with possession of one ounce or less of marijuana,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,"Amendment 10 - Allow a superior court, without a jury, to render default judgment in fault cases",1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 11 - Allow cities and counties to establish an awards program for employees to provide incentive for better work,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 12 - Allow civil court cases involving a juvenile to be heard in a court nearest the juvenile's home,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 13 - Allow life insurance premiums taxes to go to the counties in which they are taxed (now taxes in unincorporated areas go to the state),1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 14 - Create a building authority in Gwinnett County (voted on statewide),1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 15 - Exempts from taxes the headquarters of an organization that promotes cooperation between parents and teachers (PTA) for improvement of education; effects only Fulton County,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 16 - Create a building authority in Rockdale County (voted on statewide),1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 76 - Authorize a Fulton Industrial District and prohibit the county from levying for educational purposes taxes on property within the city of Atlanta,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 77 - Create special tax districts in the non-Atlanta areas of Fulton County and provide that ad valorem taxes for police services shall come from those special districts,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 78 - Authorize Fulton County to provide a $100 per month increase to the pension paid employees who retired prior to January 1964,1,,
-GA,Atlanta Constitution,109051,1980,GA,,,"Amendment 2 - Allow general obligation debt to be incurred to provide education facilities for county and independent school systems, with title vested in the local board of education when completed",1,,
-GA,Atlanta Constitution,109051,1980,GA,,,"Amendment 5 - Authorize the legislature to adjust retirement benefits of firemen to offset inflation, with money from the Georgia Firemen's Pension Fund",1,,
-GA,Atlanta Constitution,109051,1980,GA,,,Amendment 15 - Exempts from taxes the headquarters of the PTA in Fulton County,1,,
-GA,Atlanta Constitution,109051,1982,GA,AMENDMENT,,LOCAL CONSTITUTIONAL AMENDMENT TO EMPOWER DEKALB LEGISLATIVE DELEGATION TO INTRODUCE LEGISLATION ELIMINATING THE JUSTICE OF THE PEACE COURT SYSTEM IN DEKALB COUNTY.,1,JP SYSTEM IS AN ANACHRONISM; FEES BRING OBJECTIVITY INTO QUESTION; DUPLICATES OTHER COUNTY AGENCIES. YES VOTE.,1.00
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,1,"ELIMINATE PRESENT ALLOCATION OF MOTOR VEHICLE LICENSE TAX FEES TO THE HIGHWAY DEPARTMENT, WHILE CONTINUING ALLOCATION OF MOTOR FUEL TAX REVENUE. WOULD CORRECT PRACTICE OF OPERATING STATE WITHOUT AN APPROPRIATION BILL.",1,CONSTITUTION REAFFIRMS ITS ENDORSEMENT | VOTE 'YES',0.90
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,10,ADD THE COMMISSIONER OF AGRICULTURE AS EX-OFFICIO MEMBER OF THE BOARD OF REGENTS OF THE UNIVERSITY SYSTEM—THE ONLY ELECTED OFFICIAL ON THE BOARD. SPECIAL INTEREST AMENDMENT THAT WOULD RISK POLITICAL INTERFERENCE WITHIN THE UNIVERSITY SYSTEM.,0,"RECOMMENDS 'NO' VOTE - UNWISE AND DANGEROUS | LET GEORGIANS REJECT AMENDMENT NO. 10 BECAUSE OF THREAT TO UNIVERSITY SYSTEM. ENDORSED BY ROBERT ARNOLD (REGENTS CHAIRMAN), CHARLES GOWEN, PHIL CAMPBELL (COMMISSIONER OF AGRICULTURE) | CONSTITUTION AGREES WITH ARNOLD AND GOWEN - VOTE 'NO' TO PROTECT HIGHER EDUCATION FROM ENCROACHMENT OF POLITICIANS | VOTE 'NO' - WE FEAR WOULD PACK THE STATE BOARD OF EDUCATION",0.95
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,11,PROVIDE THAT NO COUNTY WOULD AWARD CONTRACTS TO USE COUNTY TAX MONEY FOR SCHOOL LUNCH PURPOSES.,1,VOTE 'YES',0.70
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,12,ELIMINATE LEVY OF ONE DOLLAR MAXIMUM ON THE PRICE OF EVERY MARRIAGE LICENSE IN THE STATE FOR ESTABLISHMENT OF A CONFEDERATE RETIREMENT BUREAU; PRESERVE THESE OFFICERS AS REQUIRED.,1,VOTE 'YES' | RECOMMENDS 'YES' VOTE,0.75
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,13,"PROVIDES FOR LOANS TO MEDICAL STUDENTS TO BE REPAID BY SERVICE IN COMMUNITIES OF UNDER 5,000.",1,VOTE 'YES',0.85
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,14,PROVIDE FOR GRANTING OF SCHOLARSHIPS TO PHYSICIANS AND OTHER PERSONNEL FOR SPECIALIZED TRAINING IN THE FIELD OF MENTAL HEALTH.,1,RECOMMENDS 'YES' VOTE,0.90
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,15,"AUTHORIZE ESTABLISHMENT OF AREA SCHOOLS, INCLUDING VOCATIONAL TRADE SCHOOLS.",1,RECOMMENDS 'YES' VOTE | VOTE 'YES',0.90
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,16,PROPOSAL WOULD PERMIT CREATION TO PURCHASE LIABILITY INSURANCE TO COVER DAMAGES SUFFERED BY COUNTY-OWNED VEHICLES.,1,VOTE 'YES',0.75
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,17,AUTHORIZING CREATION OF A BRUNSWICK PORTS AUTHORITY; THIS AMENDMENT WOULD FACILITATE ADDITIONAL PORT FINANCING THERE.,1,VOTE 'YES',0.80
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,18,"AUTHORIZE STATE MILITIA/NATIONAL GUARD AMENDMENT REGARDING CONTROL OF NATIONAL GUARD, WOULD ENABLE THE STATE TO ASSUME DISCIPLINARY RESPONSIBILITIES.",1,VOTE 'YES',0.70
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,19,"WOULD CREATE AN ATHENS-CLARKE COUNTY PUBLIC FACILITIES AUTHORITY TO ENABLE ATHENS AND CLARKE COUNTY TO FINANCE REVENUE PRODUCING PROJECTS OF A WIDE VARIETY, INCLUDING STADIUMS, BALLFIELDS, RECREATION OF PUBLIC BODIES FOR ATHLETIC AND CIVIC FORUM. AMENDMENT IS PRIMARILY LOCAL IN APPLICATION.",1,VOTE 'YES',0.80
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,2,"PERMIT STATE TO UNDERWRITE AUTHORITY DEBTS, ASSUMING LEGAL OBLIGATION WHICH WOULD SAVE INTEREST COSTS.",1,CONSTITUTION REAFFIRMS ITS ENDORSEMENT | VOTE 'YES',0.90
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,3,"ADD FIVE STATE-AT-LARGE MEMBERS TO THE STATE BOARD OF EDUCATION, TO BE APPOINTED BY THE GOVERNOR AND EXCLUDING ANYONE PROFESSIONALLY CONNECTED WITH EDUCATION.",0,RECOMMENDS 'NO' VOTE - UNWISE AND DANGEROUS | VOTE 'NO' | VOTE 'NO' - WE FEAR WOULD PACK THE STATE BOARD OF EDUCATION,0.95
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,4,AUTHORIZE GENERAL ASSEMBLY TO PROVIDE BY LAW FOR GRANTING OF STATE FUNDS TO MUNICIPALITIES.,1,RECOMMENDS 'YES' VOTE | VOTE 'YES',0.90
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,45,LOCAL FULTON COUNTY AMENDMENT - DEKALB AMENDMENT REGARDING INDUSTRIAL DEVELOPMENT.,1,"AMONG LOCAL AMENDMENTS, WE ENDORSE NUMBER 45 IN FULTON COUNTY",0.70
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,46,"LOCAL DEKALB COUNTY AMENDMENT - WOULD BRING SMALL INDUSTRIES A DOLLAR A YEAR FOR INSTANCE, ON THE OWNER OF A $10,000 HOME IN ORDER TO FINANCE A DRIVE FOR INDUSTRY.",1,"ENDORSE NUMBER 46 IN DEKALB. THE DRIVE FOR INDUSTRY IS SUCCESSFUL, THE FUTURE TAX BURDEN ON RESIDENTS WILL BE SHARED BY THE INDUSTRIES GAINED",0.75
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,5,LIFT PRESENT TAX LIMITATION OF 15 MILLS TO 20 MILLS WHICH COUNTIES MAY LEVY FOR SCHOOLS.,1,RECOMMENDS 'YES' VOTE | VOTE 'YES',0.90
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,50,PROVIDES FOR ASSUMPTION OF CERTAIN FULTON COUNTY SCHOOL DISTRICT OBLIGATIONS BY THE CITY OF ATLANTA IN THE EVENT OF FUTURE EXTENSIONS OF ITS CORPORATE LIMITS (ANNEXATIONS).,1,FULTON COUNTY VOTERS SHOULD VOTE 'YES',0.95
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,6,AUTHORIZE GENERAL ASSEMBLY TO ENABLE LEGISLATURE TO LEVY TAXES TO MAKE LOANS TO INDUSTRIAL DEVELOPMENT AGENCIES THROUGHOUT THE STATE.,1,VOTE 'YES',0.85
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,7,ENABLE LEGISLATURE TO LEVY TAXES TO MAKE LOANS TO INDUSTRIAL DEVELOPMENT AGENCIES THROUGHOUT THE STATE.,1,RECOMMENDS 'YES' VOTE | VOTE 'YES',0.90
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,8,PERMIT STATE TO WITHHOLD PAYMENT FOR TAKING OR DAMAGING PRIVATE PROPERTY FOR ROAD AND STREET PURPOSES UNTIL THE CASE IS FINALLY SETTLED.,1,VOTE 'YES' | RECOMMENDS 'YES' VOTE,0.80
+GA,Atlanta Constitution,109051,1960,GA,AMENDMENT,ALL OTHER LOCAL,"ALL OTHER AMENDMENTS ARE LOCAL, TO BE VOTED ON BY COUNTIES INVOLVED (FULTON/DEKALB COUNTIES). NO. 46 WOULD PERMIT ATHENS TO ASSUME ACTUAL BOND RESPONSIBILITIES FOR PUBLIC INDUSTRIAL DEVELOPMENT PURPOSES.",1,DEFAULT TO A 'YES' VOTE ON LOCAL INDUSTRIAL DEVELOPMENT - BOTH DESERVE APPROVAL,0.60
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,1,'FREEDOM FROM COMPULSORY ASSOCIATION' MEASURE ASSURES STATE SUPPORT OF PUBLIC SCHOOLS.,1,RECOMMEND YES VOTE | VOTE APPROVAL,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,10,RESTRICT THE GEORGIA VOTER'S CHOICE BY CURTAILING WRITE-IN CAMPAIGNS. WRITE-IN CANDIDATES WOULD NOT BE DECLARED ELECTED UNLESS THEY OR THEIR SUPPORTERS HAD GIVEN FORMAL NOTICE AT LEAST 10 DAYS BEFORE THE ELECTION THAT A WRITE-IN CAMPAIGN WAS BEING WAGED.,0,VOTE AGAINST - REGRETTABLE ATTEMPT TO RESTRICT VOTER'S RIGHT TO WRITE IN ANY NAME | SHOULD BE DISAPPROVED | SHOULD BE REJECTED,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,11,INCREASES REWARD FOR BRINGING IN FIRST OIL OR GAS WELL IN THE STATE.,1,RECOMMEND YES VOTE | VOTE APPROVAL,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,12,"HELP FINANCE URBAN RENEWAL THROUGH THE ISSUANCE OF REVENUE BONDS. TAX RECEIPTS FROM REDEVELOPED LAND WOULD PAY OFF THE BONDS. BUT IF RECEIPTS RAN SHORT, FULL FAITH AND CREDIT OF CITY OR COUNTY COULD BE PLEDGED TOWARD PAYING OFF THE BONDS WITHOUT REFERENDUM.",0,VOTE AGAINST - HAS GOOD OBJECTIVES BUT POTENTIALLY DANGEROUS PROVISIONS | SHOULD BE DISAPPROVED | SHOULD BE REJECTED,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,13,PERMIT USE OF STATE FUNDS TO HELP SUPPORT SCHOOL LUNCHROOMS. CURRENTLY SCHOOL LUNCHROOMS OPERATE ON FEDERAL AND LOCAL FUNDS; ONLY STATE FUNDS USED ARE THOSE REQUIRED TO ADMINISTER DISTRIBUTION OF FEDERAL FUNDS.,1,AMENDMENT 13 WOULD BOOST LUNCH PROGRAM. DESERVES STRONG BACKING | RECOMMEND YES VOTE | VOTE APPROVAL,0.97
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,14,PERMITS COUNTIES TO CONDUCT SLUM CLEARANCE AND REDEVELOPMENT.,1,RECOMMEND YES VOTE | VOTE APPROVAL,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,15,MAKES RULES FOR OVERRIDING GOVERNOR'S VETO.,1,RECOMMEND YES VOTE | VOTE APPROVAL,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,1A,PROVIDES FOR ELECTION OF SENATORS ON A COUNTY-WIDE BASIS.,1,RECOMMEND YES VOTE | VOTE APPROVAL,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,2,"AUTHORIZE GENERAL ASSEMBLY TO PROVIDE FOR GRANTING OF FUNDS TO COUNTIES IN WHICH STATE OWNS MORE THAN 20,000 ACRES OF LAND FROM WHICH AFFECTED COUNTIES RECEIVE NO TAXES. HEALTHY STEP TOWARD FAIR SOLUTION.",1,URGE PASSAGE. LET'S FLASH GREEN LIGHT | RECOMMEND YES VOTE | VOTE APPROVAL,0.97
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,3,REQUIRES BIENNIAL APPROPRIATIONS BILL.,1,RECOMMEND YES VOTE | VOTE APPROVAL,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,4,REORGANIZE THE STATE COMMERCE DEPARTMENT BY CREATING A NEW AGENCY TO BE CALLED THE DEPARTMENT OF INDUSTRY AND TRADE. RUN BY A 20-MAN BOARD (TWO MEMBERS FROM EACH CONGRESSIONAL DISTRICT) AND A DIRECTOR APPOINTED BY THE BOARD.,1,NO. 4 WOULD HELP QUEST FOR INDUSTRY. VOTE FOR AMENDMENT 4 WILL BE A STEP TOWARD HEALTHY INDUSTRIAL GROWTH | RECOMMEND YES VOTE | VOTE APPROVAL,0.97
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,5,"MAKE $5 OF THE DAILY EARNINGS OF LAW ENFORCEMENT OFFICERS A SUBSISTENCE ALLOWANCE, THUS NOT SUBJECT TO INCOME TAXES.",0,"VOTE AGAINST - OPENS FLOODGATES FOR SIMILAR DEMANDS BY OTHER GROUPS, COULD WRECK TAX LAWS | SHOULD BE DISAPPROVED | SHOULD BE REJECTED FOR REASONS STATED PREVIOUSLY",0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,6,PROVIDES FOR SPLIT SESSIONS OF GENERAL ASSEMBLY IN BUDGET-MAKING YEARS.,1,RECOMMEND YES VOTE | VOTE APPROVAL,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,67,FULTON COUNTY AMENDMENT - WOULD RAISE THE CEILING ON ATLANTA'S WATER AND SANITARY REVENUE CERTIFICATES TO 40 PER CENT OF SUCH FEES FOR THE PREVIOUS YEAR. PRESENT CEILING IS 30 PER CENT.,1,CHANGE IS IN ORDER AND SHOULD BE APPROVED | DESERVES PASSAGE - APPLIES ONLY TO FULTON COUNTY | SUPPORT NO. 67 | URGE APPROVAL OF THE ONE LOCAL AMENDMENT RELATING TO FULTON COUNTY,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,7,ALLOW ANY COUNTY OR MUNICIPALITY TO BORROW NECESSARY FUNDS TO PAY COST OF PROPERTY VALUATION AND EQUALIZATION PROGRAMS FOR AD VALOREM PURPOSES. STRONG SAFEGUARD AGAINST ABUSE - NO COUNTY SHALL BE EMPOWERED TO CREATE DEBT UNDER PROVISIONS UNTIL PROGRAM IS APPROVED BY STATE REVENUE COMMISSIONER.,1,URGE PASSAGE. WILL ADVANCE PROGRESS IN FAIR TAX DISTRIBUTION | RECOMMEND YES VOTE | VOTE APPROVAL,0.97
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,8,PERMITS MEDICAL STUDENTS RECEIVING LOANS OR SCHOLARSHIPS TO REPAY SAME THROUGH SERVICE UNDER STATE BOARD OF CORRECTIONS.,1,RECOMMEND YES VOTE | VOTE APPROVAL,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,9,AUTHORIZES USE OF PUBLIC FUNDS FOR RAPID TRANSIT DEVELOPMENT.,1,RECOMMEND YES VOTE | VOTE APPROVAL,0.95
+GA,Atlanta Constitution,109051,1962,GA,AMENDMENT,ALL OTHERS,"OF THE 15 CONSTITUTIONAL AMENDMENTS TO BE VOTED ON THROUGHOUT THE STATE, SUPPORT ALL BUT THREE (5, 10, 12). SUPPORT AMENDMENTS PERTAINING TO RAPID TRANSIT, BUDGET REFORM, COMMERCE DEPARTMENT REORGANIZATION, TAX REVALUATION, AND SCHOOL LUNCH FINANCING.",1,"SUPPORT 12 OF 15 AMENDMENTS, INCLUDING THOSE FOR RAPID TRANSIT, BUDGET REFORM, COMMERCE DEPT REORGANIZATION, TAX REVALUATION, SCHOOL LUNCH FINANCING | ALL OTHER STATEWIDE AMENDMENTS STRIKE US AS BEING GOOD AND NECESSARY",0.85
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A1,CONSTITUTIONAL AMENDMENT NO. 2 - AUTHORIZE SETTING UP AN AUTHORITY TO ADMINISTER ALL SCHOLARSHIP PROGRAMS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A2,CONSTITUTIONAL AMENDMENT NO. 4 - STATE-BACKED STUDENT LOAN PROGRAM FOR COLLEGE STUDENTS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A3,CONSTITUTIONAL AMENDMENT NO. 1 - REORGANIZATION OF THE STATE HIGHWAY DEPARTMENT,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A4,CONSTITUTIONAL AMENDMENT NO. 2 - PERMIT SETTING UP A STATE SCHOLARSHIP COMMISSION,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A5,CONSTITUTIONAL AMENDMENT NO. 3 - MAKE IT EASIER FOR COUNTIES TO CONSOLIDATE,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A6,CONSTITUTIONAL AMENDMENT NO. 4 - STUDENT LOANS FOR HIGHER EDUCATION,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A7,CONSTITUTIONAL AMENDMENT NO. 5 - PROVIDE LOANS FOR DENTAL STUDENTS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A8,CONSTITUTIONAL AMENDMENT NO. 6 - INSURE CONTINUITY OF GOVERNMENT IN CASE OF DISASTER,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A9,CONSTITUTIONAL AMENDMENT NO. 7 - AUTHORIZE WORKMEN'S COMPENSATION FOR SCHOOL WORKERS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A10,CONSTITUTIONAL AMENDMENT NO. 8 - PERMIT COLLECTION OF TAXES ON MOTOR VEHICLES AT TIME OF ISSUANCE OF LICENSE TAGS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A11,"CONSTITUTIONAL AMENDMENT NO. 9 - AUTHORIZE INCREASED HOMESTEAD EXEMPTIONS FOR PERSONS 65 OR OLDER AND TO DISABLED VETERANS AND OTHERS PERMANENTLY DISABLED, WITHIN INCOME LIMITATIONS",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A12,CONSTITUTIONAL AMENDMENT NO. 10 - PROVIDE CREDIT FOR SERVICE AT MILLEDGEVILLE STATE HOSPITAL FOR REPAYMENT OF MEDICAL STUDENT LOANS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A13,CONSTITUTIONAL AMENDMENT NO. 11 - ALLOW LEGISLATURE TO AUTHORIZE COUNTIES TO LEVY BUSINESS LICENSE FEES AND TAXES ON FIRMS OUTSIDE MUNICIPALITIES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A14,CONSTITUTIONAL AMENDMENT NO. 12 - EXTEND HOMESTEAD EXEMPTIONS FOR DISABLED VETERANS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A15,CONSTITUTIONAL AMENDMENT NO. 13 - GRANT TAX EXEMPTION TO TENANTS AND LESSEES OF THE VIDALIA DEVELOPMENT AUTHORITY,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A16,CONSTITUTIONAL AMENDMENT NO. 14 - ELIMINATE PERSONAL PROPERTY TAXES ON HOUSEHOLD GOODS AND OTHER PERSONAL PROPERTY NOT HELD FOR SALE IN MUSCOGEE COUNTY ALONE,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A17,FULTON COUNTY AMENDMENT NO. 56 - RAPID TRANSIT FOR THE METROPOLITAN AREA,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A18,FULTON COUNTY AMENDMENTS NOS. 58 THROUGH 61 - OTHER FULTON COUNTY AMENDMENTS (GENERAL SUPPORT),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A19,FULTON COUNTY AMENDMENT NO. 60 - OMNIBUS MEASURE GRANTING COUNTY POWER TO REGULATE SPEED AND TRAFFIC (POWER RESERVED TO STATE AND CITY GOVERNMENTS),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A20,CONSTITUTIONAL AMENDMENT NO. 2 - AUTHORIZING A STATE SCHOLARSHIP COMMISSION,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A21,CONSTITUTIONAL AMENDMENT NO. 3 - MAKING IT EASIER FOR COUNTIES TO CONSOLIDATE,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A22,CONSTITUTIONAL AMENDMENT NO. 5 - AUTHORIZING LOANS FOR DENTAL STUDENTS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A23,CONSTITUTIONAL AMENDMENT NO. 7 - AUTHORIZE WORKMEN'S COMPENSATION FOR SCHOOL EMPLOYEES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A24,CONSTITUTIONAL AMENDMENT NO. 8 - AUTHORIZE COLLECTION OF TAXES ON MOTOR VEHICLES AT TIME OF ISSUANCE OF LICENSE TAGS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A25,"CONSTITUTIONAL AMENDMENT NO. 9 - PERMIT INCREASED HOMESTEAD EXEMPTIONS FOR PERSONS 65 OR OLDER AND OTHERS PERMANENTLY DISABLED, WITHIN INCOME LIMITATIONS",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A26,CONSTITUTIONAL AMENDMENT NO. 10 - AUTHORIZE CREDIT FOR SERVICE AT MILLEDGEVILLE STATE HOSPITAL FOR REPAYMENT OF MEDICAL STUDENT LOANS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A27,FULTON COUNTY AMENDMENTS NOS. 58 THROUGH 61 (EXCLUDING NO. 60),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A28,FULTON COUNTY AMENDMENT NO. 60 - GRANTING COUNTY POWERS IN TRAFFIC CONTROL NOT NOW ENJOYED BY ANY OTHER COUNTY,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A29,AMENDMENT NO. 16 - RAPID TRANSIT (METRO ATLANTA FOUR COUNTIES),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A30,STATEWIDE CONSTITUTIONAL AMENDMENTS NOS. 1 THROUGH 12 - APPROVE,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A31,STATEWIDE CONSTITUTIONAL AMENDMENTS NOS. 13 AND 14 - REJECT,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A32,AMENDMENT NO. 16 - RAPID TRANSIT (FIVE-COUNTY METROPOLITAN ATLANTA AREA),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A33,"FULTON COUNTY LOCAL AMENDMENTS NOS. 58, 59, AND 61",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,A34,FULTON COUNTY LOCAL AMENDMENT NO. 60,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1964,GA,AMENDMENT,16,"RAPID TRANSIT AMENDMENT - AUTHORIZES CREATION OF A TRANSIT AUTHORITY FOR ATLANTA METROPOLITAN AREA. REQUIRES MAJORITY OF VOTES IN EACH OF FIVE METROPOLITAN AREA COUNTIES: GWINNETT, CLAYTON, COBB, DEKALB AND FULTON. NOT A TAX INCREASE; FINANCING WOULD BE WORKED OUT LATER REQUIRING APPROVAL OF PUBLIC'S DULY ELECTED LEGISLATORS AND LOCAL OFFICIALS.",1,WHY AMENDMENT 16 NEEDS YOUR VOTE. VITAL TO ECONOMIC PROGRESS OF THE WHOLE AREA. WOULD BE ELIGIBLE FOR CONSIDERABLE FEDERAL ASSISTANCE,0.98
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A1,ALL 19 GENERAL CONSTITUTIONAL AMENDMENTS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A2,CONSTITUTIONAL AMENDMENT NO. 1 - AUTHORIZE CONSOLIDATION OF SCHOOLS ACROSS COUNTY LINES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A3,CONSTITUTIONAL AMENDMENT NO. 14 - OPEN THE WAY FOR THE STATE TO PARTICIPATE IN FINANCING OF RAPID TRANSIT SYSTEMS FOR METROPOLITAN AREAS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A4,AMENDMENT NO. 50 - 'STOP ATLANTA' AMENDMENT PROPOSED BY COBB LEGISLATORS TO PREVENT ATLANTA FROM EXTENDING BOUNDARIES BEYOND THE CHATTAHOOCHEE RIVER,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A5,DEKALB AMENDMENT NO. 57 - REPEAL PRESENT SANITATION TAX FOR DEKALB AND PERMIT COUNTY COMMISSIONERS TO SET UP SERVICE CHARGES FOR GARBAGE COLLECTION,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A6,ALL 19 STATEWIDE CONSTITUTIONAL AMENDMENTS,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A7,LOCAL AMENDMENT NO. 50 - COBB COUNTY AMENDMENT AIMED AT ATLANTA,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A8,CONSTITUTIONAL AMENDMENT NO. 14 - RAPID TRANSIT (AUTHORIZE GENERAL ASSEMBLY TO APPROPRIATE FUNDS FOR RAPID TRANSIT AID; ALLOW METROPOLITAN ATLANTA RAPID TRANSIT AUTHORITY TO ACQUIRE RIGHT-OF-WAY),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A9,VOTE YES ON ALL 19 CONSTITUTIONAL AMENDMENTS OF STATEWIDE APPLICATION (WITH JUDGMENT),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,AMENDMENT,A10,VOTE NO ON LOCAL AMENDMENT M.A1 (COBB COUNTY AMENDMENT AIMED AT ATLANTA) - VOTED ON BY ALL OF STATE'S MUNICIPALITIES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1966,GA,BALLOT MEASURE,B1,DID NOT ENDORSE EITHER GUBERNATORIAL NOMINEE,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A1,CONSTITUTIONAL AMENDMENT NO. 13 - CHANGE JURISDICTION OF JUSTICES OF THE PEACE IN CIVIL CASES (RAISE CEILING FROM $200 TO $500),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A2,CONSTITUTIONAL AMENDMENT NO. 14 - PROVIDE FOR CREATION OF A NEW GAME AND FISH COMMISSION (INCREASE SIZE FROM 11 TO 15; LEGISLATORS IN EACH OF 10 CONGRESSIONAL DISTRICTS PROPOSE 3 NAMES; GOVERNOR SELECTS ONE; GOVERNOR ALSO CHOOSES TWO MEMBERS FROM STATE AT LARGE AND ONE FROM COASTAL COUNTIES),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A3,CONSTITUTIONAL AMENDMENT NO. 15 - AUTHORIZE GENERAL ASSEMBLY TO PROVIDE BY LAW FOR REIMBURSING EMPLOYEES OF THE GAME AND FISH COMMISSION WHO RECEIVED A RETROACTIVE PAY RAISE IN 1966 AND WERE SUBSEQUENTLY REQUIRED TO REMIT THE AMOUNT OF SAID RAISE TO THE STATE TREASURER,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A4,"CONSTITUTIONAL AMENDMENT NO. 16 - AUTHORIZE THE DEPARTMENT OF INDUSTRY AND TRADE, IN ORDER TO MAKE GEORGIA COMPETITIVE WITH OTHER STATES IN SECURING NEW BUSINESS, INDUSTRY AND TOURISM, TO EXPEND AVAILABLE FUNDS FOR BUSINESS MEALS AND INCIDENTAL EXPENSES OF BONA FIDE INDUSTRIAL PROSPECTS",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A5,CONSTITUTIONAL AMENDMENT NO. 17 - PROVIDE THAT THE GENERAL ASSEMBLY MAY SUBMIT FOR RATIFICATION PROPOSALS TO PROVIDE FOR A NEW CONSTITUTION AS WELL AS TO SUBMIT PROPOSED AMENDMENTS TO THE CONSTITUTION AND TO PROVIDE THAT SUCH PROPOSALS MAY NOT BE VETOED BY THE GOVERNOR,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A6,CONSTITUTIONAL AMENDMENT NO. 18 - PROVIDE THAT THE MARKETING OF MILK AND MILK SUBSTITUTES IS IN THE PUBLIC INTEREST AND MAY BE REGULATED BY THE GENERAL ASSEMBLY,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A7,"CONSTITUTIONAL AMENDMENT NO. 19 - AUTHORIZE THE GENERAL ASSEMBLY TO PROVIDE THAT PROGRAMS FOR THE PROMOTION OF AGRICULTURAL PRODUCTS INCLUDING PROVISIONS FOR QUALITY AND/OR PRODUCT CONTROL MAY BE INSTITUTED, CONTINUED OR TERMINATED IN ACCORDANCE WITH THE RESULTS OF REFERENDUM CONDUCTED AMONG THE PRODUCERS OF THE PRODUCT OR PRODUCTS AFFECTED",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A8,"CONSTITUTIONAL AMENDMENT NO. 20 - PROVIDE THAT THE GENERAL ASSEMBLY MAY CREATE OR AUTHORIZE ANY COUNTY OR MUNICIPAL CORPORATION OR COMBINATION THEREOF TO CREATE DEVELOPMENT AUTHORITIES AND AUTHORIZE SUCH AUTHORITIES TO ISSUE REVENUE OBLIGATIONS FOR THE PURPOSE OF DEVELOPING INDUSTRY, TRADE AND EMPLOYMENT OPPORTUNITIES",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A9,"CONSTITUTIONAL AMENDMENT NO. 21 - REMOVE THE PROVISION FREEZING CIVIL SERVICE PREFERENCE FOR HONORABLY DISCHARGED VETERANS OF THE STATE OF GEORGIA AS OF A CERTAIN DATE, AND AUTHORIZE THE GENERAL ASSEMBLY TO ACCORD SUCH VETERANS PREFERENCE IN ANY CIVIL SERVICE PROGRAM (10 POINTS FOR VETERAN WITH 10% SERVICE-CONNECTED DISABILITY; 5 POINTS FOR OTHER VETERANS)",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A10,"CONSTITUTIONAL AMENDMENT NO. 22 - AUTHORIZE THE GENERAL ASSEMBLY TO PROVIDE BY LAW FOR THE CREATION OF AN ACTUARIALLY SOUND, PARTICIPATING RETIREMENT SYSTEM, INCLUDING SCHOOL BUS DRIVERS, SCHOOL LUNCHROOM PERSONNEL, SCHOOL MAINTENANCE PERSONNEL AND SCHOOL CUSTODIAL PERSONNEL; AND FOR THE EXPENDITURE OF STATE FUNDS AND THE FUNDS OF COUNTY AND INDEPENDENT BOARDS OF EDUCATION FOR THE SUPPORT OF SAID RETIREMENT SYSTEM",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A11,"CONSTITUTIONAL AMENDMENT NO. 23 - AUTHORIZE THE GENERAL ASSEMBLY, IN ITS DISCRETION, TO CREATE A NEW COURT OR SYSTEM OF COURTS IN AND FOR EACH CITY OF THIS STATE HAVING A POPULATION OF MORE THAN 300,000 (APPLIES SPECIFICALLY TO ATLANTA - EMPOWER CITY'S MUNICIPAL COURT JUDGES TO TRY STATE TRAFFIC OFFENSES)",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A12,LOCAL AMENDMENT NO. 75 - AUTHORIZE THE GOVERNING AUTHORITY OF THE CITY OF ATLANTA TO ESTABLISH HISTORIC ZONES WITHIN A DESIGNATED AREA OF THE CITY AND ENACT APPROPRIATE PLANNING AND ZONING ORDINANCES APPLICABLE THERETO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A13,"LOCAL AMENDMENT NO. 76 - AUTHORIZE THE CITY OF ATLANTA TO ISSUE IN ANY ONE YEAR NOT IN EXCESS OF $4,000,000 IN PRINCIPAL AMOUNT OF GENERAL OBLIGATION BONDS FOR ANY LAWFUL PUBLIC PURPOSE OTHER THAN SCHOOL PURPOSES WITHOUT A REFERENDUM BUT SUBJECT TO CERTAIN LIMITATIONS",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A14,LOCAL AMENDMENT NO. 77 - AUTHORIZE THE CITY OF ATLANTA TO INCUR BONDED INDEBTEDNESS TO THE EXTENT OF 45 MILLION DOLLARS IN ADDITION TO ANY OTHER INDEBTEDNESS ($45 MILLION BOND ISSUE FOR CITY SCHOOLS),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A15,"LOCAL AMENDMENT NO. 78 - AUTHORIZE THE CITY OF ATLANTA TO ISSUE IN ANY ONE YEAR NOT IN EXCESS OF $4,000,000 IN PRINCIPAL AMOUNT OF GENERAL OBLIGATION BONDS FOR SCHOOL PURPOSES WITHOUT A REFERENDUM BUT SUBJECT TO CERTAIN LIMITATIONS",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A16,"LOCAL AMENDMENT NO. 79 - AUTHORIZE THE CITY OF ATLANTA TO INCUR DEBT TO THE EXTENT OF 15 PER CENTUM (15%) OF ASSESSED VALUE OF ALL TAXABLE PROPERTY THEREIN, OF WHICH DEBT 8% SHALL BE FOR INDEBTEDNESS INCURRED FOR ALL LAWFUL CORPORATE PURPOSES PRIOR TO NOVEMBER 6, 1956 AND EXISTING INDEBTEDNESS INCURRED SINCE NOVEMBER 6, 1956 AND INDEBTEDNESS HEREAFTER INCURRED, FOR ALL LAWFUL CORPORATE PURPOSES OTHER THAN SCHOOL PURPOSES, AND 7 PER CENTUM (7%) SHALL BE FOR EXISTING INDEBTEDNESS INCURRED SINCE NOVEMBER 6, 1956 AND INDEBTEDNESS HEREAFTER INCURRED, FOR SCHOOL PURPOSES (ATLANTA SCHOOL SYSTEM BONDED INDEBTEDNESS CEILING RAISED TO 7%)",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A17,LOCAL AMENDMENT NO. 80 - AUTHORIZE FULTON COUNTY TO INDEMNIFY THE TAX COMMISSIONER AND HIS BONDSMEN FROM LOSS BY REASON OF ACCEPTANCE OF UNCERTIFIED CHECKS IN PAYMENT OF AUTOMOBILE LICENSE FEES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A18,"LOCAL AMENDMENT NO. 81 - AUTHORIZE FULTON COUNTY, WITHIN THE UNINCORPORATED AREAS OF SAID COUNTY, TO REGULATE TRAFFIC AND PARKING, AND TO PROVIDE FOR MISDEMEANOR PUNISHMENT FOR VIOLATION OF SUCH REGULATIONS",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A19,LOCAL AMENDMENT NO. 82 - PROVIDE FOR A DIRECT METHOD OF APPEAL FROM THE CRIMINAL COURT OF FULTON COUNTY TO SUPREME COURT AND THE COURT OF APPEALS OF GEORGIA SO THAT SAID APPELLATE COURTS SHALL HAVE ORIGINAL JURISDICTION TO TRY AND CORRECT ERRORS OF LAW FROM THE CRIMINAL COURT OF FULTON COUNTY,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A20,LOCAL AMENDMENT NO. 83 - AUTHORIZE FULTON COUNTY TO ISSUE GENERAL OBLIGATION BONDS WITHOUT A REFERENDUM BUT SUBJECT TO CERTAIN LIMITATIONS (UP TO $2 MILLION A YEAR),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A21,CITY OF DECATUR AMENDMENT NO. 60 - AUTHORIZE THE CITY OF DECATUR TO CONSTRUCT AND MAINTAIN OFF-STREET PARKING FACILITIES; THE CITY'S PARKING AUTHORITY WOULD BE ALLOWED TO ISSUE REVENUE BONDS FOR CONSTRUCTION OF A DOWNTOWN MULTI-LEVEL PARKING FACILITY (USER FEES WOULD PAY OFF THE BONDS),1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A22,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 1 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A23,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 2 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A24,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 3 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A25,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 4 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A26,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 5 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A27,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 6 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A28,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 7 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A29,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 8 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A30,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 9 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A31,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 10 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A32,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 11 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A33,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 12 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A34,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 13 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A35,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 14 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A36,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 15 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A37,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 16 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A38,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 17 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A39,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 18 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A40,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 19 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A41,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 20 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A42,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 21 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A43,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 22 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A44,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 23 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A45,ATLANTA LOCAL AMENDMENT NO. 75 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A46,ATLANTA LOCAL AMENDMENT NO. 76 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A47,ATLANTA LOCAL AMENDMENT NO. 77 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A48,ATLANTA LOCAL AMENDMENT NO. 78 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A49,FULTON COUNTY LOCAL AMENDMENT NO. 80 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A50,FULTON COUNTY LOCAL AMENDMENT NO. 81 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A51,FULTON COUNTY LOCAL AMENDMENT NO. 82 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A52,FULTON COUNTY LOCAL AMENDMENT NO. 83 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A53,DEKALB COUNTY-DECATUR LOCAL AMENDMENT NO. 60 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A54,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 12 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A55,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 14 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1968,GA,AMENDMENT,A56,ATLANTA LOCAL AMENDMENT NO. 79 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A1,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 1 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A2,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 2 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A3,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 3 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A4,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 4 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A5,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 5 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A6,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 6 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A7,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 7 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A8,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 8 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A9,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 9 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A10,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 10 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A11,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 11 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A12,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 12 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A13,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 13 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A14,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 14 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A15,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 15 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A16,FULTON COUNTY LOCAL AMENDMENT NO. 35 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A17,FULTON COUNTY LOCAL AMENDMENT NO. 36 - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1970,GA,AMENDMENT,A18,CITY OF DEKALB AMENDMENT - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1972,GA,AMENDMENT,A1,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 1 (JUDICIAL QUALIFICATIONS COMMISSION) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1972,GA,AMENDMENT,A2,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 5 (ABOLISH OFFICE OF STATE TREASURER) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1972,GA,AMENDMENT,A3,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 10 (AD VALOREM TAX EXEMPTION FOR NON-PROFIT HOSPITALS) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1972,GA,AMENDMENT,A4,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 19 (ALLOW CITY/COUNTY AGREEMENTS ON LOCAL SERVICES) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1972,GA,AMENDMENT,A5,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 23 (EXTEND GOVERNOR VETO PERIOD FROM 5 TO 15 DAYS) - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1972,GA,AMENDMENT,A6,OTHER 1972 STATEWIDE CONSTITUTIONAL AMENDMENTS (GENERAL ENDORSEMENT THAT ALL SHOULD PASS EXCEPT NO. 23) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1972,GA,AMENDMENT,A7,"1972 GEORGIA CONSTITUTIONAL AMENDMENTS (GENERAL ENDORSEMENT, ALL 24 EXCEPT NO. 23) - YES",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1972,GA,AMENDMENT,A8,GEORGIA CONSTITUTIONAL AMENDMENT NO. 23 - NO,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1974,GA,AMENDMENT,A1,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 1 (UNIFIED JUDICIAL SYSTEM) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1974,GA,AMENDMENT,A2,STATEWIDE CONSTITUTIONAL AMENDMENT NO. 6 (TOBACCO INVENTORY AD VALOREM TAX EXEMPTION) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1974,GA,AMENDMENT,A3,BIBB COUNTY LOCAL AMENDMENT (EXEMPT WITHDRAWN TOBACCO FROM AD VALOREM TAXES) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1974,GA,AMENDMENT,A4,ALL 16 STATEWIDE CONSTITUTIONAL AMENDMENTS (GENERAL ENDORSEMENT) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1974,GA,REFERENDUM,R1,COMMON DAY OF REST ACT (STATEWIDE REFERENDUM) - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1974,GA,AMENDMENT,A5,"ATLANTA LOCAL AMENDMENT - INCREASE HOMESTEAD EXEMPTION TO $10,000 (OVER 65, INCOME UNDER $8,000) AND $5,000 FOR OTHER CITY RESIDENTS - YES",1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1974,GA,AMENDMENT,A6,ATLANTA LOCAL AMENDMENT - ALLOW CITY TO LEVY INCREASED AD VALOREM TAXES (UP TO 2 MILLS) FOR TRANSIT BONDS - YES,1,[QA 2026-05-30: backfill — original extraction left endorsed empty; same pattern as cand records of these years].,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A1,AMENDMENT 3 - REMOVAL OF DISABLED EXECUTIVE OFFICERS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A2,AMENDMENT 4 - CHANGE NAME OF DEPARTMENT OF COMMUNITY DEVELOPMENT TO BOARD OF INDUSTRY AND TRADE,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A3,AMENDMENT 5 - FREEPORT LAW AUTHORIZING LOCAL GOVERNMENTS TO EXEMPT CERTAIN INVENTORIES AND GOODS-IN-TRANSIT FROM AD VALOREM TAXES,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A4,AMENDMENT 6 - LOCAL PROPERTY TAX EXEMPTION FOR SOLAR ENERGY EQUIPMENT,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A5,AMENDMENT 25 - STATE BOARD OF PARDONS AND PAROLES VACANCY AND PARDON LIMITATIONS,0,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A6,AMENDMENT 1 - RATIFY PROPOSED NEW CONSTITUTION OF THE STATE OF GEORGIA,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A7,AMENDMENT 7 - PROVIDE THAT GENERAL ASSEMBLY MEMBERS SHALL RECEIVE COMPENSATION AS PROVIDED BY LAW,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A8,AMENDMENT 8 - AUTHORIZE SECRETARY OF STATE TO GRANT CORPORATE CHARTERS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A9,AMENDMENT 9 - DELETE PROVISIONS PERTAINING TO BOARD OF CORRECTIONS AND SUBSTITUTE BOARD OF OFFENDER REHABILITATION,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A10,AMENDMENT 10 - AUTHORIZE GENERAL ASSEMBLY TO PROVIDE INDEMNIFICATION FOR DEATH OF LAW ENFORCEMENT OFFICER OR PRISON GUARD IN LINE OF DUTY,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A11,AMENDMENT 11 - REQUIRE MINIMUM STANDARDS AND TRAINING FOR SHERIFFS BY GENERAL LAW,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A12,"AMENDMENT 12 - INCREASE AMOUNT OF LOANS AND SCHOLARSHIPS FOR MEDICAL STUDENTS TO $15,000",1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A13,AMENDMENT 13 - FIVE-MEMBER STATE PERSONNEL BOARD WITH POLICY DIRECTION FOR STATE MERIT SYSTEM OF PERSONNEL ADMINISTRATION,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A14,AMENDMENT - DELETE REQUIREMENT OF MAJORITY OF REGISTERED VOTERS FOR ISSUING REVENUE SUBDIVISION BONDS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A15,AMENDMENT - AUTHORIZE COUNTIES AND MUNICIPALITIES TO INVEST SINKING FUNDS IN CERTIFICATES AND ACCOUNTS INSURED BY FDIC AND FSLIC,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A16,"AMENDMENT - AUTHORIZE COUNTIES, MUNICIPALITIES AND POLITICAL SUBDIVISIONS TO OBTAIN FEDERAL COMMUNITY DISASTER LOANS UNDER PUBLIC LAW 93-288",1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A17,AMENDMENT - AUTHORIZE CERTAIN BINGO GAMES OPERATED BY NON-PROFIT ORGANIZATIONS AS LEGAL IN GEORGIA,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A18,AMENDMENT 17 - CREATION OF SUBSEQUENT INJURY WORKMEN'S COMPENSATION TRUST FUND FOR PARTIALLY DISABLED PERSONS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A19,AMENDMENT 18 - CHANGE DEFINITION OF 'INCOME' FOR HOMESTEAD EXEMPTION IN FULTON COUNTY TO MATCH FEDERAL DEFINITION,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A20,AMENDMENT 19 - AUTHORIZE LEGISLATION MAKING MOBILE HOMES A SEPARATE CLASS OF PROPERTY FOR AD VALOREM TAX PURPOSES,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A21,AMENDMENT 21 - CREATE STATE PROPERTIES COMMISSION WITH AUTHORITY OVER STATE PROPERTY,0,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A22,AMENDMENT 22 - EXEMPT AGED CITIZENS 65+ FROM AD VALOREM TAXATION ON REAL ESTATE,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A23,AMENDMENT 23 - ALLOW ELDERLY PERSONS 62+ TO ATTEND CLASSES FREE AT UNIVERSITY SYSTEM OF GEORGIA,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A24,AMENDMENT 24 - AUTHORIZE STATE TO RECEIVE FEDERAL FUNDS FOR TRANSPORTATION AND AUTHORIZE GENERAL ASSEMBLY TO PROVIDE FOR USE OF SUCH FUNDS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A25,AMENDMENT 2 - ALLOW A GOVERNOR TO SUCCEED HIMSELF FOR ONE FOUR-YEAR TERM (GUBERNATORIAL SUCCESSION),0,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A26,AMENDMENT 2 - ALLOW A GOVERNOR TO SUCCEED HIMSELF FOR ONE FOUR-YEAR TERM,0,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A27,AMENDMENT 4 - CHANGE NAME OF DEPARTMENT OF COMMUNITY DEVELOPMENT TO DEPARTMENT OF INDUSTRY AND TRADE,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A28,AMENDMENT 5 - FREEPORT LAW AUTHORIZING LOCAL GOVERNMENTS TO EXEMPT INVENTORIES,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A29,AMENDMENT 7 - GENERAL ASSEMBLY COMPENSATION BY LAW,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A30,AMENDMENT 9 - REPLACE BOARD OF CORRECTIONS WITH BOARD OF OFFENDER REHABILITATION,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A31,AMENDMENT 10 - INDEMNIFICATION FOR LINE OF DUTY DEATHS OF OFFICERS AND PRISON GUARDS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A32,AMENDMENT 11 - MINIMUM STANDARDS AND TRAINING FOR SHERIFFS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A33,"AMENDMENT 12 - INCREASE SCHOLARSHIP AMOUNT FOR MEDICAL STUDENTS TO $15,000",1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A34,AMENDMENT 13 - FIVE-MEMBER STATE PERSONNEL BOARD,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A35,AMENDMENT 14 - ELIMINATE MAJORITY REQUIREMENT FOR REVENUE SUBDIVISION BONDS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A36,AMENDMENT 15 - COUNTIES/MUNICIPALITIES INVEST SINKING FUNDS IN FDIC/FSLIC ACCOUNTS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A37,AMENDMENT 16 - AUTHORIZE FEDERAL COMMUNITY DISASTER LOANS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A38,AMENDMENT 17 - SUBSEQUENT INJURY WORKMEN'S COMPENSATION TRUST FUND,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A39,AMENDMENT 18 - CHANGE DEFINITION OF INCOME FOR FULTON COUNTY HOMESTEAD EXEMPTION,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A40,AMENDMENT 19 - MOBILE HOMES AS SEPARATE CLASS OF PROPERTY FOR TAX PURPOSES,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A41,AMENDMENT 20 - ALLOW NON-PROFIT ORGANIZATIONS TO OPERATE BINGO GAMES,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A42,AMENDMENT 21 - CREATE STATE PROPERTIES COMMISSION,0,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A43,AMENDMENT 22 - EXEMPT AGED CITIZENS 65+ FROM AD VALOREM TAXATION,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A44,AMENDMENT 23 - FREE TUITION FOR ELDERLY PERSONS 62+ AT UNIVERSITY SYSTEM OF GEORGIA,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A45,AMENDMENT 24 - AUTHORIZE STATE USE OF FEDERAL FUNDS FOR TRANSPORTATION,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A46,AMENDMENT 26 - TAX EXEMPTION FOR OUTDOOR ADVERTISING AND JUNKYARDS ADJACENT TO FEDERAL ROADS,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A47,AMENDMENT 27 - GENERAL ASSEMBLY TO PERMIT DONATION OF SURPLUS STATE FUNDS TO NONPROFIT ORGANIZATIONS FOR EDUCATIONAL USE,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A48,AMENDMENT 28 - INMATES 25+ YEARS TO QUALIFY FOR PAROLE,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A49,AMENDMENT 30 - INMATES SERVE 25 YEARS BEFORE REVIEW FOR PAROLE,1,,
+GA,Atlanta Constitution,109051,1976,GA,AMENDMENT,A50,AMENDMENT 31 - EAST POINT BUSINESS AND INDUSTRIAL DEVELOPMENT AUTHORITY,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A1,AMENDMENT 4 - DOUBLE THE TERMS OF GEORGIA LEGISLATORS FROM TWO TO FOUR YEARS,0,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A2,AMENDMENT 9 - ALLOW ADDITIONAL PENALTY ASSESSMENTS IN CRIMINAL CASES TO FUND LAW ENFORCEMENT TRAINING,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A3,AMENDMENT 26 - FULTON COUNTY/ATLANTA TAX AND SERVICES PACKAGE,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A4,AMENDMENT 27 - CREATE CITY-COUNTY WATER AND SEWAGE SYSTEM IN FULTON COUNTY/ATLANTA,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A5,AMENDMENT 28 - FULTON COUNTY/ATLANTA SERVICES PACKAGE,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A6,AMENDMENT 29 - SET UP SPECIAL TAX DISTRICTS TO FINANCE SERVICES IN FULTON COUNTY'S UNINCORPORATED AREAS,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A7,AMENDMENT 30 - FULTON COUNTY/ATLANTA SERVICES PACKAGE,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A8,AMENDMENT 31 - REQUIRE TAX ASSESSORS TO BE PROFESSIONALLY QUALIFIED IN FULTON COUNTY,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A9,AMENDMENT 32 - FULTON COUNTY/ATLANTA SERVICES PACKAGE,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A10,AMENDMENT 22 - AUTHORIZE GENERAL ASSEMBLY TO PROVIDE HEALTH INSURANCE PLAN FOR RETIRED PUBLIC SCHOOL TEACHERS,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A11,AMENDMENT 4 - AUTHORIZE STATE BOARD OF EDUCATION TO SET UP A CURRICULUM LABORATORY OF SUGGESTED EDUCATIONAL PROFESSIONALS,0,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A12,AMENDMENT 6 - (OPPOSED FOR ABOVE STATED REASONS),0,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A13,AMENDMENT 7 - REMOVES POSSIBILITY OF FULTON AND DEKALB COUNTIES TAXING ATLANTA AND DECATUR RESIDENTS OF INDEPENDENT SCHOOL DISTRICTS UP TO 1.5 MILLS FOR COUNTY SCHOOL PURPOSES,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A14,AMENDMENT 9 - ALLOWS ADDITIONAL FINES IN CRIMINAL AND TRAFFIC VIOLATIONS; PROCEEDS TO FUND LAW ENFORCEMENT TRAINING,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A15,"AMENDMENT 10 - EXEMPTS AD VALOREM TAX ON SWINE, CATTLE AND HORSES",0,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A16,AMENDMENT 13 - AUTHORIZE LEGISLATURE TO GRANT CITIES OR COUNTIES POWER TO ENCOURAGE REDEVELOPMENT PROGRAMS,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A17,AMENDMENT 15 - REPEALS LOCAL LAWS ON RECALL OF ELECTED OFFICIALS AND REPLACES THEM WITH GENERAL LAW FOR RECALL OF ALL ELECTED OFFICIALS,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A18,"AMENDMENT 18 - INCREASES HOMESTEAD EXEMPTION FROM $13,500 TO $25,000 FOR DISABLED VETERANS, WITH SURVIVING WIDOW OR MINOR CHILDREN ENTITLED TO SAME EXEMPTION AS LONG AS THEY CONTINUE TO LIVE IN THE HOME",1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A19,AMENDMENT 22 - INCLUDES RETIRED PUBLIC SCHOOL TEACHERS IN STATE TEACHERS HEALTH INSURANCE PLAN,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A20,AMENDMENT 23 - ALLOWS THE GENERAL ASSEMBLY TO RECONVENE FOR ONE DAY AFTER EACH SESSION TO RECONSIDER BILLS THAT HAVE BEEN VETOED BY THE GOVERNOR,0,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A21,AMENDMENTS 26 THROUGH 32 - RECOMMENDATIONS FOR STREAMLINING FULTON/ATLANTA GOVERNMENTS AND FORMING A MORE EQUITABLE TAX STRUCTURE,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A22,AMENDMENT 83 - AUTHORIZE GENERAL ASSEMBLY TO PROVIDE INCREASES IN RETIREMENT AND PENSION BENEFITS FOR TEACHERS AND EMPLOYEES OF FULTON COUNTY BOARD OF EDUCATION,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A23,AMENDMENT 84 - CREATES WITHIN THE COUNTY AN INDUSTRIAL DISTRICT THAT WOULD BE COMPETITIVE WITH OTHER INDUSTRIAL AREAS BUT NOT INCLUDED WITHIN ANY MUNICIPAL CORPORATION; FULTON COUNTY TAXATION WOULD APPLY (COMPANION TO STATEWIDE AMENDMENT 7),1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A24,AMENDMENT 86 - EXCLUDES LOW-INCOME ELDERLY PERSONS' SOCIAL SECURITY INCOME FROM ADJUSTED GROSS INCOME WHEN QUALIFYING FOR HOMESTEAD EXEMPTIONS IN ATLANTA,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A25,"AMENDMENT 87 - PROVIDES HOMESTEAD EXEMPTION OF $10,000 FROM COUNTY AND SCHOOL DISTRICT AD VALOREM TAXES FOR RESIDENTS 65 OR DISABLED, IF CERTAIN INCOME REQUIREMENTS ARE MET",1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A26,AMENDMENT 91 - ESTABLISHES NOT MORE THAN TWO BRANCH OFFICES TO CONDUCT COUNTY BUSINESS AND AUTHORIZES BOARD OF EDUCATION TO ESTABLISH BRANCH OFFICES,0,,
+GA,Atlanta Constitution,109051,1978,GA,REFERENDUM,R1,FULTON COUNTY FREEPORT REFERENDUM (THREE QUESTIONS AT END OF BALLOT) - FREEPORT LAW WOULD MAKE AREA MORE COMPETITIVE IN ATTEMPTS TO LURE INDUSTRY BY EXEMPTING AD VALOREM TAXES ON GOODS IN INVENTORY SHIPPED OUTSIDE THE STATE,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A27,AMENDMENT 69 - PREVENTS DEKALB SCHOOL SYSTEM FROM LEVYING A ONE-MILL SCHOOL TAX ON RESIDENTS OF AN INDEPENDENT SCHOOL DISTRICT (DECATUR); ELIMINATES THREAT OF DOUBLE TAXATION,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A28,AMENDMENT 71 - ALLOWS GENERAL ASSEMBLY TO DRAW LEGISLATION AND SUBMIT TO A VOTE OF DEKALB RESIDENTS ON A RECONSTRUCTED COUNTY GOVERNMENT WITH STRONG ELECTED EXECUTIVE CHAIRMAN AND BOARD OF COMMISSIONERS AS GOVERNING AUTHORITY,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A29,AMENDMENT 78 - CREATES A DEKALB COUNTY RETIREMENT HOME AUTHORITY TO PROVIDE HOUSING FOR ELDERLY CITIZENS AT REASONABLE COST,0,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A30,"AMENDMENT 79 - INCREASES DEKALB HOMESTEAD EXEMPTION IN THE NEXT FIVE YEARS FROM $2,000 TO NOT MORE THAN $8,000",1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A31,AMENDMENT 4 - VOTERS DO NOT DESERVE LEGISLATORS WHO FURTHER REMOVE THEMSELVES FROM THE ELECTORATE (RELATED TO EDUCATIONAL PROFESSIONALS/CURRICULUM LABORATORY),0,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A32,AMENDMENT 7 - REMOVES THE POSSIBILITY OF FULTON AND DEKALB COUNTIES TAXING ATLANTA AND DECATUR RESIDENTS OF INDEPENDENT SCHOOL DISTRICTS UP TO 1.5 MILLS FOR COUNTY SCHOOL PURPOSES,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A33,AMENDMENT 9 - RAISES FUNDS FOR TRAINING LAW ENFORCEMENT OFFICIALS,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A34,AMENDMENT 13 - ENCOURAGES REDEVELOPMENT PROGRAMS IN CITIES AND COUNTIES,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A35,"AMENDMENT 14 - AUTHORIZES THE GENERAL ASSEMBLY TO LEGALIZE, DEFINE AND REGULATE NON-PROFIT BINGO GAMES",1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A36,"AMENDMENT 18 - INCREASES HOMESTEAD EXEMPTION FROM $12,500 TO $25,000 FOR DISABLED VETERANS",1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A37,AMENDMENT 25 - ALLOWS THE GENERAL ASSEMBLY TO RECONVENE FOR ONE DAY AFTER EACH SESSION TO RECONSIDER BILLS THAT HAVE BEEN VETOED BY THE GOVERNOR,0,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A38,AMENDMENTS 26 THROUGH 32 - RECOMMENDATIONS FOR STREAMLINING THE FULTON AND ATLANTA GOVERNMENTS AND FORMING A MORE EQUITABLE TAX STRUCTURE,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A39,AMENDMENT 84 - CREATES WITHIN THE COUNTY AN INDUSTRIAL DISTRICT,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A40,AMENDMENT 91 - ESTABLISHES BRANCH OFFICES TO CONDUCT COUNTY BUSINESS AND AUTHORIZES BOARD OF EDUCATION TO ESTABLISH BRANCH OFFICES,1,,
+GA,Atlanta Constitution,109051,1978,GA,REFERENDUM,R2,FULTON COUNTY FREEPORT REFERENDUM (THREE QUESTIONS AT END OF BALLOT),1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A41,AMENDMENT 69 - PREVENTS DEKALB SCHOOL SYSTEM FROM LEVYING A ONE MILL SCHOOL TAX ON AN INDEPENDENT SCHOOL DISTRICT,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A42,AMENDMENT 71 - ALLOWS GENERAL ASSEMBLY TO DRAW LEGISLATION AND SUBMIT FOR A VOTE OF DEKALB RESIDENTS ON A RECONSTRUCTION OF COUNTY GOVERNMENT,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A43,AMENDMENT 72 - ALLOWS ADDITIONAL HOMESTEAD EXEMPTION FOR ELDERLY OR DISABLED RESIDENTS OF LITHONIA,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A44,"AMENDMENT 75 - EXEMPTS FROM DEKALB SCHOOL TAXES PERSONS 62 OR OVER OR DISABLED WITH TOTAL INCOME OF LESS THAN $8,000",1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A45,AMENDMENT 76 - ELIMINATES DOUBLE TAXATION BY ALLOWING DEKALB COUNTY TO TAX CITY RESIDENTS ONLY FOR SERVICES PROVIDED BY THE COUNTY,1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A46,"AMENDMENT 79 - INCREASES HOMESTEAD EXEMPTION IN THE NEXT FIVE YEARS FROM $2,000 TO NOT MORE THAN $8,000",1,,
+GA,Atlanta Constitution,109051,1978,GA,AMENDMENT,A47,AMENDMENT 80 - ALLOWS THE GENERAL ASSEMBLY TO PROVIDE BY LOCAL LAW FOR RECALL OF MEMBERS OF THE DEKALB BOARD OF EDUCATION,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A1,AMENDMENT 1 - ALLOW THE GENERAL ASSEMBLY TO ESTABLISH VARIOUS CLASSIFICATIONS OF PROPERTY FOR USE BY THE STATE REVENUE COMMISSIONER IN REVIEWING COUNTY PROPERTY TAXES,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A2,AMENDMENT 3 - ALLOW THE STATE TO REIMBURSE TEACHERS FOR TUITION COSTS WHEN THEY TAKE COURSES TO RETAIN THEIR CERTIFICATION,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A3,AMENDMENT 4 - AUTHORIZE EXPENDITURE OF STATE MONEY TO PURCHASE FOOTBALL AND BAND UNIFORMS,0,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A4,"AMENDMENT 5 - AUTHORIZE THE LEGISLATURE TO ADJUST THE RETIREMENT BENEFITS OF FIREMEN TO OFFSET INFLATION, WITH MONEY COMING FROM THE GEORGIA FIREMEN'S PENSION FUND",1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A5,"AMENDMENT 6 - AUTHORIZE THE STATE TO PROVIDE INDEMNIFICATION OF UP TO $50,000 FOR LAW ENFORCEMENT OFFICERS, FIREMEN AND PRISON GUARDS PERMANENTLY DISABLED IN THE LINE OF DUTY",1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A6,"AMENDMENT 7 - ALLOW CITIES AND COUNTIES TO ESTABLISH AND MAINTAIN REDEVELOPMENT AREAS WHICH WOULD BE EXEMPT FROM STATE, COUNTY, MUNICIPAL OR AD VALOREM TAXATION",1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A7,"AMENDMENT 8 - ALLOW PEOPLE OVER 65 TO EARN UP TO $8,000 (UP FROM $4,000) AND BE ELIGIBLE FOR AN ADDITIONAL $2,000 EXEMPTION OF PROPERTY AND SCHOOL TAXES",1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A8,AMENDMENT 9 - ALLOW CITY COURTS JURISDICTION OVER CASES WHERE A PERSON IS CHARGED WITH POSSESSION OF ONE OUNCE OR LESS OF MARIJUANA,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A9,"AMENDMENT 10 - ALLOW A SUPERIOR COURT, WITHOUT A JURY, TO RENDER DEFAULT JUDGMENT IN FAULT CASES",1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A10,AMENDMENT 11 - ALLOW CITIES AND COUNTIES TO ESTABLISH AN AWARDS PROGRAM FOR EMPLOYEES TO PROVIDE INCENTIVE FOR BETTER WORK,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A11,AMENDMENT 12 - ALLOW CIVIL COURT CASES INVOLVING A JUVENILE TO BE HEARD IN A COURT NEAREST THE JUVENILE'S HOME,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A12,AMENDMENT 13 - ALLOW LIFE INSURANCE PREMIUMS TAXES TO GO TO THE COUNTIES IN WHICH THEY ARE TAXED (NOW TAXES IN UNINCORPORATED AREAS GO TO THE STATE),1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A13,AMENDMENT 14 - CREATE A BUILDING AUTHORITY IN GWINNETT COUNTY (VOTED ON STATEWIDE),1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A14,AMENDMENT 15 - EXEMPTS FROM TAXES THE HEADQUARTERS OF AN ORGANIZATION THAT PROMOTES COOPERATION BETWEEN PARENTS AND TEACHERS (PTA) FOR IMPROVEMENT OF EDUCATION; EFFECTS ONLY FULTON COUNTY,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A15,AMENDMENT 16 - CREATE A BUILDING AUTHORITY IN ROCKDALE COUNTY (VOTED ON STATEWIDE),1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A16,AMENDMENT 76 - AUTHORIZE A FULTON INDUSTRIAL DISTRICT AND PROHIBIT THE COUNTY FROM LEVYING FOR EDUCATIONAL PURPOSES TAXES ON PROPERTY WITHIN THE CITY OF ATLANTA,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A17,AMENDMENT 77 - CREATE SPECIAL TAX DISTRICTS IN THE NON-ATLANTA AREAS OF FULTON COUNTY AND PROVIDE THAT AD VALOREM TAXES FOR POLICE SERVICES SHALL COME FROM THOSE SPECIAL DISTRICTS,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A18,AMENDMENT 78 - AUTHORIZE FULTON COUNTY TO PROVIDE A $100 PER MONTH INCREASE TO THE PENSION PAID EMPLOYEES WHO RETIRED PRIOR TO JANUARY 1964,1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A19,"AMENDMENT 2 - ALLOW GENERAL OBLIGATION DEBT TO BE INCURRED TO PROVIDE EDUCATION FACILITIES FOR COUNTY AND INDEPENDENT SCHOOL SYSTEMS, WITH TITLE VESTED IN THE LOCAL BOARD OF EDUCATION WHEN COMPLETED",1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A20,"AMENDMENT 5 - AUTHORIZE THE LEGISLATURE TO ADJUST RETIREMENT BENEFITS OF FIREMEN TO OFFSET INFLATION, WITH MONEY FROM THE GEORGIA FIREMEN'S PENSION FUND",1,,
+GA,Atlanta Constitution,109051,1980,GA,AMENDMENT,A21,AMENDMENT 15 - EXEMPTS FROM TAXES THE HEADQUARTERS OF THE PTA IN FULTON COUNTY,1,,
+GA,Atlanta Constitution,109051,1982,GA,AMENDMENT,A1,LOCAL CONSTITUTIONAL AMENDMENT TO EMPOWER DEKALB LEGISLATIVE DELEGATION TO INTRODUCE LEGISLATION ELIMINATING THE JUSTICE OF THE PEACE COURT SYSTEM IN DEKALB COUNTY.,1,JP SYSTEM IS AN ANACHRONISM; FEES BRING OBJECTIVITY INTO QUESTION; DUPLICATES OTHER COUNTY AGENCIES. YES VOTE.,1.00
 GA,Atlanta Constitution,109051,1982,GA,AMENDMENT,1,ADOPT NEW STATE CONSTITUTION FOR GEORGIA - CLEAN UP OVERGROWN UNNECESSARY AMENDMENTS; CONSOLIDATE COURTS; REQUIRE NON-PARTISAN BALLOTS FOR APPELLATE JUDGES.,1,"MAINLY A CLEANUP PROJECT, LONG OVERDUE. NEW CONSTITUTION WOULD MAKE STATE AND LOCAL GOVERNMENT MORE UNDERSTANDABLE AND EFFICIENT. ADOPT.",1.00
 GA,Atlanta Constitution,109051,1982,GA,AMENDMENT,2,BAR GOVERNORS FROM BEING ELECTED FOR TWO TERMS IN A ROW.,0,DUBIOUS PRINCIPLE TO FORBID RE-ELECTING A GOVERNOR WHO IS SERVING THEM WELL. VOTERS CAN ALWAYS THROW A RASCAL OUT. NO.,1.00
 GA,Atlanta Constitution,109051,1982,GA,AMENDMENT,38,PERMIT FULTON COUNTY BUILDING AUTHORITY TO ENTER INTO CERTAIN CONTRACTS; LEASE UP TO 25% OF ANY FACILITY IT BUILDS TO PRIVATE CORPORATIONS.,1,"WOULD ALLOW COUNTY TO LEASE SPACE TO MARTA, FEDERAL GOVERNMENT, OR PRIVATE OPERATORS TO DEFRAY CONSTRUCTION/OPERATING COSTS. YES.",1.00
 GA,Atlanta Constitution,109051,1982,GA,AMENDMENT,4,"AMEND STATE CONSTITUTION TO CREATE A COUNTYWIDE PUBLIC LIBRARY SYSTEM IN ALL COUNTIES HAVING A POPULATION OF 550,000 OR MORE - AFFECTING ATLANTA-FULTON LIBRARY SYSTEM.",0,PREMATURE AND ILL-CONCEIVED; WOULD FORCE FULTON COUNTY TO ASSUME FULL FINANCIAL RESPONSIBILITY FOR CITY LIBRARY SYSTEM; UNFAIR TO FULTON COUNTIANS OUTSIDE ATLANTA. VOTE DOWN.,1.00
 GA,Atlanta Constitution,109051,1982,GA,AMENDMENT,40,AUTHORIZE GENERAL ASSEMBLY TO PASS LEGISLATION PERMITTING FULTON COUNTY AND ATLANTA TO LOWER PROPERTY AND INVENTORY TAXES IN URBAN ENTERPRISE ZONES.,1,ENTERPRISE AMENDMENT TO HELP STEM JOB LOSS; LOWER-TAX INCENTIVE TO MAKE ATLANTA MORE COMPETITIVE.,1.00
 GA,Atlanta Constitution,109051,1982,GA,AMENDMENT,41,AUTHORIZE GENERAL ASSEMBLY TO PASS LEGISLATION PERMITTING FULTON COUNTY AND ATLANTA TO LOWER PROPERTY AND INVENTORY TAXES IN URBAN ENTERPRISE ZONES.,1,ENTERPRISE AMENDMENT TO HELP STEM JOB LOSS; LOWER-TAX INCENTIVE TO MAKE ATLANTA MORE COMPETITIVE.,1.00
-GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,1,ALLOW SUSPENSION OF JURISTS AND OTHER PUBLIC OFFICIALS WHO HAVE BEEN INDICTED FOR FELONIES.,1,"PROPOSALS SHOULD BE APPROVED, PROTECTIONS AGAINST POLITICALLY-MOTIVATED INDICTMENTS ARE EFFECTIVE.",1.00
+GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,1,ALLOW SUSPENSION OF JURISTS AND OTHER PUBLIC OFFICIALS WHO HAVE BEEN INDICTED FOR FELONIES.,1,"PROPOSALS SHOULD BE APPROVED, PROTECTIONS AGAINST POLITICALLY-MOTIVATED INDICTMENTS ARE EFFECTIVE. [QA 2026-05-30: prop_num collision flagged - 1984 has 2 records each for #1/#2/#3, needs OCR clarification]",1.00
 GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,10,ALLOW TAX DISTRICTS TO LEVY SLIGHT SURCHARGE ON BUSINESSES (NOT RESIDENTIAL PROPERTY) TO FUND INSTALLATION OF FACILITIES SUCH AS ROADS AND SEWERAGE FOR PENDING DEVELOPMENT.,1,CREATIVE EFFORT TO EASE PUBLIC-SERVICE PROBLEMS PRODUCED BY WILDFIRE NEW DEVELOPMENT; HELP LOCAL GOVERNMENTS KEEP UP. YES.,1.00
 GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,11,HOUSEKEEPING PROPOSAL TO TIDY UP SOME SLOPPY LANGUAGE IN REDEVELOPMENT POWERS OF LOCAL GOVERNMENTS.,1,BENIGN.,1.00
-GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,2,ALLOW SUSPENSION OF JURISTS AND OTHER PUBLIC OFFICIALS WHO HAVE BEEN INDICTED FOR FELONIES.,1,"PROPOSALS SHOULD BE APPROVED, PROTECTIONS AGAINST POLITICALLY-MOTIVATED INDICTMENTS ARE EFFECTIVE.",1.00
-GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,3,AUTHORIZE STATE BOARD OF EDUCATION TO APPOINT THE STATE SCHOOL SUPERINTENDENT (CURRENTLY ELECTED).,1,HOORAY; CHANGE WOULD ADDITIONALLY PROFESSIONALIZE MANAGEMENT OF STATE EDUCATION OFFICES; SOUND POLITICAL PREMISE.,1.00
+GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,2,ALLOW SUSPENSION OF JURISTS AND OTHER PUBLIC OFFICIALS WHO HAVE BEEN INDICTED FOR FELONIES.,1,"PROPOSALS SHOULD BE APPROVED, PROTECTIONS AGAINST POLITICALLY-MOTIVATED INDICTMENTS ARE EFFECTIVE. [QA 2026-05-30: prop_num collision flagged - 1984 has 2 records each for #1/#2/#3, needs OCR clarification]",1.00
+GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,3,AUTHORIZE STATE BOARD OF EDUCATION TO APPOINT THE STATE SCHOOL SUPERINTENDENT (CURRENTLY ELECTED).,1,"HOORAY; CHANGE WOULD ADDITIONALLY PROFESSIONALIZE MANAGEMENT OF STATE EDUCATION OFFICES; SOUND POLITICAL PREMISE. [QA 2026-05-30: prop_num collision flagged - 1984 has 2 records each for #1/#2/#3, needs OCR clarification]",1.00
 GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,4,AUTHORIZE GENERAL ASSEMBLY TO DRAW NEW STATE PENSION REGULATIONS - REDUCE OPPORTUNITY FOR NOTORIOUS RAIDS BY EMPLOYEES AND OFFICEHOLDERS ON THE STATE PENSION FUND.,1,DEFINITIVE FIX UNLIKELY FROM PASSAGE BUT TOLERANCES FOR RIP-OFFS WOULD BE NARROWED. GO.,1.00
 GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,5,AUTHORIZE GENERAL ASSEMBLY TO DRAW NEW STATE PENSION REGULATIONS.,1,DEFINITIVE FIX UNLIKELY BUT TOLERANCES FOR RIP-OFFS WOULD BE NARROWED. GO.,1.00
 GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,6,FORCE ELECTED OFFICIALS OUT OF THEIR CURRENT OFFICES IN ORDER TO RUN FOR ANOTHER ELECTED POST.,0,BAD IDEA; WOULD KEEP UNWORTHIES FROM MISUSING OFFICES BUT EQUALLY HAMPER OUTSTANDING ELECTED OFFICIALS. BIG ROUND NO.,1.00
 GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,7,ALLOW FOR A SLIGHT UPWARD ADJUSTMENT IN THE HOMESTEAD EXEMPTION FOR DISABLED VETERANS.,1,BENIGN.,1.00
 GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,8,SNIP NEEDLESS RED TAPE IN THE PROCEDURES FOR FUNDING SCHOOL AND PUBLIC LIBRARIES.,1,BENIGN.,1.00
 GA,Atlanta Constitution,109051,1984,GA,AMENDMENT,9,EXTEND TAX-ASSESSMENT PRIVILEGES GRANTED TO FAMILY FARMS TO FARMS HELD IN FAMILY TRUSTS.,0,COMPELLING CASE NOT MADE; PROPOSAL HAS NOT BEEN ADEQUATELY PROTECTED AGAINST MISUSE; COULD ALLOW TAX GIVEAWAYS TO LARGE COMMERCIAL FARMS.,1.00
-GA,Atlanta Constitution,109051,1984,GA,REFERENDUM,1,GIVE GEORGIA PARENT-TEACHER ASSOCIATION HEADQUARTERS TAX-EXEMPT STATUS.,1,OK.,0.95
-GA,Atlanta Constitution,109051,1984,GA,REFERENDUM,2,TAKE AD VALOREM TAX OFF VEHICLES USED TO TRANSPORT HANDICAPPED STUDENTS FOR PRIVATE NONPROFIT SCHOOLS.,1,OK.,0.95
-GA,Atlanta Constitution,109051,1984,GA,REFERENDUM,3,EXEMPT NONPROFIT HOMES FOR THE MENTALLY HANDICAPPED FROM PROPERTY TAXES.,1,OK. WHY NOT?,0.95
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,1,Permit state to assist local governments needing long-term low-interest loans for water and sewerage systems,1,YES,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,1,Constitutional Amendment 1 (recap),1,"Yes (Amendments 1-8, 10)",0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,10,Constitutional Amendment 10 (recap),1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,2,"Admit retired school bus drivers, janitors, secretaries and other school support personnel to state-supported health insurance plan",1,YES,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,2,Constitutional Amendment 2 (recap),1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,3,Mandate suspension of indicted or convicted judges or public officials,1,YES,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,3,Constitutional Amendment 3 (recap),1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,4,Mandate suspension of indicted or convicted judges or public officials (companion to Amendment 3),1,YES,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,4,Constitutional Amendment 4 (recap),1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,5,Permit child-abuse-prevention funds to be carried into next fiscal year,1,YES,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,5,Constitutional Amendment 5 (recap),1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,6,Prohibit construction of taxpayer-financed county or municipal roads without voter approval,1,YES,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,6,Constitutional Amendment 6 (recap),1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,7,Provide ad valorem tax incentives for development,1,YES,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,7,Constitutional Amendment 7 (recap),1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,8,"Permit special benefits for emergency medical technicians killed or disabled in line of duty after Jan. 1, 1987",1,YES,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,8,Constitutional Amendment 8 (recap),1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,9,"Extend coverage retroactively to police, firemen, prison guards killed or disabled at any time in past",0,NO; too broad and retroactive,0.90
-GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,9,Constitutional Amendment 9 (recap),0,No,0.95
-GA,Atlanta Constitution,109051,1986,GA,BOND,,Cobb County Bond Issue for Parks,1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,BOND,,Cobb County Bond Issue for Libraries,1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,BOND,,Cobb County Bond Issue for Public Buildings,1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,BOND,,DeKalb County Bond Issue for Libraries,1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,REFERENDUM,,Statewide referendum to drop ad valorem tax on goods worth $500 or less,1,YES,0.90
-GA,Atlanta Constitution,109051,1986,GA,REFERENDUM,,Gwinnett County Sunday liquor-by-the-drink sales,1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,TAX,,DeKalb County Sunset Sales Tax for Roads,1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,TAX,,Gwinnett County Tax for Parks and Recreation,1,Yes,0.90
-GA,Atlanta Constitution,109051,1986,GA,TAX,,Gwinnett County Tax exemption for elderly,1,Yes,0.90
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,1,Appointed school superintendent,1,Yes,0.85
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,10,Historic preservation,1,Yes,0.80
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,11,Indigent-care trust fund,1,Yes,0.80
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,12,Raise Atlanta's bonded-debt limit,1,Yes,0.80
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,2,Compensation for crime victims,1,Yes,0.85
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,3,Trust fund for homeless,1,Yes,0.85
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,4,Attorney general's service on state commissions,1,Yes,0.85
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,5,Advanced technology development,1,Yes,0.85
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,6,Clerical changes in state constitution,1,Yes,0.85
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,7,Special tax districts,1,Yes,0.85
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,8,Request-finance funds,1,Yes,0.80
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,9,Allow Savannah to annex Hutchinson Island,1,Yes,0.80
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,NB1,Four-year terms for legislators,0,No,0.70
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,NB2,Strengthen sovereign immunity,0,No,0.70
-GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,NB3,Higher fines to pay for jails,0,No,0.70
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,1,Sovereign immunity protections for public officials sued for performance of public duties,1,Yes; supported by Attorney General Michael Bowers,0.85
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,1,Government Immunity (sovereign immunity),1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,2,Allow the state to set up educational trust funds into which parents can deposit money to pay for their children's future tuition at Georgia universities,1,Yes; should be approved,0.95
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,2,College Tuition Trust Fund,1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,3,Timber tax: change from ad valorem to harvest tax on timber,0,No; measure should be defeated,0.95
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,3,Timber Taxes (harvest tax),0,No,0.95
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,4,Allow paramedics hurt or killed on the job to be eligible for benefits restricted to police and fire personnel,1,Yes; logical,0.95
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,4,Government Benefits (paramedics line of duty),1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,5,Housekeeping measure applying only to Richmond and Houston counties; allows them to use local-option taxes without having to cut property taxes an equal amount,1,Yes; seems logical,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,5,Local-Option Taxes (Richmond/Houston),1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,6,Would delay by 10 years the eligibility of convicted felons for public office,1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,6,Felons off the Ballot (10-year delay for convicted felons),0,No,0.85
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,7,Give municipal courts the ability to ease crush in state courts by taking on drunken-driving cases,1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,7,Municipal Court Jurisdiction (drunk driving),1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,8,Would prevent a participant in a divorce case from jurisdiction-shopping by simply moving to another county,1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,8,Divorce Jurisdiction,1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,9,"Would allow state to subsidize interest payments for farmers who plant crops that take several years to become profitable, such as orchards or blueberries",1,"Yes; in interest of helping the other Georgia, it should pass",0.90
-GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,9,Interest Subsidy for Farmers,1,Yes,0.90
-GA,Atlanta Constitution,109051,1990,GA,BOND,,Gwinnett $121 million school construction bond,1,Yes; most critical issue,0.95
-GA,Atlanta Constitution,109051,1990,GA,BOND,,Gwinnett Technical Institute bond,1,Yes; worthy of support,0.90
-GA,Atlanta Constitution,109051,1990,GA,BOND,,Gwinnett open-campus high school bond,1,Yes; worthy of support,0.90
-GA,Atlanta Constitution,109051,1990,GA,BOND,,Gwinnett new computer technology bond,1,Yes; worthy of support,0.90
-GA,Atlanta Constitution,109051,1990,GA,BOND,1,Gwinnett School Bond Question 1: Construction,1,Yes,0.95
-GA,Atlanta Constitution,109051,1990,GA,BOND,2,Gwinnett School Bond Question 2: Open-Campus High School,1,Yes,0.95
-GA,Atlanta Constitution,109051,1990,GA,BOND,3,Gwinnett School Bond Question 3: Classroom Computers,1,Yes,0.95
-GA,Atlanta Constitution,109051,1990,GA,BOND,4,Gwinnett School Bond Question 4: Technical Institute,1,Yes,0.95
-GA,Atlanta Constitution,109051,1990,GA,REFERENDUM,,Gwinnett MARTA Referendum,1,Yes,0.95
-GA,Atlanta Constitution,109051,1990,GA,TAX,,Cobb County road tax referendum (would pay for more than $200 million in road improvements),1,Yes; voters should punch yes on road tax referendum,0.95
-GA,Atlanta Constitution,109051,1990,GA,TAX,,Cobb County Sales Tax for Road Construction,1,Yes,0.95
+GA,Atlanta Constitution,109051,1984,GA,REFERENDUM,1,GIVE GEORGIA PARENT-TEACHER ASSOCIATION HEADQUARTERS TAX-EXEMPT STATUS.,1,"OK. [QA 2026-05-30: prop_num collision flagged - 1984 has 2 records each for #1/#2/#3, needs OCR clarification]",0.95
+GA,Atlanta Constitution,109051,1984,GA,REFERENDUM,2,TAKE AD VALOREM TAX OFF VEHICLES USED TO TRANSPORT HANDICAPPED STUDENTS FOR PRIVATE NONPROFIT SCHOOLS.,1,"OK. [QA 2026-05-30: prop_num collision flagged - 1984 has 2 records each for #1/#2/#3, needs OCR clarification]",0.95
+GA,Atlanta Constitution,109051,1984,GA,REFERENDUM,3,EXEMPT NONPROFIT HOMES FOR THE MENTALLY HANDICAPPED FROM PROPERTY TAXES.,1,"OK. WHY NOT? [QA 2026-05-30: prop_num collision flagged - 1984 has 2 records each for #1/#2/#3, needs OCR clarification]",0.95
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,1,PERMIT STATE TO ASSIST LOCAL GOVERNMENTS NEEDING LONG-TERM LOW-INTEREST LOANS FOR WATER AND SEWERAGE SYSTEMS,1,"YES | YES (AMENDMENTS 1-8, 10)",0.90
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,10,CONSTITUTIONAL AMENDMENT 10 (RECAP),1,YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,2,"ADMIT RETIRED SCHOOL BUS DRIVERS, JANITORS, SECRETARIES AND OTHER SCHOOL SUPPORT PERSONNEL TO STATE-SUPPORTED HEALTH INSURANCE PLAN",1,YES | YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,3,MANDATE SUSPENSION OF INDICTED OR CONVICTED JUDGES OR PUBLIC OFFICIALS,1,YES | YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,4,MANDATE SUSPENSION OF INDICTED OR CONVICTED JUDGES OR PUBLIC OFFICIALS (COMPANION TO AMENDMENT 3),1,YES | YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,5,PERMIT CHILD-ABUSE-PREVENTION FUNDS TO BE CARRIED INTO NEXT FISCAL YEAR,1,YES | YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,6,PROHIBIT CONSTRUCTION OF TAXPAYER-FINANCED COUNTY OR MUNICIPAL ROADS WITHOUT VOTER APPROVAL,1,YES | YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,7,PROVIDE AD VALOREM TAX INCENTIVES FOR DEVELOPMENT,1,YES | YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,8,"PERMIT SPECIAL BENEFITS FOR EMERGENCY MEDICAL TECHNICIANS KILLED OR DISABLED IN LINE OF DUTY AFTER JAN. 1, 1987",1,YES | YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,AMENDMENT,9,"EXTEND COVERAGE RETROACTIVELY TO POLICE, FIREMEN, PRISON GUARDS KILLED OR DISABLED AT ANY TIME IN PAST",0,NO; TOO BROAD AND RETROACTIVE | NO,0.90
+GA,Atlanta Constitution,109051,1986,GA,BOND,B1,COBB COUNTY BOND ISSUE FOR PARKS,1,YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,BOND,B2,COBB COUNTY BOND ISSUE FOR LIBRARIES,1,YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,BOND,B3,COBB COUNTY BOND ISSUE FOR PUBLIC BUILDINGS,1,YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,BOND,B4,DEKALB COUNTY BOND ISSUE FOR LIBRARIES,1,YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,REFERENDUM,R1,STATEWIDE REFERENDUM TO DROP AD VALOREM TAX ON GOODS WORTH $500 OR LESS,1,YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,REFERENDUM,R2,GWINNETT COUNTY SUNDAY LIQUOR-BY-THE-DRINK SALES,1,YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,TAX,T1,DEKALB COUNTY SUNSET SALES TAX FOR ROADS,1,YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,TAX,T2,GWINNETT COUNTY TAX FOR PARKS AND RECREATION,1,YES,0.90
+GA,Atlanta Constitution,109051,1986,GA,TAX,T3,GWINNETT COUNTY TAX EXEMPTION FOR ELDERLY,1,YES,0.90
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,1,APPOINTED SCHOOL SUPERINTENDENT,1,YES,0.85
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,10,HISTORIC PRESERVATION,1,YES,0.80
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,11,INDIGENT-CARE TRUST FUND,1,YES,0.80
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,12,RAISE ATLANTA'S BONDED-DEBT LIMIT,1,YES,0.80
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,2,COMPENSATION FOR CRIME VICTIMS,1,YES,0.85
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,3,TRUST FUND FOR HOMELESS,1,YES,0.85
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,4,ATTORNEY GENERAL'S SERVICE ON STATE COMMISSIONS,1,YES,0.85
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,5,ADVANCED TECHNOLOGY DEVELOPMENT,1,YES,0.85
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,6,CLERICAL CHANGES IN STATE CONSTITUTION,1,YES,0.85
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,7,SPECIAL TAX DISTRICTS,1,YES,0.85
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,8,REQUEST-FINANCE FUNDS,1,YES,0.80
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,9,ALLOW SAVANNAH TO ANNEX HUTCHINSON ISLAND,1,YES,0.80
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,NB1,FOUR-YEAR TERMS FOR LEGISLATORS,0,NO,0.70
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,NB2,STRENGTHEN SOVEREIGN IMMUNITY,0,NO,0.70
+GA,Atlanta Constitution,109051,1988,GA,AMENDMENT,NB3,HIGHER FINES TO PAY FOR JAILS,0,NO,0.70
+GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,1,SOVEREIGN IMMUNITY PROTECTIONS FOR PUBLIC OFFICIALS SUED FOR PERFORMANCE OF PUBLIC DUTIES,1,YES; SUPPORTED BY ATTORNEY GENERAL MICHAEL BOWERS,0.85
+GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,2,ALLOW THE STATE TO SET UP EDUCATIONAL TRUST FUNDS INTO WHICH PARENTS CAN DEPOSIT MONEY TO PAY FOR THEIR CHILDREN'S FUTURE TUITION AT GEORGIA UNIVERSITIES,1,YES; SHOULD BE APPROVED,0.95
+GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,3,TIMBER TAX: CHANGE FROM AD VALOREM TO HARVEST TAX ON TIMBER,0,NO; MEASURE SHOULD BE DEFEATED,0.95
+GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,4,ALLOW PARAMEDICS HURT OR KILLED ON THE JOB TO BE ELIGIBLE FOR BENEFITS RESTRICTED TO POLICE AND FIRE PERSONNEL,1,YES; LOGICAL,0.95
+GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,5,HOUSEKEEPING MEASURE APPLYING ONLY TO RICHMOND AND HOUSTON COUNTIES; ALLOWS THEM TO USE LOCAL-OPTION TAXES WITHOUT HAVING TO CUT PROPERTY TAXES AN EQUAL AMOUNT,1,YES; SEEMS LOGICAL,0.90
+GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,6,FELONS OFF THE BALLOT (10-YEAR DELAY FOR CONVICTED FELONS),0,NO,0.85
+GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,7,GIVE MUNICIPAL COURTS THE ABILITY TO EASE CRUSH IN STATE COURTS BY TAKING ON DRUNKEN-DRIVING CASES,1,YES,0.90
+GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,8,WOULD PREVENT A PARTICIPANT IN A DIVORCE CASE FROM JURISDICTION-SHOPPING BY SIMPLY MOVING TO ANOTHER COUNTY,1,YES,0.90
+GA,Atlanta Constitution,109051,1990,GA,AMENDMENT,9,"WOULD ALLOW STATE TO SUBSIDIZE INTEREST PAYMENTS FOR FARMERS WHO PLANT CROPS THAT TAKE SEVERAL YEARS TO BECOME PROFITABLE, SUCH AS ORCHARDS OR BLUEBERRIES",1,"YES; IN INTEREST OF HELPING THE OTHER GEORGIA, IT SHOULD PASS",0.90
+GA,Atlanta Constitution,109051,1990,GA,BOND,B1,GWINNETT $121 MILLION SCHOOL CONSTRUCTION BOND,1,YES; MOST CRITICAL ISSUE,0.95
+GA,Atlanta Constitution,109051,1990,GA,BOND,B2,GWINNETT TECHNICAL INSTITUTE BOND,1,YES; WORTHY OF SUPPORT,0.90
+GA,Atlanta Constitution,109051,1990,GA,BOND,B3,GWINNETT OPEN-CAMPUS HIGH SCHOOL BOND,1,YES; WORTHY OF SUPPORT,0.90
+GA,Atlanta Constitution,109051,1990,GA,BOND,B4,GWINNETT NEW COMPUTER TECHNOLOGY BOND,1,YES; WORTHY OF SUPPORT,0.90
+GA,Atlanta Constitution,109051,1990,GA,BOND,GSB1,GWINNETT SCHOOL BOND QUESTION 1: CONSTRUCTION,1,Yes [QA 2026-05-30: prop_num collision fix — Gwinnett School Bond prefix GSB],0.95
+GA,Atlanta Constitution,109051,1990,GA,BOND,GSB2,GWINNETT SCHOOL BOND QUESTION 2: OPEN-CAMPUS HIGH SCHOOL,1,Yes [QA 2026-05-30: prop_num collision fix — Gwinnett School Bond prefix GSB],0.95
+GA,Atlanta Constitution,109051,1990,GA,BOND,GSB3,GWINNETT SCHOOL BOND QUESTION 3: CLASSROOM COMPUTERS,1,Yes [QA 2026-05-30: prop_num collision fix — Gwinnett School Bond prefix GSB],0.95
+GA,Atlanta Constitution,109051,1990,GA,BOND,GSB4,GWINNETT SCHOOL BOND QUESTION 4: TECHNICAL INSTITUTE,1,Yes [QA 2026-05-30: prop_num collision fix — Gwinnett School Bond prefix GSB],0.95
+GA,Atlanta Constitution,109051,1990,GA,REFERENDUM,R1,GWINNETT MARTA REFERENDUM,1,YES,0.95
+GA,Atlanta Constitution,109051,1990,GA,TAX,T1,COBB COUNTY ROAD TAX REFERENDUM (WOULD PAY FOR MORE THAN $200 MILLION IN ROAD IMPROVEMENTS),1,YES; VOTERS SHOULD PUNCH YES ON ROAD TAX REFERENDUM,0.95
+GA,Atlanta Constitution,109051,1990,GA,TAX,T2,COBB COUNTY SALES TAX FOR ROAD CONSTRUCTION,1,YES,0.95

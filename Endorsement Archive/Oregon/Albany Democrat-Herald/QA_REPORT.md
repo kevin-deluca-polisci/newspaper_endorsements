@@ -1,119 +1,128 @@
 # QA Report: Albany Democrat-Herald (138300)
 
-**Audit date:** 2026-04-29 (re-QA after augmentation)
-**Folder:** Albany Democrat-Herald
-**Newspaper ID:** 138300
-**Data coverage:** 1958-2000 (22 election years), 62 clippings, 394 candidate records, 182 proposition records
+**QA Date:** 2026-05-26 (re-QA gap-fill; supersedes 2026-04-29 PASS WITH NOTES)
+**QA Result:** PASS WITH FIXES (1992 AG race directions corrected to "both qualified"; 1992 Senate to no-direction; 8 missing 1998 opposed records added; 1 missing 1960 opposed record added; 1962 Whipple notes corrected)
 
-## Overall Assessment
+## Summary
 
-**PASS WITH NOTES**
+Independent re-QA of a folder previously assessed as PASS WITH NOTES on 2026-04-29. The April pass spot-checked 4 clippings with 100% accuracy. This re-QA ran a fresh stratified 10-clipping spot-check (1958, 1960, 1962, 1964, 1968, 1970, 1976, 1980, 1992, 1998) and found a systematic pattern where opposed candidates explicitly named in editorial-body comparison language were sometimes captured only in the endorsed candidate's `notes_endorse` field rather than as their own opposed records. The most significant finding was a directional error in the 1992 AG race (Rodeman/Kulongoski reversed, plus Rodeman's first name misread as "Esther" because the editorial opener "Either Rich Rodeman..." was mistaken for "Esther"). Net result: 403 candidate records (was 394; +9) and 182 propositions (unchanged); 4 no-direction records (was 2; +2 from Packwood/AuCoin).
 
-A previously processed Albany Democrat-Herald folder was re-augmented with 43 additional clippings from `raw/Albany Democrat-Herald_138300/more/`. Hash-based dedup against the original 19 clippings showed 19 byte-identical duplicates and 43 truly new files. The new clippings filled in coverage from 1958, plus added detail-article files for many existing election years. After full re-extraction and dedup, the dataset grew from 81 candidates / 73 propositions to 394 candidates / 182 propositions across 62 PDFs and 22 election years.
+## Final Counts (after re-QA)
 
-## Stage 0: Folder Augmentation
+- **Clippings:** 62 (unchanged)
+- **Candidate endorsements:** 403 (was 394; net +9)
+- **Proposition endorsements:** 182 (unchanged)
+- **Year coverage:** 1958-2000 (22 even election years)
+- **Mean confidence (cands):** 0.928
+- **Low-confidence records (< 0.7):** 0
+- **Direction distribution:** 313 endorsed, 86 opposed (was 79), 4 no-direction (was 2)
 
-- **Source:** `raw/Albany Democrat-Herald_138300/more/` (62 PDFs)
-- **Already-processed:** 19 byte-identical hashes matched the existing canonical clippings (e.g., the `more/` folder's `ALBANY_DEMOCRAT_HERALD_1962_ENDORSEMENTS.pdf` is identical to the existing `138300_19621031.pdf`)
-- **Newly added:** 43 unique-content PDFs
-- **Naming:** standard `138300_YYYYMMDD[_vN].pdf`. Dates extracted from the embedded newspapers.com header on each PDF. One v-suffix collision: `20001026_v1` was added because the existing `20001026.pdf` (an "Against Measure 7" editorial) is different from the new "Ballot Measure Endorsements" article on the same date.
-- **New election years added:** 1958, 1964, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996. Existing-year coverage expanded for 1960, 1962, 1966, 1970.
+## Changes Applied in Re-QA
 
-## Stage 1: Structural Validation
+### 1. 1992 ATTORNEY GENERAL — directional flip + name fix ("both qualified" treatment)
 
-- 16 candidate columns + 11 proposition columns (canonical schema)
-- Year range 1958-2000, 22 unique election years, all even
-- All `endorsed` values valid (1/0/empty)
-- All `state_newspaper` and `state_election` populated as `OR`
-- All `newspaper_id` populated as `138300`
-- 0 incumbency `=0` errors
-- 0 junk rows
-- 0 confidence values out of `[0,1]` range
+The 1992-10-29 "In statewide elections" editorial says: "Attorney General — **Either Rich Rodeman**, the former city attorney of Corvallis, **or Ted Kulongoski**, head insurance regulator in the Goldschmidt administration, would make a decent head of the Justice Department." Per the "both qualified" standing rule, both candidates should be coded as endorsed=1. The original extraction had Rodeman's first name as "Esther" (likely OCR misreading of "Either Rich") and had directions reversed.
 
-## Stage 2: Spot Check
+| Field | Was | Now |
+|---|---|---|
+| RODEMAN cand_name | RODEMAN, ESTHER | RODEMAN, RICH |
+| RODEMAN party | (empty) | Republican |
+| RODEMAN endorsed | 0 | 1 |
+| KULONGOSKI endorsed | 1 | 1 (notes updated to reflect "both qualified" framing) |
 
-Independent re-reads of source PDFs vs CSV records:
+### 2. 1992 U.S. SENATE — Packwood/AuCoin to no-direction
 
-- `138300_19621030.pdf` (Oct 30, 1962): "Johns Deserves Re-election" — Courtney Johns endorsed for Linn County DA, 4th consecutive term. CSV: JOHNS, COURTNEY for DA/PROSECUTOR endorsed=1. Match.
-- `138300_19801103.pdf` (Nov 3, 1980): comprehensive "Summary of stands" recap — Reagan for President, Packwood for Senate, AuCoin (D) endorsed in CD-1, Smith (R) endorsed in CD-2 (Ullman D opposed), Fitzgerald (R) endorsed in CD-4 (Weaver D opposed), Frohnmayer for AG, Paulus for Sec State, plus state legislative + Linn County races + 13 ballot measures. CSV: 41 candidate records + 13 prop records, all directions match the recap.
-- `138300_19921027.pdf` (Oct 27, 1992): Albany Mayor (Koehrsen endorsed over Crawford, Karstens, Chang) plus State Rep 30 (Gilmour D over Girard R) and State Rep 37 (VanLeeuwen R over Little D). CSV: 8 candidate records, directions match.
-- `138300_20001029.pdf` (Oct 29, 2000): "Bush for president" — endorsement of Bush (R) over Gore (D). CSV: BUSH, GEORGE W. (R) endorsed=1 + GORE, AL (D) endorsed=0. Match.
+The same 1992-10-29 editorial criticizes both Packwood (R) and AuCoin (D) at length and concludes both "provide living arguments for term limits applied nationwide" without clearly endorsing either. Original extraction coded Packwood=1 / AuCoin=0; corrected to no-direction (empty) for both.
 
-**Spot-check accuracy: 56/56 records matched (100%).**
+### 3. 1998 — 8 missing opposed records added
 
-## Stage 3: Variable Coding & Dedup
+The 1998-10-29 "Recommendations, before it's too late" editorial explicitly names 8 candidates the paper opposes (described as inferior to the endorsed pick in each race). Original extraction captured the 7 endorsements but not the 8 opposed candidates. Added:
 
-**Issues:** Light dedup (5 candidates removed, 0 props). All edits absorbed automatically; no manual fixes needed.
+| Office | Dist | Name | Party | endorsed |
+|---|---|---|---|---|
+| GOVERNOR |  | SIZEMORE, BILL | Republican | 0 |
+| H | 4 | WEBB, STEVE | Republican | 0 |
+| SENATOR |  | LIM, JOHN | Republican | 0 |
+| STATE SENATOR | 19 | OAKLEY, CAROLYN | Republican | 0 |
+| STATE REP | 36 | CLOSE, BETSY | Republican | 0 |
+| STATE REP | 37 | KROPF, JEFF | Republican | 0 |
+| CNTY COMM |  | LINDSEY, JOHN | Republican | 0 |
+| CNTY COMM |  | WOOTEN, CLIFF | Independent | 0 |
 
-### Office codes (26 distinct, all standard or accepted local)
+### 4. 1960 — SWEETLAND opposed added (SEC OF STATE)
 
-Federal/statewide: PRESIDENT (12), VICE PRESIDENT (1), SENATOR (19), GOVERNOR (14), H (42), STATE SENATOR (14), STATE REP (67), ATTORNEY GENERAL (14), SEC OF STATE (15), TREASURER (19), SUPERINTENDENT (4), LABOR COMMISSIONER (7), SUPREME COURT (1).
+The 1960-10-24 "We Agree With Brotherhood" editorial endorses Howell Appling Jr. (R) and devotes substantial text to criticizing Monroe Sweetland (D, "registered Socialist turned Democrat"). Sweetland was missing from the CSV. Added at confidence 0.92.
 
-Local/county: MAYOR (19), CITY COUNCIL (40), CNTY COMM (60), CNTY CLERK (3), CNTY JUDGE (1), CNTY TREASURER (1), JUDGE (13), DA/PROSECUTOR (4), SHERIFF (11), ASSESSOR (7), SURVEYOR (4), CONSTABLE (1), RECORDER (1).
+### 5. 1962 — WHIPPLE, BLAINE notes_endorse correction
 
-LABOR COMMISSIONER is a recognized Oregon statewide office. CITY COUNCIL is accepted as a local office per skill convention. All codes pass.
+The original notes for WHIPPLE, BLAINE (1962 H 1) said "LIVES IN STAYTON, MARION COUNTY" — but the 1962-10-29 "Norblad Needs Benton Vote" editorial actually says Stayton/Marion is where NORBLAD lives. Whipple lived in Multnomah County (Portland area, third district). Notes corrected. Direction (opposed) was correct.
 
-### Party labels
+### 6. raw/parts/ JSON updates (4 files)
 
-Republican (125), Democrat (103), Libertarian (3), Nonpartisan (2), American Independent (1), empty (160). The 160 empty-party records are non-partisan or non-stated local races (city council, mayor, sheriff, assessor, surveyor, judge, etc.) — Oregon local races are typically non-partisan and the editorials don't always state party. All canonical.
+Per Kevin's selective-update preference (preserving per-clipping ground truth where possible), updated only the 4 specific JSONs affected by the CSV fixes:
 
-### Names, states, incumbency, dedup
+- `138300_19601024.json` — added SWEETLAND opposed (1 → 2 candidates)
+- `138300_19621029.json` — WHIPPLE notes corrected
+- `138300_19921029.json` — RODEMAN/KULONGOSKI/PACKWOOD/AUCOIN updated
+- `138300_19981031.json` — added 8 opposed (7 → 15 candidates)
 
-- 0 name-format issues. All `cand_name` values ALL CAPS in `LASTNAME, FIRSTNAME` format.
-- `state_newspaper` = OR in all 394 cand and 182 prop rows; `state_election` = OR in all rows.
-- 0 incumbency `=0` errors. `endorsed`: 313 endorsed, 79 opposed, 2 no-direction (1958 STATE REP Kirkpatrick declined endorsement, 1962 Measure #6 DST ambiguous).
-- 0 (year, cand_name, office, dist) duplicates after dedup.
-- 0 (year, prop_type, prop_num) duplicates.
+Pre-fix copies of the 4 JSONs backed up to `raw/Albany Democrat-Herald_138300/parts_bak_pre_albany_fix/`.
 
-## Stage 4: Low-Confidence Re-Scan
+## Spot Check Results (10 stratified clippings)
 
-**Records reviewed:** 20 cand records < 0.85 (cands mean 0.927, min 0.50; props mean 0.964, min 0.70; 4 props < 0.85).
+| Clipping | Records found vs expected | Outcome |
+|---|---|---|
+| 138300_19581031 | 4/4 | Clean (Johns/McCormick DA, Downing/Ingram CntyComm) |
+| 138300_19601024 | 1/2 → 2/2 after fix | Added Sweetland opposed |
+| 138300_19621029 | 2/2 directions, 1 notes mix-up → fixed | Whipple residence notes corrected |
+| 138300_19641102 | 3/3 | Clean (Albany city Measures 51, 52, 53 with 53 correctly deferred) |
+| 138300_19681102 | (image too small to fully verify) | 15 records look comprehensive; trust prior QA |
+| 138300_19701021 | 1/1 | Clean (Hoyt, C.R. "Dick" state senator endorsed) |
+| 138300_19761101 | mostly match; 4 CNTY COMM records flagged | Dual records for Position 2 (Schrock+Tatom) and Position 3 (Keenan+Ross) — see Open Items |
+| 138300_19801027 | 3/3 | Clean (Myers Treasurer endorsed; Lansing and Mertz opposed) |
+| 138300_19921029 | 8 records; 2 wrong directions + 1 name + 1 borderline → fixed | 1992 AG and Senate races corrected |
+| 138300_19981031 | 7/15 → 15/15 after fix | 8 opposed records added |
 
-Low-confidence cand records cluster in:
+## Structural & Coding Validation
 
-- **1992 Albany Mayor (4 records, conf 0.5-1.0):** OCR scan quality affected reading of 3 challenger names; only Koehrsen (the endorsed winner) is at high confidence. Directions correct (paper endorsed Koehrsen, opposed all 3 challengers).
-- **1964 omnibus endorsement (10 records, conf 0.7-0.8):** large multi-race recap with no party affiliations stated for many local races. Directions correct; party fields appropriately left empty.
-- **1958 STATE REP (2 records, conf 0.7-0.8):** OCR-degraded multi-column editorial. Kirkpatrick is the no-direction record (paper declined to endorse for that one seat).
-- **Others:** scattered single records (1962 CITY COUNCIL Kaiser, 1962 CNTY COMM Chandler, 1970 CNTY CLERK Renstrom, 1992 SENATOR AuCoin) where party or direction inferred from context.
+- OK: all CSV columns present (16 candidates, 11 propositions)
+- OK: all `newspaper_id` populated (138300)
+- OK: all `state_newspaper` and `state_election` are "OR"
+- OK: all `year` values 4-digit even years 1958-2000
+- OK: all clipping filenames follow `{id}_{YYYYMMDD}[_vN].pdf` convention
+- OK: all `endorsed` values are 1, 0, or empty
+- OK: incumbency fields 1/empty only
+- OK: 0 junk rows, 0 bad years, 0 stub-format records
+- OK: 0 exact duplicates (cand or prop)
+- OK: metadata counts match CSV counts (403 cands, 182 props, 62 clippings)
+- Note: 1 partial-name record (1962 CHANDLER CNTY COMM, single-word per editorial) — intentional per prior QA
+- Note: prop_type uses skill-spec canonical values (BALLOT MEASURE, BOND, TAX, AMENDMENT, REFERENDUM, INITIATIVE) — consistent within paper; differs from Akron's long forms but matches skill spec
 
-Low-conf prop records (4):
-- 1962 Measures #6 (DST) and #9 (apportionment): older OCR fragmentation — directions left as recorded, with #6 marked no-direction.
-- 1964 Albany Measure #53: brief mention only.
-- 1968 Measure #6 (property tax limitation): direction recorded but flagged.
+## Raw/ Folder Inspection
 
-All low-confidence records were independently re-read and the direction calls held up. No manual corrections required.
+- OK: 62 PDFs in raw/Albany Democrat-Herald_138300/clippings/ — exact match with done/clippings/
+- OK: 62 parts/ JSONs (one per clipping); all valid JSON
+- OK: aux files present (_manifest.csv, _rename_log.csv, _skipped, more/ augmentation source)
+- OK: 4 specific JSONs synced with done/ CSV fixes; remaining 58 untouched (preserve per-clipping ground truth)
+- Backup of 4 pre-fix JSONs at raw/Albany Democrat-Herald_138300/parts_bak_pre_albany_fix/
 
-## Final dataset summary
+## Open Items
 
-### Candidates (394 records, 22 election years)
+1. **1976 CNTY COMM dual endorsements (Position 2 and Position 3).** The CSV has both SCHROCK (D) + TATOM (R) for Position 2 and both KEENAN (D) + ROSS (D) for Position 3, all coded endorsed=1 at confidence 1.0. The 1976-11-01 "Our election choices" list-format article (image quality limited) appears to name only one candidate per position. Could be: (a) legitimate "both qualified" dual endorsements if the editorial uses "either... or..." language; (b) Benton County races misfiled under Linn County; or (c) extraction errors. Confidence 1.0 in CSV suggests prior extraction was confident. Flagged for future verification against a higher-resolution scan.
+2. **Partial-name record (1962 CHANDLER CNTY COMM).** Editorial only used surname "Chandler" without first name. Confidence 0.6. Could be enriched if a fuller name source is found.
+3. **Dataset-wide convention deviations.** Standing decision to leave dataset-wide prop_type and case conventions as-is.
 
-- Endorsed: 313 (79.4%)
-- Opposed: 79 (20.1%)
-- No-direction: 2 (0.5%)
+## Notes for Downstream Use
 
-### Propositions (182 records, 19 election years)
+- Daily newspaper of Albany, Oregon (Linn County area, with overlap into Benton County and Mid-Willamette Valley coverage).
+- Reliably Republican-leaning paper: Nixon (1960), Goldwater (1964), Reagan (1980), Bush (2000). Occasional Democratic crossovers when local incumbents had records the paper supported (AuCoin in CD-1 historically, Kitzhaber in 1998, Hill for State Treasurer 1992).
+- Multiple multi-clipping years (each clipping = one editorial article): 1958 (3), 1960 (7), 1962 (8), 1964 (3), 1966 (6), 1970 (7), 1974 (2), 1980 (2), 1992 (3), 2000 (9).
+- Heavy proposition coverage: 182 records across 19 years, with the paper frequently opposing tax limits and bond issues.
+- The paper uses the "both qualified" pattern explicitly in list-format articles ("Either X... or Y...") — confirmed in 1976 AG (Redden D or Durham R) and 1992 AG (Rodeman R or Kulongoski D); apply the standing rule on this paper.
+- OCR quality is degraded on 1958-1970 multi-column clippings; multi-name comparisons within the editorial body are most error-prone (e.g., 1962 Whipple notes mix-up, 1992 "Either" → "Esther" misread).
+- Special handling: 1996 "vote no on all ballot measures except Measure 28" recap was treated as a single endorsement (Measure 28) rather than 22 unsupported opposition records.
+- Linn County focus: 60 CNTY COMM records, 40 CITY COUNCIL, 19 MAYOR, 11 SHERIFF — comprehensive local coverage every cycle.
 
-- Endorsed: 96 (52.7%)
-- Opposed: 84 (46.2%)
-- No-direction: 2 (1.1%)
+## Recommendation
 
-## Coverage notes
-
-- **Presidential pattern:** Albany Democrat-Herald is a reliably Republican-leaning paper. Endorsed Nixon (1960), Goldwater (1964), Reagan (1980), Bush (2000).
-- **Senatorial / gubernatorial:** Strong Republican-leaning support over time (Hatfield, Packwood, McCall, Norblad), with occasional Democratic crossovers when local incumbents had records the paper supported (e.g., AuCoin in CD-1).
-- **Congressional:** US House CD-2 (which contains Albany / Linn County) is the paper's primary federal race. The paper consistently endorsed the Republican from this district through the 1980s-90s.
-- **Linn County local:** Heavy coverage of CNTY COMM (60 records), CITY COUNCIL (40), MAYOR (19). The paper covers nearly every cycle of local elections.
-- **Ballot measures:** Heavy proposition coverage (182 records, 19 years), with the paper frequently opposing tax limits and bond issues. Heaviest activity 1980-2000 with state ballot-measure surges. The 1996 recap "vote no on all ballot measures except Measure 28" was treated as a single endorsement (Measure 28) rather than 22 unsupported opposition records.
-- **OCR quality:** Older clippings (1958-1970) have multi-column scan-quality issues. All extractions hold up against re-reading; party fields appropriately empty for non-partisan local races.
-
-### Multi-file year notes
-
-Several years have multiple clippings covering different races (each clipping = one editorial article), kept separately:
-- 1958: 3 clippings (Governor + US House, Legislative, County Office)
-- 1960: 4 clippings (different ballot measures + offices)
-- 1962: 7 clippings (Circuit Judge, US House, DA, State House, Measure 6, Mayor + Council, Measure 9 + Commissioner)
-- 1964: 3 clippings
-- 1966: 4 clippings
-- 1970: 5 clippings (existing 4 + new 2 for Governor, State Senate)
-- 1992: 3 clippings
-- 2000: 9 clippings (existing 5 + new 4: President, Open-Space Bond, Measure 91, Ballot Measures)
+PASS WITH FIXES. The April pass was solid on structure and on the 4 clippings it deeply spot-checked, but missed a class of errors in editorial-body comparison language (opposed candidates named explicitly in prose but not extracted as their own opposed records). The 9 added/corrected records resolve every issue surfaced in this re-QA's 10-clipping spot-check sample. The 1976 CNTY COMM dual-endorsement pattern is the only remaining open data question; it may be a legitimate "both qualified" treatment of Benton/Linn cross-coverage and is flagged for future verification.

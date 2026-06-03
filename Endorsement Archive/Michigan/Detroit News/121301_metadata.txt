@@ -1,0 +1,30 @@
+Newspaper: Detroit News
+Newspaper ID: 121301
+State: Michigan (MI)
+
+Number of clippings: 87
+Endorsement data years: 1968-2022 (26 unique election years)
+
+Candidate records: 1962
+  Endorsed: 1932
+  Opposed: 26
+  No-direction (declined endorsement): 4
+
+Proposition records: 254
+  YES: 116
+  NO: 129
+  No-direction: 9
+
+Confidence stats:
+  Mean confidence: 0.882
+  Median confidence: 0.880
+  Min confidence: 0.60
+  Max confidence: 0.95
+
+Extraction notes:
+- 87 unique clippings span 26 election years (1968-2022).
+- 1970, 2004, 2020, 2022 declined Pres/Senate/AG endorsement (no-direction records).
+- 2018: editorial board chose NOT to make formal endorsements in Governor, Senator, AG, Sec State, or US Congress (only state legislative + judicial + boards + ballot proposals).
+- 2022 (added 2026-04-29 in two passes): First pass extracted 3 ballot props from index page. Second pass: user added 30 individual web-printout sub-articles covering Governor, Sec State, AG, Supreme Court, Court of Appeals, all 13 US House districts, state Senate (Wayne+Oakland+Macomb articles), state House (Oakland+Macomb articles only — Wayne not provided), university boards, State Board of Ed, county executives. 90 new candidate records merged. AG = explicit "no endorsement" (paper declined to endorse either Nessel D inc or DePerno R).
+- 2010 and 2012 not present in archive (data gap).
+- 2022 Wayne County state House endorsements not yet captured (clipping not provided).

@@ -2,7 +2,6 @@ state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,pr
 NM,Albuquerque Tribune,128400,1946,NM,AMENDMENT,1,STATE CONSTITUTIONAL AMENDMENT NO. 1 - RESTORE 60-DAY LEGISLATIVE SESSION REPLACING SPLIT SESSION,1,Paper believes amendment should pass; split session has been ineffective and costly.,0.9
 NM,Albuquerque Tribune,128400,1946,NM,AMENDMENT,2,STATE CONSTITUTIONAL AMENDMENT NO. 2 - PROPERTY WITH TAX LIEN ACQUIRED BY EXEMPT ORGANIZATIONS NOT EXEMPT FROM LIEN/TAXES,1,Tax obligations should be discharged before newly acquired property becomes exempt.,0.9
 NM,Albuquerque Tribune,128400,1948,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3 - 'RIGHT TO WORK' / PROHIBIT CLOSED AND UNION SHOPS,,PAPER PRESENTED BOTH SIDES; ENDORSEMENT DIRECTION NOT FULLY CAPTURED IN OCR.,0.7
-NM,Albuquerque Tribune,128400,1954,NM,BOND,STATE-INST,"NM STATE $4,500,000 BOND FOR NEW BUILDINGS FOR STATE INSTITUTIONS",,PAPER QUESTIONS DISTRIBUTION SCHEME ('SPREAD MONEY OVER SO MANY EDUCATIONAL INSTITUTIONS') BUT POSITION ON OVERALL BOND UNCLEAR.,0.7
 NM,Albuquerque Tribune,128400,1954,NM,BOND,BERN-COURTHOUSE,"BERNALILLO COUNTY BOND - $2,000,000 FOR NEW COURT HOUSE",1,Best solution is to vote bonds and trust commission to spend wisely; we need more court house space.,0.9
 NM,Albuquerque Tribune,128400,1954,NM,BOND,STATE,"STATE BOND ISSUE - $4,500,000 FOR NEW BUILDINGS AT STATE INSTITUTIONS (PRIMARILY HIGHER EDUCATION)",1,Paper thinks the bond issue should be approved.,0.92
 NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2,,OCR HEADER ONLY; POSITION NOT CAPTURED.,0.6
@@ -12,7 +11,6 @@ NM,Albuquerque Tribune,128400,1960,NM,BOND,STATE-EDU-1960,"NM STATE $8 MILLION B
 NM,Albuquerque Tribune,128400,1960,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1 - ELECT HALF OF STATE SENATE EVERY 4 YEARS (CONTINUITY),1,"'WHILE NOT VITAL, APPEARS TO HAVE SOME MERIT'.",0.92
 NM,Albuquerque Tribune,128400,1960,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2 - ANNUAL LEGISLATIVE SESSIONS (60-DAY AND 30-DAY ALTERNATING),0,PAPER OPPOSES; 'PRESENT 60-DAY SESSION EACH TWO YEARS IS SUFFICIENT'.,0.92
 NM,Albuquerque Tribune,128400,1960,NM,TAX,BERN-HOSPITAL,BERNALILLO COUNTY-INDIAN HOSPITAL 4.5-MILL LEVY (FOUR YEARS),1,,0.92
-NM,Albuquerque Tribune,128400,1960,NM,TAX,BERN-HOSPITAL-LEVY,BERNALILLO COUNTY 4.5 MILL LEVY FOR COUNTY-INDIAN HOSPITAL,1,Hospital needs this money to operate efficiently during the next four years.,0.92
 NM,Albuquerque Tribune,128400,1962,NM,AMENDMENT,13,NM CONSTITUTIONAL AMENDMENT 13 - JOINT VOTING FOR GOVERNOR AND LIEUTENANT GOVERNOR,0,Paper favors defeat of the amendment; voters should have opportunity to choose lt. gov. independently.,0.92
 NM,Albuquerque Tribune,128400,1964,NM,TAX,,TWO LEVIES TO FINANCE OPERATION OF TVI (TECHNICAL VOCATIONAL INSTITUTE) AND COUNTY-INDIAN HOSPITAL,1,VOTE FOR THE LEVIES; CANNOT AFFORD NOT TO MAKE THESE INVESTMENTS,0.95
 NM,Albuquerque Tribune,128400,1964,NM,REFERENDUM,,BURY THE PRE-PRIMARY (VOTING MACHINE TUESDAY YES OR NO),0,WE THINK THE UNFORTUNATE PRE-PRIMARY CONVENTION LAW BE OVERLOOKED; PUSH RIGHT LEVER TO BURY HYBRID; LET'S GIVE THE WORDS FOR REPEAL,0.7
@@ -28,26 +26,10 @@ NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,8,PERMIT SIMPLIFYING STATE TAX L
 NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,9,CREATES A CHIEF ADMINISTRATOR FOR STATE HIGHWAY DEPARTMENT TO BE APPOINTED BY GOVERNOR,0,AMENDMENT VESTS TOO MUCH POWER IN HANDS OF AN ADMINISTRATOR WHO IS NOT REQUIRED TO BE AN ENGINEER; WE DON'T THINK AMENDMENT DOES THE JOB PROPERLY,0.9
 NM,Albuquerque Tribune,128400,1964,NM,BOND,STATE-EDUC,STATE BOND ISSUE - $8 MILLION FOR HIGHER EDUCATION BUILDINGS,1,Universities and colleges suffering from growing pains; bond issue should be approved.,0.92
 NM,Albuquerque Tribune,128400,1966,NM,BOND,STATE-EDU-1966,NM STATE $42.5M BOND OVER 10 YEARS FOR STATE COLLEGES AND UNIVERSITIES BUILDING/REMODELING,1,,0.92
-NM,Albuquerque Tribune,128400,1966,NM,AMENDMENT,10,NM CONSTITUTIONAL AMENDMENT 10 - REPLACE JUSTICE OF THE PEACE WITH MAGISTRATE COURTS,1,,0.92
 NM,Albuquerque Tribune,128400,1966,NM,BOND,ABQ-FLOOD,ALBUQUERQUE $3.5 MILLION BOND - NORTH DITCH FLOOD CONTROL PROGRAM,1,,0.92
-NM,Albuquerque Tribune,128400,1966,NM,BOND,STATE-COLLEGE,STATE BOND ISSUE - $42.5 MILLION OVER 10 YEARS FOR COLLEGE/UNIVERSITY CONSTRUCTION,1,,0.92
-NM,Albuquerque Tribune,128400,1966,NM,BOND,,$42.5 MILLION BOND ISSUE OVER NEXT 10 YEARS TO FINANCE BUILDING CONSTRUCTION AND REMODELING FOR STATE COLLEGES AND UNIVERSITIES,1,ENDORSED PROPOSED BOND ISSUE,0.95
-NM,Albuquerque Tribune,128400,1966,NM,BOND,,$3.5 MILLION BOND ISSUE TO PROVIDE FUNDS FOR CONSTRUCTION OF NORTH DITCH OF $30 MILLION FLOOD CONTROL PROGRAM IN ALBUQUERQUE,1,VOTE URGED FOR PASSAGE,0.95
 NM,Albuquerque Tribune,128400,1966,NM,AMENDMENT,10,REPLACES JUSTICE OF THE PEACE COURTS WITH NEW MAGISTRATE COURTS,1,URGING VOTE IN FAVOR,0.95
 NM,Albuquerque Tribune,128400,1968,NM,TAX,BERN-MEDICAL,BERNALILLO COUNTY MEDICAL CENTER 4.5-MILL TAX CONTINUATION,1,,0.92
-NM,Albuquerque Tribune,128400,1968,NM,TAX,BERN-MEDCENTER,BERNALILLO COUNTY MEDICAL CENTER LEVY,1,YES vote for continuation,0.85
 NM,Albuquerque Tribune,128400,1968,NM,BALLOT MEASURE,CONST-CONV,CALL CONSTITUTIONAL CONVENTION TO REVISE OR AMEND STATE CONSTITUTION,1,YES vote for calling convention,0.85
-NM,Albuquerque Tribune,128400,1968,NM,TAX,,BERNALILLO COUNTY MEDICAL CENTER LEVY (CONTINUATION),1,TRIBUNE FAVORS YES VOTE FOR CONTINUATION,1.0
-NM,Albuquerque Tribune,128400,1968,NM,REFERENDUM,,CALLING A CONSTITUTIONAL CONVENTION TO REVISE OR AMEND THE STATE CONSTITUTION,1,TRIBUNE FAVORS YES VOTE,1.0
-NM,Albuquerque Tribune,128400,1970,NM,REFERENDUM,,CITY REFERENDUM FLUORIDATION ORDINANCE,1,FOR,1.0
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,1,CONSTITUTIONAL AMENDMENT NO. 1,0,AGAINST,1.0
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,2,CONSTITUTIONAL AMENDMENT NO. 2,0,AGAINST,1.0
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,3,CONSTITUTIONAL AMENDMENT NO. 3,1,FOR,1.0
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,4,CONSTITUTIONAL AMENDMENT NO. 4,0,AGAINST,1.0
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,5,CONSTITUTIONAL AMENDMENT NO. 5,0,AGAINST,1.0
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,6,CONSTITUTIONAL AMENDMENT NO. 6,0,AGAINST,1.0
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,7,CONSTITUTIONAL AMENDMENT NO. 7,0,AGAINST,1.0
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,8,CONSTITUTIONAL AMENDMENT NO. 8,0,AGAINST,1.0
 NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1,0,,0.92
 NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2,0,,0.92
 NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3,1,,0.92
@@ -56,7 +38,6 @@ NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT NO
 NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT NO. 6,0,,0.92
 NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT NO. 7,0,,0.92
 NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,8,NM CONSTITUTIONAL AMENDMENT NO. 8,0,,0.92
-NM,Albuquerque Tribune,128400,1970,NM,REFERENDUM,FLUORIDATION,ALBUQUERQUE FLUORIDATION ORDINANCE,1,,0.92
 NM,Albuquerque Tribune,128400,1970,NM,BALLOT MEASURE,ABQ-FLUORIDATION,ABQ CITY FLUORIDATION ORDINANCE REFERENDUM,1,Fluoridation Ordinance - For,0.9
 NM,Albuquerque Tribune,128400,1972,NM,BOND,,STATE LIBRARY BONDS ACT,1,FOR,1.0
 NM,Albuquerque Tribune,128400,1972,NM,BOND,,COUNTY MEDICAL CENTER BONDS,1,FOR,1.0
@@ -71,7 +52,7 @@ NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO
 NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2 - DISTRICT JUDGE PRO TEMPORE,0,,0.92
 NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3 - PROPERTY TAX ABEYANCE,0,,0.92
 NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT NO. 4 - LEGISLATIVE PAY,0,,0.92
-NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-1,BERNALILLO COUNTY BOND NO. 1 - COUNTY OFFICE BUILDING,0,,0.92
+NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-1,BERNALILLO COUNTY BOND NO. 1 - COUNTY OFFICE BUILDING,1,VOTE YES (RECONFIRMED FROM CLIPPING - WAS INCORRECTLY 0).,0.92
 NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-2,BERNALILLO COUNTY BOND NO. 2 - JUVENILE DETENTION HOME,1,,0.92
 NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-3,BERNALILLO COUNTY BOND NO. 3 - COURTHOUSE REMODELING,1,,0.92
 NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-4,BERNALILLO COUNTY BOND NO. 4 - AMBULATORY CARE CENTER,1,,0.92
@@ -85,9 +66,6 @@ NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT NO
 NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT NO. 6 - YELLOW PAGES IN TELEPHONE RATE BASE,1,,0.92
 NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT NO. 7 - EXPAND COUNTY DEBT FOR WATER/SEWER/LANDFILL/AIRPORT,0,,0.92
 NM,Albuquerque Tribune,128400,1982,NM,REFERENDUM,SUNDAY-LIQUOR,SUNDAY BY-THE-DRINK LIQUOR SALES IN LOCAL OPTION DISTRICTS,1,,0.92
-NM,Albuquerque Tribune,128400,1982,NM,BALLOT MEASURE,LIQUOR-REF,LIQUOR SALES REFERENDUM - CONTINUE LIQUOR SALES,1,YES,0.85
-NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,MERIT-SELECTION,MERIT SELECTION OF DISTRICT/APPELLATE JUDGES,1,FOR,0.85
-NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,SEVERANCE-FUND,ALLOWING LEGISLATURE TO SPEND MONEY FROM SEVERANCE TAX PERMANENT FUND,1,FOR,0.85
 NM,Albuquerque Tribune,128400,1984,NM,BALLOT MEASURE,ALL-12,ALL 12 BALLOT QUESTIONS,1,Pull the 'for' (in favor of) lever on all 12 questions,0.85
 NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - SCHOOL BOARD RECALL,1,,0.92
 NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,10,NM CONSTITUTIONAL AMENDMENT 10 - WORKMEN'S COMP,1,,0.92
@@ -113,12 +91,9 @@ NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-1,STATE BOND 1 - $50.6M EDUCATI
 NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-2,STATE BOND 2 - $425K WILDLIFE PROTECTION,1,,0.92
 NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-3,STATE BOND 3 - $1.2M SENIOR CITIZENS' CENTERS,1,,0.92
 NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-4,STATE BOND 4 - $1.5M LIBRARIES (BOOKS/AV MATERIALS),1,,0.92
-NM,Albuquerque Tribune,128400,1988,NM,BOND,,BERNALILLO COUNTY ROAD CONSTRUCTION AND REPAIR,1,VOTE FOR.,0.85
 NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-1,LEGISLATIVE RETIREMENT,0,VOTE AGAINST.,0.88
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-3,INCREASE TAX EXEMPTION,,OCR DID NOT CAPTURE THE 'VOTE FOR/AGAINST' LINE FOR THIS AMENDMENT.,0.6
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-5,RESTRICT BAIL FOR CONVICTS (DENA LYNN GORE BAIL AMENDMENT),0,VOTE AGAINST.,0.88
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-3,INCREASE TAX EXEMPTION,0,VOTE AGAINST (RECONFIRMED FROM CLIPPING - WAS BLANK).,0.92
 NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-6,APPOINT JUDGES,0,VOTE AGAINST.,0.88
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-7,COUNTY COMMISSIONS,1,VOTE FOR.,0.85
 NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - INVESTMENTS,1,For,0.88
 NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT 2 - HIGH-TECH DEBT,0,Against,0.88
 NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT 3 - RECALL,1,For,0.88
@@ -168,8 +143,72 @@ NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-3,"BERNALILLO COUNTY BOND 3 - $2
 NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-4,"BERNALILLO COUNTY BOND 4 - $200,000 FOR BUILDINGS",1,for,0.85
 NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-5,BERNALILLO COUNTY BOND 5 - $3.7 MILLION FOR ROADS,1,for,0.85
 NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-6,BERNALILLO COUNTY BOND 6 - $7.6 MILLION FOR STORM SEWERS,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-A,STATEWIDE BOND A - $5.5 MILLION FOR ROADS,1,for,0.85
 NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-B,STATEWIDE BOND B - $94.9 MILLION FOR HIGHER ED,1,for,0.85
 NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-C,STATEWIDE BOND C - $16.3 MILLION FOR LIBRARIES,1,for,0.85
 NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-D,STATEWIDE BOND D - $5.1 MILLION FOR KINDERGARTENS,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-SENIORS,STATEWIDE BOND - $6.1 MILLION FOR SENIORS,1,for,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-A,NM Statewide Bond A 2004 - $6.1 million for seniors,1,for [QA 2026-05-26: renamed STATE-SENIORS->STATE-A; editorial lists this as Bond A],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,1,NM Const Amendment 1 1994 - School boards,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,2,NM Const Amendment 2 1994 - Grand jury,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,3,NM Const Amendment 3 1994 - Student Regents,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,4,NM Const Amendment 4 1994 - Highway Commission,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,5,NM Const Amendment 5 1994 - Land donations,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,6,NM Const Amendment 6 1994 - County borrowing,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,7,NM Const Amendment 7 1994 - State Hospital,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,8,NM Const Amendment 8 1994 - State lottery,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,9,NM Const Amendment 9 1994 - Land donations,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,10,NM Const Amendment 10 1994 - Judicial retention,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,11,NM Const Amendment 11 1994 - Voting changes,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,12,NM Const Amendment 12 1994 - Severance fund,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,13,NM Const Amendment 13 1994 - Land grant fund,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,14,NM Const Amendment 14 1994 - Legislative pay,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,A,State Bond A 1994 - Seniors,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.88
+NM,Albuquerque Tribune,128400,1994,NM,BOND,B,State Bond B 1994 - Schools,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.88
+NM,Albuquerque Tribune,128400,1994,NM,BOND,C,State Bond C 1994 - Libraries,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.88
+NM,Albuquerque Tribune,128400,1994,NM,BOND,D,State Bond D 1994 - Hospital,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.88
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-1,Bernalillo County Bond 1 1994 - Roads,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-2,Bernalillo County Bond 2 1994 - Sewers,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-3,Bernalillo County Bond 3 1994 - Libraries,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-4,Bernalillo County Bond 4 1994 - Buildings,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-5,Bernalillo County Bond 5 1994 - Parks,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-6,Bernalillo County Bond 6 1994 - Juvenile Justice Center,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-7,Bernalillo County Bond 7 1994 - Land,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-8,Bernalillo County Bond 8 1994 - Sheriff,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
+NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,1,NM Const Amendment 1 1980 - Increase county commission membership 3 to 5,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.80
+NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,2,NM Const Amendment 2 1980 - Albuquerque School Board district tax,0,NO. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
+NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,3,NM Const Amendment 3 1980 - Bail provisions,0,NO. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
+NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,4,NM Const Amendment 4 1980 - Allow restrictive officers two consecutive 4-year terms,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
+NM,Albuquerque Tribune,128400,1980,NM,BOND,1,State Bond 1 1980 - $5.6M Bernalillo County School expansion,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
+NM,Albuquerque Tribune,128400,1980,NM,BOND,6,State Bond 6 1980 - $20M AMAFCA,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,1,NM Constitutional Amendment 1 - General absentee voting law,1,FOR. Editorial favors passage; notes high threshold required. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.85
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,2,NM Constitutional Amendment 2 - Appointment of state superintendent of public instruction by elected state school board,1,FOR. Editorial: 'The Tribune already has expressed itself in favor of Amendment No. 2'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.88
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,3,NM Constitutional Amendment 3 - Liberalize investment of state permanent school fund (allow 25% in stocks),1,FOR. Editorial: 'We recommend its passage'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.85
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,4,NM Constitutional Amendment 4 - Cancel liens on property of public welfare recipients (under 1957 repeal),1,FOR. Editorial: 'This amendment should pass'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.85
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,5,NM Constitutional Amendment 5 - Four-year terms for county officers (instead of two),1,FOR. Editorial: 'We think this provision would result in more efficient operation'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.85
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,4,NM Constitutional Amendment 4 1996 - New amendments,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,5,NM Constitutional Amendment 5 1996 - Legislative pay,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,6,NM Constitutional Amendment 6 1996 - New commission,0,AGAINST. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,7,NM Constitutional Amendment 7 1996 - County borrowing,0,AGAINST. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-A,State Bond A 1996 - Seniors,0,AGAINST. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-B,State Bond B 1996 - Schools,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-C,State Bond C 1996 - State Fair,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-D,State Bond D 1996 - Juvenile Corrections,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,BERN-ROADS,Bernalillo County Bond - Roads,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,BERN-SEWERS,Bernalillo County Bond - Sewers,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,BERN-LIBRARIES,Bernalillo County Bond - Libraries,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
+NM,Albuquerque Tribune,128400,2000,NM,BOND,STATE-B,NM State Bond B 2000 - Schools,1,FOR. [QA 2026-05-26: 2000 fix per re-read of 20001104 'Tribune recommendations' editorial],0.88
+NM,Albuquerque Tribune,128400,2000,NM,BOND,STATE-C,NM State Bond C 2000 - Facilities,1,FOR. [QA 2026-05-26: 2000 fix per re-read of 20001104 'Tribune recommendations' editorial],0.88
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,1,NM Constitutional Amendment 1 1998 - Legislature limit residential property tax,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,2,NM Constitutional Amendment 2 1998 - Citizen on Judicial Standards Commission,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,3,NM Constitutional Amendment 3 1998 - Two-term county officials non-county offices,1,FOR.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,4,NM Constitutional Amendment 4 1998 - Prohibit retirement trust funds for state workers/teachers,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,5,NM Constitutional Amendment 5 1998 - Service-connected disability tax break,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-A,NM State Bond A 1998 - Senior citizens,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-B,NM State Bond B 1998 - Schools,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-C,NM State Bond C 1998 - Land acquisition,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-D,NM State Bond D 1998 - El Camino Real,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-E,NM State Bond E 1998 - Communications,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1998,NM,TAX,OPEN-SPACE,Bernalillo County Open Space Mill Levy 1998,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-2,REMOVAL OF APPOINTEES,1,VOTE FOR.,0.9
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-4,LIBRARIES,1,VOTE FOR.,0.9
+NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-ATHLETIC,BERNALILLO COUNTY ATHLETIC FACILITIES BOND,1,VOTE FOR.,0.9
+NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-RECYCLING,BERNALILLO COUNTY RECYCLING CENTER BOND,1,VOTE FOR.,0.9

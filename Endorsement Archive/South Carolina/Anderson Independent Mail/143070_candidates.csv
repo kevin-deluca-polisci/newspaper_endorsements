@@ -53,7 +53,7 @@ SC,Anderson Independent Mail,143070,1976,CNTY COMM,8,,SC,"BRATCHER, FRED",Democr
 SC,Anderson Independent Mail,143070,1980,PRESIDENT,,,SC,"CARTER, JIMMY",Democrat,1,1,,,incumbent President; 'Carter Offers Experience And Vision Of Peace'; America's best choice,0.95
 SC,Anderson Independent Mail,143070,1980,PRESIDENT,,,SC,"REAGAN, RONALD",Republican,0,,,,would be choice if president's only duty was to manage US economy; not endorsed,0.95
 SC,Anderson Independent Mail,143070,1980,PRESIDENT,,,SC,"ANDERSON, JOHN",Independent,0,,,,Independent; offered valuable alternative; not endorsed,0.95
-SC,Anderson Independent Mail,143070,1980,PRESIDENT,,,SC,"CLARK, ED",L,0,,,,Libertarian; offered reasoned challenges to long-accepted ways government intervenes in our lives; not endorsed,0.95
+SC,Anderson Independent Mail,143070,1980,PRESIDENT,,,SC,"CLARK, ED",Libertarian,0,,,,Libertarian; offered reasoned challenges to long-accepted ways government intervenes in our lives; not endorsed,0.95
 SC,Anderson Independent Mail,143070,1980,SENATOR,,,SC,"HOLLINGS, ERNEST F.",Democrat,1,1,,,incumbent US Senator; 'Hollings' Ability Commands Respect'; former governor; in Senate 14 years; chairman of Senate Budget Committee,0.95
 SC,Anderson Independent Mail,143070,1980,SENATOR,,,SC,"MAYS, MARSHALL T.",Republican,0,,,,Greenwood Republican; contends Hollings is too liberal,0.95
 SC,Anderson Independent Mail,143070,1980,H,3,,SC,"DERRICK, BUTLER",Democrat,1,1,,,US House SC-3; incumbent; 'Derrick's Record Changed Our Minds',0.95
@@ -68,12 +68,12 @@ SC,Anderson Independent Mail,143070,1984,STATE REP,6,,SC,"TUCKER, JOHN",,1,,,,SC
 SC,Anderson Independent Mail,143070,1984,STATE REP,8,,SC,"CHAMBLEE, C.D.",,1,,,,SC House District 8,0.95
 SC,Anderson Independent Mail,143070,1984,CNTY COMM,6,,SC,"COLE, RUDOLPH",,1,,,,Anderson County Council District 6,0.95
 SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,,At-Large,SC,"WINGO, JESSE",,1,,,,"Anderson County Board Of Education, At-Large",0.95
-SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5,Area 1,SC,"PERKS, LAURENCE",,1,,,,School District 5 Area 1,0.95
-SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5,Area 3,SC,"MAYFIELD, TONY",,1,,,,School District 5 Area 3,0.95
-SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5,Area 4,SC,"GOELZ, BRENDA",,1,,,,School District 5 Area 4,0.95
-SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5,Area 6,SC,"MCCOY, WILLIAM",,1,,,,School District 5 Area 6,0.95
-SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5,Area 7,SC,"BONNER, FRANK",,1,,,,School District 5 Area 7,0.95
-SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5,At-Large,SC,"HUFF, S.H. (SANDY)",,1,,,,School District 5 At-Large,0.95
+SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5 Area 1,Area 1,SC,"PERKS, LAURENCE",,1,,,,School District 5 Area 1; DIST ENRICHED FROM 1984-NOV-06 RECAP,0.95
+SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5 Area 3,Area 3,SC,"MAYFIELD, TONY",,1,,,,School District 5 Area 3; DIST ENRICHED FROM 1984-NOV-06 RECAP,0.95
+SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5 Area 4,Area 4,SC,"GOELZ, BRENDA",,1,,,,School District 5 Area 4; DIST ENRICHED FROM 1984-NOV-06 RECAP,0.95
+SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5 Area 6,Area 6,SC,"MCCOY, WILLIAM",,1,,,,School District 5 Area 6; DIST ENRICHED FROM 1984-NOV-06 RECAP,0.95
+SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5 Area 7,Area 7,SC,"BONNER, FRANK",,1,,,,School District 5 Area 7; DIST ENRICHED FROM 1984-NOV-06 RECAP,0.95
+SC,Anderson Independent Mail,143070,1984,SCHOOL BOARD,5 At-large,At-Large,SC,"HUFF, S.H. (SANDY)",,1,,,,School District 5 At-Large; DIST ENRICHED FROM 1984-NOV-06 RECAP,0.95
 SC,Anderson Independent Mail,143070,1986,GOVERNOR,,,SC,"CAMPBELL, CARROLL",Republican,1,,,,"4th District Congressman; Republican; 'Campbell, Hartnett Would Give S.C. Quality Leadership'; management abilities seem more likely to get the job done",0.95
 SC,Anderson Independent Mail,143070,1986,GOVERNOR,,,SC,"DANIEL, MIKE",Democrat,0,,,,current Lt. Gov. of Gaffney; not endorsed,0.95
 SC,Anderson Independent Mail,143070,1986,LT GOVERNOR,,,SC,"HARTNETT, TOM",Republican,1,,,,1st District Congressman; Republican; refreshingly candid politician; co-endorsed with Campbell,0.95
@@ -87,8 +87,8 @@ SC,Anderson Independent Mail,143070,1988,SHERIFF,,,SC,"TAYLOR, GENE",,1,,,,Ander
 SC,Anderson Independent Mail,143070,1988,CNTY COMM,1,,SC,"COX, JIMMY",,1,,,,Anderson County Council District 1,0.95
 SC,Anderson Independent Mail,143070,1988,CNTY COMM,3,,SC,"BATES, BILL",,1,,,,Anderson County Council District 3,0.95
 SC,Anderson Independent Mail,143070,1988,CNTY COMM,4,,SC,"CAHALY, ELISE",,1,,,,Anderson County Council District 4,0.95
-SC,Anderson Independent Mail,143070,1988,SCHOOL BOARD,5,Area 4,SC,"DEWEIL, STEVE",,1,,,,School District 5 Area 4,0.95
-SC,Anderson Independent Mail,143070,1988,SCHOOL BOARD,5,At-large,SC,"HUFF, SAMUEL (SANDY)",,1,,,,School District 5 At-large,0.95
+SC,Anderson Independent Mail,143070,1988,SCHOOL BOARD,5 Area 4,Area 4,SC,"DEWEIL, STEVE",,1,,,,School District 5 Area 4; DIST ENRICHED FROM 1988-NOV-08 RECAP,0.95
+SC,Anderson Independent Mail,143070,1988,SCHOOL BOARD,5 At-large,At-large,SC,"HUFF, SAMUEL (SANDY)",,1,,,,School District 5 At-large; DIST ENRICHED FROM 1988-NOV-08 RECAP,0.95
 SC,Anderson Independent Mail,143070,1990,SENATOR,,,SC,"THURMOND, STROM",Republican,1,,1,,incumbent US Senator,0.95
 SC,Anderson Independent Mail,143070,1990,H,3,,SC,"DERRICK, BUTLER",Democrat,1,1,,,US House SC-3 incumbent,0.95
 SC,Anderson Independent Mail,143070,1990,GOVERNOR,,,SC,"CAMPBELL, CARROLL A. JR.",Republican,1,,1,,incumbent SC Governor,0.95
@@ -112,7 +112,7 @@ SC,Anderson Independent Mail,143070,1990,SCHOOL BOARD,2,,SC,"BROCK, MIKE",,1,,,,
 SC,Anderson Independent Mail,143070,1990,SCHOOL BOARD,5,Area 3,SC,"KNIGHT, W. GORDON JR.",,1,,,,Anderson County Board of Education District 5 Area 3,0.95
 SC,Anderson Independent Mail,143070,1990,SCHOOL BOARD,5,Area 2,SC,"LEWIS, BEVERLYN H.",,1,,,,Anderson District 5 Board of Trustees Area 2,0.95
 SC,Anderson Independent Mail,143070,1990,SCHOOL BOARD,5,At-large,SC,"BURRISS, MACK",,1,,,,Anderson District 5 Board of Trustees At-large,0.95
-SC,Anderson Independent Mail,143070,1992,PRESIDENT,,,SC,"CLINTON, BILL",Democrat,1,,1,,Listed as 'Bill Clinton' under President; party not stated on clipping but well-known as Democrat,0.95
+SC,Anderson Independent Mail,143070,1992,PRESIDENT,,,SC,"CLINTON, BILL",Democrat,1,1,,,Listed as 'Bill Clinton' under President; party not stated on clipping but well-known as Democrat Pattern K systematic fix: incumbency flag was on wrong party side.,0.95
 SC,Anderson Independent Mail,143070,1992,SENATOR,,,SC,"HOLLINGS, FRITZ",Democrat,1,1,,,Listed under U.S. Senate as 'Fritz Hollings'; incumbent Democrat,0.95
 SC,Anderson Independent Mail,143070,1992,H,3,,SC,"DERRICK, BUTLER",Democrat,1,1,,,"Listed under U.S. Congress, 3rd District as 'Butler Derrick'; incumbent Democrat",0.95
 SC,Anderson Independent Mail,143070,1992,STATE SENATOR,2,,SC,"MARTIN, LARRY",Republican,1,,1,,Senate District 2 'Larry Martin'; party not on clipping; known SC State Senator Larry Martin was Republican,0.8
@@ -144,7 +144,7 @@ SC,Anderson Independent Mail,143070,1994,SUPERINTENDENT,,,SC,"WEINBERG, SYLVIA",
 SC,Anderson Independent Mail,143070,1994,COMPTROLLER,,,SC,"MORRIS, EARLE",Democrat,1,1,,,"Comptroller general 'Earle Morris, Democrat'",0.95
 SC,Anderson Independent Mail,143070,1994,TREASURER,,,SC,"PATTERSON, GRADY",Democrat,1,1,,,"Treasurer 'Grady Patterson, Democrat'",0.95
 SC,Anderson Independent Mail,143070,1994,ADJUTANT GENERAL,,,SC,"SPEARS, STAN",Democrat,1,,,,"Adjutant general 'Stan Spears, Democrat'",0.95
-SC,Anderson Independent Mail,143070,1994,AGRICULTURE COMMISSIONER,,,SC,"TINDAL, LES",Republican,1,1,,,"Agriculture commissioner 'Les Tindal, Republican'",0.95
+SC,Anderson Independent Mail,143070,1994,AGRICULTURE COMMISSIONER,,,SC,"TINDAL, LES",Republican,1,,1,,"Agriculture commissioner 'Les Tindal, Republican' Pattern K systematic fix: incumbency flag was on wrong party side.",0.95
 SC,Anderson Independent Mail,143070,1994,SEC OF STATE,,,SC,"MILES, JIM",Republican,1,,1,,"Secretary of state 'Jim Miles, Republican'",0.95
 SC,Anderson Independent Mail,143070,1994,H,3,,SC,"BRYAN, JIM",Democrat,1,,,,"Third District Congress 'Jim Bryan, Democrat'",0.95
 SC,Anderson Independent Mail,143070,1994,STATE REP,1,,SC,"EARLE, JULIUS",Democrat,1,,,,"House 1 'Dr. Julius Earle, Democrat'",0.95
@@ -152,13 +152,13 @@ SC,Anderson Independent Mail,143070,1994,STATE REP,2,,SC,"HARPER, MICHAEL",Democ
 SC,Anderson Independent Mail,143070,1994,STATE REP,3,,SC,"MARCHBANKS, CLAUDE",Republican,1,,,,"House 3 'Claude Marchbanks, Republican'",0.95
 SC,Anderson Independent Mail,143070,1994,STATE REP,6,,SC,"TUCKER, JOHN",Democrat,1,,,,"House 6 'John Tucker, Democrat'",0.95
 SC,Anderson Independent Mail,143070,1994,STATE REP,7,,SC,"TOWNSEND, RONNY",Democrat,1,,,,"House 7 'Ronny Townsend, Democrat'",0.95
-SC,Anderson Independent Mail,143070,1994,STATE REP,9,,SC,"HARRIS, PAT",Democrat,1,,,,"House 9 'Pat Harris, Democrat'",0.95
+SC,Anderson Independent Mail,143070,1994,STATE REP,8,,SC,"HARRIS, PAT",Democrat,1,,,,"House 9 'Pat Harris, Democrat'; DIST FIX 9→8 PER 1994-NOV-08 RECAP",0.95
 SC,Anderson Independent Mail,143070,1994,STATE REP,11,,SC,"STILLE, HARRY",Democrat,1,,,,"House 11 'Harry Stille, Democrat'",0.95
 SC,Anderson Independent Mail,143070,1994,CNTY COMM,1,Anderson County Council,SC,"TULLY, FRED",Democrat,1,,,,"Anderson County Council District 1 'Fred Tully, Democrat'",0.95
 SC,Anderson Independent Mail,143070,1994,CNTY COMM,2,Anderson County Council,SC,"FLOYD, WILLIAM",Democrat,1,1,,,"Anderson County Council District 2 'William Floyd, Democrat'",0.95
 SC,Anderson Independent Mail,143070,1994,CNTY COMM,3,Anderson County Council,SC,"ROACH, BRIAN",Republican,1,,1,,"Anderson County Council District 3 'Brian Roach, Republican'",0.95
 SC,Anderson Independent Mail,143070,1994,CNTY COMM,5,Anderson County Council,SC,"HOLDEN, MIKE",Democrat,1,1,,,"District 5 'Mike Holden, Democrat'",0.95
-SC,Anderson Independent Mail,143070,1994,JUDGE,,Probate Judge,SC,"NEWTON, MARTHA",Democrat,1,,,,"Probate Judge 'Martha Newton, Democrat'",0.95
+SC,Anderson Independent Mail,143070,1994,JUDGE,,PROBATE JUDGE ANDERSON COUNTY,SC,"NEWTON, MARTHA",Democrat,1,,,,"Probate Judge 'Martha Newton, Democrat'; DNAME ENRICHED PER 1994-NOV-08 RECAP",0.95
 SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,1 Area 1,School Trustees District 1,SC,"FOWLER, GARY",Nonpartisan,1,,,,"School Trustees District 1, Area 1 'Gary Fowler'",0.95
 SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,1 Area 2,School Trustees District 1,SC,"ALEXANDER, FRED",Nonpartisan,1,,,,"School Trustees District 1, Area 2 'Fred Alexander'",0.95
 SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,1 Area 3,School Trustees District 1,SC,"WILLIAMS, NADINE G",Nonpartisan,1,,,,"School Trustees District 1, Area 3 'Nadine G. Williams'",0.95
@@ -167,13 +167,13 @@ SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,3 At-large,School Trustees
 SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,3 Area 1,School Trustees District 3,SC,"MCCULLOUGH, DEIRDRE",Nonpartisan,1,,,,"School Trustees District 3, Area 1 'Deirdre McCullough'",0.95
 SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,3 Area 4,School Trustees District 3,SC,"PHILLIPS, RITA",Nonpartisan,1,,,,"School Trustees District 3, Area 4 'Rita Phillips'",0.95
 SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,5 Area 2,School Trustees District 5,SC,"LEWIS, BEVERLYN",Nonpartisan,1,,,,"School Trustees District 5, Area 2 'Beverlyn Lewis'",0.95
-SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,5 Area 3,School Trustees District 5,SC,"NORRIS, AL",Nonpartisan,1,,,,"School Trustees District 5, Area 3 'Al Norris'",0.95
+SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,5 Area 5,School Trustees District 5,SC,"NORRIS, AL",Nonpartisan,1,,,,"School Trustees District 5, Area 3 'Al Norris'; DIST FIX Area 3→Area 5 PER 1994-NOV-08 RECAP",0.95
 SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,5 Area 6,School Trustees District 5,SC,"DRAKE, SCOTT",Nonpartisan,1,,,,"School Trustees District 5, Area 6 'Scott Drake'",0.95
 SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,4,County Board of Education District 4,SC,"FLETCHER, MARLENE",Nonpartisan,1,,,,County Board of Education District 4 'Marlene Fletcher',0.95
 SC,Anderson Independent Mail,143070,1994,SCHOOL BOARD,5 Area 4,County Board of Education District 5,SC,"MCCLAIN, MARLENE",Nonpartisan,1,,,,"County Board of Education District 5, Area 4 'Marlene McClain'",0.95
 SC,Anderson Independent Mail,143070,1996,PRESIDENT,,,SC,"CLINTON, BILL",Democrat,1,1,,,President 'Bill Clinton-D',0.95
-SC,Anderson Independent Mail,143070,1996,SENATOR,,,SC,"CLOSE, ELLIOTT",Democrat,1,,1,,U.S. Senate 'Elliott Close-D'; challenger to incumbent Republican Strom Thurmond,0.95
-SC,Anderson Independent Mail,143070,1996,H,3,,SC,"DORN, DEBBIE",Democrat,1,,1,,U.S. House District 3 'Debbie Dorn-D',0.95
+SC,Anderson Independent Mail,143070,1996,SENATOR,,,SC,"CLOSE, ELLIOTT",Democrat,1,1,,,U.S. Senate 'Elliott Close-D'; challenger to incumbent Republican Strom Thurmond Pattern K systematic fix: incumbency flag was on wrong party side.,0.95
+SC,Anderson Independent Mail,143070,1996,H,3,,SC,"DORN, DEBBIE",Democrat,1,1,,,U.S. House District 3 'Debbie Dorn-D' Pattern K systematic fix: incumbency flag was on wrong party side.,0.95
 SC,Anderson Independent Mail,143070,1996,STATE SENATOR,1,,SC,"ALEXANDER, THOMAS",Republican,1,,1,,"State Senate, District 1 'Thomas Alexander-R'",0.95
 SC,Anderson Independent Mail,143070,1996,STATE SENATOR,3,,SC,"WALDREP, BOB",Republican,1,,,,"State Senate, District 3 'Bob Waldrep-R'",0.95
 SC,Anderson Independent Mail,143070,1996,STATE SENATOR,4,,SC,"O'DELL, W.H. BILLY",Democrat,1,1,,,"State Senate, District 4 'W.H. Billy O'Dell-D'",0.95
@@ -197,14 +197,14 @@ SC,Anderson Independent Mail,143070,1996,SCHOOL BOARD,5 Area 5,Anderson School D
 SC,Anderson Independent Mail,143070,1996,SCHOOL BOARD,5 Area 7,Anderson School District 5,SC,"GLAESCHENZER, DIES",Nonpartisan,1,,,,"Anderson School District 5, Area 7 'Dies Glaeschenzer'",0.8
 SC,Anderson Independent Mail,143070,1996,SCHOOL BOARD,5 At-large,Anderson School District 5,SC,"SMITH, LINDA",Nonpartisan,1,,,,"Anderson School District 5, At-large seat 'Linda Smith'",0.95
 SC,Anderson Independent Mail,143070,1998,SENATOR,,,SC,"HOLLINGS, FRITZ",Democrat,1,1,,,"U.S. Senate 'Fritz Hollings, Democrat'",0.95
-SC,Anderson Independent Mail,143070,1998,GOVERNOR,,,SC,"HODGES, JIM",Democrat,1,,1,,"Governor 'Jim Hodges, Democrat'",0.95
+SC,Anderson Independent Mail,143070,1998,GOVERNOR,,,SC,"HODGES, JIM",Democrat,1,1,,,"Governor 'Jim Hodges, Democrat' Pattern K systematic fix: incumbency flag was on wrong party side.",0.95
 SC,Anderson Independent Mail,143070,1998,LT GOVERNOR,,,SC,"PEELER, BOB",Republican,1,,1,,"Lieutenant Governor 'Bob Peeler, Republican'",0.95
 SC,Anderson Independent Mail,143070,1998,TREASURER,,,SC,"ECKSTROM, RICHARD",Republican,1,,,,"State Treasurer 'Richard Eckstrom, Republican'",0.95
 SC,Anderson Independent Mail,143070,1998,COMPTROLLER,,,SC,"COURSON, JOHN",Republican,1,,,,"State Comptroller 'John Courson, Republican'",0.95
 SC,Anderson Independent Mail,143070,1998,SUPERINTENDENT,,,SC,"TENENBAUM, INEZ",Democrat,1,,,,"State Education Superintendent 'Inez Tenenbaum, Democrat'",0.95
-SC,Anderson Independent Mail,143070,1998,ATTORNEY GENERAL,,,SC,"TURNIPSEED, TOM",Democrat,1,,1,,"State Attorney General 'Tom Turnipseed, Democrat'",0.95
-SC,Anderson Independent Mail,143070,1998,SEC OF STATE,,,SC,"MILES, JIM",Republican,1,1,,,"Secretary of State 'Jim Miles, Republican'",0.95
-SC,Anderson Independent Mail,143070,1998,ADJUTANT GENERAL,,,SC,"SPEARS, STAN",Republican,1,1,,,"Adjutant General 'Stan Spears, Republican'",0.95
+SC,Anderson Independent Mail,143070,1998,ATTORNEY GENERAL,,,SC,"TURNIPSEED, TOM",Democrat,1,1,,,"State Attorney General 'Tom Turnipseed, Democrat' Pattern K systematic fix: incumbency flag was on wrong party side.",0.95
+SC,Anderson Independent Mail,143070,1998,SEC OF STATE,,,SC,"MILES, JIM",Republican,1,,1,,"Secretary of State 'Jim Miles, Republican' Pattern K systematic fix: incumbency flag was on wrong party side.",0.95
+SC,Anderson Independent Mail,143070,1998,ADJUTANT GENERAL,,,SC,"SPEARS, STAN",Republican,1,,1,,"Adjutant General 'Stan Spears, Republican' Pattern K systematic fix: incumbency flag was on wrong party side.",0.95
 SC,Anderson Independent Mail,143070,1998,STATE REP,6,,SC,"ALLEN, CHUCK",Democrat,1,1,,,"State House District 6 'Chuck Allen, Democrat'",0.95
 SC,Anderson Independent Mail,143070,1998,STATE REP,8,,SC,"MARTIN, BECKY",Republican,1,,,,"State House District 8 'Becky Martin, Republican'",0.95
 SC,Anderson Independent Mail,143070,1998,STATE REP,9,,SC,"MADDOX, CORDELL",Democrat,1,,,,"State House District 9 'Cordell Maddox, Democrat'",0.95
@@ -225,7 +225,7 @@ SC,Anderson Independent Mail,143070,2000,PRESIDENT,,,SC,"BUSH, GEORGE",Republica
 SC,Anderson Independent Mail,143070,2000,H,3,,SC,"GRAHAM, LINDSEY",Republican,1,,1,,U.S. House District 3 'Lindsey Graham-R',0.95
 SC,Anderson Independent Mail,143070,2000,STATE SENATOR,4,,SC,"O'DELL, BILLY",Democrat,1,1,,,State Senate District 4 'Billy O'Dell-D',0.95
 SC,Anderson Independent Mail,143070,2000,STATE REP,6,,SC,"ALLEN, CHUCK",Democrat,1,1,,,State House District 6 'Chuck Allen-D',0.95
-SC,Anderson Independent Mail,143070,2000,STATE REP,8,,SC,"MARTIN, BECKY",Republican,1,1,,,State House District 8 'Becky Martin-R',0.95
+SC,Anderson Independent Mail,143070,2000,STATE REP,8,,SC,"MARTIN, BECKY",Republican,1,,1,,State House District 8 'Becky Martin-R' Pattern K systematic fix: incumbency flag was on wrong party side.,0.95
 SC,Anderson Independent Mail,143070,2000,STATE REP,9,,SC,"MADDOX, CORDELL",Democrat,1,1,,,State House District 9 'Cordell Maddox-D',0.95
 SC,Anderson Independent Mail,143070,2000,SHERIFF,,Anderson County,SC,"TAYLOR, GENE",Republican,1,,1,,Anderson County Sheriff 'Gene Taylor-R',0.95
 SC,Anderson Independent Mail,143070,2000,AUDITOR,,Anderson County,SC,"BROCK, ANNA MARIE",Democrat,1,,,,Anderson County Auditor 'Anna Marie Brock-D',0.95
@@ -242,19 +242,19 @@ SC,Anderson Independent Mail,143070,2000,SCHOOL BOARD,5 Area 2,Anderson School D
 SC,Anderson Independent Mail,143070,2000,SCHOOL BOARD,1,Anderson County Board of Education,SC,"SEABORN, GEORGE",Nonpartisan,1,,,,"Anderson County Board of Education, District 1 'George Seaborn'",0.95
 SC,Anderson Independent Mail,143070,2000,SCHOOL BOARD,5 Area,Anderson County Board of Education,SC,"KAY, BARBARA REID",Nonpartisan,1,,,,"Anderson County Board of Education, District 5, Area 'Barbara Reid Kay'",0.95
 SC,Anderson Independent Mail,143070,2002,GOVERNOR,,,SC,"HODGES, JIM",Democrat,1,1,,,Governor 'Jim Hodges' (Democratic incumbent),0.95
-SC,Anderson Independent Mail,143070,2002,SENATOR,,,SC,"GRAHAM, LINDSEY",Republican,1,1,,,U.S. Senate 'Lindsey Graham' (open seat following Thurmond retirement),0.95
+SC,Anderson Independent Mail,143070,2002,SENATOR,,,SC,"GRAHAM, LINDSEY",Republican,1,,1,,U.S. Senate 'Lindsey Graham' (open seat following Thurmond retirement) Pattern K systematic fix: incumbency flag was on wrong party side.,0.95
 SC,Anderson Independent Mail,143070,2002,H,3,,SC,"BARRETT, GRESHAM",Republican,1,,,,"U.S. Congress, Third District 'Gresham Barrett'",0.95
 SC,Anderson Independent Mail,143070,2002,LT GOVERNOR,,,SC,"LEVENTIS, PHIL",Democrat,1,,,,Lt. Governor 'Phil Leventis',0.95
-SC,Anderson Independent Mail,143070,2002,ATTORNEY GENERAL,,,SC,"BENJAMIN, STEVE",Democrat,1,,1,,Attorney General 'Steve Benjamin',0.95
-SC,Anderson Independent Mail,143070,2002,COMPTROLLER,,,SC,"LANDER, JIM",Democrat,1,,1,,Comptroller 'Jim Lander',0.95
+SC,Anderson Independent Mail,143070,2002,ATTORNEY GENERAL,,,SC,"BENJAMIN, STEVE",Democrat,1,1,,,Attorney General 'Steve Benjamin' Pattern K systematic fix: incumbency flag was on wrong party side.,0.95
+SC,Anderson Independent Mail,143070,2002,COMPTROLLER,,,SC,"LANDER, JIM",Democrat,1,1,,,Comptroller 'Jim Lander' Pattern K systematic fix: incumbency flag was on wrong party side.,0.95
 SC,Anderson Independent Mail,143070,2002,SEC OF STATE,,,SC,"HAMMOND, MARK",Republican,1,,,,Secretary of State 'Mark Hammond',0.95
 SC,Anderson Independent Mail,143070,2002,TREASURER,,,SC,"PATTERSON, GRADY",Democrat,1,1,,,Treasurer 'Grady Patterson',0.95
 SC,Anderson Independent Mail,143070,2002,SUPERINTENDENT,,,SC,"TENENBAUM, INEZ",Democrat,1,1,,,State Superintendent of Education 'Inez Tenenbaum',0.95
 SC,Anderson Independent Mail,143070,2002,AGRICULTURE COMMISSIONER,,,SC,"LONG, JOHN",Democrat,1,,,,Commissioner of Agriculture 'John Long',0.8
 SC,Anderson Independent Mail,143070,2002,STATE REP,6,,SC,"ALLEN, CHUCK",Democrat,1,1,,,South Carolina House District 6 'Chuck Allen',0.95
-SC,Anderson Independent Mail,143070,2002,STATE REP,7,,SC,"TOWNSEND, RONNY",Republican,1,1,,,South Carolina House District 7 'Ronny Townsend',0.8
+SC,Anderson Independent Mail,143070,2002,STATE REP,7,,SC,"TOWNSEND, RONNY",Republican,1,,1,,South Carolina House District 7 'Ronny Townsend' Pattern K systematic fix: incumbency flag was on wrong party side.,0.8
 SC,Anderson Independent Mail,143070,2002,STATE REP,11,,SC,"WALLER, JOHNNIE",,1,,,,South Carolina House District 11 'Johnnie Waller',0.8
-SC,Anderson Independent Mail,143070,2002,CNTY COMM,3,Anderson County Council,SC,"GREER, LARRY",Republican,1,1,,,"Anderson County Council, District 3 'Larry Greer'",0.95
+SC,Anderson Independent Mail,143070,2002,CNTY COMM,3,Anderson County Council,SC,"GREER, LARRY",Republican,1,,1,,"Anderson County Council, District 3 'Larry Greer' Pattern K systematic fix: incumbency flag was on wrong party side.",0.95
 SC,Anderson Independent Mail,143070,2002,CNTY COMM,5,Anderson County Council,SC,"HOLDEN, MIKE",Democrat,1,1,,,"Anderson County Council, District 5 'Mike Holden'",0.95
 SC,Anderson Independent Mail,143070,2002,CNTY COMM,7,Anderson County Council,SC,"PARKER, T. CARROLL",,1,,1,,"Anderson County Council, District 7 'T. Carroll Parker'",0.8
 SC,Anderson Independent Mail,143070,2002,SCHOOL BOARD,1 Area 1,Anderson School District 1,SC,"MARTIN, DALE",Nonpartisan,1,,,,"Anderson School District 1, Area 1 'Dale Martin'",0.95
@@ -272,20 +272,20 @@ SC,Anderson Independent Mail,143070,2002,SCHOOL BOARD,1,Anderson County Board of
 SC,Anderson Independent Mail,143070,2002,SCHOOL BOARD,4,Anderson County Board of Education,SC,"MCCLAIN, MARLENE",Nonpartisan,1,,,,Anderson County Board of Education District 4 'Marlene McClain',0.95
 SC,Anderson Independent Mail,143070,2002,SCHOOL BOARD,5,Anderson County Board of Education,SC,"BROCK, MIKE",Nonpartisan,1,,,,Anderson County Board of Education District 5 'Mike Brock',0.95
 SC,Anderson Independent Mail,143070,2002,SCHOOL BOARD,6,Anderson County Board of Education,SC,"MCGEE, SHAWN",Nonpartisan,1,,,,Anderson County Board of Education District 6 'Shawn McGee',0.95
-SC,Anderson Independent Mail,143070,2004,PRESIDENT,,,SC,"KERRY, JOHN",Democrat,1,,1,,President of the United States: 'John Kerry',0.95
+SC,Anderson Independent Mail,143070,2004,PRESIDENT,,,SC,"KERRY, JOHN",Democrat,1,1,,,President of the United States: 'John Kerry' Pattern K systematic fix: incumbency flag was on wrong party side.,0.95
 SC,Anderson Independent Mail,143070,2004,SENATOR,,,SC,"TENENBAUM, INEZ",Democrat,1,,,,U.S. Senate 'Inez Tenenbaum' (open seat after Hollings retirement),0.95
 SC,Anderson Independent Mail,143070,2004,STATE SENATOR,3,,SC,"MULLINAX, MIKE",,1,,,,"South Carolina Senate, District 3 'Mike Mullinax'",0.8
 SC,Anderson Independent Mail,143070,2004,STATE SENATOR,4,,SC,"O'DELL, BILLY",Democrat,1,1,,,S.C. Senate District 4 'Billy O'Dell',0.95
-SC,Anderson Independent Mail,143070,2004,STATE REP,8,,SC,"MARTIN, BECKY",Republican,1,1,,,S.C. House District 8 'Becky Martin',0.95
+SC,Anderson Independent Mail,143070,2004,STATE REP,8,,SC,"MARTIN, BECKY",Republican,1,,1,,S.C. House District 8 'Becky Martin' Pattern K systematic fix: incumbency flag was on wrong party side.,0.95
 SC,Anderson Independent Mail,143070,2004,STATE REP,9,,SC,"THOMPSON, MICHAEL D",,1,,,,S.C. House District 9 'Michael D. Thompson',0.8
 SC,Anderson Independent Mail,143070,2004,STATE REP,11,,SC,"AGNEW, PAUL",,1,,,,S.C. House District 11 'Paul Agnew',0.8
 SC,Anderson Independent Mail,143070,2004,SHERIFF,,Anderson County,SC,"APPELL, BOB",,1,,,,Anderson County Sheriff 'Bob Appell',0.8
 SC,Anderson Independent Mail,143070,2004,AUDITOR,,Anderson County,SC,"BROCK, ANNA MARIE",Democrat,1,1,,,Anderson County Auditor 'Anna Marie Brock',0.95
 SC,Anderson Independent Mail,143070,2004,CNTY CLERK,,Anderson County Clerk of Court,SC,"PHILLIPS, CATHY",Democrat,1,1,,,Anderson County Clerk of Court 'Cathy Phillips',0.95
 SC,Anderson Independent Mail,143070,2004,CNTY COMM,5,Anderson County Council,SC,"BRATCHER, MIRIAM",,1,,,,"Anderson County Council, District 5 'Miriam Bratcher'",0.8
-SC,Anderson Independent Mail,143070,2004,MAYOR,,Williamston,SC,"CLARDY, PHILLIP",Nonpartisan,1,,,,Williamston Municipal Races 'Phillip Clardy for mayor',0.95
-SC,Anderson Independent Mail,143070,2004,CITY COUNCIL,,Williamston,SC,"HARVELL, DAVID",Nonpartisan,1,,,,Williamston Municipal Races 'David Harvell and Pam Owens for council',0.95
-SC,Anderson Independent Mail,143070,2004,CITY COUNCIL,,Williamston,SC,"OWENS, PAM",Nonpartisan,1,,,,Williamston Municipal Races 'David Harvell and Pam Owens for council',0.95
+SC,Anderson Independent Mail,143070,2004,MAYOR,,WILLIAMSTON,SC,"CLARDY, PHILLIP",Nonpartisan,1,,,,Williamston Municipal Races 'Phillip Clardy for mayor'; DNAME ENRICHED PER 2004-NOV-02 RECAP,0.95
+SC,Anderson Independent Mail,143070,2004,CITY COUNCIL,,WILLIAMSTON,SC,"HARVELL, DAVID",Nonpartisan,1,,,,Williamston Municipal Races 'David Harvell and Pam Owens for council'; DNAME ENRICHED PER 2004-NOV-02 RECAP,0.95
+SC,Anderson Independent Mail,143070,2004,CITY COUNCIL,,WILLIAMSTON,SC,"OWENS, PAM",Nonpartisan,1,,,,Williamston Municipal Races 'David Harvell and Pam Owens for council'; DNAME ENRICHED PER 2004-NOV-02 RECAP,0.95
 SC,Anderson Independent Mail,143070,2004,SCHOOL BOARD,3 Area 2,Anderson County Schools District 3,SC,"HERRON, ROY",Nonpartisan,1,,,,"Anderson County Schools, District 3, Area 2 'Roy Herron'",0.95
 SC,Anderson Independent Mail,143070,2004,SCHOOL BOARD,3 Area 3,Anderson County Schools District 3,SC,"DAVIS, DANNY",Nonpartisan,1,,,,"Anderson County Schools, District 3, Area 3 'Danny Davis'",0.95
 SC,Anderson Independent Mail,143070,2004,SCHOOL BOARD,5 Area 1,Anderson School District 5,SC,"HUITT, ANN",Nonpartisan,1,,,,"Anderson School District 5, Area 1 'Ann Huitt'",0.95

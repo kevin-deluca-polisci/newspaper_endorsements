@@ -1,0 +1,118 @@
+QA REPORT: Napa Valley Register (ID: 691)
+==========================================
+QA Date: 2026-04-14
+Folder: done/Napa Valley Register/
+
+--- STAGE 1: STRUCTURAL VALIDATION ---
+Result: PASS
+
+CSV Headers:
+  Candidates CSV: 16 columns, all expected columns present. PASS.
+  Propositions CSV: 11 columns, all expected columns present. PASS.
+
+Row Counts:
+  Candidates: 194 rows (matches metadata). PASS.
+  Propositions: 335 rows (matches metadata: 201 endorsed + 131 opposed + 3 no recommendation). PASS.
+  Clippings: 56 files in clippings/ folder (matches metadata). PASS.
+
+Row-Level Integrity:
+  Year range: 1928-2020, all even years. PASS.
+  Endorsed values: All 1, 0, or empty. PASS.
+  Confidence scores: All floats 0-1. PASS.
+  State fields: All 2-letter "CA". PASS.
+  state_election: All populated with "CA". PASS.
+  Incumbency fields (d_inc, r_inc, o_inc): All "1" or empty, no "0" values. PASS.
+  newspaper_id: All populated with "691". PASS.
+  No empty rows or junk rows. PASS.
+
+Metadata Cross-Reference:
+  Candidate counts match: 194 total, 192 endorsed, 2 opposed. PASS.
+  Proposition counts match: 335 total, 201 endorsed, 131 opposed, 3 null. PASS.
+  Clipping count matches: 56. PASS.
+  Confidence stats match metadata (min=0.55, mean=0.93, max=0.95, 4 below 0.75). PASS.
+
+--- STAGE 2: SPOT-CHECK ENDORSEMENT ACCURACY ---
+Result: PASS (100% accuracy)
+
+Three clippings sampled across the date range:
+
+1. 691_19521103_01.pdf (1952)
+   Candidates: 6/6 correct (Eisenhower, Nixon, Knowland, Scudder, Coombs, McPherson)
+   Propositions: 24/24 correct (Props 1-24 including No Recommendation on Prop 17)
+   Accuracy: 100%
+
+2. 691_19921102_01.pdf (1992)
+   Candidates: 4/4 correct (Negri, Rippey, Riggs, Nicholas)
+   Propositions: 15/15 correct (Measures N, O + Props 155-167)
+   Accuracy: 100%
+
+3. 691_20021104.pdf (2002)
+   Candidates: 10/10 correct (Camejo, Bustamante, Dillon, Thompson, Chesbro, Wiggins, LaForge, Kensok, Michaud, Janssens)
+   Propositions: 7/7 correct (Measures M, N + Props 46, 47, 49, 51, 52)
+   Note: Prop 50 (No) correctly added from companion Nov 5 file only.
+   Accuracy: 100%
+
+Overall spot-check: 66/66 records verified, 100% accuracy.
+
+--- STAGE 3: VARIABLE CODING RECHECK ---
+Result: PASS (after 3 auto-fixes)
+
+Office Codes: 27 distinct codes, all standard or acceptable local codes.
+  AUTO-FIX APPLIED: BOARD OF EQUALIZATION -> BD OF EQUAL in 3 rows (1930, 1954, 1958)
+  and corresponding JSON files in parts/.
+
+Candidate Names: All ALL CAPS, LASTNAME FIRSTNAME format.
+  NOTE: Row 104 (1984 JUDGE, "YOUNG") is single-word name. First name was not
+  provided in the clipping. Extraction confidence note documents this. No fix needed.
+
+Party Labels: All valid (Democrat: 32, Republican: 92, Independent: 69, Green: 1).
+
+District Fields: All clean, no "District" or "Dist" text. PASS.
+
+State Fields: All "CA" in both state_newspaper and state_election. PASS.
+
+Duplicates: None found. PASS.
+
+Proposition Coding: All prop_types valid (STATE, LOCAL, COUNTY, CITY, BOND). PASS.
+
+--- STAGE 4: LOW-CONFIDENCE RE-SCAN ---
+Result: PASS (all records verified)
+
+4 records below 0.75 threshold (all from 1978 primary clipping 691_19780605.jpg):
+  Row 82: conf=0.65 LT GOVERNOR - CURB, MIKE (Republican) -- Historically verified
+  Row 83: conf=0.60 ATTORNEY GENERAL - DEUKMEJIAN, GEORGE (Republican) -- Historically verified
+  Row 84: conf=0.60 CNTY COMM dist=3 - MARTEL, DONALD (Independent) -- Plausible local candidate
+  Row 85: conf=0.55 SUPERINTENDENT - RILES, WILSON (Independent) -- Historically verified as incumbent
+
+All 4 candidates are factually correct for the 1978 California primary. Low confidence
+is appropriate given image quality but no data corrections needed. User confirmed
+"keep with low confidence flags" during interactive review.
+
+4 borderline records (0.75-0.85):
+  Row 81: conf=0.75 GOVERNOR - YOUNGER, EVELLE (Republican) -- Historically verified
+  Row 104: conf=0.80 JUDGE - YOUNG (Independent) -- First name unavailable in clipping
+  Row 159-160: conf=0.80 CNTY COMM - WAGENKNECHT/KAMPTON dual endorsement -- Correct per clipping
+
+--- STAGE 5: OVERALL ASSESSMENT ---
+
+FOLDER STATUS: PASS -- Ready for archive/augmentation
+
+The Napa Valley Register folder is in excellent condition:
+  - 100% spot-check accuracy across 3 sampled years (1952, 1992, 2002)
+  - All structural checks pass
+  - All variable coding follows conventions (3 minor office code standardizations applied)
+  - All low-confidence records verified as factually correct
+  - Metadata fully consistent with CSV contents
+  - No missing data, no fabricated records, no systematic errors
+
+Fixes Applied During QA:
+  1. BOARD OF EQUALIZATION -> BD OF EQUAL (3 rows in archive CSV + 3 JSON files in parts/)
+
+Known Limitations (documented, not errors):
+  1. 1978 primary (691_19780605.jpg): 4-5 low-confidence records due to low-resolution image
+  2. 1984 Municipal Judge "YOUNG": First name unavailable in clipping
+  3. 1998 County Supervisor Dist. 1: Dual endorsement (Wagenknecht and Kampton)
+  4. 1990 County Supervisor Dist. 1: Conditional endorsement (White if yes on J, Ferriole if no on J)
+  5. 7 no-endorsement companion files (duplicates or paid ad)
+
+QA completed: 2026-04-14

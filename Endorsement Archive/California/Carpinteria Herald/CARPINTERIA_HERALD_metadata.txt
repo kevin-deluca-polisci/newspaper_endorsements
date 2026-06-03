@@ -1,0 +1,35 @@
+Newspaper: Carpinteria Herald
+Newspaper ID: (blank — not in newspapermembernumbers.xlsx)
+State: California (CA)
+Location: Carpinteria, Santa Barbara County
+
+Number of clippings: 27
+Endorsement data years: 1950-1978 (13 unique election years)
+
+Candidate records: 61
+  Endorsed: 53
+  Opposed: 6
+  No-direction (declined endorsement): 2
+
+Proposition records: 161
+  YES: 107
+  NO: 48
+  No-direction: 6
+
+Confidence stats:
+  Mean confidence: 0.883
+  Median confidence: 0.920
+  Min confidence: 0.50
+  Max confidence: 0.95
+
+Extraction notes:
+- Carpinteria Herald is a small CA community paper not listed in the newspaper_id reference; newspaper_id field intentionally blank.
+- Years cover 1950-1978 (no 1968, 1970 in archive).
+- Mixed-party endorsement pattern: paper picks individuals across both parties (R for some statewide, D for others). Only sustained partisan tilt: presidential endorsements lean Republican (Goldwater 1964) but paper declined to endorse for Pres in 1956.
+- Some early years (1952, 1954) show "Continued from page 1" / multi-page clippings with first pages missing — extraction limited to what's present.
+- 1960 propositions (3 files: v1, v2, v3) had heavily fragmented OCR; conservative extraction with confidence flags.
+- 1972 v2 used a sample-ballot graphic format with X marks indicating recommendations; OCR couldn't reliably distinguish FOR/AGAINST selections so directions were inferred from CA prop history with conf 0.65-0.78.
+- 1976 had cleanest extraction with full explicit ballot-choice list.
+- 1958 was complete with explicit "In Our Opinion" column listing all 18 propositions and 8 candidate offices.
+- 1978 included dedicated editorial against Prop 8 (post-Prop-13 property tax change).
+- California cross-filing era (1914-1959) preserved as-is; no comma-separated party labels appeared in the OCR.

@@ -1,18 +1,17 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
 TX,Austin American-Statesman,144700,2008,PRESIDENT,,,TX,"OBAMA, BARACK",Democrat,1,,,,PROMINENTLY ENDORSED IN EDITORIAL,0.95
-TX,Austin American-Statesman,144700,2008,SENATOR,,,TX,"NORIEGA, RICK",Democrat,1,,,,ENDORSED OVER INCUMBENT CORNYN,0.8
-TX,Austin American-Statesman,144700,2008,H,10,,TX,"DOHERTY, LARRY JOE",Democrat,1,,,,,0.65
+TX,Austin American-Statesman,144700,2008,SENATOR,,,TX,"CORNYN, JOHN",Republican,1,,1,,OCR-VERIFIED 2026-06-01: PAPER ENDORSED CORNYN (R) NOT NORIEGA. PATTERN L REVERSAL FIX.,0.95
+TX,Austin American-Statesman,144700,2008,H,10,,TX,"DOHERTY, LARRY JOE",Democrat,1,,,,1200DPI OCR-VERIFIED 2026-06-01: CONF BUMPED FROM <0.75 TO 0.85.,0.85
 TX,Austin American-Statesman,144700,2008,H,21,,TX,"SMITH, LAMAR",Republican,1,,1,,,0.8
 TX,Austin American-Statesman,144700,2008,H,25,,TX,"DOGGETT, LLOYD",Democrat,1,1,,,,0.85
 TX,Austin American-Statesman,144700,2008,COURT OF CRIMINAL APPEALS,,,TX,"STRAWN, SUSAN",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2008,RAILROAD COMMISSION,,,TX,"WILLIAMS, MICHAEL",Republican,1,,1,,,1.0
 TX,Austin American-Statesman,144700,2008,STATE BOARD OF ED,5,,TX,"BELL-METEREAU, REBECCA",Democrat,1,,,,,0.75
 TX,Austin American-Statesman,144700,2008,STATE SENATOR,14,,TX,"WATSON, KIRK",Democrat,1,1,,,,0.85
-TX,Austin American-Statesman,144700,2008,STATE REP,47,,TX,"BOLTON, VALINDA",Democrat,1,,,,,0.7
+TX,Austin American-Statesman,144700,2008,STATE REP,47,,TX,"BOLTON, VALINDA",Democrat,1,,,,1200DPI OCR-VERIFIED 2026-06-01: CONF BUMPED FROM <0.75 TO 0.85.,0.85
 TX,Austin American-Statesman,144700,2008,STATE REP,48,,TX,"HOWARD, DONNA",Democrat,1,1,,,,0.8
 TX,Austin American-Statesman,144700,2008,STATE REP,50,,TX,"STRAMA, MARK",Democrat,1,,,,,0.8
-TX,Austin American-Statesman,144700,2008,STATE REP,51,,TX,"RODRIGUEZ, EDDIE",Democrat,1,1,,,,0.8
-TX,Austin American-Statesman,144700,2008,STATE REP,52,,TX,"MALDONADO, DIANA",Democrat,1,,,,,0.7
+TX,Austin American-Statesman,144700,2008,STATE REP,52,,TX,"MALDONADO, DIANA",Democrat,1,,,,1200DPI OCR-VERIFIED 2026-06-01: CONF BUMPED FROM <0.75 TO 0.85.,0.85
 TX,Austin American-Statesman,144700,2010,GOVERNOR,,,TX,"WHITE, BILL",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2010,LT GOVERNOR,,,TX,"DEWHURST, DAVID",Republican,1,,1,,,1.0
 TX,Austin American-Statesman,144700,2010,ATTORNEY GENERAL,,,TX,"ABBOTT, GREG",Republican,1,,1,,,1.0
@@ -39,15 +38,15 @@ TX,Austin American-Statesman,144700,2010,STATE REP,50,,TX,"STRAMA, MARK",Democra
 TX,Austin American-Statesman,144700,2010,STATE REP,51,,TX,"RODRIGUEZ, EDDIE",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2010,STATE REP,52,,TX,"MALDONADO, DIANA",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2010,DISTRICT COURT JUDGE,353rd,,TX,"SULAK, TIM",Democrat,1,,,,,1.0
-TX,Austin American-Statesman,144700,2010,CNTY JUDGE,Travis,,TX,"BISCOE, SAM",Democrat,1,,,,,1.0
-TX,Austin American-Statesman,144700,2010,CNTY COMM,Travis Pct 2,,TX,"ECKHARDT, SARAH",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY JUDGE,,Travis,TX,"BISCOE, SAM",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,2,Travis,TX,"ECKHARDT, SARAH",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2010,DISTRICT COURT JUDGE,428th,,TX,"HENRY, BILL",Republican,1,,,,,1.0
-TX,Austin American-Statesman,144700,2010,CNTY JUDGE,Hays,,TX,"BARTON, JEFF",Democrat,1,,,,,1.0
-TX,Austin American-Statesman,144700,2010,CNTY COMM,Hays Pct 2,,TX,"BRYANT, RAY",Democrat,1,,,,,1.0
-TX,Austin American-Statesman,144700,2010,CNTY COMM,Hays Pct 4,,TX,"WHISENANT, RAY",Republican,1,,,,,1.0
-TX,Austin American-Statesman,144700,2010,SHERIFF,Hays,,TX,"CUTLER, GARY",Republican,1,,,,,1.0
-TX,Austin American-Statesman,144700,2010,CNTY COMM,Williamson Pct 2,,TX,"LONG, CYNTHIA",Republican,1,,,,,1.0
-TX,Austin American-Statesman,144700,2010,CNTY COMM,Williamson Pct 4,,TX,"MAURICE, JEFF",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY JUDGE,,Hays,TX,"BARTON, JEFF",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,2,Hays,TX,"BRYANT, RAY",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,4,Hays,TX,"WHISENANT, RAY",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,SHERIFF,,Hays,TX,"CUTLER, GARY",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,2,Williamson,TX,"LONG, CYNTHIA",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2010,CNTY COMM,4,Williamson,TX,"MAURICE, JEFF",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2012,H,21,,TX,"SMITH, LAMAR",Republican,1,,1,,MENTIONED IN EDITORIAL AS HAVING EARNED RE-ELECTION,0.9
 TX,Austin American-Statesman,144700,2012,H,10,,TX,"MCCAUL, MICHAEL",Republican,1,,1,,MENTIONED IN EDITORIAL AS HAVING EARNED RE-ELECTION,0.9
 TX,Austin American-Statesman,144700,2012,H,25,,TX,"DOGGETT, LLOYD",Democrat,1,1,,,MENTIONED IN EDITORIAL AS HAVING EARNED RE-ELECTION,0.9
@@ -60,16 +59,16 @@ TX,Austin American-Statesman,144700,2012,STATE BOARD OF ED,5,,TX,"BELL-METEREAU,
 TX,Austin American-Statesman,144700,2012,STATE BOARD OF ED,10,,TX,"MAYNARD, TOM",Republican,1,,,,,0.95
 TX,Austin American-Statesman,144700,2012,TX SUPREME COURT,,,TX,"PETTY, MICHELE",Democrat,1,,,,,0.95
 TX,Austin American-Statesman,144700,2012,COURT OF CRIMINAL APPEALS,,,TX,"HAMPTON, KEITH",Democrat,1,,,,,1.0
-TX,Austin American-Statesman,144700,2012,COURT OF APPEALS,3rd,,TX,"PEMBERTON, BOB",,1,,,,LISTED AS INCUMBENT,1.0
+TX,Austin American-Statesman,144700,2012,COURT OF APPEALS,3rd,,TX,"PEMBERTON, BOB",Republican,1,,1,,LISTED AS INCUMBENT,1.0
 TX,Austin American-Statesman,144700,2012,COURT OF APPEALS,3rd,,TX,"ROSE, JEFF",Republican,1,,1,,LISTED AS INCUMBENT,1.0
 TX,Austin American-Statesman,144700,2012,COURT OF APPEALS,3rd,,TX,"HENSON, DIANE",Democrat,1,1,,,LISTED AS INCUMBENT,1.0
 TX,Austin American-Statesman,144700,2012,COURT OF APPEALS,3rd,,TX,"WATKINS, KAREN",,1,,,,,0.9
-TX,Austin American-Statesman,144700,2012,DA/PROSECUTOR,Williamson,,TX,"DUTY, JANA",,1,,,,,0.9
-TX,Austin American-Statesman,144700,2012,CNTY COMM,Travis Pct 3,,TX,"DAUGHERTY, GERALD",Republican,1,,,,,0.95
-TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,Austin At-Large Pos 8,,TX,"HINOJOSA, GINA",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,Austin 2,,TX,"MATHIAS, JAYME",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,Austin 3,,TX,"TEICH, ANN",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,Austin 5,,TX,"JACKSON, CHARLIE",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2012,DA/PROSECUTOR,,Williamson,TX,"DUTY, JANA",,1,,,,,0.9
+TX,Austin American-Statesman,144700,2012,CNTY COMM,3,Travis,TX,"DAUGHERTY, GERALD",Republican,1,,,,,0.95
+TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,At-Large Pos 8,Austin,TX,"HINOJOSA, GINA",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,2,Austin,TX,"MATHIAS, JAYME",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,3,Austin,TX,"TEICH, ANN",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2012,SCHOOL BOARD,5,Austin,TX,"JACKSON, CHARLIE",,1,,,,NONPARTISAN RACE,1.0
 TX,Austin American-Statesman,144700,2014,SENATOR,,,TX,"CORNYN, JOHN",Republican,1,,1,,,1.0
 TX,Austin American-Statesman,144700,2014,H,10,,TX,"MCCAUL, MICHAEL",Republican,1,,1,,,1.0
 TX,Austin American-Statesman,144700,2014,H,17,,TX,"FLORES, BILL",Republican,1,,1,,,1.0
@@ -82,13 +81,12 @@ TX,Austin American-Statesman,144700,2014,LT GOVERNOR,,,TX,"VAN DE PUTTE, LETICIA
 TX,Austin American-Statesman,144700,2014,ATTORNEY GENERAL,,,TX,"HOUSTON, SAM",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2014,COMPTROLLER,,,TX,"COLLIER, MIKE",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2014,LAND COMMISSIONER,,,TX,"BUSH, GEORGE P.",Republican,1,,,,,1.0
-TX,Austin American-Statesman,144700,2014,AGRICULTURE COMMISSIONER,,,TX,,,,,,,NO ENDORSEMENT,1.0
 TX,Austin American-Statesman,144700,2014,RAILROAD COMMISSION,,,TX,"SITTON, RYAN",Republican,1,,,,,1.0
 TX,Austin American-Statesman,144700,2014,TX SUPREME COURT,Chief Justice,,TX,"HECHT, NATHAN",Republican,1,,1,,,1.0
 TX,Austin American-Statesman,144700,2014,TX SUPREME COURT,Place 6,,TX,"BROWN, JEFF",Republican,1,,,,,1.0
 TX,Austin American-Statesman,144700,2014,TX SUPREME COURT,Place 7,,TX,"BENAVIDES, GINA",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2014,COURT OF CRIMINAL APPEALS,Place 3,,TX,"RICHARDSON, BERT",Republican,1,,,,,1.0
-TX,Austin American-Statesman,144700,2014,COURT OF APPEALS,3rd Chief Justice,,TX,"ROSE, JEFF",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,COURT OF APPEALS,3rd,Chief Justice,TX,"ROSE, JEFF",Republican,1,,1,,,1.0
 TX,Austin American-Statesman,144700,2014,STATE SENATOR,5,,TX,"SCHWERTNER, CHARLES",Republican,1,,,,,1.0
 TX,Austin American-Statesman,144700,2014,STATE SENATOR,14,,TX,"WATSON, KIRK",Democrat,1,1,,,,1.0
 TX,Austin American-Statesman,144700,2014,STATE SENATOR,25,,TX,"CAMPBELL, DONNA",Republican,1,,1,,,1.0
@@ -101,233 +99,256 @@ TX,Austin American-Statesman,144700,2014,STATE REP,50,,TX,"ISRAEL, CELIA",Democr
 TX,Austin American-Statesman,144700,2014,STATE REP,51,,TX,"RODRIGUEZ, EDDIE",Democrat,1,1,,,,1.0
 TX,Austin American-Statesman,144700,2014,STATE REP,52,,TX,"OSBORN, CHRIS",Democrat,1,,,,,1.0
 TX,Austin American-Statesman,144700,2014,STATE REP,136,,TX,"BUCY, JOHN",Democrat,1,,,,,1.0
-TX,Austin American-Statesman,144700,2014,CNTY JUDGE,Travis,,TX,"ECKHARDT, SARAH",Democrat,1,,,,,1.0
-TX,Austin American-Statesman,144700,2014,CNTY COMM,Travis Pct 2,,TX,"SHEA, BRIGID",Democrat,1,,,,,1.0
-TX,Austin American-Statesman,144700,2014,CNTY COMM,Travis Pct 4,,TX,"GOMEZ, MARGARET",Democrat,1,,,,,1.0
-TX,Austin American-Statesman,144700,2014,CNTY JUDGE,Williamson,,TX,"GATTIS, DAN",Republican,1,,1,,,1.0
-TX,Austin American-Statesman,144700,2014,CNTY COMM,Williamson Pct 2,,TX,"LONG, CYNTHIA",Republican,1,,1,,,1.0
-TX,Austin American-Statesman,144700,2014,CNTY COMM,Williamson Pct 4,,TX,"MORRISON, RON",Republican,1,,,,,1.0
-TX,Austin American-Statesman,144700,2014,MAYOR,Austin,,TX,"ADLER, STEVE",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 1,,TX,"HOUSTON, ORA",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 2,,TX,"GARZA, DELIA",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 3,,TX,"RANGEL, ERIC",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 4,,TX,,,,,,,NO ENDORSEMENT - VIEWPOINTS EDITOR TARA DOOLITTLE EXPLAINS,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 5,,TX,"KITCHEN, ANN",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 6,,TX,"FLANNIGAN, JIMMY",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 7,,TX,"BOYT, JEB",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 8,,TX,"PIERCE, DARRELL",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 9,,TX,"TOVO, KATHIE",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,CITY COUNCIL,Austin 10,,TX,"DEALEY, MANDY",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 1,,TX,"GORDON, EDMUND",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 4,,TX,"COWAN, JULIE",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 6,,TX,"SALDANA, PAUL",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 7,,TX,"SCHNEIDER, ROBERT",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,AISD 9,,TX,"PACE, KENDALL",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,COMMUNITY COLLEGE BOARD,ACC Place 1,,TX,"WILLIAMS, MARK",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,COMMUNITY COLLEGE BOARD,ACC Place 2,,TX,"SHEPPARD, JADE CHANG",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,2014,COMMUNITY COLLEGE BOARD,ACC Place 3,,TX,"MCRAVEN, NAN",,1,,,,NONPARTISAN RACE,1.0
-TX,Austin American-Statesman,144700,1974,GOVERNOR,,,TX,"BRISCOE, DOLPH",Democrat,1,1,,,Endorsed: 'Briscoe Is Best for Texas'. Incumbent Democrat governor; first 4-year gubernatorial term begins Jan 1975. Endorsed over GOP challenger Granberry and Raza Unida's Muniz.,0.95
-TX,Austin American-Statesman,144700,1974,GOVERNOR,,,TX,"GRANBERRY, JIM",Republican,0,1,,,Opposed; described as 'very capable man' but conservative philosophy not supported.,0.95
-TX,Austin American-Statesman,144700,1974,GOVERNOR,,,TX,"MUNIZ, RAMSEY",Other,0,1,,,Raza Unida candidate; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,1,,,Endorsed (incumbent appointee of Briscoe seeking first full term). 'Editorial: Commission in Good Hands'. Opposed by Dale W. Steffes (R).,0.95
-TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"STEFFES, DALE W.",Republican,0,1,,,Republican opponent of Wallace; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"LANGDON, JIM C.",Democrat,1,1,,,"Endorsed (incumbent Connally appointee seeking re-election). Former civil appeals court jurist. Opposed by Joe P. Cain (R), Fred R. Garza (Raza Unida), Rick Congress (Socialist Workers).",0.95
-TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"CAIN, JOE P.",Republican,0,1,,,Republican opponent of Langdon; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"GARZA, FRED R.",Other,0,1,,,Raza Unida candidate; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"CONGRESS, RICK",Other,0,1,,,Socialist Workers candidate; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 1,TX,"DELCO, EXALTON (MRS.)",Democrat,1,,,,Endorsed for Travis County multi-member House District 37 Place 1. Member of Austin ISD Board of Trustees. Opposed by Will Wyman (R) and Pas Pena (Raza Unida). This is Wilhelmina Delco. 'New Faces in the House.',0.95
-TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 1,TX,"WYMAN, WILL",Republican,0,,,,Republican opponent of Delco; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 1,TX,"PENA, PAS",Other,0,,,,Raza Unida candidate; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 2,TX,"WEDDINGTON, SARAH",Democrat,1,1,,,Endorsed as incumbent Place 2; elected two years prior with labor-liberal support. 'Apparently will be returned to their legislative posts.',0.95
-TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 3,TX,"EARLE, RONALD D.",Democrat,1,1,,,Endorsed as incumbent Place 3 despite 'a less active role'. 'Apparently will be returned to their legislative posts.',0.95
-TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 4,TX,"TODD, BILL",Republican,1,,,,"Endorsed for Place 4. Publisher of four small-town Texas newspapers. Successful businessman, 'common sense' platform.",0.95
-TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 4,TX,"BARRIENTOS, GONZALO",Democrat,0,,,,Democrat nominee opposed by paper in favor of Todd.,0.95
-TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 4,TX,"GUTIERREZ, ARMONDO G.",Other,0,,,,Raza Unida candidate; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1974,STATE SENATOR,14,,TX,"STRAUGHAN, CLARKE",Republican,1,1,,,Endorsed. 'Straughan Policy Is Consistent'. 36-year-old Austin Republican; conservative platform supporting Right to Work Law. Paper criticized Doggett for reversing earlier position on Right to Work Law.,0.95
-TX,Austin American-Statesman,144700,1974,STATE SENATOR,14,,TX,"DOGGETT, LLOYD",Democrat,0,1,,,28-year-old Democrat incumbent who won the seat vacated by Charles Herring after the 1972 election; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1976,PRESIDENT,,,TX,"CARTER, JIMMY",Democrat,1,,1,,Endorsed for president. Ford (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,1976,TX SUPREME COURT,,Place 2,TX,"HOUSTON, SAM",,1,,,,Endorsed as write-in candidate for Texas Supreme Court Place 2.,0.95
-TX,Austin American-Statesman,144700,1976,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,1,,,Endorsed for US Senator. Incumbent Democrat.,0.95
-TX,Austin American-Statesman,144700,1976,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,Incumbent endorsed for US House District 10.,0.95
-TX,Austin American-Statesman,144700,1976,H,21,,TX,"KRUEGER, ROBERT",Democrat,1,1,,,Incumbent endorsed for US House District 21.,0.95
-TX,Austin American-Statesman,144700,1976,TAX ASSESSOR,,Travis County,TX,"BURNETTE, BILL",Republican,1,,,,Endorsed for Travis County Tax Assessor-Collector.,0.95
-TX,Austin American-Statesman,144700,1976,STATE REP,37,37-C,TX,"HILL, GERALD",Democrat,1,,,,Endorsed for Travis County District 37-C state representative.,0.95
-TX,Austin American-Statesman,144700,1976,RAILROAD COMMISSION,,,TX,"NEWTON, JON",Democrat,1,,,,Endorsed for Texas Railroad Commission.,0.95
-TX,Austin American-Statesman,144700,1976,CNTY COMM,3,Precinct 3,TX,"RICHARDS, ANN",Democrat,1,,,,Endorsed for Travis County Commissioner Precinct 3.,0.95
-TX,Austin American-Statesman,144700,1976,SHERIFF,,Travis County,TX,"FRANK, RAYMOND",,1,,,,Incumbent endorsed for Travis County Sheriff.,0.95
-TX,Austin American-Statesman,144700,1976,JUDGE,5,Constable Precinct 5,TX,"MILLOY, JOHN",Democrat,1,,,,Endorsed for Precinct 5 Constable.,0.95
-TX,Austin American-Statesman,144700,1976,JUDGE,1,Constable Precinct 1,TX,"NESBY, DON",Democrat,1,,,,Endorsed for Precinct 1 Constable.,0.95
-TX,Austin American-Statesman,144700,1978,SENATOR,,,TX,"KRUEGER, BOB",Democrat,1,,1,,"Endorsed; 'The incumbent, John Tower, has had 17 years to prove himself, and hasn't. Texas needs a change.'",0.95
-TX,Austin American-Statesman,144700,1978,SENATOR,,,TX,"TOWER, JOHN",Republican,0,,1,,Incumbent Republican opposed.,0.95
-TX,Austin American-Statesman,144700,1978,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,Incumbent endorsed; 'hard work has earned him yet another term'.,0.95
-TX,Austin American-Statesman,144700,1978,GOVERNOR,,,TX,"HILL, JOHN",Democrat,1,,,,Endorsed; 'probably the best candidate for the office in many years'. Open seat (Briscoe lost D primary to Hill).,0.95
-TX,Austin American-Statesman,144700,1978,GOVERNOR,,,TX,"CLEMENTS, BILL",Republican,0,,,,"Opposed; 'has money, but no grasp of the issues or the office'.",0.95
-TX,Austin American-Statesman,144700,1978,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,Incumbent endorsed; 'knows the job and does it well'.,0.95
-TX,Austin American-Statesman,144700,1978,LT GOVERNOR,,,TX,"MARSHALL, GAYLORD",Republican,0,1,,,"Opposed; 'appears to be running against the Equal Rights Amendment, or something'.",0.95
-TX,Austin American-Statesman,144700,1978,ATTORNEY GENERAL,,,TX,"BAKER, JIM",Republican,1,,,,"Endorsed; 'programmatic approach combines conservatism with humanistic, progressive ideas'. Open seat.",0.95
-TX,Austin American-Statesman,144700,1978,ATTORNEY GENERAL,,,TX,"WHITE, MARK",Democrat,0,,,,'Also an able candidate' but not endorsed.,0.95
-TX,Austin American-Statesman,144700,1978,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,1,,,Incumbent endorsed. 'Wallace faces token opposition from a Socialist Workers Party candidate.',0.95
-TX,Austin American-Statesman,144700,1978,RAILROAD COMMISSION,,,TX,"POERNER, JOHN",Democrat,1,1,,,"Incumbent endorsed over James W. Lacy (R), 'an oilman, which is just what the commission doesn't need'.",0.95
-TX,Austin American-Statesman,144700,1978,RAILROAD COMMISSION,,,TX,"LACY, JAMES W.",Republican,0,1,,,Republican oilman opposing Poerner; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1978,STATE REP,37,37-B,TX,"BODE, MARY JANE",Democrat,1,1,,,"Incumbent endorsed for District 37-B; 'her last-minute GOP opponent, James Ragan, is an unknown quantity'.",0.95
-TX,Austin American-Statesman,144700,1978,STATE REP,37,37-B,TX,"RAGAN, JAMES",Republican,0,1,,,Not endorsed.,0.95
-TX,Austin American-Statesman,144700,1978,SCHOOL BOARD,10,State Board of Education District 10,TX,"REDDELL, REX",Democrat,1,,,,"Endorsed for State Board of Education District 10; 'an educator, who is opposed by an independent candidate, Nancy Schriber'.",0.95
-TX,Austin American-Statesman,144700,1978,SCHOOL BOARD,10,State Board of Education District 10,TX,"SCHRIBER, NANCY",Independent,0,,,,Independent candidate; not endorsed.,0.95
-TX,Austin American-Statesman,144700,1978,CNTY JUDGE,,Travis County,TX,"RENFRO, MIKE",Democrat,1,1,,,Incumbent endorsed; 'has earned another term by quietly doing his multi-faceted job'.,0.95
-TX,Austin American-Statesman,144700,1978,CNTY JUDGE,,Travis County,TX,"NEPTUNE, MILLARD",Republican,0,1,,,"Opponent; 'campaigned hard, but to little apparent purpose'.",0.8
-TX,Austin American-Statesman,144700,1978,CNTY COMM,4,Precinct 4,TX,"MOYA, RICHARD",Democrat,1,1,,,Incumbent endorsed for Travis County Commissioner Precinct 4. 'Moya has helped modernize the county's government'.,0.95
-TX,Austin American-Statesman,144700,1978,CNTY COMM,4,Precinct 4,TX,"MAXWELL, SID",Republican,0,1,,,Republican opponent; 'little known'.,0.95
-TX,Austin American-Statesman,144700,1980,PRESIDENT,,,TX,"CARTER, JIMMY",Democrat,1,1,,,Incumbent Democrat endorsed for president.,0.95
-TX,Austin American-Statesman,144700,1980,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,Incumbent endorsed for US House District 10.,0.95
-TX,Austin American-Statesman,144700,1980,RAILROAD COMMISSION,,six-year term,TX,"TEMPLE, BUDDY",Democrat,1,,,,Endorsed for Texas Railroad Commission six-year term.,0.95
-TX,Austin American-Statesman,144700,1980,RAILROAD COMMISSION,,unexpired term,TX,"NUGENT, JIM",Democrat,1,,,,Endorsed for Texas Railroad Commission unexpired term.,0.95
-TX,Austin American-Statesman,144700,1980,TX SUPREME COURT,,Place 1,TX,"WALLACE, JAMES P.",Democrat,1,,,,Endorsed for Texas Supreme Court Place 1.,0.95
-TX,Austin American-Statesman,144700,1980,TX SUPREME COURT,,Place 4,TX,"GARWOOD, WILL",Republican,1,,,,Endorsed for Texas Supreme Court Place 4.,0.95
-TX,Austin American-Statesman,144700,1980,STATE REP,37,37-A,TX,"BARRIENTOS, GONZALO",Democrat,1,,,,Endorsed for state representative District 37-A.,0.95
-TX,Austin American-Statesman,144700,1980,STATE REP,37,37-B,TX,"SMITH, TERRAL R.",Republican,1,,,,Endorsed for state representative District 37-B.,0.95
-TX,Austin American-Statesman,144700,1980,STATE REP,37,37-C,TX,"HILL, GERALD",Democrat,1,1,,,Endorsed for state representative District 37-C (incumbent endorsed in 1976).,0.95
-TX,Austin American-Statesman,144700,1980,STATE REP,37,37-D,TX,"DELCO, WILHELMINA R.",Democrat,1,,,,Endorsed for state representative District 37-D.,0.95
-TX,Austin American-Statesman,144700,1980,COURT OF APPEALS,3,Court of Civil Appeals District 3,TX,"SMITH, ROBERT O. ""BOB""",Republican,1,,,,Endorsed for Court of Civil Appeals District 3.,0.95
-TX,Austin American-Statesman,144700,1980,SHERIFF,,Travis County,TX,"BAILEY, DOYNE",Democrat,1,,,,Endorsed for Travis County sheriff.,0.95
-TX,Austin American-Statesman,144700,1980,TAX ASSESSOR,,Travis County,TX,"ALESHIRE, BILL",Democrat,1,,,,Endorsed for Travis County tax assessor-collector.,0.95
-TX,Austin American-Statesman,144700,1980,CNTY COMM,1,Precinct 1,TX,"TUCKER, WILLIE",Republican,1,,,,Endorsed for Travis County commissioner Precinct 1.,0.95
-TX,Austin American-Statesman,144700,1980,CNTY COMM,3,Precinct 3,TX,"RICHARDS, ANN",Democrat,1,1,,,Incumbent (endorsed 1976) endorsed for Travis County commissioner Precinct 3.,0.95
-TX,Austin American-Statesman,144700,1982,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,1,,,Incumbent endorsed for re-election to US Senate.,0.95
-TX,Austin American-Statesman,144700,1982,GOVERNOR,,,TX,"WHITE, MARK",Democrat,1,,1,,Endorsed; unseated Clements (R) incumbent.,0.95
-TX,Austin American-Statesman,144700,1982,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,Incumbent endorsed.,0.95
-TX,Austin American-Statesman,144700,1982,TREASURER,,,TX,"RICHARDS, ANN",Democrat,1,,,,Endorsed for State Treasurer.,0.95
-TX,Austin American-Statesman,144700,1982,COMPTROLLER,,,TX,"BULLOCK, BOB",Democrat,1,1,,,Incumbent endorsed for Comptroller.,0.95
-TX,Austin American-Statesman,144700,1982,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,,,,Endorsed for Land Commissioner.,0.95
-TX,Austin American-Statesman,144700,1982,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,,,,Endorsed for Agriculture Commissioner.,0.95
-TX,Austin American-Statesman,144700,1982,RAILROAD COMMISSION,,,TX,"NUGENT, JIM",Democrat,1,1,,,Incumbent endorsed for Railroad Commissioner (elected to unexpired term in 1980).,0.95
-TX,Austin American-Statesman,144700,1982,ATTORNEY GENERAL,,,TX,"MATTOX, JIM",Democrat,1,,,,Endorsed for Attorney General. Open seat (White moved up to Gov).,0.95
-TX,Austin American-Statesman,144700,1982,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,Incumbent endorsed for US House District 10.,0.95
-TX,Austin American-Statesman,144700,1982,TX SUPREME COURT,,Place 1,TX,"ROBERTSON, TED Z.",Democrat,1,,,,"Endorsed for Justice, Supreme Court Place 1.",0.95
-TX,Austin American-Statesman,144700,1982,COURT OF CRIMINAL APPEALS,,Place 2,TX,"MILLER, CHUCK",Democrat,1,,,,Endorsed for Court of Criminal Appeals Place 2.,0.95
-TX,Austin American-Statesman,144700,1982,SCHOOL BOARD,10,State Board of Education District 10,TX,"DAVIS, WILL D.",Democrat,1,,,,Endorsed for State Board of Education District 10.,0.95
-TX,Austin American-Statesman,144700,1982,STATE SENATOR,14,,TX,"DOGGETT, LLOYD",Democrat,1,1,,,Incumbent endorsed for State Senator District 14.,0.95
-TX,Austin American-Statesman,144700,1982,STATE REP,47,,TX,"BARTON, BOB JR.",Democrat,1,,,,Endorsed for State Representative District 47 (post-redistricting single-member district).,0.95
-TX,Austin American-Statesman,144700,1982,STATE REP,48,,TX,"ANGERMAN, JERRY",Democrat,1,,,,Endorsed for State Representative District 48.,0.95
-TX,Austin American-Statesman,144700,1982,STATE REP,49,,TX,"HILL, GERALD",Democrat,1,,,,Endorsed for State Representative District 49 (previously 37-C incumbent).,0.95
-TX,Austin American-Statesman,144700,1982,STATE REP,50,,TX,"DELCO, WILHELMINA R.",Democrat,1,,,,Endorsed for State Representative District 50.,0.95
-TX,Austin American-Statesman,144700,1982,STATE REP,51,,TX,"BARRIENTOS, GONZALO",Democrat,1,,,,Endorsed for State Representative District 51.,0.95
-TX,Austin American-Statesman,144700,1982,CNTY JUDGE,,Travis County,TX,"RENFRO, MIKE",Democrat,1,1,,,Incumbent endorsed for Travis County Judge.,0.95
-TX,Austin American-Statesman,144700,1982,TREASURER,,Travis County Treasurer,TX,"CROW, JOHNNY",Democrat,1,,,,Endorsed for Travis County Treasurer.,0.95
-TX,Austin American-Statesman,144700,1982,CNTY COMM,2,Precinct 2,TX,"HALL, BILL",Republican,1,,,,Endorsed for Travis County Commissioner Pct. 2.,0.95
-TX,Austin American-Statesman,144700,1982,CNTY COMM,3,Precinct 3,TX,"GARY, LYNN",Republican,1,,,,Endorsed for Travis County Commissioner Pct. 3.,0.95
-TX,Austin American-Statesman,144700,1982,CNTY COMM,4,Precinct 4,TX,"MOYA, RICHARD",Democrat,1,1,,,Incumbent endorsed for Travis County Commissioner Pct. 4.,0.95
-TX,Austin American-Statesman,144700,1982,JUDGE,2,Justice of the Peace Pct. 2,TX,"RAVEL, DEBRA",Democrat,1,,,,Endorsed for Justice of the Peace Pct. 2.,0.95
-TX,Austin American-Statesman,144700,1982,JUDGE,4,Justice of the Peace Pct. 4,TX,"DURAN, JUAN C.",Democrat,1,,,,Endorsed for Justice of the Peace Pct. 4.,0.95
-TX,Austin American-Statesman,144700,1984,PRESIDENT,,,TX,"MONDALE, WALTER F.",Democrat,1,,1,,Endorsed for President. Reagan (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,1984,VICE PRESIDENT,,,TX,"FERRARO, GERALDINE",Democrat,1,,1,,Endorsed for Vice President.,0.95
-TX,Austin American-Statesman,144700,1984,SENATOR,,,TX,"DOGGETT, LLOYD",Democrat,1,,,,Endorsed for US Senator (open seat - Tower retired; Gramm R won).,0.95
-TX,Austin American-Statesman,144700,1984,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,1,,,Incumbent endorsed for Railroad Commissioner.,0.95
-TX,Austin American-Statesman,144700,1984,TX SUPREME COURT,,Chief Justice,TX,"HILL, JOHN L.",Democrat,1,,,,"Endorsed for Chief Justice, Texas Supreme Court.",0.95
-TX,Austin American-Statesman,144700,1984,COURT OF CRIMINAL APPEALS,,Place 1,TX,"CLINTON, SAM HOUSTON",Democrat,1,,,,Endorsed for Court of Criminal Appeals Place 1.,0.95
-TX,Austin American-Statesman,144700,1984,STATE SENATOR,14,,TX,"BARRIENTOS, GONZALO",Democrat,1,,,,Endorsed for State Senator District 14 (Doggett moved up to run for US Senate).,0.95
-TX,Austin American-Statesman,144700,1984,STATE REP,47,,TX,"BARTON, BOB JR.",Democrat,1,1,,,Incumbent endorsed for State Representative District 47.,0.95
-TX,Austin American-Statesman,144700,1984,STATE REP,49,,TX,"TIDWELL, RUSS",Democrat,1,,,,Endorsed for State Representative District 49.,0.95
-TX,Austin American-Statesman,144700,1984,CNTY COMM,3,Precinct 3,TX,"REED, PAM",Republican,1,,,,Endorsed for County Commissioner Precinct 3.,0.95
-TX,Austin American-Statesman,144700,1986,GOVERNOR,,,TX,"WHITE, MARK",Democrat,1,1,,,Incumbent Democrat endorsed (Clements R challenger ultimately won).,0.95
-TX,Austin American-Statesman,144700,1986,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,Incumbent endorsed.,0.95
-TX,Austin American-Statesman,144700,1986,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,Incumbent endorsed for US Representative 10th District.,0.95
-TX,Austin American-Statesman,144700,1986,ATTORNEY GENERAL,,,TX,"MATTOX, JIM",Democrat,1,1,,,Incumbent endorsed for Attorney General.,0.95
-TX,Austin American-Statesman,144700,1986,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,Incumbent endorsed for Land Commissioner.,0.95
-TX,Austin American-Statesman,144700,1986,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,1,,,Incumbent endorsed for Agriculture Commissioner.,0.95
-TX,Austin American-Statesman,144700,1986,RAILROAD COMMISSION,,,TX,"SHARP, JOHN",Democrat,1,,,,State Sen. John Sharp endorsed for Railroad Commission.,0.95
-TX,Austin American-Statesman,144700,1986,TX SUPREME COURT,,Place 1,TX,"MAUZY, OSCAR",,1,,,,Endorsed for Supreme Court Place 1.,0.95
-TX,Austin American-Statesman,144700,1986,TX SUPREME COURT,,Place 2,TX,"CAMPBELL, ROBERT M.",,1,,,,Endorsed for Supreme Court Place 2.,0.95
-TX,Austin American-Statesman,144700,1986,TX SUPREME COURT,,Place 4,TX,"GONZALEZ, RAUL A.",,1,,,,Endorsed for Supreme Court Place 4.,0.95
-TX,Austin American-Statesman,144700,1986,STATE REP,47,,TX,"COOPER, ANNE",,1,,,,Endorsed for State Representative District 47.,0.95
-TX,Austin American-Statesman,144700,1986,STATE REP,49,,TX,"RICHARDSON, BOB",,1,,,,Endorsed for State Representative District 49.,0.95
-TX,Austin American-Statesman,144700,1986,CNTY JUDGE,,Travis County,TX,"ALESHIRE, BILL",Democrat,1,,,,Endorsed for Travis County Judge.,0.95
-TX,Austin American-Statesman,144700,1986,TAX ASSESSOR,,Travis County,TX,"BURKE, CECELIA",Democrat,1,,,,Endorsed for County Tax Assessor-Collector.,0.95
-TX,Austin American-Statesman,144700,1986,CNTY COMM,2,Precinct 2,TX,"TODD, BRUCE",Democrat,1,,,,Endorsed for Travis County Commissioner Pct. 2.,0.95
-TX,Austin American-Statesman,144700,1986,JUDGE,3,Justice of Peace Pct. 3,TX,"MOORE, ROGER",,1,,,,Endorsed for Justice of Peace Pct. 3.,0.95
-TX,Austin American-Statesman,144700,1988,PRESIDENT,,,TX,"DUKAKIS, MICHAEL S.",Democrat,1,,,,Endorsed for President. Open seat (Reagan term-limited).,0.95
-TX,Austin American-Statesman,144700,1988,VICE PRESIDENT,,,TX,"BENTSEN, LLOYD",Democrat,1,,,,Endorsed for Vice President (also running for re-election to US Senate).,0.95
-TX,Austin American-Statesman,144700,1988,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,1,,,Incumbent endorsed for US Senator while simultaneously running for VP.,0.95
-TX,Austin American-Statesman,144700,1988,H,10,,TX,"PICKLE, J. J. ""JAKE""",Democrat,1,1,,,Incumbent endorsed for US Representative District 10.,0.95
-TX,Austin American-Statesman,144700,1988,RAILROAD COMMISSION,,,TX,"EMMETT, ED",Republican,1,,,,Endorsed for Railroad Commissioner.,0.95
-TX,Austin American-Statesman,144700,1988,RAILROAD COMMISSION,,Unexpired term,TX,"HANCE, KENT R.",Republican,1,,,,Endorsed for Railroad Commissioner unexpired term.,0.95
-TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,,Chief Justice,TX,"PHILLIPS, TOM",Republican,1,,,,Endorsed for Chief Justice Supreme Court.,0.95
-TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,,Place 1,TX,"DOGGETT, LLOYD",Democrat,1,,,,Endorsed for Justice Supreme Court Place 1.,0.95
-TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,,Place 2,TX,"HECHT, NATHAN",Republican,1,,,,Endorsed for Justice Supreme Court Place 2.,0.95
-TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,,Place 3,TX,"GONZALEZ, RAUL A.",Democrat,1,,,,Endorsed for Justice Supreme Court Place 3.,0.95
-TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,,Place 4,TX,"CULVER, BARBARA G.",Republican,1,,,,Endorsed for Justice Supreme Court Place 4.,0.95
-TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,,Place 5,TX,"BAYER, KARL",Democrat,1,,,,Endorsed for Justice Supreme Court Place 5.,0.95
-TX,Austin American-Statesman,144700,1988,COURT OF CRIMINAL APPEALS,,Presiding Judge,TX,"MCCORMICK, MIKE",Democrat,1,,,,"Endorsed for Presiding Judge, Court of Criminal Appeals.",0.95
-TX,Austin American-Statesman,144700,1988,COURT OF CRIMINAL APPEALS,,Place 1,TX,"CAMPBELL, CHARLES F. ""CHUCK""",Democrat,1,,,,Endorsed for Court of Criminal Appeals Place 1.,0.95
-TX,Austin American-Statesman,144700,1988,COURT OF CRIMINAL APPEALS,,Place 2,TX,"MILLER, CHUCK",Democrat,1,1,,,Endorsed for Court of Criminal Appeals Place 2 (endorsed in 1982 too).,0.95
-TX,Austin American-Statesman,144700,1988,SCHOOL BOARD,10,State Board of Education District 10,TX,"DAVIS, WILL",Democrat,1,1,,,Endorsed for State Board of Education District 10.,0.95
-TX,Austin American-Statesman,144700,1988,STATE SENATOR,14,,TX,"BARRIENTOS, GONZALO",Democrat,1,1,,,Incumbent endorsed for State Senator District 14.,0.95
-TX,Austin American-Statesman,144700,1988,STATE REP,47,,TX,"COOPER, ANNE",Republican,1,,1,,Republican incumbent endorsed for State Representative District 47.,0.95
-TX,Austin American-Statesman,144700,1988,STATE REP,48,,TX,"SMITH, TERRAL",Republican,1,,,,Endorsed for State Representative District 48.,0.95
-TX,Austin American-Statesman,144700,1988,STATE REP,49,,TX,"RICHARDSON, BOB",Republican,1,,1,,Republican incumbent endorsed for State Representative District 49.,0.95
-TX,Austin American-Statesman,144700,1988,STATE REP,50,,TX,"DELCO, WILHELMINA R.",Democrat,1,1,,,Incumbent endorsed for State Representative District 50.,0.95
-TX,Austin American-Statesman,144700,1988,STATE REP,51,,TX,"GUERRERO, LENA",Democrat,1,1,,,Incumbent endorsed for State Representative District 51.,0.95
-TX,Austin American-Statesman,144700,1988,SHERIFF,,Travis County,TX,"BAILEY, DOYNE",Democrat,1,1,,,Incumbent endorsed for Travis County Sheriff.,0.95
-TX,Austin American-Statesman,144700,1988,TAX ASSESSOR,,Travis County,TX,"BURKE, CECELIA",Democrat,1,1,,,Incumbent endorsed for Travis County Tax Assessor-Collector.,0.95
-TX,Austin American-Statesman,144700,1988,CNTY COMM,1,Precinct 1,TX,"BISCOE, SAM",Democrat,1,,,,Endorsed for Travis County Commissioner Precinct 1.,0.95
-TX,Austin American-Statesman,144700,1988,CNTY COMM,3,Precinct 3,TX,"REED, PAM",Democrat,1,1,,,Endorsed for Travis County Commissioner Precinct 3 (endorsed in 1984 as R; party may have changed - paper labels D).,0.95
-TX,Austin American-Statesman,144700,1988,JUDGE,3,Justice of the Peace Precinct 3,TX,"OUJESKY, RAY",Republican,1,,,,Endorsed for Justice of the Peace Precinct 3.,0.95
-TX,Austin American-Statesman,144700,1990,GOVERNOR,,,TX,"RICHARDS, ANN",Democrat,1,,,,Endorsed for Texas Governor. Open seat (Clements R retired).,0.95
-TX,Austin American-Statesman,144700,1990,SENATOR,,,TX,"PARMER, HUGH",Democrat,1,,1,,Endorsed for US Senator. Gramm (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,1990,H,10,,TX,"PICKLE, J. J. ""JAKE""",Democrat,1,1,,,Incumbent endorsed for US Representative.,0.95
-TX,Austin American-Statesman,144700,1990,LT GOVERNOR,,,TX,"BULLOCK, BOB",Democrat,1,,,,Endorsed for Lt Governor (was incumbent Comptroller).,0.95
-TX,Austin American-Statesman,144700,1990,ATTORNEY GENERAL,,,TX,"MORALES, DAN",Democrat,1,,,,Endorsed for Attorney General.,0.95
-TX,Austin American-Statesman,144700,1990,COMPTROLLER,,,TX,"SHARP, JOHN",Democrat,1,,,,Endorsed for Comptroller.,0.95
-TX,Austin American-Statesman,144700,1990,TREASURER,,State Treasurer,TX,"VAN HIGHTOWER, NIKKI",Democrat,1,,,,Endorsed for State Treasurer.,0.95
-TX,Austin American-Statesman,144700,1990,LAND COMMISSIONER,,Commissioner of the General Land Office,TX,"MAURO, GARRY",Democrat,1,1,,,Incumbent endorsed for Land Commissioner.,0.95
-TX,Austin American-Statesman,144700,1990,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,1,,,Incumbent endorsed for Commissioner of Agriculture.,0.95
-TX,Austin American-Statesman,144700,1990,RAILROAD COMMISSION,,,TX,"KRUEGER, BOB",Democrat,1,,,,Endorsed for Railroad Commissioner.,0.95
-TX,Austin American-Statesman,144700,1990,TX SUPREME COURT,,Chief Justice,TX,"PHILLIPS, TOM",Republican,1,1,,,Incumbent endorsed for Chief Justice Supreme Court.,0.95
-TX,Austin American-Statesman,144700,1990,TX SUPREME COURT,,Place 1,TX,"CORNYN, JOHN",Republican,1,,,,Endorsed for Justice Supreme Court Place 1.,0.95
-TX,Austin American-Statesman,144700,1990,TX SUPREME COURT,,Place 2,TX,"GAMMAGE, BOB",Democrat,1,,,,Endorsed for Justice Supreme Court Place 2.,0.95
-TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,,Place 1,TX,"MALONEY, FRANK",,1,,,,Endorsed for Court of Criminal Appeals Place 1.,0.95
-TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,,Place 2,TX,"CLINTON, SAM HOUSTON",,1,,,,Endorsed for Court of Criminal Appeals Place 2.,0.95
-TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,,Place 3,TX,"WHITE, BILL",,1,,,,Endorsed for Court of Criminal Appeals Place 3.,0.95
-TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,,Place 4,TX,"BAIRD, CHARLIE",,1,,,,Endorsed for Court of Criminal Appeals Place 4.,0.95
-TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,,Place 5,TX,"STURNS, LOUIS",,1,,,,Endorsed for Court of Criminal Appeals Place 5.,0.95
-TX,Austin American-Statesman,144700,1990,SCHOOL BOARD,10,State Board of Education District 10,TX,"DAVIS, WILL",Democrat,1,1,,,Endorsed for State Board of Education District 10.,0.95
-TX,Austin American-Statesman,144700,1990,STATE REP,48,,TX,"GREENBERG, SHERRI",Democrat,1,,,,Endorsed for State Representative District 48.,0.95
-TX,Austin American-Statesman,144700,1990,STATE REP,49,,TX,"NAISHTAT, ELLIOTT",Democrat,1,,,,Endorsed for State Representative District 49.,0.95
-TX,Austin American-Statesman,144700,1990,STATE REP,50,,TX,"DELCO, WILHELMINA",Democrat,1,1,,,Incumbent endorsed for State Representative District 50.,0.95
-TX,Austin American-Statesman,144700,1990,COURT OF APPEALS,3,3rd Court of Appeals,TX,"KIDD, MACK",,1,,,,"Endorsed for Justice, 3rd Court of Appeals.",0.95
-TX,Austin American-Statesman,144700,1990,JUDGE,250,250th District,TX,"WILSON, WILL",,1,,,,"Endorsed for Judge, 250th District.",0.95
-TX,Austin American-Statesman,144700,1990,CNTY JUDGE,,Travis County,TX,"ALESHIRE, BILL",Democrat,1,1,,,Incumbent endorsed for Travis County Judge.,0.95
-TX,Austin American-Statesman,144700,1990,CNTY COMM,2,Precinct 2,TX,"TODD, BRUCE",Democrat,1,1,,,Incumbent endorsed for County Commissioner Precinct 2.,0.95
-TX,Austin American-Statesman,144700,1990,JUDGE,2,Justice of the Peace Precinct 2,TX,"BRELAND, JAN",,1,,,,Endorsed for Justice of the Peace Precinct 2.,0.95
-TX,Austin American-Statesman,144700,1990,JUDGE,3,Justice of the Peace Precinct 3,TX,"DAVIS, SCOTT",,1,,,,Endorsed for Justice of the Peace Precinct 3.,0.95
-TX,Austin American-Statesman,144700,2022,GOVERNOR,,,TX,"O'ROURKE, BETO",Democrat,1,,1,,Recommendation: Texas Governor. Abbott (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,LT GOVERNOR,,,TX,"COLLIER, MIKE",Democrat,1,,1,,Recommendation: Texas Lt. Governor. Patrick (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,ATTORNEY GENERAL,,,TX,"GARZA, ROCHELLE",Democrat,1,,1,,Recommendation: Texas Attorney General. Paxton (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,H,10,,TX,"MCCAUL, MICHAEL",Republican,1,,1,,Recommendation: 'Rep. Michael McCaul for U.S. House District 10' - incumbent Republican.,0.95
-TX,Austin American-Statesman,144700,2022,H,21,,TX,"ZAPATA, CLAUDIA",Democrat,1,,1,,Recommendation: 'Claudia Zapata for U.S. House District 21'. Chip Roy (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,H,35,,TX,"CASAR, GREG",Democrat,1,,,,Recommendation: 'Greg Casar for U.S. House District 35'.,0.95
-TX,Austin American-Statesman,144700,2022,H,37,,TX,"DOGGETT, LLOYD",Democrat,1,1,,,Recommendation: 'Lloyd Doggett for U.S. House District 37'. Incumbent (had held TX-35).,0.95
-TX,Austin American-Statesman,144700,2022,STATE SENATOR,21,,TX,"ZAFFIRINI, JUDITH",Democrat,1,1,,,Recommendation: 'Sen. Judith Zaffirini for Texas Senate 21' - incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,STATE SENATOR,25,,TX,"WALSH, ROBERT",Democrat,1,,1,,Recommendation: 'Robert Walsh for Texas Senate 25'. Donna Campbell (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,STATE REP,19,,TX,"BAGGETT, PAM",Democrat,1,,,,Recommendation: 'Pam Baggett for Texas House 19'.,0.95
-TX,Austin American-Statesman,144700,2022,STATE REP,48,,TX,"HOWARD, DONNA",Democrat,1,1,,,Recommendation: 'Rep. Donna Howard for Texas House 48' - incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,STATE REP,50,,TX,"TALARICO, JAMES",Democrat,1,1,,,Recommendation: 'Rep. James Talarico for Texas House 50' - incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,STATE REP,51,,TX,"FLORES, MARIA LUISA ""LULU""",Democrat,1,,,,"Recommendation: 'Maria Luisa ""Lulu"" Flores for Texas House 51'.",0.95
-TX,Austin American-Statesman,144700,2022,STATE REP,45,,TX,"ZWIENER, ERIN",Democrat,1,1,,,Recommendation: 'Erin Zwiener for Texas House 45' - incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,STATE REP,47,,TX,"GOODWIN, VIKKI",Democrat,1,1,,,Recommendation: 'Rep. Vikki Goodwin for Texas House 47' - incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,STATE REP,49,,TX,"HINOJOSA, GINA",Democrat,1,1,,,Recommendation: 'Rep. Gina Hinojosa for Texas House 49' - incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,STATE REP,136,,TX,"BUCY, JOHN III",Democrat,1,1,,,Recommendation: 'Rep. John Bucy III for Texas House 136' - incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,AGRICULTURE COMMISSIONER,,,TX,"HAYS, SUSAN",Democrat,1,,1,,Recommendation: Susan Hays for Agriculture Commissioner. Sid Miller (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,COMPTROLLER,,,TX,"DUDDING, JANET T.",Democrat,1,,1,,Recommendation: Janet T. Dudding for Comptroller. Hegar (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,LAND COMMISSIONER,,,TX,"KLEBERG, JAY",Democrat,1,,,,Recommendation: Jay Kleberg for Land Commissioner. Open seat (Bush retired).,0.95
-TX,Austin American-Statesman,144700,2022,RAILROAD COMMISSION,,,TX,"WARFORD, LUKE",Democrat,1,,1,,Recommendation: Luke Warford for Railroad Commissioner. Christian (R) was incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,CNTY JUDGE,,Travis County,TX,"BROWN, ANDY",Democrat,1,1,,,Recommendation: County Judge Andy Brown - incumbent.,0.95
-TX,Austin American-Statesman,144700,2022,CNTY CLERK,,Travis County,TX,"LIMON-MERCADO, DYANA",Democrat,1,,,,Recommendation: Dyana Limon-Mercado for County Clerk.,0.95
-TX,Austin American-Statesman,144700,2022,MAYOR,,Austin,TX,"ISRAEL, CELIA",,1,,,,Recommendation: State Rep. Celia Israel for Austin Mayor. Austin Mayor is nonpartisan.,0.95
-TX,Austin American-Statesman,144700,2022,CITY COUNCIL,1,Austin City Council District 1,TX,"HARPER-MADISON, NATASHA",,1,,,,Recommendation: Natasha Harper-Madison for District 1 (incumbent).,0.95
-TX,Austin American-Statesman,144700,2022,CITY COUNCIL,3,Austin City Council District 3,TX,"ELIAS, JOSE NOE",,1,,,,Recommendation: Jose Noe Elias for District 3.,0.95
-TX,Austin American-Statesman,144700,2022,CITY COUNCIL,5,Austin City Council District 5,TX,"ALTER, RYAN",,1,,,,Recommendation: Ryan Alter for District 5.,0.95
-TX,Austin American-Statesman,144700,2022,CITY COUNCIL,8,Austin City Council District 8,TX,"ELLIS, PAIGE",,1,,,,Recommendation: Paige Ellis for District 8 (incumbent).,0.95
-TX,Austin American-Statesman,144700,2022,CITY COUNCIL,9,Austin City Council District 9,TX,"LEFFLER, BEN",,1,,,,Recommendation: Ben Leffler for District 9.,0.95
-TX,Austin American-Statesman,144700,2022,SCHOOL BOARD,1,AISD District 1,TX,"EVANS, ROXANNE",,1,,,,Recommendation: Roxanne Evans for AISD District 1.,0.95
-TX,Austin American-Statesman,144700,2022,SCHOOL BOARD,6,AISD District 6,TX,"GONZALES, ANDREW",,1,,,,Recommendation: Andrew Gonzales for AISD District 6.,0.95
-TX,Austin American-Statesman,144700,2022,SCHOOL BOARD,9,AISD District 9,TX,"SINGH, ARATI",,1,,,,Recommendation: Arati Singh for AISD District 9.,0.95
+TX,Austin American-Statesman,144700,2014,CNTY JUDGE,,Travis County,TX,"ECKHARDT, SARAH",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY COMM,2,Travis County,TX,"SHEA, BRIGID",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY COMM,4,Travis County,TX,"GOMEZ, MARGARET",Democrat,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY JUDGE,,Williamson County,TX,"GATTIS, DAN",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY COMM,2,Williamson County,TX,"LONG, CYNTHIA",Republican,1,,1,,,1.0
+TX,Austin American-Statesman,144700,2014,CNTY COMM,4,Williamson County,TX,"MORRISON, RON",Republican,1,,,,,1.0
+TX,Austin American-Statesman,144700,2014,MAYOR,,Austin,TX,"ADLER, STEVE",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,1,Austin,TX,"HOUSTON, ORA",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,2,Austin,TX,"GARZA, DELIA",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,3,Austin,TX,"RANGEL, ERIC",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,5,Austin,TX,"KITCHEN, ANN",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,6,Austin,TX,"FLANNIGAN, JIMMY",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,7,Austin,TX,"BOYT, JEB",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,8,Austin,TX,"PIERCE, DARRELL",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,9,Austin,TX,"TOVO, KATHIE",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,CITY COUNCIL,10,Austin,TX,"DEALEY, MANDY",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,1,AISD,TX,"GORDON, EDMUND",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,4,AISD,TX,"COWAN, JULIE",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,6,AISD,TX,"SALDANA, PAUL",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,7,AISD,TX,"SCHNEIDER, ROBERT",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,SCHOOL BOARD,9,AISD,TX,"PACE, KENDALL",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,COMMUNITY COLLEGE BOARD,Place 1,ACC,TX,"WILLIAMS, MARK",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,COMMUNITY COLLEGE BOARD,Place 2,ACC,TX,"SHEPPARD, JADE CHANG",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,2014,COMMUNITY COLLEGE BOARD,Place 3,ACC,TX,"MCRAVEN, NAN",,1,,,,NONPARTISAN RACE,1.0
+TX,Austin American-Statesman,144700,1974,GOVERNOR,,,TX,"BRISCOE, DOLPH",Democrat,1,1,,,ENDORSED: 'BRISCOE IS BEST FOR TEXAS'. INCUMBENT DEMOCRAT GOVERNOR; FIRST 4-YEAR GUBERNATORIAL TERM BEGINS JAN 1975. ENDORSED OVER GOP CHALLENGER GRANBERRY AND RAZA UNIDA'S MUNIZ.,0.95
+TX,Austin American-Statesman,144700,1974,GOVERNOR,,,TX,"GRANBERRY, JIM",Republican,0,,,,OPPOSED; DESCRIBED AS 'VERY CAPABLE MAN' BUT CONSERVATIVE PHILOSOPHY NOT SUPPORTED.,0.95
+TX,Austin American-Statesman,144700,1974,GOVERNOR,,,TX,"MUNIZ, RAMSEY",Other,0,,,,RAZA UNIDA CANDIDATE; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,1,,,ENDORSED (INCUMBENT APPOINTEE OF BRISCOE SEEKING FIRST FULL TERM). 'EDITORIAL: COMMISSION IN GOOD HANDS'. OPPOSED BY DALE W. STEFFES (R).,0.95
+TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"STEFFES, DALE W.",Republican,0,,,,REPUBLICAN OPPONENT OF WALLACE; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"LANGDON, JIM C.",Democrat,1,1,,,"ENDORSED (INCUMBENT CONNALLY APPOINTEE SEEKING RE-ELECTION). FORMER CIVIL APPEALS COURT JURIST. OPPOSED BY JOE P. CAIN (R), FRED R. GARZA (RAZA UNIDA), RICK CONGRESS (SOCIALIST WORKERS).",0.95
+TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"CAIN, JOE P.",Republican,0,,,,REPUBLICAN OPPONENT OF LANGDON; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"GARZA, FRED R.",Other,0,,,,RAZA UNIDA CANDIDATE; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1974,RAILROAD COMMISSION,,,TX,"CONGRESS, RICK",Other,0,,,,SOCIALIST WORKERS CANDIDATE; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 1,TX,"DELCO, WILHELMINA R.",Democrat,1,,,,"ENDORSED FOR TRAVIS COUNTY MULTI-MEMBER HOUSE DISTRICT 37 PLACE 1. MEMBER OF AUSTIN ISD BOARD OF TRUSTEES. OPPOSED BY WILL WYMAN (R) AND PAS PENA (RAZA UNIDA). THIS IS WILHELMINA DELCO. 'NEW FACES IN THE HOUSE.' NAME NORMALIZED 2026-06-01: ORIGINAL CLIPPING USED ""MRS. EXALTON DELCO""; SAME PERSON AS WILHELMINA R. DELCO IN LATER YEARS.",0.95
+TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 1,TX,"WYMAN, WILL",Republican,0,,,,REPUBLICAN OPPONENT OF DELCO; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 1,TX,"PENA, PAS",Other,0,,,,RAZA UNIDA CANDIDATE; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 2,TX,"WEDDINGTON, SARAH",Democrat,1,1,,,ENDORSED AS INCUMBENT PLACE 2; ELECTED TWO YEARS PRIOR WITH LABOR-LIBERAL SUPPORT. 'APPARENTLY WILL BE RETURNED TO THEIR LEGISLATIVE POSTS.',0.95
+TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 3,TX,"EARLE, RONALD D.",Democrat,1,1,,,ENDORSED AS INCUMBENT PLACE 3 DESPITE 'A LESS ACTIVE ROLE'. 'APPARENTLY WILL BE RETURNED TO THEIR LEGISLATIVE POSTS.',0.95
+TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 4,TX,"TODD, BILL",Republican,1,,,,"ENDORSED FOR PLACE 4. PUBLISHER OF FOUR SMALL-TOWN TEXAS NEWSPAPERS. SUCCESSFUL BUSINESSMAN, 'COMMON SENSE' PLATFORM.",0.95
+TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 4,TX,"BARRIENTOS, GONZALO",Democrat,0,,,,DEMOCRAT NOMINEE OPPOSED BY PAPER IN FAVOR OF TODD.,0.95
+TX,Austin American-Statesman,144700,1974,STATE REP,37,Place 4,TX,"GUTIERREZ, ARMONDO G.",Other,0,,,,RAZA UNIDA CANDIDATE; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1974,STATE SENATOR,14,,TX,"STRAUGHAN, CLARKE",Republican,1,,,,ENDORSED. 'STRAUGHAN POLICY IS CONSISTENT'. 36-YEAR-OLD AUSTIN REPUBLICAN; CONSERVATIVE PLATFORM SUPPORTING RIGHT TO WORK LAW. PAPER CRITICIZED DOGGETT FOR REVERSING EARLIER POSITION ON RIGHT TO WORK LAW.,0.95
+TX,Austin American-Statesman,144700,1974,STATE SENATOR,14,,TX,"DOGGETT, LLOYD",Democrat,0,1,,,28-YEAR-OLD DEMOCRAT INCUMBENT WHO WON THE SEAT VACATED BY CHARLES HERRING AFTER THE 1972 ELECTION; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1976,PRESIDENT,,,TX,"CARTER, JIMMY",Democrat,1,,,,ENDORSED FOR PRESIDENT. FORD (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,1976,TX SUPREME COURT,,Place 2,TX,"HOUSTON, SAM",,1,,,,ENDORSED AS WRITE-IN CANDIDATE FOR TEXAS SUPREME COURT PLACE 2.,0.95
+TX,Austin American-Statesman,144700,1976,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,1,,,ENDORSED FOR US SENATOR. INCUMBENT DEMOCRAT.,0.95
+TX,Austin American-Statesman,144700,1976,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,INCUMBENT ENDORSED FOR US HOUSE DISTRICT 10.,0.95
+TX,Austin American-Statesman,144700,1976,H,21,,TX,"KRUEGER, ROBERT",Democrat,1,1,,,INCUMBENT ENDORSED FOR US HOUSE DISTRICT 21.,0.95
+TX,Austin American-Statesman,144700,1976,TAX ASSESSOR,,Travis County,TX,"BURNETTE, BILL",Republican,1,,,,ENDORSED FOR TRAVIS COUNTY TAX ASSESSOR-COLLECTOR.,0.95
+TX,Austin American-Statesman,144700,1976,STATE REP,37,37-C,TX,"HILL, GERALD",Democrat,1,,,,ENDORSED FOR TRAVIS COUNTY DISTRICT 37-C STATE REPRESENTATIVE.,0.95
+TX,Austin American-Statesman,144700,1976,RAILROAD COMMISSION,,,TX,"NEWTON, JON",Democrat,1,,,,ENDORSED FOR TEXAS RAILROAD COMMISSION.,0.95
+TX,Austin American-Statesman,144700,1976,CNTY COMM,3,Precinct 3,TX,"RICHARDS, ANN",Democrat,1,,,,ENDORSED FOR TRAVIS COUNTY COMMISSIONER PRECINCT 3.,0.95
+TX,Austin American-Statesman,144700,1976,SHERIFF,,Travis County,TX,"FRANK, RAYMOND",Democrat,1,1,,,INCUMBENT ENDORSED FOR TRAVIS COUNTY SHERIFF.,0.95
+TX,Austin American-Statesman,144700,1976,CONSTABLE,5,Constable Precinct 5,TX,"MILLOY, JOHN",Democrat,1,,,,ENDORSED FOR PRECINCT 5 CONSTABLE.,0.95
+TX,Austin American-Statesman,144700,1976,CONSTABLE,1,Constable Precinct 1,TX,"NESBY, DON",Democrat,1,,,,ENDORSED FOR PRECINCT 1 CONSTABLE.,0.95
+TX,Austin American-Statesman,144700,1978,SENATOR,,,TX,"KRUEGER, BOB",Democrat,1,,,,"ENDORSED; 'THE INCUMBENT, JOHN TOWER, HAS HAD 17 YEARS TO PROVE HIMSELF, AND HASN'T. TEXAS NEEDS A CHANGE.'",0.95
+TX,Austin American-Statesman,144700,1978,SENATOR,,,TX,"TOWER, JOHN",Republican,0,,1,,INCUMBENT REPUBLICAN OPPOSED.,0.95
+TX,Austin American-Statesman,144700,1978,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,INCUMBENT ENDORSED; 'HARD WORK HAS EARNED HIM YET ANOTHER TERM'.,0.95
+TX,Austin American-Statesman,144700,1978,GOVERNOR,,,TX,"HILL, JOHN",Democrat,1,,,,ENDORSED; 'PROBABLY THE BEST CANDIDATE FOR THE OFFICE IN MANY YEARS'. OPEN SEAT (BRISCOE LOST D PRIMARY TO HILL).,0.95
+TX,Austin American-Statesman,144700,1978,GOVERNOR,,,TX,"CLEMENTS, BILL",Republican,0,,,,"OPPOSED; 'HAS MONEY, BUT NO GRASP OF THE ISSUES OR THE OFFICE'.",0.95
+TX,Austin American-Statesman,144700,1978,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,INCUMBENT ENDORSED; 'KNOWS THE JOB AND DOES IT WELL'.,0.95
+TX,Austin American-Statesman,144700,1978,LT GOVERNOR,,,TX,"MARSHALL, GAYLORD",Republican,0,,,,"OPPOSED; 'APPEARS TO BE RUNNING AGAINST THE EQUAL RIGHTS AMENDMENT, OR SOMETHING'.",0.95
+TX,Austin American-Statesman,144700,1978,ATTORNEY GENERAL,,,TX,"BAKER, JIM",Republican,1,,,,"ENDORSED; 'PROGRAMMATIC APPROACH COMBINES CONSERVATISM WITH HUMANISTIC, PROGRESSIVE IDEAS'. OPEN SEAT.",0.95
+TX,Austin American-Statesman,144700,1978,ATTORNEY GENERAL,,,TX,"WHITE, MARK",Democrat,0,,,,'ALSO AN ABLE CANDIDATE' BUT NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1978,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,1,,,INCUMBENT ENDORSED. 'WALLACE FACES TOKEN OPPOSITION FROM A SOCIALIST WORKERS PARTY CANDIDATE.',0.95
+TX,Austin American-Statesman,144700,1978,RAILROAD COMMISSION,,,TX,"POERNER, JOHN",Democrat,1,1,,,"INCUMBENT ENDORSED OVER JAMES W. LACY (R), 'AN OILMAN, WHICH IS JUST WHAT THE COMMISSION DOESN'T NEED'.",0.95
+TX,Austin American-Statesman,144700,1978,RAILROAD COMMISSION,,,TX,"LACY, JAMES W.",Republican,0,,,,REPUBLICAN OILMAN OPPOSING POERNER; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1978,STATE REP,37,37-B,TX,"BODE, MARY JANE",Democrat,1,1,,,"INCUMBENT ENDORSED FOR DISTRICT 37-B; 'HER LAST-MINUTE GOP OPPONENT, JAMES RAGAN, IS AN UNKNOWN QUANTITY'.",0.95
+TX,Austin American-Statesman,144700,1978,STATE REP,37,37-B,TX,"RAGAN, JAMES",Republican,0,,,,NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1978,SCHOOL BOARD,10,State Board of Education District 10,TX,"REDDELL, REX",Democrat,1,,,,"ENDORSED FOR STATE BOARD OF EDUCATION DISTRICT 10; 'AN EDUCATOR, WHO IS OPPOSED BY AN INDEPENDENT CANDIDATE, NANCY SCHRIBER'.",0.95
+TX,Austin American-Statesman,144700,1978,SCHOOL BOARD,10,State Board of Education District 10,TX,"SCHRIBER, NANCY",Independent,0,,,,INDEPENDENT CANDIDATE; NOT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1978,CNTY JUDGE,,Travis County,TX,"RENFRO, MIKE",Democrat,1,1,,,INCUMBENT ENDORSED; 'HAS EARNED ANOTHER TERM BY QUIETLY DOING HIS MULTI-FACETED JOB'.,0.95
+TX,Austin American-Statesman,144700,1978,CNTY JUDGE,,Travis County,TX,"NEPTUNE, MILLARD",Republican,0,,,,"OPPONENT; 'CAMPAIGNED HARD, BUT TO LITTLE APPARENT PURPOSE'.",0.8
+TX,Austin American-Statesman,144700,1978,CNTY COMM,4,Precinct 4,TX,"MOYA, RICHARD",Democrat,1,1,,,INCUMBENT ENDORSED FOR TRAVIS COUNTY COMMISSIONER PRECINCT 4. 'MOYA HAS HELPED MODERNIZE THE COUNTY'S GOVERNMENT'.,0.95
+TX,Austin American-Statesman,144700,1978,CNTY COMM,4,Precinct 4,TX,"MAXWELL, SID",Republican,0,,,,REPUBLICAN OPPONENT; 'LITTLE KNOWN'.,0.95
+TX,Austin American-Statesman,144700,1980,PRESIDENT,,,TX,"CARTER, JIMMY",Democrat,1,1,,,INCUMBENT DEMOCRAT ENDORSED FOR PRESIDENT.,0.95
+TX,Austin American-Statesman,144700,1980,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,INCUMBENT ENDORSED FOR US HOUSE DISTRICT 10.,0.95
+TX,Austin American-Statesman,144700,1980,RAILROAD COMMISSION,,six-year term,TX,"TEMPLE, BUDDY",Democrat,1,,,,ENDORSED FOR TEXAS RAILROAD COMMISSION SIX-YEAR TERM.,0.95
+TX,Austin American-Statesman,144700,1980,RAILROAD COMMISSION,,unexpired term,TX,"NUGENT, JIM",Democrat,1,,,,ENDORSED FOR TEXAS RAILROAD COMMISSION UNEXPIRED TERM.,0.95
+TX,Austin American-Statesman,144700,1980,TX SUPREME COURT,,Place 1,TX,"WALLACE, JAMES P.",Democrat,1,,,,ENDORSED FOR TEXAS SUPREME COURT PLACE 1.,0.95
+TX,Austin American-Statesman,144700,1980,TX SUPREME COURT,,Place 4,TX,"GARWOOD, WILL",Republican,1,,,,ENDORSED FOR TEXAS SUPREME COURT PLACE 4.,0.95
+TX,Austin American-Statesman,144700,1980,STATE REP,37A,37-A,TX,"BARRIENTOS, GONZALO",Democrat,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 37-A.,0.95
+TX,Austin American-Statesman,144700,1980,STATE REP,37B,37-B,TX,"SMITH, TERRAL R.",Republican,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 37-B.,0.95
+TX,Austin American-Statesman,144700,1980,STATE REP,37C,37-C,TX,"HILL, GERALD",Democrat,1,1,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 37-C (INCUMBENT ENDORSED IN 1976).,0.95
+TX,Austin American-Statesman,144700,1980,STATE REP,37D,37-D,TX,"DELCO, WILHELMINA R.",Democrat,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 37-D.,0.95
+TX,Austin American-Statesman,144700,1980,COURT OF APPEALS,3,Court of Civil Appeals District 3,TX,"SMITH, ROBERT O. ""BOB""",Republican,1,,,,ENDORSED FOR COURT OF CIVIL APPEALS DISTRICT 3.,0.95
+TX,Austin American-Statesman,144700,1980,SHERIFF,,Travis County,TX,"BAILEY, DOYNE",Democrat,1,,,,ENDORSED FOR TRAVIS COUNTY SHERIFF.,0.95
+TX,Austin American-Statesman,144700,1980,TAX ASSESSOR,,Travis County,TX,"ALESHIRE, BILL",Democrat,1,,,,ENDORSED FOR TRAVIS COUNTY TAX ASSESSOR-COLLECTOR.,0.95
+TX,Austin American-Statesman,144700,1980,CNTY COMM,1,Precinct 1,TX,"TUCKER, WILLIE",Republican,1,,,,ENDORSED FOR TRAVIS COUNTY COMMISSIONER PRECINCT 1.,0.95
+TX,Austin American-Statesman,144700,1980,CNTY COMM,3,Precinct 3,TX,"RICHARDS, ANN",Democrat,1,1,,,INCUMBENT (ENDORSED 1976) ENDORSED FOR TRAVIS COUNTY COMMISSIONER PRECINCT 3.,0.95
+TX,Austin American-Statesman,144700,1982,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,1,,,INCUMBENT ENDORSED FOR RE-ELECTION TO US SENATE.,0.95
+TX,Austin American-Statesman,144700,1982,GOVERNOR,,,TX,"WHITE, MARK",Democrat,1,,,,ENDORSED; UNSEATED CLEMENTS (R) INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,1982,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,INCUMBENT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1982,TREASURER,,,TX,"RICHARDS, ANN",Democrat,1,,,,ENDORSED FOR STATE TREASURER.,0.95
+TX,Austin American-Statesman,144700,1982,COMPTROLLER,,,TX,"BULLOCK, BOB",Democrat,1,1,,,INCUMBENT ENDORSED FOR COMPTROLLER.,0.95
+TX,Austin American-Statesman,144700,1982,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,,,,ENDORSED FOR LAND COMMISSIONER.,0.95
+TX,Austin American-Statesman,144700,1982,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,,,,ENDORSED FOR AGRICULTURE COMMISSIONER.,0.95
+TX,Austin American-Statesman,144700,1982,RAILROAD COMMISSION,,,TX,"NUGENT, JIM",Democrat,1,1,,,INCUMBENT ENDORSED FOR RAILROAD COMMISSIONER (ELECTED TO UNEXPIRED TERM IN 1980).,0.95
+TX,Austin American-Statesman,144700,1982,ATTORNEY GENERAL,,,TX,"MATTOX, JIM",Democrat,1,,,,ENDORSED FOR ATTORNEY GENERAL. OPEN SEAT (WHITE MOVED UP TO GOV).,0.95
+TX,Austin American-Statesman,144700,1982,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,INCUMBENT ENDORSED FOR US HOUSE DISTRICT 10.,0.95
+TX,Austin American-Statesman,144700,1982,TX SUPREME COURT,Place 1,Place 1,TX,"ROBERTSON, TED Z.",Democrat,1,,,,"ENDORSED FOR JUSTICE, SUPREME COURT PLACE 1.",0.95
+TX,Austin American-Statesman,144700,1982,COURT OF CRIMINAL APPEALS,Place 2,Place 2,TX,"MILLER, CHUCK",Democrat,1,,,,ENDORSED FOR COURT OF CRIMINAL APPEALS PLACE 2.,0.95
+TX,Austin American-Statesman,144700,1982,SCHOOL BOARD,10,State Board of Education District 10,TX,"DAVIS, WILL D.",Democrat,1,,,,ENDORSED FOR STATE BOARD OF EDUCATION DISTRICT 10.,0.95
+TX,Austin American-Statesman,144700,1982,STATE SENATOR,14,,TX,"DOGGETT, LLOYD",Democrat,1,1,,,INCUMBENT ENDORSED FOR STATE SENATOR DISTRICT 14.,0.95
+TX,Austin American-Statesman,144700,1982,STATE REP,47,,TX,"BARTON, BOB JR.",Democrat,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 47 (POST-REDISTRICTING SINGLE-MEMBER DISTRICT).,0.95
+TX,Austin American-Statesman,144700,1982,STATE REP,48,,TX,"ANGERMAN, JERRY",Democrat,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 48.,0.95
+TX,Austin American-Statesman,144700,1982,STATE REP,49,,TX,"HILL, GERALD",Democrat,1,1,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 49 (PREVIOUSLY 37-C INCUMBENT).,0.95
+TX,Austin American-Statesman,144700,1982,STATE REP,50,,TX,"DELCO, WILHELMINA R.",Democrat,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 50.,0.95
+TX,Austin American-Statesman,144700,1982,STATE REP,51,,TX,"BARRIENTOS, GONZALO",Democrat,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 51.,0.95
+TX,Austin American-Statesman,144700,1982,CNTY JUDGE,,Travis County,TX,"RENFRO, MIKE",Democrat,1,1,,,INCUMBENT ENDORSED FOR TRAVIS COUNTY JUDGE.,0.95
+TX,Austin American-Statesman,144700,1982,TREASURER,,Travis County Treasurer,TX,"CROW, JOHNNY",Democrat,1,,,,ENDORSED FOR TRAVIS COUNTY TREASURER.,0.95
+TX,Austin American-Statesman,144700,1982,CNTY COMM,2,Precinct 2,TX,"HALL, BILL",Republican,1,,,,ENDORSED FOR TRAVIS COUNTY COMMISSIONER PCT. 2.,0.95
+TX,Austin American-Statesman,144700,1982,CNTY COMM,3,Precinct 3,TX,"GARY, LYNN",Republican,1,,,,ENDORSED FOR TRAVIS COUNTY COMMISSIONER PCT. 3.,0.95
+TX,Austin American-Statesman,144700,1982,CNTY COMM,4,Precinct 4,TX,"MOYA, RICHARD",Democrat,1,1,,,INCUMBENT ENDORSED FOR TRAVIS COUNTY COMMISSIONER PCT. 4.,0.95
+TX,Austin American-Statesman,144700,1982,JUSTICE OF PEACE,2,Justice of the Peace Pct. 2,TX,"RAVEL, DEBRA",Democrat,1,,,,ENDORSED FOR JUSTICE OF THE PEACE PCT. 2.,0.95
+TX,Austin American-Statesman,144700,1982,JUSTICE OF PEACE,4,Justice of the Peace Pct. 4,TX,"DURAN, JUAN C.",Democrat,1,,,,ENDORSED FOR JUSTICE OF THE PEACE PCT. 4.,0.95
+TX,Austin American-Statesman,144700,1984,PRESIDENT,,,TX,"MONDALE, WALTER F.",Democrat,1,,,,ENDORSED FOR PRESIDENT. REAGAN (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,1984,VICE PRESIDENT,,,TX,"FERRARO, GERALDINE",Democrat,1,,,,ENDORSED FOR VICE PRESIDENT.,0.95
+TX,Austin American-Statesman,144700,1984,SENATOR,,,TX,"DOGGETT, LLOYD",Democrat,1,,,,ENDORSED FOR US SENATOR (OPEN SEAT - TOWER RETIRED; GRAMM R WON).,0.95
+TX,Austin American-Statesman,144700,1984,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,1,,,INCUMBENT ENDORSED FOR RAILROAD COMMISSIONER.,0.95
+TX,Austin American-Statesman,144700,1984,TX SUPREME COURT,,Chief Justice,TX,"HILL, JOHN L.",Democrat,1,,,,"ENDORSED FOR CHIEF JUSTICE, TEXAS SUPREME COURT.",0.95
+TX,Austin American-Statesman,144700,1984,COURT OF CRIMINAL APPEALS,Place 1,Place 1,TX,"CLINTON, SAM HOUSTON",Democrat,1,,,,ENDORSED FOR COURT OF CRIMINAL APPEALS PLACE 1.,0.95
+TX,Austin American-Statesman,144700,1984,STATE SENATOR,14,,TX,"BARRIENTOS, GONZALO",Democrat,1,,,,ENDORSED FOR STATE SENATOR DISTRICT 14 (DOGGETT MOVED UP TO RUN FOR US SENATE).,0.95
+TX,Austin American-Statesman,144700,1984,STATE REP,47,,TX,"BARTON, BOB JR.",Democrat,1,1,,,INCUMBENT ENDORSED FOR STATE REPRESENTATIVE DISTRICT 47.,0.95
+TX,Austin American-Statesman,144700,1984,STATE REP,49,,TX,"TIDWELL, RUSS",Democrat,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 49.,0.95
+TX,Austin American-Statesman,144700,1984,CNTY COMM,3,Precinct 3,TX,"REED, PAM",Republican,1,,,,ENDORSED FOR COUNTY COMMISSIONER PRECINCT 3.,0.95
+TX,Austin American-Statesman,144700,1986,GOVERNOR,,,TX,"WHITE, MARK",Democrat,1,1,,,INCUMBENT DEMOCRAT ENDORSED (CLEMENTS R CHALLENGER ULTIMATELY WON).,0.95
+TX,Austin American-Statesman,144700,1986,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,INCUMBENT ENDORSED.,0.95
+TX,Austin American-Statesman,144700,1986,H,10,,TX,"PICKLE, JAKE",Democrat,1,1,,,INCUMBENT ENDORSED FOR US REPRESENTATIVE 10TH DISTRICT.,0.95
+TX,Austin American-Statesman,144700,1986,ATTORNEY GENERAL,,,TX,"MATTOX, JIM",Democrat,1,1,,,INCUMBENT ENDORSED FOR ATTORNEY GENERAL.,0.95
+TX,Austin American-Statesman,144700,1986,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,INCUMBENT ENDORSED FOR LAND COMMISSIONER.,0.95
+TX,Austin American-Statesman,144700,1986,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,1,,,INCUMBENT ENDORSED FOR AGRICULTURE COMMISSIONER.,0.95
+TX,Austin American-Statesman,144700,1986,RAILROAD COMMISSION,,,TX,"SHARP, JOHN",Democrat,1,,,,STATE SEN. JOHN SHARP ENDORSED FOR RAILROAD COMMISSION.,0.95
+TX,Austin American-Statesman,144700,1986,TX SUPREME COURT,Place 1,Place 1,TX,"MAUZY, OSCAR",,1,,,,ENDORSED FOR SUPREME COURT PLACE 1.,0.95
+TX,Austin American-Statesman,144700,1986,TX SUPREME COURT,Place 2,Place 2,TX,"CAMPBELL, ROBERT M.",,1,,,,ENDORSED FOR SUPREME COURT PLACE 2.,0.95
+TX,Austin American-Statesman,144700,1986,TX SUPREME COURT,Place 4,Place 4,TX,"GONZALEZ, RAUL A.",,1,,,,ENDORSED FOR SUPREME COURT PLACE 4.,0.95
+TX,Austin American-Statesman,144700,1986,STATE REP,47,,TX,"COOPER, ANNE",,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 47.,0.95
+TX,Austin American-Statesman,144700,1986,STATE REP,49,,TX,"RICHARDSON, BOB",,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 49.,0.95
+TX,Austin American-Statesman,144700,1986,CNTY JUDGE,,Travis County,TX,"ALESHIRE, BILL",Democrat,1,,,,ENDORSED FOR TRAVIS COUNTY JUDGE.,0.95
+TX,Austin American-Statesman,144700,1986,TAX ASSESSOR,,Travis County,TX,"BURKE, CECELIA",Democrat,1,,,,ENDORSED FOR COUNTY TAX ASSESSOR-COLLECTOR.,0.95
+TX,Austin American-Statesman,144700,1986,CNTY COMM,2,Precinct 2,TX,"TODD, BRUCE",Democrat,1,,,,ENDORSED FOR TRAVIS COUNTY COMMISSIONER PCT. 2.,0.95
+TX,Austin American-Statesman,144700,1986,JUSTICE OF PEACE,3,Justice of Peace Pct. 3,TX,"MOORE, ROGER",,1,,,,ENDORSED FOR JUSTICE OF PEACE PCT. 3.,0.95
+TX,Austin American-Statesman,144700,1988,PRESIDENT,,,TX,"DUKAKIS, MICHAEL S.",Democrat,1,,,,ENDORSED FOR PRESIDENT. OPEN SEAT (REAGAN TERM-LIMITED).,0.95
+TX,Austin American-Statesman,144700,1988,VICE PRESIDENT,,,TX,"BENTSEN, LLOYD",Democrat,1,,,,ENDORSED FOR VICE PRESIDENT (ALSO RUNNING FOR RE-ELECTION TO US SENATE).,0.95
+TX,Austin American-Statesman,144700,1988,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,1,,,INCUMBENT ENDORSED FOR US SENATOR WHILE SIMULTANEOUSLY RUNNING FOR VP.,0.95
+TX,Austin American-Statesman,144700,1988,H,10,,TX,"PICKLE, J. J. ""JAKE""",Democrat,1,1,,,INCUMBENT ENDORSED FOR US REPRESENTATIVE DISTRICT 10.,0.95
+TX,Austin American-Statesman,144700,1988,RAILROAD COMMISSION,,,TX,"EMMETT, ED",Republican,1,,,,ENDORSED FOR RAILROAD COMMISSIONER.,0.95
+TX,Austin American-Statesman,144700,1988,RAILROAD COMMISSION,,Unexpired term,TX,"HANCE, KENT R.",Republican,1,,,,ENDORSED FOR RAILROAD COMMISSIONER UNEXPIRED TERM.,0.95
+TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,Chief Justice,Chief Justice,TX,"PHILLIPS, TOM",Republican,1,,,,ENDORSED FOR CHIEF JUSTICE SUPREME COURT.,0.95
+TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,Place 1,Place 1,TX,"DOGGETT, LLOYD",Democrat,1,,,,ENDORSED FOR JUSTICE SUPREME COURT PLACE 1.,0.95
+TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,Place 2,Place 2,TX,"HECHT, NATHAN",Republican,1,,,,ENDORSED FOR JUSTICE SUPREME COURT PLACE 2.,0.95
+TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,Place 3,Place 3,TX,"GONZALEZ, RAUL A.",Democrat,1,,,,ENDORSED FOR JUSTICE SUPREME COURT PLACE 3.,0.95
+TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,Place 4,Place 4,TX,"CULVER, BARBARA G.",Republican,1,,,,ENDORSED FOR JUSTICE SUPREME COURT PLACE 4.,0.95
+TX,Austin American-Statesman,144700,1988,TX SUPREME COURT,Place 5,Place 5,TX,"BAYER, KARL",Democrat,1,,,,ENDORSED FOR JUSTICE SUPREME COURT PLACE 5.,0.95
+TX,Austin American-Statesman,144700,1988,COURT OF CRIMINAL APPEALS,Presiding,Presiding Judge,TX,"MCCORMICK, MIKE",Democrat,1,,,,"ENDORSED FOR PRESIDING JUDGE, COURT OF CRIMINAL APPEALS.",0.95
+TX,Austin American-Statesman,144700,1988,COURT OF CRIMINAL APPEALS,Place 1,Place 1,TX,"CAMPBELL, CHARLES F. ""CHUCK""",Democrat,1,,,,ENDORSED FOR COURT OF CRIMINAL APPEALS PLACE 1.,0.95
+TX,Austin American-Statesman,144700,1988,COURT OF CRIMINAL APPEALS,Place 2,Place 2,TX,"MILLER, CHUCK",Democrat,1,1,,,ENDORSED FOR COURT OF CRIMINAL APPEALS PLACE 2 (ENDORSED IN 1982 TOO).,0.95
+TX,Austin American-Statesman,144700,1988,SCHOOL BOARD,10,State Board of Education District 10,TX,"DAVIS, WILL",Democrat,1,1,,,ENDORSED FOR STATE BOARD OF EDUCATION DISTRICT 10.,0.95
+TX,Austin American-Statesman,144700,1988,STATE SENATOR,14,,TX,"BARRIENTOS, GONZALO",Democrat,1,1,,,INCUMBENT ENDORSED FOR STATE SENATOR DISTRICT 14.,0.95
+TX,Austin American-Statesman,144700,1988,STATE REP,47,,TX,"COOPER, ANNE",Republican,1,,1,,REPUBLICAN INCUMBENT ENDORSED FOR STATE REPRESENTATIVE DISTRICT 47.,0.95
+TX,Austin American-Statesman,144700,1988,STATE REP,48,,TX,"SMITH, TERRAL",Republican,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 48.,0.95
+TX,Austin American-Statesman,144700,1988,STATE REP,49,,TX,"RICHARDSON, BOB",Republican,1,,1,,REPUBLICAN INCUMBENT ENDORSED FOR STATE REPRESENTATIVE DISTRICT 49.,0.95
+TX,Austin American-Statesman,144700,1988,STATE REP,50,,TX,"DELCO, WILHELMINA R.",Democrat,1,1,,,INCUMBENT ENDORSED FOR STATE REPRESENTATIVE DISTRICT 50.,0.95
+TX,Austin American-Statesman,144700,1988,STATE REP,51,,TX,"GUERRERO, LENA",Democrat,1,1,,,INCUMBENT ENDORSED FOR STATE REPRESENTATIVE DISTRICT 51.,0.95
+TX,Austin American-Statesman,144700,1988,SHERIFF,,Travis County,TX,"BAILEY, DOYNE",Democrat,1,1,,,INCUMBENT ENDORSED FOR TRAVIS COUNTY SHERIFF.,0.95
+TX,Austin American-Statesman,144700,1988,TAX ASSESSOR,,Travis County,TX,"BURKE, CECELIA",Democrat,1,1,,,INCUMBENT ENDORSED FOR TRAVIS COUNTY TAX ASSESSOR-COLLECTOR.,0.95
+TX,Austin American-Statesman,144700,1988,CNTY COMM,1,Precinct 1,TX,"BISCOE, SAM",Democrat,1,,,,ENDORSED FOR TRAVIS COUNTY COMMISSIONER PRECINCT 1.,0.95
+TX,Austin American-Statesman,144700,1988,CNTY COMM,3,Precinct 3,TX,"REED, PAM",Democrat,1,1,,,ENDORSED FOR TRAVIS COUNTY COMMISSIONER PRECINCT 3 (ENDORSED IN 1984 AS R; PARTY MAY HAVE CHANGED - PAPER LABELS D).,0.95
+TX,Austin American-Statesman,144700,1988,JUSTICE OF PEACE,3,Justice of the Peace Precinct 3,TX,"OUJESKY, RAY",Republican,1,,,,ENDORSED FOR JUSTICE OF THE PEACE PRECINCT 3.,0.95
+TX,Austin American-Statesman,144700,1990,GOVERNOR,,,TX,"RICHARDS, ANN",Democrat,1,,,,ENDORSED FOR TEXAS GOVERNOR. OPEN SEAT (CLEMENTS R RETIRED).,0.95
+TX,Austin American-Statesman,144700,1990,SENATOR,,,TX,"PARMER, HUGH",Democrat,1,,,,ENDORSED FOR US SENATOR. GRAMM (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,1990,H,10,,TX,"PICKLE, J. J. ""JAKE""",Democrat,1,1,,,INCUMBENT ENDORSED FOR US REPRESENTATIVE.,0.95
+TX,Austin American-Statesman,144700,1990,LT GOVERNOR,,,TX,"BULLOCK, BOB",Democrat,1,,,,ENDORSED FOR LT GOVERNOR (WAS INCUMBENT COMPTROLLER).,0.95
+TX,Austin American-Statesman,144700,1990,ATTORNEY GENERAL,,,TX,"MORALES, DAN",Democrat,1,,,,ENDORSED FOR ATTORNEY GENERAL.,0.95
+TX,Austin American-Statesman,144700,1990,COMPTROLLER,,,TX,"SHARP, JOHN",Democrat,1,,,,ENDORSED FOR COMPTROLLER.,0.95
+TX,Austin American-Statesman,144700,1990,TREASURER,,State Treasurer,TX,"VAN HIGHTOWER, NIKKI",Democrat,1,,,,ENDORSED FOR STATE TREASURER.,0.95
+TX,Austin American-Statesman,144700,1990,LAND COMMISSIONER,,Commissioner of the General Land Office,TX,"MAURO, GARRY",Democrat,1,1,,,INCUMBENT ENDORSED FOR LAND COMMISSIONER.,0.95
+TX,Austin American-Statesman,144700,1990,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,1,,,INCUMBENT ENDORSED FOR COMMISSIONER OF AGRICULTURE.,0.95
+TX,Austin American-Statesman,144700,1990,RAILROAD COMMISSION,,,TX,"KRUEGER, BOB",Democrat,1,,,,ENDORSED FOR RAILROAD COMMISSIONER.,0.95
+TX,Austin American-Statesman,144700,1990,TX SUPREME COURT,Chief Justice,Chief Justice,TX,"PHILLIPS, TOM",Republican,1,,1,,INCUMBENT ENDORSED FOR CHIEF JUSTICE SUPREME COURT.,0.95
+TX,Austin American-Statesman,144700,1990,TX SUPREME COURT,Place 1,Place 1,TX,"CORNYN, JOHN",Republican,1,,,,ENDORSED FOR JUSTICE SUPREME COURT PLACE 1.,0.95
+TX,Austin American-Statesman,144700,1990,TX SUPREME COURT,Place 2,Place 2,TX,"GAMMAGE, BOB",Democrat,1,,,,ENDORSED FOR JUSTICE SUPREME COURT PLACE 2.,0.95
+TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,Place 1,Place 1,TX,"MALONEY, FRANK",,1,,,,ENDORSED FOR COURT OF CRIMINAL APPEALS PLACE 1.,0.95
+TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,Place 2,Place 2,TX,"CLINTON, SAM HOUSTON",,1,,,,ENDORSED FOR COURT OF CRIMINAL APPEALS PLACE 2.,0.95
+TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,Place 3,Place 3,TX,"WHITE, BILL",,1,,,,ENDORSED FOR COURT OF CRIMINAL APPEALS PLACE 3.,0.95
+TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,Place 4,Place 4,TX,"BAIRD, CHARLIE",,1,,,,ENDORSED FOR COURT OF CRIMINAL APPEALS PLACE 4.,0.95
+TX,Austin American-Statesman,144700,1990,COURT OF CRIMINAL APPEALS,Place 5,Place 5,TX,"STURNS, LOUIS",,1,,,,ENDORSED FOR COURT OF CRIMINAL APPEALS PLACE 5.,0.95
+TX,Austin American-Statesman,144700,1990,SCHOOL BOARD,10,State Board of Education District 10,TX,"DAVIS, WILL",Democrat,1,1,,,ENDORSED FOR STATE BOARD OF EDUCATION DISTRICT 10.,0.95
+TX,Austin American-Statesman,144700,1990,STATE REP,48,,TX,"GREENBERG, SHERRI",Democrat,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 48.,0.95
+TX,Austin American-Statesman,144700,1990,STATE REP,49,,TX,"NAISHTAT, ELLIOTT",Democrat,1,,,,ENDORSED FOR STATE REPRESENTATIVE DISTRICT 49.,0.95
+TX,Austin American-Statesman,144700,1990,STATE REP,50,,TX,"DELCO, WILHELMINA R.",Democrat,1,1,,,INCUMBENT ENDORSED FOR STATE REPRESENTATIVE DISTRICT 50.,0.95
+TX,Austin American-Statesman,144700,1990,COURT OF APPEALS,3,3rd Court of Appeals,TX,"KIDD, MACK",,1,,,,"ENDORSED FOR JUSTICE, 3RD COURT OF APPEALS.",0.95
+TX,Austin American-Statesman,144700,1990,DISTRICT COURT JUDGE,250,250th District,TX,"WILSON, WILL",,1,,,,"ENDORSED FOR JUDGE, 250TH DISTRICT.",0.95
+TX,Austin American-Statesman,144700,1990,CNTY JUDGE,,Travis County,TX,"ALESHIRE, BILL",Democrat,1,1,,,INCUMBENT ENDORSED FOR TRAVIS COUNTY JUDGE.,0.95
+TX,Austin American-Statesman,144700,1990,CNTY COMM,2,Precinct 2,TX,"TODD, BRUCE",Democrat,1,1,,,INCUMBENT ENDORSED FOR COUNTY COMMISSIONER PRECINCT 2.,0.95
+TX,Austin American-Statesman,144700,1990,JUSTICE OF PEACE,2,Justice of the Peace Precinct 2,TX,"BRELAND, JAN",,1,,,,ENDORSED FOR JUSTICE OF THE PEACE PRECINCT 2.,0.95
+TX,Austin American-Statesman,144700,1990,JUSTICE OF PEACE,3,Justice of the Peace Precinct 3,TX,"DAVIS, SCOTT",,1,,,,ENDORSED FOR JUSTICE OF THE PEACE PRECINCT 3.,0.95
+TX,Austin American-Statesman,144700,2022,GOVERNOR,,,TX,"O'ROURKE, BETO",Democrat,1,,,,RECOMMENDATION: TEXAS GOVERNOR. ABBOTT (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,LT GOVERNOR,,,TX,"COLLIER, MIKE",Democrat,1,,,,RECOMMENDATION: TEXAS LT. GOVERNOR. PATRICK (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,ATTORNEY GENERAL,,,TX,"GARZA, ROCHELLE",Democrat,1,,,,RECOMMENDATION: TEXAS ATTORNEY GENERAL. PAXTON (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,H,10,,TX,"MCCAUL, MICHAEL",Republican,1,,1,,RECOMMENDATION: 'REP. MICHAEL MCCAUL FOR U.S. HOUSE DISTRICT 10' - INCUMBENT REPUBLICAN.,0.95
+TX,Austin American-Statesman,144700,2022,H,21,,TX,"ZAPATA, CLAUDIA",Democrat,1,,,,RECOMMENDATION: 'CLAUDIA ZAPATA FOR U.S. HOUSE DISTRICT 21'. CHIP ROY (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,H,35,,TX,"CASAR, GREG",Democrat,1,,,,RECOMMENDATION: 'GREG CASAR FOR U.S. HOUSE DISTRICT 35'.,0.95
+TX,Austin American-Statesman,144700,2022,H,37,,TX,"DOGGETT, LLOYD",Democrat,1,1,,,RECOMMENDATION: 'LLOYD DOGGETT FOR U.S. HOUSE DISTRICT 37'. INCUMBENT (HAD HELD TX-35).,0.95
+TX,Austin American-Statesman,144700,2022,STATE SENATOR,21,,TX,"ZAFFIRINI, JUDITH",Democrat,1,1,,,RECOMMENDATION: 'SEN. JUDITH ZAFFIRINI FOR TEXAS SENATE 21' - INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,STATE SENATOR,25,,TX,"WALSH, ROBERT",Democrat,1,,,,RECOMMENDATION: 'ROBERT WALSH FOR TEXAS SENATE 25'. DONNA CAMPBELL (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,STATE REP,19,,TX,"BAGGETT, PAM",Democrat,1,,,,RECOMMENDATION: 'PAM BAGGETT FOR TEXAS HOUSE 19'.,0.95
+TX,Austin American-Statesman,144700,2022,STATE REP,48,,TX,"HOWARD, DONNA",Democrat,1,1,,,RECOMMENDATION: 'REP. DONNA HOWARD FOR TEXAS HOUSE 48' - INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,STATE REP,50,,TX,"TALARICO, JAMES",Democrat,1,1,,,RECOMMENDATION: 'REP. JAMES TALARICO FOR TEXAS HOUSE 50' - INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,STATE REP,51,,TX,"FLORES, MARIA LUISA ""LULU""",Democrat,1,,,,"RECOMMENDATION: 'MARIA LUISA ""LULU"" FLORES FOR TEXAS HOUSE 51'.",0.95
+TX,Austin American-Statesman,144700,2022,STATE REP,45,,TX,"ZWIENER, ERIN",Democrat,1,1,,,RECOMMENDATION: 'ERIN ZWIENER FOR TEXAS HOUSE 45' - INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,STATE REP,47,,TX,"GOODWIN, VIKKI",Democrat,1,1,,,RECOMMENDATION: 'REP. VIKKI GOODWIN FOR TEXAS HOUSE 47' - INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,STATE REP,49,,TX,"HINOJOSA, GINA",Democrat,1,1,,,RECOMMENDATION: 'REP. GINA HINOJOSA FOR TEXAS HOUSE 49' - INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,STATE REP,136,,TX,"BUCY, JOHN III",Democrat,1,1,,,RECOMMENDATION: 'REP. JOHN BUCY III FOR TEXAS HOUSE 136' - INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,AGRICULTURE COMMISSIONER,,,TX,"HAYS, SUSAN",Democrat,1,,,,RECOMMENDATION: SUSAN HAYS FOR AGRICULTURE COMMISSIONER. SID MILLER (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,COMPTROLLER,,,TX,"DUDDING, JANET T.",Democrat,1,,,,RECOMMENDATION: JANET T. DUDDING FOR COMPTROLLER. HEGAR (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,LAND COMMISSIONER,,,TX,"KLEBERG, JAY",Democrat,1,,,,RECOMMENDATION: JAY KLEBERG FOR LAND COMMISSIONER. OPEN SEAT (BUSH RETIRED).,0.95
+TX,Austin American-Statesman,144700,2022,RAILROAD COMMISSION,,,TX,"WARFORD, LUKE",Democrat,1,,,,RECOMMENDATION: LUKE WARFORD FOR RAILROAD COMMISSIONER. CHRISTIAN (R) WAS INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,CNTY JUDGE,,Travis County,TX,"BROWN, ANDY",Democrat,1,1,,,RECOMMENDATION: COUNTY JUDGE ANDY BROWN - INCUMBENT.,0.95
+TX,Austin American-Statesman,144700,2022,CNTY CLERK,,Travis County,TX,"LIMON-MERCADO, DYANA",Democrat,1,,,,RECOMMENDATION: DYANA LIMON-MERCADO FOR COUNTY CLERK.,0.95
+TX,Austin American-Statesman,144700,2022,MAYOR,,Austin,TX,"ISRAEL, CELIA",,1,,,,RECOMMENDATION: STATE REP. CELIA ISRAEL FOR AUSTIN MAYOR. AUSTIN MAYOR IS NONPARTISAN.,0.95
+TX,Austin American-Statesman,144700,2022,CITY COUNCIL,1,Austin City Council District 1,TX,"HARPER-MADISON, NATASHA",,1,,,,RECOMMENDATION: NATASHA HARPER-MADISON FOR DISTRICT 1 (INCUMBENT).,0.95
+TX,Austin American-Statesman,144700,2022,CITY COUNCIL,3,Austin City Council District 3,TX,"ELIAS, JOSE NOE",,1,,,,RECOMMENDATION: JOSE NOE ELIAS FOR DISTRICT 3.,0.95
+TX,Austin American-Statesman,144700,2022,CITY COUNCIL,5,Austin City Council District 5,TX,"ALTER, RYAN",,1,,,,RECOMMENDATION: RYAN ALTER FOR DISTRICT 5.,0.95
+TX,Austin American-Statesman,144700,2022,CITY COUNCIL,8,Austin City Council District 8,TX,"ELLIS, PAIGE",,1,,,,RECOMMENDATION: PAIGE ELLIS FOR DISTRICT 8 (INCUMBENT).,0.95
+TX,Austin American-Statesman,144700,2022,CITY COUNCIL,9,Austin City Council District 9,TX,"LEFFLER, BEN",,1,,,,RECOMMENDATION: BEN LEFFLER FOR DISTRICT 9.,0.95
+TX,Austin American-Statesman,144700,2022,SCHOOL BOARD,1,AISD District 1,TX,"EVANS, ROXANNE",,1,,,,RECOMMENDATION: ROXANNE EVANS FOR AISD DISTRICT 1.,0.95
+TX,Austin American-Statesman,144700,2022,SCHOOL BOARD,6,AISD District 6,TX,"GONZALES, ANDREW",,1,,,,RECOMMENDATION: ANDREW GONZALES FOR AISD DISTRICT 6.,0.95
+TX,Austin American-Statesman,144700,2022,SCHOOL BOARD,9,AISD District 9,TX,"SINGH, ARATI",,1,,,,RECOMMENDATION: ARATI SINGH FOR AISD DISTRICT 9.,0.95
+TX,Austin American-Statesman,144700,2008,H,31,,TX,"CARTER, JOHN",Republican,1,,1,,OCR-VERIFIED 2026-06-01: PATTERN J ADD,0.9
+TX,Austin American-Statesman,144700,2008,TX SUPREME COURT,Chief Justice,,TX,"JEFFERSON, WALLACE",Republican,1,,1,,OCR-VERIFIED 2026-06-01: PATTERN J ADD,0.9
+TX,Austin American-Statesman,144700,2008,TX SUPREME COURT,Place 7,,TX,"HOUSTON, SAM",Democrat,1,,,,OCR-VERIFIED 2026-06-01: PATTERN J ADD,0.9
+TX,Austin American-Statesman,144700,2008,TX SUPREME COURT,Place 8,,TX,"YAFTEZ, LINDA",Democrat,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,COURT OF APPEALS,3rd,Chief Justice,TX,"JONES, WOODIE",,1,,,,"OCR LISTED PARTY AS ""(0)"" - LIKELY INDEPENDENT OR UNSPECIFIED | OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD",0.92
+TX,Austin American-Statesman,144700,2008,STATE REP,17,,TX,"DIPPEL, DONNIE",Democrat,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,STATE REP,20,,TX,"GATTIS, DAN",Republican,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,STATE REP,45,,TX,"ROSE, PATRICK",Democrat,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,SHERIFF,,Travis County,TX,"HAMILTON, GREG",Democrat,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,TAX ASSESSOR,,Travis County,TX,"SPEARS, NELDA WELLS",Democrat,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,CNTY COMM,3,Travis County,TX,"HUBER, KAREN",Democrat,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,DISTRICT COURT JUDGE,427th,Travis County,TX,"CORONADO, JIM",,1,,,,"OCR LISTED PARTY AS ""(0)"" | OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD",0.92
+TX,Austin American-Statesman,144700,2008,CNTY COMM,1,Williamson County,TX,"BIRKMAN, LISA",Republican,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,CNTY COMM,3,Williamson County,TX,"COVEY, VALERIE",Republican,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,DA/PROSECUTOR,,Williamson County,TX,"DUTY, JANA",Republican,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,SHERIFF,,Hays County,TX,"BRIDGES, ALLEN",Republican,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,TAX ASSESSOR,,Hays County,TX,"CARAWAY, LUANNE",Republican,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,CNTY COMM,3,Hays County,TX,"CONLEY, WILL",Republican,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,MAYOR,,San Marcos,TX,"NARVAIZ, SUSAN CLIFFORD",,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,CITY COUNCIL,Place 4,San Marcos,TX,"JONES, CHRISTOPHER",,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,SHERIFF,,Bastrop County,TX,"PICKERING, TERRY",Republican,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,CNTY COMM,1,Bastrop County,TX,"JACKSON, DOCK",Democrat,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,CNTY COMM,3,Bastrop County,TX,"KLAUS, JOHN",Democrat,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,DISTRICT COURT JUDGE,423rd,Bastrop County,TX,"VAN GILDER, DEREK",Republican,1,,,,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92

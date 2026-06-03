@@ -1,39 +1,39 @@
 Newspaper Name: AUSTIN STATESMAN
 Alternative Names: REVIEW
 Years Published: REVIEW
-Newspaper ID number: REVIEW
+Newspaper ID number: 144702
+State: TX (Austin / Travis County)
 Number of clippings: 15
-Endorsement data years: 1970
+Endorsement data years: 1960, 1962, 1968, 1970, 1972
 
 --- ENDORSEMENT COUNTS ---
-Total candidate records: 9
-  Endorsed (=1): 9
-  Opposed (=0): 0
-  No position (null): 0
-Total proposition records: 9
-  Endorsed (=1): 6
+Total candidate records: 18 (17 endorsed, 1 opposed)
+Total proposition records: 8
+  Endorsed (=1): 7
   Opposed (=0): 1
+  No position (null): 0
 
 --- DATA QUALITY ---
-Flagged for review: 0 candidates, 2 propositions
+Flagged for review: 0 candidates, 0 propositions
 Extraction errors: 0
 Parse errors: 0
-No-endorsement clippings: 4
-Duplicates removed: 0 candidates, 0 propositions
+No-endorsement clippings: 1 (1970-11-01 only — 3 prior "no-endorsement" flags were wrong, recovered in V3 Round 3)
+Duplicates removed: 0 candidates, 3 propositions (1960 Amend 4 ×2, 1972 Amend 4 ×3)
 
 --- CONFIDENCE SCORES ---
-Min: 0.65
-Mean: 0.84
-Max: 0.90
-Below threshold (0.75): 2
+Min: 0.8
+Mean: 0.89
+Max: 0.92
+Below threshold (0.75): 0
 
 --- REVIEW QUEUE ---
-  [no_endorsements] 144700_19601107: EDITORIAL ABOUT VOTING AND SUFFRAGE; NO SPECIFIC CANDIDATE OR PROPOSITION ENDORSEMENTS
-  [no_endorsements] 144700_19621101: EDITORIAL TITLED 'ELECTION APATHY DIMS'; DISCUSSES GENERAL ELECTION CONCERNS; NO SPECIFIC ENDORSEMENTS FOR CANDIDATES OR PROPOSITIONS
-  [no_endorsements] 144700_19681105: EDITORIAL TITLED 'VOTE ANGRILY AND PICKLE'; DISCUSSES VOTING AND ELECTORAL POLITICS IN GENERAL; NO SPECIFIC CANDIDATE OR PROPOSITION ENDORSEMENTS
-  [no_endorsements] 144700_19701101: EDITORIAL TITLED 'VOTE FOR CANDIDATE YOU PREFER'; DISCUSSES GENERAL VOTING APPROACHES AND POLITICAL INDEPENDENCE; ENDORSES VOTING BUT NO SPECIFIC CANDIDATES OR PROPOSITIONS
+  None
 
 --- NOTES ---
-(Add any additional notes here)
+2026-06-01 V3 QA pass: Folder underwent 5 rounds of OCR verification + formal endorsement-qa skill pass.
+Caught 7 Pattern J adds across 1960/1962/1968 from clippings INCORRECTLY metadata-flagged as no-endorsement.
+Cross-verified with Austin American 144701 (paired morning paper) — PERFECT agreement on all candidates,
+incumbency, Pattern A pairs. 4 cross-flagged Austin American errors fixed: Barnes office, Mutscher office,
+Angly typo, Foreman party.
 
-Compiled: 2026-04-02 06:18:29
+Compiled: 2026-06-01 (V3 regen)

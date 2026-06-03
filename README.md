@@ -6,7 +6,7 @@
 
 ## Abstract
 
-The Local Newspaper Endorsements Archive represents the largest systematic collection of newspaper endorsements for political candidates and ballot measures from U.S. newspapers, spanning from 1882 to the present day. The dataset currently contains over 38,472 endorsement records across 84 newspapers in 26 states and continues to grow as additional records are digitized and added. This comprehensive historical record enables researchers to examine newspaper editorial behavior across more than a century of American politics, revealing patterns of partisan bias, editorial slant, and evolving media influence on electoral outcomes. The endorsements also provide a novel measure of candidate quality: candidates who receive support from newspapers with diverse partisan leanings demonstrate broader appeal and measurable strength as political contenders. By combining historical depth with ongoing updates, this archive serves as an essential resource for scholars studying the intersection of media, politics, and democracy.
+The Local Newspaper Endorsements Archive represents the largest systematic collection of newspaper endorsements for political candidates and ballot measures from U.S. newspapers, spanning from 1882 to the present day. The dataset currently contains over 62,232 endorsement records across 128 newspapers in 34 states and continues to grow as additional records are digitized and added. This comprehensive historical record enables researchers to examine newspaper editorial behavior across more than a century of American politics, revealing patterns of partisan bias, editorial slant, and evolving media influence on electoral outcomes. The endorsements also provide a novel measure of candidate quality: candidates who receive support from newspapers with diverse partisan leanings demonstrate broader appeal and measurable strength as political contenders. By combining historical depth with ongoing updates, this archive serves as an essential resource for scholars studying the intersection of media, politics, and democracy.
 
 ## Contributors
 
@@ -22,36 +22,44 @@ The Local Newspaper Endorsements Archive contains historical newspaper endorseme
 
 | | Candidates | Propositions | Total |
 |---|----------:|-----------:|------:|
-| **Records** | 26,974 | 11,498 | 38,472 |
+| **Records** | 45,990 | 16,242 | 62,232 | 11,498 | 38,472 |
 
 | State | Newspapers | Records | Year Range |
 |-------|----------:|--------:|-----------|
-| Alabama | 5 | 1,811 | 1890-2016 |
-| Arizona | 5 | 4,615 | 1920-2020 |
-| California | 8 | 9,402 | 1882-2024 |
-| Colorado | 1 | 452 | 1968-2022 |
+| Alabama | 5 | 1,944 | 1890-2016 |
+| Arizona | 5 | 4,501 | 1920-2020 |
+| California | 14 | 11,809 | 1882-2024 |
+| Colorado | 2 | 1,042 | 1950-2022 |
 | Connecticut | 1 | 58 | 1960-1974 |
-| Florida | 2 | 1,849 | 1946-2022 |
-| Georgia | 3 | 1,336 | 1960-2012 |
+| DC | 1 | 1,318 | 1974-2020 |
+| Delaware | 3 | 725 | 1960-2018 |
+| District of Columbia | 1 | 1,318 | 1974-2020 |
+| Florida | 3 | 3,145 | 1946-2022 |
+| Georgia | 3 | 1,335 | 1960-2012 |
 | Hawaii | 4 | 828 | 1900-2018 |
 | Illinois | 2 | 649 | 1960-2004 |
-| Indiana | 5 | 1,537 | 1918-2016 |
+| Indiana | 5 | 1,539 | 1918-2016 |
 | Iowa | 3 | 401 | 1952-2020 |
-| Louisiana | 2 | 537 | 1920-2014 |
-| Minnesota | 3 | 280 | 1920-2020 |
+| Kentucky | 1 | 235 | 1960-1990 |
+| Louisiana | 2 | 549 | 1920-2014 |
+| Massachusetts | 1 | 220 | 1964-2018 |
+| Michigan | 2 | 4,903 | 1968-2022 |
+| Minnesota | 4 | 378 | 1920-2020 |
 | Montana | 1 | 250 | 1952-2010 |
 | Nebraska | 3 | 1,116 | 1952-2018 |
-| New Mexico | 3 | 2,376 | 1882-2020 |
-| North Carolina | 3 | 1,055 | 1950-2018 |
-| Ohio | 1 | 139 | 2008-2018 |
+| Nevada | 1 | 1,406 | 1968-2022 |
+| New Jersey | 1 | 346 | 1978-2018 |
+| New Mexico | 3 | 2,742 | 1882-2020 |
+| North Carolina | 5 | 2,123 | 1950-2020 |
+| Ohio | 6 | 4,391 | 1950-2022 |
 | Oklahoma | 2 | 399 | 1920-1968 |
-| Oregon | 1 | 576 | 1958-2000 |
-| Pennsylvania | 5 | 1,484 | 1940-2022 |
-| South Carolina | 2 | 512 | 1952-2016 |
-| Tennessee | 3 | 269 | 1916-1962 |
-| Texas | 12 | 2,442 | 1920-2018 |
-| Washington | 2 | 2,813 | 1962-2018 |
-| Wisconsin | 2 | 1,286 | 1928-2020 |
+| Oregon | 1 | 585 | 1958-2000 |
+| Pennsylvania | 8 | 1,883 | 1940-2022 |
+| South Carolina | 9 | 1,612 | 1950-2020 |
+| Tennessee | 7 | 612 | 1916-1974 |
+| Texas | 14 | 3,447 | 1920-2022 |
+| Washington | 2 | 2,825 | 1962-2018 |
+| Wisconsin | 3 | 1,598 | 1928-2020 |
 
 See [COVERAGE.md](COVERAGE.md) for the full per-newspaper breakdown.
 

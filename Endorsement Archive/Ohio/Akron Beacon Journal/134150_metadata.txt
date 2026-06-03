@@ -1,37 +1,36 @@
-Newspaper Name: Akron Beacon Journal
-Alternative Names:
-Years Published: 1839-present
-Newspaper ID number: 134150
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Akron Beacon Journal
+Newspaper ID: 134150
+State: OH
 Number of clippings: 12
-Endorsement data years: 1968, 1970, 1972, 1974, 2008, 2010, 2012, 2014, 2016, 2018
+Endorsement data years: 1968-2018
+Total candidate endorsements: 333
+Total proposition endorsements: 46
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 258
-  Endorsed (=1): 258
-  Opposed (=0): 0
-  No position (null): 0
-Total proposition records: 40
-  Endorsed (=1): 29
-  Opposed (=0): 10
+Confidence statistics:
+  Mean confidence: 0.935
+  Low-confidence records (< 0.7): 0
 
---- DATA QUALITY ---
-Flagged for review: 0 candidates, 1 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 1
-Duplicates removed: 0 candidates, 2 propositions (1970 placeholder consolidation)
+Top offices (top 15):
+  STATE REP: 79
+  JUDGE: 46
+  H: 32
+  SUMMIT COUNTY COUNCIL: 31
+  SUPREME COURT: 26
+  STATE SENATOR: 16
+  COURT OF APPEALS: 13
+  CNTY COMM: 8
+  SENATOR: 7
+  TREASURER: 7
+  AUDITOR: 7
+  STATE BOARD OF ED: 6
+  CNTY CLERK: 5
+  DA/PROSECUTOR: 5
+  PRESIDENT: 5
 
---- CONFIDENCE SCORES ---
-Min: 0.75
-Mean: 0.93
-Max: 0.99
-Below threshold (0.75): 0
-
---- REVIEW QUEUE ---
-  [no_endorsements] 134150_20201103: This clipping is an opinion piece about HB 6 repeal, not a traditional election endorsements column.
-
---- NOTES ---
-1968-1974 clippings added 2026-05-20 from user-uploaded 4-page bundle.
-QA pass: 2026-05-20 (PASS WITH MINOR FIXES). See QA_REPORT.md for full audit trail.
-
-Compiled: 2026-05-20 (updated)
+Party distribution:
+  (party not stated): 220
+  Democrat: 59
+  Republican: 54

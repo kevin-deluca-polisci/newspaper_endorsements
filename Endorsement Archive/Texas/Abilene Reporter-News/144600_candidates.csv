@@ -41,7 +41,7 @@ TX,Abilene Reporter-News,144600,1982,RAILROAD COMMISSION,,,TX,"NUGENT, JIM",Demo
 TX,Abilene Reporter-News,144600,1982,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,1,,,Editorial 'Our Choices Repeated For Interested Voters' — Incumbent Democratic Sen. Lloyd Bentsen has been an influential and moderate voice for Texas; established leader in Senate.,0.95
 TX,Abilene Reporter-News,144600,1982,TREASURER,,,TX,"CLARK, ALLEN",Republican,1,,,,"Editorial 'Our Choices Repeated For Interested Voters' — Republican Allen Clark, West Point graduate, Vietnam vet, banker and business executive",0.90
 TX,Abilene Reporter-News,144600,1982,TX SUPREME COURT,,,TX,"ROBERTSON, TED",Democrat,1,,,,"Editorial 'Our Choices Repeated For Interested Voters' — Democrat Ted Robertson, currently 5th Court of Appeals Justice; rated 'best judge' in almost every Dallas Bar poll in recent years",0.95
-TX,Abilene Reporter-News,144600,1984,COURT OF CRIMINAL APPEALS,,,TX,"CLINTON, SAM HOUSTON",Democrat,1,,,,Editorial 'Take time to vote / A privilege' — Judge State Court of Criminal Appeals (name partially legible),0.60
+TX,Abilene Reporter-News,144600,1984,COURT OF CRIMINAL APPEALS,,,TX,"CLINTON, SAM HOUSTON",Democrat,1,,,,Editorial 'Take time to vote / A privilege' — Judge State Court of Criminal Appeals; name clearly readable in Nov 6 recap (verified during re-QA 2026-05-26),0.85
 TX,Abilene Reporter-News,144600,1984,PRESIDENT,,,TX,"REAGAN, RONALD",Republican,1,,1,,Editorial 'Take time to vote / A privilege' — Our endorsements: President Reagan,0.90
 TX,Abilene Reporter-News,144600,1984,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,1,,,Editorial 'Take time to vote / A privilege' — Railroad Commission: Mack Wallace,0.90
 TX,Abilene Reporter-News,144600,1984,SENATOR,,,TX,"GRAMM, PHIL",Republican,1,,,,Editorial 'Take time to vote / A privilege' — Senator: Phil Gramm,0.90
@@ -118,123 +118,100 @@ TX,Abilene Reporter-News,144600,1992,TX SUPREME COURT,,,TX,"COOK, EUGENE",Republ
 TX,Abilene Reporter-News,144600,1992,TX SUPREME COURT,,,TX,"ENOCH, CRAIG",Republican,1,,,,"Editorial 'Finally, election day' — Supreme Court, Place 1",0.95
 TX,Abilene Reporter-News,144600,1992,TX SUPREME COURT,,,TX,"HIGHTOWER, JACK",Democrat,1,,,,"Editorial 'Finally, election day' — Supreme Court, Place 3",0.95
 TX,Abilene Reporter-News,144600,1994,AGRICULTURE COMMISSIONER,,,TX,"PERRY, RICK",Republican,1,1,,,Editorial — Republican incumbent has worked hard for agriculture interests throughout the state,0.98
-TX,Abilene Reporter-News,144600,1994,AGRICULTURE COMMISSIONER,,,TX,RICK PERRY,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1994,ATTORNEY GENERAL,,,TX,DAN MORALES,Democrat,1,,,,,
 TX,Abilene Reporter-News,144600,1994,ATTORNEY GENERAL,,,TX,"MORALES, DAN",Democrat,1,1,,,Editorial — has sued the federal government to recover $6 billion Texas has spent on illegal immigration,0.98
-TX,Abilene Reporter-News,144600,1994,COMPTROLLER,,,TX,JOHN SHARP,Democrat,1,,,,,
 TX,Abilene Reporter-News,144600,1994,COMPTROLLER,,,TX,"SHARP, JOHN",Democrat,1,1,,,Editorial — has brought efficiency to this massive office through intelligent innovations,0.98
-TX,Abilene Reporter-News,144600,1994,COURT OF APPEALS,"11th Court of Appeals, Chief Justice",,TX,BUD ARNOT,Democrat,1,,,,,
+TX,Abilene Reporter-News,144600,1994,COURT OF APPEALS,"11th Court of Appeals, Chief Justice",,TX,"ARNOT, BUD",Democrat,1,,,,,0.85
 TX,Abilene Reporter-News,144600,1994,COURT OF CRIMINAL APPEALS,,,TX,"CAMPBELL, CHARLES",Democrat,1,1,,,"Editorial — Place 1, Democrat; moderate who usually votes for the prosecution and isn't part of the problem on this court",0.95
 TX,Abilene Reporter-News,144600,1994,COURT OF CRIMINAL APPEALS,,,TX,"KELLER, SHARON",Republican,1,,,,"Editorial — Place 2, Republican; offers a consistently conservative viewpoint",0.95
-TX,Abilene Reporter-News,144600,1994,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES CAMPBELL,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1994,COURT OF CRIMINAL APPEALS,Place 2,,TX,SHARON KELLER,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1994,GOVERNOR,,,TX,ANN RICHARDS,Democrat,1,,,,,
 TX,Abilene Reporter-News,144600,1994,GOVERNOR,,,TX,"RICHARDS, ANN",Democrat,1,1,,,Editorial — has posted impressive record of leadership and done the job she was elected to do,0.98
-TX,Abilene Reporter-News,144600,1994,H,17,,TX,CHARLES STENHOLM,Democrat,1,,,,,
 TX,Abilene Reporter-News,144600,1994,H,17,,TX,"STENHOLM, CHARLES",Democrat,1,1,,,"Editorial 'Stenholm could gain from Foley troubles' — incumbent; if Foley loses Speakership, Stenholm has excellent chance to become next House speaker; conservative Democrat",0.98
 TX,Abilene Reporter-News,144600,1994,JUDGE,,Taylor County Court at Law 1,TX,"GRANT, JACK",Republican,1,1,,,"Editorial — Judge, Taylor County Court at Law 1; Republican; has proven he can handle the job effectively",0.90
 TX,Abilene Reporter-News,144600,1994,JUDGE,11,,TX,"ARNOT, BRAD",Republican,1,,,,"Editorial — Chief Justice, 11th Court of Appeals; has shown himself a capable member of this court who deserves the top post",0.85
-TX,Abilene Reporter-News,144600,1994,JUDGE,"Justice of the Peace, Precinct 1, Place 1 (write-in)",,TX,REX ANDREW,,1,,,,,
-TX,Abilene Reporter-News,144600,1994,JUDGE,"Justice of the Peace, Precinct 1, Place 2",,TX,JACKIE KEENAN,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1994,JUDGE,Taylor County Court at Law 1,,TX,JACK GRANT,Republican,1,,,,,
 TX,Abilene Reporter-News,144600,1994,JUSTICE OF PEACE,1,,TX,"ANDREW, REX",Republican,1,,,,"Editorial — Justice of the Peace, Precinct 1, Place 1: Write-in candidate Rex Andrew has performed commendably since being appointed to the JP vacancy",0.90
 TX,Abilene Reporter-News,144600,1994,JUSTICE OF PEACE,1,,TX,"KEENAN, JACKIE",Democrat,1,,,,"Editorial — Justice of the Peace, Precinct 1, Place 2: Democrat would improve an office whose effectiveness has been questioned",0.90
 TX,Abilene Reporter-News,144600,1994,LAND COMMISSIONER,,,TX,"GREYTOK, MARTA",Republican,1,,,,"Editorial — Republican challenger Marta Greytok offers a sensible, back-to-business approach that would be welcome in this office",0.95
-TX,Abilene Reporter-News,144600,1994,LAND COMMISSIONER,,,TX,MARTA GREYTOK,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1994,LT GOVERNOR,,,TX,BOB BULLOCK,Democrat,1,,,,,
 TX,Abilene Reporter-News,144600,1994,LT GOVERNOR,,,TX,"BULLOCK, BOB",Democrat,1,1,,,Editorial — widely recognized as one of the most capable lieutenant governors we've had,0.98
-TX,Abilene Reporter-News,144600,1994,RAILROAD COMMISSION,,,TX,JIM NUGENT,Democrat,1,,,,,
 TX,Abilene Reporter-News,144600,1994,RAILROAD COMMISSION,,,TX,"NABERS, MARY SCOTT",Democrat,1,1,,,"Editorial — Railroad Commission (Unexpired term); Democrat and long-time West Texan, has quickly learned her new responsibilities",0.90
 TX,Abilene Reporter-News,144600,1994,RAILROAD COMMISSION,,,TX,"NUGENT, JIM",Democrat,1,1,,,Editorial — Democrat understands the needs of the oil industry,0.95
-TX,Abilene Reporter-News,144600,1994,RAILROAD COMMISSION,Unexpired term,,TX,MARY SCOTT NABERS,Democrat,1,,,,,
 TX,Abilene Reporter-News,144600,1994,SENATOR,,,TX,"HUTCHISON, KAY BAILEY",Republican,1,,1,,Editorial — strong voice for West Texas in Washington,0.98
-TX,Abilene Reporter-News,144600,1994,SENATOR,,,TX,KAY BAILEY HUTCHISON,Republican,1,,,,,
 TX,Abilene Reporter-News,144600,1994,STATE REP,70,,TX,"COUNTS, DAVID",Democrat,1,1,,,"Editorial — State Representative, District 70; has done a good job representing this part of the state",0.95
-TX,Abilene Reporter-News,144600,1994,STATE REP,70,,TX,DAVID COUNTS,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1994,STATE REP,71,,TX,BOB HUNTER,Republican,1,,,,,
 TX,Abilene Reporter-News,144600,1994,STATE REP,71,,TX,"HUNTER, BOB",Republican,1,1,,,"Editorial — State Representative, District 71; has given Abilene sound representation in the Texas House",0.95
-TX,Abilene Reporter-News,144600,1994,STATE SENATOR,24,,TX,BILL SIMS,Democrat,1,,,,,
 TX,Abilene Reporter-News,144600,1994,STATE SENATOR,24,,TX,"CARRIKER, STEVE",Democrat,1,1,,,"Editorial — Sen. Steve Carriker, Democrat; champion of rural health care and will work hard for West Texas interests",0.90
 TX,Abilene Reporter-News,144600,1994,STATE SENATOR,30,,TX,"SIMS, BILL",Democrat,1,1,,,"Editorial — Sen. Bill Sims, Democrat; established himself as a conservative voice in the Senate and a leader of bipartisan cooperation",0.95
-TX,Abilene Reporter-News,144600,1994,STATE SENATOR,30,,TX,STEVE CARRIKER,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1994,TREASURER,,,TX,MARTHA WHITEHEAD,Democrat,1,,,,,
 TX,Abilene Reporter-News,144600,1994,TREASURER,,,TX,"WHITEHEAD, MARTHA",Democrat,1,,,,Editorial — good idea to save the state millions by abolishing the office,0.95
 TX,Abilene Reporter-News,144600,1994,TX SUPREME COURT,,,TX,"CARROLL, JIMMY",Democrat,1,,,,"Editorial — Place 3, an appeals court judge; Democrat backed by a broad range of supporters from all across the political spectrum",0.90
 TX,Abilene Reporter-News,144600,1994,TX SUPREME COURT,,,TX,"GONZALEZ, RAUL",Democrat,1,1,,,"Editorial — Place 1, Justice; Democrat widely respected for his conservative solidity",0.95
 TX,Abilene Reporter-News,144600,1994,TX SUPREME COURT,,,TX,"HECHT, NATHAN",Republican,1,1,,,"Editorial — Place 2, Justice; Republican; strong conservative voice on the court",0.95
-TX,Abilene Reporter-News,144600,1994,TX SUPREME COURT,Place 1,,TX,RAUL GONZALEZ,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1994,TX SUPREME COURT,Place 2,,TX,NATHAN HECHT,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1994,TX SUPREME COURT,Place 3,,TX,JIMMY CARROLL,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1996,COURT OF APPEALS,"11th Court of Appeals, Justice",,TX,JIM WRIGHT,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,COURT OF CRIMINAL APPEALS,Place 1,,TX,SUE HOLLAND,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,COURT OF CRIMINAL APPEALS,Place 2,,TX,CHARLES HOLCOMB,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1996,COURT OF CRIMINAL APPEALS,Place 3,,TX,TOM PRICE,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,H,17,,TX,CHARLES STENHOLM,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1996,PRESIDENT,,,TX,BOB DOLE,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,RAILROAD COMMISSION,,,TX,CAROLE RYLANDER,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,SENATOR,,,TX,PHIL GRAMM,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,SHERIFF,Taylor County,,TX,JACK DIETEN,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,STATE REP,60,,TX,JOHN COOK,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1996,STATE REP,70,,TX,DAVID COUNTS,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1996,STATE SENATOR,24,,TX,RICK RHODES,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1996,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,TX SUPREME COURT,Place 1,,TX,JOHN CORNYN,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,TX SUPREME COURT,Place 2,,TX,JAMES A. BAKER,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1996,TX SUPREME COURT,Place 3,,TX,GREG ABBOTT,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,AGRICULTURE COMMISSIONER,,,TX,SUSAN COMBS,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,ATTORNEY GENERAL,,,TX,JOHN CORNYN,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,CNTY COMM,"Taylor County, Precinct 2",,TX,"NOWLIN ""CORKY"" COX",Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1998,CNTY COMM,"Taylor County, Precinct 4",,TX,CHUCK STATLER,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,COMPTROLLER,,,TX,PAUL HOBBY,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1998,COURT OF APPEALS,"11th Court of Appeals, Eastland",,TX,TERRY MCCALL,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES BAIRD,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1998,COURT OF CRIMINAL APPEALS,Place 2,,TX,CHERYL JOHNSON,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,COURT OF CRIMINAL APPEALS,Place 3,,TX,LARRY MEYERS,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,DISTRICT COURT JUDGE,326th District Court (Taylor County),,TX,ALETA HACKER,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1998,GOVERNOR,,,TX,GEORGE W. BUSH,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,H,17,,TX,CHARLES STENHOLM,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1998,LAND COMMISSIONER,,,TX,DAVID DEWHURST,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,LT GOVERNOR,,,TX,RICK PERRY,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,RAILROAD COMMISSION,,,TX,TONY GARZA,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,STATE BOARD OF ED,14,,TX,ALLAN BUTCHER,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1998,STATE REP,70,,TX,DAVID COUNTS,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1998,STATE SENATOR,30,,TX,GREG UNDERWOOD,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1998,TREASURER,Taylor County,,TX,LAURA BROWDER,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,1998,TX SUPREME COURT,Place 1,,TX,CRAIG ENOCH,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,TX SUPREME COURT,Place 2,,TX,HARRIET O'NEILL,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,TX SUPREME COURT,Place 3,,TX,GREG ABBOTT,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,1998,TX SUPREME COURT,Place 4,,TX,DEBORAH HANKINSON,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,AGRICULTURE COMMISSIONER,,,TX,SUSAN COMBS,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,ATTORNEY GENERAL,,,TX,GREG ABBOTT,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,COMPTROLLER,,,TX,CAROLE KEETON RYLANDER,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,COURT OF CRIMINAL APPEALS,Place 1,,TX,TOM PRICE,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,COURT OF CRIMINAL APPEALS,Place 2,,TX,PAUL WOMACK,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,COURT OF CRIMINAL APPEALS,Place 3,,TX,CATHY COCHRAN,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,GOVERNOR,,,TX,RICK PERRY,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,H,17,,TX,CHARLES STENHOLM,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,2002,JUDGE,Taylor County Court-at-Law No. 1,,TX,KEN LEGGETT,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,2002,LAND COMMISSIONER,,,TX,JERRY PATTERSON,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,LT GOVERNOR,,,TX,JOHN SHARP,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,2002,RAILROAD COMMISSION,,,TX,SHERRY BOYLES,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,2002,SENATOR,,,TX,JOHN CORNYN,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,STATE BOARD OF ED,15,,TX,BOB CRAIG,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Place 1,,TX,MIKE SCHNEIDER,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Place 2,,TX,JIM PARSONS,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Place 3,,TX,WILLIAM MOODY,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Place 4,,TX,MARGARET MIRABAL,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,2004,COURT OF CRIMINAL APPEALS,Place 2,,TX,LARRY MEYERS,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2004,COURT OF CRIMINAL APPEALS,Place 5,,TX,CHERYL JOHNSON,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2004,COURT OF CRIMINAL APPEALS,Place 6,,TX,MIKE KEASLER,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2004,H,11,,TX,MIKE CONAWAY,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2004,H,13,,TX,MAC THORNBERRY,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2004,H,19,,TX,CHARLIE STENHOLM,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,2004,RAILROAD COMMISSION,,,TX,VICTOR CARRILLO,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2004,SHERIFF,Taylor County,,TX,ART CASAREZ,Democrat,1,,,,,
-TX,Abilene Reporter-News,144600,2004,STATE REP,71,,TX,BOB HUNTER,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2004,TX SUPREME COURT,Place 9,,TX,SCOTT BRISTER,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2016,H,19,,TX,JODEY ARRINGTON,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2016,STATE REP,71,,TX,STAN LAMBERT,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2016,STATE SENATOR,24,,TX,DAWN BUCKINGHAM,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2018,H,19,,TX,JODEY ARRINGTON,Republican,1,,,,,
-TX,Abilene Reporter-News,144600,2018,STATE REP,71,,TX,STAN LAMBERT,Republican,1,,,,,
+TX,Abilene Reporter-News,144600,1996,COURT OF APPEALS,"11th Court of Appeals, Justice",,TX,"WRIGHT, JIM",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,COURT OF CRIMINAL APPEALS,Place 1,,TX,"HOLLAND, SUE",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,COURT OF CRIMINAL APPEALS,Place 2,,TX,"HOLCOMB, CHARLES",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,COURT OF CRIMINAL APPEALS,Place 3,,TX,"PRICE, TOM",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,H,17,,TX,"STENHOLM, CHARLES",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,PRESIDENT,,,TX,"DOLE, BOB",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,RAILROAD COMMISSION,,,TX,"RYLANDER, CAROLE",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,SENATOR,,,TX,"GRAMM, PHIL",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,SHERIFF,Taylor County,,TX,"DIETEN, JACK",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,STATE REP,60,,TX,"COOK, JOHN",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,STATE REP,70,,TX,"COUNTS, DAVID",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,STATE SENATOR,24,,TX,"RHODES, RICK",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,TX SUPREME COURT,Chief Justice,,TX,"PHILLIPS, TOM",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,TX SUPREME COURT,Place 1,,TX,"CORNYN, JOHN",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,TX SUPREME COURT,Place 2,,TX,"BAKER, JAMES A.",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1996,TX SUPREME COURT,Place 3,,TX,"ABBOTT, GREG",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,AGRICULTURE COMMISSIONER,,,TX,"COMBS, SUSAN",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,ATTORNEY GENERAL,,,TX,"CORNYN, JOHN",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,CNTY COMM,"Taylor County, Precinct 2",,TX,"COX, NOWLIN ""CORKY""",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,CNTY COMM,"Taylor County, Precinct 4",,TX,"STATLER, CHUCK",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,COMPTROLLER,,,TX,"HOBBY, PAUL",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,COURT OF APPEALS,"11th Court of Appeals, Eastland",,TX,"MCCALL, TERRY",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,COURT OF CRIMINAL APPEALS,Place 1,,TX,"BAIRD, CHARLES",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,COURT OF CRIMINAL APPEALS,Place 2,,TX,"JOHNSON, CHERYL",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,COURT OF CRIMINAL APPEALS,Place 3,,TX,"MEYERS, LARRY",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,DISTRICT COURT JUDGE,326th District Court (Taylor County),,TX,"HACKER, ALETA",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,GOVERNOR,,,TX,"BUSH, GEORGE W.",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,H,17,,TX,"STENHOLM, CHARLES",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,LAND COMMISSIONER,,,TX,"DEWHURST, DAVID",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,LT GOVERNOR,,,TX,"PERRY, RICK",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,RAILROAD COMMISSION,,,TX,"GARZA, TONY",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,STATE BOARD OF ED,14,,TX,"BUTCHER, ALLAN",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,STATE REP,70,,TX,"COUNTS, DAVID",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,STATE SENATOR,30,,TX,"UNDERWOOD, GREG",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,TREASURER,Taylor County,,TX,"BROWDER, LAURA",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,TX SUPREME COURT,Place 1,,TX,"ENOCH, CRAIG",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,TX SUPREME COURT,Place 2,,TX,"O'NEILL, HARRIET",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,TX SUPREME COURT,Place 3,,TX,"ABBOTT, GREG",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,1998,TX SUPREME COURT,Place 4,,TX,"HANKINSON, DEBORAH",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,AGRICULTURE COMMISSIONER,,,TX,"COMBS, SUSAN",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,ATTORNEY GENERAL,,,TX,"ABBOTT, GREG",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,COMPTROLLER,,,TX,"RYLANDER, CAROLE KEETON",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,COURT OF CRIMINAL APPEALS,Place 1,,TX,"PRICE, TOM",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,COURT OF CRIMINAL APPEALS,Place 2,,TX,"WOMACK, PAUL",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,COURT OF CRIMINAL APPEALS,Place 3,,TX,"COCHRAN, CATHY",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,GOVERNOR,,,TX,"PERRY, RICK",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,H,17,,TX,"STENHOLM, CHARLES",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,JUDGE,Taylor County Court-at-Law No. 1,,TX,"LEGGETT, KEN",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,LAND COMMISSIONER,,,TX,"PATTERSON, JERRY",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,LT GOVERNOR,,,TX,"SHARP, JOHN",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,RAILROAD COMMISSION,,,TX,"BOYLES, SHERRY",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,SENATOR,,,TX,"CORNYN, JOHN",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,STATE BOARD OF ED,15,,TX,"CRAIG, BOB",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Chief Justice,,TX,"PHILLIPS, TOM",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Place 1,,TX,"SCHNEIDER, MIKE",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Place 2,,TX,"PARSONS, JIM",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Place 3,,TX,"MOODY, WILLIAM",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2002,TX SUPREME COURT,Place 4,,TX,"MIRABAL, MARGARET",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,COURT OF CRIMINAL APPEALS,Place 2,,TX,"MEYERS, LARRY",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,COURT OF CRIMINAL APPEALS,Place 5,,TX,"JOHNSON, CHERYL",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,COURT OF CRIMINAL APPEALS,Place 6,,TX,"KEASLER, MIKE",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,H,11,,TX,"CONAWAY, MIKE",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,H,13,,TX,"THORNBERRY, MAC",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,H,19,,TX,"STENHOLM, CHARLIE",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,RAILROAD COMMISSION,,,TX,"CARRILLO, VICTOR",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,SHERIFF,Taylor County,,TX,"CASAREZ, ART",Democrat,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,STATE REP,71,,TX,"HUNTER, BOB",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2004,TX SUPREME COURT,Place 9,,TX,"BRISTER, SCOTT",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2016,H,19,,TX,"ARRINGTON, JODEY",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2016,STATE REP,71,,TX,"LAMBERT, STAN",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2016,STATE SENATOR,24,,TX,"BUCKINGHAM, DAWN",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2018,H,19,,TX,"ARRINGTON, JODEY",Republican,1,,,,,0.85
+TX,Abilene Reporter-News,144600,2018,STATE REP,71,,TX,"LAMBERT, STAN",Republican,1,,,,,0.85

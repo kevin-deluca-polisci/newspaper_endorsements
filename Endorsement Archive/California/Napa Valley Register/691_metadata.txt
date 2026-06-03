@@ -1,0 +1,50 @@
+Newspaper Name: Napa Valley Register
+Alternative Names: Napa Register, The Napa Register
+Years Published: 1853-present
+Newspaper ID number: 691
+Number of clippings: 56
+Endorsement data years: 1928, 1930, 1932, 1934, 1936, 1952, 1954, 1956, 1958, 1962, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2018, 2020
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 194
+  Endorsed (=1): 192
+  Opposed (=0): 2
+  No position (null): 0
+Total proposition records: 335
+  Endorsed (=1): 201
+  Opposed (=0): 131
+
+--- DATA QUALITY ---
+Flagged for review: 194 candidates, 109 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 7
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.55
+Mean: 0.94
+Max: 0.95
+Below threshold (0.75): 4
+
+--- REVIEW QUEUE ---
+  [no_endorsements] 691_19841105_02: No endorsements detected
+  [no_endorsements] 691_19901105_02: No endorsements detected
+  [no_endorsements] 691_19921102_02: No endorsements detected
+  [no_endorsements] 691_19941107_02: No endorsements detected
+  [no_endorsements] 691_19961104_02: No endorsements detected
+  [no_endorsements] 691_19981102_02: No endorsements detected
+  [no_endorsements] 691_20001107: No endorsements detected
+
+--- NOTES ---
+State: CA. Location: Napa. Conservative-leaning paper through mid-20th century, gradually becoming more centrist/nonpartisan by 2000s.
+Seven no-endorsement files are duplicates (same page downloaded on different dates) or a paid political ad (1984 Taxpayers Assn).
+1978 primary (691_19780605.jpg) has 4 low-confidence records due to low-resolution image -- candidates plausible but not fully verified.
+1998 County Supervisor District 1: paper endorsed both Wagenknecht and Kampton without choosing between them.
+2002 Governor: endorsed Green Party candidate Peter Camejo -- notable third-party endorsement.
+Mike Thompson endorsed 1990 (State Senate), 1994 (State Senate), 1998-2020 (Congress) -- longest continuous endorsee in dataset.
+Don Clausen endorsed for Congress 1970-1980 (6 consecutive elections).
+Name standardization applied: CLAUSEN DON -> DON H., BOSCO DOUG -> DOUGLAS, WIGGINS PAT -> PATRICIA.
+2002 Nov 5 version adds Prop 50 (No) not in Nov 4 version -- both coded, Prop 50 in 691_20021105.json only.
+
+Compiled: 2026-04-14 21:14:43

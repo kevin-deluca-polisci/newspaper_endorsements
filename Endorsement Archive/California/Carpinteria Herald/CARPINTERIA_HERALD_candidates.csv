@@ -1,0 +1,62 @@
+state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence,extraction_confidence_note,source_file
+CA,Carpinteria Herald,,1952,H,,,CA,"BRAMBLETT, ERNEST K.",Republican,0,,1,,Paper criticizes lack of war record and aligns with 'long-time Bramblett supporters that it's time for a change',0.82,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,H,,,CA,"HAYES, WILL",Democrat,1,,,,"Editorial frames Hayes positively, criticizes Bramblett. 'Will Hayes has today more newspapers back of him in this election than any other Democratic candidate'",0.85,Editorial fragment from page 10 of multi-page editorial; first page missing from clipping,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1954,SHERIFF,,Santa Barbara County,CA,"BROTHERTON, AL",,1,,,,'Voters should elect Al Brotherton... a man of wide experience in the law enforcement field',0.92,Party not in OCR; nonpartisan local race,carpinteria_19541102_v2.pdf
+CA,Carpinteria Herald,,1954,SHERIFF,,Santa Barbara County,CA,ROSS,,0,,,,Incumbent opposed; paper says office 'has been reluctant to make new innovations',0.85,First name not in OCR,carpinteria_19541102_v2.pdf
+CA,Carpinteria Herald,,1954,STATE ASSEMBLY,,,CA,"DORSEY, BOBBE CAMPBELL",Democrat,1,,,,Endorsed for Assembly; 'great need for women in politics'; full middle name 'Campbell',0.92,,carpinteria_19541102.pdf
+CA,Carpinteria Herald,,1954,STATE ASSEMBLY,,,CA,HOLMES,Republican,0,,,,'We have nothing against Mr. Holmes' but explicitly endorsing Dorsey,0.85,First name not in OCR,carpinteria_19541102.pdf
+CA,Carpinteria Herald,,1956,H,,,CA,"TEAGUE, CHARLES",Republican,1,,1,,'first term... made a good record and also should be re-elected'; instrumental in obtaining release of military lands,0.92,"OCR shows 'Congressman Teague' - first name confirmed via historical record (Charles M. Teague, R-CA)",carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,SENATOR,,,CA,"KUCHEL, THOMAS",Republican,1,,1,,'has done a fine job and deserves to be re-elected',0.92,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,STATE ASSEMBLY,,,CA,HOLMES,Republican,0,,,,Incumbent opposed: 'mediocre record with little chance of doing better',0.85,First name not in OCR,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,STATE ASSEMBLY,,,CA,"O'REILLY, TIMOTHY",Democrat,1,,,,Endorsed over incumbent Holmes who has 'mediocre record',0.92,Party from historical record,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,STATE SENATOR,,,CA,"HOLLISTER, JACK",Republican,1,,,,'has done a good job in Sacramento'; 'should be given another term',0.92,Party from CA cross-filing era; Hollister was Republican,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1958,ATTORNEY GENERAL,,,CA,"MOSK, STANLEY",Democrat,1,,,,Judge with extensive experience,0.92,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,BOARD OF EQUALIZATION,,,CA,"MCDAVIN, ROBERT E.",,1,,,,,0.85,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CONTROLLER,,,CA,"KIRKWOOD, ROBERT C.",Republican,1,,,,,0.88,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,GOVERNOR,,,CA,"BROWN, EDMUND G.",Democrat,1,,,,'Pat' Brown; 'thorough knowledge of the state's problems',0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,H,13,,CA,"TEAGUE, CHARLES M.",Republican,1,,1,,"Knowledge of agriculture, deserves re-election",0.92,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,SENATOR,,,CA,"ENGLE, CLAIR",Democrat,1,,,,"15 years in House, valuable for state",0.92,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,STATE ASSEMBLY,36,,CA,"HOLMES, JAMES L.",Republican,1,,,,,0.9,Paper had opposed Holmes in 1954/1956 but endorsed him in 1958,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,TREASURER,,,CA,"BURTON, A. RONALD",Republican,1,,,,,0.88,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1962,ATTORNEY GENERAL,,,CA,"COAKLEY, TOM",Republican,1,,,,Endorsed over incumbent Mosk; paper had endorsed Mosk in 1958,0.92,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,COUNTY RECORDER,,Santa Barbara County,CA,"DUNN, LAWRENCE H.",,1,,,,Editorial defends Dunn against critic Fowler,0.92,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,GOVERNOR,,,CA,"NIXON, RICHARD M.",Republican,1,,,,,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,H,,,CA,"TEAGUE, CHARLES M.",Republican,1,,1,,,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,LT GOVERNOR,,,CA,"CHRISTOPHER, GEORGE",Republican,1,,,,,0.92,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,SENATOR,,,CA,"KUCHEL, THOMAS H.",Republican,1,,1,,,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,STATE ASSEMBLY,,,CA,"HOLMES, JAMES L.",Republican,1,,1,,,0.92,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,SUPERINTENDENT,,,CA,"RAFFERTY, MAX",,1,,,,State Supt of Public Instruction (nonpartisan),0.92,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1964,PRESIDENT,,,CA,"GOLDWATER, BARRY",Republican,1,,,,Strong editorial endorsement: 'a man of courage and conviction will receive our vote next Tuesday',0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,PRESIDENT,,,CA,"JOHNSON, LYNDON",Democrat,0,1,,,"Paper criticizes Johnson administration: Bobby Baker scandal, dismissal of State Dept officer Otto F. Otepka, hush-up of scandals",0.92,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1966,GOVERNOR,,,CA,"REAGAN, RONALD",Republican,1,,,,'we believe he will become one of the outstanding chief executives in the country',0.95,,carpinteria_19661108.pdf
+CA,Carpinteria Herald,,1966,LT GOVERNOR,,,CA,"FINCH, ROBERT H.",Republican,1,,,,,0.92,,carpinteria_19661108.pdf
+CA,Carpinteria Herald,,1966,STATE SENATOR,24,,CA,"LAGOMARSINO, ROBERT",Republican,1,,,,'one of the state's outstanding young legislators'; 'one of only three Republicans serving as a committee chairman',0.92,OCR rendered as 'Largomarsino',carpinteria_19661108.pdf
+CA,Carpinteria Herald,,1966,STATE SENATOR,24,,CA,"WEINGAND, ALVIN C.",Democrat,0,1,,,Two incumbents running due to reapportionment; paper acknowledges Weingand's interest in valley but prefers Lagomarsino,0.85,,carpinteria_19661108.pdf
+CA,Carpinteria Herald,,1972,CNTY SUPERVISOR,1,Santa Barbara County,CA,"BLISS, GEORGE R. JR.",,1,,,,Editorial recommended for First District Supervisor,0.92,,carpinteria_19721107.pdf
+CA,Carpinteria Herald,,1974,ATTORNEY GENERAL,,,CA,"YOUNGER, EVELLE",Republican,1,,1,,,0.92,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,BOARD OF EQUALIZATION,,,CA,"REILLY, GEORGE",Democrat,1,,,,,0.88,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,CONTROLLER,,,CA,"CORY, KENNETH",Democrat,1,,,,,0.92,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,GOVERNOR,,,CA,"FLOURNOY, HOUSTON",Republican,1,,,,,0.95,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,H,19,,CA,"LAGOMARSINO, ROBERT",Republican,1,,1,,,0.95,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,LT GOVERNOR,,,CA,"HARMER, JOHN",Republican,1,,,,,0.92,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,SEC OF STATE,,,CA,"FONG, MARCH",Democrat,1,,,,,0.92,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,1,1,,,,0.95,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,STATE ASSEMBLY,35,,CA,"TERRY, J. TIM",Republican,1,,,,,0.92,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,STATE SENATOR,18,,CA,"RAINS, OMER",Democrat,1,,,,,0.92,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1974,TREASURER,,,CA,"KEHOE, JOHN",Republican,1,,,,,0.92,,carpinteria_19741105.pdf
+CA,Carpinteria Herald,,1976,CNTY SUPERVISOR,1,Santa Barbara County,CA,"YAGER, DAVID",,1,,,,,0.92,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,H,19,,CA,"LAGOMARSINO, ROBERT",Republican,1,,1,,,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,JUDGE,,Superior Court,CA,NO ENDORSEMENT,,,,,,'No recommendation' for Judge Superior Court,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,PRESIDENT,,,CA,"FORD, GERALD R.",Republican,1,,1,,,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,SENATOR,,,CA,NO ENDORSEMENT,,,,,,'No recommendation' for U.S. Senator,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,STATE ASSEMBLY,35,,CA,"HART, GARY",Democrat,1,,,,,0.92,"Gary K. Hart, Democrat — same person ran for state senate later",carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,VICE PRESIDENT,,,CA,"DOLE, ROBERT",Republican,1,,,,,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1978,ATTORNEY GENERAL,,,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,,0.92,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,GOVERNOR,,,CA,"BROWN, EDMUND G.",Democrat,1,1,,,,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,H,19,,CA,"LAGOMARSINO, ROBERT",Republican,1,,1,,,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,JUDGE,,Superior Court,CA,TRAPP,,1,,,,,0.85,First name not in OCR,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,LT GOVERNOR,,,CA,"CURB, MIKE",Republican,1,,,,,0.92,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,SEC OF STATE,,,CA,"FONG, MARCH",Democrat,1,1,,,,0.92,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,STATE ASSEMBLY,,,CA,"HART, GARY",Democrat,1,,,,,0.92,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,STATE SENATOR,,,CA,"WALLENBROCK, WALLY",Republican,1,,,,,0.92,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,TREASURER,,,CA,"UNRUH, JESSE M.",Democrat,1,,,,,0.92,,carpinteria_19781107.pdf

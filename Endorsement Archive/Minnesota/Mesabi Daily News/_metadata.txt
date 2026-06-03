@@ -1,0 +1,8 @@
+Newspaper: Mesabi Daily News
+Newspaper ID: 
+State: MN
+Has clippings: No
+Source: Reformatted from external collection
+Input file: Mesabi Daily News Endorsement Tracker.xlsx
+Year range: 1982-2018
+Total candidates: 98

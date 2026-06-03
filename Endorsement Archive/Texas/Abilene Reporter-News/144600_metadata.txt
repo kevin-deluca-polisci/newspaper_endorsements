@@ -6,30 +6,30 @@ Newspaper ID: 144600
 State: TX
 Number of clippings: 50
 Endorsement data years: 1952-2018
-Total candidate endorsements: 239
-Total proposition endorsements: 79
+Total candidate endorsements: 216
+Total proposition endorsements: 78
 
 Confidence statistics:
-  Mean confidence: 0.934
-  Low-confidence records (< 0.7): 4
+  Mean confidence: 0.913
+  Low-confidence records (< 0.7): 3
 
 Top offices (top 15):
-  TX SUPREME COURT: 41
-  COURT OF CRIMINAL APPEALS: 29
-  RAILROAD COMMISSION: 20
-  STATE REP: 15
-  H: 13
-  ATTORNEY GENERAL: 11
-  GOVERNOR: 11
-  LT GOVERNOR: 11
-  STATE SENATOR: 10
-  SENATOR: 9
+  TX SUPREME COURT: 38
+  COURT OF CRIMINAL APPEALS: 27
+  RAILROAD COMMISSION: 18
+  STATE REP: 13
+  H: 12
+  ATTORNEY GENERAL: 10
+  GOVERNOR: 10
+  LT GOVERNOR: 10
   PRESIDENT: 8
-  AGRICULTURE COMMISSIONER: 7
-  COMPTROLLER: 7
-  LAND COMMISSIONER: 7
-  JUDGE: 7
+  STATE SENATOR: 8
+  SENATOR: 8
+  AGRICULTURE COMMISSIONER: 6
+  COMPTROLLER: 6
+  LAND COMMISSIONER: 6
+  CNTY COMM: 6
 
 Party distribution:
-  Democrat: 127
-  Republican: 111
+  Democrat: 112
+  Republican: 104

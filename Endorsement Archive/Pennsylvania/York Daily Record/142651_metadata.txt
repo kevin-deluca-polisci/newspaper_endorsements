@@ -1,0 +1,36 @@
+Newspaper Name: York Daily Record
+Alternative Names: REVIEW
+Years Published: REVIEW
+Newspaper ID number: 142651
+Number of clippings: 24
+Endorsement data years: 1980, 1982, 1984, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 166
+  Endorsed (=1): 119
+  Opposed (=0): 43
+  No position (null): 4
+Total proposition records: 7
+  Endorsed (=1): 5
+  Opposed (=0): 2
+
+--- DATA QUALITY ---
+Flagged for review: 6 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 1
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.65
+Mean: 0.89
+Max: 0.95
+Below threshold (0.75): 2
+
+--- REVIEW QUEUE ---
+  [no_endorsements] 142651_20081025: No endorsements detected
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-28 16:37:00

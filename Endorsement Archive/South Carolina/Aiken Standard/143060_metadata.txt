@@ -1,36 +1,30 @@
-Newspaper Name: AIKEN STANDARD 1950-1952 1970-1976
-Alternative Names: REVIEW
-Years Published: REVIEW
-Newspaper ID number: REVIEW
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Aiken Standard
+Newspaper ID: 143060
+State: SC
 Number of clippings: 6
-Endorsement data years: 1952, 1974, 1976
+Endorsement data years: 1952-1976
+Total candidate endorsements: 25
+Total proposition endorsements: 3
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 23
-  Endorsed (=1): 23
-  Opposed (=0): 0
-  No position (null): 0
-Total proposition records: 3
-  Endorsed (=1): 2
-  Opposed (=0): 1
+Confidence statistics:
+  Mean confidence: 0.846
+  Low-confidence records (< 0.7): 3
 
---- DATA QUALITY ---
-Flagged for review: 8 candidates, 0 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 1
-Duplicates removed: 0 candidates, 1 propositions
+Top offices (top 15):
+  COUNTY COUNCIL: 7
+  BOARD OF COMMISSIONERS: 4
+  H: 4
+  STATE SENATOR: 4
+  PRESIDENT: 1
+  COUNTY COUNCIL CHAIR: 1
+  SHERIFF: 1
+  AUDITOR: 1
+  TREASURER: 1
+  REGISTER OF MESNE CONVEYANCES: 1
 
---- CONFIDENCE SCORES ---
-Min: 0.55
-Mean: 0.77
-Max: 0.95
-Below threshold (0.75): 8
-
---- REVIEW QUEUE ---
-  [no_endorsements] 143060_19721106: PDF appears to be header page only with limited editorial content. OCR extraction shows only 'Hour Of Decision' and 'The Issues' headers with no substantive endorsement content visible.
-
---- NOTES ---
-(Add any additional notes here)
-
-Compiled: 2026-04-02 08:53:04
+Party distribution:
+  Republican: 1
+  (party not stated): 24

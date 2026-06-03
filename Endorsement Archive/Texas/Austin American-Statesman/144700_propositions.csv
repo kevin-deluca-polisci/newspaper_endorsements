@@ -1,7 +1,7 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
 TX,Austin American-Statesman,144700,2010,TX,BALLOT MEASURE,,"AUSTIN COMMUNITY COLLEGE ANNEXATION - SUPPORT ANNEXING SAN MARCOS, HAYS, BASTROP, ELGIN AND MCDADE SCHOOL DISTRICTS INTO ACC'S TAXING AREA",1,,1.0
 TX,Austin American-Statesman,144700,2012,TX,TAX,1,CENTRAL HEALTH PROPOSITION 1 - PROPERTY TAX INCREASE TO FUND MEDICAL SCHOOL,1,,1.0
-TX,Austin American-Statesman,144700,2012,TX,BALLOT MEASURE,2,AUSTIN CITY CHARTER - MOVING ELECTIONS AND CHANGING COUNCIL TERMS OF OFFICE,0,,1.0
+TX,Austin American-Statesman,144700,2012,TX,BALLOT MEASURE,2,AUSTIN CITY CHARTER - CHANGING COUNCIL TERMS OF OFFICE,0, DESC FIXED 2026-06-01: SEPARATED FROM PROP 1.,1.0
 TX,Austin American-Statesman,144700,2012,TX,BALLOT MEASURE,3,AUSTIN CITY CHARTER - 10-1 DISTRICT PLAN,1,,1.0
 TX,Austin American-Statesman,144700,2012,TX,BALLOT MEASURE,4,AUSTIN CITY CHARTER - 8-2-1 DISTRICT PLAN,0,,1.0
 TX,Austin American-Statesman,144700,2012,TX,BALLOT MEASURE,5,AUSTIN CITY CHARTER - LET CITY COUNCIL HIRE OWN STAFF,0,,1.0
@@ -21,44 +21,53 @@ TX,Austin American-Statesman,144700,2012,TX,BOND,18,AUSTIN BOND - LIBRARIES AND 
 TX,Austin American-Statesman,144700,2014,TX,AMENDMENT,,PROPOSED STATE CONSTITUTIONAL AMENDMENT - HIGHWAY FUNDING,1,,1.0
 TX,Austin American-Statesman,144700,2014,TX,BALLOT MEASURE,1,AUSTIN COMMUNITY COLLEGE PROPOSITION 1,1,,1.0
 TX,Austin American-Statesman,144700,2014,TX,BALLOT MEASURE,2,AUSTIN COMMUNITY COLLEGE PROPOSITION 2,1,,1.0
-TX,Austin American-Statesman,144700,1976,TX,STATE,Water bond amendment 1,Constitutional water bond amendment,1,Both constitutional water bond amendments endorsed.,0.8
-TX,Austin American-Statesman,144700,1976,TX,STATE,Water bond amendment 2,Constitutional water bond amendment,1,Both constitutional water bond amendments endorsed.,0.8
-TX,Austin American-Statesman,144700,1978,TX,STATE,1,So-called tax relief amendment: hodgepodge that would drop school taxes by $450M while increasing state aid by $450M; would prohibit statewide appraisal of real property,0,Vote 'no'. 'Insuring that true property tax reform never takes place.',0.95
-TX,Austin American-Statesman,144700,1978,TX,STATE,2,Empowers cities to issue revenue bonds to develop industrial employment opportunities,0,Vote 'no'. 'The amendment is unnecessary.',0.95
-TX,Austin American-Statesman,144700,1978,TX,STATE,3,"Allow the state to purchase, without bid, products made by the handicapped in non-profit facilities",1,Endorsed as part of remaining seven amendments.,0.8
-TX,Austin American-Statesman,144700,1978,TX,STATE,4,Let cities issue tax increment bonds for redevelopment,1,Endorsed as part of remaining seven amendments.,0.8
-TX,Austin American-Statesman,144700,1978,TX,STATE,5,Allow property tax exemption for solar- and wind-powered energy devices,1,Endorsed as part of remaining seven amendments.,0.8
-TX,Austin American-Statesman,144700,1978,TX,STATE,6,Expand the jurisdiction of justice courts from $200 to $500,1,Endorsed as part of remaining seven amendments.,0.8
-TX,Austin American-Statesman,144700,1978,TX,STATE,7,Authorize an increase in size of the state courts of civil appeals,1,Endorsed as part of remaining seven amendments.,0.8
-TX,Austin American-Statesman,144700,1978,TX,STATE,8,Abolish the State Building Commission,1,Endorsed as part of remaining seven amendments.,0.8
-TX,Austin American-Statesman,144700,1978,TX,STATE,9,Allow water districts to provide fire-fighting services and issue bonds if two-thirds of voters involved approve,1,Endorsed as part of remaining seven amendments.,0.8
-TX,Austin American-Statesman,144700,1980,TX,STATE,1,Allow unmanned teller machines away from bank locations,1,Worthy of adoption.,0.95
-TX,Austin American-Statesman,144700,1980,TX,STATE,2,Grant state and defendant in criminal cases the right to appeal pretrial rulings,0,Not recommended.,0.95
-TX,Austin American-Statesman,144700,1980,TX,STATE,3,Create single tax appraisal boards in all counties,1,Worthy of adoption.,0.95
-TX,Austin American-Statesman,144700,1980,TX,STATE,4,Legalize bingo games,0,Not recommended.,0.95
-TX,Austin American-Statesman,144700,1980,TX,STATE,5,Give the governor budget execution power,1,Worthy of adoption.,0.95
-TX,Austin American-Statesman,144700,1980,TX,STATE,6,Give the governor authority to remove his appointees,1,Worthy of adoption.,0.95
-TX,Austin American-Statesman,144700,1980,TX,STATE,7,Allow small counties to build and maintain private roads,0,Not recommended.,0.95
-TX,Austin American-Statesman,144700,1980,TX,STATE,8,Give the courts of civil appeals authority to try criminal cases,0,Not recommended.,0.95
-TX,Austin American-Statesman,144700,1980,TX,STATE,9,Allow spouses to agree on separate property,1,Worthy of adoption.,0.95
-TX,Austin American-Statesman,144700,1984,TX,STATE,1,Constitutional amendment 1 (text not specified in clipping),1,'All eight proposed amendments to the state constitution also are worthy of voter support.',0.8
-TX,Austin American-Statesman,144700,1984,TX,STATE,2,Constitutional amendment 2 (text not specified in clipping),1,'All eight proposed amendments to the state constitution also are worthy of voter support.',0.8
-TX,Austin American-Statesman,144700,1984,TX,STATE,3,Constitutional amendment 3 (text not specified in clipping),1,'All eight proposed amendments to the state constitution also are worthy of voter support.',0.8
-TX,Austin American-Statesman,144700,1984,TX,STATE,4,Constitutional amendment 4 (text not specified in clipping),1,'All eight proposed amendments to the state constitution also are worthy of voter support.',0.8
-TX,Austin American-Statesman,144700,1984,TX,STATE,5,Constitutional amendment 5 (text not specified in clipping),1,'All eight proposed amendments to the state constitution also are worthy of voter support.',0.8
-TX,Austin American-Statesman,144700,1984,TX,STATE,6,Constitutional amendment 6 (text not specified in clipping),1,'All eight proposed amendments to the state constitution also are worthy of voter support.',0.8
-TX,Austin American-Statesman,144700,1984,TX,STATE,7,Constitutional amendment 7 (text not specified in clipping),1,'All eight proposed amendments to the state constitution also are worthy of voter support.',0.8
-TX,Austin American-Statesman,144700,1984,TX,STATE,8,Constitutional amendment 8 (text not specified in clipping),1,'All eight proposed amendments to the state constitution also are worthy of voter support.',0.8
-TX,Austin American-Statesman,144700,1986,TX,STATE,1,Railroad rolling stock for county property taxation purposes,1,Recommendation: Yes.,0.95
-TX,Austin American-Statesman,144700,1986,TX,STATE,2,Easing restrictions on content and caption of legislative bills,0,Recommendation: No.,0.95
-TX,Austin American-Statesman,144700,1986,TX,STATE,3,"Permitting mutual-insurance companies to compete with stock-insurance companies for life, health and accident policies and annuity contracts sold to local governments",1,Recommendation: Yes.,0.95
-TX,Austin American-Statesman,144700,1986,TX,STATE,4,Permitting branch banking,1,Recommendation: Yes.,0.95
-TX,Austin American-Statesman,144700,1988,TX,STATE,1,Constitutional amendment 1 (text not specified),1,'The Austin American-Statesman also endorses all three constitutional amendments on the ballot.',0.8
-TX,Austin American-Statesman,144700,1988,TX,STATE,2,Constitutional amendment 2 (text not specified),1,'The Austin American-Statesman also endorses all three constitutional amendments on the ballot.',0.8
-TX,Austin American-Statesman,144700,1988,TX,STATE,3,Constitutional amendment 3 (text not specified),1,'The Austin American-Statesman also endorses all three constitutional amendments on the ballot.',0.8
-TX,Austin American-Statesman,144700,1990,TX,STATE,1,Single constitutional amendment to clear up status of gubernatorial appointments made while the Texas Senate is not in session,1,The American-Statesman recommends that voters give their approval to the single constitutional amendment on the ballot.,0.95
-TX,Austin American-Statesman,144700,2022,TX,LOCAL,AISD Prop A,"AISD bond, $2.31 billion: 25 partial/full campus modernizations, security improvements and facility renovations",1,Recommendation: FOR Proposition A.,0.95
-TX,Austin American-Statesman,144700,2022,TX,LOCAL,AISD Prop B,"AISD bond, $75.5 million: technology improvements including student and staff laptops, learning displays and IT security",1,Recommendation: FOR Proposition B.,0.95
-TX,Austin American-Statesman,144700,2022,TX,LOCAL,AISD Prop C,"AISD bond, $47.4 million: upgrades to Nelson Field, Burger Athletic Complex, Delco Activity Center and Noack Sports Complex",1,Recommendation: FOR Proposition C.,0.95
-TX,Austin American-Statesman,144700,2022,TX,LOCAL,ACC Prop A,"ACC bond, $770 million: new construction, campus upgrades, student support services, and expanding training capacity for health care and advanced manufacturing",1,Recommendation: FOR Proposition A.,0.95
-TX,Austin American-Statesman,144700,2022,TX,LOCAL,City of Austin Prop A,"City of Austin bond, $350 million: acquiring land and building new homes plus repairing existing homes",1,Recommendation: FOR Proposition A.,0.95
+TX,Austin American-Statesman,144700,1976,TX,STATE,Water bond amendment 1,CONSTITUTIONAL WATER BOND AMENDMENT,1,BOTH CONSTITUTIONAL WATER BOND AMENDMENTS ENDORSED.,0.8
+TX,Austin American-Statesman,144700,1976,TX,STATE,Water bond amendment 2,CONSTITUTIONAL WATER BOND AMENDMENT,1,BOTH CONSTITUTIONAL WATER BOND AMENDMENTS ENDORSED.,0.8
+TX,Austin American-Statesman,144700,1978,TX,STATE,1,SO-CALLED TAX RELIEF AMENDMENT: HODGEPODGE THAT WOULD DROP SCHOOL TAXES BY $450M WHILE INCREASING STATE AID BY $450M; WOULD PROHIBIT STATEWIDE APPRAISAL OF REAL PROPERTY,0,VOTE 'NO'. 'INSURING THAT TRUE PROPERTY TAX REFORM NEVER TAKES PLACE.',0.95
+TX,Austin American-Statesman,144700,1978,TX,STATE,2,EMPOWERS CITIES TO ISSUE REVENUE BONDS TO DEVELOP INDUSTRIAL EMPLOYMENT OPPORTUNITIES,0,VOTE 'NO'. 'THE AMENDMENT IS UNNECESSARY.',0.95
+TX,Austin American-Statesman,144700,1978,TX,STATE,3,"ALLOW THE STATE TO PURCHASE, WITHOUT BID, PRODUCTS MADE BY THE HANDICAPPED IN NON-PROFIT FACILITIES",1,ENDORSED AS PART OF REMAINING SEVEN AMENDMENTS.,0.8
+TX,Austin American-Statesman,144700,1978,TX,STATE,4,LET CITIES ISSUE TAX INCREMENT BONDS FOR REDEVELOPMENT,1,ENDORSED AS PART OF REMAINING SEVEN AMENDMENTS.,0.8
+TX,Austin American-Statesman,144700,1978,TX,STATE,5,ALLOW PROPERTY TAX EXEMPTION FOR SOLAR- AND WIND-POWERED ENERGY DEVICES,1,ENDORSED AS PART OF REMAINING SEVEN AMENDMENTS.,0.8
+TX,Austin American-Statesman,144700,1978,TX,STATE,6,EXPAND THE JURISDICTION OF JUSTICE COURTS FROM $200 TO $500,1,ENDORSED AS PART OF REMAINING SEVEN AMENDMENTS.,0.8
+TX,Austin American-Statesman,144700,1978,TX,STATE,7,AUTHORIZE AN INCREASE IN SIZE OF THE STATE COURTS OF CIVIL APPEALS,1,ENDORSED AS PART OF REMAINING SEVEN AMENDMENTS.,0.8
+TX,Austin American-Statesman,144700,1978,TX,STATE,8,ABOLISH THE STATE BUILDING COMMISSION,1,ENDORSED AS PART OF REMAINING SEVEN AMENDMENTS.,0.8
+TX,Austin American-Statesman,144700,1978,TX,STATE,9,ALLOW WATER DISTRICTS TO PROVIDE FIRE-FIGHTING SERVICES AND ISSUE BONDS IF TWO-THIRDS OF VOTERS INVOLVED APPROVE,1,ENDORSED AS PART OF REMAINING SEVEN AMENDMENTS.,0.8
+TX,Austin American-Statesman,144700,1980,TX,STATE,1,ALLOW UNMANNED TELLER MACHINES AWAY FROM BANK LOCATIONS,1,WORTHY OF ADOPTION.,0.95
+TX,Austin American-Statesman,144700,1980,TX,STATE,2,GRANT STATE AND DEFENDANT IN CRIMINAL CASES THE RIGHT TO APPEAL PRETRIAL RULINGS,0,NOT RECOMMENDED.,0.95
+TX,Austin American-Statesman,144700,1980,TX,STATE,3,CREATE SINGLE TAX APPRAISAL BOARDS IN ALL COUNTIES,1,WORTHY OF ADOPTION.,0.95
+TX,Austin American-Statesman,144700,1980,TX,STATE,4,LEGALIZE BINGO GAMES,0,NOT RECOMMENDED.,0.95
+TX,Austin American-Statesman,144700,1980,TX,STATE,5,GIVE THE GOVERNOR BUDGET EXECUTION POWER,1,WORTHY OF ADOPTION.,0.95
+TX,Austin American-Statesman,144700,1980,TX,STATE,6,GIVE THE GOVERNOR AUTHORITY TO REMOVE HIS APPOINTEES,1,WORTHY OF ADOPTION.,0.95
+TX,Austin American-Statesman,144700,1980,TX,STATE,7,ALLOW SMALL COUNTIES TO BUILD AND MAINTAIN PRIVATE ROADS,0,NOT RECOMMENDED.,0.95
+TX,Austin American-Statesman,144700,1980,TX,STATE,8,GIVE THE COURTS OF CIVIL APPEALS AUTHORITY TO TRY CRIMINAL CASES,0,NOT RECOMMENDED.,0.95
+TX,Austin American-Statesman,144700,1980,TX,STATE,9,ALLOW SPOUSES TO AGREE ON SEPARATE PROPERTY,1,WORTHY OF ADOPTION.,0.95
+TX,Austin American-Statesman,144700,1984,TX,STATE,1,CONSTITUTIONAL AMENDMENT 1 (TEXT NOT SPECIFIED IN CLIPPING),1,'ALL EIGHT PROPOSED AMENDMENTS TO THE STATE CONSTITUTION ALSO ARE WORTHY OF VOTER SUPPORT.',0.8
+TX,Austin American-Statesman,144700,1984,TX,STATE,2,CONSTITUTIONAL AMENDMENT 2 (TEXT NOT SPECIFIED IN CLIPPING),1,'ALL EIGHT PROPOSED AMENDMENTS TO THE STATE CONSTITUTION ALSO ARE WORTHY OF VOTER SUPPORT.',0.8
+TX,Austin American-Statesman,144700,1984,TX,STATE,3,CONSTITUTIONAL AMENDMENT 3 (TEXT NOT SPECIFIED IN CLIPPING),1,'ALL EIGHT PROPOSED AMENDMENTS TO THE STATE CONSTITUTION ALSO ARE WORTHY OF VOTER SUPPORT.',0.8
+TX,Austin American-Statesman,144700,1984,TX,STATE,4,CONSTITUTIONAL AMENDMENT 4 (TEXT NOT SPECIFIED IN CLIPPING),1,'ALL EIGHT PROPOSED AMENDMENTS TO THE STATE CONSTITUTION ALSO ARE WORTHY OF VOTER SUPPORT.',0.8
+TX,Austin American-Statesman,144700,1984,TX,STATE,5,CONSTITUTIONAL AMENDMENT 5 (TEXT NOT SPECIFIED IN CLIPPING),1,'ALL EIGHT PROPOSED AMENDMENTS TO THE STATE CONSTITUTION ALSO ARE WORTHY OF VOTER SUPPORT.',0.8
+TX,Austin American-Statesman,144700,1984,TX,STATE,6,CONSTITUTIONAL AMENDMENT 6 (TEXT NOT SPECIFIED IN CLIPPING),1,'ALL EIGHT PROPOSED AMENDMENTS TO THE STATE CONSTITUTION ALSO ARE WORTHY OF VOTER SUPPORT.',0.8
+TX,Austin American-Statesman,144700,1984,TX,STATE,7,CONSTITUTIONAL AMENDMENT 7 (TEXT NOT SPECIFIED IN CLIPPING),1,'ALL EIGHT PROPOSED AMENDMENTS TO THE STATE CONSTITUTION ALSO ARE WORTHY OF VOTER SUPPORT.',0.8
+TX,Austin American-Statesman,144700,1984,TX,STATE,8,CONSTITUTIONAL AMENDMENT 8 (TEXT NOT SPECIFIED IN CLIPPING),1,'ALL EIGHT PROPOSED AMENDMENTS TO THE STATE CONSTITUTION ALSO ARE WORTHY OF VOTER SUPPORT.',0.8
+TX,Austin American-Statesman,144700,1986,TX,STATE,1,RAILROAD ROLLING STOCK FOR COUNTY PROPERTY TAXATION PURPOSES,1,RECOMMENDATION: YES.,0.95
+TX,Austin American-Statesman,144700,1986,TX,STATE,2,EASING RESTRICTIONS ON CONTENT AND CAPTION OF LEGISLATIVE BILLS,0,RECOMMENDATION: NO.,0.95
+TX,Austin American-Statesman,144700,1986,TX,STATE,3,"PERMITTING MUTUAL-INSURANCE COMPANIES TO COMPETE WITH STOCK-INSURANCE COMPANIES FOR LIFE, HEALTH AND ACCIDENT POLICIES AND ANNUITY CONTRACTS SOLD TO LOCAL GOVERNMENTS",1,RECOMMENDATION: YES.,0.95
+TX,Austin American-Statesman,144700,1986,TX,STATE,4,PERMITTING BRANCH BANKING,1,RECOMMENDATION: YES.,0.95
+TX,Austin American-Statesman,144700,1988,TX,STATE,1,CONSTITUTIONAL AMENDMENT 1 (TEXT NOT SPECIFIED),1,'THE AUSTIN AMERICAN-STATESMAN ALSO ENDORSES ALL THREE CONSTITUTIONAL AMENDMENTS ON THE BALLOT.',0.8
+TX,Austin American-Statesman,144700,1988,TX,STATE,2,CONSTITUTIONAL AMENDMENT 2 (TEXT NOT SPECIFIED),1,'THE AUSTIN AMERICAN-STATESMAN ALSO ENDORSES ALL THREE CONSTITUTIONAL AMENDMENTS ON THE BALLOT.',0.8
+TX,Austin American-Statesman,144700,1988,TX,STATE,3,CONSTITUTIONAL AMENDMENT 3 (TEXT NOT SPECIFIED),1,'THE AUSTIN AMERICAN-STATESMAN ALSO ENDORSES ALL THREE CONSTITUTIONAL AMENDMENTS ON THE BALLOT.',0.8
+TX,Austin American-Statesman,144700,1990,TX,STATE,1,SINGLE CONSTITUTIONAL AMENDMENT TO CLEAR UP STATUS OF GUBERNATORIAL APPOINTMENTS MADE WHILE THE TEXAS SENATE IS NOT IN SESSION,1,THE AMERICAN-STATESMAN RECOMMENDS THAT VOTERS GIVE THEIR APPROVAL TO THE SINGLE CONSTITUTIONAL AMENDMENT ON THE BALLOT.,0.95
+TX,Austin American-Statesman,144700,2022,TX,LOCAL,AISD Prop A,"AISD BOND, $2.31 BILLION: 25 PARTIAL/FULL CAMPUS MODERNIZATIONS, SECURITY IMPROVEMENTS AND FACILITY RENOVATIONS",1,RECOMMENDATION: FOR PROPOSITION A.,0.95
+TX,Austin American-Statesman,144700,2022,TX,LOCAL,AISD Prop B,"AISD BOND, $75.5 MILLION: TECHNOLOGY IMPROVEMENTS INCLUDING STUDENT AND STAFF LAPTOPS, LEARNING DISPLAYS AND IT SECURITY",1,RECOMMENDATION: FOR PROPOSITION B.,0.95
+TX,Austin American-Statesman,144700,2022,TX,LOCAL,AISD Prop C,"AISD BOND, $47.4 MILLION: UPGRADES TO NELSON FIELD, BURGER ATHLETIC COMPLEX, DELCO ACTIVITY CENTER AND NOACK SPORTS COMPLEX",1,RECOMMENDATION: FOR PROPOSITION C.,0.95
+TX,Austin American-Statesman,144700,2022,TX,LOCAL,ACC Prop A,"ACC BOND, $770 MILLION: NEW CONSTRUCTION, CAMPUS UPGRADES, STUDENT SUPPORT SERVICES, AND EXPANDING TRAINING CAPACITY FOR HEALTH CARE AND ADVANCED MANUFACTURING",1,RECOMMENDATION: FOR PROPOSITION A.,0.95
+TX,Austin American-Statesman,144700,2022,TX,LOCAL,City of Austin Prop A,"CITY OF AUSTIN BOND, $350 MILLION: ACQUIRING LAND AND BUILDING NEW HOMES PLUS REPAIRING EXISTING HOMES",1,RECOMMENDATION: FOR PROPOSITION A.,0.95
+TX,Austin American-Statesman,144700,2012,TX,BALLOT MEASURE,AustinCharterProp1,AUSTIN CITY CHARTER - MOVING ELECTIONS FROM MAY TO NOVEMBER,1,OCR-VERIFIED 2026-06-01: PATTERN J ADD,0.95
+TX,Austin American-Statesman,144700,2014,TX,TAX,ACC tax rate,AUSTIN COMMUNITY COLLEGE MAINTENANCE TAX RATE INCREASE,0,OCR-VERIFIED 2026-06-01: PATTERN J ADD,0.95
+TX,Austin American-Statesman,144700,2014,TX,BOND,Austin light rail,AUSTIN LIGHT RAIL PROPOSITION,1,OCR-VERIFIED 2026-06-01: PATTERN J ADD,0.95
+TX,Austin American-Statesman,144700,2008,TX,BALLOT MEASURE,Austin Prop 1,CITY OF AUSTIN PROPOSITION 1 (AUDITOR INDEPENDENCE),1,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,TX,BALLOT MEASURE,Austin Prop 2,CITY OF AUSTIN PROPOSITION 2 (STOP FINANCIAL INCENTIVES),0,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,TX,TAX,AISD tax,AUSTIN INDEPENDENT SCHOOL DISTRICT TAX INCREASE,1,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,TX,BOND,Round Rock bond,ROUND ROCK SCHOOL BOND ($158 MILLION),1,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2008,TX,BOND,Hays Road Bonds,HAYS COUNTY ROAD BONDS,1,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92
+TX,Austin American-Statesman,144700,2010,TX,BOND,Austin transportation,"AUSTIN TRANSPORTATION BOND ($90 MILLION ROADS, SIDEWALKS, BIKE LANES, TRAILS)",1,OCR-VERIFIED 2026-06-01 ROUND 7: PATTERN J ADD,0.92

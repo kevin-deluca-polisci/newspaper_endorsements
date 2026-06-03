@@ -6,32 +6,33 @@ Newspaper ID: 109051
 State: GA
 Number of clippings: 124
 Endorsement data years: 1960-1990
-Total candidate endorsements: 636
-Total proposition endorsements: 428
+Total candidate endorsements: 572
+Total proposition endorsements: 370
 
 Confidence statistics:
-  Mean confidence: 0.907
-  Low-confidence records (< 0.7): 2
+  Mean confidence: 0.918
+  Low-confidence records (< 0.7): 0
 
 Top offices (top 15):
-  STATE REP: 252
-  STATE SENATOR: 108
-  CNTY COMM: 74
-  H: 50
-  JUDGE: 35
-  SCHOOL BOARD: 18
-  USHOUSE: 12
+  STATE REP: 221
+  STATE SENATOR: 95
+  CNTY COMM: 69
+  H: 56
+  JUDGE: 33
+  SCHOOL BOARD: 16
   PUBLIC SERVICE COMMISSION: 11
-  DA/PROSECUTOR: 10
   SHERIFF: 9
+  DA/PROSECUTOR: 9
   PRESIDENT: 8
   GOVERNOR: 8
+  SENATOR: 6
+  CNTY CLERK: 5
+  LT GOVERNOR: 4
   CITY COUNCIL: 3
-  SENATOR: 3
-  LT GOVERNOR: 3
 
 Party distribution:
-  Democrat: 268
-  Republican: 85
-  NA: 48
+  Democrat: 243
+  (empty): 238
+  Republican: 78
+  Nonpartisan: 12
   Independent: 1

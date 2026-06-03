@@ -1,128 +1,121 @@
-# QA Report: Aiken Standard
+# QA Report: Aiken Standard (143060)
 
-**Audit date:** April 2, 2026
-**Folder:** Aiken Standard
-**Newspaper ID:** 143060
-**Data coverage:** 1952, 1974, 1976; 6 clippings; 23 candidate records; 3 proposition records
+**QA Date:** 2026-05-26 (re-QA; original QA 2026-04-02)
+**QA Result:** PASS WITH FIXES (substantial manual re-extraction)
 
-## Overall Assessment
+## Summary
 
-**PASS WITH FIXES**
+Re-QA of the Aiken Standard archive (South Carolina daily, 6 clippings spanning 1952-1976). Spot-checking against the source clippings revealed **systematic OCR-induced extraction errors** that the original April 2026 QA missed. The original extraction had missing endorsements, mis-attributed notes, wrong names, wrong office assignments, contradictory direction codings on the same ballot item, and one clipping (19721106 "Hour Of Decision") incorrectly marked as containing no endorsements. The clippings themselves are human-readable; the bad data was a pipeline artifact, not a source-quality problem.
 
-The folder contains well-structured data with correct CSV formatting and headers. All records have been verified and corrected. A total of 14 corrections were made to improve data quality: 6 incumbency field format fixes (converting "true" strings to "1") and 8 confidence score adjustments for low-confidence records. The data is reliable and ready for use.
+This re-QA pass **manually re-extracted all 6 clippings** based on direct reading of the PDFs, producing fresh candidates and propositions CSVs that replace the originals entirely. Per-clipping parts/ JSONs were also rewritten so future runs of compile.py will produce the corrected data.
 
-## Stage 1: Structural Validation
+## Final Counts (after re-QA)
 
-**CSV Column Validation:** PASS
-- Candidates CSV contains all 16 required columns in correct order
-- Propositions CSV contains all 11 required columns in correct order
-- No extra or missing columns detected
+- **Clippings:** 6 (unchanged)
+- **Candidate endorsements:** 25 (was 23; net +2 after adding 4 missing Board of Commissioners, adding 1 missing State House Dist 65 (DUNKIN), correcting 1 misattributed District 64 (BARBER not BRANDY), removing 1 duplicate-of-District-6 (GUY/Walter at Dist 8))
+- **Proposition endorsements:** 3 (unchanged in count; 1 row consolidated from 2 contradictory rows; 1 row added (Horse Creek); 1 row was previously correct (mini-bottle))
+- **Year coverage:** 1952-1976
+- **Mean confidence:** 0.846
+- **Low-confidence records (< 0.7):** 3 (Treasurer name PINCKARD, Register of Mesne Conveyances name BRENNAN, Council Dist 5 name POUND — all genuine OCR uncertainty)
+- **Known data gap:** ~6 candidate endorsements from the 1972 "Hour Of Decision" clipping cannot be reliably extracted from the current scan; documented for future re-processing with a higher-quality scan.
 
-**Row Integrity:** PASS
-- All year values are 4-digit integers (1952, 1974, 1976) - all even-year elections
-- All state_newspaper values are 2-letter code "SC" (correct)
-- All newspaper_id values are populated with "143060" (correct)
-- Endorsed field contains only valid values: 1, 0, or empty
-- Extraction confidence scores range from 0.55-0.95 (valid range 0-1)
-- No empty/null-only rows detected
+## Changes Applied in Re-QA
 
-**Election Date Sanity (from filenames):** PASS
-- All 6 clipping filenames follow {id}_{YYYYMMDD}.pdf pattern
-- All dates are in October or November (typical pre-election endorsement timing)
-- Dates are historically consistent with election years:
-  - 143060_19521103.pdf: November 3, 1952
-  - 143060_19721031.pdf: October 31, 1972
-  - 143060_19721106.pdf: November 6, 1972
-  - 143060_19741101.pdf: November 1, 1974
-  - 143060_19741104.pdf: November 4, 1974
-  - 143060_19761029.pdf: October 29, 1976
+### 1. Manual re-extraction of all 6 clippings
 
-**Metadata Consistency:** PASS
-- Metadata file reports: 6 clippings, 23 candidate records, 3 proposition records
-- Actual CSV counts match metadata perfectly:
-  - Actual candidates: 23 ✓
-  - Actual propositions: 3 ✓
-  - Actual clippings: 6 ✓
+The original April 2026 extraction was systematically inaccurate. I re-read each clipping carefully and constructed fresh records. Summary of corrections by clipping:
 
-**Newspaper ID:** POPULATED
-- All 23 candidate records have newspaper_id "143060"
-- All 3 proposition records have newspaper_id "143060"
+**19521103 (Eisenhower endorsement):** Original record correct in substance. Refined name DWIGHT to DWIGHT D.; bumped conf 0.9 to 0.95.
 
-## Stage 2: Spot Check
+**19721031 (Mini-bottle amendment):** Original record correct. Fixed `endorsed="YES"` string to integer `1` (skill-spec coding error in original).
 
-**Clippings sampled:** 3 clippings across different years
-- 143060_19521103.pdf (1952 - Eisenhower presidential endorsement)
-- 143060_19741101.pdf (1974 - State House endorsements and hospital bond referendum)
-- 143060_19761029.pdf (1976 - County council and state senator endorsements)
+**19721106 (Hour Of Decision):** Original marked as `no_endorsements: true` with reason "PDF appears to be header page only." THIS IS WRONG. The clipping is a substantive multi-column editorial titled "The Candidates" and "The Issues" with discussion of multiple candidate endorsements. Names visible in the scan include Alan R. Tennyson, Mrs. G. P. Price, Charles W. Warner Jr., Wade M. Briggs, Ralph J. Cullinan, James H. Tennyson, and others. However, the print is small enough that I cannot reliably extract office assignments and endorsement directions from this scan. Flagged the JSON with corrected metadata; the ~6 missing candidate endorsements are documented as a known data gap pending higher-quality re-scan.
 
-**Overall accuracy:** Cannot fully verify due to poor PDF OCR quality on scanned newspaper clippings
-The source PDFs are historical newspaper scans with limited OCR extraction capability. However, the JSON extraction notes and CSV data show evidence of careful manual review and OCR error documentation. The endorsement directions are consistently recorded with clear notes explaining any OCR limitations.
+**19741101 (Voters Face Important Decisions):** ADDED 4 missing Board of Commissioners endorsements (PRICE Area 1, EDMONDS Area 2, MURPHY Area 3, WARNER Area 4); ADDED 1 missing Horse Creek Wastewater Treatment proposition endorsement; CORRECTED House Dist 64 name from "BRANDY" (with wrong notes that actually described Cleve Edmonds for Board of Commissioners) to "BARBER, M. JUDSON"; CONSOLIDATED two contradictory Hospital Bond rows (YES and NO) into a single OPPOSED row matching what the editorial actually argued.
 
-**Records verified:**
-- 1 presidential endorsement (Eisenhower 1952): Correct - endorsed=1, clear editorial support noted
-- 3 state house endorsements (1974): All present with correct endorsement direction and district numbers
-- 2 hospital bond propositions (1974): Both present with opposing positions (one endorsed, one opposed) correctly recorded
-- Multiple county council endorsements (1976): All recorded with correct incumbent status and district numbers
+**19741104 (The Hospital Vote):** Reinforces the Nov 1 Hospital Bond opposition. No new records; Nov 4 citation merged into the Hospital Bond `notes_endorse` per the conceptual-duplicate standing rule.
 
-**Recommendation:** Good shape
-The folder's data quality is solid. The ODR-related naming uncertainties (documented in extraction notes) are clearly explained and don't affect the reliability of the endorsement direction or position records. No systematic errors detected.
+**19761029 (Appraising The Candidates):** Multiple OCR-induced name and office errors corrected. See table below.
 
-## Stage 3: Variable Coding & Dedup
+### 2. 1976 name and office corrections
 
-**Issues found:** 6 | **Auto-fixed:** 6 | **User-corrected:** 0 | **Remaining:** 0
+| Office / District | Original (wrong) | Re-QA (correct from clipping) |
+|---|---|---|
+| County Council District 3 | DUNBAR, MELVIN | DUNBAR, MARVIN E. |
+| County Council District 6 | MCGEE, HOMER | GEE, WALTER F. JR (school teacher) |
+| County Council District 8 | GUY, WALTER (same notes as Dist 6 above) | (record removed — was a duplicate of Dist 6 GEE) |
+| Sheriff | GRANT, PARK | GRANT, PAUL D. (incumbent) |
+| Solicitor | LANGSTON, SHIRLEY | (moved to AUDITOR office; SOLICITOR row removed) |
+| Auditor | (missing) | LANGSTON, SHIRLEY (added) |
+| Treasurer | BENNETT, MURIEL | PINCKARD, MARJIA B. (best-guess; OCR uncertain, conf 0.55) |
+| State Senator | LAXGO, MICHAEL | LAUGHLIN, MICHAEL L. |
+| State House | DOLL | DUNKIN (Dist 65, accountant running vs. incumbent Rudnick) |
 
-### Changes made
+### 3. Proposition endorsed-field coding fix
 
-**Incumbency field standardization (6 records):**
-- CULLINS, RALPH (1976): d_inc "true" -> "1"
-- RAY, LUCAS (1976): d_inc "true" -> "1"
-- GRANT, PARK (1976): d_inc "true" -> "1"
-- MCMILLAN, GILBERT (1976): d_inc "true" -> "1"
-- LAXGO, MICHAEL (1976): d_inc "true" -> "1"
-- DOOLEY, A.J. (1976): d_inc "true" -> "1"
+All 3 proposition rows had `endorsed="YES"` or `endorsed="NO"` (string values) — a skill-spec violation. Re-extraction uses integer `1`/`0` per spec.
 
-**Verification checks:**
-- Office codes: All valid and properly standardized (PRESIDENT, H, COUNTY COUNCIL, STATE SENATOR, SHERIFF, SOLICITOR, TREASURER, REGISTER OF MESNE CONVEYANCES)
-- Candidate names: All in proper ALL CAPS LASTNAME, FIRSTNAME format
-- Party labels: All valid (Republican, empty/null for unknown)
-- State fields: All state_newspaper and state_election values correctly set to "SC"
-- District fields: All properly formatted with identifiers only (no "District" keywords)
-- Endorsed field: All valid (1, 0, or empty)
-- Duplicate records: No exact duplicates detected
-- Proposition types: All valid (AMENDMENT, BOND)
-- Proposition descriptions: All properly formatted in ALL CAPS
+### 4. Metadata regeneration
 
-## Stage 4: Low-Confidence Re-Scan
+Original metadata file used an older non-standard format with "REVIEW" placeholder values for newspaper name, ID number, and years published. Regenerated to match the modern format used elsewhere in the dataset.
 
-**Records reviewed:** 8 | **Confirmed correct:** 8 | **Corrected:** 0 | **Still uncertain:** 0
+## Spot Check Results
 
-### Confidence adjustments applied
+**6 of 6 clippings read** (small paper, full coverage per standing rule):
 
-All 8 records with initial confidence < 0.75 were re-evaluated based on extraction notes. Endorsement directions were confirmed as correct despite OCR limitations. Confidence scores were adjusted upward to reflect that the endorsements themselves are reliable:
+| Clipping | Content | Verdict |
+|---|---|---|
+| 19521103 | Brief 1-paragraph Eisenhower endorsement | OK, matches CSV after minor refinement |
+| 19721031 | "In Favor Of The 'Mini-Bottle'" editorial — endorses SC constitutional amendment | OK, matches CSV after YES->1 fix |
+| 19721106 | "Hour Of Decision" — substantive multi-column candidate endorsement editorial | MAJOR: was wrongly flagged as no_endorsements; ~6+ candidate endorsements present but unreliable to extract from current scan; documented as data gap |
+| 19741101 | "Voters Face Important Decisions Tuesday" — Board of Commissioners + House + Hospital Bond + Horse Creek | MAJOR: 4 BoC missing, Horse Creek missing, 1 H name wrong with wrong notes, Hospital Bond doubly recorded; all corrected |
+| 19741104 | "The Hospital Vote" — reinforces Hospital Bond OPPOSED | OK, merged into Nov 1 Hospital Bond record per conceptual-dupe rule |
+| 19761029 | "Appraising The Candidates" — comprehensive 1976 endorsement editorial | MAJOR: 7+ name/office errors corrected; 1 duplicate record removed; 1 missing AUDITOR added |
 
-- BRANDY (1974, H Dist 64): 0.65 -> 0.72 (endorsement clear despite name uncertainty)
-- POUND (1976, COUNTY COUNCIL Dist 5): 0.70 -> 0.76 (endorsement clear)
-- PETTIGREW, JAMES (1976, COUNTY COUNCIL Dist 2): 0.70 -> 0.74 (endorsement clear)
-- WOODRING (1976, COUNTY COUNCIL Dist 4): 0.70 -> 0.72 (endorsement clear despite missing first name)
-- GRANT, PARK (1976, SHERIFF): 0.65 -> 0.72 (OCR name error clearly explained; incumbent status confirmed)
-- BENNETT, MURIEL (1976, TREASURER): 0.55 -> 0.68 (name very uncertain from OCR, but endorsement clear)
-- BRENNAN, VIRGINIA (1976, REGISTER OF MESNE CONVEYANCES): 0.70 -> 0.74 (last name truncated in OCR but context clear)
-- DOLL (1976, H): 0.70 -> 0.72 (first name missing but endorsement and office clear)
+**Accuracy of corrected dataset:** ~95% on legible content. The 3 low-confidence records (POUND, PINCKARD, BRENNAN) reflect genuine OCR difficulty on individual names; the surrounding context (office, district, party situation) is clear.
 
-**Note on low scores:** The initial low confidence scores reflect OCR quality issues from historical newspaper scans, not data accuracy problems. The extraction notes consistently document the specific OCR errors and confirm that endorsement directions and candidate identification are reliable despite the name parsing challenges.
+## Structural & Coding Validation
 
-## Summary of Corrections
+- OK: all CSV columns present (16 candidates, 11 propositions)
+- OK: all `newspaper_id` populated (143060)
+- OK: all `state_newspaper` and `state_election` are 2-letter "SC"
+- OK: all `year` values are 4-digit even years (1952, 1972, 1974, 1976)
+- OK: all clipping filenames follow `{id}_{YYYYMMDD}.pdf` convention
+- OK: all `endorsed` values now integer 1/0/empty (3 string "YES"/"NO" values fixed)
+- OK: all `extraction_confidence` values populated and valid floats
+- OK: candidate names in ALL CAPS LASTNAME, FIRSTNAME format
+- OK: incumbency: properly marked (no `0` errors)
+- OK: no junk/trailing rows
+- OK: no exact or near-duplicate records (District 8 duplicate of Dist 6 removed)
+- OK: metadata counts match CSV counts (25 candidates, 3 propositions, 6 clippings)
+- OK: office codes include skill-recognized values (PRESIDENT, H, STATE SENATOR, SHERIFF) plus SC-specific local offices (BOARD OF COMMISSIONERS, COUNTY COUNCIL, COUNTY COUNCIL CHAIR, AUDITOR, TREASURER, REGISTER OF MESNE CONVEYANCES) which are accepted per skill rule
+- Note: 22 of 25 candidates have empty `party` field. Pre-1980 SC editorials often omitted party labels for local/state races (Solid South Democratic assumption). Not auto-fixable without inferring party.
+- Note: `prop_type` uses spec short forms (AMENDMENT, BOND) here. The dataset elsewhere uses long forms (CONSTITUTIONAL AMENDMENT, BOND ISSUE). Inconsistency across papers; standing decision: leave as-is per paper.
 
-**Total changes applied:** 14
-- Incumbency field fixes (string "true" -> "1"): 6 records, 6 changes
-- Confidence score adjustments: 8 records, 8 changes
+## Raw/ Folder Inspection
 
-**Files modified:**
-- `143060_candidates.csv` - Updated with all fixes
-- `raw/AIKEN STANDARD 1950-1952 1970-1976/parts/143060_19761029.json` - Updated with all fixes
+- OK: `raw/` clippings match `done/clippings/` exactly (6 files each)
+- OK: all 6 clippings have parts/*.json; no orphans
+- OK: all JSONs are valid and well-formed (rewritten during re-QA)
+- Note: 19721106.json now flagged with `re_qa_note_2026_05_26` field documenting the known unextracted endorsements
+- Note: 19741104.json now correctly notes that its content (Hospital Bond reinforcement) was merged into the Nov 1 record per the conceptual-dupe standing rule
+- Note: working folder name "AIKEN STANDARD 1950-1952 1970-1976" retains the original ALL-CAPS year-range format
 
-All changes have been applied to both the compiled CSV in the done/ folder and the source JSON files in raw/.../parts/.
+## Open Items (Not Specific to This Folder)
 
-## Data Quality Summary
+1. **1972 Hour of Decision data gap.** ~6 candidate endorsements from `143060_19721106.pdf` are known to exist but were not extracted due to scan quality. If a higher-resolution scan can be obtained, the clipping should be re-processed.
+2. **`prop_type` short vs long forms.** This paper uses spec short forms (AMENDMENT, BOND). Abilene papers use long forms (CONSTITUTIONAL AMENDMENT, BOND ISSUE). Dataset is internally inconsistent. Standing decision: leave as-is.
+3. **Missing party data for SC local races.** 22 of 25 candidates have empty party. Could be filled retroactively (most would be Democrat in Solid South era) but is not source-attested.
 
-The Aiken Standard folder represents high-quality endorsement data from a South Carolina newspaper covering the 1950s and 1970s elections. All structural elements are correct, candidate and proposition records are properly formatted, and endorsements are clearly documented with supporting editorial notes. The corrections made (mostly formatting standardization) were minor and mechanical in nature. This folder is ready for analysis and use.
+## Notes for Downstream Use
+
+- The Aiken Standard is the daily newspaper of Aiken, South Carolina (Aiken County).
+- Coverage in this archive: 1952 (Eisenhower endorsement), 1972 (mini-bottle amendment + Hour of Decision — partial), 1974 (Board of Commissioners + State House + Hospital Bond + Horse Creek), 1976 (transition to County Council government, comprehensive local races endorsement).
+- The 1972 Aiken County governance structure was Board of Commissioners; by 1976 it transitioned to County Council (eight single-member districts).
+- The paper opposed the 1974 Hospital Bond on grounds that private hospital (HCA) operation would be more efficient than a publicly-bonded county hospital.
+- Pre-1980 SC was Solid Democratic; local race endorsements typically omitted party labels.
+- The Eisenhower 1952 endorsement is notable: the paper explicitly disavowed joining Republican ranks ("ARE NOT JOINING THE REPUBLICAN RANKS") but framed support as "South Carolinians for Eisenhower" — an independent endorsement during the Solid South era.
+
+## Recommendation
+
+PASS WITH FIXES. The re-extracted data is substantively accurate and ready for compilation. One known data gap remains (1972 Hour of Decision candidates) which is documented for future re-processing if a better scan becomes available. This is a worked example of the kind of folder where the original automated extraction silently produced low-quality data that passed initial QA but failed careful human spot-checking.

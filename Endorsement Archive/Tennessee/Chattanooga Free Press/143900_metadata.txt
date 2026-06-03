@@ -1,0 +1,36 @@
+Newspaper Name: Chattanooga Free Press
+Alternative Names: REVIEW
+Years Published: REVIEW
+Newspaper ID number: 143900
+Number of clippings: 1
+Endorsement data years: 1936
+
+--- ENDORSEMENT COUNTS ---
+Total candidate records: 4
+  Endorsed (=1): 2
+  Opposed (=0): 2
+  No position (null): 0
+Total proposition records: 0
+  Endorsed (=1): 0
+  Opposed (=0): 0
+
+--- DATA QUALITY ---
+Flagged for review: 0 candidates, 0 propositions
+Extraction errors: 0
+Parse errors: 0
+No-endorsement clippings: 0
+Duplicates removed: 0 candidates, 0 propositions
+
+--- CONFIDENCE SCORES ---
+Min: 0.92
+Mean: 0.94
+Max: 0.95
+Below threshold (0.75): 0
+
+--- REVIEW QUEUE ---
+  None
+
+--- NOTES ---
+(Add any additional notes here)
+
+Compiled: 2026-04-28 15:52:33

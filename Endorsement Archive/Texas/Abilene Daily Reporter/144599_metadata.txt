@@ -4,13 +4,13 @@ NEWSPAPER ENDORSEMENT METADATA
 Newspaper: Abilene Daily Reporter
 Newspaper ID: 144599
 State: TX
-Number of clippings: 13
+Number of clippings: 11
 Endorsement data years: 1928-1936
 Total candidate endorsements: 2
-Total proposition endorsements: 16
+Total proposition endorsements: 12
 
 Confidence statistics:
-  Mean confidence: 0.803
+  Mean confidence: 0.786
   Low-confidence records (< 0.7): 3
 
 Top offices (top 15):

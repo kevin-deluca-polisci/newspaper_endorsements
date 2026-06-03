@@ -1,0 +1,13 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Auburn Journal
+Newspaper ID: 101330
+State: CA
+Number of clippings: 23
+Endorsement data years: 1926-1986
+Total candidate endorsements: 66
+Total proposition endorsements: 308
+
+Mean confidence: 0.890
+Empty endorsed props (intentional): 13
