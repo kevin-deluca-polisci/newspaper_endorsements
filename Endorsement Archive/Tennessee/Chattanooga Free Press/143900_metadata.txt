@@ -1,36 +1,39 @@
 Newspaper Name: Chattanooga Free Press
-Alternative Names: REVIEW
-Years Published: REVIEW
+Alternative Names: Free Press (Chattanooga)
+Years Published: 1936-1939 (pre-merger; merged with Chattanooga News in 1939 to form Chattanooga News-Free Press)
 Newspaper ID number: 143900
+State: TN (Chattanooga, Hamilton County)
 Number of clippings: 1
 Endorsement data years: 1936
 
---- ENDORSEMENT COUNTS ---
+--- ENDORSEMENT COUNTS (V2 — formal QA pass, 2026-06-04) ---
 Total candidate records: 4
-  Endorsed (=1): 2
-  Opposed (=0): 2
-  No position (null): 0
+  Endorsed: 2 (Landon R PRES, Hilleary R H3)
+  Opposed: 2 (FDR D PRES, McReynolds D H3)
+  No-direction: 0
 Total proposition records: 0
-  Endorsed (=1): 0
-  Opposed (=0): 0
-
---- DATA QUALITY ---
-Flagged for review: 0 candidates, 0 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 0
-Duplicates removed: 0 candidates, 0 propositions
 
 --- CONFIDENCE SCORES ---
 Min: 0.92
 Mean: 0.94
 Max: 0.95
-Below threshold (0.75): 0
+Below 0.75 threshold: 0
 
---- REVIEW QUEUE ---
-  None
+--- DATA QUALITY ---
+QA date: 2026-06-04 (V2)
+QA result: PASS (no fixes needed)
+QA rounds: 1 (OCR verification only)
+Total fixes: 0
 
---- NOTES ---
-(Add any additional notes here)
+--- HISTORICAL NOTES ---
+1. **Pre-merger Republican-leaning paper** under Roy McDonald ownership (1936-1939).
+2. **Editorial contrast** with same-day Chattanooga News (Democratic-leaning) — paper endorsed Landon R + Hilleary R; News endorsed FDR + McReynolds.
+3. **Merger 1939**: Free Press absorbed Chattanooga News, became Chattanooga News-Free Press (paper kept the Free Press's R editorial line).
+4. **1936 election editorial**: Paper devoted entire editorial page to attacking FDR's New Deal as "Socialistic" ("If you believe in a long step toward a European type of dictatorship... vote for Franklin Delano Roosevelt") and calling McReynolds D "the most abject yes man of them all".
 
-Compiled: 2026-04-28 15:52:33
+--- COVERAGE GAPS (intrinsic source limits) ---
+- Only 1 clipping in dataset (1936 election day editorial)
+- TN Governor + TN Senate 1936 races may have been endorsed by paper but are NOT in this clipping
+- Paper operated only 1936-1939 then merged
+
+Compiled: 2026-04-28. Updated: 2026-06-04 (V2 formal QA — no fixes needed).

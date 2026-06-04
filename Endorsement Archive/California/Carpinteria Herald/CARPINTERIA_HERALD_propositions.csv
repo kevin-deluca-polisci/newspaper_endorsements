@@ -1,162 +1,167 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence,extraction_confidence_note,source_file
-CA,Carpinteria Herald,,1950,CA,Amendment,1,Initiative constitutional amendment prohibiting state and political subdivisions from imposing taxes upon personal property,0,'should receive a no vote',0.92,,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,10,Requires an election to vote on public housing in a community,1,OCR text 'We can see no reason' partially garbled; conservative-paper context suggests support for requiring elections,0.6,Direction inferred from political context; OCR ambiguous,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,11,Amends the Torrens Act (means of land registration),1,'should receive a YES vote',0.92,,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,2,"Prohibits placing individuals' names on amendments to constitution (e.g., as in Proposition 6)",1,'should receive a Yes vote for protection from individuals securing jobs through amendments',0.92,,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,3,Inferior court reorganization,1,'should be given a Yes vote',0.92,,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,4,Broadens the voting privilege of the residents of the state,1,'should be given' (positive direction),0.85,OCR truncated direction text but framing positive,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,5,Allows members of the legislature to hold office and serve as members of boards or commissions,,OCR truncated; direction not extractable,0.55,Direction unreadable in OCR; description partial,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,6,Legalize gambling in California,0,'Every thinking person will vote NO on this measure',0.95,,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,7,Allows blind persons to obtain a Chiropractor's license,0,'should be defeated',0.92,,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,8,"Allows officers of the county, township or municipality to increase their salaries during their term of office",1,'should receive a YES vote' — sufficient safeguards in measure,0.92,,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1950,CA,Amendment,9,Exempts from civil service status part-time employees,1,'No arguments have been presented against this measure' — implicit YES,0.78,Direction inferred from supportive framing; explicit YES not in OCR,carpinteria_19501107.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,1,(description not extractable from OCR fragment),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,10,(description not extractable from OCR),0,NO,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,11,(description not extractable from OCR),0,NO,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,12,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,13,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,14,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,15,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,16,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,17,(description not extractable from OCR),0,NO,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,18,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,19,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,2,(description not extractable from OCR fragment),,Up to individuals (no recommendation),0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,20,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,21,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,22,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,23,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,24,(description not extractable from OCR; list continued on page 10),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,3,"Tax exemption for non-profit schools (Catholic, Protestant, schools for blind/crippled/palsied/mentally retarded). 'Help yourself vote YES on three'",1,YES,0.95,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,4,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,5,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,6,(description not extractable from OCR),0,NO,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,7,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,8,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,9,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1952,CA,Proposition,A,County Redistricting,0,NO,0.92,"OCR shows County Redistricting as Prop A, NO",carpinteria_19521104.pdf
-CA,Carpinteria Herald,,1954,CA,Proposition,1,Veterans Bond,1,Inferred YES from supportive editorial framing,0.7,OCR very fragmented in v3,carpinteria_19541102_v3.pdf
-CA,Carpinteria Herald,,1954,CA,Proposition,13,Vernon City Charter,1,Editorial supportive: 'will give the people of that city the chance to set up a better form of city government',0.85,,carpinteria_19541102_v3.pdf
-CA,Carpinteria Herald,,1954,CA,Proposition,14,College Exemption: Property Under Construction,1,'no arguments against this proposition',0.88,,carpinteria_19541102_v3.pdf
-CA,Carpinteria Herald,,1954,CA,Proposition,16,Water Rights of Government Agencies,1,'we believe this proposition should be passed',0.88,,carpinteria_19541102_v3.pdf
-CA,Carpinteria Herald,,1954,CA,Proposition,17,"Street and Highway Funds, Vehicle Parking",0,Editorial frames negatively; would divert state tax money; Auto Associations against,0.78,Direction inferred from negative editorial framing,carpinteria_19541102_v3.pdf
-CA,Carpinteria Herald,,1954,CA,Proposition,18,Resident Noncitizens: Property Ownership,1,'should be passed',0.92,,carpinteria_19541102_v3.pdf
-CA,Carpinteria Herald,,1954,CA,Proposition,19,Inferior Court Judges (justice court judges advancing to municipal courts),1,'should be given a yes vote',0.92,,carpinteria_19541102_v3.pdf
-CA,Carpinteria Herald,,1954,CA,Proposition,3,Alcoholic Beverage Control,0,'should be voted no',0.78,OCR fragmented,carpinteria_19541102_v3.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,1,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,10,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,11,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,12,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,13,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,14,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,15,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,16,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,17,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,18,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,19,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,2,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,4,Oil conservation measure,1,'In the absence of a better law we believe a yes vote is indicated'; Carpinteria has stake (potential oil discovery),0.88,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,5,Saloon / liquor regulation: keep present law (liquor only in bona-fide eating establishments) vs return to saloon system,1,'a yes vote' to strengthen law against minor presence,0.88,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,6,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,7,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,8,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1956,CA,Proposition,9,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,1,Veterans Bond Act of 1958,1,FOR,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,10,Eminent Domain: Airports and Schools,0,NO,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,11,Local Street and Road Bonds,1,YES,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,12,Legislator as Notary,1,YES,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,13,Superintendent of Public Instruction,0,NO,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,14,Compensation of Local Officers,0,NO,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,15,Boxing Matches,1,YES,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,16,Taxation of Private School Property,0,NO,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,17,"State Sales, Use and Income Tax Rates",0,NO,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,18,Employer-Employee Relations (Right-to-Work),0,NO; this was the heavily contested 1958 right-to-work measure,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,2,School Bonds,1,YES,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,3,State Construction Program Bonds,1,YES,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,4,Harbor Development Bonds,1,YES,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,5,Compensation of Legislators,0,NO,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,6,State Indebtedness,0,NO,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,7,Government Functions: Wartime Disaster,1,YES,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,8,Presidential Voting,1,YES,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1958,CA,Proposition,9,General Legislative Sessions,0,NO,0.95,,carpinteria_19581104.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,1,California Water Resources Development Bond Act ($1.75 billion to finance construction of state water plan),1,'I strongly recommend a YES vote',0.92,,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,10,Administration of Justice: Judicial Council membership,1,'I recommend a YES vote',0.85,,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,12,Constitution: Eliminates Obsolete and Superseded Provisions,1,'I recommend a YES vote',0.85,,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,13,District Courts of Appeal jurisdiction over municipal/justice court cases,1,Editorial supports,0.75,Direction inferred,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,14,Motor Vehicle and Highway Funds,,OCR fragmented; direction not extractable,0.55,OCR too fragmented,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,15,Employer-Employee Relations,,OCR fragmented; opponents note this is the second 'Proposition' discussed in v3,0.55,OCR too fragmented,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,2,Terms of Assemblymen (would change 2-year terms to 4-year),0,Editorial leans against — 'Men who provide excellent representation will be returned to office; those who do not should be out of a job',0.78,Direction inferred from negative framing,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,3,Terms of Office: Permits Legislators to serve on State Board (UC Regents),0,'I recommend a NO vote',0.85,,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,4,"Veterans Tax Exemption: transfer of $5,000 exemption to subsequently acquired homes",1,'I would recommend a YES vote',0.85,,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,5,Compensation of Legislators,0,Editorial opposes legislator pay increase,0.78,Direction inferred from negative editorial framing,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,6,Assessment of Golf Courses (prohibit assessor from assessing same as nearby property),1,'I recommend a YES vote' — golf courses are recreational facility and beauty in any area,0.88,,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,7,State Chiropractic Board (eligibility from same school/college),1,'I recommend a YES vote' — broaden the range of those available,0.85,,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1960,CA,Proposition,8,Eligibility To Vote: Changes (provides convicted person regains right to vote),1,'recommend a YES vote',0.85,,carpinteria_19601108.pdf
-CA,Carpinteria Herald,,1962,CA,Proposition,1,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
-CA,Carpinteria Herald,,1962,CA,Proposition,1-A,(California state proposition),1,FOR,0.95,,carpinteria_19621106.pdf
-CA,Carpinteria Herald,,1962,CA,Proposition,13,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
-CA,Carpinteria Herald,,1962,CA,Proposition,19,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
-CA,Carpinteria Herald,,1962,CA,Proposition,2,(California state proposition),0,NO,0.95,,carpinteria_19621106.pdf
-CA,Carpinteria Herald,,1962,CA,Proposition,23,(California state proposition),0,NO,0.95,,carpinteria_19621106.pdf
-CA,Carpinteria Herald,,1962,CA,Proposition,24,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
-CA,Carpinteria Herald,,1962,CA,Proposition,3,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
-CA,Carpinteria Herald,,1962,CA,Proposition,4,(California state proposition),0,NO,0.95,,carpinteria_19621106.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,1,(California state proposition),1,For,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,10,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,11,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,16,(California state proposition),0,No,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,17,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,2,(California state proposition),1,For,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,3,(California state proposition),0,Against,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,4,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,5,(California state proposition),0,No,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,6,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,7,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,8,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1964,CA,Proposition,9,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
-CA,Carpinteria Herald,,1966,CA,Bond Issue,,"Junior college district bond issue ($18,098,000 — supports $13.2M for Citty College + $1.875M Goleta site; concerns about $3,023,000 for adult education construction)",1,'we recommend a Yes vote',0.92,,carpinteria_19661108.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,1,Bonds to provide public community college facilities ($160 million),1,FOR (X mark in OCR),0.78,Sample ballot format with X marks; OCR shows 'FOR' selected,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,10,"Blind Veterans Tax Exemption (increase from $5,000 to $10,000)",1,YES,0.78,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,11,Right of Privacy (add to inalienable rights),0,NO,0.65,OCR ambiguous; conservative paper likely opposed adding right of privacy,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,12,"Disabled Veterans Tax Exemption (extend to multiple losses, surviving spouse)",1,YES,0.78,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,13,Workmen's Compensation (changes to award),1,YES,0.7,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,14,Property Tax Limitation (Watson Initiative),0,NO,0.7,Famous Watson tax limit; paper likely opposed (financial impact warned),carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,15,(Bond related),,Direction unclear in OCR,0.5,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,17,Death Penalty (reinstate via Constitutional amendment),1,YES,0.78,Paper traditionally conservative on crime,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,18,Obscenity (Penal Code changes),1,YES,0.75,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,19,Marijuana (remove state penalties for personal use),0,NO,0.78,Paper opposed marijuana legalization,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,2,Bonds to provide health science facilities ($155.9 million),1,FOR (sample ballot),0.7,OCR sample-ballot interpretation,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,20,Coastal Zone Conservation (preparation of ecology plan),1,YES,0.78,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,21,Assignment of Students to Schools (anti-busing),1,YES,0.78,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,22,"Agricultural Labor Relations (regulates ag employers/employees, creates board)",1,YES,0.78,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,3,Environmental Pollution Bond Authorization (revenue bonds for pollution control),1,YES,0.75,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,4,"Legislative Reorganization (two-year sessions, auto adjournment, etc.)",1,YES,0.75,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,5,School Districts (governing board activities),1,YES,0.7,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,6,Miscellaneous Constitutional Revisions,1,YES,0.7,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,7,"Direct Primary Elections (open presidential primary, vote for 18-year-olds)",1,YES,0.75,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,8,Tax Exemption for Anti-Pollution Facilities,1,YES,0.7,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1972,CA,Proposition,9,Bond Vote for Structurally Unsafe School Buildings (majority instead of 2/3),1,YES,0.75,,carpinteria_19721107_v2.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,1,Housing Bond Law,1,YES,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,10,Two county taxation,1,YES,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,11,Tax rate adjustments,1,YES,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,12,Energy conservation loans,0,NO,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,13,Greyhound racing,0,NO,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,14,Agricultural labor relations,0,NO,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,15,Chiropractors licensing,1,YES,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,2,State Coastal Park Bond Act,0,NO,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,3,Energy Conservation Bond,0,NO,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,4,University competitive bidding,0,NO,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,7,Judge removal,1,YES,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,8,Joint school boards,1,YES,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,9,State office vacancies,1,YES,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,A,Civil Service amendment,0,NO,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1976,CA,Proposition,B,Trustee area revision,1,YES,0.95,,carpinteria_19761102.pdf
-CA,Carpinteria Herald,,1978,CA,Proposition,1,Veterans Bond,1,YES,0.95,,carpinteria_19781107.pdf
-CA,Carpinteria Herald,,1978,CA,Proposition,2,PUC amendment,0,NO,0.95,,carpinteria_19781107.pdf
-CA,Carpinteria Herald,,1978,CA,Proposition,3,State Surplus Property,1,YES,0.95,,carpinteria_19781107.pdf
-CA,Carpinteria Herald,,1978,CA,Proposition,4,Chiropractic,,No recommendation,0.95,,carpinteria_19781107.pdf
-CA,Carpinteria Herald,,1978,CA,Proposition,5,Smoking initiative,0,NO,0.95,,carpinteria_19781107.pdf
-CA,Carpinteria Herald,,1978,CA,Proposition,6,School homosexuality (Briggs initiative),0,NO; the Briggs initiative which would have banned gay teachers,0.95,,carpinteria_19781107.pdf
-CA,Carpinteria Herald,,1978,CA,Proposition,7,Murder penalty,1,YES,0.95,,carpinteria_19781107.pdf
-CA,Carpinteria Herald,,1978,CA,Proposition,8,Property tax change,0,NO; paper had dedicated editorial 'Vote no on Prop. 8' arguing it would nullify some Prop 13 effects,0.95,,carpinteria_19781107.pdf
-CA,Carpinteria Herald,,1978,CA,Proposition,A,Santa Barbara County split,0,NO,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,1,Initiative constitutional amendment prohibiting state and political subdivisions from imposing taxes upon personal property,0,'should receive a no vote',0.92,,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,10,Requires an election to vote on public housing in a community,1,OCR text 'We can see no reason' partially garbled; conservative-paper context suggests support for requiring elections,0.6,Direction inferred from political context; OCR ambiguous,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,11,Amends the Torrens Act (means of land registration),1,'should receive a YES vote',0.92,,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,2,"Prohibits placing individuals' names on amendments to constitution (e.g., as in Proposition 6)",1,'should receive a Yes vote for protection from individuals securing jobs through amendments',0.92,,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,3,Inferior court reorganization,1,'should be given a Yes vote',0.92,,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,4,Broadens the voting privilege of the residents of the state,1,'should be given' (positive direction),0.85,OCR truncated direction text but framing positive,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,5,Allows members of the legislature to hold office and serve as members of boards or commissions,,OCR truncated; direction not extractable,0.55,Direction unreadable in OCR; description partial,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,6,Legalize gambling in California,0,'Every thinking person will vote NO on this measure',0.95,,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,7,Allows blind persons to obtain a Chiropractor's license,0,'should be defeated',0.92,,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,8,"Allows officers of the county, township or municipality to increase their salaries during their term of office",1,'should receive a YES vote' — sufficient safeguards in measure,0.92,,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,9,Exempts from civil service status part-time employees,1,'No arguments have been presented against this measure' — implicit YES,0.78,Direction inferred from supportive framing; explicit YES not in OCR,carpinteria_19501107.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,1,(description not extractable from OCR fragment),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,10,(description not extractable from OCR),0,NO,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,11,(description not extractable from OCR),0,NO,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,12,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,13,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,14,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,15,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,16,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,17,(description not extractable from OCR),0,NO,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,18,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,19,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,2,School funding measure (teacher/PTA backed; farm orgs oppose),,"Paper explicitly deferred: ""Up to individuals to study and make decision""; e='' is intentional no-recommendation, not OCR gap. ROUND 8: description + note updated from 1952 v2 OCR.",0.85,1952 v2 OCR confirms paper deferred to individual judgment,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,20,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,21,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,22,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,23,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,24,(description not extractable from OCR; list continued on page 10),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,3,"Tax exemption for non-profit schools (Catholic, Protestant, schools for blind/crippled/palsied/mentally retarded). 'Help yourself vote YES on three'",1,YES,0.95,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,4,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,5,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,6,(description not extractable from OCR),0,NO,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,7,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,8,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,9,(description not extractable from OCR),1,YES,0.85,,carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,A,County Redistricting,0,NO,0.92,"OCR shows County Redistricting as Prop A, NO",carpinteria_19521104.pdf
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,1,Veterans Bond,1,Inferred YES from supportive editorial framing,0.7,OCR very fragmented in v3,carpinteria_19541102_v3.pdf
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,13,Vernon City Charter,1,Editorial supportive: 'will give the people of that city the chance to set up a better form of city government',0.85,,carpinteria_19541102_v3.pdf
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,14,College Exemption: Property Under Construction,1,'no arguments against this proposition',0.88,,carpinteria_19541102_v3.pdf
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,16,Water Rights of Government Agencies,1,'we believe this proposition should be passed',0.88,,carpinteria_19541102_v3.pdf
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,17,"Street and Highway Funds, Vehicle Parking",0,Editorial frames negatively; would divert state tax money; Auto Associations against,0.78,Direction inferred from negative editorial framing,carpinteria_19541102_v3.pdf
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,18,Resident Noncitizens: Property Ownership,1,'should be passed',0.92,,carpinteria_19541102_v3.pdf
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,19,Inferior Court Judges (justice court judges advancing to municipal courts),1,'should be given a yes vote',0.92,,carpinteria_19541102_v3.pdf
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,3,Alcoholic Beverage Control,0,'should be voted no',0.78,OCR fragmented,carpinteria_19541102_v3.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,1,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,10,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,11,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,12,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,13,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,14,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,15,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,16,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,17,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,18,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,19,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,2,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,4,Oil conservation measure,1,'In the absence of a better law we believe a yes vote is indicated'; Carpinteria has stake (potential oil discovery),0.88,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,5,Saloon / liquor regulation: keep present law (liquor only in bona-fide eating establishments) vs return to saloon system,1,'a yes vote' to strengthen law against minor presence,0.88,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,6,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,7,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,8,(description not extractable from OCR),1,YES,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,9,(description not extractable from OCR),0,NO,0.85,,carpinteria_19561106.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,1,Veterans Bond Act of 1958,1,FOR,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,10,Eminent Domain: Airports and Schools,0,NO,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,11,Local Street and Road Bonds,1,YES,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,12,Legislator as Notary,1,YES,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,13,Superintendent of Public Instruction,0,NO,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,14,Compensation of Local Officers,0,NO,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,15,Boxing Matches,1,YES,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,16,Taxation of Private School Property,0,NO,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,17,"State Sales, Use and Income Tax Rates",0,NO,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,18,Employer-Employee Relations (Right-to-Work),0,NO; this was the heavily contested 1958 right-to-work measure,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,2,School Bonds,1,YES,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,3,State Construction Program Bonds,1,YES,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,4,Harbor Development Bonds,1,YES,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,5,Compensation of Legislators,0,NO,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,6,State Indebtedness,0,NO,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,7,Government Functions: Wartime Disaster,1,YES,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,8,Presidential Voting,1,YES,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,9,General Legislative Sessions,0,NO,0.95,,carpinteria_19581104.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,1,California Water Resources Development Bond Act ($1.75 billion to finance construction of state water plan),1,'I strongly recommend a YES vote',0.92,,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,10,Administration of Justice: Judicial Council membership,1,'I recommend a YES vote',0.85,,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,12,Constitution: Eliminates Obsolete and Superseded Provisions,1,'I recommend a YES vote',0.85,,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,13,District Courts of Appeal jurisdiction over municipal/justice court cases,1,Editorial supports,0.75,Direction inferred,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,14,Motor Vehicle and Highway Funds,,OCR fragmented; direction not extractable,0.55,OCR too fragmented,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,15,Employer-Employee Relations,,OCR fragmented; opponents note this is the second 'Proposition' discussed in v3,0.55,OCR too fragmented,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,2,Terms of Assemblymen (would change 2-year terms to 4-year),0,Editorial leans against — 'Men who provide excellent representation will be returned to office; those who do not should be out of a job',0.78,Direction inferred from negative framing,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,3,Terms of Office: Permits Legislators to serve on State Board (UC Regents),0,'I recommend a NO vote',0.85,,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,4,"Veterans Tax Exemption: transfer of $5,000 exemption to subsequently acquired homes",1,'I would recommend a YES vote',0.85,,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,5,Compensation of Legislators,0,Editorial opposes legislator pay increase,0.78,Direction inferred from negative editorial framing,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,6,Assessment of Golf Courses (prohibit assessor from assessing same as nearby property),1,'I recommend a YES vote' — golf courses are recreational facility and beauty in any area,0.88,,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,7,State Chiropractic Board (eligibility from same school/college),1,'I recommend a YES vote' — broaden the range of those available,0.85,,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,8,Eligibility To Vote: Changes (provides convicted person regains right to vote),1,'recommend a YES vote',0.85,,carpinteria_19601108.pdf
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,1,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,1-A,(California state proposition),1,FOR,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,13,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,19,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,2,(California state proposition),0,NO,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,23,(California state proposition),0,NO,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,24,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,3,(California state proposition),1,YES,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,4,(California state proposition),0,NO,0.95,,carpinteria_19621106.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,1,(California state proposition),1,For,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,10,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,11,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,16,(California state proposition),0,No,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,17,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,2,(California state proposition),1,For,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,3,(California state proposition),0,Against,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,4,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,5,(California state proposition),0,No,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,6,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,7,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,8,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,9,(California state proposition),1,Yes,0.95,,carpinteria_19641103.pdf
+CA,Carpinteria Herald,,1966,CA,BOND,,"Junior college district bond issue ($18,098,000 — supports $13.2M for Citty College + $1.875M Goleta site; concerns about $3,023,000 for adult education construction)",1,'we recommend a Yes vote',0.92,,carpinteria_19661108.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,1,Bonds to provide public community college facilities ($160 million),1,FOR (X mark in OCR),0.78,Sample ballot format with X marks; OCR shows 'FOR' selected,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,10,"Blind Veterans Tax Exemption (increase from $5,000 to $10,000)",1,YES,0.78,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,11,Right of Privacy (add to inalienable rights),0,NO,0.65,OCR ambiguous; conservative paper likely opposed adding right of privacy,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,12,"Disabled Veterans Tax Exemption (extend to multiple losses, surviving spouse)",1,YES,0.78,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,13,Workmen's Compensation (changes to award),1,YES,0.7,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,14,Property Tax Limitation (Watson Initiative),0,NO,0.7,Famous Watson tax limit; paper likely opposed (financial impact warned),carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,15,(Bond related),,Direction unclear in OCR,0.5,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,17,Death Penalty (reinstate via Constitutional amendment),1,YES,0.78,Paper traditionally conservative on crime,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,18,Obscenity (Penal Code changes),1,YES,0.75,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,19,Marijuana (remove state penalties for personal use),0,NO,0.78,Paper opposed marijuana legalization,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,2,Bonds to provide health science facilities ($155.9 million),1,FOR (sample ballot),0.7,OCR sample-ballot interpretation,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,20,Coastal Zone Conservation (preparation of ecology plan),1,YES,0.78,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,21,Assignment of Students to Schools (anti-busing),1,YES,0.78,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,22,"Agricultural Labor Relations (regulates ag employers/employees, creates board)",1,YES,0.78,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,3,Environmental Pollution Bond Authorization (revenue bonds for pollution control),1,YES,0.75,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,4,"Legislative Reorganization (two-year sessions, auto adjournment, etc.)",1,YES,0.75,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,5,School Districts (governing board activities),1,YES,0.7,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,6,Miscellaneous Constitutional Revisions,1,YES,0.7,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,7,"Direct Primary Elections (open presidential primary, vote for 18-year-olds)",1,YES,0.75,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,8,Tax Exemption for Anti-Pollution Facilities,1,YES,0.7,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,9,Bond Vote for Structurally Unsafe School Buildings (majority instead of 2/3),1,YES,0.75,,carpinteria_19721107_v2.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,1,Housing Bond Law,1,YES,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,10,Two county taxation,1,YES,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,11,Tax rate adjustments,1,YES,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,12,Energy conservation loans,0,NO,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,13,Greyhound racing,0,NO,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,14,Agricultural labor relations,0,NO,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,15,Chiropractors licensing,1,YES,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,2,State Coastal Park Bond Act,0,NO,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,3,Energy Conservation Bond,0,NO,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,4,University competitive bidding,0,NO,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,7,Judge removal,1,YES,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,8,Joint school boards,1,YES,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,9,State office vacancies,1,YES,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,A,Civil Service amendment,0,NO,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,B,Trustee area revision,1,YES,0.95,,carpinteria_19761102.pdf
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,1,Veterans Bond,1,YES,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,2,PUC amendment,0,NO,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,3,State Surplus Property,1,YES,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,4,Chiropractic,,No recommendation,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,5,Smoking initiative,0,NO,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,6,School homosexuality (Briggs initiative),0,NO; the Briggs initiative which would have banned gay teachers,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,7,Murder penalty,1,YES,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,8,Property tax change,0,NO; paper had dedicated editorial 'Vote no on Prop. 8' arguing it would nullify some Prop 13 effects,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,A,Santa Barbara County split,0,NO,0.95,,carpinteria_19781107.pdf
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,3,"(California state proposition, direction recovered from garbled OCR pattern)",1,"ROUND 10 ADD: 1956 v2 OCR shows sequential ""Proposition 1—Yes / Proposition 2—Yes / rroposition s—res / Proposition 4—..."" — the garbled middle line is clearly Prop 3 in same simple format.",0.85,Direction recovered from OCR pattern; description not extractable,carpinteria_19561106_v2.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,12,(California state proposition),1,ROUND 11 ADD: 1964 v2 1200dpi PSM 11 OCR recovered explicit direction; Prop 12 → Yes.,0.95,Recovered from v2 1200dpi OCR with PSM 11 multi-column extraction,carpinteria_19641103_v2.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,13,(California state proposition),1,ROUND 11 ADD: 1964 v2 1200dpi PSM 11 OCR recovered explicit direction; Prop 13 → Yes.,0.95,Recovered from v2 1200dpi OCR with PSM 11 multi-column extraction,carpinteria_19641103_v2.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,14,"Famous Prop 14 — Rumford Fair Housing Act repeal (paper supported repeal, consistent with conservative editorial line)",1,ROUND 11 ADD: 1964 v2 1200dpi PSM 11 OCR recovered explicit direction; Prop 14 → Yes.,0.95,Recovered from v2 1200dpi OCR with PSM 11 multi-column extraction,carpinteria_19641103_v2.pdf
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,15,(California state proposition),0,ROUND 11 ADD: 1964 v2 1200dpi PSM 11 OCR recovered explicit direction; Prop 15 → No.,0.95,Recovered from v2 1200dpi OCR with PSM 11 multi-column extraction,carpinteria_19641103_v2.pdf

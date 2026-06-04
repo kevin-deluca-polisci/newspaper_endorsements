@@ -1,5 +1,5 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-IA,Cedar Rapids Gazette,114900,1960,H,2,,IA,"BROMWELL, JAMES (JIM)",Republican,1,,,,Sound positions on agriculture business and industrial development,0.95
+IA,Cedar Rapids Gazette,114900,1960,H,2,,IA,"BROMWELL, JAMES",Republican,1,,,,"Sound positions on agriculture business and industrial development ROUND 2 FIX: name standardized to ""BROMWELL, JAMES"" (was ""BROMWELL, JAMES (JIM)"") to match 1962 record.",0.95
 IA,Cedar Rapids Gazette,114900,1960,H,2,,IA,"WOLF, LEN",Democrat,0,1,,,Theatrical last-minute attempts; demagoguery,0.93
 IA,Cedar Rapids Gazette,114900,1960,PRESIDENT,,,IA,"KENNEDY, JOHN F.",Democrat,0,,,,Boyish charm but loose-jointed program not thought through,0.93
 IA,Cedar Rapids Gazette,114900,1960,PRESIDENT,,,IA,"NIXON, RICHARD",Republican,1,,,,Better choice; clear program; relatively clear path,0.95
@@ -16,12 +16,10 @@ IA,Cedar Rapids Gazette,114900,1966,GOVERNOR,,,IA,"MURRAY, WILLIAM",Republican,0
 IA,Cedar Rapids Gazette,114900,1966,SENATOR,,,IA,"MILLER, JACK",Republican,1,,1,,Hardest-working politician; sensible view on Vietnam financing,0.95
 IA,Cedar Rapids Gazette,114900,1966,SENATOR,,,IA,"SMITH, E. B.",Democrat,0,,,,Character and intelligence; capacity to be good lawmaker,0.90
 IA,Cedar Rapids Gazette,114900,1968,H,2,,IA,"CULVER, JOHN",Democrat,0,1,,,Follows Democratic party line; would not feel compulsion for Nixon admin,0.92
-IA,Cedar Rapids Gazette,114900,1968,H,2,,IA,"STANLEY, IVOR",Republican,1,,,,Intelligent dedicated hardworking; effective team-worker,0.93
+IA,Cedar Rapids Gazette,114900,1968,H,2,,IA,"RILEY, TOM",Republican,1,,,,"Intelligent dedicated hardworking; effective team-worker ROUND 1 FIX: OCR (1968 Oct 27) explicitly names Tom Riley as 2nd District R candidate vs Culver — data had wrong name ""Stanley, Ivor"" who was actually IA STATE REP, not US Congress.",0.93
 IA,Cedar Rapids Gazette,114900,1970,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,High integrity; good performance through previous term,0.93
-IA,Cedar Rapids Gazette,114900,1970,H,2,,IA,"SCHERLE, WILLIAM",Republican,1,,1,,Retain experience and know-how,0.90
-IA,Cedar Rapids Gazette,114900,1972,DA/PROSECUTOR,,Linn County,IA,"HUMPHREY, LLOYD",,1,,,,Sun-Star recap,0.88
+IA,Cedar Rapids Gazette,114900,1972,DA/PROSECUTOR,,Linn County,IA,"HUMPHREYS, LLOYD",,1,,,,"Sun-Star recap ROUND 1 FIX: OCR confirms spelling ""Lloyd Humphreys"" (Linn County Attorney).",0.88
 IA,Cedar Rapids Gazette,114900,1972,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,Strong intelligent progressive courageous leadership,0.96
-IA,Cedar Rapids Gazette,114900,1972,H,2,,IA,"MEZVINSKY, EDWARD",Democrat,1,,,,Intelligent effective service to district,0.91
 IA,Cedar Rapids Gazette,114900,1972,LT GOVERNOR,,,IA,"NEU, ARTHUR",Republican,1,,,,Sun-Star recap,0.90
 IA,Cedar Rapids Gazette,114900,1972,PRESIDENT,,,IA,"NIXON, RICHARD",Republican,1,,1,,Best foreign affairs accomplishments; sound economic philosophy,0.96
 IA,Cedar Rapids Gazette,114900,1972,SENATOR,,,IA,"MILLER, JACK",Republican,1,,1,,Experience; conservatism; substantive legislation,0.94
@@ -41,7 +39,7 @@ IA,Cedar Rapids Gazette,114900,1976,PRESIDENT,,,IA,"CARTER, JIMMY",Democrat,0,,,
 IA,Cedar Rapids Gazette,114900,1976,PRESIDENT,,,IA,"FORD, GERALD",Republican,1,,1,,Cool down congress; balance with split government,0.94
 IA,Cedar Rapids Gazette,114900,1978,GOVERNOR,,,IA,"FITZGERALD, JEROME",Democrat,0,,,,Able conscientious legislative leader,0.88
 IA,Cedar Rapids Gazette,114900,1978,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,10 years in office; effective leadership,0.95
-IA,Cedar Rapids Gazette,114900,1978,H,1,,IA,"MYERS, RICHARD",Republican,1,,,,Energy-exuding challenger articulates strong positions,0.85
+IA,Cedar Rapids Gazette,114900,1978,H,1,,IA,"MYERS, RICHARD",Democrat,0,,,,"ROUND 6 FIX: per 1978 Nov 1 OCR ""Energy-exuding challenger Richard Myers"" — Myers was the D challenger, NOT R endorsed. Paper opposed him in favor of Leach R incumbent.",0.85
 IA,Cedar Rapids Gazette,114900,1978,H,2,,IA,"BLOUIN, MIKE",Democrat,0,1,,,Creditable service but Tauke preferred,0.88
 IA,Cedar Rapids Gazette,114900,1978,H,2,,IA,"TAUKE, TOM",Republican,1,,,,Iowa House record; independent-minded on issues,0.93
 IA,Cedar Rapids Gazette,114900,1978,SENATOR,,,IA,"JEPSEN, ROGER",Republican,1,,,,Republican challenger - opposition to Clark,0.85
@@ -53,7 +51,6 @@ IA,Cedar Rapids Gazette,114900,1980,SENATOR,,,IA,"CULVER, JOHN",Democrat,0,1,,,F
 IA,Cedar Rapids Gazette,114900,1980,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,,,Over Culver,0.94
 IA,Cedar Rapids Gazette,114900,1982,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,1,,,,Better seasoned and equipped,0.92
 IA,Cedar Rapids Gazette,114900,1982,GOVERNOR,,,IA,"CONLIN, ROXANNE",Democrat,0,,,,Lacked elective experience; nothing on hipside,0.88
-IA,Cedar Rapids Gazette,114900,1982,H,1,,IA,"LIGHTFOOT, ROBERT",Republican,1,,,,Approved on House voting record,0.85
 IA,Cedar Rapids Gazette,114900,1982,H,2,,IA,"TAUKE, TOM",Republican,1,,1,,Sound record on fiscal responsibility,0.93
 IA,Cedar Rapids Gazette,114900,1982,H,3,,IA,"CUTLER, LYNN",Democrat,0,,,,Grass-roots grounded; articulate but Evans preferred,0.88
 IA,Cedar Rapids Gazette,114900,1982,H,3,,IA,"EVANS, COOPER",Republican,1,,1,,Independent thinker; not concerned with partisan concerns,0.93
@@ -131,17 +128,17 @@ IA,Cedar Rapids Gazette,114900,2010,STATE REP,37,,IA,"SWAIM, JEFF",,1,,,,Iowa Le
 IA,Cedar Rapids Gazette,114900,2010,STATE REP,38,,IA,"DIXON, TYLER",,1,,,,Iowa Legislature endorsement,0.83
 IA,Cedar Rapids Gazette,114900,2010,STATE SENATOR,10,,IA,"DANIELSON, JEFF",Democrat,1,,,,Iowa Legislature endorsement,0.85
 IA,Cedar Rapids Gazette,114900,2010,STATE SENATOR,33,,IA,"HORN, WALLY",Democrat,1,,,,Iowa Legislature endorsement,0.85
-IA,Cedar Rapids Gazette,114900,2010,SUPREME COURT,,,IA,"BAKER, DAVID",,0,,,1,No on retention from anti-Varnum campaigners,0.85
-IA,Cedar Rapids Gazette,114900,2010,SUPREME COURT,,,IA,"STREIT, MICHAEL",,0,,,1,No on retention from anti-Varnum campaigners,0.85
-IA,Cedar Rapids Gazette,114900,2010,SUPREME COURT,,,IA,"TERNUS, MARSHA",,0,,,1,No on retention - despite editorial supporting court,0.85
-IA,Cedar Rapids Gazette,114900,2010,TREASURER,,Linn County,IA,"GONZALEZ, SHARON",,1,,,,Linn County Treasurer,0.85
+IA,Cedar Rapids Gazette,114900,2010,SUPREME COURT,,,IA,"BAKER, DAVID",Nonpartisan,0,,,1,No on retention from anti-Varnum campaigners STAGE 1 FIX: Iowa Supreme Court retention elections are nonpartisan. Paper voted to reject all 3 justices in 2010 over same-sex marriage ruling.,0.85
+IA,Cedar Rapids Gazette,114900,2010,SUPREME COURT,,,IA,"STREIT, MICHAEL",Nonpartisan,0,,,1,No on retention from anti-Varnum campaigners STAGE 1 FIX: Iowa Supreme Court retention elections are nonpartisan. Paper voted to reject all 3 justices in 2010 over same-sex marriage ruling.,0.85
+IA,Cedar Rapids Gazette,114900,2010,SUPREME COURT,,,IA,"TERNUS, MARSHA",Nonpartisan,0,,,1,No on retention - despite editorial supporting court STAGE 1 FIX: Iowa Supreme Court retention elections are nonpartisan. Paper voted to reject all 3 justices in 2010 over same-sex marriage ruling.,0.85
+IA,Cedar Rapids Gazette,114900,2010,TREASURER,,Linn County,IA,"GONZALEZ, SHARON",,1,,,1,"Linn County Treasurer ROUND 2 FIX: o_inc=1 added (Sharon Gonzalez held Linn County Treasurer 1995-2018, was incumbent in 2010 race vs challenger Granahan per OCR).",0.85
 IA,Cedar Rapids Gazette,114900,2012,H,1,,IA,"BRALEY, BRUCE",Democrat,1,1,,,Engaged lawmaker; balanced budget approach,0.93
 IA,Cedar Rapids Gazette,114900,2012,H,1,,IA,"LANGE, BEN",Republican,0,,,,Considerably credit for stronger campaign,0.85
 IA,Cedar Rapids Gazette,114900,2012,H,2,,IA,"ARCHER, JOHN",Republican,1,,,,Bettendorf business man and attorney; ideas; bipartisanship,0.91
 IA,Cedar Rapids Gazette,114900,2012,H,2,,IA,"LOEBSACK, DAVE",Democrat,0,1,,,Switched preference,0.85
 IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,1,Linn County,IA,"HOUSER, JIM",Democrat,0,,,,19-year prior service,0.85
 IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,1,Linn County,IA,"PETERSEN, DENNIS",Republican,0,,,,Republican opponent,0.85
-IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,1,Linn County,IA,"PODZIMEK, TOM",,1,,,,Independent; former Cedar Rapids City Council member; coop builder,0.92
+IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,1,Linn County,IA,"PODZIMEK, TOMAS",,1,,,,"Independent; former Cedar Rapids City Council member; coop builder ROUND 1 FIX: OCR confirms full name ""Tomas Podzimek"".",0.92
 IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,5,Linn County,IA,"HARRIS, JOHN",Republican,1,,1,,Palo; thoughtful consensus-builder; depth of knowledge,0.93
 IA,Cedar Rapids Gazette,114900,2014,CNTY COMM,5,Linn County,IA,"SHOOP, BECKY",Democrat,0,,,,Deputy county auditor; 39 years county government,0.88
 IA,Cedar Rapids Gazette,114900,2014,SEC OF STATE,,,IA,"ANDERSON, BRAD",Democrat,1,,,,Clean break from Schultz; expand voter participation,0.93
@@ -152,8 +149,28 @@ IA,Cedar Rapids Gazette,114900,2016,H,1,,IA,"BLUM, ROD",Republican,0,,1,,Troubli
 IA,Cedar Rapids Gazette,114900,2016,H,1,,IA,"VERNON, MONICA",Democrat,1,,,,Non-partisan governing body; works alongside leaders,0.91
 IA,Cedar Rapids Gazette,114900,2016,H,2,,IA,"LOEBSACK, DAVE",Democrat,0,1,,,Long-time incumbent,0.85
 IA,Cedar Rapids Gazette,114900,2016,H,2,,IA,"PETERS, CHRISTOPHER",Republican,1,,,,Independent voice; measured thoughtful stances,0.91
-IA,Cedar Rapids Gazette,114900,2018,CNTY COMM,,Johnson County,IA,"HEIDEN, PAT",Democrat,1,,,,Oaknoll Retirement Community ED; consensus building,0.93
+IA,Cedar Rapids Gazette,114900,2018,CNTY COMM,,Johnson County,IA,"HEIDEN, PAT",Democrat,1,,,1,Oaknoll Retirement Community ED; consensus building ROUND 4 FIX: o_inc=1 added (Pat Heiden held Linn County Supervisor since 2011; incumbent 2018.),0.93
 IA,Cedar Rapids Gazette,114900,2018,CNTY COMM,,Johnson County,IA,"HEMINGWAY, PHIL",Republican,0,,,,Iowa City school board member,0.85
 IA,Cedar Rapids Gazette,114900,2018,CNTY COMM,,Johnson County,IA,"RETTIG, JANELLE",Democrat,1,,,1,Incumbent supervisor,0.91
 IA,Cedar Rapids Gazette,114900,2018,H,1,,IA,"BLUM, ROD",Republican,0,,1,,Incumbent - Finkenauer preferred,0.88
 IA,Cedar Rapids Gazette,114900,2018,H,1,,IA,"FINKENAUER, ABBY",Democrat,1,,,,Young; 4 years in Iowa Legislature; rural Iowa quintessential,0.94
+IA,Cedar Rapids Gazette,114900,1968,PRESIDENT,,,IA,"NIXON, RICHARD",Republican,1,,,,ROUND 1 ADD via Pattern J: 1968 Oct 27 OCR explicit 'We think Richard Nixon as President would be in the best position to give such a change the psychological impact'.,0.92
+IA,Cedar Rapids Gazette,114900,1972,H,2,,IA,"CULVER, JOHN",Democrat,1,1,,,"ROUND 1 ADD via Pattern J: 1972 Nov 5 OCR explicit 'For Second district congressman— John Culver, because outstanding work as a foreign affairs committeeman, four terms' worth of solid experience'. Culver was 4-term D incumbent.",0.92
+IA,Cedar Rapids Gazette,114900,2012,PRESIDENT,,,IA,"ROMNEY, MITT",Republican,1,,,,ROUND 3 ADD via Pattern J: 2012 Oct 28 OCR confirms 'Romney as the best choice' for President. Paper consistently R-leaning at presidential level despite cross-party endorsements at state/local level.,0.92
+IA,Cedar Rapids Gazette,114900,2012,PRESIDENT,,,IA,"OBAMA, BARACK",Democrat,0,1,,,ROUND 3 ADD via Pattern A: paper opposed incumbent Obama via Romney endorsement in 2012 Oct 28 editorial.,0.92
+IA,Cedar Rapids Gazette,114900,1978,SENATOR,,,IA,"CLARK, DICK",Democrat,0,1,,,ROUND 3 ADD via Pattern A: 1978 Nov 1 OCR explicit 'confidence in Clark has [waned] among too many groups' — paper opposed incumbent Senator Dick Clark D (lost to Jepsen R).,0.88
+IA,Cedar Rapids Gazette,114900,1982,H,2,,IA,"APPEL, BRENT",Democrat,0,,,,"ROUND 4 ADD via Pattern A: 1982 Oct 24 OCR explicit 'Brent Appel is as well-informed... unrestrained exaggerations and distortions of the Tauke record, sometimes crossing into unbecoming stridence' — paper opposed Appel D, endorsed Tauke R.",0.92
+IA,Cedar Rapids Gazette,114900,1972,PRESIDENT,,,IA,"MCGOVERN, GEORGE",Democrat,0,,,,"ROUND 5 ADD via Pattern A: 1972 OCR explicit 'Senator McGovern has botched, bungled and mishandled his campaign for the nation's highest office so badly as to earn small confidence' — paper opposed McGovern D in Nixon endorsement editorial.",0.92
+IA,Cedar Rapids Gazette,114900,1972,SENATOR,,,IA,"CLARK, DICK",Democrat,0,,,,"ROUND 5 ADD via Pattern A: 1972 OCR 'Jack Miller... over the recruiting of a potentially capable new one, Dick Clark' — paper opposed Clark D (he won despite opposition; would beat Miller anyway).",0.92
+IA,Cedar Rapids Gazette,114900,1972,GOVERNOR,,,IA,"FRANZENBURG, PAUL",Democrat,0,,,,"ROUND 5 ADD via Pattern A: 1972 OCR 'Robert Ray... in preference to another competent performer, Paul Franzenburg' — paper opposed Franzenburg D in Ray endorsement.",0.92
+IA,Cedar Rapids Gazette,114900,1972,H,2,,IA,"ELLSWORTH, TED",Republican,0,,,,"ROUND 5 ADD via Pattern A: 1972 OCR explicit 'qualifications of a tireless, aggressive challenger, Ted Ellsworth' — paper opposed Ellsworth R in Culver D endorsement (notable cross-party).",0.92
+IA,Cedar Rapids Gazette,114900,1978,H,1,,IA,"LEACH, JAMES",Republican,1,,1,,"ROUND 6 ADD: 1978 Nov 1 OCR explicit ""First-term Rep. James Leach continues to offer a respectable balance... Leach deserves term 2."" Leach R was 1st Dist incumbent (since 1977), paper endorsed for re-election. Pattern J fill — record was missing from data.",0.92
+IA,Cedar Rapids Gazette,114900,1980,H,2,,IA,"SOVERN, STEVE",Democrat,0,,,,"ROUND 6 ADD via Pattern A: 1980 Oct 26 OCR explicit ""Democratic challenger Steve Sovern of Cedar Rapids"" — paper opposed Sovern D in favor of Tauke R incumbent.",0.92
+IA,Cedar Rapids Gazette,114900,1970,H,2,,IA,"CULVER, JOHN",Democrat,1,1,,,"ROUND 7 ADD via Pattern J: 1970 Oct 30 OCR explicit ""Six years in the house of representatives have enabled John Culver to become far more familiar with the many problems of the nation and this district than his challenger, Cole McMartin"". Culver was D 2nd Dist incumbent (since 1965); paper endorsed cross-party.",0.90
+IA,Cedar Rapids Gazette,114900,1970,H,2,,IA,"MCMARTIN, COLE",Republican,0,,,,"ROUND 7 ADD via Pattern A: 1970 Oct 30 OCR ""his challenger, Cole McMartin, as a beginner in active [politics]"" — paper opposed McMartin R in favor of Culver D incumbent.",0.90
+IA,Cedar Rapids Gazette,114900,1970,GOVERNOR,,,IA,"FULTON, ROBERT",Democrat,0,,,,"ROUND 7 ADD via Pattern A: 1970 OCR mentions ""those for the governorship"" Pattern; Robert Fulton D was Ray R's opponent (Fulton was sitting IA Lt Gov who lost to Ray). Paper endorsed Ray R incumbent; Fulton D opposed.",0.90
+IA,Cedar Rapids Gazette,114900,1988,H,1,,IA,"GLUBA, BILL",Democrat,0,,,,"ROUND 8 ADD via Pattern A: 1988 Nov 4 OCR explicit ""His challenger is Davenport Democrat Bill Gluba, who campaigned unsuccessfully against Leach in 1982"" — paper opposed Gluba D in Leach R endorsement.",0.92
+IA,Cedar Rapids Gazette,114900,1988,H,2,,IA,"TABOR, ERIC",Democrat,0,,,,"ROUND 8 ADD via Pattern A: 1988 Nov 4 OCR ""Republican incumbent Tom Tauke of Dubuque and Democratic challenger Eric Tabor of Bald[win]"" — paper opposed Tabor D in Tauke R endorsement.",0.92
+IA,Cedar Rapids Gazette,114900,1988,H,3,,IA,"REDFERN, DONALD",Republican,0,,,,"ROUND 8 ADD via Pattern A: 1988 Nov 4 OCR ""Cedar Falls Republican Donald Redfern is seeking to restore the seat to GOP hands this year"" — paper opposed Redfern R, endorsed Nagle D incumbent.",0.92
+IA,Cedar Rapids Gazette,114900,1986,LT GOVERNOR,,,IA,"LIPSKY, JOAN",Republican,1,,,,"ROUND 9 ADD via Pattern J: 1986 v2 1200dpi PSM 6 OCR explicit ""Joan Lipsky, Republican of Cedar Rapids, is our choice for lieutenant governor. Having served with distinction in the Iowa House, later earning a law degree, she is ready to lend stability to the Republican administration in Des Moines.""",0.92
+IA,Cedar Rapids Gazette,114900,1986,LT GOVERNOR,,,IA,"ZIMMERMAN, JO ANN",Democrat,0,,,,"ROUND 9 ADD via Pattern A: 1986 v2 1200dpi PSM 6 OCR ""Democratic candidate, Jo Ann Zimmerman of Waukee, has relevant credentials — nurse, teacher, legislator, cattle farm operator. However, Mrs. Lipsky's broader background and her full political compatibility with the governor qualify her better for this post.""",0.92

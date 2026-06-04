@@ -6,30 +6,71 @@ Location: Carpinteria, Santa Barbara County
 Number of clippings: 27
 Endorsement data years: 1950-1978 (13 unique election years)
 
-Candidate records: 61
-  Endorsed: 53
-  Opposed: 6
-  No-direction (declined endorsement): 2
+--- ENDORSEMENT COUNTS (V2 — post-14-round QA, 2026-06-03) ---
+Candidate records: 60
+  Endorsed: 54
+  Opposed: 6 (Pattern A pairs: Bramblett 1952, Ross 1954, Holmes 1954+1956, Johnson 1964, Weingand 1966)
+  No-direction (declined endorsement): 0 (2 placeholders dropped in V2 Round 1)
 
-Proposition records: 161
-  YES: 107
-  NO: 48
-  No-direction: 6
+Proposition records: 166
+  YES: 111
+  NO: 49
+  No-direction: 6 (1950 #5, 1952 #2, 1960 #14+#15, 1972 #15, 1978 #4)
 
-Confidence stats:
-  Mean confidence: 0.883
-  Median confidence: 0.920
-  Min confidence: 0.50
-  Max confidence: 0.95
+--- CONFIDENCE STATS ---
+Mean confidence: 0.883
+Median confidence: 0.920
+Min: 0.50
+Max: 0.95
+Below 0.75 threshold: 13 (all are intrinsic OCR/source limitations documented in extraction_confidence_note)
 
-Extraction notes:
-- Carpinteria Herald is a small CA community paper not listed in the newspaper_id reference; newspaper_id field intentionally blank.
-- Years cover 1950-1978 (no 1968, 1970 in archive).
-- Mixed-party endorsement pattern: paper picks individuals across both parties (R for some statewide, D for others). Only sustained partisan tilt: presidential endorsements lean Republican (Goldwater 1964) but paper declined to endorse for Pres in 1956.
-- Some early years (1952, 1954) show "Continued from page 1" / multi-page clippings with first pages missing — extraction limited to what's present.
-- 1960 propositions (3 files: v1, v2, v3) had heavily fragmented OCR; conservative extraction with confidence flags.
-- 1972 v2 used a sample-ballot graphic format with X marks indicating recommendations; OCR couldn't reliably distinguish FOR/AGAINST selections so directions were inferred from CA prop history with conf 0.65-0.78.
-- 1976 had cleanest extraction with full explicit ballot-choice list.
-- 1958 was complete with explicit "In Our Opinion" column listing all 18 propositions and 8 candidate offices.
-- 1978 included dedicated editorial against Prop 8 (post-Prop-13 property tax change).
-- California cross-filing era (1914-1959) preserved as-is; no comma-separated party labels appeared in the OCR.
+--- DATA QUALITY ---
+QA date: 2026-06-03 (V2)
+QA result: PASS WITH MAJOR FIXES V2
+QA rounds: 14 (Round 1 + 13 spot-check rounds)
+Total fixes: ~202 across all rounds
+
+--- V2 FIX SUMMARY ---
+- Stage 1: 9 STATE ASSEMBLY→STATE REP, 11 Amendment→AMENDMENT case, 149 Proposition→BALLOT MEASURE, 1 Bond Issue→BOND, 2 NO ENDORSEMENT placeholders dropped
+- Round 2: 8 empty-party records → Nonpartisan (CA local/judicial nonpartisan offices)
+- Round 3: Deep 1200dpi re-OCR confirmed low-conf records are intrinsic limits (0 fixes)
+- Round 4: 4 name standardizations (TEAGUE 1956 → CHARLES M.; HOLMES 1954+1956 → JAMES L.; BROWN 1978 → EDMUND G. JR.)
+- Round 5: 1 incumbency (1978 HART d_inc=1)
+- Round 6: 1 incumbency (1966 LAGOMARSINO r_inc=1 — OCR confirmed both incumbents in reapportionment)
+- Round 7: 5 fixes (1978 UNRUH d_inc=1 + 1954/1956/1958 HOLMES r_inc=1 + 1956 HOLLISTER r_inc=1) — methodology switch from awk to Python csv parsing exposed missed flags
+- Round 8: 3 fixes (1958 KIRKWOOD r_inc=1, 1962 DUNN note clarified, 1952 Prop 2 note); 1952 all 25 prop directions verified vs v2 OCR — 0 mismatches
+- Round 9: 2 fixes (1978 ARKLIN ADD — Pattern J from v2 OCR; 1978 UNRUH office-labeling note)
+- Round 10: 2 fixes (ARKLIN dist=2, 1956 Prop 3 ADD — Pattern J from v2 OCR pattern)
+- Round 11: 4 Pattern J adds (1964 Props 12-15 recovered via PSM 11 + 1200dpi breakthrough)
+- Round 12: 0 fixes (PSM 6 + 1200dpi sweep of 1950/1960/1962 confirmed source-limited gaps)
+- Round 13: 0 fixes (TRAPP first-name lookup, Pattern A opponent sweep — all clean)
+- Round 14: metadata refresh + final structural audit (0 dups, 0 empty critical fields, all office/party/prop_type values canonical)
+
+--- HISTORICAL NOTES ---
+1. Carpinteria Herald is a small CA community paper not listed in the newspaper_id reference; newspaper_id field intentionally blank.
+2. Years cover 1950-1978 (no 1968, 1970 in archive).
+3. Mixed-party endorsement pattern: paper picks individuals across both parties (R for some statewide, D for others). Only sustained partisan tilt: presidential endorsements lean Republican (Goldwater 1964) but paper declined to endorse for Pres in 1956 ("the decision is a hard one to make").
+4. Some early years (1952, 1954) show "Continued from page 1" / multi-page clippings with first pages missing — extraction limited to what's present.
+5. 1960 propositions (3 files: v1, v2, v3) had heavily fragmented OCR; conservative extraction with confidence flags. 1200dpi re-OCR confirmed gaps are intrinsic.
+6. 1972 v2 used a sample-ballot graphic format with X marks indicating recommendations; OCR couldn't reliably distinguish FOR/AGAINST selections so directions were inferred from CA prop history with conf 0.65-0.78.
+7. 1976 had cleanest extraction with full explicit ballot-choice list (15/15 props verified).
+8. 1958 was complete with explicit "In Our Opinion" column listing all 18 propositions and 8 candidate offices.
+9. 1978 included dedicated editorial against Prop 8 (post-Prop-13 property tax change). Paper's recap labeled Unruh as Controller but historically he was Treasurer 1975-1987 (paper typo, office retained as TREASURER in data with note).
+10. 1964 Prop 14 (Rumford Fair Housing Act repeal) recovered via PSM 11 1200dpi OCR in Round 11 — paper supported repeal (Yes), consistent with same-year Goldwater endorsement.
+11. California cross-filing era (1914-1959) preserved as-is; no comma-separated party labels appeared in the OCR.
+
+--- PER-YEAR PROP COVERAGE vs CA BALLOT TOTALS ---
+1950: 11/19 (paper covered first 11 amendments only)
+1952: 25/24 (24 numbered + 1 Prop A — complete ✓)
+1954: 8/22 (prop clipping incomplete)
+1956: 19/19 (complete ✓ — after Round 10 add of Prop 3)
+1958: 18/18 (complete ✓)
+1960: 13/18 (paper's Public Eye column dominated by paid ads)
+1962: 9/24 (paper's recap only listed 9)
+1964: 17/18 (paper's intro: "17 ballot propositions" ✓ — after Round 11 add of Props 12-15)
+1966: 1/12 (local Junior College bond only; no state props in clipping)
+1972: 21/22 (sample-ballot format; Prop 16 unreadable)
+1976: 15/15 (complete ✓)
+1978: 9/8 (8 props + Prop A county split — complete ✓)
+
+Compiled: 2026-05-23. Updated: 2026-06-03 (V2).

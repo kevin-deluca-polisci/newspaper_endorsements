@@ -358,8 +358,8 @@ AL,Birmingham News,100101,2010,AL,AMENDMENT,2,STATEWIDE CONSTITUTIONAL AMENDMENT
 AL,Birmingham News,100101,2010,AL,AMENDMENT,3,STATEWIDE CONSTITUTIONAL AMENDMENT 3,0,NO VOTE ENDORSED,0.95,Birmingham News
 AL,Birmingham News,100101,2010,AL,AMENDMENT,JEFFERSON_COUNTY,JEFFERSON COUNTY AMENDMENT,0,NO VOTE ENDORSED,0.95,Birmingham News
 AL,Birmingham News,100101,2010,AL,AMENDMENT,SHELBY_COUNTY,SHELBY COUNTY AMENDMENT,0,NO VOTE ENDORSED,0.95,Birmingham News
+AL,Birmingham Post,100103,1922,AL,AMENDMENT,1,PORT IMPROVEMENT AMENDMENT FOR BIRMINGHAM PORT FACILITIES DEVELOPMENT,1,ENDORSES PORT AMENDMENT FOR BIRMINGHAM PORT FACILITIES DEVELOPMENT TO BOOST EXPORT TRADE CAPABILITIES ROUND 7 PROP_NUM FILL: Set to #1 (Talladega Tax is #2 in data; Port was likely Amendment #1 on 1922 AL ballot).,0.9,Birmingham Post
 AL,Birmingham Post,100103,1922,AL,AMENDMENT,2,TALLADEGA TAX AMENDMENT - PERMIT TALLADEGA TO INCREASE TAXES FOR WATER SUPPLY,1,IT IS CERTAINLY RIGHT AND PROPER THAT IT SHOULD BE PASSED SO THAT TALLADEGANS WILL BE PLACED IN A POSITION TO SOLVE THEIR OWN WATER TROUBLES,0.9,Birmingham Post
-AL,Birmingham Post,100103,1922,AL,AMENDMENT,,PORT IMPROVEMENT AMENDMENT FOR BIRMINGHAM PORT FACILITIES DEVELOPMENT,1,ENDORSES PORT AMENDMENT FOR BIRMINGHAM PORT FACILITIES DEVELOPMENT TO BOOST EXPORT TRADE CAPABILITIES,0.9,Birmingham Post
 AL,Birmingham Post,100103,1924,AL,BOND,,$1500000 COURTHOUSE BOND ISSUE,0,OPPOSES COURTHOUSE BONDS DUE TO LACK OF SUPPORTING DATA DETAILED PLANS AND PROPER JUSTIFICATION; BONDS WITHOUT FACTS,0.95,Birmingham Post
 AL,Birmingham Post,100103,1924,AL,BOND,,$500000 COUNTY SCHOOL BOND ISSUE,1,THIS PAPER ALSO BELIEVES THAT THE $500000 COUNTY SCHOOL BOND ISSUE SHOULD BE PASSED; COUNTY SCHOOL BOARDS EXCELLENT RECORD IS THE BEST RECOMMENDATION,0.95,Birmingham Post
 AL,Birmingham Post,100103,1924,AL,BOND,,HILLMAN HOSPITAL $500000 BOND ISSUE,1,THE POST BELIEVES THAT THE $500000 BOND ISSUE FOR HILLMAN HOSPITAL IS THE MOST WORTHY THAT HAS COME BEFORE THE VOTERS FOR YEARS; PRESSING MEDICAL NEEDS AND HOSPITAL OVERCROWDING,0.95,Birmingham Post
@@ -379,17 +379,16 @@ AL,Birmingham Post,100103,1936,AL,AMENDMENT,2,MONTEVALLO - RIGHT TO VOTE ADDITIO
 AL,Birmingham Post,100103,1936,AL,AMENDMENT,3,STATEWIDE PROBATION AMENDMENT - EMPOWER COURTS TO SUSPEND SENTENCES AND PLACE CONVICTS ON PROBATION WHERE PUNISHMENT DOES NOT EXCEED FIVE YEARS,1,AT LEAST A START IN THE RIGHT DIRECTION AND SHOULD BE ADOPTED; TRIED FIRST IN MASSACHUSETTS AND ADOPTED IN 28 OTHER STATES,0.9,Birmingham Post
 AL,Birmingham Post,100103,1936,AL,AMENDMENT,4,LIMESTONE COUNTY - ELIMINATE FEE SYSTEM IN OFFICES OF PROBATE JUDGE TAX COLLECTOR AND TAX ASSESSOR AND PLACE ON SALARY BASIS,1,LOCAL MATTER; COMMUNITIES ENTITLED TO GOVERN THEMSELVES WITHOUT INTERFERENCE BY OUTSIDERS; SHOULD BE APPROVED,0.9,Birmingham Post
 AL,Birmingham Post,100103,1936,AL,AMENDMENT,5,ENABLE MULTIPLE COMMUNITIES TO VOTE ADDITIONAL BOND TAXES FOR SCHOOL PURPOSES,1,LOCAL MATTER; SHOULD BE APPROVED,0.9,Birmingham Post
-AL,Birmingham Post,100103,1938,AL,AMENDMENT,1,GASOLINE TAX AND HIGHWAY FUNDING AMENDMENT - PROTECT HIGHWAY FUNDS FROM DIVERSION,1,WITH THAT THOUGHT IN MIND WE URGE A YES VOTE ON AMENDMENT NO 1 NEXT TUESDAY; PROTECTIONS OF ALABAMIANS WILL BE IN JEOPARDY IF THEY DO NOT HAPPEN TO SOLVE THEIR OWN PROBLEMS OF GOVERNMENT,0.95,Birmingham Post
-AL,Birmingham Post,100103,1938,AL,AMENDMENT,,PROPOSED CONSTITUTIONAL AMENDMENT (SPECIFIC PROPOSITION NOT IDENTIFIED IN CLIPPING),0,EDITORIAL EXPLICITLY STATES 'WE FEEL THAT IT WOULD BE UNWISE TO APPROVE THE PROPOSED CONSTITUTIONAL AMENDMENT',0.85,Birmingham Post
-AL,Birmingham Post,100103,1940,AL,LOCAL,,"PURCHASE AND USE OF VOTING MACHINES FOR JEFFERSON COUNTY - WOULD SPEED UP ELECTIONS, REDUCE COSTS, AND PROVIDE SECRET BALLOT",1,EDITORIAL STATES 'WE BELIEVE THE PURCHASE SHOULD BE APPROVED' AND EMPHASIZES IMPORTANCE FOR SECRET BALLOT,0.95,Birmingham Post
+AL,Birmingham Post,100103,1938,AL,AMENDMENT,1,GASOLINE TAX AND HIGHWAY FUNDING AMENDMENT - PROTECT HIGHWAY FUNDS FROM DIVERSION,0,"WITH THAT THOUGHT IN MIND WE URGE A YES VOTE ON AMENDMENT NO 1 NEXT TUESDAY; PROTECTIONS OF ALABAMIANS WILL BE IN JEOPARDY IF THEY DO NOT HAPPEN TO SOLVE THEIR OWN PROBLEMS OF GOVERNMENT ROUND 4 PATTERN L FIX: WAS e=1; OCR 1938-11-03 EXPLICIT ""WE URGE A NO VOTE ON AMENDMENT NO. 1"" + 1938-11-07 ""UNWISE TO APPROVE."" PAPER OPPOSED HIGHWAY DIVERSION AMENDMENT.",0.95,Birmingham Post
+AL,Birmingham Post,100103,1940,AL,BALLOT MEASURE,,"PURCHASE AND USE OF VOTING MACHINES FOR JEFFERSON COUNTY - WOULD SPEED UP ELECTIONS, REDUCE COSTS, AND PROVIDE SECRET BALLOT",1,EDITORIAL STATES 'WE BELIEVE THE PURCHASE SHOULD BE APPROVED' AND EMPHASIZES IMPORTANCE FOR SECRET BALLOT,0.95,Birmingham Post
 AL,Birmingham Post,100103,1944,AL,AMENDMENT,1,HOUSTON COUNTY - ABOLISH FEE SYSTEM FOR PUBLIC OFFICIALS,1,PURELY LOCAL IN EFFECT; WE KNOW THE PROPOSED CHANGE TO BE SOUND WE FAVOR ITS ADOPTION,0.9,Birmingham Post
 AL,Birmingham Post,100103,1944,AL,AMENDMENT,2,EXTEND POLL TAX EXEMPTIONS TO ALL VETERANS MEN AND WOMEN WHO SERVE IN THE PRESENT WAR,1,PLACES THEM ON THE SAME STATUS AS VETERANS OF WORLD WAR NO 1; CERTAINLY IT SHOULD BE APPROVED,0.95,Birmingham Post
 AL,Birmingham Post,100103,1944,AL,AMENDMENT,3,MANDATORY PRIMARY ELECTIONS FOR NOMINATION OF CANDIDATES FOR PUBLIC OFFICE,0,AIMED PRIMARILY AT REPUBLICANS IN COUNTIES WHERE THEY HAVE APPRECIABLE STRENGTH; WE SERIOUSLY QUESTION ITS WISDOM; NATIONAL DEVELOPMENTS SINCE AMENDMENT WAS PASSED HAVE CAUSED MANY DEMOCRATIC PARTY LEADERS TO WONDER WHETHER IT MAY NOT BACK-FIRE,0.85,Birmingham Post
 AL,Birmingham Post,100103,1944,AL,AMENDMENT,4,EXTEND TERM OF COUNTY SHERIFFS FROM FOUR YEARS TO SIX YEARS,0,WE QUESTION THE WISDOM OF AMENDMENT NO 4; SUCH A SYSTEM OF BLANKET-ELECTION IS NEITHER SOUND NOR DEMOCRATIC; HEALTHY TO HAVE SHERIFF STAND BEFORE VOTERS ON HIS RECORD EVERY FOUR YEARS,0.95,Birmingham Post
 AL,Birmingham Post,100103,1944,AL,AMENDMENT,5,WALKER COUNTY - ABOLISH FEE SYSTEM FOR PUBLIC OFFICIALS,1,PURELY LOCAL IN EFFECT; WE KNOW THE PROPOSED CHANGE TO BE SOUND WE FAVOR ITS ADOPTION,0.9,Birmingham Post
 AL,Birmingham Post,100103,1944,AL,AMENDMENT,6,RELIEVE STATE CHARTERED BANKS OF NECESSITY OF RENEWING CHARTERS EVERY 20 YEARS,1,HAS APPROVAL AND ENDORSEMENT OF STATE BANKING COMMISSIONER STATE BANKING BOARD AND ALABAMA BANKERS ASSN; SO FAR AS WE KNOW NO VOICE HAS BEEN RAISED IN OPPOSITION; WE BELIEVE IT SHOULD BE ADOPTED,0.95,Birmingham Post
-AL,Birmingham Post,100103,1944,AL,LOCAL REFERENDUM,1,PROPOSAL TO PURCHASE BLOCK 20 AS BUILDING SITE FOR CITY HALL IN BIRMINGHAM,0,EDITORIAL STATES 'FOR REASONS ALREADY STATED WE BELIEVE BOTH PROPOSALS SHOULD BE REJECTED',0.9,Birmingham Post
-AL,Birmingham Post,100103,1944,AL,LOCAL REFERENDUM,2,PROPOSAL FOR NEW BUILDING ON PRESENT CITY HALL SITE IN BIRMINGHAM,0,EDITORIAL STATES 'FOR REASONS ALREADY STATED WE BELIEVE BOTH PROPOSALS SHOULD BE REJECTED',0.9,Birmingham Post
+AL,Birmingham Post,100103,1944,AL,REFERENDUM,1,PROPOSAL TO PURCHASE BLOCK 20 AS BUILDING SITE FOR CITY HALL IN BIRMINGHAM,0,EDITORIAL STATES 'FOR REASONS ALREADY STATED WE BELIEVE BOTH PROPOSALS SHOULD BE REJECTED',0.9,Birmingham Post
+AL,Birmingham Post,100103,1944,AL,REFERENDUM,2,PROPOSAL FOR NEW BUILDING ON PRESENT CITY HALL SITE IN BIRMINGHAM,0,EDITORIAL STATES 'FOR REASONS ALREADY STATED WE BELIEVE BOTH PROPOSALS SHOULD BE REJECTED',0.9,Birmingham Post
 AL,Birmingham Post,100103,1948,AL,AMENDMENT,4,AMENDMENT TO GRANT TUSCALOOSA COUNTY SCHOOLS RIGHT TO PROVIDE ADDITIONAL REVENUE FOR SCHOOLS IF APPROVED BY LOCAL VOTERS,1,EDITORIAL 'QUESTION OF HOME RULE' ENDORSES AMENDMENT NO. 4; ARGUES IT GRANTS NEEDED HOME RULE TO TUSCALOOSA COUNTY FOR SCHOOL FUNDING,0.9,Birmingham Post
 AL,Birmingham Post,100103,1948,AL,AMENDMENT,6,AMENDMENT TO GIVE JEFFERSON COUNTY AUTHORITY TO ISSUE GENERAL OBLIGATION BONDS NOT TO EXCEED 3 PERCENT OF TAXABLE PROPERTY VALUE FOR REBUILDING SANITARY SEWER SYSTEM,1,EDITORIAL 'A VITAL ISSUE' ENDORSES AMENDMENT NO. 6; ARGUES SEWER SYSTEM IMPROVEMENTS CANNOT BE AVOIDED AND VOTERS WILL GIVE OVERWHELMING APPROVAL,0.95,Birmingham Post
 AL,Birmingham Post,100103,1948,AL,AMENDMENT,8,AMENDMENT TO PERMIT SCHOOL DISTRICTS OF JEFFERSON COUNTY TO TAX THEMSELVES FOR EDUCATIONAL FACILITIES,1,EDITORIAL 'YOUR APPROVAL NEEDED' ENDORSES AMENDMENT NO. 8; ARGUES IT GIVES JEFFERSON COUNTY SCHOOLS OPPORTUNITY TO PROVIDE PROPER EDUCATIONAL FACILITIES,0.95,Birmingham Post
@@ -1679,167 +1678,172 @@ CA,Banning Record-Gazette,BANNINGRG,2006,CA,BALLOT MEASURE,R,BANNING UNIFIED SCH
 CA,Banning Record-Gazette,BANNINGRG,2008,CA,BALLOT MEASURE,Z,BEAUMONT SCHOOL BONDS,1,"'IN SCHOOLS, WE RECOMMENDED A YES VOTE ON THE BEAUMONT SCHOOL BONDS, MEASURE Z.'",0.95,Banning Record-Gazette
 CA,Banning Record-Gazette,BANNINGRG,2010,CA,BALLOT MEASURE,U,MOUNT SAN JACINTO COLLEGE PERMANENT CAMPUS IN BANNING,1,"'WE HAVE ALREADY MADE RECOMMENDATIONS, INCLUDING A YES ON MEASURE U - TO BUILD A PERMANENT CAMPUS OF MOUNT SAN JACINTO COLLEGE IN BANNING.'",0.98,Banning Record-Gazette
 CA,Banning Record-Gazette,BANNINGRG,2014,CA,BALLOT MEASURE,J,BANNING CITY MEASURE,1,"'AS FOR MEASURE J, WE THINK THAT IT IS IN THE BEST INTEREST OF THE RESIDENTS OF BANNING FOR THIS MEASURE TO PASS.'",0.95,Banning Record-Gazette
-CA,Carpinteria Herald,,1950,CA,Amendment,1,Initiative constitutional amendment prohibiting state and political subdivisions from imposing taxes upon personal property,0,'should receive a no vote',0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,10,Requires an election to vote on public housing in a community,1,OCR text 'We can see no reason' partially garbled; conservative-paper context suggests support for requiring elections,0.6,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,11,Amends the Torrens Act (means of land registration),1,'should receive a YES vote',0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,2,"Prohibits placing individuals' names on amendments to constitution (e.g., as in Proposition 6)",1,'should receive a Yes vote for protection from individuals securing jobs through amendments',0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,3,Inferior court reorganization,1,'should be given a Yes vote',0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,4,Broadens the voting privilege of the residents of the state,1,'should be given' (positive direction),0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,5,Allows members of the legislature to hold office and serve as members of boards or commissions,,OCR truncated; direction not extractable,0.55,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,6,Legalize gambling in California,0,'Every thinking person will vote NO on this measure',0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,7,Allows blind persons to obtain a Chiropractor's license,0,'should be defeated',0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,8,"Allows officers of the county, township or municipality to increase their salaries during their term of office",1,'should receive a YES vote' — sufficient safeguards in measure,0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1950,CA,Amendment,9,Exempts from civil service status part-time employees,1,'No arguments have been presented against this measure' — implicit YES,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,1,(description not extractable from OCR fragment),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,10,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,11,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,12,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,13,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,14,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,15,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,16,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,17,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,18,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,19,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,2,(description not extractable from OCR fragment),,Up to individuals (no recommendation),0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,20,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,21,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,22,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,23,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,24,(description not extractable from OCR; list continued on page 10),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,3,"Tax exemption for non-profit schools (Catholic, Protestant, schools for blind/crippled/palsied/mentally retarded). 'Help yourself vote YES on three'",1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,4,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,5,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,6,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,7,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,8,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,9,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1952,CA,Proposition,A,County Redistricting,0,NO,0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1954,CA,Proposition,1,Veterans Bond,1,Inferred YES from supportive editorial framing,0.7,Carpinteria Herald
-CA,Carpinteria Herald,,1954,CA,Proposition,13,Vernon City Charter,1,Editorial supportive: 'will give the people of that city the chance to set up a better form of city government',0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1954,CA,Proposition,14,College Exemption: Property Under Construction,1,'no arguments against this proposition',0.88,Carpinteria Herald
-CA,Carpinteria Herald,,1954,CA,Proposition,16,Water Rights of Government Agencies,1,'we believe this proposition should be passed',0.88,Carpinteria Herald
-CA,Carpinteria Herald,,1954,CA,Proposition,17,"Street and Highway Funds, Vehicle Parking",0,Editorial frames negatively; would divert state tax money; Auto Associations against,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1954,CA,Proposition,18,Resident Noncitizens: Property Ownership,1,'should be passed',0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1954,CA,Proposition,19,Inferior Court Judges (justice court judges advancing to municipal courts),1,'should be given a yes vote',0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1954,CA,Proposition,3,Alcoholic Beverage Control,0,'should be voted no',0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,1,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,10,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,11,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,12,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,13,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,14,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,15,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,16,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,17,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,18,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,19,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,2,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,4,Oil conservation measure,1,'In the absence of a better law we believe a yes vote is indicated'; Carpinteria has stake (potential oil discovery),0.88,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,5,Saloon / liquor regulation: keep present law (liquor only in bona-fide eating establishments) vs return to saloon system,1,'a yes vote' to strengthen law against minor presence,0.88,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,6,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,7,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,8,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1956,CA,Proposition,9,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,1,Veterans Bond Act of 1958,1,FOR,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,10,Eminent Domain: Airports and Schools,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,11,Local Street and Road Bonds,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,12,Legislator as Notary,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,13,Superintendent of Public Instruction,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,14,Compensation of Local Officers,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,15,Boxing Matches,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,16,Taxation of Private School Property,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,17,"State Sales, Use and Income Tax Rates",0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,18,Employer-Employee Relations (Right-to-Work),0,NO; this was the heavily contested 1958 right-to-work measure,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,2,School Bonds,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,3,State Construction Program Bonds,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,4,Harbor Development Bonds,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,5,Compensation of Legislators,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,6,State Indebtedness,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,7,Government Functions: Wartime Disaster,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,8,Presidential Voting,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1958,CA,Proposition,9,General Legislative Sessions,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,1,California Water Resources Development Bond Act ($1.75 billion to finance construction of state water plan),1,'I strongly recommend a YES vote',0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,10,Administration of Justice: Judicial Council membership,1,'I recommend a YES vote',0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,12,Constitution: Eliminates Obsolete and Superseded Provisions,1,'I recommend a YES vote',0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,13,District Courts of Appeal jurisdiction over municipal/justice court cases,1,Editorial supports,0.75,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,14,Motor Vehicle and Highway Funds,,OCR fragmented; direction not extractable,0.55,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,15,Employer-Employee Relations,,OCR fragmented; opponents note this is the second 'Proposition' discussed in v3,0.55,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,2,Terms of Assemblymen (would change 2-year terms to 4-year),0,Editorial leans against — 'Men who provide excellent representation will be returned to office; those who do not should be out of a job',0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,3,Terms of Office: Permits Legislators to serve on State Board (UC Regents),0,'I recommend a NO vote',0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,4,"Veterans Tax Exemption: transfer of $5,000 exemption to subsequently acquired homes",1,'I would recommend a YES vote',0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,5,Compensation of Legislators,0,Editorial opposes legislator pay increase,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,6,Assessment of Golf Courses (prohibit assessor from assessing same as nearby property),1,'I recommend a YES vote' — golf courses are recreational facility and beauty in any area,0.88,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,7,State Chiropractic Board (eligibility from same school/college),1,'I recommend a YES vote' — broaden the range of those available,0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1960,CA,Proposition,8,Eligibility To Vote: Changes (provides convicted person regains right to vote),1,'recommend a YES vote',0.85,Carpinteria Herald
-CA,Carpinteria Herald,,1962,CA,Proposition,1,(California state proposition),1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1962,CA,Proposition,1-A,(California state proposition),1,FOR,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1962,CA,Proposition,13,(California state proposition),1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1962,CA,Proposition,19,(California state proposition),1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1962,CA,Proposition,2,(California state proposition),0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1962,CA,Proposition,23,(California state proposition),0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1962,CA,Proposition,24,(California state proposition),1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1962,CA,Proposition,3,(California state proposition),1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1962,CA,Proposition,4,(California state proposition),0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,1,(California state proposition),1,For,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,10,(California state proposition),1,Yes,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,11,(California state proposition),1,Yes,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,16,(California state proposition),0,No,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,17,(California state proposition),1,Yes,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,2,(California state proposition),1,For,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,3,(California state proposition),0,Against,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,4,(California state proposition),1,Yes,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,5,(California state proposition),0,No,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,6,(California state proposition),1,Yes,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,7,(California state proposition),1,Yes,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,8,(California state proposition),1,Yes,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1964,CA,Proposition,9,(California state proposition),1,Yes,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1966,CA,Bond Issue,,"Junior college district bond issue ($18,098,000 — supports $13.2M for Citty College + $1.875M Goleta site; concerns about $3,023,000 for adult education construction)",1,'we recommend a Yes vote',0.92,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,1,Bonds to provide public community college facilities ($160 million),1,FOR (X mark in OCR),0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,10,"Blind Veterans Tax Exemption (increase from $5,000 to $10,000)",1,YES,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,11,Right of Privacy (add to inalienable rights),0,NO,0.65,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,12,"Disabled Veterans Tax Exemption (extend to multiple losses, surviving spouse)",1,YES,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,13,Workmen's Compensation (changes to award),1,YES,0.7,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,14,Property Tax Limitation (Watson Initiative),0,NO,0.7,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,15,(Bond related),,Direction unclear in OCR,0.5,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,17,Death Penalty (reinstate via Constitutional amendment),1,YES,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,18,Obscenity (Penal Code changes),1,YES,0.75,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,19,Marijuana (remove state penalties for personal use),0,NO,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,2,Bonds to provide health science facilities ($155.9 million),1,FOR (sample ballot),0.7,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,20,Coastal Zone Conservation (preparation of ecology plan),1,YES,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,21,Assignment of Students to Schools (anti-busing),1,YES,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,22,"Agricultural Labor Relations (regulates ag employers/employees, creates board)",1,YES,0.78,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,3,Environmental Pollution Bond Authorization (revenue bonds for pollution control),1,YES,0.75,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,4,"Legislative Reorganization (two-year sessions, auto adjournment, etc.)",1,YES,0.75,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,5,School Districts (governing board activities),1,YES,0.7,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,6,Miscellaneous Constitutional Revisions,1,YES,0.7,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,7,"Direct Primary Elections (open presidential primary, vote for 18-year-olds)",1,YES,0.75,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,8,Tax Exemption for Anti-Pollution Facilities,1,YES,0.7,Carpinteria Herald
-CA,Carpinteria Herald,,1972,CA,Proposition,9,Bond Vote for Structurally Unsafe School Buildings (majority instead of 2/3),1,YES,0.75,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,1,Housing Bond Law,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,10,Two county taxation,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,11,Tax rate adjustments,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,12,Energy conservation loans,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,13,Greyhound racing,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,14,Agricultural labor relations,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,15,Chiropractors licensing,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,2,State Coastal Park Bond Act,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,3,Energy Conservation Bond,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,4,University competitive bidding,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,7,Judge removal,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,8,Joint school boards,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,9,State office vacancies,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,A,Civil Service amendment,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1976,CA,Proposition,B,Trustee area revision,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1978,CA,Proposition,1,Veterans Bond,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1978,CA,Proposition,2,PUC amendment,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1978,CA,Proposition,3,State Surplus Property,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1978,CA,Proposition,4,Chiropractic,,No recommendation,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1978,CA,Proposition,5,Smoking initiative,0,NO,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1978,CA,Proposition,6,School homosexuality (Briggs initiative),0,NO; the Briggs initiative which would have banned gay teachers,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1978,CA,Proposition,7,Murder penalty,1,YES,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1978,CA,Proposition,8,Property tax change,0,NO; paper had dedicated editorial 'Vote no on Prop. 8' arguing it would nullify some Prop 13 effects,0.95,Carpinteria Herald
-CA,Carpinteria Herald,,1978,CA,Proposition,A,Santa Barbara County split,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,1,Initiative constitutional amendment prohibiting state and political subdivisions from imposing taxes upon personal property,0,'should receive a no vote',0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,10,Requires an election to vote on public housing in a community,1,OCR text 'We can see no reason' partially garbled; conservative-paper context suggests support for requiring elections,0.6,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,11,Amends the Torrens Act (means of land registration),1,'should receive a YES vote',0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,2,"Prohibits placing individuals' names on amendments to constitution (e.g., as in Proposition 6)",1,'should receive a Yes vote for protection from individuals securing jobs through amendments',0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,3,Inferior court reorganization,1,'should be given a Yes vote',0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,4,Broadens the voting privilege of the residents of the state,1,'should be given' (positive direction),0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,5,Allows members of the legislature to hold office and serve as members of boards or commissions,,OCR truncated; direction not extractable,0.55,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,6,Legalize gambling in California,0,'Every thinking person will vote NO on this measure',0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,7,Allows blind persons to obtain a Chiropractor's license,0,'should be defeated',0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,8,"Allows officers of the county, township or municipality to increase their salaries during their term of office",1,'should receive a YES vote' — sufficient safeguards in measure,0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1950,CA,AMENDMENT,9,Exempts from civil service status part-time employees,1,'No arguments have been presented against this measure' — implicit YES,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,1,(description not extractable from OCR fragment),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,10,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,11,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,12,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,13,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,14,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,15,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,16,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,17,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,18,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,19,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,2,School funding measure (teacher/PTA backed; farm orgs oppose),,"Paper explicitly deferred: ""Up to individuals to study and make decision""; e='' is intentional no-recommendation, not OCR gap. ROUND 8: description + note updated from 1952 v2 OCR.",0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,20,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,21,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,22,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,23,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,24,(description not extractable from OCR; list continued on page 10),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,3,"Tax exemption for non-profit schools (Catholic, Protestant, schools for blind/crippled/palsied/mentally retarded). 'Help yourself vote YES on three'",1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,4,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,5,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,6,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,7,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,8,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,9,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1952,CA,BALLOT MEASURE,A,County Redistricting,0,NO,0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,1,Veterans Bond,1,Inferred YES from supportive editorial framing,0.7,Carpinteria Herald
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,13,Vernon City Charter,1,Editorial supportive: 'will give the people of that city the chance to set up a better form of city government',0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,14,College Exemption: Property Under Construction,1,'no arguments against this proposition',0.88,Carpinteria Herald
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,16,Water Rights of Government Agencies,1,'we believe this proposition should be passed',0.88,Carpinteria Herald
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,17,"Street and Highway Funds, Vehicle Parking",0,Editorial frames negatively; would divert state tax money; Auto Associations against,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,18,Resident Noncitizens: Property Ownership,1,'should be passed',0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,19,Inferior Court Judges (justice court judges advancing to municipal courts),1,'should be given a yes vote',0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1954,CA,BALLOT MEASURE,3,Alcoholic Beverage Control,0,'should be voted no',0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,1,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,10,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,11,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,12,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,13,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,14,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,15,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,16,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,17,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,18,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,19,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,2,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,3,"(California state proposition, direction recovered from garbled OCR pattern)",1,"ROUND 10 ADD: 1956 v2 OCR shows sequential ""Proposition 1—Yes / Proposition 2—Yes / rroposition s—res / Proposition 4—..."" — the garbled middle line is clearly Prop 3 in same simple format.",0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,4,Oil conservation measure,1,'In the absence of a better law we believe a yes vote is indicated'; Carpinteria has stake (potential oil discovery),0.88,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,5,Saloon / liquor regulation: keep present law (liquor only in bona-fide eating establishments) vs return to saloon system,1,'a yes vote' to strengthen law against minor presence,0.88,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,6,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,7,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,8,(description not extractable from OCR),1,YES,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1956,CA,BALLOT MEASURE,9,(description not extractable from OCR),0,NO,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,1,Veterans Bond Act of 1958,1,FOR,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,10,Eminent Domain: Airports and Schools,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,11,Local Street and Road Bonds,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,12,Legislator as Notary,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,13,Superintendent of Public Instruction,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,14,Compensation of Local Officers,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,15,Boxing Matches,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,16,Taxation of Private School Property,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,17,"State Sales, Use and Income Tax Rates",0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,18,Employer-Employee Relations (Right-to-Work),0,NO; this was the heavily contested 1958 right-to-work measure,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,2,School Bonds,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,3,State Construction Program Bonds,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,4,Harbor Development Bonds,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,5,Compensation of Legislators,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,6,State Indebtedness,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,7,Government Functions: Wartime Disaster,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,8,Presidential Voting,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1958,CA,BALLOT MEASURE,9,General Legislative Sessions,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,1,California Water Resources Development Bond Act ($1.75 billion to finance construction of state water plan),1,'I strongly recommend a YES vote',0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,10,Administration of Justice: Judicial Council membership,1,'I recommend a YES vote',0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,12,Constitution: Eliminates Obsolete and Superseded Provisions,1,'I recommend a YES vote',0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,13,District Courts of Appeal jurisdiction over municipal/justice court cases,1,Editorial supports,0.75,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,14,Motor Vehicle and Highway Funds,,OCR fragmented; direction not extractable,0.55,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,15,Employer-Employee Relations,,OCR fragmented; opponents note this is the second 'Proposition' discussed in v3,0.55,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,2,Terms of Assemblymen (would change 2-year terms to 4-year),0,Editorial leans against — 'Men who provide excellent representation will be returned to office; those who do not should be out of a job',0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,3,Terms of Office: Permits Legislators to serve on State Board (UC Regents),0,'I recommend a NO vote',0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,4,"Veterans Tax Exemption: transfer of $5,000 exemption to subsequently acquired homes",1,'I would recommend a YES vote',0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,5,Compensation of Legislators,0,Editorial opposes legislator pay increase,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,6,Assessment of Golf Courses (prohibit assessor from assessing same as nearby property),1,'I recommend a YES vote' — golf courses are recreational facility and beauty in any area,0.88,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,7,State Chiropractic Board (eligibility from same school/college),1,'I recommend a YES vote' — broaden the range of those available,0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1960,CA,BALLOT MEASURE,8,Eligibility To Vote: Changes (provides convicted person regains right to vote),1,'recommend a YES vote',0.85,Carpinteria Herald
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,1,(California state proposition),1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,1-A,(California state proposition),1,FOR,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,13,(California state proposition),1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,19,(California state proposition),1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,2,(California state proposition),0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,23,(California state proposition),0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,24,(California state proposition),1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,3,(California state proposition),1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1962,CA,BALLOT MEASURE,4,(California state proposition),0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,1,(California state proposition),1,For,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,10,(California state proposition),1,Yes,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,11,(California state proposition),1,Yes,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,12,(California state proposition),1,ROUND 11 ADD: 1964 v2 1200dpi PSM 11 OCR recovered explicit direction; Prop 12 → Yes.,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,13,(California state proposition),1,ROUND 11 ADD: 1964 v2 1200dpi PSM 11 OCR recovered explicit direction; Prop 13 → Yes.,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,14,"Famous Prop 14 — Rumford Fair Housing Act repeal (paper supported repeal, consistent with conservative editorial line)",1,ROUND 11 ADD: 1964 v2 1200dpi PSM 11 OCR recovered explicit direction; Prop 14 → Yes.,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,15,(California state proposition),0,ROUND 11 ADD: 1964 v2 1200dpi PSM 11 OCR recovered explicit direction; Prop 15 → No.,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,16,(California state proposition),0,No,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,17,(California state proposition),1,Yes,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,2,(California state proposition),1,For,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,3,(California state proposition),0,Against,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,4,(California state proposition),1,Yes,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,5,(California state proposition),0,No,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,6,(California state proposition),1,Yes,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,7,(California state proposition),1,Yes,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,8,(California state proposition),1,Yes,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1964,CA,BALLOT MEASURE,9,(California state proposition),1,Yes,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1966,CA,BOND,,"Junior college district bond issue ($18,098,000 — supports $13.2M for Citty College + $1.875M Goleta site; concerns about $3,023,000 for adult education construction)",1,'we recommend a Yes vote',0.92,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,1,Bonds to provide public community college facilities ($160 million),1,FOR (X mark in OCR),0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,10,"Blind Veterans Tax Exemption (increase from $5,000 to $10,000)",1,YES,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,11,Right of Privacy (add to inalienable rights),0,NO,0.65,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,12,"Disabled Veterans Tax Exemption (extend to multiple losses, surviving spouse)",1,YES,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,13,Workmen's Compensation (changes to award),1,YES,0.7,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,14,Property Tax Limitation (Watson Initiative),0,NO,0.7,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,15,(Bond related),,Direction unclear in OCR,0.5,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,17,Death Penalty (reinstate via Constitutional amendment),1,YES,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,18,Obscenity (Penal Code changes),1,YES,0.75,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,19,Marijuana (remove state penalties for personal use),0,NO,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,2,Bonds to provide health science facilities ($155.9 million),1,FOR (sample ballot),0.7,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,20,Coastal Zone Conservation (preparation of ecology plan),1,YES,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,21,Assignment of Students to Schools (anti-busing),1,YES,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,22,"Agricultural Labor Relations (regulates ag employers/employees, creates board)",1,YES,0.78,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,3,Environmental Pollution Bond Authorization (revenue bonds for pollution control),1,YES,0.75,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,4,"Legislative Reorganization (two-year sessions, auto adjournment, etc.)",1,YES,0.75,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,5,School Districts (governing board activities),1,YES,0.7,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,6,Miscellaneous Constitutional Revisions,1,YES,0.7,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,7,"Direct Primary Elections (open presidential primary, vote for 18-year-olds)",1,YES,0.75,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,8,Tax Exemption for Anti-Pollution Facilities,1,YES,0.7,Carpinteria Herald
+CA,Carpinteria Herald,,1972,CA,BALLOT MEASURE,9,Bond Vote for Structurally Unsafe School Buildings (majority instead of 2/3),1,YES,0.75,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,1,Housing Bond Law,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,10,Two county taxation,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,11,Tax rate adjustments,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,12,Energy conservation loans,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,13,Greyhound racing,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,14,Agricultural labor relations,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,15,Chiropractors licensing,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,2,State Coastal Park Bond Act,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,3,Energy Conservation Bond,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,4,University competitive bidding,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,7,Judge removal,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,8,Joint school boards,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,9,State office vacancies,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,A,Civil Service amendment,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1976,CA,BALLOT MEASURE,B,Trustee area revision,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,1,Veterans Bond,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,2,PUC amendment,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,3,State Surplus Property,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,4,Chiropractic,,No recommendation,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,5,Smoking initiative,0,NO,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,6,School homosexuality (Briggs initiative),0,NO; the Briggs initiative which would have banned gay teachers,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,7,Murder penalty,1,YES,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,8,Property tax change,0,NO; paper had dedicated editorial 'Vote no on Prop. 8' arguing it would nullify some Prop 13 effects,0.95,Carpinteria Herald
+CA,Carpinteria Herald,,1978,CA,BALLOT MEASURE,A,Santa Barbara County split,0,NO,0.95,Carpinteria Herald
 CA,Chico Enterprise Record,101500,1924,CA,constitutional amendment,5,"TRANSFER OF FUNDS - AMENDS SECTION 31, ARTICLE 4 OF STATE CONSTITUTION (WOULD IMPERIL VETERANS' WELFARE BOARD LEGISLATION)",0,"'PROPOSITION NO. 5, VOTE NO' - American Legion and veterans organizations urge defeat; would wipe out veterans' welfare board home/farm purchasing program due to drafting error that overlooked the 1922 veterans' welfare amendment.",0.97,Chico Enterprise Record
 CA,Chico Enterprise Record,101500,1924,CA,initiative,11,KLAMATH RIVER WATER AND POWER DEVELOPMENT (HENRY FORD MUSCLE SHOALS REFERENCE; WHY GIVE IT AWAY),1,Headline ad: 'Vote YES on No. 11',0.92,Chico Enterprise Record
 CA,Chico Enterprise Record,101500,1926,CA,constitutional amendment,20,REAPPORTIONMENT MEASURE - WOULD GIVE LEGISLATIVE CONTROL OF THE STATE TO THE THREE CHIEF CITIES (LOS ANGELES IN PARTICULAR),0,'Vote No On Number Twenty' - urban-favoring reapportionment opposed by The Record and California Farm Bureaus Federation.,0.97,Chico Enterprise Record
@@ -10354,29 +10358,29 @@ HI,Honolulu Star-Bulletin,109601,2008,HI,,,City Charter Amendment: Specify state
 HI,Honolulu Star-Bulletin,109601,2008,HI,,,State Constitutional Amendment: Lower to 18 the age for eligibility to run for governor and lieutenant governor,,,0.85,Honolulu Star-Bulletin
 HI,Honolulu Star-Bulletin,109601,2008,HI,,,State Constitutional Convention (Con Con),,,0.85,Honolulu Star-Bulletin
 IA,Cedar Rapids Gazette,114900,1964,IA,AMENDMENT,,Iowa constitutional amendment - require future convention proposals be submitted to people,1,Important guarantee that voters get to approve convention output,0.95,Cedar Rapids Gazette
-IA,Cedar Rapids Gazette,114900,1964,IA,LOCAL,,Linn County - At-large election of board of supervisors,1,Fairer balance; same population coverage; supervisors handle countywide matters,0.94,Cedar Rapids Gazette
-IA,Cedar Rapids Gazette,114900,1966,IA,LOCAL,,Reapportionment - bipartisan commission for subdistricting,1,Reduce gerrymandering; objective approach,0.92,Cedar Rapids Gazette
+IA,Cedar Rapids Gazette,114900,1964,IA,BALLOT MEASURE,,Linn County - At-large election of board of supervisors,1,Fairer balance; same population coverage; supervisors handle countywide matters,0.94,Cedar Rapids Gazette
+IA,Cedar Rapids Gazette,114900,1966,IA,BALLOT MEASURE,,Reapportionment - bipartisan commission for subdistricting,1,Reduce gerrymandering; objective approach,0.92,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Annual sessions of legislature,1,State govt is BIG business needing more constant attention,0.94,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Home rule for cities and towns,1,Both parties unqualified support,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Item veto for governor on appropriations,1,Both parties support,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Legislative pay and expenses,1,Both parties support,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1968,IA,AMENDMENT,,Reapportionment - cut legislature to 150 max,1,Both parties unqualified support,0.93,Cedar Rapids Gazette
-IA,Cedar Rapids Gazette,114900,1968,IA,LOCAL,,Cedar Rapids rent subsidy proposal,1,Federal funds for monthly rent supplements; saves city $100K,0.93,Cedar Rapids Gazette
+IA,Cedar Rapids Gazette,114900,1968,IA,BALLOT MEASURE,,Cedar Rapids rent subsidy proposal,1,Federal funds for monthly rent supplements; saves city $100K,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1970,IA,AMENDMENT,,County attorney - remove 2-year term limit,1,Allow legislature to extend to 4 years like other county officers,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1970,IA,AMENDMENT,,Residency amendment - allow legislature to set residence period,1,Iowa needs flexible residency rules,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1970,IA,AMENDMENT,,Single-member districts amendment,1,Each legislator from separate district,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1972,IA,AMENDMENT,,4-year terms instead of 2 for legislature,1,More time for program planning,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1972,IA,AMENDMENT,,Judiciary discipline - judicial commission action,1,Present procedures wholly inadequate,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1972,IA,AMENDMENT,,Repeal lotteries constitutional ban,1,Existing provision has fostered ferment,0.93,Cedar Rapids Gazette
-IA,Cedar Rapids Gazette,114900,1972,IA,LOCAL,,Cable TV proposal for Cedar Rapids,1,Single firm vendor will save costs,0.85,Cedar Rapids Gazette
-IA,Cedar Rapids Gazette,114900,1972,IA,LOCAL,,County Home - $2.9M bond for new home,1,Aged inadequate; community ready,0.92,Cedar Rapids Gazette
+IA,Cedar Rapids Gazette,114900,1972,IA,BALLOT MEASURE,,Cable TV proposal for Cedar Rapids,1,Single firm vendor will save costs,0.85,Cedar Rapids Gazette
+IA,Cedar Rapids Gazette,114900,1972,IA,BOND,,County Home - $2.9M bond for new home,1,Aged inadequate; community ready,0.92,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1974,IA,AMENDMENT,,School-fund equity - allow legislation on certain court fines,1,Open door to correcting unfairness,0.93,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1974,IA,AMENDMENT,,Special-session method - allow legislature to call itself,1,Overcome holdback of balky governor,0.93,Cedar Rapids Gazette
-IA,Cedar Rapids Gazette,114900,1974,IA,LOCAL,,Cedar Rapids $3M bond for new zoo,1,Prime civic asset; substantial cultural/educational improvement,0.94,Cedar Rapids Gazette
-IA,Cedar Rapids Gazette,114900,1974,IA,LOCAL,,Cedar Rapids one-mill levy for zoo operation,1,Almost self-sustaining; actual levy expected only 1/20 mill,0.93,Cedar Rapids Gazette
+IA,Cedar Rapids Gazette,114900,1974,IA,BALLOT MEASURE,,Cedar Rapids one-mill levy for zoo operation,1,Almost self-sustaining; actual levy expected only 1/20 mill,0.93,Cedar Rapids Gazette
+IA,Cedar Rapids Gazette,114900,1974,IA,BOND,,Cedar Rapids $3M bond for new zoo,1,Prime civic asset; substantial cultural/educational improvement,0.94,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1978,IA,AMENDMENT,,County home rule constitutional amendment,1,Gives counties limited power similar to home-rule cities,0.95,Cedar Rapids Gazette
 IA,Cedar Rapids Gazette,114900,1986,IA,AMENDMENT,,Iowa state printing amendment,1,OCR garbled - amendment topic from clip title,0.70,Cedar Rapids Gazette
-IA,Cedar Rapids Gazette,114900,2008,IA,LOCAL,,Johnson County conservation bond - $20M over 20 years,0,Rework conservation bond proposal - lack of specifics; 20 years too long,0.93,Cedar Rapids Gazette
+IA,Cedar Rapids Gazette,114900,2008,IA,BOND,,Johnson County conservation bond - $20M over 20 years,0,Rework conservation bond proposal - lack of specifics; 20 years too long,0.93,Cedar Rapids Gazette
 IA,Des Moines Register,115150,1960,IA,Iowa Constitutional Convention,,Hold a constitutional convention to address reapportionment,1,Vote YES on convention,0.92,Des Moines Register
 IA,Des Moines Register,115150,1968,IA,Iowa Constitutional Amendment,,Item Veto Amendment (governor authority to veto individual items in appropriation bills),1,Vote YES,0.95,Des Moines Register
 IA,Des Moines Register,115150,1970,IA,Iowa Constitutional Amendment,,Repeal section establishing office of county attorney with 2-year terms (would permit 4-year terms by statute),1,Endorsement editorial supports,0.9,Des Moines Register
@@ -11063,40 +11067,34 @@ LA,Shreveport Times,118400,2014,LA,AMENDMENT,8,Artificial Reef Development Fund,
 LA,Shreveport Times,118400,2014,LA,AMENDMENT,9,Tax Exemption Reporting for Permanently Disabled Residents,0,,,Shreveport Times
 MA,Boston Globe,119300,1964,MA,AMENDMENT,1,Four-year term (starting in 1966) for the governor and other constitutional officers,1,Globe urges YES vote,0.95,Boston Globe
 MA,Boston Globe,119300,1964,MA,AMENDMENT,2,Constitutional amendment to let the Legislature assure continuity of government in event of enemy attack,1,"Globe notes little or no opposition, supports passage",0.95,Boston Globe
-MA,Boston Globe,119300,1964,MA,AMENDMENT,2,Continuity of government in case of enemy attack,1,Globe favors YES vote,0.95,Boston Globe
 MA,Boston Globe,119300,1964,MA,AMENDMENT,3,Constitutional amendment requiring two-thirds vote of each branch of Legislature to lend/pledge state credit; would restrict expansion plans for Mass. Bay Transportation Authority and state backing for housing for aged and higher education,0,Globe recommends NO vote; second sentence is misleading as prohibition already exists; would close a door to the future,0.95,Boston Globe
-MA,Boston Globe,119300,1964,MA,AMENDMENT,3,Two-thirds vote of Legislature to pledge the State's credit,0,Globe urges NO vote,0.95,Boston Globe
-MA,Boston Globe,119300,1964,MA,AMENDMENT,4,Let the governor get advisory opinions from Supreme Judicial Court without Council agreement,1,Globe urges YES vote,0.95,Boston Globe
 MA,Boston Globe,119300,1964,MA,AMENDMENT,4,"Permit either the governor or the Executive Council, independently, to seek advisory opinions from the Supreme Judicial Court",1,Globe notes little or no opposition; would prevent Council from blocking governor as it did to ex-Gov. Volpe,0.95,Boston Globe
-MA,Boston Globe,119300,1964,MA,BALLOT QUESTION,5,Repeal most of the statutory powers of the Executive Council,1,Globe urges YES; first chance since Revolution to strike at worst evil in state government; council has kept governors from picking own department heads; only 2 other states still have a council; requires 30% of all who vote to pass,0.95,Boston Globe
-MA,Boston Globe,119300,1964,MA,BALLOT QUESTION,5,Repeal most statutory powers of the Governor's Council,1,Globe calls for reform and a resounding YES vote,0.95,Boston Globe
-MA,Boston Globe,119300,1964,MA,REFERENDUM,6,Legislators' pay raise of $2600,1,Globe urges YES; above-board this time and lawmakers enacted reform measures to earn it,0.95,Boston Globe
+MA,Boston Globe,119300,1964,MA,BALLOT MEASURE,5,Repeal most of the statutory powers of the Executive Council,1,Globe urges YES; first chance since Revolution to strike at worst evil in state government; council has kept governors from picking own department heads; only 2 other states still have a council; requires 30% of all who vote to pass,0.95,Boston Globe
 MA,Boston Globe,119300,1964,MA,REFERENDUM,6,Referendum on the 1963 legislative pay raise (lawmakers' salaries from $5200 to $7800),1,"Globe urges YES vote; pay raise has been earned; lawmakers have accepted reforms, passed MBTA bill, established Crime Commission; Globe attacked Ballot Law Commission for trying to keep question off ballot but supports the raise itself",0.95,Boston Globe
-MA,Boston Globe,119300,1964,MA,REFERENDUM,7,"Liquor licenses (local option, three parts)",,Globe takes no position; policy varies by community; urges vote on each of three parts,0.95,Boston Globe
 MA,Boston Globe,119300,1964,MA,REFERENDUM,7,Local-option liquor license referendum (broken into three parts: all alcoholic beverages on/off premises; wines and malt beverages only; package stores),,Globe does not endorse YES or NO; urges voters to take part since each community decides its own policy; concerns about blank votes from 1962,0.95,Boston Globe
 MA,Boston Globe,119300,1968,MA,AMENDMENT,1,Amend Constitution to increase from 5 to 10 days the time governor may act on legislative measures,1,Globe recommends YES; facilitates research on complex legislation,0.95,Boston Globe
 MA,Boston Globe,119300,1968,MA,AMENDMENT,2,Amend Constitution to enable Legislature to adopt a graduated income tax,1,Globe most strongly urges YES; needed to address urban blight and deprivation; tax based on ability to pay,0.95,Boston Globe
 MA,Boston Globe,119300,1968,MA,AMENDMENT,3,Amend Constitution to spell out in detail what should be done if governor becomes physically or mentally disabled,0,Globe recommends NO; well-intended but defective; gives Legislature too much power over chief executive,0.95,Boston Globe
-MA,Boston Globe,119300,1968,MA,BALLOT QUESTION,4,Whether to put on 1970 ballot a question asking whether a limited constitutional convention should be called the following year,1,Globe urges YES; pressures Legislature to continue piecemeal constitutional reforms; only vehicle to reduce size of House of Representatives,0.95,Boston Globe
-MA,Boston Globe,119300,1968,MA,BALLOT QUESTION,6,Whether Massachusetts should retain capital punishment for crime,0,Globe strongly urges NO; death penalty is barbarous and self-defeating; special commission found it is not a deterrent to murder,0.95,Boston Globe
+MA,Boston Globe,119300,1968,MA,BALLOT MEASURE,4,Whether to put on 1970 ballot a question asking whether a limited constitutional convention should be called the following year,1,Globe urges YES; pressures Legislature to continue piecemeal constitutional reforms; only vehicle to reduce size of House of Representatives,0.95,Boston Globe
+MA,Boston Globe,119300,1968,MA,BALLOT MEASURE,6,Whether Massachusetts should retain capital punishment for crime,0,Globe strongly urges NO; death penalty is barbarous and self-defeating; special commission found it is not a deterrent to murder,0.95,Boston Globe
 MA,Boston Globe,119300,1968,MA,REFERENDUM,5,Local-option sales of alcoholic beverages (three or four sections),,Globe cannot recommend on each section because policy/conditions vary by community,0.95,Boston Globe
-MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,1,Authorize 30-day legislative recesses,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,2,Reduce from 240 to 160 the number of seats in the Massachusetts House of Representatives,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,3,Permit use of state funds for private higher education,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,4,Empower the Legislature to tap the state Highway Trust Fund for mass transit,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,5,Wholesale revisions in the state's 1973 campaign finance law,0,"Globe says NO, opposing revisions",0.95,Boston Globe
-MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,6,Urge Legislature to create a new state Department of Health System Regulation,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,7,"Replace the five-member Boston school committee with a network of local, area and citywide councils and a school department directly accountable to the mayor, effective 1976 (Boston only)",1,Globe says YES; Boston only,0.95,Boston Globe
-MA,Boston Globe,119300,1974,MA,BALLOT QUESTION,,"Handgun control (Brookline, Newton, Wellesley, and Winthrop only): urge legislators to limit possession of handguns to police, military, security personnel, collectors, and sporting clubs",1,Globe says YES; non-binding local question in 4 towns only,0.95,Boston Globe
+MA,Boston Globe,119300,1974,MA,BALLOT MEASURE,1,Authorize 30-day legislative recesses,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1974,MA,BALLOT MEASURE,2,Reduce from 240 to 160 the number of seats in the Massachusetts House of Representatives,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1974,MA,BALLOT MEASURE,3,Permit use of state funds for private higher education,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1974,MA,BALLOT MEASURE,4,Empower the Legislature to tap the state Highway Trust Fund for mass transit,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1974,MA,BALLOT MEASURE,5,Wholesale revisions in the state's 1973 campaign finance law,0,"Globe says NO, opposing revisions",0.95,Boston Globe
+MA,Boston Globe,119300,1974,MA,BALLOT MEASURE,6,Urge Legislature to create a new state Department of Health System Regulation,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1974,MA,BALLOT MEASURE,7,"Replace the five-member Boston school committee with a network of local, area and citywide councils and a school department directly accountable to the mayor, effective 1976 (Boston only)",1,Globe says YES; Boston only,0.95,Boston Globe
+MA,Boston Globe,119300,1974,MA,BALLOT MEASURE,,"Handgun control (Brookline, Newton, Wellesley, and Winthrop only): urge legislators to limit possession of handguns to police, military, security personnel, collectors, and sporting clubs",1,Globe says YES; non-binding local question in 4 towns only,0.95,Boston Globe
 MA,Boston Globe,119300,1976,MA,AMENDMENT,1,"Women's Equal Rights Amendment to the state constitution, barring discrimination based on sex, race, color, creed or national origin",1,Globe urges YES,0.95,Boston Globe
 MA,Boston Globe,119300,1976,MA,AMENDMENT,2,Graduated income tax amendment permitting Legislature and governor to tax higher percentages of higher incomes,1,Globe urges YES,0.95,Boston Globe
 MA,Boston Globe,119300,1976,MA,AMENDMENT,3,"Absentee voting for religious reasons, amendment to state constitution",1,Globe urges YES,0.95,Boston Globe
-MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,4,"State takeover of right to build new power plants, and perhaps buy out existing utilities (initiative petition)",0,Globe urges NO,0.95,Boston Globe
-MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,5,Ban on private possession of handguns (barrels shorter than 16 inches) with compensation for weapons turned in to police (initiative petition),1,Globe urges YES,0.95,Boston Globe
-MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,6,"Bottle bill: minimum 5-cent deposit on bottles of soft drinks, beer and other malt beverages; prohibits sale of containers with detachable flip-tops (initiative petition)",1,Globe urges YES,0.95,Boston Globe
-MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,7,"Uniform electric rate requirement, eliminating discount rates for major electricity users (initiative petition)",0,Globe urges NO,0.95,Boston Globe
-MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,8,"Non-binding question testing public support for construction of an oil refinery and deep-water port in Massachusetts, subject to local consent",1,Globe urges YES,0.95,Boston Globe
-MA,Boston Globe,119300,1976,MA,BALLOT QUESTION,9,Non-binding question testing public support for permitting retail and liquor package stores to open on Sundays,1,Globe urges YES,0.95,Boston Globe
+MA,Boston Globe,119300,1976,MA,BALLOT MEASURE,4,"State takeover of right to build new power plants, and perhaps buy out existing utilities (initiative petition)",0,Globe urges NO,0.95,Boston Globe
+MA,Boston Globe,119300,1976,MA,BALLOT MEASURE,5,Ban on private possession of handguns (barrels shorter than 16 inches) with compensation for weapons turned in to police (initiative petition),1,Globe urges YES,0.95,Boston Globe
+MA,Boston Globe,119300,1976,MA,BALLOT MEASURE,6,"Bottle bill: minimum 5-cent deposit on bottles of soft drinks, beer and other malt beverages; prohibits sale of containers with detachable flip-tops (initiative petition)",1,Globe urges YES,0.95,Boston Globe
+MA,Boston Globe,119300,1976,MA,BALLOT MEASURE,7,"Uniform electric rate requirement, eliminating discount rates for major electricity users (initiative petition)",0,Globe urges NO,0.95,Boston Globe
+MA,Boston Globe,119300,1976,MA,BALLOT MEASURE,8,"Non-binding question testing public support for construction of an oil refinery and deep-water port in Massachusetts, subject to local consent",1,Globe urges YES,0.95,Boston Globe
+MA,Boston Globe,119300,1976,MA,BALLOT MEASURE,9,Non-binding question testing public support for permitting retail and liquor package stores to open on Sundays,1,Globe urges YES,0.95,Boston Globe
 MA,Boston Globe,119300,1978,MA,AMENDMENT,1,Permits Legislature to set up four different categories of real estate to be taxed at different rates (real estate tax classification),1,Globe recommends YES; aimed at offsetting 100 percent valuation ordered by state's courts,0.95,Boston Globe
 MA,Boston Globe,119300,1978,MA,AMENDMENT,2,Gives a new governor eight weeks rather than the normal three for submitting a budget to the Legislature,1,Globe says YES; proposal is sensible,0.95,Boston Globe
 MA,Boston Globe,119300,1978,MA,AMENDMENT,3,Allows secretary of state to distribute information about ballot questions to each household rather than each voter,1,Globe says YES; guarantees more widespread distribution,0.95,Boston Globe
@@ -11104,42 +11102,42 @@ MA,Boston Globe,119300,1978,MA,AMENDMENT,4,Stipulates state census procedures fo
 MA,Boston Globe,119300,1978,MA,AMENDMENT,5,Grants municipal charter commissions 18 rather than 10 months for completion of any proposed revision in local government,1,Globe says YES,0.95,Boston Globe
 MA,Boston Globe,119300,1978,MA,AMENDMENT,6,Bars admission or rejection of pupils by public schools on basis of race or religion,0,Globe recommends NO; poses danger to voluntary programs like Metco and magnet programs trying to avoid court intervention,0.95,Boston Globe
 MA,Boston Globe,119300,1978,MA,AMENDMENT,7,Allows legislature to set lower real estate taxes on recreational or wilderness land,1,Globe says YES; Legislature can use current laws covering forest/farm land as model,0.95,Boston Globe
-MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,1,Provide public aid to private schools,0,Globe says NO,0.95,Boston Globe
-MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,2,Restore capital punishment,0,Globe says NO,0.95,Boston Globe
-MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,3,Require new nuclear power plants and new nuclear waste facilities to be approved in statewide referendums,0,Globe says NO,0.95,Boston Globe
-MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,4,Bottle bill,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1982,MA,BALLOT QUESTION,5,Endorsing a freeze on nuclear weapons,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,1,Legislative regulation of abortion,0,Globe says NO,0.95,Boston Globe
-MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,2,State aid to nonpublic schools,0,Globe says NO,0.95,Boston Globe
-MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,3,Enforced cap on state taxes,0,Globe says NO,0.95,Boston Globe
-MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,4,Enforced requirements for cleaning up hazardous waste,0,Globe says NO,0.95,Boston Globe
-MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,5,Keeping a law requiring automobile seat belts,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,6,Allow voter registration by mail,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1986,MA,BALLOT QUESTION,9,Non-binding referendum instructing state representatives to vote for secession of a major part of Boston (about one-third of Boston voters),0,Globe says NO; Boston-specific advisory question,0.95,Boston Globe
-MA,Boston Globe,119300,1988,MA,BALLOT QUESTION,1,Repeal a pay raise for legislators and constitutional officers (NO vote would repeal),1,Globe recommends YES to keep the pay raise; resist easy vote of frustration with politicians,0.95,Boston Globe
-MA,Boston Globe,119300,1988,MA,BALLOT QUESTION,2,Repeal the state's prevailing wage law (YES vote would repeal),0,Globe recommends NO; union wages set a fair and just standard; projected savings are illusory,0.95,Boston Globe
-MA,Boston Globe,119300,1988,MA,BALLOT QUESTION,3,Code of 'rights' for farm animals (YES vote would approve),0,Globe recommends NO; unnecessarily restrictive; concern over impact on Massachusetts farmers,0.95,Boston Globe
-MA,Boston Globe,119300,1988,MA,BALLOT QUESTION,4,"Force the shutdown of the state's nuclear power plants, Pilgrim at Plymouth and Yankee at Rowe (YES vote would force shutdown)",0,Globe recommends NO; concern shutdown would disrupt supply and cost of electrical power; safety depends on faithful monitoring of rigorous standards,0.95,Boston Globe
-MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,1,Repeal the constitutionally required decennial state census,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,2,Impose a sharp limitation on the use of consultants and contract providers of services,0,Globe says NO,0.95,Boston Globe
-MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,3,"Reduce state tax rates, license fees and charges by all independent state authorities to their levels as of Jan. 1, 1988",0,Globe says NO; CLT tax rollback measure,0.95,Boston Globe
-MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,4,Reduce the number of signatures required for smaller political parties and independent candidates to qualify for appearing on the ballot,1,Globe says YES,0.95,Boston Globe
-MA,Boston Globe,119300,1990,MA,BALLOT QUESTION,5,"Mandate that state aid to municipalities be a minimum of 40 percent of state receipts from income, sales and corporate taxes, in addition to lottery distributions",0,Globe says NO,0.95,Boston Globe
-MA,Boston Globe,119300,2008,MA,BALLOT QUESTION,1,Eliminate the state income tax,0,Globe urges NO; reckless idea,0.95,Boston Globe
-MA,Boston Globe,119300,2008,MA,BALLOT QUESTION,2,Decriminalize possession of marijuana,0,Globe urges NO,0.95,Boston Globe
-MA,Boston Globe,119300,2008,MA,BALLOT QUESTION,3,Ban dog racing in Massachusetts,0,Globe recommends NO,0.95,Boston Globe
-MA,Boston Globe,119300,2010,MA,BALLOT QUESTION,1,Repeal the state sales tax on alcoholic beverages,0,Globe urges NO vote to keep funding treatment programs,0.95,Boston Globe
-MA,Boston Globe,119300,2010,MA,BALLOT QUESTION,2,Repeal the state's affordable housing law (Chapter 40B),0,Globe urges NO; misguided repeal attempt,0.95,Boston Globe
-MA,Boston Globe,119300,2010,MA,BALLOT QUESTION,3,Reduce the state sales tax from 6.25 percent to 3 percent,0,Globe urges NO; stunt that would create chaos,0.95,Boston Globe
-MA,Boston Globe,119300,2012,MA,BALLOT QUESTION,1,Right to repair motor vehicle information,,Globe says skip it; compromise already reached,0.95,Boston Globe
-MA,Boston Globe,119300,2012,MA,BALLOT QUESTION,2,Allow physician-assisted suicide,0,Globe says NO; deeply divisive,0.95,Boston Globe
-MA,Boston Globe,119300,2012,MA,BALLOT QUESTION,3,Allow medical marijuana use,0,Globe says NO; should be regulated by FDA,0.95,Boston Globe
-MA,Boston Globe,119300,2014,MA,BALLOT QUESTION,1,Eliminate the requirement that the state's gasoline tax be tied to inflation,0,Globe urges NO; hobbling gas tax would damage state economy,0.95,Boston Globe
-MA,Boston Globe,119300,2014,MA,BALLOT QUESTION,2,"Expand the bottle deposit bill to include non-alcoholic, non-carbonated beverage containers",1,Globe urges YES; sensible evolution of the bottle bill,0.95,Boston Globe
-MA,Boston Globe,119300,2014,MA,BALLOT QUESTION,3,Block casino gambling by repealing the state's 2011 casino law,1,Globe says YES to repeal of casino law,0.95,Boston Globe
-MA,Boston Globe,119300,2014,MA,BALLOT QUESTION,4,Allow employees to earn and use paid sick time,1,Globe says YES; allow workers to earn paid/unpaid sick time,0.95,Boston Globe
-MA,Boston Globe,119300,2018,MA,BALLOT QUESTION,1,Require Massachusetts hospitals to follow patient-to-nurse staffing ratios,0,Globe urges NO; too risky with too many unintended consequences,0.95,Boston Globe
-MA,Boston Globe,119300,2018,MA,BALLOT QUESTION,2,Create a state commission to study amending the US Constitution to overturn Citizens United v. FEC,1,Globe endorses YES with misgivings; commission should be diverse,0.95,Boston Globe
+MA,Boston Globe,119300,1982,MA,BALLOT MEASURE,1,Provide public aid to private schools,0,Globe says NO,0.95,Boston Globe
+MA,Boston Globe,119300,1982,MA,BALLOT MEASURE,2,Restore capital punishment,0,Globe says NO,0.95,Boston Globe
+MA,Boston Globe,119300,1982,MA,BALLOT MEASURE,3,Require new nuclear power plants and new nuclear waste facilities to be approved in statewide referendums,0,Globe says NO,0.95,Boston Globe
+MA,Boston Globe,119300,1982,MA,BALLOT MEASURE,4,Bottle bill,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1982,MA,BALLOT MEASURE,5,Endorsing a freeze on nuclear weapons,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1986,MA,BALLOT MEASURE,1,Legislative regulation of abortion,0,Globe says NO,0.95,Boston Globe
+MA,Boston Globe,119300,1986,MA,BALLOT MEASURE,2,State aid to nonpublic schools,0,Globe says NO,0.95,Boston Globe
+MA,Boston Globe,119300,1986,MA,BALLOT MEASURE,3,Enforced cap on state taxes,0,Globe says NO,0.95,Boston Globe
+MA,Boston Globe,119300,1986,MA,BALLOT MEASURE,4,Enforced requirements for cleaning up hazardous waste,0,Globe says NO,0.95,Boston Globe
+MA,Boston Globe,119300,1986,MA,BALLOT MEASURE,5,Keeping a law requiring automobile seat belts,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1986,MA,BALLOT MEASURE,6,Allow voter registration by mail,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1986,MA,BALLOT MEASURE,9,Non-binding referendum instructing state representatives to vote for secession of a major part of Boston (about one-third of Boston voters),0,Globe says NO; Boston-specific advisory question,0.95,Boston Globe
+MA,Boston Globe,119300,1988,MA,BALLOT MEASURE,1,Repeal a pay raise for legislators and constitutional officers (NO vote would repeal),1,Globe recommends YES to keep the pay raise; resist easy vote of frustration with politicians,0.95,Boston Globe
+MA,Boston Globe,119300,1988,MA,BALLOT MEASURE,2,Repeal the state's prevailing wage law (YES vote would repeal),0,Globe recommends NO; union wages set a fair and just standard; projected savings are illusory,0.95,Boston Globe
+MA,Boston Globe,119300,1988,MA,BALLOT MEASURE,3,Code of 'rights' for farm animals (YES vote would approve),0,Globe recommends NO; unnecessarily restrictive; concern over impact on Massachusetts farmers,0.95,Boston Globe
+MA,Boston Globe,119300,1988,MA,BALLOT MEASURE,4,"Force the shutdown of the state's nuclear power plants, Pilgrim at Plymouth and Yankee at Rowe (YES vote would force shutdown)",0,Globe recommends NO; concern shutdown would disrupt supply and cost of electrical power; safety depends on faithful monitoring of rigorous standards,0.95,Boston Globe
+MA,Boston Globe,119300,1990,MA,BALLOT MEASURE,1,Repeal the constitutionally required decennial state census,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1990,MA,BALLOT MEASURE,2,Impose a sharp limitation on the use of consultants and contract providers of services,0,Globe says NO,0.95,Boston Globe
+MA,Boston Globe,119300,1990,MA,BALLOT MEASURE,3,"Reduce state tax rates, license fees and charges by all independent state authorities to their levels as of Jan. 1, 1988",0,Globe says NO; CLT tax rollback measure,0.95,Boston Globe
+MA,Boston Globe,119300,1990,MA,BALLOT MEASURE,4,Reduce the number of signatures required for smaller political parties and independent candidates to qualify for appearing on the ballot,1,Globe says YES,0.95,Boston Globe
+MA,Boston Globe,119300,1990,MA,BALLOT MEASURE,5,"Mandate that state aid to municipalities be a minimum of 40 percent of state receipts from income, sales and corporate taxes, in addition to lottery distributions",0,Globe says NO,0.95,Boston Globe
+MA,Boston Globe,119300,2008,MA,BALLOT MEASURE,1,Eliminate the state income tax,0,Globe urges NO; reckless idea,0.95,Boston Globe
+MA,Boston Globe,119300,2008,MA,BALLOT MEASURE,2,Decriminalize possession of marijuana,0,Globe urges NO,0.95,Boston Globe
+MA,Boston Globe,119300,2008,MA,BALLOT MEASURE,3,Ban dog racing in Massachusetts,0,Globe recommends NO,0.95,Boston Globe
+MA,Boston Globe,119300,2010,MA,BALLOT MEASURE,1,Repeal the state sales tax on alcoholic beverages,0,Globe urges NO vote to keep funding treatment programs,0.95,Boston Globe
+MA,Boston Globe,119300,2010,MA,BALLOT MEASURE,2,Repeal the state's affordable housing law (Chapter 40B),0,Globe urges NO; misguided repeal attempt,0.95,Boston Globe
+MA,Boston Globe,119300,2010,MA,BALLOT MEASURE,3,Reduce the state sales tax from 6.25 percent to 3 percent,0,Globe urges NO; stunt that would create chaos,0.95,Boston Globe
+MA,Boston Globe,119300,2012,MA,BALLOT MEASURE,1,Right to repair motor vehicle information,,Globe says skip it; compromise already reached,0.95,Boston Globe
+MA,Boston Globe,119300,2012,MA,BALLOT MEASURE,2,Allow physician-assisted suicide,0,Globe says NO; deeply divisive,0.95,Boston Globe
+MA,Boston Globe,119300,2012,MA,BALLOT MEASURE,3,Allow medical marijuana use,0,Globe says NO; should be regulated by FDA,0.95,Boston Globe
+MA,Boston Globe,119300,2014,MA,BALLOT MEASURE,1,Eliminate the requirement that the state's gasoline tax be tied to inflation,0,Globe urges NO; hobbling gas tax would damage state economy,0.95,Boston Globe
+MA,Boston Globe,119300,2014,MA,BALLOT MEASURE,2,"Expand the bottle deposit bill to include non-alcoholic, non-carbonated beverage containers",1,Globe urges YES; sensible evolution of the bottle bill,0.95,Boston Globe
+MA,Boston Globe,119300,2014,MA,BALLOT MEASURE,3,Block casino gambling by repealing the state's 2011 casino law,1,Globe says YES to repeal of casino law,0.95,Boston Globe
+MA,Boston Globe,119300,2014,MA,BALLOT MEASURE,4,Allow employees to earn and use paid sick time,1,Globe says YES; allow workers to earn paid/unpaid sick time,0.95,Boston Globe
+MA,Boston Globe,119300,2018,MA,BALLOT MEASURE,1,Require Massachusetts hospitals to follow patient-to-nurse staffing ratios,0,Globe urges NO; too risky with too many unintended consequences,0.95,Boston Globe
+MA,Boston Globe,119300,2018,MA,BALLOT MEASURE,2,Create a state commission to study amending the US Constitution to overturn Citizens United v. FEC,1,Globe endorses YES with misgivings; commission should be diverse,0.95,Boston Globe
 MI,Detroit Free Press,121300,1968,MI,BALLOT MEASURE,1,State Proposal No. 1,1,Vote YES,0.75,Detroit Free Press
 MI,Detroit Free Press,121300,1968,MI,BALLOT MEASURE,2,State Proposal No. 2,1,Vote YES,0.75,Detroit Free Press
 MI,Detroit Free Press,121300,1968,MI,BALLOT MEASURE,3,State Proposal No. 3,1,Vote YES,0.75,Detroit Free Press
@@ -11773,6 +11771,11 @@ NC,Charlotte Observer,132300,1972,NC,AMENDMENT,4,Constitutional framework for pr
 NC,Charlotte Observer,132300,1972,NC,AMENDMENT,5,Limit incorporation of cities and towns,1,FOR,0.9,Charlotte Observer
 NC,Charlotte Observer,132300,1974,NC,AMENDMENT,1,Change title of office of solicitor to district attorney,1,FOR,0.95,Charlotte Observer
 NC,Charlotte Observer,132300,1974,NC,AMENDMENT,2,Authorize issuance of revenue bonds to finance industrial and pollution-control facilities,1,FOR,0.95,Charlotte Observer
+NC,Charlotte Observer,132300,1978,NC,BOND,,"Central Piedmont Community College parking garage $1,680,000",1,Per OCR: paper endorsed all six 1978 bonds,0.90,Charlotte Observer
+NC,Charlotte Observer,132300,1978,NC,BOND,,"Charlotte city parks and recreational facilities $9,700,000",1,Per OCR: paper endorsed all six 1978 bonds,0.90,Charlotte Observer
+NC,Charlotte Observer,132300,1978,NC,BOND,,"Charlotte sanitary sewer bonds $3,200,000",1,Per OCR: paper endorsed all six 1978 bonds,0.90,Charlotte Observer
+NC,Charlotte Observer,132300,1978,NC,BOND,,"Charlotte storm sewer bonds $1,500,000",1,Per OCR: paper endorsed all six 1978 bonds,0.90,Charlotte Observer
+NC,Charlotte Observer,132300,1978,NC,BOND,,"Charlotte water bonds $5,600,000",1,Per OCR: paper endorsed all six 1978 bonds,0.90,Charlotte Observer
 NC,Charlotte Observer,132300,1978,NC,BOND,,City bonds streets and sidewalks,1,,0.6,Charlotte Observer
 NC,Charlotte Observer,132300,1978,NC,BOND,,County bonds parks and recreational facilities,1,,0.6,Charlotte Observer
 NC,Charlotte Observer,132300,1982,NC,AMENDMENT,1,Sets terms of state legislators,1,,0.9,Charlotte Observer
@@ -14231,10 +14234,14 @@ SC,Walterboro Press and Standard,WALTERBPS,1998,SC,REFERENDUM,3,Walterboro-Colle
 SC,Walterboro Press and Standard,WALTERBPS,2006,SC,REFERENDUM,,Edisto Beach bond referendum (Bell Buoy property purchase),1,Yes,0.95,Walterboro Press and Standard
 SC,Walterboro Press and Standard,WALTERBPS,2006,SC,REFERENDUM,,Edisto Beach bond referendum to issue up to $3.75 million to purchase Bell Buoy property on Big Bay Creek,1,Vote Yes,0.95,Walterboro Press and Standard
 TN,Chattanooga News,143903,1924,TN,REFERENDUM,TN-CONST-CONV-1924,TENNESSEE CONSTITUTIONAL CONVENTION REFERENDUM,1,PAPER URGED VOTING 'FOR' THE CONSTITUTIONAL CONVENTION.,0.75,Chattanooga News
+TN,Chattanooga News,143903,1928,TN,BOND,,"Chattanooga $325,000 bond referendum for modern incinerators + playgrounds",1,"Paper endorsed: ""We have already urged our Chattanooga readers to support the $325,000 bond issue for a municipal airport at the polls next Tuesday""; ""modern incinerators have long been needed here""",0.88,Chattanooga News
+TN,Chattanooga News,143903,1932,TN,AMENDMENT,,Tennessee Constitutional Amendment to increase Legislative pay from $4 to $10 per day,1,"Paper endorsed: ""The proposal to raise the pay of legislators has merit to it. It is advis[able]"" per image inspection",0.82,Chattanooga News
 TN,Chattanooga News,143903,1938,TN,BALLOT MEASURE,TN-GAS-TAX-1938,REDUCTION (POSSIBLY 2 CENTS) IN STATE GASOLINE TAX,1,"'TWO REFORMS WHICH HAVE GOOD CHANCES FOR ADOPTION - A REDUCTION, POSSIBLY 2 CENTS, IN THE STATE GASOLINE TAX'.",0.78,Chattanooga News
 TN,Chattanooga News,143903,1938,TN,BALLOT MEASURE,TN-POLL-TAX-1938,REMOVAL OF POLL TAX REQUIREMENT FOR VOTING,1,'THE REMOVAL OF THE POLL TAX REQUIREMENT FOR VOTING' AS PROGRESSIVE REFORM.,0.78,Chattanooga News
 TN,Chattanooga News-Free Press,143901,1946,TN,BALLOT MEASURE,CITY-MANAGER-1946,CHATTANOOGA CITY MANAGER FORM OF GOVERNMENT (COMMISSION-MANAGER PLAN),1,'VOTE FOR CITY MANAGER'; PAPER ARGUES OLD GOVERNMENT 'HAS LASTED FOR MORE THAN A GENERATION' BUT 'FAILED'; NEW SYSTEM SUPPORTED BY GOOD GOVERNMENT LEAGUE.,0.95,Chattanooga News-Free Press
+TN,Chattanooga News-Free Press,143901,1946,TN,REFERENDUM,,Chattanooga commission-manager form of government referendum,1,"Paper STRONGLY endorsed: ""Vote FOR CITY MANAGER, because your children deserve the best"" — major editorial campaign against political machine",0.90,Chattanooga News-Free Press
 TN,Chattanooga News-Free Press,143901,1958,TN,AMENDMENT,TN-HIGHWAY-TAX-1958,TENNESSEE HIGHWAY TAX AMENDMENT (REDIVERTING GASOLINE/CAR LICENSE TAXES TO HIGHWAY USES),0,'VOTERS WANTING TO AVOID A MAJOR TAX INCREASE SHOULD VOTE AGAINST'; PAPER ARGUES IT WOULD REQUIRE 10-MILLION-DOLLAR TAX INCREASE.,0.95,Chattanooga News-Free Press
+TN,Chattanooga News-Free Press,143901,1958,TN,AMENDMENT,,Tennessee Highway Tax Amendment,0,"Paper OPPOSED: ""Voters wanting to avoid a major tax increase should vote against"" — would have rediverted gas/license taxes to highways requiring $10M tax increase",0.90,Chattanooga News-Free Press
 TN,Chattanooga News-Free Press,143901,1960,TN,AMENDMENT,TN-TRUSTEE-1960,CONSTITUTIONAL AMENDMENT TO PERMIT 4-YEAR TERMS FOR COUNTY TRUSTEES,1,'NO REASON THE PROPOSED AMENDMENT SHOULD NOT BE APPROVED ALMOST UNANIMOUSLY'.,0.92,Chattanooga News-Free Press
 TN,Chattanooga News-Free Press,143901,1960,TN,BOND,HAM-SCHOOL-BOND-1960,HAMILTON COUNTY SCHOOL BUILDING BONDS,1,'VOTE FOR THE SCHOOL BOND ISSUE'; PAPER ARGUES BONDS WILL PROVIDE SCHOOLS IN ZONES THAT MINIMIZE INTEGRATION.,0.92,Chattanooga News-Free Press
 TN,Chattanooga News-Free Press,143901,1962,TN,BOND,HAM-NURSING-HOME-1962,HAMILTON COUNTY 1.5-MILLION-DOLLAR NURSING HOME BOND,1,"'A SOUND, HUMANITARIAN, NECESSARY PROJECT'; PAPER URGES VOTE FOR.",0.95,Chattanooga News-Free Press

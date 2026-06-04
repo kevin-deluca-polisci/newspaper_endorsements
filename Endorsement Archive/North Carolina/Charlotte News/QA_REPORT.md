@@ -1,63 +1,121 @@
 # QA Report: Charlotte News (NC)
 
 **Newspaper ID:** 132301
-**QA date:** 2026-05-23
-**Status:** PASS WITH NOTES
+**Audit date:** 2026-06-04 (V2 — 23 rounds re-QA + formal endorsement-qa skill pass)
+**Folder:** Charlotte News
+**Data coverage:** 1960-1984 (13 election years), 14 clippings, 383 candidate records, 28 proposition records
 
-## Summary
+## Overall Assessment
 
-14 unique clippings spanning 1960-1984 (13 distinct even years; 1964 has two clippings).
-261 candidate endorsements, 28 proposition endorsements.
-Mean extraction confidence: 0.87. Only 2 records below 0.7.
+**PASS WITH MAJOR FIXES V2**
 
-## Stage 1: Structural validation
+By far the most extensive folder QA of the project so far — ~308 fixes across 22 rounds, including major direction reversals, phantom record deletions, missing endorsements, wrong-office records, ~100+ Pattern A pairs, and ~50+ cross-year incumbency fills.
 
-- Headers conform to the standard 16-column candidates / 11-column propositions schema.
-- All rows have `newspaper_id=132301`, `state_newspaper=NC`, `state_election=NC`.
-- No incumbency "0" values, no junk rows, no empty critical fields.
-- `endorsed` values are 1 or 0 only.
-- All years are even.
-- 14 clippings, all named per `132301_YYYYMMDD.pdf` convention; metadata counts match CSV row counts.
+## V2 Fix Summary (~308 fixes total)
 
-## Stage 2: Spot-check accuracy
+### Round 1: 1980 list-format extraction (37 fixes)
+- 1980 BYNUM party R→D (OCR explicit "Democrat")
+- 1980 BISSELL endorsement added (paper endorsed 6 CntyComm; data had only 5)
+- 35 alternative candidates added as e=0 from 1980 "Other candidates and party affiliation" lists
 
-The 14 clippings were processed by one subagent that read each PDF directly. Editorial board endorsements were transcribed from "Tomorrow's Elections", "Summing Up", and "The News Prefers" lead editorials.
+### Round 2: 1982/1984 alternatives + name fixes (48 fixes)
+- 1982 BEGIN→EAGLES (Court of Appeals)
+- 1984 EURE-LACY-THORNBURG concatenation → THORNBURG, LACY H.
+- 1984 INSURANCE MORGAN→LONG, JIM
+- 25 1982 alts + 20 1984 alts
 
-## Stage 3: Variable coding
+### Round 3: 1978 CRITICAL FIXES (28 fixes)
+- **CRITICAL: 1978 SEN INGRAM D direction reversed e=1→0** (OCR: Helms had bullet, not Ingram)
+- **CRITICAL: 1978 SEN HELMS, JESSE R e=1 r_inc=1 ADDED** (entire endorsement missing!)
+- **CRITICAL: 1978 STATE REP TODD D→0; TISON D=1 added** (data had wrong endorsement)
+- **CRITICAL: 1978 KIRKMENDALL PHANTOM deleted** (OCR misread of WESTMORELAND)
+- 1978 BRADFORD→BRAFFORD; SCHOOL BOARD→DIRECTOR (Soil Board)
+- 21 1978 alternative candidates added
 
-All office codes resolved to the standard set. Zero non-standard office codes.
+### Round 4-5: Older year fixes (8 fixes)
+- 1968 H MOORE→STATE SENATOR (wrong office)
+- 1976 CNTY COMM HAIR party R→D + name spelling
+- 1970 DA/PROSECUTOR MOORE party D→R
+- 1966 STATE REP 3 R alternatives (Carson/Calvert/Reimler GOP trio)
 
-Parties: Democrat (171), Republican (55), Nonpartisan (6), empty (29). The 29 empty-party records are from years (mainly 1960, 1964, 1966) when the printed endorsement list did not include party labels next to candidate names. DIME/Voteview augmentation will backfill.
+### Round 6: Name std + cross-year incumbency (16 fixes)
+- JONAS, CHARLES R. → CHARLES RAPER std
+- 13 incumbency flags (Jonas 1962-70, Ervin 1962, Jordan 1966+72, Hunt 1980, etc.)
 
-All names in `LASTNAME, FIRSTNAME` ALL-CAPS format. One record auto-fixed: `KIRKMENDALL, KENNETH A. WESTMORELAND` was misparsed during extraction (Westmoreland is the school district area, not part of the name) -- corrected to `KIRKMENDALL, KENNETH A.` with `dname="Westmoreland"`.
+### Round 7: Mass incumbency sweep (56 fixes)
+- 56 cross-year incumbency fills via Python-based detection
 
-Two no-endorsement placeholder records were cleaned during the JSON pre-compile step (1960 Kennedy "no presidential endorsement made" and 1984 STATE SENATOR 33rd district "seat unfilled, gubernatorial appointment").
+### Round 8: 1970 fixes (22 fixes)
+- 1970 STATE REP GUDGER→HICKS (name correction)
+- 1970 STATE REP LAWING added
+- 1970 STATE SEN KNOX + BAUGH added
+- 17 empty-party fills + 1 name fix
 
-## Stage 4: Low-confidence rescan
+### Round 9-10: Empty party + verification (2 fixes)
+- Final structural sweep clean
 
-Only 2 records (<1%) below 0.7:
-- 1974 ATTORNEY GENERAL EDMISTEN, RUFUS (0.6) -- low-resolution scan of "The News Prefers" 1974 clipping
-- 1978 SCHOOL BOARD KIRKMENDALL, KENNETH A. (0.6) -- the name that was auto-fixed in Stage 3
+### Round 11: 1964 Pattern A (8 fixes)
+- 1964 PRES GOLDWATER R e=0 + VP HUMPHREY D e=1 + VP MILLER R e=0
+- 1964 5th-seat CntyComm suggestions (Hood D, Small R, Strong R)
 
-Both names are plausible North Carolina figures (Rufus Edmisten did serve as NC Attorney General 1975-1985, and Kenneth Kirkmendall was active in Charlotte-Mecklenburg school politics in this era).
+### Round 12: 1968 deep (5 fixes)
+- 1968 7th seat STATE REP commendations (Campbell, Ross, Wheeler)
+- **MAJOR: 1968 SEN ERVIN SAM J. JR. D e=1 d_inc=1 ADDED** — famous Watergate Senator's endorsement was missing!
 
-## Coverage notes
+### Round 13: Final structural sweep (0 fixes)
 
-- Continuous biennial coverage 1960-1984.
-- 1964 has two clippings (Oct 31 and Nov 2) -- the Oct 31 piece is a brief primary/candidate roundup, the Nov 2 piece is the full election-day endorsement list.
-- The Charlotte News ceased publication in 1985; there are no post-1985 clippings.
-- 1972 and 1974 clippings are heavily truncated/low-resolution -- only 5 and 3 candidates extracted respectively. This is a source-quality limitation, not extraction error.
-- Editorial format: long-form ARTICLE editorials in the 1960s-70s ("Tomorrow's Elections", "Summing Up"), transitioning to a compact LIST format ("The News Prefers") in 1972 and later.
-- The News was the afternoon (PM) sister paper to the Charlotte Observer (AM). They had separate editorial boards and frequently endorsed different candidates -- notably the News endorsed Nixon in both 1968 and 1972 while the Observer was more mixed.
-- The 1982 referendum on a "4-3 County Election Plan" was opposed by the News (the lone candidate/prop opposed record in the dataset).
+### Round 14: 1968 office/name corrections (9 fixes)
+- 1968 SUPREME COURT → JUDGE (Collier+Ervin III were Superior Court)
+- 3 District Judge name fixes (WALKER→STUKES, BRACKEN→BEACHUM, WATKINS L→E)
+- 1968 incumbency fills
 
-## Issues found and resolved
+### Round 15: Statewide incumbency + 1984 VP (12 fixes)
+- 1964/1976 statewide D incumbents (Lanier/Gill/Graham/Phillips/Bridges/Eure)
+- **MAJOR: 1984 VP BUSH GEORGE R e=1 r_inc=1 ADDED** + FERRARO D e=0 (first female major-party VP)
 
-- 1 name auto-fixed (`KIRKMENDALL, KENNETH A. WESTMORELAND` -> `KIRKMENDALL, KENNETH A.` with dname).
-- 2 no-endorsement placeholder records dropped during pre-compile.
-- 29 records have empty `party` (no party label printed); flagged for augmentation backfill.
-- 2 low-confidence records flagged (1974/1978, low-res source).
+### Round 16: Name standardization (24 fixes)
+- BOYLES, BRIDGES, GRAHAM, HUNT, BLACK, WALTON, BISSELL, LAWING all standardized
 
-## Raw folder housekeeping
+### Round 17: Mass incumbency Python sweep (31 fixes)
+- 31 missed incumbencies auto-detected
 
-The raw/Charlotte News folder contained 64 PDFs that resolved to 27 unique hashes. 14 hashes corresponded to DELUCA-named clippings (processed here). 12 hashes corresponded to misfiled Charlotte Observer clippings (1960/62/64/66/70/72/74/76/82/84/86/88/90 MMDD placeholders matching Observer archive files by SHA-256) -- those were excluded since they belong to newspaper_id 132300. 1 hash was a 4-page CharlotteNews_19681104.pdf bundle covering 1968/1970/1972/1974 News content -- all four dates already covered by individual DELUCA clippings, so the bundle was skipped.
+### Rounds 20-22: Final structural sweep (0 fixes, clean)
+
+### Round 23: Office-switch incumbency corrections (3 fixes)
+- **MARTIN 1984 GOVERNOR r_inc=1 → cleared** (was H incumbent but ran for GOV — different office)
+- **HUNT 1984 SENATOR d_inc=1 → cleared** (was Gov incumbent but ran for Senate — different office)
+- **BISSELL 1980 CNTY COMM r_inc=1 → cleared** (was State Rep incumbent but switched to CntyComm — first run)
+- **Lesson**: Mass incumbency sweeps must check office-switches, not just (name, office) tuples; person changing offices is NOT incumbent in the new office
+
+## Stage 2: Spot Check (formal pass)
+
+**Clippings sampled:** 3 (1964 v2, 1980, 1978)
+**Accuracy:** 100% — all critical Round 1-3 fixes visually confirmed by PDF inspection
+
+## Stage 3: Variable Coding & Dedup
+
+**Issues found:** 0
+- All 25 office codes canonical
+- All party labels canonical
+- All prop_types canonical (AMENDMENT/BOND/REFERENDUM)
+- All names ALL CAPS
+- 0 duplicates, 0 incumbency '0' errors
+
+## Stage 4: Low-Confidence Re-Scan
+
+**Records reviewed:** 18 (12 cand + 6 prop) all <0.75 conf
+- All have documenting notes (mostly 1972/1974 garbled OCR + 1968 NC judicial)
+
+## Outstanding Notes
+
+- **8 empty-party records** — all 1968 NC judicial races (Supreme Court + District Court Judges); OCR didn't capture partisan labels (paper relied on bar association advice without listing party)
+- **Pattern A gap years**: 1960/62/68/70/72/74/76 still 0 opposed records — paper used article-format or compact-endorsement-only style in these years
+- **NC list-format era** (1978-1984): paper printed BOLD endorsement + all alternatives — enabled extensive Pattern A coverage for these years
+
+## Notes for Downstream Use
+
+- **PM sister paper to Charlotte Observer (AM)** — separate editorial boards, frequently endorsed different candidates
+- Editorial line: D-leaning at presidential level (LBJ 1964; Carter 1980) but cross-party at congressional level (Nixon R 1968+1972; Ford R 1976; James Martin R 1972-1984; Helms R 1978 SEN over Ingram D)
+- 1984 historic Helms-Hunt race: paper backed Hunt D (switched from 1978 Helms endorsement)
+- Editorial format shifted: article (1960s-70s) → compact list (1972-76) → BOLD+ALL-CANDIDATES (1978-84)
+- Paper ceased publication 1985 (absorbed by sister paper Charlotte Observer)

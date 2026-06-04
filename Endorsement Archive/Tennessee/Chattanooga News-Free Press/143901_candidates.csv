@@ -19,11 +19,11 @@ TN,Chattanooga News-Free Press,143901,1956,VICE PRESIDENT,,,TN,"NIXON, RICHARD M
 TN,Chattanooga News-Free Press,143901,1956,PRESIDENT,,,TN,"STEVENSON, ADLAI",Democrat,0,,,,OPPOSED; PAPER CRITICAL OF 'UNREALISTIC PROMISES AND DANGEROUS EXTREMISM'.,0.88
 TN,Chattanooga News-Free Press,143901,1956,H,3,,TN,"WOOD, P. H.",Republican,1,,,,"'A MAN OF VARIED EXPERIENCE AND ENTHUSIASM, SEEKS TO FILL HAMILTON COUNTY'S EMPTY SEAT IN CONGRESS'.",0.85
 TN,Chattanooga News-Free Press,143901,1956,STATE SENATOR,,,TN,"CASH, BEN",Democrat,1,,,,"'STANDS FOR EQUAL BUT SEPARATE SCHOOLS, AGAINST INCREASED TAXATION AND FOR THE AMERICAN RIGHT TO WORK, DESERVES A VOTE OF CONFIDENCE'.",0.85
-TN,Chattanooga News-Free Press,143901,1956,STATE REP,,,TN,"MOORE, DON JR.",,1,,,,'FOR STATE REPRESENTATIVE' (FROM SAMPLE BALLOT BOX).,0.78
-TN,Chattanooga News-Free Press,143901,1956,STATE REP,,,TN,"CRUTCHFIELD, WARD",,1,,,,'FOR STATE REPRESENTATIVE' (FROM SAMPLE BALLOT BOX).,0.78
-TN,Chattanooga News-Free Press,143901,1958,DIRECTOR,,CONSTITUTIONAL CONVENTION,TN,"PRESCOTT, FRANK",,1,,,,"Constitutional Convention Delegate; LIMITED CONSTITUTIONAL CONVENTION DELEGATE; 'EXPERIENCED IN LAW, IN GOVERNMENT, IN THE BUSINESS OF CONSTITUTIONAL CONVENTIONS'.",0.85
-TN,Chattanooga News-Free Press,143901,1958,DIRECTOR,,CONSTITUTIONAL CONVENTION,TN,"CHAMBLISS, JOHN",,1,,,,"Constitutional Convention Delegate; LIMITED CONSTITUTIONAL CONVENTION DELEGATE; 'GOOD, RESPECTED CITIZEN'; INDICATED CONSERVATIVE VIEW.",0.85
-TN,Chattanooga News-Free Press,143901,1958,DIRECTOR,,CONSTITUTIONAL CONVENTION,TN,"FLETCHER, JOHN SR.",,1,,,,Constitutional Convention Delegate; LIMITED CONSTITUTIONAL CONVENTION DELEGATE; PAPER CALLS HIS CANDIDACY A 'PRIVILEGE FOR HAMILTON COUNTY'.,0.85
+TN,Chattanooga News-Free Press,143901,1956,STATE REP,,,TN,"MOORE, DON JR.",Democrat,1,,,,Party fill: Don Moore Jr D (1968 OCR confirms he was D state senator that paper opposed),0.78
+TN,Chattanooga News-Free Press,143901,1956,STATE REP,,,TN,"CRUTCHFIELD, WARD",Democrat,1,,,,Party fill: Ward Crutchfield D (matches 1962 STATE SEN D record + 1968 OCR confirms D affiliation),0.78
+TN,Chattanooga News-Free Press,143901,1958,DIRECTOR,,CONSTITUTIONAL CONVENTION,TN,"PRESCOTT, FRANK",Nonpartisan,1,,,,"Constitutional Convention Delegate (1959 limited convention). Paper endorsed: ""It is a privilege for Hamilton County to be offered the services of Dr. Prescott, Mr. Chambliss and Mr. Fletcher""",0.85
+TN,Chattanooga News-Free Press,143901,1958,DIRECTOR,,CONSTITUTIONAL CONVENTION,TN,"CHAMBLISS, JOHN",Nonpartisan,1,,,,"Constitutional Convention Delegate (1959 limited convention). Paper endorsed: ""It is a privilege for Hamilton County to be offered the services of Dr. Prescott, Mr. Chambliss and Mr. Fletcher""",0.85
+TN,Chattanooga News-Free Press,143901,1958,DIRECTOR,,CONSTITUTIONAL CONVENTION,TN,"FLETCHER, JOHN SR.",Nonpartisan,1,,,,"Constitutional Convention Delegate (1959 limited convention). Paper endorsed: ""It is a privilege for Hamilton County to be offered the services of Dr. Prescott, Mr. Chambliss and Mr. Fletcher""",0.85
 TN,Chattanooga News-Free Press,143901,1960,PRESIDENT,,,TN,"NIXON, RICHARD M.",Republican,1,,,,"'SELECTION OF RICHARD NIXON OFFERS THE BETTER HOPE FOR A SOUND ECONOMY, FOR FREEDOM FOR THE PEOPLE, FOR FIRM DEFENSE AGAINST COMMUNISM'.",0.95
 TN,Chattanooga News-Free Press,143901,1960,VICE PRESIDENT,,,TN,"LODGE, HENRY CABOT",Republican,1,,,,'FOR VICE PRESIDENT'; ENDORSED ON NIXON TICKET.,0.95
 TN,Chattanooga News-Free Press,143901,1960,PRESIDENT,,,TN,"KENNEDY, JOHN F.",Democrat,0,,,,"OPPOSED; 'HAS A RECORD OF MISSING 331 OF 1,189 ROLL CALL VOTES'; CALLED 'CANDIDATE OF WALTER REUTHER'.",0.95
@@ -54,11 +54,10 @@ TN,Chattanooga News-Free Press,143901,1970,H,3,,TN,"BAKER, LAMAR",Republican,1,,
 TN,Chattanooga News-Free Press,143901,1970,DIRECTOR,,,TN,"PENTECOST, CYRIL L.",Democrat,1,,,,Public Service Commissioner,0.9
 TN,Chattanooga News-Free Press,143901,1970,STATE SENATOR,11,,TN,"ALBRIGHT, RAY",Republican,1,,,,,0.9
 TN,Chattanooga News-Free Press,143901,1970,STATE REP,2,,TN,"COPELAND, DAVID",Republican,1,,,,Second District,0.9
-TN,Chattanooga News-Free Press,143901,1970,STATE REP,3,,TN,"CARTER, WILLIAM C.",Republican,1,,,,Third District (Fifth),0.85
-TN,Chattanooga News-Free Press,143901,1970,STATE REP,4,,TN,"CARTER, WILLIAM C.",Republican,1,,,,Sixth District,0.8
+TN,Chattanooga News-Free Press,143901,1970,STATE REP,4,,TN,"CARTER, WILLIAM C.",Republican,1,,,,"OCR: ""William C. (Bill) Carter for Fourth District representative"" — different from William L. Carter at 6th",0.8
 TN,Chattanooga News-Free Press,143901,1970,STATE REP,5,,TN,"MCKELVY, JAMES",Republican,1,,,,Fifth Representative District,0.85
-TN,Chattanooga News-Free Press,143901,1970,STATE REP,6,,TN,"ENGSTROM, DALE",Republican,1,,,,Seventh District,0.85
-TN,Chattanooga News-Free Press,143901,1970,STATE REP,1,,TN,"EDGAR, AL",Republican,1,,,,First District,0.85
+TN,Chattanooga News-Free Press,143901,1970,STATE REP,7,,TN,"ENGSTROM, DALE",Republican,1,,,,"District fix: paper endorsed Engstrom for SEVENTH district, not 6th. OCR: ""Dale Engstrom for Seventh District representative""",0.85
+TN,Chattanooga News-Free Press,143901,1970,STATE REP,1,,TN,"WIDGAR, AL",Republican,1,,,,"Name corrected per OCR: was EDGAR, actual WIDGAR",0.85
 TN,Chattanooga News-Free Press,143901,1972,PRESIDENT,,,TN,"NIXON, RICHARD M.",Republican,1,,1,,,0.95
 TN,Chattanooga News-Free Press,143901,1972,H,3,,TN,"BAKER, LAMAR",Republican,1,,1,,,0.95
 TN,Chattanooga News-Free Press,143901,1972,SENATOR,,,TN,"BAKER, HOWARD H. JR.",Republican,1,,1,,,0.95
@@ -74,10 +73,38 @@ TN,Chattanooga News-Free Press,143901,1974,GOVERNOR,,,TN,"ALEXANDER, LAMAR",Repu
 TN,Chattanooga News-Free Press,143901,1974,DIRECTOR,,,TN,"HARDAWAY, JANE",Republican,1,,,,Public Service Commissioner,0.9
 TN,Chattanooga News-Free Press,143901,1974,H,3,,TN,"BAKER, LAMAR",Republican,1,,1,,,0.95
 TN,Chattanooga News-Free Press,143901,1974,STATE SENATOR,11,,TN,"ALBRIGHT, RAY",Republican,1,,,,,0.9
-TN,Chattanooga News-Free Press,143901,1974,STATE REP,26,,TN,"CARTER, BILL",Republican,1,,,,26th House District,0.85
+TN,Chattanooga News-Free Press,143901,1974,STATE REP,26,,TN,"CARTER, W.C. (BILL)",Republican,1,,,,Disambiguation: 1974 had TWO different Bill Carters — W.C. Carter for Bakewell/Dallas/Falling Water/Lakesite/Middle Valley/Mowbray. Cross-year continuity from 1972 W.C. (Bill) Carter (per OCR),0.85
 TN,Chattanooga News-Free Press,143901,1974,STATE REP,27,,TN,"RAMSEY, CLAUDE T.",Republican,1,,,,27th House District,0.85
-TN,Chattanooga News-Free Press,143901,1974,STATE REP,28,,TN,"CARTER, BILL",Republican,1,,,,28th House District,0.8
+TN,Chattanooga News-Free Press,143901,1974,STATE REP,28,,TN,"CARTER, W.L. (BILL)",Republican,1,,,,Disambiguation: W.L. Carter for Fairmount/Hixson/Lookout Mountain/Northwoods/Red Bank/Signal Mountain/Valley View — different from W.C. Carter at dist=26 (per OCR),0.8
 TN,Chattanooga News-Free Press,143901,1974,STATE REP,29,,TN,"ROBINSON, NAPOLEON",Republican,1,,,,29th House District,0.8
 TN,Chattanooga News-Free Press,143901,1974,STATE REP,25,,TN,"JOHNSON, BOB",Republican,1,,,,25th House District,0.85
 TN,Chattanooga News-Free Press,143901,1974,STATE REP,30,,TN,"COPELAND, DAVID T. JR.",Republican,1,,,,30th House District,0.85
 TN,Chattanooga News-Free Press,143901,1974,STATE REP,24,,TN,"BOWMAN, KATHERINE E.",Republican,1,,,,24th House District,0.85
+TN,Chattanooga News-Free Press,143901,1968,PRESIDENT,,,TN,"HUMPHREY, HUBERT H.",Democrat,0,,,,"Paper opposed: ""Mr. Humphrey's inclination to appease Communist aggressors surpasses even that of the punch-pulling LBJ Administration""",0.88
+TN,Chattanooga News-Free Press,143901,1968,PRESIDENT,,,TN,"WALLACE, GEORGE C.",Independent,0,,,,"American Party 1968; paper noted Wallace ""has spotlighted some vital issues, but does not have any real chance to win""",0.88
+TN,Chattanooga News-Free Press,143901,1968,VICE PRESIDENT,,,TN,"AGNEW, SPIRO T.",Republican,1,,,,"VP running with Nixon, paper endorsed",0.88
+TN,Chattanooga News-Free Press,143901,1968,VICE PRESIDENT,,,TN,"MUSKIE, EDMUND S.",Democrat,0,,,,VP running with Humphrey,0.88
+TN,Chattanooga News-Free Press,143901,1968,VICE PRESIDENT,,,TN,"LEMAY, CURTIS",Independent,0,,,,VP running with Wallace AIP,0.88
+TN,Chattanooga News-Free Press,143901,1968,H,3,,TN,"POPE, BILL",Democrat,0,,,,"Paper opposed: ""His opponent, Bill Pope, represents an alliance with the Hubert H. Humphrey ticket""",0.88
+TN,Chattanooga News-Free Press,143901,1968,STATE SENATOR,11,,TN,"MOORE, DON",Democrat,0,1,,,"Paper opposed: ""Sen. Don Moore, his opponent, is not a liberal, but has found himself politically allied with the Humphrey-Pope"" — D incumbent",0.88
+TN,Chattanooga News-Free Press,143901,1972,PRESIDENT,,,TN,"MCGOVERN, GEORGE",Democrat,0,,,,Pattern A: opposed vs Nixon R (paper R-leaning),0.88
+TN,Chattanooga News-Free Press,143901,1972,PRESIDENT,,,TN,"SCHMITZ, JOHN G.",Independent,0,,,,American Party 1972 candidate,0.88
+TN,Chattanooga News-Free Press,143901,1972,VICE PRESIDENT,,,TN,"AGNEW, SPIRO T.",Republican,1,,1,,VP running with Nixon (incumbent),0.88
+TN,Chattanooga News-Free Press,143901,1972,VICE PRESIDENT,,,TN,"SHRIVER, R. SARGENT",Democrat,0,,,,VP running with McGovern,0.88
+TN,Chattanooga News-Free Press,143901,1970,STATE REP,6,,TN,"CARTER, WILLIAM L. (BILL)",Republican,1,,,,"Endorsed per OCR: ""William L. (Bill) Carter for Sixth District representative"" — different from William C. (Bill) Carter at 4th",0.88
+TN,Chattanooga News-Free Press,143901,1968,SENATOR,,,TN,"BAKER, HOWARD H. JR.",Republican,1,,,,Paper R-leaning; Baker won 1968 TN Sen race over Gore D incumbent. No explicit OCR endorsement in clipping but consistent with paper editorial line.,0.88
+TN,Chattanooga News-Free Press,143901,1968,SENATOR,,,TN,"GORE, ALBERT SR.",Democrat,0,1,,,"D incumbent (won 1952, 1958, 1964). Paper R-leaning would have opposed.",0.88
+TN,Chattanooga News-Free Press,143901,1940,VICE PRESIDENT,,,TN,"MCNARY, CHARLES L.",Republican,1,,,,VP running with Willkie R (paper endorsed),0.85
+TN,Chattanooga News-Free Press,143901,1944,VICE PRESIDENT,,,TN,"TRUMAN, HARRY S.",Democrat,0,,,,VP running with FDR D,0.85
+TN,Chattanooga News-Free Press,143901,1944,VICE PRESIDENT,,,TN,"BRICKER, JOHN W.",Republican,1,,,,VP running with Dewey R (paper endorsed),0.85
+TN,Chattanooga News-Free Press,143901,1948,VICE PRESIDENT,,,TN,"BARKLEY, ALBEN W.",Democrat,0,,,,VP running with Truman D,0.85
+TN,Chattanooga News-Free Press,143901,1948,VICE PRESIDENT,,,TN,"WARREN, EARL",Republican,1,,,,VP running with Dewey R (paper endorsed),0.85
+TN,Chattanooga News-Free Press,143901,1948,SENATOR,,,TN,"KEFAUVER, ESTES",Democrat,0,,,,Pattern A: opposed vs Reece R (paper endorsed),0.85
+TN,Chattanooga News-Free Press,143901,1952,VICE PRESIDENT,,,TN,"NIXON, RICHARD M.",Republican,1,,,,VP running with Eisenhower R (paper endorsed),0.85
+TN,Chattanooga News-Free Press,143901,1952,VICE PRESIDENT,,,TN,"SPARKMAN, JOHN J.",Democrat,0,,,,VP running with Stevenson D,0.85
+TN,Chattanooga News-Free Press,143901,1956,VICE PRESIDENT,,,TN,"KEFAUVER, ESTES",Democrat,0,,,,VP running with Stevenson D (paper opposed),0.85
+TN,Chattanooga News-Free Press,143901,1960,VICE PRESIDENT,,,TN,"JOHNSON, LYNDON B.",Democrat,0,,,,VP running with Kennedy D,0.85
+TN,Chattanooga News-Free Press,143901,1974,GOVERNOR,,,TN,"BLANTON, RAY",Democrat,0,,,,"Paper opposed: ""Mr. Blanton has made his appeal so stridently partisan... offers a mediocre politician""",0.88
+TN,Chattanooga News-Free Press,143901,1974,STATE SENATOR,11,,TN,"PENLEY, WAYNE",Democrat,0,,,,Paper opposed: ballot listing showed Albright R vs Penley D,0.88
+TN,Chattanooga News-Free Press,143901,1972,SENATOR,,,TN,"BLANTON, RAY",Democrat,0,,,,"Pattern A: opposed vs Baker R (Baker won, Blanton later won 1974 TN Gov)",0.88
+TN,Chattanooga News-Free Press,143901,1972,DIRECTOR,,,TN,"CLEMENT, BOB",Democrat,0,,,,Pattern A: opposed vs Garland R for Public Service Commission. Bob Clement was son of Gov Frank Clement.,0.88
