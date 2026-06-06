@@ -6,28 +6,41 @@ State: TN (Chattanooga, Hamilton County)
 Number of clippings: 25
 Endorsement data years: 1922, 1924, 1928, 1930, 1932, 1934, 1936, 1940, 1942, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1968, 1970, 1972, 1974
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 181 (161 endorsed, 15 opposed)
-Total proposition records: 19 (3 YES, 6 NO)
+--- ENDORSEMENT COUNTS (V3 — formal QA + 5 rounds spot checks, 2026-06-04) ---
+Total candidate records: 196
+  Endorsed: 166
+  Opposed: 28
+  No-direction: 2
+Total proposition records: 20
 
 --- CONFIDENCE SCORES ---
-Min: 0.75
-Mean: 0.95
-Max: 1.00
+Mean: 0.948
 
---- NOTES ---
-Coverage: 1922-1974 (continuous even years). Initial extraction covered 1922-1962;
-additional 1968-1974 clippings added via 4-page bundle from raw/more chattanooga.
+--- DATA QUALITY ---
+QA date: 2026-06-04 (V3)
+QA result: PASS WITH FIXES V3
+Total fixes: ~25 (Stage 3 prop_type std + Pattern A pairs + 1948 PRES direction fix + 1972 Pattern A + 1960 Pattern A + VP backfills)
 
-Folder standardization: this folder was originally named done/Chattanooga_Times with
-non-standard CSV names (Chattanooga_Times_candidates.csv) and descriptive clipping
-filenames (Chattanooga_Times_YYYY.pdf). Standardized 2026-05-23 to standard convention:
-folder renamed to "Chattanooga Times" (no underscore), CSVs renamed to 143902_*.csv,
-clippings renamed to 143902_YYYYMMDD.pdf using TN election day lookup.
+--- V3 FIX SUMMARY ---
+- Formal Stage 1-4 (9 fixes): prop_type PUBLIC QUESTION→REFERENDUM (5x), 1968 VP/PRES Pattern A pairs (4x)
+- Round 1: 1948 PRES direction fix — DEWEY R + TRUMAN D both → e='' (paper made NO explicit endorsement; flagged as cross-paper neutral)
+- Round 2: Cross-paper comparison vs News-Free Press — 14 confirmed opposite endorsements (D vs R) documenting genuine pre-merger editorial split
+- Round 3: 1972 Pattern A — added Shriver D VP, Nixon R + Agnew R opposed, Blanton D Sen opposed (paper crossed party endorsing Baker R), Lamar Baker R H3 opposed, Garland R Public Service opposed, plus Home Rule prop
+- Round 4: Pattern A pairs added for 1940 (McNary/Wallace VPs), 1944 (Truman/Bricker VPs), 1952 (Nixon/Sparkman VPs), 1956 (Nixon/Kefauver VPs), 1960 (Nixon R + Lodge R opposed)
 
-Editorial pattern: The Times historically published one consolidated "In Today's Election"
-list on election day itself. The Times was the Democrat-leaning paper of the two
-Chattanooga dailies (the News-Free Press was Republican). Notable picks: backed
-Humphrey 1968, Hooker 1970, McGovern 1972, Alexander 1974 (broke Democratic pattern).
+--- HISTORICAL NOTES ---
+1. **Democratic-leaning paper** (1869-1999) — owned by Ochs family (same family as NY Times)
+2. **1999 merger**: Times merged with News-Free Press to form Chattanooga Times Free Press
+3. **Editorial line**: Consistent D-leaning at top of ticket EXCEPT 1948 (no endorsement) + 1972 SEN (cross-party Baker R) + 1974 GOV (cross-party Alexander R)
+4. **Cross-paper validation**: 14 documented opposite endorsements vs News-Free Press (R-leaning sister paper)
+5. **1948 NO Pres endorsement**: Paper editorial framed Dewey as expected winner but did NOT endorse either Dewey or Truman. Clear endorsements were KEFAUVER-BROWNING-FRAZIER D ticket.
+6. **1972 Cross-party SEN**: Paper endorsed Baker R despite being D-leaning. Unusual.
+7. **1974 Cross-party GOV**: Paper endorsed Alexander R for Governor. Similar pattern.
+8. **1968 missing US Sen**: Paper declined to endorse 1968 Senate race (Gore D vs Baker R). Gore was D incumbent but his civil rights/Vietnam stances may have made paper neutral.
 
-Compiled: 2026-05-24
+--- COVERAGE GAPS ---
+- 1926/1936-1938 partial coverage
+- 1964/1966 missing (no clippings)
+- 1968 SEN race not endorsed by paper
+
+Compiled: 2026-05-24. Updated: 2026-06-04 (V3 formal QA + 5 spot check rounds — ~25 fixes total).

@@ -1,635 +1,637 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
-CA,Chico Enterprise Record,101500,1924,CA,initiative,11,KLAMATH RIVER WATER AND POWER DEVELOPMENT (HENRY FORD MUSCLE SHOALS REFERENCE; WHY GIVE IT AWAY),1,Headline ad: 'Vote YES on No. 11',0.92
-CA,Chico Enterprise Record,101500,1924,CA,constitutional amendment,5,"TRANSFER OF FUNDS - AMENDS SECTION 31, ARTICLE 4 OF STATE CONSTITUTION (WOULD IMPERIL VETERANS' WELFARE BOARD LEGISLATION)",0,"'PROPOSITION NO. 5, VOTE NO' - American Legion and veterans organizations urge defeat; would wipe out veterans' welfare board home/farm purchasing program due to drafting error that overlooked the 1922 veterans' welfare amendment.",0.97
-CA,Chico Enterprise Record,101500,1926,CA,constitutional amendment,20,REAPPORTIONMENT MEASURE - WOULD GIVE LEGISLATIVE CONTROL OF THE STATE TO THE THREE CHIEF CITIES (LOS ANGELES IN PARTICULAR),0,'Vote No On Number Twenty' - urban-favoring reapportionment opposed by The Record and California Farm Bureaus Federation.,0.97
-CA,Chico Enterprise Record,101500,1926,CA,constitutional amendment,28,REAPPORTIONMENT MEASURE - WOULD GIVE RURAL CALIFORNIA EQUAL REPRESENTATION WITH URBAN CALIFORNIA,1,'Yes On Number Twenty-Eight' - rural-equality reapportionment favored by The Record.,0.97
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,1,REAPPORTIONMENT OF LEGISLATIVE DISTRICTS,1,X in YES column on Record's recommended ballot.,0.95
-CA,Chico Enterprise Record,101500,1928,CA,bond,2,APPROVING CALIFORNIA OLYMPIAD BOND ACT,0,X in NO column.,0.95
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,3,TAXATION,1,X in YES column.,0.92
-CA,Chico Enterprise Record,101500,1928,CA,bond,4,APPROVING CALIFORNIA STATE PARK BONDS ACT,1,X in YES column.,0.95
-CA,Chico Enterprise Record,101500,1928,CA,initiative,5,BOXING AND WRESTLING CONTESTS,0,X in NO column.,0.93
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,6,EDUCATION,1,X in YES column.,0.92
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,7,WATER,1,X in YES column.,0.92
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,8,MOTOR VEHICLE REGISTRATION FEES,1,X in YES column.,0.93
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,9,ACQUISITION OF RIGHTS OF WAY BY STATE,1,X in YES column.,0.93
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,10,ACQUISITION OF LAND FOR PUBLIC IMPROVEMENTS,1,X in YES column.,0.93
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,11,COURTS,0,X in NO column.,0.9
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,12,AUTHORIZING STATE AID TO NEEDY PHYSICALLY HANDICAPPED PERSONS,1,X in YES column.,0.95
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,13,AUTHORIZING STATE AND POLITICAL SUBDIVISIONS TO HOLD STOCK IN MUTUAL WATER CORPORATIONS,0,X in NO column.,0.93
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,14,AUTHORIZING QUASI-PUBLIC CORPORATIONS TO EXTEND TERM OF EXISTENCE,1,X in YES column.,0.92
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,15,JURORS' FEES,1,X in YES column.,0.93
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,16,STOCKHOLDERS' LIABILITY,0,X in NO column.,0.92
-CA,Chico Enterprise Record,101500,1928,CA,bond,17,GRADE SEPARATION BONDS,0,X in NO column.,0.93
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,18,ABSENT VOTERS,1,X in YES column.,0.93
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,19,AUTHORIZING STATE AID TO NEEDY BLIND PERSONS,1,X in YES column.,0.95
-CA,Chico Enterprise Record,101500,1928,CA,constitutional amendment,20,WAIVING JURY TRIAL IN CRIMINAL CASES,0,X in NO column.,0.93
-CA,Chico Enterprise Record,101500,1928,CA,initiative,21,PROHIBITING CERTAIN ACTS WITH ANIMALS AND USE OF CERTAIN INSTRUMENTS TO CONTROL THEM,0,X in NO column.,0.9
-CA,Chico Enterprise Record,101500,1930,CA,bond,1,VETERANS' BONDS,1,Vote Yes,0.95
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,2,STATE FIRE PENSION,0,Vote No,0.93
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,3,STATE OFFICER'S PAY,1,Vote Yes,0.93
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,4,ELECTRIC RAILWAY TAXES,1,Vote Yes,0.92
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,5,STATE PENSIONS,1,Vote Yes,0.93
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,6,TAX STATE BRIDGE,1,Vote Yes,0.92
-CA,Chico Enterprise Record,101500,1930,CA,initiative,7,DAYLIGHT SAVING,0,Vote No,0.95
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,8,EXEMPT HOSPITALS,0,Vote No,0.92
-CA,Chico Enterprise Record,101500,1930,CA,bond,9,HARBOR BONDS (SAN FRANCISCO HARBOR IMPROVEMENT),1,Vote Yes,0.93
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,10,USURY LAW,0,Vote No,0.93
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,11,FISH AND GAME,1,Vote Yes,0.93
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,12,LEGISLATURE HELP,1,Vote Yes,0.9
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,13,LIVESTOCK INDEMNITY,1,Vote Yes,0.92
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,14,PERMANENT REGISTRATION,0,Vote No,0.92
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,15,HUNTINGTON GALLERY (HUNTINGTON LIBRARY/ART GALLERY EXEMPTION),1,Vote Yes,0.9
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,16,CORPORATION LAW,1,Vote Yes,0.9
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,17,MARINE INSURANCE TAX,1,Vote Yes,0.92
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,18,MOTOR VEHICLE TAX,1,Vote Yes,0.92
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,19,JUDICIAL ETHICS,1,Vote Yes,0.92
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,20,GOVERNOR'S COUNCIL,1,Vote Yes,0.92
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,21,REIMBURSEMENT COUNTY TAX,0,Vote No,0.9
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,22,MUNICIPAL CHARTERS,1,Vote Yes,0.93
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,23,CONSTITUTIONAL CONVENTION,0,Vote No,0.93
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,24,JUDGES' ABSENCE,0,Vote No,0.92
-CA,Chico Enterprise Record,101500,1930,CA,constitutional amendment,25,SUFFRAGE,1,Vote Yes,0.92
-CA,Chico Enterprise Record,101500,1930,CA,initiative,26,SUNDAY CLOSING,0,Vote No,0.93
-CA,Chico Enterprise Record,101500,1930,CA,referendum,27,COUNTY REFERENDUM,1,Vote Yes,0.9
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,11,TIDELAND GRANT TO CITY OF HUNTINGTON BEACH (INITIATIVE CONSTITUTIONAL AMENDMENT),0,"Editorial discussion recommends 'NO' (or no vote at all on this special southern California matter; if one must vote, suggests NO).",0.9
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,12,AUTHORIZING CITY OF GLENDALE SPECIAL ELECTION TO PAY OWNERS CERTAIN IMPROVEMENT ASSESSMENTS UPON THEIR PROPERTY,1,'The Record advises a YES vote on No. 12.',0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,13,AMENDING STATE ATHLETIC COMMISSION INITIATIVE ACT,1,'The Record recommends a YES vote.' Allows legislature to amend boxing/wrestling commission rules.,0.95
-CA,Chico Enterprise Record,101500,1932,CA,initiative,1,WRIGHT ACT REPEAL (STATE PROHIBITION ENFORCEMENT ACT REPEAL),0,NO,0.95
-CA,Chico Enterprise Record,101500,1932,CA,initiative,2,STATE LIQUOR REGULATION,0,NO,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,3,FORECLOSURE OF MORTGAGES AND TRUST DEEDS,0,NO,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,4,REMOVING RESTRICTION UPON STATE'S HALF OF HIGHWAY TRANSPORTATION TAXES,1,YES,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,5,RACING (PARI-MUTUEL HORSE RACING),0,NO,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,6,WAR VETERANS TAX EXEMPTION,0,NO,0.93
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,7,LEGISLATIVE EXPENSES,0,NO,0.93
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,8,INITIATIVE AND REFERENDUM,1,YES,0.93
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,9,"SCHOOL FUNDS, SALES AND INCOME TAX",0,NO,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,10,AUTHORIZING CITY OF ESCONDIDO TO HOLD STOCK IN MUTUAL WATER COMPANY,1,YES,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,14,EXEMPTING VESSELS FROM TAXATION,1,YES,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,15,DEPOSIT OF PUBLIC MONEYS,1,YES,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,16,TAX LIENS,1,YES,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,17,CITY CHARTERS,1,YES,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,18,AUTHORIZING BOARD OF SUPERVISORS TO DRAFT COUNTY CHARTER,1,YES,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,19,CITY CHARTER PROVISIONS FOR NOMINATION AND ELECTION OF OFFICERS,1,YES,0.95
-CA,Chico Enterprise Record,101500,1932,CA,constitutional amendment,20,COUNTY CHARTER PROVISIONS FOR NOMINATION AND ELECTION OF OFFICERS,1,YES,0.95
-CA,Chico Enterprise Record,101500,1948,CA,local,school_bond,School Bond Issue,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,local,recreation_district,Recreation District,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,local,garbage_trash_repeal,Garbage-Trash Ordinance Repeal,0,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,1,Veterans' tax exemption,0,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,2,Local liquor control,0,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,3,Railroad brakemen,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,4,Aged and blind aid scheme,0,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,5,Legislators' salaries,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,6,Anti-netting of salmon,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,7,Residence of voters,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,8,Superior judge vacancies,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,9,Governorship succession,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,10,Single initiative subjects,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,11,Municipal charters,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,12,Local liquor option,0,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,13,Senate reapportionment,0,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,14,State housing,0,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,15,Fish Netting (Southern),1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,16,Chiropractors,1,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,17,Civil service exemptions,0,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,18,State payment of tax losses,0,,0.9
-CA,Chico Enterprise Record,101500,1948,CA,state,19,Fish and Game Commission,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,local,elem_school_bond,Elementary School District Bond,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,local,state_loan,State Loan for Schools,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,local,hs_school_bond,High School District Bond,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,local,paradise_fire_1,Paradise Fire District proposition,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,local,paradise_fire_2,Paradise Fire District proposition (2nd),1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,1,Prohibits Personal Property Taxation,0,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,2,Naming Persons to Office,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,3,Inferior Court Reorganization,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,4,Eligibility to Vote,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,5,Legislators on Boards,0,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,6,Legalized Gambling,0,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,8,"Salaries, Local Officers",1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,9,State Civil Service,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,10,Public Housing,1,,0.9
-CA,Chico Enterprise Record,101500,1950,CA,state,11,Land Titles,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,1,Veterans' Bond Act,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,2,School Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,3,Liquor Control Act,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,4,Increased Pensions,0,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,5,Exemption of Vessels,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,6,Pay Boost for Legislators,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,7,"Land Titles, Torrens Act",1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,8,"Tax Exemption, Commercial and Fishing Boats",0,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,9,Church Exemption: Property Under Construction,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,10,Longer Terms for Legislators,0,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,11,"Tax Exemption, Disabled Veterans",1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,12,Voting Eligibility,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,13,Vernon City Charter,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,14,"College Exemption, Property Under Construction",1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,15,"Welfare Exemption, Property Under Construction",1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,16,"Water Rights, Government Agencies",1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,17,Use of Highway Funds for Vehicle Parking,0,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,18,"Resident Noncitizens, Property Ownership",1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,19,Inferior Court Judges,1,,0.9
-CA,Chico Enterprise Record,101500,1954,CA,state,20,Framing County Charters,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,1,Veterans Farm and Home Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,2,CTA Amendment on State School Aid,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,3,Non-Profit School Tax Exemption,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,4,Payments to Needy Blind,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,5,Prohibit Subversives in Public Office,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,6,Superfluous Loyalty Oath Amendment,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,7,Party Designation on Primary Ballot,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,8,"Tax Exemptions, Church Buildings",1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,9,"Tax Exemptions, College Buildings",1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,10,McLain Prohibition on Use of Public Money,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,11,McLain Pension Increases,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,12,Permit Military Service by Public Officers,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,13,Move to Abolish Cross-Filing,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,14,Repeal Old Restrictions on Chinese,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,15,"Taxation, Insurance Companies, Banks",1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,16,City Boroughs,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,17,Chiropractors,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,18,Community Redevelopment Projects,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,19,Regarding Grand Juries,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,20,State Funds for Private Hospitals,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,21,Regarding Superior Judge Vacancies,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,22,Regarding Property Tax Statements,0,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,23,Property Description,1,,0.9
-CA,Chico Enterprise Record,101500,1952,CA,state,24,School Construction Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,1,State Bonds for veterans' loans,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,2,State Bonds for School Construction,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,3,State Bonds for College Construction,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,4,Oil and Gas Conservation Initiative,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,5,Repeal Food Requirement in Liquor Establishments,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,6,Exempt Church Parking Areas From Local Property Taxes,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,7,Change Name of State Assembly,0,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,8,Recess Periods in Legislative Budget Sessions,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,9,Permit Boroughs in Charter Counties,0,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,10,Contract Architects and Engineers,0,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,11,Allow One Year to Frame County Charters,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,12,"State Indebtedness, End Bond Public Notice",0,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,13,Repeal Unconstitutional Alien Land Law,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,14,Repeal Limits on Legislative Expense,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,15,Permit Governments to Own Mutual Water Stocks,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,16,Fixing of Time for Civil and Criminal Appeals,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,17,Constitutional Provisions Relating to Judiciary,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,18,Permit Non-Lawyer Judges in Superseding Lower Court,0,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,state,19,Permit Redefining of State Boundaries,1,,0.9
-CA,Chico Enterprise Record,101500,1956,CA,local,city_1,City Special Tax Up to 28 Cents for City Retirement Plan,0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,1,Veterans Bond Act,1,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,2,School Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,3,State Construction Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,4,Harbor Development Bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,5,Compensation of Legislators,0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,6,State Indebtedness Notice,1,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,7,Government Functions in Wartime Disaster,1,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,8,Presidential Voting,0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,9,General Legislative Sessions,0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,10,"Eminent Domain, Airports and Schools",0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,11,Local Street and Road Bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,12,Legislator as Notary,0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,13,Supt. of Public Instruction Change,0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,14,Compensation of Local Officers,0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,15,Boxing Matches,1,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,16,Taxation of School Property,1,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,17,"Change in State Sales, Use and Income Tax Rates",0,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,state,18,Employer-Employee Relations,1,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,local,chico_low_rent_housing,Chico Low-Rent Housing,1,,0.9
-CA,Chico Enterprise Record,101500,1958,CA,local,annexation,Annexation Proposition,1,,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,1,STATE WATER BONDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,2,TERMS OF ASSEMBLYMEN,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,3,DISABLED VETS TAX EXEMPTION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,4,COLLEGE TRUSTEE TERMS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,5,LEGISLATIVE SALARIES,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,6,GOLF COURSE ASSESSMENT CHANGE,0,No,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,7,CHIROPRACTIC BOARD,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,8,EX-FELON VOTING RIGHTS CHANGE,0,No,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,9,CITIZENS CLAIMS AGAINST CITIES,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,10,ADMINISTRATION OF JUSTICE,0,No,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,11,VETERANS TAX EXEMPTION LIMITATION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,12,CONSTITUTION OBSOLESCENCE CLEANUP,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,13,EXTENDS APPEAL JURISDICTION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,14,FUNDS FOR CITY GRADE CROSSINGS,0,No,0.9
-CA,Chico Enterprise Record,101500,1960,CA,proposition,15,STATE SENATE REAPPORTIONMENT,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,1A,HIGHER EDUCATION BONDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,1,COMPENSATION OF LEGISLATORS,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,2,VETERANS TAX EXEMPTION IN HOUSING PROJECTS,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,3,VETERANS TAX EXEMPTION CHANGES,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,4,ASSESSMENT OF AGRICULTURAL LANDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,5,WORKMAN'S COMPENSATION CHANGES,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,6,STATE INDEBTEDNESS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,7,CONSTITUTION REVISION,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,8,GENERAL LEGISLATIVE SESSIONS,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,9,GENERAL OBLIGATION BOND FUND,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,10,"WELFARE EXEMPTION, LEASED PROPERTY",0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,11,"ASSESSMENT PRIVILEGES, HISTORICAL AREAS",0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,12,AID TO WIDOWS OF VETERANS,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,13,EXTENSION OF COLLEGE TAX EXEMPTIONS,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,14,SALE OF TIDELANDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,15,COUNTY TAX APPEALS BOARDS,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,16,ELIMINATION OF OBSOLETE CONSTITUTION PROVISIONS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,17,PAY OF LEGISLATORS,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,18,ALCOHOLIC BEVERAGE APPEALS BOARD,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,19,COMPENSATION OF LOCAL OFFICERS,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,20,BOXING AND WRESTLING CONTESTS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,21,CHANGE PROCEDURES FOR REELECTION OF SUPERIOR COURT JUDGES,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,22,OSTEOPATHS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,23,SENATE REAPPORTIONMENT,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,24,SUBVERSIVE ACTIVITIES,0,No,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,,CHICO PROP A - CITY SCHOOL DISTRICT BONDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1962,CA,proposition,,CHICO PROP B - HIGH SCHOOL BONDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,1,RECREATION BONDS,0,No,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,2,STATE COLLEGE BONDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,3,STATE SCHOOL BUILDING BONDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,4,VETERAN'S EXEMPTIONS FOR CALIFORNIANS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,5,LIBERALIZES WIDOW'S VET EXEMPTIONS,0,No,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,6,TAXATION OF OUT-OF-STATE INSURERS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,7,INVESTMENT OF PUBLIC RETIREMENT FUNDS,0,No,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,8,SUPERIOR COURT JUDGES,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,9,SUPERVISORIAL DISTRICT BOUNDARIES,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,10,SCHOOL LAND FUND ACCOUNTING,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,11,CITY-COUNTY SERVICE CONTRACTS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,12,PROPERTY TAX DISASTER RELIEF,0,No,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,13,NAMING CORPORATIONS IN CONSTITUTION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,14,TO REPEAL RUMFORD HOUSING ACT,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,15,TO PROHIBIT PAY TV,0,No,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,16,PRIVATE LOTTERY,0,No,0.9
-CA,Chico Enterprise Record,101500,1964,CA,proposition,17,TO END RAILROAD FEATHERBEDDING,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,1A,CONSTITUTIONAL REVISION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,1,PUBLIC RETIREMENT FUNDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,2,BONDS FOR HIGHER EDUCATION,1,For,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,3,OPEN SPACE CONSERVATION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,4,INDEBTEDNESS OF LOCAL AGENCIES,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,5,PROPERTY TAX DISASTER RELIEF,0,No,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,6,LEGISLATIVE PROCEDURE,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,7,COMPENSATION OF COUNTY OFFICERS,0,No,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,8,TAXATION OF INSURANCE COMPANIES,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,9,BLIND VETERANS TAX EXEMPTION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,10,LOANS OF PUBLIC FUNDS,0,No,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,11,"CONTROL OF BOXING, WRESTLING",1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,12,COUNTY ASSESSMENT APPEALS BOARDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,13,PROPERTY TAX STATEMENT,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,14,SIMPLIFY INCOME TAX FORM,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,15,ELIMINATE EDUCATION REQUIREMENT FOR VOTING,0,No,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,16,OBSCENITY INITIATIVE,0,No,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,E,MENTAL HEALTH ORDINANCE,0,No - County/District Measure,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,F,JUNIOR COLLEGE DISTRICT,1,Yes - County/District Measure,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,C,MUNICIPAL BUILDING,1,Yes - Chico Bond Measure,0.9
-CA,Chico Enterprise Record,101500,1966,CA,proposition,D,MUNICIPAL SERVICE CENTER,1,Yes - Chico Bond Measure,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,1A,PROPERTY TAX EXEMPTION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,1,CONSTITUTION REVISION,0,No,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,2,PUBLIC PROPERTY TAX PRIVILEGE,0,No,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,3,STATE EDUCATION BONDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,4,PERSONAL INCOME TAX FORMS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,5,HOSPITAL LOANS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,6,INSURANCE TAX CLARIFICATION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,7,LOCAL USE OF STATE FUNDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,8,SALES TAX USE CHANGE,0,No,0.9
-CA,Chico Enterprise Record,101500,1968,CA,proposition,9,LIMITATION TAX PLAN,0,No,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,1,CLEAN WATER BONDS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,2,VACANCIES IN STATE OFFICES,0,No,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,3,SUBMISSION OF STATE BUDGET,0,No,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,4,PUBLIC SCHOOL APPROPRIATION,0,No,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,5,UC REGENTS PUBLIC MEETINGS,0,No,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,6,TEACHERS RETIREMENT FUND,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,7,SPEAKER AND COLLEGE BOARD,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,8,PUBLIC INSTRUCTION DEPUTY,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,9,COUNTY SCHOOL SUPERINTENDENTS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,10,RELAX INTEREST LIMITS,0,No,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,11,CHIROPRACTOR RULES,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,12,SUPERVISORIAL PAY RULE,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,13,VET EXEMPTION EXTENSIONS,0,No,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,14,STATE CIVIL SERVICE,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,15,STATE CONSTITUTION REVISION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,16,CONSTITUTIONAL AMENDMENTS,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,17,STATE CONSTITUTION REVISION,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,18,CHANGE IN GAS TAX USE,0,No,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,19,TOUGHER USURY LAW,1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,20,"RECREATION, FISH, WILDLIFE BONDS",1,Yes,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,B,COUNTY CHARTER REVISION,1,Yes - County Measure,0.9
-CA,Chico Enterprise Record,101500,1970,CA,proposition,C,BUTTE JUNIOR COLLEGE BOND,1,Yes - County Measure,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Community College Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Health Science Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Pollution Revenue Bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Legislative Reorganization,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Wider School Powers,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Constitution Revision,1,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Primary Voting Change,1,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Pollution Tax Exemption,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Reduced Bond Vote,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Blind Veterans Exemption,1,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Privacy Right Change,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Disabled Veterans Exemption,1,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Compensation Change,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Watson Tax Change,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,State Employe Pay Change,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Highway Patrol Pay Change,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Restore Death Penalty,1,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Obscenity Initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Marijuana Initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Coastal Zone Initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Prohibit Forced Busing,1,,0.9
-CA,Chico Enterprise Record,101500,1972,CA,proposition,,Farm Labor Rights,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,School Bonds and Earthquake Reconstruction,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Charters for Counties and Cities,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Postsecondary Education Commission,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Regent Terms of Office,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Residence of Local Govt. Employes,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,ERTY,Property Tax Exemptions,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Declaration of Rights,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Taxation and State Funds,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Recall of Public Officers,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Right to Vote,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Miscellaneous Language Changes,0,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Public Utilities,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,San Diego Judicial,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,State College System,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Low Rent Housing Vote Repeal,0,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,"Student Tuition, University",0,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,"Wild Rivers, Dam Halt",0,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,County Charter Amendment,1,,0.9
-CA,Chico Enterprise Record,101500,1974,CA,proposition,,Chico School Revenue Limit,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Housing Finance Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,State Park Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Residential Energy Conservation Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,University Competitive Bidding,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Interest Rates,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Veto Time Extension,0,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Improved Review of Judges,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,County School Superintendent Change,0,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Constitutional Offices Confirmation,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,ERTY,Property Tax Voting Right,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Tax Ratio Adjustments,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,State Energy Loans,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Greyhound Dog Racing,0,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Farm Labor Initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,"Chiropractic Exams, Licenses",1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Airgun Protective Regulations,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Benefit Protection Against Zoning,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Municipal Election Date Change,1,,0.9
-CA,Chico Enterprise Record,101500,1976,CA,proposition,,Council Term Starting Date,1,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,Veterans Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,Public Utilities Amendment,1,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,State Surplus Coastal Property,1,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,"Chiropractors, Amendment",1,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,Regulation of Smoking,0,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,"School Employees, Homosexuality",1,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,Murder Penalty Statute,1,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,ERTY,Property Taxation Amendment,1,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,Coal-Burning Power Plant,1,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,Taxpayer Subsidized Bus System,0,,0.9
-CA,Chico Enterprise Record,101500,1978,CA,proposition,,Extra Local Taxes for Buses,0,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Parklands Acquisition and Development,0,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Lake Tahoe Acquisition Bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Insurance Guarantee Funds,0,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,"Taxation, Local Bonds, Two-Thirds Vote",1,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Taxation Break After Disaster,1,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,"Jurors, Civil Case Modification",1,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,"Taxation, Solar Energy Break",1,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Water Resources Freeze,0,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Safe Drinking Water Bond Law,1,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Smoking Initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Judges Salary Limit Cut,1,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Ag land Initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,"Sheriff Wages, Retirement Initiative",0,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,Chestnut and Chico State Parking Garage,1,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,$5.9 Million Water System Bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1980,CA,proposition,,$1.5 Million State Loan Contract,0,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,1,Proposition 1 - School Construction Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,2,Proposition 2 - Jail Construction Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,3,Proposition 3 - Cal-Vet Farm-Home Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,4,Proposition 4 - Lake Tahoe Land Acquisition,1,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,5,Proposition 5 - Home-Buyer Bond Act,0,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,6,Proposition 6 - Pension Fund Investing,0,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,7,Proposition 7 - Fire-Safety Tax Exemption,1,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,8,Proposition 8 - Local Government Fund Transfers,1,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,9,Proposition 9 - School Textbook Loans,1,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,10,Proposition 10 - Court Consolidations,0,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,11,Proposition 11 - Beer-Soda Deposit Law,0,OCR unclear; likely No based on context,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,12,Proposition 12 - Nuclear Weapons Freeze,1,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,13,Proposition 13 - Water Resources Initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,14,Proposition 14 - Reapportionment Commission,1,,0.9
-CA,Chico Enterprise Record,101500,1982,CA,proposition,15,Proposition 15 - Gun Control Initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,25,Proposition 25 - Clean water bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,26,Proposition 26 - School building bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,27,Proposition 27 - Hazardous cleanup bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,28,Proposition 28 - Safe drinking water bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,29,Proposition 29 - Veterans Bond Act bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,30,Proposition 30 - Senior citizen center bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,31,Proposition 31 - Fire prevention system bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,32,Proposition 32 - Supreme Court review option,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,33,Proposition 33 - Disabled tax postponement,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,34,Proposition 34 - Historical building exemption,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,36,Proposition 36 - Jarvis 'Save 13' initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,37,Proposition 37 - California state lottery,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,38,Proposition 38 - English-only voting materials,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,39,Proposition 39 - Reapportionment,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,40,Proposition 40 - Campaign financing initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,41,Proposition 41 - Welfare reform initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,,Butte County Measure A - Elective office vacancies,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,,Butte County Measure B - Sheriff's special district tax,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,,City of Chico Measure C - Change municipal election date,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,,City of Chico Measure D - Qualification for public office,1,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,,City of Chico Measure E - Increase in City Council pay,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,,City of Chico Measure F - Sale or exchange of city property,0,,0.9
-CA,Chico Enterprise Record,101500,1984,CA,proposition,,Chico Unified School District Measure G - Special school construction tax,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,57,Proposition 57 - Retirement benefits (constitutional officers),1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,58,Proposition 58 - Tax exemption for realty transfers (parent-child),0,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,59,Proposition 59 - Elected district attorney,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,60,Proposition 60 - Tax on replacement residences (seniors),0,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,62,Proposition 62 - Vote on taxation,0,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,53,Proposition 53 - School bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,54,Proposition 54 - Prison bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,55,Proposition 55 - Water bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,56,Proposition 56 - Higher education bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,61,Proposition 61 - Pay limits,0,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,63,Proposition 63 - English as official language,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,64,Proposition 64 - AIDS quarantine,0,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,65,Proposition 65 - Chemical restrictions,0,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,,Butte County Measure A - State to assume mandated costs,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,,Butte County Measure B - Filling county vacancies,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,,Butte County Measure C - County school supt. appointment,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,,Butte County Measure D - Consolidating office,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,,Butte County Measure E - Limiting welfare expenses,1,,0.9
-CA,Chico Enterprise Record,101500,1986,CA,proposition,,Chico Measure F - Community center,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,84,Proposition 84 - Housing and Homeless Bond Act,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,95,Proposition 95 - Hunger and Homelessness Funding,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,104,Proposition 104 - Auto insurance (no-fault),0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,78,Proposition 78,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,79,Proposition 79,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,80,Proposition 80,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,81,Proposition 81,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,82,Proposition 82,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,83,Proposition 83,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,85,Proposition 85,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,86,Proposition 86,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,87,Proposition 87,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,88,Proposition 88,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,89,Proposition 89,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,90,Proposition 90,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,91,Proposition 91,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,92,Proposition 92,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,93,Proposition 93,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,94,Proposition 94,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,96,Proposition 96,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,97,Proposition 97,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,98,Proposition 98,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,99,Proposition 99,1,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,100,Proposition 100,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,101,Proposition 101,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,102,Proposition 102,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,103,Proposition 103,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,105,Proposition 105,0,,0.9
-CA,Chico Enterprise Record,101500,1988,CA,proposition,106,Proposition 106,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,,Confirmation of judges,1,Judicial,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,H,Measure H,1,Chico Area Recreation District Advisory Vote,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,124,Proposition 124 - Hospital Districts,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,125,Proposition 125 - Gas tax for transit,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,126,Proposition 126 - Alcohol beverage tax,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,127,Proposition 127 - Earthquake safety,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,128,Proposition 128 - Environmental bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,129,Proposition 129 - Drug enforcement bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,130,Proposition 130 - Forest acquisition,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,131,Proposition 131 - Office term limits,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,132,Proposition 132 - Marine Resources,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,133,Proposition 133 - Drug enforcement,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,134,Proposition 134 - Alcohol surtax,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,135,Proposition 135 - Pesticide regulation,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,136,Proposition 136 - Two-thirds tax vote,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,137,Proposition 137 - Initiative reform,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,138,Proposition 138 - Forestry programs,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,139,Proposition 139 - Prison inmate labor,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,140,Proposition 140 - Office term limits,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,141,Proposition 141 - Toxic discharge,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,142,Proposition 142 - Veteran's bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,143,Proposition 143 - Higher education,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,144,Proposition 144 - Prison construction,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,145,Proposition 145 - Housing bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,146,Proposition 146 - School facilities,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,147,Proposition 147 - County jail bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,148,Proposition 148 - Water resources,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,149,Proposition 149 - Park purchase bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,150,Proposition 150 - County courthouse,0,,0.9
-CA,Chico Enterprise Record,101500,1990,CA,proposition,151,Proposition 151 - Child Care bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,Q,Measure Q - Butte County smoking ordinance,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,R,Measure R - Chico smoking ordinance,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,S,Measure S - Chico sports complex,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,155,Proposition 155 - School Construction Bonds,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,156,Proposition 156 - Rail Passenger and Clean Air Bond Act of 1992,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,157,Proposition 157 - Toll highways: Termination of tolls,1,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,158,Proposition 158 - Establish Office of California Analyst,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,159,Proposition 159 - Establish Auditor General,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,160,Proposition 160 - Property tax veterans exemption,1,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,161,"Proposition 161 - Physician-assisted death, Terminal condition",0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,162,Proposition 162 - Public Employees Retirement System,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,163,Proposition 163 - Repeal Taxation of food products,1,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,164,Proposition 164 - Congressional Term limits,1,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,165,"Proposition 165 - Reform Welfare, budget process",1,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,166,Proposition 166 - Basic Health Care Coverage,0,,0.9
-CA,Chico Enterprise Record,101500,1992,CA,proposition,167,Proposition 167 - Raise taxes,0,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,181,Proposition 181,0,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,183,Proposition 183,0,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,184,Proposition 184,1,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,185,Proposition 185,0,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,186,Proposition 186,0,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,187,Proposition 187,1,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,188,Proposition 188,0,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,189,Proposition 189,0,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,190,Proposition 190,1,,0.9
-CA,Chico Enterprise Record,101500,1994,CA,proposition,191,Proposition 191,1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,204,Proposition 204 - Water Bond,1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,205,Proposition 205 - Jail Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,206,Proposition 206 - Cal Vet Bonds,1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,207,Proposition 207 - Lawyer Fee Protection,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,208,Proposition 208 - Campaign Finance Reform,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,209,Proposition 209 - California Civil Rights Initiative,1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,210,Proposition 210 - Minimum Wage Increase,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,211,Proposition 211 - Securities Fraud Lawsuits,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,212,Proposition 212 - Campaign Finance Reform,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,213,Proposition 213 - Limits Monetary Rewards for Lawbreakers,1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,214,Proposition 214 - Health Care Reform,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,215,Proposition 215 - Medical Marijuana Initiative,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,216,Proposition 216 - Health Care Reform,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,217,Proposition 217 - Changes Top Income Brackets,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,218,"Proposition 218 - Voting on Tax, Fee, Assessment Increases",1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,C,Measure C - Amends General Plan/Zoning Ordinance,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,D,Measure D - Mandates Public Safety Budget Funding,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,E,Measure E - Mandates Public Safety Budget Funding,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,F,Measure F - Groundwater Extraction Regulation,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,G,Measure G - Groundwater Resources Protection,1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,H,Measure H - Prohibits Smoking in Bars,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,I,Measure I - Allows Special Elections by Mail,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,J,Measure J - Drops Roll Call at Council Meetings,0,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,K,Measure K - Transfers Park & Playground Commission Governing Powers to the City Council,1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,L,Measure L - Transfers Airport Commission Governing Powers to the City Council,1,,0.9
-CA,Chico Enterprise Record,101500,1996,CA,proposition,M,Measure M - Changes Due Date for City's Annual Audit,1,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,1,Proposition 1 - Contaminated property tax relief,1,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,2,Proposition 2 - Requires road taxes go to road projects,1,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,3,Proposition 3 - Corrects open primary law error to allow delegate selection,1,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,4,Proposition 4 - Restricts effective wildlife management,0,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,5,Proposition 5 - Authorizes unregulated Indian casino gaming,0,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,6,Proposition 6 - Prohibits sale of horsemeat for human consumption,0,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,7,Proposition 7 - $218 million annual retrofitting tax credits,0,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,8,Proposition 8 - Creates unneeded post of education czar,0,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,9,Proposition 9 - Prevents utility rate deregulation,0,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,10,Proposition 10 - New eChildhood development bureaucracy,0,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,11,Proposition 11 - Allows sharing of sales and use taxes,0,,0.9
-CA,Chico Enterprise Record,101500,1998,CA,proposition,1A,"Proposition 1A - $15.2 billion ($9.2 billion principal, $6 billion interest) school bonds",0,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,U,Measure U (Paradise tree ordinance),0,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,V,Measure V (Chico housing),1,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,W,Measure W (Chico legal summaries),1,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,X,Measure X (Chico charter amendment),1,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,32,Proposition 32 - veterans bond,1,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,33,Proposition 33 - legislators' retirement system,1,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,34,Proposition 34 - campaign finance,0,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,35,Proposition 35 - public works projects,1,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,36,Proposition 36 - drug treatment,0,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,37,Proposition 37 - fees and taxes,0,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,38,Proposition 38 - school vouchers,0,,0.9
-CA,Chico Enterprise Record,101500,2000,CA,proposition,39,Proposition 39 - school bond requirements,1,,0.9
-CA,Chico Enterprise Record,101500,2010,CA,proposition,19,Proposition 19,0,,0.9
-CA,Chico Enterprise Record,101500,2010,CA,proposition,20,Proposition 20,1,,0.9
-CA,Chico Enterprise Record,101500,2010,CA,proposition,21,Proposition 21,0,,0.9
-CA,Chico Enterprise Record,101500,2010,CA,proposition,22,Proposition 22,1,,0.9
-CA,Chico Enterprise Record,101500,2010,CA,proposition,23,Proposition 23,1,,0.9
-CA,Chico Enterprise Record,101500,2010,CA,proposition,24,Proposition 24,0,,0.9
-CA,Chico Enterprise Record,101500,2010,CA,proposition,25,Proposition 25,0,,0.9
-CA,Chico Enterprise Record,101500,2010,CA,proposition,26,Proposition 26,0,,0.9
-CA,Chico Enterprise Record,101500,2010,CA,proposition,27,Proposition 27,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,S,Measure S,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,T,Measure T,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,U,Measure U,1,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,V,Measure V,1,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,1,Proposition 1,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,2,Proposition 2,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,3,Proposition 3,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,4,Proposition 4,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,5,Proposition 5,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,6,Proposition 6,1,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,7,Proposition 7,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,8,Proposition 8,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,10,Proposition 10,0,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,11,Proposition 11,1,,0.9
-CA,Chico Enterprise Record,101500,2018,CA,proposition,12,Proposition 12,0,,0.9
-CA,Chico Enterprise Record,101500,2019,CA,proposition,68,Proposition 68,0,,0.9
-CA,Chico Enterprise Record,101500,2019,CA,proposition,69,Proposition 69,1,,0.9
-CA,Chico Enterprise Record,101500,2019,CA,proposition,70,Proposition 70,0,,0.9
-CA,Chico Enterprise Record,101500,2019,CA,proposition,71,Proposition 71,1,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,14,Proposition 14,0,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,15,Proposition 15,0,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,16,Proposition 16,1,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,17,Proposition 17,0,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,18,Proposition 18,1,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,19,Proposition 19,0,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,20,Proposition 20,1,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,21,Proposition 21,0,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,22,Proposition 22,1,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,23,Proposition 23,0,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,24,Proposition 24,0,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,25,Proposition 25,0,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,E,Measure E,1,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,G,Measure G,1,,0.9
-CA,Chico Enterprise Record,101500,2020,CA,proposition,D,Measure D,0,,0.9
-CA,Chico Enterprise Record,101500,2022,CA,proposition,H,MEASURE H (Chico),1,Local Chico measure for $24M annual revenue increase. Editorial endorses YES.,0.9
-CA,Chico Enterprise Record,101500,2022,CA,proposition,L,MEASURE L (Chico),0,Local Chico measure; editorial opposes additional 'quality of life' legislation.,0.9
-CA,Chico Enterprise Record,101500,2022,CA,proposition,26,PROPOSITION 26 (CA),0,State proposition on tribal gaming. Editorial opposes.,0.9
-CA,Chico Enterprise Record,101500,2022,CA,proposition,27,PROPOSITION 27 (CA),0,"Online sports betting. Editorial opposes — out-of-state interests profit, gambling addiction risk.",0.9
-CA,Chico Enterprise Record,101500,2022,CA,proposition,29,PROPOSITION 29 (CA),0,Dialysis clinic regulation. Editorial opposes.,0.9
-CA,Chico Enterprise Record,101500,2022,CA,proposition,30,PROPOSITION 30 (CA),0,Tax on high-income earners for EV/wildfire funding ('Lyft tax grab'). Editorial opposes.,0.9
-CA,Chico Enterprise Record,101500,2022,CA,proposition,31,PROPOSITION 31 (CA),1,Ban flavored tobacco. Editorial endorses YES.,0.9
+CA,Chico Enterprise Record,101500,1924,CA,INITIATIVE,11,KLAMATH RIVER WATER AND POWER DEVELOPMENT (HENRY FORD MUSCLE SHOALS REFERENCE; WHY GIVE IT AWAY),1,HEADLINE AD: 'VOTE YES ON NO. 11',0.92
+CA,Chico Enterprise Record,101500,1924,CA,AMENDMENT,5,"TRANSFER OF FUNDS - AMENDS SECTION 31, ARTICLE 4 OF STATE CONSTITUTION (WOULD IMPERIL VETERANS' WELFARE BOARD LEGISLATION)",0,"'PROPOSITION NO. 5, VOTE NO' - AMERICAN LEGION AND VETERANS ORGANIZATIONS URGE DEFEAT; WOULD WIPE OUT VETERANS' WELFARE BOARD HOME/FARM PURCHASING PROGRAM DUE TO DRAFTING ERROR THAT OVERLOOKED THE 1922 VETERANS' WELFARE AMENDMENT.",0.97
+CA,Chico Enterprise Record,101500,1926,CA,AMENDMENT,20,REAPPORTIONMENT MEASURE - WOULD GIVE LEGISLATIVE CONTROL OF THE STATE TO THE THREE CHIEF CITIES (LOS ANGELES IN PARTICULAR),0,'VOTE NO ON NUMBER TWENTY' - URBAN-FAVORING REAPPORTIONMENT OPPOSED BY THE RECORD AND CALIFORNIA FARM BUREAUS FEDERATION.,0.97
+CA,Chico Enterprise Record,101500,1926,CA,AMENDMENT,28,REAPPORTIONMENT MEASURE - WOULD GIVE RURAL CALIFORNIA EQUAL REPRESENTATION WITH URBAN CALIFORNIA,1,'YES ON NUMBER TWENTY-EIGHT' - RURAL-EQUALITY REAPPORTIONMENT FAVORED BY THE RECORD.,0.97
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,1,REAPPORTIONMENT OF LEGISLATIVE DISTRICTS,1,X IN YES COLUMN ON RECORD'S RECOMMENDED BALLOT.,0.95
+CA,Chico Enterprise Record,101500,1928,CA,BOND,2,APPROVING CALIFORNIA OLYMPIAD BOND ACT,0,X IN NO COLUMN.,0.95
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,3,TAXATION,1,X IN YES COLUMN.,0.92
+CA,Chico Enterprise Record,101500,1928,CA,BOND,4,APPROVING CALIFORNIA STATE PARK BONDS ACT,1,X IN YES COLUMN.,0.95
+CA,Chico Enterprise Record,101500,1928,CA,INITIATIVE,5,BOXING AND WRESTLING CONTESTS,0,X IN NO COLUMN.,0.93
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,6,EDUCATION,1,X IN YES COLUMN.,0.92
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,7,WATER,1,X IN YES COLUMN.,0.92
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,8,MOTOR VEHICLE REGISTRATION FEES,1,X IN YES COLUMN.,0.93
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,9,ACQUISITION OF RIGHTS OF WAY BY STATE,1,X IN YES COLUMN.,0.93
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,10,ACQUISITION OF LAND FOR PUBLIC IMPROVEMENTS,1,X IN YES COLUMN.,0.93
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,11,COURTS,0,X IN NO COLUMN.,0.9
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,12,AUTHORIZING STATE AID TO NEEDY PHYSICALLY HANDICAPPED PERSONS,1,X IN YES COLUMN.,0.95
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,13,AUTHORIZING STATE AND POLITICAL SUBDIVISIONS TO HOLD STOCK IN MUTUAL WATER CORPORATIONS,0,X IN NO COLUMN.,0.93
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,14,AUTHORIZING QUASI-PUBLIC CORPORATIONS TO EXTEND TERM OF EXISTENCE,1,X IN YES COLUMN.,0.92
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,15,JURORS' FEES,1,X IN YES COLUMN.,0.93
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,16,STOCKHOLDERS' LIABILITY,0,X IN NO COLUMN.,0.92
+CA,Chico Enterprise Record,101500,1928,CA,BOND,17,GRADE SEPARATION BONDS,0,X IN NO COLUMN.,0.93
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,18,ABSENT VOTERS,1,X IN YES COLUMN.,0.93
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,19,AUTHORIZING STATE AID TO NEEDY BLIND PERSONS,1,X IN YES COLUMN.,0.95
+CA,Chico Enterprise Record,101500,1928,CA,AMENDMENT,20,WAIVING JURY TRIAL IN CRIMINAL CASES,0,X IN NO COLUMN.,0.93
+CA,Chico Enterprise Record,101500,1928,CA,INITIATIVE,21,PROHIBITING CERTAIN ACTS WITH ANIMALS AND USE OF CERTAIN INSTRUMENTS TO CONTROL THEM,0,X IN NO COLUMN.,0.9
+CA,Chico Enterprise Record,101500,1930,CA,BOND,1,VETERANS' BONDS,1,VOTE YES,0.95
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,2,STATE FIRE PENSION,0,VOTE NO,0.93
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,3,STATE OFFICER'S PAY,1,VOTE YES,0.93
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,4,ELECTRIC RAILWAY TAXES,1,VOTE YES,0.92
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,5,STATE PENSIONS,1,VOTE YES,0.93
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,6,TAX STATE BRIDGE,1,VOTE YES,0.92
+CA,Chico Enterprise Record,101500,1930,CA,INITIATIVE,7,DAYLIGHT SAVING,0,VOTE NO,0.95
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,8,EXEMPT HOSPITALS,0,VOTE NO,0.92
+CA,Chico Enterprise Record,101500,1930,CA,BOND,9,HARBOR BONDS (SAN FRANCISCO HARBOR IMPROVEMENT),1,VOTE YES,0.93
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,10,USURY LAW,0,VOTE NO,0.93
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,11,FISH AND GAME,1,VOTE YES,0.93
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,12,LEGISLATURE HELP,1,VOTE YES,0.9
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,13,LIVESTOCK INDEMNITY,1,VOTE YES,0.92
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,14,PERMANENT REGISTRATION,0,VOTE NO,0.92
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,15,HUNTINGTON GALLERY (HUNTINGTON LIBRARY/ART GALLERY EXEMPTION),1,VOTE YES,0.9
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,16,CORPORATION LAW,1,VOTE YES,0.9
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,17,MARINE INSURANCE TAX,1,VOTE YES,0.92
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,18,MOTOR VEHICLE TAX,1,VOTE YES,0.92
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,19,JUDICIAL ETHICS,1,VOTE YES,0.92
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,20,GOVERNOR'S COUNCIL,1,VOTE YES,0.92
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,21,REIMBURSEMENT COUNTY TAX,0,VOTE NO,0.9
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,22,MUNICIPAL CHARTERS,1,VOTE YES,0.93
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,23,CONSTITUTIONAL CONVENTION,0,VOTE NO,0.93
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,24,JUDGES' ABSENCE,0,VOTE NO,0.92
+CA,Chico Enterprise Record,101500,1930,CA,AMENDMENT,25,SUFFRAGE,1,VOTE YES,0.92
+CA,Chico Enterprise Record,101500,1930,CA,INITIATIVE,26,SUNDAY CLOSING,0,VOTE NO,0.93
+CA,Chico Enterprise Record,101500,1930,CA,REFERENDUM,27,COUNTY REFERENDUM,1,VOTE YES,0.9
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,11,TIDELAND GRANT TO CITY OF HUNTINGTON BEACH (INITIATIVE CONSTITUTIONAL AMENDMENT),0,"EDITORIAL DISCUSSION RECOMMENDS 'NO' (OR NO VOTE AT ALL ON THIS SPECIAL SOUTHERN CALIFORNIA MATTER; IF ONE MUST VOTE, SUGGESTS NO).",0.9
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,12,AUTHORIZING CITY OF GLENDALE SPECIAL ELECTION TO PAY OWNERS CERTAIN IMPROVEMENT ASSESSMENTS UPON THEIR PROPERTY,1,'THE RECORD ADVISES A YES VOTE ON NO. 12.',0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,13,AMENDING STATE ATHLETIC COMMISSION INITIATIVE ACT,1,'THE RECORD RECOMMENDS A YES VOTE.' ALLOWS LEGISLATURE TO AMEND BOXING/WRESTLING COMMISSION RULES.,0.95
+CA,Chico Enterprise Record,101500,1932,CA,INITIATIVE,1,WRIGHT ACT REPEAL (STATE PROHIBITION ENFORCEMENT ACT REPEAL),0,NO,0.95
+CA,Chico Enterprise Record,101500,1932,CA,INITIATIVE,2,STATE LIQUOR REGULATION,0,NO,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,3,FORECLOSURE OF MORTGAGES AND TRUST DEEDS,0,NO,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,4,REMOVING RESTRICTION UPON STATE'S HALF OF HIGHWAY TRANSPORTATION TAXES,1,YES,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,5,RACING (PARI-MUTUEL HORSE RACING),0,NO,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,6,WAR VETERANS TAX EXEMPTION,0,NO,0.93
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,7,LEGISLATIVE EXPENSES,0,NO,0.93
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,8,INITIATIVE AND REFERENDUM,1,YES,0.93
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,9,"SCHOOL FUNDS, SALES AND INCOME TAX",0,NO,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,10,AUTHORIZING CITY OF ESCONDIDO TO HOLD STOCK IN MUTUAL WATER COMPANY,1,YES,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,14,EXEMPTING VESSELS FROM TAXATION,1,YES,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,15,DEPOSIT OF PUBLIC MONEYS,1,YES,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,16,TAX LIENS,1,YES,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,17,CITY CHARTERS,1,YES,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,18,AUTHORIZING BOARD OF SUPERVISORS TO DRAFT COUNTY CHARTER,1,YES,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,19,CITY CHARTER PROVISIONS FOR NOMINATION AND ELECTION OF OFFICERS,1,YES,0.95
+CA,Chico Enterprise Record,101500,1932,CA,AMENDMENT,20,COUNTY CHARTER PROVISIONS FOR NOMINATION AND ELECTION OF OFFICERS,1,YES,0.95
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,school_bond,SCHOOL BOND ISSUE,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,recreation_district,RECREATION DISTRICT,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,garbage_trash_repeal,GARBAGE-TRASH ORDINANCE REPEAL,0,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,1,VETERANS' TAX EXEMPTION,0,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,2,LOCAL LIQUOR CONTROL,0,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,3,RAILROAD BRAKEMEN,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,4,AGED AND BLIND AID SCHEME,0,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,5,LEGISLATORS' SALARIES,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,6,ANTI-NETTING OF SALMON,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,7,RESIDENCE OF VOTERS,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,8,SUPERIOR JUDGE VACANCIES,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,9,GOVERNORSHIP SUCCESSION,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,10,SINGLE INITIATIVE SUBJECTS,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,11,MUNICIPAL CHARTERS,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,12,LOCAL LIQUOR OPTION,0,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,13,SENATE REAPPORTIONMENT,0,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,14,STATE HOUSING,0,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,15,FISH NETTING (SOUTHERN),1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,16,CHIROPRACTORS,1,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,17,CIVIL SERVICE EXEMPTIONS,0,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,18,STATE PAYMENT OF TAX LOSSES,0,,0.9
+CA,Chico Enterprise Record,101500,1948,CA,BALLOT MEASURE,19,FISH AND GAME COMMISSION,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,elem_school_bond,ELEMENTARY SCHOOL DISTRICT BOND,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,state_loan,STATE LOAN FOR SCHOOLS,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,hs_school_bond,HIGH SCHOOL DISTRICT BOND,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,paradise_fire_1,PARADISE FIRE DISTRICT PROPOSITION,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,paradise_fire_2,PARADISE FIRE DISTRICT PROPOSITION (2ND),1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,1,PROHIBITS PERSONAL PROPERTY TAXATION,0,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,2,NAMING PERSONS TO OFFICE,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,3,INFERIOR COURT REORGANIZATION,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,4,ELIGIBILITY TO VOTE,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,5,LEGISLATORS ON BOARDS,0,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,6,LEGALIZED GAMBLING,0,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,8,"SALARIES, LOCAL OFFICERS",1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,9,STATE CIVIL SERVICE,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,10,PUBLIC HOUSING,1,,0.9
+CA,Chico Enterprise Record,101500,1950,CA,BALLOT MEASURE,11,LAND TITLES,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,1,VETERANS' BOND ACT,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,2,SCHOOL BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,3,LIQUOR CONTROL ACT,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,4,INCREASED PENSIONS,0,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,5,EXEMPTION OF VESSELS,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,6,PAY BOOST FOR LEGISLATORS,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,7,"LAND TITLES, TORRENS ACT",1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,8,"TAX EXEMPTION, COMMERCIAL AND FISHING BOATS",0,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,9,CHURCH EXEMPTION: PROPERTY UNDER CONSTRUCTION,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,10,LONGER TERMS FOR LEGISLATORS,0,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,11,"TAX EXEMPTION, DISABLED VETERANS",1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,12,VOTING ELIGIBILITY,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,13,VERNON CITY CHARTER,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,14,"COLLEGE EXEMPTION, PROPERTY UNDER CONSTRUCTION",1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,15,"WELFARE EXEMPTION, PROPERTY UNDER CONSTRUCTION",1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,16,"WATER RIGHTS, GOVERNMENT AGENCIES",1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,17,USE OF HIGHWAY FUNDS FOR VEHICLE PARKING,0,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,18,"RESIDENT NONCITIZENS, PROPERTY OWNERSHIP",1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,19,INFERIOR COURT JUDGES,1,,0.9
+CA,Chico Enterprise Record,101500,1954,CA,BALLOT MEASURE,20,FRAMING COUNTY CHARTERS,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,1,VETERANS FARM AND HOME BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,2,CTA AMENDMENT ON STATE SCHOOL AID,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,3,NON-PROFIT SCHOOL TAX EXEMPTION,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,4,PAYMENTS TO NEEDY BLIND,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,5,PROHIBIT SUBVERSIVES IN PUBLIC OFFICE,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,6,SUPERFLUOUS LOYALTY OATH AMENDMENT,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,7,PARTY DESIGNATION ON PRIMARY BALLOT,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,8,"TAX EXEMPTIONS, CHURCH BUILDINGS",1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,9,"TAX EXEMPTIONS, COLLEGE BUILDINGS",1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,10,MCLAIN PROHIBITION ON USE OF PUBLIC MONEY,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,11,MCLAIN PENSION INCREASES,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,12,PERMIT MILITARY SERVICE BY PUBLIC OFFICERS,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,13,MOVE TO ABOLISH CROSS-FILING,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,14,REPEAL OLD RESTRICTIONS ON CHINESE,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,15,"TAXATION, INSURANCE COMPANIES, BANKS",1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,16,CITY BOROUGHS,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,17,CHIROPRACTORS,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,18,COMMUNITY REDEVELOPMENT PROJECTS,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,19,REGARDING GRAND JURIES,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,20,STATE FUNDS FOR PRIVATE HOSPITALS,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,21,REGARDING SUPERIOR JUDGE VACANCIES,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,22,REGARDING PROPERTY TAX STATEMENTS,0,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,23,PROPERTY DESCRIPTION,1,,0.9
+CA,Chico Enterprise Record,101500,1952,CA,BALLOT MEASURE,24,SCHOOL CONSTRUCTION BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,1,STATE BONDS FOR VETERANS' LOANS,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,2,STATE BONDS FOR SCHOOL CONSTRUCTION,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,3,STATE BONDS FOR COLLEGE CONSTRUCTION,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,4,OIL AND GAS CONSERVATION INITIATIVE,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,5,REPEAL FOOD REQUIREMENT IN LIQUOR ESTABLISHMENTS,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,6,EXEMPT CHURCH PARKING AREAS FROM LOCAL PROPERTY TAXES,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,7,CHANGE NAME OF STATE ASSEMBLY,0,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,8,RECESS PERIODS IN LEGISLATIVE BUDGET SESSIONS,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,9,PERMIT BOROUGHS IN CHARTER COUNTIES,0,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,10,CONTRACT ARCHITECTS AND ENGINEERS,0,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,11,ALLOW ONE YEAR TO FRAME COUNTY CHARTERS,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,12,"STATE INDEBTEDNESS, END BOND PUBLIC NOTICE",0,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,13,REPEAL UNCONSTITUTIONAL ALIEN LAND LAW,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,14,REPEAL LIMITS ON LEGISLATIVE EXPENSE,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,15,PERMIT GOVERNMENTS TO OWN MUTUAL WATER STOCKS,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,16,FIXING OF TIME FOR CIVIL AND CRIMINAL APPEALS,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,17,CONSTITUTIONAL PROVISIONS RELATING TO JUDICIARY,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,18,PERMIT NON-LAWYER JUDGES IN SUPERSEDING LOWER COURT,0,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,19,PERMIT REDEFINING OF STATE BOUNDARIES,1,,0.9
+CA,Chico Enterprise Record,101500,1956,CA,BALLOT MEASURE,city_1,CITY SPECIAL TAX UP TO 28 CENTS FOR CITY RETIREMENT PLAN,0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,1,VETERANS BOND ACT,1,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,2,SCHOOL BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,3,STATE CONSTRUCTION BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,4,HARBOR DEVELOPMENT BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,5,COMPENSATION OF LEGISLATORS,0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,6,STATE INDEBTEDNESS NOTICE,1,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,7,GOVERNMENT FUNCTIONS IN WARTIME DISASTER,1,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,8,PRESIDENTIAL VOTING,0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,9,GENERAL LEGISLATIVE SESSIONS,0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,10,"EMINENT DOMAIN, AIRPORTS AND SCHOOLS",0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,11,LOCAL STREET AND ROAD BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,12,LEGISLATOR AS NOTARY,0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,13,SUPT. OF PUBLIC INSTRUCTION CHANGE,0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,14,COMPENSATION OF LOCAL OFFICERS,0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,15,BOXING MATCHES,1,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,16,TAXATION OF SCHOOL PROPERTY,1,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,17,"CHANGE IN STATE SALES, USE AND INCOME TAX RATES",0,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,18,EMPLOYER-EMPLOYEE RELATIONS,1,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,chico_low_rent_housing,CHICO LOW-RENT HOUSING,1,,0.9
+CA,Chico Enterprise Record,101500,1958,CA,BALLOT MEASURE,annexation,ANNEXATION PROPOSITION,1,,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,1,STATE WATER BONDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,2,TERMS OF ASSEMBLYMEN,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,3,DISABLED VETS TAX EXEMPTION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,4,COLLEGE TRUSTEE TERMS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,5,LEGISLATIVE SALARIES,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,6,GOLF COURSE ASSESSMENT CHANGE,0,NO,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,7,CHIROPRACTIC BOARD,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,8,EX-FELON VOTING RIGHTS CHANGE,0,NO,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,9,CITIZENS CLAIMS AGAINST CITIES,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,10,ADMINISTRATION OF JUSTICE,0,NO,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,11,VETERANS TAX EXEMPTION LIMITATION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,12,CONSTITUTION OBSOLESCENCE CLEANUP,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,13,EXTENDS APPEAL JURISDICTION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,14,FUNDS FOR CITY GRADE CROSSINGS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1960,CA,BALLOT MEASURE,15,STATE SENATE REAPPORTIONMENT,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,1A,HIGHER EDUCATION BONDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,1,COMPENSATION OF LEGISLATORS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,2,VETERANS TAX EXEMPTION IN HOUSING PROJECTS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,3,VETERANS TAX EXEMPTION CHANGES,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,4,ASSESSMENT OF AGRICULTURAL LANDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,5,WORKMAN'S COMPENSATION CHANGES,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,6,STATE INDEBTEDNESS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,7,CONSTITUTION REVISION,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,8,GENERAL LEGISLATIVE SESSIONS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,9,GENERAL OBLIGATION BOND FUND,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,10,"WELFARE EXEMPTION, LEASED PROPERTY",0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,11,"ASSESSMENT PRIVILEGES, HISTORICAL AREAS",0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,12,AID TO WIDOWS OF VETERANS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,13,EXTENSION OF COLLEGE TAX EXEMPTIONS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,14,SALE OF TIDELANDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,15,COUNTY TAX APPEALS BOARDS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,16,ELIMINATION OF OBSOLETE CONSTITUTION PROVISIONS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,17,PAY OF LEGISLATORS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,18,ALCOHOLIC BEVERAGE APPEALS BOARD,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,19,COMPENSATION OF LOCAL OFFICERS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,20,BOXING AND WRESTLING CONTESTS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,21,CHANGE PROCEDURES FOR REELECTION OF SUPERIOR COURT JUDGES,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,22,OSTEOPATHS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,23,SENATE REAPPORTIONMENT,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,24,SUBVERSIVE ACTIVITIES,0,NO,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,,CHICO PROP A - CITY SCHOOL DISTRICT BONDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1962,CA,BALLOT MEASURE,,CHICO PROP B - HIGH SCHOOL BONDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,1,RECREATION BONDS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,2,STATE COLLEGE BONDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,3,STATE SCHOOL BUILDING BONDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,4,VETERAN'S EXEMPTIONS FOR CALIFORNIANS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,5,LIBERALIZES WIDOW'S VET EXEMPTIONS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,6,TAXATION OF OUT-OF-STATE INSURERS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,7,INVESTMENT OF PUBLIC RETIREMENT FUNDS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,8,SUPERIOR COURT JUDGES,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,9,SUPERVISORIAL DISTRICT BOUNDARIES,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,10,SCHOOL LAND FUND ACCOUNTING,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,11,CITY-COUNTY SERVICE CONTRACTS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,12,PROPERTY TAX DISASTER RELIEF,0,NO,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,13,NAMING CORPORATIONS IN CONSTITUTION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,14,TO REPEAL RUMFORD HOUSING ACT,1,YES,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,15,TO PROHIBIT PAY TV,0,NO,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,16,PRIVATE LOTTERY,0,NO,0.9
+CA,Chico Enterprise Record,101500,1964,CA,BALLOT MEASURE,17,TO END RAILROAD FEATHERBEDDING,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,1A,CONSTITUTIONAL REVISION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,1,PUBLIC RETIREMENT FUNDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,2,BONDS FOR HIGHER EDUCATION,1,FOR,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,3,OPEN SPACE CONSERVATION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,4,INDEBTEDNESS OF LOCAL AGENCIES,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,5,PROPERTY TAX DISASTER RELIEF,0,NO,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,6,LEGISLATIVE PROCEDURE,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,7,COMPENSATION OF COUNTY OFFICERS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,8,TAXATION OF INSURANCE COMPANIES,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,9,BLIND VETERANS TAX EXEMPTION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,10,LOANS OF PUBLIC FUNDS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,11,"CONTROL OF BOXING, WRESTLING",1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,12,COUNTY ASSESSMENT APPEALS BOARDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,13,PROPERTY TAX STATEMENT,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,14,SIMPLIFY INCOME TAX FORM,1,YES,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,15,ELIMINATE EDUCATION REQUIREMENT FOR VOTING,0,NO,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,16,OBSCENITY INITIATIVE,0,NO,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,E,MENTAL HEALTH ORDINANCE,0,NO - COUNTY/DISTRICT MEASURE,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,F,JUNIOR COLLEGE DISTRICT,1,YES - COUNTY/DISTRICT MEASURE,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,C,MUNICIPAL BUILDING,1,YES - CHICO BOND MEASURE,0.9
+CA,Chico Enterprise Record,101500,1966,CA,BALLOT MEASURE,D,MUNICIPAL SERVICE CENTER,1,YES - CHICO BOND MEASURE,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,1A,PROPERTY TAX EXEMPTION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,1,CONSTITUTION REVISION,0,NO,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,2,PUBLIC PROPERTY TAX PRIVILEGE,0,NO,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,3,STATE EDUCATION BONDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,4,PERSONAL INCOME TAX FORMS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,5,HOSPITAL LOANS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,6,INSURANCE TAX CLARIFICATION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,7,LOCAL USE OF STATE FUNDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,8,SALES TAX USE CHANGE,0,NO,0.9
+CA,Chico Enterprise Record,101500,1968,CA,BALLOT MEASURE,9,LIMITATION TAX PLAN,0,NO,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,1,CLEAN WATER BONDS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,2,VACANCIES IN STATE OFFICES,0,NO,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,3,SUBMISSION OF STATE BUDGET,0,NO,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,4,PUBLIC SCHOOL APPROPRIATION,0,NO,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,5,UC REGENTS PUBLIC MEETINGS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,6,TEACHERS RETIREMENT FUND,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,7,SPEAKER AND COLLEGE BOARD,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,8,PUBLIC INSTRUCTION DEPUTY,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,9,COUNTY SCHOOL SUPERINTENDENTS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,10,RELAX INTEREST LIMITS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,11,CHIROPRACTOR RULES,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,12,SUPERVISORIAL PAY RULE,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,13,VET EXEMPTION EXTENSIONS,0,NO,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,14,STATE CIVIL SERVICE,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,15,STATE CONSTITUTION REVISION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,16,CONSTITUTIONAL AMENDMENTS,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,17,STATE CONSTITUTION REVISION,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,18,CHANGE IN GAS TAX USE,0,NO,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,19,TOUGHER USURY LAW,1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,20,"RECREATION, FISH, WILDLIFE BONDS",1,YES,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,B,COUNTY CHARTER REVISION,1,YES - COUNTY MEASURE,0.9
+CA,Chico Enterprise Record,101500,1970,CA,BALLOT MEASURE,C,BUTTE JUNIOR COLLEGE BOND,1,YES - COUNTY MEASURE,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,COMMUNITY COLLEGE BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,HEALTH SCIENCE BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,POLLUTION REVENUE BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,LEGISLATIVE REORGANIZATION,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,WIDER SCHOOL POWERS,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,CONSTITUTION REVISION,1,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,PRIMARY VOTING CHANGE,1,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,POLLUTION TAX EXEMPTION,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,REDUCED BOND VOTE,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,BLIND VETERANS EXEMPTION,1,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,PRIVACY RIGHT CHANGE,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,DISABLED VETERANS EXEMPTION,1,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,COMPENSATION CHANGE,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,WATSON TAX CHANGE,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,STATE EMPLOYE PAY CHANGE,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,HIGHWAY PATROL PAY CHANGE,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,RESTORE DEATH PENALTY,1,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,OBSCENITY INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,MARIJUANA INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,COASTAL ZONE INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,PROHIBIT FORCED BUSING,1,,0.9
+CA,Chico Enterprise Record,101500,1972,CA,BALLOT MEASURE,,FARM LABOR RIGHTS,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,SCHOOL BONDS AND EARTHQUAKE RECONSTRUCTION,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,CHARTERS FOR COUNTIES AND CITIES,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,POSTSECONDARY EDUCATION COMMISSION,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,REGENT TERMS OF OFFICE,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,RESIDENCE OF LOCAL GOVT. EMPLOYES,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,ERTY,PROPERTY TAX EXEMPTIONS,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,DECLARATION OF RIGHTS,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,TAXATION AND STATE FUNDS,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,RECALL OF PUBLIC OFFICERS,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,RIGHT TO VOTE,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,MISCELLANEOUS LANGUAGE CHANGES,0,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,PUBLIC UTILITIES,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,SAN DIEGO JUDICIAL,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,STATE COLLEGE SYSTEM,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,LOW RENT HOUSING VOTE REPEAL,0,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,"STUDENT TUITION, UNIVERSITY",0,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,"WILD RIVERS, DAM HALT",0,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,COUNTY CHARTER AMENDMENT,1,,0.9
+CA,Chico Enterprise Record,101500,1974,CA,BALLOT MEASURE,,CHICO SCHOOL REVENUE LIMIT,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,HOUSING FINANCE BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,STATE PARK BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,RESIDENTIAL ENERGY CONSERVATION BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,UNIVERSITY COMPETITIVE BIDDING,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,INTEREST RATES,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,VETO TIME EXTENSION,0,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,IMPROVED REVIEW OF JUDGES,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,COUNTY SCHOOL SUPERINTENDENT CHANGE,0,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,CONSTITUTIONAL OFFICES CONFIRMATION,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,ERTY,PROPERTY TAX VOTING RIGHT,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,TAX RATIO ADJUSTMENTS,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,STATE ENERGY LOANS,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,GREYHOUND DOG RACING,0,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,FARM LABOR INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,"CHIROPRACTIC EXAMS, LICENSES",1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,AIRGUN PROTECTIVE REGULATIONS,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,BENEFIT PROTECTION AGAINST ZONING,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,MUNICIPAL ELECTION DATE CHANGE,1,,0.9
+CA,Chico Enterprise Record,101500,1976,CA,BALLOT MEASURE,,COUNCIL TERM STARTING DATE,1,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,VETERANS BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,PUBLIC UTILITIES AMENDMENT,1,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,STATE SURPLUS COASTAL PROPERTY,1,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,"CHIROPRACTORS, AMENDMENT",1,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,REGULATION OF SMOKING,0,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,"SCHOOL EMPLOYEES, HOMOSEXUALITY",1,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,MURDER PENALTY STATUTE,1,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,ERTY,PROPERTY TAXATION AMENDMENT,1,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,COAL-BURNING POWER PLANT,1,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,TAXPAYER SUBSIDIZED BUS SYSTEM,0,,0.9
+CA,Chico Enterprise Record,101500,1978,CA,BALLOT MEASURE,,EXTRA LOCAL TAXES FOR BUSES,0,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,PARKLANDS ACQUISITION AND DEVELOPMENT,0,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,LAKE TAHOE ACQUISITION BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,INSURANCE GUARANTEE FUNDS,0,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,"TAXATION, LOCAL BONDS, TWO-THIRDS VOTE",1,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,TAXATION BREAK AFTER DISASTER,1,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,"JURORS, CIVIL CASE MODIFICATION",1,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,"TAXATION, SOLAR ENERGY BREAK",1,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,WATER RESOURCES FREEZE,0,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,SAFE DRINKING WATER BOND LAW,1,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,SMOKING INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,JUDGES SALARY LIMIT CUT,1,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,AG LAND INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,"SHERIFF WAGES, RETIREMENT INITIATIVE",0,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,CHESTNUT AND CHICO STATE PARKING GARAGE,1,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,$5.9 MILLION WATER SYSTEM BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1980,CA,BALLOT MEASURE,,$1.5 MILLION STATE LOAN CONTRACT,0,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,1,PROPOSITION 1 - SCHOOL CONSTRUCTION BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,2,PROPOSITION 2 - JAIL CONSTRUCTION BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,3,PROPOSITION 3 - CAL-VET FARM-HOME BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,4,PROPOSITION 4 - LAKE TAHOE LAND ACQUISITION,1,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,5,PROPOSITION 5 - HOME-BUYER BOND ACT,0,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,6,PROPOSITION 6 - PENSION FUND INVESTING,0,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,7,PROPOSITION 7 - FIRE-SAFETY TAX EXEMPTION,1,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,8,PROPOSITION 8 - LOCAL GOVERNMENT FUND TRANSFERS,1,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,9,PROPOSITION 9 - SCHOOL TEXTBOOK LOANS,1,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,10,PROPOSITION 10 - COURT CONSOLIDATIONS,0,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,11,PROPOSITION 11 - BEER-SODA DEPOSIT LAW,0,OCR UNCLEAR; LIKELY NO BASED ON CONTEXT,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,12,PROPOSITION 12 - NUCLEAR WEAPONS FREEZE,1,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,13,PROPOSITION 13 - WATER RESOURCES INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,14,PROPOSITION 14 - REAPPORTIONMENT COMMISSION,1,,0.9
+CA,Chico Enterprise Record,101500,1982,CA,BALLOT MEASURE,15,PROPOSITION 15 - GUN CONTROL INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,25,PROPOSITION 25 - CLEAN WATER BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,26,PROPOSITION 26 - SCHOOL BUILDING BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,27,PROPOSITION 27 - HAZARDOUS CLEANUP BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,28,PROPOSITION 28 - SAFE DRINKING WATER BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,29,PROPOSITION 29 - VETERANS BOND ACT BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,30,PROPOSITION 30 - SENIOR CITIZEN CENTER BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,31,PROPOSITION 31 - FIRE PREVENTION SYSTEM BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,32,PROPOSITION 32 - SUPREME COURT REVIEW OPTION,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,33,PROPOSITION 33 - DISABLED TAX POSTPONEMENT,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,34,PROPOSITION 34 - HISTORICAL BUILDING EXEMPTION,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,36,PROPOSITION 36 - JARVIS 'SAVE 13' INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,37,PROPOSITION 37 - CALIFORNIA STATE LOTTERY,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,38,PROPOSITION 38 - ENGLISH-ONLY VOTING MATERIALS,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,39,PROPOSITION 39 - REAPPORTIONMENT,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,40,PROPOSITION 40 - CAMPAIGN FINANCING INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,41,PROPOSITION 41 - WELFARE REFORM INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,,BUTTE COUNTY MEASURE A - ELECTIVE OFFICE VACANCIES,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,,BUTTE COUNTY MEASURE B - SHERIFF'S SPECIAL DISTRICT TAX,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,,CITY OF CHICO MEASURE C - CHANGE MUNICIPAL ELECTION DATE,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,,CITY OF CHICO MEASURE D - QUALIFICATION FOR PUBLIC OFFICE,1,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,,CITY OF CHICO MEASURE E - INCREASE IN CITY COUNCIL PAY,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,,CITY OF CHICO MEASURE F - SALE OR EXCHANGE OF CITY PROPERTY,0,,0.9
+CA,Chico Enterprise Record,101500,1984,CA,BALLOT MEASURE,,CHICO UNIFIED SCHOOL DISTRICT MEASURE G - SPECIAL SCHOOL CONSTRUCTION TAX,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,57,PROPOSITION 57 - RETIREMENT BENEFITS (CONSTITUTIONAL OFFICERS),1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,58,PROPOSITION 58 - TAX EXEMPTION FOR REALTY TRANSFERS (PARENT-CHILD),0,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,59,PROPOSITION 59 - ELECTED DISTRICT ATTORNEY,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,60,PROPOSITION 60 - TAX ON REPLACEMENT RESIDENCES (SENIORS),0,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,62,PROPOSITION 62 - VOTE ON TAXATION,0,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,53,PROPOSITION 53 - SCHOOL BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,54,PROPOSITION 54 - PRISON BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,55,PROPOSITION 55 - WATER BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,56,PROPOSITION 56 - HIGHER EDUCATION BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,61,PROPOSITION 61 - PAY LIMITS,0,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,63,PROPOSITION 63 - ENGLISH AS OFFICIAL LANGUAGE,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,64,PROPOSITION 64 - AIDS QUARANTINE,0,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,65,PROPOSITION 65 - CHEMICAL RESTRICTIONS,0,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,,BUTTE COUNTY MEASURE A - STATE TO ASSUME MANDATED COSTS,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,,BUTTE COUNTY MEASURE B - FILLING COUNTY VACANCIES,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,,BUTTE COUNTY MEASURE C - COUNTY SCHOOL SUPT. APPOINTMENT,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,,BUTTE COUNTY MEASURE D - CONSOLIDATING OFFICE,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,,BUTTE COUNTY MEASURE E - LIMITING WELFARE EXPENSES,1,,0.9
+CA,Chico Enterprise Record,101500,1986,CA,BALLOT MEASURE,,CHICO MEASURE F - COMMUNITY CENTER,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,84,PROPOSITION 84 - HOUSING AND HOMELESS BOND ACT,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,95,PROPOSITION 95 - HUNGER AND HOMELESSNESS FUNDING,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,104,PROPOSITION 104 - AUTO INSURANCE (NO-FAULT),0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,78,PROPOSITION 78,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,79,PROPOSITION 79,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,80,PROPOSITION 80,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,81,PROPOSITION 81,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,82,PROPOSITION 82,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,83,PROPOSITION 83,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,85,PROPOSITION 85,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,86,PROPOSITION 86,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,87,PROPOSITION 87,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,88,PROPOSITION 88,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,89,PROPOSITION 89,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,90,PROPOSITION 90,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,91,PROPOSITION 91,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,92,PROPOSITION 92,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,93,PROPOSITION 93,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,94,PROPOSITION 94,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,96,PROPOSITION 96,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,97,PROPOSITION 97,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,98,PROPOSITION 98,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,99,PROPOSITION 99,1,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,100,PROPOSITION 100,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,101,PROPOSITION 101,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,102,PROPOSITION 102,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,103,PROPOSITION 103,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,105,PROPOSITION 105,0,,0.9
+CA,Chico Enterprise Record,101500,1988,CA,BALLOT MEASURE,106,PROPOSITION 106,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,,CONFIRMATION OF JUDGES,1,JUDICIAL,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,H,MEASURE H,1,CHICO AREA RECREATION DISTRICT ADVISORY VOTE,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,124,PROPOSITION 124 - HOSPITAL DISTRICTS,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,125,PROPOSITION 125 - GAS TAX FOR TRANSIT,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,126,PROPOSITION 126 - ALCOHOL BEVERAGE TAX,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,127,PROPOSITION 127 - EARTHQUAKE SAFETY,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,128,PROPOSITION 128 - ENVIRONMENTAL BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,129,PROPOSITION 129 - DRUG ENFORCEMENT BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,130,PROPOSITION 130 - FOREST ACQUISITION,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,131,PROPOSITION 131 - OFFICE TERM LIMITS,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,132,PROPOSITION 132 - MARINE RESOURCES,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,133,PROPOSITION 133 - DRUG ENFORCEMENT,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,134,PROPOSITION 134 - ALCOHOL SURTAX,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,135,PROPOSITION 135 - PESTICIDE REGULATION,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,136,PROPOSITION 136 - TWO-THIRDS TAX VOTE,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,137,PROPOSITION 137 - INITIATIVE REFORM,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,138,PROPOSITION 138 - FORESTRY PROGRAMS,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,139,PROPOSITION 139 - PRISON INMATE LABOR,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,140,PROPOSITION 140 - OFFICE TERM LIMITS,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,141,PROPOSITION 141 - TOXIC DISCHARGE,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,142,PROPOSITION 142 - VETERAN'S BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,143,PROPOSITION 143 - HIGHER EDUCATION,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,144,PROPOSITION 144 - PRISON CONSTRUCTION,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,145,PROPOSITION 145 - HOUSING BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,146,PROPOSITION 146 - SCHOOL FACILITIES,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,147,PROPOSITION 147 - COUNTY JAIL BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,148,PROPOSITION 148 - WATER RESOURCES,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,149,PROPOSITION 149 - PARK PURCHASE BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,150,PROPOSITION 150 - COUNTY COURTHOUSE,0,,0.9
+CA,Chico Enterprise Record,101500,1990,CA,BALLOT MEASURE,151,PROPOSITION 151 - CHILD CARE BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,Q,MEASURE Q - BUTTE COUNTY SMOKING ORDINANCE,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,R,MEASURE R - CHICO SMOKING ORDINANCE,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,S,MEASURE S - CHICO SPORTS COMPLEX,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,155,PROPOSITION 155 - SCHOOL CONSTRUCTION BONDS,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,156,PROPOSITION 156 - RAIL PASSENGER AND CLEAN AIR BOND ACT OF 1992,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,157,PROPOSITION 157 - TOLL HIGHWAYS: TERMINATION OF TOLLS,1,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,158,PROPOSITION 158 - ESTABLISH OFFICE OF CALIFORNIA ANALYST,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,159,PROPOSITION 159 - ESTABLISH AUDITOR GENERAL,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,160,PROPOSITION 160 - PROPERTY TAX VETERANS EXEMPTION,1,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,161,"PROPOSITION 161 - PHYSICIAN-ASSISTED DEATH, TERMINAL CONDITION",0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,162,PROPOSITION 162 - PUBLIC EMPLOYEES RETIREMENT SYSTEM,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,163,PROPOSITION 163 - REPEAL TAXATION OF FOOD PRODUCTS,1,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,164,PROPOSITION 164 - CONGRESSIONAL TERM LIMITS,1,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,165,"PROPOSITION 165 - REFORM WELFARE, BUDGET PROCESS",1,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,166,PROPOSITION 166 - BASIC HEALTH CARE COVERAGE,0,,0.9
+CA,Chico Enterprise Record,101500,1992,CA,BALLOT MEASURE,167,PROPOSITION 167 - RAISE TAXES,0,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,181,PROPOSITION 181,0,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,183,PROPOSITION 183,0,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,184,PROPOSITION 184,1,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,185,PROPOSITION 185,0,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,186,PROPOSITION 186,0,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,187,PROPOSITION 187,1,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,188,PROPOSITION 188,0,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,189,PROPOSITION 189,0,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,190,PROPOSITION 190,1,,0.9
+CA,Chico Enterprise Record,101500,1994,CA,BALLOT MEASURE,191,PROPOSITION 191,1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,204,PROPOSITION 204 - WATER BOND,1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,205,PROPOSITION 205 - JAIL BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,206,PROPOSITION 206 - CAL VET BONDS,1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,207,PROPOSITION 207 - LAWYER FEE PROTECTION,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,208,PROPOSITION 208 - CAMPAIGN FINANCE REFORM,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,209,PROPOSITION 209 - CALIFORNIA CIVIL RIGHTS INITIATIVE,1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,210,PROPOSITION 210 - MINIMUM WAGE INCREASE,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,211,PROPOSITION 211 - SECURITIES FRAUD LAWSUITS,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,212,PROPOSITION 212 - CAMPAIGN FINANCE REFORM,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,213,PROPOSITION 213 - LIMITS MONETARY REWARDS FOR LAWBREAKERS,1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,214,PROPOSITION 214 - HEALTH CARE REFORM,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,215,PROPOSITION 215 - MEDICAL MARIJUANA INITIATIVE,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,216,PROPOSITION 216 - HEALTH CARE REFORM,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,217,PROPOSITION 217 - CHANGES TOP INCOME BRACKETS,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,218,"PROPOSITION 218 - VOTING ON TAX, FEE, ASSESSMENT INCREASES",1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,C,MEASURE C - AMENDS GENERAL PLAN/ZONING ORDINANCE,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,D,MEASURE D - MANDATES PUBLIC SAFETY BUDGET FUNDING,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,E,MEASURE E - MANDATES PUBLIC SAFETY BUDGET FUNDING,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,F,MEASURE F - GROUNDWATER EXTRACTION REGULATION,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,G,MEASURE G - GROUNDWATER RESOURCES PROTECTION,1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,H,MEASURE H - PROHIBITS SMOKING IN BARS,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,I,MEASURE I - ALLOWS SPECIAL ELECTIONS BY MAIL,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,J,MEASURE J - DROPS ROLL CALL AT COUNCIL MEETINGS,0,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,K,MEASURE K - TRANSFERS PARK & PLAYGROUND COMMISSION GOVERNING POWERS TO THE CITY COUNCIL,1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,L,MEASURE L - TRANSFERS AIRPORT COMMISSION GOVERNING POWERS TO THE CITY COUNCIL,1,,0.9
+CA,Chico Enterprise Record,101500,1996,CA,BALLOT MEASURE,M,MEASURE M - CHANGES DUE DATE FOR CITY'S ANNUAL AUDIT,1,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,1,PROPOSITION 1 - CONTAMINATED PROPERTY TAX RELIEF,1,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,2,PROPOSITION 2 - REQUIRES ROAD TAXES GO TO ROAD PROJECTS,1,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,3,PROPOSITION 3 - CORRECTS OPEN PRIMARY LAW ERROR TO ALLOW DELEGATE SELECTION,1,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,4,PROPOSITION 4 - RESTRICTS EFFECTIVE WILDLIFE MANAGEMENT,0,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,5,PROPOSITION 5 - AUTHORIZES UNREGULATED INDIAN CASINO GAMING,0,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,6,PROPOSITION 6 - PROHIBITS SALE OF HORSEMEAT FOR HUMAN CONSUMPTION,0,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,7,PROPOSITION 7 - $218 MILLION ANNUAL RETROFITTING TAX CREDITS,0,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,8,PROPOSITION 8 - CREATES UNNEEDED POST OF EDUCATION CZAR,0,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,9,PROPOSITION 9 - PREVENTS UTILITY RATE DEREGULATION,0,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,10,PROPOSITION 10 - NEW ECHILDHOOD DEVELOPMENT BUREAUCRACY,0,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,11,PROPOSITION 11 - ALLOWS SHARING OF SALES AND USE TAXES,0,,0.9
+CA,Chico Enterprise Record,101500,1998,CA,BALLOT MEASURE,1A,"PROPOSITION 1A - $15.2 BILLION ($9.2 BILLION PRINCIPAL, $6 BILLION INTEREST) SCHOOL BONDS",0,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,U,MEASURE U (PARADISE TREE ORDINANCE),0,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,V,MEASURE V (CHICO HOUSING),1,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,W,MEASURE W (CHICO LEGAL SUMMARIES),1,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,X,MEASURE X (CHICO CHARTER AMENDMENT),1,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,32,PROPOSITION 32 - VETERANS BOND,1,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,33,PROPOSITION 33 - LEGISLATORS' RETIREMENT SYSTEM,1,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,34,PROPOSITION 34 - CAMPAIGN FINANCE,0,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,35,PROPOSITION 35 - PUBLIC WORKS PROJECTS,1,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,36,PROPOSITION 36 - DRUG TREATMENT,0,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,37,PROPOSITION 37 - FEES AND TAXES,0,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,38,PROPOSITION 38 - SCHOOL VOUCHERS,0,,0.9
+CA,Chico Enterprise Record,101500,2000,CA,BALLOT MEASURE,39,PROPOSITION 39 - SCHOOL BOND REQUIREMENTS,1,,0.9
+CA,Chico Enterprise Record,101500,2010,CA,BALLOT MEASURE,19,PROPOSITION 19,0,,0.9
+CA,Chico Enterprise Record,101500,2010,CA,BALLOT MEASURE,20,PROPOSITION 20,1,,0.9
+CA,Chico Enterprise Record,101500,2010,CA,BALLOT MEASURE,21,PROPOSITION 21,0,,0.9
+CA,Chico Enterprise Record,101500,2010,CA,BALLOT MEASURE,22,PROPOSITION 22,1,,0.9
+CA,Chico Enterprise Record,101500,2010,CA,BALLOT MEASURE,23,PROPOSITION 23,1,,0.9
+CA,Chico Enterprise Record,101500,2010,CA,BALLOT MEASURE,24,PROPOSITION 24,0,,0.9
+CA,Chico Enterprise Record,101500,2010,CA,BALLOT MEASURE,25,PROPOSITION 25,0,,0.9
+CA,Chico Enterprise Record,101500,2010,CA,BALLOT MEASURE,26,PROPOSITION 26,0,,0.9
+CA,Chico Enterprise Record,101500,2010,CA,BALLOT MEASURE,27,PROPOSITION 27,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,S,MEASURE S,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,T,MEASURE T,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,U,MEASURE U,1,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,V,MEASURE V,1,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,1,PROPOSITION 1,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,2,PROPOSITION 2,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,3,PROPOSITION 3,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,4,PROPOSITION 4,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,5,PROPOSITION 5,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,6,PROPOSITION 6,1,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,7,PROPOSITION 7,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,8,PROPOSITION 8,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,10,PROPOSITION 10,0,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,11,PROPOSITION 11,1,,0.9
+CA,Chico Enterprise Record,101500,2018,CA,BALLOT MEASURE,12,PROPOSITION 12,0,,0.9
+CA,Chico Enterprise Record,101500,2019,CA,BALLOT MEASURE,68,PROPOSITION 68,0,,0.9
+CA,Chico Enterprise Record,101500,2019,CA,BALLOT MEASURE,69,PROPOSITION 69,1,,0.9
+CA,Chico Enterprise Record,101500,2019,CA,BALLOT MEASURE,70,PROPOSITION 70,0,,0.9
+CA,Chico Enterprise Record,101500,2019,CA,BALLOT MEASURE,71,PROPOSITION 71,1,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,14,PROPOSITION 14,0,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,15,PROPOSITION 15,0,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,16,PROPOSITION 16,1,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,17,PROPOSITION 17,0,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,18,PROPOSITION 18,1,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,19,PROPOSITION 19,0,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,20,PROPOSITION 20,1,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,21,PROPOSITION 21,0,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,22,PROPOSITION 22,1,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,23,PROPOSITION 23,0,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,24,PROPOSITION 24,0,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,25,PROPOSITION 25,0,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,E,MEASURE E,1,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,G,MEASURE G,1,,0.9
+CA,Chico Enterprise Record,101500,2020,CA,BALLOT MEASURE,D,MEASURE D,0,,0.9
+CA,Chico Enterprise Record,101500,2022,CA,BALLOT MEASURE,H,MEASURE H (CHICO),1,LOCAL CHICO MEASURE FOR $24M ANNUAL REVENUE INCREASE. EDITORIAL ENDORSES YES.,0.9
+CA,Chico Enterprise Record,101500,2022,CA,BALLOT MEASURE,L,MEASURE L (CHICO),0,LOCAL CHICO MEASURE; EDITORIAL OPPOSES ADDITIONAL 'QUALITY OF LIFE' LEGISLATION.,0.9
+CA,Chico Enterprise Record,101500,2022,CA,BALLOT MEASURE,26,PROPOSITION 26 (CA),0,STATE PROPOSITION ON TRIBAL GAMING. EDITORIAL OPPOSES.,0.9
+CA,Chico Enterprise Record,101500,2022,CA,BALLOT MEASURE,27,PROPOSITION 27 (CA),0,"ONLINE SPORTS BETTING. EDITORIAL OPPOSES — OUT-OF-STATE INTERESTS PROFIT, GAMBLING ADDICTION RISK.",0.9
+CA,Chico Enterprise Record,101500,2022,CA,BALLOT MEASURE,29,PROPOSITION 29 (CA),0,DIALYSIS CLINIC REGULATION. EDITORIAL OPPOSES.,0.9
+CA,Chico Enterprise Record,101500,2022,CA,BALLOT MEASURE,30,PROPOSITION 30 (CA),0,TAX ON HIGH-INCOME EARNERS FOR EV/WILDFIRE FUNDING ('LYFT TAX GRAB'). EDITORIAL OPPOSES.,0.9
+CA,Chico Enterprise Record,101500,2022,CA,BALLOT MEASURE,31,PROPOSITION 31 (CA),1,BAN FLAVORED TOBACCO. EDITORIAL ENDORSES YES.,0.9
+CA,Chico Enterprise Record,101500,1966,CA,REFERENDUM,,JUDICIAL RETENTION (ALL JUSTICES),1,PAPER RECOMMENDED YES ON ALL JUDICIAL RETENTION VOTES - MOVED FROM CAND CSV STAGE 2 QA,0.9
+CA,Chico Enterprise Record,101500,1970,CA,REFERENDUM,,JUDICIAL RETENTION (ALL JUSTICES),1,PAPER RECOMMENDED YES ON ALL JUDICIAL RETENTION VOTES - MOVED FROM CAND CSV STAGE 2 QA,0.9
