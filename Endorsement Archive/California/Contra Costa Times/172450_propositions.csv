@@ -8,7 +8,7 @@ CA,Contra Costa Times,172450,1962,CA,PROPOSITION,3,Building bonds,1,Times Recomm
 CA,Contra Costa Times,172450,1962,CA,PROPOSITION,4,Housing bonds,1,Times Recommends Yes,0.94
 CA,Contra Costa Times,172450,1962,CA,PROPOSITION,5,Park bonds,0,Times Recommends No,0.93
 CA,Contra Costa Times,172450,1962,CA,PROPOSITION,6,Daylight Saving,1,Times Recommends Yes,0.94
-CA,Contra Costa Times,172450,1962,CA,COUNTY MEASURE,,County park bonds,1,Times Recommends Yes on county park bond issue,0.92
+CA,Contra Costa Times,172450,1962,CA,REFERENDUM,,County park bonds,1,Times Recommends Yes on county park bond issue,0.92
 CA,Contra Costa Times,172450,1964,CA,PROPOSITION,1,"Beach, park bond",1,Times Recommends YES on State Proposition 1,0.95
 CA,Contra Costa Times,172450,1964,CA,PROPOSITION,2,"College, jr. college bonds",1,Times Recommends YES,0.95
 CA,Contra Costa Times,172450,1964,CA,PROPOSITION,3,School building bonds,1,Times Recommends YES,0.95
@@ -26,8 +26,8 @@ CA,Contra Costa Times,172450,1964,CA,PROPOSITION,14,Sale and rental of property 
 CA,Contra Costa Times,172450,1964,CA,PROPOSITION,15,Pay TV,0,Times Recommends NO,0.95
 CA,Contra Costa Times,172450,1964,CA,PROPOSITION,16,Lottery,0,Times Recommends NO,0.95
 CA,Contra Costa Times,172450,1964,CA,PROPOSITION,17,Railroad train crews,0,Times Recommends NO,0.95
-CA,Contra Costa Times,172450,1964,CA,BALLOT MEASURE,,Acalanes school unification,1,Times Recommends YES on local school unification,0.9
-CA,Contra Costa Times,172450,1964,CA,BALLOT MEASURE,,San Ramon Valley school unification,0,Times Recommends NO on local school unification,0.9
+CA,Contra Costa Times,172450,1964,CA,REFERENDUM,,Acalanes school unification,1,Times Recommends YES on local school unification,0.9
+CA,Contra Costa Times,172450,1964,CA,REFERENDUM,,San Ramon Valley school unification,0,Times Recommends NO on local school unification,0.9
 CA,Contra Costa Times,172450,1966,CA,BOND,,Martinez Water Bonds,1,Times Recommends YES,0.9
 CA,Contra Costa Times,172450,1966,CA,BOND,,San Ramon Valley school bonds,1,Times Recommends YES,0.9
 CA,Contra Costa Times,172450,1966,CA,BOND,,State school bonds,1,Times Recommends YES,0.9
@@ -58,7 +58,7 @@ CA,Contra Costa Times,172450,1970,CA,PROPOSITION,5,State proposition 5,1,Times R
 CA,Contra Costa Times,172450,1970,CA,PROPOSITION,6,State proposition 6,1,Times Recommends YES on Propositions 1 through 7,0.85
 CA,Contra Costa Times,172450,1970,CA,PROPOSITION,7,State proposition 7,1,Times Recommends YES on Propositions 1 through 7,0.85
 CA,Contra Costa Times,172450,1970,CA,PROPOSITION,8,School bonds proposition,0,Times Recommends NO on Prop. 8,0.85
-CA,Contra Costa Times,172450,1970,CA,BALLOT MEASURE,,School bonds (local),1,Times Recommends YES on School Bonds (in all districts),0.85
+CA,Contra Costa Times,172450,1970,CA,REFERENDUM,,School bonds (local),1,Times Recommends YES on School Bonds (in all districts),0.85
 CA,Contra Costa Times,172450,1970,CA,PROPOSITION,1,State Proposition 1,1,"Times Recommends YES on State Props 1, 2, 4, 5, 6, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19",0.88
 CA,Contra Costa Times,172450,1970,CA,PROPOSITION,2,State Proposition 2,1,Times Recommends YES,0.88
 CA,Contra Costa Times,172450,1970,CA,PROPOSITION,3,State Proposition 3,0,Times Recommends NO - prop 3 NOT in YES list,0.7
@@ -79,7 +79,7 @@ CA,Contra Costa Times,172450,1970,CA,PROPOSITION,17,State Proposition 17,1,Times
 CA,Contra Costa Times,172450,1970,CA,PROPOSITION,18,State Proposition 18,1,Times Recommends YES,0.88
 CA,Contra Costa Times,172450,1970,CA,PROPOSITION,19,State Proposition 19,1,Times Recommends YES,0.88
 CA,Contra Costa Times,172450,1970,CA,BOND,,Walnut Creek School District Bonds,1,Times Recommends YES,0.92
-CA,Contra Costa Times,172450,1970,CA,BALLOT MEASURE,,Contra Costa County Water District,1,Times Recommends VOTE YES,0.9
+CA,Contra Costa Times,172450,1970,CA,REFERENDUM,,Contra Costa County Water District,1,Times Recommends VOTE YES,0.9
 CA,Contra Costa Times,172450,1970,CA,BOND,,South County Joint Junior College District,1,Times Recommends VOTE YES,0.9
 CA,Contra Costa Times,172450,1970,CA,BOND,,San Ramon Valley Unified School District Bonds and Tax,1,Times Recommends VOTE YES,0.9
 CA,Contra Costa Times,172450,1972,CA,PROPOSITION,1-13,State propositions 1 through 13,1,YES on Propositions 1-13,0.85
@@ -92,7 +92,7 @@ CA,Contra Costa Times,172450,1972,CA,PROPOSITION,19,Marijuana initiative (1972),
 CA,Contra Costa Times,172450,1972,CA,PROPOSITION,20,Coastal Zone Conservation Initiative,1,YES on 20,0.9
 CA,Contra Costa Times,172450,1972,CA,PROPOSITION,21,School busing (1972),1,YES on 21,0.85
 CA,Contra Costa Times,172450,1972,CA,PROPOSITION,22,Agricultural labor relations (1972),1,YES on 22,0.85
-CA,Contra Costa Times,172450,1972,CA,COUNTY MEASURE,A,County Measure A,0,Vote NO on County Measure A,0.95
+CA,Contra Costa Times,172450,1972,CA,REFERENDUM,A,County Measure A,0,Vote NO on County Measure A,0.95
 CA,Contra Costa Times,172450,1974,CA,PROPOSITION,1,State School Bonds,1,YES,0.95
 CA,Contra Costa Times,172450,1974,CA,PROPOSITION,2,"City, County charters",1,YES,0.95
 CA,Contra Costa Times,172450,1974,CA,PROPOSITION,3,Co. Commission personnel,1,YES,0.95
@@ -109,17 +109,17 @@ CA,Contra Costa Times,172450,1974,CA,PROPOSITION,13,State college trustees,0,NO,
 CA,Contra Costa Times,172450,1974,CA,PROPOSITION,14,Housing referendums,1,YES,0.95
 CA,Contra Costa Times,172450,1974,CA,PROPOSITION,15,U.C. tuition,0,NO,0.95
 CA,Contra Costa Times,172450,1974,CA,PROPOSITION,16,Wild Rivers Initiative,0,NO,0.95
-CA,Contra Costa Times,172450,1974,CA,BALLOT MEASURE,D,Concord sewer bonds (local),1,YES,0.9
-CA,Contra Costa Times,172450,1974,CA,BALLOT MEASURE,J,Paramedic plan,1,YES,0.9
-CA,Contra Costa Times,172450,1974,CA,BALLOT MEASURE,1,Transit district (local),1,YES,0.85
-CA,Contra Costa Times,172450,1974,CA,BALLOT MEASURE,,San Ramon school bonds,1,YES,0.85
-CA,Contra Costa Times,172450,1976,CA,COUNTY MEASURE,A,Moraga School Tax,1,YES on County Measure A,0.95
-CA,Contra Costa Times,172450,1976,CA,COUNTY MEASURE,B,County Jail Initiative,1,YES on County Measure B,0.95
-CA,Contra Costa Times,172450,1976,CA,COUNTY MEASURE,C,Lovent County Road Tax (Road taxation),1,YES on County Measure C,0.9
-CA,Contra Costa Times,172450,1976,CA,COUNTY MEASURE,D,Lafayette Elderly housing,1,YES on County Measure D,0.9
-CA,Contra Costa Times,172450,1976,CA,COUNTY MEASURE,E,PH Appointive City Clerk,1,YES on County Measure E,0.9
-CA,Contra Costa Times,172450,1976,CA,COUNTY MEASURE,F,San Ramon Town Incorporation,1,YES on County Measure F,0.9
-CA,Contra Costa Times,172450,1976,CA,COUNTY MEASURE,G,Name Town of San Ramon Valley,1,YES on County Measure G,0.9
+CA,Contra Costa Times,172450,1974,CA,REFERENDUM,D,Concord sewer bonds (local),1,YES,0.9
+CA,Contra Costa Times,172450,1974,CA,REFERENDUM,J,Paramedic plan,1,YES,0.9
+CA,Contra Costa Times,172450,1974,CA,REFERENDUM,1,Transit district (local),1,YES,0.85
+CA,Contra Costa Times,172450,1974,CA,REFERENDUM,,San Ramon school bonds,1,YES,0.85
+CA,Contra Costa Times,172450,1976,CA,REFERENDUM,A,Moraga School Tax,1,YES on County Measure A,0.95
+CA,Contra Costa Times,172450,1976,CA,REFERENDUM,B,County Jail Initiative,1,YES on County Measure B,0.95
+CA,Contra Costa Times,172450,1976,CA,REFERENDUM,C,Lovent County Road Tax (Road taxation),1,YES on County Measure C,0.9
+CA,Contra Costa Times,172450,1976,CA,REFERENDUM,D,Lafayette Elderly housing,1,YES on County Measure D,0.9
+CA,Contra Costa Times,172450,1976,CA,REFERENDUM,E,PH Appointive City Clerk,1,YES on County Measure E,0.9
+CA,Contra Costa Times,172450,1976,CA,REFERENDUM,F,San Ramon Town Incorporation,1,YES on County Measure F,0.9
+CA,Contra Costa Times,172450,1976,CA,REFERENDUM,G,Name Town of San Ramon Valley,1,YES on County Measure G,0.9
 CA,Contra Costa Times,172450,1976,CA,PROPOSITION,1,Self-amortizing housing (Cal Vet),1,YES,0.9
 CA,Contra Costa Times,172450,1976,CA,PROPOSITION,2,Coastal-Urban Park Bond,1,YES,0.9
 CA,Contra Costa Times,172450,1976,CA,PROPOSITION,3,Solar Energy Bonds for homes,1,YES,0.9
@@ -143,6 +143,6 @@ CA,Contra Costa Times,172450,1978,CA,PROPOSITION,5,Regulation of Smoking (anti-s
 CA,Contra Costa Times,172450,1978,CA,PROPOSITION,6,School Employees Homosexuality (Briggs Initiative),0,NO on Prop 6 (Briggs Initiative on gay teachers),0.98
 CA,Contra Costa Times,172450,1978,CA,PROPOSITION,7,Death Penalty,1,YES,0.95
 CA,Contra Costa Times,172450,1978,CA,PROPOSITION,8,Property Taxation (alternative to Prop 13),1,YES on Prop 8,0.95
-CA,Contra Costa Times,172450,1978,CA,BALLOT MEASURE,A,Walnut Creek Measure A,0,Walnut Creek: No Recommendation,0.85
-CA,Contra Costa Times,172450,1978,CA,BALLOT MEASURE,B,Walnut Creek Measure B,0,Walnut Creek: No Recommendation,0.85
-CA,Contra Costa Times,172450,1978,CA,BALLOT MEASURE,C,Walnut Creek Measure C,1,Walnut Creek Measure C: YES,0.9
+CA,Contra Costa Times,172450,1978,CA,REFERENDUM,A,Walnut Creek Measure A,,"Walnut Creek: No Recommendation [V7: endorsed=blank (no recommendation, not opposed)]",0.85
+CA,Contra Costa Times,172450,1978,CA,REFERENDUM,B,Walnut Creek Measure B,,"Walnut Creek: No Recommendation [V7: endorsed=blank (no recommendation, not opposed)]",0.85
+CA,Contra Costa Times,172450,1978,CA,REFERENDUM,C,Walnut Creek Measure C,1,Walnut Creek Measure C: YES,0.9

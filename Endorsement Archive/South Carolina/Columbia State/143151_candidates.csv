@@ -1,16 +1,14 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-SC,Columbia State,143151,1956,PRESIDENT,,,SC,"BYRD, HARRY F.",Democrat,1,,1,,Endorses Independent Democrat (Byrd) electors over Stevenson and Eisenhower; goal to deny Stevenson SC's 8 electoral votes,0.85
+SC,Columbia State,143151,1956,PRESIDENT,,,SC,"BYRD, HARRY F.",Democrat,1,,,,Endorses Independent Democrat (Byrd) electors over Stevenson and Eisenhower; goal to deny Stevenson SC's 8 electoral votes; FIX r_inc cleared (V4 R191) - Byrd was D Senator not R,0.85
 SC,Columbia State,143151,1960,PRESIDENT,,,SC,"NIXON, RICHARD M.",Republican,1,,,,'PEACE AND PROGRESS' editorial,0.95
 SC,Columbia State,143151,1970,GOVERNOR,,,SC,"WEST, JOHN C.",Democrat,1,,,,"'West's Record, Reputation Qualify Him For Governor'; opposed Albert W. Watson (R)",0.95
-SC,Columbia State,143151,1970,H,2,,SC,"SPENCE, FLOYD D.",Republican,1,,,,'GOP Sentiment In District Should Elect Floyd Spence'; opposed Heyward E. McDonald (D); seat being vacated by Albert Watson,0.95
-SC,Columbia State,143151,1972,PRESIDENT,,,SC,"NIXON, RICHARD M.",Republican,1,1,,,'Nixon Is Only Choice Available This Year'; opposed McGovern (D),0.95
+SC,Columbia State,143151,1970,H,2,,SC,"SPENCE, FLOYD",Republican,1,,,,'GOP Sentiment In District Should Elect Floyd Spence'; opposed Heyward E. McDonald (D); seat being vacated by Albert Watson; cross-year name std (V2 R71),0.95
+SC,Columbia State,143151,1972,PRESIDENT,,,SC,"NIXON, RICHARD M.",Republican,1,,1,,'Nixon Is Only Choice Available This Year'; opposed McGovern (D); FIX d_inc→r_inc (V4 R191) - Nixon R incumbent,0.95
 SC,Columbia State,143151,1972,SCHOOL BOARD,,Richland District One,SC,"KUSHNER, MICHAEL",Republican,1,,,,'School Board Tickets Offer Broad Choices'; industrial manager,0.95
 SC,Columbia State,143151,1972,SCHOOL BOARD,,Richland District One,SC,"LINDER, WILLIAM H.",Republican,1,,,,Dr.; college professor,0.95
 SC,Columbia State,143151,1972,SCHOOL BOARD,,Richland District One,SC,"SMITH, EDWARD E.",Republican,1,,,,Banker,0.95
 SC,Columbia State,143151,1972,SCHOOL BOARD,,Richland District One,SC,"DUNN, DONALD N.",Republican,1,,,,Public relations consultant; suggested as fourth choice from GOP,0.9
 SC,Columbia State,143151,1972,SCHOOL BOARD,,Richland District One,SC,"MIZELL, M. HAYES",Democrat,1,1,,,Incumbent; recommended as fifth/black candidate,0.9
-SC,Columbia State,143151,1972,STATE SENATOR,,Richland,SC,"PATTERSON, KAY",Democrat,1,,,,'District Senate Races Crucial For This Area',0.7
-SC,Columbia State,143151,1972,STATE SENATOR,,Richland,SC,"PEARMAN, T. EWING",Republican,1,,,,,0.7
 SC,Columbia State,143151,1974,ATTORNEY GENERAL,,,SC,"MCLEOD, DANIEL R",Democrat,1,1,,,Incumbent AG; The State endorses continued support,0.95
 SC,Columbia State,143151,1974,CNTY COMM,,Richland County Council,SC,"MCKAY, JULIUS W (JAY)",Republican,1,,,,Richland County Council,0.95
 SC,Columbia State,143151,1974,CNTY COMM,,Richland County Council,SC,"HEARN, JOYCE",Republican,1,,,,Richland County Council,0.95
@@ -19,100 +17,89 @@ SC,Columbia State,143151,1974,H,2,,SC,"SPENCE, FLOYD",Republican,1,,1,,Second Di
 SC,Columbia State,143151,1974,H,3,,SC,"DERRICK, BUTLER",Democrat,1,,,,Third District US House,0.85
 SC,Columbia State,143151,1974,H,4,,SC,"MANN, JAMES",Democrat,1,1,,,Fourth District US House,0.85
 SC,Columbia State,143151,1974,H,6,,SC,"YOUNG, EDWARD",Republican,1,,1,,Sixth District US House,0.85
-SC,Columbia State,143151,1976,SCHOOL BOARD,,Richland District One School Board,SC,"BARRETT, WILLIAM E",Independent,1,,,,Non-partisan petition candidate; lay member; The State urges thoughtful consideration,0.9
-SC,Columbia State,143151,1976,SCHOOL BOARD,,Richland District One School Board,SC,"HAMMETT, BETSY PUTNAM",Independent,1,,,,Non-partisan petition candidate; lay member; The State urges thoughtful consideration,0.9
-SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"BARBER, JAMES R (JIM) III",Democrat,1,,,,Richland County Council; The State recommends,0.9
+SC,Columbia State,143151,1976,SCHOOL BOARD,,Richland District One School Board,SC,"BARRETT, WILLIAM E",Nonpartisan,1,,,,Non-partisan petition candidate; lay member; The State urges thoughtful consideration; party FIX Indep→Nonpartisan (V5 R201) for school board,0.9
+SC,Columbia State,143151,1976,SCHOOL BOARD,,Richland District One School Board,SC,"HAMMETT, BETSY PUTNAM",Nonpartisan,1,,,,Non-partisan petition candidate; lay member; The State urges thoughtful consideration; party FIX Indep→Nonpartisan (V5 R201) for school board,0.9
+SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"BARBER, JAMES R. (JIM) III",Democrat,1,,,,Richland County Council; The State recommends; cross-year name std (V2 R71),0.9
 SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"LEVENTIS, JAMES C",Democrat,1,,,,Richland County Council; The State recommends,0.9
 SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"MURRAY, JULIUS",Democrat,1,,,,Richland County Council; The State recommends,0.9
-SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"WAITES, CANDY Y",Democrat,1,,,,Richland County Council; The State recommends,0.9
+SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"WAITES, CANDY Y.",Democrat,1,,,,Richland County Council; The State recommends; cross-year name std (V2 R71),0.9
 SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"BARNES, RUDOLPH C (RUDY)",Republican,1,,,,Richland County Council; The State recommends,0.9
-SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"GIESE, WARREN K",Republican,1,,1,,Incumbent; Richland County Council; The State recommends,0.9
-SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"KEENER, RAIFORD (RAY)",Republican,1,,,,Richland County Council; The State recommends,0.9
-SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"LAZAR, JOHN W",Republican,1,,,,Richland County Council; The State recommends,0.9
+SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"GIESE, WARREN K.",Republican,1,,1,,Incumbent; Richland County Council; The State recommends; cross-year name std (V2 R71),0.9
+SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"KENNER, RAY",Republican,1,,,,Richland County Council; The State recommends; NAME FIX KEENER→KENNER (V5 R201) per CR cross-paper,0.9
+SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"LAZUR, JOHN W.",Republican,1,,,,Richland County Council; The State recommends; NAME FIX LAZAR→LAZUR (V5 R201) per CR cross-paper,0.9
 SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"LEGRAND, CHARLOTTE B",Republican,1,,,,Richland County Council; The State recommends,0.9
 SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"NILSON, HOWARD A",Republican,1,,,,Richland County Council; The State recommends,0.9
 SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"OTIS, WILLIAM L (BILL)",Republican,1,,,,Richland County Council; The State recommends,0.9
 SC,Columbia State,143151,1976,CNTY COMM,,Richland County Council,SC,"TOBIAS, JAMES C",Republican,1,,,,Richland County Council; The State recommends,0.9
-SC,Columbia State,143151,1976,STATE SENATOR,,Richland County,SC,"BRYAN, WALTER",Democrat,1,,,,Able men for the State Senate,0.7
-SC,Columbia State,143151,1976,STATE SENATOR,,Richland County,SC,"HOLLAND, ISADORE",Democrat,1,,,,Able men for the State Senate,0.7
-SC,Columbia State,143151,1976,STATE SENATOR,,Richland County,SC,"RAVENEL, HARWELL",Democrat,1,,,,Able men for the State Senate,0.7
-SC,Columbia State,143151,1976,STATE SENATOR,,Richland County,SC,"MCLEOD, HEYWARD",Democrat,1,,,,Able men for the State Senate,0.7
-SC,Columbia State,143151,1976,STATE SENATOR,,Richland County,SC,"CHESTER, MAX",Democrat,1,,,,Able men for the State Senate,0.7
-SC,Columbia State,143151,1976,STATE REP,,,SC,"FERRER, RAY E",Republican,1,,,,Close House Races; State House contender,0.7
-SC,Columbia State,143151,1976,STATE REP,,,SC,"KINNEY, ROBERT",Democrat,1,1,,,Close House Races; House incumbent,0.7
+SC,Columbia State,143151,1976,STATE REP,,,SC,"FERRER, RAY E",Republican,1,,,,Close House Races; State House contender [V1 R11 conf bump - 'Close House Races' editorial OCR-verified],0.82
+SC,Columbia State,143151,1976,STATE REP,,,SC,"KINNEY, ROBERT",Democrat,1,1,,,Close House Races; House incumbent [V1 R11 conf bump - 'Close House Races' editorial OCR-verified],0.82
 SC,Columbia State,143151,1976,H,5,,SC,"RICHARDSON, ROBERT C (BOBBY)",Republican,1,,,,Fifth District US House; The State urges voters to elect Bobby Richardson,0.9
 SC,Columbia State,143151,1976,PRESIDENT,,,SC,"FORD, GERALD R",Republican,1,,1,,Incumbent President; The State endorses Ford,0.95
 SC,Columbia State,143151,1978,TREASURER,,Richland County Treasurer,SC,"LINDER, WILLIAM H",Republican,1,,,,Republicans Running Against Elliott Image; The State endorses Linder over incumbent Tom Elliott,0.9
 SC,Columbia State,143151,1978,H,2,,SC,"SPENCE, FLOYD",Republican,1,,1,,Second District US House; incumbent; The State believes Spence should be returned,0.95
 SC,Columbia State,143151,1978,SUPERINTENDENT,,,SC,"KIRK, L ROGER JR",Republican,1,,,,State Superintendent of Education; The State endorses Kirk over Democrat Williams,0.95
-SC,Columbia State,143151,1978,GOVERNOR,,,SC,"RILEY, RICHARD W (DICK)",Democrat,1,,,,Legislative Record Gives Nod to Riley,0.95
+SC,Columbia State,143151,1978,GOVERNOR,,,SC,"RILEY, RICHARD W. (DICK)",Democrat,1,,,,Legislative Record Gives Nod to Riley; cross-year name std (V2 R71),0.95
 SC,Columbia State,143151,1978,SENATOR,,,SC,"THURMOND, STROM",Republican,1,,1,,US Senate; incumbent; The State endorses Thurmond for re-election,0.95
-SC,Columbia State,143151,1978,CNTY COMM,,Richland County Council,SC,"GIESE, WARREN",Republican,1,,,,Former chairman; Richland County Council,0.9
+SC,Columbia State,143151,1978,CNTY COMM,,Richland County Council,SC,"GIESE, WARREN K.",Republican,1,,1,,Former chairman; Richland County Council; cross-year name std (V2 R71),0.9
 SC,Columbia State,143151,1978,CNTY COMM,,Richland County Council,SC,"GREEN, JOHN V",Democrat,1,,,,Former chairman; Richland County Council,0.9
-SC,Columbia State,143151,1978,CNTY COMM,,Richland County Council,SC,"BARBER, JIM",Democrat,1,1,,,Incumbent chairman; Richland County Council,0.9
-SC,Columbia State,143151,1978,CNTY COMM,,Richland County Council,SC,"BUTLER, A T",Democrat,1,,,,Black representation; Richland County Council,0.9
+SC,Columbia State,143151,1978,CNTY COMM,,Richland County Council,SC,"BARBER, JAMES R. (JIM) III",Democrat,1,1,,,Incumbent chairman; Richland County Council; cross-year name std (V2 R71),0.9
+SC,Columbia State,143151,1978,CNTY COMM,,Richland County Council,SC,"BUTLER, A.T.",Democrat,1,,,,Black representation; Richland County Council; cross-year name std (V2 R71),0.9
 SC,Columbia State,143151,1978,CNTY COMM,,Richland County Council,SC,"CAMP, JOHN F",Republican,1,,,,CPA; Richland County Council,0.85
-SC,Columbia State,143151,1978,LT GOVERNOR,,,SC,"PATRICK, BRYAN",Republican,1,1,,,Incumbent Lt Governor; The State endorses Patrick over Democrat Henry G. Young,0.9
-SC,Columbia State,143151,1978,SUPERINTENDENT,,,SC,"KIRK, ROGER JR",Republican,1,,,,Superintendent of Education,0.9
-SC,Columbia State,143151,1978,DIRECTOR,,,SC,"MARCHANT, EATON",Democrat,1,,,,Adjutant General; The State favorably impressed with Marchant,0.85
+SC,Columbia State,143151,1978,DIRECTOR,,,SC,"MARCHANT, T. ESTON",Democrat,1,,,,Adjutant General; NAME FIX EATON→T. ESTON (V1 R6) per 1978-11-05 OCR 'Eston Marchant',0.92
 SC,Columbia State,143151,1978,SEC OF STATE,,,SC,"CAMPBELL, JOHN T",Democrat,1,,,,Former Columbia Mayor; commanding lead over Republican Drawdy,0.8
-SC,Columbia State,143151,1978,TREASURER,,,SC,"PATTERSON, GRADY",Democrat,1,1,,,State Treasurer; unopposed,0.7
-SC,Columbia State,143151,1978,ATTORNEY GENERAL,,,SC,"MCLEOD, DANIEL R",Democrat,1,1,,,Attorney General; unopposed,0.7
-SC,Columbia State,143151,1978,COMPTROLLER,,,SC,"MORRIS, EARLE E",Democrat,1,1,,,Comptroller General; unopposed,0.7
-SC,Columbia State,143151,1980,SENATOR,,,SC,"HOLLINGS, ERNEST",Democrat,1,,,,"On Balance, Hollings Should Be Re-Elected",0.97
+SC,Columbia State,143151,1978,TREASURER,,,SC,"PATTERSON, GRADY",Democrat,1,1,,,State Treasurer; unopposed [V1 R11 conf bump - cross-verified unopposed D],0.85
+SC,Columbia State,143151,1978,ATTORNEY GENERAL,,,SC,"MCLEOD, DANIEL R",Democrat,1,1,,,Attorney General; unopposed [V1 R11 conf bump - cross-verified unopposed D],0.85
+SC,Columbia State,143151,1978,COMPTROLLER,,,SC,"MORRIS, EARLE E",Democrat,1,1,,,Comptroller General; unopposed [V1 R11 conf bump - cross-verified unopposed D],0.85
+SC,Columbia State,143151,1980,SENATOR,,,SC,"HOLLINGS, ERNEST F.",Democrat,1,,,,"On Balance, Hollings Should Be Re-Elected; cross-year name std (V2 R71)",0.97
 SC,Columbia State,143151,1980,H,4,,SC,"CAMPBELL, CARROLL A.",Republican,1,,,,"4th District - incumbent Republican seeking third term, opposed by Marion Tyus (D)",0.9
-SC,Columbia State,143151,1980,H,5,,SC,"SPRATT, JOHN M.",Democrat,1,,,,"5th District - Democrat candidate (open seat after Holland retirement), opposed Republican Bobby Richardson",0.9
-SC,Columbia State,143151,1980,H,2,,SC,"SPENCE, FLOYD",Republican,1,,,,2nd District incumbent vs Tom Turnipseed (D),0.9
+SC,Columbia State,143151,1980,H,5,,SC,"HOLLAND, KEN",Democrat,1,1,,,5th District D incumbent; NAME FIX (V3 R81) SPRATT→HOLLAND per 1980-10-28 OCR ('Incumbent Ken Holland was also given a free ride by the Republicans'),0.92
+SC,Columbia State,143151,1980,H,2,,SC,"SPENCE, FLOYD",Republican,1,,1,,2nd District incumbent vs Tom Turnipseed (D),0.9
 SC,Columbia State,143151,1980,H,3,,SC,"DERRICK, BUTLER",Democrat,1,,,,3rd District incumbent,0.9
-SC,Columbia State,143151,1980,H,6,,SC,"NAPIER, JOHN",Republican,1,,,,6th District,0.85
+SC,Columbia State,143151,1980,H,6,,SC,"NAPIER, JOHN L.",Republican,1,,,,6th District; cross-year name std (V2 R71),0.85
 SC,Columbia State,143151,1980,H,1,,SC,"HARTNETT, THOMAS F.",Republican,1,,,,1st District incumbent vs Charles Davis (D),0.85
-SC,Columbia State,143151,1980,CNTY COMM,,Richland County,SC,"WAITES, CANDY",Democrat,1,,,,Richland County Council incumbent - 'should be returned',0.85
+SC,Columbia State,143151,1980,CNTY COMM,,Richland County,SC,"WAITES, CANDY Y.",Democrat,1,1,,,Richland County Council incumbent - 'should be returned'; cross-year name std (V2 R71),0.85
 SC,Columbia State,143151,1980,CNTY COMM,,Richland County,SC,"BARRETT, WILLIAM E.",Republican,1,,,,Richland County Council Republican incumbent - 'should be returned',0.85
-SC,Columbia State,143151,1980,CNTY COMM,,Richland County,SC,"BUTLER, A.T.",,1,,,,"Richland County Council - State believes black representation should be retained, endorses Butler",0.8
+SC,Columbia State,143151,1980,CNTY COMM,,Richland County,SC,"BUTLER, A.T.",Democrat,1,1,,,"Richland County Council - State believes black representation should be retained, endorses Butler; party fill D (V2 R66) - cross-year with 1978 records",0.8
 SC,Columbia State,143151,1980,SHERIFF,,Richland County,SC,"POWELL, FRANK",Democrat,1,,,,Richland County Sheriff incumbent - 'Mr. Wilde Too Wild' editorial against opponent William L. Wilde (R),0.95
 SC,Columbia State,143151,1980,PRESIDENT,,,SC,"REAGAN, RONALD",Republican,1,,,,U.S. Needs Stronger Leader Than Carter,0.97
-SC,Columbia State,143151,1980,PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,,,Vice Presidential running mate,0.95
+SC,Columbia State,143151,1980,VICE PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,,,Vice Presidential running mate; OFFICE FIX V1 R1: Bush was VP not PRES in 1980,0.95
 SC,Columbia State,143151,1982,H,5,,SC,"SPRATT, JOHN M.",Democrat,1,,,,5th District incumbent,0.95
-SC,Columbia State,143151,1982,H,4,,SC,"CAMPBELL, CARROLL A.",Republican,1,,,,4th District Republican incumbent seeking third term,0.95
+SC,Columbia State,143151,1982,H,4,,SC,"CAMPBELL, CARROLL A.",Republican,1,,1,,4th District Republican incumbent seeking third term,0.95
 SC,Columbia State,143151,1982,H,3,,SC,"DERRICK, BUTLER C.",Democrat,1,,,,3rd District Edgefield Democrat incumbent,0.95
-SC,Columbia State,143151,1982,H,6,,SC,"NAPIER, JOHN L.",Republican,1,,,,6th District Republican first-term incumbent vs Robin Tallon (D),0.95
-SC,Columbia State,143151,1982,H,2,2,SC,"SPENCE, FLOYD",Republican,1,,,,"2nd District includes Richland, Lexington - Republican incumbent vs Ken Mosely (D)",0.95
-SC,Columbia State,143151,1982,H,1,,SC,"HARTNETT, THOMAS F.",Republican,1,,,,1st District Republican incumbent battling for second term,0.95
-SC,Columbia State,143151,1982,GOVERNOR,,,SC,"RILEY, RICHARD W.",Democrat,1,,,,Governor's Race: Riley Gets Nod - Democratic incumbent vs Republican W. D. Workman Jr.,0.97
+SC,Columbia State,143151,1982,H,6,,SC,"NAPIER, JOHN L.",Republican,1,,1,,6th District Republican first-term incumbent vs Robin Tallon (D),0.95
+SC,Columbia State,143151,1982,H,2,2,SC,"SPENCE, FLOYD",Republican,1,,1,,"2nd District includes Richland, Lexington - Republican incumbent vs Ken Mosely (D)",0.95
+SC,Columbia State,143151,1982,H,1,,SC,"HARTNETT, THOMAS F.",Republican,1,,1,,1st District Republican incumbent battling for second term,0.95
+SC,Columbia State,143151,1982,GOVERNOR,,,SC,"RILEY, RICHARD W. (DICK)",Democrat,1,1,,,Governor's Race: Riley Gets Nod - Democratic incumbent vs Republican W. D. Workman Jr.; cross-year name std (V2 R71),0.97
 SC,Columbia State,143151,1982,LT GOVERNOR,,,SC,"DANIEL, MICHAEL R.",Democrat,1,,,,Daniel For No. 2 - Democratic incumbent Lt. Governor,0.95
 SC,Columbia State,143151,1982,ATTORNEY GENERAL,,,SC,"MEDLOCK, TRAVIS",Democrat,1,,,,Medlock Best Choice As State's Lawyer - vs Republican Donnie Myers,0.97
 SC,Columbia State,143151,1982,SUPERINTENDENT,,,SC,"WILLIAMS, CHARLIE G.",Democrat,1,,,,Superintendent of Education incumbent - 'Rest Should Stay',0.93
-SC,Columbia State,143151,1982,AGRICULTURE COMMISSIONER,,,SC,"MERCHANT, ED",Democrat,1,,,,Commissioner of Agriculture - Democrat T. Edon Merchant - 'Rest Should Stay',0.85
-SC,Columbia State,143151,1982,DIRECTOR,,,SC,"EHRHARDT, T. ESTON",Republican,1,,,,Adjutant General - 'Rest Should Stay',0.85
-SC,Columbia State,143151,1982,TREASURER,,,SC,"PATRICK, GRYNN",Republican,1,,,,State Treasurer - Republican appointed in 1978 - 'Rest Should Stay',0.8
+SC,Columbia State,143151,1982,AGRICULTURE COMMISSIONER,,,SC,"PATRICK, G. BRYAN",Republican,1,,1,,Commissioner of Agriculture; NAME+PARTY FIX (V1 R7) per 1982-10-29 OCR: G. Bryan Patrick R incumbent,0.92
+SC,Columbia State,143151,1982,DIRECTOR,,,SC,"MARCHANT, T. ESTON",Democrat,1,1,,,"Adjutant General; FULL FIX (V1 R7) per 1982-10-29 OCR: name MARCHANT not EHRHARDT, party D not R (Marchant is D incumbent, Ehrhardt is R opponent)",0.92
 SC,Columbia State,143151,1982,CNTY COMM,,Richland County,SC,"HERNDON, LILLIE EDENS",Republican,1,,,,Richland County Council - 'The State solidly endorses' - civic leader,0.95
 SC,Columbia State,143151,1982,CNTY COMM,,Richland County,SC,"ROOF, R. PHIL",Republican,1,,,,"Richland County Council - 'The State solidly endorses' - businessman, school board chairman",0.95
-SC,Columbia State,143151,1982,CNTY COMM,,Richland County,SC,"BARBER, JAMES R.",Democrat,1,,,,"Richland County Council - Democrat attorney, two-term incumbent - 'The State solidly endorses'",0.95
+SC,Columbia State,143151,1982,CNTY COMM,,Richland County,SC,"BARBER, JAMES R. (JIM) III",Democrat,1,1,,,"Richland County Council - Democrat attorney, two-term incumbent - 'The State solidly endorses'; cross-year name std (V2 R71)",0.95
 SC,Columbia State,143151,1982,CNTY COMM,,Richland County,SC,"SOLOMON, JAMES L., JR.",Democrat,1,,,,"Richland County Council - Democrat, former chairman of Richland School District One board - 'The State solidly endorses'",0.95
-SC,Columbia State,143151,1984,PRESIDENT,,,SC,"REAGAN, RONALD",Republican,1,,,,U.S. needs no drastic change in leadership - Reagan endorsement,0.97
-SC,Columbia State,143151,1984,PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,,,Vice Presidential running mate - endorsed Bush in 1980 SC GOP primary,0.95
-SC,Columbia State,143151,1984,H,2,,SC,"SPENCE, FLOYD",Republican,1,,,,"2nd District incumbent vs Ken Mosely (D) - '2nd district matches liberal, conservative'",0.95
+SC,Columbia State,143151,1984,PRESIDENT,,,SC,"REAGAN, RONALD",Republican,1,,1,,U.S. needs no drastic change in leadership - Reagan endorsement,0.97
+SC,Columbia State,143151,1984,VICE PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,1,,Vice Presidential running mate - endorsed Bush in 1980 SC GOP primary; OFFICE FIX V1 R1: Bush was VP not PRES in 1984,0.95
+SC,Columbia State,143151,1984,H,2,,SC,"SPENCE, FLOYD",Republican,1,,1,,"2nd District incumbent vs Ken Mosely (D) - '2nd district matches liberal, conservative'",0.95
 SC,Columbia State,143151,1984,SCHOOL BOARD,,Richland School District 1,SC,"MCCOY, ALLEN",Republican,1,,,,Mixed ticket will best serve District 1 - certified public accountant,0.9
 SC,Columbia State,143151,1984,SCHOOL BOARD,,Richland School District 1,SC,"MITCHELL, SUSAN T.",Republican,1,,,,Mixed ticket will best serve District 1 - educator on leave from Midlands Tech,0.9
 SC,Columbia State,143151,1984,SCHOOL BOARD,,Richland School District 1,SC,"BYRD, ALMA",Democrat,1,,,,Mixed ticket will best serve District 1 - Democratic incumbent,0.9
 SC,Columbia State,143151,1984,SCHOOL BOARD,,Richland School District 1,SC,"LIVINGSTON, PAUL",Democrat,1,,,,"Mixed ticket - tireless worker, record of community service",0.9
-SC,Columbia State,143151,1984,STATE SENATOR,,Richland County,SC,"LEATHERMAN, JOHN",Democrat,1,,,,Richland incumbents in Senate favored - Democratic incumbent,0.75
-SC,Columbia State,143151,1984,STATE SENATOR,,Richland County,SC,"PATTERSON, KAY",Democrat,1,,,,Richland incumbents in Senate favored - Democratic incumbent,0.75
-SC,Columbia State,143151,1984,STATE SENATOR,,Richland County,SC,"MARTIN, ISADORE",Democrat,1,,,,Richland incumbents in Senate favored,0.7
 SC,Columbia State,143151,1986,SENATOR,,,SC,"HOLLINGS, ERNEST F.",Democrat,1,,,,"GOP Senate needed, but Hollings is too - 'Fritz Hollings ought to be re-elected' over GOP challenger Henry McMaster",0.97
 SC,Columbia State,143151,1986,GOVERNOR,,,SC,"CAMPBELL, CARROLL",Republican,1,,,,"In close calls, nod goes to Campbell - vs Democrat Mike Daniel",0.97
 SC,Columbia State,143151,1986,LT GOVERNOR,,,SC,"HARTNETT, THOMAS F.",Republican,1,,,,...And Hartnett too - GOP Lt Governor candidate,0.95
-SC,Columbia State,143151,1986,H,2,,SC,"SPENCE, FLOYD",Republican,1,,,,Tighter race might jar Spence into action - 2nd District incumbent vs Fred Zeigler (D) - 'The State has repeatedly supported Mr. Spence',0.95
+SC,Columbia State,143151,1986,H,2,,SC,"SPENCE, FLOYD",Republican,1,,1,,Tighter race might jar Spence into action - 2nd District incumbent vs Fred Zeigler (D) - 'The State has repeatedly supported Mr. Spence',0.95
 SC,Columbia State,143151,1988,PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,,,'Bush best bet in race for the White House',0.95
-SC,Columbia State,143151,1988,STATE SENATOR,,Richland District 19,SC,"MCDONALD, JOHN",,1,,,,"'McDonald, Courson best bets for Senate'",0.85
-SC,Columbia State,143151,1988,STATE SENATOR,,Richland District 20,SC,"COURSON, JOHN",Republican,1,,,,GOP incumbent,0.9
-SC,Columbia State,143151,1988,STATE SENATOR,,Lexington,SC,"WILSON, ADDISON G.",Republican,1,,1,,'A nod for incumbents' - Senator Wilson,0.85
+SC,Columbia State,143151,1988,STATE SENATOR,18,Richland District 19,SC,"MCDONALD, HEYWARD",Democrat,1,1,,,"McDonald, Courson best bets for Senate; NAME FIX JOHN→HEYWARD + party fill D (V2 R51) per 1988-11-03 OCR",0.92
+SC,Columbia State,143151,1988,STATE SENATOR,20,Richland District 20,SC,"COURSON, JOHN",Republican,1,,,,GOP incumbent,0.9
+SC,Columbia State,143151,1988,STATE SENATOR,23,Lexington,SC,"WILSON, ADDISON G. (JOE)",Republican,1,,1,,'A nod for incumbents' - Senator Wilson; cross-year name std (V2 R71),0.85
 SC,Columbia State,143151,1988,STATE REP,,Lexington,SC,"MARTIN, LARRY",Republican,1,,1,,Incumbent state rep,0.8
-SC,Columbia State,143151,1988,H,2,SC-2,SC,"LEVENTIS, JIM",Democrat,1,,1,,'It's time to change horses in Congress' - challenger to incumbent Spence (R),0.95
-SC,Columbia State,143151,1998,STATE REP,72,Richland,SC,"ROGERS, TIM",Democrat,1,1,,,vs Scott Elliott (R),0.9
-SC,Columbia State,143151,1998,STATE REP,75,Richland,SC,"WAITES, CANDY",Democrat,1,,,,vs Ray Rossi (R),0.9
-SC,Columbia State,143151,1998,STATE REP,76,Richland,SC,"HEARN, JOYCE",Republican,1,,1,,vs Edward Latimer (D),0.9
-SC,Columbia State,143151,1998,STATE REP,78,Richland,SC,"CORNING, GRADY L. 'LOCK' III",Democrat,1,,,,vs incumbent Roland Corning (R),0.85
+SC,Columbia State,143151,1988,H,2,SC-2,SC,"LEVENTIS, JIM",Democrat,1,,,,'It's time to change horses in Congress' - challenger to incumbent Spence (R); FIX r_inc cleared (V4 R191) - Leventis was D challenger not R,0.95
+SC,Columbia State,143151,1988,STATE REP,72,Richland,SC,"ROGERS, TIM",Democrat,1,1,,,vs Scott Elliott (R) [YEAR FIX V2 R52: 1998→1988 per OCR — filename was 19981104 but clipping is 1988-11-04],0.9
+SC,Columbia State,143151,1988,STATE REP,75,Richland,SC,"WAITES, CANDY Y.",Democrat,1,,,,vs Ray Rossi (R) [YEAR FIX V2 R52: 1998→1988 per OCR — filename was 19981104 but clipping is 1988-11-04]; cross-year name std (V2 R71),0.9
+SC,Columbia State,143151,1988,STATE REP,76,Richland,SC,"HEARN, JOYCE",Republican,1,,1,,vs Edward Latimer (D) [YEAR FIX V2 R52: 1998→1988 per OCR — filename was 19981104 but clipping is 1988-11-04],0.9
+SC,Columbia State,143151,1988,STATE REP,78,Richland,SC,"CORNING, ROLAND",Republican,1,,1,,Roland Corning R 2nd term H 79; NAME FIX (V2 R52) - was mashed with Patterson D opp per 1988-11-04 OCR,0.92
 SC,Columbia State,143151,2004,PRESIDENT,,,SC,"BUSH, GEORGE W.",Republican,1,,1,,,0.95
 SC,Columbia State,143151,2004,SENATOR,,SC,SC,"TENENBAUM, INEZ",Democrat,1,,,,US Senate,0.9
 SC,Columbia State,143151,2004,H,2,SC-2,SC,"WILSON, JOE",Republican,1,,1,,2nd Congressional District,0.9
@@ -135,27 +122,137 @@ SC,Columbia State,143151,2010,LT GOVERNOR,,SC,SC,"ARD, KEN",Republican,1,,,,,0.9
 SC,Columbia State,143151,2012,STATE SENATOR,26,,SC,"SETZLER, NIKKI",Democrat,1,1,,,,0.9
 SC,Columbia State,143151,2012,STATE SENATOR,20,,SC,"COURSON, JOHN",Republican,1,,1,,Senate president pro tempore,0.9
 SC,Columbia State,143151,2012,STATE REP,75,,SC,"MCCULLOCH, JOE",Democrat,1,,,,,0.9
-SC,Columbia State,143151,2012,STATE REP,78,,SC,"BRADY, JOAN",Republican,1,1,,,,0.9
+SC,Columbia State,143151,2012,STATE REP,78,,SC,"BRADY, JOAN",Republican,1,,1,,; FIX d_inc→r_inc (V4 R191) - Brady R incumbent,0.9
 SC,Columbia State,143151,2012,CNTY COMM,7,Richland,SC,"RUSH, TORREY",Democrat,1,,,,Richland County Council District 7,0.85
-SC,Columbia State,143151,2012,CNTY COMM,8,Richland,SC,"LETTS, MICHAEL",,1,,,,Richland County Council District 8; opponent Jim Manning incumbent,0.8
-SC,Columbia State,143151,2012,CNTY COMM,1,Lexington,SC,"KINARD, JIM",,1,,,,Lexington County Council District 1,0.85
-SC,Columbia State,143151,2014,GOVERNOR,,SC,SC,"SHEHEEN, VINCENT",Democrat,1,,,,vs Haley (R) re-elect,0.95
+SC,Columbia State,143151,2012,CNTY COMM,8,Richland,SC,"LETTS, MICHAEL",Republican,1,,,,Richland County Council District 8; opponent Jim Manning incumbent; party fill R (V2 R66),0.8
+SC,Columbia State,143151,2012,CNTY COMM,1,Lexington,SC,"KINARD, JIM",Republican,1,,,,Lexington County Council District 1; party fill R (V2 R66),0.85
+SC,Columbia State,143151,2014,GOVERNOR,,SC,SC,"SHEHEEN, VINCENT",Democrat,1,1,,,vs Haley (R) re-elect,0.95
 SC,Columbia State,143151,2014,LT GOVERNOR,,SC,SC,"SELLERS, BAKARI",Democrat,1,,,,head and shoulders above any candidate,0.9
 SC,Columbia State,143151,2014,ATTORNEY GENERAL,,SC,SC,"WILSON, ALAN",Republican,1,,1,,re-elect,0.85
 SC,Columbia State,143151,2014,SUPERINTENDENT,,SC,SC,"SPEARMAN, MOLLY",Republican,1,,,,,0.9
-SC,Columbia State,143151,2014,STATE REP,75,,SC,"FINLAY, KIRKMAN",Republican,1,,1,,vs Joe McCulloch (D),0.9
+SC,Columbia State,143151,2014,STATE REP,75,,SC,"FINLAY, KIRKMAN III",Republican,1,,1,,vs Joe McCulloch (D); cross-year name std (V2 R71),0.9
 SC,Columbia State,143151,2014,STATE REP,69,,SC,"QUINN, RICK",Republican,1,,1,,,0.9
 SC,Columbia State,143151,2014,STATE REP,87,,SC,"ATWATER, TODD",Republican,1,,1,,,0.9
 SC,Columbia State,143151,2014,STATE REP,78,,SC,"BERNSTEIN, BETH",Democrat,1,1,,,freshman,0.9
 SC,Columbia State,143151,2014,SENATOR,,SC full term,SC,"GRAHAM, LINDSEY",Republican,1,,1,,US Senate full term,0.9
 SC,Columbia State,143151,2014,SENATOR,,SC unexpired,SC,"SCOTT, TIM",Republican,1,,1,,US Senate unexpired term,0.9
 SC,Columbia State,143151,2016,STATE SENATOR,26,,SC,"SETZLER, NIKKI",Democrat,1,1,,,'Why South Carolina needs Nikki Setzler back in the Senate',0.95
-SC,Columbia State,143151,2016,STATE SENATOR,,Richland Senate District 22,SC,"BRILL, KATRINA",Republican,1,,,,'Brill will help maintain sensible center in Senate' - vs incumbent Sen McLeod,0.85
+SC,Columbia State,143151,2016,STATE SENATOR,22,Richland Senate District 22,SC,"BRILL, KATRINA",Republican,1,,,,'Brill will help maintain sensible center in Senate' - vs incumbent Sen McLeod; dist fill 22 (V5 R241) per 2016-10-28 OCR - Joel Lourie's open seat,0.85
 SC,Columbia State,143151,2016,PRESIDENT,,,SC,"CLINTON, HILLARY",Democrat,1,,,,'Conservatives have only one option: Clinton' - first D pres endorsement in 40+ years,0.95
-SC,Columbia State,143151,2020,SENATOR,,SC,SC,"HARRISON, JAIME",Democrat,1,,1,,vs Lindsey Graham (R inc),0.95
+SC,Columbia State,143151,2020,SENATOR,,SC,SC,"HARRISON, JAIME",Democrat,1,,,,vs Lindsey Graham (R inc); FIX r_inc cleared (V4 R191) - Harrison was D challenger not R,0.95
 SC,Columbia State,143151,2020,H,1,SC-1,SC,"CUNNINGHAM, JOE",Democrat,1,1,,,vs Nancy Mace (R),0.95
 SC,Columbia State,143151,2020,H,2,SC-2,SC,"WILSON, JOE",Republican,1,,1,,vs Adair Ford Boroughs (D),0.95
 SC,Columbia State,143151,2020,H,6,SC-6,SC,"CLYBURN, JIM",Democrat,1,1,,,vs John McCollum (R),0.95
 SC,Columbia State,143151,2020,STATE SENATOR,20,,SC,"HARPOOTLIAN, RICHARD",Democrat,1,1,,,vs Benjamin Dunn (R),0.95
 SC,Columbia State,143151,2020,STATE SENATOR,26,,SC,"SETZLER, NIKKI",Democrat,1,1,,,vs Chris Smith (R),0.95
-SC,Columbia State,143151,2020,STATE REP,75,,SC,"FINLAY, KIRKMAN III",Republican,1,1,,,vs Rhodes Bailey (D),0.95
+SC,Columbia State,143151,2020,STATE REP,75,,SC,"FINLAY, KIRKMAN III",Republican,1,,1,,vs Rhodes Bailey (D); FIX d_inc→r_inc (V4 R191) - Finlay R,0.95
+SC,Columbia State,143151,1976,STATE SENATOR,7,Richland County,SC,"LOURIE, ISADORE E.",Democrat,1,1,,,Re-elect Lourie D Seat 2; Columbia lawyer vs T. 'Bill' Suggs R (V1 R2 OCR-verified rebuild from 1976-10-29),0.9
+SC,Columbia State,143151,1976,STATE SENATOR,7,Richland County,SC,"RUBIN, HYMAN",Democrat,1,1,,,D 7 incumbent Hyman Rubin; only formality of election (V1 R2 OCR-verified rebuild from 1976-10-29),0.9
+SC,Columbia State,143151,1976,STATE SENATOR,7,Richland County,SC,"SANDERS, ALEX",Democrat,1,,,,D 7 former House member; 3 seats filled (V1 R2 OCR-verified rebuild from 1976-10-29),0.9
+SC,Columbia State,143151,1976,STATE SENATOR,7,Richland County,SC,"MCDONALD, HEYWARD",Democrat,1,,,,D 7 former House member (V1 R2 OCR-verified rebuild from 1976-10-29),0.9
+SC,Columbia State,143151,1976,STATE SENATOR,7,Richland County,SC,"MARTIN, JOHN A.",Democrat,1,1,,,D 7 Seat 5; Winnsboro veteran; chairman Senate Banking; over Robert R. Russell R (V1 R2 OCR-verified rebuild from 1976-10-29),0.9
+SC,Columbia State,143151,1976,STATE SENATOR,8,Lexington/Aiken area,SC,"MCMILLAN, GILBERT E.",Republican,1,,1,,D 8 GOP incumbent re-elect; over Democrat Rodney Albert (V1 R2 OCR-verified rebuild from 1976-10-29),0.9
+SC,Columbia State,143151,1976,STATE SENATOR,8,Lexington/Aiken area,SC,"DOOLEY, ALBERT J.",Democrat,1,,,,D 8 Seat 3; veteran over Turnipseed (R-recruited) (V1 R2 OCR-verified rebuild from 1976-10-29),0.9
+SC,Columbia State,143151,1976,STATE SENATOR,8,Lexington/Aiken area,SC,"LAUGHLIN, MICHAEL L.",Republican,1,,1,,D 8 GOP incumbent (32yo); 8 yrs experience (V1 R2 OCR-verified rebuild from 1976-10-29),0.9
+SC,Columbia State,143151,1976,STATE SENATOR,8,Lexington/Aiken area,SC,"WILSON, ADDISON G. (JOE)",Republican,1,,,,D 8 Seat 4; over Democrat Nikki Setzler (V1 R2 OCR-verified rebuild from 1976-10-29),0.9
+SC,Columbia State,143151,1960,VICE PRESIDENT,,,SC,"LODGE, HENRY CABOT",Republican,1,,,,VP matching PRES endorsement (V1 R3) - Nixon-Lodge ticket,0.87
+SC,Columbia State,143151,1972,VICE PRESIDENT,,,SC,"AGNEW, SPIRO T.",Republican,1,,,,VP matching PRES endorsement (V1 R3) - Nixon-Agnew ticket,0.87
+SC,Columbia State,143151,1976,VICE PRESIDENT,,,SC,"DOLE, ROBERT",Republican,1,,,,VP matching PRES endorsement (V1 R3) - Ford-Dole ticket,0.87
+SC,Columbia State,143151,1988,VICE PRESIDENT,,,SC,"QUAYLE, DAN",Republican,1,,,,VP matching PRES endorsement (V1 R3) - Bush-Quayle ticket,0.87
+SC,Columbia State,143151,2004,VICE PRESIDENT,,,SC,"CHENEY, DICK",Republican,1,,,,VP matching PRES endorsement (V1 R3) - Bush-Cheney ticket,0.87
+SC,Columbia State,143151,2008,VICE PRESIDENT,,,SC,"PALIN, SARAH",Republican,1,,,,VP matching PRES endorsement (V1 R3) - McCain-Palin ticket,0.87
+SC,Columbia State,143151,2016,VICE PRESIDENT,,,SC,"KAINE, TIM",Democrat,1,,,,VP matching PRES endorsement (V1 R3) - Clinton-Kaine ticket,0.87
+SC,Columbia State,143151,1956,PRESIDENT,,,SC,"STEVENSON, ADLAI E.",Democrat,0,,,,Pattern A from 1956 (V1 R4) - paper endorsed Byrd electors strategy,0.85
+SC,Columbia State,143151,1956,PRESIDENT,,,SC,"EISENHOWER, DWIGHT D.",Republican,0,,1,,"Pattern A from 1956 (V1 R4) - paper endorsed Byrd electors, not Eisenhower",0.85
+SC,Columbia State,143151,1960,PRESIDENT,,,SC,"KENNEDY, JOHN F.",Democrat,0,,,,Pattern A from 1960 (V1 R4) - paper endorsed Nixon R,0.87
+SC,Columbia State,143151,1960,VICE PRESIDENT,,,SC,"JOHNSON, LYNDON B.",Democrat,0,,,,VP Pattern A from 1960 (V1 R4),0.87
+SC,Columbia State,143151,1970,GOVERNOR,,,SC,"WATSON, ALBERT",Republican,0,,,,Pattern A from 1970 (V1 R4) - paper endorsed West D,0.87
+SC,Columbia State,143151,1970,H,2,SC 2nd Congressional District,SC,"MCDONALD, ROBERT W.",Democrat,0,1,,,Pattern A from 1970 (V1 R4) - paper endorsed Spence R challenger; McDonald was D incumbent,0.85
+SC,Columbia State,143151,1972,PRESIDENT,,,SC,"MCGOVERN, GEORGE",Democrat,0,,,,Pattern A from 1972 (V1 R4) - paper endorsed Nixon R,0.87
+SC,Columbia State,143151,1972,VICE PRESIDENT,,,SC,"SHRIVER, R. SARGENT",Democrat,0,,,,VP Pattern A from 1972 (V1 R4),0.87
+SC,Columbia State,143151,1982,DIRECTOR,,,SC,"EHRHARDT, JOE E.",Republican,0,,,,Pattern A from 1982-10-29 OCR (V1 R7) - Marchant D endorsed over Ehrhardt R,0.88
+SC,Columbia State,143151,1984,STATE SENATOR,,Richland County,SC,"LOURIE, ISADORE E.",Democrat,1,1,,,Richland senatorial district; D incumbent (V1 R8 OCR-rebuilt from 1984-11-02),0.92
+SC,Columbia State,143151,1984,STATE SENATOR,,Richland County,SC,"MCDONALD, HEYWARD",Democrat,1,1,,,Richland senatorial district; D incumbent (V1 R8 OCR-rebuilt from 1984-11-02),0.92
+SC,Columbia State,143151,1984,STATE SENATOR,,Richland County,SC,"RUBIN, HYMAN",Democrat,1,1,,,Richland senatorial district; D incumbent (V1 R8 OCR-rebuilt from 1984-11-02),0.92
+SC,Columbia State,143151,1984,STATE SENATOR,,Richland County,SC,"NEWMAN, I. DEQUINCEY",Democrat,1,1,,,Richland senatorial district; D incumbent civil rights leader at 73 (V1 R8 OCR-rebuilt from 1984-11-02),0.92
+SC,Columbia State,143151,1984,STATE SENATOR,,Richland County,SC,"MEETZE, J.D. (BUDDY)",Republican,0,,,,Pattern A from 1984-11-02 OCR (V1 R8) - Newman D endorsed; political newcomer,0.85
+SC,Columbia State,143151,1980,H,2,,SC,"TURNIPSEED, TOM",Democrat,0,,,,"Pattern A from notes mining (V1 R9) - SPENCE, FLOYD Republican endorsed",0.85
+SC,Columbia State,143151,1982,H,6,,SC,"TALLON, ROBIN",Democrat,0,,,,"Pattern A from notes mining (V1 R9) - NAPIER, JOHN L. Republican endorsed",0.85
+SC,Columbia State,143151,1982,H,2,2,SC,"MOSELY, KEN",Democrat,0,,,,"Pattern A from notes mining (V1 R9) - SPENCE, FLOYD Republican endorsed",0.85
+SC,Columbia State,143151,1984,H,2,,SC,"MOSELY, KEN",Democrat,0,,,,"Pattern A from notes mining (V1 R9) - SPENCE, FLOYD Republican endorsed",0.85
+SC,Columbia State,143151,1986,H,2,,SC,"ZEIGLER, FRED",Democrat,0,,,,Pattern A historical (V1 R10) - Spence R endorsed; CR endorsed Zeigler D (cross-paper divergence),0.85
+SC,Columbia State,143151,1988,STATE REP,72,Richland,SC,"ELLIOTT, SCOTT",Republican,0,,,,"Pattern A from notes mining (V1 R9) - ROGERS, TIM Democrat endorsed [YEAR FIX V2 R52: 1998→1988 per OCR — filename was 19981104 but clipping is 1988-11-04]",0.85
+SC,Columbia State,143151,1988,STATE REP,75,Richland,SC,"ROSSI, RAY",Republican,0,,,,"Pattern A from notes mining (V1 R9) - WAITES, CANDY Democrat endorsed [YEAR FIX V2 R52: 1998→1988 per OCR — filename was 19981104 but clipping is 1988-11-04]",0.85
+SC,Columbia State,143151,1988,STATE REP,76,Richland,SC,"LATIMER, EDWARD",Democrat,0,,,,"Pattern A from notes mining (V1 R9) - HEARN, JOYCE Republican endorsed [YEAR FIX V2 R52: 1998→1988 per OCR — filename was 19981104 but clipping is 1988-11-04]",0.85
+SC,Columbia State,143151,2014,STATE REP,75,,SC,"MCCULLOCH, JOE",Democrat,0,1,,,"Pattern A from notes mining (V1 R9) - FINLAY, KIRKMAN Republican endorsed",0.85
+SC,Columbia State,143151,2020,SENATOR,,SC,SC,"GRAHAM, LINDSEY",Republican,0,,1,,"Pattern A from notes mining (V1 R9) - HARRISON, JAIME Democrat endorsed",0.85
+SC,Columbia State,143151,2020,H,1,SC-1,SC,"MACE, NANCY",Republican,0,,,,"Pattern A from notes mining (V1 R9) - CUNNINGHAM, JOE Democrat endorsed",0.85
+SC,Columbia State,143151,2020,H,2,SC-2,SC,"BOROUGHS, ADAIR FORD",Democrat,0,,,,"Pattern A from notes mining (V1 R9) - WILSON, JOE Republican endorsed",0.85
+SC,Columbia State,143151,2020,H,6,SC-6,SC,"MCCOLLUM, JOHN",Republican,0,,,,"Pattern A from notes mining (V1 R9) - CLYBURN, JIM Democrat endorsed",0.85
+SC,Columbia State,143151,2020,STATE SENATOR,20,,SC,"DUNN, BENJAMIN",Republican,0,,,,"Pattern A from notes mining (V1 R9) - HARPOOTLIAN, RICHARD Democrat endorsed",0.85
+SC,Columbia State,143151,2020,STATE SENATOR,26,,SC,"SMITH, CHRIS",Republican,0,,,,"Pattern A from notes mining (V1 R9) - SETZLER, NIKKI Democrat endorsed",0.85
+SC,Columbia State,143151,2020,STATE REP,75,,SC,"BAILEY, RHODES",Democrat,0,,,,"Pattern A from notes mining (V1 R9) - FINLAY, KIRKMAN III Republican endorsed",0.85
+SC,Columbia State,143151,1978,SENATOR,,,SC,"RAVENEL, CHARLES (PUG)",Democrat,0,,,,Pattern A historical (V1 R10) - Thurmond R endorsed,0.80
+SC,Columbia State,143151,1978,GOVERNOR,,,SC,"YOUNG, EDWARD",Republican,0,,,,Pattern A historical (V1 R10) - Riley D endorsed,0.80
+SC,Columbia State,143151,1980,SENATOR,,,SC,"MAYS, MARSHALL",Republican,0,,,,Pattern A historical (V1 R10) - Hollings D endorsed,0.80
+SC,Columbia State,143151,1982,GOVERNOR,,,SC,"WORKMAN, W. D.",Republican,0,,,,Pattern A historical (V1 R10) - Riley D endorsed,0.80
+SC,Columbia State,143151,1982,LT GOVERNOR,,,SC,"RUSSELL, NORMA",Republican,0,,,,Pattern A historical (V1 R10) - Daniel D endorsed,0.80
+SC,Columbia State,143151,1982,ATTORNEY GENERAL,,,SC,"MYERS, DONALD",Republican,0,,,,Pattern A historical (V1 R10) - Medlock D endorsed,0.80
+SC,Columbia State,143151,1986,SENATOR,,,SC,"MCMASTER, HENRY DARGAN",Republican,0,,,,Pattern A historical (V1 R10) - Hollings D endorsed,0.80
+SC,Columbia State,143151,1986,GOVERNOR,,,SC,"DANIEL, MIKE",Democrat,0,,,,Pattern A historical (V1 R10) - Campbell R endorsed,0.80
+SC,Columbia State,143151,1986,LT GOVERNOR,,,SC,"FOREMAN, SAUL",Democrat,0,,,,Pattern A historical (V1 R10) - Hartnett R endorsed,0.80
+SC,Columbia State,143151,1988,PRESIDENT,,,SC,"DUKAKIS, MICHAEL",Democrat,0,,,,Pattern A historical (V1 R10) - Bush R endorsed,0.85
+SC,Columbia State,143151,1988,VICE PRESIDENT,,,SC,"BENTSEN, LLOYD",Democrat,0,,,,VP Pattern A historical (V1 R10),0.85
+SC,Columbia State,143151,2004,PRESIDENT,,,SC,"KERRY, JOHN F.",Democrat,0,,,,Pattern A historical (V1 R10) - Bush R endorsed,0.85
+SC,Columbia State,143151,2004,VICE PRESIDENT,,,SC,"EDWARDS, JOHN",Democrat,0,,,,VP Pattern A historical (V1 R10),0.85
+SC,Columbia State,143151,2004,SENATOR,,,SC,"DEMINT, JIM",Republican,0,,,,Pattern A historical (V1 R10) - Tenenbaum D endorsed,0.80
+SC,Columbia State,143151,2008,PRESIDENT,,,SC,"OBAMA, BARACK",Democrat,0,,,,Pattern A historical (V1 R10) - McCain R endorsed,0.85
+SC,Columbia State,143151,2008,VICE PRESIDENT,,,SC,"BIDEN, JOSEPH",Democrat,0,,,,VP Pattern A historical (V1 R10),0.85
+SC,Columbia State,143151,2016,PRESIDENT,,,SC,"TRUMP, DONALD",Republican,0,,,,Pattern A historical (V1 R10) - Clinton D endorsed,0.85
+SC,Columbia State,143151,2016,VICE PRESIDENT,,,SC,"PENCE, MIKE",Republican,0,,,,VP Pattern A historical (V1 R10),0.85
+SC,Columbia State,143151,2006,GOVERNOR,,,SC,"MOORE, TOMMY",Democrat,0,,,,Pattern A historical (V1 R10) - Sanford R endorsed,0.80
+SC,Columbia State,143151,1972,STATE SENATOR,7,Richland/Fairfield/Chester,SC,"BRISTOW, WALTER J.",Democrat,1,1,,,Seat 1 D incumbent; Sen Bristow seems clearly the better choice (V2 R31 OCR-verified per 1972-11-03),0.88
+SC,Columbia State,143151,1972,STATE SENATOR,7,Richland/Fairfield/Chester,SC,"LOURIE, ISADORE E.",Democrat,1,,,,Seat 2 D; endorsed over R Kenneth Powell (V2 R31 OCR-verified per 1972-11-03),0.88
+SC,Columbia State,143151,1972,STATE SENATOR,7,Richland/Fairfield/Chester,SC,"MEDLOCK, T. TRAVIS",Democrat,1,,,,Seat 4 D; endorsed as one of best state legislators (V2 R31 OCR-verified per 1972-11-03),0.88
+SC,Columbia State,143151,1972,STATE SENATOR,7,Fairfield/Chester,SC,"MARTIN, JOHN A.",Democrat,1,1,,,Seat 5 D incumbent from Winnsboro; running for new district seat (V2 R31 OCR-verified per 1972-11-03),0.88
+SC,Columbia State,143151,1972,STATE SENATOR,7,Richland/Fairfield/Chester,SC,"CRUM, J. LEWIS",Republican,0,,,,Pattern A 1972 Seat 1 - Bristow D endorsed (V2 R31 OCR-verified per 1972-11-03),0.88
+SC,Columbia State,143151,1972,STATE SENATOR,7,Richland/Fairfield/Chester,SC,"POWELL, KENNETH G.",Republican,0,,,,Pattern A 1972 Seat 2 - Lourie D endorsed; SC State GOP chairman (V2 R31 OCR-verified per 1972-11-03),0.88
+SC,Columbia State,143151,1974,SENATOR,,,SC,"HOLLINGS, ERNEST F.",Democrat,1,,,,MISSING ENDORSEMENT (V2 R33) per 1974-10-29 OCR - SEN incumbent endorsed over Gwen Bush R,0.92
+SC,Columbia State,143151,1974,SENATOR,,,SC,"BUSH, GWEN",Republican,0,,,,Pattern A from 1974-10-29 OCR (V2 R33) - Hollings D endorsed,0.85
+SC,Columbia State,143151,1974,ATTORNEY GENERAL,,,SC,"POWELL, KENNETH",Republican,0,,,,Pattern A from 1974-10-25 OCR (V2 R33) - McLeod D endorsed,0.85
+SC,Columbia State,143151,1978,AGRICULTURE COMMISSIONER,,,SC,"PATRICK, G. BRYAN",Republican,1,,1,,Agriculture Commissioner incumbent R; The State endorses Patrick (V2 R42 OCR-verified per 1978-11-05; appointed by Edwards to fill Harrelson term),0.92
+SC,Columbia State,143151,1978,AGRICULTURE COMMISSIONER,,,SC,"YOUNG, HENRY G.",Democrat,0,,,,Pattern A from 1978-11-05 OCR (V2 R42) - Patrick R endorsed,0.85
+SC,Columbia State,143151,1978,SEC OF STATE,,,SC,"DRAWDY, J. WESLEY",Republican,0,,,,Pattern A from 1978-11-05 OCR (V2 R42) - Campbell D endorsed,0.85
+SC,Columbia State,143151,1978,SUPERINTENDENT,,,SC,"WILLIAMS, CHARLIE G.",Democrat,0,,,,Pattern A from 1978-11-05 OCR (V2 R42) - Kirk R endorsed; CR endorsed Williams D (cross-paper divergence),0.85
+SC,Columbia State,143151,1978,DIRECTOR,,,SC,"EVERHART, WALTER D.",Republican,0,,,,Pattern A from 1978-11-05 OCR (V2 R42) - Marchant D endorsed,0.85
+SC,Columbia State,143151,1978,DIRECTOR,,,SC,"DILLINGHAM, C.C.",Independent,0,,,,Pattern A from 1978-11-05 OCR (V2 R42) - Marchant D endorsed; 3-way race,0.85
+SC,Columbia State,143151,1988,STATE SENATOR,18,Richland County,SC,"GIESE, WARREN K.",Republican,0,,,,Pattern A from 1988-11-03 OCR (V2 R51) - McDonald D endorsed; former Senator/USC dean; cross-year name std (V2 R71),0.85
+SC,Columbia State,143151,1988,STATE SENATOR,20,Richland County,SC,"ELLIOTT JR, TOM",Democrat,0,,,,Pattern A from 1988-11-03 OCR (V2 R51) - Courson R endorsed; son of controversial former Sen Elliott Sr,0.85
+SC,Columbia State,143151,1988,STATE SENATOR,19,Richland County,SC,"NEWMAN, I. DEQUINCEY",Democrat,1,1,,,A nod for incumbents - Patterson + Newman unopposed (V2 R51) per 1988-11-03 OCR,0.85
+SC,Columbia State,143151,1988,STATE SENATOR,19,Richland County,SC,"PATTERSON, KAY",Democrat,1,1,,,A nod for incumbents - Patterson + Newman unopposed (V2 R51) per 1988-11-03 OCR,0.85
+SC,Columbia State,143151,1988,STATE REP,79,Richland County,SC,"PATTERSON III, GRADY L. (LOCK)",Democrat,0,,,,Pattern A from 1988-11-04 OCR (V2 R52) - Corning R endorsed,0.85
+SC,Columbia State,143151,2010,GOVERNOR,,,SC,"HALEY, NIKKI",Republican,0,,,,Pattern A from 2010-11-02 OCR (V2 R56) - Sheheen D endorsed,0.88
+SC,Columbia State,143151,2014,GOVERNOR,,,SC,"HALEY, NIKKI",Republican,0,,1,,Pattern A from 2014-11-04 OCR (V2 R56) - Sheheen D endorsed; Haley R incumbent,0.88
+SC,Columbia State,143151,2014,SENATOR,,,SC,"HUTTO, BRAD",Democrat,0,,,,Pattern A from 2014 historical (V2 R56) - Graham R endorsed full term,0.85
+SC,Columbia State,143151,2014,SENATOR,,,SC,"DICKERSON, JOYCE",Democrat,0,,,,Pattern A from 2014 historical (V2 R56) - Scott R endorsed unexpired term,0.85
+SC,Columbia State,143151,2010,LT GOVERNOR,,,SC,"COOPER, ASHLEY",Democrat,0,,,,Pattern A from 2010 historical (V2 R56) - Ard R endorsed,0.80
+SC,Columbia State,143151,2010,SUPERINTENDENT,,,SC,"HOLLEMAN, FRANK",Democrat,0,,,,Pattern A from 2010 historical (V2 R56) - Zais R endorsed,0.80
+SC,Columbia State,143151,2006,LT GOVERNOR,,,SC,"RAVENEL, ROBERT",Democrat,0,,,,Pattern A from 2006 historical (V2 R56) - Bauer R endorsed,0.78
+SC,Columbia State,143151,2012,CNTY COMM,8,Richland County,SC,"MANNING, JIM",Democrat,0,1,,,Pattern A from 2012-11-06 OCR (V2 R66) - Letts R endorsed; Manning incumbent bizarre behavior,0.85
+SC,Columbia State,143151,1980,H,1,,SC,"RAVENEL, CHARLES (PUG)",Democrat,0,,,,Pattern A from 1980-10-28 OCR (V3 R81) - Hartnett R endorsed; Lowcountry race,0.85
+SC,Columbia State,143151,1980,H,3,,SC,"PARKER, MARSHALL",Republican,0,,,,Pattern A from 1980-10-28 OCR (V3 R81) - Derrick D endorsed; Oconee dairyman,0.85
+SC,Columbia State,143151,1980,H,6,,SC,"JENRETTE, JOHN",Democrat,0,1,,,Pattern A from 1980-10-28 OCR (V3 R81) - Napier R endorsed; incumbent indicted in Abscam,0.85
+SC,Columbia State,143151,2004,STATE SENATOR,,,SC,"LOURIE, JOEL",Democrat,1,,,,Much-needed addition to the Senate - 'brightest stars' (V3 R85) per 2004-11-02 OCR,0.90
+SC,Columbia State,143151,2004,STATE REP,76,Richland County,SC,"HOWARD, LEON",Democrat,1,,,,Rep. Howard works to broaden discussion (V3 R85) per 2004-11-02 OCR,0.90
+SC,Columbia State,143151,2004,STATE REP,77,Richland County,SC,"WHITFIELD, SWAIN",Republican,1,,,,Whitfield supports reform; broad knowledge (V3 R85) per 2004-11-02 OCR,0.88
+SC,Columbia State,143151,2004,STATE REP,78,Richland County,SC,"BRADY, JOAN",Republican,1,,,,Brady impressive grasp of issues; former Richland Council (V3 R85) per 2004-11-02 OCR,0.90
+SC,Columbia State,143151,2004,STATE REP,79,Richland County,SC,"COTTY, BILL",Republican,1,,1,,Rep. Cotty one of most effective legislators (V3 R85) per 2004-11-02 OCR,0.90
+SC,Columbia State,143151,2004,SHERIFF,,Lexington County,SC,"METTS, JAMES",Republican,1,,,,Lexington Sheriff Jim Metts first-year (V3 R85) per 2004-11-02 OCR,0.88
+SC,Columbia State,143151,2004,CORONER,,Richland County,SC,"WATTS, GARY",Democrat,1,1,,,Richland Coroner Watts (V3 R85) per 2004-11-02 OCR; FIX r_inc→d_inc (V4 R191) - Watts is D incumbent,0.85
+SC,Columbia State,143151,2004,CNTY COMM,5,Richland County,SC,"JETER, DAMON",Democrat,1,,,,Richland Council District 5 (V3 R85) per 2004-11-02 OCR,0.85
+SC,Columbia State,143151,2004,CNTY COMM,8,Richland County,SC,"MONTGOMERY, MIKE",Democrat,1,,,,Richland Council District 8 (V3 R85) per 2004-11-02 OCR,0.85
+SC,Columbia State,143151,2008,H,5,South Carolina 5th Congressional District,SC,"SPRATT, JOHN M.",Democrat,1,1,,,5th District incumbent; leading expert on fiscal issues (V3 R94) per 2008-11-04 OCR,0.90
+SC,Columbia State,143151,2008,STATE SENATOR,26,Lexington County,SC,"SETZLER, NIKKI",Democrat,1,1,,,Respected sober consensus-builder (V3 R94) per 2008-11-04 OCR,0.90
+SC,Columbia State,143151,2008,STATE SENATOR,22,Richland County,SC,"LOURIE, JOEL",Democrat,1,1,,,State Senator Joel Lourie (V3 R94) per 2008-11-04 OCR,0.88
+SC,Columbia State,143151,2008,CNTY COMM,8,Richland County,SC,"MONTGOMERY, MIKE",Democrat,1,1,,1,Richland County Council District 8 incumbent; thoughtful right leader (V3 R94) per 2008-11-04 OCR,0.88
+SC,Columbia State,143151,1988,H,2,South Carolina 2nd Congressional District,SC,"SPENCE, FLOYD",Republican,0,,1,,Pattern A from 1988-11-05 OCR (V3 R111) - Leventis D endorsed; CS shifted from 1986 Spence endorsement,0.88

@@ -1,19 +1,19 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence,extraction_confidence_note,source_file
-IA,Des Moines Tribune,115151,1954,IA,Des Moines City Bond,,"$225,000 city bond issue for East Town park swimming pool",1,Vote YES; needs 60% to pass,0.95,,115151_19541026.pdf
-IA,Des Moines Tribune,115151,1954,IA,Polk County Bond,,"$1,428,000 bond issue for new county home for mental patients",0,Editorial titled 'County Shouldn't Build New Home For Mental Patients',0.92,,115151_19541025.pdf
-IA,Des Moines Tribune,115151,1954,IA,Polk County Tax Levy,,"Tax levy to remodel Polk County Courthouse ($50,000/year for 4 years)",1,Vote YES on tax levy,0.92,,115151_19541027.pdf
-IA,Des Moines Tribune,115151,1956,IA,Polk County Referendum,,Authorize Polk County to appoint conservation board and levy up to a mill in property taxes for parks,1,Vote YES on county conservation board referendum,0.92,,115151_19561029.pdf
-IA,Des Moines Tribune,115151,1958,IA,Des Moines City Bond,,"$375,000 bond issue for two new fire stations to replace 3 old ones",1,Vote YES,0.95,,115151_19581031.pdf
-IA,Des Moines Tribune,115151,1962,IA,Polk County Tax Levy,,"9/16-mill tax for one year to fund $220,000 in Polk County Courthouse repairs",1,Vote YES,0.95,,115151_19621101.pdf
-IA,Des Moines Tribune,115151,1966,IA,Des Moines City Bond,,"$850,000 bond issue for central city services center (4 square block southeast of downtown)",1,Vote YES; needs 60%,0.95,,115151_19661101_v4.pdf
-IA,Des Moines Tribune,115151,1966,IA,Des Moines City Proposition,,Authorize 850 low-rent public housing units (federally funded),1,Vote YES,0.95,,115151_19661102.pdf
-IA,Des Moines Tribune,115151,1970,IA,Des Moines City Proposition,,"Public housing: 250 homes in Southeast Bottoms (federal $4,225,000)",1,Vote YES; no local taxes involved,0.95,,115151_19701028.pdf
-IA,Des Moines Tribune,115151,1970,IA,Des Moines City Proposition,,Annexation of approximately 16 square miles,1,Vote YES on annexation proposals,0.92,,115151_19701030.pdf
-IA,Des Moines Tribune,115151,1972,IA,Des Moines City Cable TV Franchise,,Athena Cablevision franchise bid,0,"Vote NO; reject both bidders, demand council restart",0.92,,115151_19721031.pdf
-IA,Des Moines Tribune,115151,1972,IA,Des Moines City Cable TV Franchise,,Hawkeye Cablevision franchise bid,0,"Vote NO; reject both bidders, demand council restart",0.92,,115151_19721031.pdf
-IA,Des Moines Tribune,115151,1974,IA,Des Moines City Bond,,$7.5 million bond issue for Veterans Memorial Auditorium addition,0,'We question whether a hastily-planned addition would be a wise expenditure',0.85,,115151_19741031.pdf
-IA,Des Moines Tribune,115151,1974,IA,Polk County Bond,,$5 million bond issue for new county office building plus Courthouse remodel ($4M federal revenue-sharing),0,Editorial favors further study and city-county cooperation rather than new building,0.85,Direction inferred from negative editorial framing,115151_19741031.pdf
-IA,Des Moines Tribune,115151,1978,IA,Polk County / Des Moines Lodging Tax,,5 percent lodging (hotel/motel) tax,1,Vote YES; revenues for Veterans Auditorium and cultural facilities,0.95,,115151_19781103.pdf
-IA,Des Moines Tribune,115151,1978,IA,Polk County Bond,,$10.6 million bond issue for new Polk County jail,1,Vote YES; current jail ranked 'poor' by state,0.95,,115151_19781106.pdf
-IA,Des Moines Tribune,115151,1980,IA,Iowa Constitutional Amendment,,Equal Rights Amendment to Iowa Constitution,1,Vote YES on equal rights,0.92,,115151_19801101_v2.pdf
-IA,Des Moines Tribune,115151,1980,IA,Iowa Constitutional Question,,Convention: hold a state constitutional convention,0,Vote NO on convention,0.92,,115151_19801101_v2.pdf
+IA,Des Moines Tribune,115151,1954,IA,BOND,,"$225,000 city bond issue for East Town park swimming pool",1,Vote YES; needs 60% to pass,0.95,,115151_19541026.pdf
+IA,Des Moines Tribune,115151,1954,IA,BOND,,"$1,428,000 bond issue for new county home for mental patients",0,Editorial titled 'County Shouldn't Build New Home For Mental Patients',0.95,,115151_19541025.pdf
+IA,Des Moines Tribune,115151,1954,IA,REFERENDUM,,"Tax levy to remodel Polk County Courthouse ($50,000/year for 4 years)",1,Vote YES on tax levy,0.95,,115151_19541027.pdf
+IA,Des Moines Tribune,115151,1956,IA,REFERENDUM,,Authorize Polk County to appoint conservation board and levy up to a mill in property taxes for parks,1,Vote YES on county conservation board referendum,0.95,,115151_19561029.pdf
+IA,Des Moines Tribune,115151,1958,IA,BOND,,"$375,000 bond issue for two new fire stations to replace 3 old ones",1,Vote YES,0.95,,115151_19581031.pdf
+IA,Des Moines Tribune,115151,1962,IA,REFERENDUM,,"9/16-mill tax for one year to fund $220,000 in Polk County Courthouse repairs",1,Vote YES,0.95,,115151_19621101.pdf
+IA,Des Moines Tribune,115151,1966,IA,BOND,,"$850,000 bond issue for central city services center (4 square block southeast of downtown)",1,Vote YES; needs 60%,0.95,,115151_19661101_v4.pdf
+IA,Des Moines Tribune,115151,1966,IA,REFERENDUM,,Authorize 850 low-rent public housing units (federally funded),1,Vote YES,0.95,,115151_19661102.pdf
+IA,Des Moines Tribune,115151,1970,IA,REFERENDUM,,"Public housing: 250 homes in Southeast Bottoms (federal $4,225,000)",1,Vote YES; no local taxes involved,0.95,,115151_19701028.pdf
+IA,Des Moines Tribune,115151,1970,IA,REFERENDUM,,Annexation of approximately 16 square miles,1,Vote YES on annexation proposals,0.95,,115151_19701030.pdf
+IA,Des Moines Tribune,115151,1972,IA,REFERENDUM,,Athena Cablevision franchise bid,0,"Vote NO; reject both bidders, demand council restart",0.95,,115151_19721031.pdf
+IA,Des Moines Tribune,115151,1972,IA,REFERENDUM,,Hawkeye Cablevision franchise bid,0,"Vote NO; reject both bidders, demand council restart",0.95,,115151_19721031.pdf
+IA,Des Moines Tribune,115151,1974,IA,BOND,,$7.5 million bond issue for Veterans Memorial Auditorium addition,0,'We question whether a hastily-planned addition would be a wise expenditure',0.95,,115151_19741031.pdf
+IA,Des Moines Tribune,115151,1974,IA,BOND,,$5 million bond issue for new county office building plus Courthouse remodel ($4M federal revenue-sharing),0,Editorial favors further study and city-county cooperation rather than new building,0.95,Direction inferred from negative editorial framing,115151_19741031.pdf
+IA,Des Moines Tribune,115151,1978,IA,REFERENDUM,,5 percent lodging (hotel/motel) tax,1,Vote YES; revenues for Veterans Auditorium and cultural facilities,0.95,,115151_19781103.pdf
+IA,Des Moines Tribune,115151,1978,IA,BOND,,$10.6 million bond issue for new Polk County jail,1,Vote YES; current jail ranked 'poor' by state,0.95,,115151_19781106.pdf
+IA,Des Moines Tribune,115151,1980,IA,AMENDMENT,,Equal Rights Amendment to Iowa Constitution,1,Vote YES on equal rights,0.95,,115151_19801101_v2.pdf
+IA,Des Moines Tribune,115151,1980,IA,REFERENDUM,,Convention: hold a state constitutional convention,0,Vote NO on convention,0.95,,115151_19801101_v2.pdf

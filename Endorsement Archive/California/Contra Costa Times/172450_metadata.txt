@@ -7,12 +7,13 @@ Number of clippings: 15
 Endorsement data years: 1952, 1958, 1960, 1962, 1964, 1966, 1970, 1972, 1974, 1976, 1978
 
 --- ENDORSEMENT COUNTS ---
-Total candidate records: 198
-  Endorsed (=1): 189
-  Opposed (=0): 9
-Total proposition records: 147
+Total candidate records: 222 (V7 FINAL)
+  Endorsed (=1): 191
+  Opposed (=0): 31
+Total proposition records: 147 (V7 FINAL)
   Endorsed (=1): 113
-  Opposed (=0): 34
+  Opposed (=0): 32
+  No Recommendation (=''): 2 (Walnut Creek Measures A, B 1978)
 
 --- CONFIDENCE SCORES ---
 Min: 0.65

@@ -1,427 +1,427 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
 OH,Dayton Daily News,135101,1960,PRESIDENT,,,OH,"KENNEDY, JOHN F.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1960,PRESIDENT,,,OH,"JOHNSON, LYNDON B.",Democrat,1,,,,VP,0.95
-OH,Dayton Daily News,135101,1960,H,3,,OH,"SCHENCK, PAUL F.",,1,,,,US Representative,0.95
-OH,Dayton Daily News,135101,1960,AUDITOR,,,OH,"RHODES, JAMES A.",,1,,,,Auditor of State,0.9
-OH,Dayton Daily News,135101,1960,STATE SENATOR,,,OH,"BAKER, WILLIAM",,1,,,,,0.9
-OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"YODER, JESSE",,1,,,,,0.9
-OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"WEISENBORN, CLARA E.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"ALBRITTON, DAVID A.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"SANDERS, WILLIAM L.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"RODERER, ROBERT L.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1960,CNTY COMM,,,OH,"KIEFABER, HARRY J.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1960,CNTY COMM,,,OH,"SCHELL, ROBERT L.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1960,DA/PROSECUTOR,,,OH,"YOUNG, PAUL R.",,1,,,,Prosecuting Attorney,0.95
-OH,Dayton Daily News,135101,1960,CNTY CLERK,,,OH,"KREBS, FRANK W.",,1,,,,Clerk of Court of Common Pleas,0.95
-OH,Dayton Daily News,135101,1960,SHERIFF,,,OH,"KEITER, BERNARD L.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1960,RECORDER,,,OH,"HECK, CHARLES S.",,1,,,,County Recorder,0.95
-OH,Dayton Daily News,135101,1960,TREASURER,,,OH,"PFEIFFER, CHARLES A.",,1,,,,County,0.95
-OH,Dayton Daily News,135101,1960,DIRECTOR,,,OH,"BAUER, CARL H.",,1,,,,County Engineer; unopposed,0.9
-OH,Dayton Daily News,135101,1960,CORONER,,,OH,"ZIPF, ROBERT E.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1960,SUPREME COURT,,,OH,"BELL, JAMES F.",,1,,,,Ohio Supreme Court Justice,0.9
-OH,Dayton Daily News,135101,1960,SUPREME COURT,,,OH,"TAFT, KINGSLEY A.",,1,,,,Ohio Supreme Court Justice,0.9
-OH,Dayton Daily News,135101,1960,SUPREME COURT,,,OH,"PECK, JOHN W.",,1,,,,Ohio Supreme Court Justice,0.9
-OH,Dayton Daily News,135101,1960,COURT OF APPEALS,,,OH,"SHERER, PAUL",,1,,,,Judge of Court of Appeals,0.9
-OH,Dayton Daily News,135101,1960,JUDGE,,,OH,"KESSLER, CARL D.",,1,,,,Common Pleas,0.9
-OH,Dayton Daily News,135101,1960,JUDGE,,,OH,"THOMAS, DON R.",,1,,,,Common Pleas; unopposed,0.9
-OH,Dayton Daily News,135101,1960,JUDGE,,,OH,"MILLS, CHARLES LEE",,1,,,,Common Pleas; unopposed,0.9
-OH,Dayton Daily News,135101,1960,JUDGE,,,OH,"ZIMMERS, NEAL F.",,1,,,,Probate Court,0.9
+OH,Dayton Daily News,135101,1960,H,3,,OH,"SCHENCK, PAUL F.",Republican,1,,,,US Representative,0.95
+OH,Dayton Daily News,135101,1960,AUDITOR,,,OH,"RHODES, JAMES A.",Republican,1,,,,Auditor of State,0.9
+OH,Dayton Daily News,135101,1960,STATE SENATOR,,,OH,"BAKER, WILLIAM",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"YODER, JESSE",Democrat,1,,,, [V1 party Republican→Democrat per OCR cross-reference],0.9
+OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"WEISENBORN, CLARA E.",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"ALBRITTON, DAVID A.",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"SANDERS, WILLIAM L.",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1960,STATE REP,,,OH,"RODERER, ROBERT L.",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1960,CNTY COMM,,Montgomery County,OH,"KIEFABER, HARRY J.",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1960,CNTY COMM,,Montgomery County,OH,"SCHELL, ROBERT L.",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1960,DA/PROSECUTOR,,Montgomery County,OH,"YOUNG, PAUL R.",Republican,1,,,,Prosecuting Attorney,0.95
+OH,Dayton Daily News,135101,1960,CNTY CLERK,,Montgomery County,OH,"KREBS, FRANK W.",Republican,1,,,,Clerk of Court of Common Pleas,0.95
+OH,Dayton Daily News,135101,1960,SHERIFF,,Montgomery County,OH,"KEITER, BERNARD L.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1960,RECORDER,,Montgomery County,OH,"HECK, CHARLES S.",Republican,1,,,,County Recorder,0.95
+OH,Dayton Daily News,135101,1960,TREASURER,,,OH,"PFEIFFER, CHARLES A.",Republican,1,,,,County,0.95
+OH,Dayton Daily News,135101,1960,DIRECTOR,,Montgomery County,OH,"BAUER, CARL H.",Democrat,1,,,,County Engineer; unopposed [V1 party Republican→Democrat per OCR cross-reference],0.9
+OH,Dayton Daily News,135101,1960,CORONER,,Montgomery County,OH,"ZIPF, ROBERT E.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1960,SUPREME COURT,,,OH,"BELL, JAMES F.",Nonpartisan,1,,,,Ohio Supreme Court Justice,0.9
+OH,Dayton Daily News,135101,1960,SUPREME COURT,,,OH,"TAFT, KINGSLEY A.",Nonpartisan,1,,,,Ohio Supreme Court Justice,0.9
+OH,Dayton Daily News,135101,1960,SUPREME COURT,,,OH,"PECK, JOHN W.",Nonpartisan,1,,,,Ohio Supreme Court Justice,0.9
+OH,Dayton Daily News,135101,1960,COURT OF APPEALS,,,OH,"SHERER, PAUL",Nonpartisan,1,,,,Judge of Court of Appeals,0.9
+OH,Dayton Daily News,135101,1960,JUDGE,,Montgomery County,OH,"KESSLER, CARL D.",Nonpartisan,1,,,,Common Pleas,0.9
+OH,Dayton Daily News,135101,1960,JUDGE,,Montgomery County,OH,"THOMAS, DON R.",Nonpartisan,1,,,,Common Pleas; unopposed,0.9
+OH,Dayton Daily News,135101,1960,JUDGE,,Montgomery County,OH,"MILLS, CHARLES LEE",Nonpartisan,1,,,,Common Pleas; unopposed,0.9
+OH,Dayton Daily News,135101,1960,JUDGE,,Montgomery County,OH,"ZIMMERS, NEAL F., JR.",Nonpartisan,1,,,,Probate Court,0.9
 OH,Dayton Daily News,135101,1962,GOVERNOR,,,OH,"DISALLE, MICHAEL V.",Democrat,1,1,,,incumbent,0.95
 OH,Dayton Daily News,135101,1962,SENATOR,,,OH,"LAUSCHE, FRANK J.",Democrat,1,1,,,incumbent,0.95
-OH,Dayton Daily News,135101,1962,H,3,,OH,"EVERS, MORTY",,1,,,,,0.9
+OH,Dayton Daily News,135101,1962,H,3,,OH,"EVERS, MORTY",Democrat,1,,,,,0.9
 OH,Dayton Daily News,135101,1962,H,,,OH,"SCHENCK, PAUL F.",Republican,1,,,,deserves reelection on experience,0.9
 OH,Dayton Daily News,135101,1962,H,,,OH,"TAFT, ROBERT JR.",Republican,1,,,,Congressman at large; son of late senator; should be a shoo-in,0.9
 OH,Dayton Daily News,135101,1962,STATE SENATOR,,,OH,"SMITH, JOHN C.",Democrat,1,1,,,incumbent,0.95
-OH,Dayton Daily News,135101,1962,STATE REP,,,OH,"YODER, JESSE",Democrat,1,,,,,0.9
+OH,Dayton Daily News,135101,1962,STATE REP,,,OH,"YODER, JESSE",Democrat,1,1,,,,0.9
 OH,Dayton Daily News,135101,1962,STATE REP,,,OH,"WEISENBORN, CLARA E.",Republican,1,,1,,incumbent,0.9
 OH,Dayton Daily News,135101,1962,STATE REP,,,OH,"DUGAN, JOHN J.",Republican,1,,,,,0.9
 OH,Dayton Daily News,135101,1962,STATE REP,,,OH,"CURRAN, HILDA",Democrat,1,,,,,0.9
 OH,Dayton Daily News,135101,1962,STATE REP,,,OH,"BLACKBURN, ROBERT C.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1962,CNTY COMM,,,OH,"HILL, ALFRED P.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1962,CNTY COMM,,Montgomery County,OH,"HILL, ALFRED P.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1962,AUDITOR,,,OH,"HAINES, JESSE",Republican,1,,1,,County; incumbent,0.95
 OH,Dayton Daily News,135101,1962,LT GOVERNOR,,,OH,"GALLAGHER, JOHN J.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1962,SEC OF STATE,,,OH,"BROWN, TED W.",Republican,1,1,,,incumbent,0.95
 OH,Dayton Daily News,135101,1962,TREASURER,,,OH,"FERGUSON, THOMAS E.",Democrat,1,,,,State Treasurer,0.95
-OH,Dayton Daily News,135101,1962,AUDITOR,,,OH,"TRACY, ROGER W.",Republican,1,,,,Auditor of State,0.95
+OH,Dayton Daily News,135101,1962,AUDITOR,,,OH,"TRACY, ROGER W. JR.",Republican,1,,,,Auditor of State,0.95
 OH,Dayton Daily News,135101,1962,ATTORNEY GENERAL,,,OH,"SAXBE, WILLIAM B.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1962,SUPREME COURT,,,OH,"WEYGANDT, CARL V.",Democrat,1,1,,,Chief Justice; incumbent,0.95
 OH,Dayton Daily News,135101,1962,SUPREME COURT,,,OH,"MARTHIAS, JOHN M.",Republican,1,,1,,Justice Jan 1 term; incumbent,0.9
 OH,Dayton Daily News,135101,1962,SUPREME COURT,,,OH,"COLE, RICHARD T.",Democrat,1,,,,Justice Jan 2 term,0.9
-OH,Dayton Daily News,135101,1962,JUDGE,,,OH,"CRAWFORD, CALVIN",Democrat,1,1,,,Common Pleas Court Second District; incumbent; unopposed,0.9
-OH,Dayton Daily News,135101,1962,JUDGE,,,OH,"SHIELDS, VINCENT M.",Democrat,1,1,,,Common Pleas Court Domestic Relations; incumbent; unopposed,0.9
-OH,Dayton Daily News,135101,1962,CNTY JUDGE,,,OH,"NOLAN, ROBERT L.",,1,,,,Montgomery County Court four-year term; incumbent,0.9
-OH,Dayton Daily News,135101,1962,CNTY JUDGE,,,OH,"MCMILLAN, WILLIAM W. JR.",,1,,,,Montgomery County Court four-year term,0.9
-OH,Dayton Daily News,135101,1962,CNTY JUDGE,,,OH,"ABRAHAMSON, ROBERT L.",,1,,,,Montgomery County Court two-year term; incumbent,0.9
-OH,Dayton Daily News,135101,1962,CNTY JUDGE,,,OH,"IZENSON, FRED M.",,1,,,,Montgomery County Court two-year term,0.9
+OH,Dayton Daily News,135101,1962,JUDGE,,Montgomery County,OH,"CRAWFORD, CALVIN",Democrat,1,1,,,Common Pleas Court Second District; incumbent; unopposed,0.9
+OH,Dayton Daily News,135101,1962,JUDGE,,Montgomery County,OH,"SHIELDS, VINCENT M.",Democrat,1,1,,,Common Pleas Court Domestic Relations; incumbent; unopposed,0.9
+OH,Dayton Daily News,135101,1962,CNTY JUDGE,,Montgomery County,OH,"NOLAN, ROBERT L.",Nonpartisan,1,,,,Montgomery County Court four-year term; incumbent,0.9
+OH,Dayton Daily News,135101,1962,CNTY JUDGE,,Montgomery County,OH,"MCMILLAN, WILLIAM W. JR.",Nonpartisan,1,,,,Montgomery County Court four-year term,0.9
+OH,Dayton Daily News,135101,1962,CNTY JUDGE,,Montgomery County,OH,"ABRAHAMSON, ROBERT L.",Nonpartisan,1,,,,Montgomery County Court two-year term; incumbent,0.9
+OH,Dayton Daily News,135101,1962,CNTY JUDGE,,Montgomery County,OH,"IZENSON, FRED M.",Nonpartisan,1,,,,Montgomery County Court two-year term,0.9
 OH,Dayton Daily News,135101,1964,PRESIDENT,,,OH,"JOHNSON, LYNDON B.",Democrat,1,1,,,incumbent,0.95
 OH,Dayton Daily News,135101,1964,SENATOR,,,OH,"TAFT, ROBERT JR.",Republican,1,,,,over Stephen M. Young,0.95
-OH,Dayton Daily News,135101,1964,H,,,OH,"SWEENEY, ROBERT W.",,1,,,,Representative to Congress at large,0.9
-OH,Dayton Daily News,135101,1964,H,3,,OH,"LOVE, RODNEY M.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1964,H,7,,OH,"GRAHAM, JERRY RICHARD",,1,,,,,0.95
-OH,Dayton Daily News,135101,1964,H,4,,OH,"MCCULLOCH, WILLIAM H.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1964,STATE SENATOR,,,OH,"WHALEN, CHARLES W. JR.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"ALBRITTON, DAVID D.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"BLACKBURN, ROBERT C.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"DUGAN, JOHN J.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"SEALEY, ALBERT H. JR.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"WEISENBORN, CLARA E.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1964,SUPREME COURT,,,OH,"GIBSON, RANKIN M.",,1,,,,Ohio Supreme Court,0.9
-OH,Dayton Daily News,135101,1964,SUPREME COURT,,,OH,"GRIFFITH, LYNN B.",,1,,,,Ohio Supreme Court,0.9
-OH,Dayton Daily News,135101,1964,SUPREME COURT,,,OH,"O'NEILL, C. WILLIAM",,1,,,,Ohio Supreme Court,0.9
-OH,Dayton Daily News,135101,1964,SUPREME COURT,,,OH,"ZIMMERMAN, CHARLES B.",,1,,,,Ohio Supreme Court,0.9
-OH,Dayton Daily News,135101,1964,JUDGE,,,OH,"FISHER, ARTHUR O.",,1,,,,Common Pleas,0.9
-OH,Dayton Daily News,135101,1964,JUDGE,,,OH,"MARTIN, ROBERT U.",,1,,,,Common Pleas,0.9
-OH,Dayton Daily News,135101,1964,JUDGE,,,OH,"SHIELDS, VINCENT M.",,1,,,,Common Pleas,0.9
-OH,Dayton Daily News,135101,1964,CNTY COMM,,,OH,"HOLCOMB, DAVID S.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1964,CNTY COMM,,,OH,"SMITH, JOHN C.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1964,DA/PROSECUTOR,,,OH,"FALKE, LEE C.",,1,,,,Prosecuting Attorney,0.95
-OH,Dayton Daily News,135101,1964,CNTY CLERK,,,OH,"YODER, JESSE",,1,,,,Clerk of Courts of Common Pleas,0.95
-OH,Dayton Daily News,135101,1964,SHERIFF,,,OH,"KEITER, BERNARD L.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1964,RECORDER,,,OH,"HECK, CHARLES S.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1964,TREASURER,,,OH,"HILL, ALFRED P.",,1,,,,County,0.95
-OH,Dayton Daily News,135101,1964,CORONER,,,OH,"ZIPF, ROBERT E.",,1,,,,,0.95
+OH,Dayton Daily News,135101,1964,H,,,OH,"SWEENEY, ROBERT W.",Democrat,1,,,,Representative to Congress at large,0.9
+OH,Dayton Daily News,135101,1964,H,3,,OH,"LOVE, RODNEY M.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1964,H,7,,OH,"GRAHAM, JERRY RICHARD",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1964,H,4,,OH,"MCCULLOCH, WILLIAM M.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1964,STATE SENATOR,,,OH,"WHALEN, CHARLES W. JR.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"ALBRITTON, DAVID A.",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"BLACKBURN, ROBERT C.",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"DUGAN, JOHN J.",Republican,1,,1,, [V1 party Democrat→Republican per OCR cross-reference],0.9
+OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"SEALEY, ALBERT H. JR.",Democrat,1,,,,,0.9
+OH,Dayton Daily News,135101,1964,STATE REP,,,OH,"WEISENBORN, CLARA E.",Republican,1,,1,,,0.9
+OH,Dayton Daily News,135101,1964,SUPREME COURT,,,OH,"GIBSON, RANKIN M.",Nonpartisan,1,,,,Ohio Supreme Court,0.9
+OH,Dayton Daily News,135101,1964,SUPREME COURT,,,OH,"GRIFFITH, LYNN B.",Nonpartisan,1,,,,Ohio Supreme Court,0.9
+OH,Dayton Daily News,135101,1964,SUPREME COURT,,,OH,"O'NEILL, C. WILLIAM",Nonpartisan,1,,,,Ohio Supreme Court,0.9
+OH,Dayton Daily News,135101,1964,SUPREME COURT,,,OH,"ZIMMERMAN, CHARLES B.",Nonpartisan,1,,,,Ohio Supreme Court,0.9
+OH,Dayton Daily News,135101,1964,JUDGE,,Montgomery County,OH,"FISHER, ARTHUR O.",Nonpartisan,1,,,,Common Pleas,0.9
+OH,Dayton Daily News,135101,1964,JUDGE,,Montgomery County,OH,"MARTIN, ROBERT U.",Nonpartisan,1,,,,Common Pleas,0.9
+OH,Dayton Daily News,135101,1964,JUDGE,,Montgomery County,OH,"SHIELDS, VINCENT M.",Nonpartisan,1,,,,Common Pleas,0.9
+OH,Dayton Daily News,135101,1964,CNTY COMM,,Montgomery County,OH,"HOLCOMB, DAVID S.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1964,CNTY COMM,,Montgomery County,OH,"SMITH, JOHN C.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1964,DA/PROSECUTOR,,Montgomery County,OH,"FALKE, LEE C.",Democrat,1,,,,Prosecuting Attorney,0.95
+OH,Dayton Daily News,135101,1964,CNTY CLERK,,Montgomery County,OH,"YODER, JESSE",Republican,1,,,,Clerk of Courts of Common Pleas,0.95
+OH,Dayton Daily News,135101,1964,SHERIFF,,Montgomery County,OH,"KEITER, BERNARD L.",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1964,RECORDER,,Montgomery County,OH,"HECK, CHARLES S.",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1964,TREASURER,,,OH,"HILL, ALFRED P.",Democrat,1,,,,County,0.95
+OH,Dayton Daily News,135101,1964,CORONER,,Montgomery County,OH,"ZIPF, ROBERT E.",Republican,1,,1,,,0.95
 OH,Dayton Daily News,135101,1968,PRESIDENT,,,OH,"HUMPHREY, HUBERT H.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1968,PRESIDENT,,,OH,"MUSKIE, EDMUND S.",Democrat,1,,,,VP,0.95
 OH,Dayton Daily News,135101,1968,SENATOR,,,OH,"GILLIGAN, JOHN J.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1968,H,3,,OH,"WHALEN, CHARLES W. JR.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1968,H,7,,OH,"CECILE, ROBERT E.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1968,H,4,,OH,"MCCULLOCH, WILLIAM M.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1968,H,4,,OH,"MCCULLOCH, WILLIAM M.",Republican,1,,1,,,0.95
 OH,Dayton Daily News,135101,1968,H,24,,OH,"LUKENS, DONALD E.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1968,STATE SENATOR,6,,OH,"HEIMANN, DAVID S.",Republican,1,,,,,0.9
 OH,Dayton Daily News,135101,1968,STATE REP,84,,OH,"YOUNG, FREDERICK N.",Republican,1,,,,,0.9
 OH,Dayton Daily News,135101,1968,STATE REP,85,,OH,"PUGH, OSCAR S. JR.",Democrat,1,,,,,0.9
 OH,Dayton Daily News,135101,1968,STATE REP,86,,OH,"MILS, FRANK W.",Republican,1,,,,,0.8
 OH,Dayton Daily News,135101,1968,STATE REP,87,,OH,"HALL, TONY P.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1968,STATE REP,88,,OH,"MCLIN, C. J. JR.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1968,CORONER,,,OH,"ZIPF, ROBERT E.",Republican,1,,,,unopposed; vote of approval for job well done,0.9
-OH,Dayton Daily News,135101,1968,SHERIFF,,,OH,"KEITER, BERNARD L.",Republican,1,,,,unopposed; vote of approval for job well done,0.9
-OH,Dayton Daily News,135101,1968,DIRECTOR,,,OH,"BAUER, CARL H.",Democrat,1,,,,County Engineer; unopposed; vote of approval,0.9
-OH,Dayton Daily News,135101,1968,CNTY COMM,,,OH,"HEIKE, EDWARD C.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1968,CNTY COMM,,,OH,"SMITH, JOHN C.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1968,DA/PROSECUTOR,,,OH,"FALKE, LEE C.",Democrat,1,,,,Prosecuting Attorney,0.95
-OH,Dayton Daily News,135101,1968,CNTY CLERK,,,OH,"PUGG, JOE D.",Republican,1,,,,Clerk of Court of Common Pleas,0.9
-OH,Dayton Daily News,135101,1968,RECORDER,,,OH,"PUGG, JOE D.",Republican,1,,,,County Recorder,0.8
-OH,Dayton Daily News,135101,1968,TREASURER,,,OH,"RODERER, ROBERT L.",,1,,,,County,0.9
-OH,Dayton Daily News,135101,1968,SUPREME COURT,,,OH,"TAFT, KINGSLEY A.",,1,,,,Chief Justice,0.95
-OH,Dayton Daily News,135101,1968,SUPREME COURT,,,OH,"HERBERT, THOMAS M.",,1,,,,Justice,0.9
-OH,Dayton Daily News,135101,1968,COURT OF APPEALS,,,OH,"CRAWFORD, CALVIN",,1,,,,Court of Appeals Second District,0.95
-OH,Dayton Daily News,135101,1968,JUDGE,,,OH,"LOVE, RODNEY M.",,1,,,,Common Pleas,0.9
-OH,Dayton Daily News,135101,1968,CNTY JUDGE,,,OH,"PHILLIPS, STANLEY S.",,1,,,,County Court,0.9
-OH,Dayton Daily News,135101,1968,CNTY JUDGE,,,OH,"ABRAHAMSON, ROBERT L.",,1,,,,County Court,0.9
+OH,Dayton Daily News,135101,1968,STATE REP,88,,OH,"MCLIN, C. J., JR.",Democrat,1,,,,,0.9
+OH,Dayton Daily News,135101,1968,CORONER,,Montgomery County,OH,"ZIPF, ROBERT E.",Republican,1,,1,,unopposed; vote of approval for job well done,0.9
+OH,Dayton Daily News,135101,1968,SHERIFF,,Montgomery County,OH,"KEITER, BERNARD L.",Republican,1,,1,,unopposed; vote of approval for job well done,0.9
+OH,Dayton Daily News,135101,1968,DIRECTOR,,Montgomery County,OH,"BAUER, CARL H.",Democrat,1,1,,,County Engineer; unopposed; vote of approval,0.9
+OH,Dayton Daily News,135101,1968,CNTY COMM,,Montgomery County,OH,"HEIKE, EDWARD C.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1968,CNTY COMM,,Montgomery County,OH,"SMITH, JOHN C.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1968,DA/PROSECUTOR,,Montgomery County,OH,"FALKE, LEE C.",Democrat,1,1,,,Prosecuting Attorney,0.95
+OH,Dayton Daily News,135101,1968,CNTY CLERK,,Montgomery County,OH,"PUGG, JOE D.",Republican,1,,,,Clerk of Court of Common Pleas,0.9
+OH,Dayton Daily News,135101,1968,RECORDER,,Montgomery County,OH,"PUGG, JOE D.",Republican,1,,,,County Recorder,0.8
+OH,Dayton Daily News,135101,1968,TREASURER,,,OH,"RODERER, ROBERT L.",Republican,1,,,,County,0.9
+OH,Dayton Daily News,135101,1968,SUPREME COURT,,,OH,"TAFT, KINGSLEY A.",Nonpartisan,1,,,,Chief Justice,0.95
+OH,Dayton Daily News,135101,1968,SUPREME COURT,,,OH,"HERBERT, THOMAS M.",Nonpartisan,1,,,,Justice,0.9
+OH,Dayton Daily News,135101,1968,COURT OF APPEALS,,,OH,"CRAWFORD, CALVIN",Nonpartisan,1,,,,Court of Appeals Second District,0.95
+OH,Dayton Daily News,135101,1968,JUDGE,,Montgomery County,OH,"LOVE, RODNEY M.",Nonpartisan,1,,,,Common Pleas,0.9
+OH,Dayton Daily News,135101,1968,CNTY JUDGE,,Montgomery County,OH,"PHILLIPS, STANLEY S.",Nonpartisan,1,,,,County Court,0.9
+OH,Dayton Daily News,135101,1968,CNTY JUDGE,,Montgomery County,OH,"ABRAHAMSON, ROBERT L.",Nonpartisan,1,,,,County Court,0.9
 OH,Dayton Daily News,135101,1970,SENATOR,,,OH,"METZENBAUM, HOWARD M.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1970,H,3,,OH,"WHALEN, CHARLES W. JR.",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1970,H,4,,OH,"MCCULLOCH, WILLIAM M.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1970,H,3,,OH,"WHALEN, CHARLES W. JR.",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1970,H,4,,OH,"MCCULLOCH, WILLIAM M.",Republican,1,,1,,,0.95
 OH,Dayton Daily News,135101,1970,H,7,,OH,"LEWIS, JOSEPH D.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1970,H,24,,OH,"RUPPERT, JAMES D.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1970,GOVERNOR,,,OH,"GILLIGAN, JOHN J.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1970,LT GOVERNOR,,,OH,"CALABRESE, ANTHONY O.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1970,ATTORNEY GENERAL,,,OH,"BROWN, WILLIAM J.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1970,AUDITOR,,,OH,"TRACY, ROGER W. JR.",Republican,1,,,,Auditor of State,0.95
+OH,Dayton Daily News,135101,1970,AUDITOR,,,OH,"TRACY, ROGER W. JR.",Republican,1,,1,,Auditor of State,0.95
 OH,Dayton Daily News,135101,1970,SEC OF STATE,,,OH,"KENNEDY, JOHN F.",Democrat,1,,,,,0.9
 OH,Dayton Daily News,135101,1970,TREASURER,,,OH,"DONAHEY, GERTRUDE W.",Democrat,1,,,,State Treasurer,0.95
 OH,Dayton Daily News,135101,1970,STATE SENATOR,5,,OH,"ORLETT, EDWARD J.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1970,STATE REP,84,,OH,"YOUNG, FREDERICK N.",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1970,STATE REP,85,,OH,"ALBRITTON, DAVID D.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1970,STATE REP,84,,OH,"YOUNG, FREDERICK N.",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1970,STATE REP,85,,OH,"ALBRITTON, DAVID A.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1970,STATE REP,86,,OH,"FRIES, TOM",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1970,STATE REP,87,,OH,"HALL, TONY P.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1970,STATE REP,88,,OH,"MCLIN, C. J. JR.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1970,CNTY COMM,,,OH,"HEIKE, EDWARD C.",Democrat,1,,,,Montgomery County Commissioner,0.95
+OH,Dayton Daily News,135101,1970,STATE REP,87,,OH,"HALL, TONY P.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1970,STATE REP,88,,OH,"MCLIN, C. J., JR.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1970,CNTY COMM,,Montgomery County,OH,"HEIKE, EDWARD C.",Democrat,1,1,,,Montgomery County Commissioner,0.95
 OH,Dayton Daily News,135101,1970,AUDITOR,,,OH,"OSWALD, A. L.",Republican,1,,,,County,0.95
-OH,Dayton Daily News,135101,1970,SUPREME COURT,,,OH,"O'NEILL, C. WILLIAM",,1,,,,Chief Justice,0.95
-OH,Dayton Daily News,135101,1970,SUPREME COURT,,,OH,"BROWN, ALLEN",,1,,,,Justice,0.95
-OH,Dayton Daily News,135101,1970,COURT OF APPEALS,,,OH,"KERNS, JOSEPH D.",,1,,,,,0.95
-OH,Dayton Daily News,135101,1970,JUDGE,,,OH,"FERGUSON, DOUGLAS K.",,1,,,,Common Pleas,0.95
-OH,Dayton Daily News,135101,1970,JUDGE,,,OH,"PHILLIPS, STANLEY S.",,1,,,,Common Pleas,0.95
-OH,Dayton Daily News,135101,1970,JUDGE,,,OH,"FISHER, ARTHUR O.",,1,,,,Common Pleas Domestic Relations,0.95
-OH,Dayton Daily News,135101,1970,CNTY JUDGE,,,OH,"HOCKMAN, JAMES B.",,1,,,,Montgomery County Courts,0.95
-OH,Dayton Daily News,135101,1970,CNTY JUDGE,,,OH,"NOLAN, ROBERT L.",,1,,,,Montgomery County Courts,0.95
+OH,Dayton Daily News,135101,1970,SUPREME COURT,,,OH,"O'NEILL, C. WILLIAM",Nonpartisan,1,,,,Chief Justice,0.95
+OH,Dayton Daily News,135101,1970,SUPREME COURT,,,OH,"BROWN, ALLEN",Nonpartisan,1,,,,Justice,0.95
+OH,Dayton Daily News,135101,1970,COURT OF APPEALS,,,OH,"KERNS, JOSEPH D.",Nonpartisan,1,,,,,0.95
+OH,Dayton Daily News,135101,1970,JUDGE,,Montgomery County,OH,"FERGUSON, DOUGLAS K.",Nonpartisan,1,,,,Common Pleas,0.95
+OH,Dayton Daily News,135101,1970,JUDGE,,Montgomery County,OH,"PHILLIPS, STANLEY S.",Nonpartisan,1,,,,Common Pleas,0.95
+OH,Dayton Daily News,135101,1970,JUDGE,,Montgomery County,OH,"FISHER, ARTHUR O.",Nonpartisan,1,,,,Common Pleas Domestic Relations,0.95
+OH,Dayton Daily News,135101,1970,CNTY JUDGE,,Montgomery County,OH,"HOCKMAN, JAMES B.",Nonpartisan,1,,,,Montgomery County Courts,0.95
+OH,Dayton Daily News,135101,1970,CNTY JUDGE,,Montgomery County,OH,"NOLAN, ROBERT L.",Nonpartisan,1,,,,Montgomery County Courts,0.95
 OH,Dayton Daily News,135101,1972,PRESIDENT,,,OH,"NIXON, RICHARD M.",Republican,1,,1,,Presidential Slate; incumbent,0.9
-OH,Dayton Daily News,135101,1972,PRESIDENT,,,OH,"AGNEW, SPIRO",Republican,1,,1,,VP,0.9
-OH,Dayton Daily News,135101,1972,H,3,,OH,"WHALEN, CHARLES W. JR.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1972,VICE PRESIDENT,,,OH,"AGNEW, SPIRO",Republican,1,,1,,VP [V3 office PRES→VP - Agnew was VP not PRES],0.9
+OH,Dayton Daily News,135101,1972,H,3,,OH,"WHALEN, CHARLES W. JR.",Republican,1,,1,,,0.95
 OH,Dayton Daily News,135101,1972,H,7,,OH,"FRANKE, DOROTHY",Independent,1,,,,,0.95
 OH,Dayton Daily News,135101,1972,H,8,,OH,"RUPPERT, JAMES D.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1972,STATE SENATOR,6,,OH,"HALL, TONY P.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1972,STATE REP,34,,OH,"ORLETT, EDWARD J.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1972,STATE REP,35,,OH,"MACMILLAN, WILLIAM W. JR.",Democrat,1,,,,,0.85
-OH,Dayton Daily News,135101,1972,STATE REP,36,,OH,"MCLIN, C. J. JR.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1972,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1972,STATE REP,37,,OH,"LEONARD, PAUL R.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1972,STATE REP,38,,OH,"YOUNG, FREDERICK N.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1972,STATE REP,67,,OH,"CHRISTMAN, LARRY H.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1972,CNTY COMM,,,OH,"CLOUD, THOMAS A.",Republican,1,,,,Montgomery County Commission,0.95
-OH,Dayton Daily News,135101,1972,CNTY COMM,,,OH,"WOLFE, RAY",Democrat,1,,,,Montgomery County Commission,0.95
-OH,Dayton Daily News,135101,1972,DA/PROSECUTOR,,,OH,"FALKE, LEE C.",Democrat,1,,,,Prosecuting Attorney,0.95
-OH,Dayton Daily News,135101,1972,CNTY CLERK,,,OH,"O'CONNOR, KATHY",Republican,1,,,,Clerk of Courts,0.95
-OH,Dayton Daily News,135101,1972,RECORDER,,,OH,"PUGG, JOE D.",Republican,1,,,,County Recorder,0.95
-OH,Dayton Daily News,135101,1972,TREASURER,,,OH,"RODERER, ROBERT L.",Democrat,1,,,,County,0.95
-OH,Dayton Daily News,135101,1972,DIRECTOR,,,OH,"BURRETT, GEORGE A.",Democrat,1,,,,County Engineer,0.95
-OH,Dayton Daily News,135101,1972,SUPREME COURT,,,OH,"SCHNEIDER, LOUIS J. JR.",,1,,,,Ohio Supreme Court Justice,0.95
-OH,Dayton Daily News,135101,1972,SUPREME COURT,,,OH,"BROWN, PAUL W.",,1,,,,Ohio Supreme Court Justice,0.95
-OH,Dayton Daily News,135101,1972,SUPREME COURT,,,OH,"CELEBREZZE, FRANK D.",,1,,,,Ohio Supreme Court Justice,0.95
-OH,Dayton Daily News,135101,1972,CNTY JUDGE,,,OH,"HOCKMAN, JAMES B.",,1,,,,Montgomery County Court,0.95
-OH,Dayton Daily News,135101,1972,CNTY JUDGE,,,OH,"MACMILLAN, WILLIAM W. JR.",,1,,,,Montgomery County Court,0.9
-OH,Dayton Daily News,135101,1972,CNTY JUDGE,,,OH,"ZIMMERS, NEAL F. JR.",,1,,,,Montgomery County Court,0.95
-OH,Dayton Daily News,135101,1972,STATE BOARD OF ED,3,,OH,"LYONS, ROBERT A. SR.",,1,,,,Third District,0.95
-OH,Dayton Daily News,135101,1972,STATE BOARD OF ED,7,,OH,"CLEAVER, HARRY M.",,1,,,,Seventh district,0.95
-OH,Dayton Daily News,135101,1972,STATE BOARD OF ED,8,,OH,"JUNG, EVERETT L.",,1,,,,Eighth district,0.95
+OH,Dayton Daily News,135101,1972,CNTY COMM,,Montgomery County,OH,"CLOUD, THOMAS A.",Republican,1,,,,Montgomery County Commission,0.95
+OH,Dayton Daily News,135101,1972,CNTY COMM,,Montgomery County,OH,"WOLFE, RAY",Democrat,1,,,,Montgomery County Commission,0.95
+OH,Dayton Daily News,135101,1972,DA/PROSECUTOR,,Montgomery County,OH,"FALKE, LEE C.",Democrat,1,1,,,Prosecuting Attorney,0.95
+OH,Dayton Daily News,135101,1972,CNTY CLERK,,Montgomery County,OH,"O'CONNOR, KATHY",Republican,1,,,,Clerk of Courts,0.95
+OH,Dayton Daily News,135101,1972,RECORDER,,Montgomery County,OH,"PUGG, JOE D.",Republican,1,,1,,County Recorder,0.95
+OH,Dayton Daily News,135101,1972,TREASURER,,,OH,"RODERER, ROBERT L.",Democrat,1,1,,,County,0.95
+OH,Dayton Daily News,135101,1972,DIRECTOR,,Montgomery County,OH,"BURRETT, GEORGE A.",Democrat,1,,,,County Engineer,0.95
+OH,Dayton Daily News,135101,1972,SUPREME COURT,,,OH,"SCHNEIDER, LOUIS J. JR.",Nonpartisan,1,,,,Ohio Supreme Court Justice,0.95
+OH,Dayton Daily News,135101,1972,SUPREME COURT,,,OH,"BROWN, PAUL W.",Nonpartisan,1,,,,Ohio Supreme Court Justice,0.95
+OH,Dayton Daily News,135101,1972,SUPREME COURT,,,OH,"CELEBREZZE, FRANK D.",Nonpartisan,1,,,,Ohio Supreme Court Justice,0.95
+OH,Dayton Daily News,135101,1972,CNTY JUDGE,,Montgomery County,OH,"HOCKMAN, JAMES B.",Nonpartisan,1,,,,Montgomery County Court,0.95
+OH,Dayton Daily News,135101,1972,CNTY JUDGE,,Montgomery County,OH,"MACMILLAN, WILLIAM W. JR.",Nonpartisan,1,,,,Montgomery County Court,0.9
+OH,Dayton Daily News,135101,1972,CNTY JUDGE,,Montgomery County,OH,"ZIMMERS, NEAL F., JR.",Nonpartisan,1,,,,Montgomery County Court,0.95
+OH,Dayton Daily News,135101,1972,STATE BOARD OF ED,3,,OH,"LYONS, ROBERT A. SR.",Nonpartisan,1,,,,Third District,0.95
+OH,Dayton Daily News,135101,1972,STATE BOARD OF ED,7,,OH,"CLEAVER, HARRY M.",Nonpartisan,1,,,,Seventh district,0.95
+OH,Dayton Daily News,135101,1972,STATE BOARD OF ED,8,,OH,"JUNG, EVERETT L.",Nonpartisan,1,,,,Eighth district,0.95
 OH,Dayton Daily News,135101,1974,GOVERNOR,,,OH,"GILLIGAN, JOHN J.",Democrat,1,1,,,,0.95
 OH,Dayton Daily News,135101,1974,LT GOVERNOR,,,OH,"CELESTE, RICHARD F.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1974,SENATOR,,,OH,"GLENN, JOHN",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1974,ATTORNEY GENERAL,,,OH,"BROWN, WILLIAM J.",Democrat,1,,,,Ohio AG,0.95
-OH,Dayton Daily News,135101,1974,AUDITOR,,,OH,"TRACY, ROGER W. JR.",Republican,1,,,,Auditor of State,0.95
+OH,Dayton Daily News,135101,1974,ATTORNEY GENERAL,,,OH,"BROWN, WILLIAM J.",Democrat,1,1,,,Ohio AG,0.95
+OH,Dayton Daily News,135101,1974,AUDITOR,,,OH,"TRACY, ROGER W. JR.",Republican,1,,1,,Auditor of State,0.95
 OH,Dayton Daily News,135101,1974,SEC OF STATE,,,OH,"HALL, TONY P.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1974,TREASURER,,,OH,"DONAHEY, GERTRUDE W.",Democrat,1,,,,Treasurer of State,0.95
-OH,Dayton Daily News,135101,1974,H,3,,OH,"WHALEN, CHARLES W. JR.",Republican,1,,,,unopposed,0.95
+OH,Dayton Daily News,135101,1974,TREASURER,,,OH,"DONAHEY, GERTRUDE W.",Democrat,1,1,,,Treasurer of State,0.95
+OH,Dayton Daily News,135101,1974,H,3,,OH,"WHALEN, CHARLES W. JR.",Republican,1,,1,,unopposed,0.95
 OH,Dayton Daily News,135101,1974,H,7,,OH,"NELSON, PATRICK L.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1974,H,8,,OH,"STINKO, T. EDWARD",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1974,STATE SENATOR,6,,OH,"WEISENBORN, CLARA E.",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1974,STATE REP,34,,OH,"ORLETT, EDWARD J.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1974,STATE REP,36,,OH,"MCLIN, C. J. JR.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1974,STATE REP,37,,OH,"LEONARD, PAUL R.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1974,STATE REP,38,,OH,"YOUNG, FREDERICK N.",Republican,1,,,,unopposed,0.95
-OH,Dayton Daily News,135101,1974,STATE REP,67,,OH,"CHRISTMAN, LARRY H.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1974,CNTY COMM,,,OH,"WOLFE, RAY",Democrat,1,,,,Montgomery County Commissioner,0.95
+OH,Dayton Daily News,135101,1974,STATE REP,34,,OH,"ORLETT, EDWARD J.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1974,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1974,STATE REP,37,,OH,"LEONARD, PAUL R.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1974,STATE REP,38,,OH,"YOUNG, FREDERICK N.",Republican,1,,1,,unopposed,0.95
+OH,Dayton Daily News,135101,1974,STATE REP,67,,OH,"CHRISTMAN, LARRY H.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1974,CNTY COMM,,Montgomery County,OH,"WOLFE, RAY",Democrat,1,1,,,Montgomery County Commissioner,0.95
 OH,Dayton Daily News,135101,1974,AUDITOR,,,OH,"RODERER, ROBERT L.",Democrat,1,,,,County,0.95
-OH,Dayton Daily News,135101,1974,SUPREME COURT,,,OH,"O'NEILL, C. WILLIAM",,1,,,,Chief Justice,0.95
-OH,Dayton Daily News,135101,1974,SUPREME COURT,,,OH,"HERBERT, THOMAS M.",,1,,,,Justice,0.95
-OH,Dayton Daily News,135101,1974,SUPREME COURT,,,OH,"TAFT, SHELDON A.",,1,,,,Justice,0.95
-OH,Dayton Daily News,135101,1974,COURT OF APPEALS,,,OH,"MCBRIDE, ROBERT L.",,1,,,,Court of Appeals Second District,0.95
-OH,Dayton Daily News,135101,1974,JUDGE,,,OH,"LOVE, RODNEY M.",,1,,,,Common Pleas; unopposed,0.9
-OH,Dayton Daily News,135101,1974,CNTY JUDGE,,,OH,"NOLAN, ROBERT L.",,1,,,,Montgomery County Court,0.95
-OH,Dayton Daily News,135101,1974,CNTY JUDGE,,,OH,"MARTIN, JAMES F.",,1,,,,Montgomery County Court,0.95
-OH,Dayton Daily News,135101,1974,STATE BOARD OF ED,3,,OH,"LYONS, ROBERT A. SR.",,1,,,,3d District,0.95
-OH,Dayton Daily News,135101,1974,STATE BOARD OF ED,8,,OH,"JUNG, EVERETT L.",,1,,,,8th District,0.95
+OH,Dayton Daily News,135101,1974,SUPREME COURT,,,OH,"O'NEILL, C. WILLIAM",Nonpartisan,1,,,,Chief Justice,0.95
+OH,Dayton Daily News,135101,1974,SUPREME COURT,,,OH,"HERBERT, THOMAS M.",Nonpartisan,1,,,,Justice,0.95
+OH,Dayton Daily News,135101,1974,SUPREME COURT,,,OH,"TAFT, SHELDON A.",Nonpartisan,1,,,,Justice,0.95
+OH,Dayton Daily News,135101,1974,COURT OF APPEALS,,,OH,"MCBRIDE, ROBERT L.",Nonpartisan,1,,,,Court of Appeals Second District,0.95
+OH,Dayton Daily News,135101,1974,JUDGE,,Montgomery County,OH,"LOVE, RODNEY M.",Nonpartisan,1,,,,Common Pleas; unopposed,0.9
+OH,Dayton Daily News,135101,1974,CNTY JUDGE,,Montgomery County,OH,"NOLAN, ROBERT L.",Nonpartisan,1,,,,Montgomery County Court,0.95
+OH,Dayton Daily News,135101,1974,CNTY JUDGE,,Montgomery County,OH,"MARTIN, JAMES F.",Nonpartisan,1,,,,Montgomery County Court,0.95
+OH,Dayton Daily News,135101,1974,STATE BOARD OF ED,3,,OH,"LYONS, ROBERT A. SR.",Nonpartisan,1,,,,3d District,0.95
+OH,Dayton Daily News,135101,1974,STATE BOARD OF ED,8,,OH,"JUNG, EVERETT L.",Nonpartisan,1,,,,8th District,0.95
 OH,Dayton Daily News,135101,1976,PRESIDENT,,,OH,"CARTER, JIMMY",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1976,PRESIDENT,,,OH,"MONDALE, WALTER",Democrat,1,,,,VP,0.95
-OH,Dayton Daily News,135101,1976,SENATOR,,,OH,"METZENBAUM, HOWARD",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1976,H,4,,OH,"WHALEN, CHARLES JR.",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1976,H,7,,OH,"BROWN, CLARENCE JR.",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1976,H,8,,OH,"KINDNESS, THOMAS",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1976,STATE SENATOR,6,,OH,"HALL, TONY",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1976,STATE REP,34,,OH,"ORLETT, ED",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1976,SENATOR,,,OH,"METZENBAUM, HOWARD M.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1976,H,4,,OH,"WHALEN, CHARLES W. JR.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1976,H,7,,OH,"BROWN, CLARENCE JR.",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1976,H,8,,OH,"KINDNESS, THOMAS",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1976,STATE SENATOR,6,,OH,"HALL, TONY P.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1976,STATE REP,34,,OH,"ORLETT, EDWARD J.",Democrat,1,1,,,,0.95
 OH,Dayton Daily News,135101,1976,STATE REP,35,,OH,"FRIES, TOM",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1976,STATE REP,36,,OH,"MCLIN, C. J. JR.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1976,STATE REP,37,,OH,"LEONARD, PAUL",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1976,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1976,STATE REP,37,,OH,"LEONARD, PAUL R.",Democrat,1,1,,,,0.95
 OH,Dayton Daily News,135101,1976,STATE REP,38,,OH,"KERNS, JERRY",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1976,STATE REP,67,,OH,"CHRISTMAN, LARRY",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1976,SUPREME COURT,,,OH,"LOCHER, RALPH",,1,,,,Ohio Supreme Court,0.95
-OH,Dayton Daily News,135101,1976,SUPREME COURT,,,OH,"BROWN, DON P.",,1,,,,Ohio Supreme Court,0.95
-OH,Dayton Daily News,135101,1976,JUDGE,,,OH,"WOLFF, WILLIAM H. JR.",,1,,,,Common Pleas,0.95
-OH,Dayton Daily News,135101,1976,JUDGE,,,OH,"MEAGHER, JOHN",,1,,,,Common Pleas,0.95
-OH,Dayton Daily News,135101,1976,JUDGE,,,OH,"MACMILLAN, WILLIAM",,1,,,,Common Pleas,0.95
-OH,Dayton Daily News,135101,1976,JUDGE,,,OH,"LECRONE, HAROLD B.",,1,,,,Common Pleas Domestic Relations,0.95
-OH,Dayton Daily News,135101,1976,CNTY JUDGE,,,OH,"HOCHMAN, JAMES B.",,1,,,,Montgomery County Court,0.95
-OH,Dayton Daily News,135101,1976,CNTY JUDGE,,,OH,"FOLEY, PATRICK J.",,1,,,,Montgomery County Court,0.95
-OH,Dayton Daily News,135101,1976,CNTY JUDGE,,,OH,"SUNDERLAND, DAVID G.",,1,,,,Montgomery County Court,0.95
-OH,Dayton Daily News,135101,1976,CNTY COMM,,,OH,"LEWIS, CHARLES",Republican,1,,,,Montgomery County Commission,0.95
-OH,Dayton Daily News,135101,1976,CNTY COMM,,,OH,"MACILWAINE, PAULA",Democrat,1,,,,Montgomery County Commission,0.95
-OH,Dayton Daily News,135101,1976,RECORDER,,,OH,"PEGG, JOE",Republican,1,,,,County Recorder,0.95
+OH,Dayton Daily News,135101,1976,STATE REP,67,,OH,"CHRISTMAN, LARRY H.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1976,SUPREME COURT,,,OH,"LOCHER, RALPH",Nonpartisan,1,,,,Ohio Supreme Court,0.95
+OH,Dayton Daily News,135101,1976,SUPREME COURT,,,OH,"BROWN, DON P.",Nonpartisan,1,,,,Ohio Supreme Court,0.95
+OH,Dayton Daily News,135101,1976,JUDGE,,Montgomery County,OH,"WOLFF, WILLIAM H., JR.",Nonpartisan,1,,,,Common Pleas,0.95
+OH,Dayton Daily News,135101,1976,JUDGE,,Montgomery County,OH,"MEAGHER, JOHN",Nonpartisan,1,,,,Common Pleas,0.95
+OH,Dayton Daily News,135101,1976,JUDGE,,Montgomery County,OH,"MACMILLAN, WILLIAM W. JR.",Nonpartisan,1,,,,Common Pleas,0.95
+OH,Dayton Daily News,135101,1976,JUDGE,,Montgomery County,OH,"LECRONE, HAROLD B.",Nonpartisan,1,,,,Common Pleas Domestic Relations,0.95
+OH,Dayton Daily News,135101,1976,CNTY JUDGE,,Montgomery County,OH,"HOCHMAN, JAMES B.",Nonpartisan,1,,,,Montgomery County Court,0.95
+OH,Dayton Daily News,135101,1976,CNTY JUDGE,,Montgomery County,OH,"FOLEY, PATRICK J.",Nonpartisan,1,,,,Montgomery County Court,0.95
+OH,Dayton Daily News,135101,1976,CNTY JUDGE,,Montgomery County,OH,"SUNDERLAND, DAVID G.",Nonpartisan,1,,,,Montgomery County Court,0.95
+OH,Dayton Daily News,135101,1976,CNTY COMM,,Montgomery County,OH,"LEWIS, CHARLES",Republican,1,,,,Montgomery County Commission,0.95
+OH,Dayton Daily News,135101,1976,CNTY COMM,,Montgomery County,OH,"MACILWAINE, PAULA J.",Democrat,1,,,,Montgomery County Commission,0.95
+OH,Dayton Daily News,135101,1976,RECORDER,,Montgomery County,OH,"PEGG, JOE",Republican,1,,,,County Recorder,0.95
 OH,Dayton Daily News,135101,1976,TREASURER,,,OH,"SHUMP, JOE",Democrat,1,,,,County,0.95
-OH,Dayton Daily News,135101,1976,CNTY CLERK,,,OH,"ALBRITTON, DAVID",Republican,1,,,,County Clerk of Courts,0.95
-OH,Dayton Daily News,135101,1978,GOVERNOR,,,OH,"CELESTE, RICHARD",Democrat,1,,,,Governor/Lt. Governor ticket,0.95
+OH,Dayton Daily News,135101,1976,CNTY CLERK,,Montgomery County,OH,"ALBRITTON, DAVID A.",Republican,1,,,,County Clerk of Courts,0.95
+OH,Dayton Daily News,135101,1978,GOVERNOR,,,OH,"CELESTE, RICHARD F.",Democrat,1,,,,Governor/Lt. Governor ticket,0.95
 OH,Dayton Daily News,135101,1978,LT GOVERNOR,,,OH,"DORRIAN, MICHAEL",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,SEC OF STATE,,,OH,"CELEBREZZE, ANTHONY JR.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,TREASURER,,,OH,"DONAHEY, GERTRUDE",Democrat,1,,,,State Treasurer,0.95
-OH,Dayton Daily News,135101,1978,AUDITOR,,,OH,"FERGUSON, THOMAS",Democrat,1,,,,State Auditor,0.95
-OH,Dayton Daily News,135101,1978,ATTORNEY GENERAL,,,OH,"BROWN, WILLIAM J.",Democrat,1,,,,State AG,0.95
-OH,Dayton Daily News,135101,1978,SUPREME COURT,,,OH,"HERBERT, THOMAS",Republican,1,,,,Chief Justice,0.95
+OH,Dayton Daily News,135101,1978,SEC OF STATE,,,OH,"CELEBREZZE, ANTHONY J., JR.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1978,TREASURER,,,OH,"DONAHEY, GERTRUDE W.",Democrat,1,1,,,State Treasurer,0.95
+OH,Dayton Daily News,135101,1978,AUDITOR,,,OH,"FERGUSON, THOMAS E.",Democrat,1,,,,State Auditor,0.95
+OH,Dayton Daily News,135101,1978,ATTORNEY GENERAL,,,OH,"BROWN, WILLIAM J.",Democrat,1,1,,,State AG,0.95
+OH,Dayton Daily News,135101,1978,SUPREME COURT,,,OH,"HERBERT, THOMAS M.",Republican,1,,,,Chief Justice,0.95
 OH,Dayton Daily News,135101,1978,SUPREME COURT,,,OH,"MARKUS, RICHARD",Republican,1,,,,Justice,0.95
-OH,Dayton Daily News,135101,1978,SUPREME COURT,,,OH,"BROWN, PAUL",Republican,1,,,,Justice,0.95
-OH,Dayton Daily News,135101,1978,H,3,,OH,"HALL, TONY",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1978,SUPREME COURT,,,OH,"BROWN, PAUL W.",Republican,1,,,,Justice,0.95
+OH,Dayton Daily News,135101,1978,H,3,,OH,"HALL, TONY P.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1978,H,8,,OH,"SCHROEDER, LOU",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,STATE SENATOR,5,,OH,"ZIMMERS, NEAL F. JR.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,STATE REP,34,,OH,"ORLETT, EDWARD",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,STATE REP,35,,OH,"FRIES, TOM",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,STATE REP,36,,OH,"MCLIN, C. J. JR.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,STATE REP,37,,OH,"LEONARD, PAUL",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,STATE REP,38,,OH,"CORBIN, ROBERT",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,STATE REP,67,,OH,"CHRISTMAN, LARRY",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1978,CNTY COMM,,,OH,"LEWIS, CHARLES",Republican,1,,,,Montgomery County Commission,0.95
-OH,Dayton Daily News,135101,1978,CNTY COMM,,,OH,"HORN, BURTON",Republican,1,,,,Montgomery County Commission,0.95
-OH,Dayton Daily News,135101,1978,SHERIFF,,,OH,"WILSON, TOM",Republican,1,,,,Montgomery County Sheriff,0.95
-OH,Dayton Daily News,135101,1978,AUDITOR,,,OH,"RODERER, ROBERT",Democrat,1,,,,County,0.95
-OH,Dayton Daily News,135101,1978,CNTY JUDGE,,,OH,"FROELICH, JEFFREY",,1,,,,Montgomery County Judge,0.95
-OH,Dayton Daily News,135101,1978,CNTY JUDGE,,,OH,"NOLAN, ROBERT",,1,,,,Montgomery County Judge,0.95
+OH,Dayton Daily News,135101,1978,STATE SENATOR,5,,OH,"ZIMMERS, NEAL F., JR.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1978,STATE REP,34,,OH,"ORLETT, EDWARD J.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1978,STATE REP,35,,OH,"FRIES, TOM",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1978,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1978,STATE REP,37,,OH,"LEONARD, PAUL R.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1978,STATE REP,38,,OH,"CORBIN, ROBERT L.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1978,STATE REP,67,,OH,"CHRISTMAN, LARRY H.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1978,CNTY COMM,,Montgomery County,OH,"LEWIS, CHARLES",Republican,1,,1,,Montgomery County Commission,0.95
+OH,Dayton Daily News,135101,1978,CNTY COMM,,Montgomery County,OH,"HORN, BURTON",Republican,1,,,,Montgomery County Commission,0.95
+OH,Dayton Daily News,135101,1978,SHERIFF,,Montgomery County,OH,"WILSON, TOM",Republican,1,,,,Montgomery County Sheriff,0.95
+OH,Dayton Daily News,135101,1978,AUDITOR,,,OH,"RODERER, ROBERT L.",Democrat,1,1,,,County,0.95
+OH,Dayton Daily News,135101,1978,CNTY JUDGE,,Montgomery County,OH,"FROELICH, JEFFREY",Nonpartisan,1,,,,Montgomery County Judge,0.95
+OH,Dayton Daily News,135101,1978,CNTY JUDGE,,Montgomery County,OH,"NOLAN, ROBERT L.",Nonpartisan,1,,,,Montgomery County Judge,0.95
 OH,Dayton Daily News,135101,1980,PRESIDENT,,,OH,"CARTER, JIMMY",Democrat,1,1,,,incumbent,0.95
 OH,Dayton Daily News,135101,1980,PRESIDENT,,,OH,"MONDALE, WALTER",Democrat,1,1,,,VP,0.95
 OH,Dayton Daily News,135101,1980,SENATOR,,,OH,"GLENN, JOHN",Democrat,1,1,,,,0.95
-OH,Dayton Daily News,135101,1980,H,3,,OH,"HALL, TONY",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1980,H,7,,OH,"BROWN, CLARENCE J.",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1980,STATE SENATOR,6,,OH,"HALL, CHARLES",,1,,,,Ohio Senate 6th District; Curran (D),0.7
-OH,Dayton Daily News,135101,1980,STATE REP,34,,OH,"ORLETT, EDWARD J.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1980,H,3,,OH,"HALL, TONY P.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1980,H,7,,OH,"BROWN, CLARENCE JR.",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1980,STATE SENATOR,6,,OH,"HALL, CHARLES",Democrat,1,,,,Ohio Senate 6th District; Curran (D),0.7
+OH,Dayton Daily News,135101,1980,STATE REP,34,,OH,"ORLETT, EDWARD J.",Democrat,1,1,,,,0.95
 OH,Dayton Daily News,135101,1980,STATE REP,35,,OH,"PARKER, FAITH A.",Republican,1,,,,,0.85
-OH,Dayton Daily News,135101,1980,STATE REP,36,,OH,"MCLIN, C. J. JR.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1980,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,1,,,,0.95
 OH,Dayton Daily News,135101,1980,STATE REP,37,,OH,"HICKEY, ROBERT L.",Democrat,1,,,,over Paul Leonard,0.9
-OH,Dayton Daily News,135101,1980,STATE REP,38,,OH,"CORBIN, ROBERT L.",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1980,STATE REP,67,,OH,"CHRISTMAN, LARRY H.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1980,STATE BOARD OF ED,3,,OH,"LYONS, ROBERT A. SR.",,1,,,,State School Board 3rd District,0.95
-OH,Dayton Daily News,135101,1980,SUPREME COURT,,,OH,"HARPER, SARA J.",,1,,,,Chief Justice,0.95
-OH,Dayton Daily News,135101,1980,SUPREME COURT,,,OH,"DOWD, DAVID D. JR.",,1,,,,Justice,0.95
-OH,Dayton Daily News,135101,1980,SUPREME COURT,,,OH,"HOLMES, ROBERT F.",,1,,,,Justice,0.95
-OH,Dayton Daily News,135101,1980,COURT OF APPEALS,,,OH,"FAIN, MIKE",,1,,,,Court of Appeals 3rd District,0.9
-OH,Dayton Daily News,135101,1980,JUDGE,,,OH,"DODGE, RICHARD S.",,1,,,,Montgomery County Common Pleas Court,0.95
-OH,Dayton Daily News,135101,1980,JUDGE,,,OH,"MERZ, MICHAEL",,1,,,,Montgomery County Common Pleas Court,0.95
-OH,Dayton Daily News,135101,1980,CNTY COMM,,,OH,"HORN, CHARLES F.",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1980,CNTY COMM,,,OH,"MACILWAINE, PAULA J.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1980,DA/PROSECUTOR,,,OH,"FALKE, LEE",Democrat,1,,,,Prosecutor,0.95
-OH,Dayton Daily News,135101,1980,CORONER,,,OH,"DAVIS, JAMES B. M.D.",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1980,RECORDER,,,OH,"PEGG, VICKI D.",Republican,1,,,,County Recorder,0.95
-OH,Dayton Daily News,135101,1980,TREASURER,,,OH,"SHUMP, JOE",Democrat,1,,,,County,0.95
-OH,Dayton Daily News,135101,1980,CNTY CLERK,,,OH,"NORRIS, L. JEANIE",Democrat,1,,,,Clerk of Courts,0.95
-OH,Dayton Daily News,135101,1982,GOVERNOR,,,OH,"CELESTE, RICHARD",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1980,STATE REP,38,,OH,"CORBIN, ROBERT L.",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1980,STATE REP,67,,OH,"CHRISTMAN, LARRY H.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1980,STATE BOARD OF ED,3,,OH,"LYONS, ROBERT A. SR.",Nonpartisan,1,,,,State School Board 3rd District,0.95
+OH,Dayton Daily News,135101,1980,SUPREME COURT,,,OH,"HARPER, SARA J.",Nonpartisan,1,,,,Chief Justice,0.95
+OH,Dayton Daily News,135101,1980,SUPREME COURT,,,OH,"DOWD, DAVID D. JR.",Nonpartisan,1,,,,Justice,0.95
+OH,Dayton Daily News,135101,1980,SUPREME COURT,,,OH,"HOLMES, ROBERT F.",Nonpartisan,1,,,,Justice,0.95
+OH,Dayton Daily News,135101,1980,COURT OF APPEALS,,,OH,"FAIN, MIKE",Nonpartisan,1,,,,Court of Appeals 3rd District,0.9
+OH,Dayton Daily News,135101,1980,JUDGE,,Montgomery County,OH,"DODGE, RICHARD S.",Nonpartisan,1,,,,Montgomery County Common Pleas Court,0.95
+OH,Dayton Daily News,135101,1980,JUDGE,,Montgomery County,OH,"MERZ, MICHAEL",Nonpartisan,1,,,,Montgomery County Common Pleas Court,0.95
+OH,Dayton Daily News,135101,1980,CNTY COMM,,Montgomery County,OH,"HORN, CHARLES F.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1980,CNTY COMM,,Montgomery County,OH,"MACILWAINE, PAULA J.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1980,DA/PROSECUTOR,,Montgomery County,OH,"FALKE, LEE C.",Democrat,1,1,,,Prosecutor,0.95
+OH,Dayton Daily News,135101,1980,CORONER,,Montgomery County,OH,"DAVIS, JAMES B. M.D.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1980,RECORDER,,Montgomery County,OH,"PEGG, VICKI D.",Republican,1,,,,County Recorder,0.95
+OH,Dayton Daily News,135101,1980,TREASURER,,,OH,"SHUMP, JOE",Democrat,1,1,,,County,0.95
+OH,Dayton Daily News,135101,1980,CNTY CLERK,,Montgomery County,OH,"NORRIS, L. JEANIE",Democrat,1,,,,Clerk of Courts,0.95
+OH,Dayton Daily News,135101,1982,GOVERNOR,,,OH,"CELESTE, RICHARD F.",Democrat,1,1,,,,0.95
 OH,Dayton Daily News,135101,1982,LT GOVERNOR,,,OH,"SHOEMAKER, MYRL",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1982,ATTORNEY GENERAL,,,OH,"CELEBREZZE, ANTHONY J., JR.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1982,AUDITOR,,,OH,"CAMPANELLA, VINCENT",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1982,SEC OF STATE,,,OH,"BROWN, SHERROD",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1982,TREASURER,,,OH,"BLANCHART, DANA",Republican,1,,,,,0.9
-OH,Dayton Daily News,135101,1982,SENATOR,,,OH,"METZENBAUM, HOWARD",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1982,H,3,,OH,"HALL, TONY",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1982,SENATOR,,,OH,"METZENBAUM, HOWARD M.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1982,H,3,,OH,"HALL, TONY P.",Democrat,1,1,,,,0.95
 OH,Dayton Daily News,135101,1982,H,6,,OH,"GRIMSHAW, LYNN ALAN",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1982,H,7,,OH,"TACKETT, ROGER",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1982,STATE SENATOR,5,,OH,"ZIMMERS, NEAL F., JR.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1982,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1982,STATE SENATOR,5,,OH,"ZIMMERS, NEAL F., JR.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1982,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,1,,,,0.95
 OH,Dayton Daily News,135101,1982,STATE REP,37,,OH,"ORLETT, EDWARD J.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1982,STATE REP,38,,OH,"CORBIN, ROBERT",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1982,STATE REP,38,,OH,"CORBIN, ROBERT L.",Republican,1,,1,,,0.95
 OH,Dayton Daily News,135101,1982,STATE REP,39,,OH,"BALLWEG, LARRY",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1982,STATE REP,40,,OH,"ZIMMERS, CRAIG",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1982,STATE REP,62,,OH,"DOYLE, ROBERT H.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1982,STATE REP,60,,OH,"MCCONNELL, FRED K., JR.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1982,STATE BOARD OF ED,3,,OH,"ROUSH, CHESTER A.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1982,STATE BOARD OF ED,6,,OH,"MCCORMICK, RALPH",,1,,,,,0.9
-OH,Dayton Daily News,135101,1982,SUPREME COURT,,,OH,"MCCORMAC, JOHN W.",,1,,,,,0.9
-OH,Dayton Daily News,135101,1982,SUPREME COURT,,,OH,"LOCHER, RALPH",,1,,,,,0.9
-OH,Dayton Daily News,135101,1982,SUPREME COURT,,,OH,"KRUPANSKY, BLANCHE",,1,,,,,0.9
-OH,Dayton Daily News,135101,1982,CNTY COMM,,,OH,"CURRAN, CHARLES G.",Democrat,1,,,,Montgomery County,0.9
+OH,Dayton Daily News,135101,1982,STATE BOARD OF ED,3,,OH,"ROUSH, CHESTER A.",Nonpartisan,1,,,,,0.9
+OH,Dayton Daily News,135101,1982,STATE BOARD OF ED,6,,OH,"MCCORMICK, RALPH",Nonpartisan,1,,,,,0.9
+OH,Dayton Daily News,135101,1982,SUPREME COURT,,,OH,"MCCORMAC, JOHN W.",Nonpartisan,1,,,,,0.9
+OH,Dayton Daily News,135101,1982,SUPREME COURT,,,OH,"LOCHER, RALPH",Nonpartisan,1,,,,,0.9
+OH,Dayton Daily News,135101,1982,SUPREME COURT,,,OH,"KRUPANSKY, BLANCHE",Nonpartisan,1,,,,,0.9
+OH,Dayton Daily News,135101,1982,CNTY COMM,,Montgomery County,OH,"CURRAN, CHARLES G.",Democrat,1,,,,Montgomery County,0.9
 OH,Dayton Daily News,135101,1984,PRESIDENT,,,OH,"MONDALE, WALTER",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1984,PRESIDENT,,,OH,"FERRARO, GERALDINE",Democrat,1,,,,VP,0.95
 OH,Dayton Daily News,135101,1984,H,6,,OH,"MCEWEN, BOB",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1984,H,7,,OH,"DEWINE, MIKE",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1984,STATE SENATOR,6,,OH,"HORN, CHARLES",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1984,STATE SENATOR,6,,OH,"HORN, CHARLES F.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1984,STATE SENATOR,10,,OH,"TACKETT, ROGER",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1984,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1984,STATE REP,37,,OH,"ORLETT, EDWARD",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1984,STATE REP,38,,OH,"CORBIN, ROBERT",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1984,STATE REP,39,,OH,"HICKEY, ROBERT",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1984,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1984,STATE REP,37,,OH,"ORLETT, EDWARD J.",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,1984,STATE REP,38,,OH,"CORBIN, ROBERT L.",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1984,STATE REP,39,,OH,"HICKEY, ROBERT L.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1984,STATE REP,40,,OH,"GERHARD, JUDY",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1984,STATE REP,65,,OH,"DOYLE, ROBERT",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1984,STATE REP,65,,OH,"DOYLE, ROBERT H.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1984,STATE REP,68,,OH,"WEAVER, JOHN",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1984,CNTY COMM,,,OH,"HARRIS, SARAH",Democrat,1,,,,Montgomery County,0.95
-OH,Dayton Daily News,135101,1984,CNTY COMM,,,OH,"MACILWAINE, PAULA",Democrat,1,,,,Montgomery County,0.95
-OH,Dayton Daily News,135101,1984,SHERIFF,,,OH,"WILSON, TOM",Republican,1,,,,Montgomery County,0.95
-OH,Dayton Daily News,135101,1984,CNTY CLERK,,,OH,"NORRIS, L. JUNIOR",Democrat,1,,,,Montgomery County Clerk of Courts,0.95
-OH,Dayton Daily News,135101,1984,CNTY JUDGE,,,OH,"GOUNARIS, GEORGE J.",,1,,,,Montgomery County Probate Court,0.9
-OH,Dayton Daily News,135101,1984,SUPREME COURT,,,OH,"DOUGLAS, ANDREW",,1,,,,,0.9
-OH,Dayton Daily News,135101,1984,SUPREME COURT,,,OH,"WRIGHT, CRAIG",,1,,,,,0.9
-OH,Dayton Daily News,135101,1986,GOVERNOR,,,OH,"CELESTE, RICHARD F.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1986,ATTORNEY GENERAL,,,OH,"CELEBREZZE, ANTHONY J., JR.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1986,AUDITOR,,,OH,"FERGUSON, THOMAS E.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1986,SEC OF STATE,,,OH,"BROWN, SHERROD",Democrat,1,,,,,0.9
+OH,Dayton Daily News,135101,1984,CNTY COMM,,Montgomery County,OH,"HARRIS, SARAH",Democrat,1,,,,Montgomery County,0.95
+OH,Dayton Daily News,135101,1984,CNTY COMM,,Montgomery County,OH,"MACILWAINE, PAULA J.",Democrat,1,1,,,Montgomery County,0.95
+OH,Dayton Daily News,135101,1984,SHERIFF,,Montgomery County,OH,"WILSON, TOM",Republican,1,,1,,Montgomery County,0.95
+OH,Dayton Daily News,135101,1984,CNTY CLERK,,Montgomery County,OH,"NORRIS, L. JUNIOR",Democrat,1,,,,Montgomery County Clerk of Courts,0.95
+OH,Dayton Daily News,135101,1984,CNTY JUDGE,,Montgomery County,OH,"GOUNARIS, GEORGE J.",Nonpartisan,1,,,,Montgomery County Probate Court,0.9
+OH,Dayton Daily News,135101,1984,SUPREME COURT,,,OH,"DOUGLAS, ANDREW",Nonpartisan,1,,,,,0.9
+OH,Dayton Daily News,135101,1984,SUPREME COURT,,,OH,"WRIGHT, CRAIG",Nonpartisan,1,,,,,0.9
+OH,Dayton Daily News,135101,1986,GOVERNOR,,,OH,"CELESTE, RICHARD F.",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1986,ATTORNEY GENERAL,,,OH,"CELEBREZZE, ANTHONY J., JR.",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1986,AUDITOR,,,OH,"FERGUSON, THOMAS E.",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1986,SEC OF STATE,,,OH,"BROWN, SHERROD",Democrat,1,1,,,,0.9
 OH,Dayton Daily News,135101,1986,TREASURER,,,OH,"WITHROW, MARY ELLEN",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1986,SENATOR,,,OH,"GLENN, JOHN",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1986,H,3,,OH,"HALL, TONY",Democrat,1,,,,,0.9
+OH,Dayton Daily News,135101,1986,SENATOR,,,OH,"GLENN, JOHN",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1986,H,3,,OH,"HALL, TONY P.",Democrat,1,1,,,,0.9
 OH,Dayton Daily News,135101,1986,H,8,,OH,"DEGAN, JOHN J.",Republican,1,,,,,0.85
-OH,Dayton Daily News,135101,1986,STATE SENATOR,5,,OH,"ZIMMERS, NEAL F.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1986,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,,,,,0.9
+OH,Dayton Daily News,135101,1986,STATE SENATOR,5,,OH,"ZIMMERS, NEAL F., JR.",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1986,STATE REP,36,,OH,"MCLIN, C. J., JR.",Democrat,1,1,,,,0.9
 OH,Dayton Daily News,135101,1986,STATE REP,37,,OH,"ROBERTS, TOM",Democrat,1,,,,,0.9
 OH,Dayton Daily News,135101,1986,STATE REP,38,,OH,"HOLLINGER, DON",Democrat,1,,,,,0.85
 OH,Dayton Daily News,135101,1986,STATE REP,39,,OH,"MULLIGAN, PATRICK",Democrat,1,,,,,0.85
-OH,Dayton Daily News,135101,1986,STATE REP,40,,OH,"HICKEY, ROBERT",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1986,CNTY COMM,,,OH,"CURTIS, CHARLES J.",Democrat,1,,,,Montgomery County,0.9
+OH,Dayton Daily News,135101,1986,STATE REP,40,,OH,"HICKEY, ROBERT L.",Democrat,1,,,,,0.9
+OH,Dayton Daily News,135101,1986,CNTY COMM,,Montgomery County,OH,"CURTIS, CHARLES J.",Democrat,1,,,,Montgomery County,0.9
 OH,Dayton Daily News,135101,1986,AUDITOR,,,OH,"STEYER, CLARA A.",Republican,1,,,,Montgomery County Auditor,0.85
-OH,Dayton Daily News,135101,1986,SUPREME COURT,,,OH,"MOYER, THOMAS J.",,1,,,,Chief Justice,0.85
-OH,Dayton Daily News,135101,1986,SUPREME COURT,,,OH,"HOLMES, ROBERT",,1,,,,Justice,0.85
-OH,Dayton Daily News,135101,1986,SUPREME COURT,,,OH,"BROWN, JOYCE J.",,1,,,,Justice,0.85
-OH,Dayton Daily News,135101,1986,JUDGE,,,OH,"KESSLER, JOHN W.",Republican,1,,,,"Common Pleas, Montgomery County",0.85
-OH,Dayton Daily News,135101,1986,JUDGE,,,OH,"PORTER, WALTER A.",Republican,1,,,,"Common Pleas, Montgomery County",0.85
-OH,Dayton Daily News,135101,1986,JUDGE,,,OH,"DODGE, RICHARD",Republican,1,,,,"Common Pleas, Montgomery County",0.85
+OH,Dayton Daily News,135101,1986,SUPREME COURT,,,OH,"MOYER, THOMAS J.",Nonpartisan,1,,,,Chief Justice,0.85
+OH,Dayton Daily News,135101,1986,SUPREME COURT,,,OH,"HOLMES, ROBERT F.",Nonpartisan,1,,,,Justice,0.85
+OH,Dayton Daily News,135101,1986,SUPREME COURT,,,OH,"BROWN, JOYCE J.",Nonpartisan,1,,,,Justice,0.85
+OH,Dayton Daily News,135101,1986,JUDGE,,Montgomery County,OH,"KESSLER, JOHN W.",Republican,1,,,,"Common Pleas, Montgomery County",0.85
+OH,Dayton Daily News,135101,1986,JUDGE,,Montgomery County,OH,"PORTER, WALTER A.",Republican,1,,,,"Common Pleas, Montgomery County",0.85
+OH,Dayton Daily News,135101,1986,JUDGE,,Montgomery County,OH,"DODGE, RICHARD S.",Republican,1,,,,"Common Pleas, Montgomery County",0.85
 OH,Dayton Daily News,135101,1986,COURT OF APPEALS,,,OH,"FORNSHELL, ROBERT H.",Republican,1,,,,2nd District,0.8
 OH,Dayton Daily News,135101,1986,COURT OF APPEALS,,,OH,"WILSON, RICHARD K.",Republican,1,,,,"2nd District, unopposed",0.8
 OH,Dayton Daily News,135101,1986,COURT OF APPEALS,,,OH,"BROGAN, JAMES A.",Republican,1,,,,"2nd District, unopposed",0.8
 OH,Dayton Daily News,135101,1986,COURT OF APPEALS,,,OH,"WOLFF, WILLIAM H., JR.",Republican,1,,,,"2nd District, unopposed",0.8
-OH,Dayton Daily News,135101,1986,CNTY JUDGE,,,OH,"FOLEY, PATRICK J.",Republican,1,,,,Montgomery County Court,0.8
-OH,Dayton Daily News,135101,1986,CNTY JUDGE,,,OH,"SODERLUND, DAVID G.",Republican,1,,,,Montgomery County Court,0.8
-OH,Dayton Daily News,135101,1986,CNTY JUDGE,,,OH,"HOFFMAN, JAMES E.",Republican,1,,,,Montgomery County Court,0.8
+OH,Dayton Daily News,135101,1986,CNTY JUDGE,,Montgomery County,OH,"FOLEY, PATRICK J.",Republican,1,,1,,Montgomery County Court,0.8
+OH,Dayton Daily News,135101,1986,CNTY JUDGE,,Montgomery County,OH,"SODERLUND, DAVID G.",Republican,1,,,,Montgomery County Court,0.8
+OH,Dayton Daily News,135101,1986,CNTY JUDGE,,Montgomery County,OH,"HOFFMAN, JAMES E.",Republican,1,,,,Montgomery County Court,0.8
 OH,Dayton Daily News,135101,1988,PRESIDENT,,,OH,"DUKAKIS, MICHAEL",Democrat,1,,,,,0.85
 OH,Dayton Daily News,135101,1988,PRESIDENT,,,OH,"BENTSEN, LLOYD",Democrat,1,,,,VP,0.85
-OH,Dayton Daily News,135101,1988,SENATOR,,,OH,"METZENBAUM, HOWARD",Democrat,1,,,,,0.85
-OH,Dayton Daily News,135101,1988,H,3,,OH,"HALL, TONY",Democrat,1,,,,,0.85
+OH,Dayton Daily News,135101,1988,SENATOR,,,OH,"METZENBAUM, HOWARD M.",Democrat,1,1,,,,0.85
+OH,Dayton Daily News,135101,1988,H,3,,OH,"HALL, TONY P.",Democrat,1,1,,,,0.85
 OH,Dayton Daily News,135101,1988,H,8,,OH,"MATTHEWS, DON",Democrat,1,,,,,0.7
-OH,Dayton Daily News,135101,1988,H,7,,OH,"DEWINE, MIKE",Republican,1,,,,,0.7
+OH,Dayton Daily News,135101,1988,H,7,,OH,"DEWINE, MIKE",Republican,1,,1,,,0.90
 OH,Dayton Daily News,135101,1988,STATE REP,36,,OH,"MCLIN, RHINE L.",Democrat,1,,,,,0.75
-OH,Dayton Daily News,135101,1988,STATE REP,37,,OH,"ROBERTS, TOM",Democrat,1,,,,,0.75
-OH,Dayton Daily News,135101,1988,STATE REP,38,,OH,"FOLEY, RHODA",Democrat,1,,,,,0.7
+OH,Dayton Daily News,135101,1988,STATE REP,37,,OH,"ROBERTS, TOM",Democrat,1,1,,,,0.75
+OH,Dayton Daily News,135101,1988,STATE REP,38,,OH,"FOLEY, RHODA",Democrat,0,,,,"V4 e=1→0 per 1988-11-06 OCR (paper endorsed Corbin R, Foley was D opp)",0.90
 OH,Dayton Daily News,135101,1988,STATE REP,39,,OH,"FAWCETT, REBECCA",Democrat,1,,,,,0.7
-OH,Dayton Daily News,135101,1988,STATE SENATOR,5,,OH,"HORN, CHARLES",Republican,1,,,,,0.7
-OH,Dayton Daily News,135101,1988,CNTY COMM,,,OH,"HARRIS, SARAH",Democrat,1,,,,Montgomery County,0.7
-OH,Dayton Daily News,135101,1988,CNTY COMM,,,OH,"MACILWAINE, PAULA",Democrat,1,,,,Montgomery County,0.7
-OH,Dayton Daily News,135101,1988,JUDGE,,,OH,"ORDER, LEE",Democrat,1,,,,"Common Pleas, Montgomery County",0.65
-OH,Dayton Daily News,135101,1988,JUDGE,,,OH,"JENKINS, JOHN",,1,,,,"Common Pleas, Montgomery County",0.6
-OH,Dayton Daily News,135101,1988,CNTY JUDGE,,,OH,"BARTON, ERIK",,1,,,,Montgomery County Court,0.6
-OH,Dayton Daily News,135101,1988,SUPREME COURT,,,OH,"SWEENEY, FRANCIS E.",,1,,,,,0.7
-OH,Dayton Daily News,135101,1990,GOVERNOR,,,OH,"VOINOVICH, GEORGE V.",Republican,1,,,,,0.9
-OH,Dayton Daily News,135101,1990,LT GOVERNOR,,,OH,"DEWINE, MICHAEL",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1988,STATE SENATOR,5,,OH,"HORN, CHARLES F.",Republican,1,,,,,0.90
+OH,Dayton Daily News,135101,1988,CNTY COMM,,Montgomery County,OH,"HARRIS, SARAH",Democrat,1,1,,,Montgomery County,0.7
+OH,Dayton Daily News,135101,1988,CNTY COMM,,Montgomery County,OH,"MACILWAINE, PAULA J.",Democrat,1,1,,,Montgomery County,0.90
+OH,Dayton Daily News,135101,1988,JUDGE,,Montgomery County,OH,"ORDER, LEE",Democrat,1,,,,"Common Pleas, Montgomery County",0.65
+OH,Dayton Daily News,135101,1988,JUDGE,,Montgomery County,OH,"JENKINS, JOHN",Nonpartisan,1,,,,"Common Pleas, Montgomery County",0.6
+OH,Dayton Daily News,135101,1988,CNTY JUDGE,,Montgomery County,OH,"BARTON, ERIK",Nonpartisan,1,,,,Montgomery County Court,0.6
+OH,Dayton Daily News,135101,1988,SUPREME COURT,,,OH,"SWEENEY, FRANCIS E.",Nonpartisan,1,,,,,0.90
+OH,Dayton Daily News,135101,1990,GOVERNOR,,,OH,"VOINOVICH, GEORGE V.",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1990,LT GOVERNOR,,,OH,"DEWINE, MIKE",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1990,ATTORNEY GENERAL,,,OH,"PFEIFER, PAUL E.",Republican,1,,,,,0.9
-OH,Dayton Daily News,135101,1990,SEC OF STATE,,,OH,"BROWN, SHERROD",Democrat,1,,,,,0.9
+OH,Dayton Daily News,135101,1990,SEC OF STATE,,,OH,"BROWN, SHERROD",Democrat,1,1,,,,0.9
 OH,Dayton Daily News,135101,1990,AUDITOR,,,OH,"PETRO, JAMES M.",Republican,1,,,,,0.9
-OH,Dayton Daily News,135101,1990,TREASURER,,,OH,"WITHROW, MARY ELLEN",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1990,SUPREME COURT,,,OH,"DOUGLAS, ANDY",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1990,TREASURER,,,OH,"WITHROW, MARY ELLEN",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1990,SUPREME COURT,,,OH,"DOUGLAS, ANDREW",Republican,1,,,,,0.9
 OH,Dayton Daily News,135101,1990,SUPREME COURT,,,OH,"WRIGHT, CRAIG",Republican,1,,,,,0.9
-OH,Dayton Daily News,135101,1990,H,6,,OH,"JUSTICE, DEBRA",Democrat,1,,,,,0.7
-OH,Dayton Daily News,135101,1990,H,7,,OH,"MCEWEN, BOB",Republican,1,,,,,0.85
-OH,Dayton Daily News,135101,1990,H,8,,OH,"NELSON, DAVID",Democrat,1,,,,,0.85
-OH,Dayton Daily News,135101,1990,STATE SENATOR,5,,OH,"ZIMMERS, NEAL F., JR.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1990,STATE REP,36,,OH,"MCLIN, RHINE L.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1990,STATE REP,37,,OH,"ROBERTS, TOM",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1990,STATE REP,38,,OH,"CORBIN, ROBERT L.",Republican,1,,,,,0.9
+OH,Dayton Daily News,135101,1990,H,6,,OH,"JUSTICE, DEBRA",Democrat,0,,,,"V4 e=1→0 - per 1990-11-05 OCR paper endorsed McEwen R H 6, Justice D was opp",0.7
+OH,Dayton Daily News,135101,1990,H,6,,OH,"MCEWEN, BOB",Republican,1,,1,,V4 dist 7→6 - per 1990-11-05 OCR McEwen R was H 6 not H 7,0.95
+OH,Dayton Daily News,135101,1990,H,8,,OH,"NELSON, DAVID",Republican,0,,,,"V4 e=1→0 + party D→R - per 1990 OCR paper endorsed Jolivette D, Nelson R was opp",0.85
+OH,Dayton Daily News,135101,1990,STATE SENATOR,5,,OH,"ZIMMERS, NEAL F., JR.",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1990,STATE REP,36,,OH,"MCLIN, RHINE L.",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1990,STATE REP,37,,OH,"ROBERTS, TOM",Democrat,1,1,,,,0.9
+OH,Dayton Daily News,135101,1990,STATE REP,38,,OH,"CORBIN, ROBERT L.",Republican,1,,1,,,0.9
 OH,Dayton Daily News,135101,1990,STATE REP,39,,OH,"HICKEY, ROBERT E.",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,1990,STATE REP,40,,OH,"GUERRA, ROSE",Democrat,1,,,,,0.85
-OH,Dayton Daily News,135101,1990,CNTY COMM,,,OH,"CURRAN, CHARLES",Democrat,1,,,,Montgomery County,0.85
+OH,Dayton Daily News,135101,1990,STATE REP,40,,OH,"GUERRA, RUSS JR.",Republican,1,,1,," [V4 name corrected ROSE→RUSS JR., party D→R per 1990-11-05 OCR; he was R inc 1988+]",0.85
+OH,Dayton Daily News,135101,1990,CNTY COMM,,Montgomery County,OH,"CURRAN, CHARLES G.",Democrat,1,1,,,Montgomery County,0.85
 OH,Dayton Daily News,135101,1990,AUDITOR,,,OH,"STEYER, DANA",Republican,1,,,,Montgomery County Auditor,0.8
-OH,Dayton Daily News,135101,1990,JUDGE,,,OH,"FOLEY, PATRICK J.",,1,,,,"Common Pleas, Montgomery County",0.8
-OH,Dayton Daily News,135101,1990,JUDGE,,,OH,"GILVARY, JAMES J.",,1,,,,"Common Pleas, Montgomery County",0.8
-OH,Dayton Daily News,135101,1990,JUDGE,,,OH,"PETZOLD, JOHN P.",,1,,,,"Common Pleas, Montgomery County",0.8
+OH,Dayton Daily News,135101,1990,JUDGE,,Montgomery County,OH,"FOLEY, PATRICK J.",Nonpartisan,1,,,,"Common Pleas, Montgomery County",0.8
+OH,Dayton Daily News,135101,1990,JUDGE,,Montgomery County,OH,"GILVARY, JAMES J.",Nonpartisan,1,,,,"Common Pleas, Montgomery County",0.8
+OH,Dayton Daily News,135101,1990,JUDGE,,Montgomery County,OH,"PETZOLD, JOHN P.",Nonpartisan,1,,,,"Common Pleas, Montgomery County",0.8
 OH,Dayton Daily News,135101,1996,PRESIDENT,,,OH,"CLINTON, BILL",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1996,PRESIDENT,,,OH,"GORE, AL",Democrat,1,,,,VP,0.95
 OH,Dayton Daily News,135101,1996,SUPREME COURT,,,OH,"BETTMAN, MARIANNA BROWN",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1996,SUPREME COURT,,,OH,"DOUGLAS, ANDREW",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1996,H,3,,OH,"HALL, TONY",Democrat,1,,,,,0.95
+OH,Dayton Daily News,135101,1996,H,3,,OH,"HALL, TONY P.",Democrat,1,1,,,,0.95
 OH,Dayton Daily News,135101,1996,H,6,,OH,"STRICKLAND, TED",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1996,H,7,,OH,"HOBSON, DAVE",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1996,H,8,,OH,"BOEHNER, JOHN",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1996,STATE SENATOR,6,,OH,"HORN, CHARLES",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1996,H,8,,OH,"BOEHNER, JOHN",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,1996,STATE SENATOR,6,,OH,"HORN, CHARLES F.",Republican,1,,1,,,0.95
 OH,Dayton Daily News,135101,1996,STATE SENATOR,10,,OH,"KEARNS, MERLE",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1996,STATE REP,38,,OH,"LEWIS, LLOYD, JR.",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1996,STATE REP,39,,OH,"ROBERTS, TOM",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1996,STATE REP,40,,OH,"JACOBSON, JEFF",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,1996,STATE REP,42,,OH,"CORBIN, BOB",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,1996,STATE REP,42,,OH,"CORBIN, ROBERT L.",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,1996,STATE REP,43,,OH,"BREWER, DAVID",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,1996,STATE REP,74,,OH,"SCHIRA, JACK",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,1996,CNTY CLERK,,,OH,"MAZUR, TERRI A.",Republican,1,,,,Greene County Clerk of Courts,0.95
-OH,Dayton Daily News,135101,1996,CNTY COMM,,,OH,"BLESSING, TOM",Democrat,1,,,,Greene County,0.95
-OH,Dayton Daily News,135101,1996,DIRECTOR,,,OH,"BEACH, DAVID E.",Independent,1,,,,County Engineer; Greene Cnty,0.95
-OH,Dayton Daily News,135101,1996,JUDGE,,,OH,"SHATTUCK, JUDSON",Republican,0,,,,"Common Pleas, Greene County - 'No' vote recommended (unopposed)",0.9
-OH,Dayton Daily News,135101,1996,JUDGE,,,OH,"REID, DAVID",Republican,0,,,,"Common Pleas, Greene County - 'No' vote recommended (unopposed)",0.9
-OH,Dayton Daily News,135101,1996,CNTY COMM,,,OH,"PEGG, VICKI",Republican,1,,,,Montgomery County,0.95
-OH,Dayton Daily News,135101,1996,CNTY COMM,,,OH,"LUCAS, DON",Republican,1,,,,Montgomery County,0.95
-OH,Dayton Daily News,135101,1996,CNTY CLERK,,,OH,"ZIMMERS, CRAIG",Democrat,1,,,,Montgomery County Clerk of Courts,0.95
-OH,Dayton Daily News,135101,1996,RECORDER,,,OH,"CLARK, JOY",Republican,1,,,,Montgomery County,0.95
+OH,Dayton Daily News,135101,1996,CNTY CLERK,,Montgomery County,OH,"MAZUR, TERRI A.",Republican,1,,,,Greene County Clerk of Courts,0.95
+OH,Dayton Daily News,135101,1996,CNTY COMM,,Montgomery County,OH,"BLESSING, TOM",Democrat,1,,,,Greene County,0.95
+OH,Dayton Daily News,135101,1996,DIRECTOR,,Montgomery County,OH,"BEACH, DAVID E.",Independent,1,,,,County Engineer; Greene Cnty,0.95
+OH,Dayton Daily News,135101,1996,JUDGE,,Montgomery County,OH,"SHATTUCK, JUDSON",Republican,0,,,,"Common Pleas, Greene County - 'No' vote recommended (unopposed)",0.9
+OH,Dayton Daily News,135101,1996,JUDGE,,Montgomery County,OH,"REID, DAVID",Republican,0,,,,"Common Pleas, Greene County - 'No' vote recommended (unopposed)",0.9
+OH,Dayton Daily News,135101,1996,CNTY COMM,,Montgomery County,OH,"PEGG, VICKI",Republican,1,,,,Montgomery County,0.95
+OH,Dayton Daily News,135101,1996,CNTY COMM,,Montgomery County,OH,"LUCAS, DON",Republican,1,,,,Montgomery County,0.95
+OH,Dayton Daily News,135101,1996,CNTY CLERK,,Montgomery County,OH,"ZIMMERS, CRAIG",Democrat,1,,,,Montgomery County Clerk of Courts,0.95
+OH,Dayton Daily News,135101,1996,RECORDER,,Montgomery County,OH,"CLARK, JOY",Republican,1,,,,Montgomery County,0.95
 OH,Dayton Daily News,135101,1996,TREASURER,,,OH,"QUILL, HUGH",Democrat,1,,,,Montgomery County Treasurer,0.95
-OH,Dayton Daily News,135101,1996,JUDGE,,,OH,"SUNDERLAND, DAVID",Democrat,1,,,,"Common Pleas, Montgomery County",0.95
-OH,Dayton Daily News,135101,1996,JUDGE,,,OH,"GOWDOWN, DAVID",Republican,1,,,,"Common Pleas, Montgomery County",0.95
+OH,Dayton Daily News,135101,1996,JUDGE,,Montgomery County,OH,"SUNDERLAND, DAVID G.",Democrat,1,,,,"Common Pleas, Montgomery County",0.95
+OH,Dayton Daily News,135101,1996,JUDGE,,Montgomery County,OH,"GOWDOWN, DAVID",Republican,1,,,,"Common Pleas, Montgomery County",0.95
 OH,Dayton Daily News,135101,2008,PRESIDENT,,,OH,"OBAMA, BARACK",Democrat,1,,,,,0.9
-OH,Dayton Daily News,135101,2008,PRESIDENT,,,OH,"BIDEN, JOE",Democrat,1,,,,VP,0.9
+OH,Dayton Daily News,135101,2008,PRESIDENT,,,OH,"BIDEN, JOSEPH",Democrat,1,,,,VP,0.9
 OH,Dayton Daily News,135101,2008,ATTORNEY GENERAL,,,OH,"CORDRAY, RICHARD",Democrat,1,,,,,0.85
 OH,Dayton Daily News,135101,2008,SUPREME COURT,,,OH,"MOYER, THOMAS J.",Republican,1,,,,Chief Justice,0.75
 OH,Dayton Daily News,135101,2008,SUPREME COURT,,,OH,"MCGEE BROWN, YVETTE",Democrat,1,,,,,0.7
-OH,Dayton Daily News,135101,2008,H,3,,OH,"TURNER, MICHAEL",Republican,1,,,,,0.7
-OH,Dayton Daily News,135101,2008,H,8,,OH,"BOEHNER, JOHN",Republican,1,,,,,0.8
-OH,Dayton Daily News,135101,2008,H,7,,OH,"AUSTRIA, STEVE",Republican,1,,,,,0.7
+OH,Dayton Daily News,135101,2008,H,3,,OH,"TURNER, MICHAEL",Republican,1,,,,,0.95
+OH,Dayton Daily News,135101,2008,H,8,,OH,"BOEHNER, JOHN",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,2008,H,7,,OH,"AUSTRIA, STEVE",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,2008,STATE REP,37,,OH,"BLAIR, TERRY",Republican,1,,,,,0.65
 OH,Dayton Daily News,135101,2008,STATE REP,38,,OH,"BEAGLE, BILL",Republican,1,,,,,0.6
 OH,Dayton Daily News,135101,2008,STATE REP,39,,OH,"WILLIAMS, CLAYTON",Democrat,1,,,,,0.6
 OH,Dayton Daily News,135101,2008,STATE REP,40,,OH,"FOLEY, MICHAEL",Democrat,1,,,,,0.6
-OH,Dayton Daily News,135101,2008,CNTY COMM,,,OH,"LIEBERMAN, DAN",Democrat,1,,,,Montgomery County,0.7
-OH,Dayton Daily News,135101,2008,SHERIFF,,,OH,"PLUMMER, PHIL",Republican,1,,,,Montgomery County,0.75
-OH,Dayton Daily News,135101,2008,RECORDER,,,OH,"BAHAN, WILLIS",Democrat,1,,,,Montgomery County,0.6
+OH,Dayton Daily News,135101,2008,CNTY COMM,,Montgomery County,OH,"LIEBERMAN, DAN",Democrat,1,,,,Montgomery County,0.7
+OH,Dayton Daily News,135101,2008,SHERIFF,,Montgomery County,OH,"PLUMMER, PHIL",Republican,1,,,,Montgomery County,0.75
+OH,Dayton Daily News,135101,2008,RECORDER,,Montgomery County,OH,"BAHAN, WILLIS",Democrat,1,,,,Montgomery County,0.6
 OH,Dayton Daily News,135101,2010,GOVERNOR,,,OH,"STRICKLAND, TED",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,2010,SENATOR,,,OH,"FISHER, LEE",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,2010,SUPREME COURT,,,OH,"O'CONNOR, MAUREEN",Republican,1,,,,,0.95
@@ -429,17 +429,80 @@ OH,Dayton Daily News,135101,2010,SUPREME COURT,,,OH,"LANZINGER, JUDITH",Republic
 OH,Dayton Daily News,135101,2010,TREASURER,,,OH,"MANDEL, JOSH",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,2010,AUDITOR,,,OH,"PEPPER, DAVID",Democrat,1,,,,,0.95
 OH,Dayton Daily News,135101,2010,SEC OF STATE,,,OH,"HUSTED, JON",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,2010,ATTORNEY GENERAL,,,OH,"CORDRAY, RICHARD",Democrat,1,,,,,0.95
-OH,Dayton Daily News,135101,2010,STATE BOARD OF ED,,,OH,"MIMS, JEFF",,1,,,,,0.95
-OH,Dayton Daily News,135101,2010,H,8,,OH,"BOEHNER, JOHN",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,2010,CNTY COMM,,,OH,"CARPENTER, CINDY",Republican,1,,,,Butler County,0.95
+OH,Dayton Daily News,135101,2010,ATTORNEY GENERAL,,,OH,"CORDRAY, RICHARD",Democrat,1,1,,,,0.95
+OH,Dayton Daily News,135101,2010,STATE BOARD OF ED,,,OH,"MIMS, JEFF",Nonpartisan,1,,,,,0.95
+OH,Dayton Daily News,135101,2010,H,8,,OH,"BOEHNER, JOHN",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,2010,CNTY COMM,,Montgomery County,OH,"CARPENTER, CINDY",Republican,1,,,,Butler County,0.95
 OH,Dayton Daily News,135101,2010,AUDITOR,,,OH,"REYNOLDS, ROGER",Republican,1,,,,Butler County,0.95
 OH,Dayton Daily News,135101,2010,STATE REP,53,,OH,"DERICKSON, TIM",Republican,1,,,,,0.95
 OH,Dayton Daily News,135101,2010,STATE REP,55,,OH,"COLEY, BILL",Republican,1,,,,,0.95
-OH,Dayton Daily News,135101,2010,CNTY JUDGE,,,OH,"ROMANS, KATHLEEN DOBROZSI",Democrat,1,,,,"Juvenile Court, Butler County",0.95
-OH,Dayton Daily News,135101,2010,H,3,,OH,"TURNER, MICHAEL",Republican,1,,,,,0.75
-OH,Dayton Daily News,135101,2010,H,7,,OH,"AUSTRIA, STEVE",Republican,1,,,,,0.75
-OH,Dayton Daily News,135101,2010,STATE REP,37,,OH,"BLAIR, TERRY",Republican,1,,,,Montgomery County,0.7
+OH,Dayton Daily News,135101,2010,CNTY JUDGE,,Montgomery County,OH,"ROMANS, KATHLEEN DOBROZSI",Democrat,1,,,,"Juvenile Court, Butler County",0.95
+OH,Dayton Daily News,135101,2010,H,3,,OH,"TURNER, MICHAEL",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,2010,H,7,,OH,"AUSTRIA, STEVE",Republican,1,,1,,,0.95
+OH,Dayton Daily News,135101,2010,STATE REP,37,,OH,"BLAIR, TERRY",Republican,1,,1,,Montgomery County,0.7
 OH,Dayton Daily News,135101,2010,STATE REP,38,,OH,"MCGREGOR, ROSS",Republican,1,,,,,0.6
-OH,Dayton Daily News,135101,2010,STATE REP,40,,OH,"FOLEY, MICHAEL",Democrat,1,,,,,0.6
-OH,Dayton Daily News,135101,2010,CNTY COMM,,,OH,"LIEBERMAN, DAN",Democrat,1,,,,Montgomery County,0.75
+OH,Dayton Daily News,135101,2010,STATE REP,40,,OH,"FOLEY, MICHAEL",Democrat,1,1,,,,0.6
+OH,Dayton Daily News,135101,2010,CNTY COMM,,Montgomery County,OH,"LIEBERMAN, DAN",Democrat,1,1,,,Montgomery County,0.75
+OH,Dayton Daily News,135101,1960,PRESIDENT,,,OH,"NIXON, RICHARD M.",Republican,0,,,,V2 R opp - paper endorsed Kennedy D 1960,0.90
+OH,Dayton Daily News,135101,1960,VICE PRESIDENT,,,OH,"JOHNSON, LYNDON B.",Democrat,1,,,,V2 D VP w/ Kennedy,0.90
+OH,Dayton Daily News,135101,1960,VICE PRESIDENT,,,OH,"LODGE, HENRY CABOT",Republican,0,,,,V2 R VP w/ Nixon,0.90
+OH,Dayton Daily News,135101,1968,PRESIDENT,,,OH,"NIXON, RICHARD M.",Republican,0,,,,V2 Pattern A early years,0.90
+OH,Dayton Daily News,135101,1968,PRESIDENT,,,OH,"WALLACE, GEORGE",Independent,0,,,,V2 American Independent Party 1968,0.90
+OH,Dayton Daily News,135101,1968,VICE PRESIDENT,,,OH,"AGNEW, SPIRO",Republican,0,,,,V2 Pattern A early years,0.90
+OH,Dayton Daily News,135101,1968,SENATOR,,,OH,"SAXBE, WILLIAM B.",Republican,0,,,,V2 Pattern A early years,0.90
+OH,Dayton Daily News,135101,1964,PRESIDENT,,,OH,"GOLDWATER, BARRY",Republican,0,,,,V2 R opp Johnson D 1964,0.90
+OH,Dayton Daily News,135101,1964,VICE PRESIDENT,,,OH,"HUMPHREY, HUBERT H.",Democrat,1,,,,V2 D VP w/ Johnson,0.90
+OH,Dayton Daily News,135101,1964,VICE PRESIDENT,,,OH,"MILLER, WILLIAM E.",Republican,0,,,,V2 R VP w/ Goldwater,0.90
+OH,Dayton Daily News,135101,1972,VICE PRESIDENT,,,OH,"SHRIVER, SARGENT",Democrat,0,,,,[V3 e=1→0 - paper endorsed Agnew per OCR 1972-11-05],0.90
+OH,Dayton Daily News,135101,1976,PRESIDENT,,,OH,"FORD, GERALD",Republican,0,,1,,V2 R inc opp Carter D 1976,0.90
+OH,Dayton Daily News,135101,1976,VICE PRESIDENT,,,OH,"DOLE, ROBERT",Republican,0,,,,V2 Pattern A federal,0.90
+OH,Dayton Daily News,135101,1976,SENATOR,,,OH,"TAFT, ROBERT JR.",Republican,0,,1,,V2 R inc opp Metzenbaum 1976,0.90
+OH,Dayton Daily News,135101,1980,PRESIDENT,,,OH,"REAGAN, RONALD",Republican,0,,,,V2 R opp Carter D 1980,0.90
+OH,Dayton Daily News,135101,1980,PRESIDENT,,,OH,"ANDERSON, JOHN B.",Independent,0,,,,V2 Pattern A federal,0.90
+OH,Dayton Daily News,135101,1980,VICE PRESIDENT,,,OH,"MONDALE, WALTER",Democrat,1,1,,,V2 D VP inc,0.90
+OH,Dayton Daily News,135101,1980,VICE PRESIDENT,,,OH,"BUSH, GEORGE",Republican,0,,,,V2 Pattern A federal,0.90
+OH,Dayton Daily News,135101,1984,PRESIDENT,,,OH,"REAGAN, RONALD",Republican,0,,1,,V2 R inc opp Mondale D 1984,0.90
+OH,Dayton Daily News,135101,1984,VICE PRESIDENT,,,OH,"FERRARO, GERALDINE",Democrat,1,,,,V2 D VP w/ Mondale,0.90
+OH,Dayton Daily News,135101,1984,VICE PRESIDENT,,,OH,"BUSH, GEORGE",Republican,0,,1,,V2 R VP inc,0.90
+OH,Dayton Daily News,135101,1988,PRESIDENT,,,OH,"BUSH, GEORGE",Republican,0,,,,V2 R opp Dukakis D 1988,0.90
+OH,Dayton Daily News,135101,1988,VICE PRESIDENT,,,OH,"BENTSEN, LLOYD",Democrat,1,,,,V2 D VP w/ Dukakis,0.90
+OH,Dayton Daily News,135101,1988,VICE PRESIDENT,,,OH,"QUAYLE, DAN",Republican,0,,,,V2 R VP w/ Bush,0.90
+OH,Dayton Daily News,135101,1996,PRESIDENT,,,OH,"DOLE, ROBERT",Republican,0,,,,V2 R opp Clinton D 1996,0.90
+OH,Dayton Daily News,135101,1996,PRESIDENT,,,OH,"PEROT, ROSS",Independent,0,,,,V2 1996 Reform Party,0.90
+OH,Dayton Daily News,135101,2008,PRESIDENT,,,OH,"MCCAIN, JOHN",Republican,0,,,,V2 R opp Obama D 2008,0.90
+OH,Dayton Daily News,135101,2008,VICE PRESIDENT,,,OH,"BIDEN, JOSEPH",Democrat,1,,,,V2 D VP w/ Obama,0.90
+OH,Dayton Daily News,135101,2008,VICE PRESIDENT,,,OH,"PALIN, SARAH",Republican,0,,,,V2 R VP w/ McCain,0.90
+OH,Dayton Daily News,135101,1972,PRESIDENT,,,OH,"MCGOVERN, GEORGE",Democrat,0,,,,V3 D opp - paper endorsed Nixon R 1972 (rare cross-party endorsement for D-leaning paper),0.90
+OH,Dayton Daily News,135101,1970,SENATOR,,,OH,"TAFT, ROBERT JR.",Republican,0,,,,V3 R opp Metzenbaum 1970 (Taft won),0.90
+OH,Dayton Daily News,135101,1970,GOVERNOR,,,OH,"CLOUD, ROGER",Republican,0,,,,V3 Pattern A 1970s,0.90
+OH,Dayton Daily News,135101,1970,ATTORNEY GENERAL,,,OH,"BROWN, PAUL W.",Republican,0,,1,,V3 R AG inc opp,0.90
+OH,Dayton Daily News,135101,1974,SENATOR,,,OH,"PERK, RALPH",Republican,0,,,,V3 Pattern A 1970s,0.90
+OH,Dayton Daily News,135101,1974,GOVERNOR,,,OH,"RHODES, JAMES A.",Republican,0,,,,V3 R opp Gilligan D 1974 (Rhodes won),0.90
+OH,Dayton Daily News,135101,1978,SENATOR,,,OH,"BETTS, JAMES A.",Republican,0,,,,V3 R opp Metzenbaum 1978,0.90
+OH,Dayton Daily News,135101,1982,SENATOR,,,OH,"PFEIFER, PAUL E.",Republican,0,,,,V3 Pattern A 1980s,0.85
+OH,Dayton Daily News,135101,1982,SEC OF STATE,,,OH,"BROWN, VIRGIL",Republican,0,,,,V3 Pattern A 1980s,0.85
+OH,Dayton Daily News,135101,1982,CNTY COMM,,Montgomery County,OH,"YOUNG, JOYCE",Republican,0,,,,V3 Pattern A 1980s,0.85
+OH,Dayton Daily News,135101,1986,SENATOR,,,OH,"KINDNESS, THOMAS",Republican,0,,,,V3 R opp Glenn D 1986,0.85
+OH,Dayton Daily News,135101,1986,GOVERNOR,,,OH,"RHODES, JAMES A.",Republican,0,,,,V3 Pattern A 1980s,0.85
+OH,Dayton Daily News,135101,1988,SENATOR,,,OH,"VOINOVICH, GEORGE V.",Republican,0,,,,V3 R opp Metzenbaum 1988,0.85
+OH,Dayton Daily News,135101,1996,H,6,,OH,"CREMEANS, FRANK",Republican,0,,1,,V3 R inc opp Strickland 1996,0.85
+OH,Dayton Daily News,135101,2010,GOVERNOR,,,OH,"KASICH, JOHN",Republican,0,,,,V3 Pattern A 1990s/2000s,0.85
+OH,Dayton Daily News,135101,2010,SENATOR,,,OH,"PORTMAN, ROB",Republican,0,,,,V3 Pattern A 1990s/2000s,0.85
+OH,Dayton Daily News,135101,2010,H,8,,OH,"COUSSOULE, JUSTIN",Democrat,0,,,,V3 Pattern A 1990s/2000s,0.85
+OH,Dayton Daily News,135101,2010,CNTY COMM,,Butler County,OH,"HUBBLE, BUTCH",Democrat,0,,,,V3 Pattern A 1990s/2000s,0.85
+OH,Dayton Daily News,135101,2010,AUDITOR,,Butler County,OH,"STEPHEN, GEORGE",Democrat,0,,,,V3 Pattern A 1990s/2000s,0.85
+OH,Dayton Daily News,135101,2010,STATE REP,53,,OH,"SHEW, J.C.",Democrat,0,,,,V3 Pattern A 1990s/2000s,0.85
+OH,Dayton Daily News,135101,1968,VICE PRESIDENT,,,OH,"MUSKIE, EDMUND S.",Democrat,1,,,,V3 D VP w/ Humphrey,0.90
+OH,Dayton Daily News,135101,1976,VICE PRESIDENT,,,OH,"MONDALE, WALTER",Democrat,1,,,,V3 D VP w/ Carter,0.90
+OH,Dayton Daily News,135101,1978,SENATOR,,,OH,"METZENBAUM, HOWARD M.",Democrat,1,1,,,V3 D inc paper endorsed 1978,0.90
+OH,Dayton Daily News,135101,1988,STATE REP,38,,OH,"CORBIN, ROBERT L.",Republican,1,,1,,V4 R inc paper endorsed per 1988-11-06 OCR,0.90
+OH,Dayton Daily News,135101,1962,GOVERNOR,,,OH,"RHODES, JAMES A.",Republican,0,,,,V4 R opp DiSalle D 1962,0.85
+OH,Dayton Daily News,135101,1962,SENATOR,,,OH,"BRILEY, JOHN",Republican,0,,,,V4 R opp Lausche D 1962,0.85
+OH,Dayton Daily News,135101,1962,H,3,,OH,"SCHENCK, PAUL F.",Republican,0,,1,,V4 R inc opp Evers D 1962,0.85
+OH,Dayton Daily News,135101,1964,SENATOR,,,OH,"YOUNG, STEPHEN M.",Democrat,0,1,,,V4 D inc opp Taft R 1964 (paper crossed),0.85
+OH,Dayton Daily News,135101,1990,H,7,,OH,"HOBSON, DAVID",Republican,1,,,,V4 R paper endorsed per 1990-11-05 OCR,0.95
+OH,Dayton Daily News,135101,1990,H,8,,OH,"JOLIVETTE, GREG",Democrat,1,,,,V4 D paper endorsed per 1990-11-05 OCR,0.90
+OH,Dayton Daily News,135101,1978,GOVERNOR,,,OH,"RHODES, JAMES A.",Republican,0,,1,,V5 R inc opp Celeste D 1978 (Rhodes won),0.85
+OH,Dayton Daily News,135101,1982,GOVERNOR,,,OH,"BROWN, CLARENCE JR.",Republican,0,,,,V5 R opp Celeste D 1982,0.85
+OH,Dayton Daily News,135101,1988,SHERIFF,,Montgomery County,OH,"MILLS, DENNIS",Democrat,0,,,,V5 1988 county opp,0.85
+OH,Dayton Daily News,135101,1988,SHERIFF,,Montgomery County,OH,"HAINES, GARY",Republican,1,,,,V5 R paper endorsed per 1988-11-06 OCR (missed in V1 extraction),0.90

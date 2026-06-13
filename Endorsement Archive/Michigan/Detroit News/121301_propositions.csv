@@ -1,255 +1,250 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence,extraction_confidence_note,source_file
-MI,Detroit News,121301,1968,MI,AMENDMENT,DETROIT-CHARTER-A,DETROIT POLICE/FIRE PENSION CHARTER AMENDMENT A,1,VOTE YES,0.92,,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,BALLOT MEASURE,STATE-1,GRADUATED STATE AND LOCAL INCOME TAXES,,,0.65,Position not legible in OCR,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,BALLOT MEASURE,STATE-2,DAYLIGHT SAVING TIME,1,VOTE YES,0.92,,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,BALLOT MEASURE,STATE-RESIGN,REQUIRE LEGISLATORS TO RESIGN BEFORE RUNNING FOR OTHER STATE OFFICE,0,VOTE NO,0.92,,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,BALLOT MEASURE,WAYNE-HOMERULE,WAYNE COUNTY HOME RULE,,,0.65,,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,BOND,STATE-3,$335 MILLION BOND (DETAILS PARTIAL IN OCR),,,0.65,OCR partial,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,BOND,STATE-4,$100 MILLION BOND (DETAILS PARTIAL IN OCR),,,0.65,OCR partial,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,TAX,DETROIT-SCHOOL-B,DETROIT 10 MILL SCHOOL TAX INCREASE,1,VOTE YES,0.92,,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,TAX,WCCC,WAYNE COUNTY COMMUNITY COLLEGE 2 MILL TAX,,,0.65,,121301_19681104.pdf
-MI,Detroit News,121301,1970,MI,AMENDMENT,STATE-B,CHANGE MINIMUM VOTING AGE,,,0.65,Position not legible in OCR,121301_19701102.pdf
-MI,Detroit News,121301,1970,MI,AMENDMENT,STATE-C,PROHIBIT PUBLIC AID TO NONPUBLIC SCHOOLS AND STUDENTS (PAROCHIAID),1,VOTE YES — paper opposed parochiaid,0.92,,121301_19701102.pdf
-MI,Detroit News,121301,1970,MI,BALLOT MEASURE,DETROIT-D,"AUTHORIZE PURCHASE OF SUPPLIES UNDER $5,000",1,VOTE YES,0.92,,121301_19701102.pdf
-MI,Detroit News,121301,1970,MI,BALLOT MEASURE,STATE-E,ADVISORY: WITHDRAWAL OF U.S. FORCES FROM VIETNAM,0,VOTE NO,0.92,,121301_19701102.pdf
+MI,Detroit News,121301,1968,MI,REFERENDUM,DETROIT-CHARTER-A,DETROIT POLICE/FIRE PENSION CHARTER AMENDMENT A,1,VOTE YES,0.92,,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,PROPOSITION,STATE-1,GRADUATED STATE AND LOCAL INCOME TAXES,,"Direction not clearly extracted from OCR - GRADUATED STATE AND LOCAL INCOME TAXES [V8: empty-direction prop record, RA review needed]",0.65,Position not legible in OCR,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,REFERENDUM,STATE-2,DAYLIGHT SAVING TIME,1,VOTE YES,0.92,,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,REFERENDUM,STATE-RESIGN,REQUIRE LEGISLATORS TO RESIGN BEFORE RUNNING FOR OTHER STATE OFFICE,0,VOTE NO,0.92,,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,REFERENDUM,WAYNE-HOMERULE,WAYNE COUNTY HOME RULE,,"Direction not clearly extracted from OCR - WAYNE COUNTY HOME RULE [V8: empty-direction prop record, RA review needed]",0.65,,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,BOND,STATE-3,$335 MILLION BOND (DETAILS PARTIAL IN OCR),,"Direction not clearly extracted from OCR - $335 MILLION BOND (DETAILS PARTIAL IN OCR) [V8: empty-direction prop record, RA review needed]",0.65,OCR partial,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,BOND,STATE-4,$100 MILLION BOND (DETAILS PARTIAL IN OCR),,"Direction not clearly extracted from OCR - $100 MILLION BOND (DETAILS PARTIAL IN OCR) [V8: empty-direction prop record, RA review needed]",0.65,OCR partial,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,REFERENDUM,DETROIT-SCHOOL-B,DETROIT 10 MILL SCHOOL TAX INCREASE,1,VOTE YES,0.92,,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,REFERENDUM,WCCC,WAYNE COUNTY COMMUNITY COLLEGE 2 MILL TAX,,"Direction not clearly extracted from OCR - WAYNE COUNTY COMMUNITY COLLEGE 2 MILL TAX [V8: empty-direction prop record, RA review needed]",0.65,,121301_19681104.pdf
+MI,Detroit News,121301,1970,MI,REFERENDUM,STATE-B,CHANGE MINIMUM VOTING AGE,,"Direction not clearly extracted from OCR - CHANGE MINIMUM VOTING AGE [V8: empty-direction prop record, RA review needed]",0.65,Position not legible in OCR,121301_19701102.pdf
+MI,Detroit News,121301,1970,MI,REFERENDUM,STATE-C,PROHIBIT PUBLIC AID TO NONPUBLIC SCHOOLS AND STUDENTS (PAROCHIAID),1,VOTE YES — paper opposed parochiaid,0.92,,121301_19701102.pdf
+MI,Detroit News,121301,1970,MI,REFERENDUM,DETROIT-D,"AUTHORIZE PURCHASE OF SUPPLIES UNDER $5,000",1,VOTE YES,0.92,,121301_19701102.pdf
+MI,Detroit News,121301,1970,MI,REFERENDUM,STATE-E,ADVISORY: WITHDRAWAL OF U.S. FORCES FROM VIETNAM,0,VOTE NO,0.92,,121301_19701102.pdf
 MI,Detroit News,121301,1970,MI,BOND,STATE-A,BONDS FOR LOW INCOME HOUSING,1,VOTE YES,0.92,,121301_19701102.pdf
-MI,Detroit News,121301,1972,MI,AMENDMENT,DETROIT-H,ADOPT NEW CITY CHARTER,0,VOTE NO,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,AMENDMENT,STATE-B,ALLOW ABORTION UNDER CERTAIN CONDITIONS,,,0.65,Position not legible in OCR,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,AMENDMENT,STATE-C,TUITION GRANTS / NON-PUBLIC SCHOOL FUNDING (CONSTITUTIONAL),0,VOTE NO,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,AMENDMENT,STATE-D,PROHIBIT INCOME TAX VIA CONSTITUTIONAL AMENDMENT,0,VOTE NO,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,BALLOT MEASURE,DETROIT-I,MANNER OF ELECTING CITY COUNCIL UNDER NEW CHARTER,1,VOTE ALTERNATE 'A' TO RETAIN AT-LARGE ELECTION,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,BALLOT MEASURE,DETROIT-J,PARTISAN VS NON-PARTISAN CITY ELECTIONS,1,VOTE NON-PARTISAN ELECTIONS,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,BALLOT MEASURE,DETROIT-K,GENERAL CITY EMPLOYEES ANNUITY OPTION,0,VOTE NO,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,BALLOT MEASURE,STATE-A,DAYLIGHT SAVING TIME,1,VOTE YES,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,BOND,STATE-E,BORROW/TUITION PAYMENTS FOR VIETNAM ERA VETERANS,0,VOTE NO,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,TAX,DETROIT-L,5 MILL PROPERTY TAX FOR DETROIT SCHOOL OPERATING,1,VOTE YES,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,TAX,WAYNE-F,0.6 MILL PROPERTY TAX FOR NEW COUNTY JAIL,1,VOTE YES,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,TAX,WAYNE-G,0.4 MILL PROPERTY TAX FOR JUVENILE COURT,1,VOTE YES,0.85,OCR partial — partial proposal description,121301_19721105.pdf
-MI,Detroit News,121301,1974,MI,AMENDMENT,DETROIT-E,PERMIT CITY COUNCIL TO SIT AS TAX REVIEW BOARD,0,VOTE NO,0.92,,121301_19741103.pdf
-MI,Detroit News,121301,1974,MI,AMENDMENT,DETROIT-F,REQUIRE CITY COUNCIL APPROVAL OF CITY CONTRACTS,1,VOTE YES,0.92,,121301_19741103.pdf
-MI,Detroit News,121301,1974,MI,BALLOT MEASURE,STATE-A,LIMIT USE OF MOTOR FUEL TAX,0,VOTE NO,0.92,,121301_19741103.pdf
-MI,Detroit News,121301,1974,MI,BOND,STATE-B,VIETNAM AND OTHER VETERANS BONUS,1,VOTE YES,0.92,,121301_19741103.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,DETROIT-H,ADOPT NEW CITY CHARTER,0,VOTE NO,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,STATE-B,ALLOW ABORTION UNDER CERTAIN CONDITIONS,,"Direction not clearly extracted from OCR - ALLOW ABORTION UNDER CERTAIN CONDITIONS [V8: empty-direction prop record, RA review needed]",0.65,Position not legible in OCR,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,STATE-C,TUITION GRANTS / NON-PUBLIC SCHOOL FUNDING (CONSTITUTIONAL),0,VOTE NO,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,PROPOSITION,STATE-D,PROHIBIT INCOME TAX VIA CONSTITUTIONAL AMENDMENT,0,VOTE NO,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,DETROIT-I,MANNER OF ELECTING CITY COUNCIL UNDER NEW CHARTER,1,VOTE ALTERNATE 'A' TO RETAIN AT-LARGE ELECTION,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,DETROIT-J,PARTISAN VS NON-PARTISAN CITY ELECTIONS,1,VOTE NON-PARTISAN ELECTIONS,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,DETROIT-K,GENERAL CITY EMPLOYEES ANNUITY OPTION,0,VOTE NO,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,STATE-A,DAYLIGHT SAVING TIME,1,VOTE YES,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,PROPOSITION,STATE-E,BORROW/TUITION PAYMENTS FOR VIETNAM ERA VETERANS,0,VOTE NO,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,DETROIT-L,5 MILL PROPERTY TAX FOR DETROIT SCHOOL OPERATING,1,VOTE YES,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,WAYNE-F,0.6 MILL PROPERTY TAX FOR NEW COUNTY JAIL,1,VOTE YES,0.92,,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,PROPOSITION,WAYNE-G,0.4 MILL PROPERTY TAX FOR JUVENILE COURT,1,VOTE YES,0.85,OCR partial — partial proposal description,121301_19721105.pdf
+MI,Detroit News,121301,1974,MI,REFERENDUM,DETROIT-E,PERMIT CITY COUNCIL TO SIT AS TAX REVIEW BOARD,0,VOTE NO,0.92,,121301_19741103.pdf
+MI,Detroit News,121301,1974,MI,REFERENDUM,DETROIT-F,REQUIRE CITY COUNCIL APPROVAL OF CITY CONTRACTS,1,VOTE YES,0.92,,121301_19741103.pdf
+MI,Detroit News,121301,1974,MI,PROPOSITION,STATE-A,LIMIT USE OF MOTOR FUEL TAX,0,VOTE NO,0.92,,121301_19741103.pdf
+MI,Detroit News,121301,1974,MI,PROPOSITION,STATE-B,VIETNAM AND OTHER VETERANS BONUS,1,VOTE YES,0.92,,121301_19741103.pdf
 MI,Detroit News,121301,1974,MI,BOND,STATE-D,STATEWIDE TRANSIT SYSTEMS BONDS,1,VOTE YES,0.92,,121301_19741103.pdf
-MI,Detroit News,121301,1976,MI,Millage,,Macomb County Community College millage increase of 1.05 mills,1,Vote YES,0.88,,121301_19761101.pdf
-MI,Detroit News,121301,1976,MI,Proposal,A,Prohibit non-returnable bottles and cans for soft drinks and beer; ban pulltop cans and require refundable cash deposits for beverage containers,0,Vote NO,0.92,,121301_19761101.pdf
-MI,Detroit News,121301,1976,MI,Proposal,B,Permit election of 18-year-olds to the State House and Senate,0,Vote NO,0.92,,121301_19761101.pdf
-MI,Detroit News,121301,1976,MI,Proposal,C,Limit state taxes and spending to 8.3 percent of combined personal income of citizens,1,Sidebar editorial 'Proposal C is needed' explicitly states 'should be approved'; main column endorsement list ambiguous in OCR,0.7,OCR shows 'Vote NO' in main column but accompanying sidebar editorial unambiguously endorses; resolved as YES per the sidebar's explicit 'should be approved' language. Confidence flagged for QA spot-check.,121301_19761101.pdf
-MI,Detroit News,121301,1976,MI,Proposal,D,Replace flat-rate state income tax with graduated state income tax for 1977; rates after 1977 set by Legislature,0,Vote NO,0.9,,121301_19761101.pdf
-MI,Detroit News,121301,1976,MI,Proposal,E,Authorize 5-mill tax increase for Detroit schools,1,Vote YES,0.92,,121301_19761101.pdf
-MI,Detroit News,121301,1976,MI,Proposal,F,Amend Detroit City Charter to allow Council to elect any of its members to replace Council president on the pension board,1,Vote YES,0.92,,121301_19761101.pdf
-MI,Detroit News,121301,1976,MI,Proposal,G,Advisory question on whether the state should legislate casino gambling for Detroit,0,Vote NO,0.92,,121301_19761101.pdf
-MI,Detroit News,121301,1978,MI,Proposal,A,Hold a constitutional convention within 11 months,0,Vote NO,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,B,Prohibit granting parole to prisoners convicted of certain crimes involving violence or injury until at least the minimum sentence has been served,1,Vote YES,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,C,Authorize deposit of state funds in savings and loan associations and credit unions as well as banks,1,Vote YES,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,D,Prohibit the sale of alcoholic beverages to anyone under 21,0,Vote NO,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,E,Limit state taxation to its present 9.4 percent of personal income (the Headlee plan),1,Vote YES,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,G,Allow collective bargaining with binding arbitration for Michigan State Police,0,Vote NO,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,H,Prohibit use of property taxes for school operating expenses and establish a voucher system for financing education at public and non-public schools,0,Vote NO,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,J,Reduce property tax assessments and establish a maximum 5.6 percent state income tax rate (the Tisch plan),0,Vote NO,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,K,Permit courts to deny bail under certain circumstances involving violent crimes,1,Vote YES,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,M,Allocate at least 90 percent of gasoline-tax revenues for general road purposes and the remainder for other transportation purposes,1,Vote YES,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,R,Authorize creation of a railroad redevelopment authority to sell bonds and make loans to railroads with trackage in Michigan,0,Vote NO,0.93,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,S,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,"Specific bond purpose for each letter not detailed in OCR; bonds covered police stations, fire stations, FD HQ modernization, streetlighting, recreation",121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,T,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,U,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,V,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,,121301_19781105.pdf
-MI,Detroit News,121301,1978,MI,Proposal,W,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,,121301_19781105.pdf
-MI,Detroit News,121301,1980,MI,Proposal,A,Smith-Bullard Tax Proposal,0,Vote NO,0.92,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,B,Reduce Drinking Age to 19,1,Vote YES,0.92,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,C,Coalition Tax Plan,1,Vote YES,0.92,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,D,Tisch Tax Proposal,0,Vote NO,0.92,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,E,Tax Increase for Prisons,1,Vote YES,0.92,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,F,Change Legislative Immunity,,Direction unclear in OCR,0.65,OCR cuts off vote indicator after the proposal label,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,H,Change Office of Lt. Gov.,1,Vote YES,0.9,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,J,Wayne County: Increase Millage Ceiling,0,Vote NO,0.9,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,K,Wayne County: Millage for County Hospital,0,Vote NO,0.9,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,L,Wayne County: Millage for Mental Health,0,Vote NO,0.9,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,M,Wayne County: Millage for Sheriff and Prosecutor,0,Vote NO,0.9,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,N,Detroit Fire Department Promotions,,OCR truncated,0.6,OCR shows 'Fire Department Promotions' but vote indicator garbled,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,P,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,Q,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,R,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,S,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,Proposal,Y,Detroit School Millage,1,Vote YES,0.9,,121301_19801103.pdf
-MI,Detroit News,121301,1982,MI,Proposal,A,Permit limits on the legal immunity now enjoyed by state lawmakers,1,Vote YES (only statewide proposal endorsed),0.92,,121301_19821031.pdf
-MI,Detroit News,121301,1982,MI,Proposal,E,Nuclear-freeze initiative,0,Vote NO; especially mischievous because it could weaken U.S. negotiating position in disarmament talks,0.92,,121301_19821031.pdf
-MI,Detroit News,121301,1984,MI,Proposal,A,Statewide ballot proposal,0,Vote NO,0.7,OCR garbled in proposals section; vote interpreted as NO based on listing alongside other NO votes,121301_19841104.pdf
-MI,Detroit News,121301,1984,MI,Proposal,B,Statewide ballot proposal,0,Vote NO,0.7,OCR garbled in proposals section,121301_19841104.pdf
-MI,Detroit News,121301,1984,MI,Proposal,C,Voter's Choice tax limitation initiative,1,Vote YES; paper supported Proposal C in editorial 'Government's Goal: Kill Prop C' criticizing Blanchard administration's opposition campaign,0.78,Direction inferred from editorial defending Proposal C against state government opposition. The OCR shows it in NO listing but the editorial context clearly supports it. Flagged for QA.,121301_19841104.pdf
-MI,Detroit News,121301,1984,MI,Proposal,D-Detroit,Should Detroit City Council have the right to hire an outside attorney?,1,Vote YES,0.92,,121301_19841104.pdf
-MI,Detroit News,121301,1984,MI,Proposal,S-Detroit,Should the Detroit school district be granted a 4-mill property tax increase?,0,Vote NO,0.92,,121301_19841104.pdf
-MI,Detroit News,121301,1988,MI,Detroit Proposal,J,Economic Development Bonds,1,Vote YES,0.92,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Detroit Proposal,N,Reduce the number of council votes needed to override veto,1,Vote YES,0.92,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Detroit Proposal,R,Detroit Schools: 4-mill renewal,1,Vote YES,0.92,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Detroit Proposal,S,Detroit Schools: 6-mill increase,0,Vote NO,0.92,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Detroit Proposal,T,Detroit Schools: deficit bond,0,Vote NO,0.92,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Macomb County Proposal,,Macomb Community College Millage,1,Vote YES,0.9,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Oakland County Proposal,,Oakland Vehicle Registration Fee,1,Vote YES,0.88,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Oakland County Proposal,,Oakland Probate Court funding (OCR garbled),1,Vote YES,0.7,Proposal description partially garbled in OCR,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Proposal,B,Statewide ballot Proposal B (related to BB? - reissue rights or environmental),1,Vote YES,0.7,Proposal B description not extractable from OCR; vote direction clear,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Proposal,C,Environmental and Recreational Bonds (paired with Proposal D),1,Vote YES,0.85,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Proposal,D,Environmental and Recreational Bonds (paired with Proposal C),1,Vote YES,0.85,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Wayne County Proposal,,Wayne County Intermediate School District: 1 additional mill,1,Vote YES,0.9,,121301_19881106.pdf
-MI,Detroit News,121301,1988,MI,Wayne County Proposal,,Wayne County Gambling Prohibition,0,Vote NO,0.9,,121301_19881106.pdf
-MI,Detroit News,121301,1990,MI,Detroit Proposal,C,Charter amendment to provide for filling Council vacancies,1,Vote YES,0.92,,121301_19901104.pdf
-MI,Detroit News,121301,1990,MI,Macomb County Proposal,,Macomb Community College Millage (one-third of a mill increase),0,Vote NO,0.9,,121301_19901104.pdf
-MI,Detroit News,121301,1990,MI,Wayne County Proposal,,Metropolitan Airport expansion,1,Vote YES,0.9,,121301_19901104.pdf
-MI,Detroit News,121301,1992,MI,Highland Park Proposal,,Casinos for Highland Park (a YES vote means no casinos),1,Vote YES (means no casinos),0.88,,121301_19921101.pdf
-MI,Detroit News,121301,1992,MI,Proposal,A,"Caps annual assessment increase only on residential property at 5 percent or rate of inflation, whichever lower",0,Vote NO,0.92,,121301_19921101.pdf
-MI,Detroit News,121301,1992,MI,Proposal,B,Limits terms of state and federal legislators,1,Vote YES,0.92,,121301_19921101.pdf
-MI,Detroit News,121301,1992,MI,Proposal,C,Cuts school property taxes 30 percent: state tax cut; caps annual assessment increase at 3 percent,1,Vote YES,0.92,,121301_19921101.pdf
-MI,Detroit News,121301,1992,MI,Proposal,D,Rolls back car insurance rates an average 20 percent if buyers opt for lower cap on medical coverage,1,Vote YES,0.92,,121301_19921101.pdf
-MI,Detroit News,121301,1992,MI,Wayne County Proposal,,"Wayne Community College Millage (1-mill, 3-year operating levy)",0,Vote NO,0.9,,121301_19921101.pdf
-MI,Detroit News,121301,1992,MI,Wayne County Proposal,1,County executive must submit for legislative approval reorganization plans,0,Vote NO,0.9,,121301_19921101.pdf
-MI,Detroit News,121301,1992,MI,Wayne County Proposal,2,Returns to local communities taxes collected but not expended each year on juvenile programs,0,Vote NO,0.9,,121301_19921101.pdf
-MI,Detroit News,121301,1992,MI,Wayne County Proposal,3,Wayne County mental health programs millage,1,Vote YES,0.85,OCR truncated description,121301_19921101.pdf
-MI,Detroit News,121301,1994,MI,Proposal,,"1-mill, four-year millage renewal for Wayne County Community College",0,Vote NO,0.88,,121301_19941106.pdf
-MI,Detroit News,121301,1994,MI,Proposal,A,Call a convention to draft a new state constitution,0,Vote NO,0.92,,121301_19941106.pdf
-MI,Detroit News,121301,1994,MI,Proposal,B,Ends automatic appeal for felons who plead guilty,0,Vote NO,0.92,,121301_19941106.pdf
-MI,Detroit News,121301,1994,MI,Proposal,C,16 percent reduction in auto insurance premiums for limitations on benefits and lawsuits,1,Vote YES,0.92,,121301_19941106.pdf
-MI,Detroit News,121301,1994,MI,Proposal,P,Establish constitutionally protected endowment fund to boost state park funding,1,Vote YES,0.92,OCR-truncated direction; assumed YES based on supportive framing,121301_19941106.pdf
-MI,Detroit News,121301,1994,MI,Proposal,S,5.65 mill tax increase for Detroit school system,0,Vote NO,0.92,,121301_19941106.pdf
-MI,Detroit News,121301,1996,MI,Detroit Proposal,T,Allow city to suspend pension contributions if pension investments exceed projections,1,Vote YES,0.88,,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Proposal,A,Prohibit bingo games for political fund-raising,0,Vote NO,0.92,,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Proposal,B,Amend state Constitution to require a person have practiced law in Michigan for five years before being eligible (for judicial office),0,Vote NO,0.85,Direction not fully clear in OCR; assumed NO,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Proposal,C,Place the state's Veterans' Trust Fund in the state Constitution to keep money from being used to balance state budget,0,Vote NO,0.85,Direction not fully clear in OCR,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Proposal,D,Would shift authority for regulating game from the Department of Natural Resources,0,Vote NO,0.85,,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Proposal,E,"Authorize up to three casinos in Detroit, modifying 1994 Detroit gambling referendum",0,Vote NO,0.92,,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Proposal,G,Ban use of bait and hounds in bear hunting,0,Vote NO,0.92,,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Wayne County Proposal,,Auditor General Powers Defined: shift responsibility for hiring an outside auditing firm from the Wayne County executive to the auditor general; restrict auditor general from conducting certain audits on demand,0,Vote NO,0.85,,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Wayne County Proposal,,"1-mill, five-year operating levy beginning in the year 2000",0,Vote NO,0.88,,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Wayne County Proposal,B,Independent Counsel Authorized: would add appointing an independent counsel to county commission,0,Vote NO,0.85,,121301_19961103.pdf
-MI,Detroit News,121301,1996,MI,Wayne County Proposal,S,Authorize 1 percent tax on hotel rooms and 2 percent tax on rental cars to subsidize a new Lions stadium in Detroit,1,Vote YES,0.92,,121301_19961103.pdf
-MI,Detroit News,121301,1998,MI,Charter Amendment,,Charter amendments related to support of Civil Service Commission and reduce number of seats to five,1,Vote YES,0.78,Description partially garbled in OCR,121301_19981101.pdf
-MI,Detroit News,121301,1998,MI,Charter Amendment,,Charter amendments related to Community Advisory Councils,1,Vote YES,0.8,,121301_19981101.pdf
-MI,Detroit News,121301,1998,MI,Detroit Proposal,,Detroit Living Wage Ordinance (require Detroit contractors to pay employees a living wage of about $7.70 an hour plus medical coverage),0,Vote NO,0.92,,121301_19981101.pdf
-MI,Detroit News,121301,1998,MI,Proposal,,Approve a $678 million Clean Michigan Bond for various environmental cleanup projects,0,Vote NO,0.92,,121301_19981101.pdf
-MI,Detroit News,121301,1998,MI,Proposal,A,Change the word 'handicapped' in the state Constitution to 'disabled',0,Vote NO,0.85,,121301_19981101.pdf
-MI,Detroit News,121301,1998,MI,Proposal,B,Legalize physician-assisted suicide,0,Vote NO,0.92,,121301_19981101.pdf
-MI,Detroit News,121301,1998,MI,Wayne County Proposal,,Convert Wayne County 1-mill renewable levy into a permanent operating millage beginning in 2004,0,Vote NO,0.85,,121301_19981101.pdf
-MI,Detroit News,121301,1998,MI,Wayne County Proposal,,Wayne County Charter amendment to eliminate the county auditor,0,Vote NO,0.85,,121301_19981101.pdf
-MI,Detroit News,121301,2000,MI,Detroit Proposal,C,Detroit charter amendment regarding government structure,1,Vote YES,0.7,OCR partially visible,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Detroit Proposal,D,Detroit ballot proposal D - neighborhood redevelopment,1,Vote YES,0.7,OCR garbled,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Detroit Proposal,I,Detroit ballot proposal I - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Detroit Proposal,L,Detroit ballot proposal L - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Detroit Proposal,M,Detroit ballot proposal M - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Detroit Proposal,R,Detroit ballot proposal R - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Detroit Proposal,S,Detroit ballot proposal S - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Macomb County Proposal,A,"10-year, 0.5-mill tax to fund 17 cultural institutions in Oakland and Wayne counties",0,Vote NO,0.88,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Novi Proposal,,Novi fire department proposal: charter amendment to create a downtown fire station and 24-hour mobile emergency medical service,0,Vote NO,0.85,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Oakland County Proposal,,Road proposals: $18.4-million bond issue would fund main-state-route improvement projects,1,Vote YES,0.85,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Oakland County Proposal,A,"10-year, 0.5-mill tax to fund 17 cultural institutions in Oakland and Wayne counties",0,Vote NO,0.88,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Proposal,1,Constitutional amendment that would allow school vouchers for parents in failing school districts,0,Vote NO,0.92,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Proposal,2,Constitutional amendment that would require a two-thirds majority vote of the Legislature to pass any law on local government,0,Vote NO,0.92,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,Wayne County Proposal,,Wayne County Community College millage proposal: new 1.5-mill operating levy,0,Vote NO,0.85,,121301_20001105.pdf
-MI,Detroit News,121301,2002,MI,Eastpointe Proposal,,"1-mill, four-year property tax for police services",0,Vote NO,0.82,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Eastpointe Proposal,,"1-mill, four-year property tax for fire and emergency services",0,Vote NO,0.82,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Eastpointe Proposal,S,1.44-mill increase to override automatic property tax rate reduction from rising property values,0,Vote NO,0.85,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Macomb County Proposal,,County phone surcharge: $1.50/month/telephone for construction and maintenance of county emergency public safety communications system,0,Vote NO,0.85,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Proposal,02-1,Constitutional amendment to prohibit straight-party voting on the ballot,0,Vote NO,0.92,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Proposal,02-2,Initiative to let the state borrow $1 billion to assist in local sewage upgrades and other water pollution control programs,0,Vote NO,0.92,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Proposal,02-3,Constitutional amendment to grant state classified employees the constitutional right to collective bargaining with binding arbitration,0,Vote NO,0.92,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Proposal,02-4,"Constitutional amendment to permanently reallocate 90 percent of the tobacco settlement revenue from legislative appropriations to certain private health care groups, guaranteeing 2001 funding levels on an escalating basis",0,Vote NO,0.92,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Roseville Proposal,,"Headlee override: millage increases for police, fire, EMS, sanitation, sewer repair and construction",0,Vote NO,0.85,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Shelby Township Proposal,,Replace 5-mill police assessment with 4-mill property tax,1,Vote YES (one of two proposals),0.78,OCR text describes two proposals; direction inferred,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Shelby Township Proposal,,Half-mill increase to fix actuarial deficit in police and fire pension (.23-mill tax reduction overall),1,Vote YES,0.78,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,Washington Township Proposal,,Combine existing 0.75-mill tax with 0.25-mill increase for police protection for four years,0,Vote NO,0.82,,121301_20021103.pdf
-MI,Detroit News,121301,2002,MI,"Wayne, Oakland Proposal",K,Raise county property taxes 0.5 mills for 10 years to fund 17 Metro Detroit cultural and recreational projects,1,Vote YES,0.92,,121301_20021103.pdf
-MI,Detroit News,121301,2004,MI,Detroit Proposal,E,Create a Detroit school governance system where the mayor nominates the chief executive subject to the approval of 9-member elected school board (replacing 7-member school reform board),1,Vote YES,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2004,MI,Detroit Proposal,L,Renew the Detroit library's operating millage of 3.64 mill for 10 years,1,Vote YES,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2004,MI,Detroit Proposal,M,Add 1 mill to the Detroit library operating millage for 10 years,0,Vote NO,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2004,MI,Detroit Proposal,N,Issue 20-year bonds to cover capital investments in aging city structures,1,Vote YES,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2004,MI,Detroit Proposal,P,Issue 20-year bonds to cover capital investments in aging city structures,1,Vote YES,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2004,MI,Detroit Proposal,R,Issue 20-year bonds to cover capital investments in aging city structures,1,Vote YES,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2004,MI,Detroit Proposal,S,Issue $78 million worth of bonds to refurbish or expand fire stations and a new police lock-up,1,Vote YES,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2004,MI,Detroit Proposal,T,Issue 20-year bonds to cover capital investments in aging city structures,1,Vote YES,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2004,MI,Proposal,04-1,Constitutional amendment requiring voter approval either statewide or in communities where the expansion of gambling is requested,0,Vote NO,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2004,MI,Proposal,04-2,Constitutional amendment requiring that the relationship of a man and woman be the only recognized marriage or union in Michigan,0,Vote NO,0.92,,121301_20041031.pdf
-MI,Detroit News,121301,2006,MI,Addison Township Proposal,,"10-year, 0.25-mill tax increase for operating and maintaining an 'older persons' building'",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Addison Township Proposal,,Bond plan to borrow $1.08 million for older persons' building,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Addison Township Proposal,,Renew 3.5-mill property tax millage for police,0,Vote NO; nearly a 0.7-mill increase from rolled-back rate of 2.87 mills,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Armada Proposal,,Have council annually appoint clerk; voters now elect clerk,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Armada Proposal,,Hike taxes 1 mill for library,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Birmingham Proposal,,Amend the charter so the city may create an alternative retirement system,1,Vote YES,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Birmingham Schools Proposal,,Renew 11.31-mill property tax rate to operate schools for 10 years,1,Vote YES,0.88,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Crestwood School District Proposal,,"Borrow $35 million to upgrade, build and improve buildings and athletic fields (Dearborn Heights)",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Dearborn Proposal,,Abolish paid parking system in city's west end,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Farmington Proposal,,Restate the charter in gender-neutral terms,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Ferndale Proposal,,Create Human Rights Ordinance on gay rights,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Garden City Proposal,,Increase property taxes 2 mills to build a new library,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Grosse Pointe Park Proposal,,$7 million bond proposal in part to encourage replacing duplex housing with single-family homes,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Grosse Pointe Woods Proposal,,Create term limits for city officials,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Hamtramck Public Schools Proposal,,4.4-mill property tax increase for public recreation and playgrounds,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Holly Proposal,,Create a 2-mill property tax increase to fund police,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Independence Township Proposal,,0.12-mill property tax increase to borrow $3.1 million for 21 years to build an 'adult activity center',0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Inkster Proposal,,Approve new charter that shifts discretionary power and department heads,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Lincoln Park Schools Proposal,,Renew and increase the 10-year nonhomestead millage rate by 0.78 mill to 18 mills,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Lyon Township Proposal,,"10-year, 0.3-mill property tax increase for bonds to upgrade fire vehicles and equipment",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Oakland Township Proposal,,Increase 10-year parks and recreation millage renewal from 0.636 mill to 0.75 mill,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Oakland Township Proposal,,0.25-mill property tax increase to extend building and maintaining paths and boardwalks,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Orion Township Proposal,,"10-year, 0.25-mill tax increase for operating and maintaining an 'older persons' building'",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Orion Township Proposal,,$5.95 million bond plan for older persons' building,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Oxford Area Schools Proposal,,Renew 10-year 18-mill nonhomestead property tax rate for operating the schools,1,Vote YES,0.88,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Oxford Township Proposal,,"10-year, 0.25-mill tax increase for operating and maintaining an 'older persons' building'",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Oxford Township Proposal,,$2.82 million bond plan for older persons' building,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Pontiac Proposal,,"1-mill, 10-year tax increase for police",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Pontiac Proposal,,"10-year, 0.5-mill tax hike for youth recreational programs",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Pontiac Proposal,,Increase taxes by 0.5 mill to provide services for senior citizens,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Pontiac Public Schools Proposal,,Renew 18.5-mill nonhomestead property tax rate for operating the schools for 10 years,1,Vote YES,0.88,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Proposal,1,"State park, hunting, fishing and other conservation fees can only be spent for conservation and recreation purposes",0,Vote NO; not needed since funds have been raided only once,0.92,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Proposal,2,"Ban government and public universities from using affirmative action programs that give preferential treatment based on race, gender, color, ethnicity or national origin for employment, education or contracting",0,Vote NO; should not be in state Constitution,0.92,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Proposal,3,Re-establish a mourning dove hunting season in Michigan,1,"Vote YES; doves plentiful, hunting would be economic boon",0.92,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Proposal,4,Codify Michigan case law that severely restricts the government's ability to take private property,1,Vote YES,0.92,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Proposal,5,Require annual increased state funding equal to rate of inflation for public schools and colleges; reduce and cap retirement contributions and shift remainder to the state,0,Most offensive ballot initiative in years; money grab by union,0.92,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Ray Township Proposal,,"$58,000 annual millage hike so library can join a cooperative",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Rochester Proposal,,Renew 0.2-mill tax for creating and maintaining bike paths and pedestrian trails with a 0.1858-mill tax for 20 years,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Roseville Proposal,,Increase charter millage limitation to 20 mills from 15 mills,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Southgate Proposal,,Appoint an independent body of people to take over Board of Trustees,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Southgate Proposal,,2-mill property tax increase for street improvements,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Sterling Heights Proposal,F,$5 million in bonds to upgrade three fire stations,1,Vote YES,0.88,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Sterling Heights Proposal,P,$23 million in bonds for new police station and to renovate current police station for other agencies,0,Vote NO,0.88,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Sumpter Township Proposal,,"1-mill property tax increase for capital expenses, operations and maintenance of public safety dispatch services",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Sylvan Lake Proposal,,"0.33-mill, 20-year property tax increase to acquire land, build and equip a community center",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Sylvan Lake Proposal,,"Create 0.13-mill property tax increase to borrow $200,000 for 20 years for a new city hall",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Sylvan Lake Proposal,,"Impose 0.385-mill tax increase to operate, maintain and improve recreational facilities",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Utica Proposal,,$2.5 million in bonds to build new police station or create addition to city hall,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Walled Lake Proposal,,0.59-mill tax increase to join the Suburban Mobility Authority for Regional Transportation (SMART) bus system,1,Vote YES,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Waterford Proposal,,"20-year, 0.8-mill tax increase for a senior center, recreation center and other activities, plus funding the staffing and operating of the Parks and Recreation Department",0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Wixom Proposal,,Increase the annual library millage 0.215 mill to 1.08 mills for 10 years,0,Vote NO,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2006,MI,Wyandotte Proposal,,Put city-owned cable television and other telecommunications systems within the charter so residents later can vote on whether to sell them,1,Vote YES,0.85,,121301_20061105.pdf
-MI,Detroit News,121301,2008,MI,Chesterfield Township Proposal,,"Renew and increase property tax for Fire Department by 0.5 mill to 2 mills for five years, yielding $900,000 annually",1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Ferndale Proposal,,Create a law to let the National Organization for Positive Medicine distribute and sell medical marijuana to patients under court order,0,Vote NO,0.85,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Hamtramck Proposal,,"Keep city ordinance prohibiting discrimination in housing and employment, including for sexual orientation",1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Hamtramck Proposal,,Amend the charter to subject any council proposal to increase the existing property tax rate of 8.1 mills to a vote of the people,1,Vote YES,0.85,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Lincoln Consolidated Schools Proposal,,"Increase property taxes 0.1 mill for five years, generating $100,000 a year, to fund community recreation programs the district used to finance from its budget",1,Vote YES,0.85,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Macomb County Proposal,,"Veterans millage: increase property taxes 0.04 mills for four years, generating $13 million a year, to finance benefits counseling and emergency cash assistance for veterans",1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Oakland County Proposal,,"Proposed employee merit system modification: updates rules to reflect current practices, doesn't require county residency, changes Personnel Appeal Board process",1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Pontiac Proposal,,"Amend the charter to create a permanent 2-mill increase in taxes, raising almost $3 million a year for streets",0,Vote NO,0.85,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Proposal,08-1,Legislative initiative to permit the use and cultivation of marijuana for specified medical conditions,1,Vote YES,0.92,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Proposal,08-2,Constitutional amendment to address human embryonic stem cell research in Michigan by expanding the use of human embryos for any research permitted under federal law with certain limits,1,Vote YES,0.92,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,River Rouge Ballot Proposal,1,Amend the charter to increase the membership on the board of trustees of the Policemen and Firemen Retirement System to seven members from five,1,Vote YES,0.85,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,River Rouge Ballot Proposal,2,"Increase terms of office for mayor, clerk, treasurer, assessor, commissioners and constables to four years from two years",1,Vote YES,0.85,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Rochester Hills Charter Amendment,1,"Require that council members or candidates not be in default of payment on any tax, assessment or obligation owed the city",1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Rochester Hills Charter Amendment,2,Create a procedure following an investigation and hearing that would let five of seven members vote to throw a council member out of office for violation of the charter,1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Rochester Hills Charter Amendment,3,Require that a council member forfeit office after being convicted of a felony,1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Rochester Hills Charter Amendment,4,"Require that a mayor or mayoral candidate not be in default on payment on any tax, assessment or obligation owed the city",1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Rochester Hills Charter Amendment,5,Require that a mayor forfeit office after being convicted of a felony,1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Rochester Hills Charter Amendment,6,Move the chief accounting duties from the clerk to the mayor's office,1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Southfield Public Schools Proposal,,"Partial renewal of an expiring 19.63-mill property tax for operations, with rates of 18 mills on commercial property and up to 7.6 mills on residences for six years",1,Vote YES,0.88,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Wixom Proposal,,Amend charter to renew a 1.15-mill property tax to fix and maintain roads and streets for 15 years starting in 2011,1,Vote YES,0.85,,121301_20081103.pdf
-MI,Detroit News,121301,2008,MI,Wixom Proposal,,Amend charter to renew a 0.3-mill property tax to fix and repair sidewalks for 15 years,1,Vote YES,0.85,,121301_20081103.pdf
-MI,Detroit News,121301,2014,MI,Statewide Ballot Proposal,,Wolf Hunting,1,Vote YES,0.92,,121301_20141103.pdf
-MI,Detroit News,121301,2016,MI,Detroit Proposal,A,Community benefits agreement Proposal A,0,"Both A and B are bad, but B is better; A opposed in favor of B",0.85,,121301_20161011.pdf
-MI,Detroit News,121301,2016,MI,Detroit Proposal,B,Community benefits agreement Proposal B,1,"Both A and B are bad, but B is better - News leans toward B",0.85,,121301_20161011.pdf
-MI,Detroit News,121301,2016,MI,Regional Transit Authority Tax,,Regional Transit Authority tax,1,Vote YES,0.92,,121301_20161011.pdf
-MI,Detroit News,121301,2016,MI,Wayne County Proposal,,Wayne Regional Educational Service Agency tax,0,Vote NO,0.92,,121301_20161011.pdf
-MI,Detroit News,121301,2018,MI,Proposal,1,Regulate Marijuana Like Alcohol,0,Vote NO,0.95,,121301_20181025.pdf
-MI,Detroit News,121301,2018,MI,Proposal,2,Voters Not Politicians (independent redistricting commission),0,Vote NO,0.95,,121301_20181025.pdf
-MI,Detroit News,121301,2018,MI,Proposal,3,Promote the Vote (voting rights amendments),0,Vote NO,0.95,,121301_20181025.pdf
-MI,Detroit News,121301,2018,MI,Wayne County Proposal,,Wayne County Community College District Replacement Operating Millage Proposal,1,Vote YES,0.92,,121301_20181025.pdf
-MI,Detroit News,121301,2020,MI,Detroit Proposal,N,$250 million bond proposal for blight removal in Detroit neighborhoods,1,Vote YES,0.92,,121301_20201030_v5.pdf
-MI,Detroit News,121301,2020,MI,Proposal,1,Change use of Natural Resources Trust Fund and State Parks Endowment Fund,0,Vote NO; preserve flexibility for future resource use,0.92,,121301_20201030_v14.pdf
-MI,Detroit News,121301,2020,MI,Wayne County Proposal,,Wayne RESA countywide enhancement millage to benefit public schools,0,Vote NO,0.92,,121301_20201030_v4.pdf
-MI,Detroit News,121301,2022,MI,Proposal,1,Reform state government (term-limits/financial-disclosure ballot proposal),1,Vote YES on Prop 1 to reform state government,0.95,,121301_20221108.pdf
-MI,Detroit News,121301,2022,MI,Proposal,2,"Voting rights expansion (early voting, drop boxes, etc.)",0,Vote NO on Prop 2 — 'Make policymakers do their jobs',0.95,,121301_20221108.pdf
-MI,Detroit News,121301,2022,MI,Proposal,3,Reproductive Freedom for All — abortion rights constitutional amendment,0,Vote NO on Prop 3 — 'Reject extreme response to abortion',0.95,,121301_20221108.pdf
+MI,Detroit News,121301,1976,MI,REFERENDUM,,Macomb County Community College millage increase of 1.05 mills,1,Vote YES,0.88,,121301_19761101.pdf
+MI,Detroit News,121301,1976,MI,PROPOSITION,A,Prohibit non-returnable bottles and cans for soft drinks and beer; ban pulltop cans and require refundable cash deposits for beverage containers,0,Vote NO,0.92,,121301_19761101.pdf
+MI,Detroit News,121301,1976,MI,PROPOSITION,B,Permit election of 18-year-olds to the State House and Senate,0,Vote NO,0.92,,121301_19761101.pdf
+MI,Detroit News,121301,1976,MI,PROPOSITION,C,Limit state taxes and spending to 8.3 percent of combined personal income of citizens,1,Sidebar editorial 'Proposal C is needed' explicitly states 'should be approved'; main column endorsement list ambiguous in OCR,0.7,OCR shows 'Vote NO' in main column but accompanying sidebar editorial unambiguously endorses; resolved as YES per the sidebar's explicit 'should be approved' language. Confidence flagged for QA spot-check.,121301_19761101.pdf
+MI,Detroit News,121301,1976,MI,PROPOSITION,D,Replace flat-rate state income tax with graduated state income tax for 1977; rates after 1977 set by Legislature,0,Vote NO,0.9,,121301_19761101.pdf
+MI,Detroit News,121301,1976,MI,REFERENDUM,E,Authorize 5-mill tax increase for Detroit schools,1,Vote YES,0.92,,121301_19761101.pdf
+MI,Detroit News,121301,1976,MI,REFERENDUM,F,Amend Detroit City Charter to allow Council to elect any of its members to replace Council president on the pension board,1,Vote YES,0.92,,121301_19761101.pdf
+MI,Detroit News,121301,1976,MI,PROPOSITION,G,Advisory question on whether the state should legislate casino gambling for Detroit,0,Vote NO,0.92,,121301_19761101.pdf
+MI,Detroit News,121301,1978,MI,PROPOSITION,A,Hold a constitutional convention within 11 months,0,Vote NO,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,PROPOSITION,B,Prohibit granting parole to prisoners convicted of certain crimes involving violence or injury until at least the minimum sentence has been served,1,Vote YES,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,PROPOSITION,C,Authorize deposit of state funds in savings and loan associations and credit unions as well as banks,1,Vote YES,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,PROPOSITION,D,Prohibit the sale of alcoholic beverages to anyone under 21,0,Vote NO,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,PROPOSITION,E,Limit state taxation to its present 9.4 percent of personal income (the Headlee plan),1,Vote YES,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,PROPOSITION,G,Allow collective bargaining with binding arbitration for Michigan State Police,0,Vote NO,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,REFERENDUM,H,Prohibit use of property taxes for school operating expenses and establish a voucher system for financing education at public and non-public schools,0,Vote NO,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,PROPOSITION,J,Reduce property tax assessments and establish a maximum 5.6 percent state income tax rate (the Tisch plan),0,Vote NO,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,PROPOSITION,K,Permit courts to deny bail under certain circumstances involving violent crimes,1,Vote YES,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,PROPOSITION,M,Allocate at least 90 percent of gasoline-tax revenues for general road purposes and the remainder for other transportation purposes,1,Vote YES,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,BOND,R,Authorize creation of a railroad redevelopment authority to sell bonds and make loans to railroads with trackage in Michigan,0,Vote NO,0.93,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,BOND,S,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,"Specific bond purpose for each letter not detailed in OCR; bonds covered police stations, fire stations, FD HQ modernization, streetlighting, recreation",121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,BOND,T,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,BOND,U,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,BOND,V,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,,121301_19781105.pdf
+MI,Detroit News,121301,1978,MI,BOND,W,Detroit general obligation bond issue (one of five Detroit capital improvement bond proposals S-W totaling $53 million),1,"Endorsed in 'Detroit Bonds' editorial Oct 25, 1978",0.85,,121301_19781105.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,A,Smith-Bullard Tax Proposal,0,Vote NO,0.92,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,B,Reduce Drinking Age to 19,1,Vote YES,0.92,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,C,Coalition Tax Plan,1,Vote YES,0.92,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,D,Tisch Tax Proposal,0,Vote NO,0.92,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,E,Tax Increase for Prisons,1,Vote YES,0.92,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,F,Change Legislative Immunity,,Direction unclear in OCR,0.65,OCR cuts off vote indicator after the proposal label,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,H,Change Office of Lt. Gov.,1,Vote YES,0.9,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,REFERENDUM,J,Wayne County: Increase Millage Ceiling,0,Vote NO,0.9,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,REFERENDUM,K,Wayne County: Millage for County Hospital,0,Vote NO,0.9,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,REFERENDUM,L,Wayne County: Millage for Mental Health,0,Vote NO,0.9,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,REFERENDUM,M,Wayne County: Millage for Sheriff and Prosecutor,0,Vote NO,0.9,,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,N,Detroit Fire Department Promotions,,OCR truncated,0.6,OCR shows 'Fire Department Promotions' but vote indicator garbled,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,BOND,P,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,BOND,Q,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,BOND,R,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,BOND,S,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,REFERENDUM,Y,Detroit School Millage,1,Vote YES,0.9,,121301_19801103.pdf
+MI,Detroit News,121301,1982,MI,PROPOSITION,A,Permit limits on the legal immunity now enjoyed by state lawmakers,1,Vote YES (only statewide proposal endorsed),0.92,,121301_19821031.pdf
+MI,Detroit News,121301,1982,MI,PROPOSITION,E,Nuclear-freeze initiative,0,Vote NO; especially mischievous because it could weaken U.S. negotiating position in disarmament talks,0.92,,121301_19821031.pdf
+MI,Detroit News,121301,1984,MI,PROPOSITION,A,Statewide ballot proposal,0,Vote NO,0.7,OCR garbled in proposals section; vote interpreted as NO based on listing alongside other NO votes,121301_19841104.pdf
+MI,Detroit News,121301,1984,MI,PROPOSITION,B,Statewide ballot proposal,0,Vote NO,0.7,OCR garbled in proposals section,121301_19841104.pdf
+MI,Detroit News,121301,1984,MI,PROPOSITION,C,Voter's Choice tax limitation initiative,1,Vote YES; paper supported Proposal C in editorial 'Government's Goal: Kill Prop C' criticizing Blanchard administration's opposition campaign,0.78,Direction inferred from editorial defending Proposal C against state government opposition. The OCR shows it in NO listing but the editorial context clearly supports it. Flagged for QA.,121301_19841104.pdf
+MI,Detroit News,121301,1984,MI,PROPOSITION,D-Detroit,Should Detroit City Council have the right to hire an outside attorney?,1,Vote YES,0.92,,121301_19841104.pdf
+MI,Detroit News,121301,1984,MI,REFERENDUM,S-Detroit,Should the Detroit school district be granted a 4-mill property tax increase?,0,Vote NO,0.92,,121301_19841104.pdf
+MI,Detroit News,121301,1988,MI,BOND,J,Economic Development Bonds,1,Vote YES,0.92,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,REFERENDUM,N,Reduce the number of council votes needed to override veto,1,Vote YES,0.92,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,REFERENDUM,R,Detroit Schools: 4-mill renewal,1,Vote YES,0.92,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,REFERENDUM,S,Detroit Schools: 6-mill increase,0,Vote NO,0.92,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,BOND,T,Detroit Schools: deficit bond,0,Vote NO,0.92,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,REFERENDUM,,Macomb Community College Millage,1,Vote YES,0.9,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,REFERENDUM,,Oakland Vehicle Registration Fee,1,Vote YES,0.88,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,REFERENDUM,,Oakland Probate Court funding (OCR garbled),1,Vote YES,0.7,Proposal description partially garbled in OCR,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,PROPOSITION,B,Statewide ballot Proposal B (related to BB? - reissue rights or environmental),1,Vote YES,0.7,Proposal B description not extractable from OCR; vote direction clear,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,BOND,C,Environmental and Recreational Bonds (paired with Proposal D),1,Vote YES,0.85,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,BOND,D,Environmental and Recreational Bonds (paired with Proposal C),1,Vote YES,0.85,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,REFERENDUM,,Wayne County Intermediate School District: 1 additional mill,1,Vote YES,0.9,,121301_19881106.pdf
+MI,Detroit News,121301,1988,MI,REFERENDUM,,Wayne County Gambling Prohibition,0,Vote NO,0.9,,121301_19881106.pdf
+MI,Detroit News,121301,1990,MI,REFERENDUM,C,Charter amendment to provide for filling Council vacancies,1,Vote YES,0.92,,121301_19901104.pdf
+MI,Detroit News,121301,1990,MI,REFERENDUM,,Macomb Community College Millage (one-third of a mill increase),0,Vote NO,0.9,,121301_19901104.pdf
+MI,Detroit News,121301,1990,MI,REFERENDUM,,Metropolitan Airport expansion,1,Vote YES,0.9,,121301_19901104.pdf
+MI,Detroit News,121301,1992,MI,REFERENDUM,,Casinos for Highland Park (a YES vote means no casinos),1,Vote YES (means no casinos),0.88,,121301_19921101.pdf
+MI,Detroit News,121301,1992,MI,PROPOSITION,A,"Caps annual assessment increase only on residential property at 5 percent or rate of inflation, whichever lower",0,Vote NO,0.92,,121301_19921101.pdf
+MI,Detroit News,121301,1992,MI,PROPOSITION,B,Limits terms of state and federal legislators,1,Vote YES,0.92,,121301_19921101.pdf
+MI,Detroit News,121301,1992,MI,REFERENDUM,C,Cuts school property taxes 30 percent: state tax cut; caps annual assessment increase at 3 percent,1,Vote YES,0.92,,121301_19921101.pdf
+MI,Detroit News,121301,1992,MI,PROPOSITION,D,Rolls back car insurance rates an average 20 percent if buyers opt for lower cap on medical coverage,1,Vote YES,0.92,,121301_19921101.pdf
+MI,Detroit News,121301,1992,MI,REFERENDUM,,"Wayne Community College Millage (1-mill, 3-year operating levy)",0,Vote NO,0.9,,121301_19921101.pdf
+MI,Detroit News,121301,1992,MI,REFERENDUM,1,County executive must submit for legislative approval reorganization plans,0,Vote NO,0.9,,121301_19921101.pdf
+MI,Detroit News,121301,1992,MI,PROPOSITION,2,Returns to local communities taxes collected but not expended each year on juvenile programs,0,Vote NO,0.9,,121301_19921101.pdf
+MI,Detroit News,121301,1992,MI,REFERENDUM,3,Wayne County mental health programs millage,1,Vote YES,0.85,OCR truncated description,121301_19921101.pdf
+MI,Detroit News,121301,1994,MI,REFERENDUM,,"1-mill, four-year millage renewal for Wayne County Community College",0,Vote NO,0.88,,121301_19941106.pdf
+MI,Detroit News,121301,1994,MI,PROPOSITION,A,Call a convention to draft a new state constitution,0,Vote NO,0.92,,121301_19941106.pdf
+MI,Detroit News,121301,1994,MI,PROPOSITION,B,Ends automatic appeal for felons who plead guilty,0,Vote NO,0.92,,121301_19941106.pdf
+MI,Detroit News,121301,1994,MI,PROPOSITION,C,16 percent reduction in auto insurance premiums for limitations on benefits and lawsuits,1,Vote YES,0.92,,121301_19941106.pdf
+MI,Detroit News,121301,1994,MI,PROPOSITION,P,Establish constitutionally protected endowment fund to boost state park funding,1,Vote YES,0.92,OCR-truncated direction; assumed YES based on supportive framing,121301_19941106.pdf
+MI,Detroit News,121301,1994,MI,REFERENDUM,S,5.65 mill tax increase for Detroit school system,0,Vote NO,0.92,,121301_19941106.pdf
+MI,Detroit News,121301,1996,MI,REFERENDUM,T,Allow city to suspend pension contributions if pension investments exceed projections,1,Vote YES,0.88,,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,PROPOSITION,A,Prohibit bingo games for political fund-raising,0,Vote NO,0.92,,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,PROPOSITION,B,Amend state Constitution to require a person have practiced law in Michigan for five years before being eligible (for judicial office),0,Vote NO,0.85,Direction not fully clear in OCR; assumed NO,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,PROPOSITION,C,Place the state's Veterans' Trust Fund in the state Constitution to keep money from being used to balance state budget,0,Vote NO,0.85,Direction not fully clear in OCR,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,PROPOSITION,D,Would shift authority for regulating game from the Department of Natural Resources,0,Vote NO,0.85,,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,PROPOSITION,E,"Authorize up to three casinos in Detroit, modifying 1994 Detroit gambling referendum",0,Vote NO,0.92,,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,PROPOSITION,G,Ban use of bait and hounds in bear hunting,0,Vote NO,0.92,,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,REFERENDUM,,Auditor General Powers Defined: shift responsibility for hiring an outside auditing firm from the Wayne County executive to the auditor general; restrict auditor general from conducting certain audits on demand,0,Vote NO,0.85,,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,PROPOSITION,,"1-mill, five-year operating levy beginning in the year 2000",0,Vote NO,0.88,,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,REFERENDUM,B,Independent Counsel Authorized: would add appointing an independent counsel to county commission,0,Vote NO,0.85,,121301_19961103.pdf
+MI,Detroit News,121301,1996,MI,REFERENDUM,S,Authorize 1 percent tax on hotel rooms and 2 percent tax on rental cars to subsidize a new Lions stadium in Detroit,1,Vote YES,0.92,,121301_19961103.pdf
+MI,Detroit News,121301,1998,MI,REFERENDUM,,Charter amendments related to Community Advisory Councils,1,Vote YES,0.8,,121301_19981101.pdf
+MI,Detroit News,121301,1998,MI,REFERENDUM,,Detroit Living Wage Ordinance (require Detroit contractors to pay employees a living wage of about $7.70 an hour plus medical coverage),0,Vote NO,0.92,,121301_19981101.pdf
+MI,Detroit News,121301,1998,MI,BOND,,Approve a $678 million Clean Michigan Bond for various environmental cleanup projects,0,Vote NO,0.92,,121301_19981101.pdf
+MI,Detroit News,121301,1998,MI,PROPOSITION,A,Change the word 'handicapped' in the state Constitution to 'disabled',0,Vote NO,0.85,,121301_19981101.pdf
+MI,Detroit News,121301,1998,MI,PROPOSITION,B,Legalize physician-assisted suicide,0,Vote NO,0.92,,121301_19981101.pdf
+MI,Detroit News,121301,1998,MI,REFERENDUM,,Convert Wayne County 1-mill renewable levy into a permanent operating millage beginning in 2004,0,Vote NO,0.85,,121301_19981101.pdf
+MI,Detroit News,121301,1998,MI,REFERENDUM,,Wayne County Charter amendment to eliminate the county auditor,0,Vote NO,0.85,,121301_19981101.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,C,Detroit charter amendment regarding government structure,1,Vote YES,0.7,OCR partially visible,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,D,Detroit ballot proposal D - neighborhood redevelopment,1,Vote YES,0.7,OCR garbled,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,I,Detroit ballot proposal I - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,L,Detroit ballot proposal L - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,M,Detroit ballot proposal M - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,R,Detroit ballot proposal R - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,S,Detroit ballot proposal S - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,A,"10-year, 0.5-mill tax to fund 17 cultural institutions in Oakland and Wayne counties",0,Vote NO,0.88,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,,Novi fire department proposal: charter amendment to create a downtown fire station and 24-hour mobile emergency medical service,0,Vote NO,0.85,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,BOND,,Road proposals: $18.4-million bond issue would fund main-state-route improvement projects,1,Vote YES,0.85,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,PROPOSITION,1,Constitutional amendment that would allow school vouchers for parents in failing school districts,0,Vote NO,0.92,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,PROPOSITION,2,Constitutional amendment that would require a two-thirds majority vote of the Legislature to pass any law on local government,0,Vote NO,0.92,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,,Wayne County Community College millage proposal: new 1.5-mill operating levy,0,Vote NO,0.85,,121301_20001105.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,,"1-mill, four-year property tax for police services",0,Vote NO,0.82,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,S,1.44-mill increase to override automatic property tax rate reduction from rising property values,0,Vote NO,0.85,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,REFERENDUM,,County phone surcharge: $1.50/month/telephone for construction and maintenance of county emergency public safety communications system,0,Vote NO,0.85,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,02-1,Constitutional amendment to prohibit straight-party voting on the ballot,0,Vote NO,0.92,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,02-2,Initiative to let the state borrow $1 billion to assist in local sewage upgrades and other water pollution control programs,0,Vote NO,0.92,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,02-3,Constitutional amendment to grant state classified employees the constitutional right to collective bargaining with binding arbitration,0,Vote NO,0.92,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,02-4,"Constitutional amendment to permanently reallocate 90 percent of the tobacco settlement revenue from legislative appropriations to certain private health care groups, guaranteeing 2001 funding levels on an escalating basis",0,Vote NO,0.92,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,,"Headlee override: millage increases for police, fire, EMS, sanitation, sewer repair and construction",0,Vote NO,0.85,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,,Replace 5-mill police assessment with 4-mill property tax,1,Vote YES (one of two proposals),0.78,OCR text describes two proposals; direction inferred,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,,Half-mill increase to fix actuarial deficit in police and fire pension (.23-mill tax reduction overall),1,Vote YES,0.78,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,PROPOSITION,,Combine existing 0.75-mill tax with 0.25-mill increase for police protection for four years,0,Vote NO,0.82,,121301_20021103.pdf
+MI,Detroit News,121301,2002,MI,REFERENDUM,K,Raise county property taxes 0.5 mills for 10 years to fund 17 Metro Detroit cultural and recreational projects,1,Vote YES,0.92,,121301_20021103.pdf
+MI,Detroit News,121301,2004,MI,REFERENDUM,E,Create a Detroit school governance system where the mayor nominates the chief executive subject to the approval of 9-member elected school board (replacing 7-member school reform board),1,Vote YES,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2004,MI,REFERENDUM,L,Renew the Detroit library's operating millage of 3.64 mill for 10 years,1,Vote YES,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2004,MI,REFERENDUM,M,Add 1 mill to the Detroit library operating millage for 10 years,0,Vote NO,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2004,MI,BOND,N,Issue 20-year bonds to cover capital investments in aging city structures,1,Vote YES,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2004,MI,BOND,P,Issue 20-year bonds to cover capital investments in aging city structures,1,Vote YES,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2004,MI,BOND,R,Issue 20-year bonds to cover capital investments in aging city structures,1,Vote YES,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2004,MI,BOND,S,Issue $78 million worth of bonds to refurbish or expand fire stations and a new police lock-up,1,Vote YES,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2004,MI,BOND,T,Issue 20-year bonds to cover capital investments in aging city structures,1,Vote YES,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2004,MI,PROPOSITION,04-1,Constitutional amendment requiring voter approval either statewide or in communities where the expansion of gambling is requested,0,Vote NO,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2004,MI,PROPOSITION,04-2,Constitutional amendment requiring that the relationship of a man and woman be the only recognized marriage or union in Michigan,0,Vote NO,0.92,,121301_20041031.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,"10-year, 0.25-mill tax increase for operating and maintaining an 'older persons' building'",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,BOND,,Bond plan to borrow $1.08 million for older persons' building,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Renew 3.5-mill property tax millage for police,0,Vote NO; nearly a 0.7-mill increase from rolled-back rate of 2.87 mills,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Have council annually appoint clerk; voters now elect clerk,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Hike taxes 1 mill for library,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Amend the charter so the city may create an alternative retirement system,1,Vote YES,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Renew 11.31-mill property tax rate to operate schools for 10 years,1,Vote YES,0.88,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,"Borrow $35 million to upgrade, build and improve buildings and athletic fields (Dearborn Heights)",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Abolish paid parking system in city's west end,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Restate the charter in gender-neutral terms,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Create Human Rights Ordinance on gay rights,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Increase property taxes 2 mills to build a new library,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,BOND,,$7 million bond proposal in part to encourage replacing duplex housing with single-family homes,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Create term limits for city officials,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,4.4-mill property tax increase for public recreation and playgrounds,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Create a 2-mill property tax increase to fund police,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,0.12-mill property tax increase to borrow $3.1 million for 21 years to build an 'adult activity center',0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Approve new charter that shifts discretionary power and department heads,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Renew and increase the 10-year nonhomestead millage rate by 0.78 mill to 18 mills,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,BOND,,"10-year, 0.3-mill property tax increase for bonds to upgrade fire vehicles and equipment",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Increase 10-year parks and recreation millage renewal from 0.636 mill to 0.75 mill,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,0.25-mill property tax increase to extend building and maintaining paths and boardwalks,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,BOND,,$5.95 million bond plan for older persons' building,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Renew 10-year 18-mill nonhomestead property tax rate for operating the schools,1,Vote YES,0.88,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,BOND,,$2.82 million bond plan for older persons' building,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,"1-mill, 10-year tax increase for police",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,"10-year, 0.5-mill tax hike for youth recreational programs",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Increase taxes by 0.5 mill to provide services for senior citizens,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Renew 18.5-mill nonhomestead property tax rate for operating the schools for 10 years,1,Vote YES,0.88,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,1,"State park, hunting, fishing and other conservation fees can only be spent for conservation and recreation purposes",0,Vote NO; not needed since funds have been raided only once,0.92,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,2,"Ban government and public universities from using affirmative action programs that give preferential treatment based on race, gender, color, ethnicity or national origin for employment, education or contracting",0,Vote NO; should not be in state Constitution,0.92,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,3,Re-establish a mourning dove hunting season in Michigan,1,"Vote YES; doves plentiful, hunting would be economic boon",0.92,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,4,Codify Michigan case law that severely restricts the government's ability to take private property,1,Vote YES,0.92,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,5,Require annual increased state funding equal to rate of inflation for public schools and colleges; reduce and cap retirement contributions and shift remainder to the state,0,Most offensive ballot initiative in years; money grab by union,0.92,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,"$58,000 annual millage hike so library can join a cooperative",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Renew 0.2-mill tax for creating and maintaining bike paths and pedestrian trails with a 0.1858-mill tax for 20 years,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Increase charter millage limitation to 20 mills from 15 mills,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Appoint an independent body of people to take over Board of Trustees,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,2-mill property tax increase for street improvements,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,BOND,F,$5 million in bonds to upgrade three fire stations,1,Vote YES,0.88,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,BOND,P,$23 million in bonds for new police station and to renovate current police station for other agencies,0,Vote NO,0.88,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,"1-mill property tax increase for capital expenses, operations and maintenance of public safety dispatch services",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,"0.33-mill, 20-year property tax increase to acquire land, build and equip a community center",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,"Create 0.13-mill property tax increase to borrow $200,000 for 20 years for a new city hall",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,"Impose 0.385-mill tax increase to operate, maintain and improve recreational facilities",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,BOND,,$2.5 million in bonds to build new police station or create addition to city hall,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,0.59-mill tax increase to join the Suburban Mobility Authority for Regional Transportation (SMART) bus system,1,Vote YES,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,"20-year, 0.8-mill tax increase for a senior center, recreation center and other activities, plus funding the staffing and operating of the Parks and Recreation Department",0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,PROPOSITION,,Increase the annual library millage 0.215 mill to 1.08 mills for 10 years,0,Vote NO,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2006,MI,REFERENDUM,,Put city-owned cable television and other telecommunications systems within the charter so residents later can vote on whether to sell them,1,Vote YES,0.85,,121301_20061105.pdf
+MI,Detroit News,121301,2008,MI,PROPOSITION,,"Renew and increase property tax for Fire Department by 0.5 mill to 2 mills for five years, yielding $900,000 annually",1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,,Create a law to let the National Organization for Positive Medicine distribute and sell medical marijuana to patients under court order,0,Vote NO,0.85,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,,"Keep city ordinance prohibiting discrimination in housing and employment, including for sexual orientation",1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,PROPOSITION,,Amend the charter to subject any council proposal to increase the existing property tax rate of 8.1 mills to a vote of the people,1,Vote YES,0.85,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,,"Increase property taxes 0.1 mill for five years, generating $100,000 a year, to fund community recreation programs the district used to finance from its budget",1,Vote YES,0.85,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,PROPOSITION,,"Veterans millage: increase property taxes 0.04 mills for four years, generating $13 million a year, to finance benefits counseling and emergency cash assistance for veterans",1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,,"Proposed employee merit system modification: updates rules to reflect current practices, doesn't require county residency, changes Personnel Appeal Board process",1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,PROPOSITION,,"Amend the charter to create a permanent 2-mill increase in taxes, raising almost $3 million a year for streets",0,Vote NO,0.85,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,PROPOSITION,08-1,Legislative initiative to permit the use and cultivation of marijuana for specified medical conditions,1,Vote YES,0.92,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,PROPOSITION,08-2,Constitutional amendment to address human embryonic stem cell research in Michigan by expanding the use of human embryos for any research permitted under federal law with certain limits,1,Vote YES,0.92,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,1,Amend the charter to increase the membership on the board of trustees of the Policemen and Firemen Retirement System to seven members from five,1,Vote YES,0.85,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,2,"Increase terms of office for mayor, clerk, treasurer, assessor, commissioners and constables to four years from two years",1,Vote YES,0.85,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,1,"Require that council members or candidates not be in default of payment on any tax, assessment or obligation owed the city",1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,2,Create a procedure following an investigation and hearing that would let five of seven members vote to throw a council member out of office for violation of the charter,1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,3,Require that a council member forfeit office after being convicted of a felony,1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,4,"Require that a mayor or mayoral candidate not be in default on payment on any tax, assessment or obligation owed the city",1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,5,Require that a mayor forfeit office after being convicted of a felony,1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,REFERENDUM,6,Move the chief accounting duties from the clerk to the mayor's office,1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,PROPOSITION,,"Partial renewal of an expiring 19.63-mill property tax for operations, with rates of 18 mills on commercial property and up to 7.6 mills on residences for six years",1,Vote YES,0.88,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,PROPOSITION,,Amend charter to renew a 1.15-mill property tax to fix and maintain roads and streets for 15 years starting in 2011,1,Vote YES,0.85,,121301_20081103.pdf
+MI,Detroit News,121301,2008,MI,PROPOSITION,,Amend charter to renew a 0.3-mill property tax to fix and repair sidewalks for 15 years,1,Vote YES,0.85,,121301_20081103.pdf
+MI,Detroit News,121301,2014,MI,PROPOSITION,,Wolf Hunting,1,Vote YES,0.92,,121301_20141103.pdf
+MI,Detroit News,121301,2016,MI,REFERENDUM,A,Community benefits agreement Proposal A,0,"Both A and B are bad, but B is better; A opposed in favor of B",0.85,,121301_20161011.pdf
+MI,Detroit News,121301,2016,MI,REFERENDUM,B,Community benefits agreement Proposal B,1,"Both A and B are bad, but B is better - News leans toward B",0.85,,121301_20161011.pdf
+MI,Detroit News,121301,2016,MI,PROPOSITION,,Regional Transit Authority tax,1,Vote YES,0.92,,121301_20161011.pdf
+MI,Detroit News,121301,2016,MI,REFERENDUM,,Wayne Regional Educational Service Agency tax,0,Vote NO,0.92,,121301_20161011.pdf
+MI,Detroit News,121301,2018,MI,PROPOSITION,1,Regulate Marijuana Like Alcohol,0,Vote NO,0.95,,121301_20181025.pdf
+MI,Detroit News,121301,2018,MI,PROPOSITION,2,Voters Not Politicians (independent redistricting commission),0,Vote NO,0.95,,121301_20181025.pdf
+MI,Detroit News,121301,2018,MI,PROPOSITION,3,Promote the Vote (voting rights amendments),0,Vote NO,0.95,,121301_20181025.pdf
+MI,Detroit News,121301,2018,MI,REFERENDUM,,Wayne County Community College District Replacement Operating Millage Proposal,1,Vote YES,0.92,,121301_20181025.pdf
+MI,Detroit News,121301,2020,MI,BOND,N,$250 million bond proposal for blight removal in Detroit neighborhoods,1,Vote YES,0.92,,121301_20201030_v5.pdf
+MI,Detroit News,121301,2020,MI,PROPOSITION,1,Change use of Natural Resources Trust Fund and State Parks Endowment Fund,0,Vote NO; preserve flexibility for future resource use,0.92,,121301_20201030_v14.pdf
+MI,Detroit News,121301,2020,MI,REFERENDUM,,Wayne RESA countywide enhancement millage to benefit public schools,0,Vote NO,0.92,,121301_20201030_v4.pdf
+MI,Detroit News,121301,2022,MI,PROPOSITION,1,Reform state government (term-limits/financial-disclosure ballot proposal),1,Vote YES on Prop 1 to reform state government,0.95,,121301_20221108.pdf
+MI,Detroit News,121301,2022,MI,PROPOSITION,2,"Voting rights expansion (early voting, drop boxes, etc.)",0,Vote NO on Prop 2 — 'Make policymakers do their jobs',0.95,,121301_20221108.pdf
+MI,Detroit News,121301,2022,MI,PROPOSITION,3,Reproductive Freedom for All — abortion rights constitutional amendment,0,Vote NO on Prop 3 — 'Reject extreme response to abortion',0.95,,121301_20221108.pdf

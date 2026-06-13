@@ -7,94 +7,177 @@ SC,Columbia Record,143150,1970,SCHOOL BOARD,1,Richland County School District On
 SC,Columbia Record,143150,1970,SCHOOL BOARD,1,Richland County School District One,SC,"DUNN, SHEPHARD N.",Nonpartisan,1,,,,Write-in; Record urges voters write in both Dunn and Bagnal,0.9
 SC,Columbia Record,143150,1972,SENATOR,,,SC,"THURMOND, STROM",Republican,1,,1,,Headline: Re-elect Thurmond; incumbent US Senator opposed by Democrat John Bolt Culbertson,0.95
 SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"KIMBROUGH, EDWARD",Republican,1,,,,Headline: Crucial School Board Election; Record argues vote for all five Republicans to guarantee anti-Mizell majority,0.85
-SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"KUNTNER, MICHAEL",Republican,1,,,,One of 5 Republicans endorsed as anti-Mizell slate,0.85
+SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"KUSHNER, MICHAEL",Republican,1,,,,One of 5 Republicans endorsed as anti-Mizell slate; NAME FIX KUNTNER→KUSHNER (R111) per 1972-11-02 OCR,0.92
 SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"LINDER, WILLIAM",Republican,1,,,,One of 5 Republicans endorsed as anti-Mizell slate,0.85
 SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"SMITH, EDWARD",Republican,1,,,,One of 5 Republicans endorsed as anti-Mizell slate,0.85
 SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"UPTON, DONALD",Republican,1,,,,One of 5 Republicans endorsed as anti-Mizell slate,0.85
 SC,Columbia Record,143150,1974,ATTORNEY GENERAL,,,SC,"MCLEOD, DANIEL R.",Democrat,1,1,,,Reelect McLeod; opponent Ken Powell (Republican),0.95
-SC,Columbia Record,143150,1974,LT GOVERNOR,,,SC,"CAMPBELL, CARROLL",Republican,1,,,,Voters Can't Lose - paper recommends both; 'Either is a happy choice',0.85
-SC,Columbia Record,143150,1974,LT GOVERNOR,,,SC,"HARVEY, BRANTLEY",Democrat,1,,,,Voters Can't Lose - paper recommends both; 'Either is a happy choice',0.85
-SC,Columbia Record,143150,1974,CNTY COMM,,Richland County,SC,"MCKAY, JAY",,1,,,,Richland County Council; former president Richland and SC Bar Associations,0.9
-SC,Columbia Record,143150,1974,CNTY COMM,,Richland County,SC,"HEARN, CANDY",,1,,,,"Richland County Council; Mrs. Hearn, business background, former VP Court Update citizens' court reform group",0.85
-SC,Columbia Record,143150,1976,STATE REP,,Richland County,SC,"KNEECE, RICHARD",Democrat,1,1,,,Re-Elect Kneece - SC House from Richland County,0.9
-SC,Columbia Record,143150,1976,STATE REP,,Lexington County,SC,"RUSSELL, JAMES E.",,1,,,,Return Lexington Trio - SC House from Lexington,0.8
-SC,Columbia Record,143150,1976,STATE REP,,Lexington County,SC,"KLAPMAN, MARSHALL",,1,,,,Return Lexington Trio - SC House from Lexington,0.75
-SC,Columbia Record,143150,1976,STATE REP,,Lexington County,SC,"SHEALY, NORMA C.",,1,,,,Return Lexington Trio - SC House from Lexington,0.75
-SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"LEONARD, T. PATRICK",,1,,,,A Good Council - Richland County Council,0.7
-SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"MURRAY, JAMES",,1,,,,A Good Council - Richland County Council,0.7
-SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"BARNES, RUDOLPH",,1,,,,A Good Council - Richland County Council,0.7
-SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"GLENN, DARRYL JR.",,1,,,,A Good Council - Richland County Council; first name unclear,0.75
+SC,Columbia Record,143150,1974,LT GOVERNOR,,,SC,"CAMPBELL, CARROLL",Republican,1,,,,Voters Can't Lose - dual endorsement with Harvey D; paper said 'we recommend both...Either is a happy choice',0.92
+SC,Columbia Record,143150,1974,LT GOVERNOR,,,SC,"HARVEY, BRANTLEY",Democrat,1,,,,Voters Can't Lose - dual endorsement; paper said 'we recommend both...Either is a happy choice' (R89 restore from R18 incorrect reversal),0.92
+SC,Columbia Record,143150,1974,CNTY COMM,,Richland County,SC,"MCKAY, JULIUS W. (JAY)",Republican,1,,,,Richland County Council; former president Richland and SC Bar Associations; name expansion (R107) per 1974-10-31 OCR,0.9
+SC,Columbia Record,143150,1974,CNTY COMM,,Richland County,SC,"HEARN, JOYCE",Republican,1,,,,Richland County Council; NAME FIX CANDY→JOYCE (R107) per 1974-10-31 OCR; same person as 1976 STATE REP D 76 endorsement (cross-year R cand),0.92
+SC,Columbia Record,143150,1976,STATE REP,78,Richland County,SC,"KNEECE, ROBERT E.",Democrat,1,1,,,Re-Elect Kneece - SC House from Richland County; NAME FIX from 1976-10-26 OCR (R6): Robert E. Kneece,0.9
+SC,Columbia Record,143150,1976,STATE REP,,Lexington County,SC,"HAM, H. RAY",Republican,1,,,,Return Lexington Trio (R84): name FIX RUSSELL JAMES E.→HAM H. RAY per 1976-10-26 OCR,0.88
+SC,Columbia Record,143150,1976,STATE REP,,Lexington County,SC,"KLAPMAN, JARVIS R.",Republican,1,,,,Return Lexington Trio (R84): first-name FIX MARSHALL→JARVIS R. per 1976-10-26 OCR,0.88
+SC,Columbia Record,143150,1976,STATE REP,,Lexington County,SC,"RUSSELL, NORMA C.",Republican,1,,,,Return Lexington Trio (R84): name FIX SHEALY NORMA C.→RUSSELL NORMA C. per 1976-10-26 OCR,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"MURRAY, JULIUS",Democrat,1,,,,A Good Council - Richland County Council; FIX (R76): MURRAY JAMES→JULIUS,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"BARNES JR, RUDOLPH C.",Republican,1,,,,A Good Council - Richland County Council; party fill R (R76),0.88
 SC,Columbia Record,143150,1976,PRESIDENT,,,SC,"FORD, GERALD",Republican,1,,1,,For President: Ford,0.95
 SC,Columbia Record,143150,1976,STATE SENATOR,7,Richland County,SC,"LOURIE, ISADORE",Democrat,1,1,,,Re-Elect Lourie - SC Senate District No. 7,0.95
-SC,Columbia Record,143150,1976,STATE SENATOR,8,,SC,"MCMILLAN, GILBERT E.",,1,1,,,"District 8 Choices - SC Senate District 8 (Aiken, Lexington, Bamberg, Barnwell, Edgefield)",0.9
-SC,Columbia Record,143150,1976,STATE SENATOR,8,,SC,"DOOLEY, ALBERT J.",,1,1,,,District 8 Choices - SC Senate District 8,0.9
-SC,Columbia Record,143150,1976,STATE SENATOR,8,,SC,"LAUGHLIN, MICHAEL L.",,1,1,,,District 8 Choices - SC Senate District 8,0.9
-SC,Columbia Record,143150,1976,STATE SENATOR,8,,SC,"WILSON, ADDISON G. (JOE)",,1,,,,District 8 Choices - newcomer; chemical engineer from Aiken,0.9
+SC,Columbia Record,143150,1976,STATE SENATOR,8,,SC,"MCMILLAN, GILBERT E.",Democrat,1,1,,,"District 8 Choices - SC Senate District 8 (Aiken, Lexington, Bamberg, Barnwell, Edgefield); party fill D (R115) - all 4 Dist 8 D in 1976",0.9
+SC,Columbia Record,143150,1976,STATE SENATOR,8,,SC,"DOOLEY, ALBERT J.",Democrat,1,1,,,District 8 Choices - SC Senate District 8; party fill D (R115) - all 4 Dist 8 D in 1976,0.9
+SC,Columbia Record,143150,1976,STATE SENATOR,8,,SC,"LAUGHLIN, MICHAEL L.",Democrat,1,1,,,District 8 Choices - SC Senate District 8; party fill D (R115) - all 4 Dist 8 D in 1976,0.9
+SC,Columbia Record,143150,1976,STATE SENATOR,8,,SC,"WILSON, ADDISON G. (JOE)",Democrat,1,,,,District 8 Choices - newcomer; chemical engineer from Aiken; party fill D (R115) - all 4 Dist 8 D in 1976,0.9
 SC,Columbia Record,143150,1976,SCHOOL BOARD,1,Richland District One,SC,"BARRETT, WILLIAM E.",Nonpartisan,1,,,,School Board Vital - Richland District One,0.85
-SC,Columbia Record,143150,1976,SCHOOL BOARD,1,Richland District One,SC,"HARRNETT,",Nonpartisan,1,,,,School Board Vital - Richland District One; faded name; first name not legible in source,0.6
-SC,Columbia Record,143150,1976,SCHOOL BOARD,1,Richland District One,SC,"PUTNAM, BETSY",Nonpartisan,1,,,,School Board Vital - Richland District One; Mrs. Betsy Putnam,0.7
+SC,Columbia Record,143150,1976,SCHOOL BOARD,1,Richland District One,SC,"HAMMETT, BETSY PUTNAM",Nonpartisan,1,,,,School Board Vital - Richland District One; full name fix (R84) per 1976-10-29 OCR,0.88
 SC,Columbia Record,143150,1976,SCHOOL BOARD,1,Richland District One,SC,"SOLOMON, JAMES L.",Nonpartisan,1,1,,,School Board Vital - Richland District One incumbent,0.85
 SC,Columbia Record,143150,1976,CNTY COMM,1,Lexington County Council District 1,SC,"RAST, ELSIE",,1,,,,Incumbent,0.9
 SC,Columbia Record,143150,1976,CNTY COMM,4,Lexington County Council District 4,SC,"RAUCH, L. CLYDE",,1,,,,Incumbent,0.9
-SC,Columbia Record,143150,1976,CNTY COMM,6,Lexington County Council District 6,SC,"SHEALY, CURTIS",,1,,,,Incumbent,0.9
+SC,Columbia Record,143150,1976,CNTY COMM,6,Lexington County Council District 6,SC,"SHEALY, CURTIS",Democrat,1,,,,Incumbent; PARTY FILL: cross-year (R10),0.9
 SC,Columbia Record,143150,1976,CNTY COMM,8,Lexington County Council District 8,SC,"STILWELL, WILLIAM E.",,1,,,,Incumbent,0.9
 SC,Columbia Record,143150,1976,CNTY COMM,3,Lexington County Council District 3,SC,"MELLETTE, RUSSELL",,1,,,,Newcomer,0.9
-SC,Columbia Record,143150,1978,SUPERINTENDENT,,,SC,"WILLIAMS, CHARLIE G.",,1,,,,State Superintendent of Education,0.95
-SC,Columbia Record,143150,1978,TREASURER,,Richland County Treasurer,SC,"LINDER, WILLIAM",,1,,,,Challenger to incumbent Tom Elliott; county treasurer race,0.9
-SC,Columbia Record,143150,1978,H,2,South Carolina 2nd Congressional District,SC,"SPENCE, FLOYD",Republican,1,,,,Incumbent congressman,0.95
+SC,Columbia Record,143150,1978,SUPERINTENDENT,,,SC,"WILLIAMS, CHARLIE G.",Democrat,1,,,,State Superintendent of Education; PARTY FILL: cross-year (R10),0.95
+SC,Columbia Record,143150,1978,TREASURER,,Richland County Treasurer,SC,"LINDER, WILLIAM",Republican,1,,,,Challenger to incumbent Tom Elliott; county treasurer race; PARTY FILL from 1978 OCR (R53): Linder was R,0.9
+SC,Columbia Record,143150,1978,H,2,South Carolina 2nd Congressional District,SC,"SPENCE, FLOYD",Republican,1,,1,,Incumbent congressman,0.95
 SC,Columbia Record,143150,1980,PRESIDENT,,,SC,"REAGAN, RONALD",Republican,1,,,,Reagan-Bush ticket,0.95
-SC,Columbia Record,143150,1980,PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,,,VP candidate on Reagan-Bush ticket,0.95
-SC,Columbia Record,143150,1980,H,2,South Carolina 2nd Congressional District,SC,"SPENCE, FLOYD D.",Republican,1,,,,Fifth consecutive term; opponent Tom Turnipseed,0.95
+SC,Columbia Record,143150,1980,VICE PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,,,VP candidate on Reagan-Bush ticket; OFFICE FIX (R2): Bush was VP not PRES,0.95
+SC,Columbia Record,143150,1980,H,2,South Carolina 2nd Congressional District,SC,"SPENCE, FLOYD",Republican,1,,1,,Fifth consecutive term; opponent Tom Turnipseed; cross-year name standardization (R97),0.95
 SC,Columbia Record,143150,1980,STATE REP,79,South Carolina House District 79,SC,"HENDRICKS, LLOYD",Democrat,1,,,,Incumbent since 1977; opponent Harold Roach,0.95
 SC,Columbia Record,143150,1980,STATE REP,77,South Carolina House District 77,SC,"HARDY, ARCHIE",Republican,1,,,,Incumbent; opponent Eben Young,0.95
 SC,Columbia Record,143150,1980,CORONER,,Richland County Coroner,SC,"BARRON, FRANK III",,1,,,,Appointed coroner following death of Cecil Wiles,0.95
-SC,Columbia Record,143150,1980,CNTY COMM,,Richland County Council,SC,"WALTER, CANDY",Democrat,1,,,,Incumbent Democratic council member,0.9
-SC,Columbia Record,143150,1980,CNTY COMM,,Richland County Council,SC,"LEVENTIS, JIMMY",Democrat,1,,,,Incumbent Democratic council member,0.9
+SC,Columbia Record,143150,1980,CNTY COMM,,Richland County Council,SC,"WAITES, CANDY",Democrat,1,,,,Incumbent Democratic council member; NAME FIX WALTER→WAITES (R128) per 1980-10-30 OCR; cross-year with 1976/1984 records,0.92
+SC,Columbia Record,143150,1980,CNTY COMM,,Richland County Council,SC,"LEVENTIS, JAMES C.",Democrat,1,,,,Incumbent Democratic council member; cross-year name standardization (R97),0.9
 SC,Columbia Record,143150,1980,CNTY COMM,,Richland County Council,SC,"BARRETT, BILL",Republican,1,,,,Incumbent Republican council member,0.9
 SC,Columbia Record,143150,1980,CNTY COMM,,Richland County Council,SC,"GALVIN, JOHN",Democrat,1,,,,Newcomer; Democratic,0.85
-SC,Columbia Record,143150,1980,SENATOR,,,SC,"HOLLINGS, ERNEST F.",Democrat,1,,,,Incumbent US Senator; opponent Marshall Mays (R),0.95
+SC,Columbia Record,143150,1980,SENATOR,,,SC,"HOLLINGS, ERNEST F. ""FRITZ""",Democrat,1,,,,Incumbent US Senator; opponent Marshall Mays (R); cross-year name standardization (R97),0.95
 SC,Columbia Record,143150,1980,CNTY COMM,3,Lexington County Council District 3,SC,"SHEALY, RUSSELL",Democrat,1,,,,Chairman; incumbent,0.9
 SC,Columbia Record,143150,1980,CNTY COMM,1,Lexington County Council District 1,SC,"RAST STUART, ELSIE",Democrat,1,,,,Incumbent; seven years on council,0.9
 SC,Columbia Record,143150,1980,CNTY COMM,4,Lexington County Council District 4,SC,"HOWARD, JERRY",Republican,1,,,,Incumbent; aggressive on roads/water/sewer,0.9
-SC,Columbia Record,143150,1982,GOVERNOR,,,SC,"RILEY, RICHARD W.",Democrat,1,,,,Incumbent governor; opponent William D. Workman Jr. (R),0.95
-SC,Columbia Record,143150,1982,LT GOVERNOR,,,SC,"DANIEL, MIKE",Democrat,1,,,,Opponent Sen. Norma Russell (R),0.95
-SC,Columbia Record,143150,1982,H,2,South Carolina 2nd Congressional District,SC,"SPENCE, FLOYD",Republican,1,,,,Seventh term in Congress,0.95
-SC,Columbia Record,143150,1982,DIRECTOR,,,SC,"MARCHANT, T. ESTON",Democrat,1,,,,Adjutant General; incumbent,0.9
+SC,Columbia Record,143150,1982,GOVERNOR,,,SC,"RILEY, RICHARD W.",Democrat,1,1,,,Incumbent governor; opponent William D. Workman Jr. (R),0.95
+SC,Columbia Record,143150,1982,LT GOVERNOR,,,SC,"DANIEL, MIKE",Democrat,1,,,,Endorsement; opponent State Sen. Norma Russell (R) per 1982-10-27 OCR,0.95
+SC,Columbia Record,143150,1982,H,2,South Carolina 2nd Congressional District,SC,"SPENCE, FLOYD",Republican,1,,1,,Seventh term in Congress,0.95
+SC,Columbia Record,143150,1982,DIRECTOR,,,SC,"MARCHANT, T. ESTON",Democrat,1,1,,,Adjutant General; incumbent,0.9
 SC,Columbia Record,143150,1982,AGRICULTURE COMMISSIONER,,,SC,"PATRICK, BRYAN",Democrat,1,,,,Incumbent Commissioner of Agriculture,0.9
-SC,Columbia Record,143150,1982,SUPERINTENDENT,,,SC,"WILLIAMS, CHARLIE",Democrat,1,,,,Incumbent Superintendent of Education,0.9
+SC,Columbia Record,143150,1982,SUPERINTENDENT,,,SC,"WILLIAMS, CHARLIE G.",Democrat,1,1,,,Incumbent Superintendent of Education; cross-year name standardization (R97),0.9
 SC,Columbia Record,143150,1982,ATTORNEY GENERAL,,,SC,"MEDLOCK, TRAVIS",Democrat,1,,,,Endorsed over Donald Myers,0.95
 SC,Columbia Record,143150,1982,CNTY COMM,,Richland,SC,"BARBER, JAMES",Democrat,1,,,,Richland County Council,0.9
 SC,Columbia Record,143150,1982,CNTY COMM,,Richland,SC,"BONEY, TOM",Democrat,1,,,,Richland County Council,0.9
 SC,Columbia Record,143150,1982,CNTY COMM,,Richland,SC,"SOLOMON, JAMES L.",Democrat,1,,,,Richland County Council,0.9
 SC,Columbia Record,143150,1982,CNTY COMM,,Richland,SC,"CAMP, JOHN",Republican,1,,,,Richland County Council,0.9
-SC,Columbia Record,143150,1982,CNTY COMM,,Richland,SC,"EDENS, LILLIE",Republican,1,,,,Richland County Council,0.9
-SC,Columbia Record,143150,1982,CNTY COMM,,Richland,SC,"BOND, PHIL",Republican,1,,,,Richland County Council,0.9
-SC,Columbia Record,143150,1982,CNTY COMM,,Lexington,SC,"SPIRES, BUTCH",Republican,1,,,,Lexington County Council incumbent re-elect,0.95
-SC,Columbia Record,143150,1982,CNTY COMM,,Lexington,SC,"MERCHANT, BRUCE",Democrat,1,,,,Lexington County Council incumbent re-elect,0.95
+SC,Columbia Record,143150,1982,CNTY COMM,,Richland,SC,"HERNDON, LILLIE EDENS",Republican,1,,,,Richland County Council; NAME EXPANSION EDENS LILLIE→HERNDON LILLIE EDENS (R92) per 1982-10-29 OCR,0.92
+SC,Columbia Record,143150,1982,CNTY COMM,,Richland,SC,"ROOF, PHIL",Republican,1,,,,Richland County Council; NAME FIX BOND→ROOF (R92) per 1982-10-29 OCR,0.92
+SC,Columbia Record,143150,1982,CNTY COMM,9,Lexington,SC,"SPIRES, LOWELL C. ""BUTCH""",Democrat,1,,,,Lexington County Council District 9 incumbent re-elect; PARTY FIX R→D + dist fill (R92) + name expansion per 1982-10-30 OCR,0.92
+SC,Columbia Record,143150,1982,CNTY COMM,8,Lexington,SC,"MERCHANT, BRUCE",Republican,1,,,,Lexington County Council District 8 incumbent re-elect; PARTY FIX D→R + dist fill (R92) per 1982-10-30 OCR,0.92
 SC,Columbia Record,143150,1984,STATE SENATOR,,Richland,SC,"LOURIE, ISADORE",Democrat,1,,,,State Senate incumbent,0.95
 SC,Columbia Record,143150,1984,STATE SENATOR,,Richland,SC,"MCDONALD, HEYWARD",Democrat,1,,,,State Senate incumbent,0.95
 SC,Columbia Record,143150,1984,STATE SENATOR,,Richland,SC,"NEWMAN, I. DEQUINCEY",Democrat,1,,,,State Senate incumbent,0.95
 SC,Columbia Record,143150,1984,STATE SENATOR,,Richland,SC,"RUBIN, HYMAN",Democrat,1,,,,State Senate incumbent,0.95
-SC,Columbia Record,143150,1984,CNTY COMM,,Richland,SC,"WATTS, CANDY",Democrat,1,,,,Richland County Council incumbent,0.9
-SC,Columbia Record,143150,1984,CNTY COMM,,Richland,SC,"HARPER, ROBERT",Democrat,1,,,,"Richland County Council, former councilman",0.9
+SC,Columbia Record,143150,1984,CNTY COMM,,Richland,SC,"WAITES, CANDY",Democrat,1,,,,Richland County Council incumbent; NAME FIX WATTS→WAITES (R93) per 1984-11-01 OCR,0.92
+SC,Columbia Record,143150,1984,CNTY COMM,,Richland,SC,"HARPER II, JOHN ROY",Democrat,1,,,,"Richland County Council, former councilman; NAME FIX ROBERT→JOHN ROY II (R93) per 1984-11-01 OCR",0.92
 SC,Columbia Record,143150,1984,CNTY COMM,,Richland,SC,"COBLE, ROBERT",Democrat,1,,,,Richland County Council,0.9
-SC,Columbia Record,143150,1984,CNTY COMM,,Richland,SC,"MONROE, RUTH",Republican,1,,,,Richland County Council,0.9
+SC,Columbia Record,143150,1984,CNTY COMM,,Richland,SC,"MONROE, JOHN D.",Republican,1,,,,Richland County Council; NAME FIX RUTH→JOHN D. (R93) per 1984-11-01 OCR,0.92
 SC,Columbia Record,143150,1984,CNTY COMM,,Richland,SC,"MCKAY, RAYMOND E. JR.",Republican,1,,,,Richland County Council,0.9
 SC,Columbia Record,143150,1984,CNTY COMM,,Richland,SC,"ROBERTS, GUS J.",Republican,1,,,,Richland County Council,0.9
-SC,Columbia Record,143150,1984,SCHOOL BOARD,1,Richland District One,SC,"BYRD, DEMETRIUS ALMA",,1,,,,"Richland School District One board, split ticket recommended",0.9
-SC,Columbia Record,143150,1984,SCHOOL BOARD,1,Richland District One,SC,"LIVINGSTON, PAUL",,1,,,,"Richland School District One board, Democrat",0.9
-SC,Columbia Record,143150,1984,SCHOOL BOARD,1,Richland District One,SC,"MITCHELL, SUSAN",,1,,,,"Richland School District One board, Republican",0.9
-SC,Columbia Record,143150,1984,SCHOOL BOARD,1,Richland District One,SC,"MCCOY, ALTON",,1,,,,"Richland School District One board, Republican",0.9
-SC,Columbia Record,143150,1984,H,2,,SC,"SPENCE, FLOYD",Republican,1,,,,US Congress 2nd District incumbent re-elect; 'Spence again',0.95
-SC,Columbia Record,143150,1984,PRESIDENT,,,SC,"REAGAN, RONALD",Republican,1,,,,President; 'Reagan preferred',0.95
-SC,Columbia Record,143150,1984,PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,,,Vice President,0.9
+SC,Columbia Record,143150,1984,SCHOOL BOARD,1,Richland District One,SC,"BYRD, DEMETRIUS ALMA",Democrat,1,,,,"Richland School District One board, split ticket recommended; party fill Democrat (R109) per 1984-11-02 OCR",0.9
+SC,Columbia Record,143150,1984,SCHOOL BOARD,1,Richland District One,SC,"LIVINGSTON, PAUL",Democrat,1,,,,"Richland School District One board, Democrat; party fill Democrat (R109) per 1984-11-02 OCR",0.9
+SC,Columbia Record,143150,1984,SCHOOL BOARD,1,Richland District One,SC,"MITCHELL, SUSAN",Republican,1,,,,"Richland School District One board, Republican; party fill Republican (R109) per 1984-11-02 OCR",0.9
+SC,Columbia Record,143150,1984,SCHOOL BOARD,1,Richland District One,SC,"MCCOY, ALTON",Republican,1,,,,"Richland School District One board, Republican; party fill Republican (R109) per 1984-11-02 OCR",0.9
+SC,Columbia Record,143150,1984,H,2,,SC,"SPENCE, FLOYD",Republican,1,,1,,US Congress 2nd District incumbent re-elect; 'Spence again',0.95
+SC,Columbia Record,143150,1984,PRESIDENT,,,SC,"REAGAN, RONALD",Republican,1,,1,,President; 'Reagan preferred',0.95
+SC,Columbia Record,143150,1984,VICE PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,1,,Vice President; OFFICE FIX (R2): Bush was VP not PRES,0.9
 SC,Columbia Record,143150,1986,H,2,,SC,"ZEIGLER, FRED",Democrat,1,,,,US Congress 2nd District; challenger to incumbent Floyd Spence,0.95
 SC,Columbia Record,143150,1986,GOVERNOR,,,SC,"CAMPBELL, CARROLL",Republican,1,,,,SC Governor; 'Fresh perspective needed',0.95
 SC,Columbia Record,143150,1986,LT GOVERNOR,,,SC,"HARTNETT, TOMMY",Republican,1,,,,SC Lt Governor; 'Team approach has merit',0.95
-SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"SMITH, KOSY",,1,,,,"Richland School District One, at-large seat",0.9
+SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"SMITH, KIT",Republican,1,,,,"Richland School District One, at-large seat; NAME FIX KOSY→KIT (R94) per 1986-10-29 OCR; head of related civic org",0.92
 SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"HEYWARD, SAMUEL",,1,,,,"Richland School District One, at-large incumbent",0.9
-SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"MIZELL, FRED",,1,,,,Richland School District One single-member district,0.9
-SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"CAMP, JOHN",Republican,1,,,,"Richland County Council, split ticket recommended",0.95
-SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"ROBERTS, GUS",Republican,1,,,,Richland County Council; Democrat incumbent endorsed by Record (party noted GOP),0.85
+SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"MIZELL, HAYES",,1,,,,Richland School District One single-member district incumbent; NAME FIX FRED→HAYES (R94) per 1986-10-29 OCR,0.92
+SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"CAMP, JOHN",Republican,1,,1,,"Richland County Council, split ticket recommended",0.95
+SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"ROBERTS, GUS J.",Republican,1,,1,,Richland County Council; Democrat incumbent endorsed by Record (party noted GOP); cross-year name standardization (R97),0.85
 SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"HARPOOTLIAN, DICK",Democrat,1,,,,Richland County Council; third recommended seat,0.9
-SC,Columbia Record,143150,1986,SENATOR,,,SC,"HOLLINGS, ERNEST F. FRITZ",Democrat,1,,,,US Senate incumbent re-elect; 'Incumbent superior choice' over Henry McMaster,0.95
+SC,Columbia Record,143150,1986,SENATOR,,,SC,"HOLLINGS, ERNEST F. ""FRITZ""",Democrat,1,,,,US Senate incumbent re-elect; 'Incumbent superior choice' over Henry McMaster; cross-year name standardization (R97),0.95
+SC,Columbia Record,143150,1952,VICE PRESIDENT,,,SC,"NIXON, RICHARD",Republican,1,,,,VP matching Eisenhower 1952 endorsement (R3),0.87
+SC,Columbia Record,143150,1960,VICE PRESIDENT,,,SC,"LODGE, HENRY CABOT",Republican,1,,,,VP matching Nixon 1960 endorsement (R3),0.87
+SC,Columbia Record,143150,1968,VICE PRESIDENT,,,SC,"AGNEW, SPIRO T.",Republican,1,,,,VP matching Nixon 1968 endorsement (R3),0.87
+SC,Columbia Record,143150,1976,VICE PRESIDENT,,,SC,"DOLE, ROBERT",Republican,1,,,,VP matching Ford 1976 endorsement (R3),0.87
+SC,Columbia Record,143150,1952,PRESIDENT,,,SC,"STEVENSON, ADLAI E.",Democrat,0,,,,Pattern A from 1952 - paper endorsed Eisenhower (R3),0.87
+SC,Columbia Record,143150,1952,VICE PRESIDENT,,,SC,"SPARKMAN, JOHN J.",Democrat,0,,,,VP Pattern A from 1952 (R3),0.87
+SC,Columbia Record,143150,1960,PRESIDENT,,,SC,"KENNEDY, JOHN F.",Democrat,0,,,,Pattern A from 1960 - paper endorsed Nixon (R3),0.87
+SC,Columbia Record,143150,1960,VICE PRESIDENT,,,SC,"JOHNSON, LYNDON B.",Democrat,0,,,,VP Pattern A from 1960 (R3),0.87
+SC,Columbia Record,143150,1968,PRESIDENT,,,SC,"HUMPHREY, HUBERT H.",Democrat,0,,,,Pattern A from 1968 - paper endorsed Nixon (R3),0.87
+SC,Columbia Record,143150,1968,VICE PRESIDENT,,,SC,"MUSKIE, EDMUND S.",Democrat,0,,,,VP Pattern A from 1968 (R3),0.87
+SC,Columbia Record,143150,1968,PRESIDENT,,,SC,"WALLACE, GEORGE C.",American Independent,0,,,,Pattern A from 1968 - SC was Wallace state (R3),0.87
+SC,Columbia Record,143150,1968,VICE PRESIDENT,,,SC,"LEMAY, CURTIS",American Independent,0,,,,VP Pattern A from 1968 AIP (R3),0.87
+SC,Columbia Record,143150,1976,PRESIDENT,,,SC,"CARTER, JIMMY",Democrat,0,,,,Pattern A from 1976 - paper endorsed Ford (R3),0.87
+SC,Columbia Record,143150,1976,VICE PRESIDENT,,,SC,"MONDALE, WALTER F.",Democrat,0,,,,VP Pattern A from 1976 (R3),0.87
+SC,Columbia Record,143150,1980,PRESIDENT,,,SC,"CARTER, JIMMY",Democrat,0,,,,Pattern A from 1980 - paper endorsed Reagan (R3),0.87
+SC,Columbia Record,143150,1980,VICE PRESIDENT,,,SC,"MONDALE, WALTER F.",Democrat,0,,,,VP Pattern A from 1980 (R3),0.87
+SC,Columbia Record,143150,1980,PRESIDENT,,,SC,"ANDERSON, JOHN",Independent,0,,,,Pattern A from 1980 - Anderson Ind (R3),0.87
+SC,Columbia Record,143150,1984,PRESIDENT,,,SC,"MONDALE, WALTER F.",Democrat,0,,,,Pattern A from 1984 - paper endorsed Reagan (R3),0.87
+SC,Columbia Record,143150,1984,VICE PRESIDENT,,,SC,"FERRARO, GERALDINE",Democrat,0,,,,VP Pattern A from 1984 (R3),0.87
+SC,Columbia Record,143150,1970,GOVERNOR,,,SC,"WATSON, ALBERT",Republican,0,,,,Pattern A from 1970 - paper endorsed West D (R3),0.87
+SC,Columbia Record,143150,1982,GOVERNOR,,,SC,"WORKMAN, W.D.",Republican,0,,,,Pattern A from 1982 - paper endorsed Riley D (R3),0.87
+SC,Columbia Record,143150,1986,GOVERNOR,,,SC,"DANIEL, MIKE",Democrat,0,,,,Pattern A from 1986 - paper endorsed Campbell R (R3),0.87
+SC,Columbia Record,143150,1972,SENATOR,,,SC,"ZEIGLER, E.N. (NICK)",Democrat,0,,,,Pattern A from 1972-10-31 OCR (R105) - paper endorsed Thurmond R; D nominee 'State Senator E.N. Zeigler of Florence',0.92
+SC,Columbia Record,143150,1986,SENATOR,,,SC,"MCMASTER, HENRY DARGAN",Republican,0,,,,Pattern A from 1986 - paper endorsed Hollings D (R3); name expansion (R119) per 1986-10-31 OCR,0.87
+SC,Columbia Record,143150,1980,SENATOR,,,SC,"MAYS, MARSHALL",Republican,0,,,,Pattern A from 1980 - paper endorsed Hollings D (R3),0.87
+SC,Columbia Record,143150,1976,STATE REP,76,,SC,"HEARN, JOYCE C.",Republican,1,,,,MISSING from 1976-10-26 OCR (R6) - State House D 76,0.88
+SC,Columbia Record,143150,1976,STATE REP,77,,SC,"TAYLOR, HAROLD E.",Democrat,1,,,,MISSING from 1976-10-26 OCR (R6) - State House D 77,0.88
+SC,Columbia Record,143150,1976,STATE REP,79,,SC,"BASKIN, JEWEL S.",Republican,1,,,,MISSING from 1976-10-26 OCR (R6) - State House D 79,0.88
+SC,Columbia Record,143150,1972,PRESIDENT,,,SC,"NIXON, RICHARD",Republican,1,,1,,MISSING from 1972 (R22) - paper endorsed Nixon per QA report,0.85
+SC,Columbia Record,143150,1972,PRESIDENT,,,SC,"MCGOVERN, GEORGE",Democrat,0,,,,Pattern A from 1972 (R22),0.85
+SC,Columbia Record,143150,1972,VICE PRESIDENT,,,SC,"AGNEW, SPIRO T.",Republican,1,,1,,VP matching Nixon 1972 (R22),0.85
+SC,Columbia Record,143150,1972,VICE PRESIDENT,,,SC,"SHRIVER, R. SARGENT",Democrat,0,,,,VP Pattern A from 1972 (R22),0.85
+SC,Columbia Record,143150,1974,ATTORNEY GENERAL,,,SC,"POWELL, KEN",Republican,0,,,,Pattern A from 1974 OCR (R26) - McLeod D endorsed,0.85
+SC,Columbia Record,143150,1970,SCHOOL BOARD,1,Richland,SC,"MIZELL, HAYES",Democrat,0,,,,Pattern A from 1970 OCR (R26) - Bagnal SB endorsed,0.85
+SC,Columbia Record,143150,1982,LT GOVERNOR,,,SC,"RUSSELL, NORMA",Republican,0,,,,Pattern A from 1982-10-27 OCR (R92) - name FIX LEWIS E. CROSBY→RUSSELL NORMA (SC State Sen R) per editorial,0.92
+SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"BALES, JIMMY",Democrat,0,,,,Pattern A from 1986-10-30 OCR (R44),0.88
+SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"BUTLER, A.T.",Democrat,0,,,,Pattern A from 1986-10-30 OCR (R44),0.88
+SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"NEWMAN, SUSIE",Democrat,0,,,,Pattern A from 1986-10-30 OCR (R44),0.88
+SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"ROGERS, W.R.",Democrat,0,,,,Pattern A from 1986-10-30 OCR (R44) - incumbent not endorsed,0.88
+SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"MARCHANT, BRISTOW",Republican,0,,,,Pattern A from 1986-10-30 OCR (R44),0.88
+SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"MORRIS, STEPHEN",Republican,0,,,,Pattern A from 1986-10-30 OCR (R44),0.88
+SC,Columbia Record,143150,1986,CNTY COMM,,Richland,SC,"STEED, JOSEPH",Republican,0,,,,Pattern A from 1986-10-30 OCR (R44),0.88
+SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"BOWMAN, WILLIAM MCKINLEY",Nonpartisan,0,,,,Pattern A from 1986-10-29 OCR (R44) - SB at-large; dist fill 1 (R98) to match endorsed pair,0.88
+SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"GILES, BOBBY",Nonpartisan,0,,,,Pattern A from 1986-10-29 OCR (R44) - SB at-large; dist fill 1 (R98) to match endorsed pair,0.88
+SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"MCCOY, ALTON",Nonpartisan,0,,,,Pattern A from 1986-10-29 OCR (R44) - SB at-large; dist fill 1 (R98) to match endorsed pair,0.88
+SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"SIPES, MARLENE",Nonpartisan,0,,,,Pattern A from 1986-10-29 OCR (R44) - SB at-large; dist fill 1 (R98) to match endorsed pair,0.88
+SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"PEARSON, VIVIAN",Nonpartisan,0,,,,Pattern A from 1986-10-29 OCR (R44) - SB single-member dist opp to Heyward; dist fill 1 (R98) to match endorsed pair,0.88
+SC,Columbia Record,143150,1978,TREASURER,,Richland,SC,"ELLIOTT, TOM",Democrat,0,,,,"Pattern A from 1978-11-03 OCR (R53) - Linder R endorsed, Elliott D was incumbent",0.88
+SC,Columbia Record,143150,1980,STATE REP,77,,SC,"ROACH, HAROLD",Democrat,0,,,,Pattern A from 1980-10-29 OCR (R55) - Hardy R endorsed,0.88
+SC,Columbia Record,143150,1980,STATE REP,79,,SC,"YOUNG, EBEN",Republican,0,,,,Pattern A from 1980-10-29 OCR (R55) - Hendricks D endorsed,0.88
+SC,Columbia Record,143150,1986,H,2,,SC,"SPENCE, FLOYD",Republican,0,,1,,Pattern A from 1986-10-27 OCR (R58) - Zeigler D endorsed over incumbent Spence R,0.88
+SC,Columbia Record,143150,1986,LT GOVERNOR,,,SC,"FOREMAN, SAUL",Democrat,0,,,,Pattern A from 1986 historical (R58) - Hartnett R endorsed,0.88
+SC,Columbia Record,143150,1978,SENATOR,,,SC,"THURMOND, STROM",Republican,1,,,,Cross-paper inference from Columbia State 1978 (R62) - both papers endorsed Thurmond R,0.80
+SC,Columbia Record,143150,1978,GOVERNOR,,,SC,"RILEY, RICHARD W.",Democrat,1,,,,Cross-paper inference (R62) - CS endorsed Riley D 1978; CR endorsed Riley D 1982 (cross-year),0.80
+SC,Columbia Record,143150,1978,LT GOVERNOR,,,SC,"PATRICK, BRYAN",Republican,1,,,,Cross-paper inference from CS 1978 (R62),0.80
+SC,Columbia Record,143150,1978,ATTORNEY GENERAL,,,SC,"MCLEOD, DANIEL R.",Democrat,1,1,,,Cross-paper inference from CS 1978 (R62),0.80
+SC,Columbia Record,143150,1978,SEC OF STATE,,,SC,"CAMPBELL, JOHN T.",Democrat,1,,,,Cross-paper inference from CS 1978 (R62),0.80
+SC,Columbia Record,143150,1978,TREASURER,,,SC,"PATTERSON, GRADY",Democrat,1,,,,Cross-paper inference from CS 1978 (R62) - State Treasurer (Linder was County Treasurer),0.80
+SC,Columbia Record,143150,1978,COMPTROLLER,,,SC,"MORRIS, EARLE E.",Democrat,1,,,,Cross-paper inference from CS 1978 (R62),0.80
+SC,Columbia Record,143150,1978,DIRECTOR,,,SC,"MARCHANT, T. ESTON",Democrat,1,,,,Cross-paper inference from CS 1978 (R62) - SC State Adjutant General; name fix EATON→T. ESTON (R74),0.80
+SC,Columbia Record,143150,1974,H,2,,SC,"SPENCE, FLOYD",Republican,1,,1,,Cross-paper inference (R64) - CS endorsed Spence; CR consistent 1978-1984; r_inc=1 (R106): Spence served from 1971,0.80
+SC,Columbia Record,143150,1980,H,2,South Carolina 2nd Congressional District,SC,"TURNIPSEED, TOM",Democrat,0,,,,Pattern A from 1980-10-28 OCR (R71) - Spence R endorsed,0.88
+SC,Columbia Record,143150,1982,H,2,South Carolina 2nd Congressional District,SC,"MOSELY, KEN",Democrat,0,,,,Pattern A cross-paper inferred from CS (R72) - Spence R endorsed,0.82
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"LEVENTIS, JAMES C.",Democrat,1,,,,A Good Council - Richland County Council; MISSING ENDORSEMENT ADD (R76) per 1976-10-27 OCR,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"WAITES, CANDY",Democrat,1,,,,A Good Council - Richland County Council; MISSING ENDORSEMENT ADD (R76) per 1976-10-27 OCR,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"GIESE, WARREN K.",Republican,1,,,,A Good Council - Richland County Council; MISSING ENDORSEMENT ADD (R76) per 1976-10-27 OCR,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"KENNER, RAY",Republican,1,,,,A Good Council - Richland County Council; MISSING ENDORSEMENT ADD (R76) per 1976-10-27 OCR,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"LEGRAND, CHARLOTTE",Republican,1,,,,A Good Council - Richland County Council; MISSING ENDORSEMENT ADD (R76) per 1976-10-27 OCR,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"NILSON, HOWARD",Republican,1,,,,A Good Council - Richland County Council; MISSING ENDORSEMENT ADD (R76) per 1976-10-27 OCR,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"OTIS JR., WILLIAM J.",Republican,1,,,,A Good Council - Richland County Council; MISSING ENDORSEMENT ADD (R76) per 1976-10-27 OCR,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"TOBIAS, JAMES C.",Republican,1,,,,A Good Council - Richland County Council; MISSING ENDORSEMENT ADD (R76) per 1976-10-27 OCR,0.88
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"BARBER, JAMES",Democrat,1,,,,11th seat - paper said Barber OR Lazur acceptable (R76); cross-year name standardization (R97),0.80
+SC,Columbia Record,143150,1976,CNTY COMM,,Richland County,SC,"LAZUR, JOHN W.",Republican,1,,,,11th seat - paper said Barber OR Lazur acceptable (R76),0.80
+SC,Columbia Record,143150,1976,SCHOOL BOARD,2,Richland District Two,SC,"ESTEP, FRANK",Nonpartisan,1,,,,School Board Vital - Richland District Two; missing endorsement add (R84) per 1976-10-29 OCR,0.88
+SC,Columbia Record,143150,1980,CORONER,,Richland County Coroner,SC,"PORTEE JR., ALVIN",,0,,,,Pattern A from 1980-10-30 OCR (R91) - Barron III endorsed; opp 'Alvin Portee Jr.',0.88
+SC,Columbia Record,143150,1982,ATTORNEY GENERAL,,,SC,"MYERS, DONALD",Republican,0,,,,Pattern A from 1982-10-29 OCR (R92) - Medlock D endorsed over Myers R,0.88
+SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"HALLIGAN, WILLIAM",Nonpartisan,0,,,,Pattern A from 1986-10-29 OCR (R104) - Mizell endorsed for single-member dist; lawyer,0.88
+SC,Columbia Record,143150,1986,SCHOOL BOARD,1,Richland District One,SC,"LLOYD, EDDIE",Nonpartisan,0,,,,Pattern A from 1986-10-29 OCR (R104) - Mizell endorsed for single-member dist; dishwasher,0.88
+SC,Columbia Record,143150,1976,STATE SENATOR,7,Richland County,SC,"RUBIN, HYMAN",Democrat,1,1,,,Re-Elect Lourie editorial endorses all four District 7 seats; Rubin incumbent unopposed (R108) per 1976-10-28 OCR,0.88
+SC,Columbia Record,143150,1976,STATE SENATOR,7,Richland County,SC,"SANDERS, ALEX",Democrat,1,,,,Re-Elect Lourie editorial endorses all four District 7 seats; Sanders former House member unopposed (R108) per 1976-10-28 OCR,0.88
+SC,Columbia Record,143150,1976,STATE SENATOR,7,Richland County,SC,"MCDONALD, HEYWARD",Democrat,1,,,,Re-Elect Lourie editorial endorses all four District 7 seats; McDonald former House member unopposed (R108) per 1976-10-28 OCR,0.88
+SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"JENKINS, LINCOLN",Democrat,0,1,,,"Pattern A from 1972-11-02 OCR (R111) - 5 R SB slate endorsed; Jenkins D incumbent, only Negro candidate of major parties",0.88
+SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"MCGREGOR, SAM",Democrat,0,1,,,Pattern A from 1972-11-02 OCR (R111) - 5 R SB slate endorsed; McGregor D incumbent,0.88
+SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"SCARBOROUGH, ROBERT LEE",Democrat,0,1,,,Pattern A from 1972-11-02 OCR (R111) - 5 R SB slate endorsed; Scarborough D incumbent,0.88
+SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"MOORE, ROBERT",Democrat,0,,,,"Pattern A from 1972-11-02 OCR (R111) - 5 R SB slate endorsed; Moore D newcomer, Mizell supporter",0.88
+SC,Columbia Record,143150,1972,SCHOOL BOARD,1,Richland County School District One,SC,"NEUFFER, IRENE LABORDE",Democrat,0,,,,Pattern A from 1972-11-02 OCR (R111) - 5 R SB slate endorsed; Neuffer D newcomer,0.88

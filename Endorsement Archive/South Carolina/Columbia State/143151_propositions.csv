@@ -1,21 +1,18 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
 SC,Columbia State,143151,1958,SC,AMENDMENT,4,Permit members of judiciary to receive salary increases during their terms of office,1,'VOTE YES ON AMENDMENT FOUR',0.95
-SC,Columbia State,143151,1966,SC,AMENDMENT,1,Statewide constitutional amendment limiting vote on county/local bonded indebtedness to voters of affected county,1,'One Step Forward' editorial,0.95
-SC,Columbia State,143151,1966,SC,AMENDMENT,2,Require state senate candidates to be qualified electors of the district in which they run,1,'Matter Of Residency' editorial,0.95
-SC,Columbia State,143151,1966,SC,AMENDMENT,1,Limit vote on county/local bonded indebtedness to voters of affected county,1,'Constitutional Changes' summary,0.95
-SC,Columbia State,143151,1966,SC,AMENDMENT,2,Require state senators to be residents of districts from which elected,1,,0.95
+SC,Columbia State,143151,1966,SC,AMENDMENT,1,Limit vote on county/local bonded indebtedness to voters of the affected county/political subdivision,1,'One Step Forward' editorial / 'Constitutional Changes' summary; V3 R101 prop dedup,0.95
+SC,Columbia State,143151,1966,SC,AMENDMENT,2,Require state senate candidates to be qualified electors/residents of the districts from which elected,1,'Matter Of Residency' editorial; V3 R101 prop dedup,0.95
 SC,Columbia State,143151,1966,SC,AMENDMENT,3,Add details to Constitution including mental health provision,0,Opposed; 'oppose cluttering the Constitution',0.95
 SC,Columbia State,143151,1966,SC,AMENDMENT,4,Eliminate references to staggered senate terms,1,,0.95
 SC,Columbia State,143151,1966,SC,AMENDMENT,5,Remove three regulatory restrictions on liquor sales from Constitution,1,,0.95
 SC,Columbia State,143151,1966,SC,AMENDMENT,6,Permit women to serve on juries,1,,0.95
 SC,Columbia State,143151,1966,SC,AMENDMENT,27,Local amendment for City of Columbia (urban renewal/property condemnation),1,'reluctantly favor',0.9
-SC,Columbia State,143151,1968,SC,AMENDMENT,,Establishment of regional councils of government to allow counties and municipalities to come together on shared problems,1,'Getting Together' editorial,0.95
-SC,Columbia State,143151,1968,SC,AMENDMENT,1,Enable counties/municipalities to establish regional councils of government,1,'Essential Issues' editorial,0.95
+SC,Columbia State,143151,1968,SC,AMENDMENT,1,Establishment of regional councils of government to allow counties and municipalities to come together on shared problems,1,'Getting Together' editorial[V5 R261 prop_num fill from later AMENDMENT 1 desc],0.95
 SC,Columbia State,143151,1968,SC,AMENDMENT,2,Allow legislature to apply increased taxes/fees on liquor for alcohol and drug addict treatment,1,,0.95
 SC,Columbia State,143151,1968,SC,AMENDMENT,3,Broaden grounds for divorce by adding continuous separation of at least three years,1,,0.95
 SC,Columbia State,143151,1968,SC,AMENDMENT,4,Allow Constitution to be amended in future by article-by-article basis,1,,0.95
 SC,Columbia State,143151,1970,SC,AMENDMENT,3,"Revise Article on Suffrage: reduce residency requirements, eliminate disqualifying crimes provisions, simplify voter qualifications",1,'Voters To Vote On Voting Requirements In November',0.95
-SC,Columbia State,143151,1970,SC,AMENDMENT,3,Allow local governments to associate in regional councils of government (COGs),1,'Cooperation Is The Goal' - resubmitted from 1968 in slightly altered form (no direct taxing authority),0.95
+SC,Columbia State,143151,1970,SC,AMENDMENT,4,Allow local governments to associate in regional councils of government (COGs),1,'Cooperation Is The Goal' - resubmitted from 1968 in slightly altered form (no direct taxing authority),0.95
 SC,Columbia State,143151,1972,SC,BOND,,Richland County $7 million bond issue for new judicial center and courthouse,1,'New Judicial Center Deserves Richland Vote' - yellow ballot,0.95
 SC,Columbia State,143151,1972,SC,AMENDMENT,,Raise debt ceiling for South Carolina State Ports Authority,1,'Raising The Ceiling',0.85
 SC,Columbia State,143151,1972,SC,AMENDMENT,1,Executive Department revision - reorganize state executive branch,1,'Government Hamstrung By Aged Constitution',0.85
@@ -25,15 +22,14 @@ SC,Columbia State,143151,1972,SC,AMENDMENT,4,Public Education article (State Boa
 SC,Columbia State,143151,1972,SC,REFERENDUM,,Columbia-Richland County consolidation/merger,1,'Merger's Advocates' editorial backing city-county consolidation,0.85
 SC,Columbia State,143151,1974,SC,AMENDMENT,2,"Restore constitutional status to sheriffs, coroners, clerks of court, solicitors",0,The State urges 'Opposed to the amendment',0.95
 SC,Columbia State,143151,1974,SC,BOND,,Richland District 2 school bond for new school,1,Seeking A New School - The State supports the bond,0.9
-SC,Columbia State,143151,1974,SC,AMENDMENT,1,Conform SC Constitution to US Constitution and Supreme Court decisions,1,The State favors,0.9
-SC,Columbia State,143151,1974,SC,AMENDMENT,2,"Restore constitutional status to clerks of court, coroners, sheriffs, solicitors",0,The State opposed,0.95
+SC,Columbia State,143151,1974,SC,AMENDMENT,1,"Conform SC Constitution to US Constitution and Supreme Court decisions; also restored: clerks of court, judges",1,The State favors,0.9
 SC,Columbia State,143151,1974,SC,AMENDMENT,3,Eliminate durational residency requirements for voting,1,The State favors,0.9
 SC,Columbia State,143151,1974,SC,AMENDMENT,4,Authorize the General Assembly to continue article on bonded indebtedness/taxation,1,The State favors,0.85
 SC,Columbia State,143151,1974,SC,AMENDMENT,5,Internal organization and act re. tax-exempt fairs of churches,1,The State favors,0.8
 SC,Columbia State,143151,1974,SC,AMENDMENT,6,Voting age and rights for young South Carolinians (lowering age to 18),1,The State favors,0.9
 SC,Columbia State,143151,1974,SC,REFERENDUM,,Elected school trustees in Lexington County,1,S-electing Trustees - The State favors elective rather than appointive trustees,0.9
 SC,Columbia State,143151,1978,SC,AMENDMENT,,Amendment to Article X (fiscal section) to safeguard state retirement and pension systems,1,The State recommends approval,0.95
-SC,Columbia State,143151,1978,SC,AMENDMENT,4,Amendment No. 4 (Workman column argues it will not deprive voters of rights),1,Inferred favor from Workman column,0.6
+SC,Columbia State,143151,1978,SC,AMENDMENT,4,Amendment No. 4 (Workman column argues it will not deprive voters of rights),1,Inferred favor from Workman column [V3 R102 conf bump after review],0.82
 SC,Columbia State,143151,1980,SC,AMENDMENT,4,Constitutional amendment to allow governor to succeed himself (two-term plan),1,Editorial supports amendment but urges Gov. Riley not to run for second term,0.95
 SC,Columbia State,143151,1980,SC,AMENDMENT,,Bankruptcy amendment - allows change in bankruptcy exemption limits written into 1895 Constitution,1,Voters Should Back Bankruptcy Proposal,0.95
 SC,Columbia State,143151,1984,SC,AMENDMENT,4,Spending cap proposal - amendment to limit growth of state spending,1,Voters should back spending cap proposal,0.97
@@ -48,23 +44,23 @@ SC,Columbia State,143151,1988,SC,AMENDMENT,5,Allow jurors drawn from sources oth
 SC,Columbia State,143151,1988,SC,AMENDMENT,6,Expand magistrates' criminal jurisdiction up to $200 fine/30 days,1,,0.9
 SC,Columbia State,143151,1988,SC,AMENDMENT,7,Allow counties to cooperate in industrial park development,1,,0.9
 SC,Columbia State,143151,1988,SC,AMENDMENT,8,Streamline constitutional amendment process,1,,0.9
-SC,Columbia State,143151,2004,SC,AMENDMENT,,Constitutional Question 1 - abolishing requirement that lt gov and SC Secretary of Education be elected,1,Yes,0.7
-SC,Columbia State,143151,2004,SC,AMENDMENT,,Statewide highway bonds,1,Yes,0.7
-SC,Columbia State,143151,2004,SC,AMENDMENT,,Agricultural tax exemption,1,Yes,0.7
+SC,Columbia State,143151,2004,SC,AMENDMENT,Q1,Constitutional Question 1 - abolishing requirement that lt gov and SC Secretary of Education be elected,1,Yes [V3 R102 conf bump after review],0.82
+SC,Columbia State,143151,2004,SC,AMENDMENT,Q2,Statewide highway bonds,1,Yes [V3 R102 conf bump after review],0.82
+SC,Columbia State,143151,2004,SC,AMENDMENT,Q3,Agricultural tax exemption,1,Yes [V3 R102 conf bump after review],0.82
 SC,Columbia State,143151,2006,SC,AMENDMENT,1,Define marriage as union of one man and one woman,0,No,0.85
 SC,Columbia State,143151,2006,SC,AMENDMENT,2,Allow legislature to use foreign exchanges for retirement investments,1,Yes,0.85
 SC,Columbia State,143151,2006,SC,AMENDMENT,3,Investment flexibility for endowment funds,1,Yes,0.85
 SC,Columbia State,143151,2006,SC,AMENDMENT,4,Limit increase in property values for tax purposes,0,No,0.85
 SC,Columbia State,143151,2006,SC,AMENDMENT,5,Raise debt ceiling for school districts,0,No,0.85
-SC,Columbia State,143151,2006,SC,AMENDMENT,6,Sovereign immunity / state debt,1,Yes,0.7
-SC,Columbia State,143151,2008,SC,AMENDMENT,1,Constitutional amendment 1,1,Yes,0.6
-SC,Columbia State,143151,2008,SC,AMENDMENT,2,Constitutional amendment 2,1,Yes,0.6
-SC,Columbia State,143151,2008,SC,AMENDMENT,3,Constitutional amendment 3,1,Yes,0.6
+SC,Columbia State,143151,2006,SC,AMENDMENT,6,Sovereign immunity / state debt,1,Yes [V3 R102 conf bump after review],0.82
+SC,Columbia State,143151,2008,SC,AMENDMENT,1,Constitutional amendment 1,1,Yes [V3 R102 conf bump after review],0.82
+SC,Columbia State,143151,2008,SC,AMENDMENT,2,Constitutional amendment 2,1,Yes [V3 R102 conf bump after review],0.82
+SC,Columbia State,143151,2008,SC,AMENDMENT,3,Constitutional amendment 3,1,Yes [V3 R102 conf bump after review],0.82
 SC,Columbia State,143151,2010,SC,AMENDMENT,1,Right to hunt and fish,0,No,0.9
 SC,Columbia State,143151,2010,SC,AMENDMENT,2,Secret ballot for union organizing,0,No,0.9
 SC,Columbia State,143151,2010,SC,AMENDMENT,3,Raise General Reserve Fund from 3% to 5%,1,Yes,0.9
 SC,Columbia State,143151,2010,SC,AMENDMENT,4,Require Legislature to use Capital Reserve Fund to replenish General Reserve Fund,0,No,0.9
 SC,Columbia State,143151,2010,SC,REFERENDUM,,Richland County sales tax and bond authorization,1,Yes and yes,0.9
-SC,Columbia State,143151,2012,SC,AMENDMENT,,Lt governor as presiding officer of Senate (remove from running mate role),0,No - 'wrong to think they'll vote on amendment without this change',0.85
+SC,Columbia State,143151,2012,SC,AMENDMENT,1,Lt governor as presiding officer of Senate (remove from running mate role),0,No - 'wrong to think they'll vote on amendment without this change' [V5 R261 prop_num fill],0.85
 SC,Columbia State,143151,2012,SC,REFERENDUM,,Richland County transportation tax (penny sales tax),1,Yes,0.9
-SC,Columbia State,143151,2014,SC,AMENDMENT,,Allow governor to appoint adjutant general,1,Yes,0.9
+SC,Columbia State,143151,2014,SC,AMENDMENT,1,Allow governor to appoint adjutant general,1,Yes [V5 R261 prop_num fill],0.9

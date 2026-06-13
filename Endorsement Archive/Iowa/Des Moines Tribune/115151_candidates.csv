@@ -1,9 +1,12 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence,extraction_confidence_note,source_file
-IA,Des Moines Tribune,115151,1952,PRESIDENT,,,IA,"EISENHOWER, DWIGHT D.",Republican,1,,,,,0.92,,115151_19521031.pdf
-IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"BROWN, PHILIP A.",Republican,1,,,,Six-year term,0.9,,115151_19601031.pdf
-IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"CHAMPION, DOYLE",Democrat,0,1,,,Incumbent opposed,0.88,,115151_19601031.pdf
-IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"MOORE, J. MILTON",Republican,1,,,,Two-year term,0.9,,115151_19601031.pdf
-IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"SELDEN, MARVIN R.",Republican,1,,,,Six-year term,0.9,,115151_19601031.pdf
-IA,Des Moines Tribune,115151,1968,SHERIFF,,Polk County,IA,"TOWNSEND, ARTHUR",Republican,1,,,,Editorial supports Townsend's metropolitan police force plan,0.92,,115151_19681030.pdf
-IA,Des Moines Tribune,115151,1976,SHERIFF,,Polk County,IA,"CLEMENS, DICK",Republican,1,,1,,Filling unexpired term of late Jack Woodard since 1974,0.92,,115151_19761028.pdf
-IA,Des Moines Tribune,115151,1976,SHERIFF,,Polk County,IA,"RICE, BOB",Democrat,0,,,,,0.88,,115151_19761028.pdf
+IA,Des Moines Tribune,115151,1952,PRESIDENT,,,IA,"EISENHOWER, DWIGHT D.",Republican,1,,,,The Eisenhower Promise - DMT endorsed Eisenhower R 1952 PRES per 1952-10-31 editorial,0.95,,115151_19521031.pdf
+IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"BROWN, PHILIP A.",Republican,1,,,,Six-year term,0.95,,115151_19601031.pdf
+IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"CHAMPION, DOYLE",Democrat,0,1,,,Incumbent opposed,0.95,,115151_19601031.pdf
+IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"MOORE, J. MILTON",Republican,1,,,,Two-year term,0.95,,115151_19601031.pdf
+IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"SELDEN, MARVIN R.",Republican,1,,,,Six-year term,0.95,,115151_19601031.pdf
+IA,Des Moines Tribune,115151,1968,SHERIFF,,Polk County,IA,"TOWNSEND, ARTHUR",Republican,1,,,,Editorial supports Townsend's metropolitan police force plan,0.95,,115151_19681030.pdf
+IA,Des Moines Tribune,115151,1976,SHERIFF,,Polk County,IA,"CLEMENS, DICK",Republican,1,,1,,Filling unexpired term of late Jack Woodard since 1974,0.95,,115151_19761028.pdf
+IA,Des Moines Tribune,115151,1976,SHERIFF,,Polk County,IA,"RICE, BOB",Democrat,0,,,,1976 Polk Co Sheriff D opp; not endorsed (DMT endorsed Clemens R inc),0.95,,115151_19761028.pdf
+IA,Des Moines Tribune,115151,1952,PRESIDENT,,,IA,"STEVENSON, ADLAI E.",Democrat,0,,,,1952 PRES D opp; not endorsed (DMT endorsed Eisenhower R),0.95,,115151_19521031.pdf
+IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"BRIEN, JAMES",Democrat,0,,,,1960 Broadlawns Hospital Trustee D opp (6-year term); not endorsed (DMT endorsed Brown R + Selden R),0.95,,115151_19601031.pdf
+IA,Des Moines Tribune,115151,1960,HOSPITAL TRUSTEE,,Broadlawns Polk County Hospital,IA,"JACKSON, ROBERT A.",Democrat,0,,,,1960 Broadlawns Hospital Trustee D opp (6-year term); not endorsed,0.95,,115151_19601031.pdf

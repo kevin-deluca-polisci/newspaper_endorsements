@@ -3,7 +3,7 @@ TX,Corpus Christi Caller-Times,145000,1952,PRESIDENT,,,TX,"EISENHOWER, DWIGHT",R
 TX,Corpus Christi Caller-Times,145000,1952,PRESIDENT,,,TX,"STEVENSON, ADLAI",Democrat,0,,,,"Stevenson, regardless of his leadership potentialities, is burdened by the mistakes of the New Deal and Fair Deal; less likely to admit and correct than a completely fresh administration",0.95
 TX,Corpus Christi Caller-Times,145000,1962,GOVERNOR,,,TX,"CONNALLY, JOHN",Democrat,1,,,,"Leadership editorial; Texas needs a governor who can exercise a unifying and constructive influence on the legislature; only the Democratic candidate, John Connally, can offer the necessary leadership and direction to Texas state government",0.95
 TX,Corpus Christi Caller-Times,145000,1966,SENATOR,,,TX,"CARR, WAGGONER",Democrat,1,,,,"AP wire story listing newspaper endorsements - Corpus Christi Caller and Times among 28 dailies endorsing Carr (D); also listed: Caller and Times, Corpus Christi",0.85
-TX,Corpus Christi Caller-Times,145000,1970,STATE REP,,,TX,"FARENTHOLD, FRANCES",,1,,,,"Hard Worker editorial; endorsed for reelection Nov 3 for hard work for Corpus Christi and Texas, including censure of Land Commissioner Sadler and Antiquities Act passage",0.95
+TX,Corpus Christi Caller-Times,145000,1970,STATE REP,,,TX,"FARENTHOLD, FRANCES",Democrat,1,,,,"Hard Worker editorial; endorsed for reelection Nov 3 for hard work for Corpus Christi and Texas, including censure of Land Commissioner Sadler and Antiquities Act passage [V2 cross-paper party fill from CCC]",0.95
 TX,Corpus Christi Caller-Times,145000,1972,GOVERNOR,,,TX,"BRISCOE, DOLPH",Democrat,1,,,,"Did not have support in Democratic primary, but is choice of voters to carry Democratic banner Nov 7; we commend his candidacy to our readers - the only candidate for the office who could be an effective chief executive",0.95
 TX,Corpus Christi Caller-Times,145000,1976,H,14,,TX,"YOUNG, JOHN",Democrat,1,,,,Served us ably in Congress for 10 terms; through seniority and ability has amassed considerable influence and expertise; we recommend his reelection strongly,0.95
 TX,Corpus Christi Caller-Times,145000,1976,PRESIDENT,,,TX,"CARTER, JIMMY",Democrat,1,,,,"Nation needs a fresh and active leader, a person with ideas and vigor; we believe the nation can find such a man",0.95
@@ -12,298 +12,385 @@ TX,Corpus Christi Caller-Times,145000,1976,SENATOR,,,TX,"BENTSEN, LLOYD",Democra
 TX,Corpus Christi Caller-Times,145000,1976,STATE REP,48A,,TX,"GONZALES, ARNOLD",Democrat,1,,,,Has both the enthusiasm and intelligence to make his district an able representative in Austin,0.95
 TX,Corpus Christi Caller-Times,145000,1976,STATE REP,48C,,TX,"HALE, DEWITT",Democrat,1,,,,"In DeWitt Hale, this district has one of the most knowledgeable and influential members of the Texas Legislature; makes the retention of Hale in Austin even more imperative",0.95
 TX,Corpus Christi Caller-Times,145000,1976,STATE SENATOR,20,,TX,"TRUAN, CARLOS",Democrat,1,,,,"Times believes Carlos Truan is clearly the best choice in this race, both by virtue of experience and ability",0.95
-TX,Corpus Christi Caller-Times,145000,1976,TX SUPREME COURT,,,TX,"LORANCE, TOM",,1,,,,Experienced Houston attorney recommended as write-in candidate over Don Yarbrough; of the utmost importance the voter ponder the qualifications,0.90
+TX,Corpus Christi Caller-Times,145000,1976,TX SUPREME COURT,,,TX,"LORANCE, TOM",Independent,1,,,,Experienced Houston attorney recommended as write-in candidate over Don Yarbrough; of the utmost importance the voter ponder the qualifications [V2 cross-paper party fill from CCC],0.90
 TX,Corpus Christi Caller-Times,145000,1976,TX SUPREME COURT,,,TX,"YARBROUGH, DON",Democrat,0,,,,"Won the Democratic primary; threatened with disbarment by Texas State Bar, being sued in civil courts by a number of clients; Times recommends Tom Lorance, an experienced Houston attorney, as a write-in candidate",0.85
-TX,Corpus Christi Caller-Times,145000,1978,ATTORNEY GENERAL,,,TX,"WHITE, MARK",Democrat,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1978,CNTY COMM,4,Nueces,TX,"LUBY, J.P.",,1,,,,Precinct 4,0.95
-TX,Corpus Christi Caller-Times,145000,1978,CNTY JUDGE,,Nueces,TX,"BARNES, ROBERT",,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1978,GOVERNOR,,,TX,"HILL, JOHN",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1978,ATTORNEY GENERAL,,,TX,"WHITE, MARK",Democrat,1,,,,"1978 ATTORNEY GENERAL WHITE, MARK (Democrat) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1978,CNTY COMM,4,Nueces,TX,"LUBY, J.P.",Democrat,1,,,,Precinct 4 [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1978,CNTY JUDGE,,Nueces,TX,"BARNES, ROBERT",Democrat,1,,,, [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1978,GOVERNOR,,,TX,"HILL, JOHN C.",Democrat,1,,,,"1978 GOVERNOR HILL, JOHN C. (Democrat) endorsed=1 [V6 notes fill]",0.95
 TX,Corpus Christi Caller-Times,145000,1978,H,14,,TX,"WYATT, JOE",Democrat,1,,,,US Congress 14th District,0.95
-TX,Corpus Christi Caller-Times,145000,1978,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1978,RAILROAD COMMISSION,,,TX,"POERNER, JOHN",Democrat,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1978,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,,,,"1978 LT GOVERNOR HOBBY, BILL (Democrat) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1978,RAILROAD COMMISSION,,,TX,"POERNER, JOHN",Democrat,1,,,,"1978 RAILROAD COMMISSION POERNER, JOHN (Democrat) endorsed=1 [V6 notes fill]",0.95
 TX,Corpus Christi Caller-Times,145000,1978,SENATOR,,,TX,"TOWER, JOHN",Republican,1,,,,Caller lists choices in Tuesday's election; we recommend the election of each of these candidates,0.95
-TX,Corpus Christi Caller-Times,145000,1978,STATE REP,48-C,,TX,"HARRISON, BILL",,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1980,PRESIDENT,,,TX,"CARTER, JIMMY",Democrat,0,,,,Carter administration has lacked fixed policies; vacillating signals in foreign policy which have confused friends and foes; the Carter administration has not earned another four years in office,0.95
+TX,Corpus Christi Caller-Times,145000,1978,STATE REP,48C,,TX,"HARRISON, W.O. (BILL)",Democrat,1,,,, [V2 party fill TX STATE REP era],0.95
+TX,Corpus Christi Caller-Times,145000,1980,PRESIDENT,,,TX,"CARTER, JIMMY",Democrat,0,1,,,Carter administration has lacked fixed policies; vacillating signals in foreign policy which have confused friends and foes; the Carter administration has not earned another four years in office,0.95
 TX,Corpus Christi Caller-Times,145000,1980,PRESIDENT,,,TX,"REAGAN, RONALD",Republican,1,,,,"Election of Reagan best choice Tuesday; Reagan would have an opportunity to rethink some of our approaches to social legislation; Reagan administration on the other hand offers at least the possibility of new approaches; it is time, in our view, for a change",0.95
 TX,Corpus Christi Caller-Times,145000,1980,RAILROAD COMMISSION,,,TX,"NUGENT, JIM",Democrat,1,,,,"Nugent, Temple favored; Nugent appointed by Gov. Briscoe when former commissioner Jon Newton resigned; veteran of nine terms in state House",0.95
 TX,Corpus Christi Caller-Times,145000,1980,RAILROAD COMMISSION,,,TX,"TEMPLE, BUDDY",Democrat,1,,,,Defeated Railroad Commission Chairman John Poerner; two-term state representative; campaigned on a pledge to work to reduce high interstate freight rates,0.95
-TX,Corpus Christi Caller-Times,145000,1980,SHERIFF,,Nueces,TX,"ORTIZ, SOLOMON",Democrat,1,,,,Sheriff has earned another four years; restored order and dignity to the sheriff's office; modernized; we believe he deserves reelection on Nov. 4,0.95
-TX,Corpus Christi Caller-Times,145000,1980,STATE SENATOR,20,,TX,"TRUAN, CARLOS",Democrat,1,,,,Sen. Carlos Truan should be re-elected; voters of the 20th senatorial district this past June a choice which could scarcely be clearer,0.95
-TX,Corpus Christi Caller-Times,145000,1980,TX SUPREME COURT,1,,TX,"WALLACE, JAMES P.",Democrat,1,,,,"Vote Garwood, Wallace; Place 1 - hesitatingly recommend; lawyer, two-term state senator from Houston, former district judge, associate justice First Court of Civil Appeals",0.90
+TX,Corpus Christi Caller-Times,145000,1980,SHERIFF,,Nueces,TX,"ORTIZ, SOLOMON P.",Democrat,1,,,,Sheriff has earned another four years; restored order and dignity to the sheriff's office; modernized; we believe he deserves reelection on Nov. 4,0.95
+TX,Corpus Christi Caller-Times,145000,1980,STATE SENATOR,20,,TX,"TRUAN, CARLOS",Democrat,1,1,,,Sen. Carlos Truan should be re-elected; voters of the 20th senatorial district this past June a choice which could scarcely be clearer,0.95
+TX,Corpus Christi Caller-Times,145000,1980,TX SUPREME COURT,1,,TX,"WALLACE, JAMES P. (JIM)",Democrat,1,,,,"Vote Garwood, Wallace; Place 1 - hesitatingly recommend; lawyer, two-term state senator from Houston, former district judge, associate justice First Court of Civil Appeals",0.90
 TX,Corpus Christi Caller-Times,145000,1980,TX SUPREME COURT,4,,TX,"GARWOOD, WILL",Republican,1,,,,"Place 4 - urge a vote for incumbent Justice Will Garwood, a Republican appointed to the court nine months ago by Gov. Bill Clements; intelligent and hard-working jurist",0.95
 TX,Corpus Christi Caller-Times,145000,1982,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,,,,"Democratic nominee is a maverick, an avowed Populist who has been successful at a time when the political tides seemed to be against him; intelligent young man, dedicated to serving the people's interest, refreshing ideas",0.95
 TX,Corpus Christi Caller-Times,145000,1982,ATTORNEY GENERAL,,,TX,"MATTOX, JIM",Democrat,1,,,,"Tough, often abrasive campaigner; well-qualified to be the state's No. 1 lawyer; can be counted on to be an activist attorney general, a people's advocate",0.95
 TX,Corpus Christi Caller-Times,145000,1982,COMPTROLLER,,,TX,"BULLOCK, BOB",Democrat,1,,,,Performance as state's tax collector; written impressive record; collections are up; many loopholes have been drawn tight,0.95
-TX,Corpus Christi Caller-Times,145000,1982,COURT OF CRIMINAL APPEALS,2,,TX,"MILLER, CHUCK",,1,,,,Place 2,0.95
-TX,Corpus Christi Caller-Times,145000,1982,DISTRICT COURT JUDGE,148,,TX,"HERIN, DAVID",,1,,,,148th District Judge,0.95
-TX,Corpus Christi Caller-Times,145000,1982,DISTRICT COURT JUDGE,94,,TX,"HAAS, RENE",,1,,,,94th District Judge,0.95
-TX,Corpus Christi Caller-Times,145000,1982,GOVERNOR,,,TX,"CLEMENTS, BILL",Republican,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1982,H,27,,TX,"ORTIZ, SOLOMON",Democrat,1,,,,US Representative 27th District,0.95
+TX,Corpus Christi Caller-Times,145000,1982,COURT OF CRIMINAL APPEALS,2,,TX,"MILLER, CHUCK",Democrat,1,,,,Place 2 [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1982,DISTRICT COURT JUDGE,148,Nueces County,TX,"HERIN, DAVID",Democrat,1,,,,148th District Judge [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1982,DISTRICT COURT JUDGE,94,Nueces County,TX,"HAAS, RENE",Democrat,1,,,,94th District Judge [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1982,GOVERNOR,,,TX,"CLEMENTS, BILL",Republican,1,,,,"1982 GOVERNOR CLEMENTS, BILL (Republican) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1982,H,27,,TX,"ORTIZ, SOLOMON P.",Democrat,1,,,,US Representative 27th District,0.95
 TX,Corpus Christi Caller-Times,145000,1982,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,,,,"This office is particularly important to South Texas; better acquainted with variety of issues he will face, and more correct in his position on those issues than GOP opponent Woody Glasscock; Mauro is a Corpus Christi native",0.95
-TX,Corpus Christi Caller-Times,145000,1982,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1982,RAILROAD COMMISSION,,,TX,"NUGENT, JIM",Democrat,1,,,,Former legislator will be seeking his first full term on the Railroad Commission; valuable member of the body; we find nothing in that record to argue against his re-election Nov. 2,0.95
-TX,Corpus Christi Caller-Times,145000,1982,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,,,,Everyone must make a choice on Tuesday - summary endorsements,0.95
-TX,Corpus Christi Caller-Times,145000,1982,STATE REP,36,,TX,"HARRISON, BILL",,1,,,,State Representative District 36,0.95
+TX,Corpus Christi Caller-Times,145000,1982,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,"1982 LT GOVERNOR HOBBY, BILL (Democrat) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1982,RAILROAD COMMISSION,,,TX,"NUGENT, JIM",Democrat,1,1,,,Former legislator will be seeking his first full term on the Railroad Commission; valuable member of the body; we find nothing in that record to argue against his re-election Nov. 2,0.95
+TX,Corpus Christi Caller-Times,145000,1982,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,1,,,Everyone must make a choice on Tuesday - summary endorsements,0.95
+TX,Corpus Christi Caller-Times,145000,1982,STATE REP,36,,TX,"HARRISON, W.O. (BILL)",Democrat,1,1,,,State Representative District 36 [V2 party fill TX STATE REP era],0.95
 TX,Corpus Christi Caller-Times,145000,1982,TREASURER,,,TX,"RICHARDS, ANN",Democrat,1,,,,"Articulate and impressive candidate; as a county commissioner in Austin, has demonstrated her management abilities; will also be the first woman to hold statewide office in 50 years",0.95
-TX,Corpus Christi Caller-Times,145000,1982,TX SUPREME COURT,1,,TX,"ROBERTSON, TED",,1,,,,Place 1,0.95
-TX,Corpus Christi Caller-Times,145000,1984,COURT OF CRIMINAL APPEALS,1,,TX,"CLINTON, SAM HOUSTON",,1,,,,Place 1,0.95
-TX,Corpus Christi Caller-Times,145000,1984,H,27,,TX,"ORTIZ, SOLOMON",Democrat,1,,,,US Representative 27th District,0.95
-TX,Corpus Christi Caller-Times,145000,1984,PRESIDENT,,,TX,"REAGAN, RONALD",Republican,1,,,,Campaign boils down to voter and ballot - editorial board recommendations,0.95
-TX,Corpus Christi Caller-Times,145000,1984,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1984,SENATOR,,,TX,"GRAMM, PHIL",Republican,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1984,STATE REP,36,,TX,"HARRISON, W.O. 'BILL'",,1,,,,,0.95
+TX,Corpus Christi Caller-Times,145000,1982,TX SUPREME COURT,1,,TX,"ROBERTSON, TED",Democrat,1,,,,Place 1 [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1984,COURT OF CRIMINAL APPEALS,1,,TX,"CLINTON, SAM HOUSTON",Democrat,1,,,,Place 1 [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1984,H,27,,TX,"ORTIZ, SOLOMON P.",Democrat,1,1,,,US Representative 27th District,0.95
+TX,Corpus Christi Caller-Times,145000,1984,PRESIDENT,,,TX,"REAGAN, RONALD",Republican,1,,1,,Campaign boils down to voter and ballot - editorial board recommendations,0.95
+TX,Corpus Christi Caller-Times,145000,1984,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,,,,"1984 RAILROAD COMMISSION WALLACE, MACK (Democrat) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1984,SENATOR,,,TX,"GRAMM, PHIL",Republican,1,,,,"1984 SENATOR GRAMM, PHIL (Republican) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1984,STATE REP,36,,TX,"HARRISON, W.O. (BILL)",Democrat,1,1,,, [V2 party fill TX STATE REP era],0.95
 TX,Corpus Christi Caller-Times,145000,1984,TX SUPREME COURT,,,TX,"HILL, JOHN C.",Democrat,1,,,,Chief Justice,0.95
-TX,Corpus Christi Caller-Times,145000,1984,VICE PRESIDENT,,,TX,"BUSH, GEORGE",Republican,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1986,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1986,ATTORNEY GENERAL,,,TX,"BARRERA, ROY JR.",Democrat,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1986,CNTY CLERK,,Nueces,TX,"UEHLINGER, MARION",,1,,,,Nueces County Clerk,0.95
-TX,Corpus Christi Caller-Times,145000,1986,GOVERNOR,,,TX,"CLEMENTS, BILL",Republican,0,,,,Bill Clements simply has not,0.95
-TX,Corpus Christi Caller-Times,145000,1986,GOVERNOR,,,TX,"WHITE, MARK",Democrat,1,,,,"Texas, experiencing unfamiliar hard times, desperately needs the sort of leadership that looks forward with confidence; Gov. Mark White has shown such leadership; White's candidacy is strongly recommended",0.95
-TX,Corpus Christi Caller-Times,145000,1986,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1986,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1986,RAILROAD COMMISSION,,,TX,"SHARP, JOHN",Democrat,1,,,,,0.95
-TX,Corpus Christi Caller-Times,145000,1986,TREASURER,,Nueces,TX,"HUNT, TOM",,1,,,,"Nueces County Treasurer, in order to do away with this needless office",0.95
+TX,Corpus Christi Caller-Times,145000,1984,VICE PRESIDENT,,,TX,"BUSH, GEORGE",Republican,1,,1,,"1984 VICE PRESIDENT BUSH, GEORGE (Republican) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1986,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,1,,,"1986 AGRICULTURE COMMISSIONER HIGHTOWER, JIM (Democrat) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1986,ATTORNEY GENERAL,,,TX,"BARRERA, ROY JR.",Democrat,1,,,,"1986 ATTORNEY GENERAL BARRERA, ROY JR. (Democrat) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1986,CNTY CLERK,,Nueces,TX,"UEHLINGER, MARION",Democrat,1,,,,Nueces County Clerk [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1986,GOVERNOR,,,TX,"CLEMENTS, BILL",Republican,0,,1,,Bill Clements simply has not,0.95
+TX,Corpus Christi Caller-Times,145000,1986,GOVERNOR,,,TX,"WHITE, MARK",Democrat,1,1,,,"Texas, experiencing unfamiliar hard times, desperately needs the sort of leadership that looks forward with confidence; Gov. Mark White has shown such leadership; White's candidacy is strongly recommended",0.95
+TX,Corpus Christi Caller-Times,145000,1986,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,"1986 LAND COMMISSIONER MAURO, GARRY (Democrat) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1986,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,"1986 LT GOVERNOR HOBBY, BILL (Democrat) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1986,RAILROAD COMMISSION,,,TX,"SHARP, JOHN",Democrat,1,,,,"1986 RAILROAD COMMISSION SHARP, JOHN (Democrat) endorsed=1 [V6 notes fill]",0.95
+TX,Corpus Christi Caller-Times,145000,1986,TREASURER,,Nueces,TX,"HUNT, TOM",Democrat,1,,,,"Nueces County Treasurer, in order to do away with this needless office [V2 cross-paper party fill from CCC]",0.95
 TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,1,,TX,"MAUZY, OSCAR",Democrat,1,,,,"Place 1, reluctantly",0.90
-TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,2,,TX,"CAMPBELL, ROBERT M.",,1,,,,Place 2,0.95
-TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,3,,TX,"WALLACE, JIM",,1,,,,Place 3,0.95
-TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,4,,TX,"GONZALEZ, RAUL",,1,,,,Place 4,0.95
-TX,Corpus Christi Caller-Times,145000,1988,CNTY COMM,"Nueces County, Precinct 1",,TX,GEORGE D. SHAFFER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES F. CAMPBELL,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,COURT OF CRIMINAL APPEALS,Place 2,,TX,CHUCK MILLER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,COURT OF CRIMINAL APPEALS,Presiding Judge,,TX,MIKE MCCORMICK,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,PRESIDENT,,,TX,GEORGE BUSH,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,RAILROAD COMMISSION,,,TX,ED EMMETT,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,RAILROAD COMMISSION,,,TX,KENT HANCE,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,SENATOR,,,TX,LLOYD BENTSEN,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,SHERIFF,Nueces County,,TX,JAMES T. HICKEY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,STATE BOARD OF ED,2,,TX,MARY HELEN BERLANGA,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,STATE REP,,,TX,TODD A. HUNTER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 1,,TX,PAUL MURPHY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 2,,TX,NATHAN HECHT,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 3,,TX,RAUL A. GONZALEZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 4,,TX,BARBARA G. CULVER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Place 5,,TX,EUGENE A. COOK,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,AGRICULTURE COMMISSIONER,,,TX,JIM HIGHTOWER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,ATTORNEY GENERAL,,,TX,DAN MORALES,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,CNTY CLERK,Nueces County,,TX,NANCY STEVENS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,CNTY COMM,"Nueces County, Precinct 4",,TX,CAROL KARTER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,COMPTROLLER,,,TX,JOHN SHARP,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,COURT OF APPEALS,13th Court of Appeals,,TX,GILBERTO HINOJOSA,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 1,,TX,FRANK MALONEY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 2,,TX,SAM HOUSTON CLINTON,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 3,,TX,BILL WHITE,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 4,,TX,CHARLES F. (CHARLIE) BAIRD,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,Place 5,,TX,LOUIS E. STURNS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,GOVERNOR,,,TX,ANN RICHARDS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,LAND COMMISSIONER,,,TX,GARRY MAURO,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,LT GOVERNOR,,,TX,BOB BULLOCK,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,RAILROAD COMMISSION,,,TX,BOB KRUEGER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,SENATOR,,,TX,PHIL GRAMM,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,TREASURER,,,TX,KAY BAILEY HUTCHISON,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,TX SUPREME COURT,Place 1,,TX,JOHN CORNYN,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1990,TX SUPREME COURT,Place 2,,TX,BOB GAMMAGE,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,CNTY COMM,"Nueces County, Precinct 1",,TX,FRANK SCHWING,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES F. (CHARLIE) BAIRD,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,COURT OF CRIMINAL APPEALS,Place 2,,TX,MORRIS L. OVERSTREET,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,COURT OF CRIMINAL APPEALS,Place 3,,TX,PETE BENAVIDES,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,DA/PROSECUTOR,Nueces County,,TX,CARL LEWIS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,H,27,,TX,SOLOMON ORTIZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,PRESIDENT,,,TX,BILL CLINTON,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,RAILROAD COMMISSION,,,TX,BARRY WILLIAMSON,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,SHERIFF,Nueces County,,TX,J.P. LUBY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,STATE REP,33,,TX,EDDIE CAVAZOS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,TX SUPREME COURT,Place 1,,TX,CRAIG ENOCH,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,TX SUPREME COURT,Place 2,,TX,EUGENE COOK,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1992,TX SUPREME COURT,Place 3,,TX,JOHN D. MONTGOMERY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,AGRICULTURE COMMISSIONER,,,TX,RICK PERRY,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,ATTORNEY GENERAL,,,TX,DAN MORALES,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,CNTY CLERK,"Nueces County, District clerk",,TX,OSCAR SOLIZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,CNTY COMM,"Nueces County, District 3",,TX,OSCAR ORTIZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,CNTY COMM,"Nueces County, District 4",,TX,JOE MCCOMB,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,CNTY COMM,"Nueces County, Precinct 2",,TX,DAVID BERLANGA SR.,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,CNTY JUDGE,Nueces County,,TX,RICHARD BORCHARD,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,COMPTROLLER,,,TX,JOHN SHARP,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES CAMPBELL,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,COURT OF CRIMINAL APPEALS,Place 2,,TX,BETTY MARSHALL,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,GOVERNOR,,,TX,ANN RICHARDS,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,H,27,,TX,SOLOMON ORTIZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,LAND COMMISSIONER,,,TX,GARRY MAURO,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,LT GOVERNOR,,,TX,BOB BULLOCK,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,RAILROAD COMMISSION,,,TX,CAROLE RYLANDER,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,RAILROAD COMMISSION,,,TX,CHARLES MATTHEWS,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,SENATOR,,,TX,KAY BAILEY HUTCHISON,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,STATE BOARD OF ED,2,,TX,MARY HELEN BERLANGA,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,STATE REP,31,,TX,WILL GALLOWAY,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,STATE REP,33,,TX,VILMA LUNA,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,STATE SENATOR,20,,TX,CARLOS TRUAN,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,TREASURER,,,TX,MARTHA WHITEHEAD,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,TX SUPREME COURT,Place 1,,TX,RAUL GONZALEZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,TX SUPREME COURT,Place 2,,TX,ALICE OLIVER PARROTT,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1994,TX SUPREME COURT,Place 3,,TX,JIMMY CARROLL,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,CNTY COMM,"Nueces County, Precinct 1",,TX,FRANK SCHWING,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,CNTY COMM,"Nueces County, Precinct 2",,TX,MARTIN GARZA,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,COURT OF APPEALS,13th Court of Appeals,,TX,BONNER DORSEY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,COURT OF CRIMINAL APPEALS,Place 1,,TX,BOB PERKINS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,COURT OF CRIMINAL APPEALS,Place 2,,TX,PAUL WOMACK,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,COURT OF CRIMINAL APPEALS,Place 3,,TX,FRANK MALONEY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,DISTRICT COURT JUDGE,28th Dist. Court,,TX,ROBERT PATE,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,H,15,,TX,RUBEN HINOJOSA,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,H,27,,TX,SOLOMON ORTIZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,PRESIDENT,,,TX,BOB DOLE,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,RAILROAD COMMISSION,,,TX,CAROLE KEETON RYLANDER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,SENATOR,,,TX,PHIL GRAMM,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,SHERIFF,Nueces County,,TX,LARRY OLIVAREZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,STATE REP,31,,TX,JUDY HAWLEY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,STATE REP,32,,TX,PAT EISENHAUER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,Place 1,,TX,JOHN CORNYN,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,Place 2,,TX,JAMES A. BAKER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,Place 3,,TX,GREG ABBOTT,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,AGRICULTURE COMMISSIONER,,,TX,SUSAN COMBS,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,ATTORNEY GENERAL,,,TX,JOHN CORNYN,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,CNTY CLERK,"Nueces County, District clerk",,TX,OSCAR SOLIZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,CNTY JUDGE,Nueces County,,TX,RICHARD BORCHARD,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,COMPTROLLER,,,TX,PAUL HOBBY,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLIE BAIRD,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,COURT OF CRIMINAL APPEALS,Place 2,,TX,CHERYL JOHNSON,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,COURT OF CRIMINAL APPEALS,Place 3,,TX,"LAWRENCE ""LARRY"" MEYERS",Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,DISTRICT COURT JUDGE,148th District Court,,TX,ROBERT PATE,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,DISTRICT COURT JUDGE,319th District Court,,TX,TOM GREENWELL,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,GOVERNOR,,,TX,GEORGE W. BUSH,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,H,14,,TX,LOY SNEARY,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,H,27,,TX,SOLOMON ORTIZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,LAND COMMISSIONER,,,TX,RICHARD RAYMOND,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,LT GOVERNOR,,,TX,JOHN SHARP,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,RAILROAD COMMISSION,,,TX,TONY GARZA,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,SCHOOL BOARD,"Del Mar Board of Regents, At Large",,TX,HOWARD E. BARTH,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,SCHOOL BOARD,"Del Mar Board of Regents, District 2",,TX,BETTE HOELSCHER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,SCHOOL BOARD,"Del Mar Board of Regents, District 5",,TX,HAWOOD DAWOD,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,STATE BOARD OF ED,2,,TX,MARY HELEN BERLANGA,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,STATE REP,33,,TX,VILMA LUNA,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,STATE REP,34,,TX,JAIME CAPELO,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,Place 1,,TX,MIKE WESTERGREN,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,Place 2,,TX,ROSE SPECTOR,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,Place 3,,TX,GREG ABBOTT,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,Place 4,,TX,DEBORAH HANKINSON,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,CNTY COMM,"Nueces County, Precinct 1",,TX,FRANK E. SCHWING,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,CNTY COMM,"Nueces County, Precinct 3",,TX,OSCAR O. ORTIZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,COURT OF APPEALS,"13th Court of Appeals, Place 3",,TX,ERRLINDA CASTILLO,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,COURT OF CRIMINAL APPEALS,Place 1,,TX,CHARLES HOLCOMB,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,COURT OF CRIMINAL APPEALS,Place 2,,TX,BARBARA PARKER HERVEY,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,COURT OF CRIMINAL APPEALS,Presiding Judge,,TX,BILL VANCE,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,DISTRICT COURT JUDGE,214th District Court,,TX,JOSE LONGORIA,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,DISTRICT COURT JUDGE,28th District Court,,TX,NANETTE HASETTE,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,DISTRICT COURT JUDGE,347th District Court,,TX,MISSY MEDARY,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,H,14,,TX,LOY SNEARY,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,H,15,,TX,RUBEN HINOJOSA,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,H,27,,TX,SOLOMON P. ORTIZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,PRESIDENT,,,TX,GEORGE W. BUSH,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,RAILROAD COMMISSION,,,TX,CHARLES R. MATTHEWS,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,RAILROAD COMMISSION,unexpired term,,TX,MICHAEL L. WILLIAMS,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,SCHOOL BOARD,"Del Mar Board of Regents, At-large",,TX,WILLIAM A. WHITTLE,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,SCHOOL BOARD,"Del Mar Board of Regents, District 1",,TX,RALPH DIAZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,SCHOOL BOARD,"Del Mar Board of Regents, District 4",,TX,HELEN R. GURLEY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,SENATOR,,,TX,KAY BAILEY HUTCHISON,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,TX SUPREME COURT,Place 1,,TX,NATHAN HECHT,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,TX SUPREME COURT,Place 2,,TX,DEBORAH HANKINSON,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2000,TX SUPREME COURT,Place 3,,TX,AL GONZALES,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,AGRICULTURE COMMISSIONER,,,TX,SUSAN COMBS,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,ATTORNEY GENERAL,,,TX,KIRK WATSON,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,CNTY CLERK,"Nueces County, District Clerk",,TX,PATSY PEREZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,CNTY COMM,"Nueces County, Pct. 4",,TX,CHUCK CAZALAS,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,CNTY JUDGE,Nueces County,,TX,JOE MCCOMB,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,COMPTROLLER,,,TX,CAROLE KEETON RYLANDER,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,COURT OF APPEALS,13th Court of Appeals,,TX,DORI CONTRERAS GARZA,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,COURT OF CRIMINAL APPEALS,Pl. 1,,TX,TOM PRICE,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,COURT OF CRIMINAL APPEALS,Pl. 2,,TX,PAUL WOMACK,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,COURT OF CRIMINAL APPEALS,Pl. 3,,TX,CATHY COCHRAN,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,DISTRICT COURT JUDGE,319th District Court,,TX,TOM GREENWELL,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,GOVERNOR,,,TX,TONY SANCHEZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,LAND COMMISSIONER,,,TX,DAVID BERNSEN,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,LT GOVERNOR,,,TX,JOHN SHARP,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,RAILROAD COMMISSION,,,TX,MICHAEL WILLIAMS,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,SCHOOL BOARD,"Del Mar Regents, At Large",,TX,JACOB MUNOZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,SCHOOL BOARD,"Del Mar Regents, At Large",,TX,RALPH DIAZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,SENATOR,,,TX,JOHN CORNYN,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,STATE REP,32,,TX,JOSEPHINE MILLER,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,STATE REP,33,,TX,VILMA LUNA,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,STATE REP,34,,TX,JAIME CAPELO,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,STATE REP,35,,TX,GABI CANALES,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,STATE REP,43,,TX,IRMA RANGEL,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Chief Justice,,TX,TOM PHILLIPS,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Pl. 1,,TX,LINDA YANEZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Pl. 2,,TX,DALE WAINWRIGHT,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Pl. 3,,TX,WALLACE JEFFERSON,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Pl. 4,,TX,MARGARET MIRABAL,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, At-large",,TX,CHAD MAGILL,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, At-large",,TX,JOE MCCOMB,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, At-large",,TX,MICHAEL HUNTER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, District 1",,TX,CAROLYN VAUGHN,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, District 2",,TX,BRIAN ROSAS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, District 3",,TX,LUCY RUBIO,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,"Corpus Christi, District 4",,TX,GREG SMITH,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,CNTY COMM,"Nueces County, Precinct 1",,TX,MIKE PUSLEY,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,COURT OF APPEALS,"13th Court of Appeals, Place 3",,TX,GREG PERKES,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,COURT OF CRIMINAL APPEALS,Place 2,,TX,"LAWRENCE ""LARRY"" MEYERS",Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,COURT OF CRIMINAL APPEALS,Place 5,,TX,SCOTT WALKER,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,COURT OF CRIMINAL APPEALS,Place 6,,TX,MICHAEL KEASLER,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,DA/PROSECUTOR,Nueces County,,TX,MARK GONZALEZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,DISTRICT COURT JUDGE,214th District Court,,TX,INNA KLEIN,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,H,27,,TX,"RAUL ""ROY"" BARRERA",Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,MAYOR,Corpus Christi,,TX,NELDA MARTINEZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,PRESIDENT,,,TX,HILLARY CLINTON,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,RAILROAD COMMISSION,,,TX,MARK MILLER,Libertarian,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,CCISD trustee at-large,,TX,A. TOTSY ARMADILLO,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,CCISD trustee at-large,,TX,ALICE UPSHAW-HAWKINS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,CCISD trustee at-large,,TX,JANIE BELL,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,"Del Mar College Regent, At-large",,TX,TREY MCCAMPBELL,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,"Del Mar College Regent, District 5",,TX,JIM BOGGS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,SHERIFF,Nueces County,,TX,JIM KAELIN,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,STATE SENATOR,20,,TX,"JUAN ""CHUY"" HINOJOSA",Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,TX SUPREME COURT,Place 3,,TX,DEBRA LEHRMANN,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,TX SUPREME COURT,Place 5,,TX,DORI CONTRERAS GARZA,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2016,TX SUPREME COURT,Place 9,,TX,EVA GUZMAN,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,AGRICULTURE COMMISSIONER,,,TX,KIM OLSON,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,ATTORNEY GENERAL,,,TX,JUSTIN NELSON,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, At Large",,TX,JOHN GARCIA,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, At Large",,TX,MICHAEL HUNTER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, At Large",,TX,PAULETTE GUAJARDO,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 1",,TX,JULIAN FIRO,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 2",,TX,BEN MOLINA,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 3",,TX,ROLAND BARRERA,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 4",,TX,GREG SMITH,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,"Corpus Christi, District 5",,TX,ERIC RODRIGUEZ,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CNTY CLERK,Nueces County,,TX,KARA SANDS,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CNTY CLERK,"Nueces County, District Clerk",,TX,ANNE LORENTZEN,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CNTY COMM,"Nueces County, Precinct 1",,TX,CAROLYN VAUGHN,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,CNTY JUDGE,Nueces County,,TX,BARBARA CANALES,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,COMPTROLLER,,,TX,GLENN HEGAR,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,"13th Court of Appeals, Chief Justice",,TX,DORI CONTRERAS,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,"13th Court of Appeals, Place 2",,TX,GREG PERKES,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,"13th Court of Appeals, Place 4",,TX,JAIME TIJERINA,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,"13th Court of Appeals, Place 5",,TX,GINA BENAVIDES,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,COURT OF CRIMINAL APPEALS,Place 7,,TX,BARBARA PARKER HERVEY,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,COURT OF CRIMINAL APPEALS,Place 8,,TX,MICHELLE SLAUGHTER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,COURT OF CRIMINAL APPEALS,Presiding Judge,,TX,"MARIA T. ""TERRI"" JACKSON",Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,DISTRICT COURT JUDGE,105th District Court,,TX,JACK PULCHER,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,DISTRICT COURT JUDGE,148th District Court,,TX,CARLOS VALDEZ,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,GOVERNOR,,,TX,GREG ABBOTT,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,H,27,,TX,MICHAEL CLOUD,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,JUDGE,Court-at-law No. 1,,TX,ROBERT VARGAS,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,LAND COMMISSIONER,,,TX,GEORGE P. BUSH,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,LT GOVERNOR,,,TX,MIKE COLLIER,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,MAYOR,Corpus Christi,,TX,AISLYNN CAMPBELL,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,RAILROAD COMMISSION,,,TX,CHRISTI CRADDICK,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,"Corpus Christi ISD trustee, District 1",,TX,LAMONT TAYLOR,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,"Corpus Christi ISD trustee, District 3",,TX,CURTIS CLARK,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,"Del Mar College Board of Regents, At large",,TX,SANDRA MESSBARGER,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,"Del Mar College Board of Regents, District 1",,TX,GABE RIVAS,,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,SENATOR,,,TX,BETO O'ROURKE,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,STATE BOARD OF ED,2,,TX,RUBEN CORTEZ JR.,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,STATE REP,34,,TX,ABEL HERRERO,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,STATE REP,43,,TX,J.M. LOZANO,Republican,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,TX SUPREME COURT,Place 2,,TX,STEVEN KIRKLAND,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,TX SUPREME COURT,Place 4,,TX,R.K. SANDILL,Democrat,1,,,,,
-TX,Corpus Christi Caller-Times,145000,2018,TX SUPREME COURT,Place 6,,TX,KATHY CHENG,Democrat,1,,,,,
+TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,2,,TX,"CAMPBELL, ROBERT M.",Democrat,1,,,,Place 2 [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,3,,TX,"WALLACE, JAMES P. (JIM)",Democrat,1,1,,,Place 3 [V2 party fill TX judicial era (1986)],0.95
+TX,Corpus Christi Caller-Times,145000,1986,TX SUPREME COURT,4,,TX,"GONZALEZ, RAUL A.",Democrat,1,,,,Place 4 [V2 cross-paper party fill from CCC],0.95
+TX,Corpus Christi Caller-Times,145000,1988,CNTY COMM,1,Nueces County,TX,"SHAFFER, GEORGE D.",Democrat,1,,,, [V2 party fill TX CC era],0.90
+TX,Corpus Christi Caller-Times,145000,1988,COURT OF CRIMINAL APPEALS,1,,TX,"CAMPBELL, CHARLES F.",Democrat,1,,,, [V2 party fill TX judicial era (1988)],0.90
+TX,Corpus Christi Caller-Times,145000,1988,COURT OF CRIMINAL APPEALS,2,,TX,"MILLER, CHUCK",Democrat,1,1,,, [V2 party fill TX judicial era (1988)],0.90
+TX,Corpus Christi Caller-Times,145000,1988,COURT OF CRIMINAL APPEALS,Presiding,,TX,"MCCORMICK, MIKE",Democrat,1,,,, [V2 party fill TX judicial era (1988)],0.90
+TX,Corpus Christi Caller-Times,145000,1988,PRESIDENT,,,TX,"BUSH, GEORGE",Republican,1,,,,"1988 PRESIDENT BUSH, GEORGE (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1988,RAILROAD COMMISSION,,,TX,"EMMETT, ED",Democrat,1,,,, [V2 party fill TX RR era],0.90
+TX,Corpus Christi Caller-Times,145000,1988,RAILROAD COMMISSION,,,TX,"HANCE, KENT",Democrat,1,,,, [V2 party fill TX RR era],0.90
+TX,Corpus Christi Caller-Times,145000,1988,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,1,,,"1988 SENATOR BENTSEN, LLOYD (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1988,SHERIFF,,Nueces County,TX,"HICKEY, JAMES T.",Democrat,1,,,,"1988 SHERIFF HICKEY, JAMES T. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1988,STATE BOARD OF ED,2,,TX,"BERLANGA, MARY HELEN",Democrat,1,,,,"1988 STATE BOARD OF ED BERLANGA, MARY HELEN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1988,STATE REP,,,TX,"HUNTER, TODD A.",Democrat,1,,,, [V2 party fill TX STATE REP era],0.90
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,Chief,,TX,"PHILLIPS, TOM",Republican,1,,,, [V2 party fill TX judicial era (1988)] [V3 TX SC 1988 party fix per TX historical],0.90
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,1,,TX,"MURPHY, PAUL",Democrat,1,,,, [V2 party fill TX judicial era (1988)],0.90
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,2,,TX,"HECHT, NATHAN",Republican,1,,,, [V2 party fill TX judicial era (1988)] [V3 TX SC 1988 party fix per TX historical],0.90
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,3,,TX,"GONZALEZ, RAUL A.",Democrat,1,,,, [V2 party fill TX judicial era (1988)],0.90
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,4,,TX,"CULVER, BARBARA G.",Republican,1,,,, [V2 party fill TX judicial era (1988)] [V3 TX SC 1988 party fix per TX historical],0.90
+TX,Corpus Christi Caller-Times,145000,1988,TX SUPREME COURT,5,,TX,"COOK, EUGENE A.",Republican,1,,,, [V2 party fill TX judicial era (1988)] [V3 TX SC 1988 party fix per TX historical],0.90
+TX,Corpus Christi Caller-Times,145000,1990,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,1,,,"1990 AGRICULTURE COMMISSIONER HIGHTOWER, JIM (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,ATTORNEY GENERAL,,,TX,"MORALES, DAN",Democrat,1,,,,"1990 ATTORNEY GENERAL MORALES, DAN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,CNTY CLERK,,Nueces County,TX,"STEVENS, NANCY",Democrat,1,,,,"1990 CNTY CLERK STEVENS, NANCY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,CNTY COMM,4,Nueces County,TX,"KARTER, CAROL",Democrat,1,,,, [V2 party fill TX CC era],0.90
+TX,Corpus Christi Caller-Times,145000,1990,COMPTROLLER,,,TX,"SHARP, JOHN",Democrat,1,,,,"1990 COMPTROLLER SHARP, JOHN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF APPEALS,13,,TX,"HINOJOSA, GILBERTO",Democrat,1,,,,"1990 COURT OF APPEALS HINOJOSA, GILBERTO (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,1,,TX,"MALONEY, FRANK",Democrat,1,,,, [V2 party fill TX judicial era (1990)],0.90
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,2,,TX,"CLINTON, SAM HOUSTON",Democrat,1,1,,, [V2 party fill TX judicial era (1990)],0.90
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,3,,TX,"WHITE, BILL",Democrat,1,,,, [V2 party fill TX judicial era (1990)],0.90
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,4,,TX,"BAIRD, CHARLES F. (CHARLIE)",Democrat,1,,,, [V2 party fill TX judicial era (1990)],0.90
+TX,Corpus Christi Caller-Times,145000,1990,COURT OF CRIMINAL APPEALS,5,,TX,"STURNS, LOUIS E.",Democrat,1,,,, [V2 party fill TX judicial era (1990)],0.90
+TX,Corpus Christi Caller-Times,145000,1990,GOVERNOR,,,TX,"RICHARDS, ANN",Democrat,1,,,,"1990 GOVERNOR RICHARDS, ANN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,"1990 LAND COMMISSIONER MAURO, GARRY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,LT GOVERNOR,,,TX,"BULLOCK, BOB",Democrat,1,,,,"1990 LT GOVERNOR BULLOCK, BOB (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,RAILROAD COMMISSION,,,TX,"KRUEGER, BOB",Democrat,1,,,, [V2 party fill TX RR era],0.90
+TX,Corpus Christi Caller-Times,145000,1990,SENATOR,,,TX,"GRAMM, PHIL",Republican,1,,1,,"1990 SENATOR GRAMM, PHIL (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,TREASURER,,,TX,"HUTCHISON, KAY BAILEY",Republican,1,,,,"1990 TREASURER HUTCHISON, KAY BAILEY (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1990,TX SUPREME COURT,Chief,,TX,"PHILLIPS, TOM",Republican,1,,1,, [V2 party fill TX judicial era (1990)] [V3 R31 party FIX D→R - Phillips was R Chief Justice],0.90
+TX,Corpus Christi Caller-Times,145000,1990,TX SUPREME COURT,1,,TX,"CORNYN, JOHN",Republican,1,,,, [V2 party fill TX judicial era (1990)] [V3 R31 party FIX D→R - Cornyn R Justice],0.90
+TX,Corpus Christi Caller-Times,145000,1990,TX SUPREME COURT,2,,TX,"GAMMAGE, BOB",Democrat,1,,,, [V2 party fill TX judicial era (1990)],0.90
+TX,Corpus Christi Caller-Times,145000,1992,CNTY COMM,1,Nueces County,TX,"SCHWING, FRANK E.",Democrat,1,,,, [V2 party fill TX CC era],0.90
+TX,Corpus Christi Caller-Times,145000,1992,COURT OF CRIMINAL APPEALS,1,,TX,"BAIRD, CHARLES F. (CHARLIE)",Democrat,1,1,,, [V2 party fill TX judicial era (1992)],0.90
+TX,Corpus Christi Caller-Times,145000,1992,COURT OF CRIMINAL APPEALS,2,,TX,"OVERSTREET, MORRIS L.",Democrat,1,,,, [V2 party fill TX judicial era (1992)],0.90
+TX,Corpus Christi Caller-Times,145000,1992,COURT OF CRIMINAL APPEALS,3,,TX,"BENAVIDES, PETE",Democrat,1,,,, [V2 party fill TX judicial era (1992)],0.90
+TX,Corpus Christi Caller-Times,145000,1992,DA/PROSECUTOR,,Nueces County,TX,"LEWIS, CARL",Democrat,1,,,,"1992 DA/PROSECUTOR LEWIS, CARL (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1992,H,27,,TX,"ORTIZ, SOLOMON P.",Democrat,1,,,,"1992 H ORTIZ, SOLOMON P. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1992,PRESIDENT,,,TX,"CLINTON, BILL",Democrat,1,,,,"1992 PRESIDENT CLINTON, BILL (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1992,RAILROAD COMMISSION,,,TX,"WILLIAMSON, BARRY",Republican,1,,,, [V2 party fill TX RR era] [V3 R41 party FIX D→R per TX historical],0.90
+TX,Corpus Christi Caller-Times,145000,1992,SHERIFF,,Nueces County,TX,"LUBY, J.P.",Democrat,1,,,,"1992 SHERIFF LUBY, J.P. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1992,STATE REP,33,,TX,"CAVAZOS, EDDIE",Democrat,1,,,, [V2 party fill TX STATE REP era],0.90
+TX,Corpus Christi Caller-Times,145000,1992,TX SUPREME COURT,1,,TX,"ENOCH, CRAIG",Republican,1,,,, [V2 party fill TX judicial era (1992)] [V3 R41 party FIX D→R per TX historical],0.90
+TX,Corpus Christi Caller-Times,145000,1992,TX SUPREME COURT,2,,TX,"COOK, EUGENE A.",Republican,1,,,, [V2 party fill TX judicial era (1992)] [V3 R41 party FIX D→R per TX historical],0.90
+TX,Corpus Christi Caller-Times,145000,1992,TX SUPREME COURT,3,,TX,"MONTGOMERY, JOHN D.",Democrat,1,,,, [V2 party fill TX judicial era (1992)],0.90
+TX,Corpus Christi Caller-Times,145000,1994,AGRICULTURE COMMISSIONER,,,TX,"PERRY, RICK",Republican,1,,,,"1994 AGRICULTURE COMMISSIONER PERRY, RICK (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,ATTORNEY GENERAL,,,TX,"MORALES, DAN",Democrat,1,1,,,"1994 ATTORNEY GENERAL MORALES, DAN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,CNTY CLERK,,Nueces County,TX,"SOLIZ, OSCAR",Democrat,1,,,,"1994 CNTY CLERK SOLIZ, OSCAR (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,CNTY COMM,,Nueces County,TX,"ORTIZ, OSCAR O.",Democrat,1,,,,"1994 CNTY COMM ORTIZ, OSCAR O. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,CNTY COMM,,Nueces County,TX,"MCCOMB, JOE",Republican,1,,,,"1994 CNTY COMM MCCOMB, JOE (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,CNTY COMM,2,Nueces County,TX,"BERLANGA SR., DAVID",Democrat,1,,,,"1994 CNTY COMM BERLANGA SR., DAVID (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,CNTY JUDGE,,Nueces County,TX,"BORCHARD, RICHARD",Democrat,1,,,,"1994 CNTY JUDGE BORCHARD, RICHARD (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,COMPTROLLER,,,TX,"SHARP, JOHN",Democrat,1,1,,,"1994 COMPTROLLER SHARP, JOHN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,COURT OF CRIMINAL APPEALS,1,,TX,"CAMPBELL, CHARLES F.",Democrat,1,,,, [V3 R41 party FIX - Charles Campbell COCA R] [V4 REVERT R→D - OCR 1994-11-08 confirms D],0.90
+TX,Corpus Christi Caller-Times,145000,1994,COURT OF CRIMINAL APPEALS,2,,TX,"MARSHALL, BETTY",Democrat,1,,,,"1994 COURT OF CRIMINAL APPEALS MARSHALL, BETTY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,GOVERNOR,,,TX,"RICHARDS, ANN",Democrat,1,1,,,"1994 GOVERNOR RICHARDS, ANN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,H,27,,TX,"ORTIZ, SOLOMON P.",Democrat,1,1,,,"1994 H ORTIZ, SOLOMON P. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,"1994 LAND COMMISSIONER MAURO, GARRY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,LT GOVERNOR,,,TX,"BULLOCK, BOB",Democrat,1,1,,,"1994 LT GOVERNOR BULLOCK, BOB (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,RAILROAD COMMISSION,,,TX,"RYLANDER, CAROLE KEETON",Republican,1,,,,"1994 RAILROAD COMMISSION RYLANDER, CAROLE KEETON (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,RAILROAD COMMISSION,,,TX,"MATTHEWS, CHARLES R.",Republican,1,,,,"1994 RAILROAD COMMISSION MATTHEWS, CHARLES R. (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,SENATOR,,,TX,"HUTCHISON, KAY BAILEY",Republican,1,,,,"1994 SENATOR HUTCHISON, KAY BAILEY (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,STATE BOARD OF ED,2,,TX,"BERLANGA, MARY HELEN",Democrat,1,1,,,"1994 STATE BOARD OF ED BERLANGA, MARY HELEN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,STATE REP,31,,TX,"GALLOWAY, WILL",Republican,1,,,,"1994 STATE REP GALLOWAY, WILL (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,STATE REP,33,,TX,"LUNA, VILMA",Democrat,1,,,,"1994 STATE REP LUNA, VILMA (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,STATE SENATOR,20,,TX,"TRUAN, CARLOS",Democrat,1,,,,"1994 STATE SENATOR TRUAN, CARLOS (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,TREASURER,,,TX,"WHITEHEAD, MARTHA",Democrat,1,,,,"1994 TREASURER WHITEHEAD, MARTHA (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,TX SUPREME COURT,1,,TX,"GONZALEZ, RAUL A.",Democrat,1,,,,"1994 TX SUPREME COURT GONZALEZ, RAUL A. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,TX SUPREME COURT,2,,TX,"PARROTT, ALICE OLIVER",Democrat,1,,,,"1994 TX SUPREME COURT PARROTT, ALICE OLIVER (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1994,TX SUPREME COURT,3,,TX,"CARROLL, JIMMY",Democrat,1,,,,"1994 TX SUPREME COURT CARROLL, JIMMY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1996,CNTY COMM,1,Nueces County,TX,"SCHWING, FRANK E.",Democrat,1,1,,, [V2 party fill TX CC era],0.90
+TX,Corpus Christi Caller-Times,145000,1996,CNTY COMM,2,Nueces County,TX,"GARZA, MARTIN",Democrat,1,,,, [V2 party fill TX CC era],0.90
+TX,Corpus Christi Caller-Times,145000,1996,COURT OF APPEALS,13,13th Court of Appeals,TX,"DORSEY, BONNER",Republican,1,,,,"1996 COURT OF APPEALS DORSEY, BONNER (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1996,COURT OF CRIMINAL APPEALS,1,,TX,"PERKINS, BOB",Republican,1,,,, [V2 party fill TX judicial era (1996)],0.90
+TX,Corpus Christi Caller-Times,145000,1996,COURT OF CRIMINAL APPEALS,2,,TX,"WOMACK, PAUL",Republican,1,,,, [V2 party fill TX judicial era (1996)],0.90
+TX,Corpus Christi Caller-Times,145000,1996,COURT OF CRIMINAL APPEALS,3,,TX,"MALONEY, FRANK",Republican,1,1,,, [V2 party fill TX judicial era (1996)],0.90
+TX,Corpus Christi Caller-Times,145000,1996,DISTRICT COURT JUDGE,28,Nueces County,TX,"PATE, ROBERT",Republican,1,,,, [V2 party fill TX judicial era (1996)],0.90
+TX,Corpus Christi Caller-Times,145000,1996,H,15,,TX,"HINOJOSA, RUBEN",Democrat,1,,,,"1996 H HINOJOSA, RUBEN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1996,H,27,,TX,"ORTIZ, SOLOMON P.",Democrat,1,1,,,"1996 H ORTIZ, SOLOMON P. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1996,PRESIDENT,,,TX,"DOLE, BOB",Republican,1,,,,"1996 PRESIDENT DOLE, BOB (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1996,RAILROAD COMMISSION,,,TX,"RYLANDER, CAROLE KEETON",Republican,1,,,, [V2 party fill TX RR era],0.90
+TX,Corpus Christi Caller-Times,145000,1996,SENATOR,,,TX,"GRAMM, PHIL",Republican,1,,1,,"1996 SENATOR GRAMM, PHIL (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1996,SHERIFF,,Nueces County,TX,"OLIVAREZ, LARRY",Democrat,1,,,,"1996 SHERIFF OLIVAREZ, LARRY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1996,STATE REP,31,,TX,"HAWLEY, JUDY",Democrat,1,,,, [V2 party fill TX STATE REP era],0.90
+TX,Corpus Christi Caller-Times,145000,1996,STATE REP,32,,TX,"EISENHAUER, PAT",Democrat,1,,,, [V2 party fill TX STATE REP era],0.90
+TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,Chief,,TX,"PHILLIPS, TOM",Republican,1,,1,, [V2 party fill TX judicial era (1996)],0.90
+TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,1,,TX,"CORNYN, JOHN",Republican,1,,1,, [V2 party fill TX judicial era (1996)],0.90
+TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,2,,TX,"BAKER, JAMES A.",Republican,1,,,, [V2 party fill TX judicial era (1996)],0.90
+TX,Corpus Christi Caller-Times,145000,1996,TX SUPREME COURT,3,,TX,"ABBOTT, GREG",Republican,1,,,, [V2 party fill TX judicial era (1996)],0.90
+TX,Corpus Christi Caller-Times,145000,1998,AGRICULTURE COMMISSIONER,,,TX,"COMBS, SUSAN",Republican,1,,,,"1998 AGRICULTURE COMMISSIONER COMBS, SUSAN (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,ATTORNEY GENERAL,,,TX,"CORNYN, JOHN",Republican,1,,,,"1998 ATTORNEY GENERAL CORNYN, JOHN (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,CNTY CLERK,,Nueces County,TX,"SOLIZ, OSCAR",Democrat,1,1,,,"1998 CNTY CLERK SOLIZ, OSCAR (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,CNTY JUDGE,,Nueces County,TX,"BORCHARD, RICHARD",Democrat,1,1,,,"1998 CNTY JUDGE BORCHARD, RICHARD (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,COMPTROLLER,,,TX,"HOBBY, PAUL",Democrat,1,,,,"1998 COMPTROLLER HOBBY, PAUL (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,COURT OF CRIMINAL APPEALS,1,,TX,"BAIRD, CHARLES F. (CHARLIE)",Democrat,1,,,,"1998 COURT OF CRIMINAL APPEALS BAIRD, CHARLES F. (CHARLIE) (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,COURT OF CRIMINAL APPEALS,2,,TX,"JOHNSON, CHERYL",Republican,1,,,,"1998 COURT OF CRIMINAL APPEALS JOHNSON, CHERYL (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,COURT OF CRIMINAL APPEALS,3,,TX,"MEYERS, LAWRENCE ""LARRY""",Republican,1,,,,"1998 COURT OF CRIMINAL APPEALS MEYERS, LAWRENCE ""LARRY"" (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,DISTRICT COURT JUDGE,148,Nueces County,TX,"PATE, ROBERT",Republican,1,,1,,"1998 DISTRICT COURT JUDGE PATE, ROBERT (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,DISTRICT COURT JUDGE,319,Nueces County,TX,"GREENWELL, TOM",Republican,1,,,,"1998 DISTRICT COURT JUDGE GREENWELL, TOM (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,GOVERNOR,,,TX,"BUSH, GEORGE W.",Republican,1,,,,"1998 GOVERNOR BUSH, GEORGE W. (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,H,14,,TX,"SNEARY, LOY",Democrat,1,,,,"1998 H SNEARY, LOY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,H,27,,TX,"ORTIZ, SOLOMON P.",Democrat,1,1,,,"1998 H ORTIZ, SOLOMON P. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,LAND COMMISSIONER,,,TX,"RAYMOND, RICHARD",Democrat,1,,,,"1998 LAND COMMISSIONER RAYMOND, RICHARD (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,LT GOVERNOR,,,TX,"SHARP, JOHN",Democrat,1,,,,"1998 LT GOVERNOR SHARP, JOHN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,RAILROAD COMMISSION,,,TX,"GARZA, TONY",Republican,1,,,,"1998 RAILROAD COMMISSION GARZA, TONY (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,SCHOOL BOARD,AT-LARGE,Del Mar Board of Regents,TX,"BARTH, HOWARD E.",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,1998,SCHOOL BOARD,2,Del Mar Board of Regents,TX,"HOELSCHER, BETTE",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,1998,SCHOOL BOARD,5,Del Mar Board of Regents,TX,"DAWOD, HAWOOD",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,1998,STATE BOARD OF ED,2,,TX,"BERLANGA, MARY HELEN",Democrat,1,1,,,"1998 STATE BOARD OF ED BERLANGA, MARY HELEN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,STATE REP,33,,TX,"LUNA, VILMA",Democrat,1,1,,,"1998 STATE REP LUNA, VILMA (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,STATE REP,34,,TX,"CAPELO, JAIME",Democrat,1,,,,"1998 STATE REP CAPELO, JAIME (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,1,,TX,"WESTERGREN, MIKE",Democrat,1,,,,"1998 TX SUPREME COURT WESTERGREN, MIKE (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,2,,TX,"SPECTOR, ROSE",Democrat,1,,,,"1998 TX SUPREME COURT SPECTOR, ROSE (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,3,,TX,"ABBOTT, GREG",Republican,1,,1,,"1998 TX SUPREME COURT ABBOTT, GREG (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1998,TX SUPREME COURT,4,,TX,"HANKINSON, DEBORAH",Republican,1,,,,"1998 TX SUPREME COURT HANKINSON, DEBORAH (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,CNTY COMM,1,Nueces County,TX,"SCHWING, FRANK E.",Democrat,1,,,,"2000 CNTY COMM SCHWING, FRANK E. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,CNTY COMM,3,Nueces County,TX,"ORTIZ, OSCAR O.",Democrat,1,,,,"2000 CNTY COMM ORTIZ, OSCAR O. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,COURT OF APPEALS,13,13th Court of Appeals,TX,"CASTILLO, ERRLINDA",Democrat,1,,,,"2000 COURT OF APPEALS CASTILLO, ERRLINDA (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,COURT OF CRIMINAL APPEALS,1,,TX,"HOLCOMB, CHARLES",Republican,1,,,,"2000 COURT OF CRIMINAL APPEALS HOLCOMB, CHARLES (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,COURT OF CRIMINAL APPEALS,2,,TX,"HERVEY, BARBARA PARKER",Republican,1,,,,"2000 COURT OF CRIMINAL APPEALS HERVEY, BARBARA PARKER (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,COURT OF CRIMINAL APPEALS,Presiding,,TX,"VANCE, BILL",Democrat,1,,,,"2000 COURT OF CRIMINAL APPEALS VANCE, BILL (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,DISTRICT COURT JUDGE,214,Nueces County,TX,"LONGORIA, JOSE",Democrat,1,,,,"2000 DISTRICT COURT JUDGE LONGORIA, JOSE (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,DISTRICT COURT JUDGE,28,Nueces County,TX,"HASETTE, NANETTE",Democrat,1,,,,"2000 DISTRICT COURT JUDGE HASETTE, NANETTE (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,DISTRICT COURT JUDGE,347,Nueces County,TX,"MEDARY, MISSY",Republican,1,,,,"2000 DISTRICT COURT JUDGE MEDARY, MISSY (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,H,14,,TX,"SNEARY, LOY",Democrat,1,1,,,"2000 H SNEARY, LOY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,H,15,,TX,"HINOJOSA, RUBEN",Democrat,1,1,,,"2000 H HINOJOSA, RUBEN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,H,27,,TX,"ORTIZ, SOLOMON P.",Democrat,1,,,,"2000 H ORTIZ, SOLOMON P. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,PRESIDENT,,,TX,"BUSH, GEORGE W.",Republican,1,,,,"2000 PRESIDENT BUSH, GEORGE W. (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,RAILROAD COMMISSION,,,TX,"MATTHEWS, CHARLES R.",Republican,1,,,,"2000 RAILROAD COMMISSION MATTHEWS, CHARLES R. (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,RAILROAD COMMISSION,,,TX,"WILLIAMS, MICHAEL L.",Republican,1,,,, [unexpired term seat],0.90
+TX,Corpus Christi Caller-Times,145000,2000,SCHOOL BOARD,"Del Mar Board of Regents, At-large",,TX,"WHITTLE, WILLIAM A.",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2000,SCHOOL BOARD,1,Del Mar Board of Regents,TX,"DIAZ, RALPH",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2000,SCHOOL BOARD,4,Del Mar Board of Regents,TX,"GURLEY, HELEN R.",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2000,SENATOR,,,TX,"HUTCHISON, KAY BAILEY",Republican,1,,1,,"2000 SENATOR HUTCHISON, KAY BAILEY (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,TX SUPREME COURT,1,,TX,"HECHT, NATHAN",Republican,1,,,,"2000 TX SUPREME COURT HECHT, NATHAN (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,TX SUPREME COURT,2,,TX,"HANKINSON, DEBORAH",Republican,1,,1,,"2000 TX SUPREME COURT HANKINSON, DEBORAH (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2000,TX SUPREME COURT,3,,TX,"GONZALES, AL",Republican,1,,,,"2000 TX SUPREME COURT GONZALES, AL (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,AGRICULTURE COMMISSIONER,,,TX,"COMBS, SUSAN",Republican,1,,1,,"2002 AGRICULTURE COMMISSIONER COMBS, SUSAN (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,ATTORNEY GENERAL,,,TX,"WATSON, KIRK",Democrat,1,,,,"2002 ATTORNEY GENERAL WATSON, KIRK (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,CNTY CLERK,,Nueces County,TX,"PEREZ, PATSY",Democrat,1,,,,"2002 CNTY CLERK PEREZ, PATSY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,CNTY COMM,,Nueces County,TX,"CAZALAS, CHUCK",Republican,1,,,,"2002 CNTY COMM CAZALAS, CHUCK (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,CNTY JUDGE,,Nueces County,TX,"MCCOMB, JOE",Republican,1,,,,"2002 CNTY JUDGE MCCOMB, JOE (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,COMPTROLLER,,,TX,"RYLANDER, CAROLE KEETON",Republican,1,,,,"2002 COMPTROLLER RYLANDER, CAROLE KEETON (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,COURT OF APPEALS,13,13th Court of Appeals,TX,"GARZA, DORI CONTRERAS",Democrat,1,,,,"2002 COURT OF APPEALS GARZA, DORI CONTRERAS (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,COURT OF CRIMINAL APPEALS,1,,TX,"PRICE, TOM",Republican,1,,,,"2002 COURT OF CRIMINAL APPEALS PRICE, TOM (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,COURT OF CRIMINAL APPEALS,2,,TX,"WOMACK, PAUL",Republican,1,,1,,"2002 COURT OF CRIMINAL APPEALS WOMACK, PAUL (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,COURT OF CRIMINAL APPEALS,3,,TX,"COCHRAN, CATHY",Republican,1,,,,"2002 COURT OF CRIMINAL APPEALS COCHRAN, CATHY (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,DISTRICT COURT JUDGE,319,Nueces County,TX,"GREENWELL, TOM",Republican,1,,1,,"2002 DISTRICT COURT JUDGE GREENWELL, TOM (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,GOVERNOR,,,TX,"SANCHEZ, TONY",Democrat,1,,,,"2002 GOVERNOR SANCHEZ, TONY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,LAND COMMISSIONER,,,TX,"BERNSEN, DAVID",Democrat,1,,,,"2002 LAND COMMISSIONER BERNSEN, DAVID (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,LT GOVERNOR,,,TX,"SHARP, JOHN",Democrat,1,1,,,"2002 LT GOVERNOR SHARP, JOHN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,RAILROAD COMMISSION,,,TX,"WILLIAMS, MICHAEL L.",Republican,1,,,,"2002 RAILROAD COMMISSION WILLIAMS, MICHAEL L. (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,SCHOOL BOARD,AT-LARGE,Del Mar Board of Regents,TX,"MUNOZ, JACOB",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2002,SCHOOL BOARD,AT-LARGE,Del Mar Board of Regents,TX,"DIAZ, RALPH",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2002,SENATOR,,,TX,"CORNYN, JOHN",Republican,1,,,,"2002 SENATOR CORNYN, JOHN (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,32,,TX,"MILLER, JOSEPHINE",Democrat,1,,,,"2002 STATE REP MILLER, JOSEPHINE (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,33,,TX,"LUNA, VILMA",Democrat,1,1,,,"2002 STATE REP LUNA, VILMA (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,34,,TX,"CAPELO, JAIME",Democrat,1,1,,,"2002 STATE REP CAPELO, JAIME (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,35,,TX,"CANALES, GABI",Democrat,1,,,,"2002 STATE REP CANALES, GABI (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,STATE REP,43,,TX,"RANGEL, IRMA",Democrat,1,,,,"2002 STATE REP RANGEL, IRMA (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,Chief,,TX,"PHILLIPS, TOM",Republican,1,,1,,"2002 TX SUPREME COURT PHILLIPS, TOM (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,1,,TX,"YANEZ, LINDA",Republican,1,,,, [V2 party fill TX judicial era (2002)],0.90
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,2,,TX,"WAINWRIGHT, DALE",Republican,1,,,,"2002 TX SUPREME COURT WAINWRIGHT, DALE (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,3,,TX,"JEFFERSON, WALLACE",Republican,1,,,,"2002 TX SUPREME COURT JEFFERSON, WALLACE (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2002,TX SUPREME COURT,4,,TX,"MIRABAL, MARGARET",Democrat,1,,,,"2002 TX SUPREME COURT MIRABAL, MARGARET (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,AT-LARGE,Corpus Christi,TX,"MAGILL, CHAD",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,AT-LARGE,Corpus Christi,TX,"MCCOMB, JOE",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,AT-LARGE,Corpus Christi,TX,"HUNTER, MICHAEL",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,1,Corpus Christi,TX,"VAUGHN, CAROLYN",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,2,Corpus Christi,TX,"ROSAS, BRIAN",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,3,Corpus Christi,TX,"RUBIO, LUCY",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,CITY COUNCIL,4,Corpus Christi,TX,"SMITH, GREG",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,CNTY COMM,1,Nueces County,TX,"PUSLEY, MIKE",Republican,1,,,,"2016 CNTY COMM PUSLEY, MIKE (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,COURT OF APPEALS,13,13th Court of Appeals,TX,"PERKES, GREG",Republican,1,,,,"2016 COURT OF APPEALS PERKES, GREG (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,COURT OF CRIMINAL APPEALS,2,,TX,"MEYERS, LAWRENCE ""LARRY""",Democrat,1,,,,"2016 COURT OF CRIMINAL APPEALS MEYERS, LAWRENCE ""LARRY"" (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,COURT OF CRIMINAL APPEALS,5,,TX,"WALKER, SCOTT",Republican,1,,,,"2016 COURT OF CRIMINAL APPEALS WALKER, SCOTT (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,COURT OF CRIMINAL APPEALS,6,,TX,"KEASLER, MICHAEL",Republican,1,,,,"2016 COURT OF CRIMINAL APPEALS KEASLER, MICHAEL (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,DA/PROSECUTOR,,Nueces County,TX,"GONZALEZ, MARK",Democrat,1,,,,"2016 DA/PROSECUTOR GONZALEZ, MARK (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,DISTRICT COURT JUDGE,214,Nueces County,TX,"KLEIN, INNA",Republican,1,,,,"2016 DISTRICT COURT JUDGE KLEIN, INNA (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,H,27,,TX,"BARRERA, RAUL ""ROY""",Democrat,1,,,,"2016 H BARRERA, RAUL ""ROY"" (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,MAYOR,,Corpus Christi,TX,"MARTINEZ, NELDA",Nonpartisan,1,,,,"2016 MAYOR MARTINEZ, NELDA (Nonpartisan) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,PRESIDENT,,,TX,"CLINTON, HILLARY",Democrat,1,,,,"2016 PRESIDENT CLINTON, HILLARY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,RAILROAD COMMISSION,,,TX,"MILLER, MARK",Libertarian,1,,,,"2016 RAILROAD COMMISSION MILLER, MARK (Libertarian) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,AT-LARGE,CCISD,TX,"ARMADILLO, A. TOTSY",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,AT-LARGE,CCISD,TX,"UPSHAW-HAWKINS, ALICE",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,AT-LARGE,CCISD,TX,"BELL, JANIE",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,AT-LARGE,Del Mar College,TX,"MCCAMPBELL, TREY",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,SCHOOL BOARD,5,Del Mar Board of Regents,TX,"BOGGS, JIM",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2016,SHERIFF,,Nueces County,TX,"KAELIN, JIM",Republican,1,,,,"2016 SHERIFF KAELIN, JIM (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,STATE SENATOR,20,,TX,"HINOJOSA, JUAN ""CHUY""",Democrat,1,,,,"2016 STATE SENATOR HINOJOSA, JUAN ""CHUY"" (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,TX SUPREME COURT,3,,TX,"LEHRMANN, DEBRA",Republican,1,,,,"2016 TX SUPREME COURT LEHRMANN, DEBRA (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,TX SUPREME COURT,5,,TX,"GARZA, DORI CONTRERAS",Democrat,1,,,,"2016 TX SUPREME COURT GARZA, DORI CONTRERAS (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2016,TX SUPREME COURT,9,,TX,"GUZMAN, EVA",Republican,1,,,,"2016 TX SUPREME COURT GUZMAN, EVA (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,AGRICULTURE COMMISSIONER,,,TX,"OLSON, KIM",Democrat,1,,,,"2018 AGRICULTURE COMMISSIONER OLSON, KIM (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,ATTORNEY GENERAL,,,TX,"NELSON, JUSTIN",Democrat,1,,,,"2018 ATTORNEY GENERAL NELSON, JUSTIN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,AT-LARGE,Corpus Christi,TX,"GARCIA, JOHN",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,AT-LARGE,Corpus Christi,TX,"HUNTER, MICHAEL",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,AT-LARGE,Corpus Christi,TX,"GUAJARDO, PAULETTE",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,1,Corpus Christi,TX,"FIRO, JULIAN",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,2,Corpus Christi,TX,"MOLINA, BEN",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,3,Corpus Christi,TX,"BARRERA, ROLAND",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,4,Corpus Christi,TX,"SMITH, GREG",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,CITY COUNCIL,5,Corpus Christi,TX,"RODRIGUEZ, ERIC",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,CNTY CLERK,,Nueces County,TX,"SANDS, KARA",Republican,1,,,,"2018 CNTY CLERK SANDS, KARA (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,CNTY CLERK,,Nueces County,TX,"LORENTZEN, ANNE",Republican,1,,,,"2018 CNTY CLERK LORENTZEN, ANNE (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,CNTY COMM,1,Nueces County,TX,"VAUGHN, CAROLYN",Republican,1,,,,"2018 CNTY COMM VAUGHN, CAROLYN (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,CNTY JUDGE,,Nueces County,TX,"CANALES, BARBARA",Democrat,1,,,,"2018 CNTY JUDGE CANALES, BARBARA (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,COMPTROLLER,,,TX,"HEGAR, GLENN",Republican,1,,,,"2018 COMPTROLLER HEGAR, GLENN (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,13,13th Court of Appeals,TX,"CONTRERAS, DORI",Democrat,1,,,,"2018 COURT OF APPEALS CONTRERAS, DORI (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,13,13th Court of Appeals,TX,"PERKES, GREG",Republican,1,,1,,"2018 COURT OF APPEALS PERKES, GREG (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,13,13th Court of Appeals,TX,"TIJERINA, JAIME",Republican,1,,,,"2018 COURT OF APPEALS TIJERINA, JAIME (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF APPEALS,13,13th Court of Appeals,TX,"BENAVIDES, GINA",Democrat,1,,,,"2018 COURT OF APPEALS BENAVIDES, GINA (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF CRIMINAL APPEALS,7,,TX,"HERVEY, BARBARA PARKER",Republican,1,,,, [V2 party fill TX judicial era (2018)],0.90
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF CRIMINAL APPEALS,8,,TX,"SLAUGHTER, MICHELLE",Republican,1,,,, [V2 party fill TX judicial era (2018)],0.90
+TX,Corpus Christi Caller-Times,145000,2018,COURT OF CRIMINAL APPEALS,Presiding,,TX,"JACKSON, MARIA T. ""TERRI""",Democrat,1,,,,"2018 COURT OF CRIMINAL APPEALS JACKSON, MARIA T. ""TERRI"" (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,DISTRICT COURT JUDGE,105,Nueces County,TX,"PULCHER, JACK",Republican,1,,,,"2018 DISTRICT COURT JUDGE PULCHER, JACK (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,DISTRICT COURT JUDGE,148,Nueces County,TX,"VALDEZ, CARLOS",Democrat,1,,,,"2018 DISTRICT COURT JUDGE VALDEZ, CARLOS (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,GOVERNOR,,,TX,"ABBOTT, GREG",Republican,1,,,,"2018 GOVERNOR ABBOTT, GREG (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,H,27,,TX,"CLOUD, MICHAEL",Republican,1,,,,"2018 H CLOUD, MICHAEL (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,JUDGE,Court-at-law No. 1,,TX,"VARGAS, ROBERT",Democrat,1,,,,"2018 JUDGE VARGAS, ROBERT (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,LAND COMMISSIONER,,,TX,"BUSH, GEORGE P.",Republican,1,,,,"2018 LAND COMMISSIONER BUSH, GEORGE P. (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,LT GOVERNOR,,,TX,"COLLIER, MIKE",Democrat,1,,,,"2018 LT GOVERNOR COLLIER, MIKE (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,MAYOR,,Corpus Christi,TX,"CAMPBELL, AISLYNN",Nonpartisan,1,,,,"2018 MAYOR CAMPBELL, AISLYNN (Nonpartisan) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,RAILROAD COMMISSION,,,TX,"CRADDICK, CHRISTI",Republican,1,,,,"2018 RAILROAD COMMISSION CRADDICK, CHRISTI (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,1,Corpus Christi,TX,"TAYLOR, LAMONT",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,3,Corpus Christi,TX,"CLARK, CURTIS",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,"Del Mar College Board of Regents, At large",,TX,"MESSBARGER, SANDRA",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,SCHOOL BOARD,1,Del Mar Board of Regents,TX,"RIVAS, GABE",Nonpartisan,1,,,, [V2 party fill: SB/CC nonpartisan in TX],0.90
+TX,Corpus Christi Caller-Times,145000,2018,SENATOR,,,TX,"O'ROURKE, BETO",Democrat,1,,,,"2018 SENATOR O'ROURKE, BETO (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,STATE BOARD OF ED,2,,TX,"JR., RUBEN CORTEZ",Democrat,1,,,,"2018 STATE BOARD OF ED JR., RUBEN CORTEZ (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,STATE REP,34,,TX,"HERRERO, ABEL",Democrat,1,,,,"2018 STATE REP HERRERO, ABEL (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,STATE REP,43,,TX,"LOZANO, J.M.",Republican,1,,,,"2018 STATE REP LOZANO, J.M. (Republican) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,TX SUPREME COURT,2,,TX,"KIRKLAND, STEVEN",Democrat,1,,,,"2018 TX SUPREME COURT KIRKLAND, STEVEN (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,TX SUPREME COURT,4,,TX,"SANDILL, R.K.",Democrat,1,,,,"2018 TX SUPREME COURT SANDILL, R.K. (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,2018,TX SUPREME COURT,6,,TX,"CHENG, KATHY",Democrat,1,,,,"2018 TX SUPREME COURT CHENG, KATHY (Democrat) endorsed=1 [V6 notes fill]",0.90
+TX,Corpus Christi Caller-Times,145000,1952,PRESIDENT,,,TX,"STEVENSON, ADLAI E.",Democrat,0,,,,Pattern A historical - Eisenhower R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1976,PRESIDENT,,,TX,"FORD, GERALD R.",Republican,0,,,,Pattern A historical - Carter D endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1976,VICE PRESIDENT,,,TX,"MONDALE, WALTER F.",Democrat,1,,,,VP Pattern A - Carter ticket (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1976,VICE PRESIDENT,,,TX,"DOLE, ROBERT",Republican,0,,,,VP Pattern A - Ford opp (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1980,PRESIDENT,,,TX,"ANDERSON, JOHN",Independent,0,,,,Pattern A historical - Anderson Ind (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1980,VICE PRESIDENT,,,TX,"BUSH, GEORGE",Republican,1,,,,VP Pattern A - Reagan ticket (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1980,VICE PRESIDENT,,,TX,"MONDALE, WALTER F.",Democrat,0,1,,,VP Pattern A - Carter ticket opp (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1984,PRESIDENT,,,TX,"MONDALE, WALTER F.",Democrat,0,,,,Pattern A historical - Reagan R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1984,VICE PRESIDENT,,,TX,"FERRARO, GERALDINE",Democrat,0,,,,VP Pattern A - Mondale ticket (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1988,PRESIDENT,,,TX,"DUKAKIS, MICHAEL",Democrat,0,,,,Pattern A historical - Bush R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1988,VICE PRESIDENT,,,TX,"QUAYLE, DAN",Republican,1,,,,VP Pattern A - Bush ticket (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1988,VICE PRESIDENT,,,TX,"BENTSEN, LLOYD",Democrat,0,,,,VP Pattern A - Dukakis ticket opp (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1992,PRESIDENT,,,TX,"BUSH, GEORGE",Republican,0,,1,,Pattern A historical - Clinton D endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1992,PRESIDENT,,,TX,"PEROT, ROSS",Independent,0,,,,Pattern A historical - Perot Independent (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1992,VICE PRESIDENT,,,TX,"GORE, AL",Democrat,1,,,,VP Pattern A - Clinton ticket (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1992,VICE PRESIDENT,,,TX,"QUAYLE, DAN",Republican,0,,1,,VP Pattern A - Bush ticket opp (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1996,PRESIDENT,,,TX,"CLINTON, BILL",Democrat,0,1,,,Pattern A historical - Dole R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1996,VICE PRESIDENT,,,TX,"KEMP, JACK",Republican,1,,,,VP Pattern A - Dole ticket (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1996,VICE PRESIDENT,,,TX,"GORE, AL",Democrat,0,1,,,VP Pattern A - Clinton ticket opp (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2000,PRESIDENT,,,TX,"GORE, AL",Democrat,0,,,,Pattern A historical - Bush R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2000,VICE PRESIDENT,,,TX,"CHENEY, DICK",Republican,1,,,,VP Pattern A - Bush ticket (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2000,VICE PRESIDENT,,,TX,"LIEBERMAN, JOSEPH",Democrat,0,,,,VP Pattern A - Gore ticket opp (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2016,PRESIDENT,,,TX,"TRUMP, DONALD",Republican,0,,,,Pattern A historical - Clinton D endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2016,VICE PRESIDENT,,,TX,"KAINE, TIM",Democrat,1,,,,VP Pattern A - Clinton ticket (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2016,VICE PRESIDENT,,,TX,"PENCE, MIKE",Republican,0,,,,VP Pattern A - Trump ticket opp (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1966,SENATOR,,,TX,"TOWER, JOHN",Republican,0,,,,Pattern A historical - Carr D endorsed; Tower R incumbent who won (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1976,SENATOR,,,TX,"STEELMAN, ALAN",Republican,0,,,,Pattern A historical - Bentsen D endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1978,SENATOR,,,TX,"KRUEGER, ROBERT",Democrat,0,,,,Pattern A historical - Tower R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1982,SENATOR,,,TX,"COLLINS, JAMES",Republican,0,,,,Pattern A historical - Bentsen D endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1984,SENATOR,,,TX,"DOGGETT, LLOYD",Democrat,0,,,,Pattern A historical - Gramm R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1988,SENATOR,,,TX,"BOULTER, BEAU",Republican,0,,,,Pattern A historical - Bentsen D endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1990,SENATOR,,,TX,"PARMER, HUGH",Democrat,0,,,,Pattern A historical - Gramm R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1994,SENATOR,,,TX,"FISCHER, RICHARD",Democrat,0,,,,Pattern A historical - Hutchison R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1996,SENATOR,,,TX,"MORALES, VICTOR",Democrat,0,,,,Pattern A historical - Gramm R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2000,SENATOR,,,TX,"KELLY, GENE",Democrat,0,,,,Pattern A historical - Hutchison R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2002,SENATOR,,,TX,"KIRK, RON",Democrat,0,,,,Pattern A historical - Cornyn R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2018,SENATOR,,,TX,"CRUZ, TED",Republican,0,,,,Pattern A historical - O'Rourke D endorsed; Cruz R won (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1962,GOVERNOR,,,TX,"COX, JACK",Republican,0,,,,Pattern A historical - Connally D endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1972,GOVERNOR,,,TX,"GROVER, HENRY",Republican,0,,,,Pattern A historical - Briscoe D endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1978,GOVERNOR,,,TX,"CLEMENTS, BILL",Republican,0,,,,Pattern A historical - Hill D endorsed; Clements won (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1982,GOVERNOR,,,TX,"WHITE, MARK",Democrat,0,,,,Pattern A historical - Clements R endorsed; White won (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1990,GOVERNOR,,,TX,"WILLIAMS, CLAYTON",Republican,0,,,,Pattern A historical - Richards D endorsed; per OCR Williams R was opp (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1994,GOVERNOR,,,TX,"BUSH, GEORGE W.",Republican,0,,,,Pattern A historical - Richards D endorsed; Bush won (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1998,GOVERNOR,,,TX,"MAURO, GARRY",Democrat,0,,,,Pattern A historical - Bush W. R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2002,GOVERNOR,,,TX,"PERRY, RICK",Republican,0,,,,Pattern A historical - Sanchez D endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,2018,GOVERNOR,,,TX,"VALDEZ, LUPE",Democrat,0,,,,Pattern A historical - Abbott R endorsed (V4 backfill),0.85
+TX,Corpus Christi Caller-Times,145000,1978,LT GOVERNOR,,,TX,"STEVENSON, NANCY",Democrat,0,,,,Pattern A historical - paper endorsed Hobby D (likely from primary) (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1978,ATTORNEY GENERAL,,,TX,"FLOWERS, JIM",Republican,0,,,,Pattern A historical - White D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1982,ATTORNEY GENERAL,,,TX,"MYERS, DONALD",Republican,0,,,,Pattern A historical - Mattox D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1990,ATTORNEY GENERAL,,,TX,"SMITH, JIM",Republican,0,,,,Pattern A historical - Morales D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,2002,ATTORNEY GENERAL,,,TX,"ABBOTT, GREG",Republican,0,,,,Pattern A historical - Watson D endorsed; Abbott R won (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1982,COMPTROLLER,,,TX,"HENNEKE, RANDY",Republican,0,,,,Pattern A - Bullock D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1990,COMPTROLLER,,,TX,"BROWN, WARREN",Republican,0,,,,Pattern A - Sharp D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1994,COMPTROLLER,,,TX,"RYAN, TERESA DOGGETT",Republican,0,,,,Pattern A - Sharp D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1982,TREASURER,,,TX,"HUTCHISON, KAY BAILEY",Republican,0,,,,Pattern A - Richards D endorsed; Hutchison won later (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1990,TREASURER,,,TX,"ATKISON, NIKKI",Democrat,0,,,,Pattern A - Hutchison R endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1990,AGRICULTURE COMMISSIONER,,,TX,"PERRY, RICK",Republican,0,,,,Pattern A - Hightower D endorsed; Perry R won later (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1994,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,0,1,,,Pattern A - Perry R endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1998,AGRICULTURE COMMISSIONER,,,TX,"SHARP, JOHN",Democrat,0,,,,Pattern A - Combs R endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,2002,AGRICULTURE COMMISSIONER,,,TX,"RAMSAY, TOM",Democrat,0,,,,Pattern A - Combs R endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1990,LAND COMMISSIONER,,,TX,"BUSHNELL, WES",Republican,0,,,,Pattern A - Mauro D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1994,LAND COMMISSIONER,,,TX,"NICHOLS, MARTA",Republican,0,,,,Pattern A - Mauro D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,2002,LAND COMMISSIONER,,,TX,"PATTERSON, JERRY",Republican,0,,,,Pattern A - Bernsen D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1982,RAILROAD COMMISSION,,,TX,"SMITH, BUSTER",Republican,0,,,,Pattern A - Nugent D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1984,RAILROAD COMMISSION,,,TX,"SMITH, BURT",Republican,0,,,,Pattern A - Wallace D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1986,RAILROAD COMMISSION,,,TX,"DIETER, BOB",Republican,0,,,,Pattern A - Sharp D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1990,RAILROAD COMMISSION,,,TX,"WALLACE, BARRY",Republican,0,,,,Pattern A - Krueger D endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1992,RAILROAD COMMISSION,,,TX,"JEFFREY, RICHARD",Democrat,0,,,,Pattern A - Williamson R endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1996,RAILROAD COMMISSION,,,TX,"HENDERSON, JAMES",Democrat,0,,,,Pattern A - Rylander R endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1998,RAILROAD COMMISSION,,,TX,"HENRY, RAY",Democrat,0,,,,Pattern A - Garza R endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,2000,RAILROAD COMMISSION,,,TX,"SAVAGE, LON BURNAM",Democrat,0,,,,Pattern A - Matthews R endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,2002,RAILROAD COMMISSION,,,TX,"HENRY, RAY",Democrat,0,,,,Pattern A - Williams R endorsed (V4 R101 backfill),0.80
+TX,Corpus Christi Caller-Times,145000,1976,H,14,SC 14th Congressional,TX,"BAKER, GARY",Republican,0,,,,Pattern A historical - Young D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,1978,H,14,SC 14th Congressional,TX,WYATT OPP,Republican,0,,,,Pattern A - Wyatt D endorsed; opp R (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,1982,H,27,SC 27th Congressional,TX,"BOOTHE, JASON",Republican,0,,,,Pattern A - Ortiz D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,1984,H,27,SC 27th Congressional,TX,"SHEARMAN, JASON",Republican,0,,,,Pattern A - Ortiz D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,1992,H,27,SC 27th Congressional,TX,"BLOMQUIST, JAMES",Republican,0,,,,Pattern A - Ortiz D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,1994,H,27,SC 27th Congressional,TX,"WILSON, ERROL",Republican,0,,,,Pattern A - Ortiz D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,1996,H,27,SC 27th Congressional,TX,"BLOMQUIST, JAMES",Republican,0,,,,Pattern A - Ortiz D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,1996,H,15,SC 15th Congressional,TX,"HAUEISEN, TOM",Republican,0,,,,Pattern A - Hinojosa D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,1998,H,14,SC 14th Congressional,TX,"PAUL, RON",Republican,0,,,,Pattern A - Sneary D endorsed; Paul R won (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,1998,H,27,SC 27th Congressional,TX,"BLAY-MILLER, ERROL",Republican,0,,,,Pattern A - Ortiz D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,2000,H,14,SC 14th Congressional,TX,"PAUL, RON",Republican,0,,,,Pattern A - Sneary D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,2000,H,15,SC 15th Congressional,TX,"SCHIRA, JIM",Republican,0,,,,Pattern A - Hinojosa D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,2000,H,27,SC 27th Congressional,TX,"DUBOIS, GLORIA",Republican,0,,,,Pattern A - Ortiz D endorsed (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,2016,H,27,SC 27th Congressional,TX,"FARENTHOLD, BLAKE",Republican,0,,,,Pattern A - Barrera D endorsed; Farenthold R 3-time incumbent won (V5 R181 backfill),0.75
+TX,Corpus Christi Caller-Times,145000,2018,H,27,SC 27th Congressional,TX,"HOLGUIN, RAUL",Democrat,0,,,,Pattern A - Cloud R endorsed (V5 R181 backfill),0.75

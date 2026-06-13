@@ -1,68 +1,67 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-IL,Decatur Daily Review,111302,1964,SENATOR,28,28th,IL,"COLBURN, RALPH M.",Republican,1,,,,State Senator 28th District; editorial endorses Colburn over incumbent McCarthy who has 'failed to live up to his potential',0.9
-IL,Decatur Daily Review,111302,1964,STATE SENATOR,28,28th,IL,"COLBURN, RALPH M.",Republican,1,,,,"'We recommend that he be replaced as senator from the 28th District by Ralph M. Colburn, R-Decatur'",0.97
-IL,Decatur Daily Review,111302,1964,STATE SENATOR,28,28th,IL,"MCCARTHY, ROBERT W.",Democrat,0,1,,,Incumbent opposed; 'failed to live up to his potential',0.95
+IL,Decatur Daily Review,111302,1964,STATE SENATOR,28,,IL,"COLBURN, RALPH M.",Republican,1,,,,State Senator 28th District; editorial endorses Colburn over incumbent McCarthy who has 'failed to live up to his potential' [V2 office SENATOR→STATE SENATOR - IL state senate dist 28],0.9
+IL,Decatur Daily Review,111302,1964,STATE SENATOR,28,,IL,"MCCARTHY, ROBERT W.",Democrat,0,1,,,Incumbent opposed; 'failed to live up to his potential',0.95
 IL,Decatur Daily Review,111302,1964,ATTORNEY GENERAL,,,IL,"SANDQUIST, ELROY C. JR.",Republican,1,,,,"'we cannot believe that Attorney General William Clark deserves re-election on his record in office, so we mark for the Republican challenger, Elroy C. Sandquist, Jr.'",0.97
 IL,Decatur Daily Review,111302,1964,ATTORNEY GENERAL,,,IL,"CLARK, WILLIAM G.",Democrat,0,1,,,Incumbent opposed for Attorney General,0.9
 IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,4,4th Judicial District,IL,"SMITH, SAMUEL O.",Republican,1,,,,"'we recommend the election of two experienced judges, Samuel O. Smith and Stanley Thomas, Republicans'",0.95
 IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,4,4th Judicial District,IL,"THOMAS, STANLEY",Republican,1,,,,Same recommendation as Smith,0.95
 IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,4,4th Judicial District,IL,"TRAPP, HAROLD F.",Democrat,1,,,,"'a veteran attorney well liked in his profession, Harold F. Trapp, Democrat'",0.95
-IL,Decatur Daily Review,111302,1964,H,22,22nd,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,"'The 22nd Congressional District should return Rep. William H. Springer, Republican, to Washington for an eighth term'",0.97
+IL,Decatur Daily Review,111302,1964,H,22,22nd Congressional District,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,"'The 22nd Congressional District should return Rep. William H. Springer, Republican, to Washington for an eighth term'",0.97
 IL,Decatur Daily Review,111302,1964,PRESIDENT,,,IL,"JOHNSON, LYNDON B.",Democrat,1,1,,,Editorial endorses Johnson for President; criticism of Goldwater's attitudes and equipment for office; 'President Johnson merits a term in his own right',0.95
 IL,Decatur Daily Review,111302,1964,VICE PRESIDENT,,,IL,"HUMPHREY, HUBERT H.",Democrat,1,,,,Running mate of endorsed Johnson,0.9
-IL,Decatur Daily Review,111302,1964,AUDITOR,,,IL,"HOWLETT, MICHAEL J.",Democrat,1,,,,"State Auditor - 'Howlett, a Democrat, is preferred for state auditor on his record.'",0.95
+IL,Decatur Daily Review,111302,1964,AUDITOR,,,IL,"HOWLETT, MICHAEL J.",Democrat,1,,,,"State Auditor - 'Howlett, a Democrat, is preferred for state auditor on his record.' [V2 dname cleared - state office not county]",0.95
 IL,Decatur Daily Review,111302,1964,TRUSTEE,,University of Illinois,IL,"CLEMENT, HOWARD W.",Democrat,1,1,,,U of I Trustee; Democratic incumbent recommended on basis of conscientious and meritorious service,0.9
 IL,Decatur Daily Review,111302,1964,TRUSTEE,,University of Illinois,IL,"JONES, THEODORE A.",Democrat,1,1,,,U of I Trustee; appointed by governor to fill a vacancy; recommended,0.9
 IL,Decatur Daily Review,111302,1964,TRUSTEE,,University of Illinois,IL,"POGUE, HAROLD",Democrat,1,1,,,U of I Trustee incumbent; 'Harold Pogue is completing a term on the board',0.85
-IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,5,5th District,IL,"KUNCE, PEYTON C.",Republican,1,,,,"'In the Fifth District, which is Southern Illinois, we recommend votes for Peyton C. Kunce and Sanford S. Meyer, Republicans, and Joseph H. Goldenhursh, a Democrat'",0.95
-IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,5,5th District,IL,"MEYER, SANFORD S.",Republican,1,,,,5th Appellate Court District,0.95
-IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,5,5th District,IL,"GOLDENHERSH, JOSEPH H.",Democrat,1,,,,5th Appellate Court District - Democrat recommended,0.95
+IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,5,5th Judicial District,IL,"KUNCE, PEYTON C.",Republican,1,,,,"'In the Fifth District, which is Southern Illinois, we recommend votes for Peyton C. Kunce and Sanford S. Meyer, Republicans, and Joseph H. Goldenhursh, a Democrat'",0.95
+IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,5,5th Judicial District,IL,"MEYER, SANFORD S.",Republican,1,,,,5th Appellate Court District,0.95
+IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,5,5th Judicial District,IL,"GOLDENHERSH, JOSEPH H.",Democrat,1,,,,5th Appellate Court District - Democrat recommended,0.95
 IL,Decatur Daily Review,111302,1964,JUDGE,6,6th Judicial Circuit,IL,"MORGAN, BIRCH",Nonpartisan,1,1,,,Incumbent Circuit Court judge to be retained under new Judicial Article provisions,0.85
 IL,Decatur Daily Review,111302,1964,JUDGE,6,6th Judicial Circuit,IL,"MORTHLAND, MARTIN E.",Nonpartisan,1,,1,,Incumbent Circuit Court judge to be retained,0.85
 IL,Decatur Daily Review,111302,1964,JUDGE,6,6th Judicial Circuit,IL,"SCOTT, RODNEY",Nonpartisan,1,,,,Incumbent Circuit Court judge to be retained,0.85
 IL,Decatur Daily Review,111302,1964,DA/PROSECUTOR,,Macon County,IL,"GREANIAS, BASIL G.",Democrat,1,,,,State's Attorney - running uncontested; editorial supports incumbent county officials who served well,0.8
 IL,Decatur Daily Review,111302,1966,SENATOR,,,IL,"PERCY, CHARLES H.",Republican,1,,,,Editorial describes both Douglas and Percy as outstanding candidates; paper endorsed Percy in prior year for governor; ballot recap shows Percy as recommended,0.9
-IL,Decatur Daily Review,111302,1966,TREASURER,,,IL,"STEVENSON, ADLAI E. III",Democrat,1,,,,State Treasurer; editorial endorses Stevenson - 'a blue ribbon legislator',0.92
+IL,Decatur Daily Review,111302,1966,TREASURER,,Macon County,IL,"STEVENSON, ADLAI E. III",Democrat,1,,,,State Treasurer; editorial endorses Stevenson - 'a blue ribbon legislator' [V2 dname cleared - state office not county],0.92
 IL,Decatur Daily Review,111302,1966,SUPERINTENDENT,,,IL,"PRINCE, DONALD",Democrat,1,,,,Superintendent of Public Instruction; second endorsement of Prince - 'Donald Prince...has the capacity to administer the office of superintendent of public instruction creatively',0.97
 IL,Decatur Daily Review,111302,1966,SUPERINTENDENT,,,IL,"PAGE, RAY",Republican,0,,1,,GOP incumbent opposed; broke pledge to work for state school board; lobbied against legislation,0.95
 IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"WATKINS, FRANCES BEST",Democrat,1,1,,,"U of I Trustee; 'We endorse the two Democratic incumbents, Kenney Williamson and Mrs. Frances Best Watkins'",0.95
 IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"WILLIAMSON, KENNEY E.",Democrat,1,1,,,U of I Trustee Democratic incumbent endorsed,0.95
 IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"GRIMES, DONALD R.",Republican,1,,,,"Donald Grimes of Evanston, head of IGA Food Stores - 'whose sound business experience should serve the board well'",0.93
-IL,Decatur Daily Review,111302,1966,H,22,22nd,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,"'on the basis of his seniority and position as ranking minority member of the House Commerce Committee, Mr. Springer is recommended' for 9th term",0.95
-IL,Decatur Daily Review,111302,1966,STATE SENATOR,50,50th,IL,"MCCARTHY, ROBERT W.",Democrat,1,1,,,State Senator 50th District; marked ballot shows McCarthy endorsed,0.9
-IL,Decatur Daily Review,111302,1966,STATE REP,50,50th,IL,"TIPSWORD, ROLLAND F.",Democrat,1,,,,State Representative; marked on recap ballot,0.9
-IL,Decatur Daily Review,111302,1966,STATE REP,50,50th,IL,"ALSUP, JOHN W.",Democrat,1,1,,,State Representative; marked on recap ballot,0.9
-IL,Decatur Daily Review,111302,1966,STATE REP,50,50th,IL,"BORCHERS, WEBBER",Republican,1,1,,,State Representative; marked on recap ballot [QA fix: corrected from JOHNS to BORCHERS per 1966 Sunday ballot marks],0.85
+IL,Decatur Daily Review,111302,1966,H,22,22nd Congressional District,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,"'on the basis of his seniority and position as ranking minority member of the House Commerce Committee, Mr. Springer is recommended' for 9th term",0.95
+IL,Decatur Daily Review,111302,1966,STATE SENATOR,50,,IL,"MCCARTHY, ROBERT W.",Democrat,1,1,,,State Senator 50th District; marked ballot shows McCarthy endorsed,0.9
+IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"TIPSWORD, ROLLAND F.",Democrat,1,,,,State Representative; marked on recap ballot,0.9
+IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"ALSUP, JOHN W.",Democrat,1,1,,,State Representative; marked on recap ballot,0.9
+IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"BORCHERS, WEBBER",Republican,1,,,,State Representative; marked on recap ballot [QA fix: corrected from JOHNS to BORCHERS per 1966 Sunday ballot marks],0.85
 IL,Decatur Daily Review,111302,1966,JUDGE,6,6th Judicial Circuit,IL,"WEBBER, ALBERT G.",Republican,1,,,,"Circuit Court Judge 6th Judicial Circuit, vacancy term expires 1970; marked ballot shows Webber endorsed",0.9
 IL,Decatur Daily Review,111302,1966,JUDGE,6,6th Judicial Circuit,IL,"GOLLINGS, FRANK J.",Nonpartisan,1,,,,Associate judge retention; 'Vote Yes to Retain Judges' editorial recommends retention,0.92
 IL,Decatur Daily Review,111302,1966,JUDGE,6,6th Judicial Circuit,IL,"MORTHLAND, DONALD W.",Nonpartisan,1,,,,Associate judge retention; editorial recommends retention,0.92
 IL,Decatur Daily Review,111302,1966,CNTY CLERK,,Macon County,IL,"TANGNEY, WILLIAM M.",Democrat,1,,,,County Clerk; marked on recap ballot,0.9
-IL,Decatur Daily Review,111302,1966,TREASURER,,Macon County,IL,"MADDOX, WILLIAM H.",Republican,1,,,,County Treasurer; marked on recap ballot,0.9
+IL,Decatur Daily Review,111302,1966,TREASURER,,Macon County,IL,"MADDOX, WILLIAM H.",Republican,1,,,,County Treasurer; marked on recap ballot [V2 dname cleared - state office not county],0.9
 IL,Decatur Daily Review,111302,1968,PRESIDENT,,,IL,"NIXON, RICHARD M.",Republican,1,,,,Editorial endorses Nixon - 'Richard M. Nixon is most likely to bring order to the federal government. We urge his election on Nov. 5',0.98
 IL,Decatur Daily Review,111302,1968,PRESIDENT,,,IL,"HUMPHREY, HUBERT H.",Democrat,0,,,,Opposed; 'The very apparatus he needs for election — the Democratic party — is responsible for what we see that we dislike',0.9
 IL,Decatur Daily Review,111302,1968,PRESIDENT,,,IL,"WALLACE, GEORGE C.",American Independent,0,,,,American Independent Party; 'never for a minute considered George Wallace fit for the presidency',0.97
 IL,Decatur Daily Review,111302,1968,SENATOR,,,IL,"DIRKSEN, EVERETT M.",Republican,1,,1,,"U.S. Senator incumbent; 'a major progressive legislator, and feel that Illinois cannot do without his presence in Washington. He should be re-elected'",0.97
 IL,Decatur Daily Review,111302,1968,SENATOR,,,IL,"CLARK, WILLIAM G.",Democrat,0,,,,'does not pack the punch strong enough to make him the better of the two men for the Senate',0.95
-IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"SWAIN, TIMOTHY W.",Republican,1,1,,,"U of I Trustee; current president of board, attorney; recommended for retention",0.95
+IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"SWAIN, TIMOTHY W.",Republican,1,,,,"U of I Trustee; current president of board, attorney; recommended for retention",0.95
 IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"WILLIAMSON, KENNEY E.",Democrat,1,1,,,U of I Trustee veteran of 20 years; recommended,0.95
 IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"STEGER, RUSSELL W.",Republican,1,,,,Recap marked ballot,0.9
 IL,Decatur Daily Review,111302,1968,GOVERNOR,,,IL,"SHAPIRO, SAMUEL H.",Democrat,1,1,,,'on the strength of legislative and administrative experience that Samuel H. Shapiro is the man for the job',0.95
 IL,Decatur Daily Review,111302,1968,LT GOVERNOR,,,IL,"SIMON, PAUL",Democrat,1,,,,"'His running mate, Paul Simon, should get your vote for lieutenant governor'",0.97
 IL,Decatur Daily Review,111302,1968,ATTORNEY GENERAL,,,IL,"SCOTT, WILLIAM J.",Republican,1,,,,'Comparative information reveals that William J. Scott would make an excellent attorney general',0.96
-IL,Decatur Daily Review,111302,1968,AUDITOR,,,IL,"HOWLETT, MICHAEL J.",Democrat,1,1,,,"'running for a third term as auditor of public accounts, is one of the state's finest administrators and dedicated public servants, and should be re-elected'",0.97
+IL,Decatur Daily Review,111302,1968,AUDITOR,,,IL,"HOWLETT, MICHAEL J.",Democrat,1,1,,,"'running for a third term as auditor of public accounts, is one of the state's finest administrators and dedicated public servants, and should be re-elected' [V2 dname cleared - state office not county]",0.97
 IL,Decatur Daily Review,111302,1968,COURT OF APPEALS,4,4th Judicial District,IL,"CONN, ROBERT L.",Republican,1,,1,,Clerk of the Appellate Court Fourth Judicial District; 'Conn for Court Clerk' editorial - 'Mr. Conn brings a wealth of experience to his campaign',0.95
-IL,Decatur Daily Review,111302,1968,H,22,22nd,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,Recap marked ballot shows Springer endorsed,0.85
-IL,Decatur Daily Review,111302,1968,STATE REP,52,52nd,IL,"TIPSWORD, ROLLAND F.",Democrat,1,1,,,'52nd District Incumbents Supported' editorial; 'Mr. Tipsword has shown a remarkable ability to grasp the significance of issues',0.95
-IL,Decatur Daily Review,111302,1968,STATE REP,52,52nd,IL,"ALSUP, JOHN W.",Democrat,1,1,,,52nd District incumbent endorsed for sixth term,0.95
-IL,Decatur Daily Review,111302,1968,STATE REP,52,52nd,IL,"JOHNS, GEORGE P.",Republican,1,1,,,52nd District incumbent endorsed for third term in House,0.95
-IL,Decatur Daily Review,111302,1968,STATE REP,52,52nd,IL,"BORCHERS, WEBBER",Republican,0,,,,Republican challenger opposed; 'his approach too often hurts his cause...could prove detrimental to the 52nd district',0.9
+IL,Decatur Daily Review,111302,1968,H,22,22nd Congressional District,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,Recap marked ballot shows Springer endorsed,0.85
+IL,Decatur Daily Review,111302,1968,STATE REP,52,,IL,"TIPSWORD, ROLLAND F.",Democrat,1,1,,,'52nd District Incumbents Supported' editorial; 'Mr. Tipsword has shown a remarkable ability to grasp the significance of issues',0.95
+IL,Decatur Daily Review,111302,1968,STATE REP,52,,IL,"ALSUP, JOHN W.",Democrat,1,1,,,52nd District incumbent endorsed for sixth term,0.95
+IL,Decatur Daily Review,111302,1968,STATE REP,52,,IL,"JOHNS, GEORGE P.",Republican,1,,,,52nd District incumbent endorsed for third term in House,0.95
+IL,Decatur Daily Review,111302,1968,STATE REP,52,,IL,"BORCHERS, WEBBER",Republican,0,,,,Republican challenger opposed; 'his approach too often hurts his cause...could prove detrimental to the 52nd district',0.9
 IL,Decatur Daily Review,111302,1968,CNTY CLERK,,Macon County,IL,"CURRY, JOHN T.",Democrat,1,1,,,Circuit Clerk - 'Mr. Curry has done an excellent job...should be retained for a fourth term',0.97
 IL,Decatur Daily Review,111302,1968,RECORDER,,Macon County,IL,"BOHN, JOHN H.",Democrat,1,1,,,Recorder of Deeds - 'Mr. Bohn deserves re-election',0.97
 IL,Decatur Daily Review,111302,1968,DA/PROSECUTOR,,Macon County,IL,"GREANIAS, BASIL G.",Democrat,1,1,,,"State's Attorney - 'Because of his record, Mr. Greanias is deserving of re-election'",0.97
 IL,Decatur Daily Review,111302,1968,CORONER,,Macon County,IL,"THOMPSON, PHARES G.",Republican,1,,,,"'with the present arrangement, Mr. Thompson deserves election to the post'; pledges to make known dates of inquests",0.92
 IL,Decatur Daily Review,111302,1968,CORONER,,Macon County,IL,"TURLEY, V. T.",Democrat,0,1,,,Incumbent Democrat opposed; 'has not always been responsive to these needs'; age factor (75 vs 67),0.9
-IL,Decatur Daily Review,111302,1968,AUDITOR,,Macon County,IL,"FERRE, RICHARD D.",Democrat,1,1,,,County Auditor - 'Mr. Ferre's unquestioned integrity and diligence in office recommend him for re-election',0.97
-IL,Decatur Daily Review,111302,1970,STATE REP,59,,IL,"CHOATE, CLYDE",Democrat,1,1,,,"House Minority Whip, D-Anna; incumbent reelection",0.95
+IL,Decatur Daily Review,111302,1968,AUDITOR,,,IL,"FERRE, RICHARD D.",Democrat,1,1,,,County Auditor - 'Mr. Ferre's unquestioned integrity and diligence in office recommend him for re-election' [V2 dname cleared - state office not county],0.97
+IL,Decatur Daily Review,111302,1970,STATE REP,59,,IL,"CHOATE, CLYDE L.",Democrat,1,1,,,"House Minority Whip, D-Anna; incumbent reelection",0.95
 IL,Decatur Daily Review,111302,1970,STATE REP,59,,IL,"MCCORMICK, C. L.",Republican,1,,1,,R-Vienna; incumbent,0.95
 IL,Decatur Daily Review,111302,1970,STATE REP,57,,IL,"CUNNINGHAM, WILLIAM J.",Republican,1,,1,,R-Pinckneyville; incumbent,0.9
 IL,Decatur Daily Review,111302,1970,STATE REP,54,,IL,"KELLER, CHARLES F.",Democrat,1,1,,,D-Effingham; incumbent,0.95
@@ -86,7 +85,7 @@ IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"CLARK, TERREL E.",Republ
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"COULSON, ROBERT",Republican,1,,1,,R-Waukegan,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"LAUGHLIN, EVERETT E.",Republican,1,,1,,R-Freeport,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"HARRIS, WILLIAM C.",Republican,1,,1,,R-Pontiac,0.9
-IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"KNUEPFER, JACK",Republican,1,,1,,R-Elmhurst,0.9
+IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"KNUEPFER, JACK T.",Republican,1,,1,,R-Elmhurst,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"FAWELL, HARRIS W.",Republican,1,,1,,R-Naperville,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"MERRITT, TOM",Republican,1,,1,,R-Hoopeston,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"SOURS, HUDSON R.",Republican,1,,1,,R-Peoria,0.9
@@ -94,149 +93,175 @@ IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"OTTWEIN, MERRILL",Republ
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"GILBERT, JOHN",Republican,1,,1,,R-Carbondale,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"SAPERSTEIN, ESTHER",Democrat,1,1,,,D-Chicago,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"CHERRY, ROBERT E.",Democrat,1,1,,,D-Chicago,0.9
-IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"NEWHOUSE, RICHARD H., JR.",Democrat,1,1,,,D-Chicago,0.9
+IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"NEWHOUSE, RICHARD H. JR.",Democrat,1,1,,,D-Chicago,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"PARTEE, CECIL A.",Democrat,1,1,,,D-Chicago,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"DOUGHERTY, DANIEL",Democrat,1,1,,,D-Chicago,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"MCCARTHY, ROBERT W.",Democrat,1,1,,,D-Decatur (Senate incumbent listed in editorial),0.85
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"DONNEWALD, JAMES H.",Democrat,1,1,,,D-Breese,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,47,,IL,"WEAVER, STANLEY",Republican,1,,,,"R-Urbana; House member seeking Senate seat, 47th District",0.95
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"HALL, KENNETH",Democrat,1,,,,D-East St. Louis; House member seeking Senate seat,0.9
-IL,Decatur Daily Review,111302,1970,SENATOR,,,IL,"STEVENSON, ADLAI E., III",Democrat,1,,,,Sunday recap ballot — filled mark; editorial endorsement,0.95
-IL,Decatur Daily Review,111302,1970,TREASURER,,,IL,"DIXON, ALAN J.",Democrat,1,,,,Sunday recap ballot — filled mark; editorial endorsement,0.95
-IL,Decatur Daily Review,111302,1970,TRUSTEE,,University of Illinois,IL,"WALKER, EARL EDWIN",Republican,1,,,,Sunday recap ballot — filled mark; vote for 3,0.9
-IL,Decatur Daily Review,111302,1970,TRUSTEE,,University of Illinois,IL,"HOWARD, GEORGE, III",Democrat,1,,,,Sunday recap ballot — filled mark; vote for 3,0.9
-IL,Decatur Daily Review,111302,1970,TRUSTEE,,University of Illinois,IL,"NEAL, EARL L.",Democrat,1,,,,Sunday recap ballot — filled mark; vote for 3,0.9
-IL,Decatur Daily Review,111302,1970,TRUSTEE,,University of Illinois (2-year term),IL,"POGUE, ROGER B.",Democrat,1,,,,Sunday recap ballot — filled mark; 2-year term,0.9
-IL,Decatur Daily Review,111302,1970,H,22,22nd Congressional District,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,Sunday recap ballot — filled mark,0.95
-IL,Decatur Daily Review,111302,1970,STATE SENATOR,50,50th Senate District,IL,"MCCARTHY, ROBERT W.",Democrat,1,,,,Sunday recap ballot — filled mark,0.9
-IL,Decatur Daily Review,111302,1970,STATE REP,52,52nd District,IL,"BORCHERS, WEBBER",Republican,1,,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
-IL,Decatur Daily Review,111302,1970,STATE REP,52,52nd District,IL,"TIPSWORD, ROLLAND F.",Democrat,1,1,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
-IL,Decatur Daily Review,111302,1970,CNTY CLERK,,Macon County,IL,"TANGNEY, WILLIAM M.",Democrat,1,,,,Sunday recap ballot — filled mark,0.9
-IL,Decatur Daily Review,111302,1970,TREASURER,,Macon County Treasurer,IL,"CURRY, HENRY B.",Republican,1,,,,Sunday recap ballot — filled mark; county treasurer,0.9
-IL,Decatur Daily Review,111302,1970,SHERIFF,,Macon County,IL,"MADDOX, WILLIAM H.",Republican,1,,,,Sunday recap ballot — filled mark,0.9
+IL,Decatur Daily Review,111302,1970,SENATOR,,,IL,"STEVENSON, ADLAI E. III",Democrat,1,,,,Sunday recap — filled mark; editorial endorsement,0.95
+IL,Decatur Daily Review,111302,1970,TREASURER,,Macon County,IL,"DIXON, ALAN J.",Democrat,1,,,,Sunday recap — filled mark; editorial endorsement [V2 dname cleared - state office not county],0.95
+IL,Decatur Daily Review,111302,1970,TRUSTEE,,University of Illinois,IL,"WALKER, EARL EDWIN",Republican,1,,,,Sunday recap — filled mark; vote for 3,0.9
+IL,Decatur Daily Review,111302,1970,TRUSTEE,,University of Illinois,IL,"HOWARD, GEORGE W. III",Democrat,1,,,,Sunday recap — filled mark; vote for 3,0.9
+IL,Decatur Daily Review,111302,1970,TRUSTEE,,University of Illinois,IL,"NEAL, EARL L.",Democrat,1,,,,Sunday recap — filled mark; vote for 3,0.9
+IL,Decatur Daily Review,111302,1970,TRUSTEE,,University of Illinois (2-year term),IL,"POGUE, ROGER B.",Democrat,1,,,,Sunday recap — filled mark; 2-year term,0.9
+IL,Decatur Daily Review,111302,1970,H,22,22nd Congressional District,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,Sunday recap — filled mark,0.95
+IL,Decatur Daily Review,111302,1970,STATE SENATOR,50,,IL,"MCCARTHY, ROBERT W.",Democrat,1,1,,,Sunday recap — filled mark,0.9
+IL,Decatur Daily Review,111302,1970,STATE REP,52,,IL,"BORCHERS, WEBBER",Republican,1,,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
+IL,Decatur Daily Review,111302,1970,STATE REP,52,,IL,"TIPSWORD, ROLLAND F.",Democrat,1,1,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
+IL,Decatur Daily Review,111302,1970,CNTY CLERK,,Macon County,IL,"TANGNEY, WILLIAM M.",Democrat,1,1,,,Sunday recap — filled mark,0.9
+IL,Decatur Daily Review,111302,1970,TREASURER,,Macon County,IL,"CURRY, HENRY B.",Republican,1,,,,Sunday recap — filled mark; county treasurer,0.9
+IL,Decatur Daily Review,111302,1970,SHERIFF,,Macon County,IL,"MADDOX, WILLIAM H.",Republican,1,,,,Sunday recap — filled mark,0.9
 IL,Decatur Daily Review,111302,1970,SUPERINTENDENT,,Education Service Region,IL,"BROWN, HOWARD E.",Republican,1,,,,Sunday recap — filled mark,0.85
-IL,Decatur Daily Review,111302,1972,TRUSTEE,,University of Illinois,IL,"POGUE, ROGER",Democrat,1,1,,,Incumbent (elected 1970 to fill uncle Harold Pogue's vacant seat); editorial misprints final paragraph as 'Harold Pogue',0.9
-IL,Decatur Daily Review,111302,1972,TRUSTEE,,University of Illinois,IL,"HAHN, RALPH",Republican,1,,1,,"Incumbent, R-Springfield",0.95
+IL,Decatur Daily Review,111302,1972,TRUSTEE,,University of Illinois,IL,"POGUE, ROGER B.",Democrat,1,1,,,Incumbent (elected 1970 to fill uncle Harold Pogue's vacant seat); editorial misprints final paragraph as 'Harold Pogue',0.9
+IL,Decatur Daily Review,111302,1972,TRUSTEE,,University of Illinois,IL,"HAHN, RALPH C.",Republican,1,,1,,"Incumbent, R-Springfield",0.95
 IL,Decatur Daily Review,111302,1972,TRUSTEE,,University of Illinois,IL,"RADER, JANE HAYES",Republican,1,,,,R-Anna; new candidate,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,1,1st District,IL,"DUFF, BRIAN B.",Republican,1,,1,,R-Wilmette,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,1,1st District,IL,"KATZ, HAROLD A.",Democrat,1,1,,,D-Skokie,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,3,3rd District,IL,"CHAPMAN, EUGENIA S.",Democrat,1,1,,,D-Arlington Heights,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,4,4th District,IL,"SCHLICKMAN, EUGENE F.",Republican,1,,1,,R-Arlington Heights,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,5,5th District,IL,"WALSH, RICHARD A.",Republican,1,,1,,R-Oak Park,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,6,6th District,IL,"WALSH, WILLIAM D.",Republican,1,,1,,R-LaGrange Park,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,9,9th District,IL,"RAYSON, LELAND J.",Democrat,1,1,,,D-Tinley Park,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,12,12th District,IL,"TELCSER, ARTHUR A.",Republican,1,,1,,R-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,15,15th District,IL,"WOLFE, BERNARD B.",Democrat,1,1,,,D-Chicago (OCR shows '5th' likely 15th),0.8
-IL,Decatur Daily Review,111302,1972,STATE REP,18,18th District,IL,"HYDE, HENRY",Republican,1,,1,,R-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,24,24th District,IL,"EPTON, BERNARD E.",Republican,1,,1,,R-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,24,24th District,IL,"MANN, ROBERT E.",Democrat,1,1,,,D-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,26,26th District,IL,"WASHINGTON, HAROLD",Democrat,1,1,,,D-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,28,28th District,IL,"MEYER, J. THEODORE",Republican,1,,1,,R-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,29,29th District,IL,"BARNES, EUGENE M.",Democrat,1,1,,,D-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,30,30th District,IL,"COLLINS, PHILIP W.",Republican,1,,1,,R-Calumet City,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,32,32nd District,IL,"PIERCE, DANIEL M.",Democrat,1,1,,,D-Highland Park,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,37,37th District,IL,"BARRY, TOBIAS",Democrat,1,1,,,D-Ladd,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,40,40th District,IL,"HOFFMAN, GENE L.",Republican,1,,1,,R-Elmhurst,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,40,40th District,IL,"REDMOND, WILLIAM A.",Democrat,1,1,,,D-Bensenville,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,41,41st District,IL,"DYER, GIDDY (MRS. ROBERT C.)",Republican,1,,1,,R-Hinsdale,0.9
-IL,Decatur Daily Review,111302,1972,STATE REP,42,42nd District,IL,"BLAIR, W. ROBERT",Republican,1,,1,,R-Park Forest,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,46,46th District,IL,"DAY, ROBERT G.",Republican,1,,1,,R-Peoria,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,48,48th District,IL,"SCHISLER, GALE",Democrat,1,1,,,D-London Mills,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,49,49th District,IL,"ROSE, THOMAS C.",Republican,1,,1,,R-Jacksonville,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,49,49th District,IL,"BOYLE, KENNETH",Democrat,1,1,,,D-Carlinville,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,50,50th District,IL,"GIBBS, W. JOSEPH",Republican,1,,1,,R-Springfield,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,51,51st District,IL,"TIPSWORD, ROLLAND",Democrat,1,1,,,D-Taylorville,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,52,52nd District,IL,"HIRSCHFELD, JOHN",Republican,1,,1,,R-Champaign,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,54,54th District,IL,"KELLER, CHARLES F.",Democrat,1,1,,,D-Effingham,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,55,55th District,IL,"BRUMMETT, DON E.",Democrat,1,1,,,D-Vandalia,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,56,56th District,IL,"KENNEDY, LELAND",Democrat,1,1,,,D-Alton,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,59,59th District,IL,"CHOATE, CLYDE L.",Democrat,1,1,,,D-Anna,0.95
-IL,Decatur Daily Review,111302,1972,STATE REP,59,59th District,IL,"HART, RICHARD O.",Democrat,1,1,,,D-Benton,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,2,2nd Senate District,IL,"GRAHAM, JOHN A.",Republican,1,,1,,R-Barrington,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,3,3rd Senate District,IL,"REGNER, DAVID J.",Republican,1,,1,,R-Mount Prospect,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,6,6th Senate District,IL,"CLARKE, TERRELL E.",Republican,1,,1,,R-Western Springs,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,9,9th Senate District,IL,"SCARIANO, ANTHONY",Democrat,1,,,,D-Park Forest (House member to Senate),0.9
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,18,18th Senate District,IL,"ROCK, PHILIP J.",Democrat,1,1,,,D-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,24,24th Senate District,IL,"NEWHOUSE, RICHARD H.",Democrat,1,1,,,D-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,26,26th Senate District,IL,"PARTEE, CECIL A.",Democrat,1,1,,,D-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,28,28th Senate District,IL,"HYNES, THOMAS C.",Democrat,1,1,,,D-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,30,30th Senate District,IL,"DOUGHERTY, DANIEL",Democrat,1,1,,,D-Chicago,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,38,38th Senate District,IL,"HARRIS, WILLIAM C.",Republican,1,1,,,R-Pontiac,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,40,40th Senate District,IL,"KNUEPFER, JACK T.",Republican,1,,1,,R-Elmhurst,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,41,41st Senate District,IL,"FAWELL, HARRIS W.",Republican,1,,1,,R-Naperville,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,53,53rd Senate District,IL,"MERRITT, TOM",Republican,1,,1,,R-Hoopeston,0.95
-IL,Decatur Daily Review,111302,1972,STATE SENATOR,54,54th Senate District,IL,"BRUCE, TERRY L.",Democrat,1,,,,D-Olney,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,1,,IL,"DUFF, BRIAN B.",Republican,1,,1,,R-Wilmette,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,1,,IL,"KATZ, HAROLD A.",Democrat,1,1,,,D-Skokie,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,3,,IL,"CHAPMAN, EUGENIA S.",Democrat,1,1,,,D-Arlington Heights,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,4,,IL,"SCHLICKMAN, EUGENE F.",Republican,1,,1,,R-Arlington Heights,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,5,,IL,"WALSH, RICHARD A.",Republican,1,,1,,R-Oak Park,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,6,,IL,"WALSH, WILLIAM D.",Republican,1,,1,,R-LaGrange Park,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,9,,IL,"RAYSON, LELAND J.",Democrat,1,1,,,D-Tinley Park,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,12,,IL,"TELCSER, ARTHUR A.",Republican,1,,1,,R-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,15,,IL,"WOLFE, BERNARD B.",Democrat,1,1,,,D-Chicago (OCR shows '5th' likely 15th),0.8
+IL,Decatur Daily Review,111302,1972,STATE REP,18,,IL,"HYDE, HENRY",Republican,1,,1,,R-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,24,,IL,"EPTON, BERNARD E.",Republican,1,,1,,R-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,24,,IL,"MANN, ROBERT E.",Democrat,1,1,,,D-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,26,,IL,"WASHINGTON, HAROLD",Democrat,1,1,,,D-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,28,,IL,"MEYER, J. THEODORE",Republican,1,,1,,R-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,29,,IL,"BARNES, EUGENE M.",Democrat,1,1,,,D-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,30,,IL,"COLLINS, PHILIP W.",Republican,1,,1,,R-Calumet City,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,32,,IL,"PIERCE, DANIEL M.",Democrat,1,1,,,D-Highland Park,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,37,,IL,"BARRY, TOBIAS",Democrat,1,1,,,D-Ladd,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,40,,IL,"HOFFMAN, GENE L.",Republican,1,,1,,R-Elmhurst,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,40,,IL,"REDMOND, WILLIAM A.",Democrat,1,1,,,D-Bensenville,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,41,,IL,"DYER, GIDDY (MRS. ROBERT C.)",Republican,1,,1,,R-Hinsdale,0.9
+IL,Decatur Daily Review,111302,1972,STATE REP,42,,IL,"BLAIR, W. ROBERT",Republican,1,,1,,R-Park Forest,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,46,,IL,"DAY, ROBERT G.",Republican,1,,1,,R-Peoria,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,48,,IL,"SCHISLER, GALE",Democrat,1,1,,,D-London Mills,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,49,,IL,"ROSE, THOMAS C.",Republican,1,,1,,R-Jacksonville,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,49,,IL,"BOYLE, KENNETH",Democrat,1,1,,,D-Carlinville,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,50,,IL,"GIBBS, W. JOSEPH",Republican,1,,1,,R-Springfield,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,51,,IL,"TIPSWORD, ROLLAND F.",Democrat,1,1,,,D-Taylorville,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,52,,IL,"HIRSCHFELD, JOHN C.",Republican,1,,1,,R-Champaign,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,54,,IL,"KELLER, CHARLES F.",Democrat,1,1,,,D-Effingham,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,55,,IL,"BRUMMETT, DON E.",Democrat,1,1,,,D-Vandalia,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,56,,IL,"KENNEDY, LELAND",Democrat,1,1,,,D-Alton,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,59,,IL,"CHOATE, CLYDE L.",Democrat,1,1,,,D-Anna,0.95
+IL,Decatur Daily Review,111302,1972,STATE REP,59,,IL,"HART, RICHARD O.",Democrat,1,1,,,D-Benton,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,2,,IL,"GRAHAM, JOHN A.",Republican,1,,1,,R-Barrington,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,3,,IL,"REGNER, DAVID J.",Republican,1,,1,,R-Mount Prospect,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,6,,IL,"CLARKE, TERRELL E.",Republican,1,,1,,R-Western Springs,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,9,,IL,"SCARIANO, ANTHONY",Democrat,1,,,,D-Park Forest (House member to Senate),0.9
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,18,,IL,"ROCK, PHILIP J.",Democrat,1,1,,,D-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,24,,IL,"NEWHOUSE, RICHARD H. JR.",Democrat,1,1,,,D-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,26,,IL,"PARTEE, CECIL A.",Democrat,1,1,,,D-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,28,,IL,"HYNES, THOMAS C.",Democrat,1,1,,,D-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,30,,IL,"DOUGHERTY, DANIEL",Democrat,1,1,,,D-Chicago,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,38,,IL,"HARRIS, WILLIAM C.",Republican,1,,1,,R-Pontiac,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,40,,IL,"KNUEPFER, JACK T.",Republican,1,,1,,R-Elmhurst,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,41,,IL,"FAWELL, HARRIS W.",Republican,1,,1,,R-Naperville,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,53,,IL,"MERRITT, TOM",Republican,1,,1,,R-Hoopeston,0.95
+IL,Decatur Daily Review,111302,1972,STATE SENATOR,54,,IL,"BRUCE, TERRY L.",Democrat,1,,,,D-Olney,0.95
 IL,Decatur Daily Review,111302,1974,STATE SENATOR,,,IL,"GLASS, BRADLEY",Republican,1,,1,,R-Northfield,0.9
 IL,Decatur Daily Review,111302,1974,STATE SENATOR,,,IL,"NETSCH, DAWN CLARK",Democrat,1,1,,,D-Chicago,0.9
 IL,Decatur Daily Review,111302,1974,STATE SENATOR,,,IL,"HYNES, THOMAS C.",Democrat,1,1,,,D-Chicago,0.9
 IL,Decatur Daily Review,111302,1974,STATE SENATOR,,,IL,"SHAPIRO, DAVID",Republican,1,,1,,R-Amboy,0.9
 IL,Decatur Daily Review,111302,1974,STATE SENATOR,,,IL,"BUZBEE, KENNETH V.",Democrat,1,1,,,D-Carbondale,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"KATZ, HAROLD",Democrat,1,1,,,D-Skokie,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"DUFF, BRIAN",Republican,1,,1,,R-Wilmette,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"CHAPMAN, EUGENIA",Democrat,1,1,,,D-Arlington Heights,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,1,,IL,"KATZ, HAROLD A.",Democrat,1,1,,,D-Skokie,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,1,,IL,"DUFF, BRIAN B.",Republican,1,,1,,R-Wilmette,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,3,,IL,"CHAPMAN, EUGENIA S.",Democrat,1,1,,,D-Arlington Heights,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"JAFFE, AARON",Democrat,1,1,,,D-Skokie,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"WALSH, RICHARD A.",Republican,1,,1,,R-Oak Park,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"WALSH, WILLIAM D.",Republican,1,,1,,R-LaGrange,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"SHEA, GERALD W.",Democrat,1,1,,,D-Riverside,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"PALMER, ROMIE",Republican,1,,1,,R-Blue Island,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"BERMAN, ARTHUR",Democrat,1,1,,,D-Chicago,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"TELCSER, ARTHUR",Republican,1,,1,,R-Chicago,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,12,,IL,"TELCSER, ARTHUR A.",Republican,1,,1,,R-Chicago,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"LECHOWICZ, THADDEUS",Democrat,1,1,,,D-Chicago,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"CATANIA, SUSAN",Republican,1,,1,,R-Chicago,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"MANN, ROBERT",Democrat,1,1,,,D-Chicago,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"WASHINGTON, HAROLD",Democrat,1,1,,,D-Chicago,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"BARNES, EUGENE",Democrat,1,1,,,D-Chicago,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"COLLINS, PHILIP W.",Republican,1,,1,,R-Chicago,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,24,,IL,"MANN, ROBERT E.",Democrat,1,1,,,D-Chicago,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,26,,IL,"WASHINGTON, HAROLD",Democrat,1,1,,,D-Chicago,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,29,,IL,"BARNES, EUGENE M.",Democrat,1,1,,,D-Chicago,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,30,,IL,"COLLINS, PHILIP W.",Republican,1,,1,,R-Chicago,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"MATIJEVICH, JOHN",Democrat,1,1,,,D-North Chicago,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"PIERCE, DANIEL",Democrat,1,1,,,D-Highland Park,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,32,,IL,"PIERCE, DANIEL M.",Democrat,1,1,,,D-Highland Park,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"HILL, JEROME J.",Democrat,1,1,,,D-Aurora,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"REDMOND, WILLIAM A.",Democrat,1,1,,,D-Bensenville,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"HOFFMAN, GENE",Republican,1,,1,,R-Elmhurst,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,40,,IL,"REDMOND, WILLIAM A.",Democrat,1,1,,,D-Bensenville,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,40,,IL,"HOFFMAN, GENE L.",Republican,1,,1,,R-Elmhurst,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"SCHNEIDER, J. GLENN",Republican,1,,1,,R-Naperville,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"DYER, GIDDY (MRS.)",Republican,1,,1,,R-Hinsdale,0.85
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"BLAIR, W. ROBERT",Republican,1,,1,,R-Park Forest,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,41,,IL,"DYER, GIDDY (MRS. ROBERT C.)",Republican,1,,1,,R-Hinsdale,0.85
+IL,Decatur Daily Review,111302,1974,STATE REP,42,,IL,"BLAIR, W. ROBERT",Republican,1,,1,,R-Park Forest,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"BEAUPRE, JACK",Democrat,1,1,,,D-Kankakee,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"MCCLAIN, MICHAEL F.",Democrat,1,1,,,D-Quincy,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"ROSE, THOMAS",Republican,1,,1,,R-Jacksonville,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,49,,IL,"ROSE, THOMAS C.",Republican,1,,1,,R-Jacksonville,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"SHARP, JOHN F.",Democrat,1,1,,,D-Worden,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"STIEHL, CELESTE",Republican,1,,1,,R-Belleville,0.9
 IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"FLINN, MONROE",Democrat,1,1,,,D-Cahokia,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"HART, RICHARD",Democrat,1,1,,,D-Benton,0.9
-IL,Decatur Daily Review,111302,1974,STATE REP,,,IL,"CHOATE, CLYDE",Democrat,1,1,,,D-Anna,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,59,,IL,"HART, RICHARD",Democrat,1,1,,,D-Benton,0.9
+IL,Decatur Daily Review,111302,1974,STATE REP,59,,IL,"CHOATE, CLYDE L.",Democrat,1,1,,,D-Anna,0.9
 IL,Decatur Daily Review,111302,1976,TRUSTEE,,University of Illinois,IL,"NEAL, EARL L.",Democrat,1,1,,,"Incumbent, board president, D-Chicago",0.95
-IL,Decatur Daily Review,111302,1976,TRUSTEE,,University of Illinois,IL,"FORSYTH, WILLIAM D., JR.",Democrat,1,1,,,"Incumbent, D-Springfield",0.95
-IL,Decatur Daily Review,111302,1976,TRUSTEE,,University of Illinois,IL,"HOWARD, GEORGE W., III",Democrat,1,1,,,"Incumbent, D-Mt. Vernon, board rep to BHE",0.95
+IL,Decatur Daily Review,111302,1976,TRUSTEE,,University of Illinois,IL,"FORSYTH, WILLIAM D. JR.",Democrat,1,1,,,"Incumbent, D-Springfield",0.95
+IL,Decatur Daily Review,111302,1976,TRUSTEE,,University of Illinois,IL,"HOWARD, GEORGE W. III",Democrat,1,1,,,"Incumbent, D-Mt. Vernon, board rep to BHE",0.95
 IL,Decatur Daily Review,111302,1978,H,21,21st Congressional District,IL,"MADIGAN, EDWARD R.",Republican,1,,1,,"R-Lincoln, seeking 4th term; clear editorial endorsement",0.97
-IL,Decatur Daily Review,111302,1978,CNTY COMM,2,Macon County Board District 2,IL,"BYERS, J. E. ""GENE""",Republican,1,,,,Sunday recap — filled mark (vote for two),0.9
-IL,Decatur Daily Review,111302,1978,CNTY COMM,2,Macon County Board District 2,IL,"NOVELLINO, ANTHONY J., SR.",Democrat,0,1,,,Editorial: 'we see Democrat incumbent Anthony J. Novellino Sr. as a rubber stamp board member',0.85
-IL,Decatur Daily Review,111302,1978,TRUSTEE,,University of Illinois,IL,"LIVINGSTON, PARK",Republican,1,1,,,Incumbent (R),0.95
+IL,Decatur Daily Review,111302,1978,CNTY COMM,2,Macon County,IL,"BYERS, J. E. ""GENE""",Republican,1,,,,Sunday recap — filled mark (vote for two),0.9
+IL,Decatur Daily Review,111302,1978,CNTY COMM,2,Macon County,IL,"NOVELLINO, ANTHONY J., SR.",Democrat,0,1,,,Editorial: 'we see Democrat incumbent Anthony J. Novellino Sr. as a rubber stamp board member',0.85
+IL,Decatur Daily Review,111302,1978,TRUSTEE,,University of Illinois,IL,"LIVINGSTON, PARK",Republican,1,,,,Incumbent (R),0.95
 IL,Decatur Daily Review,111302,1978,TRUSTEE,,University of Illinois,IL,"RADER, JANE HAYES",Republican,1,,1,,Incumbent (R),0.95
-IL,Decatur Daily Review,111302,1978,TRUSTEE,,University of Illinois,IL,"HAHN, RALPH",Republican,1,,1,,"Incumbent (R), seeking third term",0.95
+IL,Decatur Daily Review,111302,1978,TRUSTEE,,University of Illinois,IL,"HAHN, RALPH C.",Republican,1,,1,,"Incumbent (R), seeking third term",0.95
 IL,Decatur Daily Review,111302,1978,SENATOR,,,IL,"PERCY, CHARLES H.",Republican,1,,1,,Sunday recap — filled mark,0.95
 IL,Decatur Daily Review,111302,1978,GOVERNOR,,,IL,"THOMPSON, JAMES R.",Republican,1,,1,,Sunday recap — filled mark,0.95
 IL,Decatur Daily Review,111302,1978,ATTORNEY GENERAL,,,IL,"SCOTT, WILLIAM J.",Republican,1,,1,,Sunday recap — filled mark,0.95
 IL,Decatur Daily Review,111302,1978,SEC OF STATE,,,IL,"DIXON, ALAN J.",Democrat,1,,,,Sunday recap — filled mark,0.95
 IL,Decatur Daily Review,111302,1978,COMPTROLLER,,,IL,"CASTLE, JOHN W.",Republican,1,,,,Sunday recap; filled mark over Burris in Democrat column,0.9
-IL,Decatur Daily Review,111302,1978,TREASURER,,,IL,"SKELTON, JAMES M.",Republican,1,,,,Sunday recap — filled mark,0.9
-IL,Decatur Daily Review,111302,1978,TRUSTEE,,University of Illinois,IL,"HAHN, RALPH C.",Republican,1,,1,,Sunday recap — filled mark; vote for 3 (incumbent),0.95
+IL,Decatur Daily Review,111302,1978,TREASURER,,Macon County,IL,"SKELTON, JAMES M.",Republican,1,,,,Sunday recap — filled mark,0.9
 IL,Decatur Daily Review,111302,1978,H,22,22nd Congressional District,IL,"BRUCE, TERRY L.",Democrat,1,,,,Sunday recap — filled mark,0.95
-IL,Decatur Daily Review,111302,1978,STATE REP,51,51st District,IL,"DONOVAN, B. T. ""TIM"", JR.",Democrat,1,,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
-IL,Decatur Daily Review,111302,1978,STATE REP,51,51st District,IL,"DUNN, JOHN F.",Democrat,1,,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
-IL,Decatur Daily Review,111302,1978,STATE REP,51,51st District,IL,"BENNETT, ALLAN F.",Republican,1,,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
-IL,Decatur Daily Review,111302,1978,TREASURER,,Macon County Treasurer,IL,"EDGCOMB, JIM O.",Republican,1,,,,Sunday recap — filled mark,0.9
+IL,Decatur Daily Review,111302,1978,STATE REP,51,,IL,"DONOVAN, B. T. ""TIM"" JR.",Democrat,1,,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
+IL,Decatur Daily Review,111302,1978,STATE REP,51,,IL,"DUNN, JOHN F.",Democrat,1,,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
+IL,Decatur Daily Review,111302,1978,STATE REP,51,,IL,"BENNETT, ALLAN F.",Republican,1,,,,"Sunday recap — filled mark; vote for 1, 2, or 3",0.9
+IL,Decatur Daily Review,111302,1978,TREASURER,,Macon County,IL,"EDGCOMB, JIM O.",Republican,1,,,,Sunday recap — filled mark,0.9
 IL,Decatur Daily Review,111302,1978,SHERIFF,,Macon County,IL,"FISHER, STEPHEN D.",Democrat,1,,,,Sunday recap — filled mark,0.9
-IL,Decatur Daily Review,111302,1978,CNTY COMM,1,Macon County Board District 1,IL,"DELUCA, TOM",Democrat,1,,,,Sunday recap — filled mark,0.9
-IL,Decatur Daily Review,111302,1978,CNTY COMM,2,Macon County Board District 2,IL,"MEARA, FRANK A.",Democrat,1,,,,Sunday recap — filled mark (vote for two),0.85
-IL,Decatur Daily Review,111302,1978,CNTY COMM,3,Macon County Board District 3,IL,"HURST, ALLEN V.",Democrat,1,,,,Sunday recap — filled mark,0.9
+IL,Decatur Daily Review,111302,1978,CNTY COMM,1,Macon County,IL,"DELUCA, TOM",Democrat,1,,,,Sunday recap — filled mark,0.9
+IL,Decatur Daily Review,111302,1978,CNTY COMM,2,Macon County,IL,"MEARA, FRANK A.",Democrat,1,,,,Sunday recap — filled mark (vote for two),0.85
+IL,Decatur Daily Review,111302,1978,CNTY COMM,3,Macon County,IL,"HURST, ALLEN V.",Democrat,1,,,,Sunday recap — filled mark,0.9
 IL,Decatur Daily Review,111302,1978,CNTY COMM,4,Macon County Board District 4 (4-year),IL,"HARRIS, FRED L.",Democrat,1,,,,Sunday recap — filled mark; 4-year term,0.85
 IL,Decatur Daily Review,111302,1978,CNTY COMM,4,Macon County Board District 4 (4-year),IL,"GASTON, JACK W.",Republican,1,,,,Sunday recap — filled mark; 4-year term,0.9
 IL,Decatur Daily Review,111302,1978,CNTY COMM,4,Macon County Board District 4 (2-year),IL,"LINN, ROBERT E.",Republican,1,,,,Sunday recap — filled mark; 2-year term,0.9
-IL,Decatur Daily Review,111302,1978,CNTY COMM,5,Macon County Board District 5,IL,"AUSTIN, ROY ""UNCLE ROY""",Republican,1,,,,Sunday recap — filled mark (vote for two),0.85
-IL,Decatur Daily Review,111302,1978,CNTY COMM,5,Macon County Board District 5,IL,"BRADLEY, BENNETT, JR.",Republican,1,,,,Sunday recap — filled mark (vote for two); editorial confirms District 5,0.8
-IL,Decatur Daily Review,111302,1978,CNTY COMM,7,Macon County Board District 7,IL,"SMITH, R. C.",Democrat,1,,,,Sunday recap — filled mark (vote for two),0.9
-IL,Decatur Daily Review,111302,1978,CNTY COMM,7,Macon County Board District 7,IL,"SUZEWITZ, ROY",Democrat,1,,,,Sunday recap — filled mark (vote for two),0.9
-IL,Decatur Daily Review,111302,1978,CNTY COMM,8,Macon County Board District 8,IL,"RAINEY, ROBERT S.",Republican,1,,,,Sunday recap — filled mark,0.9
+IL,Decatur Daily Review,111302,1978,CNTY COMM,5,Macon County,IL,"AUSTIN, ROY ""UNCLE ROY""",Republican,1,,,,Sunday recap — filled mark (vote for two),0.85
+IL,Decatur Daily Review,111302,1978,CNTY COMM,5,Macon County,IL,"BRADLEY, BENNETT JR.",Republican,1,,,,Sunday recap — filled mark (vote for two); editorial confirms District 5,0.8
+IL,Decatur Daily Review,111302,1978,CNTY COMM,7,Macon County,IL,"SMITH, R. C.",Democrat,1,,,,Sunday recap — filled mark (vote for two),0.9
+IL,Decatur Daily Review,111302,1978,CNTY COMM,7,Macon County,IL,"SUZEWITZ, ROY",Democrat,1,,,,Sunday recap — filled mark (vote for two),0.9
+IL,Decatur Daily Review,111302,1978,CNTY COMM,8,Macon County,IL,"RAINEY, ROBERT S.",Republican,1,,,,Sunday recap — filled mark,0.9
 IL,Decatur Daily Review,111302,1978,JUDGE,,Judicial Retention,IL,"GOLLINGS, FRANK J.",Nonpartisan,1,1,,,Sunday recap — YES filled (retention),0.9
 IL,Decatur Daily Review,111302,1978,JUDGE,,Judicial Retention,IL,"MORTHLAND, DONALD W.",Nonpartisan,1,1,,,Sunday recap — YES filled (retention),0.9
-IL,Decatur Daily Review,111302,1978,CNTY COMM,6,Macon County Board District 6,IL,"BUTT, JACK D.",Republican,1,,,,Sunday recap; filled mark (vote for two in District 6),0.9
-IL,Decatur Daily Review,111302,1978,CNTY COMM,6,Macon County Board District 6,IL,"JOHNSTON, GARY L.",Republican,1,,,,Sunday recap; filled mark (vote for two in District 6),0.9
+IL,Decatur Daily Review,111302,1978,CNTY COMM,6,Macon County,IL,"BUTT, JACK D.",Republican,1,,,,Sunday recap; filled mark (vote for two in District 6),0.9
+IL,Decatur Daily Review,111302,1978,CNTY COMM,6,Macon County,IL,"JOHNSTON, GARY L.",Republican,1,,,,Sunday recap; filled mark (vote for two in District 6),0.9
+IL,Decatur Daily Review,111302,1964,PRESIDENT,,,IL,"GOLDWATER, BARRY",Republican,0,,,,V2 Pattern A federal,0.90
+IL,Decatur Daily Review,111302,1964,VICE PRESIDENT,,,IL,"MILLER, WILLIAM E.",Republican,0,,,,V2 Pattern A federal,0.90
+IL,Decatur Daily Review,111302,1968,VICE PRESIDENT,,,IL,"AGNEW, SPIRO",Republican,1,,,,V2 R VP endorsed w/ Nixon,0.90
+IL,Decatur Daily Review,111302,1968,VICE PRESIDENT,,,IL,"MUSKIE, EDMUND S.",Democrat,0,,,,V2 Pattern A federal,0.90
+IL,Decatur Daily Review,111302,1968,VICE PRESIDENT,,,IL,"LEMAY, CURTIS",American Independent,0,,,,V2 AIP VP w/ Wallace,0.90
+IL,Decatur Daily Review,111302,1976,TRUSTEE,,University of Illinois,IL,"MADDEN, DEAN E.",Republican,1,,,,Soft endorsement - paper suggests replacing one D with Madden for partisan balance,0.95
+IL,Decatur Daily Review,111302,1976,TRUSTEE,,University of Illinois,IL,"ALLEN, ROBERT E.",Republican,0,,,,On ballot but not endorsed,0.95
+IL,Decatur Daily Review,111302,1976,TRUSTEE,,University of Illinois,IL,"SWAIN, TIMOTHY W.",Republican,0,,,,On ballot but not endorsed (was endorsed in 1968),0.95
+IL,Decatur Daily Review,111302,1968,GOVERNOR,,,IL,"OGILVIE, RICHARD B.",Republican,0,,,,1968 GOV Republican opp - won general election; not endorsed by DDR (endorsed Shapiro D),0.95
+IL,Decatur Daily Review,111302,1968,LT GOVERNOR,,,IL,"DWYER, ROBERT P.",Republican,0,,,,1968 LT GOV Republican opp; not endorsed by DDR (endorsed Simon D),0.97
+IL,Decatur Daily Review,111302,1968,ATTORNEY GENERAL,,,IL,"LORENZ, FRANCIS",Democrat,0,,,,1968 AG Democratic opp; not endorsed by DDR (endorsed Scott R),0.96
+IL,Decatur Daily Review,111302,1968,COURT OF APPEALS,4,4th Judicial District,IL,"GRIFFIN, JAMES JR.",Democrat,0,,,,1968 Clerk of Appellate Court 4th Dist Democratic opp; not endorsed (endorsed Conn R),0.95
+IL,Decatur Daily Review,111302,1978,STATE REP,51,,IL,"BORCHERS, WEBBER",Republican,0,,,,1978 STATE REP 51 Republican opp; not endorsed by DDR,0.9
+IL,Decatur Daily Review,111302,1978,H,22,22nd Congressional District,IL,"CRANE, DANIEL B.",Republican,0,,,,1978 H 22 Republican opp; not endorsed by DDR (endorsed Bruce D),0.95
+IL,Decatur Daily Review,111302,1978,TREASURER,,Macon County,IL,"WHALEN, WILLIAM R.",Democrat,0,,,,1978 Macon Co Treasurer Democratic opp; not endorsed (endorsed Edgcomb R),0.9
+IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"JOHNS, GEORGE P.",Republican,0,,,,1966 STATE REP 52 Republican opp; on ballot not endorsed (paper picked Borchers as R),0.9
+IL,Decatur Daily Review,111302,1966,STATE SENATOR,50,,IL,"BROWN, REX L.",Republican,0,,,,1966 STATE SEN 50 Republican opp; not endorsed (endorsed McCarthy D),0.9
+IL,Decatur Daily Review,111302,1966,CNTY CLERK,,Macon County,IL,"TAYLOR, SARAH",Republican,0,,,,1966 Macon Co Clerk Republican opp; not endorsed (endorsed Tangney D),0.9
+IL,Decatur Daily Review,111302,1966,TREASURER,,Macon County,IL,"BROWN, GEORGE M.",Democrat,0,,,,1966 Macon Co Treasurer Democratic opp; not endorsed (endorsed Maddox R),0.9
+IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"HART, RICHARD O.",Democrat,0,,,,1966 U of I Trustee D opp; not endorsed (paper picked Watkins+Williamson+Grimes),0.95
+IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"WEATHERLY, JAMES A.",Republican,0,,,,1966 U of I Trustee R opp; not endorsed (paper picked Grimes as R),0.95
+IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"HAHN, RALPH C.",Republican,0,,,,1966 U of I Trustee R opp; not endorsed (paper picked Grimes as R),0.95
+IL,Decatur Daily Review,111302,1970,SENATOR,,,IL,"SMITH, RALPH T.",Republican,0,,1,,1970 SEN Republican opp (interim incumbent after Dirksen death); not endorsed (endorsed Stevenson D),0.95
+IL,Decatur Daily Review,111302,1970,TREASURER,,,IL,"KUCHARSKI, EDMUND",Republican,0,,,,1970 State Treasurer Republican opp; not endorsed (endorsed Dixon D),0.95
+IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"WATERS, ORVAS S.",Democrat,0,,,,1968 U of I Trustee D opp; not endorsed (paper picked Williamson D),0.95
+IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"HUGHES, EARL",Republican,0,,,,1968 U of I Trustee R opp; not endorsed (paper picked Swain R + Steger R),0.95
+IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"IVES, TIMOTHY R.",Democrat,0,,,,1968 U of I Trustee D opp; not endorsed (paper picked Williamson D),0.95

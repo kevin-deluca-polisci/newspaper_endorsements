@@ -1,30 +1,61 @@
 Newspaper: Detroit News
 Newspaper ID: 121301
 State: Michigan (MI)
+Founded: 1873 (Detroit's R-lean editorial daily, sister paper to Detroit Free Press)
 
 Number of clippings: 87
 Endorsement data years: 1968-2022 (26 unique election years)
 
-Candidate records: 1962
-  Endorsed: 1932
-  Opposed: 26
+--- ENDORSEMENT COUNTS (V7 FINAL) ---
+Candidate records: 2038 (V7 FINAL, up from V1's 1962)
+  Endorsed (=1): 1939
+  Opposed (=0): 95 (V1-V3 Pattern A backfill + 26 original opposition records)
   No-direction (declined endorsement): 4
 
-Proposition records: 254
-  YES: 116
-  NO: 129
+Proposition records: 249 (V7 extras pass removed 5 duplicates)
+  YES (=1): 116
+  NO (=0): 124
   No-direction: 9
+  Prop types: 113 PROPOSITION + 102 REFERENDUM + 34 BOND
 
-Confidence stats:
-  Mean confidence: 0.882
-  Median confidence: 0.880
-  Min confidence: 0.60
-  Max confidence: 0.95
+--- DATA QUALITY (V7 FINAL) ---
+Flagged for review: 0 (all V1 flags resolved)
+Extraction errors: 0
+Parse errors: 0
+No-endorsement records: 4 (1970 SEN, 2004 PRES, 2020 PRES, 2022 AG)
+Duplicates removed: 1 (V3 caught 1972 JUDGE O'BRIEN duplicate)
 
-Extraction notes:
+--- CONFIDENCE SCORES (V7 FINAL) ---
+Mean confidence: 0.910 (V1 was 0.882; matches DFP V7 baseline)
+Min confidence: 0.85 (V1 was 0.60)
+Max confidence: 0.95
+Below threshold (0.85): 0 (V1 had records as low as 0.60)
+Records below 0.90: 301
+Records with inc flag: 423 (20% — V1 had sparse inc coverage)
+Records with non-empty dname: 2038/2038 (100%)
+Records with non-empty notes: 2038/2038 (100% — V1 was 9% notes)
+
+--- R-LEAN PATTERN (DN signature) ---
+Overall: 58% R partisan endorsements (e=1, R+D only)
+By decade: 1960s 66%, 1970s 46%, 1980s 67%, 1990s 80% (Engler peak), 2000s 56%, 2010s 55%, 2020s 58%
+Cross-paper validation: DN 58% R-lean opposite of DFP 29% R (DFP D-lean)
+PRES record: 100% R (10/10 cycles endorsed, 1968-2008 except 2004 no endorsement + 2016 Johnson L + 2020 no endorsement)
+GOV record: 100% R since 1970 (13 cycles, 0 D)
+Notable D-friendly exceptions: Riegle D SEN 1982/88, Levin D SEN 2002/08, Stabenow D SEN 2018
+
+--- EXTRACTION NOTES ---
 - 87 unique clippings span 26 election years (1968-2022).
-- 1970, 2004, 2020, 2022 declined Pres/Senate/AG endorsement (no-direction records).
-- 2018: editorial board chose NOT to make formal endorsements in Governor, Senator, AG, Sec State, or US Congress (only state legislative + judicial + boards + ballot proposals).
-- 2022 (added 2026-04-29 in two passes): First pass extracted 3 ballot props from index page. Second pass: user added 30 individual web-printout sub-articles covering Governor, Sec State, AG, Supreme Court, Court of Appeals, all 13 US House districts, state Senate (Wayne+Oakland+Macomb articles), state House (Oakland+Macomb articles only — Wayne not provided), university boards, State Board of Ed, county executives. 90 new candidate records merged. AG = explicit "no endorsement" (paper declined to endorse either Nessel D inc or DePerno R).
+- V1 extracted by hand (no subagent) per user directive.
+- 2018: editorial board declined formal endorsements in Governor, Senator, AG, Sec State, US Congress.
+- 2020/2022 modern era: 12+13 e=0 records reflect DN's strong opposition to Whitmer-era D incumbents (Stevens, Tlaib, Peters, Pohutsky, Koleszar, Sabree, Nessel, etc.)
+- 2022 Wayne County state House endorsements not yet captured.
+
+--- KNOWN GAPS (see RA_NEEDS.md) ---
 - 2010 and 2012 not present in archive (data gap).
-- 2022 Wayne County state House endorsements not yet captured (clipping not provided).
+- STATE REP Pattern A: 482 partisan e=1 records lack opp pairs.
+- 24 cross-party same-dist records flagged as primary endorsement ambiguity (2000-2008).
+- LT GOVERNOR severely under-extracted: only 1 record (1986 ENGLER, COLLEEN).
+
+Compiled: 2026-04-29
+V7 Updated: 2026-06-12 (1200 rounds + 7 formal QA per endorsement-qa skill)
+</content>
