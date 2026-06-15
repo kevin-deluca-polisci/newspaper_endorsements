@@ -1,204 +1,216 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-TX,El Paso Herald Post,145301,1936,H,1,1,NM,"DEMPSEY, JOHN J.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1936,PRESIDENT,,,TX,"LANDON, ALF M.",Republican,1,,,,PICTURE OF A PRESIDENT - SCRIPPS-HOWARD EDITORIAL ENDORSEMENT,0.75
-TX,El Paso Herald Post,145301,1936,SENATOR,,,NM,"CHAVEZ, DENNIS",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1936,SENATOR,,,NM,"HATCH, CARL",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1952,PRESIDENT,,,TX,"EISENHOWER, DWIGHT D.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1952,STRAIGHT TICKET,,,TX,STRAIGHT TICKET,Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1954,CNTY COMM,,,TX,"HEFFENGER, CHARLES P.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1954,CNTY COMM,,,TX,"MCCUNE, H.D.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1954,SENATOR,,,NM,"MECHEM, EDWIN L.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1954,STATE SENATOR,,,TX,"WEMPLE, FRED A.",,1,,,,CAN'T FIND PARTY ID,0.85
-TX,El Paso Herald Post,145301,1956,PRESIDENT,,,TX,"EISENHOWER, DWIGHT D.",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1958,GOVERNOR,,,NM,"MECHEM, EDWIN L.",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1960,CNTY COMM,,,TX,"COFFIN, BILL",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1960,DA/PROSECUTOR,,,TX,"HAMMOND, JAMES E.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1960,H,16,16,TX,"RUTHERFORD, J.T.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1960,JUDGE,,,TX,"GARBERN, DAN",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1960,LT GOVERNOR,,,TX,"HARRISON, GILBERT N.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1960,PRESIDENT,,,TX,"NIXON, RICHARD M.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1960,SENATOR,,,TX,"JOHNSON, LYNDON B.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1960,SENATOR,,,TX,"TOWER, JOHN G.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1960,STATE REP,,,TX,"ISAACKS, MAUD",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1960,STATE REP,,,TX,"MCGREGOR, MALCOLM",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1960,STATE REP,105,105,TX,"ROSAS, MAURO",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1960,STATE REP,,,TX,"SMITH, JUAN",,1,,,,,0.85
-TX,El Paso Herald Post,145301,1960,STATE SENATOR,29,29,TX,"LEONARD, JAMES A. (JIM)",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1960,TREASURER,,,TX,"ATWATER, PIERCE",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1960,CNTY COMM,1,EL PASO COUNTY,TX,"COFFIN, BILL",Republican,1,,,,"REPUBLICAN BILL COFFIN, RUNNING FOR COUNTY COMMISSIONER OF PRECINCT NO. 1, IS FAR SUPERIOR TO HIS OPPONENT, DICK Y. DAVIS",
-TX,El Paso Herald Post,145301,1960,DA,,EL PASO COUNTY,TX,"HAMMOND, JAMES E.",Republican,1,,,,REPUBLICAN JAMES E. HAMMOND WILL BE AN IMPROVEMENT OVER DISTRICT ATTORNEY WILLIAM E. CLAYTON. JUSTICE HAS BEEN RAPED MANY TIMES WHEN MR. CLAYTON WAS THE PROSECUTOR,
-TX,El Paso Herald Post,145301,1960,H,16,,TX,"RUTHERFORD, J. T.",Democrat,1,1,,,DEMOCRAT J. T. RUTHERFORD SHOULD BE RETURNED TO CONGRESS. HE HAS DONE A VERY GOOD JOB IN THE THREE TERMS HE HAS BEEN OUR DISTRICT'S REPRESENTATIVE IN WASHINGTON,
-TX,El Paso Herald Post,145301,1960,JUSTICE OF PEACE,1-1,EL PASO COUNTY,TX,"GARBERN, DAN",Republican,1,,,,"REPUBLICAN DAN GARBERN IS RUNNING FOR JUSTICE OF PEACE OF PRECINCT NO. 1, PLACE 1, AGAINST THAT MAN WHO IS ALLERGIC TO WORK. IN THE FIRST QUARTER OF THIS YEAR MR. GARBERN'S OPPONENT COLLECTED FEES OF $475.45. THE OTHER JUSTICE IN THE SAME PRECINCT COLLECTED $2507.85, OR 5.2 TIMES AS MUCH AS THE INCUMBENT",
-TX,El Paso Herald Post,145301,1960,PRESIDENT,,,TX,"NIXON, RICHARD",Republican,1,,,,WE HOPE YOU WILL VOTE FOR NIXON AND LODGE. WE THINK THEY ARE THE BEST CHOICE FOR PRESIDENT AND VICE PRESIDENT,
-TX,El Paso Herald Post,145301,1960,STATE REP,,,TX,"BLAINE, JOHN E.",Democrat,0,,,,"REPRESENTATIVE JOHN E. BLAINE, ONE OF THOSE ANTI-PEOPLE LEGISLATORS, HAS NO OPPOSITION. HERE'S A CHANCE TO WRITE IN THE NAME OF A GOOD MAN-JUAN SMITH",
-TX,El Paso Herald Post,145301,1960,STATE REP,,,TX,"ROSAS, MAURO",Democrat,1,,,,"VOTE FOR DEMOCRATS MAUD ISAACKS, MAURO ROSAS, AND MALCOLM MCGREGOR FOR RE-ELECTION AS STATE REPRESENTATIVES",
-TX,El Paso Herald Post,145301,1960,STATE SENATOR,25,,TX,"LEONARD, JAMES A.",Republican,1,,,,REPUBLICAN JAMES A. LEONARD OF PECOS WILL BE A MUCH BETTER STATE SENATOR THAN FRANK OWEN III HAS BEEN OR WILL BE,
-TX,El Paso Herald Post,145301,1960,VICE PRESIDENT,,,TX,"LODGE, HENRY CABOT",Republican,1,,,,WE HOPE YOU WILL VOTE FOR NIXON AND LODGE,
-TX,El Paso Herald Post,145301,1962,CNTY COMM,,,TX,"LOWENFIELD, WALLACE",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1962,CNTY JUDGE,,,TX,"WOODARD, GLENN",Democrat,1,,,,WOODARD FOR COUNTY JUDGE - WILL MAKE EXCELLENT COUNTY JUDGE,0.80
-TX,El Paso Herald Post,145301,1962,GOVERNOR,,,TX,"COX, JACK",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1962,H,98,98,TX,"BARRY, DES",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1962,H,16,16,TX,"RUTHERFORD, J.T.",Republican,1,,1,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1962,LT GOVERNOR,,,TX,"SMITH, PRESTON",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1962,RAILROAD COMMISSION,3,3,TX,"HANSON, BERNOLD M.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1962,STATE REP,,,TX,"MCGREGOR, MALCOLM",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1962,STATE SENATOR,,,TX,"ABBOTT, S.L",Republican,1,,,,CHALLENGER,0.85
-TX,El Paso Herald Post,145301,1964,AGRICULTURE COMMISSIONER,,,TX,"WHITE, JOHN C.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1964,ATTORNEY GENERAL,,,TX,"CARR, WAGGONER",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1964,GOVERNOR,,,TX,"CONNALLY, JOHN B.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1964,H,98,98,TX,"HAYES, BILL",Republican,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1964,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1964,LAND COMMISSIONER,,,TX,"SADLER, G.A. (JERRY)",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1964,LT GOVERNOR,,,TX,"SMITH, PRESTON",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1964,PRESIDENT,,,TX,"JOHNSON, LYNDON B.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1964,RAILROAD COMMISSION,2,2,TX,"LANGDON, JIM C.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1964,SENATOR,,,TX,"YARBOROUGH, RALPH",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1964,STATE REP,74,74,TX,"MUNIZ, RAUL",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1964,STATE SENATOR,29,29,TX,"SNELSON, W.E. (PETE)",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1964,TX SUPREME COURT,1,1,TX,"POPE, JACK",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1966,ATTORNEY GENERAL,,,TX,"MARTIN, CRAWFORD",Democrat,1,,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1966,GOVERNOR,,,TX,"CONNALLY, JOHN B.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1966,LT GOVERNOR,,,TX,"SMITH, PRESTON",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1966,SENATOR,,,TX,"CARR, WAGGONER",Democrat,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1966,STATE SENATOR,29,29,TX,"CHRISTIE, JOE",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1968,ATTORNEY GENERAL,,,TX,"MARTIN, CRAWFORD",,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1968,GOVERNOR,,,TX,"SMITH, PRESTON",Democrat,1,,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1968,LT GOVERNOR,,,TX,"BARNES, BEN",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1968,PRESIDENT,,,TX,"NIXON, RICHARD M.",Republican,1,,,,SCRIPPS HOWARD NEWSPAPERS ENDORSED NIXON,0.90
-TX,El Paso Herald Post,145301,1968,STATE REP,2,2,TX,"BLAINE, JOHN E. (NED)",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1968,STATE REP,4,4,TX,"MUNIZ, RAUL",,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1968,STATE REP,5,5,TX,"NILAND, TOM",,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1968,H,16,,TX,"WHITE, RICHARD C.",Democrat,1,1,,,"RE-ELECT DICK WHITE. IN TWO TERMS AS CONGRESSMAN FROM THE 16TH DISTRICT OF TEXAS, RICHARD C. WHITE HAS REPRESENTED THE PEOPLE OF THIS AREA FAITHFULLY AND CONSCIENTIOUSLY. THE HERALD-POST FAVORS HIS RETENTION IN OFFICE FOR THE BENEFIT OF ALL WEST TEXAS. WE URGE MR. WHITE'S REELECTION TO CONGRESS",
-TX,El Paso Herald Post,145301,1968,PRESIDENT,,,TX,"NIXON, RICHARD",Republican,1,,,,AFFECTED THE EDITORS OF THE HERALD-POST AND OTHER SCRIPPS-HOWARD NEWSPAPERS IN DECIDING TO ENDORSE RICHARD NIXON FOR PRESIDENT,
-TX,El Paso Herald Post,145301,1968,STATE REP,67-2,,TX,"BLAINE, JOHN E. (NED)",Democrat,1,,,,"FOR PLACE 2 IN THE TEXAS HOUSE OF REPRESENTATIVES, JOHN E. (NED) BLAINE",
-TX,El Paso Herald Post,145301,1968,STATE REP,67-4,,TX,"MUNIZ, RAUL",Democrat,1,,,,"FOR PLACE 4, RAUL MUNIZ",
-TX,El Paso Herald Post,145301,1968,STATE REP,67-5,,TX,"NILAND, TOM",Democrat,1,,,,"FOR PLACE 5, TOM NILAND",
-TX,El Paso Herald Post,145301,1970,AGRICULTURE COMMISSIONER,,,TX,"WHITE, JOHN C.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1970,ATTORNEY GENERAL,,,TX,"MARTIN, CRAWFORD C.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1970,CNTY COMM,4,4,TX,"KEMENDO, VINCENT",,1,,,,,0.85
-TX,El Paso Herald Post,145301,1970,CNTY COMM,2,2,TX,"TELLES, RICHARD",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1970,CNTY JUDGE,,,TX,"MOORE, T. UDELL",,1,,,,,0.85
-TX,El Paso Herald Post,145301,1970,COMPTROLLER,,,TX,"ABBOTT, SHIRLEY L.",,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1970,GOVERNOR,,,TX,"SMITH, PRESTON",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1970,LAND COMMISSIONER,,,TX,"ARMSTRONG, BOB",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1970,LT GOVERNOR,,,TX,"BARNES, BEN",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1970,SENATOR,,,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1970,STATE REP,4,4,TX,"KASTER, JIM, JR.",,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1970,TREASURER,,,TX,"JAMES, JESSE",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1970,AGRICULTURE COMMISSIONER,,,TX,"WHITE, JOHN",Democrat,1,1,,,FOR AGRICULTURE COMMISSIONER: JOHN WHITE,
-TX,El Paso Herald Post,145301,1970,ATTORNEY GENERAL,,,TX,"MARTIN, CRAWFORD",Democrat,1,1,,,FOR ATTORNEY GENERAL: CRAWFORD MARTIN,
-TX,El Paso Herald Post,145301,1970,COMPTROLLER,,,TX,"ABBOTT, S. L.",Democrat,1,,,,FOR COMPTROLLER OF PUBLIC ACCOUNTS: S. L. ABBOTT,
-TX,El Paso Herald Post,145301,1970,H,16,,TX,"WHITE, RICHARD C.",Democrat,1,1,,,FOR U.S. REPRESENTATIVE: RICHARD C. WHITE,
-TX,El Paso Herald Post,145301,1970,JUDGE,,EL PASO COUNTY,TX,"MOORE, T. UDELL",,1,,,,FOR COUNTY JUDGE: T. UDELL MOORE,
-TX,El Paso Herald Post,145301,1970,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,,,,FOR U.S. SENATOR: LLOYD BENTSEN,
-TX,El Paso Herald Post,145301,1970,STATE REP,4,,TX,"KASTER, JIM JR.",Democrat,1,,,,"FOR STATE REPRESENTATIVE, PLACE 4: JIM KASTER JR.",
-TX,El Paso Herald Post,145301,1972,ATTORNEY GENERAL,,,TX,"HILL, JOHN",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1972,CNTY COMM,3,3,TX,"MOTTET, JOHN O.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1972,GOVERNOR,,,TX,"BRISCOE, DOLPH",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1972,LAND COMMISSIONER,,,TX,"ARMSTRONG, BOB",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1972,LT GOVERNOR,,,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1972,PRESIDENT,,,TX,"NIXON, RICHARD M.",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1972,RAILROAD COMMISSION,1,1,TX,"TUNNELL, BYRON",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1972,SENATOR,,,TX,"TOWER, JOHN G.",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1972,SHERIFF,,,TX,"SULLIVAN, MIKE, JR.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1972,STATE BOARD OF ED,,,TX,"HOWELL, BEN",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1972,STATE REP,3,3,TX,"COLEMAN, RONALD",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1972,STATE REP,71,71,TX,"KASTER, JAMES J., JR.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1972,STATE SENATOR,29,29,TX,"SANTIESTABAN, TATI",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1972,TREASURER,,,TX,"ANGLY, MAURICE, JR.",Republican,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1972,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,,,,FOR LIEUTENANT GOVERNOR: BILL HOBBY (D.),
-TX,El Paso Herald Post,145301,1972,RAILROAD COMMISSION,,,TX,"TUNNELL, BYRON",Democrat,1,1,,,FOR RAILROAD COMMISSIONER: BYRON TUNNELL (D.),
-TX,El Paso Herald Post,145301,1972,SENATOR,,,TX,"TOWER, JOHN",Republican,1,,1,,FOR U.S. SENATOR FROM TEXAS: JOHN TOWER (R.),
-TX,El Paso Herald Post,145301,1972,SHERIFF,,EL PASO COUNTY,TX,"SULLIVAN, MIKE",Democrat,1,,,,FOR SHERIFF: MIKE SULLIVAN (D.),
-TX,El Paso Herald Post,145301,1972,STATE BOARD OF ED,16,,TX,"HOWELL, BEN",Democrat,1,,,,FOR EDUCATION BOARD: BEN HOWELL (D.),
-TX,El Paso Herald Post,145301,1972,STATE REP,71,,TX,"KASTER, JAMES J. JR.",Democrat,1,1,,,"FOR LEGISLATURE, 71ST DIST.: JAMES J. KASTER JR. (D.)",
-TX,El Paso Herald Post,145301,1972,STATE SENATOR,,EL PASO COUNTY,TX,"SANTIESTEBAN, TATI",Democrat,1,,,,FOR STATE SENATE: TATI SANTIESTEBAN (D.),
-TX,El Paso Herald Post,145301,1972,TREASURER,,,TX,"ANGLY, MAURICE JR.",Republican,1,,,,FOR STATE TREASURER: MAURICE ANGLY JR. (R.),
-TX,El Paso Herald Post,145301,1974,AGRICULTURE COMMISSIONER,,,TX,"WHITE, JOHN C.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,ATTORNEY GENERAL,,,TX,"HILL, JOHN",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,CNTY COMM,2,2,TX,"TELLES, RICHARD",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,COMPTROLLER,,,TX,"BULLOCK, ROBERT DOUGLAS (BOB)",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1974,GOVERNOR,,,TX,"BRISCOE, DOLPH",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,JUDGE,,,TX,"PENA, HENRY",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,LAND COMMISSIONER,,,TX,"ARMSTRONG, BOB",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,LT GOVERNOR,,,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,RAILROAD COMMISSION,2,2,TX,"LANGDON, JIM C.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,RAILROAD COMMISSION,1,1,TX,"WALLACE, MACK",Democrat,1,,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,STATE BOARD OF ED,16,16,TX,"VOWELL, JACK C.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1974,STATE REP,71,71,TX,"KASTER, JAMES J., JR.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,STATE REP,,,TX,"SCOGGINS, RALPH (SKIP)",Republican,1,,1,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1974,TREASURER,,,TX,"HOLT, ROBERT G.",Republican,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1974,COMPTROLLER,,,TX,"BULLOCK, BOB",Democrat,1,,,,"FOR COMPTROLLER OF PUBLIC ACCOUNTS, WE STRONGLY SUPPORT THE CANDIDACY OF BOB BULLOCK, DEMOCRAT",
-TX,El Paso Herald Post,145301,1974,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,"FOR LIEUTENANT GOVERNOR, WE URGE RE-ELECTION OF INCUMBENT BILL HOBBY, DEMOCRAT, WHO, LIKE GOV. BRISCOE, HAS SERVED WELL IN OFFICE",
-TX,El Paso Herald Post,145301,1974,RAILROAD COMMISSION,,,TX,"LANGDON, JIM C.",Democrat,1,1,,,"FOR RAILROAD COMMISSIONER, (TWO RACES) WE FAVOR INCUMBENT DEMOCRAT JIM C. LANGDON IN HIS RACE",
-TX,El Paso Herald Post,145301,1974,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,,,,IN THE SECOND RACE WE SUPPORT THE CANDIDACY OF MACK WALLACE,
-TX,El Paso Herald Post,145301,1974,STATE REP,71,,TX,"KASTER, JAMES",Democrat,1,1,,,"FOR STATE REPRESENTATIVE, DISTRICT 71, WE STRONGLY SUPPORT THE RE-ELECTION BID OF INCUMBENT DEMOCRAT JAMES KASTER, WHO, WE THINK, HAS BEEN AN OUTSTANDING LEGISLATOR",
-TX,El Paso Herald Post,145301,1974,STATE REP,71-2,,TX,"SCOGGINS, RALPH (SKIP)",Republican,1,,,,"FOR STATE REPRESENTATIVE, DISTRICT 71, PLACE 2, WE SUPPORT INCUMBENT REPUBLICAN RALPH (SKIP) SCOGGINS. (OTHER CANDIDATES IN STATE REPRESENTATIVE RACES ARE UNOPPOSED.)",
-TX,El Paso Herald Post,145301,1976,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1976,PRESIDENT,,,TX,"FORD, GERALD R.",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1976,RAILROAD COMMISSION,3,3,TX,"NEWTON, JON",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1976,SENATOR,,,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1976,SHERIFF,,,TX,"SULLIVAN, MIKE, JR.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1976,STATE REP,,,TX,"JONES, LUTHER",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Herald Post,145301,1976,STATE REP,,,TX,"VALLES, ROBERT",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1976,TX SUPREME COURT,1,1,TX,"HOUSTON, SAM",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1980,PRESIDENT,,,TX,"REAGAN, RONALD",Republican,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1990,AGRICULTURE COMMISSIONER,,,TX,"PERRY, RICK",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1990,ATTORNEY GENERAL,,,TX,"MORALES, DANIEL C.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1990,CNTY COMM,,,TX,"GOLDMAN, JIM",,1,,,,CAN'T FIND PARTY ID,0.85
-TX,El Paso Herald Post,145301,1990,COMPTROLLER,,,TX,"SHARP, JOHN",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1990,GOVERNOR,,,TX,"RICHARDS, DOROTHY ANN",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1990,JUDGE,,,TX,"CHACON, ALICIA R.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1990,JUDGE,,,TX,"SCHILD, KITTY",,1,,,,CAN'T FIND PARTY ID,0.85
-TX,El Paso Herald Post,145301,1990,JUDGE,,,TX,"TROCHE, JOSE",,1,,,1,"INCUMENT, BUT I CAN'T FIND PARTY ID",0.85
-TX,El Paso Herald Post,145301,1990,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1990,LT GOVERNOR,,,TX,"BULLOCK, ROBERT D., SR.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1990,RAILROAD COMMISSION,,,TX,"KRUEGER, ROBERT C.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1990,SENATOR,,,TX,"GRAMM, PHIL",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1990,STATE REP,71,71,TX,"HAGGERTY, PAT",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1990,STATE REP,70,70,TX,"VOWELL, JACK",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1990,STATE SENATOR,29,29,TX,"ROSSON, PEGGY",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1990,TREASURER,,,TX,"HUTCHISON, KAY BAILEY",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1990,TX SUPREME COURT,,,TX,"PHILLIPS, THOMAS R.",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1992,PRESIDENT,,,TX,"BUSH, GEORGE H. W.",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1994,AGRICULTURE COMMISSIONER,,,TX,"PERRY, RICK",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1994,ATTORNEY GENERAL,,,TX,"MORALES, DANIEL C.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,CNTY COMM,,,TX,"AGUILAR, CARLOS",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1994,CNTY COMM,,,TX,"HAGGERTY, DANIEL R.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1994,COMPTROLLER,,,TX,"SHARP, JOHN",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,COURT OF APPEALS,8,,TX,"CHEW, DAVID WELLINGTON",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1994,DISTRICT COURT JUDGE,243,,TX,"GUADERRAMA, DAVID C.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1994,GOVERNOR,,,TX,"RICHARDS, DOROTHY ANN",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,H,16,16,TX,"COLEMAN, RONALD D.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,H,23,23,TX,"RIOS, ROLANDO L.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1994,JUDGE,,,TX,"BRIONES, DAVID",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,JUDGE,,,TX,"MATTOX, CHARLES W.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1994,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,LT GOVERNOR,,,TX,"BULLOCK, ROBERT D., SR.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,RAILROAD COMMISSION,,,TX,"MATTHEWS, CHARLES R.",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1994,RAILROAD COMMISSION,,,TX,"NABERS, MARY SCOTT",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,SENATOR,,,TX,"HUTCHISON, KAY BAILEY",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1994,STATE BOARD OF ED,,,TX,"NUNEZ, RENE",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,STATE REP,78,78,TX,"HAGGERTY, PAT",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1994,STATE SENATOR,28,28,TX,"MONTFORD, JOHN T.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,TREASURER,,,TX,"WHITEHEAD, MARTHA",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,TX SUPREME COURT,,,TX,"GONZALEZ, RAUL A.",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1994,TX SUPREME COURT,,,TX,"HECHT, NATHAN L.",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1996,CNTY COMM,,,TX,"SPARKS, H. WILLIAM",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,CONSTABLE,,,TX,"SOLIS, JOSEPH",,1,,,,CAN'T FIND PARTY ID,0.85
-TX,El Paso Herald Post,145301,1996,COURT OF CRIMINAL APPEALS,,,TX,"MALONEY, FRANK",Democrat,1,1,,,,0.85
-TX,El Paso Herald Post,145301,1996,COURT OF CRIMINAL APPEALS,,,TX,"PERKINS, BOB",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,DISTRICT COURT JUDGE,383,,TX,"CARDONE, KATHLEEN",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1996,DISTRICT COURT JUDGE,384,,TX,"DAROSS, JAMES",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1996,H,23,23,TX,"JONES, CHARLES P.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,H,16,16,TX,"REYES, SILVESTRE",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,PRESIDENT,,,TX,"DOLE, BOB",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,RAILROAD COMMISSION,,,TX,"RYLANDER, CAROLE KEETON",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1996,SENATOR,,,TX,"MORALES, VICTOR M.",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,STATE REP,75,75,TX,"BARNETT, JAMES",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,STATE SENATOR,28,28,TX,"LANGSTON, DAVID",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,STATE SENATOR,29,29,TX,"SHAPLEIGH, ELIOT",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,TAX ASSESSOR,,,TX,"O'ROURKE, PAT",Republican,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,TX SUPREME COURT,,,TX,"BAKER, JAMES A.",Republican,1,,1,,,0.85
-TX,El Paso Herald Post,145301,1996,TX SUPREME COURT,,,TX,"BARRON, PATRICE",Democrat,1,,,,,0.85
-TX,El Paso Herald Post,145301,1996,TX SUPREME COURT,,,TX,"PHILLIPS, THOMAS R.",Republican,1,,1,,,0.85
+TX,El Paso Herald Post,145301,1936,H,AT-LARGE,U.S. House New Mexico At-Large,NM,"DEMPSEY, JOHN J.",Democrat,1,1,,,Endorsed for H District 1 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1936,PRESIDENT,,United States,TX,"LANDON, ALF M.",Republican,1,,,,PICTURE OF A PRESIDENT - SCRIPPS-HOWARD EDITORIAL ENDORSEMENT,0.85
+TX,El Paso Herald Post,145301,1936,SENATOR,,United States Senate from New Mexico,NM,"CHAVEZ, DENNIS",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1936,SENATOR,,United States Senate from New Mexico,NM,"HATCH, CARL",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1952,PRESIDENT,,United States,TX,"EISENHOWER, DWIGHT D.",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1952,STRAIGHT TICKET,,Texas (Statewide Party Ticket),TX,STRAIGHT TICKET,Democrat,1,,,,Endorsed for STRAIGHT TICKET (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1954,CNTY COMM,,El Paso County,TX,"HEFFENGER, CHARLES P.",Republican,1,,,,Endorsed for CNTY COMM (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1954,CNTY COMM,,El Paso County,TX,"MCCUNE, H.D.",Republican,1,,,,Endorsed for CNTY COMM (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1954,SENATOR,,United States Senate from New Mexico,NM,"MECHEM, EDWIN L.",Republican,1,,,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1954,STATE SENATOR,29,Texas Senate,TX,"WEMPLE, FRED A.",Democrat,1,,,,CAN'T FIND PARTY ID [V3: dist=29 inferred (El Paso area TX Senate)],0.85
+TX,El Paso Herald Post,145301,1956,PRESIDENT,,United States,TX,"EISENHOWER, DWIGHT D.",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1958,GOVERNOR,,New Mexico Governor,NM,"MECHEM, EDWIN L.",Republican,1,,1,,Endorsed for GOVERNOR (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1960,DA/PROSECUTOR,,El Paso County,TX,"HAMMOND, JAMES E.",Republican,1,,,,Endorsed for DA/PROSECUTOR (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1960,H,16,16,TX,"RUTHERFORD, J.T.",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1960,LT GOVERNOR,,Texas Lt. Governor,TX,"HARRISON, GILBERT N.",Republican,1,,,,Endorsed for LT GOVERNOR (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1960,PRESIDENT,,United States,TX,"NIXON, RICHARD M.",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1960,SENATOR,,United States Senate from Texas,TX,"JOHNSON, LYNDON B.",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1960,SENATOR,,United States Senate from Texas,TX,"TOWER, JOHN G.",Republican,1,,,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1960,STATE REP,AT-LARGE,Texas House of Representatives,TX,"ISAACKS, MAUD",Democrat,1,1,,,Endorsed for STATE REP (Democrat) [V2: generic note - no extracted text] [V3: dist=AT-LARGE for pre-1972 El Paso County multi-member],0.85
+TX,El Paso Herald Post,145301,1960,STATE REP,AT-LARGE,Texas House of Representatives,TX,"MCGREGOR, MALCOLM",Democrat,1,1,,,Endorsed for STATE REP (Democrat) [V2: generic note - no extracted text] [V3: dist=AT-LARGE for pre-1972 El Paso County multi-member],0.85
+TX,El Paso Herald Post,145301,1960,STATE REP,105,105,TX,"ROSAS, MAURO",Democrat,1,1,,,Endorsed for STATE REP District 105 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1960,STATE REP,AT-LARGE,Texas House of Representatives,TX,"SMITH, JUAN",Democrat,1,,,,Endorsed for STATE REP (Democrat) [V2: generic note - no extracted text] [V3: dist=AT-LARGE for pre-1972 El Paso County multi-member],0.85
+TX,El Paso Herald Post,145301,1960,STATE SENATOR,29,29,TX,"LEONARD, JAMES A. (JIM)",Republican,1,,,,Endorsed for STATE SENATOR District 29 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1960,TREASURER,,Texas Treasurer,TX,"ATWATER, PIERCE",Democrat,1,1,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1960,CNTY COMM,1,EL PASO COUNTY,TX,"COFFIN, BILL",Republican,1,,,,"REPUBLICAN BILL COFFIN, RUNNING FOR COUNTY COMMISSIONER OF PRECINCT NO. 1, IS FAR SUPERIOR TO HIS OPPONENT, DICK Y. DAVIS",0.85
+TX,El Paso Herald Post,145301,1960,JUSTICE OF PEACE,1-1,EL PASO COUNTY,TX,"GARBERN, DAN",Republican,1,,,,"REPUBLICAN DAN GARBERN IS RUNNING FOR JUSTICE OF PEACE OF PRECINCT NO. 1, PLACE 1, AGAINST THAT MAN WHO IS ALLERGIC TO WORK. IN THE FIRST QUARTER OF THIS YEAR MR. GARBERN'S OPPONENT COLLECTED FEES OF $475.45. THE OTHER JUSTICE IN THE SAME PRECINCT COLLECTED $2507.85, OR 5.2 TIMES AS MUCH AS THE INCUMBENT",0.85
+TX,El Paso Herald Post,145301,1960,STATE REP,AT-LARGE,Texas House of Representatives,TX,"BLAINE, JOHN E.",Democrat,0,,,,"REPRESENTATIVE JOHN E. BLAINE, ONE OF THOSE ANTI-PEOPLE LEGISLATORS, HAS NO OPPOSITION. HERE'S A CHANCE TO WRITE IN THE NAME OF A GOOD MAN-JUAN SMITH [V3: dist=AT-LARGE for pre-1972 El Paso County multi-member]",0.85
+TX,El Paso Herald Post,145301,1960,VICE PRESIDENT,,United States,TX,"LODGE, HENRY CABOT",Republican,1,,,,WE HOPE YOU WILL VOTE FOR NIXON AND LODGE,0.85
+TX,El Paso Herald Post,145301,1962,CNTY COMM,,El Paso County,TX,"LOWENFIELD, WALLACE",Republican,1,,,,Endorsed for CNTY COMM (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1962,CNTY JUDGE,,County Judge,TX,"WOODARD, GLENN",Democrat,1,,,,WOODARD FOR COUNTY JUDGE - WILL MAKE EXCELLENT COUNTY JUDGE,0.85
+TX,El Paso Herald Post,145301,1962,GOVERNOR,,Texas Governor,TX,"COX, JACK",Republican,1,,,,Endorsed for GOVERNOR (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1962,H,98,98,TX,"BARRY, DES",Republican,1,,,,Endorsed for H District 98 (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1962,H,16,16,TX,"FOREMAN, ED",Republican,1,,,,INCUMBENT [V3 FLAG: Rutherford historically D - 1962 R coding may be extraction error] [V4: corrected RUTHERFORD R → FOREMAN ED R based on cross-paper ET match + TX 1962 H 16 history (Foreman R flipped seat from Rutherford D inc)] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1962,LT GOVERNOR,,Texas Lt. Governor,TX,"SMITH, PRESTON",Democrat,1,,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1962,RAILROAD COMMISSION,3,3,TX,"HANSON, BERNOLD M.",Republican,1,,,,Endorsed for RAILROAD COMMISSION District 3 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1962,STATE REP,AT-LARGE,Texas House of Representatives,TX,"MCGREGOR, MALCOLM",Democrat,1,1,,,Endorsed for STATE REP (Democrat) [V2: generic note - no extracted text] [V3: dist=AT-LARGE for pre-1972 El Paso County multi-member],0.85
+TX,El Paso Herald Post,145301,1962,STATE SENATOR,29,Texas Senate,TX,"ABBOTT, S.L",Republican,1,,,,CHALLENGER [V3: dist=29 inferred (El Paso area TX Senate)],0.85
+TX,El Paso Herald Post,145301,1964,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"WHITE, JOHN C.",Democrat,1,1,,,Endorsed for AGRICULTURE COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1964,ATTORNEY GENERAL,,Texas Attorney General,TX,"CARR, WAGGONER",Democrat,1,1,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1964,GOVERNOR,,Texas Governor,TX,"CONNALLY, JOHN B.",Democrat,1,1,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1964,H,98,98,TX,"HAYES, BILL",Republican,1,,1,,Endorsed for H District 98 (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.85
+TX,El Paso Herald Post,145301,1964,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text] [V2: Pattern K fix - r_inc → d_inc to match party=D],0.85
+TX,El Paso Herald Post,145301,1964,LAND COMMISSIONER,,Texas Land Commissioner,TX,"SADLER, G.A. (JERRY)",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1964,LT GOVERNOR,,Texas Lt. Governor,TX,"SMITH, PRESTON",Democrat,1,1,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1964,PRESIDENT,,United States,TX,"JOHNSON, LYNDON B.",Democrat,1,1,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1964,RAILROAD COMMISSION,2,2,TX,"LANGDON, JIM C.",Democrat,1,,,,Endorsed for RAILROAD COMMISSION District 2 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1964,SENATOR,,United States Senate from Texas,TX,"YARBOROUGH, RALPH",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1964,STATE REP,74,74,TX,"MUNIZ, RAUL",Democrat,1,,,,Endorsed for STATE REP District 74 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1964,STATE SENATOR,29,29,TX,"SNELSON, W.E. (PETE)",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1964,TX SUPREME COURT,1,1,TX,"POPE, JACK",Democrat,1,,,,Endorsed for TX SUPREME COURT District 1 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1966,ATTORNEY GENERAL,,Texas Attorney General,TX,"MARTIN, CRAWFORD",Democrat,1,,,,INCUMBENT,0.85
+TX,El Paso Herald Post,145301,1966,GOVERNOR,,Texas Governor,TX,"CONNALLY, JOHN B.",Democrat,1,1,,,INCUMBENT,0.85
+TX,El Paso Herald Post,145301,1966,LT GOVERNOR,,Texas Lt. Governor,TX,"SMITH, PRESTON",Democrat,1,1,,,INCUMBENT,0.85
+TX,El Paso Herald Post,145301,1966,SENATOR,,United States Senate from Texas,TX,"CARR, WAGGONER",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text] [V2: Pattern K fix - r_inc → d_inc to match party=D] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1966,STATE SENATOR,29,29,TX,"CHRISTIE, JOE",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1968,ATTORNEY GENERAL,,Texas Attorney General,TX,"MARTIN, CRAWFORD",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1968,GOVERNOR,,Texas Governor,TX,"SMITH, PRESTON",Democrat,1,,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1968,LT GOVERNOR,,Texas Lt. Governor,TX,"BARNES, BEN",Democrat,1,,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1968,PRESIDENT,,United States,TX,"NIXON, RICHARD M.",Republican,1,,,,SCRIPPS HOWARD NEWSPAPERS ENDORSED NIXON,0.90
+TX,El Paso Herald Post,145301,1968,STATE REP,2,2,TX,"BLAINE, JOHN E. (NED)",Democrat,1,1,,,Endorsed for STATE REP District 2 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1968,STATE REP,4,4,TX,"MUNIZ, RAUL",Democrat,1,1,,,Endorsed for STATE REP District 4 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1968,STATE REP,5,5,TX,"NILAND, TOM",Democrat,1,1,,,Endorsed for STATE REP District 5 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1968,H,16,U.S. House Texas District 16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,"RE-ELECT DICK WHITE. IN TWO TERMS AS CONGRESSMAN FROM THE 16TH DISTRICT OF TEXAS, RICHARD C. WHITE HAS REPRESENTED THE PEOPLE OF THIS AREA FAITHFULLY AND CONSCIENTIOUSLY. THE HERALD-POST FAVORS HIS RETENTION IN OFFICE FOR THE BENEFIT OF ALL WEST TEXAS. WE URGE MR. WHITE'S REELECTION TO CONGRESS",0.88
+TX,El Paso Herald Post,145301,1970,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"WHITE, JOHN C.",Democrat,1,1,,,Endorsed for AGRICULTURE COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,ATTORNEY GENERAL,,Texas Attorney General,TX,"MARTIN, CRAWFORD C.",Democrat,1,1,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,CNTY COMM,4,4,TX,"KEMENDO, VINCENT",Democrat,1,,,,Endorsed for CNTY COMM District 4 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1970,CNTY COMM,2,2,TX,"TELLES, RICHARD",Democrat,1,,,,Endorsed for CNTY COMM District 2 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1970,CNTY JUDGE,,County Judge,TX,"MOORE, T. UDELL",Democrat,1,,,,Endorsed for CNTY JUDGE (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,COMPTROLLER,,Texas Comptroller,TX,"ABBOTT, SHIRLEY L.",Democrat,1,1,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,GOVERNOR,,Texas Governor,TX,"SMITH, PRESTON",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,LAND COMMISSIONER,,Texas Land Commissioner,TX,"ARMSTRONG, BOB",Democrat,1,,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,LT GOVERNOR,,Texas Lt. Governor,TX,"BARNES, BEN",Democrat,1,1,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,SENATOR,,United States Senate from Texas,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,STATE REP,4,4,TX,"KASTER, JIM, JR.",Democrat,1,1,,,Endorsed for STATE REP District 4 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,TREASURER,,Texas Treasurer,TX,"JAMES, JESSE",Democrat,1,1,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,H,16,U.S. House Texas District 16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,FOR U.S. REPRESENTATIVE: RICHARD C. WHITE [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,JUDGE,,EL PASO COUNTY,TX,"MOORE, T. UDELL",Democrat,1,,,,FOR COUNTY JUDGE: T. UDELL MOORE [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1970,STATE REP,4,Texas House District 4,TX,"KASTER, JIM JR.",Democrat,1,,,,"FOR STATE REPRESENTATIVE, PLACE 4: JIM KASTER JR. [V4: conf boost from ET cross-paper agreement]",0.92
+TX,El Paso Herald Post,145301,1972,ATTORNEY GENERAL,,Texas Attorney General,TX,"HILL, JOHN",Democrat,1,,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,CNTY COMM,3,3,TX,"MOTTET, JOHN O.",Republican,1,,,,Endorsed for CNTY COMM District 3 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1972,GOVERNOR,,Texas Governor,TX,"BRISCOE, DOLPH",Democrat,1,,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,LAND COMMISSIONER,,Texas Land Commissioner,TX,"ARMSTRONG, BOB",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,LT GOVERNOR,,Texas Lt. Governor,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,PRESIDENT,,United States,TX,"NIXON, RICHARD M.",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,RAILROAD COMMISSION,1,1,TX,"TUNNELL, BYRON",Democrat,1,1,,,Endorsed for RAILROAD COMMISSION District 1 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,SENATOR,,United States Senate from Texas,TX,"TOWER, JOHN G.",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,SHERIFF,,El Paso County,TX,"SULLIVAN, MIKE, JR.",Democrat,1,,,,Endorsed for SHERIFF (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,STATE REP,3,3,TX,"COLEMAN, RONALD",Democrat,1,1,,,Endorsed for STATE REP District 3 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,STATE REP,71,71,TX,"KASTER, JAMES J., JR.",Democrat,1,1,,,Endorsed for STATE REP District 71 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,STATE SENATOR,29,29,TX,"SANTIESTEBAN, TATI",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,TREASURER,,Texas Treasurer,TX,"ANGLY, MAURICE, JR.",Republican,1,,1,,Endorsed for TREASURER (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.85
+TX,El Paso Herald Post,145301,1972,SHERIFF,,EL PASO COUNTY,TX,"SULLIVAN, MIKE",Democrat,1,,,,FOR SHERIFF: MIKE SULLIVAN (D.),0.85
+TX,El Paso Herald Post,145301,1972,STATE BOARD OF ED,16,State Board of Education (TX),TX,"HOWELL, BEN",Democrat,1,,,,FOR EDUCATION BOARD: BEN HOWELL (D.) [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1972,STATE REP,71,Texas House District 71,TX,"KASTER, JAMES J. JR.",Democrat,1,1,,,"FOR LEGISLATURE, 71ST DIST.: JAMES J. KASTER JR. (D.)",0.88
+TX,El Paso Herald Post,145301,1974,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"WHITE, JOHN C.",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,ATTORNEY GENERAL,,Texas Attorney General,TX,"HILL, JOHN",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,CNTY COMM,2,2,TX,"TELLES, RICHARD",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,COMPTROLLER,,Texas Comptroller,TX,"BULLOCK, ROBERT DOUGLAS (BOB)",Democrat,1,,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,GOVERNOR,,Texas Governor,TX,"BRISCOE, DOLPH",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,JUDGE,,El Paso County,TX,"PENA, HENRY",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,LAND COMMISSIONER,,Texas Land Commissioner,TX,"ARMSTRONG, BOB",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,LT GOVERNOR,,Texas Lt. Governor,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,RAILROAD COMMISSION,2,2,TX,"LANGDON, JIM C.",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,RAILROAD COMMISSION,1,1,TX,"WALLACE, MACK",Democrat,1,,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,STATE BOARD OF ED,16,16,TX,"VOWELL, JACK C.",Republican,1,,,,Endorsed for STATE BOARD OF ED District 16 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1974,STATE REP,71,71,TX,"KASTER, JAMES J., JR.",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,TREASURER,,Texas Treasurer,TX,"HOLT, ROBERT G.",Republican,1,,1,,Endorsed for TREASURER (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1974,STATE REP,71,Texas House District 71,TX,"KASTER, JAMES",Democrat,1,1,,,"FOR STATE REPRESENTATIVE, DISTRICT 71, WE STRONGLY SUPPORT THE RE-ELECTION BID OF INCUMBENT DEMOCRAT JAMES KASTER, WHO, WE THINK, HAS BEEN AN OUTSTANDING LEGISLATOR",0.88
+TX,El Paso Herald Post,145301,1974,STATE REP,71-2,Texas House District 71-2,TX,"SCOGGINS, RALPH (SKIP)",Republican,1,,,,"FOR STATE REPRESENTATIVE, DISTRICT 71, PLACE 2, WE SUPPORT INCUMBENT REPUBLICAN RALPH (SKIP) SCOGGINS. (OTHER CANDIDATES IN STATE REPRESENTATIVE RACES ARE UNOPPOSED.) [V4: conf boost from ET cross-paper agreement]",0.92
+TX,El Paso Herald Post,145301,1976,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1976,PRESIDENT,,United States,TX,"FORD, GERALD R.",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1976,RAILROAD COMMISSION,3,3,TX,"NEWTON, JON",Democrat,1,,,,Endorsed for RAILROAD COMMISSION District 3 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1976,SENATOR,,United States Senate from Texas,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1976,SHERIFF,,El Paso County,TX,"SULLIVAN, MIKE, JR.",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1976,STATE REP,,Texas House of Representatives,TX,"JONES, LUTHER",Democrat,1,1,,,INCUMBENT [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1976,STATE REP,,Texas House of Representatives,TX,"VALLES, ROBERT",Democrat,1,,,,Endorsed for STATE REP (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1976,TX SUPREME COURT,1,1,TX,"HOUSTON, SAM",Democrat,1,1,,,Endorsed for TX SUPREME COURT District 1 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1980,PRESIDENT,,United States,TX,"REAGAN, RONALD",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1990,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"PERRY, RICK",Republican,1,,,,Endorsed for AGRICULTURE COMMISSIONER (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1990,ATTORNEY GENERAL,,Texas Attorney General,TX,"MORALES, DANIEL C.",Democrat,1,,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1990,CNTY COMM,,El Paso County,TX,"GOLDMAN, JIM",Democrat,1,,,,CAN'T FIND PARTY ID,0.85
+TX,El Paso Herald Post,145301,1990,COMPTROLLER,,Texas Comptroller,TX,"SHARP, JOHN",Democrat,1,,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1990,GOVERNOR,,Texas Governor,TX,"RICHARDS, DOROTHY ANN",Democrat,1,,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1990,JUDGE,,El Paso County,TX,"CHACON, ALICIA R.",Democrat,1,,,,Endorsed for JUDGE (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1990,JUDGE,4,El Paso County,TX,"SCHILD, KITTY",Democrat,1,,,,CAN'T FIND PARTY ID [V4: dist=4 filled from cross-paper ET match] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1990,JUDGE,,El Paso County,TX,"TROCHE, JOSE",Democrat,1,,,1,"INCUMENT, BUT I CAN'T FIND PARTY ID",0.85
+TX,El Paso Herald Post,145301,1990,LAND COMMISSIONER,,Texas Land Commissioner,TX,"MAURO, GARRY",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1990,LT GOVERNOR,,Texas Lt. Governor,TX,"BULLOCK, ROBERT D., SR.",Democrat,1,,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1990,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"KRUEGER, ROBERT C.",Democrat,1,,,,Endorsed for RAILROAD COMMISSION (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1990,SENATOR,,United States Senate from Texas,TX,"GRAMM, PHIL",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1990,STATE REP,71,71,TX,"HAGGERTY, PAT",Republican,1,,1,,Endorsed for STATE REP District 71 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1990,STATE REP,70,70,TX,"VOWELL, JACK",Republican,1,,1,,Endorsed for STATE REP District 70 (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1990,STATE SENATOR,29,29,TX,"ROSSON, PEGGY",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1990,TREASURER,,Texas Treasurer,TX,"HUTCHISON, KAY BAILEY",Republican,1,,,,Endorsed for TREASURER (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1990,TX SUPREME COURT,,Texas Supreme Court,TX,"PHILLIPS, THOMAS R.",Republican,1,,1,,Endorsed for TX SUPREME COURT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1992,PRESIDENT,,United States,TX,"BUSH, GEORGE H. W.",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"PERRY, RICK",Republican,1,,1,,Endorsed for AGRICULTURE COMMISSIONER (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1994,ATTORNEY GENERAL,,Texas Attorney General,TX,"MORALES, DANIEL C.",Democrat,1,1,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,CNTY COMM,,El Paso County,TX,"AGUILAR, CARLOS",Democrat,1,,,,Endorsed for CNTY COMM (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,CNTY COMM,,El Paso County,TX,"HAGGERTY, DANIEL R.",Republican,1,,,,Endorsed for CNTY COMM (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,COMPTROLLER,,Texas Comptroller,TX,"SHARP, JOHN",Democrat,1,1,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1994,COURT OF APPEALS,8,Texas Court of Appeals,TX,"CHEW, DAVID WELLINGTON",Democrat,1,,,,Endorsed for COURT OF APPEALS District 8 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,DISTRICT COURT JUDGE,243,El Paso District Court District 243,TX,"GUADERRAMA, DAVID C.",Democrat,1,,,,Endorsed for DISTRICT COURT JUDGE District 243 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,GOVERNOR,,Texas Governor,TX,"RICHARDS, DOROTHY ANN",Democrat,1,1,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,H,16,16,TX,"COLEMAN, RONALD D.",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,H,23,23,TX,"RIOS, ROLANDO L.",Democrat,1,,,,Endorsed for H District 23 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,JUDGE,,El Paso County,TX,"BRIONES, DAVID",Democrat,1,1,,,Endorsed for JUDGE (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,JUDGE,,El Paso County,TX,"MATTOX, CHARLES W.",Democrat,1,,,,Endorsed for JUDGE (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,LAND COMMISSIONER,,Texas Land Commissioner,TX,"MAURO, GARRY",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1994,LT GOVERNOR,,Texas Lt. Governor,TX,"BULLOCK, ROBERT D., SR.",Democrat,1,1,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"MATTHEWS, CHARLES R.",Republican,1,,,,Endorsed for RAILROAD COMMISSION (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"NABERS, MARY SCOTT",Democrat,1,1,,,Endorsed for RAILROAD COMMISSION (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1994,SENATOR,,United States Senate from Texas,TX,"HUTCHISON, KAY BAILEY",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1994,STATE BOARD OF ED,,State Board of Education (TX),TX,"NUNEZ, RENE",Democrat,1,1,,,Endorsed for STATE BOARD OF ED (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,STATE REP,78,78,TX,"HAGGERTY, PAT",Republican,1,,1,,Endorsed for STATE REP District 78 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,STATE SENATOR,28,28,TX,"MONTFORD, JOHN T.",Democrat,1,1,,,Endorsed for STATE SENATOR District 28 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,TREASURER,,Texas Treasurer,TX,"WHITEHEAD, MARTHA",Democrat,1,1,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1994,TX SUPREME COURT,,Texas Supreme Court,TX,"GONZALEZ, RAUL A.",Democrat,1,1,,,Endorsed for TX SUPREME COURT (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1994,TX SUPREME COURT,,Texas Supreme Court,TX,"HECHT, NATHAN L.",Republican,1,,1,,Endorsed for TX SUPREME COURT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1996,CNTY COMM,,El Paso County,TX,"SPARKS, H. WILLIAM",Democrat,1,,,,Endorsed for CNTY COMM (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1996,CONSTABLE,,El Paso County,TX,"SOLIS, JOSEPH",Democrat,1,,,,CAN'T FIND PARTY ID,0.85
+TX,El Paso Herald Post,145301,1996,COURT OF CRIMINAL APPEALS,3,Texas Court of Criminal Appeals,TX,"MALONEY, FRANK",Democrat,1,1,,,Endorsed for COURT OF CRIMINAL APPEALS (Democrat) [V2: generic note - no extracted text] [V4: dist=3 filled from cross-paper ET match] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1996,COURT OF CRIMINAL APPEALS,,Texas Court of Criminal Appeals,TX,"PERKINS, BOB",Democrat,1,,,,Endorsed for COURT OF CRIMINAL APPEALS (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1996,DISTRICT COURT JUDGE,383,El Paso District Court District 383,TX,"CARDONE, KATHLEEN",Republican,1,,1,,Endorsed for DISTRICT COURT JUDGE District 383 (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1996,DISTRICT COURT JUDGE,384,El Paso District Court District 384,TX,"DAROSS, JAMES",Republican,1,,1,,Endorsed for DISTRICT COURT JUDGE District 384 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1996,H,23,23,TX,"JONES, CHARLES P.",Democrat,1,,,,Endorsed for H District 23 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1996,H,16,16,TX,"REYES, SILVESTRE",Democrat,1,,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1996,PRESIDENT,,United States,TX,"DOLE, BOB",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1996,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"RYLANDER, CAROLE KEETON",Republican,1,,1,,Endorsed for RAILROAD COMMISSION (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1996,SENATOR,,United States Senate from Texas,TX,"MORALES, VICTOR M.",Democrat,1,,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1996,STATE REP,75,75,TX,"BARNETT, JAMES",Republican,1,,,,Endorsed for STATE REP District 75 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1996,STATE SENATOR,28,28,TX,"LANGSTON, DAVID",Democrat,1,,,,Endorsed for STATE SENATOR District 28 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1996,STATE SENATOR,29,29,TX,"SHAPLEIGH, ELIOT",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1996,TAX ASSESSOR,,El Paso County,TX,"O'ROURKE, PAT",Republican,1,,,,Endorsed for TAX ASSESSOR (Republican) [V2: generic note - no extracted text] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1996,TX SUPREME COURT,,Texas Supreme Court,TX,"BAKER, JAMES A.",Republican,1,,1,,Endorsed for TX SUPREME COURT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1996,TX SUPREME COURT,1,Texas Supreme Court,TX,"BARRON, PATRICE",Democrat,1,,,,Endorsed for TX SUPREME COURT (Democrat) [V2: generic note - no extracted text] [V4: dist=1 filled from cross-paper ET match] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1996,TX SUPREME COURT,,Texas Supreme Court,TX,"PHILLIPS, THOMAS R.",Republican,1,,1,,Endorsed for TX SUPREME COURT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Herald Post,145301,1936,PRESIDENT,,United States,TX,"ROOSEVELT, FRANKLIN D.",Democrat,0,1,,,1936 PRES D inc opp (FDR won); not endorsed (EHP endorsed Landon R) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1952,PRESIDENT,,United States,TX,"STEVENSON, ADLAI E.",Democrat,0,,,,1952 PRES D opp (Stevenson lost); not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1956,PRESIDENT,,United States,TX,"STEVENSON, ADLAI E.",Democrat,0,,,,1956 PRES D opp (Stevenson lost again); not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1960,PRESIDENT,,United States,TX,"KENNEDY, JOHN F.",Democrat,0,,,,1960 PRES D opp (JFK won); not endorsed (EHP endorsed Nixon R) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1964,PRESIDENT,,United States,TX,"GOLDWATER, BARRY",Republican,0,,,,1964 PRES R opp (Goldwater lost landslide); not endorsed (EHP endorsed LBJ D - LBJ from TX) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1968,PRESIDENT,,United States,TX,"HUMPHREY, HUBERT H.",Democrat,0,,,,1968 PRES D opp; not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1972,PRESIDENT,,United States,TX,"MCGOVERN, GEORGE",Democrat,0,,,,1972 PRES D opp; not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1976,PRESIDENT,,United States,TX,"CARTER, JIMMY",Democrat,0,,,,1976 PRES D opp (Carter won); not endorsed (EHP endorsed Ford R inc) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1980,PRESIDENT,,United States,TX,"CARTER, JIMMY",Democrat,0,1,,,1980 PRES D inc opp (Carter lost); not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1992,PRESIDENT,,United States,TX,"CLINTON, BILL",Democrat,0,,,,1992 PRES D opp (Clinton won); not endorsed (EHP endorsed Bush R inc) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1996,PRESIDENT,,United States,TX,"CLINTON, BILL",Democrat,0,1,,,1996 PRES D inc opp (Clinton won); not endorsed (EHP endorsed Dole R) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1966,SENATOR,,United States Senate from Texas,TX,"TOWER, JOHN G.",Republican,0,,1,,1966 SEN R inc opp (Tower won re-election); not endorsed (EHP endorsed Carr D) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1970,SENATOR,,United States Senate from Texas,TX,"BUSH, GEORGE H. W.",Republican,0,,,,1970 SEN R opp (HW Bush lost to Bentsen D); not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1972,SENATOR,,United States Senate from Texas,TX,"BARNES, BEN",Democrat,0,,,,1972 SEN D primary opp; not endorsed (EHP endorsed Tower R inc) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1976,SENATOR,,United States Senate from Texas,TX,"STEELMAN, ALAN",Republican,0,,,,1976 SEN R opp (lost to Bentsen D inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1990,SENATOR,,United States Senate from Texas,TX,"DOGGETT, LLOYD",Democrat,0,,,,1990 SEN D opp (lost to Gramm R inc); not endorsed [V2 Pattern A] [V2: Pattern K fix - r_inc → d_inc to match party=D] [V3: removed incorrect d_inc - Doggett was challenger not incumbent in 1990 TX SEN],0.85
+TX,El Paso Herald Post,145301,1994,SENATOR,,United States Senate from Texas,TX,"FISHER, RICHARD",Democrat,0,,,,1994 SEN D opp (lost to Hutchison R); not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1996,SENATOR,,United States Senate from Texas,TX,"GRAMM, PHIL",Republican,1,,1,,1996 SEN R inc (Gramm won re-elect); presumed EHP endorsed [V2 Pattern A - check OCR] [V4: conf boost from ET cross-paper agreement],0.92
+TX,El Paso Herald Post,145301,1962,GOVERNOR,,Texas Governor,TX,"YARBOROUGH, DON",Democrat,0,,,,1962 GOV D primary opp (in TX one-party era); EHP endorsed Cox R unusually [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1968,GOVERNOR,,Texas Governor,TX,"EGGERS, PAUL",Republican,0,,,,1968 GOV R opp (lost to Preston Smith D); not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1970,GOVERNOR,,Texas Governor,TX,"EGGERS, PAUL",Republican,0,,1,,1970 GOV R opp rematch (lost again to Smith D inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1974,GOVERNOR,,Texas Governor,TX,"GRANBERRY, JIM",Republican,0,,,,1974 GOV R opp (lost to Briscoe D inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1990,GOVERNOR,,Texas Governor,TX,"WILLIAMS, CLAYTON",Republican,0,,,,1990 GOV R opp (lost to Richards D); not endorsed by EHP (EHP endorsed Richards) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1994,GOVERNOR,,Texas Governor,TX,"BUSH, GEORGE W.",Republican,0,,,,1994 GOV R opp (Bush won unseating Richards D inc); not endorsed (EHP endorsed Richards) [V2 Pattern A],0.85
+TX,El Paso Herald Post,145301,1962,H,16,U.S. House Texas District 16,TX,"RUTHERFORD, J.T.",Democrat,0,1,,,1962 H 16 D inc opp (Rutherford lost re-election to Foreman R); not endorsed by EHP [V4 Pattern A from cross-paper ET evidence + TX history],0.85
+TX,El Paso Herald Post,145301,1964,SENATOR,,98,TX,"BUSH, GEORGE H. W.",Republican,0,,,,1964 SEN R opp (HW Bush lost to Yarborough D inc); not endorsed by EHP (EHP endorsed Yarborough D) [V4 Pattern A - cross-paper ET match],0.85
+TX,El Paso Herald Post,145301,1972,H,16,98,TX,"WHITE, RICHARD C.",Democrat,1,1,,,"1972 H 16 D inc (White won re-election); presumed EHP endorsement [V4 - White was long-tenure El Paso D 1965-1983, EHP endorsed in 1968/1970/1976] [V4: conf boost from ET cross-paper agreement]",0.92
+TX,El Paso Herald Post,145301,1954,SENATOR,,NM,NM,"ANDERSON, CLINTON P.",Democrat,0,1,,,"1954 NM SEN D inc opp (Anderson re-elected, beat Mechem R); not endorsed by EHP (EHP endorsed Mechem R) [V4 Pattern A]",0.85
+TX,El Paso Herald Post,145301,1958,GOVERNOR,,NM,NM,"BURROUGHS, JOHN",Democrat,0,,,,"1958 NM GOV D opp (Burroughs won, beat Mechem R inc); not endorsed by EHP [V4 Pattern A]",0.85
+TX,El Paso Herald Post,145301,1956,VICE PRESIDENT,,United States,TX,"NIXON, RICHARD M.",Republican,1,,1,,1956 VP R inc (Eisenhower-Nixon ticket); presumed EHP endorsement [V4 Pattern A],0.85
+TX,El Paso Herald Post,145301,1956,VICE PRESIDENT,,United States,TX,"KEFAUVER, ESTES",Democrat,0,,,,1956 VP D opp (Stevenson-Kefauver ticket lost); not endorsed [V4 Pattern A],0.85
+TX,El Paso Herald Post,145301,1952,VICE PRESIDENT,,United States,TX,"NIXON, RICHARD M.",Republican,1,,,,1952 VP R (Eisenhower-Nixon ticket); presumed EHP endorsement [V4 Pattern A],0.85
+TX,El Paso Herald Post,145301,1952,VICE PRESIDENT,,United States,TX,"SPARKMAN, JOHN J.",Democrat,0,,,,1952 VP D opp (Stevenson-Sparkman ticket lost); not endorsed [V4 Pattern A],0.85
+TX,El Paso Herald Post,145301,1960,LT GOVERNOR,,Texas Lt. Governor,TX,"RAMSEY, BEN",Democrat,0,1,,,1960 TX LT GOV D inc opp (Ramsey won re-election); not endorsed by EHP (EHP endorsed Harrison R - unusual cross-party) [V5 Pattern A],0.85
+TX,El Paso Herald Post,145301,1990,LT GOVERNOR,,Texas Lt. Governor,TX,"MOSBACHER, ROB JR.",Republican,0,,,,"1990 TX LT GOV R opp (Mosbacher Jr., lost to Bullock D); not endorsed [V5 Pattern A]",0.85
+TX,El Paso Herald Post,145301,1994,LT GOVERNOR,,Texas Lt. Governor,TX,"LEZAR, TEX",Republican,0,,,,"1994 TX LT GOV R opp (Lezar, lost to Bullock D inc); not endorsed [V5 Pattern A]",0.85
+TX,El Paso Herald Post,145301,1990,RAILROAD COMMISSION,,Texas Lt. Governor,TX,"BOULTER, BEAU",Republican,0,,,,"1990 TX RR COMM R opp (Boulter, lost to Krueger D); not endorsed [V5 Pattern A]",0.85
+TX,El Paso Herald Post,145301,1996,RAILROAD COMMISSION,,Texas Lt. Governor,TX,"HILL, JOHN",Democrat,0,,,,1996 TX RR COMM D opp (lost to Rylander R inc); not endorsed [V5 Pattern A],0.75

@@ -1,394 +1,455 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-TX,El Paso Times,145300,1920,PRESIDENT,,,TX,"COX, JAMES M.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1922,SENATOR,,,NM,"JONES, ANDREUS A.",Democrat,1,1,,,,0.80
-TX,El Paso Times,145300,1924,PRESIDENT,,,TX,"DAVIS, JOHN W.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1928,PRESIDENT,,,TX,"SMITH, ALFRED E.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1930,STATE REP,,,TX,"MCGILL, JOSEPH",Democrat,1,,,,,0.80
-TX,El Paso Times,145300,1932,H,16,,TX,"THOMASON, R. E.",Democrat,1,,,,INCUMBENT CONGRESSMAN,0.75
-TX,El Paso Times,145300,1932,PRESIDENT,,,TX,"ROOSEVELT, FRANKLIN D.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1936,GOVERNOR,,,NM,"TINGLEY, CLYDE",Democrat,1,,1,,,0.85
-TX,El Paso Times,145300,1936,PRESIDENT,,,TX,"ROOSEVELT, FRANKLIN D.",Democrat,1,,1,,,0.90
-TX,El Paso Times,145300,1938,GOVERNOR,,,NM,"MILES, JOHN E.",Democrat,1,,,,,0.90
-TX,El Paso Times,145300,1938,H,1,1,NM,"DEMPSEY, JOHN J.",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1940,GOVERNOR,,,NM,"MILES, JOHN E.",Democrat,1,,1,,,0.85
-TX,El Paso Times,145300,1940,H,1,1,NM,"ANDERSON, CLINTON P.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1940,PRESIDENT,,,TX,"ROOSEVELT, FRANKLIN D.",Democrat,1,,1,,,0.90
-TX,El Paso Times,145300,1940,SENATOR,,,NM,"CHAVEZ, DENNIS",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1950,JUDGE,,,TX,"LANIER, C. M.",,1,,,,POLICE JUDGE RE-ELECTION,0.85
-TX,El Paso Times,145300,1952,PRESIDENT,,,TX,"EISENHOWER, DWIGHT D.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1952,PRESIDENT,,,TX,"STEVENSON, ADLAI",Democrat,0,,,,OPPOSED,0.85
-TX,El Paso Times,145300,1954,CNTY COMM,1,,TX,"CARPENTER, GEORGE",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1954,CNTY COMM,4,,TX,"SMITH, WESLEY",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1954,STATE SENATOR,29,,TX,"BEAN, WOODROW",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1956,PRESIDENT,,,TX,"EISENHOWER, DWIGHT D.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1958,GOVERNOR,,,TX,"DANIEL, PRICE",Democrat,1,,1,,,0.85
-TX,El Paso Times,145300,1960,PRESIDENT,,,TX,"NIXON, RICHARD M.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1962,CNTY COMM,4,4,TX,"MAYS, TOM",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1962,GOVERNOR,,,TX,"CONNALLY, JOHN B.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1962,H,98,98,TX,"BARRY, DES",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1962,H,16,16,TX,"FOREMAN, ED",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1962,STATE SENATOR,29,29,TX,"OWEN, FRANK, III",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1962,H,,,TX,"BARRY, DES",Republican,1,,,,"WE ARE SUPPORTING TWO REPUBLICANS FOR CONGRESS, ED FOREMAN AND DES BARRY",
-TX,El Paso Times,145300,1962,H,,,TX,"FOREMAN, ED",Republican,1,,,,"WE ARE SUPPORTING TWO REPUBLICANS FOR CONGRESS, ED FOREMAN AND DES BARRY",
-TX,El Paso Times,145300,1962,STATE SENATOR,29,EL PASO COUNTY,TX,"OWEN, FRANK III",Democrat,1,1,,,WE'RE FOR OWEN; SUPPORTING OWEN FOR REELECTION ALONG WITH ENTIRE DEMOCRATIC TICKET ON STATE AND LOCAL LEVELS; 29TH SENATORIAL DISTRICT NEEDS HIS EXPERIENCE AND ABILITY,
-TX,El Paso Times,145300,1964,AGRICULTURE COMMISSIONER,,,TX,"WHITE, JOHN C.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1964,ATTORNEY GENERAL,,,TX,"CARR, WAGGONER",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1964,CNTY COMM,1,1,TX,"ANDERSON, CLYDE C.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1964,COMPTROLLER,,,TX,"CALVERT, ROBERT S.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1964,GOVERNOR,,,TX,"CONNALLY, JOHN B.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1964,H,98,98,TX,"POOL, JOE",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1964,LAND COMMISSIONER,,,TX,"SADLER, G.A. (JERRY)",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1964,LT GOVERNOR,,,TX,"SMITH, PRESTON",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1964,PRESIDENT,,,TX,"JOHNSON, LYNDON B.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1964,RAILROAD COMMISSION,2,2,TX,"LANGDON, JIM C.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1964,SENATOR,,,TX,"BUSH, GEORGE H. W.",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1964,STATE REP,74,74,TX,"MUNIZ, RAUL",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1964,STATE SENATOR,29,29,TX,"SNELSON, W.E. (PETE)",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1964,TREASURER,,,TX,"JAMES, JESSE",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1964,TX SUPREME COURT,1,1,TX,"POPE, JACK",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1966,SENATOR,,,TX,"CARR, WAGGONER",Democrat,1,,1,,,0.85
-TX,El Paso Times,145300,1966,STATE SENATOR,29,29,TX,"CHRISTIE, JOE",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1968,AGRICULTURE COMMISSIONER,,,TX,"WHITE, JOHN C.",,1,1,,,,0.85
-TX,El Paso Times,145300,1968,ATTORNEY GENERAL,,,TX,"MARTIN, CRAWFORD",,1,1,,,,0.85
-TX,El Paso Times,145300,1968,COMPTROLLER,,,TX,"CALVERT, ROBERT S.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1968,GOVERNOR,,,TX,"SMITH, PRESTON",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1968,H,16,16,TX,"WHITE, RICHARD T.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1968,LAND COMMISSIONER,,,TX,"SADLER, G.A. (JERRY)",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1968,LT GOVERNOR,,,TX,"BARNES, BEN",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1968,PRESIDENT,,,TX,"NIXON, RICHARD M.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1968,RAILROAD COMMISSION,2,2,TX,"LANGDON, JIM C.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1968,STATE REP,2,2,TX,"BLAINE, JOHN E. (NED)",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1968,STATE REP,4,4,TX,"MUNIZ, RAUL",,1,1,,,,0.85
-TX,El Paso Times,145300,1968,STATE REP,5,5,TX,"NILAND, TOM",,1,1,,,,0.85
-TX,El Paso Times,145300,1968,TREASURER,,,TX,"JAMES, JESSIE",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1968,JUDGE,65,EL PASO COUNTY,TX,NO ENDORSEMENT,,,,,,"DISTRICT JUDGE, 65TH JUDICIAL DISTRICT: COUNTY ATTORNEY JACK N. FANT AND ATTORNEY ALAN V. RASH ARE OPPOSING EACH OTHER. WE LIKE BOTH OF THEM. WE MAKE NO RECOMMENDATION",
-TX,El Paso Times,145300,1968,LAND COMMISSIONER,,,TX,"SADLER, JERRY",Democrat,1,1,,,COMMISSIONER OF GENERAL LAND OFFICE: JERRY SADLER,
-TX,El Paso Times,145300,1968,RAILROAD COMMISSION,,,TX,"LANGDON, JIM C.",Democrat,1,1,,,RAILROAD COMMISSIONER: JIM C. LANGDON,
-TX,El Paso Times,145300,1968,STATE REP,67-2,,TX,"BLAINE, JOHN E. (NED)",Democrat,1,,,,"STATE REPRESENTATIVE, 67TH DISTRICT, PLACE 2: JOHN E. (NED) BLAINE",
-TX,El Paso Times,145300,1968,STATE REP,67-4,,TX,"MUNIZ, RAUL",Democrat,1,,,,"STATE REPRESENTATIVE, 67TH DISTRICT, PLACE 4: RAUL MUNIZ",
-TX,El Paso Times,145300,1968,STATE REP,67-5,,TX,"NILAND, TOM",Democrat,1,,,,"STATE REPRESENTATIVE, 67TH DISTRICT, PLACE 5: TOM NILAND",
-TX,El Paso Times,145300,1968,TREASURER,,,TX,"JAMES, JESSE",Democrat,1,1,,,STATE TREASURER: JESSE JAMES,
-TX,El Paso Times,145300,1968,VICE PRESIDENT,,,TX,"AGNEW, SPIRO T.",Republican,1,,,,PRESIDENT AND VICE PRESIDENT: RICHARD M. NIXON AND SPIRO T. AGNEW,
-TX,El Paso Times,145300,1970,AGRICULTURE COMMISSIONER,,,TX,"WHITE, JOHN C.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1970,ATTORNEY GENERAL,,,TX,"MARTIN, CRAWFORD C.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1970,CNTY CLERK,,,TX,"BOLES, J. WAYLON",,1,,,,,0.85
-TX,El Paso Times,145300,1970,CNTY COMM,4,4,TX,"BLACKHAM, SAM",,1,,,,,0.85
-TX,El Paso Times,145300,1970,CNTY JUDGE,,,TX,"MOORE, T. UDELL",,1,,,,,0.85
-TX,El Paso Times,145300,1970,COMPTROLLER,,,TX,"ABBOTT, SHIRLEY L.",,1,1,,,,0.85
-TX,El Paso Times,145300,1970,GOVERNOR,,,TX,"SMITH, PRESTON",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1970,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1970,LAND COMMISSIONER,,,TX,"ARMSTRONG, BOB",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1970,LT GOVERNOR,,,TX,"BARNES, BEN",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1970,SENATOR,,,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1970,STATE REP,4,4,TX,"KASTER, JIM, JR.",,1,1,,,,0.85
-TX,El Paso Times,145300,1970,TREASURER,,,TX,"JAMES, JESSE",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1970,CNTY CLERK,,EL PASO COUNTY,TX,"FIELDS, J. W. (WALLY)",,1,,,,COUNTY CLERK-J. W. WALLY FIELDS,
-TX,El Paso Times,145300,1970,JUDGE,,EL PASO COUNTY,TX,"MOORE, T. UDELL",,1,,,,COUNTY JUDGE-T. UDELL MOORE,
-TX,El Paso Times,145300,1970,SENATOR,,,TX,"BENTSEN, LLOYD",Democrat,1,,,,FOR U.S. SENATOR-LLOYD BENTSEN,
-TX,El Paso Times,145300,1970,STATE REP,4,,TX,"KASTER, JIM JR.",Democrat,1,,,,"STATE REPRESENTATIVE, PLACE 4-JIM KASTER JR.",
-TX,El Paso Times,145300,1972,ATTORNEY GENERAL,,,TX,"HILL, JOHN",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1972,CNTY COMM,3,3,TX,"SANCHEZ, ROGELIO",,1,,,,,0.85
-TX,El Paso Times,145300,1972,COMPTROLLER,,,TX,"CALVERT, ROBERT S.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1972,COURT OF CRIMINAL APPEALS,1,1,TX,"ODOM, WENDELL A.",,1,,,,,0.85
-TX,El Paso Times,145300,1972,DA/PROSECUTOR,,,TX,"SIMMONS, STEVE W.",,1,,,,,0.85
-TX,El Paso Times,145300,1972,GOVERNOR,,,TX,"BRISCOE, DOLPH",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1972,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1972,LAND COMMISSIONER,,,TX,"ARMSTRONG, BOB",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1972,LT GOVERNOR,,,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1972,PRESIDENT,,,TX,"NIXON, RICHARD M.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1972,RAILROAD COMMISSION,1,1,TX,"TUNNELL, BYRON",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1972,SENATOR,,,TX,"TOWER, JOHN G.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1972,SHERIFF,,,TX,"SULLIVAN, MIKE, JR.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1972,STATE BOARD OF ED,,,TX,"HOWELL, BEN",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1972,STATE REP,3,3,TX,"COLEMAN, RONALD",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1972,STATE REP,71,71,TX,"KASTER, JAMES J., JR.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1972,STATE SENATOR,29,29,TX,"SANTIESTEBAN, TATI",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1972,TREASURER,,,TX,"JAMES, JESSE",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1972,TX SUPREME COURT,2,2,TX,"DANIEL, PRICE",,1,,,,,0.85
-TX,El Paso Times,145300,1972,TX SUPREME COURT,,,TX,"GREENHILL, JOE",,1,1,,,,0.85
-TX,El Paso Times,145300,1972,TX SUPREME COURT,1,1,TX,"JAY, SAM",,1,,,,,0.85
-TX,El Paso Times,145300,1972,COURT OF CRIMINAL APPEALS,,,TX,"ODOM, WENDELL",Democrat,1,,,,COURT OF CRIMINAL APPEALS-WENDELL ODOM OF AUSTIN,
-TX,El Paso Times,145300,1972,DA,,EL PASO COUNTY,TX,"SIMMONS, STEVE W.",,1,,,,DISTRICT ATTORNEY-STEVE W. SIMMONS,
-TX,El Paso Times,145300,1972,LT GOVERNOR,,,TX,"HOBBY, WILLIAM",Democrat,1,,,,LIEUTENANT GOVERNOR-WILLIAM HOBBY OF HOUSTON,
-TX,El Paso Times,145300,1972,RAILROAD COMMISSION,,,TX,"TUNNELL, BYRON",Democrat,1,1,,,RAILROAD COMMISSIONER-BYRON TUNNELL OF AUSTIN,
-TX,El Paso Times,145300,1972,SHERIFF,,EL PASO COUNTY,TX,"SULLIVAN, MIKE JR.",,1,,,,SHERIFF-MIKE SULLIVAN JR.,
-TX,El Paso Times,145300,1972,STATE BOARD OF ED,16,,TX,"HOWELL, BEN",,1,,,,STATE BOARD OF EDUCATION-BEN HOWELL,
-TX,El Paso Times,145300,1972,STATE REP,71,,TX,"KASTER, JIM JR.",Democrat,1,1,,,"STATE REPRESENTATIVE, 71ST DISTRICT-JIM KASTER JR.",
-TX,El Paso Times,145300,1972,STATE SENATOR,,EL PASO COUNTY,TX,"SANTIESTEBAN, TATI",Democrat,1,,,,STATE SENATE-TATI SANTIESTEBAN,
-TX,El Paso Times,145300,1972,SUPREME COURT,1,,TX,"DANIEL, PRICE",Democrat,1,,,,"SUPREME COURT ASSOCIATE JUSTICE, PLACE 1-PRICE DANIEL OF LIBERTY",
-TX,El Paso Times,145300,1972,SUPREME COURT,,,TX,"GREENHILL, JOE",Democrat,1,,,,CHIEF JUSTICE OF THE TEXAS SUPREME COURT-JOE GREENHILL OF AUSTIN,
-TX,El Paso Times,145300,1972,SUPREME COURT,2,,TX,"JOHNSON, SAM JAY",Democrat,1,,,,"SUPREME COURT ASSOCIATE JUSTICE, PLACE 2-SAM JAY JOHNSON OF HOUSTON",
-TX,El Paso Times,145300,1972,VICE PRESIDENT,,,TX,"AGNEW, SPIRO T.",Republican,1,,1,,VICE PRESIDENT-SPIRO T. AGNEW,
-TX,El Paso Times,145300,1974,AGRICULTURE COMMISSIONER,,,TX,"WHITE, JOHN C.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1974,ATTORNEY GENERAL,,,TX,"HILL, JOHN",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1974,CNTY CLERK,,,TX,"CHACON, ALICIA",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1974,CNTY COMM,2,2,TX,"TELLES, RICHARD",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1974,COMPTROLLER,,,TX,"BULLOCK, ROBERT DOUGLAS (BOB)",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1974,GOVERNOR,,,TX,"BRISCOE, DOLPH",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1974,JUDGE,,,TX,"PENA, HENRY",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1974,LAND COMMISSIONER,,,TX,"ARMSTRONG, BOB",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1974,LT GOVERNOR,,,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1974,RAILROAD COMMISSION,,,TX,"LANGDON, JIM",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1974,STATE BOARD OF ED,,,TX,"WALLACE, MACK",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1974,STATE REP,,,TX,"COLEMAN, RONALD",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1974,STATE REP,71,71,TX,"KASTER, JAMES J., JR.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1974,STATE REP,,,TX,"SCOGGINS, RALPH (SKIP)",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1974,TREASURER,,,TX,"HOLT, ROBERT G.",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1974,COMPTROLLER,,,TX,"BULLOCK, BOB",Democrat,1,,,,"BOB BULLOCK, D., FOR COMPTROLLER OF PUBLIC ACCOUNTS",
-TX,El Paso Times,145300,1974,H,16,,TX,"WHITE, RICHARD C.",Democrat,1,1,,,INCUMBENT RICHARD C. WHITE IS UNOPPOSED. WHITE HAS SERVED EL PASO AND THE DISTRICT WELL. THE TIMES IS PROUD TO ENDORSE HIM,
-TX,El Paso Times,145300,1974,LT GOVERNOR,,,TX,"HOBBY, BILL",Democrat,1,1,,,"BILL HOBBY, D., FOR LIEUTENANT GOVERNOR",
-TX,El Paso Times,145300,1974,RAILROAD COMMISSION,,,TX,"LANGDON, JIM C.",Democrat,1,1,,,"JIM C. LANGDON, D., FOR RAILROAD COMMISSIONER",
-TX,El Paso Times,145300,1974,RAILROAD COMMISSION,,,TX,"WALLACE, MACK",Democrat,1,,,,"MACK WALLACE, D., FOR RAILROAD COMMISSIONER, UNEXPIRED TERM",
-TX,El Paso Times,145300,1974,STATE BOARD OF ED,16,,TX,"BEAN, WOODROW W.",Democrat,1,,,,"WOODROW W. BEAN, D., AND JACK C. VOWELL, R., SEEK THIS POST. BOTH ARE GOOD MEN BUT WE FAVOR WOODROW BEAN",
-TX,El Paso Times,145300,1974,STATE REP,72-3,,TX,"COLEMAN, RONALD",Democrat,1,,,,"RONALD COLEMAN, STATE REPRESENTATIVE, DISTRICT 72 (PLACE 3). IN ALL OF THESE RACES THE TIMES ENDORSES THE REGULAR PARTY NOMINEES",
-TX,El Paso Times,145300,1974,STATE REP,71,,TX,"KASTER, JAMES J. JR.",Democrat,1,1,,,"INCUMBENT JAMES J. KASTER JR., D., IS OPPOSED BY RONALD L. STOVALL, R. WE FAVOR KASTER - A HARD WORKING, KNOWLEDGABLE REPRESENTATIVE",
-TX,El Paso Times,145300,1974,STATE REP,72-2,,TX,"SCOGGINS, RALPH (SKIP)",Republican,1,,,,"RALPH 'SKIP' SCOGGINS AND ROBERT M. O'KELLY ARE OPPONENTS. SCOGGINS, FORMERLY A DEMOCRAT, HAS SWITCHED TO THE REPUBLICAN PARTY AND O'KELLY HAS THE DEMOCRATIC TAG. WE ENDORSE SCOGGINS",
-TX,El Paso Times,145300,1974,TREASURER,,EL PASO COUNTY,TX,"CHACON, ALICIA R.",Democrat,1,,,,"ALICIA R. CHACON, COUNTY TREASURER. THE TIMES ENDORSES THE REGULAR PARTY NOMINEES - MRS. CHACON",
-TX,El Paso Times,145300,1976,H,2,2,NM,"RUNNELS, HAROLD",Democrat,1,1,,,NEW MEXICO US HOUSE RACE,0.85
-TX,El Paso Times,145300,1976,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1976,PRESIDENT,,,TX,"FORD, GERALD R.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1976,RAILROAD COMMISSION,3,3,TX,"NEWTON, JON",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1976,SENATOR,,,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1976,SENATOR,,,NM,"SCHMITT, HARRISON",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1976,SHERIFF,,,TX,"SULLIVAN, MIKE, JR.",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1976,STATE REP,,,TX,"JONES, LUTHER",Democrat,1,1,,,INCUMBENT,0.85
-TX,El Paso Times,145300,1976,STATE REP,,,TX,"VALLES, ROBERT",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1976,TX SUPREME COURT,1,1,TX,"HOUSTON, SAM",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1978,ATTORNEY GENERAL,,,TX,"BAKER, JIM",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1978,CNTY CLERK,,,TX,"HUFF, ANNETTE",Republican,1,,,,,0.85
+TX,El Paso Times,145300,1920,PRESIDENT,,United States,TX,"COX, JAMES M.",Democrat,1,,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1922,SENATOR,,United States Senate from New Mexico,NM,"JONES, ANDREUS A.",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1924,PRESIDENT,,United States,TX,"DAVIS, JOHN W.",Democrat,1,,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1928,PRESIDENT,,United States,TX,"SMITH, ALFRED E.",Democrat,1,,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1930,STATE REP,AT-LARGE,Texas House of Representatives,TX,"MCGILL, JOSEPH",Democrat,1,,,,Endorsed for STATE REP (Democrat) [V2: generic note - no extracted text] [V3: dist=AT-LARGE for pre-1972 El Paso multi-member],0.85
+TX,El Paso Times,145300,1932,H,16,U.S. House Texas District 16,TX,"THOMASON, R. E.",Democrat,1,1,,,INCUMBENT CONGRESSMAN [V5 final: 0.85 boost - Thomason D H 16 1931-1947 long-tenure verified],0.85
+TX,El Paso Times,145300,1932,PRESIDENT,,United States,TX,"ROOSEVELT, FRANKLIN D.",Democrat,1,,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1936,GOVERNOR,,New Mexico Governor,NM,"TINGLEY, CLYDE",Democrat,1,1,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: Pattern K fix - r_inc → d_inc to match party=D],0.88
+TX,El Paso Times,145300,1936,PRESIDENT,,United States,TX,"ROOSEVELT, FRANKLIN D.",Democrat,1,1,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text] [V2: Pattern K fix - r_inc → d_inc to match party=D],0.90
+TX,El Paso Times,145300,1938,GOVERNOR,,New Mexico Governor,NM,"MILES, JOHN E.",Democrat,1,,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1938,H,1,1,NM,"DEMPSEY, JOHN J.",Democrat,1,1,,,Endorsed for H District 1 (Democrat) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1940,GOVERNOR,,New Mexico Governor,NM,"MILES, JOHN E.",Democrat,1,1,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: Pattern K fix - r_inc → d_inc to match party=D],0.88
+TX,El Paso Times,145300,1940,H,1,1,NM,"ANDERSON, CLINTON P.",Democrat,1,,,,Endorsed for H District 1 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1940,PRESIDENT,,United States,TX,"ROOSEVELT, FRANKLIN D.",Democrat,1,1,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text] [V2: Pattern K fix - r_inc → d_inc to match party=D],0.90
+TX,El Paso Times,145300,1940,SENATOR,,United States Senate from New Mexico,NM,"CHAVEZ, DENNIS",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1950,JUDGE,,El Paso District Court,TX,"LANIER, C. M.",Democrat,1,,,,POLICE JUDGE RE-ELECTION [V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1952,PRESIDENT,,United States,TX,"EISENHOWER, DWIGHT D.",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1952,PRESIDENT,,United States,TX,"STEVENSON, ADLAI",Democrat,0,,,,OPPOSED,0.85
+TX,El Paso Times,145300,1954,CNTY COMM,1,El Paso County District 1,TX,"CARPENTER, GEORGE",Democrat,1,1,,,Endorsed for CNTY COMM District 1 (Democrat) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1954,CNTY COMM,4,El Paso County District 4,TX,"SMITH, WESLEY",Democrat,1,1,,,Endorsed for CNTY COMM District 4 (Democrat) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1954,STATE SENATOR,29,Texas Senate District 29,TX,"BEAN, WOODROW",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1956,PRESIDENT,,United States,TX,"EISENHOWER, DWIGHT D.",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1958,GOVERNOR,,Texas Governor,TX,"DANIEL, PRICE",Democrat,1,1,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: Pattern K fix - r_inc → d_inc to match party=D],0.88
+TX,El Paso Times,145300,1960,PRESIDENT,,United States,TX,"NIXON, RICHARD M.",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1962,CNTY COMM,4,4,TX,"MAYS, TOM",Democrat,1,,,,Endorsed for CNTY COMM District 4 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1962,GOVERNOR,,Texas Governor,TX,"CONNALLY, JOHN B.",Democrat,1,,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1962,H,98,98,TX,"BARRY, DES",Republican,1,,,,Endorsed for H District 98 (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1962,H,16,16,TX,"FOREMAN, ED",Republican,1,,1,,Endorsed for H District 16 (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.92
+TX,El Paso Times,145300,1962,STATE SENATOR,29,29,TX,"OWEN, FRANK, III",Democrat,1,1,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1962,STATE SENATOR,29,EL PASO COUNTY,TX,"OWEN, FRANK III",Democrat,1,1,,,WE'RE FOR OWEN; SUPPORTING OWEN FOR REELECTION ALONG WITH ENTIRE DEMOCRATIC TICKET ON STATE AND LOCAL LEVELS; 29TH SENATORIAL DISTRICT NEEDS HIS EXPERIENCE AND ABILITY,0.85
+TX,El Paso Times,145300,1964,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"WHITE, JOHN C.",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1964,ATTORNEY GENERAL,,Texas Attorney General,TX,"CARR, WAGGONER",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1964,CNTY COMM,1,1,TX,"ANDERSON, CLYDE C.",Democrat,1,,,,Endorsed for CNTY COMM District 1 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1964,COMPTROLLER,,Texas Comptroller,TX,"CALVERT, ROBERT S.",Democrat,1,1,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1964,GOVERNOR,,Texas Governor,TX,"CONNALLY, JOHN B.",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1964,H,98,98,TX,"POOL, JOE",Democrat,1,1,,,Endorsed for H District 98 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1964,LAND COMMISSIONER,,Texas Land Commissioner,TX,"SADLER, G.A. (JERRY)",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1964,LT GOVERNOR,,Texas Lt. Governor,TX,"SMITH, PRESTON",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1964,PRESIDENT,,United States,TX,"JOHNSON, LYNDON B.",Democrat,1,1,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1964,RAILROAD COMMISSION,2,2,TX,"LANGDON, JIM C.",Democrat,1,,,,Endorsed for RAILROAD COMMISSION District 2 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1964,SENATOR,,United States Senate from Texas,TX,"BUSH, GEORGE H. W.",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.88
+TX,El Paso Times,145300,1964,STATE REP,74,74,TX,"MUNIZ, RAUL",Democrat,1,,,,Endorsed for STATE REP District 74 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1964,STATE SENATOR,29,29,TX,"SNELSON, W.E. (PETE)",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1964,TREASURER,,Texas Treasurer,TX,"JAMES, JESSE",Democrat,1,1,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1964,TX SUPREME COURT,1,1,TX,"POPE, JACK",Democrat,1,,,,Endorsed for TX SUPREME COURT District 1 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1966,SENATOR,,United States Senate from Texas,TX,"CARR, WAGGONER",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement] [V2: Pattern K fix - r_inc → d_inc to match party=D],0.92
+TX,El Paso Times,145300,1966,STATE SENATOR,29,29,TX,"CHRISTIE, JOE",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1968,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"WHITE, JOHN C.",Democrat,1,1,,,[V2: party filled from TX/NM history],0.88
+TX,El Paso Times,145300,1968,ATTORNEY GENERAL,,Texas Attorney General,TX,"MARTIN, CRAWFORD",Democrat,1,1,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1968,COMPTROLLER,,Texas Comptroller,TX,"CALVERT, ROBERT S.",Democrat,1,1,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1968,GOVERNOR,,Texas Governor,TX,"SMITH, PRESTON",Democrat,1,,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1968,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text] [V4: typo fix WHITE RICHARD T. → RICHARD C. (historically correct)] [V4: also endorsed by EHP - cross-paper consensus],0.88
+TX,El Paso Times,145300,1968,LAND COMMISSIONER,,Texas Land Commissioner,TX,"SADLER, G.A. (JERRY)",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1968,LT GOVERNOR,,Texas Lt. Governor,TX,"BARNES, BEN",Democrat,1,,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1968,PRESIDENT,,United States,TX,"NIXON, RICHARD M.",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1968,RAILROAD COMMISSION,2,2,TX,"LANGDON, JIM C.",Democrat,1,1,,,Endorsed for RAILROAD COMMISSION District 2 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1968,STATE REP,2,2,TX,"BLAINE, JOHN E. (NED)",Democrat,1,1,,,Endorsed for STATE REP District 2 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1968,TREASURER,,Texas Treasurer,TX,"JAMES, JESSE",Democrat,1,1,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1968,JUDGE,65,EL PASO COUNTY,TX,NO ENDORSEMENT,Democrat,,,,,"DISTRICT JUDGE, 65TH JUDICIAL DISTRICT: COUNTY ATTORNEY JACK N. FANT AND ATTORNEY ALAN V. RASH ARE OPPOSING EACH OTHER. WE LIKE BOTH OF THEM. WE MAKE NO RECOMMENDATION [V2: party=D inferred from TX one-party D era pre-1980]",0.85
+TX,El Paso Times,145300,1968,STATE REP,67-4,Texas House District 67-4,TX,"MUNIZ, RAUL",Democrat,1,1,,,"STATE REPRESENTATIVE, 67TH DISTRICT, PLACE 4: RAUL MUNIZ [V2: conf boost from EHP cross-paper agreement]",0.92
+TX,El Paso Times,145300,1968,STATE REP,67-5,Texas House District 67-5,TX,"NILAND, TOM",Democrat,1,,,,"STATE REPRESENTATIVE, 67TH DISTRICT, PLACE 5: TOM NILAND [V2: conf boost from EHP cross-paper agreement]",0.92
+TX,El Paso Times,145300,1968,VICE PRESIDENT,,United States,TX,"AGNEW, SPIRO T.",Republican,1,,,,PRESIDENT AND VICE PRESIDENT: RICHARD M. NIXON AND SPIRO T. AGNEW,0.85
+TX,El Paso Times,145300,1970,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"WHITE, JOHN C.",Democrat,1,1,,,Endorsed for AGRICULTURE COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,ATTORNEY GENERAL,,Texas Attorney General,TX,"MARTIN, CRAWFORD C.",Democrat,1,1,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,CNTY CLERK,,El Paso County,TX,"BOLES, J. WAYLON",Democrat,1,,,,[V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1970,CNTY COMM,4,4,TX,"BLACKHAM, SAM",Democrat,1,,,,[V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1970,CNTY JUDGE,,County Judge (El Paso),TX,"MOORE, T. UDELL",Democrat,1,,,,Endorsed for CNTY JUDGE (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,COMPTROLLER,,Texas Comptroller,TX,"ABBOTT, SHIRLEY L.",Democrat,1,1,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,GOVERNOR,,Texas Governor,TX,"SMITH, PRESTON",Democrat,1,1,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,LAND COMMISSIONER,,Texas Land Commissioner,TX,"ARMSTRONG, BOB",Democrat,1,,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,LT GOVERNOR,,Texas Lt. Governor,TX,"BARNES, BEN",Democrat,1,1,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,SENATOR,,United States Senate from Texas,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,STATE REP,4,4,TX,"KASTER, JIM, JR.",Democrat,1,1,,,Endorsed for STATE REP District 4 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,TREASURER,,Texas Treasurer,TX,"JAMES, JESSE",Democrat,1,1,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,CNTY CLERK,,EL PASO COUNTY,TX,"FIELDS, J. W. (WALLY)",Democrat,1,,,,COUNTY CLERK-J. W. WALLY FIELDS [V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1970,JUDGE,,EL PASO COUNTY,TX,"MOORE, T. UDELL",Democrat,1,,,,COUNTY JUDGE-T. UDELL MOORE [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1970,STATE REP,4,Texas House District 4,TX,"KASTER, JIM JR.",Democrat,1,,,,"STATE REPRESENTATIVE, PLACE 4-JIM KASTER JR. [V2: conf boost from EHP cross-paper agreement]",0.92
+TX,El Paso Times,145300,1972,ATTORNEY GENERAL,,Texas Attorney General,TX,"HILL, JOHN",Democrat,1,,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,CNTY COMM,3,3,TX,"SANCHEZ, ROGELIO",Democrat,1,,,,[V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1972,COMPTROLLER,,Texas Comptroller,TX,"CALVERT, ROBERT S.",Democrat,1,1,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1972,COURT OF CRIMINAL APPEALS,1,1,TX,"ODOM, WENDELL A.",Democrat,1,,,,[V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1972,DA/PROSECUTOR,,El Paso County,TX,"SIMMONS, STEVE W.",Democrat,1,,,,[V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1972,GOVERNOR,,Texas Governor,TX,"BRISCOE, DOLPH",Democrat,1,,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,LAND COMMISSIONER,,Texas Land Commissioner,TX,"ARMSTRONG, BOB",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,LT GOVERNOR,,Texas Lt. Governor,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,PRESIDENT,,United States,TX,"NIXON, RICHARD M.",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,RAILROAD COMMISSION,1,1,TX,"TUNNELL, BYRON",Democrat,1,1,,,Endorsed for RAILROAD COMMISSION District 1 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,SENATOR,,United States Senate from Texas,TX,"TOWER, JOHN G.",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,SHERIFF,,El Paso County,TX,"SULLIVAN, MIKE, JR.",Democrat,1,,,,Endorsed for SHERIFF (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,STATE REP,3,3,TX,"COLEMAN, RONALD",Democrat,1,1,,,Endorsed for STATE REP District 3 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,STATE REP,71,71,TX,"KASTER, JAMES J., JR.",Democrat,1,1,,,Endorsed for STATE REP District 71 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,STATE SENATOR,29,29,TX,"SANTIESTEBAN, TATI",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,TREASURER,,Texas Treasurer,TX,"JAMES, JESSE",Democrat,1,1,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1972,TX SUPREME COURT,2,2,TX,"DANIEL, PRICE",Democrat,1,,,,[V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1972,TX SUPREME COURT,,Texas Supreme Court,TX,"GREENHILL, JOE",Democrat,1,1,,,[V2: party=D inferred from TX one-party D era pre-1980],0.88
+TX,El Paso Times,145300,1972,TX SUPREME COURT,1,1,TX,"JAY, SAM",Democrat,1,,,,[V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1972,STATE BOARD OF ED,16,State Board of Education (TX),TX,"HOWELL, BEN",Democrat,1,,,,STATE BOARD OF EDUCATION-BEN HOWELL [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1972,STATE REP,71,Texas House District 71,TX,"KASTER, JIM JR.",Democrat,1,1,,,"STATE REPRESENTATIVE, 71ST DISTRICT-JIM KASTER JR.",0.85
+TX,El Paso Times,145300,1972,TX SUPREME COURT,1,Texas Supreme Court,TX,"DANIEL, PRICE",Democrat,1,,,,"SUPREME COURT ASSOCIATE JUSTICE, PLACE 1-PRICE DANIEL OF LIBERTY",0.85
+TX,El Paso Times,145300,1972,TX SUPREME COURT,2,Texas Supreme Court,TX,"JOHNSON, SAM JAY",Democrat,1,,,,"SUPREME COURT ASSOCIATE JUSTICE, PLACE 2-SAM JAY JOHNSON OF HOUSTON",0.85
+TX,El Paso Times,145300,1972,VICE PRESIDENT,,United States,TX,"AGNEW, SPIRO T.",Republican,1,,1,,VICE PRESIDENT-SPIRO T. AGNEW,0.85
+TX,El Paso Times,145300,1974,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"WHITE, JOHN C.",Democrat,1,1,,,Endorsed for AGRICULTURE COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1974,ATTORNEY GENERAL,,Texas Attorney General,TX,"HILL, JOHN",Democrat,1,1,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1974,CNTY CLERK,,El Paso County,TX,"CHACON, ALICIA",Democrat,1,,,,Endorsed for CNTY CLERK (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1974,CNTY COMM,2,2,TX,"TELLES, RICHARD",Democrat,1,1,,,Endorsed for CNTY COMM District 2 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1974,COMPTROLLER,,Texas Comptroller,TX,"BULLOCK, ROBERT DOUGLAS (BOB)",Democrat,1,,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1974,GOVERNOR,,Texas Governor,TX,"BRISCOE, DOLPH",Democrat,1,1,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1974,JUDGE,,El Paso District Court,TX,"PENA, HENRY",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1974,LAND COMMISSIONER,,Texas Land Commissioner,TX,"ARMSTRONG, BOB",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1974,LT GOVERNOR,,Texas Lt. Governor,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,1,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1974,STATE BOARD OF ED,,State Board of Education (TX),TX,"WALLACE, MACK",Democrat,1,,,,Endorsed for STATE BOARD OF ED (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1974,STATE REP,71,71,TX,"KASTER, JAMES J., JR.",Democrat,1,1,,,Endorsed for STATE REP District 71 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1974,TREASURER,,Texas Treasurer,TX,"HOLT, ROBERT G.",Republican,1,,,,Endorsed for TREASURER (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement] [V2: Pattern K fix - d_inc → r_inc to match party=R] [V4: removed incorrect r_inc - Holt was R challenger not incumbent (James D was inc)],0.92
+TX,El Paso Times,145300,1974,H,16,U.S. House Texas District 16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,INCUMBENT RICHARD C. WHITE IS UNOPPOSED. WHITE HAS SERVED EL PASO AND THE DISTRICT WELL. THE TIMES IS PROUD TO ENDORSE HIM,0.85
+TX,El Paso Times,145300,1974,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"LANGDON, JIM C.",Democrat,1,1,,,"JIM C. LANGDON, D., FOR RAILROAD COMMISSIONER [V2: conf boost from EHP cross-paper agreement]",0.92
+TX,El Paso Times,145300,1974,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"WALLACE, MACK",Democrat,1,,,,"MACK WALLACE, D., FOR RAILROAD COMMISSIONER, UNEXPIRED TERM [V2: conf boost from EHP cross-paper agreement]",0.92
+TX,El Paso Times,145300,1974,STATE BOARD OF ED,16,State Board of Education (TX),TX,"BEAN, WOODROW W.",Democrat,1,,,,"WOODROW W. BEAN, D., AND JACK C. VOWELL, R., SEEK THIS POST. BOTH ARE GOOD MEN BUT WE FAVOR WOODROW BEAN",0.85
+TX,El Paso Times,145300,1974,STATE REP,72-3,Texas House District 72-3,TX,"COLEMAN, RONALD",Democrat,1,1,,,"RONALD COLEMAN, STATE REPRESENTATIVE, DISTRICT 72 (PLACE 3). IN ALL OF THESE RACES THE TIMES ENDORSES THE REGULAR PARTY NOMINEES",0.85
+TX,El Paso Times,145300,1974,STATE REP,72-2,Texas House District 72-2,TX,"SCOGGINS, RALPH (SKIP)",Republican,1,,,,"RALPH 'SKIP' SCOGGINS AND ROBERT M. O'KELLY ARE OPPONENTS. SCOGGINS, FORMERLY A DEMOCRAT, HAS SWITCHED TO THE REPUBLICAN PARTY AND O'KELLY HAS THE DEMOCRATIC TAG. WE ENDORSE SCOGGINS [V2: conf boost from EHP cross-paper agreement]",0.92
+TX,El Paso Times,145300,1974,TREASURER,,EL PASO COUNTY,TX,"CHACON, ALICIA R.",Democrat,1,,,,"ALICIA R. CHACON, COUNTY TREASURER. THE TIMES ENDORSES THE REGULAR PARTY NOMINEES - MRS. CHACON",0.85
+TX,El Paso Times,145300,1976,H,2,2,NM,"RUNNELS, HAROLD",Democrat,1,1,,,NEW MEXICO US HOUSE RACE,0.88
+TX,El Paso Times,145300,1976,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1976,PRESIDENT,,United States,TX,"FORD, GERALD R.",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1976,RAILROAD COMMISSION,3,3,TX,"NEWTON, JON",Democrat,1,,,,Endorsed for RAILROAD COMMISSION District 3 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1976,SENATOR,,United States Senate from Texas,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1976,SENATOR,,United States Senate from New Mexico,NM,"SCHMITT, HARRISON",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.88
+TX,El Paso Times,145300,1976,SHERIFF,,El Paso County,TX,"SULLIVAN, MIKE, JR.",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1976,STATE REP,,Texas House of Representatives,TX,"JONES, LUTHER",Democrat,1,1,,,INCUMBENT [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1976,STATE REP,,Texas House of Representatives,TX,"VALLES, ROBERT",Democrat,1,,,,Endorsed for STATE REP (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1976,TX SUPREME COURT,1,1,TX,"HOUSTON, SAM",Democrat,1,1,,,Endorsed for TX SUPREME COURT District 1 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1978,ATTORNEY GENERAL,,Texas Attorney General,TX,"BAKER, JIM",Republican,1,,,,Endorsed for ATTORNEY GENERAL (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1978,CNTY CLERK,,El Paso County,TX,"HUFF, ANNETTE",Republican,1,,,,Endorsed for CNTY CLERK (Republican) [V2: generic note - no extracted text],0.85
 TX,El Paso Times,145300,1978,CNTY COMM,4,4,TX,"O'ROURKE, PAT",Democrat,1,,,,BETO'S DAD I THINK,0.85
-TX,El Paso Times,145300,1978,GOVERNOR,,,TX,"HILL, JOHN",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1978,GOVERNOR,,,NM,"SKEEN, JOSEPH R. (JOE)",Republican,1,,,,NEW MEXICO GOV,0.85
-TX,El Paso Times,145300,1978,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1978,JUDGE,4,4,TX,"KESSEL, ROBERT E.",,1,,,,,0.85
-TX,El Paso Times,145300,1978,RAILROAD COMMISSION,,,TX,"LACY, JAMES",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1978,SENATOR,,,NM,"DOMENICI, PETE V.",Republican,1,,1,,NEW MEXICO US SENATE RACE,0.85
-TX,El Paso Times,145300,1978,SENATOR,,,TX,"TOWER, JOHN G.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1978,SHERIFF,,,TX,"TELLEZ, DOMINGO",Independent,1,,,,,0.85
-TX,El Paso Times,145300,1978,STATE BOARD OF ED,,,TX,"WINDLE, WAYNE",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1978,STATE REP,71,71,TX,"ABBOTT, S.L",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1978,STATE REP,,,TX,"JONES, LUTHER",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1980,CNTY COMM,,,TX,"HOOTEN, CHARLES",,1,,,,,0.85
-TX,El Paso Times,145300,1980,H,2,2,NM,"SKEEN, JOSEPH R. (JOE)",Republican,1,,,,"NEW MEXICO US HOUSE RACE, WRITE IN",0.85
-TX,El Paso Times,145300,1980,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1980,PRESIDENT,,,TX,"REAGAN, RONALD",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1980,RAILROAD COMMISSION,3,3,TX,"NUGENT, JIM",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1980,RAILROAD COMMISSION,2,2,TX,"TEMPLE, ARTHUR (BUDDY)",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1980,SHERIFF,,,TX,"MONTES, RAY",,1,,,,,0.85
-TX,El Paso Times,145300,1980,STATE REP,71,71,TX,"ABBOTT, S.L",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1980,STATE REP,,,TX,"VOWELL, JACK",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1980,TX SUPREME COURT,1,1,TX,"GARWOOD, WILL",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1980,TX SUPREME COURT,2,2,TX,"WALLACE, JAMES P.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1982,AGRICULTURE COMMISSIONER,,,TX,"THORNBERRY, FRED",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1982,ATTORNEY GENERAL,,,TX,"MEIER, BILL",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1982,CNTY CLERK,,,TX,"RUBALCABA, EDIE",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1982,CNTY COMM,4,4,TX,"HAYNES, MARY",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1982,CNTY COMM,2,2,TX,"TELLES, RICHARD",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1982,CNTY JUDGE,,,TX,"O'ROURKE, PAT",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1982,COMPTROLLER,,,TX,"RICHARDS, MIKE",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1982,COURT OF APPEALS,2,2,TX,"MILLER, CHUCK",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1982,DISTRICT COURT JUDGE,168,168,TX,"KOEHLER, WARD",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1982,DISTRICT COURT JUDGE,243,243,TX,"MARSH, HERB",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1982,DISTRICT COURT JUDGE,41,41,TX,"SCOGGINS, RALPH",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1982,GOVERNOR,,,TX,"CLEMENTS, WILLIAM P., JR.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1982,GOVERNOR,,,NM,"IRICK, JOHN",Republican,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1982,H,16,16,TX,"HAGGERTY, PAT",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1982,H,2,2,NM,"SKEEN, JOSEPH R. (JOE)",Republican,1,,1,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1982,LAND COMMISSIONER,,,TX,"GLASSCOCK, WOODY",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1982,LT GOVERNOR,,,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1982,RAILROAD COMMISSION,3,3,TX,"NUGENT, JIM",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1982,SENATOR,,,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1982,SENATOR,,,NM,"SCHMITT, HARRISON",Republican,1,,1,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1982,STATE BOARD OF ED,16,16,TX,"WINDLE, WAYNE",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1982,STATE REP,71,71,TX,"JONES, ARVES",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1982,STATE REP,73,73,TX,"POLK, MARY",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1982,STATE REP,70,70,TX,"VOWELL, JACK",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1982,STATE REP,72,72,TX,"WOELPER, WALT",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1982,STATE SENATOR,25,25,TX,"ANGELO, ERNEST",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1982,STATE SENATOR,29,29,TX,"SANTIESTEBAN, TATI",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1982,TREASURER,,,TX,"FINLEY, MARSHALL",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1982,TREASURER,,,TX,"RICHARDS, ANN",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1982,TX SUPREME COURT,2,2,TX,"ROBERTSON, TED Z.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1984,CNTY COMM,,,TX,"HOOTEN, CHARLES",,1,,,,,0.85
-TX,El Paso Times,145300,1984,COURT OF APPEALS,1,1,TX,"CLINTON, SAM HOUSTON",,1,,,,,0.85
-TX,El Paso Times,145300,1984,DA/PROSECUTOR,34,34,TX,"SIMMONS, STEVE",,1,,,,,0.85
-TX,El Paso Times,145300,1984,H,16,16,TX,"COLEMAN, RONALD",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1984,PRESIDENT,,,TX,"REAGAN, RONALD",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1984,RAILROAD COMMISSION,1,1,TX,"WALLACE, MACK",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1984,SENATOR,,,TX,"GRAMM, WILLIAM PHILIP (PHIL)",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1984,SHERIFF,,,TX,"SAMANIEGO, LEO",,1,,,,,0.85
-TX,El Paso Times,145300,1984,STATE REP,71,71,TX,"JONES, ARVES",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1984,STATE REP,73,73,TX,"MCDONALD, NANCY",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1984,STATE REP,70,70,TX,"VOWELL, JACK",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1984,TAX ASSESSOR,,,TX,"HICKS, JIMMY",,1,,,,COUNTY,0.85
-TX,El Paso Times,145300,1984,TX SUPREME COURT,,,TX,"HILL, JOHN",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1986,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1986,ATTORNEY GENERAL,,,TX,"BARRERA, ROY R., JR.",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1986,CNTY JUDGE,,,TX,"JONES, LUTHER",,1,,,,,0.85
-TX,El Paso Times,145300,1986,DA/PROSECUTOR,,,TX,"LUCAS, JOE",,1,,,,,0.85
-TX,El Paso Times,145300,1986,GOVERNOR,,,TX,"CLEMENTS, WILLIAM P., JR.",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1986,H,16,16,TX,"COLEMAN, RONALD",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1986,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1986,LT GOVERNOR,,,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1986,RAILROAD COMMISSION,2,2,TX,"FOX, MILTON E.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1986,STATE REP,71,71,TX,"JONES, ARVES",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1986,TX SUPREME COURT,2,2,TX,"CAMPBELL, ROBERT M.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1986,TX SUPREME COURT,4,4,TX,"GONZALEZ, RAUL A.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1986,TX SUPREME COURT,1,1,TX,"MAUZY, OSCAR H.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1988,CNTY COMM,,,TX,"RITTGERS, MATEELE",,1,,,,,0.85
-TX,El Paso Times,145300,1988,COURT OF APPEALS,8,8,TX,"KOEHLER, WARD",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1988,COURT OF CRIMINAL APPEALS,,,TX,"MCCORMICK, MIKE",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1988,COURT OF CRIMINAL APPEALS,1,1,TX,"MILLER, CHUCK",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1988,PRESIDENT,,,TX,"BUSH, GEORGE H. W.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1988,RAILROAD COMMISSION,,,TX,"EMMETT, ED",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1988,RAILROAD COMMISSION,1,1,TX,"HANCE, KENT RONALD",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1988,SENATOR,,,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1988,STATE REP,71,71,TX,"HAGGERTY, PAT",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1988,STATE REP,74,74,TX,"PEREZ, NICK",,1,1,,,,0.85
-TX,El Paso Times,145300,1988,STATE REP,72,72,TX,"WOELPER, WALT",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,1988,TX SUPREME COURT,5,5,TX,"COOK, EUGENE",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1988,TX SUPREME COURT,4,4,TX,"CULVER, BARBARA G.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1988,TX SUPREME COURT,1,1,TX,"DOGGETT, LLOYD",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1988,TX SUPREME COURT,3,3,TX,"GONZALEZ, RAUL A.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1988,TX SUPREME COURT,2,2,TX,"HECHT, NATHAN",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1988,TX SUPREME COURT,,,TX,"PHILLIPS, THOMAS R.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1990,AGRICULTURE COMMISSIONER,,,TX,"HIGHTOWER, JIM",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1990,ATTORNEY GENERAL,,,TX,"MORALES, DAN",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1990,ATTORNEY GENERAL,,,NM,"UDALL, TOM",,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,CNTY COMM,2,2,TX,"DOBBS, LINA FRESCAS",,1,,,,,0.85
-TX,El Paso Times,145300,1990,CNTY JUDGE,,,TX,"CHACON, ALICIA",,1,,,,,0.85
-TX,El Paso Times,145300,1990,COMPTROLLER,,,TX,"SHARP, JOHN",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,2,2,TX,"BERCHELMANN, DAVID A., JR.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,4,4,TX,"KITZMAN, OLIVER",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,3,3,TX,"MALONEY, FRANK",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,1,1,TX,"STURNS, LOUIS",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,5,5,TX,"WHITE, BILL",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1990,DISTRICT COURT JUDGE,3,3,NM,"CORNISH, THOMAS",,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,DISTRICT COURT JUDGE,168,168,TX,"RIVERA-EGGEMEYER, LUPE",,1,,,,,0.85
-TX,El Paso Times,145300,1990,GOVERNOR,,,NM,"BOND, FRANK",Republican,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,GOVERNOR,,,TX,"RICHARDS, ANN W.",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1990,JUDGE,4,4,TX,"SALDIVAR, FELIX",,1,,,,,0.85
-TX,El Paso Times,145300,1990,JUDGE,4,4,TX,"SCHILD, KITTY",,1,,,,,0.85
-TX,El Paso Times,145300,1990,JUDGE,1,1,TX,"SEVERSON, JERRY",,1,,,,,0.85
-TX,El Paso Times,145300,1990,LAND COMMISSIONER,,,NM,"BIGBEE, JOHN",Republican,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,1990,LT GOVERNOR,,,TX,"BULLOCK, ROBERT DOUGLAS (BOB)",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1990,LT GOVERNOR,,,NM,"THOMPSON, MARY",,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,RAILROAD COMMISSION,,,TX,"KRUEGER, ROBERT (BOB)",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1990,RAILROAD COMMISSION,,,NM,"SERNA, ERIC",,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,SEC OF STATE,,,NM,"GONZALES, STEPHANIE",Democrat,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,SENATOR,,,NM,"DOMENICI, PETE V.",Republican,1,,1,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,SENATOR,,,TX,"GRAMM, WILLIAM PHILIP (PHIL)",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1990,STATE BOARD OF ED,,,NM,"MAYFIELD, L. GRADY",,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,STATE REP,71,71,TX,"ALLEN, JIM",,1,,1,,,0.85
-TX,El Paso Times,145300,1990,STATE REP,70,70,TX,"VOWELL, JACK",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,1990,STATE SENATOR,29,29,TX,"ROSSON, PEGGY",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,1990,SUPREME COURT,,,NM,"WILSON, KEN",,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,TREASURER,,,NM,"KING, DAVID",,1,,,,NEW MEXICO,0.85
-TX,El Paso Times,145300,1990,TX SUPREME COURT,1,1,TX,"CORNYN, JOHN",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1990,TX SUPREME COURT,2,2,TX,"GAMMAGE, BOB",,1,,,,,0.85
-TX,El Paso Times,145300,1990,TX SUPREME COURT,,,TX,"PHILLIPS, TOM",Republican,1,,,,,0.85
-TX,El Paso Times,145300,1992,PRESIDENT,,,TX,"CLINTON, WILLIAM J.",Democrat,1,,1,,,0.85
-TX,El Paso Times,145300,1994,AGRICULTURE COMMISSIONER,,,TX,"PERRY, RICK",Republican,1,,,,,0.90
-TX,El Paso Times,145300,1994,ATTORNEY GENERAL,,,TX,"MORALES, DAN",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1994,CNTY COMM,2,,TX,"AGUILAR, CARLOS II",,1,,,,,0.85
-TX,El Paso Times,145300,1994,CNTY COMM,4,,TX,"HOOD, JAMES KELLY",,1,,,,,0.85
-TX,El Paso Times,145300,1994,CNTY JUDGE,,,TX,"RUSS, GARY",,1,,,,,0.85
-TX,El Paso Times,145300,1994,COMPTROLLER,,,TX,"SHARP, JOHN",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1994,COURT OF CRIMINAL APPEALS,1,,TX,"CAMPBELL, CLINTON F.",,1,,,,,0.80
-TX,El Paso Times,145300,1994,COURT OF CRIMINAL APPEALS,2,,TX,"MARSHALL, BETTY",,1,,,,,0.80
-TX,El Paso Times,145300,1994,DISTRICT COURT JUDGE,243,,TX,"GUADERRAMA, DAVID",,1,,,,,0.85
-TX,El Paso Times,145300,1994,GOVERNOR,,,TX,"RICHARDS, ANN",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1994,H,16,,TX,"COLEMAN, RON",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1994,LAND COMMISSIONER,,,TX,"MAURO, GARRY",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1994,LT GOVERNOR,,,TX,"BULLOCK, BOB",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1994,RAILROAD COMMISSION,,,TX,"MATTHEWS, CHARLES S.",Republican,1,,,,,0.90
-TX,El Paso Times,145300,1994,RAILROAD COMMISSION,,,TX,"NABERS, MARY SCOTT",Democrat,1,,,,,0.90
-TX,El Paso Times,145300,1994,SENATOR,,,TX,"HUTCHISON, KAY BAILEY",Republican,1,,1,,,0.90
-TX,El Paso Times,145300,1994,STATE BOARD OF ED,1,,TX,"NUNEZ, IRENE",,1,,,,,0.85
-TX,El Paso Times,145300,1994,STATE REP,78,,TX,"CORBIN, ROBERT",,1,,,,,0.80
-TX,El Paso Times,145300,1994,TREASURER,,,TX,"WHITEHEAD, MARTHA",Democrat,1,,,,,0.90
-TX,El Paso Times,145300,1994,TX SUPREME COURT,1,,TX,"GONZALEZ, RAUL",Democrat,1,1,,,,0.90
-TX,El Paso Times,145300,1994,TX SUPREME COURT,2,,TX,"PARROTT, ALICE OLIVER",Democrat,1,,,,,0.90
-TX,El Paso Times,145300,1996,CNTY COMM,1,,TX,"HOOTEN, CHARLES",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1996,COURT OF CRIMINAL APPEALS,1,,TX,"HOLLAND, SUE",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1996,COURT OF CRIMINAL APPEALS,3,,TX,"MALONEY, FRANK",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,1996,COURT OF CRIMINAL APPEALS,2,,TX,"WOMACK, PAUL",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1996,DISTRICT COURT JUDGE,383,,TX,"CARDONE, KATHLEEN",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1996,DISTRICT COURT JUDGE,384,,TX,"DUROSS, JAMES",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1996,H,23,,TX,"BONILLA, HENRY",Republican,1,,1,,,0.95
-TX,El Paso Times,145300,1996,H,16,,TX,"REYES, SILVESTRE",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,1996,PRESIDENT,,,TX,"CLINTON, BILL",Democrat,1,,1,,,0.95
-TX,El Paso Times,145300,1996,RAILROAD COMMISSION,,,TX,"RYLANDER, CAROLE KEETON",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1996,SENATOR,,,TX,"GRAMM, PHIL",Republican,1,,1,,,0.95
-TX,El Paso Times,145300,1996,STATE REP,75,,TX,"BARNETT, JIM",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1996,STATE SENATOR,28,,TX,"LANGSTON, DAVID",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,1996,STATE SENATOR,29,,TX,"SHAPLEIGH, ELIOT",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,1996,TAX ASSESSOR,,,TX,"O'ROURKE, PAT",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1996,TX SUPREME COURT,2,,TX,"BAKER, JAMES",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1996,TX SUPREME COURT,1,,TX,"BARRON, PATRICE",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,1996,TX SUPREME COURT,,,TX,"PHILLIPS, TOM",Republican,1,,1,,CHIEF JUSTICE,0.95
-TX,El Paso Times,145300,1998,AGRICULTURE COMMISSIONER,,,TX,"COMBS, SUSAN",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1998,ATTORNEY GENERAL,,,TX,"CORNYN, JOHN",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1998,CNTY COMM,4,,TX,"HAGGERTY, DAN",,1,,,,,0.90
-TX,El Paso Times,145300,1998,CNTY JUDGE,,,TX,"BRIONES, DOLORES",,1,,,,,0.90
-TX,El Paso Times,145300,1998,COMPTROLLER,,,TX,"HOBBY, PAUL",,1,,,,,0.85
-TX,El Paso Times,145300,1998,COURT OF APPEALS,8,,TX,"LARSEN, SUSAN",,1,,,,,0.90
-TX,El Paso Times,145300,1998,COURT OF CRIMINAL APPEALS,1,,TX,"BAIRD, CHARLIE",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,1998,COURT OF CRIMINAL APPEALS,2,,TX,"COCHRAN, WINSTON",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1998,DISTRICT COURT JUDGE,171,,TX,"RANGEL, BONNIE",,1,,,,,0.90
-TX,El Paso Times,145300,1998,GOVERNOR,,,TX,"BUSH, GEORGE W.",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1998,H,23,,TX,"BONILLA, HENRY",Republican,1,,1,,,0.95
-TX,El Paso Times,145300,1998,H,16,,TX,"REYES, SILVESTRE",Democrat,1,1,,,,0.95
-TX,El Paso Times,145300,1998,LAND COMMISSIONER,,,TX,"RAYMOND, RICHARD",,1,,,,,0.85
-TX,El Paso Times,145300,1998,LT GOVERNOR,,,TX,"PERRY, RICK",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1998,RAILROAD COMMISSION,,,TX,"GARZA, TONY",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1998,STATE BOARD OF ED,,,TX,"NUNEZ, RENE",,1,,,,,0.90
-TX,El Paso Times,145300,1998,STATE REP,78,,TX,"HAGGERTY, PAT",Republican,1,,1,,,0.90
-TX,El Paso Times,145300,1998,STATE REP,75,,TX,"NAJERA, MANNY",,1,,,,,0.90
-TX,El Paso Times,145300,1998,TX SUPREME COURT,3,,TX,"ABBOTT, GREG",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1998,TX SUPREME COURT,1,,TX,"ENOCH, CRAIG",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1998,TX SUPREME COURT,4,,TX,"HANKINSON, DEBORAH",Republican,1,,,,,0.95
-TX,El Paso Times,145300,1998,TX SUPREME COURT,2,,TX,"SPECTOR, ROSE",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,2000,PRESIDENT,,,TX,"BUSH, GEORGE W.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,2002,ATTORNEY GENERAL,,,TX,"WATSON, KIRK",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,2002,SENATOR,,,TX,"CORNYN, JOHN, III",Republican,1,,,,,0.85
-TX,El Paso Times,145300,2004,PRESIDENT,,,TX,"BUSH, GEORGE W.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,AGRICULTURE COMMISSIONER,,,TX,"STAPLES, TODD",Republican,1,,,,,0.85
-TX,El Paso Times,145300,2006,ATTORNEY GENERAL,,,TX,"ABBOTT, GREG",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,COMPTROLLER,,,TX,"COMBS, SUSAN",Republican,1,,,,,0.85
-TX,El Paso Times,145300,2006,COURT OF CRIMINAL APPEALS,7,7,TX,"HERVEY, BARBARA PARKER",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,COURT OF CRIMINAL APPEALS,8,8,TX,"HOLCOMB, CHARLES",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,COURT OF CRIMINAL APPEALS,,,TX,"KELLER, SHARON",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,GOVERNOR,,,TX,"PERRY, RICK",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,LAND COMMISSIONER,,,TX,"PATTERSON, JERRY",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,LT GOVERNOR,,,TX,"DEWHURST, DAVID H.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,RAILROAD COMMISSION,,,TX,"JONES, ELIZABETH AMES",Republican,1,,,,,0.85
-TX,El Paso Times,145300,2006,SENATOR,,,TX,"HUTCHISON, KAY BAILEY",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,TX SUPREME COURT,6,6,TX,"HECHT, NATHAN L.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,TX SUPREME COURT,,,TX,"JEFFERSON, WALLACE B.",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2006,TX SUPREME COURT,8,8,TX,"JOHNSON, PHIL",Republican,1,,,,,0.85
-TX,El Paso Times,145300,2006,TX SUPREME COURT,4,4,TX,"MEDINA, DAVID M.",Republican,1,,,,,0.85
-TX,El Paso Times,145300,2006,TX SUPREME COURT,2,2,TX,"MOODY, WILLIAM E. (BILL)",Democrat,1,,,,,0.85
-TX,El Paso Times,145300,2008,COURT OF APPEALS,8,8,TX,"CARR, KENNETH R. (KENN)",,1,,,,,0.85
-TX,El Paso Times,145300,2008,DISTRICT COURT JUDGE,448,448,TX,"ANTCLIFF, CHRIS",,1,,,,,0.85
-TX,El Paso Times,145300,2008,DISTRICT COURT JUDGE,1,1,TX,"MINTON, DON W.",,1,,,,,0.85
-TX,El Paso Times,145300,2008,H,16,16,TX,"REYES, SILVESTRE",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,2008,H,23,23,TX,"RODRIGUEZ, CIRO",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,2008,PRESIDENT,,,TX,"MCCAIN, JOHN",Republican,1,,,,,0.85
-TX,El Paso Times,145300,2008,SENATOR,,,TX,"CORNYN, JOHN",Republican,1,,1,,,0.85
-TX,El Paso Times,145300,2008,SHERIFF,,EL PASO COUNTY,TX,"WILES, RICHARD",,1,,,,,0.85
-TX,El Paso Times,145300,2008,STATE REP,75,75,TX,"GARZA, CHARLIE",Republican,1,1,,,,0.85
-TX,El Paso Times,145300,2008,STATE REP,78,78,TX,"MARGO, DEE",Republican,1,,,,,0.85
-TX,El Paso Times,145300,2012,PRESIDENT,,,TX,"OBAMA, BARACK",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,2018,CNTY COMM,2,,TX,"STOUT, DAVID",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,2018,CNTY JUDGE,,,TX,"COOK, JOHN",Democrat,1,,,,DUAL ENDORSEMENT WITH SAMANIEGO,0.95
-TX,El Paso Times,145300,2018,CNTY JUDGE,,,TX,"SAMANIEGO, RICARDO",Democrat,1,,,,DUAL ENDORSEMENT WITH COOK,0.95
-TX,El Paso Times,145300,2018,DISTRICT COURT JUDGE,210,,TX,"PEREZ, ALYSSA G.",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,2018,DISTRICT COURT JUDGE,243,,TX,"SOLIS, SELENA",Democrat,1,,,,,0.95
-TX,El Paso Times,145300,2018,H,16,16,TX,"ESCOBAR, VERONICA",Democrat,1,1,,,,0.85
-TX,El Paso Times,145300,2018,JUDGE,1,,TX,"CHEW, PATRICIA",Democrat,1,,,,PROBATE COURT 1,0.95
-TX,El Paso Times,145300,2018,JUDGE,7,,TX,"MORALES, RUBEN",Democrat,1,,,,COUNTY COURT-AT-LAW 7,0.95
-TX,El Paso Times,145300,2018,JUDGE,1,,TX,"NUNEZ, RUBEN",Democrat,1,,,,COUNTY COURT-AT-LAW 1,0.95
-TX,El Paso Times,145300,2018,JUDGE,5,,TX,"RODRIGUEZ, JESUS",Democrat,1,,,,COUNTY COURT-AT-LAW 5,0.95
-TX,El Paso Times,145300,2018,STATE REP,75,75,TX,"GONZALEZ, MARY E.",Democrat,1,1,,,,0.85
+TX,El Paso Times,145300,1978,GOVERNOR,,Texas Governor,TX,"HILL, JOHN",Democrat,1,,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1978,GOVERNOR,,New Mexico Governor,NM,"SKEEN, JOSEPH R. (JOE)",Republican,1,,,,NEW MEXICO GOV,0.85
+TX,El Paso Times,145300,1978,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1978,JUDGE,4,4,TX,"KESSEL, ROBERT E.",Democrat,1,,,,[V2: party=D inferred from TX one-party D era pre-1980],0.85
+TX,El Paso Times,145300,1978,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"LACY, JAMES",Republican,1,,,,Endorsed for RAILROAD COMMISSION (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1978,SENATOR,,United States Senate from New Mexico,NM,"DOMENICI, PETE V.",Republican,1,,1,,NEW MEXICO US SENATE RACE,0.88
+TX,El Paso Times,145300,1978,SENATOR,,United States Senate from Texas,TX,"TOWER, JOHN G.",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1978,SHERIFF,,El Paso County,TX,"TELLEZ, DOMINGO",Independent,1,,,,Endorsed for SHERIFF (Independent) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1978,STATE BOARD OF ED,,State Board of Education (TX),TX,"WINDLE, WAYNE",Democrat,1,,,,Endorsed for STATE BOARD OF ED (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1978,STATE REP,71,71,TX,"ABBOTT, S.L",Republican,1,,,,Endorsed for STATE REP District 71 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1978,STATE REP,,Texas House of Representatives,TX,"JONES, LUTHER",Democrat,1,1,,,Endorsed for STATE REP (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1980,CNTY COMM,,El Paso County,TX,"HOOTEN, CHARLES",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1980,H,2,2,NM,"SKEEN, JOSEPH R. (JOE)",Republican,1,,1,,"NEW MEXICO US HOUSE RACE, WRITE IN",0.85
+TX,El Paso Times,145300,1980,H,16,16,TX,"WHITE, RICHARD C.",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1980,PRESIDENT,,United States,TX,"REAGAN, RONALD",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.92
+TX,El Paso Times,145300,1980,RAILROAD COMMISSION,3,3,TX,"NUGENT, JIM",Democrat,1,,,,Endorsed for RAILROAD COMMISSION District 3 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1980,RAILROAD COMMISSION,2,2,TX,"TEMPLE, ARTHUR (BUDDY)",Democrat,1,,,,Endorsed for RAILROAD COMMISSION District 2 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1980,SHERIFF,,El Paso County,TX,"MONTES, RAY",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1980,STATE REP,71,71,TX,"ABBOTT, S.L",Republican,1,,1,,Endorsed for STATE REP District 71 (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.88
+TX,El Paso Times,145300,1980,STATE REP,,Texas House of Representatives,TX,"VOWELL, JACK",Republican,1,,,,Endorsed for STATE REP (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1980,TX SUPREME COURT,1,1,TX,"GARWOOD, WILL",Republican,1,,,,Endorsed for TX SUPREME COURT District 1 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1980,TX SUPREME COURT,2,2,TX,"WALLACE, JAMES P.",Democrat,1,,,,Endorsed for TX SUPREME COURT District 2 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"THORNBERRY, FRED",Republican,1,,,,Endorsed for AGRICULTURE COMMISSIONER (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,ATTORNEY GENERAL,,Texas Attorney General,TX,"MEIER, BILL",Republican,1,,,,Endorsed for ATTORNEY GENERAL (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,CNTY CLERK,,El Paso County,TX,"RUBALCABA, EDIE",Democrat,1,,,,Endorsed for CNTY CLERK (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,CNTY COMM,4,4,TX,"HAYNES, MARY",Democrat,1,,,,Endorsed for CNTY COMM District 4 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,CNTY COMM,2,2,TX,"TELLES, RICHARD",Republican,1,,,,"Endorsed for CNTY COMM District 2 (Republican) [V2: generic note - no extracted text] [V5 FLAG: 1982 Telles R conflicts with 1970/74 D coding - extraction error suspect, needs OCR]",0.85
+TX,El Paso Times,145300,1982,CNTY JUDGE,,County Judge (El Paso),TX,"O'ROURKE, PAT",Democrat,1,,,,Endorsed for CNTY JUDGE (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,COMPTROLLER,,Texas Comptroller,TX,"RICHARDS, MIKE",Republican,1,,1,,Endorsed for COMPTROLLER (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.88
+TX,El Paso Times,145300,1982,COURT OF APPEALS,2,2,TX,"MILLER, CHUCK",Democrat,1,,,,Endorsed for COURT OF APPEALS District 2 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,DISTRICT COURT JUDGE,168,168,TX,"KOEHLER, WARD",Republican,1,,,,Endorsed for DISTRICT COURT JUDGE District 168 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,DISTRICT COURT JUDGE,243,243,TX,"MARSH, HERB",Democrat,1,,,,Endorsed for DISTRICT COURT JUDGE District 243 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,DISTRICT COURT JUDGE,41,41,TX,"SCOGGINS, RALPH",Republican,1,,,,Endorsed for DISTRICT COURT JUDGE District 41 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,GOVERNOR,,Texas Governor,TX,"CLEMENTS, WILLIAM P., JR.",Republican,1,,1,,Endorsed for GOVERNOR (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1982,GOVERNOR,,New Mexico Governor,NM,"IRICK, JOHN",Republican,1,,,,NEW MEXICO,0.85
+TX,El Paso Times,145300,1982,H,16,16,TX,"HAGGERTY, PAT",Republican,1,,,,Endorsed for H District 16 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,H,2,2,NM,"SKEEN, JOSEPH R. (JOE)",Republican,1,,1,,NEW MEXICO,0.88
+TX,El Paso Times,145300,1982,LAND COMMISSIONER,,Texas Land Commissioner,TX,"GLASSCOCK, WOODY",Republican,1,,,,Endorsed for LAND COMMISSIONER (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,LT GOVERNOR,,Texas Lt. Governor,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,1,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1982,RAILROAD COMMISSION,3,3,TX,"NUGENT, JIM",Democrat,1,1,,,Endorsed for RAILROAD COMMISSION District 3 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1982,SENATOR,,United States Senate from Texas,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1982,SENATOR,,United States Senate from New Mexico,NM,"SCHMITT, HARRISON",Republican,1,,1,,NEW MEXICO,0.88
+TX,El Paso Times,145300,1982,STATE BOARD OF ED,16,16,TX,"WINDLE, WAYNE",Democrat,1,1,,,Endorsed for STATE BOARD OF ED District 16 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,STATE REP,71,71,TX,"JONES, ARVES",Republican,1,,,,Endorsed for STATE REP District 71 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,STATE REP,73,73,TX,"POLK, MARY",Democrat,1,1,,,Endorsed for STATE REP District 73 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1982,STATE REP,70,70,TX,"VOWELL, JACK",Republican,1,,1,,Endorsed for STATE REP District 70 (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1982,STATE REP,72,72,TX,"WOELPER, WALT",Republican,1,,1,,Endorsed for STATE REP District 72 (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.88
+TX,El Paso Times,145300,1982,STATE SENATOR,25,25,TX,"ANGELO, ERNEST",Republican,1,,,,Endorsed for STATE SENATOR District 25 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,STATE SENATOR,29,29,TX,"SANTIESTEBAN, TATI",Democrat,1,1,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1982,TREASURER,,Texas Treasurer,TX,"FINLEY, MARSHALL",Democrat,1,,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,TREASURER,,Texas Treasurer,TX,"RICHARDS, ANN",Democrat,1,,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1982,TX SUPREME COURT,2,2,TX,"ROBERTSON, TED Z.",Democrat,1,,,,Endorsed for TX SUPREME COURT District 2 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1984,CNTY COMM,,El Paso County,TX,"HOOTEN, CHARLES",Democrat,1,1,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1984,COURT OF APPEALS,1,1,TX,"CLINTON, SAM HOUSTON",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1984,DA/PROSECUTOR,34,34,TX,"SIMMONS, STEVE",Republican,1,,,,[V2: party filled from TX/NM history] [V5 FLAG: 1984 Simmons R; 1972 was D - possible TX party switch typical of 1980s era],0.85
+TX,El Paso Times,145300,1984,H,16,16,TX,"COLEMAN, RONALD",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1984,PRESIDENT,,United States,TX,"REAGAN, RONALD",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1984,RAILROAD COMMISSION,1,1,TX,"WALLACE, MACK",Democrat,1,1,,,Endorsed for RAILROAD COMMISSION District 1 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1984,SENATOR,,United States Senate from Texas,TX,"GRAMM, WILLIAM PHILIP (PHIL)",Republican,1,,,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1984,SHERIFF,,El Paso County,TX,"SAMANIEGO, LEO",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1984,STATE REP,71,71,TX,"JONES, ARVES",Republican,1,,1,,Endorsed for STATE REP District 71 (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1984,STATE REP,73,73,TX,"MCDONALD, NANCY",Democrat,1,,,,Endorsed for STATE REP District 73 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1984,STATE REP,70,70,TX,"VOWELL, JACK",Republican,1,,1,,Endorsed for STATE REP District 70 (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1984,TAX ASSESSOR,,El Paso County,TX,"HICKS, JIMMY",Republican,1,,,,COUNTY [V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1984,TX SUPREME COURT,,Texas Supreme Court,TX,"HILL, JOHN",Democrat,1,,,,Endorsed for TX SUPREME COURT (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1986,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"HIGHTOWER, JIM",Democrat,1,1,,,Endorsed for AGRICULTURE COMMISSIONER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1986,ATTORNEY GENERAL,,Texas Attorney General,TX,"BARRERA, ROY R., JR.",Republican,1,,1,,Endorsed for ATTORNEY GENERAL (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.88
+TX,El Paso Times,145300,1986,CNTY JUDGE,,County Judge (El Paso),TX,"JONES, LUTHER",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1986,DA/PROSECUTOR,,El Paso County,TX,"LUCAS, JOE",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1986,GOVERNOR,,Texas Governor,TX,"CLEMENTS, WILLIAM P., JR.",Republican,1,,1,,Endorsed for GOVERNOR (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.88
+TX,El Paso Times,145300,1986,H,16,16,TX,"COLEMAN, RONALD",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1986,LAND COMMISSIONER,,Texas Land Commissioner,TX,"MAURO, GARRY",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1986,LT GOVERNOR,,Texas Lt. Governor,TX,"HOBBY, WILLIAM P. (BILL)",Democrat,1,1,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1986,RAILROAD COMMISSION,2,2,TX,"FOX, MILTON E.",Republican,1,,,,Endorsed for RAILROAD COMMISSION District 2 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1986,STATE REP,71,71,TX,"JONES, ARVES",Republican,1,,1,,Endorsed for STATE REP District 71 (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1986,TX SUPREME COURT,2,2,TX,"CAMPBELL, ROBERT M.",Democrat,1,1,,,Endorsed for TX SUPREME COURT District 2 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1986,TX SUPREME COURT,4,4,TX,"GONZALEZ, RAUL A.",Democrat,1,,,,Endorsed for TX SUPREME COURT District 4 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1986,TX SUPREME COURT,1,1,TX,"MAUZY, OSCAR H.",Democrat,1,,,,Endorsed for TX SUPREME COURT District 1 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,CNTY COMM,,El Paso County,TX,"RITTGERS, MATEELE",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1988,COURT OF APPEALS,8,8,TX,"KOEHLER, WARD",Republican,1,,,,Endorsed for COURT OF APPEALS District 8 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,COURT OF CRIMINAL APPEALS,,Texas Court of Criminal Appeals,TX,"MCCORMICK, MIKE",Democrat,1,1,,,Endorsed for COURT OF CRIMINAL APPEALS (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1988,COURT OF CRIMINAL APPEALS,1,1,TX,"MILLER, CHUCK",Democrat,1,1,,,Endorsed for COURT OF CRIMINAL APPEALS District 1 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1988,PRESIDENT,,United States,TX,"BUSH, GEORGE H. W.",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"EMMETT, ED",Republican,1,,,,Endorsed for RAILROAD COMMISSION (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,RAILROAD COMMISSION,1,1,TX,"HANCE, KENT RONALD",Republican,1,,,,Endorsed for RAILROAD COMMISSION District 1 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,SENATOR,,United States Senate from Texas,TX,"BENTSEN, LLOYD MILLARD, JR.",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1988,STATE REP,71,71,TX,"HAGGERTY, PAT",Republican,1,,,,Endorsed for STATE REP District 71 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,STATE REP,74,74,TX,"PEREZ, NICK",Democrat,1,1,,,[V2: party filled from TX/NM history],0.88
+TX,El Paso Times,145300,1988,STATE REP,72,72,TX,"WOELPER, WALT",Republican,1,,1,,Endorsed for STATE REP District 72 (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.88
+TX,El Paso Times,145300,1988,TX SUPREME COURT,5,5,TX,"COOK, EUGENE",Democrat,1,,,,Endorsed for TX SUPREME COURT District 5 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,TX SUPREME COURT,4,4,TX,"CULVER, BARBARA G.",Republican,1,,,,Endorsed for TX SUPREME COURT District 4 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,TX SUPREME COURT,1,1,TX,"DOGGETT, LLOYD",Democrat,1,,,,Endorsed for TX SUPREME COURT District 1 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,TX SUPREME COURT,3,3,TX,"GONZALEZ, RAUL A.",Democrat,1,1,,,Endorsed for TX SUPREME COURT District 3 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1988,TX SUPREME COURT,2,2,TX,"HECHT, NATHAN",Republican,1,,,,Endorsed for TX SUPREME COURT District 2 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1988,TX SUPREME COURT,,Texas Supreme Court,TX,"PHILLIPS, THOMAS R.",Republican,1,,,,Endorsed for TX SUPREME COURT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"HIGHTOWER, JIM",Democrat,1,1,,,Endorsed for AGRICULTURE COMMISSIONER (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1990,ATTORNEY GENERAL,,Texas Attorney General,TX,"MORALES, DAN",Democrat,1,,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,ATTORNEY GENERAL,,New Mexico Attorney General,NM,"UDALL, TOM",Democrat,1,,,,NEW MEXICO [V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,CNTY COMM,2,2,TX,"DOBBS, LINA FRESCAS",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,CNTY JUDGE,,County Judge (El Paso),TX,"CHACON, ALICIA",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,COMPTROLLER,,Texas Comptroller,TX,"SHARP, JOHN",Democrat,1,,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,2,2,TX,"BERCHELMANN, DAVID A., JR.",Republican,1,,,,Endorsed for COURT OF CRIMINAL APPEALS District 2 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,4,4,TX,"KITZMAN, OLIVER",Republican,1,,,,Endorsed for COURT OF CRIMINAL APPEALS District 4 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,3,3,TX,"MALONEY, FRANK",Democrat,1,,,,Endorsed for COURT OF CRIMINAL APPEALS District 3 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,1,1,TX,"STURNS, LOUIS",Republican,1,,,,Endorsed for COURT OF CRIMINAL APPEALS District 1 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,COURT OF CRIMINAL APPEALS,5,5,TX,"WHITE, BILL",Democrat,1,1,,,Endorsed for COURT OF CRIMINAL APPEALS District 5 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1990,DISTRICT COURT JUDGE,3,3,NM,"CORNISH, THOMAS",Democrat,1,,,,NEW MEXICO [V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,DISTRICT COURT JUDGE,168,168,TX,"RIVERA-EGGEMEYER, LUPE",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,GOVERNOR,,New Mexico Governor,NM,"BOND, FRANK",Republican,1,,,,NEW MEXICO,0.85
+TX,El Paso Times,145300,1990,GOVERNOR,,Texas Governor,TX,"RICHARDS, DOROTHY ANN",Democrat,1,,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,JUDGE,4,4,TX,"SALDIVAR, FELIX",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,JUDGE,4,4,TX,"SCHILD, KITTY",Democrat,1,,,,Endorsed for JUDGE District 4 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1990,JUDGE,1,1,TX,"SEVERSON, JERRY",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,LAND COMMISSIONER,,Texas Land Commissioner,NM,"BIGBEE, JOHN",Republican,1,,,,NEW MEXICO,0.85
+TX,El Paso Times,145300,1990,LAND COMMISSIONER,,Texas Land Commissioner,TX,"MAURO, GARRY",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1990,LT GOVERNOR,,Texas Lt. Governor,TX,"BULLOCK, ROBERT DOUGLAS (BOB)",Democrat,1,,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,LT GOVERNOR,,New Mexico Lt. Governor,NM,"THOMPSON, MARY",Libertarian,1,,,,NEW MEXICO [V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"KRUEGER, ROBERT (BOB)",Democrat,1,,,,Endorsed for RAILROAD COMMISSION (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,RAILROAD COMMISSION,,Texas Railroad Commission,NM,"SERNA, ERIC",Democrat,1,,,,NEW MEXICO [V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,SEC OF STATE,,Texas Secretary of State,NM,"GONZALES, STEPHANIE",Democrat,1,,,,NEW MEXICO,0.85
+TX,El Paso Times,145300,1990,SENATOR,,United States Senate from New Mexico,NM,"DOMENICI, PETE V.",Republican,1,,1,,NEW MEXICO,0.88
+TX,El Paso Times,145300,1990,SENATOR,,United States Senate from Texas,TX,"GRAMM, WILLIAM PHILIP (PHIL)",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1990,STATE BOARD OF ED,,State Board of Education (TX),NM,"MAYFIELD, L. GRADY",Republican,1,,,,NEW MEXICO [V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,STATE REP,71,71,TX,"ALLEN, JIM",Republican,1,,1,,[V2: party filled from TX/NM history],0.88
+TX,El Paso Times,145300,1990,STATE REP,70,70,TX,"VOWELL, JACK",Republican,1,,1,,Endorsed for STATE REP District 70 (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1990,STATE SENATOR,29,29,TX,"ROSSON, PEGGY",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1990,SUPREME COURT,,Supreme Court (state),NM,"WILSON, KEN",Democrat,1,,,,NEW MEXICO [V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,TREASURER,,Texas Treasurer,NM,"KING, DAVID",Republican,1,,,,NEW MEXICO [V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,TX SUPREME COURT,1,1,TX,"CORNYN, JOHN",Republican,1,,,,Endorsed for TX SUPREME COURT District 1 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,1990,TX SUPREME COURT,2,2,TX,"GAMMAGE, BOB",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1990,TX SUPREME COURT,,Texas Supreme Court,TX,"PHILLIPS, THOMAS R.",Republican,1,,1,,Endorsed for TX SUPREME COURT (Republican) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.85
+TX,El Paso Times,145300,1992,PRESIDENT,,United States,TX,"CLINTON, WILLIAM J.",Democrat,1,1,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text] [V2: Pattern K fix - r_inc → d_inc to match party=D],0.88
+TX,El Paso Times,145300,1994,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"PERRY, RICK",Republican,1,,1,,Endorsed for AGRICULTURE COMMISSIONER (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1994,ATTORNEY GENERAL,,Texas Attorney General,TX,"MORALES, DAN",Democrat,1,1,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1994,CNTY COMM,2,El Paso County District 2,TX,"AGUILAR, CARLOS II",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1994,CNTY COMM,4,El Paso County District 4,TX,"HOOD, JAMES KELLY",Republican,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1994,CNTY JUDGE,,County Judge (El Paso),TX,"RUSS, GARY",Republican,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1994,COMPTROLLER,,Texas Comptroller,TX,"SHARP, JOHN",Democrat,1,1,,,Endorsed for COMPTROLLER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1994,COURT OF CRIMINAL APPEALS,1,Texas Court of Criminal Appeals,TX,"CAMPBELL, CLINTON F.",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1994,COURT OF CRIMINAL APPEALS,2,Texas Court of Criminal Appeals,TX,"MARSHALL, BETTY",Republican,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1994,DISTRICT COURT JUDGE,243,El Paso District Court Court 243,TX,"GUADERRAMA, DAVID C.",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1994,GOVERNOR,,Texas Governor,TX,"RICHARDS, DOROTHY ANN",Democrat,1,1,,,Endorsed for GOVERNOR (Democrat) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1994,H,16,U.S. House Texas District 16,TX,"COLEMAN, RONALD D.",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1994,LAND COMMISSIONER,,Texas Land Commissioner,TX,"MAURO, GARRY",Democrat,1,1,,,Endorsed for LAND COMMISSIONER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1994,LT GOVERNOR,,Texas Lt. Governor,TX,"BULLOCK, ROBERT D., SR.",Democrat,1,1,,,Endorsed for LT GOVERNOR (Democrat) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1994,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"MATTHEWS, CHARLES S.",Republican,1,,,,Endorsed for RAILROAD COMMISSION (Republican) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1994,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"NABERS, MARY SCOTT",Democrat,1,,,,Endorsed for RAILROAD COMMISSION (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1994,SENATOR,,United States Senate from Texas,TX,"HUTCHISON, KAY BAILEY",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1994,STATE BOARD OF ED,1,State Board of Education (TX),TX,"NUNEZ, IRENE",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1994,STATE REP,78,Texas House District 78,TX,"CORBIN, ROBERT",Republican,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1994,TREASURER,,Texas Treasurer,TX,"WHITEHEAD, MARTHA",Democrat,1,,,,Endorsed for TREASURER (Democrat) [V2: generic note - no extracted text] [V2: conf boost from EHP cross-paper agreement],0.92
+TX,El Paso Times,145300,1994,TX SUPREME COURT,1,Texas Supreme Court,TX,"GONZALEZ, RAUL A.",Democrat,1,1,,,Endorsed for TX SUPREME COURT District 1 (Democrat) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.90
+TX,El Paso Times,145300,1994,TX SUPREME COURT,2,Texas Supreme Court,TX,"PARROTT, ALICE OLIVER",Democrat,1,,,,Endorsed for TX SUPREME COURT District 2 (Democrat) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1996,CNTY COMM,1,El Paso County District 1,TX,"HOOTEN, CHARLES",Republican,1,,,,"Endorsed for CNTY COMM District 1 (Republican) [V2: generic note - no extracted text] [V5 FLAG: 1996 Hooten R conflicts with 1980/84 D coding - either party switch or extraction error, needs OCR]",0.95
+TX,El Paso Times,145300,1996,COURT OF CRIMINAL APPEALS,1,Texas Court of Criminal Appeals,TX,"HOLLAND, SUE",Republican,1,,,,Endorsed for COURT OF CRIMINAL APPEALS District 1 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1996,COURT OF CRIMINAL APPEALS,3,Texas Court of Criminal Appeals,TX,"MALONEY, FRANK",Democrat,1,1,,,Endorsed for COURT OF CRIMINAL APPEALS District 3 (Democrat) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1996,COURT OF CRIMINAL APPEALS,2,Texas Court of Criminal Appeals,TX,"WOMACK, PAUL",Republican,1,,,,Endorsed for COURT OF CRIMINAL APPEALS District 2 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1996,DISTRICT COURT JUDGE,383,El Paso District Court Court 383,TX,"CARDONE, KATHLEEN",Republican,1,,,,Endorsed for DISTRICT COURT JUDGE District 383 (Republican) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1996,DISTRICT COURT JUDGE,384,El Paso District Court Court 384,TX,"DUROSS, JAMES",Republican,1,,,,Endorsed for DISTRICT COURT JUDGE District 384 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1996,H,23,U.S. House Texas District 23,TX,"BONILLA, HENRY",Republican,1,,1,,Endorsed for H District 23 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1996,H,16,U.S. House Texas District 16,TX,"REYES, SILVESTRE",Democrat,1,,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1996,PRESIDENT,,United States,TX,"CLINTON, BILL",Democrat,1,1,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text] [V2: Pattern K fix - r_inc → d_inc to match party=D],0.95
+TX,El Paso Times,145300,1996,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"RYLANDER, CAROLE KEETON",Republican,1,,,,Endorsed for RAILROAD COMMISSION (Republican) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1996,SENATOR,,United States Senate from Texas,TX,"GRAMM, PHIL",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1996,STATE REP,75,Texas House District 75,TX,"BARNETT, JAMES",Republican,1,,,,Endorsed for STATE REP District 75 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1996,STATE SENATOR,28,Texas Senate District 28,TX,"LANGSTON, DAVID",Democrat,1,,,,Endorsed for STATE SENATOR District 28 (Democrat) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1996,STATE SENATOR,29,Texas Senate District 29,TX,"SHAPLEIGH, ELIOT",Democrat,1,,,,Endorsed for STATE SENATOR District 29 (Democrat) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1996,TAX ASSESSOR,,El Paso County,TX,"O'ROURKE, PAT",Republican,1,,,,Endorsed for TAX ASSESSOR (Republican) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1996,TX SUPREME COURT,2,Texas Supreme Court,TX,"BAKER, JAMES",Republican,1,,,,Endorsed for TX SUPREME COURT District 2 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1996,TX SUPREME COURT,1,Texas Supreme Court,TX,"BARRON, PATRICE",Democrat,1,,,,Endorsed for TX SUPREME COURT District 1 (Democrat) [V2: generic note - no extracted text] [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1996,TX SUPREME COURT,,Texas Supreme Court,TX,"PHILLIPS, THOMAS R.",Republican,1,,1,,CHIEF JUSTICE [V4: also endorsed by EHP - cross-paper consensus],0.95
+TX,El Paso Times,145300,1998,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"COMBS, SUSAN",Republican,1,,,,Endorsed for AGRICULTURE COMMISSIONER (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,ATTORNEY GENERAL,,Texas Attorney General,TX,"CORNYN, JOHN",Republican,1,,,,Endorsed for ATTORNEY GENERAL (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,CNTY COMM,4,El Paso County District 4,TX,"HAGGERTY, DAN",Republican,1,,,,[V2: party filled from TX/NM history],0.90
+TX,El Paso Times,145300,1998,CNTY JUDGE,,County Judge (El Paso),TX,"BRIONES, DOLORES",Democrat,1,,,,[V2: party filled from TX/NM history],0.90
+TX,El Paso Times,145300,1998,COMPTROLLER,,Texas Comptroller,TX,"HOBBY, PAUL",Republican,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1998,COURT OF APPEALS,8,Texas Court of Appeals,TX,"LARSEN, SUSAN",Republican,1,,,,[V2: party filled from TX/NM history],0.90
+TX,El Paso Times,145300,1998,COURT OF CRIMINAL APPEALS,1,Texas Court of Criminal Appeals,TX,"BAIRD, CHARLIE",Democrat,1,,,,Endorsed for COURT OF CRIMINAL APPEALS District 1 (Democrat) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,COURT OF CRIMINAL APPEALS,2,Texas Court of Criminal Appeals,TX,"COCHRAN, WINSTON",Republican,1,,,,Endorsed for COURT OF CRIMINAL APPEALS District 2 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,DISTRICT COURT JUDGE,171,El Paso District Court Court 171,TX,"RANGEL, BONNIE",Democrat,1,,,,[V2: party filled from TX/NM history],0.90
+TX,El Paso Times,145300,1998,GOVERNOR,,Texas Governor,TX,"BUSH, GEORGE W.",Republican,1,,1,,Endorsed for GOVERNOR (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,H,23,U.S. House Texas District 23,TX,"BONILLA, HENRY",Republican,1,,1,,Endorsed for H District 23 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,H,16,U.S. House Texas District 16,TX,"REYES, SILVESTRE",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,LAND COMMISSIONER,,Texas Land Commissioner,TX,"RAYMOND, RICHARD",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,1998,LT GOVERNOR,,Texas Lt. Governor,TX,"PERRY, RICK",Republican,1,,,,Endorsed for LT GOVERNOR (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"GARZA, TONY",Republican,1,,,,Endorsed for RAILROAD COMMISSION (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,STATE BOARD OF ED,,State Board of Education (TX),TX,"NUNEZ, RENE",Democrat,1,,,,[V2: party filled from TX/NM history],0.90
+TX,El Paso Times,145300,1998,STATE REP,78,Texas House District 78,TX,"HAGGERTY, PAT",Republican,1,,1,,Endorsed for STATE REP District 78 (Republican) [V2: generic note - no extracted text],0.90
+TX,El Paso Times,145300,1998,STATE REP,75,Texas House District 75,TX,"NAJERA, MANNY",Democrat,1,,,,[V2: party filled from TX/NM history],0.90
+TX,El Paso Times,145300,1998,TX SUPREME COURT,3,Texas Supreme Court,TX,"ABBOTT, GREG",Republican,1,,,,Endorsed for TX SUPREME COURT District 3 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,TX SUPREME COURT,1,Texas Supreme Court,TX,"ENOCH, CRAIG",Republican,1,,,,Endorsed for TX SUPREME COURT District 1 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,TX SUPREME COURT,4,Texas Supreme Court,TX,"HANKINSON, DEBORAH",Republican,1,,,,Endorsed for TX SUPREME COURT District 4 (Republican) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,1998,TX SUPREME COURT,2,Texas Supreme Court,TX,"SPECTOR, ROSE",Democrat,1,,,,Endorsed for TX SUPREME COURT District 2 (Democrat) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,2000,PRESIDENT,,United States,TX,"BUSH, GEORGE W.",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2002,ATTORNEY GENERAL,,Texas Attorney General,TX,"WATSON, KIRK",Democrat,1,,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2002,SENATOR,,United States Senate from Texas,TX,"CORNYN, JOHN, III",Republican,1,,,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2004,PRESIDENT,,United States,TX,"BUSH, GEORGE W.",Republican,1,,1,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,AGRICULTURE COMMISSIONER,,Texas Agriculture Commissioner,TX,"STAPLES, TODD",Republican,1,,,,Endorsed for AGRICULTURE COMMISSIONER (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2006,ATTORNEY GENERAL,,Texas Attorney General,TX,"ABBOTT, GREG",Republican,1,,1,,Endorsed for ATTORNEY GENERAL (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,COMPTROLLER,,Texas Comptroller,TX,"COMBS, SUSAN",Republican,1,,,,Endorsed for COMPTROLLER (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2006,COURT OF CRIMINAL APPEALS,7,7,TX,"HERVEY, BARBARA PARKER",Republican,1,,1,,Endorsed for COURT OF CRIMINAL APPEALS District 7 (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,COURT OF CRIMINAL APPEALS,8,8,TX,"HOLCOMB, CHARLES",Republican,1,,1,,Endorsed for COURT OF CRIMINAL APPEALS District 8 (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,COURT OF CRIMINAL APPEALS,,Texas Court of Criminal Appeals,TX,"KELLER, SHARON",Republican,1,,1,,Endorsed for COURT OF CRIMINAL APPEALS (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,GOVERNOR,,Texas Governor,TX,"PERRY, RICK",Republican,1,,1,,Endorsed for GOVERNOR (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,LAND COMMISSIONER,,Texas Land Commissioner,TX,"PATTERSON, JERRY",Republican,1,,1,,Endorsed for LAND COMMISSIONER (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,LT GOVERNOR,,Texas Lt. Governor,TX,"DEWHURST, DAVID H.",Republican,1,,1,,Endorsed for LT GOVERNOR (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"JONES, ELIZABETH AMES",Republican,1,,,,Endorsed for RAILROAD COMMISSION (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2006,SENATOR,,United States Senate from Texas,TX,"HUTCHISON, KAY BAILEY",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,TX SUPREME COURT,6,6,TX,"HECHT, NATHAN L.",Republican,1,,1,,Endorsed for TX SUPREME COURT District 6 (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,TX SUPREME COURT,,Texas Supreme Court,TX,"JEFFERSON, WALLACE B.",Republican,1,,1,,Endorsed for TX SUPREME COURT (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2006,TX SUPREME COURT,8,8,TX,"JOHNSON, PHIL",Republican,1,,,,Endorsed for TX SUPREME COURT District 8 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2006,TX SUPREME COURT,4,4,TX,"MEDINA, DAVID M.",Republican,1,,,,Endorsed for TX SUPREME COURT District 4 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2006,TX SUPREME COURT,2,2,TX,"MOODY, WILLIAM E. (BILL)",Democrat,1,,,,Endorsed for TX SUPREME COURT District 2 (Democrat) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2008,COURT OF APPEALS,8,8,TX,"CARR, KENNETH R. (KENN)",Republican,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,2008,DISTRICT COURT JUDGE,448,448,TX,"ANTCLIFF, CHRIS",Republican,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,2008,DISTRICT COURT JUDGE,1,1,TX,"MINTON, DON W.",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,2008,H,16,16,TX,"REYES, SILVESTRE",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2008,H,23,23,TX,"RODRIGUEZ, CIRO",Democrat,1,1,,,Endorsed for H District 23 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2008,PRESIDENT,,United States,TX,"MCCAIN, JOHN",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2008,SENATOR,,United States Senate from Texas,TX,"CORNYN, JOHN",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2008,SHERIFF,,EL PASO COUNTY,TX,"WILES, RICHARD",Democrat,1,,,,[V2: party filled from TX/NM history],0.85
+TX,El Paso Times,145300,2008,STATE REP,75,75,TX,"GARZA, CHARLIE",Republican,1,,1,,Endorsed for STATE REP District 75 (Republican) [V2: generic note - no extracted text] [V2: Pattern K fix - d_inc → r_inc to match party=R],0.88
+TX,El Paso Times,145300,2008,STATE REP,78,78,TX,"MARGO, DEE",Republican,1,,,,Endorsed for STATE REP District 78 (Republican) [V2: generic note - no extracted text],0.85
+TX,El Paso Times,145300,2012,PRESIDENT,,United States,TX,"OBAMA, BARACK",Democrat,1,1,,,Endorsed for PRESIDENT (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2018,CNTY COMM,2,El Paso County District 2,TX,"STOUT, DAVID",Democrat,1,,,,Endorsed for CNTY COMM District 2 (Democrat) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,2018,CNTY JUDGE,,County Judge (El Paso),TX,"COOK, JOHN",Democrat,1,,,,DUAL ENDORSEMENT WITH SAMANIEGO,0.95
+TX,El Paso Times,145300,2018,CNTY JUDGE,,County Judge (El Paso),TX,"SAMANIEGO, RICARDO",Democrat,1,,,,DUAL ENDORSEMENT WITH COOK,0.95
+TX,El Paso Times,145300,2018,DISTRICT COURT JUDGE,210,El Paso District Court Court 210,TX,"PEREZ, ALYSSA G.",Democrat,1,,,,Endorsed for DISTRICT COURT JUDGE District 210 (Democrat) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,2018,DISTRICT COURT JUDGE,243,El Paso District Court Court 243,TX,"SOLIS, SELENA",Democrat,1,,,,Endorsed for DISTRICT COURT JUDGE District 243 (Democrat) [V2: generic note - no extracted text],0.95
+TX,El Paso Times,145300,2018,H,16,16,TX,"ESCOBAR, VERONICA",Democrat,1,1,,,Endorsed for H District 16 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,2018,JUDGE,1,El Paso District Court Court 1,TX,"CHEW, PATRICIA",Democrat,1,,,,PROBATE COURT 1,0.95
+TX,El Paso Times,145300,2018,JUDGE,7,El Paso District Court Court 7,TX,"MORALES, RUBEN",Democrat,1,,,,COUNTY COURT-AT-LAW 7,0.95
+TX,El Paso Times,145300,2018,JUDGE,1,El Paso District Court Court 1,TX,"NUNEZ, RUBEN",Democrat,1,,,,COUNTY COURT-AT-LAW 1,0.95
+TX,El Paso Times,145300,2018,JUDGE,5,El Paso District Court Court 5,TX,"RODRIGUEZ, JESUS",Democrat,1,,,,COUNTY COURT-AT-LAW 5,0.95
+TX,El Paso Times,145300,2018,STATE REP,75,75,TX,"GONZALEZ, MARY E.",Democrat,1,1,,,Endorsed for STATE REP District 75 (Democrat) [V2: generic note - no extracted text],0.88
+TX,El Paso Times,145300,1920,PRESIDENT,,United States,TX,"HARDING, WARREN G.",Republican,0,,,,1920 PRES R opp (Harding won landslide); not endorsed (ET endorsed Cox D) [V2 Pattern A],0.85
+TX,El Paso Times,145300,1924,PRESIDENT,,United States,TX,"COOLIDGE, CALVIN",Republican,0,,1,,1924 PRES R inc opp (Coolidge won); not endorsed (ET endorsed Davis D) [V2 Pattern A],0.88
+TX,El Paso Times,145300,1928,PRESIDENT,,United States,TX,"HOOVER, HERBERT",Republican,0,,,,1928 PRES R opp (Hoover won); not endorsed (ET endorsed Smith D) [V2 Pattern A],0.85
+TX,El Paso Times,145300,1932,PRESIDENT,,United States,TX,"HOOVER, HERBERT",Republican,0,,1,,1932 PRES R inc opp (Hoover lost to FDR); not endorsed [V2 Pattern A],0.88
+TX,El Paso Times,145300,1936,PRESIDENT,,United States,TX,"LANDON, ALF M.",Republican,0,,,,1936 PRES R opp (Landon lost landslide); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1940,PRESIDENT,,United States,TX,"WILLKIE, WENDELL",Republican,0,,,,1940 PRES R opp (Willkie lost); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1956,PRESIDENT,,United States,TX,"STEVENSON, ADLAI",Democrat,0,1,,,1956 PRES D opp (Stevenson lost again); not endorsed (ET endorsed Eisenhower R inc) [V2 Pattern A],0.88
+TX,El Paso Times,145300,1960,PRESIDENT,,United States,TX,"KENNEDY, JOHN F.",Democrat,0,,,,1960 PRES D opp (JFK won); not endorsed (ET endorsed Nixon R) [V2 Pattern A],0.85
+TX,El Paso Times,145300,1964,PRESIDENT,,United States,TX,"GOLDWATER, BARRY",Republican,0,,,,1964 PRES R opp (Goldwater lost landslide); not endorsed (ET endorsed LBJ D - TX) [V2 Pattern A],0.85
+TX,El Paso Times,145300,1968,PRESIDENT,,United States,TX,"HUMPHREY, HUBERT H.",Democrat,0,,,,1968 PRES D opp; not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1972,PRESIDENT,,United States,TX,"MCGOVERN, GEORGE",Democrat,0,,,,1972 PRES D opp; not endorsed (ET endorsed Nixon R inc) [V2 Pattern A],0.85
+TX,El Paso Times,145300,1976,PRESIDENT,,United States,TX,"CARTER, JIMMY",Democrat,0,,,,1976 PRES D opp (Carter won); not endorsed (ET endorsed Ford R inc) [V2 Pattern A],0.85
+TX,El Paso Times,145300,1980,PRESIDENT,,United States,TX,"CARTER, JIMMY",Democrat,0,1,,,1980 PRES D inc opp (Carter lost); not endorsed [V2 Pattern A],0.88
+TX,El Paso Times,145300,1984,PRESIDENT,,United States,TX,"MONDALE, WALTER F.",Democrat,0,,,,1984 PRES D opp (Mondale lost landslide); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1988,PRESIDENT,,United States,TX,"DUKAKIS, MICHAEL",Democrat,0,,,,1988 PRES D opp; not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1992,PRESIDENT,,United States,TX,"BUSH, GEORGE H. W.",Republican,0,,1,,1992 PRES R inc opp (Bush lost to Clinton); not endorsed by ET (notable D shift) [V2 Pattern A],0.88
+TX,El Paso Times,145300,1996,PRESIDENT,,United States,TX,"DOLE, BOB",Republican,0,,,,1996 PRES R opp (Dole lost); not endorsed (ET endorsed Clinton inc) [V2 Pattern A],0.85
+TX,El Paso Times,145300,2000,PRESIDENT,,United States,TX,"GORE, AL",Democrat,0,,,,2000 PRES D opp (Gore); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,2004,PRESIDENT,,United States,TX,"KERRY, JOHN F.",Democrat,0,,,,2004 PRES D opp (Kerry lost); not endorsed (ET endorsed Bush inc) [V2 Pattern A],0.85
+TX,El Paso Times,145300,2008,PRESIDENT,,United States,TX,"OBAMA, BARACK",Democrat,0,,,,2008 PRES D opp (Obama won); not endorsed (ET endorsed McCain R) [V2 Pattern A],0.85
+TX,El Paso Times,145300,2012,PRESIDENT,,United States,TX,"ROMNEY, MITT",Republican,0,,,,2012 PRES R opp (Romney); not endorsed (ET endorsed Obama D inc) [V2 Pattern A],0.85
+TX,El Paso Times,145300,1964,SENATOR,,United States Senate from Texas,TX,"YARBOROUGH, RALPH",Democrat,0,1,,,1964 SEN D inc opp (Yarborough won); not endorsed (ET endorsed Bush R) [V2 Pattern A],0.88
+TX,El Paso Times,145300,1972,SENATOR,,United States Senate from Texas,TX,"SANDERS, BAREFOOT",Democrat,0,,,,1972 SEN D opp (Sanders lost to Tower R inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1976,SENATOR,,United States Senate from Texas,TX,"STEELMAN, ALAN",Republican,0,,,,1976 SEN R opp (Steelman lost to Bentsen D inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1978,SENATOR,,United States Senate from Texas,TX,"KRUEGER, ROBERT C.",Democrat,0,,,,1978 SEN D opp (Krueger lost to Tower R inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1984,SENATOR,,United States Senate from Texas,TX,"DOGGETT, LLOYD",Democrat,0,,,,1984 SEN D opp (Doggett lost to Gramm R); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1988,SENATOR,,United States Senate from Texas,TX,"BOULTER, BEAU",Republican,0,,,,1988 SEN R opp (Boulter lost to Bentsen D inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1990,SENATOR,,United States Senate from Texas,TX,"PARMER, HUGH",Democrat,0,,,,1990 TX SEN D opp (Parmer lost to Gramm R inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1994,SENATOR,,United States Senate from Texas,TX,"FISHER, RICHARD",Democrat,0,,,,1994 TX SEN D opp (Fisher lost to Hutchison R); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1996,SENATOR,,United States Senate from Texas,TX,"MORALES, VICTOR M.",Democrat,0,,,,1996 TX SEN D opp (Morales lost to Gramm R inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1978,GOVERNOR,,Texas Governor,TX,"CLEMENTS, WILLIAM P., JR.",Republican,0,,,,"1978 TX GOV R opp (Clements won, first R since Reconstruction); not endorsed (ET endorsed Hill D) [V2 Pattern A]",0.85
+TX,El Paso Times,145300,1982,GOVERNOR,,Texas Governor,TX,"WHITE, MARK",Democrat,0,,,,"1982 TX GOV D opp (White won, unseated Clements R inc); not endorsed (ET endorsed Clements R inc) [V2 Pattern A]",0.85
+TX,El Paso Times,145300,1986,GOVERNOR,,Texas Governor,TX,"WHITE, MARK",Democrat,0,1,,,1986 TX GOV D inc opp (White lost rematch to Clements R); not endorsed [V2 Pattern A],0.88
+TX,El Paso Times,145300,1990,GOVERNOR,,Texas Governor,TX,"WILLIAMS, CLAYTON",Republican,0,,,,1990 TX GOV R opp (Williams lost to Richards D); not endorsed by ET (ET endorsed Richards) [V2 Pattern A],0.85
+TX,El Paso Times,145300,1994,GOVERNOR,,Texas Governor,TX,"BUSH, GEORGE W.",Republican,0,,,,"1994 TX GOV R opp (GW Bush won, unseated Richards D inc); not endorsed [V2 Pattern A]",0.85
+TX,El Paso Times,145300,1998,GOVERNOR,,Texas Governor,TX,"MAURO, GARRY",Democrat,0,,,,1998 TX GOV D opp (Mauro lost to GW Bush R inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,2006,GOVERNOR,,Texas Governor,TX,"BELL, CHRIS",Democrat,0,,,,2006 TX GOV D opp (Bell lost to Perry R inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1940,GOVERNOR,,New Mexico Governor,NM,"DAVIES, MAURICE",Republican,0,,,,1940 NM GOV R opp; not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1972,ATTORNEY GENERAL,,Texas Attorney General,TX,"BUSH, NATHAN",Republican,0,,,,1972 TX AG R opp (Bush lost to Hill D); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1994,ATTORNEY GENERAL,,Texas Attorney General,TX,"PAUKEN, TOM",Republican,0,,,,1994 TX AG R opp (Pauken lost to Morales D inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1998,ATTORNEY GENERAL,,Texas Attorney General,TX,"MATTOX, JIM",Democrat,0,,,,1998 TX AG D opp (Mattox lost to Cornyn R); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,2002,ATTORNEY GENERAL,,Texas Attorney General,TX,"ABBOTT, GREG",Republican,0,,,,"2002 TX AG R opp (Abbott won, beat Watson D); not endorsed (ET endorsed Watson) [V2 Pattern A]",0.85
+TX,El Paso Times,145300,2006,ATTORNEY GENERAL,,Texas Attorney General,TX,"VAN OS, DAVID",Democrat,0,,,,2006 TX AG D opp (Van Os lost to Abbott R inc); not endorsed [V2 Pattern A],0.85
+TX,El Paso Times,145300,1922,SENATOR,,United States Senate from New Mexico,NM,"HANNA, RICHARD H.",Republican,0,,,,1922 NM SEN R opp (Hanna lost to Jones D inc); not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1936,GOVERNOR,,New Mexico Governor,NM,"JAFFA, JAFFA M.",Republican,0,,,,1936 NM GOV R opp; not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1938,GOVERNOR,,New Mexico Governor,NM,"SIMS, ALBERT G.",Republican,0,,,,1938 NM GOV R opp (Sims lost to Miles D); not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1938,H,AT-LARGE,U.S. House New Mexico District AT-LARGE,NM,"HASKELL, JOHN",Republican,0,,,,1938 NM H R opp; not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1940,SENATOR,,United States Senate from New Mexico,NM,"ROMERO, JOHN",Republican,0,,,,1940 NM SEN R opp (Romero lost to Chavez D inc); not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1976,SENATOR,,United States Senate from New Mexico,NM,"MONTOYA, JOSEPH M.",Democrat,0,1,,,"1976 NM SEN D inc opp (Montoya lost to Schmitt R, ended long career); not endorsed by ET [V3 Pattern A]",0.85
+TX,El Paso Times,145300,1978,SENATOR,,United States Senate from New Mexico,NM,"ANAYA, TONEY",Democrat,0,,,,1978 NM SEN D opp (Anaya lost to Domenici R inc; Anaya later won NM GOV 82); not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1982,SENATOR,,United States Senate from New Mexico,NM,"BINGAMAN, JEFF",Democrat,0,,,,1982 NM SEN D (Bingaman upset Schmitt R inc); not endorsed by ET (ET endorsed Schmitt R inc) [V3 Pattern A],0.85
+TX,El Paso Times,145300,1978,GOVERNOR,,New Mexico Governor,NM,"KING, BRUCE",Democrat,0,,,,1978 NM GOV D opp (King won 3rd term; Skeen R lost); not endorsed by ET [V3 Pattern A],0.85
+TX,El Paso Times,145300,1982,GOVERNOR,,New Mexico Governor,NM,"ANAYA, TONEY",Democrat,0,,,,1982 NM GOV D opp (Anaya won; Irick R lost); not endorsed by ET (ET endorsed Irick R) [V3 Pattern A],0.85
+TX,El Paso Times,145300,1990,SENATOR,,United States Senate from New Mexico,NM,"BENAVIDES, TOM",Democrat,0,,,,1990 NM SEN D opp (Benavides lost to Domenici R inc); not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1990,GOVERNOR,,New Mexico Governor,NM,"KING, BRUCE",Democrat,0,,,,1990 NM GOV D opp (King won 4th term; Bond R lost); not endorsed (ET endorsed Bond R) [V3 Pattern A],0.85
+TX,El Paso Times,145300,1990,LT GOVERNOR,,Texas Lt. Governor,TX,"MOSBACHER, ROB JR.",Republican,0,,,,1990 TX LT GOV R opp (Mosbacher Jr lost to Bullock D); not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1994,LT GOVERNOR,,Texas Lt. Governor,TX,"LEZAR, TEX",Republican,0,,,,1994 TX LT GOV R opp (Lezar lost to Bullock D inc); not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1998,LT GOVERNOR,,Texas Lt. Governor,TX,"SHARP, JOHN",Democrat,0,,,,1998 TX LT GOV D opp (Sharp lost to Perry R); not endorsed by ET (ET endorsed Perry R) [V3 Pattern A],0.85
+TX,El Paso Times,145300,2006,LT GOVERNOR,,Texas Lt. Governor,TX,"ALVARADO, MARIA LUISA",Democrat,0,,,,2006 TX LT GOV D opp (Alvarado lost to Dewhurst R inc); not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1990,COMPTROLLER,,Texas Comptroller,TX,"HARDING, WARREN G.",Republican,0,,,,1990 TX COMPT R opp (Harding lost to Sharp D); not endorsed [V3 Pattern A],0.85
+TX,El Paso Times,145300,1962,H,16,U.S. House Texas District 16,TX,"RUTHERFORD, J.T.",Democrat,0,1,,,1962 TX H 16 D inc opp (Rutherford lost to Foreman R); not endorsed (ET endorsed Foreman R) [V4 Pattern A - cross-paper EHP confirmed],0.85
+TX,El Paso Times,145300,1964,H,98,U.S. House Texas District 98,TX,"HAYES, BILL",Republican,0,,,,1964 TX H 98 R opp (Hayes lost to Pool D inc); not endorsed (ET endorsed Pool D) [V4 Pattern A],0.85
+TX,El Paso Times,145300,1982,H,16,U.S. House Texas District 16,TX,"COLEMAN, RONALD",Democrat,0,,,,"1982 TX H 16 D (Coleman won, replaced White D retiring); presumed ET would endorse but data shows Haggerty R [V4 Pattern A - check OCR]",0.85
+TX,El Paso Times,145300,1984,H,16,U.S. House Texas District 16,TX,"HAGGERTY, PAT",Republican,0,,1,,1984 TX H 16 R opp (Haggerty lost to Coleman D); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1996,H,16,U.S. House Texas District 16,TX,"ARANDA, JOSE",Republican,0,,,,1996 TX H 16 R opp (lost to Reyes D); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1996,H,23,U.S. House Texas District 23,TX,"JONES, CHARLES",Democrat,0,,,,1996 TX H 23 D opp (lost to Bonilla R inc); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1976,H,2,U.S. House New Mexico District 2,NM,"SKEEN, JOSEPH R. (JOE)",Republican,0,,,,"1976 NM H 2 R opp (Skeen lost to Runnels D inc, later won 1980); not endorsed [V4 Pattern A]",0.85
+TX,El Paso Times,145300,2008,H,16,U.S. House Texas District 16,TX,"TELLES, ADOLFO",Republican,0,,,,2008 TX H 16 R opp (Telles lost to Reyes D inc); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,2018,H,16,U.S. House Texas District 16,TX,"SEEBERGER, RICK",Republican,0,,,,2018 TX H 16 R opp (Seeberger lost to Escobar D - replaced Beto O'Rourke); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1986,LAND COMMISSIONER,,Texas Land Commissioner,TX,"ROBERTS, WESLEY",Republican,0,,,,1986 TX LAND COMM R opp (lost to Mauro D inc); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1990,LAND COMMISSIONER,,Texas Land Commissioner,TX,"POWELL, JAMES",Republican,0,,,,1990 TX LAND COMM R opp (lost to Mauro D inc); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1994,LAND COMMISSIONER,,Texas Land Commissioner,TX,"AKINS, MARTY",Republican,0,,,,1994 TX LAND COMM R opp (lost to Mauro D inc); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1998,LAND COMMISSIONER,,Texas Land Commissioner,TX,"DEWHURST, DAVID H.",Republican,0,,,,"1998 TX LAND COMM R (Dewhurst won, later LT GOV 03-15); not endorsed by ET (ET endorsed Raymond D) [V4 Pattern A]",0.85
+TX,El Paso Times,145300,2006,LAND COMMISSIONER,,Texas Land Commissioner,TX,"HATHCOX, VALINDA",Democrat,0,,,,2006 TX LAND COMM D opp (Hathcox lost to Patterson R inc); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1986,AGRICULTURE COMMISSIONER,,Texas Land Commissioner,TX,"MUNDAY, BOB",Republican,0,,,,1986 TX AG COMM R opp (lost to Hightower D); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1990,AGRICULTURE COMMISSIONER,,Texas Land Commissioner,TX,"PERRY, RICK",Republican,0,,,,"1990 TX AG COMM R (Perry won, beat Hightower D inc); not endorsed by ET (ET endorsed Hightower D inc) [V4 Pattern A]",0.85
+TX,El Paso Times,145300,1994,AGRICULTURE COMMISSIONER,,Texas Land Commissioner,TX,"GREGORY, MARVIN",Democrat,0,,,,1994 TX AG COMM D opp (lost to Perry R inc); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1998,AGRICULTURE COMMISSIONER,,Texas Land Commissioner,TX,"PATTERSON, PETE",Democrat,0,,,,1998 TX AG COMM D opp (lost to Combs R); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,2006,AGRICULTURE COMMISSIONER,,Texas Land Commissioner,TX,"GILBERT, HANK",Democrat,0,,,,2006 TX AG COMM D opp (lost to Staples R); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1974,TREASURER,,Texas Land Commissioner,TX,"JAMES, JESSE",Democrat,0,1,,,1974 TX TREASURER D inc opp (James won re-election; Holt R lost); not endorsed (ET shows Holt R + Chacon D - structure unclear) [V4 Pattern A],0.85
+TX,El Paso Times,145300,1990,TREASURER,,Texas Land Commissioner,NM,"ANAYA, HENRY",Democrat,0,,,,1990 NM TREASURER D opp (lost to King R); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1994,TREASURER,,Texas Land Commissioner,TX,"HARTMAN, DAVID",Republican,0,,,,1994 TX TREASURER R opp (lost to Whitehead D); not endorsed [V4 Pattern A],0.85
+TX,El Paso Times,145300,1968,VICE PRESIDENT,,United States,TX,"MUSKIE, EDMUND S.",Democrat,0,,,,1968 VP D opp (Muskie - Humphrey ticket); not endorsed [V5 Pattern A],0.85
+TX,El Paso Times,145300,1972,VICE PRESIDENT,,United States,TX,"SHRIVER, R. SARGENT",Democrat,0,,,,1972 VP D opp (Shriver - McGovern ticket); not endorsed [V5 Pattern A],0.85
