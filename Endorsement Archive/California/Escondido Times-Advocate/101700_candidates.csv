@@ -1,241 +1,287 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-CA,Escondido Times-Advocate,101700,1950,GOVERNOR,,,CA,"WARREN, EARL",Republican,1,,1,,post-election recap restates T-A endorsement,0.85
-CA,Escondido Times-Advocate,101700,1950,H,23,,CA,"MCKINNON, CLINTON D.",Democrat,1,1,,,post-election recap; 23rd District,0.8
-CA,Escondido Times-Advocate,101700,1950,SENATOR,,,CA,"NIXON, RICHARD M.",Republican,1,,,,post-election recap,0.9
-CA,Escondido Times-Advocate,101700,1950,ATTORNEY GENERAL,,,CA,"BROWN, EDMUND G.",Democrat,1,,,,post-election recap; T-A backed Brown over Shattuck,0.8
-CA,Escondido Times-Advocate,101700,1950,STATE REP,,,CA,"CLOYED,",Independent,1,,,,"post-election recap; Independent challenger, lost to incumbent; first name not in source",0.7
-CA,Escondido Times-Advocate,101700,1960,PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,,,Checklist of T-A Recommendations,0.95
-CA,Escondido Times-Advocate,101700,1960,H,30,,CA,"UTT, JAMES B.",Republican,1,,1,,Congressman 30th District,0.9
-CA,Escondido Times-Advocate,101700,1960,STATE REP,80,,CA,"MANNING, JACK",Republican,1,,,,Assemblyman 80th District,0.9
-CA,Escondido Times-Advocate,101700,1970,H,35,,CA,"LENHART, THOMAS",Democrat,1,,,,"Congress race; T-A editorial critical of Schmitz incumbent (John Birch Society) and makes case for Lenhart (D, retired Marine officer)",0.9
-CA,Escondido Times-Advocate,101700,1972,PRESIDENT,,,CA,"NIXON, RICHARD M.",Republican,1,,1,,T-A ballot,0.95
-CA,Escondido Times-Advocate,101700,1972,H,42,,CA,"BURGENER, CLAIR W.",Republican,1,,,,T-A ballot; Congress 42nd District,0.95
-CA,Escondido Times-Advocate,101700,1972,H,43,,CA,"VEYSEY, VICTOR V.",Republican,1,,1,,T-A ballot; Congress 43rd District,0.95
-CA,Escondido Times-Advocate,101700,1972,STATE REP,80,,CA,"STULL, JOHN",Republican,1,,,,T-A ballot; Assembly 80th District,0.95
-CA,Escondido Times-Advocate,101700,1972,DIRECTOR,,,CA,"HUTCHINGS,",Nonpartisan,1,,,,Palomar Hospital Directors; first name not in source,0.85
-CA,Escondido Times-Advocate,101700,1972,DIRECTOR,,,CA,"REYNOLDS,",Nonpartisan,1,,,,Palomar Hospital Directors; first name not in source,0.85
-CA,Escondido Times-Advocate,101700,1974,GOVERNOR,,,CA,"FLOURNOY, HOUSTON",Republican,1,,,,T-A ballot recommendation,0.95
-CA,Escondido Times-Advocate,101700,1974,SEC OF STATE,,,CA,"VAN CAMP,",Republican,1,,,,T-A ballot recommendation; Secretary of State; first name not in source,0.9
-CA,Escondido Times-Advocate,101700,1974,COMPTROLLER,,,CA,"BAGLEY,",Republican,1,,,,T-A ballot recommendation; Controller; first name not in source,0.9
-CA,Escondido Times-Advocate,101700,1974,TREASURER,,,CA,"UNRUH, JESSE",Democrat,1,,,,T-A ballot recommendation; State Treasurer,0.9
-CA,Escondido Times-Advocate,101700,1974,ATTORNEY GENERAL,,,CA,"YOUNGER, EVELLE",Republican,1,,1,,T-A ballot recommendation,0.95
-CA,Escondido Times-Advocate,101700,1974,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,1,,,,T-A ballot recommendation; surprising D pick,0.95
-CA,Escondido Times-Advocate,101700,1974,H,,,CA,"BURGENER, CLAIR W.",Republican,1,,1,,T-A ballot recommendation; House,0.95
-CA,Escondido Times-Advocate,101700,1974,STATE SENATOR,,,CA,"STULL, JOHN",Republican,1,,,,T-A ballot recommendation,0.95
-CA,Escondido Times-Advocate,101700,1974,STATE REP,,,CA,"CRAVEN, WILLIAM",Republican,1,,,,T-A ballot recommendation; Assembly,0.95
-CA,Escondido Times-Advocate,101700,1974,CNTY COMM,,,CA,"TAYLOR, LEE",Nonpartisan,1,,,,T-A ballot recommendation; County Supervisor,0.9
-CA,Escondido Times-Advocate,101700,1976,PRESIDENT,,,CA,"FORD, GERALD",Republican,1,,1,,T-A's ballot recommendations; Hayakawa for VP listed,0.95
-CA,Escondido Times-Advocate,101700,1976,SENATOR,,,CA,"HAYAKAWA, S. I.",Republican,1,,,,T-A's ballot recommendations; Senate,0.95
-CA,Escondido Times-Advocate,101700,1976,H,43,,CA,"BURGENER, CLAIR W.",Republican,1,,1,,T-A's ballot recommendations; House 43rd Dist.,0.95
-CA,Escondido Times-Advocate,101700,1976,STATE REP,76,,CA,"CRAVEN, WILLIAM",Republican,1,,1,,T-A's ballot recommendations; Assembly 76th Dist.,0.95
-CA,Escondido Times-Advocate,101700,1976,DIRECTOR,,,CA,"HUTCHINGS,",Nonpartisan,1,,,,Palomar Hospital Board Director; first name not in source,0.85
-CA,Escondido Times-Advocate,101700,1976,DIRECTOR,,,CA,"LITTAUER,",Nonpartisan,1,,,,Palomar Hospital Board Director; first name not in source,0.85
-CA,Escondido Times-Advocate,101700,1976,DIRECTOR,,,CA,"THURSTON,",Nonpartisan,1,,,,Palomar Hospital Board Director; first name not in source,0.85
-CA,Escondido Times-Advocate,101700,1978,GOVERNOR,,,CA,"BROWN, EDMUND G. JR.",Democrat,1,1,,,T-A ballot recommendations,0.95
-CA,Escondido Times-Advocate,101700,1978,LT GOVERNOR,,,CA,"DYMALLY, MERVYN",Democrat,1,1,,,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1978,ATTORNEY GENERAL,,,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,T-A ballot recommendations,0.95
-CA,Escondido Times-Advocate,101700,1978,H,,,CA,"BURGENER, CLAIR W.",Republican,1,,1,,T-A ballot recommendations; Congress,0.95
-CA,Escondido Times-Advocate,101700,1978,STATE SENATOR,,,CA,"CRAVEN, WILLIAM",Republican,1,,,,T-A ballot recommendations,0.95
-CA,Escondido Times-Advocate,101700,1978,STATE REP,,,CA,"FRAZEE, BOB",Republican,1,,,,T-A ballot recommendations; Assembly,0.95
-CA,Escondido Times-Advocate,101700,1978,SUPREME COURT,,,CA,"BIRD, ROSE",Nonpartisan,1,,,,Chief Justice retention; T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1978,CNTY COMM,,,CA,"BOYCE,",Nonpartisan,1,,,,Supervisor; T-A ballot county offices; first name not in source,0.85
-CA,Escondido Times-Advocate,101700,1978,ASSESSOR,,,CA,"WILLIAMS,",Nonpartisan,1,,,,Assessor; T-A ballot county offices; first name not in source,0.85
-CA,Escondido Times-Advocate,101700,1980,PRESIDENT,,,CA,"REAGAN, RONALD",Republican,1,,,,Our endorsements,0.95
-CA,Escondido Times-Advocate,101700,1980,SENATOR,,,CA,"CRANSTON, ALAN",Democrat,1,1,,,Our endorsements,0.95
-CA,Escondido Times-Advocate,101700,1980,H,43,,CA,"BURGENER, CLAIR W.",Republican,1,,1,,Congressman; 43rd Cong District; opposite of Klan-endorsed Tom Metzger,0.95
-CA,Escondido Times-Advocate,101700,1980,STATE REP,,,CA,"FRAZEE, BOB",Republican,1,,1,,State Assemblyman,0.95
-CA,Escondido Times-Advocate,101700,1980,CNTY COMM,2,,CA,"MOORE, LUCILLE",Nonpartisan,1,,,,County Supervisor 2nd District,0.9
-CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,,CA,"SIMMONS, JIM",Nonpartisan,1,,,,San Marcos City Council,0.95
-CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,,CA,"DANOVER, DICK",Nonpartisan,1,,,,San Marcos City Council,0.95
-CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,,CA,"ORAVEC, LINDA",Nonpartisan,1,,,,Poway City Council,0.95
-CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,,CA,"REXRODE, CLYDE",Nonpartisan,1,,,,"Poway City Council, incumbent",0.95
-CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,,CA,"SHEPARDSON, MARY",Nonpartisan,1,,,,Poway City Council,0.95
-CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,,CA,"WENZEL, SHEILAH",Nonpartisan,1,,,,Escondido City Council,0.9
-CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,,CA,"COWAN, ERNIE",Nonpartisan,1,,,,Escondido City Council,0.9
-CA,Escondido Times-Advocate,101700,1982,GOVERNOR,,,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,,0.95
-CA,Escondido Times-Advocate,101700,1982,SENATOR,,,CA,"WILSON, PETE",Republican,1,,,,,0.95
-CA,Escondido Times-Advocate,101700,1982,H,42,,CA,"PACKARD, RON",Republican,1,,,,43rd Congressional District,0.9
-CA,Escondido Times-Advocate,101700,1982,H,41,,CA,"LOWERY, BILL",Republican,1,1,,,41st Congressional District,0.9
-CA,Escondido Times-Advocate,101700,1982,H,45,,CA,"HUNTER, DUNCAN",Republican,1,,1,,"45th Congressional District, incumbent",0.9
-CA,Escondido Times-Advocate,101700,1982,STATE SENATOR,38,,CA,"CRAVEN, BILL",Republican,1,,1,,"38th State Senate, incumbent",0.9
-CA,Escondido Times-Advocate,101700,1982,STATE REP,76,,CA,"ROE, DICK",Democrat,1,,,,76th Assembly District,0.9
-CA,Escondido Times-Advocate,101700,1982,STATE REP,74,,CA,"BRADLEY, BILL",Republican,1,,,,74th Assembly District,0.85
-CA,Escondido Times-Advocate,101700,1982,LT GOVERNOR,,,CA,"HALLETT, CAROL",Republican,1,,,,,0.9
-CA,Escondido Times-Advocate,101700,1982,SEC OF STATE,,,CA,"FONG, MARCH",Democrat,1,,,,"March Fong Eu, incumbent",0.9
-CA,Escondido Times-Advocate,101700,1982,COMPTROLLER,,,CA,"CORY, KENNETH",Democrat,1,1,,,"Controller, incumbent",0.9
-CA,Escondido Times-Advocate,101700,1982,TREASURER,,,CA,"UNRUH, JESSE M.",Democrat,1,1,,,incumbent,0.9
-CA,Escondido Times-Advocate,101700,1982,ATTORNEY GENERAL,,,CA,"VAN DE KAMP, JOHN",Democrat,1,,,,,0.9
-CA,Escondido Times-Advocate,101700,1982,DIRECTOR,,,CA,"DRONENBURG, ERNEST",Republican,1,,,,Board of Equalization,0.85
-CA,Escondido Times-Advocate,101700,1982,SUPERINTENDENT,,,CA,"HONIG, BILL",Nonpartisan,1,,,,Superintendent of schools,0.9
-CA,Escondido Times-Advocate,101700,1982,SUPREME COURT,,,CA,"BIRD, ROSE",Nonpartisan,1,,,,Yes on all four (retention),0.8
-CA,Escondido Times-Advocate,101700,1982,COURT OF APPEALS,,,CA,"JOHNS, KENNETH",Nonpartisan,1,,,,4th Court of Appeal,0.85
-CA,Escondido Times-Advocate,101700,1982,JUDGE,,,CA,"KINTNER, FLOYD",Nonpartisan,1,,,,Municipal Court,0.85
-CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,,CA,"RADY, ERNIE",Nonpartisan,1,,,,Escondido City Council,0.9
-CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,,CA,"BEST, DOUG",Nonpartisan,1,,,,Escondido City Council,0.9
-CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,,CA,"BARBER, DAVID",Nonpartisan,1,,1,,"Escondido City Council, incumbent",0.9
-CA,Escondido Times-Advocate,101700,1984,TREASURER,,,CA,"HUGINS, KEN",Nonpartisan,1,,,,Escondido city treasurer,0.9
-CA,Escondido Times-Advocate,101700,1984,ASSESSOR,,,CA,"SMITH, GREGORY J.",Nonpartisan,1,,,,"San Diego County Assessor, incumbent",0.9
-CA,Escondido Times-Advocate,101700,1984,JUDGE,,,CA,"ALLEN, TERRY",Nonpartisan,1,,,,North County municipal judge,0.9
-CA,Escondido Times-Advocate,101700,1984,JUDGE,,,CA,"MITCHELL, FRANKLIN",Nonpartisan,1,,,,North County municipal judge,0.9
-CA,Escondido Times-Advocate,101700,1984,CNTY COMM,3,,CA,"SCHENK, LYNN",Nonpartisan,1,,,,Third District supervisor,0.85
-CA,Escondido Times-Advocate,101700,1984,CNTY COMM,2,,CA,"BAILEY, GEORGE",Nonpartisan,1,,,,Second District supervisor,0.85
-CA,Escondido Times-Advocate,101700,1984,H,43,,CA,"PACKARD, RON",Republican,1,,1,,"43rd Congressional District R primary, incumbent",0.9
-CA,Escondido Times-Advocate,101700,1984,MAYOR,,,CA,"HEDGECOCK, ROGER",Nonpartisan,1,,,,"San Diego mayor, incumbent",0.9
-CA,Escondido Times-Advocate,101700,1984,PRESIDENT,,,CA,"REAGAN, RONALD",Republican,1,,1,,Reagan/Bush,0.95
-CA,Escondido Times-Advocate,101700,1984,H,41,,CA,"LOWERY, BILL",Republican,1,,1,,41st Congressional District,0.9
-CA,Escondido Times-Advocate,101700,1984,H,45,,CA,"HUNTER, DUNCAN",Republican,1,,1,,45th Congressional District,0.9
-CA,Escondido Times-Advocate,101700,1984,STATE REP,37,,CA,"BERGESON, MARIAN",Republican,1,,,,37th Senate District,0.9
-CA,Escondido Times-Advocate,101700,1984,STATE REP,39,,CA,"ELLIS, JIM",Republican,1,,,,39th Senate District,0.9
-CA,Escondido Times-Advocate,101700,1984,STATE REP,74,,CA,"FRAZEE, ROBERT",Republican,1,,,,74th Assembly District,0.9
-CA,Escondido Times-Advocate,101700,1984,STATE REP,75,,CA,"MOJONNIER, SUNNY",Republican,1,,,,75th Assembly District,0.9
-CA,Escondido Times-Advocate,101700,1984,STATE REP,76,,CA,"BRADLEY, BILL",Republican,1,,,,76th Assembly District,0.9
-CA,Escondido Times-Advocate,101700,1984,CNTY COMM,3,,CA,"FORDEM, PAUL",Nonpartisan,1,,,,Third District Supervisor,0.85
-CA,Escondido Times-Advocate,101700,1984,JUDGE,,,CA,"FLICK, MIKE",Nonpartisan,1,,,,Vista mayor,0.7
-CA,Escondido Times-Advocate,101700,1984,MAYOR,,,CA,"FLICK, MIKE",Nonpartisan,1,,,,Vista mayor,0.85
-CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,,CA,"LA POMER, TONY",Nonpartisan,1,,,,Vista City Council,0.85
-CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,,CA,"WADE, NANCY",Nonpartisan,1,,,,Vista City Council,0.85
-CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,,CA,"EMERY, BOB",Nonpartisan,1,,,,Poway City Council,0.9
-CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,,CA,"TARZY, BRUCE",Nonpartisan,1,,,,Poway City Council,0.9
-CA,Escondido Times-Advocate,101700,1984,SCHOOL BOARD,,,CA,"SEEMANN, KATHLEEN",Nonpartisan,1,,,,Fallbrook Elementary School District,0.85
-CA,Escondido Times-Advocate,101700,1984,SCHOOL BOARD,,,CA,"EVERT, MARY",Nonpartisan,1,,,,Palomar Pomerado Hospital District,0.7
-CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,,CA,"EVERT, MARY",Nonpartisan,1,,,,Palomar Pomerado Hospital District,0.85
-CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,,CA,"HUTCHENS, KEITH",Nonpartisan,1,,,,Palomar Pomerado Hospital District,0.85
-CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,,CA,"ROY, ROY",Nonpartisan,1,,,,Palomar Pomerado Hospital District,0.7
-CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,,CA,"BONAGURA, LUCAS",Nonpartisan,1,,,,Tri-City Hospital District,0.85
-CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,,CA,"GEIL, EUGENE",Nonpartisan,1,,,,Tri-City Hospital District,0.85
-CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,,CA,"MILLS, GEORGE",Nonpartisan,1,,,,Tri-City Hospital District,0.85
-CA,Escondido Times-Advocate,101700,1986,CNTY COMM,,,CA,"ROMNEY, CLYDE",Nonpartisan,1,,,,County Supervisor,0.9
-CA,Escondido Times-Advocate,101700,1986,CITY COUNCIL,,,CA,"COWAN, ERNIE",Nonpartisan,1,,,,Escondido City Council,0.9
-CA,Escondido Times-Advocate,101700,1986,CITY COUNCIL,,,CA,"THURSTON, DORIS",Nonpartisan,1,,,,Escondido City Council,0.9
-CA,Escondido Times-Advocate,101700,1986,MAYOR,,,CA,"CLEATOR, BILL",Nonpartisan,1,,,,San Diego Mayor,0.9
-CA,Escondido Times-Advocate,101700,1986,JUDGE,,,CA,"AMES, E. MAC",Nonpartisan,1,,,,Superior Court Judge,0.9
-CA,Escondido Times-Advocate,101700,1986,TREASURER,,,CA,"BOLAND, PAUL",Nonpartisan,1,,,,Treasurer/Tax Collector,0.85
-CA,Escondido Times-Advocate,101700,1986,TREASURER,,,CA,"SILVA, CARL",Nonpartisan,1,,,,Treasurer/Tax Collector,0.85
-CA,Escondido Times-Advocate,101700,1986,RECORDER,,,CA,"LOLE, VERA",Nonpartisan,1,,,,"Recorder, Vera Lole/Lyle",0.7
-CA,Escondido Times-Advocate,101700,1986,SUPERINTENDENT,,,CA,"HONIG, BILL",Nonpartisan,1,1,,,State Superintendent of Public Instruction,0.9
-CA,Escondido Times-Advocate,101700,1986,LT GOVERNOR,,,CA,"CURB, MIKE",Republican,1,,,,"Lieutenant Governor, Republican ticket",0.9
-CA,Escondido Times-Advocate,101700,1986,DIRECTOR,,,CA,"DRONENBURG, ERNIE",Republican,1,,,,Board of Equalization,0.9
-CA,Escondido Times-Advocate,101700,1988,CNTY COMM,2,,CA,"BAILEY, GEORGE",Nonpartisan,1,,,,2nd District Supervisor,0.9
-CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,,CA,"BARBER, DAVID",Nonpartisan,1,,,,Escondido City Council,0.9
-CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,,CA,"HARMON, JERRY",Nonpartisan,1,,,,Escondido City Council,0.9
-CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,,CA,"RADY, JUNE",Nonpartisan,1,,,,Escondido City Council,0.9
-CA,Escondido Times-Advocate,101700,1988,TREASURER,,,CA,"HUGINS, KEN",Nonpartisan,1,,,,Escondido City Treasurer,0.9
-CA,Escondido Times-Advocate,101700,1988,PRESIDENT,,,CA,"BUSH, GEORGE",Republican,1,,,,,0.95
-CA,Escondido Times-Advocate,101700,1988,SENATOR,,,CA,"WILSON, PETE",Republican,1,,1,,,0.95
-CA,Escondido Times-Advocate,101700,1988,H,41,,CA,"LOWERY, BILL",Republican,1,,1,,"41st District, R-San Diego",0.95
-CA,Escondido Times-Advocate,101700,1988,H,43,,CA,"PACKARD, RON",Republican,1,,1,,"43rd District, R-Oceanside",0.95
-CA,Escondido Times-Advocate,101700,1988,STATE REP,74,,CA,"FRAZEE, ROBERT",Republican,1,,,,R-Carlsbad,0.95
-CA,Escondido Times-Advocate,101700,1988,STATE REP,76,,CA,"BRADLEY, BILL",Republican,1,,,,R-Escondido,0.95
-CA,Escondido Times-Advocate,101700,1988,STATE SENATOR,77,,CA,"STIRLING, LARRY",Republican,1,,,,R-San Diego,0.95
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"ECHEVERRIA, BOB",Nonpartisan,1,,,,Palomar College Board of trustees,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"PALID, MARK",Nonpartisan,1,,,,Palomar College Board of trustees,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"ROMNEY, CLYDE",Nonpartisan,1,,,,Palomar College Board of trustees,0.9
-CA,Escondido Times-Advocate,101700,1988,MAYOR,,,CA,"MCCLELLAN, GLORIA",Nonpartisan,1,,,,Vista Mayor,0.95
-CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,,CA,"HALE, CHUCK",Nonpartisan,1,,,,Vista City Council,0.9
-CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,,CA,"RAPPAPORT, BERNIE",Nonpartisan,1,,,,Vista City Council,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"VIGER, MARCIA",Nonpartisan,1,,,,Vista school board,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"VOLLMER, LANCE",Nonpartisan,1,,,,Vista school board,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"SHADLE, TOM",Nonpartisan,1,,,,Vista school board,0.9
-CA,Escondido Times-Advocate,101700,1988,MAYOR,,,CA,"THIBADEAU, LEE",Nonpartisan,1,,,,San Marcos Mayor,0.95
-CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,,CA,"SMITH, F.H. CORKY",Nonpartisan,1,,,,San Marcos City Council,0.9
-CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,,CA,"PRESTON, MIKE",Nonpartisan,1,,,,San Marcos City Council,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"TRIGAS, SEERA",Nonpartisan,1,,,,San Marcos school board,0.85
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"DUDYS, KAREN ""KAREN""",Nonpartisan,1,,,,San Marcos school board,0.85
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"KUNSMAN, JUDY",Nonpartisan,1,,,,San Marcos school board,0.85
-CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,,CA,"EMERY, BOB",Nonpartisan,1,,,,Poway City Council,0.9
-CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,,CA,"GOLDSMITH, JAN",Nonpartisan,1,,,,Poway City Council,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"SKOLA, ART",Nonpartisan,1,,,,Poway school board,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"PIERCE, WINNIE",Nonpartisan,1,,,,Poway school board,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"WANGERIEN, PAM",Nonpartisan,1,,,,Escondido Elementary school board,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"LAING, JOHN",Nonpartisan,1,,,,Escondido Elementary school board,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"POLESETSKY, HAROLD",Nonpartisan,1,,,,Escondido High school board,0.9
-CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,,CA,"DAMELLO, JOHN",Nonpartisan,1,,,,Escondido High school board,0.9
-CA,Escondido Times-Advocate,101700,1990,GOVERNOR,,,CA,"WILSON, PETE",Republican,1,,,,,0.95
-CA,Escondido Times-Advocate,101700,1990,TREASURER,,,CA,"HAYES, THOMAS",Republican,1,,,,,0.95
-CA,Escondido Times-Advocate,101700,1990,COMPTROLLER,,,CA,"FONG, MATT",Republican,1,,,,Controller,0.95
-CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,,CA,"DRONENBURG, ERNEST",Republican,1,,,,Board of Equalization,0.9
-CA,Escondido Times-Advocate,101700,1990,STATE SENATOR,41,,CA,"CRAVEN, WILLIAM",Republican,1,,,,41st District,0.95
-CA,Escondido Times-Advocate,101700,1990,STATE REP,74,,CA,"FRAZEE, ROBERT",Republican,1,,,,74th District,0.95
-CA,Escondido Times-Advocate,101700,1990,STATE REP,75,,CA,"MOJONNIER, SUNNY",Republican,1,,,,75th District,0.95
-CA,Escondido Times-Advocate,101700,1990,STATE REP,76,,CA,"HUNTER, TRICIA",Republican,1,,,,76th District,0.95
-CA,Escondido Times-Advocate,101700,1990,SHERIFF,,,CA,"DROWN, JACK",Nonpartisan,1,,,,San Diego County Sheriff,0.95
-CA,Escondido Times-Advocate,101700,1990,H,41,,CA,"LOWERY, BILL",Republican,1,,1,,House 41st District,0.95
-CA,Escondido Times-Advocate,101700,1990,H,43,,CA,"PACKARD, RON",Republican,1,,1,,House 43rd District,0.95
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"DOUGHERTY, ROBERT",Nonpartisan,1,,,,Palomar College board,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"GENTRY, DARRELL",Nonpartisan,1,,,,Palomar College board,0.9
-CA,Escondido Times-Advocate,101700,1990,MAYOR,,,CA,"MCCLELLAN, GLORIA",Nonpartisan,1,,,,Vista Mayor,0.95
-CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,,CA,"ASMUS, GENE",Nonpartisan,1,,,,Vista City Council,0.9
-CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,,CA,"SMITH, JEANETTE",Nonpartisan,1,,,,Vista City Council,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"HAGAR, JIM",Nonpartisan,1,,,,Vista school board,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"COLE, LINDA",Nonpartisan,1,,,,Vista school board,0.9
-CA,Escondido Times-Advocate,101700,1990,MAYOR,,,CA,"THIBADEAU, LEE",Nonpartisan,1,,,,San Marcos Mayor,0.95
-CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,,CA,"HARRIS, PIA",Nonpartisan,1,,,,San Marcos City Council,0.9
-CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,,CA,"LOESCHER, MARK",Nonpartisan,1,,,,San Marcos City Council,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"CENTANNI, DELFINA",Nonpartisan,1,,,,San Marcos school board,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"GROSS, LUCY",Nonpartisan,1,,,,San Marcos school board,0.9
-CA,Escondido Times-Advocate,101700,1990,MAYOR,,,CA,"EMERY, BOB",Nonpartisan,1,,,,Poway Mayor,0.95
-CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,,CA,"HIGGINSON, DON",Nonpartisan,1,,,,Poway City Council,0.9
-CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,,CA,"SUGARMAN, ALAN",Nonpartisan,1,,,,Poway City Council,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"LUND, JIM",Nonpartisan,1,,,,Escondido Elementary school board,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"MARLER, KATHY",Nonpartisan,1,,,,Escondido Elementary school board,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"NERHUS, DAWNA",Nonpartisan,1,,,,Escondido Elementary school board,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"CHERRINGTON, JACK",Nonpartisan,1,,,,Escondido High school board,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"HORN, BILL",Nonpartisan,1,,,,Escondido High school board,0.9
-CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,,CA,"MORASCO, MICHAEL",Nonpartisan,1,,,,Escondido High school board,0.9
-CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,,CA,"BELKER, LOREN",Nonpartisan,1,,,,Palomar Pomerado Health Systems board,0.9
-CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,,CA,"BROWN, HOWARD",Nonpartisan,1,,,,Palomar Pomerado Health Systems board,0.9
-CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,,CA,"OTOSHI, JAMES",Nonpartisan,1,,,,Palomar Pomerado Health Systems board,0.9
-CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,,CA,"REEVES, SUE",Nonpartisan,1,,,,Palomar Pomerado Health Systems board,0.9
-CA,Escondido Times-Advocate,101700,1994,MAYOR,,,CA,"HOLLINS, SID",Nonpartisan,1,,,,Escondido Mayor,0.95
-CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,,CA,"HARMON, JERRY",Nonpartisan,1,,,,Escondido City Council,0.95
-CA,Escondido Times-Advocate,101700,1994,GOVERNOR,,,CA,"WILSON, PETE",Republican,1,,1,,,0.95
-CA,Escondido Times-Advocate,101700,1994,SENATOR,,,CA,"FEINSTEIN, DIANNE",Democrat,1,1,,,,0.95
-CA,Escondido Times-Advocate,101700,1994,LT GOVERNOR,,,CA,"WRIGHT, CATHIE",Republican,1,,,,,0.95
-CA,Escondido Times-Advocate,101700,1994,SEC OF STATE,,,CA,"MILLER, TONY",Democrat,1,,,,,0.95
-CA,Escondido Times-Advocate,101700,1994,COMPTROLLER,,,CA,"MCCLINTOCK, TOM",Republican,1,,,,Controller,0.95
-CA,Escondido Times-Advocate,101700,1994,TREASURER,,,CA,"FONG, MATT",Republican,1,,,,,0.95
-CA,Escondido Times-Advocate,101700,1994,ATTORNEY GENERAL,,,CA,"LUNGREN, DAN",Republican,1,,1,,,0.95
-CA,Escondido Times-Advocate,101700,1994,INSURANCE COMMISSIONER,,,CA,"TORRES, ART",Democrat,1,,,,,0.95
-CA,Escondido Times-Advocate,101700,1994,SUPERINTENDENT,,,CA,"DIMARCO, MAUREEN",Nonpartisan,1,,,,Superintendent of Public Education,0.95
-CA,Escondido Times-Advocate,101700,1994,H,48,,CA,"PACKARD, RON",Republican,1,,1,,48th District,0.95
-CA,Escondido Times-Advocate,101700,1994,H,51,,CA,"CUNNINGHAM, RANDY ""DUKE""",Republican,1,,1,,51st District,0.95
-CA,Escondido Times-Advocate,101700,1994,STATE SENATOR,38,,CA,"CRAVEN, WILLIAM",Republican,1,,1,,38th District,0.95
-CA,Escondido Times-Advocate,101700,1994,STATE REP,66,,CA,"THOMPSON, BRUCE",Republican,1,,,,66th District,0.95
-CA,Escondido Times-Advocate,101700,1994,STATE REP,74,,CA,"KALOOGIAN, HOWARD",Republican,1,,,,74th District,0.95
-CA,Escondido Times-Advocate,101700,1994,STATE REP,75,,CA,"GOLDSMITH, JAN",Republican,1,,,,75th District,0.95
-CA,Escondido Times-Advocate,101700,1994,CNTY COMM,5,,CA,"THIBADEAU, LEE",Nonpartisan,1,,,,5th District Supervisor,0.95
-CA,Escondido Times-Advocate,101700,1994,DA/PROSECUTOR,,,CA,"PFINGST, PAUL",Nonpartisan,1,,,,District Attorney,0.95
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"MORASCO, MICHAEL",Nonpartisan,1,,,,Escondido High School District Board,0.95
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"WARD, NANCY",Nonpartisan,1,,,,Escondido High School District Board,0.95
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"DISNEY, DICK",Nonpartisan,1,,,,Escondido High School District Board,0.95
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"MARLER, KATHY",Nonpartisan,1,,,,Escondido Elementary School District Board,0.95
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"NERHUS, DAWNA",Nonpartisan,1,,,,Escondido Elementary School District Board,0.95
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"WOODS, LINDA",Nonpartisan,1,,,,Escondido Elementary School District Board,0.95
-CA,Escondido Times-Advocate,101700,1994,MAYOR,,,CA,"MCCLELLAN, GLORIA",Nonpartisan,1,,,,Vista Mayor,0.95
-CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,,CA,"ESTES, ED, JR.",Nonpartisan,1,,,,Vista City Council,0.9
-CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,,CA,"VALLUZZI, ROCCO",Nonpartisan,1,,,,Vista City Council,0.9
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"VERVYNCK, JENNY",Nonpartisan,1,,,,Vista school board,0.9
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"COOPER, REINE",Nonpartisan,1,,,,Vista school board,0.9
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"HUBBARD, DAVID",Nonpartisan,1,,,,"Vista school board, recall candidate running for John Tyndall's seat",0.85
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"HERMANSEN, FRANK",Nonpartisan,1,,,,"Vista school board, running for Joyce Lee's seat",0.85
-CA,Escondido Times-Advocate,101700,1994,MAYOR,,,CA,"SMITH, F.H. CORKY",Nonpartisan,1,,,,San Marcos Mayor,0.95
-CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,,CA,"HARRIS, PIA",Nonpartisan,1,,,,San Marcos City Council,0.9
-CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,,CA,"HERNANDEZ, JIM",Nonpartisan,1,,,,San Marcos City Council,0.9
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"DOUGHERTY, ROBERT",Nonpartisan,1,,,,Palomar College Board of Trustees,0.9
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"MCMULLEN, DARRELL",Nonpartisan,1,,,,Palomar College Board of Trustees,0.9
-CA,Escondido Times-Advocate,101700,1994,MAYOR,,,CA,"HIGGINSON, DON",Nonpartisan,1,,,,Poway Mayor,0.95
-CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,,CA,"CAFAGNA, MICKEY",Nonpartisan,1,,,,Poway City Council,0.9
-CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,,CA,"REXFORD, BETTY",Nonpartisan,1,,,,Poway City Council,0.9
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"MANGUM, JEFF",Nonpartisan,1,,,,Poway School District Board,0.9
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"RANFTLE, PENNY",Nonpartisan,1,,,,Poway School District Board,0.9
-CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,,CA,"MORRIS, TOM",Nonpartisan,1,,,,Poway School District Board,0.9
-CA,Escondido Times-Advocate,101700,1994,DIRECTOR,,,CA,"BROWN, HOWARD",Nonpartisan,1,,,,Palomar Pomerado Health System Board,0.9
-CA,Escondido Times-Advocate,101700,1994,DIRECTOR,,,CA,"REEVES, SUE",Nonpartisan,1,,,,Palomar Pomerado Health System Board,0.9
-CA,Escondido Times-Advocate,101700,1994,DIRECTOR,,,CA,"GIGLIOTTI, GEORGE",Nonpartisan,1,,,,Palomar Pomerado Health System Board,0.9
-CA,Escondido Times-Advocate,101700,1994,DIRECTOR,,,CA,"MADISON, EVELYN",Nonpartisan,1,,,,Palomar Pomerado Health System Board,0.9
+CA,Escondido Times-Advocate,101700,1950,GOVERNOR,,California Governor,CA,"WARREN, EARL",Republican,1,,1,,post-election recap restates T-A endorsement | V4 LAT cross-paper agreement (CA statewide).,0.92
+CA,Escondido Times-Advocate,101700,1950,H,23,U.S. House California District 23,CA,"MCKINNON, CLINTON D.",Democrat,0,1,,,post-election recap; 23rd District | V4 OCR 1950-11-09 CORRECTION: ETA did NOT endorse McKinnon. Per OCR: 'McKINNON - Here was a congressional winner whose narrow margin of victory ... The T-A and voters of Escondido and surrounding territory preferred his opponent. Results in this area showed a 5-2 preference for Les Gehres.' McKinnon won 5400-margin but T-A backed Gehres R. V3 had this reversed.,0.95
+CA,Escondido Times-Advocate,101700,1950,SENATOR,,United States Senate from California,CA,"NIXON, RICHARD M.",Republican,1,,,,post-election recap | V4 LAT cross-paper agreement (CA statewide).,0.92
+CA,Escondido Times-Advocate,101700,1950,ATTORNEY GENERAL,,California Attorney General,CA,"BROWN, EDMUND G.",Democrat,0,,,,post-election recap; T-A backed Brown over Shattuck | V4 OCR 1950-11-09 CORRECTION: ETA endorsed SHATTUCK R not BROWN D for AG. OCR text: 'BROWN — Here was a race in which Escondido and San Diego county itself went contrary to the state's majority which was enough to give Brown a victory over Ed Shattuck' — ETA picked Shattuck (lost). V3 had this reversed.,0.95
+CA,Escondido Times-Advocate,101700,1950,STATE REP,,California Assembly,CA,"CLOYED, [UNKNOWN]",,1,,,,"post-election recap; Independent challenger, lost to incumbent; first name not in source [V2: V1 extraction only got last name ""CLOYED"" - first name unknown, flagged] | V4 OCR 1950-11-09: OCR confirms CLOYED retained state assembly seat by defeating Independent Party opponent; CLOYED's own party not Independent per source. Most likely R given ETA editorial pattern. Party set empty pending RA verification. | V4 OCR boost to 0.78 (OCR confirms ETA-endorsed CLOYED incumbent retained seat by defeating Independent opponent).",0.78
+CA,Escondido Times-Advocate,101700,1960,PRESIDENT,,United States,CA,"NIXON, RICHARD M.",Republican,1,,,,Checklist of T-A Recommendations,0.95
+CA,Escondido Times-Advocate,101700,1960,H,30,U.S. House California District 30,CA,"UTT, JAMES B.",Republican,1,,1,,Congressman 30th District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1960,STATE REP,80,California Assembly District 80,CA,"MANNING, JACK",Republican,1,,,,Assemblyman 80th District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1970,H,35,U.S. House California District 35,CA,"LENHART, THOMAS",Democrat,1,,,,"Congress race; T-A editorial critical of Schmitz incumbent (John Birch Society) and makes case for Lenhart (D, retired Marine officer) | V6 conf boost: OCR-verified clipping for this year.",0.92
+CA,Escondido Times-Advocate,101700,1972,PRESIDENT,,United States,CA,"NIXON, RICHARD M.",Republican,1,,1,,T-A ballot,0.95
+CA,Escondido Times-Advocate,101700,1972,H,42,U.S. House California District 42,CA,"BURGENER, CLAIR W.",Republican,1,,,,T-A ballot; Congress 42nd District,0.95
+CA,Escondido Times-Advocate,101700,1972,H,43,U.S. House California District 43,CA,"VEYSEY, VICTOR V.",Republican,1,,1,,T-A ballot; Congress 43rd District,0.95
+CA,Escondido Times-Advocate,101700,1972,STATE REP,80,California Assembly District 80,CA,"STULL, JOHN",Republican,1,,,,T-A ballot; Assembly 80th District,0.95
+CA,Escondido Times-Advocate,101700,1972,DIRECTOR,,Palomar Pomerado Hospital District,CA,"HUTCHINGS,",Nonpartisan,1,,,,Palomar Hospital Directors; first name not in source | V4 dname refined from notes: Palomar Pomerado Hospital District,0.85
+CA,Escondido Times-Advocate,101700,1972,DIRECTOR,,Palomar Pomerado Hospital District,CA,"REYNOLDS,",Nonpartisan,1,,,,Palomar Hospital Directors; first name not in source | V4 dname refined from notes: Palomar Pomerado Hospital District,0.85
+CA,Escondido Times-Advocate,101700,1974,GOVERNOR,,California Governor,CA,"FLOURNOY, HOUSTON",Republican,1,,,,T-A ballot recommendation,0.95
+CA,Escondido Times-Advocate,101700,1974,SEC OF STATE,,California Secretary of State,CA,"VAN CAMP, BRIAN",Republican,1,,,,T-A ballot recommendation; Secretary of State; first name not in source [V3: name BRIAN filled from CCT cross-paper match] [V3: conf boost from CCT cross-paper agreement] | V5 OCR 1974-11-04: OCR shows 'Sect. State [no] recommendation' (fragmented). VAN CAMP appears in OCR adjacent to 'Controller' column suggesting possible office assignment confusion. Conservative: leave as SoS endorsement per V3 CCT cross-paper match but flag for RA verification — possible NO RECOMMENDATION case.,0.85
+CA,Escondido Times-Advocate,101700,1974,COMPTROLLER,,California Controller,CA,"BAGLEY, WILLIAM T.",Republican,1,,,,T-A ballot recommendation; Controller; first name not in source | V4 LAT cross-paper agreement (CA statewide).,0.92
+CA,Escondido Times-Advocate,101700,1974,TREASURER,,California Treasurer,CA,"UNRUH, JESSE",Democrat,1,,,,T-A ballot recommendation; State Treasurer [V3: conf boost from CCT cross-paper agreement],0.92
+CA,Escondido Times-Advocate,101700,1974,ATTORNEY GENERAL,,California Attorney General,CA,"YOUNGER, EVELLE",Republican,1,,1,,T-A ballot recommendation,0.95
+CA,Escondido Times-Advocate,101700,1974,SENATOR,,United States Senate from California,CA,"CRANSTON, ALAN",Democrat,1,1,,,"T-A ballot recommendation; surprising D pick | V6 inc fix: Cranston D inc (elected 1968, ran for re-election 1974).",0.95
+CA,Escondido Times-Advocate,101700,1974,H,,U.S. House from California,CA,"BURGENER, CLAIR W.",Republican,1,,1,,T-A ballot recommendation; House,0.95
+CA,Escondido Times-Advocate,101700,1974,STATE SENATOR,,California Senate,CA,"STULL, JOHN",Republican,1,,,,T-A ballot recommendation,0.95
+CA,Escondido Times-Advocate,101700,1974,STATE REP,,California Assembly,CA,"CRAVEN, WILLIAM",Republican,1,,1,,"T-A ballot recommendation; Assembly | V6 inc fix: Craven R inc Assembly (elected 1970, ran 74).",0.95
+CA,Escondido Times-Advocate,101700,1974,CNTY COMM,,San Diego County,CA,"TAYLOR, LEE",Nonpartisan,1,,,,T-A ballot recommendation; County Supervisor,0.9
+CA,Escondido Times-Advocate,101700,1976,PRESIDENT,,United States,CA,"FORD, GERALD R.",Republican,1,,1,,T-A's ballot recommendations; Hayakawa for VP listed,0.95
+CA,Escondido Times-Advocate,101700,1976,SENATOR,,United States Senate from California,CA,"HAYAKAWA, S. I.",Republican,1,,,,T-A's ballot recommendations; Senate,0.95
+CA,Escondido Times-Advocate,101700,1976,H,43,U.S. House California District 43,CA,"BURGENER, CLAIR W.",Republican,1,,1,,T-A's ballot recommendations; House 43rd Dist.,0.95
+CA,Escondido Times-Advocate,101700,1976,STATE REP,76,California Assembly District 76,CA,"CRAVEN, WILLIAM",Republican,1,,1,,T-A's ballot recommendations; Assembly 76th Dist.,0.95
+CA,Escondido Times-Advocate,101700,1976,DIRECTOR,,Palomar Pomerado Hospital District,CA,"HUTCHINGS,",Nonpartisan,1,,,1,Palomar Hospital Board Director; first name not in source | V4 dname refined from notes: Palomar Pomerado Hospital District,0.85
+CA,Escondido Times-Advocate,101700,1976,DIRECTOR,,Palomar Pomerado Hospital District,CA,"LITTAUER,",Nonpartisan,1,,,,Palomar Hospital Board Director; first name not in source | V4 dname refined from notes: Palomar Pomerado Hospital District,0.85
+CA,Escondido Times-Advocate,101700,1976,DIRECTOR,,Palomar Pomerado Hospital District,CA,"THURSTON,",Nonpartisan,1,,,,Palomar Hospital Board Director; first name not in source | V4 dname refined from notes: Palomar Pomerado Hospital District,0.85
+CA,Escondido Times-Advocate,101700,1978,GOVERNOR,,California Governor,CA,"BROWN, EDMUND G. JR.",Democrat,1,1,,,T-A ballot recommendations,0.95
+CA,Escondido Times-Advocate,101700,1978,LT GOVERNOR,,California Lt. Governor,CA,"DYMALLY, MERVYN",Democrat,1,1,,,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1978,ATTORNEY GENERAL,,California Attorney General,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,T-A ballot recommendations,0.95
+CA,Escondido Times-Advocate,101700,1978,H,,U.S. House from California,CA,"BURGENER, CLAIR W.",Republican,1,,1,,T-A ballot recommendations; Congress,0.95
+CA,Escondido Times-Advocate,101700,1978,STATE SENATOR,,California Senate,CA,"CRAVEN, WILLIAM",Republican,1,,,,T-A ballot recommendations,0.95
+CA,Escondido Times-Advocate,101700,1978,STATE REP,,California Assembly,CA,"FRAZEE, BOB",Republican,1,,,,T-A ballot recommendations; Assembly,0.95
+CA,Escondido Times-Advocate,101700,1978,SUPREME COURT,,California Supreme Court,CA,"BIRD, ROSE",Nonpartisan,1,,,,Chief Justice retention; T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1978,CNTY COMM,,San Diego County,CA,"BOYCE,",Nonpartisan,1,,,,Supervisor; T-A ballot county offices; first name not in source,0.85
+CA,Escondido Times-Advocate,101700,1978,ASSESSOR,,San Diego County,CA,"WILLIAMS,",Nonpartisan,1,,,,Assessor; T-A ballot county offices; first name not in source,0.85
+CA,Escondido Times-Advocate,101700,1980,PRESIDENT,,United States,CA,"REAGAN, RONALD",Republican,1,,,,Our endorsements,0.95
+CA,Escondido Times-Advocate,101700,1980,SENATOR,,United States Senate from California,CA,"CRANSTON, ALAN",Democrat,1,1,,,Our endorsements,0.95
+CA,Escondido Times-Advocate,101700,1980,H,43,U.S. House California District 43,CA,"BURGENER, CLAIR W.",Republican,1,,1,,Congressman; 43rd Cong District; opposite of Klan-endorsed Tom Metzger,0.95
+CA,Escondido Times-Advocate,101700,1980,STATE REP,,California Assembly,CA,"FRAZEE, BOB",Republican,1,,1,,State Assemblyman,0.95
+CA,Escondido Times-Advocate,101700,1980,CNTY COMM,2,San Diego County,CA,"MOORE, LUCILLE",Nonpartisan,1,,,,County Supervisor 2nd District,0.9
+CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,City of Escondido (City Council),CA,"SIMMONS, JIM",Nonpartisan,1,,,,San Marcos City Council,0.95
+CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,City of Escondido (City Council),CA,"DANOVER, DICK",Nonpartisan,1,,,,San Marcos City Council,0.95
+CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,City of Escondido (City Council),CA,"ORAVEC, LINDA",Nonpartisan,1,,,,Poway City Council,0.95
+CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,City of Escondido (City Council),CA,"REXRODE, CLYDE",Nonpartisan,1,,,,"Poway City Council, incumbent",0.95
+CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,City of Escondido (City Council),CA,"SHEPARDSON, MARY",Nonpartisan,1,,,,Poway City Council,0.95
+CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,City of Escondido (City Council),CA,"WENZEL, SHEILAH",Nonpartisan,1,,,,Escondido City Council,0.9
+CA,Escondido Times-Advocate,101700,1982,CITY COUNCIL,,City of Escondido (City Council),CA,"COWAN, ERNIE",Nonpartisan,1,,,,Escondido City Council,0.9
+CA,Escondido Times-Advocate,101700,1982,GOVERNOR,,California Governor,CA,"DEUKMEJIAN, GEORGE",Republican,1,,,,Endorsed for GOVERNOR (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1982,SENATOR,,United States Senate from California,CA,"WILSON, PETE",Republican,1,,,,Endorsed for SENATOR (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1982,H,42,U.S. House California District 42,CA,"PACKARD, RON",Republican,1,,,,43rd Congressional District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1982,H,41,U.S. House California District 41,CA,"LOWERY, BILL",Republican,1,,,,41st Congressional District [V2: Pattern K fix - removed d_inc on R candidate] | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1982,H,45,U.S. House California District 45,CA,"HUNTER, DUNCAN",Republican,1,,,,"45th Congressional District, incumbent | V6 inc fix: 1982 was Hunter R first election; r_inc removed. | V6 conf boost: OCR-verified clipping for this year.",0.92
+CA,Escondido Times-Advocate,101700,1982,STATE SENATOR,38,California Senate District 38,CA,"CRAVEN, WILLIAM",Republican,1,,1,,"38th State Senate, incumbent | V6 conf boost: OCR-verified clipping for this year.",0.92
+CA,Escondido Times-Advocate,101700,1982,STATE REP,76,California Assembly District 76,CA,"ROE, DICK",Democrat,1,,,,76th Assembly District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1982,STATE REP,74,California Assembly District 74,CA,"BRADLEY, BILL",Republican,1,,,,74th Assembly District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1982,LT GOVERNOR,,California Lt. Governor,CA,"HALLETT, CAROL",Republican,1,,,,Endorsed for LT GOVERNOR (Republican) [V2: generic note] | V4 SFC cross-paper agreement.,0.92
+CA,Escondido Times-Advocate,101700,1982,SEC OF STATE,,California Secretary of State,CA,"FONG, MARCH",Democrat,1,,,,"March Fong Eu, incumbent",0.9
+CA,Escondido Times-Advocate,101700,1982,COMPTROLLER,,California Controller,CA,"CORY, KENNETH",Democrat,1,1,,,"Controller, incumbent",0.9
+CA,Escondido Times-Advocate,101700,1982,TREASURER,,California Treasurer,CA,"UNRUH, JESSE M.",Democrat,1,1,,,incumbent | V4 SFC cross-paper agreement.,0.92
+CA,Escondido Times-Advocate,101700,1982,ATTORNEY GENERAL,,California Attorney General,CA,"VAN DE KAMP, JOHN",Democrat,1,,,,Endorsed for ATTORNEY GENERAL (Democrat) [V2: generic note] | V4 SFC cross-paper agreement.,0.92
+CA,Escondido Times-Advocate,101700,1982,DIRECTOR,,California State Board of Equalization District 3,CA,"DRONENBURG, ERNEST",Republican,1,,,,Board of Equalization,0.85
+CA,Escondido Times-Advocate,101700,1982,SUPERINTENDENT,,California Superintendent of Public Instruction,CA,"HONIG, BILL",Nonpartisan,1,,,,Superintendent of schools,0.9
+CA,Escondido Times-Advocate,101700,1982,SUPREME COURT,,California Supreme Court,CA,"BIRD, ROSE",Nonpartisan,1,,,1,Yes on all four (retention),0.85
+CA,Escondido Times-Advocate,101700,1982,COURT OF APPEALS,,California Court of Appeal,CA,"JOHNS, KENNETH",Nonpartisan,1,,,,4th Court of Appeal,0.85
+CA,Escondido Times-Advocate,101700,1982,JUDGE,,San Diego County,CA,"KINTNER, FLOYD",Nonpartisan,1,,,,Municipal Court,0.85
+CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,City of Escondido (City Council),CA,"RADY, ERNIE",Nonpartisan,1,,,,Escondido City Council,0.9
+CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,City of Escondido (City Council),CA,"BEST, DOUG",Nonpartisan,1,,,,Escondido City Council,0.9
+CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,City of Escondido (City Council),CA,"BARBER, DAVID",Nonpartisan,1,,1,,"Escondido City Council, incumbent",0.9
+CA,Escondido Times-Advocate,101700,1984,TREASURER,,California Treasurer,CA,"HUGINS, KEN",Nonpartisan,1,,,,Escondido city treasurer,0.9
+CA,Escondido Times-Advocate,101700,1984,ASSESSOR,,San Diego County,CA,"SMITH, GREGORY J.",Nonpartisan,1,,,,"San Diego County Assessor, incumbent",0.9
+CA,Escondido Times-Advocate,101700,1984,JUDGE,,San Diego County,CA,"ALLEN, TERRY",Nonpartisan,1,,,,North County municipal judge,0.9
+CA,Escondido Times-Advocate,101700,1984,JUDGE,,San Diego County,CA,"MITCHELL, FRANKLIN",Nonpartisan,1,,,,North County municipal judge,0.9
+CA,Escondido Times-Advocate,101700,1984,CNTY COMM,3,San Diego County,CA,"SCHENK, LYNN",Nonpartisan,1,,,,Third District supervisor,0.85
+CA,Escondido Times-Advocate,101700,1984,CNTY COMM,2,San Diego County,CA,"BAILEY, GEORGE",Nonpartisan,1,,,,Second District supervisor,0.85
+CA,Escondido Times-Advocate,101700,1984,H,43,U.S. House California District 43,CA,"PACKARD, RON",Republican,1,,1,,"43rd Congressional District R primary, incumbent | V6 conf boost: OCR-verified clipping for this year.",0.92
+CA,Escondido Times-Advocate,101700,1984,MAYOR,,City of Escondido (Mayor),CA,"HEDGECOCK, ROGER",Nonpartisan,1,,,,"San Diego mayor, incumbent",0.9
+CA,Escondido Times-Advocate,101700,1984,PRESIDENT,,United States,CA,"REAGAN, RONALD",Republican,1,,1,,Reagan/Bush,0.95
+CA,Escondido Times-Advocate,101700,1984,H,41,U.S. House California District 41,CA,"LOWERY, BILL",Republican,1,,1,,41st Congressional District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1984,H,45,U.S. House California District 45,CA,"HUNTER, DUNCAN",Republican,1,,1,,45th Congressional District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1984,STATE SENATOR,37,California Senate District 37,CA,"BERGESON, MARIAN",Republican,1,,,,37th Senate District | V5 OCR 1984-11-04 CORRECTION: ETA editorial sidebar lists '37th Senate District: Marian Bergeson' — STATE SENATOR not STATE REP. Bergeson was elected to CA State Senate 1984.,0.95
+CA,Escondido Times-Advocate,101700,1984,STATE REP,39,California Assembly District 39,CA,"ELLIS, JIM",Republican,1,,,,39th Senate District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1984,STATE REP,74,California Assembly District 74,CA,"FRAZEE, ROBERT",Republican,1,,,,74th Assembly District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1984,STATE REP,75,California Assembly District 75,CA,"MOJONNIER, SUNNY",Republican,1,,,,75th Assembly District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1984,STATE REP,76,California Assembly District 76,CA,"BRADLEY, BILL",Republican,1,,1,,76th Assembly District | V6 conf boost: OCR-verified clipping for this year.,0.92
+CA,Escondido Times-Advocate,101700,1984,CNTY COMM,3,San Diego County,CA,"FORDEM, PAUL",Nonpartisan,1,,,,Third District Supervisor,0.85
+CA,Escondido Times-Advocate,101700,1984,MAYOR,,City of Escondido (Mayor),CA,"FLICK, MIKE",Nonpartisan,1,,,,Vista mayor,0.85
+CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,City of Escondido (City Council),CA,"LA POMER, TONY",Nonpartisan,1,,,,Vista City Council,0.85
+CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,City of Escondido (City Council),CA,"WADE, NANCY",Nonpartisan,1,,,,Vista City Council,0.85
+CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,City of Escondido (City Council),CA,"EMERY, BOB",Nonpartisan,1,,,,Poway City Council,0.9
+CA,Escondido Times-Advocate,101700,1984,CITY COUNCIL,,City of Escondido (City Council),CA,"TARZY, BRUCE",Nonpartisan,1,,,,Poway City Council,0.9
+CA,Escondido Times-Advocate,101700,1984,SCHOOL BOARD,,Fallbrook Union Elementary School District,CA,"SEEMANN, KATHLEEN",Nonpartisan,1,,,,Fallbrook Elementary School District | V4 dname refined from notes: Fallbrook Union Elementary School District,0.85
+CA,Escondido Times-Advocate,101700,1984,SCHOOL BOARD,,Palomar Pomerado Hospital District,CA,"EVERT, MARY",Nonpartisan,1,,,,Palomar Pomerado Hospital District | V4 dname refined from notes: Palomar Pomerado Hospital District,0.85
+CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,Palomar Pomerado Hospital District,CA,"EVERT, MARY",Nonpartisan,1,,,,Palomar Pomerado Hospital District | V4 dname refined from notes: Palomar Pomerado Hospital District,0.85
+CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,Palomar Pomerado Hospital District,CA,"HUTCHENS, KEITH",Nonpartisan,1,,,,Palomar Pomerado Hospital District | V4 dname refined from notes: Palomar Pomerado Hospital District,0.85
+CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,Palomar Pomerado Hospital District,CA,"ROY, ROY",Nonpartisan,1,,,,Palomar Pomerado Hospital District | V4 dname refined from notes: Palomar Pomerado Hospital District,0.85
+CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,North San Diego County special district board (specific board pending RA),CA,"BONAGURA, LUCAS",Nonpartisan,1,,,,Tri-City Hospital District | V8 dname generalized — RA verification needed.,0.85
+CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,North San Diego County special district board (specific board pending RA),CA,"GEIL, EUGENE",Nonpartisan,1,,,,Tri-City Hospital District | V8 dname generalized — RA verification needed.,0.85
+CA,Escondido Times-Advocate,101700,1984,DIRECTOR,,North San Diego County special district board (specific board pending RA),CA,"MILLS, GEORGE",Nonpartisan,1,,,,Tri-City Hospital District | V8 dname generalized — RA verification needed.,0.85
+CA,Escondido Times-Advocate,101700,1986,CNTY COMM,,San Diego County,CA,"ROMNEY, CLYDE",Nonpartisan,1,,,,County Supervisor,0.9
+CA,Escondido Times-Advocate,101700,1986,CITY COUNCIL,,City of Escondido (City Council),CA,"COWAN, ERNIE",Nonpartisan,1,,,1,Escondido City Council,0.9
+CA,Escondido Times-Advocate,101700,1986,CITY COUNCIL,,City of Escondido (City Council),CA,"THURSTON, DORIS",Nonpartisan,1,,,,Escondido City Council,0.9
+CA,Escondido Times-Advocate,101700,1986,MAYOR,,City of Escondido (Mayor),CA,"CLEATOR, BILL",Nonpartisan,1,,,,San Diego Mayor,0.9
+CA,Escondido Times-Advocate,101700,1986,JUDGE,,San Diego County,CA,"AMES, E. MAC",Nonpartisan,1,,,,Superior Court Judge,0.9
+CA,Escondido Times-Advocate,101700,1986,TREASURER,,California Treasurer,CA,"BOLAND, PAUL",Nonpartisan,1,,,,Treasurer/Tax Collector,0.85
+CA,Escondido Times-Advocate,101700,1986,TREASURER,,California Treasurer,CA,"SILVA, CARL",Nonpartisan,1,,,,Treasurer/Tax Collector,0.85
+CA,Escondido Times-Advocate,101700,1986,RECORDER,,San Diego County,CA,"LOLE, VERA",Nonpartisan,1,,,,"Recorder, Vera Lole/Lyle",0.85
+CA,Escondido Times-Advocate,101700,1986,SUPERINTENDENT,,California Superintendent of Public Instruction,CA,"HONIG, BILL",Nonpartisan,1,1,,1,State Superintendent of Public Instruction,0.9
+CA,Escondido Times-Advocate,101700,1986,LT GOVERNOR,,California Lt. Governor,CA,"CURB, MIKE",Republican,1,,,,"Lieutenant Governor, Republican ticket",0.9
+CA,Escondido Times-Advocate,101700,1986,DIRECTOR,,California State Board of Equalization District 3,CA,"DRONENBURG, ERNEST",Republican,1,,1,,Board of Equalization,0.9
+CA,Escondido Times-Advocate,101700,1988,CNTY COMM,2,San Diego County,CA,"BAILEY, GEORGE",Nonpartisan,1,,,1,2nd District Supervisor,0.9
+CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,City of Escondido (City Council),CA,"BARBER, DAVID",Nonpartisan,1,,,1,Escondido City Council,0.9
+CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,City of Escondido (City Council),CA,"HARMON, JERRY",Nonpartisan,1,,,,Escondido City Council,0.9
+CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,City of Escondido (City Council),CA,"RADY, JUNE",Nonpartisan,1,,,,Escondido City Council,0.9
+CA,Escondido Times-Advocate,101700,1988,TREASURER,,California Treasurer,CA,"HUGINS, KEN",Nonpartisan,1,,,1,Escondido City Treasurer,0.9
+CA,Escondido Times-Advocate,101700,1988,PRESIDENT,,United States,CA,"BUSH, GEORGE",Republican,1,,,,Endorsed for PRESIDENT (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1988,SENATOR,,United States Senate from California,CA,"WILSON, PETE",Republican,1,,1,,Endorsed for SENATOR (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1988,H,41,U.S. House California District 41,CA,"LOWERY, BILL",Republican,1,,1,,"41st District, R-San Diego",0.95
+CA,Escondido Times-Advocate,101700,1988,H,43,U.S. House California District 43,CA,"PACKARD, RON",Republican,1,,1,,"43rd District, R-Oceanside",0.95
+CA,Escondido Times-Advocate,101700,1988,STATE REP,74,California Assembly District 74,CA,"FRAZEE, ROBERT",Republican,1,,1,,R-Carlsbad,0.95
+CA,Escondido Times-Advocate,101700,1988,STATE REP,76,California Assembly District 76,CA,"BRADLEY, BILL",Republican,1,,1,,R-Escondido,0.95
+CA,Escondido Times-Advocate,101700,1988,STATE SENATOR,77,California Senate District 77,CA,"STIRLING, LARRY",Republican,1,,,,R-San Diego,0.95
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,Palomar Community College District,CA,"ECHEVERRIA, BOB",Nonpartisan,1,,,,Palomar College Board of trustees | V4 dname refined from notes: Palomar Community College District,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,Palomar Community College District,CA,"PALID, MARK",Nonpartisan,1,,,,Palomar College Board of trustees | V4 dname refined from notes: Palomar Community College District,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,Palomar Community College District,CA,"ROMNEY, CLYDE",Nonpartisan,1,,,,Palomar College Board of trustees | V4 dname refined from notes: Palomar Community College District,0.9
+CA,Escondido Times-Advocate,101700,1988,MAYOR,,City of Escondido (Mayor),CA,"MCCLELLAN, GLORIA",Nonpartisan,1,,,,Vista Mayor,0.95
+CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,City of Escondido (City Council),CA,"HALE, CHUCK",Nonpartisan,1,,,,Vista City Council,0.9
+CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,City of Escondido (City Council),CA,"RAPPAPORT, BERNIE",Nonpartisan,1,,,,Vista City Council,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,Vista Unified School District,CA,"VIGER, MARCIA",Nonpartisan,1,,,,Vista school board | V4 dname refined from notes: Vista Unified School District,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,Vista Unified School District,CA,"VOLLMER, LANCE",Nonpartisan,1,,,,Vista school board | V4 dname refined from notes: Vista Unified School District,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,Vista Unified School District,CA,"SHADLE, TOM",Nonpartisan,1,,,,Vista school board | V4 dname refined from notes: Vista Unified School District,0.9
+CA,Escondido Times-Advocate,101700,1988,MAYOR,,City of Escondido (Mayor),CA,"THIBADEAU, LEE",Nonpartisan,1,,,,San Marcos Mayor,0.95
+CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,City of Escondido (City Council),CA,"SMITH, F.H. CORKY",Nonpartisan,1,,,,San Marcos City Council,0.9
+CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,City of Escondido (City Council),CA,"PRESTON, MIKE",Nonpartisan,1,,,,San Marcos City Council,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,San Marcos Unified School District,CA,"TRIGAS, SEERA",Nonpartisan,1,,,,San Marcos school board | V4 dname refined from notes: San Marcos Unified School District,0.85
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,San Marcos Unified School District,CA,"DUDYS, KAREN ""KAREN""",Nonpartisan,1,,,,San Marcos school board | V4 dname refined from notes: San Marcos Unified School District,0.85
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,San Marcos Unified School District,CA,"KUNSMAN, JUDY",Nonpartisan,1,,,,San Marcos school board | V4 dname refined from notes: San Marcos Unified School District,0.85
+CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,City of Escondido (City Council),CA,"EMERY, BOB",Nonpartisan,1,,,1,Poway City Council,0.9
+CA,Escondido Times-Advocate,101700,1988,CITY COUNCIL,,City of Escondido (City Council),CA,"GOLDSMITH, JAN",Nonpartisan,1,,,,Poway City Council,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"SKOLA, ART",Nonpartisan,1,,,,Poway school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"PIERCE, WINNIE",Nonpartisan,1,,,,Poway school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"WANGERIEN, PAM",Nonpartisan,1,,,,Escondido Elementary school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"LAING, JOHN",Nonpartisan,1,,,,Escondido Elementary school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"POLESETSKY, HAROLD",Nonpartisan,1,,,,Escondido High school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1988,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"DAMELLO, JOHN",Nonpartisan,1,,,,Escondido High school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1990,GOVERNOR,,California Governor,CA,"WILSON, PETE",Republican,1,,,,Endorsed for GOVERNOR (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1990,TREASURER,,California Treasurer,CA,"HAYES, THOMAS",Republican,1,,,,Endorsed for TREASURER (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1990,COMPTROLLER,,California Controller,CA,"FONG, MATT",Republican,1,,,,Controller,0.95
+CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,California State Board of Equalization District 3,CA,"DRONENBURG, ERNEST",Republican,1,,1,,Board of Equalization,0.9
+CA,Escondido Times-Advocate,101700,1990,STATE SENATOR,41,California Senate District 41,CA,"CRAVEN, WILLIAM",Republican,1,,1,,41st District | V6 inc fix: Craven R inc State Senate (continuously since 1978).,0.95
+CA,Escondido Times-Advocate,101700,1990,STATE REP,74,California Assembly District 74,CA,"FRAZEE, ROBERT",Republican,1,,1,,74th District,0.95
+CA,Escondido Times-Advocate,101700,1990,STATE REP,75,California Assembly District 75,CA,"MOJONNIER, SUNNY",Republican,1,,,,75th District,0.95
+CA,Escondido Times-Advocate,101700,1990,STATE REP,76,California Assembly District 76,CA,"HUNTER, TRICIA",Republican,1,,,,76th District,0.95
+CA,Escondido Times-Advocate,101700,1990,SHERIFF,,San Diego County,CA,"DROWN, JACK",Nonpartisan,1,,,,San Diego County Sheriff,0.95
+CA,Escondido Times-Advocate,101700,1990,H,41,U.S. House California District 41,CA,"LOWERY, BILL",Republican,1,,1,,House 41st District,0.95
+CA,Escondido Times-Advocate,101700,1990,H,43,U.S. House California District 43,CA,"PACKARD, RON",Republican,1,,1,,House 43rd District,0.95
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,Palomar Community College District,CA,"DOUGHERTY, ROBERT",Nonpartisan,1,,,,Palomar College board | V4 dname refined from notes: Palomar Community College District,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,Palomar Community College District,CA,"GENTRY, DARRELL",Nonpartisan,1,,,,Palomar College board | V4 dname refined from notes: Palomar Community College District,0.9
+CA,Escondido Times-Advocate,101700,1990,MAYOR,,City of Escondido (Mayor),CA,"MCCLELLAN, GLORIA",Nonpartisan,1,,,1,Vista Mayor,0.95
+CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,City of Escondido (City Council),CA,"ASMUS, GENE",Nonpartisan,1,,,,Vista City Council,0.9
+CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,City of Escondido (City Council),CA,"SMITH, JEANETTE",Nonpartisan,1,,,,Vista City Council,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,Vista Unified School District,CA,"HAGAR, JIM",Nonpartisan,1,,,,Vista school board | V4 dname refined from notes: Vista Unified School District,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,Vista Unified School District,CA,"COLE, LINDA",Nonpartisan,1,,,,Vista school board | V4 dname refined from notes: Vista Unified School District,0.9
+CA,Escondido Times-Advocate,101700,1990,MAYOR,,City of Escondido (Mayor),CA,"THIBADEAU, LEE",Nonpartisan,1,,,1,San Marcos Mayor,0.95
+CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,City of Escondido (City Council),CA,"HARRIS, PIA",Nonpartisan,1,,,,San Marcos City Council,0.9
+CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,City of Escondido (City Council),CA,"LOESCHER, MARK",Nonpartisan,1,,,,San Marcos City Council,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,San Marcos Unified School District,CA,"CENTANNI, DELFINA",Nonpartisan,1,,,,San Marcos school board | V4 dname refined from notes: San Marcos Unified School District,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,San Marcos Unified School District,CA,"GROSS, LUCY",Nonpartisan,1,,,,San Marcos school board | V4 dname refined from notes: San Marcos Unified School District,0.9
+CA,Escondido Times-Advocate,101700,1990,MAYOR,,City of Escondido (Mayor),CA,"EMERY, BOB",Nonpartisan,1,,,,Poway Mayor,0.95
+CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,City of Escondido (City Council),CA,"HIGGINSON, DON",Nonpartisan,1,,,,Poway City Council,0.9
+CA,Escondido Times-Advocate,101700,1990,CITY COUNCIL,,City of Escondido (City Council),CA,"SUGARMAN, ALAN",Nonpartisan,1,,,,Poway City Council,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"LUND, JIM",Nonpartisan,1,,,,Escondido Elementary school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"MARLER, KATHY",Nonpartisan,1,,,,Escondido Elementary school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"NERHUS, DAWNA",Nonpartisan,1,,,,Escondido Elementary school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"CHERRINGTON, JACK",Nonpartisan,1,,,,Escondido High school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"HORN, BILL",Nonpartisan,1,,,,Escondido High school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1990,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"MORASCO, MICHAEL",Nonpartisan,1,,,,Escondido High school board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,Palomar Pomerado Hospital District,CA,"BELKER, LOREN",Nonpartisan,1,,,,Palomar Pomerado Health Systems board | V4 dname refined from notes: Palomar Pomerado Hospital District,0.9
+CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,Palomar Pomerado Hospital District,CA,"BROWN, HOWARD",Nonpartisan,1,,,,Palomar Pomerado Health Systems board | V4 dname refined from notes: Palomar Pomerado Hospital District,0.9
+CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,Palomar Pomerado Hospital District,CA,"OTOSHI, JAMES",Nonpartisan,1,,,,Palomar Pomerado Health Systems board | V4 dname refined from notes: Palomar Pomerado Hospital District,0.9
+CA,Escondido Times-Advocate,101700,1990,DIRECTOR,,Palomar Pomerado Hospital District,CA,"REEVES, SUE",Nonpartisan,1,,,,Palomar Pomerado Health Systems board | V4 dname refined from notes: Palomar Pomerado Hospital District,0.9
+CA,Escondido Times-Advocate,101700,1994,MAYOR,,City of Escondido (Mayor),CA,"HOLLINS, SID",Nonpartisan,1,,,,Escondido Mayor,0.95
+CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,City of Escondido (City Council),CA,"HARMON, JERRY",Nonpartisan,1,,,1,Escondido City Council,0.95
+CA,Escondido Times-Advocate,101700,1994,GOVERNOR,,California Governor,CA,"WILSON, PETE",Republican,1,,1,,Endorsed for GOVERNOR (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1994,SENATOR,,United States Senate from California,CA,"FEINSTEIN, DIANNE",Democrat,1,1,,,Endorsed for SENATOR (Democrat) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1994,LT GOVERNOR,,California Lt. Governor,CA,"WRIGHT, CATHIE",Republican,1,,,,Endorsed for LT GOVERNOR (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1994,SEC OF STATE,,California Secretary of State,CA,"MILLER, TONY",Democrat,1,,,,Endorsed for SEC OF STATE (Democrat) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1994,COMPTROLLER,,California Controller,CA,"MCCLINTOCK, TOM",Republican,1,,,,Controller,0.95
+CA,Escondido Times-Advocate,101700,1994,TREASURER,,California Treasurer,CA,"FONG, MATT",Republican,1,,,,Endorsed for TREASURER (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1994,ATTORNEY GENERAL,,California Attorney General,CA,"LUNGREN, DAN",Republican,1,,1,,Endorsed for ATTORNEY GENERAL (Republican) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1994,INSURANCE COMMISSIONER,,California Insurance Commissioner,CA,"TORRES, ART",Democrat,1,,,,Endorsed for INSURANCE COMMISSIONER (Democrat) [V2: generic note],0.95
+CA,Escondido Times-Advocate,101700,1994,SUPERINTENDENT,,California Superintendent of Public Instruction,CA,"DIMARCO, MAUREEN",Nonpartisan,1,,,,Superintendent of Public Education,0.95
+CA,Escondido Times-Advocate,101700,1994,H,48,U.S. House California District 48,CA,"PACKARD, RON",Republican,1,,1,,48th District,0.95
+CA,Escondido Times-Advocate,101700,1994,H,51,U.S. House California District 51,CA,"CUNNINGHAM, RANDY ""DUKE""",Republican,1,,1,,51st District,0.95
+CA,Escondido Times-Advocate,101700,1994,STATE SENATOR,38,California Senate District 38,CA,"CRAVEN, WILLIAM",Republican,1,,1,,38th District,0.95
+CA,Escondido Times-Advocate,101700,1994,STATE REP,66,California Assembly District 66,CA,"THOMPSON, BRUCE",Republican,1,,,,66th District,0.95
+CA,Escondido Times-Advocate,101700,1994,STATE REP,74,California Assembly District 74,CA,"KALOOGIAN, HOWARD",Republican,1,,,,74th District,0.95
+CA,Escondido Times-Advocate,101700,1994,STATE REP,75,California Assembly District 75,CA,"GOLDSMITH, JAN",Republican,1,,,,75th District,0.95
+CA,Escondido Times-Advocate,101700,1994,CNTY COMM,5,San Diego County,CA,"THIBADEAU, LEE",Nonpartisan,1,,,,5th District Supervisor,0.95
+CA,Escondido Times-Advocate,101700,1994,DA/PROSECUTOR,,San Diego County,CA,"PFINGST, PAUL",Nonpartisan,1,,,,District Attorney,0.95
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"MORASCO, MICHAEL",Nonpartisan,1,,,1,Escondido High School District Board | V8 dname generalized — RA verification needed.,0.95
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"WARD, NANCY",Nonpartisan,1,,,,Escondido High School District Board | V8 dname generalized — RA verification needed.,0.95
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"DISNEY, DICK",Nonpartisan,1,,,,Escondido High School District Board | V8 dname generalized — RA verification needed.,0.95
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"MARLER, KATHY",Nonpartisan,1,,,1,Escondido Elementary School District Board | V8 dname generalized — RA verification needed.,0.95
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"NERHUS, DAWNA",Nonpartisan,1,,,1,Escondido Elementary School District Board | V8 dname generalized — RA verification needed.,0.95
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"WOODS, LINDA",Nonpartisan,1,,,,Escondido Elementary School District Board | V8 dname generalized — RA verification needed.,0.95
+CA,Escondido Times-Advocate,101700,1994,MAYOR,,City of Escondido (Mayor),CA,"MCCLELLAN, GLORIA",Nonpartisan,1,,,1,Vista Mayor,0.95
+CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,City of Escondido (City Council),CA,"ESTES, ED, JR.",Nonpartisan,1,,,,Vista City Council,0.9
+CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,City of Escondido (City Council),CA,"VALLUZZI, ROCCO",Nonpartisan,1,,,,Vista City Council,0.9
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,Vista Unified School District,CA,"VERVYNCK, JENNY",Nonpartisan,1,,,,Vista school board | V4 dname refined from notes: Vista Unified School District,0.9
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,Vista Unified School District,CA,"COOPER, REINE",Nonpartisan,1,,,,Vista school board | V4 dname refined from notes: Vista Unified School District,0.9
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,Vista Unified School District,CA,"HUBBARD, DAVID",Nonpartisan,1,,,,"Vista school board, recall candidate running for John Tyndall's seat | V4 dname refined from notes: Vista Unified School District",0.85
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,Vista Unified School District,CA,"HERMANSEN, FRANK",Nonpartisan,1,,,,"Vista school board, running for Joyce Lee's seat | V4 dname refined from notes: Vista Unified School District",0.85
+CA,Escondido Times-Advocate,101700,1994,MAYOR,,City of Escondido (Mayor),CA,"SMITH, F.H. CORKY",Nonpartisan,1,,,,San Marcos Mayor,0.95
+CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,City of Escondido (City Council),CA,"HARRIS, PIA",Nonpartisan,1,,,1,San Marcos City Council,0.9
+CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,City of Escondido (City Council),CA,"HERNANDEZ, JIM",Nonpartisan,1,,,,San Marcos City Council,0.9
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,Palomar Community College District,CA,"DOUGHERTY, ROBERT",Nonpartisan,1,,,1,Palomar College Board of Trustees | V4 dname refined from notes: Palomar Community College District,0.9
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,Palomar Community College District,CA,"MCMULLEN, DARRELL",Nonpartisan,1,,,,Palomar College Board of Trustees | V4 dname refined from notes: Palomar Community College District,0.9
+CA,Escondido Times-Advocate,101700,1994,MAYOR,,City of Escondido (Mayor),CA,"HIGGINSON, DON",Nonpartisan,1,,,,Poway Mayor,0.95
+CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,City of Escondido (City Council),CA,"CAFAGNA, MICKEY",Nonpartisan,1,,,,Poway City Council,0.9
+CA,Escondido Times-Advocate,101700,1994,CITY COUNCIL,,City of Escondido (City Council),CA,"REXFORD, BETTY",Nonpartisan,1,,,,Poway City Council,0.9
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"MANGUM, JEFF",Nonpartisan,1,,,,Poway School District Board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"RANFTLE, PENNY",Nonpartisan,1,,,,Poway School District Board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1994,SCHOOL BOARD,,North San Diego County school district (specific district pending RA),CA,"MORRIS, TOM",Nonpartisan,1,,,,Poway School District Board | V8 dname generalized — RA verification needed.,0.9
+CA,Escondido Times-Advocate,101700,1994,DIRECTOR,,Palomar Pomerado Hospital District,CA,"BROWN, HOWARD",Nonpartisan,1,,,1,Palomar Pomerado Health System Board | V4 dname refined from notes: Palomar Pomerado Hospital District,0.9
+CA,Escondido Times-Advocate,101700,1994,DIRECTOR,,Palomar Pomerado Hospital District,CA,"REEVES, SUE",Nonpartisan,1,,,1,Palomar Pomerado Health System Board | V4 dname refined from notes: Palomar Pomerado Hospital District,0.9
+CA,Escondido Times-Advocate,101700,1994,DIRECTOR,,Palomar Pomerado Hospital District,CA,"GIGLIOTTI, GEORGE",Nonpartisan,1,,,,Palomar Pomerado Health System Board | V4 dname refined from notes: Palomar Pomerado Hospital District,0.9
+CA,Escondido Times-Advocate,101700,1994,DIRECTOR,,Palomar Pomerado Hospital District,CA,"MADISON, EVELYN",Nonpartisan,1,,,,Palomar Pomerado Health System Board | V4 dname refined from notes: Palomar Pomerado Hospital District,0.9
 CA,Escondido Times-Advocate,101700,1982,DIRECTOR,,Pomerado / Palomar Hospital District,CA,"DAVIS, DEMAR",Nonpartisan,1,,,,North San Diego County Hospital District incumbent; T-A endorsed slate,0.85
 CA,Escondido Times-Advocate,101700,1982,DIRECTOR,,Pomerado / Palomar Hospital District,CA,"DAILEY, JOHN",Nonpartisan,1,,,,North San Diego County Hospital District incumbent; T-A endorsed slate,0.85
 CA,Escondido Times-Advocate,101700,1982,DIRECTOR,,Pomerado / Palomar Hospital District,CA,"LYON, ED",Nonpartisan,1,,,,North San Diego County Hospital District incumbent; T-A endorsed slate,0.85
 CA,Escondido Times-Advocate,101700,1982,DIRECTOR,,Pomerado / Palomar Hospital District,CA,"BARTELT, CLYDE",Nonpartisan,1,,,,North San Diego County Hospital District incumbent; T-A endorsed slate,0.85
 CA,Escondido Times-Advocate,101700,1982,DIRECTOR,,Pomerado / Palomar Hospital District,CA,"NEATE, NORMAN",Nonpartisan,1,,,,North San Diego County Hospital District incumbent; T-A endorsed slate,0.85
 CA,Escondido Times-Advocate,101700,1982,DIRECTOR,,Pomerado / Palomar Hospital District,CA,"LOUNSBERY, KEN",Nonpartisan,1,,,,North San Diego County Hospital District incumbent; T-A endorsed slate,0.85
+CA,Escondido Times-Advocate,101700,1960,PRESIDENT,,United States,CA,"KENNEDY, JOHN F.",Democrat,0,,,,1960 PRES D opp (JFK won); not endorsed (ETA endorsed Nixon R) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1972,PRESIDENT,,United States,CA,"MCGOVERN, GEORGE",Democrat,0,,,,1972 PRES D opp (McGovern); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1976,PRESIDENT,,United States,CA,"CARTER, JIMMY",Democrat,0,,,,1976 PRES D opp (Carter won); not endorsed (ETA endorsed Ford R inc) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1980,PRESIDENT,,United States,CA,"CARTER, JIMMY",Democrat,0,1,,,1980 PRES D inc opp (Carter lost); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1984,PRESIDENT,,United States,CA,"MONDALE, WALTER F.",Democrat,0,,,,1984 PRES D opp (Mondale lost landslide); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1988,PRESIDENT,,United States,CA,"DUKAKIS, MICHAEL",Democrat,0,,,,1988 PRES D opp (Dukakis); not endorsed (ETA endorsed Bush R) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1950,SENATOR,,United States Senate from California,CA,"DOUGLAS, HELEN GAHAGAN",Democrat,0,,,,1950 CA SEN D opp (Douglas lost to Nixon R); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1974,SENATOR,,United States Senate from California,CA,"RICHARDSON, H.L.",Republican,0,,,,1974 CA SEN R opp (Richardson lost to Cranston D); not endorsed (ETA endorsed Cranston D) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1976,SENATOR,,United States Senate from California,CA,"TUNNEY, JOHN V.",Democrat,0,1,,,1976 CA SEN D inc opp (Tunney lost to Hayakawa R); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1980,SENATOR,,United States Senate from California,CA,"GANN, PAUL",Republican,0,,,,1980 CA SEN R opp (Gann lost to Cranston D inc); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1982,SENATOR,,United States Senate from California,CA,"BROWN, EDMUND G. JR.",Democrat,0,,,,"1982 CA SEN D opp (Jerry Brown lost to Wilson R, ending his Gov tenure); not endorsed [V2 Pattern A]",0.88
+CA,Escondido Times-Advocate,101700,1988,SENATOR,,United States Senate from California,CA,"MCCARTHY, LEO T.",Democrat,0,,,,1988 CA SEN D opp (McCarthy lost to Wilson R inc); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1994,SENATOR,,United States Senate from California,CA,"HUFFINGTON, MICHAEL",Republican,0,,,,1994 CA SEN R opp (Huffington lost to Feinstein D inc); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1950,GOVERNOR,,California Governor,CA,"ROOSEVELT, JAMES",Democrat,0,,,,1950 CA GOV D opp (FDR's son Roosevelt lost to Warren R inc); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1974,GOVERNOR,,California Governor,CA,"BROWN, EDMUND G. JR.",Democrat,0,,,,1974 CA GOV D opp (Jerry Brown won open seat after Reagan term-limited); not endorsed (ETA endorsed Flournoy R) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1978,GOVERNOR,,California Governor,CA,"YOUNGER, EVELLE J.",Republican,0,,,,1978 CA GOV R opp (Younger lost to Brown D inc); not endorsed (ETA endorsed Brown D - unusual!) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1982,GOVERNOR,,California Governor,CA,"BRADLEY, TOM",Democrat,0,,,,1982 CA GOV D opp (Bradley lost close race to Deukmejian R); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1990,GOVERNOR,,California Governor,CA,"FEINSTEIN, DIANNE",Democrat,0,,,,1990 CA GOV D opp (Feinstein lost to Wilson R); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1994,GOVERNOR,,California Governor,CA,"BROWN, KATHLEEN",Democrat,0,,,,1994 CA GOV D opp (Kathleen Brown lost to Wilson R inc); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1978,LT GOVERNOR,,California Attorney General,CA,"CURB, MIKE",Republican,0,,,,1978 CA LT GOV R opp (Curb actually WON over Dymally D inc); ETA endorsed Dymally D so this is unusual [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1982,LT GOVERNOR,,California Attorney General,CA,"MCCARTHY, LEO T.",Democrat,0,,,,1982 CA LT GOV D opp (McCarthy won; Hallett R lost); not endorsed (ETA endorsed Hallett R) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1994,LT GOVERNOR,,California Attorney General,CA,"DAVIS, GRAY",Democrat,0,,,,"1994 CA LT GOV D opp (Gray Davis won, future GOV; Wright R lost); not endorsed [V2 Pattern A]",0.88
+CA,Escondido Times-Advocate,101700,1950,ATTORNEY GENERAL,,California Attorney General,CA,"SHATTUCK, EDWARD",Republican,1,,,,1950 CA AG R opp (Shattuck lost to Brown D); not endorsed [V2 Pattern A] | V4 OCR 1950-11-09 CORRECTION: ETA endorsed SHATTUCK R for AG. ETA opposed Brown D (who won). OCR confirms editorial direction.,0.95
+CA,Escondido Times-Advocate,101700,1974,ATTORNEY GENERAL,,California Attorney General,CA,"NORRIS, WILLIAM",Democrat,0,,,,1974 CA AG D opp (Norris lost to Younger R inc); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1982,ATTORNEY GENERAL,,California Attorney General,CA,"NICHOLSON, GEORGE",Republican,0,,,,1982 CA AG R opp (Nicholson lost to Van de Kamp D); not endorsed (ETA endorsed Van de Kamp D - unusual!) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1994,ATTORNEY GENERAL,,California Attorney General,CA,"UMBERG, TOM",Democrat,0,,,,1994 CA AG D opp (Umberg lost to Lungren R inc); not endorsed [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1982,SEC OF STATE,,California Attorney General,CA,"HARDIMAN, DAN",Republican,0,,,,1982 CA SoS R opp (Hardiman lost to March Fong Eu D inc); not endorsed [V2 Pattern A],0.85
+CA,Escondido Times-Advocate,101700,1994,SEC OF STATE,,California Attorney General,CA,"JONES, BILL",Republican,0,,,,1994 CA SoS R opp (Jones won over Miller D); not endorsed by ETA (ETA endorsed Miller D) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1990,TREASURER,,California Attorney General,CA,"BROWN, KATHLEEN",Democrat,0,,,,"1990 CA TREAS D opp (Kathleen Brown won, beat Hayes R); not endorsed [V2 Pattern A]",0.88
+CA,Escondido Times-Advocate,101700,1994,TREASURER,,California Attorney General,CA,"ANGELIDES, PHIL",Democrat,0,,,,1994 CA TREAS D opp (Angelides lost to Fong R); not endorsed [V2 Pattern A],0.85
+CA,Escondido Times-Advocate,101700,1982,COMPTROLLER,,California Attorney General,CA,"NESTANDE, BRUCE",Republican,0,,,,1982 CA CONTROLLER R opp (Nestande lost to Cory D inc); not endorsed (ETA endorsed Cory D - unusual!) [V2 Pattern A],0.88
+CA,Escondido Times-Advocate,101700,1990,COMPTROLLER,,California Attorney General,CA,"DAVIS, GRAY",Democrat,0,,,,"1990 CA CONTROLLER D opp (Gray Davis won, future GOV); not endorsed (ETA endorsed Fong R) [V2 Pattern A]",0.88
+CA,Escondido Times-Advocate,101700,1982,H,41,U.S. House California District 23,CA,"AKILI, GREG",Democrat,0,,,,"1982 CA H 41 D opp (Akili lost to Lowery R, who flipped seat); not endorsed [V3 Pattern A]",0.85
+CA,Escondido Times-Advocate,101700,1982,H,42,U.S. House California District 23,CA,"METZGER, TOM",Democrat,0,,,,1982 CA H 42 D opp (Metzger lost to Packard R - Metzger was D primary winner but disowned by party); not endorsed [V3 Pattern A],0.85
+CA,Escondido Times-Advocate,101700,1984,H,41,U.S. House California District 23,CA,"ARCHULETA, ROY",Democrat,0,,,,1984 CA H 41 D opp (lost to Lowery R inc); not endorsed [V3 Pattern A],0.80
+CA,Escondido Times-Advocate,101700,1988,H,43,U.S. House California District 23,CA,"MANNING, JOANNA",Democrat,0,,,,1988 CA H 43 D opp (lost to Packard R inc); not endorsed [V3 Pattern A],0.80
+CA,Escondido Times-Advocate,101700,1988,H,41,U.S. House California District 23,CA,"OVROM, LOU",Democrat,0,,,,1988 CA H 41 D opp (lost to Lowery R inc); not endorsed [V3 Pattern A],0.80
+CA,Escondido Times-Advocate,101700,1994,H,48,U.S. House California District 23,CA,"LESCHICK, ANDREI",Democrat,0,,,,1994 CA H 48 D opp (lost to Packard R inc); not endorsed [V3 Pattern A],0.80
+CA,Escondido Times-Advocate,101700,1994,H,51,U.S. House California District 23,CA,"TAMERIUS, RITA",Democrat,0,,,,1994 CA H 51 D opp (lost to Cunningham R inc); not endorsed [V3 Pattern A],0.80
+CA,Escondido Times-Advocate,101700,1984,STATE REP,74,California Assembly,CA,"HYZAK, EARL",Democrat,0,,,,1984 CA Assembly 74 D opp (lost to Frazee R); not endorsed [V3 Pattern A],0.80
+CA,Escondido Times-Advocate,101700,1984,STATE REP,75,California Assembly,CA,"ERSKINE, DON",Democrat,0,,,,1984 CA Assembly 75 D opp (lost to Mojonnier R); not endorsed [V3 Pattern A],0.80
+CA,Escondido Times-Advocate,101700,1990,STATE REP,76,California Assembly,CA,"WELLS, SHERRILL",Democrat,0,,,,1990 CA Assembly 76 D opp (lost to Hunter R); not endorsed [V3 Pattern A],0.80
+CA,Escondido Times-Advocate,101700,1994,STATE REP,74,California Assembly,CA,"SMITH, BARBARA",Democrat,0,,,,1994 CA Assembly 74 D opp (lost to Kaloogian R); not endorsed [V3 Pattern A],0.70
+CA,Escondido Times-Advocate,101700,1994,STATE SENATOR,38,California Assembly,CA,"GRANT, BARBARA",Democrat,0,,,,1994 CA SS D opp (lost to Craven R inc); not endorsed [V3 Pattern A],0.70
+CA,Escondido Times-Advocate,101700,1950,CORONER,,San Diego County Coroner,CA,"GALLAGHER, [UNKNOWN]",Nonpartisan,1,,,,"V4 OCR 1950-11-09 ADD: ETA-endorsed Gallagher for San Diego County Coroner. OCR text: 'GALLAGHER — Everybody — Escondido, the county and the T-A — was in step for this one. Gallagher won the county coroners race.' First name not in clipping.",0.90
+CA,Escondido Times-Advocate,101700,1950,H,23,U.S. House California 23,CA,"GEHRES, LES",Republican,1,,,,V4 OCR 1950-11-09 ADD: ETA-endorsed Les Gehres R for H 23 (San Diego County). Lost to McKinnon D by 5400 votes. OCR text: 'The T-A and voters of Escondido and surrounding territory preferred his opponent. Results in this area showed a 5-2 preference for Les Gehres.' Missed in V1-V3.,0.92
+CA,Escondido Times-Advocate,101700,1970,H,35,U.S. House California 35,CA,"SCHMITZ, JOHN G.",Republican,0,,1,,"V5 OCR 1970-10-23 ADD: ETA opposed Schmitz R inc, endorsed Lenhart D challenger. OCR text: ""Rep. Schmitz failure to support..."" + ""Lenhart cites Schmitz votes on 23 Nixon administration..."" V1 spot check originally extracted Schmitz as endorsement, V1 corrected to Lenhart. Schmitz opp Pattern A now added in V5.",0.92

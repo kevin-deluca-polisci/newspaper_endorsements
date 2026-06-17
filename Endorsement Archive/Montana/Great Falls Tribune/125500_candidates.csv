@@ -1,176 +1,196 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-MT,Great Falls Tribune,125500,1952,PRESIDENT,,,MT,"STEVENSON, ADLAI",Democrat,1,,,,"Editorial 'Election Finale Is at Hand' — endorses Stevenson, citing Democratic party as 'party of the people'",0.95
-MT,Great Falls Tribune,125500,1954,H,1,,MT,"MANSFIELD, MIKE",Democrat,1,1,,,"Editorial 'We Recommend Democrats' — endorses Mansfield (now in House, formerly Senate seat per text; actually Mansfield was H-1 incumbent moving to Senate in 1952; this 1954 editorial may be confusing him with H-1 race)",0.85
-MT,Great Falls Tribune,125500,1954,H,1,,MT,"METCALF, LEE",Democrat,1,1,,,Editorial 'We Recommend Democrats' — endorses Metcalf for re-election in House,0.95
-MT,Great Falls Tribune,125500,1954,H,2,,MT,"ANDERSON, LEROY",Democrat,1,,,,Editorial 'We Recommend Democrats' — endorses Anderson for House Eastern district (HI-2),0.95
-MT,Great Falls Tribune,125500,1954,SENATOR,,,MT,"MURRAY, JAMES E.",Democrat,1,1,,,Editorial 'The Signs Are Democratic' — endorses Murray as part of Democratic team to give MT senators in majority for Interior committee chairmanship,0.92
-MT,Great Falls Tribune,125500,1964,PRESIDENT,,,MT,"JOHNSON, LYNDON B.",Democrat,1,1,,,'We Endorse President Johnson' editorial — endorses LBJ for full term,0.98
-MT,Great Falls Tribune,125500,1964,SENATOR,,,MT,"MANSFIELD, MIKE",Democrat,1,1,,,"'As Full-Time Montana Senator, Mansfield Deserves Re-election' editorial — endorses Mansfield as Senate Majority Leader",0.98
-MT,Great Falls Tribune,125500,1966,ASSESSOR,,Cascade County,MT,"SELTZER, CARL",,1,1,,,Recommends Seltzer for re-election as Cascade County assessor,0.94
+MT,Great Falls Tribune,125500,1952,PRESIDENT,,United States,MT,"STEVENSON, ADLAI",Democrat,1,,,,"Editorial 'Election Finale Is at Hand' — endorses Stevenson, citing Democratic party as 'party of the people'",0.95
+MT,Great Falls Tribune,125500,1954,H,1,U.S. House Montana 1,MT,"MANSFIELD, MIKE",Democrat,1,1,,,"Editorial 'We Recommend Democrats' — endorses Mansfield (now in House, formerly Senate seat per text; actually Mansfield was H-1 incumbent moving to Senate in 1952; this 1954 editorial may be confusing him with H-1 race)",0.85
+MT,Great Falls Tribune,125500,1954,H,1,U.S. House Montana 1,MT,"METCALF, LEE",Democrat,1,1,,,Editorial 'We Recommend Democrats' — endorses Metcalf for re-election in House,0.95
+MT,Great Falls Tribune,125500,1954,H,2,U.S. House Montana 2,MT,"ANDERSON, LEROY",Democrat,1,,,,Editorial 'We Recommend Democrats' — endorses Anderson for House Eastern district (HI-2),0.95
+MT,Great Falls Tribune,125500,1954,SENATOR,,Montana,MT,"MURRAY, JAMES E.",Democrat,1,1,,,Editorial 'The Signs Are Democratic' — endorses Murray as part of Democratic team to give MT senators in majority for Interior committee chairmanship,0.92
+MT,Great Falls Tribune,125500,1964,PRESIDENT,,United States,MT,"JOHNSON, LYNDON B.",Democrat,1,1,,,'We Endorse President Johnson' editorial — endorses LBJ for full term,0.98
+MT,Great Falls Tribune,125500,1964,SENATOR,,Montana,MT,"MANSFIELD, MIKE",Democrat,1,1,,,"'As Full-Time Montana Senator, Mansfield Deserves Re-election' editorial — endorses Mansfield as Senate Majority Leader",0.98
+MT,Great Falls Tribune,125500,1966,ASSESSOR,,Cascade County,MT,"SELTZER, CARL",Republican,1,,1,,Recommends Seltzer for re-election as Cascade County assessor | V1 cross-year party fill. | V2 Pattern K fix.,0.94
 MT,Great Falls Tribune,125500,1966,DA/PROSECUTOR,,Cascade County,MT,"DALY, GENE",,1,,,,Endorses Daly for Cascade County Attorney — opposing smear campaign by Linnell group,0.94
-MT,Great Falls Tribune,125500,1966,H,1,,MT,"OLSEN, ARNOLD",Democrat,1,1,,,Endorses Olsen for western district House re-election (with 'admitted lack of enthusiasm'),0.94
-MT,Great Falls Tribune,125500,1966,H,1,,MT,"SMILEY, RICHARD",Republican,0,,,,Mentioned as Olsen's opponent — too conservative,0.85
-MT,Great Falls Tribune,125500,1966,H,2,,MT,"BATTIN, JAMES F.",Republican,1,,1,,Endorses Battin for eastern district House despite conservative record — Ways and Means Committee seniority valuable for Montana,0.95
-MT,Great Falls Tribune,125500,1966,H,2,,MT,"MELCHER, JOHN",Democrat,0,,,,Mentioned as Battin's opponent; Tribune endorsed Battin instead,0.85
-MT,Great Falls Tribune,125500,1966,PUBLIC SERVICE COMMISSION,,,MT,"BOEDECKER, LOU",Democrat,1,1,,,"Endorses Boedecker for 6-year RR/PSC term (incumbent chairman, experience over Garrett)",0.96
-MT,Great Falls Tribune,125500,1966,PUBLIC SERVICE COMMISSION,,,MT,"CANNON, PAUL",Democrat,0,,,,Mentioned as Steel's opponent,0.85
-MT,Great Falls Tribune,125500,1966,PUBLIC SERVICE COMMISSION,,,MT,"GARRETT, GARY F.",Republican,0,,,,Mentioned as Boedecker's opponent,0.85
-MT,Great Falls Tribune,125500,1966,PUBLIC SERVICE COMMISSION,,,MT,"STEEL, ERNEST C.",Republican,1,,,,Endorses Steel for 2-year term on MT Railroad and Public Service Commission,0.97
-MT,Great Falls Tribune,125500,1966,SENATOR,,,MT,"BABCOCK, TIM",Republican,0,,,,Mentioned as Metcalf's opponent — Tribune did not endorse despite preferring LtGov James to succeed him,0.92
-MT,Great Falls Tribune,125500,1966,SENATOR,,,MT,"METCALF, LEE",Democrat,1,1,,,'A cold analysis of the record clearly favors Metcalf' — Part III conclusion of Metcalf vs Babcock series,0.97
+MT,Great Falls Tribune,125500,1966,H,1,U.S. House Montana 1,MT,"OLSEN, ARNOLD",Democrat,1,1,,,Endorses Olsen for western district House re-election (with 'admitted lack of enthusiasm'),0.94
+MT,Great Falls Tribune,125500,1966,H,1,U.S. House Montana 1,MT,"SMILEY, RICHARD",Republican,0,,,,Mentioned as Olsen's opponent — too conservative,0.85
+MT,Great Falls Tribune,125500,1966,H,2,U.S. House Montana 2,MT,"BATTIN, JAMES F.",Republican,1,,1,,Endorses Battin for eastern district House despite conservative record — Ways and Means Committee seniority valuable for Montana,0.95
+MT,Great Falls Tribune,125500,1966,H,2,U.S. House Montana 2,MT,"MELCHER, JOHN",Democrat,0,,,,Mentioned as Battin's opponent; Tribune endorsed Battin instead,0.85
+MT,Great Falls Tribune,125500,1966,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"BOEDECKER, LOU",Democrat,1,1,,,"Endorses Boedecker for 6-year RR/PSC term (incumbent chairman, experience over Garrett)",0.96
+MT,Great Falls Tribune,125500,1966,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"CANNON, PAUL",Democrat,0,,,,Mentioned as Steel's opponent,0.85
+MT,Great Falls Tribune,125500,1966,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"GARRETT, GARY F.",Republican,0,,,,Mentioned as Boedecker's opponent,0.85
+MT,Great Falls Tribune,125500,1966,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"STEEL, ERNEST C.",Republican,1,,,,Endorses Steel for 2-year term on MT Railroad and Public Service Commission,0.97
+MT,Great Falls Tribune,125500,1966,SENATOR,,Montana,MT,"BABCOCK, TIM",Republican,0,,,,Mentioned as Metcalf's opponent — Tribune did not endorse despite preferring LtGov James to succeed him,0.92
+MT,Great Falls Tribune,125500,1966,SENATOR,,Montana,MT,"METCALF, LEE",Democrat,1,1,,,'A cold analysis of the record clearly favors Metcalf' — Part III conclusion of Metcalf vs Babcock series,0.97
 MT,Great Falls Tribune,125500,1966,SHERIFF,,Cascade County,MT,"KRSUL, JOHN",,1,1,,,Endorses Krsul for Cascade County Sheriff — considered one of best sheriffs in county history,0.94
-MT,Great Falls Tribune,125500,1966,SUPREME COURT,,,MT,"HARRISON, JOHN C.",,1,,,1,Endorse Harrison for re-election; written 100+ opinions in 6 years,0.96
-MT,Great Falls Tribune,125500,1968,ATTORNEY GENERAL,,,MT,"DALY, GENE B.",Democrat,1,,,,Cascade County Attorney 10 years,0.96
-MT,Great Falls Tribune,125500,1968,ATTORNEY GENERAL,,,MT,"WOODAHL, ROBERT L.",Republican,0,,,,Teton County Attorney,0.92
-MT,Great Falls Tribune,125500,1968,AUDITOR,,,MT,"OMHOLT, E. V. (SONNY)",Republican,1,,1,,State auditor since 1962 unopposed,0.97
-MT,Great Falls Tribune,125500,1968,GOVERNOR,,,MT,"ANDERSON, FORREST",Democrat,1,,,,We lean to Forrest Anderson - AG running for Gov,0.93
-MT,Great Falls Tribune,125500,1968,GOVERNOR,,,MT,"BABCOCK, TIM",Republican,0,1,,,7-year incumbent criticized,0.93
-MT,Great Falls Tribune,125500,1968,GOVERNOR,,,MT,"MONTGOMERY, WAYNE",New Reform,0,,,,Not serious contender,0.85
-MT,Great Falls Tribune,125500,1968,H,1,,MT,"OLSEN, ARNOLD",Democrat,1,1,,,A Nod to Olsen - 5th term,0.95
-MT,Great Falls Tribune,125500,1968,H,1,,MT,"SMILEY, RICHARD",Republican,0,,,,Bozeman conservative,0.88
-MT,Great Falls Tribune,125500,1968,H,2,,MT,"BATTIN, JAMES F.",Republican,1,1,,,Eastern district incumbent,0.95
-MT,Great Falls Tribune,125500,1968,H,2,,MT,"KELLEHER, ROBERT L.",Democrat,0,,,,Battin challenger,0.85
-MT,Great Falls Tribune,125500,1968,LT GOVERNOR,,,MT,"JUDGE, TOM",Democrat,1,,,,An Easy Choice - voting record analysis,0.95
-MT,Great Falls Tribune,125500,1968,LT GOVERNOR,,,MT,"SELSTAD, TOM",Republican,0,,,,Senator No nickname,0.92
-MT,Great Falls Tribune,125500,1968,PRESIDENT,,,MT,"HUMPHREY, HUBERT H.",Democrat,1,,,,We favor Humphrey - compassion Muskie VP,0.96
-MT,Great Falls Tribune,125500,1968,PRESIDENT,,,MT,"NIXON, RICHARD M.",Republican,0,,,,Not endorsed - emotional arms race,0.95
-MT,Great Falls Tribune,125500,1968,PRESIDENT,,,MT,"WALLACE, GEORGE",American Independent,0,,,,Considered racist and demagogue,0.97
-MT,Great Falls Tribune,125500,1968,PUBLIC SERVICE COMMISSION,,,MT,"ANDERSON, HENRY H.",Democrat,0,,,,State Treasurer running for PSC,0.90
-MT,Great Falls Tribune,125500,1968,PUBLIC SERVICE COMMISSION,,,MT,"STEEL, ERNEST C.",Republican,1,1,,,6-year MT RR/PSC term,0.96
-MT,Great Falls Tribune,125500,1968,SEC OF STATE,,,MT,"GUFFEY, ELIZABETH B.",Republican,0,,,,Challenger to Murray,0.85
-MT,Great Falls Tribune,125500,1968,SEC OF STATE,,,MT,"MURRAY, FRANK",Democrat,1,1,,,Sec of State since 1957,0.97
-MT,Great Falls Tribune,125500,1968,TREASURER,,,MT,"CANNON, PAUL",Democrat,0,,,,Former Lt Gov,0.92
-MT,Great Falls Tribune,125500,1968,TREASURER,,,MT,"STEPHENSON, ALEX B.",Republican,1,,,,Former MT Highway Patrol supervisor,0.96
-MT,Great Falls Tribune,125500,1970,ASSESSOR,,Cascade County,MT,"SELTZER, CARL",Republican,1,1,,,County Assessor re-elect,0.96
+MT,Great Falls Tribune,125500,1966,SUPREME COURT,,Montana Supreme Court,MT,"HARRISON, JOHN C.",Nonpartisan,1,,,1,Endorse Harrison for re-election; written 100+ opinions in 6 years,0.96
+MT,Great Falls Tribune,125500,1968,ATTORNEY GENERAL,,Montana,MT,"DALY, GENE B.",Democrat,1,,,,Cascade County Attorney 10 years,0.96
+MT,Great Falls Tribune,125500,1968,ATTORNEY GENERAL,,Montana,MT,"WOODAHL, ROBERT L.",Republican,0,,,,Teton County Attorney,0.92
+MT,Great Falls Tribune,125500,1968,AUDITOR,,Montana,MT,"OMHOLT, E. V. (SONNY)",Republican,1,,1,,State auditor since 1962 unopposed,0.97
+MT,Great Falls Tribune,125500,1968,GOVERNOR,,Montana,MT,"ANDERSON, FORREST",Democrat,1,,,,We lean to Forrest Anderson - AG running for Gov,0.93
+MT,Great Falls Tribune,125500,1968,GOVERNOR,,Montana,MT,"BABCOCK, TIM",Republican,0,,1,,7-year incumbent criticized | V1 Pattern K fix: R candidate d_inc → r_inc.,0.93
+MT,Great Falls Tribune,125500,1968,GOVERNOR,,Montana,MT,"MONTGOMERY, WAYNE",New Reform,0,,,,Not serious contender,0.85
+MT,Great Falls Tribune,125500,1968,H,1,U.S. House Montana 1,MT,"OLSEN, ARNOLD",Democrat,1,1,,,A Nod to Olsen - 5th term,0.95
+MT,Great Falls Tribune,125500,1968,H,1,U.S. House Montana 1,MT,"SMILEY, RICHARD",Republican,0,,,,Bozeman conservative,0.88
+MT,Great Falls Tribune,125500,1968,H,2,U.S. House Montana 2,MT,"BATTIN, JAMES F.",Republican,1,,1,,Eastern district incumbent | V1 Pattern K fix: R candidate d_inc → r_inc.,0.95
+MT,Great Falls Tribune,125500,1968,H,2,U.S. House Montana 2,MT,"KELLEHER, ROBERT L.",Democrat,0,,,,Battin challenger,0.85
+MT,Great Falls Tribune,125500,1968,LT GOVERNOR,,Montana,MT,"JUDGE, TOM",Democrat,1,,,,An Easy Choice - voting record analysis,0.95
+MT,Great Falls Tribune,125500,1968,LT GOVERNOR,,Montana,MT,"SELSTAD, TOM",Republican,0,,,,Senator No nickname,0.92
+MT,Great Falls Tribune,125500,1968,PRESIDENT,,United States,MT,"HUMPHREY, HUBERT H.",Democrat,1,,,,We favor Humphrey - compassion Muskie VP,0.96
+MT,Great Falls Tribune,125500,1968,PRESIDENT,,United States,MT,"NIXON, RICHARD M.",Republican,0,,,,Not endorsed - emotional arms race,0.95
+MT,Great Falls Tribune,125500,1968,PRESIDENT,,United States,MT,"WALLACE, GEORGE",American Independent,0,,,,Considered racist and demagogue,0.97
+MT,Great Falls Tribune,125500,1968,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"ANDERSON, HENRY H.",Democrat,0,,,,State Treasurer running for PSC,0.90
+MT,Great Falls Tribune,125500,1968,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"STEEL, ERNEST C.",Republican,1,,1,,6-year MT RR/PSC term | V1 Pattern K fix: R candidate d_inc → r_inc.,0.96
+MT,Great Falls Tribune,125500,1968,SEC OF STATE,,Montana,MT,"GUFFEY, ELIZABETH B.",Republican,0,,,,Challenger to Murray,0.85
+MT,Great Falls Tribune,125500,1968,SEC OF STATE,,Montana,MT,"MURRAY, FRANK",Democrat,1,1,,,Sec of State since 1957,0.97
+MT,Great Falls Tribune,125500,1968,TREASURER,,Montana,MT,"CANNON, PAUL",Democrat,0,,,,Former Lt Gov,0.92
+MT,Great Falls Tribune,125500,1968,TREASURER,,Montana,MT,"STEPHENSON, ALEX B.",Republican,1,,,,Former MT Highway Patrol supervisor,0.96
+MT,Great Falls Tribune,125500,1970,ASSESSOR,,Cascade County,MT,"SELTZER, CARL",Republican,1,,1,,County Assessor re-elect | V1 Pattern K fix: R candidate d_inc → r_inc.,0.96
 MT,Great Falls Tribune,125500,1970,CNTY COMM,,Cascade County,MT,"SHUBAT, ED",Democrat,1,1,,,County Commissioner re-elect,0.96
 MT,Great Falls Tribune,125500,1970,DA/PROSECUTOR,,Cascade County,MT,"BOURDEAU, FRED",Democrat,1,1,,,County Attorney - appointed earlier this year,0.94
 MT,Great Falls Tribune,125500,1970,DA/PROSECUTOR,,Cascade County,MT,"NEILL, KENNETH",Republican,0,,,,Not endorsed,0.88
-MT,Great Falls Tribune,125500,1970,H,2,,MT,"MELCHER, JOHN",Democrat,1,1,,,"Eastern District - veterinarian, impressive record on agriculture",0.95
-MT,Great Falls Tribune,125500,1970,H,2,,MT,"REHBERG, JACK",Republican,0,,,,Not endorsed - based campaign on anti-Melcher,0.90
-MT,Great Falls Tribune,125500,1970,PUBLIC SERVICE COMMISSION,,,MT,"CANNON, PAUL",Democrat,0,,,,"73 years old, multiple unsuccessful bids",0.92
-MT,Great Falls Tribune,125500,1970,PUBLIC SERVICE COMMISSION,,,MT,"LANGLEY, ALFRED C.",Republican,1,,,,Endorses Langley for RR/PSC,0.95
-MT,Great Falls Tribune,125500,1970,SENATOR,,,MT,"MANSFIELD, MIKE",Democrat,1,1,,,We Endorse Mansfield - Majority Leader 10 years,0.98
-MT,Great Falls Tribune,125500,1970,STATE REP,,,MT,"FASBENDER, LARRY",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE REP,,,MT,"GUNDERSON, JACK",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE REP,,,MT,"HALL, JOHN C.",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE REP,,,MT,"NYQUIST, IRVING M.",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE REP,,,MT,"STRATTON, SCOTT B.",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE SENATOR,,,MT,"BERTSCHE, WILLIAM H.",,1,,,,Cascade County state senate re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE SENATOR,,,MT,"GILFEATHER, P. J.",,1,,,,Cascade County state senate re-elect,0.92
-MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 3,MT,"CASTLES, WESLEY",,1,1,,,Tend to favor Castles for experience,0.85
-MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 1,MT,"DALY, GENE",,1,1,,,Endorses Daly - former Cascade County Attorney,0.96
-MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 1,MT,"HOLT, HAROLD L.",,0,,,,Missoula attorney,0.88
+MT,Great Falls Tribune,125500,1970,H,2,U.S. House Montana 2,MT,"MELCHER, JOHN",Democrat,1,1,,,"Eastern District - veterinarian, impressive record on agriculture",0.95
+MT,Great Falls Tribune,125500,1970,H,2,U.S. House Montana 2,MT,"REHBERG, JACK",Republican,0,,,,Not endorsed - based campaign on anti-Melcher,0.90
+MT,Great Falls Tribune,125500,1970,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"CANNON, PAUL",Democrat,0,,,,"73 years old, multiple unsuccessful bids",0.92
+MT,Great Falls Tribune,125500,1970,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"LANGLEY, ALFRED C.",Republican,1,,,,Endorses Langley for RR/PSC,0.95
+MT,Great Falls Tribune,125500,1970,SENATOR,,Montana,MT,"MANSFIELD, MIKE",Democrat,1,1,,,We Endorse Mansfield - Majority Leader 10 years,0.98
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"FASBENDER, LARRY",,1,,,,Cascade County state House re-elect,0.92
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"GUNDERSON, JACK",,1,,,,Cascade County state House re-elect,0.92
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"HALL, JOHN C.",,1,,,,Cascade County state House re-elect,0.92
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"NYQUIST, IRVING M.",,1,,,,Cascade County state House re-elect,0.92
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"STRATTON, SCOTT B.",,1,,,,Cascade County state House re-elect,0.92
+MT,Great Falls Tribune,125500,1970,STATE SENATOR,,Montana Senate (district unknown),MT,"BERTSCHE, WILLIAM H.",,1,,,,Cascade County state senate re-elect,0.92
+MT,Great Falls Tribune,125500,1970,STATE SENATOR,,Montana Senate (district unknown),MT,"GILFEATHER, P. J.",,1,,,,Cascade County state senate re-elect,0.92
+MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 3,MT,"CASTLES, WESLEY",Nonpartisan,1,1,,,Tend to favor Castles for experience,0.85
+MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 1,MT,"DALY, GENE",Nonpartisan,1,1,,,Endorses Daly - former Cascade County Attorney,0.96
+MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 1,MT,"HOLT, HAROLD L.",Nonpartisan,0,,,,Missoula attorney,0.88
 MT,Great Falls Tribune,125500,1970,SURVEYOR,,Cascade County,MT,"BATISTA, ROBERT (BOB)",Democrat,0,,,,Asst county surveyor,0.88
 MT,Great Falls Tribune,125500,1970,SURVEYOR,,Cascade County,MT,"HANSON, ROBERT (BOB)",Republican,1,,,,County Surveyor - graduate engineer,0.94
-MT,Great Falls Tribune,125500,1972,ATTORNEY GENERAL,,,MT,"SHEEHY, JOHN C.",Democrat,1,,,,Sheehy probably more able and better candidate,0.85
-MT,Great Falls Tribune,125500,1972,ATTORNEY GENERAL,,,MT,"WOODAHL, ROBERT",Republican,0,1,,,Incumbent - courage but Sheehy more able,0.85
-MT,Great Falls Tribune,125500,1972,AUDITOR,,,MT,"OMHOLT, E. V. (SONNY)",Republican,1,1,,,Unopposed third term,0.95
-MT,Great Falls Tribune,125500,1972,GOVERNOR,,,MT,"JUDGE, TOM",Democrat,1,,,,For Governor-Tom Judge - knowledge of state government,0.96
-MT,Great Falls Tribune,125500,1972,GOVERNOR,,,MT,"SMITH, ED",Republican,0,,,,Little knowledge of government,0.92
-MT,Great Falls Tribune,125500,1972,H,1,,MT,"OLSEN, ARNOLD",Democrat,0,,,,Five undistinguished terms,0.88
-MT,Great Falls Tribune,125500,1972,H,1,,MT,"SHOUP, RICHARD",Republican,1,1,,,Western district - by default over Olsen,0.90
-MT,Great Falls Tribune,125500,1972,H,2,,MT,"MELCHER, JOHN",Democrat,1,1,,,Eastern district - re-elect for 3rd term,0.96
-MT,Great Falls Tribune,125500,1972,PRESIDENT,,,MT,"NIXON, RICHARD M.",Republican,1,,1,,"For President - Nixon merits re-election (Vietnam wind-down, SALT, China)",0.97
-MT,Great Falls Tribune,125500,1972,SENATOR,,,MT,"HIBBARD, HENRY (HANK)",Republican,0,,,,Strongest GOP candidate since 1954 but disappointed by his campaign distortions,0.93
-MT,Great Falls Tribune,125500,1972,SENATOR,,,MT,"METCALF, LEE",Democrat,1,1,,,The choice has to be Metcalf,0.97
-MT,Great Falls Tribune,125500,1972,SUPREME COURT,,,MT,"HARRISON, JOHN C.",,1,1,,,Unopposed third term Justice,0.95
-MT,Great Falls Tribune,125500,1972,TREASURER,,,MT,"CONNORS, HOLLIS G. (MRS.)",Republican,1,,,,Connors as attorney has more qualifications; Tribune wants office abolished,0.85
-MT,Great Falls Tribune,125500,1976,ATTORNEY GENERAL,,,MT,"HARRISON, MIKE",,1,,,,Attorney general: Harrison,0.93
-MT,Great Falls Tribune,125500,1976,AUDITOR,,,MT,"OMHOLT, E. V. (SONNY)",Republican,1,1,,,Recap - State Auditor,0.93
-MT,Great Falls Tribune,125500,1976,GOVERNOR,,,MT,"JUDGE, TOM",Democrat,1,1,,,For Governor: Judge re-elect,0.96
-MT,Great Falls Tribune,125500,1976,H,1,,MT,"BAUCUS, MAX",Democrat,1,,,,Recap - 1st Cong District,0.95
-MT,Great Falls Tribune,125500,1976,H,2,,MT,"MARLENEE, RON",Republican,1,,,,Recap - 2nd Cong District,0.95
-MT,Great Falls Tribune,125500,1976,PRESIDENT,,,MT,"FORD, GERALD",Republican,1,1,,,Recap - For President Ford & Dole,0.97
-MT,Great Falls Tribune,125500,1976,SEC OF STATE,,,MT,"MURRAY, FRANK",Democrat,1,1,,,Recap - Sec of State Murray,0.93
-MT,Great Falls Tribune,125500,1976,SENATOR,,,MT,"BURGER, STAN",Republican,1,,,,Recap - US Senate,0.93
-MT,Great Falls Tribune,125500,1976,SUPERINTENDENT,,,MT,"DEENEY, ED",,1,,,,Recap - SPI,0.90
-MT,Great Falls Tribune,125500,1976,SUPREME COURT,,Chief Justice,MT,"HATFIELD, FRANK",,1,,,,Recap - Chief Justice,0.93
-MT,Great Falls Tribune,125500,1976,SUPREME COURT,,Justice No. 3,MT,"LYNCH, ?",,1,,,,Recap - Justice No. 3,0.85
-MT,Great Falls Tribune,125500,1976,VICE PRESIDENT,,,MT,"DOLE, BOB",Republican,1,,,,Recap - VP Dole,0.97
-MT,Great Falls Tribune,125500,1980,GOVERNOR,,,MT,"SCHWINDEN, TED",Democrat,1,,,,Governor,0.97
-MT,Great Falls Tribune,125500,1980,H,1,,MT,"WILLIAMS, PAT",Democrat,1,1,,,Western District,0.96
-MT,Great Falls Tribune,125500,1980,H,2,,MT,"MARLENEE, RON",Republican,1,1,,,Eastern District,0.96
-MT,Great Falls Tribune,125500,1980,LT GOVERNOR,,,MT,"TURMAN, GEORGE",Democrat,1,,,,Lt Governor,0.97
-MT,Great Falls Tribune,125500,1980,PRESIDENT,,,MT,"REAGAN, RONALD",Republican,1,,,,Tribune recommendations recap,0.97
-MT,Great Falls Tribune,125500,1980,PUBLIC SERVICE COMMISSION,,,MT,"DRISCOLL, JOHN",,1,,,,PSC,0.93
-MT,Great Falls Tribune,125500,1980,PUBLIC SERVICE COMMISSION,,,MT,"ELLIS, HOWARD",,1,,,,PSC,0.93
-MT,Great Falls Tribune,125500,1980,PUBLIC SERVICE COMMISSION,,,MT,"SCHNEIDER, TOM",,1,,,,PSC,0.93
-MT,Great Falls Tribune,125500,1980,SEC OF STATE,,,MT,"LYNCH, J.D.",Democrat,1,,,,Sec of State,0.95
-MT,Great Falls Tribune,125500,1980,SUPERINTENDENT,,,MT,"ARGENBRIGHT, ED",,1,,,,SPI,0.93
-MT,Great Falls Tribune,125500,1980,SUPREME COURT,,Chief Justice,MT,"HASWELL, FRANK I.",,1,,,,Sup Ct Justice,0.93
-MT,Great Falls Tribune,125500,1980,SUPREME COURT,,,MT,"MORRISON, FRANK",,1,,,,Sup Ct Justice,0.93
-MT,Great Falls Tribune,125500,1980,SUPREME COURT,,,MT,"SHEEHY, JOHN C.",,1,,,,Sup Ct Justice,0.93
-MT,Great Falls Tribune,125500,1980,SUPREME COURT,,,MT,"WEBER, FRED",,1,,,,Sup Ct Justice,0.93
-MT,Great Falls Tribune,125500,1980,VICE PRESIDENT,,,MT,"BUSH, GEORGE",Republican,1,,,,Recap,0.97
-MT,Great Falls Tribune,125500,1984,PRESIDENT,,,MT,"MONDALE, WALTER",Democrat,0,,,,Honorable but lacks innovative challenges,0.95
-MT,Great Falls Tribune,125500,1984,PRESIDENT,,,MT,"REAGAN, RONALD",Republican,1,1,,,Reagan re-election - controlled inflation and turned economy around,0.97
-MT,Great Falls Tribune,125500,1986,H,1,,MT,"ALLEN, DON",Republican,0,,,,Western district challenger,0.88
-MT,Great Falls Tribune,125500,1986,H,1,,MT,"WILLIAMS, PAT",Democrat,1,1,,,Editorial board voted 2-1 to support Williams,0.93
-MT,Great Falls Tribune,125500,1986,H,2,,MT,"MARLENEE, RON",Republican,1,1,,,Plays good game of hardball politics,0.93
-MT,Great Falls Tribune,125500,1986,H,2,,MT,"O'BRIEN, BUCK",Democrat,0,,,,Eastern district challenger,0.88
-MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,,MT,"HARRISON, ?",,1,,,,Prefer Harrison over unproven opponent,0.85
-MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,,MT,"JARVIS, CLYDE",Democrat,1,1,,,PSC chairman - clear choice,0.96
-MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,,MT,"OBERG, ?",,0,,,,Facing quality race,0.80
+MT,Great Falls Tribune,125500,1972,ATTORNEY GENERAL,,Montana,MT,"SHEEHY, JOHN C.",Democrat,1,,,,Sheehy probably more able and better candidate,0.85
+MT,Great Falls Tribune,125500,1972,ATTORNEY GENERAL,,Montana,MT,"WOODAHL, ROBERT",Republican,0,,1,,Incumbent - courage but Sheehy more able | V1 Pattern K fix: R candidate d_inc → r_inc.,0.85
+MT,Great Falls Tribune,125500,1972,AUDITOR,,Montana,MT,"OMHOLT, E. V. (SONNY)",Republican,1,,1,,Unopposed third term | V1 Pattern K fix: R candidate d_inc → r_inc.,0.95
+MT,Great Falls Tribune,125500,1972,GOVERNOR,,Montana,MT,"JUDGE, TOM",Democrat,1,,,,For Governor-Tom Judge - knowledge of state government,0.96
+MT,Great Falls Tribune,125500,1972,GOVERNOR,,Montana,MT,"SMITH, ED",Republican,0,,,,Little knowledge of government,0.92
+MT,Great Falls Tribune,125500,1972,H,1,U.S. House Montana 1,MT,"OLSEN, ARNOLD",Democrat,0,,,,Five undistinguished terms,0.88
+MT,Great Falls Tribune,125500,1972,H,1,U.S. House Montana 1,MT,"SHOUP, RICHARD",Republican,1,,1,,Western district - by default over Olsen | V1 Pattern K fix: R candidate d_inc → r_inc.,0.90
+MT,Great Falls Tribune,125500,1972,H,2,U.S. House Montana 2,MT,"MELCHER, JOHN",Democrat,1,1,,,Eastern district - re-elect for 3rd term,0.96
+MT,Great Falls Tribune,125500,1972,PRESIDENT,,United States,MT,"NIXON, RICHARD M.",Republican,1,,1,,"For President - Nixon merits re-election (Vietnam wind-down, SALT, China)",0.97
+MT,Great Falls Tribune,125500,1972,SENATOR,,Montana,MT,"HIBBARD, HENRY (HANK)",Republican,0,,,,Strongest GOP candidate since 1954 but disappointed by his campaign distortions,0.93
+MT,Great Falls Tribune,125500,1972,SENATOR,,Montana,MT,"METCALF, LEE",Democrat,1,1,,,The choice has to be Metcalf,0.97
+MT,Great Falls Tribune,125500,1972,SUPREME COURT,,Montana Supreme Court,MT,"HARRISON, JOHN C.",Nonpartisan,1,1,,,Unopposed third term Justice,0.95
+MT,Great Falls Tribune,125500,1972,TREASURER,,Montana,MT,"CONNORS, HOLLIS G. (MRS.)",Republican,1,,,,Connors as attorney has more qualifications; Tribune wants office abolished,0.85
+MT,Great Falls Tribune,125500,1976,ATTORNEY GENERAL,,Montana,MT,"HARRISON, MIKE",,1,,,,Attorney general: Harrison,0.93
+MT,Great Falls Tribune,125500,1976,AUDITOR,,Montana,MT,"OMHOLT, E. V. (SONNY)",Republican,1,,1,,Recap - State Auditor | V1 Pattern K fix: R candidate d_inc → r_inc.,0.93
+MT,Great Falls Tribune,125500,1976,GOVERNOR,,Montana,MT,"JUDGE, TOM",Democrat,1,1,,,For Governor: Judge re-elect,0.96
+MT,Great Falls Tribune,125500,1976,H,1,U.S. House Montana 1,MT,"BAUCUS, MAX",Democrat,1,,,,Recap - 1st Cong District,0.95
+MT,Great Falls Tribune,125500,1976,H,2,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,,,Recap - 2nd Cong District,0.95
+MT,Great Falls Tribune,125500,1976,PRESIDENT,,United States,MT,"FORD, GERALD",Republican,1,,1,,Recap - For President Ford & Dole | V1 Pattern K fix: R candidate d_inc → r_inc.,0.97
+MT,Great Falls Tribune,125500,1976,SEC OF STATE,,Montana,MT,"MURRAY, FRANK",Democrat,1,1,,,Recap - Sec of State Murray,0.93
+MT,Great Falls Tribune,125500,1976,SENATOR,,Montana,MT,"BURGER, STAN",Republican,1,,,,Recap - US Senate,0.93
+MT,Great Falls Tribune,125500,1976,SUPERINTENDENT,,Montana,MT,"DEENEY, ED",,1,,,,Recap - SPI,0.90
+MT,Great Falls Tribune,125500,1976,SUPREME COURT,,Chief Justice,MT,"HATFIELD, FRANK",Nonpartisan,1,,,,Recap - Chief Justice,0.93
+MT,Great Falls Tribune,125500,1976,SUPREME COURT,,Justice No. 3,MT,"LYNCH, ?",Nonpartisan,1,,,,Recap - Justice No. 3,0.85
+MT,Great Falls Tribune,125500,1976,VICE PRESIDENT,,United States,MT,"DOLE, BOB",Republican,1,,,,Recap - VP Dole,0.97
+MT,Great Falls Tribune,125500,1980,GOVERNOR,,Montana,MT,"SCHWINDEN, TED",Democrat,1,,,,Governor,0.97
+MT,Great Falls Tribune,125500,1980,H,1,U.S. House Montana 1,MT,"WILLIAMS, PAT",Democrat,1,1,,,Western District,0.96
+MT,Great Falls Tribune,125500,1980,H,2,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,1,,Eastern District | V1 Pattern K fix: R candidate d_inc → r_inc.,0.96
+MT,Great Falls Tribune,125500,1980,LT GOVERNOR,,Montana,MT,"TURMAN, GEORGE",Democrat,1,,,,Lt Governor,0.97
+MT,Great Falls Tribune,125500,1980,PRESIDENT,,United States,MT,"REAGAN, RONALD",Republican,1,,,,Tribune recommendations recap,0.97
+MT,Great Falls Tribune,125500,1980,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"DRISCOLL, JOHN",,1,,,,PSC,0.93
+MT,Great Falls Tribune,125500,1980,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"ELLIS, HOWARD",,1,,,,PSC,0.93
+MT,Great Falls Tribune,125500,1980,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"SCHNEIDER, TOM",,1,,,,PSC,0.93
+MT,Great Falls Tribune,125500,1980,SEC OF STATE,,Montana,MT,"LYNCH, J.D.",Democrat,1,,,,Sec of State,0.95
+MT,Great Falls Tribune,125500,1980,SUPERINTENDENT,,Montana,MT,"ARGENBRIGHT, ED",,1,,,,SPI,0.93
+MT,Great Falls Tribune,125500,1980,SUPREME COURT,,Chief Justice,MT,"HASWELL, FRANK I.",Nonpartisan,1,,,,Sup Ct Justice,0.93
+MT,Great Falls Tribune,125500,1980,SUPREME COURT,,Montana Supreme Court,MT,"MORRISON, FRANK",Nonpartisan,1,,,,Sup Ct Justice,0.93
+MT,Great Falls Tribune,125500,1980,SUPREME COURT,,Montana Supreme Court,MT,"SHEEHY, JOHN C.",Democrat,1,,,,Sup Ct Justice | V1 cross-year party fill.,0.93
+MT,Great Falls Tribune,125500,1980,SUPREME COURT,,Montana Supreme Court,MT,"WEBER, FRED",Nonpartisan,1,,,,Sup Ct Justice,0.93
+MT,Great Falls Tribune,125500,1980,VICE PRESIDENT,,United States,MT,"BUSH, GEORGE",Republican,1,,,,Recap,0.97
+MT,Great Falls Tribune,125500,1984,PRESIDENT,,United States,MT,"MONDALE, WALTER",Democrat,0,,,,Honorable but lacks innovative challenges,0.95
+MT,Great Falls Tribune,125500,1984,PRESIDENT,,United States,MT,"REAGAN, RONALD",Republican,1,,1,,Reagan re-election - controlled inflation and turned economy around | V1 Pattern K fix: R candidate d_inc → r_inc.,0.97
+MT,Great Falls Tribune,125500,1986,H,1,U.S. House Montana 1,MT,"ALLEN, DON",Republican,0,,,,Western district challenger,0.88
+MT,Great Falls Tribune,125500,1986,H,1,U.S. House Montana 1,MT,"WILLIAMS, PAT",Democrat,1,1,,,Editorial board voted 2-1 to support Williams,0.93
+MT,Great Falls Tribune,125500,1986,H,2,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,1,,Plays good game of hardball politics | V1 Pattern K fix: R candidate d_inc → r_inc.,0.93
+MT,Great Falls Tribune,125500,1986,H,2,U.S. House Montana 2,MT,"O'BRIEN, BUCK",Democrat,0,,,,Eastern district challenger,0.88
+MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"HARRISON, ?",,1,,,,Prefer Harrison over unproven opponent,0.85
+MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"JARVIS, CLYDE",Democrat,1,1,,,PSC chairman - clear choice,0.96
+MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"OBERG, ?",,0,,,,Facing quality race,0.80
 MT,Great Falls Tribune,125500,1986,SHERIFF,,Cascade County,MT,"MATSKO, JOHN",Republican,0,,,,Underdog,0.85
 MT,Great Falls Tribune,125500,1986,SHERIFF,,Cascade County,MT,"MICHELOTTI, BARRY",Democrat,1,,,,Has the ability to change sheriff system,0.93
-MT,Great Falls Tribune,125500,1986,STATE REP,34,,MT,"FAUTH, ELMER",Democrat,0,,,,No workable plan,0.90
-MT,Great Falls Tribune,125500,1986,STATE REP,34,,MT,"MILLER, RON",Republican,1,1,,,"Clear choice - thoughtful, moderate, hard-working",0.95
-MT,Great Falls Tribune,125500,1986,STATE REP,37,,MT,"BULGER, TOM",Democrat,1,,,,We endorse Bulger - featured race,0.96
-MT,Great Falls Tribune,125500,1986,STATE REP,37,,MT,"MOORE, ?",Republican,0,,,,Critic of state spending,0.85
-MT,Great Falls Tribune,125500,1986,STATE REP,41,,MT,"NEILL, CHARLOTTE M.",Republican,1,,,,Neill has edge in tight race,0.93
-MT,Great Falls Tribune,125500,1986,STATE REP,41,,MT,"STRIZICH, ?",Democrat,0,,,,Strizich opponent,0.85
-MT,Great Falls Tribune,125500,1986,STATE SENATOR,17,,MT,"CHRISTIAENS, B. F. (CHRIS)",Democrat,1,1,,,"Strong record in 1983, 1985, 1986 legislative sessions",0.96
-MT,Great Falls Tribune,125500,1986,STATE SENATOR,17,,MT,"MEYER, DARRYL",Republican,0,,,,No flaws but Christiaens earned another term,0.90
+MT,Great Falls Tribune,125500,1986,STATE REP,34,Montana House District 34,MT,"FAUTH, ELMER",Democrat,0,,,,No workable plan,0.90
+MT,Great Falls Tribune,125500,1986,STATE REP,34,Montana House District 34,MT,"MILLER, RON",Republican,1,,1,,"Clear choice - thoughtful, moderate, hard-working | V1 Pattern K fix: R candidate d_inc → r_inc.",0.95
+MT,Great Falls Tribune,125500,1986,STATE REP,37,Montana House District 37,MT,"BULGER, TOM",Democrat,1,,,,We endorse Bulger - featured race,0.96
+MT,Great Falls Tribune,125500,1986,STATE REP,37,Montana House District 37,MT,"MOORE, ?",Republican,0,,,,Critic of state spending,0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,41,Montana House District 41,MT,"NEILL, CHARLOTTE M.",Republican,1,,,,Neill has edge in tight race,0.93
+MT,Great Falls Tribune,125500,1986,STATE REP,41,Montana House District 41,MT,"STRIZICH, ?",Democrat,0,,,,Strizich opponent,0.85
+MT,Great Falls Tribune,125500,1986,STATE SENATOR,17,Montana Senate District 17,MT,"CHRISTIAENS, B. F. (CHRIS)",Democrat,1,1,,,"Strong record in 1983, 1985, 1986 legislative sessions",0.96
+MT,Great Falls Tribune,125500,1986,STATE SENATOR,17,Montana Senate District 17,MT,"MEYER, DARRYL",Republican,0,,,,No flaws but Christiaens earned another term,0.90
 MT,Great Falls Tribune,125500,1986,SUPERINTENDENT,,Cascade County Schools,MT,"IKEDA, TSUGIO (TUG)",Democrat,0,,,,Retired GF school district educator,0.85
 MT,Great Falls Tribune,125500,1986,SUPERINTENDENT,,Cascade County Schools,MT,"KRANICK, JOHN",Republican,1,,,,Has prepared well for county school position,0.93
-MT,Great Falls Tribune,125500,1988,H,1,,MT,"FENLASON, ?",Republican,0,,,,Neophyte not ready,0.85
-MT,Great Falls Tribune,125500,1988,H,1,,MT,"WILLIAMS, PAT",Democrat,1,1,,,Solid in western district,0.93
-MT,Great Falls Tribune,125500,1988,H,2,,MT,"MARLENEE, RON",Republican,1,,1,,Earned another House term,0.93
-MT,Great Falls Tribune,125500,1988,H,2,,MT,"O'BRIEN, BUCK",Democrat,0,,,,Challenger again,0.88
-MT,Great Falls Tribune,125500,1988,PRESIDENT,,,MT,"BUSH, GEORGE",Republican,0,,,,Negative campaign concerns,0.93
-MT,Great Falls Tribune,125500,1988,PRESIDENT,,,MT,"DUKAKIS, MICHAEL",Democrat,1,,,,Tribune endorses Dukakis-Bentsen team,0.96
-MT,Great Falls Tribune,125500,1988,SENATOR,,,MT,"BURNS, CONRAD",Republican,0,,,,Mentioned as opponent,0.85
-MT,Great Falls Tribune,125500,1988,SENATOR,,,MT,"MELCHER, JOHN",Democrat,1,1,,,"Strong support - independence, farm credit reform",0.95
-MT,Great Falls Tribune,125500,1988,VICE PRESIDENT,,,MT,"BENTSEN, LLOYD",Democrat,1,,,,VP - legislative experience,0.96
-MT,Great Falls Tribune,125500,1988,VICE PRESIDENT,,,MT,"QUAYLE, DAN",Republican,0,,,,Not endorsed,0.93
-MT,Great Falls Tribune,125500,1990,STATE REP,33,,MT,"KRAUS, PAT",Democrat,0,,,,Challenger,0.85
-MT,Great Falls Tribune,125500,1990,STATE REP,33,,MT,"PHILLIPS, JOHN",Republican,1,,1,,Wins nod over Pat Kraus,0.93
-MT,Great Falls Tribune,125500,1992,ATTORNEY GENERAL,,,MT,"MAZUREK, JOE",Democrat,1,,,,Senate president - good legal background,0.93
-MT,Great Falls Tribune,125500,1992,AUDITOR,,,MT,"THOMAS, FRED",,1,,,,Consumer advocate,0.90
+MT,Great Falls Tribune,125500,1988,H,1,U.S. House Montana 1,MT,"FENLASON, ?",Republican,0,,,,Neophyte not ready,0.85
+MT,Great Falls Tribune,125500,1988,H,1,U.S. House Montana 1,MT,"WILLIAMS, PAT",Democrat,1,1,,,Solid in western district,0.93
+MT,Great Falls Tribune,125500,1988,H,2,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,1,,Earned another House term,0.93
+MT,Great Falls Tribune,125500,1988,H,2,U.S. House Montana 2,MT,"O'BRIEN, BUCK",Democrat,0,,,,Challenger again,0.88
+MT,Great Falls Tribune,125500,1988,PRESIDENT,,United States,MT,"BUSH, GEORGE",Republican,0,,,,Negative campaign concerns,0.93
+MT,Great Falls Tribune,125500,1988,PRESIDENT,,United States,MT,"DUKAKIS, MICHAEL",Democrat,1,,,,Tribune endorses Dukakis-Bentsen team,0.96
+MT,Great Falls Tribune,125500,1988,SENATOR,,Montana,MT,"BURNS, CONRAD",Republican,0,,,,Mentioned as opponent,0.85
+MT,Great Falls Tribune,125500,1988,SENATOR,,Montana,MT,"MELCHER, JOHN",Democrat,1,1,,,"Strong support - independence, farm credit reform",0.95
+MT,Great Falls Tribune,125500,1988,VICE PRESIDENT,,United States,MT,"BENTSEN, LLOYD",Democrat,1,,,,VP - legislative experience,0.96
+MT,Great Falls Tribune,125500,1988,VICE PRESIDENT,,United States,MT,"QUAYLE, DAN",Republican,0,,,,Not endorsed,0.93
+MT,Great Falls Tribune,125500,1990,STATE REP,33,Montana House District 33,MT,"KRAUS, PAT",Democrat,0,,,,Challenger,0.85
+MT,Great Falls Tribune,125500,1990,STATE REP,33,Montana House District 33,MT,"PHILLIPS, JOHN",Republican,1,,1,,Wins nod over Pat Kraus,0.93
+MT,Great Falls Tribune,125500,1992,ATTORNEY GENERAL,,Montana,MT,"MAZUREK, JOE",Democrat,1,,,,Senate president - good legal background,0.93
+MT,Great Falls Tribune,125500,1992,AUDITOR,,Montana,MT,"THOMAS, FRED",,1,,,,Consumer advocate,0.90
 MT,Great Falls Tribune,125500,1992,CNTY COMM,,Cascade County,MT,"ASTFELDT, ?",Republican,1,,1,,Businessman driven,0.85
-MT,Great Falls Tribune,125500,1992,GOVERNOR,,,MT,"BRADLEY, DOROTHY",Democrat,1,,,,Recap - stands honestly and candidly,0.95
-MT,Great Falls Tribune,125500,1992,H,2,,MT,"MARLENEE, RON",Republican,1,,1,,Reluctant choice,0.90
-MT,Great Falls Tribune,125500,1992,SUPREME COURT,,,MT,"GRAY, ?",,1,,,,Justice - good background,0.85
-MT,Great Falls Tribune,125500,1992,SUPREME COURT,,,MT,"TURNAGE, JEAN",,1,,,,Chief Justice - decent and honorable,0.92
-MT,Great Falls Tribune,125500,1994,H,,,MT,"JAMISON, CY",Republican,1,,,,Recap - US House,0.95
+MT,Great Falls Tribune,125500,1992,GOVERNOR,,Montana,MT,"BRADLEY, DOROTHY",Democrat,1,,,,Recap - stands honestly and candidly,0.95
+MT,Great Falls Tribune,125500,1992,H,2,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,1,,Reluctant choice,0.90
+MT,Great Falls Tribune,125500,1992,SUPREME COURT,,Montana Supreme Court,MT,"GRAY, ?",Nonpartisan,1,,,,Justice - good background,0.85
+MT,Great Falls Tribune,125500,1992,SUPREME COURT,,Montana Supreme Court,MT,"TURNAGE, JEAN",Nonpartisan,1,,,,Chief Justice - decent and honorable,0.92
+MT,Great Falls Tribune,125500,1994,H,,U.S. House Montana (at-large/district unknown),MT,"JAMISON, CY",Republican,1,,,,Recap - US House,0.95
 MT,Great Falls Tribune,125500,1994,JUDGE,1,District Court,MT,"KITTRICK, ?",,1,,,,District Judge 1,0.85
 MT,Great Falls Tribune,125500,1994,JUDGE,2,District Court,MT,"JOHNSON, MARGE",,1,,,,District Judge 2,0.88
-MT,Great Falls Tribune,125500,1994,JUSTICE OF PEACE,1,,MT,"VANCE, GLADYS",,1,,,,Justice of the Peace 1,0.85
-MT,Great Falls Tribune,125500,1994,JUSTICE OF PEACE,2,,MT,"MILLER, BILLY",,1,,,,Justice of the Peace 2,0.85
-MT,Great Falls Tribune,125500,1994,PUBLIC SERVICE COMMISSION,,,MT,"ANDERSON, BOB",Democrat,1,,,,Recap - PSC,0.93
-MT,Great Falls Tribune,125500,1994,SENATOR,,,MT,"MUDD, JACK",Democrat,1,,,,Recap - US Senate,0.95
-MT,Great Falls Tribune,125500,1994,STATE REP,44,,MT,"RYAN, BILL",Democrat,1,,,,Inadvertently omitted - House 44,0.93
-MT,Great Falls Tribune,125500,1994,STATE REP,45,,MT,"KOTTEL, DEB",Democrat,1,,,,House 45,0.93
-MT,Great Falls Tribune,125500,1994,STATE REP,47,,MT,"TROPILA, JOE",Democrat,1,,,,House 47,0.93
-MT,Great Falls Tribune,125500,1994,STATE REP,48,,MT,"GALVIN, PAT",Democrat,1,,,,House 48,0.93
-MT,Great Falls Tribune,125500,1994,STATE SENATOR,,,MT,"PARKER, MIKE",Republican,1,,,,Senate District (recap),0.85
-MT,Great Falls Tribune,125500,1994,STATE SENATOR,23,,MT,"CHRISTIAENS, CHRIS",Democrat,1,1,,,Senate District 23,0.93
-MT,Great Falls Tribune,125500,1998,H,,,MT,"DESCHAMPS, DUSTY",Democrat,0,,,,Longtime Missoula County attorney,0.85
-MT,Great Falls Tribune,125500,1998,H,,,MT,"HILL, RICK",Republican,1,,1,,Hill should usher Montana into 21st century,0.95
-MT,Great Falls Tribune,125500,2008,ATTORNEY GENERAL,,,MT,"BULLOCK, STEVE",Democrat,1,,,,We add ours to Steve Bullock,0.97
-MT,Great Falls Tribune,125500,2008,ATTORNEY GENERAL,,,MT,"FOX, TIM",Republican,0,,,,Not endorsed,0.92
-MT,Great Falls Tribune,125500,2008,GOVERNOR,,,MT,"BROWN, ROY",Republican,0,,,,"Calm articulate challenger, uphill battle",0.92
-MT,Great Falls Tribune,125500,2008,GOVERNOR,,,MT,"SCHWEITZER, BRIAN",Democrat,1,1,,,Should be re-elected,0.97
-MT,Great Falls Tribune,125500,2008,SEC OF STATE,,,MT,"JOHNSON, BRAD",Republican,1,,1,,No reason to give pink slip to Brad Johnson,0.93
-MT,Great Falls Tribune,125500,2008,SEC OF STATE,,,MT,"MCCULLOCH, LINDA",Democrat,0,,,,Current SPI seeking new role,0.88
-MT,Great Falls Tribune,125500,2008,SUPERINTENDENT,,,MT,"JUNEAU, DENISE",Democrat,1,,,,Recommend voting for Juneau - succeeds McCulloch,0.96
-MT,Great Falls Tribune,125500,2008,SUPREME COURT,,Chief Justice,MT,"MCGRATH, MIKE",,0,,,,Outgoing AG won June primary 79-21,0.88
-MT,Great Falls Tribune,125500,2008,SUPREME COURT,,Chief Justice,MT,"WATERMAN, RON",,1,,,,Endorsing Waterman - going on instincts,0.93
+MT,Great Falls Tribune,125500,1994,JUSTICE OF PEACE,1,Montana / Cascade County,MT,"VANCE, GLADYS",,1,,,,Justice of the Peace 1,0.85
+MT,Great Falls Tribune,125500,1994,JUSTICE OF PEACE,2,Montana / Cascade County,MT,"MILLER, BILLY",,1,,,,Justice of the Peace 2,0.85
+MT,Great Falls Tribune,125500,1994,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"ANDERSON, BOB",Democrat,1,,,,Recap - PSC,0.93
+MT,Great Falls Tribune,125500,1994,SENATOR,,Montana,MT,"MUDD, JACK",Democrat,1,,,,Recap - US Senate,0.95
+MT,Great Falls Tribune,125500,1994,STATE REP,44,Montana House District 44,MT,"RYAN, BILL",Democrat,1,,,,Inadvertently omitted - House 44,0.93
+MT,Great Falls Tribune,125500,1994,STATE REP,45,Montana House District 45,MT,"KOTTEL, DEB",Democrat,1,,,,House 45,0.93
+MT,Great Falls Tribune,125500,1994,STATE REP,47,Montana House District 47,MT,"TROPILA, JOE",Democrat,1,,,,House 47,0.93
+MT,Great Falls Tribune,125500,1994,STATE REP,48,Montana House District 48,MT,"GALVIN, PAT",Democrat,1,,,,House 48,0.93
+MT,Great Falls Tribune,125500,1994,STATE SENATOR,,Montana Senate (district unknown),MT,"PARKER, MIKE",Republican,1,,,,Senate District (recap),0.85
+MT,Great Falls Tribune,125500,1994,STATE SENATOR,23,Montana Senate District 23,MT,"CHRISTIAENS, CHRIS",Democrat,1,1,,,Senate District 23,0.93
+MT,Great Falls Tribune,125500,1998,H,,U.S. House Montana (at-large/district unknown),MT,"DESCHAMPS, DUSTY",Democrat,0,,,,Longtime Missoula County attorney,0.85
+MT,Great Falls Tribune,125500,1998,H,,U.S. House Montana (at-large/district unknown),MT,"HILL, RICK",Republican,1,,1,,Hill should usher Montana into 21st century,0.95
+MT,Great Falls Tribune,125500,2008,ATTORNEY GENERAL,,Montana,MT,"BULLOCK, STEVE",Democrat,1,,,,We add ours to Steve Bullock,0.97
+MT,Great Falls Tribune,125500,2008,ATTORNEY GENERAL,,Montana,MT,"FOX, TIM",Republican,0,,,,Not endorsed,0.92
+MT,Great Falls Tribune,125500,2008,GOVERNOR,,Montana,MT,"BROWN, ROY",Republican,0,,,,"Calm articulate challenger, uphill battle",0.92
+MT,Great Falls Tribune,125500,2008,GOVERNOR,,Montana,MT,"SCHWEITZER, BRIAN",Democrat,1,1,,,Should be re-elected,0.97
+MT,Great Falls Tribune,125500,2008,SEC OF STATE,,Montana,MT,"JOHNSON, BRAD",Republican,1,,1,,No reason to give pink slip to Brad Johnson,0.93
+MT,Great Falls Tribune,125500,2008,SEC OF STATE,,Montana,MT,"MCCULLOCH, LINDA",Democrat,0,,,,Current SPI seeking new role,0.88
+MT,Great Falls Tribune,125500,2008,SUPERINTENDENT,,Montana,MT,"JUNEAU, DENISE",Democrat,1,,,,Recommend voting for Juneau - succeeds McCulloch,0.96
+MT,Great Falls Tribune,125500,2008,SUPREME COURT,,Chief Justice,MT,"MCGRATH, MIKE",Nonpartisan,0,,,,Outgoing AG won June primary 79-21,0.88
+MT,Great Falls Tribune,125500,2008,SUPREME COURT,,Chief Justice,MT,"WATERMAN, RON",Nonpartisan,1,,,,Endorsing Waterman - going on instincts,0.93
 MT,Great Falls Tribune,125500,2010,CNTY COMM,,Cascade County,MT,"BRIGGS, JOE",Republican,1,,1,,One of the better commissioners - easiest endorsement,0.96
 MT,Great Falls Tribune,125500,2010,CNTY COMM,,Cascade County,MT,"WALKER, ?",Democrat,0,,,,Opponent,0.80
-MT,Great Falls Tribune,125500,2010,H,,,MT,"MCDONALD, DENNIS",Democrat,0,,,,Not endorsed,0.85
-MT,Great Falls Tribune,125500,2010,H,,,MT,"REHBERG, DENNY",Republican,1,,1,,Sixth term - earned endorsement all four previous re-elections,0.96
+MT,Great Falls Tribune,125500,2010,H,,U.S. House Montana (at-large/district unknown),MT,"MCDONALD, DENNIS",Democrat,0,,,,Not endorsed,0.85
+MT,Great Falls Tribune,125500,2010,H,,U.S. House Montana (at-large/district unknown),MT,"REHBERG, DENNY",Republican,1,,1,,Sixth term - earned endorsement all four previous re-elections,0.96
 MT,Great Falls Tribune,125500,2010,SHERIFF,,Cascade County,MT,"EDWARDS, BOB",Democrat,0,,,,Mr. Inside - 19 years,0.88
 MT,Great Falls Tribune,125500,2010,SHERIFF,,Cascade County,MT,"STINAR, GLEN",Republican,1,,,,Gets our nod in most-interesting sheriff race,0.93
-MT,Great Falls Tribune,125500,2010,SUPREME COURT,,,MT,"BAKER, BETH",,1,,,,Edge goes to Baker - second woman on present court,0.93
-MT,Great Falls Tribune,125500,2010,SUPREME COURT,,,MT,"SWANDAL, NELS",,0,,,,Both candidates good,0.88
+MT,Great Falls Tribune,125500,2010,SUPREME COURT,,Montana Supreme Court,MT,"BAKER, BETH",Nonpartisan,1,,,,Edge goes to Baker - second woman on present court,0.93
+MT,Great Falls Tribune,125500,2010,SUPREME COURT,,Montana Supreme Court,MT,"SWANDAL, NELS",Nonpartisan,0,,,,Both candidates good,0.88
+MT,Great Falls Tribune,125500,1952,PRESIDENT,,United States,MT,"EISENHOWER, DWIGHT D.",Republican,0,,,,Pattern A: R opp of GFT-endorsed Stevenson D 1952 PRES. Eisenhower R won.,0.90
+MT,Great Falls Tribune,125500,1954,SENATOR,,Montana,MT,"ECTON, ZALES",Republican,0,,,,Pattern A: R opp of GFT-endorsed Murray D inc 1954 SEN.,0.90
+MT,Great Falls Tribune,125500,1964,PRESIDENT,,United States,MT,"GOLDWATER, BARRY",Republican,0,,,,Pattern A: R opp of GFT-endorsed Johnson D inc 1964 PRES.,0.90
+MT,Great Falls Tribune,125500,1964,SENATOR,,Montana,MT,"BABCOCK, TIM",Republican,0,,,,Pattern A: R opp of GFT-endorsed Mansfield D inc 1964 SEN.,0.90
+MT,Great Falls Tribune,125500,1970,SENATOR,,Montana,MT,"WALLACE, HAROLD",Republican,0,,,,Pattern A: R opp of GFT-endorsed Mansfield D inc 1970 SEN.,0.90
+MT,Great Falls Tribune,125500,1976,PRESIDENT,,United States,MT,"CARTER, JIMMY",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Ford R inc 1976 PRES. Carter D won.,0.90
+MT,Great Falls Tribune,125500,1976,SENATOR,,Montana,MT,"MELCHER, JOHN",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Burger R 1976 SEN. Melcher D won.,0.90
+MT,Great Falls Tribune,125500,1980,GOVERNOR,,Montana,MT,"RAMIREZ, JACK",Republican,0,,,,Pattern A: R opp of GFT-endorsed Schwinden D 1980 GOV.,0.90
+MT,Great Falls Tribune,125500,1980,PRESIDENT,,United States,MT,"CARTER, JIMMY",Democrat,0,,,,Pattern A: D inc opp of GFT-endorsed Reagan R 1980 PRES.,0.90
+MT,Great Falls Tribune,125500,1992,GOVERNOR,,Montana,MT,"RACICOT, MARC",Republican,0,,,,Pattern A: R opp of GFT-endorsed Bradley D 1992 GOV. Racicot R won.,0.90
+MT,Great Falls Tribune,125500,1994,SENATOR,,Montana,MT,"BURNS, CONRAD",Republican,0,,1,,"Pattern A: R inc opp of GFT-endorsed Mudd D 1994 SEN. Burns R inc won. | V5: r_inc=1, Burns won SEN 1988.",0.90
+MT,Great Falls Tribune,125500,1976,ATTORNEY GENERAL,,Montana,MT,"GREELY, MICHAEL",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Harrison R 1976 AG.,0.85
+MT,Great Falls Tribune,125500,1980,SEC OF STATE,,Montana,MT,"LANE, J.D.",Republican,0,,,,Pattern A: R opp of GFT-endorsed Lynch D 1980 SoS.,0.85
+MT,Great Falls Tribune,125500,2008,SUPERINTENDENT,,Montana,MT,"HANSEN, ELAINE",Republican,0,,,,Pattern A: R opp of GFT-endorsed Juneau D 2008 SUPER.,0.85
+MT,Great Falls Tribune,125500,1976,H,1,U.S. House Montana 1,MT,"SHOUP, RICHARD",Republican,0,,,,Pattern A: R opp of GFT-endorsed Baucus D 1976 H-1.,0.82
+MT,Great Falls Tribune,125500,1976,H,2,U.S. House Montana 2,MT,"LIEN, KELLY",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Marlenee R 1976 H-2.,0.82
+MT,Great Falls Tribune,125500,1980,H,1,U.S. House Montana 1,MT,"SCHENDEL, RICHARD",Republican,0,,,,Pattern A: R opp of GFT-endorsed Williams D 1980 H-1.,0.82
+MT,Great Falls Tribune,125500,1980,H,2,U.S. House Montana 2,MT,"BLAYLOCK, JAMES",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Marlenee R 1980 H-2.,0.82
+MT,Great Falls Tribune,125500,1992,H,2,U.S. House Montana 2,MT,"HARTELIUS, ETHEL",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Marlenee R 1992 H-2.,0.82
+MT,Great Falls Tribune,125500,1994,H,,U.S. House Montana (at-large),MT,"PAVLOVICH, BILL",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Jamison R 1994 H.,0.82

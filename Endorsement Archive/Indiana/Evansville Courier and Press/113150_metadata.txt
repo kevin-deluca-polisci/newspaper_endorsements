@@ -1,12 +1,58 @@
-Newspaper: Evansville Courier and Press
+Newspaper Name: Evansville Courier and Press
 Newspaper ID: 113150
-State: IN
-Election years: 17 (1982-2016)
-Clippings: 22 files
-Candidate records: 337 (336 endorsed, 1 opposed, 0 no-direction)
-Proposition records: 20 (10 endorsed, 2 opposed, 8 no-direction)
-Cand conf: mean 0.931, min 0.75
-Prop conf: mean 0.888
-Last updated: 2026-04-30 (augmented from 'more evansville')
+State: IN (Evansville, Vanderburgh County, southwestern Indiana)
+Number of clippings: 22
 
-Years: 1982, 1984, 1986, 1988, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016
+Endorsement data years: 1982, 1984, 1986, 1988, 1992, 1994, 1996, 1998, 2000, 2002,
+2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018 (17 distinct years, 36-year span)
+
+--- ENDORSEMENT COUNTS (V6 FINAL) ---
+Total candidate records: 343 (318 endorsed, 24 opposed, 1 no recommendation)
+Total proposition records: 14 (8 AMENDMENT + 5 PROPOSITION + 1 REFERENDUM)
+
+--- CONFIDENCE SCORES (V6 FINAL) ---
+Min: 0.75
+Mean: 0.919
+Max: 0.95
+Records below 0.85: 1
+
+--- INCUMBENCY COVERAGE ---
+Records with inc flag: 70 (20%)
+Long-serving candidates tracked: Lugar R SEN (4 cycles 1982-2000), Avery D STATE REP 75
+(6 cycles 1982-2008), Becker R STATE REP/SEN (5 cycles), Bayh D SEN/GOV cross-office
+
+--- CROSS-PAPER VALIDATION ---
+ECP vs Evansville Courier (113151): 36 agreements, 0 disagreements
+ECP vs Evansville Press (113152): 18 agreements, 1 disagreement
+55 records boosted to 0.95 via sister-paper agreement (V2)
+
+--- AUDIT HISTORY ---
+V1 (2026-04-13): Initial extraction
+V2 (2026-06-15): Stage 1 + Federal Pattern A 1982-2016 + cross-paper EC/EP + 117 party fills
+V3 (2026-06-15): 2008 OCR + 5 records added + 17 cross-year inc fixes + RA_NEEDS
+V4 (2026-06-15): OCR 2000/2012/2018 + 4 dups removed + 6 OCR-based 2012 corrections
+V5 (2026-06-15): 9 years OCR sidebars + 18 V1 dups removed + props deep audit (-6 dups)
+V6 (2026-06-15): OCR 2010/2014 + 4 critical 2010 fixes (COATS e=1→e=0, 3 office recodes) +
+                 final inc audit + 200 spot checks + RA_NEEDS comprehensive update
+
+--- NOTES ---
+
+EDITORIAL IDENTITY (V6 confirmed via 12 years of OCR):
+ECP is the merged successor paper (Evansville Courier + Evansville Press, 1998+).
+- PRES: All R 1984-2004 (5 consecutive R picks); NO ENDORSEMENT 2008/2012
+- GOV: Mostly R but D exceptions (Bayh 92, O'Bannon 96/00, Gregg 16)
+- SEN: Mostly R (Lugar 4 cycles, Quayle, Helmke, Young) with D exceptions (Bayh 04, Ellsworth 10, Donnelly 12)
+- H-8: Cross-party flexibility (Deckard R, McCloskey D, Hostettler R, Ellsworth D, Buschon R)
+- ECP became more cautious about endorsements in modern era (2008/2012 PRES NO ENDORSEMENT pattern)
+
+V1-V6 CUMULATIVE DUPLICATE CLEANUP (29 records removed):
+- V2: 3 (initial Stage 1)
+- V4: 4 (2000 OCR cross-office dups)
+- V5: 18 (2002/2006 OCR cross-office dups + props)
+- V6: 4 (2010 office recodes + COATS direction fix)
+
+OCR VERIFICATION (12 years cumulative V3-V6):
+Full sidebar verified: 1982, 1988, 1992, 1996, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014
+
+Compiled: 2026-04-13
+V6 FINAL: 2026-06-15

@@ -6,14 +6,34 @@ State: CA (Escondido, San Diego County -- north county region)
 Number of clippings: 27
 Endorsement data years: 1950, 1960, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1994
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 235 (235 endorsed, 0 opposed)
-Total proposition records: 363 (248 YES, 115 NO)
+--- ENDORSEMENT COUNTS (V9 FINAL) ---
+Total candidate records: 286 (240 endorsed, 46 opposed)
+Total proposition records: 341 (228 YES, 113 NO)
+Proposition types: 281 PROPOSITION + 58 BOND + 2 REFERENDUM
 
---- CONFIDENCE SCORES ---
-Min: 0.60
-Mean: 0.90
+--- CONFIDENCE SCORES (V9 FINAL) ---
+Min: 0.70
+Mean: 0.902
 Max: 0.95
+
+Records below 0.85: 11 (10 V3/V5 H/STATE REP Pattern A speculative + 1 CLOYED 1950 OCR-confirmed)
+
+--- INCUMBENCY COVERAGE ---
+Records with inc flag: 66 (23%)
+
+--- AUDIT HISTORY ---
+V1 (2026-05-23): Initial extraction + spot-check (SCHMITZ→LENHART correction caught)
+V2 (2026-06-12): Federal + CA state Pattern A backfill + 303 prop_type recodes + dname sweep
+V3 (2026-06-12): Cross-paper CCT validation (8 agree/6 disagree) + 12 H/STATE REP Pattern A
+V4 (2026-06-15): 4 critical 1950 OCR corrections (CLOYED party, BROWN/SHATTUCK reversal,
+                 McKINNON/GEHRES reversal, GALLAGHER add) + LAT/SFC/SFE cross-paper
+V5 (2026-06-15): 22+ clippings OCR + SCHMITZ Pattern A + BERGESON office correction + VAN CAMP flag
+V6 (2026-06-15): Props deep audit (2 OCR direction fixes 1978 Prop 7 + 1982 Prop 8) +
+                 4 cross-year inc continuity fixes + 16 confidence boosts
+V7 (2026-06-15): All e=1 verified + FLICK 1984 JUDGE duplicate removed + completeness check
+V8 (2026-06-15): MAJOR — 22 props duplicates removed (1976 had 18 detailed/generic dups,
+                 1986 had 4 verbose/short-name dups) + 1982 Prop 13 flag + dname generalization
+V9 (2026-06-15): Final formal QA + metadata refresh + props prop_num historical accuracy
 
 --- NOTES ---
 Coverage: 1950, 1960, 1970-1994 (continuous biennial pattern with primary + general endorsements
@@ -37,9 +57,36 @@ Three clippings with ZERO endorsements found are legitimate (1972-05-24 was a Ch
 position piece, 1974-05-14 was also Chamber, 1981-10-25 + 1984-04-08 + 1988-10-30 were editor
 columns about endorsement methodology or letters-to-the-editor pages with no T-A picks).
 
-The Times-Advocate was a conservative-leaning North County daily that mostly endorsed
-Republicans at federal/state levels (Nixon, Ford, Reagan, Bush) but did endorse Democrats
-Cranston and Unruh in some years. North County SD has historically been one of California's
-more conservative areas.
+EDITORIAL IDENTITY (V8 CONFIRMED via deep OCR):
+The Times-Advocate was a R-leaning North County daily that reliably endorsed Republicans for
+federal office: Nixon (60, 72), Ford (76), Reagan (80, 84), Bush (88 — though "reluctantly"
+per editorial headline "Hard to back Bush after slimy campaign"). 1976/1982 SEN picks were
+Hayakawa R / Wilson R.
+
+But ETA was MORE pragmatic at state level, endorsing:
+- Brown D inc 1978 GOV (cross-party)
+- Dymally D 1978 LT GOV
+- Cranston D inc 1980 SEN (cross-party)
+- Van de Kamp D 1982 AG, Cory D 1982 COMPT, Unruh D 1982 TREAS, March Fong Eu D 1982 SoS
+- Feinstein D inc 1994 SEN (cross-party)
+- Tony Miller D 1994 SoS
+
+This mixed pattern (reliable R federal + selective D state) reflects North County SD's
+pragmatic conservative identity vs LA Times' more liberal pattern.
+
+CROSS-PAPER VALIDATION (V4-V5):
+- Contra Costa Times (folder 56): 8 agreements / 6 disagreements
+- Los Angeles Times: 12 agreements / 5 disagreements (LAT more D-leaning at state level)
+- San Francisco Chronicle: 21 agreements / 3 disagreements
+- San Francisco Examiner: 18 agreements / 4 disagreements
+
+Cumulative cross-paper validation: ~80 agreements, ~18 disagreements.
+
+KNOWN COLLECTION GAPS (documented in RA_NEEDS):
+- 1970 GOV (Reagan R inc won) and 1970 SEN (Tunney D beat Murphy R inc) not in data — 1970 clipping
+  focused on H 35 race + propositions only
+- 1986 GOV (Deukmejian R inc won) and 1986 SEN (Cranston D inc won) not in data — no 1986 general
+  clipping was collected, only 1986-05-27 + 1986-06-02 primary clippings
 
 Compiled: 2026-05-25
+V9 FINAL: 2026-06-15

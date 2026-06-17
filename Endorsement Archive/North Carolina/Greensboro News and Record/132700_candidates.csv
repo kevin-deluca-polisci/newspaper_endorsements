@@ -1,62 +1,62 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-NC,Greensboro News and Record,132700,1984,ATTORNEY GENERAL,,,NC,"THORNBURG, LACY H",Democrat,1,,,,Bolded in summary list,0.85
-NC,Greensboro News and Record,132700,1984,AUDITOR,,,NC,"RENFROW, EDWARD",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"THORNBURG, LACY H",Democrat,1,,,,Bolded in summary list,0.85
+NC,Greensboro News and Record,132700,1984,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"RENFROW, EDWARD",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,CNTY COMM,,Guilford County,NC,"GALYON, J DOUGLAS",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,CNTY COMM,,Guilford County,NC,"MANZI, JACQUELINE R",Republican,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,COMMISSIONER OF AGRICULTURE,,,NC,"GRAHAM, JAMES A",Democrat,1,1,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,COMMISSIONER OF LABOR,,,NC,"BROOKS, JOHN C",Democrat,1,1,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,GOVERNOR,,,NC,"MARTIN, JAMES G",Republican,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,AGRICULTURE COMMISSIONER,,NORTH CAROLINA COMMISSIONER OF AGRICULTURE,NC,"GRAHAM, JAMES A",Democrat,1,1,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,COMMISSIONER OF LABOR,,NORTH CAROLINA COMMISSIONER OF LABOR,NC,"BROOKS, JOHN C",Democrat,1,1,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"MARTIN, JAMES G",Republican,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,H,6,Sixth Congressional District,NC,"BRITT, ROBIN",Democrat,1,1,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,INSURANCE COMMISSIONER,,,NC,"LONG, JAMES E",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,INSURANCE COMMISSIONER,,INSURANCE COMMISSIONER OF NORTH CAROLINA,NC,"LONG, JAMES E",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,JUDGE,18,Guilford County District Court,NC,"ALLOWAY, SHERRY FOWLER",Republican,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,JUDGE,18,Guilford County District Court,NC,"DAISY, WILLIAM L",Republican,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,JUDGE,18,Guilford County District Court,NC,"HUNTER, WILLIAM K",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,JUDGE,18,Guilford County District Court,NC,"JOSEPH, MICHAEL F",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,JUDGE,18,Guilford County District Court,NC,"WILLIAMS, PAUL THOMAS",Democrat,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,LT GOVERNOR,,,NC,"JORDAN, ROBERT B III",Democrat,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,PRESIDENT,,,NC,"MONDALE, WALTER",Democrat,1,,,,Bolded in summary list,0.90
+NC,Greensboro News and Record,132700,1984,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"JORDAN, ROBERT B III",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"MONDALE, WALTER",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1984,REGISTER OF DEEDS,,Guilford County,NC,"PATSEAVOURAS, KAY",Republican,1,,1,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,,Guilford County Board of Education,NC,"BOLTON, JOHN E JR",,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,,Guilford County Board of Education,NC,"GEIGER, JAMES",,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,1,Greensboro Board of Education,NC,"WILLIAMS, JAMES T JR",,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,2,Greensboro Board of Education,NC,"DAVIS, JAMES P",,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,3,Greensboro Board of Education,NC,"KING, MICHAEL",,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,4,Greensboro Board of Education,NC,"WILLIAMS, MERRILOU R",,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,5,Greensboro Board of Education,NC,"BEALE, SARAH J",,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,6,Greensboro Board of Education,NC,"HICKS, J EDDIE",,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,AT-LARGE,Greensboro Board of Education,NC,"LAMBETH, CHARLES F",,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,SEC OF STATE,,,NC,"EURE, THAD",Democrat,1,1,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,SENATOR,,,NC,"HUNT, JAMES B JR",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,,Guilford County Board of Education,NC,"BOLTON, JOHN E JR",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,,Guilford County Board of Education,NC,"GEIGER, JAMES",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,1,Greensboro Board of Education,NC,"WILLIAMS, JAMES T JR",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,2,Greensboro Board of Education,NC,"DAVIS, JAMES P",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,3,Greensboro Board of Education,NC,"KING, MICHAEL",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,4,Greensboro Board of Education,NC,"WILLIAMS, MERRILOU R",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,5,Greensboro Board of Education,NC,"BEALE, SARAH J",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,6,Greensboro Board of Education,NC,"HICKS, J EDDIE",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro News and Record,132700,1984,SCHOOL BOARD,AT-LARGE,Greensboro Board of Education,NC,"LAMBETH, CHARLES F",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro News and Record,132700,1984,SEC OF STATE,,SECRETARY OF STATE OF NORTH CAROLINA,NC,"EURE, THAD",Democrat,1,1,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"HUNT, JAMES B JR",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,STATE REP,26,NC House District 26,NC,"GIST, HERMAN",Democrat,1,,,,Unopposed,0.95
 NC,Greensboro News and Record,132700,1984,STATE REP,27,NC House District 27,NC,"LINEBERRY, ALBERT SR",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,STATE REP,27,NC House District 27,NC,"SEYMOUR, MARY P",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,STATE REP,28,NC House District 28,NC,"GIBSON, J B",Democrat,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,STATE REP,28,NC House District 28,NC,"JARRELL, MARY",Democrat,1,,1,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1984,STATE REP,29,NC House District 29,NC,"GRIMSLEY, WILLIAM T",Democrat,1,,1,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,STATE REP,28,NC House District 28,NC,"JARRELL, MARY",Democrat,1,1,,,Bolded in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,1984,STATE REP,29,NC House District 29,NC,"GRIMSLEY, WILLIAM T",Democrat,1,1,,,Bolded in summary list | V2 Pattern K fix.,0.95
 NC,Greensboro News and Record,132700,1984,STATE SENATOR,19,NC Senate District 19,NC,"EDWARDS, ELTON",Democrat,1,1,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,STATE SENATOR,31,NC Senate District 31,NC,"MARTIN, WILLIAM N",Democrat,1,1,,,Unopposed,0.95
 NC,Greensboro News and Record,132700,1984,STATE SENATOR,32,NC Senate District 32,NC,"GRAY, RACHEL G",Democrat,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1984,SUPERINTENDENT,,,NC,"PHILLIPS, CRAIG",Democrat,1,1,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1984,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"PHILLIPS, CRAIG",Democrat,1,1,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,SUPREME COURT,,Associate Justice,NC,"FRYE, HENRY E",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1984,SUPREME COURT,,Associate Justice,NC,"MITCHELL, BURLEY B JR",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1986,CNTY CLERK,,Guilford County,NC,"CARROLL, EDWARD R",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1986,CNTY COMM,2,Guilford County District 2,NC,"MANZI, JACKIE",Republican,1,,1,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1986,CNTY COMM,3,Guilford County District 3,NC,"KEARNS, DOROTHY",Democrat,1,,1,,Bolded in summary list,0.90
+NC,Greensboro News and Record,132700,1986,CNTY COMM,3,Guilford County District 3,NC,"KEARNS, DOROTHY",Democrat,1,1,,,Bolded in summary list | V2 Pattern K fix.,0.90
 NC,Greensboro News and Record,132700,1986,CNTY COMM,3,Guilford County District 3,NC,"MARKS, ROBERT L",Democrat,1,,,,Bolded in summary list,0.85
 NC,Greensboro News and Record,132700,1986,CNTY COMM,4,Guilford County District 4,NC,"ANDERSON, WILLIAM H",Republican,1,,1,,Bolded in summary list,0.85
 NC,Greensboro News and Record,132700,1986,COURT OF APPEALS,,NC Court of Appeals,NC,"GREENE, K EDWARD",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1986,COURT OF APPEALS,,NC Court of Appeals,NC,"PARKER, SARAH",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1986,COURT OF APPEALS,,NC Court of Appeals,NC,"PEARCE, BETTY J",Republican,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1986,DA/PROSECUTOR,,Guilford County,NC,"KIMEL, HORACE M",Democrat,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1986,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1986,SCHOOL BOARD,2,Greensboro Board of Education,NC,"DAVIS, JAMES P",,1,,,,Bolded in summary list (nonpartisan),0.90
-NC,Greensboro News and Record,132700,1986,SCHOOL BOARD,3,Greensboro Board of Education,NC,"WALL, PERSHING E SR",,1,,,,Bolded in summary list (nonpartisan),0.90
-NC,Greensboro News and Record,132700,1986,SENATOR,,,NC,"SANFORD, TERRY",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1986,DA/PROSECUTOR,,Guilford County,NC,"KIMEL, HORACE M JR",Democrat,1,,,,"Bolded in summary list | V4: name std KIMEL, HORACE M → KIMEL, HORACE M JR.",0.95
+NC,Greensboro News and Record,132700,1986,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Bolded in summary list | V2: name std to J. HOWARD.,0.95
+NC,Greensboro News and Record,132700,1986,SCHOOL BOARD,2,Greensboro Board of Education,NC,"DAVIS, JAMES P",Nonpartisan,1,,,1,"Bolded in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 1984.",0.90
+NC,Greensboro News and Record,132700,1986,SCHOOL BOARD,3,Greensboro Board of Education,NC,"WALL, PERSHING E SR",Nonpartisan,1,,,,"Bolded in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1986,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"SANFORD, TERRY",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1986,SHERIFF,,Guilford County,NC,"BURCH, WALTER",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1986,STATE REP,27,NC House District 27,NC,"ABU-SABA, MARY BENTLEY",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1986,STATE REP,27,NC House District 27,NC,"KEESEE-FORRESTER, MARGARET P",Republican,1,,1,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1986,STATE REP,27,NC House District 27,NC,"LINEBERRY, ALBERT SR",Democrat,1,,1,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1986,STATE REP,28,NC House District 28,NC,"JARRELL, MARY",Democrat,1,,1,,Bolded in summary list,0.90
+NC,Greensboro News and Record,132700,1986,STATE REP,27,NC House District 27,NC,"LINEBERRY, ALBERT SR",Democrat,1,1,,,Bolded in summary list | V2 Pattern K fix.,0.90
+NC,Greensboro News and Record,132700,1986,STATE REP,28,NC House District 28,NC,"JARRELL, MARY",Democrat,1,1,,,Bolded in summary list | V2 Pattern K fix.,0.90
 NC,Greensboro News and Record,132700,1986,STATE REP,29,NC House District 29,NC,"DECKER, MICHAEL",Republican,1,,1,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1986,STATE SENATOR,19,NC Senate District 19,NC,"PARKER, GERALD C",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1986,STATE SENATOR,32,NC Senate District 32,NC,"SEYMOUR, MARY P",Democrat,1,,,,Bolded in summary list,0.90
@@ -65,36 +65,36 @@ NC,Greensboro News and Record,132700,1986,SUPREME COURT,,Associate Justice,NC,"M
 NC,Greensboro News and Record,132700,1986,SUPREME COURT,,Associate Justice,NC,"MEYER, LOUIS B",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1986,SUPREME COURT,,Associate Justice,NC,"WEBB, JOHN",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1986,SUPREME COURT,,Associate Justice,NC,"WHICHARD, WILLIS P",Democrat,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1988,ATTORNEY GENERAL,,,NC,"THORNBURG, LACY H",Democrat,1,1,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,AUDITOR,,,NC,"RENFROW, EDWARD",Democrat,1,1,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"THORNBURG, LACY H",Democrat,1,1,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"RENFROW, EDWARD",Democrat,1,1,,,Checkmarked in summary list,0.95
 NC,Greensboro News and Record,132700,1988,CNTY COMM,2,Guilford County District 2,NC,"KIRKPATRICK, JAMES F",Democrat,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,CNTY COMM,2,Guilford County District 2,NC,"MANZI, JACKIE",Republican,1,,1,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,CNTY COMM,2,Guilford County District 2,NC,"STECK, MUSETTE D",Democrat,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,CNTY COMM,3,Guilford County District 3,NC,"MAHLER, HAROLD C",Democrat,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,CNTY COMM,4,Guilford County District 4,NC,"LANDRETH, J ROBERT",Democrat,1,1,,,Checkmarked in summary list,0.90
-NC,Greensboro News and Record,132700,1988,COMMISSIONER OF AGRICULTURE,,,NC,"GRAHAM, JAMES A",Democrat,1,1,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,COMMISSIONER OF LABOR,,,NC,"LEVY, RICHARD D",Republican,1,,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,AGRICULTURE COMMISSIONER,,NORTH CAROLINA COMMISSIONER OF AGRICULTURE,NC,"GRAHAM, JAMES A",Democrat,1,1,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,COMMISSIONER OF LABOR,,NORTH CAROLINA COMMISSIONER OF LABOR,NC,"LEVY, RICHARD D",Republican,1,,,,Checkmarked in summary list,0.95
 NC,Greensboro News and Record,132700,1988,COURT OF APPEALS,,NC Court of Appeals,NC,"ORR, ROBERT F",Republican,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,COURT OF APPEALS,,NC Court of Appeals,NC,"SMITH, DONALD L",Republican,1,,,,Checkmarked in summary list,0.90
-NC,Greensboro News and Record,132700,1988,GOVERNOR,,,NC,"JORDAN, BOB",Democrat,1,,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,INSURANCE COMMISSIONER,,,NC,"LONG, JIM",Democrat,1,1,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"JORDAN, BOB",Democrat,1,,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Checkmarked in summary list | V2: name std to J. HOWARD.,0.95
+NC,Greensboro News and Record,132700,1988,INSURANCE COMMISSIONER,,INSURANCE COMMISSIONER OF NORTH CAROLINA,NC,"LONG, JIM",Democrat,1,1,,,Checkmarked in summary list,0.95
 NC,Greensboro News and Record,132700,1988,JUDGE,18,Guilford County District Court,NC,"ALLOWAY, SHERRY FOWLER",Republican,1,,1,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,JUDGE,18,Guilford County District Court,NC,"DAISY, WILLIAM L",Republican,1,,1,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,JUDGE,18,Guilford County District Court,NC,"HAINES, BEN",Democrat,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,JUDGE,18,Guilford County District Court,NC,"MCSWAIN, LAWRENCE C",Democrat,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,JUDGE,18,Guilford County District Court,NC,"TURNER, JOSEPH E",Democrat,1,,,,Checkmarked in summary list,0.90
-NC,Greensboro News and Record,132700,1988,LT GOVERNOR,,,NC,"RAND, TONY",Democrat,1,,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,PRESIDENT,,,NC,"DUKAKIS, MICHAEL",Democrat,1,,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"RAND, TONY",Democrat,1,,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"DUKAKIS, MICHAEL",Democrat,1,,,,Checkmarked in summary list,0.95
 NC,Greensboro News and Record,132700,1988,REGISTER OF DEEDS,,Guilford County,NC,"PATSEAVOURAS, KAY",Republican,1,,1,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,,Guilford County Board of Education,NC,"EDWARDS, PATRICIA M",,1,,,,Checkmarked in summary list,0.90
-NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,,Guilford County Board of Education,NC,"GREEN, SHEILA M",,1,,,,Checkmarked in summary list,0.90
-NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,,Guilford County Board of Education,NC,"PARKS, JOHN",,1,,,,Checkmarked in summary list,0.90
-NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,1,Greensboro Board of Education,NC,"JOHNSTON, SHARON",,1,,,,Checkmarked in summary list (nonpartisan),0.90
-NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,AT-LARGE,Greensboro Board of Education,NC,"BERNICK, LEE",,1,,,,Checkmarked in summary list (nonpartisan),0.90
-NC,Greensboro News and Record,132700,1988,SEC OF STATE,,,NC,"EDMISTEN, RUFUS L",Democrat,1,,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,,Guilford County Board of Education,NC,"EDWARDS, PATRICIA M",Nonpartisan,1,,,,"Checkmarked in summary list | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,,Guilford County Board of Education,NC,"GREEN, SHEILA M",Nonpartisan,1,,,,"Checkmarked in summary list | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,,Guilford County Board of Education,NC,"PARKS, JOHN",Nonpartisan,1,,,,"Checkmarked in summary list | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,1,Greensboro Board of Education,NC,"JOHNSTON, SHARON",Nonpartisan,1,,,,"Checkmarked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1988,SCHOOL BOARD,AT-LARGE,Greensboro Board of Education,NC,"BERNICK, LEE",Nonpartisan,1,,,,"Checkmarked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro News and Record,132700,1988,SEC OF STATE,,SECRETARY OF STATE OF NORTH CAROLINA,NC,"EDMISTEN, RUFUS L",Democrat,1,,,,Checkmarked in summary list,0.95
 NC,Greensboro News and Record,132700,1988,STATE REP,26,NC House District 26,NC,"GIST, HERMAN C",Democrat,1,1,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,STATE REP,27,NC House District 27,NC,"BOWIE, JOANNE",Republican,1,,,,Checkmarked in summary list,0.90
+NC,Greensboro News and Record,132700,1988,STATE REP,27,NC House District 27,NC,"BOWIE, JOANNE W",Republican,1,,,,"Checkmarked in summary list | V4: name std BOWIE, JOANNE → BOWIE, JOANNE W.",0.90
 NC,Greensboro News and Record,132700,1988,STATE REP,27,NC House District 27,NC,"LINEBERRY, AL",Republican,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,STATE REP,27,NC House District 27,NC,"SIZEMORE, TRIP",Republican,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,STATE REP,28,NC House District 28,NC,"GRAY, RACHEL G",Democrat,1,,,,Checkmarked in summary list,0.90
@@ -102,14 +102,14 @@ NC,Greensboro News and Record,132700,1988,STATE REP,28,NC House District 28,NC,"
 NC,Greensboro News and Record,132700,1988,STATE REP,29,NC House District 29,NC,"JOYCE, JESSE B",Democrat,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1988,STATE SENATOR,19,NC Senate District 19,NC,"SHAW, BOB",Republican,1,,,,Checkmarked in summary list,0.95
 NC,Greensboro News and Record,132700,1988,STATE SENATOR,32,NC Senate District 32,NC,"SEYMOUR, MARY P",Democrat,1,1,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,SUPERINTENDENT,,,NC,"ETHERIDGE, BOB",Democrat,1,,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,TREASURER,,,NC,"BOYLES, HARLAN E",Democrat,1,1,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1988,VICE PRESIDENT,,,NC,"BENTSEN, LLOYD",Democrat,1,,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"ETHERIDGE, BOB",Democrat,1,,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,TREASURER,,TREASURER OF NORTH CAROLINA,NC,"BOYLES, HARLAN E",Democrat,1,1,,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1988,VICE PRESIDENT,,VICE PRESIDENT OF THE UNITED STATES,NC,"BENTSEN, LLOYD",Democrat,1,,,,Checkmarked in summary list | V2: dname filled generic local.,0.95
 NC,Greensboro News and Record,132700,1990,CNTY CLERK,,Guilford County,NC,"BENNINGTON, ESTLE POPE",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1990,CNTY COMM,1,Guilford County District 1,NC,"DORSETT, KATIE",Democrat,1,1,,,Distinguished term on county board; hard worker and consistent voice,0.95
 NC,Greensboro News and Record,132700,1990,CNTY COMM,3,Guilford County District 3,NC,"ARNOLD, STEPHEN",Republican,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1990,CNTY COMM,3,Guilford County District 3,NC,"EVANS, GART",Democrat,1,,,,Knowledgeable and active candidate; conciliatory approach,0.95
-NC,Greensboro News and Record,132700,1990,CNTY COMM,3,Guilford County District 3,NC,"KEARNS, DOT",Democrat,1,,1,,"Two terms on county board, one as chairman; instrumental in watershed ordinance",0.95
+NC,Greensboro News and Record,132700,1990,CNTY COMM,3,Guilford County District 3,NC,"KEARNS, DOT",Democrat,1,1,,,"Two terms on county board, one as chairman; instrumental in watershed ordinance | V2 Pattern K fix.",0.95
 NC,Greensboro News and Record,132700,1990,COURT OF APPEALS,,NC Court of Appeals,NC,"DUNCAN, ALLYSON K",Republican,1,,,,Shows great promise and deserves a full term,0.90
 NC,Greensboro News and Record,132700,1990,COURT OF APPEALS,,NC Court of Appeals,NC,"EAGLES, SIDNEY S JR",Democrat,1,1,,,Worked hard and performed well; rate another eight years,0.90
 NC,Greensboro News and Record,132700,1990,COURT OF APPEALS,,NC Court of Appeals,NC,"GREENE, K EDWARD",Democrat,1,1,,,Brought youth and energy to court; recommend new term,0.90
@@ -120,113 +120,113 @@ NC,Greensboro News and Record,132700,1990,COURT OF APPEALS,,NC Court of Appeals,
 NC,Greensboro News and Record,132700,1990,COURT OF APPEALS,,NC Court of Appeals,NC,"WELLS, HUGH A",Democrat,1,,,,Recommend his re-election,0.90
 NC,Greensboro News and Record,132700,1990,COURT OF APPEALS,,NC Court of Appeals,NC,"WYNN, JAMES A JR",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1990,DA/PROSECUTOR,18,Guilford County,NC,"KIMEL, HORACE M JR",Democrat,1,1,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1990,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1990,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Bolded in summary list | V2: name std to J. HOWARD.,0.95
 NC,Greensboro News and Record,132700,1990,JUDGE,18,Guilford County District Court,NC,"HAINES, BEN",Democrat,1,1,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,,Guilford County Board of Education,NC,"BENNETT, HORACE L",,1,,,,Bolded in summary list,0.85
-NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,,Guilford County Board of Education,NC,"EDWARDS, WADE",,1,,,,Bolded in summary list,0.85
-NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,,Guilford County Board of Education,NC,"PIPPIN, JEANETTE M",,1,,,,Bolded in summary list,0.85
-NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,,Guilford County Board of Education,NC,"RUMLEY, JIM",,1,,,,Bolded in summary list,0.85
-NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,2,Greensboro Board of Education,NC,"DAVIS, JAMES P",,1,,,,Bolded in summary list,0.85
-NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,3,Greensboro Board of Education,NC,"HODGE, JOHNNY B JR",,1,,,,Bolded in summary list,0.85
-NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,4,Greensboro Board of Education,NC,"PRITCHETT, WALTER JR",,1,,,,Bolded in summary list,0.85
-NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,6,Greensboro Board of Education,NC,"ABERNATHY, MARGARET",,1,,,,Bolded in summary list,0.85
-NC,Greensboro News and Record,132700,1990,SENATOR,,,NC,"GANTT, HARVEY B",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,,Guilford County Board of Education,NC,"BENNETT, HORACE L",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,,Guilford County Board of Education,NC,"EDWARDS, WADE",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,,Guilford County Board of Education,NC,"PIPPIN, JEANETTE M",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,,Guilford County Board of Education,NC,"RUMLEY, JIM",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,2,Greensboro Board of Education,NC,"DAVIS, JAMES P",Nonpartisan,1,,,1,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 1984.",0.85
+NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,3,Greensboro Board of Education,NC,"HODGE, JOHNNY B JR",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,4,Greensboro Board of Education,NC,"PRITCHETT, WALTER JR",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1990,SCHOOL BOARD,6,Greensboro Board of Education,NC,"ABERNATHY, MARGARET",Nonpartisan,1,,,,"Bolded in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1990,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"GANTT, HARVEY B",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1990,SHERIFF,,Guilford County,NC,"BURCH, WALTER A",Democrat,1,1,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1990,STATE REP,27,NC House District 27,NC,"BOWIE, JOANNE W",Republican,1,,1,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1990,STATE REP,27,NC House District 27,NC,"FALLON, MAURA",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1990,STATE REP,27,NC House District 27,NC,"JEFFUS, MAGGIE",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1990,STATE REP,27,NC House District 27,NC,"SAWYER, WENDELL H",Republican,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1990,STATE REP,28,NC House District 28,NC,"EZZELL, MARK",Democrat,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1990,STATE REP,28,NC House District 28,NC,"JARRELL, MARY",Democrat,1,,1,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1990,STATE REP,29,NC House District 29,NC,"JOYCE, JESSE",Democrat,1,,1,,Bolded in summary list,0.90
+NC,Greensboro News and Record,132700,1990,STATE REP,28,NC House District 28,NC,"JARRELL, MARY",Democrat,1,1,,,Bolded in summary list | V2 Pattern K fix.,0.90
+NC,Greensboro News and Record,132700,1990,STATE REP,29,NC House District 29,NC,"JOYCE, JESSE",Democrat,1,1,,,Bolded in summary list | V2 Pattern K fix.,0.90
 NC,Greensboro News and Record,132700,1990,STATE SENATOR,19,NC Senate District 19,NC,"SHAW, BOB",Republican,1,,1,,Three-term incumbent; veteran of Senate budget battles,0.95
 NC,Greensboro News and Record,132700,1990,STATE SENATOR,31,NC Senate District 31,NC,"MARTIN, WILLIAM N",Democrat,1,1,,,Has served four terms ably; favors incumbent on legislative performance,0.95
-NC,Greensboro News and Record,132700,1990,STATE SENATOR,32,NC Senate District 32,NC,"SEYMOUR, MARY P",Democrat,1,,,,"Strong voice for education and women's issues; tough, tireless and effective legislator",0.95
+NC,Greensboro News and Record,132700,1990,STATE SENATOR,32,NC Senate District 32,NC,"SEYMOUR, MARY P",Democrat,1,1,,,"Strong voice for education and women's issues; tough, tireless and effective legislator | V3 state leg cross-year inc, first 1986.",0.95
 NC,Greensboro News and Record,132700,1990,SUPREME COURT,,Chief Justice,NC,"EXUM, JAMES G JR",Democrat,1,1,,,Brought great distinction to court; enthusiastically recommends another term,0.98
 NC,Greensboro News and Record,132700,1990,SUPREME COURT,,Associate Justice,NC,"WEBB, JOHN",Democrat,1,1,,,Can fit one more eight-year term before mandatory retirement; deserves to have one,0.98
 NC,Greensboro News and Record,132700,1990,SUPREME COURT,,Associate Justice,NC,"WHICHARD, WILLIS",Democrat,1,1,,,High level of competence and scholarship; deserves another term,0.98
-NC,Greensboro News and Record,132700,1992,ATTORNEY GENERAL,,,NC,"EASLEY, MIKE",Democrat,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1992,AUDITOR,,,NC,"ABERNETHY, J VERNON",Republican,1,,,,Bolded in summary list,0.90
+NC,Greensboro News and Record,132700,1992,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"EASLEY, MIKE",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"ABERNETHY, J VERNON",Republican,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,CNTY COMM,2,Guilford County District 2,NC,"CASHWELL, STEPHANIE",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,CNTY COMM,4,Guilford County District 4,NC,"LANDRETH, BOB",Democrat,1,1,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,CNTY COMM,5,Guilford County District 5,NC,"WADE, TRUDY",Republican,1,,,,Bolded in summary list,0.85
 NC,Greensboro News and Record,132700,1992,CNTY COMM,6,Guilford County District 6,NC,"WOOD, JOE",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,CNTY COMM,7,Guilford County District 7,NC,"ARBUCKLE, MARGARET",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"HARRELSON, WALLACE C",Democrat,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1992,COMMISSIONER OF AGRICULTURE,,,NC,"GRAHAM, JAMES A",Democrat,1,1,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1992,COMMISSIONER OF LABOR,,,NC,"PAYNE, HARRY E JR",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,AGRICULTURE COMMISSIONER,,NORTH CAROLINA COMMISSIONER OF AGRICULTURE,NC,"GRAHAM, JAMES A",Democrat,1,1,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,COMMISSIONER OF LABOR,,NORTH CAROLINA COMMISSIONER OF LABOR,NC,"PAYNE, HARRY E JR",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1992,COURT OF APPEALS,,NC Court of Appeals,NC,"BRANNON, ANTHONY",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,COURT OF APPEALS,,NC Court of Appeals (Unexpired),NC,"JOHN, JOSEPH R SR",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,COURT OF APPEALS,,NC Court of Appeals,NC,"MARTIN, JOHN C",Democrat,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1992,COURT OF APPEALS,,NC Court of Appeals,NC,"ORR, ROBERT F",Republican,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1992,COURT OF APPEALS,,NC Court of Appeals,NC,"WALKER, RALPH A",Republican,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1992,GOVERNOR,,,NC,"HUNT, JIM",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,COURT OF APPEALS,,NC Court of Appeals,NC,"ORR, ROBERT F",Republican,1,,1,,"Bolded in summary list | V4 judicial cross-year inc, first 1988.",0.90
+NC,Greensboro News and Record,132700,1992,COURT OF APPEALS,,NC Court of Appeals,NC,"WALKER, RALPH A",Republican,1,,1,,"Bolded in summary list | V4 judicial cross-year inc, first 1990.",0.90
+NC,Greensboro News and Record,132700,1992,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"HUNT, JIM",Democrat,1,,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1992,H,12,12th Congressional District,NC,"WATT, MELVIN",Democrat,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1992,H,6,Sixth Congressional District,NC,"COBLE, J HOWARD",Republican,1,,1,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1992,INSURANCE COMMISSIONER,,,NC,"LONG, JIM",Democrat,1,1,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Bolded in summary list | V2: name std to J. HOWARD.,0.95
+NC,Greensboro News and Record,132700,1992,INSURANCE COMMISSIONER,,INSURANCE COMMISSIONER OF NORTH CAROLINA,NC,"LONG, JIM",Democrat,1,1,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1992,JUDGE,18,Guilford County District Court,NC,"TURNER, JOSEPH E",Democrat,1,1,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,JUDGE,18,Guilford County District Court,NC,"WHITE, CHUCK",Democrat,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1992,LT GOVERNOR,,,NC,"WICKER, DENNIS A",Democrat,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1992,PRESIDENT,,,NC,"CLINTON, BILL",Democrat,1,,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1992,SEC OF STATE,,,NC,"EDMISTEN, RUFUS L",Democrat,1,1,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1992,SENATOR,,,NC,"SANFORD, TERRY",Democrat,1,1,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"WICKER, DENNIS A",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"CLINTON, BILL",Democrat,1,,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,SEC OF STATE,,SECRETARY OF STATE OF NORTH CAROLINA,NC,"EDMISTEN, RUFUS L",Democrat,1,1,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"SANFORD, TERRY",Democrat,1,1,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1992,STATE REP,27,NC House District 27,NC,"FAIRCLOTH, JOHN",Republican,1,,,,Bolded in summary list,0.85
 NC,Greensboro News and Record,132700,1992,STATE REP,28,NC House District 28,NC,"BOWIE, JOANNE W",Republican,1,,1,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,STATE REP,28,NC House District 28,NC,"BYRD, BRUCE",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,STATE REP,29,NC House District 29,NC,"BURRELL, MARY",Democrat,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1992,STATE REP,29,NC House District 29,NC,"JEFFUS, MAGGIE",Democrat,1,,,,Bolded in summary list,0.90
+NC,Greensboro News and Record,132700,1992,STATE REP,29,NC House District 29,NC,"JEFFUS, MAGGIE",Democrat,1,1,,,"Bolded in summary list | V6 final cross-year inc, first 1990.",0.90
 NC,Greensboro News and Record,132700,1992,STATE SENATOR,12,NC Senate District 12,NC,"FOLGER, FRED JR",Democrat,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,STATE SENATOR,19,NC Senate District 19,NC,"SHAW, ROBERT G",Republican,1,,1,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1992,STATE SENATOR,31,NC Senate District 31,NC,"MARTIN, WILLIAM N",Democrat,1,1,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1992,STATE SENATOR,32,NC Senate District 32,NC,"SEYMOUR, MARY P",Democrat,1,1,,,Bolded in summary list,0.95
-NC,Greensboro News and Record,132700,1992,SUPERINTENDENT,,,NC,"LITTLE, TEENA S",Republican,1,,,,Bolded in summary list,0.90
+NC,Greensboro News and Record,132700,1992,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"LITTLE, TEENA S",Republican,1,,,,Bolded in summary list,0.90
 NC,Greensboro News and Record,132700,1992,SUPREME COURT,,Associate Justice,NC,"PARKER, SARAH",Democrat,1,,,,Bolded in summary list,0.90
-NC,Greensboro News and Record,132700,1992,TREASURER,,,NC,"BOYLES, HARLAN E",Democrat,1,1,,,Bolded in summary list,0.95
+NC,Greensboro News and Record,132700,1992,TREASURER,,TREASURER OF NORTH CAROLINA,NC,"BOYLES, HARLAN E",Democrat,1,1,,,Bolded in summary list,0.95
 NC,Greensboro News and Record,132700,1994,CNTY CLERK,,Guilford County,NC,"BENNINGTON, ESTLE",Democrat,1,1,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1994,CNTY COMM,2,Guilford County District 2,NC,"ARNOLD, STEPHEN",Republican,1,,1,,Checkmarked in summary list,0.85
 NC,Greensboro News and Record,132700,1994,CNTY COMM,6,Guilford County District 6,NC,"WISFREE, CHUCK",Republican,1,,,,Checkmarked in summary list,0.80
 NC,Greensboro News and Record,132700,1994,COURT OF APPEALS,,NC Court of Appeals,NC,"MCCRODDEN, ELIZABETH G",Democrat,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1994,DA/PROSECUTOR,18,Guilford County,NC,"KIMEL, HORACE M JR",Democrat,1,1,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1994,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,,1,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1994,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,1,,,Checkmarked in summary list | V2 Pattern K fix.,0.95
 NC,Greensboro News and Record,132700,1994,H,5,5th Congressional District,NC,"SANDS, A P",Democrat,1,,,,Checkmarked in summary list,0.85
-NC,Greensboro News and Record,132700,1994,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Checkmarked in summary list,0.95
+NC,Greensboro News and Record,132700,1994,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Checkmarked in summary list | V2: name std to J. HOWARD.,0.95
 NC,Greensboro News and Record,132700,1994,JUDGE,18,Guilford County District Court,NC,"PRIEST, GWENDA",Democrat,1,,,,Checkmarked in summary list,0.85
-NC,Greensboro News and Record,132700,1994,SCHOOL BOARD,AT-LARGE,Guilford County Board of Education,NC,"ALLEN, PAM",,1,,,,Checkmarked in summary list,0.85
+NC,Greensboro News and Record,132700,1994,SCHOOL BOARD,AT-LARGE,Guilford County Board of Education,NC,"ALLEN, PAM",Nonpartisan,1,,,,"Checkmarked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
 NC,Greensboro News and Record,132700,1994,SHERIFF,,Guilford County,NC,"BURCH, WALTER",Democrat,1,1,,,Checkmarked in summary list,0.95
-NC,Greensboro News and Record,132700,1994,STATE REP,26,NC House District 26,NC,"ADAMS, ALMA",Democrat,1,,,,Checkmarked in summary list,0.90
+NC,Greensboro News and Record,132700,1994,STATE REP,26,NC House District 26,NC,"ADAMS, ALMA S",Democrat,1,,,,"Checkmarked in summary list | V4: name std ADAMS, ALMA → ADAMS, ALMA S.",0.90
 NC,Greensboro News and Record,132700,1994,STATE REP,27,NC House District 27,NC,"WOOD, STEVE",Republican,1,,,,Checkmarked in summary list,0.85
 NC,Greensboro News and Record,132700,1994,STATE REP,28,NC House District 28,NC,"BOYD-MCINTYRE, FLOSSIE",Democrat,1,,,,Checkmarked in summary list,0.85
 NC,Greensboro News and Record,132700,1994,STATE REP,29,NC House District 29,NC,"BOWIE, JOANNE W",Republican,1,,1,,Checkmarked in summary list,0.90
-NC,Greensboro News and Record,132700,1994,STATE REP,31,NC House District 31,NC,"JARRELL, MARY",Democrat,1,,1,,Checkmarked in summary list,0.85
-NC,Greensboro News and Record,132700,1994,STATE REP,32,NC House District 32,NC,"JEFFUS, MAGGIE",Democrat,1,,1,,Checkmarked in summary list,0.85
+NC,Greensboro News and Record,132700,1994,STATE REP,31,NC House District 31,NC,"JARRELL, MARY",Democrat,1,1,,,Checkmarked in summary list | V2 Pattern K fix.,0.85
+NC,Greensboro News and Record,132700,1994,STATE REP,32,NC House District 32,NC,"JEFFUS, MAGGIE",Democrat,1,1,,,Checkmarked in summary list | V2 Pattern K fix.,0.85
 NC,Greensboro News and Record,132700,1994,STATE SENATOR,12,NC Senate District 12,NC,"FOLGER, FRED JR",Democrat,1,1,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1994,STATE SENATOR,19,NC Senate District 19,NC,"SHAW, ROBERT G",Republican,1,,1,,Checkmarked in summary list,0.95
 NC,Greensboro News and Record,132700,1994,STATE SENATOR,31,NC Senate District 31,NC,"MARTIN, WILLIAM N",Democrat,1,1,,,Checkmarked in summary list,0.95
 NC,Greensboro News and Record,132700,1994,STATE SENATOR,32,NC Senate District 32,NC,"KEARNS, DOROTHY K",Republican,1,,,,Checkmarked in summary list,0.90
 NC,Greensboro News and Record,132700,1994,SUPREME COURT,,Associate Justice,NC,"FULLER, JIM",Democrat,1,,,,Checkmarked in summary list,0.85
 NC,Greensboro News and Record,132700,1994,SUPREME COURT,,Associate Justice,NC,"PARKER, SARAH",Democrat,1,1,,,Checkmarked in summary list,0.90
-NC,Greensboro News and Record,132700,1996,ATTORNEY GENERAL,,,NC,"EASLEY, MIKE",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,1996,AUDITOR,,,NC,"CAMPBELL, RALPH",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,1996,CNTY COMM,1,Guilford County District 1,NC,"WADE, TRUDY",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,1996,CNTY COMM,5,Guilford County District 5,NC,"ARBUCKLE, MARGARET",Democrat,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,1996,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"EASLEY, MIKE",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,1996,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"CAMPBELL, RALPH",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,1996,CNTY COMM,1,Guilford County District 1,NC,"WADE, TRUDY",Republican,1,,1,,"Marked in summary list | V3 CC cross-year inc, first 1992.",0.85
+NC,Greensboro News and Record,132700,1996,CNTY COMM,5,Guilford County District 5,NC,"ARBUCKLE, MARGARET",Democrat,1,1,,,"Marked in summary list | V3 CC cross-year inc, first 1992.",0.85
 NC,Greensboro News and Record,132700,1996,CNTY COMM,6,Guilford County District 6,NC,"ALSTON, SKIP",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,1996,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"HARRELSON, WALLY",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,1996,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"PARKS, JOHN",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,1996,COMMISSIONER OF AGRICULTURE,,,NC,"GRAHAM, JIM",Democrat,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,1996,COMMISSIONER OF LABOR,,,NC,"PAYNE, HARRY",Democrat,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,1996,GOVERNOR,,,NC,"HUNT, JIM",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,1996,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,1996,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,1996,AGRICULTURE COMMISSIONER,,NORTH CAROLINA COMMISSIONER OF AGRICULTURE,NC,"GRAHAM, JIM",Democrat,1,1,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,1996,COMMISSIONER OF LABOR,,NORTH CAROLINA COMMISSIONER OF LABOR,NC,"PAYNE, HARRY",Democrat,1,1,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,1996,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"HUNT, JIM",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,1996,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,1996,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Marked in summary list | V2: name std to J. HOWARD.,0.95
 NC,Greensboro News and Record,132700,1996,JUDGE,13,District Court 13,NC,"FOSTER, TOM JR",Democrat,1,,,,Marked in summary list,0.80
-NC,Greensboro News and Record,132700,1996,JUDGE,13,District Court 13,NC,"MCSWAIN, LAWRENCE C",Democrat,1,,,,Marked in summary list,0.80
-NC,Greensboro News and Record,132700,1996,JUDGE,18,Guilford County District Court,NC,"ALLOWAY, SHERRY",Republican,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,1996,JUDGE,13,District Court 13,NC,"MCSWAIN, LAWRENCE C",Democrat,1,1,,,"Marked in summary list | V4 judicial cross-year inc, first 1988.",0.80
+NC,Greensboro News and Record,132700,1996,JUDGE,18,Guilford County District Court,NC,"ALLOWAY, SHERRY FOWLER",Republican,1,,1,,"Marked in summary list | V4: name std ALLOWAY, SHERRY → ALLOWAY, SHERRY FOWLER. | V6 final cross-year inc, first 1984.",0.85
 NC,Greensboro News and Record,132700,1996,JUDGE,18-A,Superior Court 18-A,NC,"FRYE, HENRY E JR",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,1996,JUDGE,18-B,Superior Court 18-B,NC,"ROSS, TOM",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,1996,JUDGE,18-E,Superior Court 18-E,NC,"EAGLES, CATHERINE",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,1996,JUDGE,19,District Court 19,NC,"BOONE, RONALD L",Democrat,1,,,,Marked in summary list,0.80
-NC,Greensboro News and Record,132700,1996,LT GOVERNOR,,,NC,"WICKER, DENNIS",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,1996,PRESIDENT,,,NC,"CLINTON, BILL",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,1996,SENATOR,,,NC,"GANTT, HARVEY",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,1996,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"WICKER, DENNIS",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,1996,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"CLINTON, BILL",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,1996,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"GANTT, HARVEY",Democrat,1,,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,1996,STATE REP,,Guilford County (House district),NC,"JARRELL, MARY",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,1996,STATE REP,,Guilford County (House district),NC,"JEFFUS, MAGGIE",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,1998,CNTY COMM,1,Guilford County District 1,NC,"DUNAVANT, W G",Democrat,1,,,,Marked in summary list,0.85
@@ -238,15 +238,15 @@ NC,Greensboro News and Record,132700,1998,COURT OF APPEALS,,Greene seat,NC,"GREE
 NC,Greensboro News and Record,132700,1998,COURT OF APPEALS,,Horton seat,NC,"HORTON, CLARENCE E JR",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,1998,COURT OF APPEALS,,Arnold seat,NC,"HUNTER, ROBERT",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,1998,COURT OF APPEALS,,Timmons-Goodman seat,NC,"TIMMONS-GOODMAN, PATRICIA",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,1998,DA/PROSECUTOR,18,Guilford County,NC,"KIMEL, HORACE M",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,1998,DA/PROSECUTOR,18,Guilford County,NC,"KIMEL, HORACE M JR",Democrat,1,1,,,"Marked in summary list | V4: name std KIMEL, HORACE M → KIMEL, HORACE M JR.",0.95
 NC,Greensboro News and Record,132700,1998,JUDGE,18,Guilford County District Court,NC,"ENOCHS, WENDY M",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,2,Guilford County BoE District 2,NC,"MENDENHALL, SUSAN",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"HICKS, HUGH T",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"TEDDER, DEWEY",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,8,Guilford County BoE District 8,NC,"BOYKIN, CALVIN J",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ALLEN, PAMELA",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"FROHNAPFEL, JUDY",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,1998,SENATOR,,,NC,"EDWARDS, JOHN",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,2,Guilford County BoE District 2,NC,"MENDENHALL, SUSAN",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"HICKS, HUGH T",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"TEDDER, DEWEY",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,8,Guilford County BoE District 8,NC,"BOYKIN, CALVIN J",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ALLEN, PAMELA",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1998,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"FROHNAPFEL, JUDY",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,1998,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"EDWARDS, JOHN",Democrat,1,,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,1998,SHERIFF,,Guilford County,NC,"BARNES, BJ",Republican,1,,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,1998,STATE REP,26,NC House District 26,NC,"ADAMS, ALMA S",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,1998,STATE REP,89,NC House District 89,NC,"JARRELL, MARY",Democrat,1,1,,,Marked in summary list,0.90
@@ -254,64 +254,64 @@ NC,Greensboro News and Record,132700,1998,STATE REP,89,NC House District 89,NC,"
 NC,Greensboro News and Record,132700,1998,STATE SENATOR,32,NC Senate District 32,NC,"HAGAN, KAY R",Democrat,1,,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,1998,SUPREME COURT,,Whichard seat,NC,"MARTIN, MARK",Republican,1,,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,1998,SUPREME COURT,,Webb seat,NC,"WYNN, JAMES A JR",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2000,ATTORNEY GENERAL,,,NC,"COOPER, ROY",Democrat,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2000,AUDITOR,,,NC,"CAMPBELL, RALPH",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2000,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"COOPER, ROY",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2000,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"CAMPBELL, RALPH",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2000,CNTY COMM,4,Guilford County District 4,NC,"LANDRETH, BOB",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,CNTY COMM,5,Guilford County District 5,NC,"YOW, BILLY",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,CNTY COMM,7,Guilford County District 7,NC,"GILLESPIE, DON JR",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"BARBER, MIKE",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"WADE, TRUDY",Republican,1,,1,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2000,COMMISSIONER OF AGRICULTURE,,,NC,"PHIPPS, MEG SCOTT",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2000,COMMISSIONER OF LABOR,,,NC,"BERGER, DOUG",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2000,GOVERNOR,,,NC,"EASLEY, MIKE",Democrat,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2000,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2000,AGRICULTURE COMMISSIONER,,NORTH CAROLINA COMMISSIONER OF AGRICULTURE,NC,"PHIPPS, MEG SCOTT",Democrat,1,,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2000,COMMISSIONER OF LABOR,,NORTH CAROLINA COMMISSIONER OF LABOR,NC,"BERGER, DOUG",Democrat,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2000,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"EASLEY, MIKE",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2000,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
 NC,Greensboro News and Record,132700,2000,H,5,5th Congressional District,NC,"BURR, RICHARD",Republican,1,,1,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2000,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2000,INSURANCE COMMISSIONER,,,NC,"LONG, JIM",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2000,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Marked in summary list | V2: name std to J. HOWARD.,0.95
+NC,Greensboro News and Record,132700,2000,INSURANCE COMMISSIONER,,INSURANCE COMMISSIONER OF NORTH CAROLINA,NC,"LONG, JIM",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2000,JUDGE,18,Guilford County District Court,NC,"ALLOWAY, SHERRY FOWLER",Republican,1,,1,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,JUDGE,18,Guilford County District Court,NC,"BRAY, SUSAN",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,JUDGE,18,Guilford County District Court,NC,"DAISY, BILL",Republican,1,,1,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,JUDGE,18,Guilford County District Court,NC,"TERRES, JOYCE",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,JUDGE,18,Guilford County District Court,NC,"VINCENT, TERESA H",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2000,LT GOVERNOR,,,NC,"PERDUE, BEVERLY",Democrat,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2000,PRESIDENT,,,NC,"GORE, AL",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2000,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"PERDUE, BEVERLY",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2000,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"GORE, AL",Democrat,1,,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2000,REGISTER OF DEEDS,,Guilford County,NC,"PERSON, JIMMY",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2000,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"ROBINSON, GLADYS",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2000,SCHOOL BOARD,9,Guilford County BoE District 9,NC,"QUICK, AMOS III",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2000,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"GARRETT, DARLENE",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2000,SEC OF STATE,,,NC,"MARSHALL, ELAINE",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2000,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"ROBINSON, GLADYS",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2000,SCHOOL BOARD,9,Guilford County BoE District 9,NC,"QUICK, AMOS III",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2000,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"GARRETT, DARLENE",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2000,SEC OF STATE,,SECRETARY OF STATE OF NORTH CAROLINA,NC,"MARSHALL, ELAINE F",Democrat,1,1,,,"Marked in summary list | V4: name std MARSHALL, ELAINE → MARSHALL, ELAINE F.",0.95
 NC,Greensboro News and Record,132700,2000,STATE REP,26,NC House District 26,NC,"ADAMS, ALMA S",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2000,STATE REP,27,NC House District 27,NC,"SHARPE, JOANNE",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,STATE REP,31,NC House District 31,NC,"JARRELL, MARY",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2000,STATE REP,32,NC House District 32,NC,"JEFFUS, MAGGIE",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2000,STATE SENATOR,12,NC Senate District 12,NC,"PENCE, VIC",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2000,STATE SENATOR,19,NC Senate District 19,NC,"WHEELER, AL",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2000,STATE SENATOR,33,NC Senate District 33,NC,"HAGAN, KAY",Democrat,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2000,SUPERINTENDENT,,,NC,"WARD, MIKE",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2000,STATE SENATOR,33,NC Senate District 33,NC,"HAGAN, KAY R",Democrat,1,1,,,"Marked in summary list | V4: name std HAGAN, KAY → HAGAN, KAY R.",0.85
+NC,Greensboro News and Record,132700,2000,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"WARD, MIKE",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2000,SUPREME COURT,,Associate Justice,NC,"FREEMAN, FRANKLIN",Democrat,1,,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2000,SUPREME COURT,,Chief Justice,NC,"FRYE, HENRY",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2000,TREASURER,,,NC,"MOORE, RICHARD",Democrat,1,,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2000,TREASURER,,TREASURER OF NORTH CAROLINA,NC,"MOORE, RICHARD",Democrat,1,,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2002,CNTY CLERK,,Guilford County,NC,"CHURCHILL, DAVID L",Democrat,1,,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2002,CNTY COMM,2,Guilford County District 2,NC,"ARNOLD, STEPHEN",Republican,1,,1,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2002,CNTY COMM,4,Guilford County District 4,NC,"THIGPEN, JEFF L",Democrat,1,,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2002,CNTY COMM,4,Guilford County District 4,NC,"THIGPEN, JEFF L",Democrat,1,1,,,"Marked in summary list | V3 CC cross-year inc, first 1998.",0.90
 NC,Greensboro News and Record,132700,2002,DA/PROSECUTOR,18,Guilford County,NC,"ALBRIGHT, STUART",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2002,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2002,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
 NC,Greensboro News and Record,132700,2002,H,13,13th Congressional District,NC,"MILLER, BRAD",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2002,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"BOYKIN, CALVIN J",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"SYKES, MARTI",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"WOOD, JOE",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ALLEN, PAM",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ROUTH, NANCY R",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2002,SENATOR,,,NC,"BOWLES, ERSKINE B",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2002,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Marked in summary list | V2: name std to J. HOWARD.,0.95
+NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"BOYKIN, CALVIN J",Nonpartisan,1,,,1,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 1998.",0.85
+NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"SYKES, MARTI",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"WOOD, JOE",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ALLEN, PAM",Nonpartisan,1,,,1,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 1994.",0.85
+NC,Greensboro News and Record,132700,2002,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ROUTH, NANCY R",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2002,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"BOWLES, ERSKINE B",Democrat,1,,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2002,SHERIFF,,Guilford County,NC,"MCNALLY, JIM",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2002,STATE REP,42,NC House District 42,NC,"WOOD, STEVE",Republican,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2002,STATE REP,42,NC House District 42,NC,"WOOD, STEVE",Republican,1,,1,,"Marked in summary list | V6 final cross-year inc, first 1994.",0.85
 NC,Greensboro News and Record,132700,2002,STATE REP,57,NC House District 57,NC,"BOWIE, JOANNE W",Republican,1,,1,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2002,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA S",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2002,STATE REP,59,NC House District 59,NC,"JEFFUS, MAGGIE",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2002,STATE REP,60,NC House District 60,NC,"JONES, EARL",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2002,STATE REP,62,NC House District 62,NC,"BLUST, JOHN M",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2002,STATE REP,62,NC House District 62,NC,"BOYD-MCINTYRE, FLOSSIE",Democrat,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2002,STATE REP,62,NC House District 62,NC,"BOYD-MCINTYRE, FLOSSIE",Democrat,1,1,,,"Marked in summary list | V6 final cross-year inc, first 1994.",0.85
 NC,Greensboro News and Record,132700,2002,STATE SENATOR,24,NC Senate District 24,NC,"BERGER, PHILLIP E",Republican,1,,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2002,STATE SENATOR,27,NC Senate District 27,NC,"HAGAN, KAY R",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2002,STATE SENATOR,27,NC Senate District 27,NC,"MCDANIEL, MARK",Republican,1,,,,Marked in summary list,0.85
@@ -319,219 +319,219 @@ NC,Greensboro News and Record,132700,2002,STATE SENATOR,28,NC Senate District 28
 NC,Greensboro News and Record,132700,2002,SUPREME COURT,,Associate Justice,NC,"BRADY, EDWARD THOMAS",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2002,SUPREME COURT,,Associate Justice,NC,"BUTTERFIELD, G K",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2002,SUPREME COURT,,Associate Justice,NC,"HUNTER, BOB",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2002,SUPREME COURT,,Associate Justice,NC,"ORR, ROBERT F",Republican,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2004,ATTORNEY GENERAL,,,NC,"COOPER, ROY",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2004,AUDITOR,,,NC,"CAMPBELL, RALPH",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2002,SUPREME COURT,,Associate Justice,NC,"ORR, ROBERT F",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.90
+NC,Greensboro News and Record,132700,2004,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"COOPER, ROY",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2004,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"CAMPBELL, RALPH",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2004,CNTY COMM,4,Guilford County District 4,NC,"PERKINS, C R III",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2004,CNTY COMM,7,Guilford County District 7,NC,"BARBER, MICHAEL",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2004,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"CANTOS, ROGER",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"WADE, TRUDY",Republican,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,COMMISSIONER OF AGRICULTURE,,,NC,"TROXLER, STEVE",Republican,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2004,COMMISSIONER OF LABOR,,,NC,"GOODWIN, WAYNE",Democrat,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2004,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"WADE, TRUDY",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
+NC,Greensboro News and Record,132700,2004,AGRICULTURE COMMISSIONER,,NORTH CAROLINA COMMISSIONER OF AGRICULTURE,NC,"TROXLER, STEVE",Republican,1,,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2004,COMMISSIONER OF LABOR,,NORTH CAROLINA COMMISSIONER OF LABOR,NC,"GOODWIN, WAYNE",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2004,COURT OF APPEALS,,NC Court of Appeals,NC,"BRYANT, WANDA G",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2004,COURT OF APPEALS,,NC Court of Appeals,NC,"MCGEE, LINDA",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2004,COURT OF APPEALS,,NC Court of Appeals,NC,"THORNBURG, ALAN",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,GOVERNOR,,,NC,"EASLEY, MIKE",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2004,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2004,H,13,13th Congressional District,NC,"MILLER, BRAD",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2004,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2004,INSURANCE COMMISSIONER,,,NC,"LONG, JIM",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2004,JUDGE,18,Guilford County District Court,NC,"BURCH, SUSAN R",,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2004,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"EASLEY, MIKE",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2004,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,2004,H,13,13th Congressional District,NC,"MILLER, BRAD",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,2004,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Marked in summary list | V2: name std to J. HOWARD.,0.95
+NC,Greensboro News and Record,132700,2004,INSURANCE COMMISSIONER,,INSURANCE COMMISSIONER OF NORTH CAROLINA,NC,"LONG, JIM",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2004,JUDGE,18,Guilford County District Court,NC,"BURCH, SUSAN R",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
 NC,Greensboro News and Record,132700,2004,JUDGE,18,Guilford County District Court,NC,"FOSTER, THOMAS G JR",Democrat,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,JUDGE,18,Guilford County District Court,NC,"HASSELL, A ROBINSON",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,JUDGE,18,Guilford County District Court,NC,"HINNANT, PATRICE A",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,LT GOVERNOR,,,NC,"SNYDER, JIM",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,PRESIDENT,,,NC,"KERRY, JOHN",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2004,JUDGE,18,Guilford County District Court,NC,"HASSELL, A ROBINSON",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2004,JUDGE,18,Guilford County District Court,NC,"HINNANT, PATRICE A",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2004,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"SNYDER, JIM",Republican,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2004,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"KERRY, JOHN",Democrat,1,,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2004,REGISTER OF DEEDS,,Guilford County,NC,"THIGPEN, JEFF L",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2004,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"FALLS, WILLIAM S",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,SCHOOL BOARD,5,Guilford County BoE District 5,NC,"COOKE, KRIS D",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,SCHOOL BOARD,9,Guilford County BoE District 9,NC,"QUICK, AMOS L",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"KEARNS, DOROTHY R",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,SEC OF STATE,,,NC,"MARSHALL, ELAINE F",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2004,SENATOR,,,NC,"BOWLES, ERSKINE",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2004,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"FALLS, WILLIAM S",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2004,SCHOOL BOARD,5,Guilford County BoE District 5,NC,"COOKE, KRIS D",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2004,SCHOOL BOARD,9,Guilford County BoE District 9,NC,"QUICK, AMOS L",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2004,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"KEARNS, DOROTHY R",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2004,SEC OF STATE,,SECRETARY OF STATE OF NORTH CAROLINA,NC,"MARSHALL, ELAINE F",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2004,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"BOWLES, ERSKINE",Democrat,1,,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2004,STATE REP,57,NC House District 57,NC,"HARRISON, MARY",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2004,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA S",Democrat,1,1,,,"Marked in summary list | V4: name std ADAMS, ALMA → ADAMS, ALMA S.",0.95
 NC,Greensboro News and Record,132700,2004,STATE REP,59,NC House District 59,NC,"JEFFUS, MAGGIE",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2004,STATE SENATOR,27,NC Senate District 27,NC,"HAGAN, KAY",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2004,SUPERINTENDENT,,,NC,"FLETCHER, BILL",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2004,SUPREME COURT,,,NC,"PARKER, SARAH",Democrat,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2004,TREASURER,,,NC,"MOORE, RICHARD H",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2004,STATE SENATOR,27,NC Senate District 27,NC,"HAGAN, KAY R",Democrat,1,1,,,"Marked in summary list | V4: name std HAGAN, KAY → HAGAN, KAY R.",0.95
+NC,Greensboro News and Record,132700,2004,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"FLETCHER, BILL",Republican,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2004,SUPREME COURT,,NORTH CAROLINA SUPREME COURT,NC,"PARKER, SARAH",Democrat,1,1,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2004,TREASURER,,TREASURER OF NORTH CAROLINA,NC,"MOORE, RICHARD H",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2006,CNTY CLERK,,Guilford County,NC,"CHURCHILL, DAVID",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2006,CNTY COMM,3,Guilford County District 3,NC,"SHAW, LINDA",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2006,CNTY COMM,4,Guilford County District 4,NC,"CASHION, KAY",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2006,CNTY COMM,9,Guilford County District 9,NC,"COLEMAN, CAROLYN",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2006,COURT OF APPEALS,,NC Court of Appeals,NC,"HUNTER, ROBERT C",Republican,1,1,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2006,COURT OF APPEALS,,NC Court of Appeals,NC,"HUNTER, ROBERT C",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
 NC,Greensboro News and Record,132700,2006,COURT OF APPEALS,,NC Court of Appeals,NC,"STEPHENS, LINDA",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2006,DA/PROSECUTOR,18,Guilford County,NC,"HENDERSON, DOUG",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2006,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2006,H,13,13th Congressional District,NC,"MILLER, BRAD",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2006,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2006,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,2006,H,13,13th Congressional District,NC,"MILLER, BRAD",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,2006,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Marked in summary list | V2: name std to J. HOWARD.,0.95
 NC,Greensboro News and Record,132700,2006,JUDGE,18,Guilford County District Court,NC,"JARRELL, TOM",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2006,JUDGE,18C,Superior Court District 18C,NC,"BRAY, SUSAN",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2006,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"HEBERT, GARTH",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2006,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"NUDONE, ROBIN",,1,,,,Marked in summary list (nonpartisan),0.80
+NC,Greensboro News and Record,132700,2006,JUDGE,18C,Superior Court District 18C,NC,"BRAY, SUSAN",Republican,1,,1,,"Marked in summary list | V4 judicial cross-year inc, first 2000.",0.85
+NC,Greensboro News and Record,132700,2006,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"HEBERT, GARTH",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2006,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"NUDONE, ROBIN",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.80
 NC,Greensboro News and Record,132700,2006,SHERIFF,,Guilford County,NC,"BARNES, BJ",Republican,1,,1,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2006,STATE REP,57,NC House District 57,NC,"HARRISON, PRICEY",Democrat,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2006,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2006,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA S",Democrat,1,1,,,"Marked in summary list | V4: name std ADAMS, ALMA → ADAMS, ALMA S.",0.95
 NC,Greensboro News and Record,132700,2006,STATE REP,59,NC House District 59,NC,"BURNLEY, JIM",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2006,STATE REP,60,NC House District 60,NC,"WRIGHT, BILL",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2006,STATE SENATOR,26,NC Senate District 26,NC,"BERGER, PHIL",Republican,1,,1,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2006,SUPREME COURT,,Associate Justice,NC,"HUDSON, ROBIN",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2006,SUPREME COURT,,Associate Justice,NC,"MARTIN, MARK",Republican,1,1,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2006,SUPREME COURT,,Associate Justice,NC,"MARTIN, MARK",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
 NC,Greensboro News and Record,132700,2006,SUPREME COURT,,Chief Justice,NC,"PARKER, SARAH",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2006,SUPREME COURT,,Associate Justice,NC,"TIMMONS-GOODMAN, PATRICIA",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2008,ATTORNEY GENERAL,,,NC,"COOPER, ROY",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2008,AUDITOR,,,NC,"MERRITT, LESLIE",Republican,1,,1,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2008,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"COOPER, ROY",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2008,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"MERRITT, LESLIE",Republican,1,,1,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2008,CNTY COMM,4,Guilford County District 4,NC,"PERKINS, KIRK",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2008,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"GIBSON, PAUL",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2008,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"PROCTOR, LARRY",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2008,COMMISSIONER OF AGRICULTURE,,,NC,"TROXLER, STEVE",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2008,COMMISSIONER OF LABOR,,,NC,"DONNAN, MARY FANT",Democrat,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2008,AGRICULTURE COMMISSIONER,,NORTH CAROLINA COMMISSIONER OF AGRICULTURE,NC,"TROXLER, STEVE",Republican,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2008,COMMISSIONER OF LABOR,,NORTH CAROLINA COMMISSIONER OF LABOR,NC,"DONNAN, MARY FANT",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2008,COURT OF APPEALS,,NC Court of Appeals,NC,"ARROWOOD, JOHN S",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2008,COURT OF APPEALS,,NC Court of Appeals,NC,"ERVIN, SAM J IV",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2008,COURT OF APPEALS,,NC Court of Appeals,NC,"MCCULLOUGH, DOUG",Republican,1,1,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2008,COURT OF APPEALS,,NC Court of Appeals,NC,"MCCULLOUGH, DOUG",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
 NC,Greensboro News and Record,132700,2008,COURT OF APPEALS,,NC Court of Appeals,NC,"STEPHENS, LINDA",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2008,COURT OF APPEALS,,NC Court of Appeals,NC,"WYNN, JAMES A",Democrat,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2008,GOVERNOR,,,NC,"MCCRORY, PAT",Republican,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2008,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2008,H,13,13th Congressional District,NC,"MILLER, BRAD",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2008,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2008,INSURANCE COMMISSIONER,,,NC,"GOODWIN, WAYNE",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"BROWN, BETTY J",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"BURCH, SUSAN",,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"ENOCHS, ROBERT",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"HASSELL, A ROBINSON",,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"SIZEMORE, POLLY D",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2008,LT GOVERNOR,,,NC,"DALTON, WALTER",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2008,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"GARRETT, DARLENE",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2008,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"MCKINNEY, MICHAEL",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2008,SEC OF STATE,,,NC,"MARSHALL, ELAINE",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2008,SENATOR,,,NC,"HAGAN, KAY",Democrat,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2008,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2008,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"MCCRORY, PAT",Republican,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2008,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,2008,H,13,13th Congressional District,NC,"MILLER, BRAD",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,2008,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Marked in summary list | V2: name std to J. HOWARD.,0.95
+NC,Greensboro News and Record,132700,2008,INSURANCE COMMISSIONER,,INSURANCE COMMISSIONER OF NORTH CAROLINA,NC,"GOODWIN, WAYNE",Democrat,1,,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"BROWN, BETTY J",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"BURCH, SUSAN",Nonpartisan,1,1,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"ENOCHS, ROBERT",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"HASSELL, A ROBINSON",Nonpartisan,1,1,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2008,JUDGE,18,Guilford County District Court,NC,"SIZEMORE, POLLY D",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2008,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"DALTON, WALTER",Democrat,1,,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2008,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"GARRETT, DARLENE",Nonpartisan,1,,,1,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 2000.",0.85
+NC,Greensboro News and Record,132700,2008,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"MCKINNEY, MICHAEL",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2008,SEC OF STATE,,SECRETARY OF STATE OF NORTH CAROLINA,NC,"MARSHALL, ELAINE F",Democrat,1,1,,,"Marked in summary list | V4: name std MARSHALL, ELAINE → MARSHALL, ELAINE F.",0.95
+NC,Greensboro News and Record,132700,2008,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"HAGAN, KAY R",Democrat,1,,,,"Marked in summary list | V4: name std HAGAN, KAY → HAGAN, KAY R.",0.95
+NC,Greensboro News and Record,132700,2008,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA S",Democrat,1,1,,,"Marked in summary list | V4: name std ADAMS, ALMA → ADAMS, ALMA S.",0.95
 NC,Greensboro News and Record,132700,2008,STATE SENATOR,27,NC Senate District 27,NC,"VAUGHAN, DON",Democrat,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2008,SUPERINTENDENT,,,NC,"ATKINSON, JUNE",Democrat,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2008,SUPREME COURT,,,NC,"EDMUNDS, ROBERT H JR",Republican,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2008,TREASURER,,,NC,"DAUGHTRIDGE, BILL",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2010,COURT OF APPEALS,,NC Court of Appeals,NC,"CALABRIA, ANN MARIE",Republican,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2010,COURT OF APPEALS,,NC Court of Appeals,NC,"ELMORE, RICK",Republican,1,1,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2008,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"ATKINSON, JUNE",Democrat,1,1,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2008,SUPREME COURT,,NORTH CAROLINA SUPREME COURT,NC,"EDMUNDS, ROBERT H JR",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.90
+NC,Greensboro News and Record,132700,2008,TREASURER,,TREASURER OF NORTH CAROLINA,NC,"DAUGHTRIDGE, BILL",Republican,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2010,COURT OF APPEALS,,NC Court of Appeals,NC,"CALABRIA, ANN MARIE",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
+NC,Greensboro News and Record,132700,2010,COURT OF APPEALS,,NC Court of Appeals,NC,"ELMORE, RICK",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
 NC,Greensboro News and Record,132700,2010,COURT OF APPEALS,,NC Court of Appeals,NC,"GEER, MARTHA",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2010,COURT OF APPEALS,,NC Court of Appeals (Special Election),NC,"HAMMER, STANLEY",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2010,COURT OF APPEALS,,NC Court of Appeals (Special Election),NC,"THIGPEN, CRESSIE",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2010,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2010,H,13,13th Congressional District,NC,"MILLER, BRAD",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2010,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2010,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,2010,H,13,13th Congressional District,NC,"MILLER, BRAD",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,2010,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Marked in summary list | V2: name std to J. HOWARD.,0.95
 NC,Greensboro News and Record,132700,2010,JUDGE,18D,Superior Court District 18D,NC,"DAVIS, LINDSAY JR",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2010,MAYOR,,High Point,NC,"SMOTHERS, BECKY",,1,,,,Marked in summary list (High Point mayor),0.85
-NC,Greensboro News and Record,132700,2010,SCHOOL BOARD,2,Guilford County BoE District 2,NC,"HEBERT, GARTH",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2010,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ROUTH, NANCY",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2010,SENATOR,,,NC,"BURR, RICHARD",Republican,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2010,MAYOR,,High Point,NC,"SMOTHERS, BECKY",Nonpartisan,1,,,,"Marked in summary list (High Point mayor) | V2: party=Nonpartisan, NC mayor race.",0.85
+NC,Greensboro News and Record,132700,2010,SCHOOL BOARD,2,Guilford County BoE District 2,NC,"HEBERT, GARTH",Nonpartisan,1,,,1,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 2006.",0.85
+NC,Greensboro News and Record,132700,2010,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ROUTH, NANCY",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2010,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"BURR, RICHARD",Republican,1,,1,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2010,SHERIFF,,Guilford County,NC,"BARNES, BJ",Republican,1,,1,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2010,STATE REP,57,NC House District 57,NC,"HARRISON, PRICEY",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2010,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2010,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA S",Democrat,1,1,,,"Marked in summary list | V4: name std ADAMS, ALMA → ADAMS, ALMA S.",0.95
 NC,Greensboro News and Record,132700,2010,STATE REP,59,NC House District 59,NC,"YON, THERESA",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2010,STATE REP,60,NC House District 60,NC,"BRANDON, MARCUS",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2010,STATE REP,62,NC House District 62,NC,"BLUST, JOHN",Republican,1,,1,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2010,STATE SENATOR,27,NC Senate District 27,NC,"VAUGHAN, DON",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2010,STATE SENATOR,28,NC Senate District 28,NC,"DAVIS, BRUCE",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2010,SUPREME COURT,,,NC,"HUNTER, ROBERT C",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,AUDITOR,,,NC,"WOOD, BETH",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2010,SUPREME COURT,,NORTH CAROLINA SUPREME COURT,NC,"HUNTER, ROBERT C",Republican,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2012,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"WOOD, BETH",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2012,CNTY COMM,4,Guilford County District 4,NC,"BRANSON, JERRY ALAN",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,CNTY COMM,5,Guilford County District 5,NC,"GIBSON, PAUL",Democrat,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2012,CNTY COMM,5,Guilford County District 5,NC,"GIBSON, PAUL",Democrat,1,1,,,"Marked in summary list | V3 CC cross-year inc, first 2008.",0.85
 NC,Greensboro News and Record,132700,2012,CNTY COMM,6,Guilford County District 6,NC,"HENNING, HANK",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,COMMISSIONER OF AGRICULTURE,,,NC,"TROXLER, STEVE",Republican,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2012,AGRICULTURE COMMISSIONER,,NORTH CAROLINA COMMISSIONER OF AGRICULTURE,NC,"TROXLER, STEVE",Republican,1,,1,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2012,COURT OF APPEALS,,NC Court of Appeals,NC,"BRYANT, WANDA",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2012,COURT OF APPEALS,,NC Court of Appeals,NC,"MCGEE, LINDA",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2012,COURT OF APPEALS,,NC Court of Appeals,NC,"THIGPEN, CRESSIE",Democrat,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,GOVERNOR,,,NC,"MCCRORY, PAT",Republican,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2012,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2012,H,6,Sixth Congressional District,NC,"COBLE, HOWARD",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2012,INSURANCE COMMISSIONER,,,NC,"GOODWIN, WAYNE",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"ALLOWAY, SHERRY",Republican,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,JUDGE,18,Superior Court,NC,"BRAY, SUSAN",Republican,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"BURCH, SUSAN",,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"DAVIS, BILL",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"SAMET, JAN",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"SIZEMORE, POLLY",,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"TOMLIN, BRIAN",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,LT GOVERNOR,,,NC,"FOREST, DAN",Republican,1,,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2012,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ALEXANDER, SANDRA",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2012,SEC OF STATE,,,NC,"MARSHALL, ELAINE",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2012,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2012,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"MCCRORY, PAT",Republican,1,,1,,"Marked in summary list | V6 final cross-year inc, first 2008.",0.95
+NC,Greensboro News and Record,132700,2012,H,12,12th Congressional District,NC,"WATT, MEL",Democrat,1,1,,,Marked in summary list | V2 Pattern K fix.,0.95
+NC,Greensboro News and Record,132700,2012,H,6,Sixth Congressional District,NC,"COBLE, J. HOWARD",Republican,1,,1,,Marked in summary list | V2: name std to J. HOWARD.,0.95
+NC,Greensboro News and Record,132700,2012,INSURANCE COMMISSIONER,,INSURANCE COMMISSIONER OF NORTH CAROLINA,NC,"GOODWIN, WAYNE",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"ALLOWAY, SHERRY FOWLER",Republican,1,,1,,"Marked in summary list | V2 Pattern K fix. | V4: name std ALLOWAY, SHERRY → ALLOWAY, SHERRY FOWLER.",0.85
+NC,Greensboro News and Record,132700,2012,JUDGE,18,Superior Court,NC,"BRAY, SUSAN",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
+NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"BURCH, SUSAN",Nonpartisan,1,1,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"DAVIS, BILL",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"SAMET, JAN",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"SIZEMORE, POLLY",Nonpartisan,1,1,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2012,JUDGE,18,Guilford County District Court,NC,"TOMLIN, BRIAN",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2012,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"FOREST, DAN",Republican,1,,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2012,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ALEXANDER, SANDRA",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2012,SEC OF STATE,,SECRETARY OF STATE OF NORTH CAROLINA,NC,"MARSHALL, ELAINE F",Democrat,1,1,,,"Marked in summary list | V4: name std MARSHALL, ELAINE → MARSHALL, ELAINE F.",0.95
+NC,Greensboro News and Record,132700,2012,STATE REP,58,NC House District 58,NC,"ADAMS, ALMA S",Democrat,1,1,,,"Marked in summary list | V4: name std ADAMS, ALMA → ADAMS, ALMA S.",0.95
 NC,Greensboro News and Record,132700,2012,STATE REP,61,NC House District 61,NC,"FAIRCLOTH, JOHN",Republican,1,,1,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2012,STATE REP,62,NC House District 62,NC,"BLUST, JOHN",Republican,1,,1,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2012,STATE SENATOR,26,NC Senate District 26,NC,"STANLEY, BOBBY",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2012,STATE SENATOR,27,NC Senate District 27,NC,"WADE, TRUDY",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2012,SUPERINTENDENT,,,NC,"ATKINSON, JUNE",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2012,SUPREME COURT,,,NC,"NEWBY, PAUL",Republican,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2012,TREASURER,,,NC,"COWELL, JANET",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2012,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"ATKINSON, JUNE",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2012,SUPREME COURT,,NORTH CAROLINA SUPREME COURT,NC,"NEWBY, PAUL",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.90
+NC,Greensboro News and Record,132700,2012,TREASURER,,TREASURER OF NORTH CAROLINA,NC,"COWELL, JANET",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2014,CNTY CLERK,,Guilford County,NC,"WALLACE, JANET",Republican,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2014,CNTY COMM,1,Guilford County District 1,NC,"FOSTER, CARLVENA",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2014,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"CASHION, KAY",Democrat,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2014,CNTY COMM,AT-LARGE,Guilford County At-Large,NC,"CASHION, KAY",Democrat,1,1,,,"Marked in summary list | V3 CC cross-year inc, first 2006.",0.85
 NC,Greensboro News and Record,132700,2014,COURT OF APPEALS,,NC Court of Appeals,NC,"DAVIS, MARK",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2014,COURT OF APPEALS,,NC Court of Appeals,NC,"INMAN, LUCY",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2014,H,12,12th Congressional District,NC,"ADAMS, ALMA",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2014,H,12,12th Congressional District,NC,"ADAMS, ALMA S",Democrat,1,,,,"Marked in summary list | V4: name std ADAMS, ALMA → ADAMS, ALMA S.",0.95
 NC,Greensboro News and Record,132700,2014,H,6,Sixth Congressional District,NC,"WALKER, MARK",Republican,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2014,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"DUNCAN, ALAN",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2014,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ROUTH, NANCY",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2014,SENATOR,,,NC,"HAGAN, KAY",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2014,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"DUNCAN, ALAN",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2014,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"ROUTH, NANCY",Nonpartisan,1,,,1,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 2010.",0.85
+NC,Greensboro News and Record,132700,2014,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"HAGAN, KAY R",Democrat,1,1,,,"Marked in summary list | V4: name std HAGAN, KAY → HAGAN, KAY R.",0.95
 NC,Greensboro News and Record,132700,2014,SHERIFF,,Guilford County,NC,"BARNES, BJ",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2014,STATE REP,59,NC House District 59,NC,"HARDISTER, JON",Republican,1,1,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2014,STATE REP,59,NC House District 59,NC,"HARDISTER, JON",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
 NC,Greensboro News and Record,132700,2014,STATE REP,61,NC House District 61,NC,"FAIRCLOTH, JOHN",Republican,1,,1,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2014,STATE REP,62,NC House District 62,NC,"BLUST, JOHN",Republican,1,,1,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2014,STATE SENATOR,26,NC Senate District 26,NC,"OSBORNE, WILLIAM",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2014,SUPREME COURT,,Associate Justice,NC,"BEASLEY, CHERI",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2014,SUPREME COURT,,Associate Justice,NC,"ERVIN, SAM IV",Democrat,1,,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2014,SUPREME COURT,,Associate Justice,NC,"HUDSON, ROBIN",Democrat,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2014,SUPREME COURT,,Chief Justice,NC,"MARTIN, MARK",Republican,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2016,ATTORNEY GENERAL,,,NC,"STEIN, JOSH",Democrat,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2016,AUDITOR,,,NC,"WOOD, BETH",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2014,SUPREME COURT,,Chief Justice,NC,"MARTIN, MARK",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.90
+NC,Greensboro News and Record,132700,2016,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"STEIN, JOSH",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2016,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"WOOD, BETH",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2016,CNTY COMM,4,Guilford County District 4,NC,"PERKINS, KIRK",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2016,CNTY COMM,6,Guilford County District 6,NC,"HENNING, HANK",Republican,1,,1,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,COMMISSIONER OF AGRICULTURE,,,NC,"TROXLER, STEVE",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2016,COMMISSIONER OF LABOR,,,NC,"MEEKER, CHARLES",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,COURT OF APPEALS,,NC Court of Appeals,NC,"DIETZ, RICHARD",Republican,1,1,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2016,AGRICULTURE COMMISSIONER,,NORTH CAROLINA COMMISSIONER OF AGRICULTURE,NC,"TROXLER, STEVE",Republican,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2016,COMMISSIONER OF LABOR,,NORTH CAROLINA COMMISSIONER OF LABOR,NC,"MEEKER, CHARLES",Democrat,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2016,COURT OF APPEALS,,NC Court of Appeals,NC,"DIETZ, RICHARD",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
 NC,Greensboro News and Record,132700,2016,COURT OF APPEALS,,NC Court of Appeals,NC,"EAGLES, MARGARET",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,COURT OF APPEALS,,NC Court of Appeals,NC,"HUNTER, ROBERT N JR",Republican,1,1,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2016,COURT OF APPEALS,,NC Court of Appeals,NC,"HUNTER, ROBERT N JR",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.85
 NC,Greensboro News and Record,132700,2016,COURT OF APPEALS,,NC Court of Appeals,NC,"MCKOY-MITCHELL, RICKYE",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2016,COURT OF APPEALS,,NC Court of Appeals,NC,"STEPHENS, LINDA",Democrat,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,GOVERNOR,,,NC,"COOPER, ROY",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2016,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"COOPER, ROY",Democrat,1,,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2016,H,13,13th Congressional District,NC,"DAVIS, BRUCE",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2016,H,6,Sixth Congressional District,NC,"WALKER, MARK",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2016,INSURANCE COMMISSIONER,,,NC,"GOODWIN, WAYNE",Democrat,1,1,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2016,INSURANCE COMMISSIONER,,INSURANCE COMMISSIONER OF NORTH CAROLINA,NC,"GOODWIN, WAYNE",Democrat,1,1,,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2016,JUDGE,,Superior Court,NC,"MORGAN, MICHAEL",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,JUDGE,18,Guilford County District Court,NC,"CUTCHIN, TONIA",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,JUDGE,18,Guilford County District Court,NC,"DAVIS, BILL",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,JUDGE,18,Guilford County District Court,NC,"SHERRILL, DAVID",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,JUDGE,18,Guilford County District Court,NC,"TYREY, MARC",,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,LT GOVERNOR,,,NC,"COLEMAN, LINDA",Democrat,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2016,PRESIDENT,,,NC,"CLINTON, HILLARY",Democrat,1,,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,2,Guilford County BoE District 2,NC,"BELTON, JEFF",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"KIDD, ANGELO",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,5,Guilford County BoE District 5,NC,"GARRETT, DARLENE",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"CASHWELL, WES",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,7,Guilford County BoE District 7,NC,"JENKINS, BETTYE",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"DUNCAN, ALAN",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2016,SEC OF STATE,,,NC,"MARSHALL, ELAINE",Democrat,1,1,,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2016,SENATOR,,,NC,"BURR, RICHARD",Republican,1,,1,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2016,JUDGE,18,Guilford County District Court,NC,"CUTCHIN, TONIA",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2016,JUDGE,18,Guilford County District Court,NC,"DAVIS, BILL",Nonpartisan,1,,,1,"Marked in summary list | V2: party=Nonpartisan, judicial/school office. | V4 judicial cross-year inc, first 2012.",0.85
+NC,Greensboro News and Record,132700,2016,JUDGE,18,Guilford County District Court,NC,"SHERRILL, DAVID",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2016,JUDGE,18,Guilford County District Court,NC,"TYREY, MARC",Nonpartisan,1,,,,"Marked in summary list | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2016,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"COLEMAN, LINDA",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2016,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"CLINTON, HILLARY",Democrat,1,,,,Marked in summary list,0.95
+NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,2,Guilford County BoE District 2,NC,"BELTON, JEFF",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,3,Guilford County BoE District 3,NC,"KIDD, ANGELO",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,5,Guilford County BoE District 5,NC,"GARRETT, DARLENE",Nonpartisan,1,,,1,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 2000.",0.85
+NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"CASHWELL, WES",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,7,Guilford County BoE District 7,NC,"JENKINS, BETTYE",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2016,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"DUNCAN, ALAN",Nonpartisan,1,,,1,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 2014.",0.85
+NC,Greensboro News and Record,132700,2016,SEC OF STATE,,SECRETARY OF STATE OF NORTH CAROLINA,NC,"MARSHALL, ELAINE F",Democrat,1,1,,,"Marked in summary list | V4: name std MARSHALL, ELAINE → MARSHALL, ELAINE F.",0.95
+NC,Greensboro News and Record,132700,2016,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"BURR, RICHARD",Republican,0,,1,,"Marked in summary list | V3 OCR FIX: GNR criticized Burr ('twelve years is long enough'), endorsed Ross D instead. Original V1 extraction had this flipped.",0.95
 NC,Greensboro News and Record,132700,2016,STATE REP,57,NC House District 57,NC,"HARRISON, PRICEY",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2016,STATE REP,58,NC House District 58,NC,"QUICK, AMOS",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2016,STATE REP,59,NC House District 59,NC,"HARDISTER, JON",Republican,1,,1,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2016,STATE SENATOR,27,NC Senate District 27,NC,"GARRETT, MICHAEL",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2016,STATE SENATOR,28,NC Senate District 28,NC,"ROBINSON, GLADYS",Democrat,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2016,SUPERINTENDENT,,,NC,"ATKINSON, JUNE",Democrat,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2016,SUPREME COURT,,,NC,"EDMUNDS, BOB",Republican,1,1,,,Marked in summary list,0.90
-NC,Greensboro News and Record,132700,2016,TREASURER,,,NC,"FOLWELL, DALE",Republican,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2018,CNTY COMM,2,Guilford County District 2,NC,"ALSTON, SKIP",Democrat,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2016,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"ATKINSON, JUNE",Democrat,1,1,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2016,SUPREME COURT,,NORTH CAROLINA SUPREME COURT,NC,"EDMUNDS, BOB",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.90
+NC,Greensboro News and Record,132700,2016,TREASURER,,TREASURER OF NORTH CAROLINA,NC,"FOLWELL, DALE",Republican,1,,,,Marked in summary list,0.85
+NC,Greensboro News and Record,132700,2018,CNTY COMM,2,Guilford County District 2,NC,"ALSTON, SKIP",Democrat,1,1,,,"Marked in summary list | V3 CC cross-year inc, first 1996.",0.85
 NC,Greensboro News and Record,132700,2018,CNTY COMM,3,Guilford County District 3,NC,"CONRAD, JUSTIN",Republican,1,,1,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2018,H,13,13th Congressional District,NC,"MANNING, KATHY",Democrat,1,,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2018,H,6,Sixth Congressional District,NC,"WALKER, MARK",Republican,1,,1,,Marked in summary list,0.95
-NC,Greensboro News and Record,132700,2018,JUDGE,18,Guilford County District Court,NC,"ENCINE, JAN",Republican,1,1,,,Marked in summary list,0.80
+NC,Greensboro News and Record,132700,2018,JUDGE,18,Guilford County District Court,NC,"ENCINE, JAN",Republican,1,,1,,Marked in summary list | V2 Pattern K fix.,0.80
 NC,Greensboro News and Record,132700,2018,JUDGE,18A,Superior Court 18A,NC,"CUBBAGE, LORA",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2018,JUDGE,18D,Superior Court 18D,NC,"WEST, WILLIAM",Democrat,1,1,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2018,SCHOOL BOARD,2,Guilford County BoE District 2,NC,"DRUMWRIGHT, GREG",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2018,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"BEST, DESIREE",,1,,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2018,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"CASHWELL, WES",,1,1,,,Marked in summary list (nonpartisan),0.85
-NC,Greensboro News and Record,132700,2018,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"MCGREGOR, WINSTON",,1,,,,Marked in summary list (nonpartisan),0.85
+NC,Greensboro News and Record,132700,2018,SCHOOL BOARD,2,Guilford County BoE District 2,NC,"DRUMWRIGHT, GREG",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2018,SCHOOL BOARD,4,Guilford County BoE District 4,NC,"BEST, DESIREE",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro News and Record,132700,2018,SCHOOL BOARD,6,Guilford County BoE District 6,NC,"CASHWELL, WES",Nonpartisan,1,1,,1,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office. | V3 SB cross-year inc, first 2016.",0.85
+NC,Greensboro News and Record,132700,2018,SCHOOL BOARD,AT-LARGE,Guilford County BoE At-Large,NC,"MCGREGOR, WINSTON",Nonpartisan,1,,,,"Marked in summary list (nonpartisan) | V2: party=Nonpartisan, judicial/school office.",0.85
 NC,Greensboro News and Record,132700,2018,SHERIFF,,Guilford County,NC,"BARNES, BJ",Republican,1,,1,,Marked in summary list,0.95
 NC,Greensboro News and Record,132700,2018,STATE REP,57,NC House District 57,NC,"CLEMMONS, ASHTON",Democrat,1,,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2018,STATE REP,58,NC House District 58,NC,"QUICK, AMOS",Democrat,1,1,,,Marked in summary list,0.90
@@ -539,5 +539,39 @@ NC,Greensboro News and Record,132700,2018,STATE REP,59,NC House District 59,NC,"
 NC,Greensboro News and Record,132700,2018,STATE REP,60,NC House District 60,NC,"BROCKMAN, CECIL",Democrat,1,1,,,Marked in summary list,0.85
 NC,Greensboro News and Record,132700,2018,STATE REP,61,NC House District 61,NC,"HARRISON, PRICEY",Democrat,1,1,,,Marked in summary list,0.90
 NC,Greensboro News and Record,132700,2018,STATE SENATOR,24,NC Senate District 24,NC,"WOOTEN, J D",Democrat,1,,,,Marked in summary list,0.85
-NC,Greensboro News and Record,132700,2018,STATE SENATOR,27,NC Senate District 27,NC,"GARRETT, MICHAEL",Democrat,1,,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,2018,STATE SENATOR,27,NC Senate District 27,NC,"GARRETT, MICHAEL",Democrat,1,1,,,"Marked in summary list | V3 state leg cross-year inc, first 2016.",0.90
 NC,Greensboro News and Record,132700,2018,STATE SENATOR,28,NC Senate District 28,NC,"ROBINSON, GLADYS",Democrat,1,1,,,Marked in summary list,0.90
+NC,Greensboro News and Record,132700,1984,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"REAGAN, RONALD",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Reagan R inc won re-election; GNR endorsed Mondale D.,0.85
+NC,Greensboro News and Record,132700,1988,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"BUSH, GEORGE H.W.",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Bush R won; GNR endorsed Dukakis D.,0.85
+NC,Greensboro News and Record,132700,1992,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"BUSH, GEORGE H.W.",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Bush R inc lost; GNR endorsed Clinton D.,0.85
+NC,Greensboro News and Record,132700,1996,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"DOLE, BOB",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Dole R lost; GNR endorsed Clinton D inc.,0.85
+NC,Greensboro News and Record,132700,2000,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"BUSH, GEORGE W.",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Bush R won; GNR endorsed Gore D.,0.85
+NC,Greensboro News and Record,132700,2004,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"BUSH, GEORGE W.",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Bush R inc won re-election; GNR endorsed Kerry D.,0.85
+NC,Greensboro News and Record,132700,2016,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"TRUMP, DONALD J.",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Trump R won; GNR endorsed Clinton D.,0.85
+NC,Greensboro News and Record,132700,1984,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"HELMS, JESSE",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Helms R inc won 3rd term over Hunt D.,0.85
+NC,Greensboro News and Record,132700,1986,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"BROYHILL, JAMES T.",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Broyhill R inc lost to Sanford D.,0.85
+NC,Greensboro News and Record,132700,1990,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"HELMS, JESSE",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Helms R inc won 4th term over Gantt D.,0.85
+NC,Greensboro News and Record,132700,1992,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"FAIRCLOTH, LAUCH",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Faircloth R won open seat over Sanford D.,0.85
+NC,Greensboro News and Record,132700,1996,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"HELMS, JESSE",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Helms R inc won 5th term over Gantt D.,0.85
+NC,Greensboro News and Record,132700,1998,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"FAIRCLOTH, LAUCH",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Faircloth R inc lost to Edwards D.,0.85
+NC,Greensboro News and Record,132700,2002,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"DOLE, ELIZABETH",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Dole R won open seat over Bowles D.,0.85
+NC,Greensboro News and Record,132700,2004,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"BURR, RICHARD",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Burr R won open seat over Bowles D.,0.85
+NC,Greensboro News and Record,132700,2008,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"DOLE, ELIZABETH",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Dole R inc lost to Hagan D.,0.85
+NC,Greensboro News and Record,132700,2010,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"MARSHALL, ELAINE F",Democrat,0,,,,"Pattern A: opp of GNR endorsed candidate. Marshall D lost; GNR endorsed Burr R inc. | V4: name std MARSHALL, ELAINE → MARSHALL, ELAINE F.",0.85
+NC,Greensboro News and Record,132700,2014,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"TILLIS, THOM",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Tillis R won over Hagan D inc.,0.85
+NC,Greensboro News and Record,132700,2016,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"ROSS, DEBORAH",Democrat,1,,,,Pattern A: opp of GNR endorsed candidate. Ross D lost; GNR endorsed Burr R inc. | V3 OCR FIX: GNR endorsed Ross D over Burr R inc. Per 2016 sidebar OCR body text.,0.85
+NC,Greensboro News and Record,132700,1984,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"EDMISTEN, RUFUS",Democrat,0,,,,Pattern A: opp of GNR endorsed candidate. Edmisten D lost; GNR endorsed Martin R.,0.85
+NC,Greensboro News and Record,132700,1988,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"MARTIN, JAMES G.",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. Martin R inc won re-election; GNR endorsed Jordan D.,0.85
+NC,Greensboro News and Record,132700,1992,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"GARDNER, JIM",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Gardner R lost; GNR endorsed Hunt D.,0.85
+NC,Greensboro News and Record,132700,1996,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"HAYES, ROBIN",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Hayes R lost; GNR endorsed Hunt D inc.,0.85
+NC,Greensboro News and Record,132700,2000,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"VINROOT, RICHARD",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Vinroot R lost; GNR endorsed Easley D.,0.85
+NC,Greensboro News and Record,132700,2004,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"BALLANTINE, PATRICK",Republican,0,,,,Pattern A: opp of GNR endorsed candidate. Ballantine R lost; GNR endorsed Easley D inc.,0.85
+NC,Greensboro News and Record,132700,2008,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"PERDUE, BEV",Democrat,0,,,,Pattern A: opp of GNR endorsed candidate. Perdue D won; GNR endorsed McCrory R.,0.85
+NC,Greensboro News and Record,132700,2012,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"DALTON, WALTER",Democrat,0,,,,Pattern A: opp of GNR endorsed candidate. Dalton D lost; GNR endorsed McCrory R.,0.85
+NC,Greensboro News and Record,132700,2016,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"MCCRORY, PAT",Republican,0,,1,,Pattern A: opp of GNR endorsed candidate. McCrory R inc lost to Cooper D.,0.85
+NC,Greensboro News and Record,132700,2000,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"COCHRANE, BETSY",Republican,0,,,,Pattern A NC state: opp of GNR-endorsed D. Cochrane R lost; GNR endorsed Perdue D.,0.78
+NC,Greensboro News and Record,132700,2008,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"PITTENGER, ROBERT",Republican,0,,,,Pattern A NC state: opp of GNR-endorsed D. Pittenger R lost; GNR endorsed Dalton D.,0.78
+NC,Greensboro News and Record,132700,2008,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"CRUMLEY, BOB",Republican,0,,,,Pattern A NC state: opp of GNR-endorsed D. Crumley R lost; GNR endorsed Cooper D inc.,0.78
+NC,Greensboro News and Record,132700,2016,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"NEWTON, BUCK",Republican,0,,,,Pattern A NC state: opp of GNR-endorsed D. Newton R lost; GNR endorsed Stein D.,0.78
+NC,Greensboro News and Record,132700,2016,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"FOREST, DAN",Republican,0,,1,,Pattern A NC state: opp of GNR-endorsed D. Forest R inc won; GNR likely endorsed Coleman D (need verify). | V5 conf boost: 2012 OCR confirmed Forest R LT GOV inc.,0.88
+NC,Greensboro News and Record,132700,1984,H,6,U.S. HOUSE - NORTH CAROLINA DISTRICT 6,NC,"COBLE, J. HOWARD",Republican,0,,,,Pattern A: R opp of GNR-endorsed Britt D inc 1984 H-6. Coble R won this race in major upset and was then endorsed by GNR every cycle 1986-2012.,0.85

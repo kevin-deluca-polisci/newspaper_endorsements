@@ -1,12 +1,70 @@
-Newspaper: Evansville Courier
-Newspaper ID: 113151
-State: IN
-Election years: 35 (1918-1998)
-Clippings: 92 files
-Candidate records: 386 (351 endorsed, 34 opposed, 1 no-direction)
-Proposition records: 9 (6 endorsed, 3 opposed, 0 no-direction)
-Cand conf: mean 0.860, min 0.70
+Newspaper Name: Evansville Courier
+Alternative Names: Daily Courier, Sunday Courier
+Years Published: 1845-1998 (became Evansville Courier and Press 1998+)
+Newspaper ID number: 113151
+State: IN (Evansville, Vanderburgh County, southwestern Indiana)
+Number of clippings: 95
 
-Last updated: 2026-04-30 (augmented from 'more evansville')
+Endorsement data years: 1918, 1920, 1922, 1924, 1926, 1928, 1930, 1934, 1936, 1938,
+1940, 1942, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966,
+1968, 1970, 1972, 1974, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998
+(38 distinct years, 80-year coverage span)
 
-Years: 1918, 1920, 1922, 1924, 1926, 1928, 1930, 1934, 1936, 1938, 1940, 1942, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998
+--- ENDORSEMENT COUNTS (V7 FINAL) ---
+Total candidate records: 439 (379 endorsed, 58 opposed, 2 no recommendation)
+Total proposition records: 21 (14 AMENDMENT + 5 PROPOSITION + 2 REFERENDUM)
+
+--- CONFIDENCE SCORES (V7 FINAL) ---
+Min: 0.70
+Mean: 0.864
+Max: 0.95
+Records below 0.85: 14
+
+--- INCUMBENCY COVERAGE ---
+Records with inc flag: 91 (21%)
+Long-serving candidates tracked: Lugar R 1982/1988/1994 SEN, Capehart R 1950/1956/1962 SEN,
+Bayh Birch D 1968/1974/1980 SEN, Quayle R 1986 SEN, Orr R 1984 GOV inc, Jenner R 1952 SEN inc
+
+--- CROSS-PAPER VALIDATION ---
+EC vs Evansville Press (sister paper folder 65): 59 agreements + 8 documented disagreements
+55 records boosted to 0.92 via EP cross-paper agreement
+
+--- AUDIT HISTORY ---
+V1 (2026-04-13): Initial extraction (107 records, 1918-1956 partial coverage)
+V2 (2026-06-15): Stage 1 structural + Federal Pattern A 1918-1998 + IN office standardization
+                 + 231 dname fills + 23 name dup removals + 2 Pattern K fixes + 302 conf fills
+V3 (2026-06-15): OCR sample 1918-1994 + 1968 full sidebar verified (20/20) + STATE REP dist fills
+                 + RA_NEEDS.md created
+V4 (2026-06-15): OCR 1972/1980/1982/1984/1988/1990/1992/1994 + 4 SEN Pattern A pairs (Ralston/Minton/
+                 Capehart/Greenlee) + 1 NO ENDORSEMENT recode + 9 empty party fills
+V5 (2026-06-15): Cross-paper EP 59/8 + 55 conf boosts + props prop_type fills + 1996 OCR
+                 Hostettler verified + 4 below-0.85 boosts
+V6 (2026-06-15): 1934/1948/1958/1960/1962/1964 OCR verified + 100 spot checks PASS
+V7 (2026-06-15): 1942/1958/1966/1970 OCR + 36 historical party fills (78 → 21 empty) +
+                 cross-year inc audit (83 groups verified) + comprehensive RA_NEEDS + 200 spot checks
+
+--- NOTES ---
+
+EDITORIAL IDENTITY (V7 confirmed via 18 years of OCR):
+EC was a R-leaning IN paper with notable cross-party flexibility:
+- R federal default: Nixon 60/68/72, Reagan 80/84, Bush 88/92, Dole 96 - straight R PRES picks
+- D PRES exceptions: 1920 Cox D, 1928 Smith D (Catholic appeal), 1964 LBJ D
+- Cross-party SEN flexibility: Bayh D inc 68/74/80 (3 cycles), 1990 Hill D
+- 8th District H pattern: McCloskey D 84/88/92 (cross-party for 4 cycles), then Hostettler R 96+
+- Cross-party GOV picks: 1992 Bayh D, 1996 O'Bannon D (D Hoosier governors)
+
+CROSS-BORDER COVERAGE:
+3 IL records (Evansville borders IL):
+- 1948 Green R + Stevenson D IL GOV
+- 1950 Vursell R IL H-25
+
+KNOWN COLLECTION GAPS:
+- 1976/1978 (0 records, may need clipping collection)
+- 1932 (clippings discussed state amendments, no candidate endorsements)
+
+OCR VERIFICATION (18 years cumulative V3-V7):
+Full sidebar verified: 1968 (20/20), 1972, 1980, 1982, 1984, 1988, 1990, 1992, 1996
+Federal/state verified: 1934, 1948, 1956, 1958, 1960, 1962, 1964, 1970, 1974, 1994, 1998
+
+Compiled: 2026-04-13
+V7 FINAL: 2026-06-15

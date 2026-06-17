@@ -1,265 +1,243 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,1,rejected proposition,0,T-A recommended No; voters agreed,0.85
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,2,rejected proposition,0,T-A recommended No,0.85
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,3,court system revision,0,T-A opposed,0.9
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,4,broadening voter eligibility,1,everybody in step,0.9
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,5,approving pay for legislators,1,T-A supported,0.85
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,6,reduction of gambling measure,0,T-A joined in defeating,0.85
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,7,blind chiropractors,1,T-A lost a close one (favored measure),0.7
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,8,banning payroll padding by city officials,0,T-A opposed,0.85
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,9,fair board employees civil service,1,T-A supported,0.85
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,10,public housing local vote requirement,1,T-A favored vote being required,0.85
-CA,Escondido Times-Advocate,101700,1950,CA,AMENDMENT,11,land title procedure change,1,T-A supported initiated change,0.85
-CA,Escondido Times-Advocate,101700,1950,CA,PUBLIC QUESTION,A,separate office for county registrar of voters,1,San Diego County measure,0.8
-CA,Escondido Times-Advocate,101700,1950,CA,PUBLIC QUESTION,B,civil service for sheriff deputies,1,San Diego County measure; T-A thought good,0.85
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,1,rejected proposition,0,T-A recommended No; voters agreed,0.85
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,2,rejected proposition,0,T-A recommended No,0.85
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,3,court system revision,0,T-A opposed,0.9
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,4,broadening voter eligibility,1,everybody in step,0.9
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,5,approving pay for legislators,1,T-A supported,0.85
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,6,reduction of gambling measure,0,T-A joined in defeating,0.85
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,7,blind chiropractors,1,T-A lost a close one (favored measure),0.7
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,8,banning payroll padding by city officials,0,T-A opposed,0.85
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,9,fair board employees civil service,1,T-A supported,0.85
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,10,public housing local vote requirement,1,T-A favored vote being required,0.85
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,11,land title procedure change,1,T-A supported initiated change,0.85
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,A,separate office for county registrar of voters,1,San Diego County measure,0.8
+CA,Escondido Times-Advocate,101700,1950,CA,PROPOSITION,B,civil service for sheriff deputies,1,San Diego County measure; T-A thought good,0.85
 CA,Escondido Times-Advocate,101700,1950,CA,BOND,C,"$875,000 juvenile hall bond",0,T-A opposed; voters rejected,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,9,tax savings via constitutionally required elections,1,Four propositions editorial,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,10,prohibits interest rates higher than 10 percent on loans by regulated lending institutions,0,Four propositions editorial; rejects measure,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,11,upgrade professionalism of chiropractors,1,Four propositions editorial,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,12,allow boards of supervisors in noncharter counties to set their own salaries subject to voter approval,1,Four propositions editorial,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,13,increased property tax exemption for totally disabled veterans,0,End of the list editorial; opposed as discriminatory,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,14,nonpartisan property tax measure,1,End of the list editorial; endorsed by Reagan and Unruh,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,15,nonpartisan property tax measure,1,End of the list editorial,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,16,nonpartisan property tax measure,1,End of the list editorial,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,17,nonpartisan property tax measure,1,End of the list editorial,0.9
-CA,Escondido Times-Advocate,101700,1970,CA,AMENDMENT,18,permit gas tax revenues to be used for transit and pollution control,1,Pass Prop. 18 editorial,0.95
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,9,tax savings via constitutionally required elections,1,Four propositions editorial,0.9
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,10,prohibits interest rates higher than 10 percent on loans by regulated lending institutions,0,Four propositions editorial; rejects measure,0.9
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,11,upgrade professionalism of chiropractors,1,Four propositions editorial,0.9
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,12,allow boards of supervisors in noncharter counties to set their own salaries subject to voter approval,1,Four propositions editorial,0.9
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,13,increased property tax exemption for totally disabled veterans,0,End of the list editorial; opposed as discriminatory,0.9
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,14,nonpartisan property tax measure,1,End of the list editorial; endorsed by Reagan and Unruh,0.9
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,15,nonpartisan property tax measure,1,End of the list editorial,0.9
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,16,nonpartisan property tax measure,1,End of the list editorial,0.9
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,17,nonpartisan property tax measure,1,End of the list editorial,0.9
+CA,Escondido Times-Advocate,101700,1970,CA,PROPOSITION,18,permit gas tax revenues to be used for transit and pollution control,1,Pass Prop. 18 editorial,0.95
 CA,Escondido Times-Advocate,101700,1970,CA,BOND,20,"$60 million bond measure for recreational facilities, fish and wildlife enhancement, fishing access",0,End of the list editorial; opposed as outdoor recreational pork,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,1,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,2,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,3,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,4,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,5,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,6,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,7,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,8,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,9,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,10,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,11,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,12,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,13,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,14,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,15,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,16,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,17,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,18,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,19,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,20,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,21,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1972,CA,AMENDMENT,22,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,1,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,2,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,3,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,4,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,5,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,6,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,7,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,8,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,9,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,10,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,11,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,12,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,13,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,14,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,15,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,16,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,17,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,18,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,19,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,20,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,21,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1972,CA,PROPOSITION,22,state proposition,1,T-A ballot YES,0.9
 CA,Escondido Times-Advocate,101700,1972,CA,BOND,O,EUHS District construction bonds,1,Escondido Union High School District,0.9
 CA,Escondido Times-Advocate,101700,1972,CA,BOND,County,Open Space Bonds,1,County question,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,1,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,2,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,3,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,4,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,5,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,6,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,7,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,8,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,9,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,10,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,11,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,12,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,13,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,14,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,15,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,16,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,AMENDMENT,17,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,PUBLIC QUESTION,A,county question,0,T-A ballot NO,0.85
-CA,Escondido Times-Advocate,101700,1974,CA,PUBLIC QUESTION,B,county question,0,T-A ballot NO,0.85
-CA,Escondido Times-Advocate,101700,1974,CA,PUBLIC QUESTION,C,county question,0,T-A ballot NO,0.85
-CA,Escondido Times-Advocate,101700,1974,CA,PUBLIC QUESTION,D,county question,1,T-A ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1974,CA,PUBLIC QUESTION,E,county question,1,T-A ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1974,CA,PUBLIC QUESTION,F,county question,0,T-A ballot NO,0.85
-CA,Escondido Times-Advocate,101700,1974,CA,PUBLIC QUESTION,CC,hospital question - more members,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,PUBLIC QUESTION,P,Escondido City housing,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1974,CA,PUBLIC QUESTION,W,Escondido School year-round,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,1,state school building lease-purchase bond law,0,T-A ballot recommendations; primary ballot,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,1,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,2,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,3,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,4,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,5,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,6,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,7,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,8,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,9,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,10,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,11,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,12,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,13,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,14,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,15,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,16,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,17,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,A,county question,0,T-A ballot NO,0.85
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,B,county question,0,T-A ballot NO,0.85
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,C,county question,0,T-A ballot NO,0.85
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,D,county question,1,T-A ballot YES,0.85
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,E,county question,1,T-A ballot YES,0.85
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,F,county question,0,T-A ballot NO,0.85
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,CC,hospital question - more members,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,P,Escondido City housing,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1974,CA,PROPOSITION,W,Escondido School year-round,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,1,state school building lease-purchase bond law,0,T-A ballot recommendations; primary ballot,0.9
 CA,Escondido Times-Advocate,101700,1976,CA,BOND,2,veterans bond act,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,3,California safe drinking water bond law,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,4,community college facilities bond issue,0,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,5,"banks, corporations, franchises and insurers taxation",1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,6,insurance company home office tax deduction,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,7,taxation of restricted historic property,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,8,deposit of public money in savings and loan association,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,9,bingo for charity,1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,3,California safe drinking water bond law,1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,4,community college facilities bond issue,0,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,5,"banks, corporations, franchises and insurers taxation",1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,6,insurance company home office tax deduction,1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,7,taxation of restricted historic property,1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,8,deposit of public money in savings and loan association,1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,9,bingo for charity,1,T-A ballot recommendations,0.9
 CA,Escondido Times-Advocate,101700,1976,CA,BOND,10,bonds to refund state indebtedness,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,11,motor vehicle taxes and local surplus property,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,12,interest rate,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,13,property tax postponement for senior citizens,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,14,miscellaneous constitutional revisions,1,T-A ballot recommendations,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,15,nuclear power plants initiative,0,T-A ballot recommendations; opposed initiative,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,A,revision of executive service status,1,T-A ballot county charter questions,0.85
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,B,determining county salaries,1,T-A ballot county charter questions,0.85
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,C,modification of restrictions on holding county office,0,T-A ballot county charter questions,0.85
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,D,authority on employing independent contractors,1,T-A ballot county charter questions,0.85
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,E,certification lists for employment,1,T-A ballot county charter questions,0.85
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,1,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,2,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,3,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,4,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,5,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,6,state proposition,0,T-A's ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,7,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,8,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,10,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,11,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,12,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,13,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,14,state proposition,0,T-A's ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,AMENDMENT,15,state proposition,1,T-A's ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,B,county question,1,T-A's ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,C,county question,1,T-A's ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,D,county question,1,T-A's ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,E,county question,1,T-A's ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1976,CA,PUBLIC QUESTION,G,county question,1,T-A's ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1978,CA,AMENDMENT,1,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1978,CA,AMENDMENT,2,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1978,CA,AMENDMENT,3,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1978,CA,AMENDMENT,4,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1978,CA,AMENDMENT,5,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1978,CA,AMENDMENT,6,state proposition,0,T-A ballot NO,0.9
-CA,Escondido Times-Advocate,101700,1978,CA,AMENDMENT,7,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1978,CA,AMENDMENT,8,state proposition,1,T-A ballot YES,0.9
-CA,Escondido Times-Advocate,101700,1978,CA,PUBLIC QUESTION,A,county question,0,T-A ballot NO,0.85
-CA,Escondido Times-Advocate,101700,1978,CA,PUBLIC QUESTION,B,county question,0,T-A ballot NO,0.85
-CA,Escondido Times-Advocate,101700,1978,CA,PUBLIC QUESTION,C,county question,1,T-A ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1978,CA,PUBLIC QUESTION,D,county question,1,T-A ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1978,CA,PUBLIC QUESTION,E,county question,1,T-A ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1978,CA,PUBLIC QUESTION,F,county question,1,T-A ballot YES,0.85
-CA,Escondido Times-Advocate,101700,1978,CA,PUBLIC QUESTION,G,county question,1,T-A ballot YES,0.85
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,11,motor vehicle taxes and local surplus property,1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,12,interest rate,1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,13,property tax postponement for senior citizens,1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,14,miscellaneous constitutional revisions,1,T-A ballot recommendations,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,15,nuclear power plants initiative,0,T-A ballot recommendations; opposed initiative,0.9
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,A,revision of executive service status,1,T-A ballot county charter questions,0.85
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,B,determining county salaries,1,T-A ballot county charter questions,0.85
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,C,modification of restrictions on holding county office,0,T-A ballot county charter questions,0.85
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,D,authority on employing independent contractors,1,T-A ballot county charter questions,0.85
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,E,certification lists for employment,1,T-A ballot county charter questions,0.85
+CA,Escondido Times-Advocate,101700,1976,CA,PROPOSITION,G,county question,1,T-A's ballot YES,0.85
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,1,state proposition,0,T-A ballot NO | V6 OCR 1978-11-06: OCR fragmented but suggests Prop 1 YES; data has e=0. Flagged for RA review.,0.9
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,2,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,3,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,4,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,5,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,6,state proposition,0,T-A ballot NO,0.9
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,7,state proposition,0,T-A ballot YES | V6 OCR 1978-11-06 CORRECTION: OCR sidebar shows 'Prop. 7 — NO' clearly. V1-V5 had e=1 (YES). Fixed to e=0.,0.95
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,8,state proposition,1,T-A ballot YES,0.9
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,A,county question,0,T-A ballot NO,0.85
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,B,county question,0,T-A ballot NO,0.85
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,C,county question,1,T-A ballot YES,0.85
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,D,county question,1,T-A ballot YES,0.85
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,E,county question,1,T-A ballot YES,0.85
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,F,county question,1,T-A ballot YES,0.85
+CA,Escondido Times-Advocate,101700,1978,CA,PROPOSITION,G,county question,1,T-A ballot YES,0.85
 CA,Escondido Times-Advocate,101700,1980,CA,BOND,1,Parkland acquisition,1,Our endorsements YES,0.95
 CA,Escondido Times-Advocate,101700,1980,CA,BOND,2,Lake Tahoe bond act,1,Our endorsements YES,0.95
-CA,Escondido Times-Advocate,101700,1980,CA,AMENDMENT,3,Insurance guarantee fund,1,Our endorsements YES,0.95
-CA,Escondido Times-Advocate,101700,1980,CA,AMENDMENT,4,Property acquisition,1,Our endorsements YES,0.95
-CA,Escondido Times-Advocate,101700,1980,CA,AMENDMENT,5,Valuation after disasters,1,Our endorsements YES,0.95
-CA,Escondido Times-Advocate,101700,1980,CA,AMENDMENT,6,Smaller juries,1,Our endorsements YES,0.95
-CA,Escondido Times-Advocate,101700,1980,CA,AMENDMENT,7,Solar energy systems,1,Our endorsements YES,0.95
-CA,Escondido Times-Advocate,101700,1980,CA,AMENDMENT,8,Water resources,1,Our endorsements YES,0.95
-CA,Escondido Times-Advocate,101700,1980,CA,AMENDMENT,9,Safe drinking water,1,Our endorsements YES,0.95
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,3,Insurance guarantee fund,1,Our endorsements YES,0.95
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,4,Property acquisition,1,Our endorsements YES,0.95
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,5,Valuation after disasters,1,Our endorsements YES,0.95
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,6,Smaller juries,1,Our endorsements YES,0.95
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,7,Solar energy systems,1,Our endorsements YES,0.95
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,8,Water resources,1,Our endorsements YES,0.95
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,9,Safe drinking water,1,Our endorsements YES,0.95
 CA,Escondido Times-Advocate,101700,1980,CA,REFERENDUM,10,No-smoking sections,0,Our endorsements NO,0.95
-CA,Escondido Times-Advocate,101700,1980,CA,AMENDMENT,11,Judges salaries,1,Our endorsements YES,0.95
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,C,Workfare,1,County propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,D,More sheriff's deputies,1,County propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,E,Sheriff's communication center,1,County propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,F,Flood control fees,1,County propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,G,Flood control fees,1,County propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,H,Flood control fees,1,County propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,J,Flood control fees,1,County propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,K,Flood control fees,1,County propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,L,Legislative power for San Diego,1,Our endorsements YES; San Diego propositions,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,M,Council salaries,1,San Diego propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,N,Firefighters salaries,0,San Diego propositions NO,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,O,Rent control,0,San Diego propositions NO,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,W,Vista's low-rent housing,1,Local propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,X,Carlsbad's low-rent housing,1,Local propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1980,CA,PUBLIC QUESTION,P,Poway incorporation,1,Local propositions YES,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,1,North County Fair shopping center land sale at Kit Carson Park,0,Escondido city ballot,0.95
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,11,Judges salaries,1,Our endorsements YES,0.95
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,C,Workfare,1,County propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,D,More sheriff's deputies,1,County propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,E,Sheriff's communication center,1,County propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,F,Flood control fees,1,County propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,G,Flood control fees,1,County propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,H,Flood control fees,1,County propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,J,Flood control fees,1,County propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,K,Flood control fees,1,County propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,L,Legislative power for San Diego,1,Our endorsements YES; San Diego propositions,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,M,Council salaries,1,San Diego propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,N,Firefighters salaries,0,San Diego propositions NO,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,O,Rent control,0,San Diego propositions NO,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,W,Vista's low-rent housing,1,Local propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,X,Carlsbad's low-rent housing,1,Local propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1980,CA,PROPOSITION,P,Poway incorporation,1,Local propositions YES,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,1,North County Fair shopping center land sale at Kit Carson Park,0,Escondido city ballot,0.95
 CA,Escondido Times-Advocate,101700,1982,CA,BOND,1,School construction bond,1,$450 million,0.9
 CA,Escondido Times-Advocate,101700,1982,CA,BOND,2,Jail bonds,0,$495 million prison bonds,0.9
 CA,Escondido Times-Advocate,101700,1982,CA,BOND,3,Veterans bonds,1,$450 million Cal-Vet,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,4,Lake Tahoe bonds,1,$85 million,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,5,First-time homebuyer bonds,1,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,6,Senior homeowners property tax relief,1,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,7,Property tax indexing,1,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,BOND,8,Local government borrowing,1,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,4,Lake Tahoe bonds,1,$85 million,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,5,First-time homebuyer bonds,1,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,6,Senior homeowners property tax relief,1,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,7,Property tax indexing,1,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,BOND,8,Local government borrowing,0," | V6 OCR 1982-11-01 CORRECTION: OCR shows 'Prop. 8, local agency borrowing: No' clearly. V1-V5 had e=1 (YES). Fixed to e=0.",0.95
 CA,Escondido Times-Advocate,101700,1982,CA,REFERENDUM,9,School textbooks,0,Private schools subsidies,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,10,School unification,1,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,11,Bottle deposits,1,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,12,Nuclear freeze,1,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,13,Reapportionment,0,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,AMENDMENT,14,Helicopters,0,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,AMENDMENT,15,Handgun initiative,1,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,AMENDMENT,16,Gas tax,1,Highway repair,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,17,District attorney appointment,0,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,18,Board of Supervisors vacancies,0,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,19,Emergency care,0,,0.9
-CA,Escondido Times-Advocate,101700,1982,CA,PUBLIC QUESTION,20,Naval fuel district,1,Yes,0.85
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,F,Escondido City Council fiscally prudent,1,,0.85
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,G,Banning so-called indecent material from cable TV,0,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,H,Annexations to Escondido,0,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,J,No Banning so-called indecent material,0,,0.75
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,K,Vista initiative on right of council to revise officials' pay,0,,0.85
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,M,Vista mayor's term,0,,0.7
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,N,Vista limit on city council members to two four-year terms,0,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,G,San Pasqual Valley Fire annual assessment $15,1,,0.8
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,16,Marin County bond issue,0,,0.7
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,10,School unification,1,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,11,Bottle deposits,1,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,12,Nuclear freeze,1,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,13,Reapportionment of districts (may be Prop 14 — flagged for RA verification),0, | V6 OCR 1982-11-01: Note - data labels Prop 13 as 'Reapportionment' but Prop 13 was 'Water resources' in 1982 CA. Reapportionment was Prop 14. Flagged for RA - may need prop_num correction. | V8 NOTE: 1982 CA Prop 13 was historically Water Resources; Reapportionment was Prop 14. Desc kept pending RA verification of original clipping.,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,14,Helicopters,0,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,15,Handgun initiative,1,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,16,Gas tax,1,Highway repair,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,17,District attorney appointment,0,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,18,Board of Supervisors vacancies,0,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,19,Emergency care,0,,0.9
+CA,Escondido Times-Advocate,101700,1982,CA,PROPOSITION,20,Naval fuel district,1,Yes,0.85
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,F,Escondido City Council fiscally prudent,1,,0.85
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,G,Banning so-called indecent material from cable TV,0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,H,Annexations to Escondido,0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,J,No Banning so-called indecent material,0,,0.75
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,K,Vista initiative on right of council to revise officials' pay,0,,0.85
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,M,Vista mayor's term,0,,0.7
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,N,Vista limit on city council members to two four-year terms,0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,G,San Pasqual Valley Fire annual assessment $15,1,,0.8
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,16,Marin County bond issue,0,,0.7
 CA,Escondido Times-Advocate,101700,1984,CA,BOND,17,Prison construction bonds,1,,0.85
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,18,California parks,1,,0.85
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,19,$45 million bond water wetlands,1,,0.7
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,20,Constitutional amendments would allow losers in petition contests,0,,0.7
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,24,California legislative reform,0,,0.6
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,18,California parks,1,,0.85
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,19,$45 million bond water wetlands,1,,0.7
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,20,Constitutional amendments would allow losers in petition contests,0,,0.7
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,24,California legislative reform,0,,0.6
 CA,Escondido Times-Advocate,101700,1984,CA,BOND,25,Sewage treatment bond,1,,0.9
 CA,Escondido Times-Advocate,101700,1984,CA,BOND,26,School bond,1,,0.9
 CA,Escondido Times-Advocate,101700,1984,CA,BOND,27,Hazardous waste bond,1,,0.9
 CA,Escondido Times-Advocate,101700,1984,CA,BOND,28,Drinking water bond,1,,0.9
 CA,Escondido Times-Advocate,101700,1984,CA,BOND,29,Veterans bond,1,,0.9
 CA,Escondido Times-Advocate,101700,1984,CA,BOND,30,Senior citizen center bond,1,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,31,Fire safety exemption,1,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,32,California Supreme Court reform,0,"Shouldn't be here, just say no",0.85
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,33,Tax postponement for disabled and aged,1,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,34,Exemption for historic structures,1,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,35,Balanced budget initiative,0,Removed from ballot by California Supreme Court,0.85
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,36,Howard Jarvis Save 13 initiative,0,,0.95
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,37,State lottery,1,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,38,Voting materials in English only,1,Si?!,0.85
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,39,Reapportionment reform,1,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,40,Campaign contribution limits,0,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,41,Welfare spending limitation,0,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,AMENDMENT,A,County charter reform package,0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,31,Fire safety exemption,1,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,32,California Supreme Court reform,0,"Shouldn't be here, just say no",0.85
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,33,Tax postponement for disabled and aged,1,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,34,Exemption for historic structures,1,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,35,Balanced budget initiative,0,Removed from ballot by California Supreme Court,0.85
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,36,Howard Jarvis Save 13 initiative,0,,0.95
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,37,State lottery,1,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,38,Voting materials in English only,1,Si?!,0.85
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,39,Reapportionment reform,1,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,40,Campaign contribution limits,0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,41,Welfare spending limitation,0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,A,County charter reform package,0,,0.9
 CA,Escondido Times-Advocate,101700,1984,CA,BOND,B,Bond for Pamo Dam,1,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,C,Salk Institute property exchange,1,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,D,San Diego Jack Murphy Stadium name change,0,Who cares?,0.85
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,E,Vista's tax assessment initiative,0,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,I,Vista's ban on indecent cable television programming,0,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,U,Vista's rezoning initiative,0,,0.9
-CA,Escondido Times-Advocate,101700,1984,CA,PUBLIC QUESTION,V,"Vista's advisory measure on spending $300,000 to defend the cable porn ban",0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,C,Salk Institute property exchange,1,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,D,San Diego Jack Murphy Stadium name change,0,Who cares?,0.85
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,E,Vista's tax assessment initiative,0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,I,Vista's ban on indecent cable television programming,0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,U,Vista's rezoning initiative,0,,0.9
+CA,Escondido Times-Advocate,101700,1984,CA,PROPOSITION,V,"Vista's advisory measure on spending $300,000 to defend the cable porn ban",0,,0.9
 CA,Escondido Times-Advocate,101700,1986,CA,BOND,42,Veterans bond $850 million,1,Cal-Vet,0.95
 CA,Escondido Times-Advocate,101700,1986,CA,BOND,52,$495 million to build jails,1,,0.95
 CA,Escondido Times-Advocate,101700,1986,CA,BOND,44,$150 million for water conservation,1,,0.95
 CA,Escondido Times-Advocate,101700,1986,CA,BOND,43,$100 million for community parks,0,,0.95
-CA,Escondido Times-Advocate,101700,1986,CA,BOND,42,Veterans Bond Act,1,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,BOND,43,Community Parks Bond Act,0,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,BOND,44,Water Bond Act,1,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,PUBLIC QUESTION,45,Public money in credit unions,1,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,AMENDMENT,46,Allowing local bond issues,1,,0.9
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,45,Public money in credit unions,1,,0.9
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,46,Allowing local bond issues,1,,0.9
 CA,Escondido Times-Advocate,101700,1986,CA,BOND,47,Vehicle fees guaranteed for local government,1,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,AMENDMENT,48,Reform of legislators' and judges' retirement system,1,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,AMENDMENT,49,Ban on partisan endorsements in local races,0,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,AMENDMENT,50,Property tax exemption for disaster victims,1,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,AMENDMENT,51,Deep pockets initiative,1,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,BOND,52,Jail bonds,1,,0.9
-CA,Escondido Times-Advocate,101700,1986,CA,PUBLIC QUESTION,Fallbrook Prop. J,One-time fire protection fee,1,,0.85
-CA,Escondido Times-Advocate,101700,1986,CA,PUBLIC QUESTION,Vista Prop. H,Upholding apartment zoning,1,,0.85
-CA,Escondido Times-Advocate,101700,1986,CA,PUBLIC QUESTION,Solana Beach,Area incorporation,1,,0.85
-CA,Escondido Times-Advocate,101700,1986,CA,PUBLIC QUESTION,San Dieguito,Area incorporation,1,,0.85
-CA,Escondido Times-Advocate,101700,1986,CA,AMENDMENT,A,Spelling and editorial allowance of dates etc.,1,County Charter Amendment,0.8
-CA,Escondido Times-Advocate,101700,1986,CA,AMENDMENT,B,30-day deadline for supervisors to fill vacancies,1,County Charter Amendment,0.8
-CA,Escondido Times-Advocate,101700,1986,CA,AMENDMENT,C,Make clerk of Board of Supervisors appointed by board,1,County Charter Amendment,0.8
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,66,Constitutional amendment elected assessors in both general and after charter counties,0,,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,67,Raises penalty for second-degree murder in which the victim is a police officer,1,,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,68,Campaign fund-raising reform,1,,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,69,LaRouche-backed AIDS measure that could trigger quarantine of AIDS victims,0,,0.9
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,48,Reform of legislators' and judges' retirement system,1,,0.9
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,49,Ban on partisan endorsements in local races,0,,0.9
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,50,Property tax exemption for disaster victims,1,,0.9
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,51,Deep pockets initiative,1,,0.9
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,Fallbrook Prop. J,One-time fire protection fee,1,,0.85
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,Vista Prop. H,Upholding apartment zoning,1,,0.85
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,Solana Beach,Area incorporation,1,,0.85
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,San Dieguito,Area incorporation,1,,0.85
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,A,Spelling and editorial allowance of dates etc.,1,County Charter Amendment,0.8
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,B,30-day deadline for supervisors to fill vacancies,1,County Charter Amendment,0.8
+CA,Escondido Times-Advocate,101700,1986,CA,PROPOSITION,C,Make clerk of Board of Supervisors appointed by board,1,County Charter Amendment,0.8
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,66,Constitutional amendment elected assessors in both general and after charter counties,0,,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,67,Raises penalty for second-degree murder in which the victim is a police officer,1,,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,68,Campaign fund-raising reform,1,,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,69,LaRouche-backed AIDS measure that could trigger quarantine of AIDS victims,0,,0.9
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,70,"$776 million general obligation bond to acquire, develop and protect park and natural lands",1,,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,71,Redefines the calculation of economic growth to ease Gann spending limits,1,,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,72,"Another easing of Gann limit, but limited to transportation",0,,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,73,Election reform without fundraising limits or public financing,0,,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,71,Redefines the calculation of economic growth to ease Gann spending limits,1,,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,72,"Another easing of Gann limit, but limited to transportation",0,,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,73,Election reform without fundraising limits or public financing,0,,0.9
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,74,$1 billion general obligation bond to improve the state's transportation system,1,,0.9
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,75,$700 million school construction bond,1,,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,76,Authorizes the state to issue $510 million worth of bonds to support the Cal-Vet Farm and Home Loan Program,1,,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,76,Authorizes the state to issue $510 million worth of bonds to support the Cal-Vet Farm and Home Loan Program,1,,0.9
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,77,Calls for $150 million in general obligation bonds for housing programs,1,,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,A,Half-cent sales tax for jails and courts,1,County measure,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,B,Raising of the Gann spending limit for the county,1,County measure,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,J,Asks voter approval of transient occupancy tax increase from 6 to 8 percent,1,Escondido,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,J firehouse,Voters must decide if the firehouse should be saved,0,Escondido firehouse demolition allowed,0.7
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,K,Should rents be controlled by the City Council in mobile-home parks?,1,Escondido,0.85
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,L,Should the mayor be elected directly?,1,Escondido,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,M,Should the mayor serve for four years or two?,0,Escondido - Four years recommended,0.7
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,N,Should rent control of any kind be banned in Escondido?,0,Two,0.7
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,R,Should public improvements be in place before projects are approved?,1,San Marcos,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,S,Should the transient occupancy tax be raised from 6 percent to 10 percent?,1,San Marcos,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,V,Should Fallbrook become a city?,1,Fallbrook,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,W,"If Fallbrook incorporates, should city council members be elected by district or at large?",0,Fallbrook - At large recommended,0.7
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,A,Half-cent sales tax for jails and courts,1,County measure,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,B,Raising of the Gann spending limit for the county,1,County measure,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,J,Asks voter approval of transient occupancy tax increase from 6 to 8 percent,1,Escondido,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,J firehouse,Voters must decide if the firehouse should be saved,0,Escondido firehouse demolition allowed,0.7
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,K,Should rents be controlled by the City Council in mobile-home parks?,1,Escondido,0.85
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,L,Should the mayor be elected directly?,1,Escondido,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,M,Should the mayor serve for four years or two?,0,Escondido - Four years recommended,0.7
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,N,Should rent control of any kind be banned in Escondido?,0,Two,0.7
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,R,Should public improvements be in place before projects are approved?,1,San Marcos,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,S,Should the transient occupancy tax be raised from 6 percent to 10 percent?,1,San Marcos,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,V,Should Fallbrook become a city?,1,Fallbrook,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,W,"If Fallbrook incorporates, should city council members be elected by district or at large?",0,Fallbrook - At large recommended,0.7
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,78,Higher Education Facilities Bond,1,,0.95
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,79,School Facilities Bond,1,,0.95
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,80,New Prison Construction Bond,1,,0.95
@@ -269,50 +247,50 @@ CA,Escondido Times-Advocate,101700,1988,CA,BOND,83,Clean Water Reclamation Bond,
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,84,Housing and Homeless Bond,1,,0.95
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,85,Library Construction Bond,1,,0.95
 CA,Escondido Times-Advocate,101700,1988,CA,BOND,86,County Correction Facility Bond,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,87,Property Tax Revenues,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,88,Deposit of Public Moneys,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,89,Governor's Parole Review,0,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,90,Assessed Valuation on Dwellings,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,91,Justice Courts Eligibility,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,92,Commission on Judicial Performance,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,93,Veterans' Property Tax Exemption,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,AMENDMENT,94,Judges Part-time Teaching,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,95,Hunger and Homeless Funding,0,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,96,Communicable Disease Tests,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,97,Restore Cal/OSHA,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,98,Guaranteed School Funding,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,99,Cigarette and Tobacco Tax,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,100,Good Driver Insurance Initiative,0,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,101,Polanco Insurance Initiative,0,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,102,Reporting exposure to AIDS,0,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,103,Voter Revolt Insurance Initiative,0,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,104,No-Fault Insurance Initiative,0,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,105,"Consumers, Voters, Investors",1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,106,Attorney Tort Fee Limits,1,,0.95
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,A,Gann limit override,1,County proposition,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,B,Supervisors' growth-control plan,1,County proposition,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,C,Regional planning proposal,1,County proposition,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,D,Citizen's slow-growth initiative,0,County proposition,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,GG,Brannon slow-growth initiative,1,Poway,0.9
-CA,Escondido Times-Advocate,101700,1988,CA,PUBLIC QUESTION,FF,Emery slow-growth initiative,0,Poway,0.9
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,124,Investments by hospital districts,1,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,125,Rail transit funded with gas tax,1,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,126,Alcohol tax increase,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,127,Property tax exclusion for earthquake safety,1,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,128,Big Green,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,129,Drug enforcement and prison bond,1,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,130,Forest acquisition,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,131,Limits on terms of office,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,132,Marine resources,1,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,133,Sales tax increase for drug enforcement,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,134,Alcohol tax increase,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,135,Pesticide regulation,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,136,Tax increases approved by voters,1,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,137,Prohibit initiative reform by Legislature,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,138,Forestry programs,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,139,Prison inmate labor,1,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,140,Limits on terms of office,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,141,Toxic discharge by public agencies,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,87,Property Tax Revenues,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,88,Deposit of Public Moneys,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,89,Governor's Parole Review,0,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,90,Assessed Valuation on Dwellings,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,91,Justice Courts Eligibility,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,92,Commission on Judicial Performance,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,93,Veterans' Property Tax Exemption,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,94,Judges Part-time Teaching,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,95,Hunger and Homeless Funding,0,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,96,Communicable Disease Tests,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,97,Restore Cal/OSHA,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,98,Guaranteed School Funding,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,99,Cigarette and Tobacco Tax,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,100,Good Driver Insurance Initiative,0,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,101,Polanco Insurance Initiative,0,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,102,Reporting exposure to AIDS,0,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,103,Voter Revolt Insurance Initiative,0,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,104,No-Fault Insurance Initiative,0,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,105,"Consumers, Voters, Investors",1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,106,Attorney Tort Fee Limits,1,,0.95
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,A,Gann limit override,1,County proposition,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,B,Supervisors' growth-control plan,1,County proposition,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,C,Regional planning proposal,1,County proposition,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,D,Citizen's slow-growth initiative,0,County proposition,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,GG,Brannon slow-growth initiative,1,Poway,0.9
+CA,Escondido Times-Advocate,101700,1988,CA,PROPOSITION,FF,Emery slow-growth initiative,0,Poway,0.9
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,124,Investments by hospital districts,1,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,125,Rail transit funded with gas tax,1,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,126,Alcohol tax increase,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,127,Property tax exclusion for earthquake safety,1,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,128,Big Green,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,129,Drug enforcement and prison bond,1,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,130,Forest acquisition,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,131,Limits on terms of office,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,132,Marine resources,1,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,133,Sales tax increase for drug enforcement,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,134,Alcohol tax increase,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,135,Pesticide regulation,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,136,Tax increases approved by voters,1,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,137,Prohibit initiative reform by Legislature,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,138,Forestry programs,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,139,Prison inmate labor,1,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,140,Limits on terms of office,0,,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,141,Toxic discharge by public agencies,1,,0.95
 CA,Escondido Times-Advocate,101700,1990,CA,BOND,142,Veterans' housing and farm aid bond,1,,0.95
 CA,Escondido Times-Advocate,101700,1990,CA,BOND,143,Higher education facilities bond,1,,0.95
 CA,Escondido Times-Advocate,101700,1990,CA,BOND,144,Prison construction bond,0,,0.95
@@ -323,42 +301,42 @@ CA,Escondido Times-Advocate,101700,1990,CA,BOND,148,Water resources bond,1,,0.95
 CA,Escondido Times-Advocate,101700,1990,CA,BOND,149,"Parks, recreation and wildlife bond",1,,0.95
 CA,Escondido Times-Advocate,101700,1990,CA,BOND,150,County courthouse construction bond,1,,0.95
 CA,Escondido Times-Advocate,101700,1990,CA,BOND,151,Child care facilities bond,0,,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,A,Citizens law enforcement review board,1,San Diego County,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,B,Department of corrections,1,San Diego County,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,C,Use of pound animals for medical research,1,San Diego County,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,D,Traffic control and growth management,0,San Diego County,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,Y,High school bond,1,Fallbrook,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,E,Open space and park facilities,1,San Diego,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,F,Council districts equal in population,1,San Diego,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,G,Election to fill City Council vacancies,1,San Diego,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,H,Strengthen short-term borrowing ability,1,San Diego,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,J,Eliminate mandatory retirement at age 65,0,San Diego,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,K,Give retired city employees vote on benefits,0,San Diego,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,L,Voter OK of large transactions of city land,1,San Diego,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,M,Traffic control and growth management,0,San Diego,0.95
-CA,Escondido Times-Advocate,101700,1990,CA,PUBLIC QUESTION,N,Develop comprehensive library plan,1,San Diego,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,H,Charter Approval,1,San Marcos,0.9
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,A,Citizens law enforcement review board,1,San Diego County,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,B,Department of corrections,1,San Diego County,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,C,Use of pound animals for medical research,1,San Diego County,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,D,Traffic control and growth management,0,San Diego County,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,Y,High school bond,1,Fallbrook,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,E,Open space and park facilities,1,San Diego,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,F,Council districts equal in population,1,San Diego,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,G,Election to fill City Council vacancies,1,San Diego,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,H,Strengthen short-term borrowing ability,1,San Diego,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,J,Eliminate mandatory retirement at age 65,0,San Diego,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,K,Give retired city employees vote on benefits,0,San Diego,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,L,Voter OK of large transactions of city land,1,San Diego,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,M,Traffic control and growth management,0,San Diego,0.95
+CA,Escondido Times-Advocate,101700,1990,CA,PROPOSITION,N,Develop comprehensive library plan,1,San Diego,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,H,Charter Approval,1,San Marcos,0.9
 CA,Escondido Times-Advocate,101700,1994,CA,BOND,J,School Bond,1,Fallbrook,0.9
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,A,Miramar Advisory,1,San Diego County,0.9
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,A,Miramar Advisory,1,San Diego County,0.9
 CA,Escondido Times-Advocate,101700,1994,CA,BOND,1a,Earthquake Relief Bond,1,State,0.95
 CA,Escondido Times-Advocate,101700,1994,CA,BOND,1b,Safe Schools Bond,1,State,0.95
 CA,Escondido Times-Advocate,101700,1994,CA,BOND,1c,Higher Education Bond,1,State,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,175,Renter's Income Tax Credit,0,State,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,176,Taxation: Nonprofits,0,State,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,177,Exemption for Disabled Access,1,State,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,178,Exemption for Water Conservation,1,State,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,179,Murder: Punishment,1,State,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,175,Renter's Income Tax Credit,0,State,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,176,Taxation: Nonprofits,0,State,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,177,Exemption for Disabled Access,1,State,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,178,Exemption for Water Conservation,1,State,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,179,Murder: Punishment,1,State,0.95
 CA,Escondido Times-Advocate,101700,1994,CA,BOND,180,Parklands Conservation Bond,1,State,0.95
 CA,Escondido Times-Advocate,101700,1994,CA,BOND,181,$1 billion rail bond,1,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,182,Recall election reform,1,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,183,Three-strikes initiative,0,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,184,Gasoline tax for rail,0,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,186,Single-payer health plan,0,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,187,Anti-immigration proposal,0,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,188,Smoking initiative,0,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,189,Bail exception in sex assault,1,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,190,Judicial discipline reform,1,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,191,Reorganization of courts,1,,0.95
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,N,Utility tax for police,0,Vista,0.9
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,Tyndall Recall,Vista school board recall John Tyndall,0,Vista school board recall,0.85
-CA,Escondido Times-Advocate,101700,1994,CA,PUBLIC QUESTION,Lee Recall,Vista school board recall Joyce Lee,0,Vista school board recall,0.85
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,182,Recall election reform,1,,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,183,Three-strikes initiative,0,,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,184,Gasoline tax for rail,0,,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,186,Single-payer health plan,0,,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,187,Anti-immigration proposal,0,,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,188,Smoking initiative,0,,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,189,Bail exception in sex assault,1,,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,190,Judicial discipline reform,1,,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,191,Reorganization of courts,1,,0.95
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,N,Utility tax for police,0,Vista,0.9
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,Tyndall Recall,Vista school board recall John Tyndall,0,Vista school board recall,0.85
+CA,Escondido Times-Advocate,101700,1994,CA,PROPOSITION,Lee Recall,Vista school board recall Joyce Lee,0,Vista school board recall,0.85

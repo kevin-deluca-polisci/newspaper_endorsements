@@ -3,34 +3,82 @@ NEWSPAPER ENDORSEMENT METADATA
 
 Newspaper: Greensboro Record
 Newspaper ID: 132702
-State: NC
+State: NC (Greensboro / Guilford County)
 Number of clippings: 74
-Endorsement data years: 1950-1982
-Total candidate endorsements: 173
-Total proposition endorsements: 32
+Endorsement data years: 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982
+(10 distinct years, 1964-1982 coverage; pre-1964 props 1950-1962 present without direction)
 
-Confidence statistics:
-  Mean confidence: 0.910
-  Low-confidence records (< 0.7): 3
+--- ENDORSEMENT COUNTS (V5 FINAL) ---
+Total candidate records: 183 (171 endorsed, 12 opposed)
+Total proposition records: 32 (12 YES, 5 NO, 15 flagged for RA review)
 
-Top offices (top 15):
-  STATE REP: 59
-  STATE SENATOR: 25
-  CNTY COMM: 16
-  SCHOOL BOARD: 15
-  H: 12
-  JUDGE: 11
-  SENATOR: 5
-  PRESIDENT: 4
-  CNTY CLERK: 4
-  ATTORNEY GENERAL: 3
-  GOVERNOR: 3
-  LT GOVERNOR: 2
-  SUPERINTENDENT: 2
-  SHERIFF: 2
-  REGISTER OF DEEDS: 2
+--- CONFIDENCE SCORES (V5 FINAL) ---
+Mean: 0.907
+Below 0.85: 16 (mostly V2 federal Pattern A at 0.85)
+Min: 0.60
 
-Party distribution:
-  Democrat: 100
-  Republican: 49
-  Independent: 1
+--- INCUMBENCY COVERAGE ---
+Records with inc flag: 74 (40%)
+Multi-cycle tracked:
+- Preyer L. Richardson D H-6 (68/70/72/74)
+- Ervin Sam J. Jr. D SEN (68 inc)
+- Kuykendall E. D. Jr. JUDGE D (68/72)
+- Various state leg multi-cycle (Jarrell/Seymour/Martin/etc.)
+
+--- CROSS-PAPER VALIDATION ---
+Sister papers: Greensboro Daily News (132701, morning 1950-1982), Greensboro News and Record (132700, post-merger 1984-2018)
+Triple-paper framework allows direct editorial comparison.
+
+V4 OCR confirmed cross-paper divergences vs GDN (sister morning):
+- 1976 PRES: GR Ford R | GDN Carter D (conservative split)
+- 1978 SEN: GR Helms R | GDN declined (sister-paper documented)
+- 1980 PRES: GR Reagan R | GDN no record
+- 1980 SEN: GR East R | GDN no record
+
+--- AUDIT HISTORY ---
+V1 (2026-05-03): Initial extraction from raw
+V2 (2026-06-16): 4 PK + 10 fed Pattern A + 23 party fills + 18 GDN cross-paper name std + 10 cross-yr inc + 22 dname
+V3 (2026-06-16): 4 yrs OCR conservative shift + judicial audit (13) + 15 empty-direction props flagged + RA_NEEDS
+V4 (2026-06-16): +4 yrs OCR (LBJ 64 direct confirm) + 1950s props OCR sample + multi-member at-large era documented + 14 cross-paper name std
+V5 (2026-06-16): Final notes refinement + metadata refresh + triple-paper validation + V5 FINAL formal QA
+
+--- NOTES ---
+
+EDITORIAL IDENTITY (V5 FINAL, 8 years OCR verified):
+NC afternoon paper 1890-1984. More conservative than morning sister Greensboro Daily News.
+
+FEDERAL PICKS (conservative-shift documented):
+- D PRES: LBJ 64 (V4 OCR confirmed: "Johnson-Humphrey ticket")
+- R PRES: Ford 76 (V3 OCR "Carter and Ford" framing), Reagan 80
+- D SEN: Ervin 68 inc, Galifianakis 72, Morgan 74
+- R SEN: Helms 78, East 80 (V3 OCR "Dr. East wears his conservative")
+- D GOV: Bowles 72, Hunt 80 inc
+- R GOV: Flaherty 76
+
+H DELEGATION:
+- Preyer D H-6 endorsed 1968-1974 (same as GDN sister)
+- Pattern: GR matched GDN on D federal until 1976 conservative shift
+
+JUDICIAL:
+- 1968 mixed D + Alexander R JUDGE
+- 1972 Clark D + Kuykendall D inc JUDGE
+- 1974 Sharp D SC
+- 1980 Daisy R + Hunter D JUDGE-18
+- 1982 Pearce NP COA (matches GDN endorsement)
+
+LOCAL GUILFORD COUNTY:
+- SCHOOL BOARD: 15 records (all Nonpartisan, 1976-1980)
+- CNTY COMM: 16 records (D/R mix)
+
+PROPOSITIONS: 32 records
+- 23 AMENDMENT + 7 BOND + 2 REFERENDUM
+- 15 pre-1964 props with empty direction flagged for RA review
+- Heavy NC constitutional amendment tradition (matches GDN)
+
+KEY ARCHIVE CONTEXT:
+GR data ends 1982; sister GDN also ends 1982; merger to GNR March 1984.
+1983 transitional editorial board year not captured.
+Cross-paper triple framework (GR/GDN/GNR) enables editorial divergence tracking unique among NC papers.
+
+Compiled: 2026-05-03
+V5 FINAL: 2026-06-16

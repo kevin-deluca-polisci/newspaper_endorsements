@@ -1,9 +1,9 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-NC,Greensboro Record,132702,1964,PRESIDENT,,,NC,"JOHNSON, LYNDON B",Democrat,1,1,,,Editorial 'The Choice' endorses Johnson over Goldwater citing leadership and experience,0.95
-NC,Greensboro Record,132702,1964,VICE PRESIDENT,,,NC,"HUMPHREY, HUBERT",Democrat,1,,,,Endorsed as part of Johnson-Humphrey ticket,0.90
+NC,Greensboro Record,132702,1964,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"JOHNSON, LYNDON B.",Democrat,1,1,,,"Editorial 'The Choice' endorses Johnson over Goldwater citing leadership and experience | V2: name std JOHNSON, LYNDON B → JOHNSON, LYNDON B. (cross-paper GDN match).",0.95
+NC,Greensboro Record,132702,1964,VICE PRESIDENT,,VICE PRESIDENT OF THE UNITED STATES,NC,"HUMPHREY, HUBERT",Democrat,1,,,,Endorsed as part of Johnson-Humphrey ticket,0.90
 NC,Greensboro Record,132702,1966,CNTY COMM,,Guilford County,NC,"GOURLEY, WILLARD JR",Republican,1,,,,"Described as 'energetic, ambitious, and tested in leadership'; editorial says Republicans deserve two seats",0.70
 NC,Greensboro Record,132702,1966,CNTY COMM,,Guilford County,NC,"MONTGOMERY, DALE",Republican,1,,1,,Praised as 'effective mediator' on board; editorial recommends Republicans deserve two seats and split tickets,0.70
-NC,Greensboro Record,132702,1966,STATE REP,,Guilford County,NC,"BOWLES, HARGROVE JR",Democrat,1,,,,Endorsed; ran NC Dept of Conservation and Development,0.90
+NC,Greensboro Record,132702,1966,STATE REP,,Guilford County,NC,"BOWLES, HARGROVE",Democrat,1,,,,"Endorsed; ran NC Dept of Conservation and Development | V2: name std BOWLES, HARGROVE JR → BOWLES, HARGROVE (cross-paper GDN match).",0.90
 NC,Greensboro Record,132702,1966,STATE REP,,Guilford County,NC,"EDWARDS, ELTON",Democrat,1,,,,Experienced legislator,0.90
 NC,Greensboro Record,132702,1966,STATE REP,,Guilford County,NC,"EXUM, JAMES G JR",Democrat,1,,,,Untested but impressive credentials,0.90
 NC,Greensboro Record,132702,1966,STATE REP,,Guilford County,NC,"PHILLIPS, CHARLES W",Democrat,1,,,,Experienced legislator; humanitarian,0.90
@@ -13,9 +13,9 @@ NC,Greensboro Record,132702,1966,STATE REP,,Guilford County,NC,"WHITLEY, D P JR"
 NC,Greensboro Record,132702,1966,STATE SENATOR,,Guilford-Randolph,NC,"JORDAN, HENRY",Democrat,1,,,,Former state senator and highway commission chairman,0.85
 NC,Greensboro Record,132702,1966,STATE SENATOR,,Guilford-Randolph,NC,"KEMP, ED",Democrat,1,,,,Veteran legislator; political comer,0.85
 NC,Greensboro Record,132702,1966,STATE SENATOR,,Guilford-Randolph,NC,"MCLENDON, L P JR",Democrat,1,,,,Seeking second term in upper chamber,0.85
-NC,Greensboro Record,132702,1968,ATTORNEY GENERAL,,,NC,"MORGAN, ROBERT",Democrat,1,,,,Long been a legislator of uncommon energy and persuasiveness; qualifications dwarf challenger,0.90
-NC,Greensboro Record,132702,1968,CNTY COMM,,Guilford County,NC,"LINVILLE, R N",Democrat,1,,1,,Chief Democratic spokesman in courthouse; encourages hope for re-election,0.90
-NC,Greensboro Record,132702,1968,H,6,Sixth Congressional District,NC,"PREYER, L RICHARDSON",Democrat,1,,,,"Editorial favors Preyer's more reasonable approach to federal-local relations, school integration; recognizes constitutional limits",0.75
+NC,Greensboro Record,132702,1968,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"MORGAN, ROBERT",Democrat,1,,,,Long been a legislator of uncommon energy and persuasiveness; qualifications dwarf challenger,0.90
+NC,Greensboro Record,132702,1968,CNTY COMM,,Guilford County,NC,"LINVILLE, R N",Democrat,1,1,,,Chief Democratic spokesman in courthouse; encourages hope for re-election | V2 Pattern K fix.,0.90
+NC,Greensboro Record,132702,1968,H,6,Sixth Congressional District,NC,"PREYER, L. RICHARDSON",Democrat,1,,,,"Editorial favors Preyer's more reasonable approach to federal-local relations, school integration; recognizes constitutional limits | V2: name std PREYER, L RICHARDSON → PREYER, L. RICHARDSON (cross-paper GDN match). | V5 conf boost: GDN cross-paper agreement on Preyer H-6 endorsement.",0.88
 NC,Greensboro Record,132702,1968,JUDGE,,Guilford County District Court,NC,"ALEXANDER, ELRETA MELTON",Republican,1,,,,Attorney of proven skill and courage; combination of qualifications can ill be spared,0.85
 NC,Greensboro Record,132702,1968,JUDGE,,Guilford County District Court,NC,"ENOCHS, HERMAN JR",Democrat,1,,,,Tested in Greensboro Municipal Court; experience favors Democrats,0.70
 NC,Greensboro Record,132702,1968,JUDGE,,Guilford County District Court,NC,"GENTRY, B GORDON",Democrat,1,,,,Founding judge of Guilford Domestic Relations Court,0.70
@@ -23,20 +23,20 @@ NC,Greensboro Record,132702,1968,JUDGE,,Guilford County District Court,NC,"HAWOR
 NC,Greensboro Record,132702,1968,JUDGE,,Guilford County District Court,NC,"KUYKENDALL, E D JR",Democrat,1,,,,Tested in Greensboro Municipal Court,0.70
 NC,Greensboro Record,132702,1968,JUDGE,,Guilford County District Court,NC,"MILES, J BENJAMIN",Democrat,1,,,,Tested in Greensboro Municipal Court,0.70
 NC,Greensboro Record,132702,1968,JUDGE,,Guilford County District Court,NC,"WASHINGTON, EDWARD K",Democrat,1,,,,Experience as solicitor of Superior Court,0.70
-NC,Greensboro Record,132702,1968,LT GOVERNOR,,,NC,"TAYLOR, H PAT JR",Democrat,1,,,,"By all other measurements, Pat Taylor is plainly better equipped than Don Garren; six terms in House, House Speaker 1965",0.95
-NC,Greensboro Record,132702,1968,PRESIDENT,,,NC,"WALLACE, GEORGE",Independent,0,,,,Editorial calls Wallace 'clearly unfit for the presidency' citing simplistic reasoning,0.95
-NC,Greensboro Record,132702,1968,SENATOR,,,NC,"ERVIN, SAM JR",Democrat,1,1,,,"Political monument with experience as state judge, state Supreme Court justice, congressman, senator since 1954",0.70
+NC,Greensboro Record,132702,1968,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"TAYLOR, H. PAT, JR.",Democrat,1,,,,"By all other measurements, Pat Taylor is plainly better equipped than Don Garren; six terms in House, House Speaker 1965 | V2: name std TAYLOR, H PAT JR → TAYLOR, H. PAT, JR. (cross-paper GDN match).",0.95
+NC,Greensboro Record,132702,1968,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"WALLACE, GEORGE",Independent,0,,,,Editorial calls Wallace 'clearly unfit for the presidency' citing simplistic reasoning,0.95
+NC,Greensboro Record,132702,1968,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"ERVIN, SAM J., JR.",Democrat,1,1,,,"Political monument with experience as state judge, state Supreme Court justice, congressman, senator since 1954 | V2: name std ERVIN, SAM JR → ERVIN, SAM J., JR. (cross-paper GDN match). | V5 conf boost: GDN cross-paper agreement + 1968 OCR confirms Ervin SEN.",0.88
 NC,Greensboro Record,132702,1968,STATE REP,,Guilford County,NC,"CLARK, DAVID M",Democrat,1,,,,Among Democratic candidates; not a poor candidate,0.60
 NC,Greensboro Record,132702,1968,STATE REP,,Guilford County,NC,"FRYE, HENRY E",Democrat,1,,,,Estimable representative of a race long deprived of a legislative spokesman,0.85
-NC,Greensboro Record,132702,1968,STATE REP,,Guilford County,NC,"PHILLIPS, C W",Democrat,1,,1,,Incumbent; earned return to House,0.90
+NC,Greensboro Record,132702,1968,STATE REP,,Guilford County,NC,"PHILLIPS, C W",Democrat,1,1,,,Incumbent; earned return to House | V2 Pattern K fix.,0.90
 NC,Greensboro Record,132702,1968,STATE REP,,Guilford County,NC,"RIDENHOUR, JOHN L III",Democrat,1,,,,Among Democratic candidates; not a poor candidate,0.60
-NC,Greensboro Record,132702,1968,STATE REP,,Guilford County,NC,"SHORT, W M",Democrat,1,,1,,Incumbent; earned return to House,0.90
+NC,Greensboro Record,132702,1968,STATE REP,,Guilford County,NC,"SHORT, W M",Democrat,1,1,,,Incumbent; earned return to House | V2 Pattern K fix.,0.90
 NC,Greensboro Record,132702,1968,STATE REP,,Guilford County,NC,"SMITH, MCNEILL",Democrat,1,,,,Record of civic achievement foreshadows uncommonly substantial service,0.85
-NC,Greensboro Record,132702,1968,STATE SENATOR,,Guilford-Randolph,NC,"BOWLES, HARGROVE JR",Democrat,1,,,,Veteran of House service; richly deserves inclusion,0.95
+NC,Greensboro Record,132702,1968,STATE SENATOR,,Guilford-Randolph,NC,"BOWLES, HARGROVE",Democrat,1,,,,"Veteran of House service; richly deserves inclusion | V2: name std BOWLES, HARGROVE JR → BOWLES, HARGROVE (cross-paper GDN match).",0.95
 NC,Greensboro Record,132702,1968,STATE SENATOR,,Guilford-Randolph,NC,"EDWARDS, ELTON",Democrat,1,,,,Veteran of House service; richly deserves inclusion,0.95
-NC,Greensboro Record,132702,1968,SUPERINTENDENT,,,NC,"PHILLIPS, CRAIG",Democrat,1,,,,Director of Richardson Foundation and superintendent of two of state's largest school systems,0.90
-NC,Greensboro Record,132702,1970,CNTY CLERK,,Guilford County,NC,"SHORE, JOSEPH P",Democrat,1,1,,,30 years of capable service; 'no good reason he should not remain on for another term',0.95
-NC,Greensboro Record,132702,1970,H,6,Sixth Congressional District,NC,"PREYER, L RICHARDSON",Democrat,1,1,,,He has earned them [another two years]; remarkable talents and distinguished service,0.95
+NC,Greensboro Record,132702,1968,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"PHILLIPS, CRAIG",Democrat,1,,,,Director of Richardson Foundation and superintendent of two of state's largest school systems,0.90
+NC,Greensboro Record,132702,1970,CNTY CLERK,,Guilford County,NC,"SHORE, JOSEPH",Democrat,1,1,,,"30 years of capable service; 'no good reason he should not remain on for another term' | V2: name std SHORE, JOSEPH P → SHORE, JOSEPH (cross-paper GDN match).",0.95
+NC,Greensboro Record,132702,1970,H,6,Sixth Congressional District,NC,"PREYER, L. RICHARDSON",Democrat,1,1,,,"He has earned them [another two years]; remarkable talents and distinguished service | V2: name std PREYER, L RICHARDSON → PREYER, L. RICHARDSON (cross-paper GDN match).",0.95
 NC,Greensboro Record,132702,1970,SHERIFF,,Guilford County,NC,"SEAY, GEORGE",Republican,1,,,,15 years of nonpolitical police work; promised to work for professional county police under civil service. 'The next sheriff should be Mr. Seay.',0.98
 NC,Greensboro Record,132702,1970,STATE REP,,Guilford County,NC,"BARNETT, W H",Democrat,1,,,,House member while resident of another county; best bet to round out delegation,0.85
 NC,Greensboro Record,132702,1970,STATE REP,,Guilford County,NC,"FRYE, HENRY E",Democrat,1,1,,,Distinguished legislative veteran,0.95
@@ -44,48 +44,48 @@ NC,Greensboro Record,132702,1970,STATE REP,,Guilford County,NC,"PHILLIPS, C W",D
 NC,Greensboro Record,132702,1970,STATE REP,,Guilford County,NC,"SHORT, W M",Democrat,1,1,,,Known capabilities entitle him to priority almost as great,0.90
 NC,Greensboro Record,132702,1970,STATE REP,,Guilford County,NC,"SMITH, MCNEILL",Democrat,1,1,,,Most promising newcomer anywhere on the ballot,0.95
 NC,Greensboro Record,132702,1970,STATE REP,,Guilford County,NC,"WEBB, CHARLIE",Democrat,1,,,,Best bet to round out the delegation creditably,0.85
-NC,Greensboro Record,132702,1970,STATE SENATOR,,Guilford-Randolph,NC,"BOWLES, HARGROVE JR",Democrat,1,1,,,Proven as able legislative leader,0.95
+NC,Greensboro Record,132702,1970,STATE SENATOR,,Guilford-Randolph,NC,"BOWLES, HARGROVE",Democrat,1,1,,,"Proven as able legislative leader | V2: name std BOWLES, HARGROVE JR → BOWLES, HARGROVE (cross-paper GDN match).",0.95
 NC,Greensboro Record,132702,1970,STATE SENATOR,,Guilford-Randolph,NC,"EDWARDS, ELTON",Democrat,1,1,,,Proven as able legislative leader,0.95
-NC,Greensboro Record,132702,1970,STATE SENATOR,,Guilford-Randolph,NC,"MCLENDON, L P JR",Democrat,1,,,,Proven as able legislative leader,0.95
-NC,Greensboro Record,132702,1972,ATTORNEY GENERAL,,,NC,"MORGAN, ROBERT",Democrat,1,1,,,Has revitalized the attorney general's office; merits another term,0.95
-NC,Greensboro Record,132702,1972,AUDITOR,,,NC,"BRIDGES, HENRY",Democrat,1,1,,,Long been an alert state auditor; return needed,0.95
+NC,Greensboro Record,132702,1970,STATE SENATOR,,Guilford-Randolph,NC,"MCLENDON, L P JR",Democrat,1,1,,,"Proven as able legislative leader | V2 state leg cross-year inc, first 1966.",0.95
+NC,Greensboro Record,132702,1972,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"MORGAN, ROBERT",Democrat,1,1,,,Has revitalized the attorney general's office; merits another term,0.95
+NC,Greensboro Record,132702,1972,AUDITOR,,STATE AUDITOR OF NORTH CAROLINA,NC,"BRIDGES, HENRY",Democrat,1,1,,,Long been an alert state auditor; return needed,0.95
 NC,Greensboro Record,132702,1972,CNTY COMM,,Guilford County,NC,"BARBEE, ZOE",Democrat,1,,,,Educator; black and female; consistently temperate and imaginative discussion of issues,0.90
 NC,Greensboro Record,132702,1972,CNTY COMM,,Guilford County,NC,"SHAW, ROBERT",Republican,1,,1,,Board's vice chairman; superior credentials of the two vulnerable,0.90
-NC,Greensboro Record,132702,1972,GOVERNOR,,,NC,"BOWLES, HARGROVE",Democrat,1,,,,Best fitted to lead state in transition; warm-hearted efficiency; new Democratic look,0.95
+NC,Greensboro Record,132702,1972,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"BOWLES, HARGROVE",Democrat,1,,,,Best fitted to lead state in transition; warm-hearted efficiency; new Democratic look,0.95
 NC,Greensboro Record,132702,1972,H,4,Fourth Congressional District,NC,"ANDREWS, IKE",Democrat,1,,,,Forward-looking candidate; must beat Hawke for Galifianakis seat,0.85
 NC,Greensboro Record,132702,1972,H,5,Fifth Congressional District,NC,"HAYS, BROOKS",Democrat,1,,,,Moderate man with chance of deposing ultra-conservative Mizell,0.85
-NC,Greensboro Record,132702,1972,H,6,Sixth Congressional District,NC,"PREYER, RICHARDSON",Democrat,1,1,,,"Distinguished services; deserves third House term; quiet, effective hard work",0.95
+NC,Greensboro Record,132702,1972,H,6,Sixth Congressional District,NC,"PREYER, L. RICHARDSON",Democrat,1,1,,,"Distinguished services; deserves third House term; quiet, effective hard work | V2: name std PREYER, RICHARDSON → PREYER, L. RICHARDSON (cross-paper GDN match).",0.95
 NC,Greensboro Record,132702,1972,H,7,Seventh Congressional District,NC,"ROSE, CHARLES",Democrat,1,,,,Far enough ahead of departing incumbent to attract labor endorsement,0.85
 NC,Greensboro Record,132702,1972,H,8,Eighth Congressional District,NC,"CLARK, RICHARD",Democrat,1,,,,Effective advocate of consumer rights; challenges Earl Ruth,0.85
 NC,Greensboro Record,132702,1972,H,9,Ninth Congressional District,NC,"BEATTY, JIM",Democrat,1,,,,Has energy and imagination plus inclination toward political mainstream,0.85
 NC,Greensboro Record,132702,1972,JUDGE,,Guilford County District Court,NC,"CLARK, WALTER E JR",Democrat,1,1,,,Record satisfactory; no good reason to turn out,0.95
 NC,Greensboro Record,132702,1972,JUDGE,,Guilford County District Court,NC,"KUYKENDALL, E D JR",Democrat,1,1,,,Chief judge; record satisfactory; no good reason to turn out,0.95
-NC,Greensboro Record,132702,1972,LT GOVERNOR,,,NC,"HUNT, JAMES B",Democrat,1,,,,Knowledge of the possible; would serve efficiently and imaginatively,0.95
+NC,Greensboro Record,132702,1972,LT GOVERNOR,,LIEUTENANT GOVERNOR OF NORTH CAROLINA,NC,"HUNT, JIM",Democrat,1,,,,"Knowledge of the possible; would serve efficiently and imaginatively | V2: name std HUNT, JAMES B → HUNT, JIM (cross-paper GDN match).",0.95
 NC,Greensboro Record,132702,1972,REGISTER OF DEEDS,,Guilford County,NC,"STEWART, MARK",Democrat,1,1,,,Experienced and efficient incumbent,0.95
-NC,Greensboro Record,132702,1972,SEC OF STATE,,,NC,"ROHRER, GRACE",Republican,1,,,,Experienced legislator and businesswoman; admirable replacement for Thad Eure,0.95
-NC,Greensboro Record,132702,1972,SENATOR,,,NC,"GALIFIANAKIS, NICK",Democrat,1,,,,Able and effective legislator; deserves Senate seat on basis of record and campaigning,0.95
+NC,Greensboro Record,132702,1972,SEC OF STATE,,SECRETARY OF STATE OF NORTH CAROLINA,NC,"ROHRER, GRACE",Republican,1,,,,Experienced legislator and businesswoman; admirable replacement for Thad Eure,0.95
+NC,Greensboro Record,132702,1972,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"GALIFIANAKIS, NICK",Democrat,1,,,,Able and effective legislator; deserves Senate seat on basis of record and campaigning,0.95
 NC,Greensboro Record,132702,1972,STATE REP,,Guilford County,NC,"FRYE, HENRY",Democrat,1,1,,,Foremost among five recommended; proven capabilities,0.95
 NC,Greensboro Record,132702,1972,STATE REP,,Guilford County,NC,"GILMORE, TOM",Democrat,1,,,,Newcomer of progressive promise,0.90
-NC,Greensboro Record,132702,1972,STATE REP,,Guilford County,NC,"KEESEE, MARGARET",Republican,1,,,,Worthy replacement; would help correct deplorable male/female imbalance in Legislature,0.85
+NC,Greensboro Record,132702,1972,STATE REP,,Guilford County,NC,"KEESEE, MARGARET P.",Republican,1,,,,"Worthy replacement; would help correct deplorable male/female imbalance in Legislature | V4: name std KEESEE, MARGARET → KEESEE, MARGARET P. (GDN match).",0.85
 NC,Greensboro Record,132702,1972,STATE REP,,Guilford County,NC,"PHILLIPS, C W",Democrat,1,1,,,Proven capabilities; recommended whate'er betide party balance,0.95
 NC,Greensboro Record,132702,1972,STATE REP,,Guilford County,NC,"SHORT, MARK",Democrat,1,1,,,Proven capabilities; recommended whate'er betide party balance,0.95
-NC,Greensboro Record,132702,1972,STATE REP,,Guilford County,NC,"WEBB, CHARLIE",Democrat,1,,,,Newcomer of progressive promise,0.90
-NC,Greensboro Record,132702,1972,STATE SENATOR,,Guilford County,NC,"EDWARDS, ELTON",Democrat,1,,,,Veteran of House and Senate; worked for day-care regulations; deserves return,0.95
+NC,Greensboro Record,132702,1972,STATE REP,,Guilford County,NC,"WEBB, CHARLIE",Democrat,1,1,,,"Newcomer of progressive promise | V2 state leg cross-year inc, first 1970.",0.90
+NC,Greensboro Record,132702,1972,STATE SENATOR,,Guilford County,NC,"EDWARDS, ELTON",Democrat,1,1,,,"Veteran of House and Senate; worked for day-care regulations; deserves return | V2 state leg cross-year inc, first 1968.",0.95
 NC,Greensboro Record,132702,1972,STATE SENATOR,,Guilford County,NC,"MURROW, C COOLIDGE",Republican,1,,1,,Only elected Senate incumbent; legislative experience; deserves edge over Lynwood Smith,0.85
 NC,Greensboro Record,132702,1972,STATE SENATOR,,Guilford County,NC,"SMITH, MCNEILL",Democrat,1,1,,,Among state's most knowledgeable and progressive legislators,0.95
-NC,Greensboro Record,132702,1972,SUPERINTENDENT,,,NC,"PHILLIPS, CRAIG",Democrat,1,1,,,Has made an admirable superintendent of public instruction; return needed,0.95
-NC,Greensboro Record,132702,1974,ATTORNEY GENERAL,,,NC,"EDMISTEN, RUFUS",Democrat,1,,,,Has had the better of the campaign; could manage attorney general's office forcefully and efficiently,0.95
-NC,Greensboro Record,132702,1974,CNTY CLERK,,Guilford County,NC,"SHORE, JOSEPH P",Democrat,1,1,,,Made his department a model of its kind; 34 years of service,0.95
+NC,Greensboro Record,132702,1972,SUPERINTENDENT,,SUPERINTENDENT OF PUBLIC INSTRUCTION,NC,"PHILLIPS, CRAIG",Democrat,1,1,,,Has made an admirable superintendent of public instruction; return needed,0.95
+NC,Greensboro Record,132702,1974,ATTORNEY GENERAL,,ATTORNEY GENERAL OF NORTH CAROLINA,NC,"EDMISTEN, RUFUS",Democrat,1,,,,Has had the better of the campaign; could manage attorney general's office forcefully and efficiently,0.95
+NC,Greensboro Record,132702,1974,CNTY CLERK,,Guilford County,NC,"SHORE, JOSEPH",Democrat,1,1,,,"Made his department a model of its kind; 34 years of service | V2: name std SHORE, JOSEPH P → SHORE, JOSEPH (cross-paper GDN match).",0.95
 NC,Greensboro Record,132702,1974,DA/PROSECUTOR,,Guilford County,NC,"ALEXANDER, RAYMOND",Democrat,1,,,,Has the background necessary to improve docketing procedures and office efficiency,0.80
-NC,Greensboro Record,132702,1974,H,6,Sixth Congressional District,NC,"PREYER, RICHARDSON",Democrat,1,1,,,"Three-term incumbent; broad interests, humanitarian concerns; record invites voter support for another term",0.95
-NC,Greensboro Record,132702,1974,SENATOR,,,NC,"MORGAN, ROBERT",Democrat,1,,,,"Broad experience, demonstrated capacity to learn; balanced representation calls for keeping seat Democratic",0.85
-NC,Greensboro Record,132702,1974,SHERIFF,,Guilford County,NC,"GIBSON, PAUL H",Democrat,1,1,,,Has handled a difficult job with considerable success; clearly merits another term,0.95
+NC,Greensboro Record,132702,1974,H,6,Sixth Congressional District,NC,"PREYER, L. RICHARDSON",Democrat,1,1,,,"Three-term incumbent; broad interests, humanitarian concerns; record invites voter support for another term | V2: name std PREYER, RICHARDSON → PREYER, L. RICHARDSON (cross-paper GDN match).",0.95
+NC,Greensboro Record,132702,1974,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"MORGAN, ROBERT",Democrat,1,,,,"Broad experience, demonstrated capacity to learn; balanced representation calls for keeping seat Democratic",0.85
+NC,Greensboro Record,132702,1974,SHERIFF,,Guilford County,NC,"GIBSON, PAUL",Democrat,1,1,,,"Has handled a difficult job with considerable success; clearly merits another term | V2: name std GIBSON, PAUL H → GIBSON, PAUL (cross-paper GDN match).",0.95
 NC,Greensboro Record,132702,1974,STATE REP,,Guilford County,NC,"FRYE, HENRY E",Democrat,1,1,,,Chairman last session; independence of spirit,0.95
 NC,Greensboro Record,132702,1974,STATE REP,,Guilford County,NC,"GILMORE, TOM",Democrat,1,1,,,Determined advocate of open government,0.95
 NC,Greensboro Record,132702,1974,STATE REP,,Guilford County,NC,"HEER, LEO",Democrat,1,,,,Long active in High Point civic affairs,0.80
 NC,Greensboro Record,132702,1974,STATE REP,,Guilford County,NC,"PAYNE, ODELL",Republican,1,,1,,Knows the legislative ropes; only veteran Republican seeking re-election,0.70
 NC,Greensboro Record,132702,1974,STATE REP,,Guilford County,NC,"PHILLIPS, CHARLIE",Democrat,1,1,,,Devotion to education; service on Appropriations Committee,0.95
-NC,Greensboro Record,132702,1974,STATE REP,,Guilford County,NC,"SHORT, MARCUS",Democrat,1,,,,Four-term veteran; well qualified to return to Raleigh now,0.90
+NC,Greensboro Record,132702,1974,STATE REP,,Guilford County,NC,"SHORT, MARCUS",Democrat,1,1,,,"Four-term veteran; well qualified to return to Raleigh now | V2 state leg cross-year inc, first 1966.",0.90
 NC,Greensboro Record,132702,1974,STATE REP,,Guilford County,NC,"WEBB, CHARLIE",Democrat,1,1,,,Clear-eyed advocate of environmental protection,0.90
 NC,Greensboro Record,132702,1974,STATE SENATOR,,Guilford County,NC,"MURROW, COOLIDGE",Republican,1,,1,,Three-term lone Republican in 1973-74 Senate delegation,0.80
 NC,Greensboro Record,132702,1974,STATE SENATOR,,Guilford County,NC,"SMITH, MCNEILL",Democrat,1,1,,,Spokesman of statewide reputation; tax reform leader,0.90
@@ -93,82 +93,92 @@ NC,Greensboro Record,132702,1974,SUPREME COURT,,Chief Justice,NC,"SHARP, SUSIE",
 NC,Greensboro Record,132702,1976,CNTY COMM,,Guilford County,NC,"ANDERSON, W H",Republican,1,,,,"Firmer overall grasp of county's problems; broad background as teacher, principal, coach, farmer, businessman",0.95
 NC,Greensboro Record,132702,1976,CNTY COMM,,Guilford County,NC,"DEAL, OGDEN",Democrat,1,,,,Concerned with environmental issues; what he says makes sense,0.95
 NC,Greensboro Record,132702,1976,CNTY COMM,,Guilford County,NC,"SHAW, ROBERT",Republican,1,,1,,Endorsed with misgivings; performed reasonably well as Commissioner,0.85
-NC,Greensboro Record,132702,1976,GOVERNOR,,,NC,"FLAHERTY, DAVID",Republican,1,,,,Industrious and capable legislator; more-than-able administrator as Secretary of Human Resources; endorsed without least hesitation,0.98
-NC,Greensboro Record,132702,1976,PRESIDENT,,,NC,"FORD, GERALD",Republican,1,,1,,"Steady, generally predictable; has steered in direction of restraint via vetoes; clearly to be preferred over inexperienced Carter",0.98
-NC,Greensboro Record,132702,1976,SCHOOL BOARD,,Guilford County,NC,"DELAUNE, FRANCIS W",,1,,,,"Conscientious, well-informed, fair-minded critic; would make valuable contribution to public education",0.95
+NC,Greensboro Record,132702,1976,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"FLAHERTY, DAVID T.",Republican,1,,,,"Industrious and capable legislator; more-than-able administrator as Secretary of Human Resources; endorsed without least hesitation | V2: name std FLAHERTY, DAVID → FLAHERTY, DAVID T. (cross-paper GDN match).",0.98
+NC,Greensboro Record,132702,1976,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"FORD, GERALD R.",Republican,1,,1,,"Steady, generally predictable; has steered in direction of restraint via vetoes; clearly to be preferred over inexperienced Carter | V2: name std FORD, GERALD → FORD, GERALD R. (cross-paper GDN match).",0.98
+NC,Greensboro Record,132702,1976,SCHOOL BOARD,,Guilford County,NC,"DELAUNE, FRANCIS W.",Nonpartisan,1,,,,"Conscientious, well-informed, fair-minded critic; would make valuable contribution to public education | V2: party=Nonpartisan, judicial/school office. | V2: name std DELAUNE, FRANCIS W → DELAUNE, FRANCIS W. (cross-paper GDN match).",0.95
 NC,Greensboro Record,132702,1976,STATE REP,,Guilford County,NC,"BEMUS, GEORGE",Republican,1,,,,Especially well qualified; experienced in precinct and campaign work,0.95
 NC,Greensboro Record,132702,1976,STATE REP,,Guilford County,NC,"FRYE, HENRY",Democrat,1,1,,,Especially well qualified,0.95
-NC,Greensboro Record,132702,1976,STATE REP,,Guilford County,NC,"KEESEE, MARGARET",Republican,1,,,,Especially well qualified; generally able legislator,0.95
+NC,Greensboro Record,132702,1976,STATE REP,,Guilford County,NC,"KEESEE, MARGARET P.",Republican,1,,1,,"Especially well qualified; generally able legislator | V2 state leg cross-year inc, first 1972. | V4: name std KEESEE, MARGARET → KEESEE, MARGARET P. (GDN match).",0.95
 NC,Greensboro Record,132702,1976,STATE REP,,Guilford County,NC,"MORGAN, CRAIG",Democrat,1,,,,Recommended for House,0.90
-NC,Greensboro Record,132702,1976,STATE REP,,Guilford County,NC,"SHORT, W M",Democrat,1,,,,Recommended for House,0.90
+NC,Greensboro Record,132702,1976,STATE REP,,Guilford County,NC,"SHORT, W M",Democrat,1,1,,,"Recommended for House | V2 state leg cross-year inc, first 1968.",0.90
 NC,Greensboro Record,132702,1976,STATE REP,,Guilford County,NC,"WEBB, CHARLES",Democrat,1,,,,Recommended for House,0.90
 NC,Greensboro Record,132702,1976,STATE SENATOR,,Guilford County,NC,"JOHNSTON, W EUGENE III",Republican,1,,,,Cum laude graduate; experienced tax lawyer and accountant; conservative steadying influence,0.95
 NC,Greensboro Record,132702,1976,STATE SENATOR,,Guilford County,NC,"LEWIS, MANLEY C",Republican,1,,,,Landscape architect with government experience; conservative steadying influence,0.95
 NC,Greensboro Record,132702,1976,STATE SENATOR,,Guilford County,NC,"SMITH, MCNEILL",Democrat,1,1,,,Few equals in legislature; thinking maverick; ought to be returned,0.95
 NC,Greensboro Record,132702,1978,CNTY CLERK,,Guilford County,NC,"SLATE, JOSEPH",Republican,1,,,,Intelligent and energetic challenger; can uphold and probably even improve upon efficient record of incumbent,0.95
-NC,Greensboro Record,132702,1978,CNTY COMM,,Guilford County,NC,"FAISON, GASTON",Democrat,1,,1,,Conscientious and creditable member of board; admirably resisted partisan pressure,0.95
+NC,Greensboro Record,132702,1978,CNTY COMM,,Guilford County,NC,"FAISON, GASTON",Democrat,1,1,,,Conscientious and creditable member of board; admirably resisted partisan pressure | V2 Pattern K fix.,0.95
 NC,Greensboro Record,132702,1978,CNTY COMM,,Guilford County,NC,"MCCARTHY, JOHN",Republican,1,,,,Energetic and articulate; pick of the field,0.95
 NC,Greensboro Record,132702,1978,CNTY COMM,,Guilford County,NC,"PAYNE, ROBERT ODELL",Republican,1,,,,"Experience as schoolteacher, businessman, state legislator would be certain asset",0.95
 NC,Greensboro Record,132702,1978,DA/PROSECUTOR,,Guilford County,NC,"SCHLOSSER, MIKE",Democrat,1,,,,Has drive and initiative; would be a vigorous prosecutor; would organize the office,0.95
 NC,Greensboro Record,132702,1978,H,6,Sixth Congressional District,NC,"BEMUS, GEORGE",Republican,1,,,,"Would place economy at top of priority list; would join those who cut income taxes, reduce federal spending, balance budget sooner",0.98
-NC,Greensboro Record,132702,1978,SENATOR,,,NC,"HELMS, JESSE",Republican,1,,1,,"Endorsement offered; would benefit the economy, vote for strong national defense; better than Ingram's economic positions",0.98
+NC,Greensboro Record,132702,1978,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"HELMS, JESSE",Republican,1,,1,,"Endorsement offered; would benefit the economy, vote for strong national defense; better than Ingram's economic positions",0.98
 NC,Greensboro Record,132702,1978,STATE REP,,Guilford County,NC,"COBLE, J HOWARD",Republican,1,,,,"Impressive record as state legislator, federal prosecutor, state cabinet official",0.95
 NC,Greensboro Record,132702,1978,STATE REP,,Guilford County,NC,"EVANS, WILLIAM T",Republican,1,,,,Has shown savvy and aggressiveness while making campaign rounds,0.95
 NC,Greensboro Record,132702,1978,STATE REP,,Guilford County,NC,"FISHER, WILLIAM",Republican,1,,,,Displays gutsy independence; would be singularly outspoken,0.95
 NC,Greensboro Record,132702,1978,STATE REP,,Guilford County,NC,"FOSTER, TOM",Democrat,1,,,,Moderate and conscientious; man of quality and character,0.95
 NC,Greensboro Record,132702,1978,STATE REP,,Guilford County,NC,"FRYE, HENRY",Democrat,1,1,,,Essentially moderate mien; responsive to people of county; deserves re-election,0.95
-NC,Greensboro Record,132702,1978,STATE REP,,Guilford County,NC,"KEESEE, MARGARET",Republican,1,,,,Hardworking schoolteacher and former legislator; happy to have her back,0.95
+NC,Greensboro Record,132702,1978,STATE REP,,Guilford County,NC,"KEESEE, MARGARET P.",Republican,1,,1,,"Hardworking schoolteacher and former legislator; happy to have her back | V2 state leg cross-year inc, first 1972. | V4: name std KEESEE, MARGARET → KEESEE, MARGARET P. (GDN match).",0.95
 NC,Greensboro Record,132702,1978,STATE REP,,Guilford County,NC,"MORGAN, JAMES",Democrat,1,1,,,Great influence in legislature; dextrous floor leadership; merits re-election,0.95
 NC,Greensboro Record,132702,1978,STATE SENATOR,,Guilford County,NC,"COCKERHAM, WALTER",Republican,1,,,,Tireless campaigner; would keep watch on politicians in Raleigh,0.90
-NC,Greensboro Record,132702,1978,STATE SENATOR,,Guilford County,NC,"COLE, DAVID B",Republican,1,,,,Most impressive of three; remarkably astute student of the issues,0.95
-NC,Greensboro Record,132702,1978,STATE SENATOR,,Guilford County,NC,"JOHNSTON, W EUGENE III",Republican,1,,,,Vote for all three Republican contenders not unreasonable,0.90
+NC,Greensboro Record,132702,1978,STATE SENATOR,,Guilford County,NC,"COLE, DAVID B.",Republican,1,,,,"Most impressive of three; remarkably astute student of the issues | V4: name std COLE, DAVID B → COLE, DAVID B. (GDN match).",0.95
+NC,Greensboro Record,132702,1978,STATE SENATOR,,Guilford County,NC,"JOHNSTON, W EUGENE III",Republican,1,,1,,"Vote for all three Republican contenders not unreasonable | V2 state leg cross-year inc, first 1976.",0.90
 NC,Greensboro Record,132702,1980,CNTY COMM,,Guilford County,NC,"CAMPBELL, FORREST",Democrat,1,1,,,Board chairman; equal to the challenge,0.95
 NC,Greensboro Record,132702,1980,CNTY COMM,,Guilford County,NC,"DEAL, OGDEN",Democrat,1,1,,,Maverick; very hard worker; takes commission duties seriously; should remain on board,0.95
-NC,Greensboro Record,132702,1980,GOVERNOR,,,NC,"HUNT, JIM",Democrat,1,1,,,"Despite faults, has been a good Governor; commitment to education has rested well; we urge re-election",0.95
+NC,Greensboro Record,132702,1980,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"HUNT, JIM",Democrat,1,1,,,"Despite faults, has been a good Governor; commitment to education has rested well; we urge re-election",0.95
 NC,Greensboro Record,132702,1980,H,6,Sixth Congressional District,NC,"JOHNSTON, GENE",Republican,1,,,,Would do better in fiscal fight; would vote in more fiscally conservative manner; would energetically go after entitlement programs,0.98
-NC,Greensboro Record,132702,1980,INSURANCE COMMISSIONER,,,NC,"TENNEY, EDWIN",Republican,1,,,,Decent and intelligent man; promised to work to clean up the mess; equal to challenge,0.95
+NC,Greensboro Record,132702,1980,INSURANCE COMMISSIONER,,INSURANCE COMMISSIONER OF NORTH CAROLINA,NC,"TENNEY, EDWIN",Republican,1,,,,Decent and intelligent man; promised to work to clean up the mess; equal to challenge,0.95
 NC,Greensboro Record,132702,1980,JUDGE,18,Guilford County District Court,NC,"DAISY, WILLIAM L",Republican,1,,,,More temperamentally suited for the bench; steady disposition,0.95
 NC,Greensboro Record,132702,1980,JUDGE,18,Guilford County District Court,NC,"HUNTER, WILLIAM K",Democrat,1,,,,Endorsed mainly because of Mr. Lowe's racially-tinged campaign against him,0.95
-NC,Greensboro Record,132702,1980,PRESIDENT,,,NC,"REAGAN, RONALD",Republican,1,,,,Better case for him on economy and national security; Carter's policies have conspicuously failed,0.98
+NC,Greensboro Record,132702,1980,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"REAGAN, RONALD",Republican,1,,,,Better case for him on economy and national security; Carter's policies have conspicuously failed,0.98
 NC,Greensboro Record,132702,1980,REGISTER OF DEEDS,,Guilford County,NC,"PATSEAVOURAS, KAY",Republican,1,,,,"Honest, straightforward, good with people; administrative experience; better choice; enthusiastically recommended",0.98
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,,Guilford County School Board,NC,"BOUDREAU, DOUGLAS",,1,,,,"Most impressive; understands academic, budgetary problems and political relations",0.95
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,,Guilford County School Board,NC,"DEAN, EVON",,1,,,,Present school board chairman; served one term very capably; urge re-election,0.95
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,,Guilford County School Board,NC,"SMITH, NANCY JO",,1,,,,Incumbent; experience edge over other two; urge re-election,0.95
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,1,Greensboro School Board District 1,NC,"WILLIAMS, JAMES T",,1,,,,Most knowledgeable about the schools; thought deeply about school financing,0.95
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,2,Greensboro School Board District 2,NC,"MEADOWS, ROBERT L JR",,1,,,,Concern for vocational training; higher technologies,0.95
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,3,Greensboro School Board District 3,NC,"SWINDLER, NATHANIEL",,1,,,,Surprise pick over predictable Wall; useful qualities; concerned about elementary education,0.85
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,4,Greensboro School Board District 4,NC,"SCOGGIN, JO ANN H",,1,,,,"Hard worker, more knowledgeable; current member of school board choosing to run",0.95
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,5,Greensboro School Board District 5,NC,"BEALE, SARAH J",,1,,,,More broadly knowledgeable about the school system; bright and conscientious,0.95
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,6,Greensboro School Board District 6,NC,"BERKELHAMMER, SYLVA G",,1,,,,Offers professionalism as a teacher,0.90
-NC,Greensboro Record,132702,1980,SCHOOL BOARD,AT-LARGE,Greensboro School Board At-Large,NC,"HICKS, EDWARD",,1,,,,Schooled in financing and budgetary matters; roving intelligence; strongly support,0.95
-NC,Greensboro Record,132702,1980,SENATOR,,,NC,"EAST, JOHN",Republican,1,,,,Stands better chance of making a difference in Washington; broad intellect; clear views,0.98
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,,Guilford County School Board,NC,"BOUDREAU, DOUGLAS",Nonpartisan,1,,,,"Most impressive; understands academic, budgetary problems and political relations | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,,Guilford County School Board,NC,"DEAN, EVON",Nonpartisan,1,,,,"Present school board chairman; served one term very capably; urge re-election | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,,Guilford County School Board,NC,"SMITH, NANCY JO",Nonpartisan,1,,,,"Incumbent; experience edge over other two; urge re-election | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,1,Greensboro School Board District 1,NC,"WILLIAMS, JAMES T",Nonpartisan,1,,,,"Most knowledgeable about the schools; thought deeply about school financing | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,2,Greensboro School Board District 2,NC,"MEADOWS, ROBERT L JR",Nonpartisan,1,,,,"Concern for vocational training; higher technologies | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,3,Greensboro School Board District 3,NC,"SWINDLER, NATHANIEL",Nonpartisan,1,,,,"Surprise pick over predictable Wall; useful qualities; concerned about elementary education | V2: party=Nonpartisan, judicial/school office.",0.85
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,4,Greensboro School Board District 4,NC,"SCOGGIN, JO ANN H",Nonpartisan,1,,,,"Hard worker, more knowledgeable; current member of school board choosing to run | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,5,Greensboro School Board District 5,NC,"BEALE, SARAH J",Nonpartisan,1,,,,"More broadly knowledgeable about the school system; bright and conscientious | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,6,Greensboro School Board District 6,NC,"BERKELHAMMER, SYLVA G",Nonpartisan,1,,,,"Offers professionalism as a teacher | V2: party=Nonpartisan, judicial/school office.",0.90
+NC,Greensboro Record,132702,1980,SCHOOL BOARD,AT-LARGE,Greensboro School Board At-Large,NC,"HICKS, EDWARD",Nonpartisan,1,,,,"Schooled in financing and budgetary matters; roving intelligence; strongly support | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1980,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"EAST, JOHN",Republican,1,,,,Stands better chance of making a difference in Washington; broad intellect; clear views,0.98
 NC,Greensboro Record,132702,1980,STATE REP,,Guilford County,NC,"BURNLEY, DOROTHY",Republican,1,,,,Sensible about money; keenly interested in public education; strongly recommend,0.95
 NC,Greensboro Record,132702,1980,STATE REP,,Guilford County,NC,"COBLE, HOWARD",Republican,1,,1,,Self-appointed watchdog challenging spending and improprieties,0.95
 NC,Greensboro Record,132702,1980,STATE REP,,Guilford County,NC,"EDWARDS, RALPH",Democrat,1,1,,,Served Guilford well; fiscal conservative interested in tax reform,0.90
 NC,Greensboro Record,132702,1980,STATE REP,,Guilford County,NC,"FOWLER, DARL",Republican,1,,,,Capable; could be counted on to think twice before spending public's money,0.95
 NC,Greensboro Record,132702,1980,STATE REP,,Guilford County,NC,"HAWORTH, BYRON",Democrat,1,1,,,Has done a good job quietly in Raleigh,0.90
-NC,Greensboro Record,132702,1980,STATE REP,,Guilford County,NC,"KEESEE, MARGARET",Republican,1,,1,,Conscientious work for mentally retarded; more fiscally conservative,0.95
+NC,Greensboro Record,132702,1980,STATE REP,,Guilford County,NC,"KEESEE, MARGARET P.",Republican,1,,1,,"Conscientious work for mentally retarded; more fiscally conservative | V4: name std KEESEE, MARGARET → KEESEE, MARGARET P. (GDN match).",0.95
 NC,Greensboro Record,132702,1980,STATE REP,,Guilford County,NC,"MORGAN, JIM",Democrat,1,1,,,Endorsed reluctantly; good job in other areas,0.85
 NC,Greensboro Record,132702,1980,STATE SENATOR,,Guilford County,NC,"COCKERHAM, WALTER",Republican,1,,1,,Conscientious application to job; voted in fiscally responsible manner,0.95
-NC,Greensboro Record,132702,1980,STATE SENATOR,,Guilford County,NC,"COLE, DAVID B",Republican,1,,,,Would make a good state Senator,0.95
+NC,Greensboro Record,132702,1980,STATE SENATOR,,Guilford County,NC,"COLE, DAVID B.",Republican,1,,1,,"Would make a good state Senator | V2 state leg cross-year inc, first 1978. | V4: name std COLE, DAVID B → COLE, DAVID B. (GDN match).",0.95
 NC,Greensboro Record,132702,1980,STATE SENATOR,,Guilford County,NC,"FRYE, HENRY",Democrat,1,1,,,Man of moderate politics who has long and well served Guilford County,0.95
 NC,Greensboro Record,132702,1982,CNTY CLERK,,Guilford County,NC,"SLATE, JOSEPH E JR",Republican,1,,1,,Has conducted affairs of office well; would be well served by his reelection,0.95
-NC,Greensboro Record,132702,1982,CNTY COMM,,Guilford County,NC,"CLAPP, PAUL",,1,,,1,Successful businessman; effective representation; leadership by example,0.95
-NC,Greensboro Record,132702,1982,CNTY COMM,,Guilford County,NC,"COLE, DAVID B",Republican,1,,,,Fiscally conservative Republican; would bring different perspective; concerned about ethics,0.95
-NC,Greensboro Record,132702,1982,CNTY COMM,,Guilford County,NC,"KEARNS, DOROTHY",,1,,,,Strong on education; extensive education experience; not a one-dimensional public figure,0.95
-NC,Greensboro Record,132702,1982,COURT OF APPEALS,,NC Court of Appeals,NC,"PEARCE, BETTY",,1,,,,Eminently qualified by training and temperament; rich and complex legal background,0.98
+NC,Greensboro Record,132702,1982,CNTY COMM,,Guilford County,NC,"CLAPP, PAUL W.",Republican,1,,,1,"Successful businessman; effective representation; leadership by example | V2: party filled from GDN cross-paper match. | V4: name std CLAPP, PAUL → CLAPP, PAUL W. (GDN match).",0.95
+NC,Greensboro Record,132702,1982,CNTY COMM,,Guilford County,NC,"COLE, DAVID B.",Republican,1,,,,"Fiscally conservative Republican; would bring different perspective; concerned about ethics | V4: name std COLE, DAVID B → COLE, DAVID B. (GDN match).",0.95
+NC,Greensboro Record,132702,1982,CNTY COMM,,Guilford County,NC,"KEARNS, DOROTHY K.",Democrat,1,,,,"Strong on education; extensive education experience; not a one-dimensional public figure | V2: party filled from GDN cross-paper match. | V4: name std KEARNS, DOROTHY → KEARNS, DOROTHY K. (GDN match).",0.95
+NC,Greensboro Record,132702,1982,COURT OF APPEALS,,NC Court of Appeals,NC,"PEARCE, BETTY",Nonpartisan,1,,,,"Eminently qualified by training and temperament; rich and complex legal background | V2: party=Nonpartisan, judicial/school office.",0.98
 NC,Greensboro Record,132702,1982,H,6,Sixth Congressional District,NC,"JOHNSTON, EUGENE",Republican,1,,1,,Conservative good sense; deserves support; supported Reagan economic recovery program,0.98
-NC,Greensboro Record,132702,1982,SCHOOL BOARD,,Guilford County School Board,NC,"HALVORSEN, MARY",,1,,,,"Would bring level-headed, practical thinking to the board",0.95
-NC,Greensboro Record,132702,1982,SCHOOL BOARD,,Guilford County School Board,NC,"LAMBETH, DOT",,1,,,1,Only incumbent running for reelection; practical and administrative experience,0.95
-NC,Greensboro Record,132702,1982,SCHOOL BOARD,,Guilford County School Board,NC,"MEBANE, JIM",,1,,,,"Articulate, well-informed; banking experience would make him valuable member",0.95
-NC,Greensboro Record,132702,1982,SCHOOL BOARD,,Guilford County School Board,NC,"PAYNE, MELVIN",,1,,,,Abiding interest in education and business background,0.95
-NC,Greensboro Record,132702,1982,STATE REP,26,NC House District 26,NC,"CLARK, WESLEY",,1,,,,Demonstrated desire to represent all residents; fiscally conservative; broad interest in constituency,0.95
-NC,Greensboro Record,132702,1982,STATE REP,27,NC House District 27,NC,"BRYAN, DICK",,1,,,,"Bright, articulate, business-like; would be effective legislator",0.95
+NC,Greensboro Record,132702,1982,SCHOOL BOARD,,Guilford County School Board,NC,"HALVORSEN, MARY",Nonpartisan,1,,,,"Would bring level-headed, practical thinking to the board | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1982,SCHOOL BOARD,,Guilford County School Board,NC,"LAMBETH, DOT",Nonpartisan,1,,,1,"Only incumbent running for reelection; practical and administrative experience | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1982,SCHOOL BOARD,,Guilford County School Board,NC,"MEBANE, JAMES",Nonpartisan,1,,,,"Articulate, well-informed; banking experience would make him valuable member | V2: party=Nonpartisan, judicial/school office. | V4: name std MEBANE, JIM → MEBANE, JAMES (GDN match).",0.95
+NC,Greensboro Record,132702,1982,SCHOOL BOARD,,Guilford County School Board,NC,"PAYNE, MELVIN",Nonpartisan,1,,,,"Abiding interest in education and business background | V2: party=Nonpartisan, judicial/school office.",0.95
+NC,Greensboro Record,132702,1982,STATE REP,26,NC House District 26,NC,"CLARK, WESLEY",Republican,1,,,,Demonstrated desire to represent all residents; fiscally conservative; broad interest in constituency | V2: party filled from GDN cross-paper match.,0.95
+NC,Greensboro Record,132702,1982,STATE REP,27,NC House District 27,NC,"BRYAN, RICHARD JOSEPH",Republican,1,,,,"Bright, articulate, business-like; would be effective legislator | V2: party filled from GDN cross-paper match. | V4: name std BRYAN, DICK → BRYAN, RICHARD JOSEPH (GDN match).",0.95
 NC,Greensboro Record,132702,1982,STATE REP,27,NC House District 27,NC,"COBLE, HOWARD",Republican,1,,1,,Most effective GOP legislator in capital; popular vote-getter,0.95
-NC,Greensboro Record,132702,1982,STATE REP,27,NC House District 27,NC,"KEESEE, MARGARET",Republican,1,,1,,Veteran legislator; middle-of-the-road; refreshing courage,0.95
+NC,Greensboro Record,132702,1982,STATE REP,27,NC House District 27,NC,"KEESEE, MARGARET P.",Republican,1,,1,,"Veteran legislator; middle-of-the-road; refreshing courage | V4: name std KEESEE, MARGARET → KEESEE, MARGARET P. (GDN match).",0.95
 NC,Greensboro Record,132702,1982,STATE REP,28,NC House District 28,NC,"BURNLEY, DOROTHY",Republican,1,,1,,Has done her homework; favors business-friendly climate; deserves reelection,0.95
-NC,Greensboro Record,132702,1982,STATE REP,28,NC House District 28,NC,"JARRELL, MARY",,1,,,,Hard-nosed approach to issues; municipal experience would be valuable,0.95
-NC,Greensboro Record,132702,1982,STATE REP,29,NC House District 29,NC,"GRIMSLEY, WILLIAM",,1,,,,Merits the vote; international health experience could be valuable,0.90
-NC,Greensboro Record,132702,1982,STATE SENATOR,19,NC Senate District 19,NC,"EDWARDS, ELTON",Democrat,1,,,,Has handle on challenges that face NC; sense of fiscal responsibility; would be more effective than incumbent,0.95
+NC,Greensboro Record,132702,1982,STATE REP,28,NC House District 28,NC,"JARRELL, MARY",Democrat,1,,,,Hard-nosed approach to issues; municipal experience would be valuable | V2: party filled from GDN cross-paper match.,0.95
+NC,Greensboro Record,132702,1982,STATE REP,29,NC House District 29,NC,"GRIMSLEY, WILLIAM T.",Democrat,1,,,,"Merits the vote; international health experience could be valuable | V2: party filled from GDN cross-paper match. | V4: name std GRIMSLEY, WILLIAM → GRIMSLEY, WILLIAM T. (GDN match).",0.90
+NC,Greensboro Record,132702,1982,STATE SENATOR,19,NC Senate District 19,NC,"EDWARDS, ELTON",Democrat,1,1,,,"Has handle on challenges that face NC; sense of fiscal responsibility; would be more effective than incumbent | V2 state leg cross-year inc, first 1968.",0.95
 NC,Greensboro Record,132702,1982,STATE SENATOR,31,NC Senate District 31,NC,"MARTIN, WILLIAM",Democrat,1,,,,Earnest interest in community; willingness to listen to different views; protege of Sen. Henry Frye,0.95
-NC,Greensboro Record,132702,1982,STATE SENATOR,32,NC Senate District 32,NC,"SAWYER, WENDELL",,1,,,,Promises to be purposeful without sacrificing political effectiveness; opponent rated low by peers,0.95
+NC,Greensboro Record,132702,1982,STATE SENATOR,32,NC Senate District 32,NC,"SAWYER, WENDELL H.",Republican,1,,,,"Promises to be purposeful without sacrificing political effectiveness; opponent rated low by peers | V2: party filled from GDN cross-paper match. | V4: name std SAWYER, WENDELL → SAWYER, WENDELL H. (GDN match).",0.95
+NC,Greensboro Record,132702,1964,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"GOLDWATER, BARRY",Republican,0,,,,Pattern A: opp of GR-endorsed federal candidate. Goldwater R lost; GR endorsed LBJ D.,0.85
+NC,Greensboro Record,132702,1972,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"HOLSHOUSER, JAMES",Republican,0,,,,Pattern A: opp of GR-endorsed federal candidate. Holshouser R won; GR endorsed Bowles D.,0.85
+NC,Greensboro Record,132702,1972,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"HELMS, JESSE",Republican,0,,,,Pattern A: opp of GR-endorsed federal candidate. Helms R won first SEN term; GR endorsed Galifianakis D.,0.85
+NC,Greensboro Record,132702,1974,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"STEVENS, WILLIAM",Republican,0,,,,Pattern A: opp of GR-endorsed federal candidate. Stevens R lost; GR endorsed Morgan D.,0.85
+NC,Greensboro Record,132702,1976,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"HUNT, JIM",Democrat,0,,,,Pattern A: opp of GR-endorsed federal candidate. Hunt D won; GR endorsed Flaherty R (conservative shift year).,0.85
+NC,Greensboro Record,132702,1976,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"CARTER, JIMMY",Democrat,0,,,,Pattern A: opp of GR-endorsed federal candidate. Carter D won; GR endorsed Ford R inc (conservative shift year).,0.85
+NC,Greensboro Record,132702,1978,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"INGRAM, JOHN",Democrat,0,,,,Pattern A: opp of GR-endorsed federal candidate. Ingram D lost; GR endorsed Helms R (sister GDN declined).,0.85
+NC,Greensboro Record,132702,1980,GOVERNOR,,GOVERNOR OF NORTH CAROLINA,NC,"LAKE, BEVERLY",Republican,0,,,,Pattern A: opp of GR-endorsed federal candidate. Lake R lost; GR endorsed Hunt D inc.,0.85
+NC,Greensboro Record,132702,1980,PRESIDENT,,PRESIDENT OF THE UNITED STATES,NC,"CARTER, JIMMY",Democrat,0,1,,,Pattern A: opp of GR-endorsed federal candidate. Carter D inc lost; GR endorsed Reagan R (conservative shift).,0.85
+NC,Greensboro Record,132702,1980,SENATOR,,US SENATOR - NORTH CAROLINA,NC,"MORGAN, ROBERT",Democrat,0,1,,,Pattern A: opp of GR-endorsed federal candidate. Morgan D inc lost; GR endorsed East R (conservative shift).,0.85

@@ -3,35 +3,81 @@ NEWSPAPER ENDORSEMENT METADATA
 
 Newspaper: Greensboro Daily News
 Newspaper ID: 132701
-State: NC
+State: NC (Greensboro / Guilford County)
 Number of clippings: 63
-Endorsement data years: 1950-1982
-Total candidate endorsements: 206
-Total proposition endorsements: 41
+Endorsement data years: 1954, 1964, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982
+(10 distinct years, 1954-1982 coverage)
 
-Confidence statistics:
-  Mean confidence: 0.929
-  Low-confidence records (< 0.7): 7
+--- ENDORSEMENT COUNTS (V5 FINAL) ---
+Total candidate records: 213 (142 endorsed, 71 opposed)
+Total proposition records: 41 (32 YES, 9 NO)
 
-Top offices (top 15):
-  STATE REP: 36
-  SCHOOL BOARD: 31
-  STATE SENATOR: 24
-  H: 18
-  CNTY COMM: 18
-  JUDGE: 11
-  GOVERNOR: 8
-  SENATOR: 6
-  CNTY CLERK: 6
-  SHERIFF: 6
-  PRESIDENT: 5
-  DA/PROSECUTOR: 5
-  ATTORNEY GENERAL: 4
-  INSURANCE COMMISSIONER: 4
-  LT GOVERNOR: 4
+--- CONFIDENCE SCORES (V5 FINAL) ---
+Mean: 0.933
+Below 0.85: 16 (mostly V2 Pattern A opps at 0.78-0.82)
+Min: 0.50
 
-Party distribution:
-  Democrat: 106
-  Republican: 67
-  Nonpartisan: 31
-  Libertarian: 2
+--- INCUMBENCY COVERAGE ---
+Records with inc flag: 80 (38%)
+Multi-cycle delegation tracked:
+- Richardson Preyer D H-6 (68/70/74/76/78/80, 6 cycles)
+- Sam Ervin Jr. D SEN (inc 1968)
+- Henry Bridges D AUDITOR (68/76 inc)
+- Craig Phillips D SUPERINTENDENT (68/76 inc)
+- Rufus Edmisten D AG (74/76 inc)
+- Ike Andrews D H-4 (72/74 multi-cycle)
+
+--- CROSS-PAPER VALIDATION ---
+Sister paper: Greensboro Record (afternoon paper, separate folder 71)
+V3 OCR confirmed: GR endorsed Helms R 1978 SEN; GDN declined both
+
+--- AUDIT HISTORY ---
+V1 (2026-05-03): Initial extraction from raw, dedup (165 byte-dupes removed)
+V2 (2026-06-16): 25 Pattern K + 4 fed Pattern A + 6 cross-yr inc + Preyer std
+V3 (2026-06-16): 4 yrs OCR + 101 dname fills + 36 prop recodes + 5 conf boosts + RA_NEEDS
+V4 (2026-06-16): +4 yrs OCR (8 total) + 3 NC state Pattern A + SCHOOL BOARD audit
+V5 (2026-06-16): +1 yr OCR (10 cumulative) + judicial audit + name std + Fowler r_inc
+
+--- NOTES ---
+
+EDITORIAL IDENTITY (V5 confirmed via 10 years OCR):
+NC morning paper 1909-1984 (merged to News & Record).
+
+FEDERAL PICKS:
+- D PRES: Johnson 64, Carter 76, Carter 80
+- R PRES (exception): Nixon 68 (over Humphrey)
+- D SEN: Ervin Jr. 68 (inc)
+- R SEN (exception): Stevens 74 (only R SEN)
+- DECLINED: 1978 SEN (both Helms R + Ingram D opposed; sister Record endorsed Helms)
+- D GOV: Moore 64, Scott 68, Bowles 72, Hunt 76 (general)
+- R GOV exception: Flaherty R 76 (primary endorsement)
+
+STATE OFFICE TRADITION (heavy D):
+- D LT GOV: Taylor 68, Green 76
+- D AG: Morgan 68, Edmisten 74/76
+- D AUDITOR: Bridges 68/76
+- D INS COMM: Lanier 68, Ingram 76
+- D SUPER: Phillips 68/76
+- D TREASURER: Gill 68, Boyles 76
+- R AG (V2 added): Stickley 68 LT GOV opp, Pope 76 AG opp, Privette 76 LT GOV opp
+
+H DELEGATION:
+- Preyer D H-6 dominant (6 endorsement cycles 68-80)
+- Andrews D H-4 (72/74)
+- Britt D H-6 (1982 open-seat replacement)
+- Pattern A opps: Bemus 78, Johnston 80 (V2 r_inc false-flag cleared)
+
+JUDICIAL:
+- 1982 PEARCE R COURT OF APPEALS cross-party endorsement (D-leaning paper picked R)
+- Stanback A. Leon Jr. R 1976 JUDGE + 1978 DA/PROSECUTOR
+- Fowler R 76 JUDGE win + 78 lost endorsement (r_inc fixed)
+
+SCHOOL BOARD: 31 records (Guilford County Nonpartisan, 4 years 76/78/80/82)
+
+CNTY COMM: 18 records (Guilford R-controlled per 1974 OCR context)
+
+PROPOSITIONS: 41 records, 37 AMENDMENT + 2 REFERENDUM + 2 BOND
+Heavy NC constitutional amendment coverage confirmed (V1 metadata).
+
+Compiled: 2026-05-03
+V5 FINAL: 2026-06-16

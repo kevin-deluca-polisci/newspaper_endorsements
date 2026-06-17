@@ -1,47 +1,92 @@
-Newspaper Name: Greenville News
-Alternative Names: The Greenville News
-Years Published: 1874-present (currently owned by Gannett/USA Today Network)
-Newspaper ID number: 143300
-State: SC (Greenville, Greenville County -- Upstate SC region)
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Greenville News
+Newspaper ID: 143300
+State: SC (Greenville / Greenville County - Upstate SC)
 Number of clippings: 46
 Endorsement data years: 1952, 1954, 1962, 1974, 1976, 1978, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2008, 2010, 2012, 2014
+(19 distinct years, 1952-2014 coverage)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 99 (99 endorsed, 0 opposed)
+--- ENDORSEMENT COUNTS (V5 FINAL) ---
+Total candidate records: 142 (99 endorsed, 43 opposed)
 Total proposition records: 42 (40 YES, 2 NO)
 
---- CONFIDENCE SCORES ---
-Min: 0.60
-Mean: 0.91
-Max: 0.98
+--- CONFIDENCE SCORES (V5 FINAL) ---
+Mean: 0.889
+Below 0.85: 21 (mostly V3 SC state/H Pattern A at 0.78)
+Min: 0.78
+
+--- INCUMBENCY COVERAGE ---
+Records with inc flag: 55 (39%)
+Multi-cycle delegations tracked:
+- Strom Thurmond R SEN (78/84/90/96 - 4 cycles)
+- Carroll Campbell R H-4 to GOV (78 H-4, 84 H-4 inc, 86/90 GOV inc)
+- Butler Derrick D H-3 (84/90/92 multi-cycle)
+- Bob Inglis R H-4 (94/96/08)
+- Lindsey Graham R H-3 to SEN (94/96/00 H-3, 08/14 SEN)
+- Liz Patterson D H-4 (90/92)
+- Joe Watson R DA/SOL (86/90/94)
+- Jim Miles R SoS (90/94/98)
+- Bob Peeler R LT GOV (94/98)
+- David Beasley R GOV (94/98 inc)
+
+--- CROSS-PAPER VALIDATION ---
+No direct sister paper in SC archive at this audit date.
+Greenville News is the dominant SC Upstate daily.
+
+--- AUDIT HISTORY ---
+V1 (2026-05-25): Initial extraction, all e=1 (0 e=0)
+V2 (2026-06-16): 25 fed Pattern A + 20 party fills + 97 dname + 2 cross-yr inc
+V3 (2026-06-16): 4 yrs OCR + V2 Hartnett 86 SEN dup removed + 12 SC state Pattern A + 7 SC H Pattern A + RA_NEEDS
+V4 (2026-06-16): +6 yrs OCR (Reagan 84/Bush 88/Beasley 94 slate/Sheheen 10+14) + 2 conf boosts + state leg audit
+V5 (2026-06-16): Final notes refinement + metadata refresh + V5 FINAL formal QA
 
 --- NOTES ---
-Coverage: 1952-2014 with scattered early decades plus a strong cluster 1990-2014.
-The 2018 clipping is the editor's announcement that the paper would no longer endorse
-candidates -- captured as a zero-endorsement clipping. Greenville is in SC-4 Congressional
-District; Greenville County is the heart of the Upstate region.
 
-The Greenville News was a Republican-leaning paper for most of the modern era and is
-considered one of the SC dailies that helped the Upstate develop into a strongly Republican
-region in the 1980s onward.
+EDITORIAL IDENTITY (V5 FINAL, 10 years OCR verified):
+SC Upstate paper 1874-present, considered one of the SC dailies that helped the Upstate become strongly Republican in the 1980s onward.
 
-Notable Presidential picks:
-- 1952: Eisenhower (R)
-- 1984: Reagan (R)
-- 1988: Bush (R)
-- 2000, 2008: Bush / McCain (R)
-- 2012: Romney (R)
-- 2016, 2020: not in this batch
-- 2018: paper publicly announced it would no longer endorse candidates
+FEDERAL R-DOMINANT PATTERN (V4 OCR confirmed):
+- R PRES: Eisenhower 52, Reagan 84 ("Re-elect Mr. Reagan"), Bush 88 ("best choice by far"), Bush 92, Dole 96, Bush 00, McCain 08, Romney 12 (7 R PRES, no D PRES)
+- R SEN: Thurmond 78/84/90/96 (4 cycles), Inglis 98 (lost to Hollings D inc), Graham 08/14 inc, Scott 14 inc
+- R GOV: Campbell 86/90 (1990 r_inc), Beasley 94/98 (98 r_inc) - V4 OCR Beasley confirmed
+- D SEN exceptions: Brown 54 (pre-realignment), Hollings 86/92 (D inc backed twice; flipped 98 to Inglis R)
+- D GOV exceptions: Riley 78 (D won easily), Sheheen 10 + Sheheen 14 (V4 OCR explicit headline "Sheheen still best choice for SC governor")
+- D LT GOV exception: Theodore 90 (V4 OCR confirmed)
 
-Notable other picks:
-- Strongly backed Carroll Campbell (R) for SC Governor in 1986 and 1990 re-election
-- Backed Thurmond (R) for US Senate consistently
-- Knox White (R) for SC-4 in 1988
-- One unusual 1954 pick: backed Democrat Edgar Brown over Strom Thurmond's write-in for US Senate
+KEY V4 INSIGHT: Persistent D state-office picks across entire R-shift era.
+GN consistently endorsed D state-office candidates (1986/92 SEN, 1990 LT GOV, 2010/14 GOV)
+while maintaining R Congressional slate (Inglis, Graham, Gowdy, Duncan, Barrett).
+R-shift was Congressional + Presidential, NOT wholesale D rejection.
 
-Hash-dedup: 182 raw PDFs -> 46 unique by SHA-256. 45 DELUCA + 1 standalone orphan
-(`Greenville_News_oct_28_1990.pdf` covering the 1990 Campbell-for-Governor + Watson-for-Solicitor
-editorial; different scan from the existing DELUCA 19901028 file; kept as _v1).
+H DELEGATION (consistent R picks):
+- Campbell R SC-4 (78/84) -> GOV
+- Knox White R SC-4 (88 single record)
+- Patterson D SC-4 (90/92 D exception)
+- Inglis R SC-4 (94/96/08) - 2008 OCR confirmed inc endorsement
+- DeMint R SC-4 (98/00) -> later SEN
+- Gowdy R SC-4 (10/12 inc 12) - V4 OCR confirmed
+- Derrick D SC-3 (84/90/92) - pre-realignment D
+- Graham R SC-3 (94/96/00) -> SEN
+- Barrett R SC-3 (08)
+- Duncan R SC-3 (10/12 inc 12) - V4 OCR confirmed
 
-Compiled: 2026-05-26
+STATE OFFICE (mixed pre-2000, R-dominant post-2000):
+- 1986: Campbell R GOV + Hartnett R LT GOV + Campbell D SoS (D state office exception)
+- 1990: Thurmond R SEN + Theodore D LT GOV (split state ticket) + Williams D Super + Tindal D Ag Comm
+- 1994: full R slate (Beasley/Peeler/Condon/Miles/Nielsen) + Patterson D Treas + Morris D Comp
+- 1998: R slate (Peeler/Condon/Miles inc) + Tenenbaum D Super (D exception)
+- 2010: Sheheen D GOV + Cooper D LT GOV + Holleman D Super (D state exception trio) + Wilson R AG + Eckstrom R Comp inc
+
+LOCAL GREENVILLE COUNTY:
+- SCHOOL BOARD: 13 records all Nonpartisan e=1 (2008-2014)
+- CNTY COMM (Greenville County Council): mixed R/D
+- 2018 clipping = paper's announcement it would no longer endorse candidates (notable trend)
+
+PROPOSITIONS: 42 records
+- 33 AMENDMENT + 7 REFERENDUM + 2 BOND
+- 40 YES / 2 NO (strong support for ballot measures)
+
+Compiled: 2026-05-25
+V5 FINAL: 2026-06-16

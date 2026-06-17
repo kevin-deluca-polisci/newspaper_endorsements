@@ -3,30 +3,83 @@ NEWSPAPER ENDORSEMENT METADATA
 
 Newspaper: Honolulu Star-Advertiser
 Newspaper ID: 109630
-State: HI
+State: HI (Oahu)
 Number of clippings: 15
-Endorsement data years: 2010-2018
-Total candidate endorsements: 198
-Total proposition endorsements: 38
+Endorsement data years: 2010, 2012, 2014, 2016, 2018
+(5 distinct cycles, 2010-2018 modern era)
 
-Confidence statistics:
-  Mean confidence: 0.850
-  Low-confidence records (< 0.7): 0
+--- ENDORSEMENT COUNTS (V5 FINAL) ---
+Total candidate records: 221 (198 endorsed, 23 opposed)
+Total proposition records: 38 (38 direction TBD via OCR)
 
-Top offices (top 15):
-  STATE REP: 110
-  STATE SENATOR: 40
-  H: 10
-  CITY COUNCIL: 10
-  OHA: 7
-  BOARD OF EDUCATION: 6
-  SENATOR: 5
-  GOVERNOR: 3
-  LT GOVERNOR: 3
-  PRESIDENT: 2
-  DA/PROSECUTOR: 1
-  MAYOR: 1
+--- CONFIDENCE SCORES (V5 FINAL) ---
+Mean: 0.850
+Below 0.85: 0 (min 0.85)
+Min: 0.85
 
-Party distribution:
-  Democrat: 24
-  Republican: 7
+--- INCUMBENCY COVERAGE ---
+Records with inc flag: 46 (21%)
+Multi-cycle delegations tracked:
+- Hirono D H-2 (2010 inc), SEN (2012 won, 2018 inc)
+- Hanabusa D H-1 (2010, 2012 inc, 2016 return)
+- Schatz D LT GOV (2010), SEN (2014 inc appointed, 2016 inc)
+- Inouye D SEN (2010 inc - last cycle before 2012 death)
+- Ige D GOV (2014, 2018 inc)
+- Abercrombie D GOV (2010, defeated in 2014 primary)
+- Gabbard D H-2 (2012, 2014 inc, 2016 inc, 2018 inc)
+- Slom R STATE SEN-8/9 (2010, 2012, 2016) - only R STATE SEN
+- McDermott R STATE REP-40 (2012, 2014, 2016, 2018)
+- Ward R STATE REP-17 (2014, 2016, 2018)
+
+--- AUDIT HISTORY ---
+V1 (2026-05-01): Initial extraction, all e=1
+V2 (2026-06-16): 23 fed Pattern A + 25 NP + 142 D state leg defaults + 19 federal D inferences + 197 dname + 43 cross-yr inc + 198 notes
+V3 (2026-06-16): 5 yrs OCR (ALL clipping years) + 12 R legislator party fixes + 4 follow-on PK + 38 prop_type fills + RA_NEEDS
+V4 (2026-06-16): +3 2016 multi-clip OCR + 2 post-V3 cross-yr inc + Clinton PRES confirmed
+V5 (2026-06-16): Metadata refresh + final integrity + V5 FINAL formal QA
+
+--- NOTES ---
+
+EDITORIAL IDENTITY (V5 FINAL):
+Post-merger Honolulu paper formed 2010 from Honolulu Advertiser (109600) +
+Honolulu Star-Bulletin (109601) merger. Coverage 2010-2018 modern era.
+
+FEDERAL D-DOMINANT PATTERN (V3/V4 OCR confirmed):
+- D PRES: Obama 12, Clinton 16 (2 D PRES, no R PRES)
+- D SEN: Inouye 10, Hirono 12, Schatz 14/16, Hirono 18 (5 D SEN cycles, no R SEN)
+- D GOV: Abercrombie 10, Ige 14/18 (3 D GOV, no R GOV)
+- D LT GOV: Schatz 10, Tsutsui 14, Green 18
+- D H-1: Hanabusa 10/12/16, Takai 14, Case 18
+- D H-2: Hirono 10, Gabbard 12/14/16/18
+
+ONLY R INC IN DATASET: Djou R H-1 2010 (won 2010 special), lost to Hanabusa D.
+
+R STATE LEGISLATORS IDENTIFIED (V3 fix):
+- Sam Slom R STATE SEN-8/9 East Honolulu (only R STATE SEN 2010-2016)
+- Corinne Ching R STATE REP-27 Nuuanu-Liliha (until ~2014)
+- Kymberly Pine R STATE REP-43 2010 (then NP CITY COUNCIL)
+- Bob McDermott R STATE REP-40 (2012-2018)
+- Gene Ward R STATE REP-17 (2014-2018)
+- Beth Fukumoto R STATE REP-47 (2014, switched D 2017)
+- Cynthia Thielen R STATE REP-50 (2014)
+- Lauren Cheape Matsumoto R STATE REP-45
+- Aaron Ling Johanson R STATE REP-31 (2010, switched D 2014+)
+- Andria Tupola R STATE REP-43 (2016), R GOV (2018)
+- Roger Cle... R (2016 challenger to Daniel Holt D)
+
+UNIQUE EDITORIAL PRACTICE (V3 OCR confirmed):
+SA explicitly declined some races — 2010 OCR: "District 41 (Pearl City): No endorsement"
+This continues predecessor HA's dual-endorsement / split-editorial / no-endorsement
+practice for races where editorial board couldn't reach consensus.
+
+PROPOSITIONS: 38 records
+- 29 CHARTER + 9 AMENDMENT
+- 2016 richest year (24 props - HI ConCon + Honolulu charter)
+- All 38 direction TBD (V1 extraction gap); flagged in RA_NEEDS
+
+PREDECESSOR PAPERS:
+- Honolulu Advertiser (109600) - pre-2010 records
+- Honolulu Star-Bulletin (109601) - pre-2010 records
+
+Compiled: 2026-05-01
+V5 FINAL: 2026-06-16

@@ -1,100 +1,143 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-SC,Greenville News,143300,1952,PRESIDENT,,,SC,"EISENHOWER, DWIGHT D",Republican,1,,,,Editorial 'Time for a Change' endorses Eisenhower over Stevenson,0.95
-SC,Greenville News,143300,1954,SENATOR,,,SC,"BROWN, EDGAR A",Democrat,1,,,,Editorial 'A Democratic Fight' endorses Brown over Thurmond write-in,0.9
-SC,Greenville News,143300,1978,GOVERNOR,,,SC,"RILEY, RICHARD W",Democrat,1,,,,Editorial 'Riley best candidate for governor',0.98
-SC,Greenville News,143300,1978,SENATOR,,,SC,"THURMOND, STROM",Republican,1,,1,,Editorial 'Strom Thurmond deserves re-election',0.98
-SC,Greenville News,143300,1978,H,4,,SC,"CAMPBELL, CARROLL A",Republican,1,,,,4th District 'attractive and articulate candidate who has consistently followed conservative GOP line',0.9
-SC,Greenville News,143300,1984,H,4,,SC,"CAMPBELL, CARROLL A",Republican,1,,1,,Editorial 'Incumbents seen as best choices' - 4th District,0.95
-SC,Greenville News,143300,1984,H,3,,SC,"DERRICK, BUTLER",Democrat,1,1,,,Incumbent endorsed in roundup editorial,0.85
-SC,Greenville News,143300,1984,H,5,,SC,"SPRATT, JOHN",Democrat,1,,,,'Worthy incumbents' - 5th District,0.85
-SC,Greenville News,143300,1984,H,2,,SC,"SPENCE, FLOYD",Republican,1,,1,,Incumbent endorsed in roundup editorial,0.85
-SC,Greenville News,143300,1984,H,1,,SC,"HARTNETT, THOMAS F",Republican,1,,1,,Incumbent endorsed in roundup editorial,0.85
-SC,Greenville News,143300,1984,PRESIDENT,,,SC,"REAGAN, RONALD",Republican,1,,1,,Editorial 'Reagan deserves another term',0.98
-SC,Greenville News,143300,1984,SENATOR,,,SC,"THURMOND, STROM",Republican,1,,1,,Editorial 'Thurmond is choice',0.98
-SC,Greenville News,143300,1986,SEC OF STATE,,,SC,"CAMPBELL, JOHN T",Democrat,1,1,,,Editorial 'John T. Campbell for secretary of state',0.98
-SC,Greenville News,143300,1986,H,4,,SC,"WORKMAN, WILLIAM D",Republican,1,,,,Editorial 'Workman best choice in 4th District race' - successor to Rep. Carroll Campbell,0.95
-SC,Greenville News,143300,1986,LT GOVERNOR,,,SC,"HARTNETT, THOMAS F",Republican,1,,,,Editorial 'Hartnett vs. Theodore for lieutenant governor' endorses Hartnett,0.95
-SC,Greenville News,143300,1986,SENATOR,,,SC,"HOLLINGS, ERNEST F",Democrat,1,1,,,Editorial 'Hollings clear choice in U.S. Senate race' over McMaster,0.98
-SC,Greenville News,143300,1986,DA/PROSECUTOR,,,SC,"WATSON, JOE",Democrat,1,1,,,Editorial 'Watson deserves nod in solicitor's race' - 13th Circuit Solicitor,0.95
-SC,Greenville News,143300,1986,GOVERNOR,,,SC,"CAMPBELL, CARROLL A",Republican,1,,,,Editorial 'Campbell offers state leadership for change' over Mike Daniel,0.98
-SC,Greenville News,143300,1988,PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,,,Editorial 'Vice President Bush best for the country' over Dukakis,0.98
-SC,Greenville News,143300,1988,H,4,,SC,"WHITE, KNOX",Republican,1,,,,Editorial 'White for Congress' over incumbent Elizabeth Patterson,0.98
-SC,Greenville News,143300,1990,H,4,,SC,"PATTERSON, ELIZABETH",Democrat,1,1,,,re-election; over Republican challenger Terry Haskins,0.95
-SC,Greenville News,143300,1990,SEC OF STATE,,,SC,"MILES, JIM",Republican,1,,,,over incumbent Democrat John Campbell,0.95
-SC,Greenville News,143300,1990,GOVERNOR,,,SC,"CAMPBELL, CARROLL",Republican,1,,1,,second term; over Democrat Theo Mitchell,0.95
-SC,Greenville News,143300,1990,DA/PROSECUTOR,13,13th Circuit,SC,"WATSON, JOE",,1,,,,Solicitor 13th Circuit; over Bill Robertson,0.95
-SC,Greenville News,143300,1990,SUPERINTENDENT,,,SC,"WILLIAMS, CHARLIE G.",Democrat,1,1,,,Superintendent of Public Instruction; over Republican Barbara Nielsen,0.95
-SC,Greenville News,143300,1990,H,3,,SC,"DERRICK, BUTLER",Democrat,1,1,,,3rd District incumbent; over Republican Ray Haskett,0.95
-SC,Greenville News,143300,1990,SENATOR,,,SC,"THURMOND, STROM",Republican,1,,1,,seventh term; over Democrat Bob Cunningham,0.95
-SC,Greenville News,143300,1990,AGRICULTURE COMMISSIONER,,,SC,"TINDAL, LES",Democrat,1,1,,,re-election; over Republican Tom Trantham,0.95
-SC,Greenville News,143300,1990,LT GOVERNOR,,,SC,"THEODORE, NICK",Democrat,1,1,,,summary recap,0.85
-SC,Greenville News,143300,1992,PRESIDENT,,,SC,"BUSH, GEORGE",Republican,1,,1,,over Clinton,0.95
-SC,Greenville News,143300,1992,SENATOR,,,SC,"HOLLINGS, ERNEST",Democrat,1,1,,,re-election,0.95
-SC,Greenville News,143300,1992,H,4,,SC,"PATTERSON, ELIZABETH",Democrat,1,1,,,4th District incumbent,0.95
-SC,Greenville News,143300,1992,H,3,,SC,"DERRICK, BUTLER",Democrat,1,1,,,3rd District incumbent,0.95
-SC,Greenville News,143300,1994,GOVERNOR,,,SC,"BEASLEY, DAVID",Republican,1,,,,recap,0.95
-SC,Greenville News,143300,1994,LT GOVERNOR,,,SC,"PEELER, BOB",Republican,1,,,,recap,0.9
-SC,Greenville News,143300,1994,ATTORNEY GENERAL,,,SC,"CONDON, CHARLIE",Republican,1,,,,recap,0.9
-SC,Greenville News,143300,1994,SUPERINTENDENT,,,SC,"NIELSEN, BARBARA",Republican,1,,1,,recap,0.9
-SC,Greenville News,143300,1994,TREASURER,,,SC,"PATTERSON, GRADY",Democrat,1,1,,,recap,0.9
-SC,Greenville News,143300,1994,COMPTROLLER,,,SC,"MORRIS, EARLE JR.",Democrat,1,1,,,recap,0.9
-SC,Greenville News,143300,1994,SEC OF STATE,,,SC,"MILES, JIM",Republican,1,,1,,recap,0.9
-SC,Greenville News,143300,1994,AGRICULTURE COMMISSIONER,,,SC,"CHILDERS, TRACY",,1,,,,recap,0.85
-SC,Greenville News,143300,1994,DIRECTOR,,,SC,"SPEARS, STAN",,1,,,,Adjutant General; recap,0.9
-SC,Greenville News,143300,1994,H,4,,SC,"INGLIS, BOB",Republican,1,,1,,4th District; recap,0.95
-SC,Greenville News,143300,1994,H,3,,SC,"GRAHAM, LINDSEY",Republican,1,,,,3rd District; recap,0.95
-SC,Greenville News,143300,1994,DA/PROSECUTOR,13,13th Circuit,SC,"WATSON, JOE",,1,,1,,13th Circuit Solicitor; recap,0.9
-SC,Greenville News,143300,1996,PRESIDENT,,,SC,"DOLE, BOB",Republican,1,,,,recap; over Clinton,0.9
-SC,Greenville News,143300,1996,SENATOR,,,SC,"THURMOND, STROM",Republican,1,,1,,recap,0.85
-SC,Greenville News,143300,1996,H,4,,SC,"INGLIS, BOB",Republican,1,,1,,4th District; recap,0.85
-SC,Greenville News,143300,1996,H,3,,SC,"GRAHAM, LINDSEY",Republican,1,,1,,3rd District; recap,0.85
-SC,Greenville News,143300,1998,SENATOR,,,SC,"INGLIS, BOB",Republican,1,,,,over incumbent Hollings; recap,0.85
-SC,Greenville News,143300,1998,H,4,,SC,"DEMINT, JIM",Republican,1,,,,open seat 4th District; recap,0.8
-SC,Greenville News,143300,1998,GOVERNOR,,,SC,"BEASLEY, DAVID",Republican,1,,1,,re-election; recap,0.85
-SC,Greenville News,143300,1998,LT GOVERNOR,,,SC,"PEELER, BOB",Republican,1,,1,,recap,0.85
-SC,Greenville News,143300,1998,SUPERINTENDENT,,,SC,"TENENBAUM, INEZ",Democrat,1,,,,recap,0.8
-SC,Greenville News,143300,1998,ATTORNEY GENERAL,,,SC,"CONDON, CHARLIE",Republican,1,,1,,recap,0.85
-SC,Greenville News,143300,1998,SEC OF STATE,,,SC,"MILES, JIM",Republican,1,,1,,recap,0.85
-SC,Greenville News,143300,1998,DIRECTOR,,,SC,"SPEARS, STAN",Republican,1,,1,,Adjutant General; recap,0.85
-SC,Greenville News,143300,2000,PRESIDENT,,,SC,"BUSH, GEORGE W.",Republican,1,,,,recap; over Gore,0.9
-SC,Greenville News,143300,2000,H,4,,SC,"DEMINT, JIM",Republican,1,,1,,4th District; recap,0.85
-SC,Greenville News,143300,2000,H,3,,SC,"GRAHAM, LINDSEY",Republican,1,,1,,3rd District; recap,0.85
-SC,Greenville News,143300,2008,PRESIDENT,,,SC,"MCCAIN, JOHN",Republican,1,,,,recap,0.95
-SC,Greenville News,143300,2008,SENATOR,,,SC,"GRAHAM, LINDSEY",Republican,1,,1,,incumbent; recap,0.95
-SC,Greenville News,143300,2008,H,4,,SC,"INGLIS, BOB",Republican,1,,1,,4th Congressional District; recap,0.95
-SC,Greenville News,143300,2008,H,3,,SC,"BARRETT, GRESHAM",Republican,1,,1,,3rd Congressional District; recap,0.95
-SC,Greenville News,143300,2008,STATE SENATOR,7,,SC,"ANDERSON, RALPH",Democrat,1,,,,Senate District 7 incumbent; recap,0.9
-SC,Greenville News,143300,2008,STATE REP,16,,SC,"WILLIS, MARK",Republican,1,,,,House District 16; recap,0.9
-SC,Greenville News,143300,2008,STATE REP,23,,SC,"DILLARD, CHANDRA",Democrat,1,,,,House District 23; recap,0.9
-SC,Greenville News,143300,2008,STATE REP,25,,SC,"ALLEN, KARL",Democrat,1,,,,House District 25; recap,0.9
-SC,Greenville News,143300,2008,STATE REP,28,,SC,"BEDINGFIELD, ERIC",Republican,1,,,,House District 28; recap,0.9
-SC,Greenville News,143300,2008,SHERIFF,,,SC,"LOFTIS, STEVE",,1,,,,Greenville County Sheriff incumbent; recap,0.9
-SC,Greenville News,143300,2008,CNTY COMM,24,,SC,"SEMAN, LIZ",,1,,,,Greenville County Council District 24; recap,0.9
-SC,Greenville News,143300,2008,CNTY COMM,25,,SC,"GIBSON, LOTTIE",,1,,,,Greenville County Council District 25; recap,0.9
-SC,Greenville News,143300,2008,SCHOOL BOARD,17,,SC,"REECE, TOMMIE",,1,,,,Greenville County School Board District 17; recap,0.9
-SC,Greenville News,143300,2008,SCHOOL BOARD,21,,SC,"EDWARDS, DANNA",,1,,,,Greenville County School Board District 21; recap,0.9
-SC,Greenville News,143300,2008,SCHOOL BOARD,23,,SC,"REEDER, YVONNE SMITH",,1,,,,Greenville County School Board District 23; recap,0.9
-SC,Greenville News,143300,2010,GOVERNOR,,,SC,"SHEHEEN, VINCENT",Democrat,1,,,,state senator from Camden; over Republican Nikki Haley,0.95
-SC,Greenville News,143300,2010,LT GOVERNOR,,,SC,"COOPER, ASHLEY",Democrat,1,,,,over Republican Ken Ard,0.95
-SC,Greenville News,143300,2010,SUPERINTENDENT,,,SC,"HOLLEMAN, FRANK",Democrat,1,,,,over Republican Mick Zais,0.95
-SC,Greenville News,143300,2010,ATTORNEY GENERAL,,,SC,"WILSON, ALAN",Republican,1,,,,over Matthew Richardson,0.95
-SC,Greenville News,143300,2010,COMPTROLLER,,,SC,"ECKSTROM, RICHARD",Republican,1,,1,,incumbent; over Robert Barber,0.95
-SC,Greenville News,143300,2010,H,4,,SC,"GOWDY, TREY",Republican,1,,,,4th Congressional District; over Paul Corden,0.95
-SC,Greenville News,143300,2010,H,3,,SC,"DUNCAN, JEFF",Republican,1,,,,3rd Congressional District; over Jane Dyer,0.95
-SC,Greenville News,143300,2010,SCHOOL BOARD,18,,SC,"SUDDUTH, PAT",,1,,,,Greenville County School Board District 18 incumbent,0.9
-SC,Greenville News,143300,2010,SCHOOL BOARD,20,,SC,"SAYLORS, CHUCK",,1,,,,District 20 incumbent,0.9
-SC,Greenville News,143300,2010,SCHOOL BOARD,22,,SC,"LEVENTIS-WELLS, LYNDA",,1,,,,District 22,0.9
-SC,Greenville News,143300,2010,SCHOOL BOARD,24,,SC,"HICKERSON, MEGAN",,1,,,,District 24,0.9
-SC,Greenville News,143300,2010,SCHOOL BOARD,26,,SC,"MEEK, ROGER",,1,,,,District 26; school board trustee race,0.9
-SC,Greenville News,143300,2010,CNTY COMM,26,,SC,"RAWLS, DAN",Republican,1,,,,Greenville County Council District 26; over Democrat Allen Bunk Johnson,0.9
-SC,Greenville News,143300,2012,H,4,,SC,"GOWDY, TREY",Republican,1,,1,,4th District; over Democrat Deb Morrow,0.95
-SC,Greenville News,143300,2012,H,3,,SC,"DUNCAN, JEFF",Republican,1,,1,,3rd District; over Democrat Brian Ryan B. Doyle,0.95
-SC,Greenville News,143300,2012,SCHOOL BOARD,17,,SC,"GRAYSON, JOY",,1,,,,Greenville County School Board District 17; over incumbent Tommie Reece,0.95
-SC,Greenville News,143300,2012,SCHOOL BOARD,19,,SC,"BUSH, DEBI",,1,,,1,District 19 incumbent,0.95
-SC,Greenville News,143300,2012,SCHOOL BOARD,23,,SC,"MORRISON-FAIR, GLENDA",,1,,,1,District 23 incumbent,0.95
-SC,Greenville News,143300,2012,PRESIDENT,,,SC,"ROMNEY, MITT",Republican,1,,,,over incumbent Obama,0.95
-SC,Greenville News,143300,2014,SENATOR,,,SC,"GRAHAM, LINDSEY",Republican,1,,1,,over Democrat Brad Hutto,0.95
-SC,Greenville News,143300,2014,SENATOR,,,SC,"SCOTT, TIM",Republican,1,,1,,special election; over Joyce Dickerson,0.95
-SC,Greenville News,143300,2014,SCHOOL BOARD,24,,SC,"WELLS, LISA",,1,,,1,Greenville County School Board District 24 incumbent,0.95
-SC,Greenville News,143300,2014,SCHOOL BOARD,28,,SC,"LEWIS, DEREK",,1,,,,Greenville County School Board District 28; over Either Dishner,0.95
-SC,Greenville News,143300,2014,GOVERNOR,,,SC,"SHEHEEN, VINCENT",Democrat,1,,,,over incumbent Republican Nikki Haley,0.95
+SC,Greenville News,143300,1952,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"EISENHOWER, DWIGHT D",Republican,1,,,,Editorial 'Time for a Change' endorses Eisenhower over Stevenson,0.95
+SC,Greenville News,143300,1954,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"BROWN, EDGAR A",Democrat,1,,,,Editorial 'A Democratic Fight' endorses Brown over Thurmond write-in,0.9
+SC,Greenville News,143300,1978,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"RILEY, RICHARD W",Democrat,1,,,,Editorial 'Riley best candidate for governor',0.98
+SC,Greenville News,143300,1978,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"THURMOND, STROM",Republican,1,,1,,Editorial 'Strom Thurmond deserves re-election',0.98
+SC,Greenville News,143300,1978,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"CAMPBELL, CARROLL A",Republican,1,,,,4th District 'attractive and articulate candidate who has consistently followed conservative GOP line',0.9
+SC,Greenville News,143300,1984,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"CAMPBELL, CARROLL A",Republican,1,,1,,Editorial 'Incumbents seen as best choices' - 4th District,0.95
+SC,Greenville News,143300,1984,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"DERRICK, BUTLER",Democrat,1,1,,,Incumbent endorsed in roundup editorial,0.85
+SC,Greenville News,143300,1984,H,5,U.S. HOUSE - SOUTH CAROLINA DISTRICT 5,SC,"SPRATT, JOHN",Democrat,1,,,,'Worthy incumbents' - 5th District,0.85
+SC,Greenville News,143300,1984,H,2,U.S. HOUSE - SOUTH CAROLINA DISTRICT 2,SC,"SPENCE, FLOYD",Republican,1,,1,,Incumbent endorsed in roundup editorial,0.85
+SC,Greenville News,143300,1984,H,1,U.S. HOUSE - SOUTH CAROLINA DISTRICT 1,SC,"HARTNETT, THOMAS F",Republican,1,,1,,Incumbent endorsed in roundup editorial,0.85
+SC,Greenville News,143300,1984,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"REAGAN, RONALD",Republican,1,,1,,Editorial 'Reagan deserves another term',0.98
+SC,Greenville News,143300,1984,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"THURMOND, STROM",Republican,1,,1,,Editorial 'Thurmond is choice',0.98
+SC,Greenville News,143300,1986,SEC OF STATE,,SECRETARY OF STATE OF SOUTH CAROLINA,SC,"CAMPBELL, JOHN T",Democrat,1,1,,,Editorial 'John T. Campbell for secretary of state',0.98
+SC,Greenville News,143300,1986,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"WORKMAN, WILLIAM D",Republican,1,,,,Editorial 'Workman best choice in 4th District race' - successor to Rep. Carroll Campbell,0.95
+SC,Greenville News,143300,1986,LT GOVERNOR,,LIEUTENANT GOVERNOR OF SOUTH CAROLINA,SC,"HARTNETT, THOMAS F",Republican,1,,,,Editorial 'Hartnett vs. Theodore for lieutenant governor' endorses Hartnett,0.95
+SC,Greenville News,143300,1986,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"HOLLINGS, ERNEST F",Democrat,1,1,,,Editorial 'Hollings clear choice in U.S. Senate race' over McMaster,0.98
+SC,Greenville News,143300,1986,DA/PROSECUTOR,,SOUTH CAROLINA SOLICITOR,SC,"WATSON, JOE",Democrat,1,1,,,Editorial 'Watson deserves nod in solicitor's race' - 13th Circuit Solicitor,0.95
+SC,Greenville News,143300,1986,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"CAMPBELL, CARROLL A",Republican,1,,,,Editorial 'Campbell offers state leadership for change' over Mike Daniel,0.98
+SC,Greenville News,143300,1988,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"BUSH, GEORGE",Republican,1,,,,Editorial 'Vice President Bush best for the country' over Dukakis,0.98
+SC,Greenville News,143300,1988,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"WHITE, KNOX",Republican,1,,,,Editorial 'White for Congress' over incumbent Elizabeth Patterson,0.98
+SC,Greenville News,143300,1990,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"PATTERSON, ELIZABETH",Democrat,1,1,,,re-election; over Republican challenger Terry Haskins,0.95
+SC,Greenville News,143300,1990,SEC OF STATE,,SECRETARY OF STATE OF SOUTH CAROLINA,SC,"MILES, JIM",Republican,1,,,,over incumbent Democrat John Campbell,0.95
+SC,Greenville News,143300,1990,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"CAMPBELL, CARROLL",Republican,1,,1,,second term; over Democrat Theo Mitchell,0.95
+SC,Greenville News,143300,1990,DA/PROSECUTOR,13,13th Circuit,SC,"WATSON, JOE",Republican,1,,1,,"Solicitor 13th Circuit; over Bill Robertson | V2: party=Republican inferred from SC Upstate context. | V2 cross-year inc, first 1986.",0.95
+SC,Greenville News,143300,1990,SUPERINTENDENT,,SUPERINTENDENT OF EDUCATION,SC,"WILLIAMS, CHARLIE G.",Democrat,1,1,,,Superintendent of Public Instruction; over Republican Barbara Nielsen,0.95
+SC,Greenville News,143300,1990,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"DERRICK, BUTLER",Democrat,1,1,,,3rd District incumbent; over Republican Ray Haskett,0.95
+SC,Greenville News,143300,1990,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"THURMOND, STROM",Republican,1,,1,,seventh term; over Democrat Bob Cunningham,0.95
+SC,Greenville News,143300,1990,AGRICULTURE COMMISSIONER,,SC COMMISSIONER OF AGRICULTURE,SC,"TINDAL, LES",Democrat,1,1,,,re-election; over Republican Tom Trantham,0.95
+SC,Greenville News,143300,1990,LT GOVERNOR,,LIEUTENANT GOVERNOR OF SOUTH CAROLINA,SC,"THEODORE, NICK",Democrat,1,1,,,summary recap,0.85
+SC,Greenville News,143300,1992,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"BUSH, GEORGE",Republican,1,,1,,over Clinton,0.95
+SC,Greenville News,143300,1992,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"HOLLINGS, ERNEST",Democrat,1,1,,,re-election,0.95
+SC,Greenville News,143300,1992,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"PATTERSON, ELIZABETH",Democrat,1,1,,,4th District incumbent,0.95
+SC,Greenville News,143300,1992,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"DERRICK, BUTLER",Democrat,1,1,,,3rd District incumbent,0.95
+SC,Greenville News,143300,1994,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"BEASLEY, DAVID",Republican,1,,,,recap,0.95
+SC,Greenville News,143300,1994,LT GOVERNOR,,LIEUTENANT GOVERNOR OF SOUTH CAROLINA,SC,"PEELER, BOB",Republican,1,,,,recap | V4 conf boost 0.90→0.95: V4 OCR direct confirm.,0.95
+SC,Greenville News,143300,1994,ATTORNEY GENERAL,,ATTORNEY GENERAL OF SOUTH CAROLINA,SC,"CONDON, CHARLIE",Republican,1,,,,recap | V4 conf boost 0.90→0.95: V4 OCR direct confirm.,0.95
+SC,Greenville News,143300,1994,SUPERINTENDENT,,SUPERINTENDENT OF EDUCATION,SC,"NIELSEN, BARBARA",Republican,1,,1,,recap,0.9
+SC,Greenville News,143300,1994,TREASURER,,TREASURER OF SOUTH CAROLINA,SC,"PATTERSON, GRADY",Democrat,1,1,,,recap,0.9
+SC,Greenville News,143300,1994,COMPTROLLER,,COMPTROLLER GENERAL OF SOUTH CAROLINA,SC,"MORRIS, EARLE JR.",Democrat,1,1,,,recap,0.9
+SC,Greenville News,143300,1994,SEC OF STATE,,SECRETARY OF STATE OF SOUTH CAROLINA,SC,"MILES, JIM",Republican,1,,1,,recap,0.9
+SC,Greenville News,143300,1994,AGRICULTURE COMMISSIONER,,SC COMMISSIONER OF AGRICULTURE,SC,"CHILDERS, TRACY",Republican,1,,,,recap | V2: party=Republican inferred from SC Upstate context.,0.85
+SC,Greenville News,143300,1994,DIRECTOR,,GREENVILLE DIRECTOR,SC,"SPEARS, STAN",Nonpartisan,1,,,,"Adjutant General; recap | V2: party=Nonpartisan, local/judicial/super.",0.9
+SC,Greenville News,143300,1994,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"INGLIS, BOB",Republican,1,,1,,4th District; recap,0.95
+SC,Greenville News,143300,1994,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"GRAHAM, LINDSEY",Republican,1,,,,3rd District; recap,0.95
+SC,Greenville News,143300,1994,DA/PROSECUTOR,13,13th Circuit,SC,"WATSON, JOE",Republican,1,,1,,13th Circuit Solicitor; recap | V2: party=Republican inferred from SC Upstate context.,0.9
+SC,Greenville News,143300,1996,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"DOLE, BOB",Republican,1,,,,recap; over Clinton,0.9
+SC,Greenville News,143300,1996,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"THURMOND, STROM",Republican,1,,1,,recap,0.85
+SC,Greenville News,143300,1996,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"INGLIS, BOB",Republican,1,,1,,4th District; recap,0.85
+SC,Greenville News,143300,1996,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"GRAHAM, LINDSEY",Republican,1,,1,,3rd District; recap,0.85
+SC,Greenville News,143300,1998,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"INGLIS, BOB",Republican,1,,,,over incumbent Hollings; recap,0.85
+SC,Greenville News,143300,1998,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"DEMINT, JIM",Republican,1,,,,open seat 4th District; recap,0.8
+SC,Greenville News,143300,1998,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"BEASLEY, DAVID",Republican,1,,1,,re-election; recap,0.85
+SC,Greenville News,143300,1998,LT GOVERNOR,,LIEUTENANT GOVERNOR OF SOUTH CAROLINA,SC,"PEELER, BOB",Republican,1,,1,,recap,0.85
+SC,Greenville News,143300,1998,SUPERINTENDENT,,SUPERINTENDENT OF EDUCATION,SC,"TENENBAUM, INEZ",Democrat,1,,,,recap,0.8
+SC,Greenville News,143300,1998,ATTORNEY GENERAL,,ATTORNEY GENERAL OF SOUTH CAROLINA,SC,"CONDON, CHARLIE",Republican,1,,1,,recap,0.85
+SC,Greenville News,143300,1998,SEC OF STATE,,SECRETARY OF STATE OF SOUTH CAROLINA,SC,"MILES, JIM",Republican,1,,1,,recap,0.85
+SC,Greenville News,143300,1998,DIRECTOR,,GREENVILLE DIRECTOR,SC,"SPEARS, STAN",Republican,1,,1,,Adjutant General; recap,0.85
+SC,Greenville News,143300,2000,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"BUSH, GEORGE W.",Republican,1,,,,recap; over Gore,0.9
+SC,Greenville News,143300,2000,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"DEMINT, JIM",Republican,1,,1,,4th District; recap,0.85
+SC,Greenville News,143300,2000,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"GRAHAM, LINDSEY",Republican,1,,1,,3rd District; recap,0.85
+SC,Greenville News,143300,2008,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"MCCAIN, JOHN",Republican,1,,,,recap,0.95
+SC,Greenville News,143300,2008,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"GRAHAM, LINDSEY",Republican,1,,1,,incumbent; recap,0.95
+SC,Greenville News,143300,2008,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"INGLIS, BOB",Republican,1,,1,,4th Congressional District; recap,0.95
+SC,Greenville News,143300,2008,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"BARRETT, GRESHAM",Republican,1,,1,,3rd Congressional District; recap,0.95
+SC,Greenville News,143300,2008,STATE SENATOR,7,SC STATE SENATE DISTRICT 7,SC,"ANDERSON, RALPH",Democrat,1,,,,Senate District 7 incumbent; recap,0.9
+SC,Greenville News,143300,2008,STATE REP,16,SC STATE HOUSE DISTRICT 16,SC,"WILLIS, MARK",Republican,1,,,,House District 16; recap,0.9
+SC,Greenville News,143300,2008,STATE REP,23,SC STATE HOUSE DISTRICT 23,SC,"DILLARD, CHANDRA",Democrat,1,,,,House District 23; recap,0.9
+SC,Greenville News,143300,2008,STATE REP,25,SC STATE HOUSE DISTRICT 25,SC,"ALLEN, KARL",Democrat,1,,,,House District 25; recap,0.9
+SC,Greenville News,143300,2008,STATE REP,28,SC STATE HOUSE DISTRICT 28,SC,"BEDINGFIELD, ERIC",Republican,1,,,,House District 28; recap,0.9
+SC,Greenville News,143300,2008,SHERIFF,,GREENVILLE COUNTY SHERIFF,SC,"LOFTIS, STEVE",Republican,1,,,,Greenville County Sheriff incumbent; recap | V2: party=Republican inferred from SC Upstate context.,0.9
+SC,Greenville News,143300,2008,CNTY COMM,24,GREENVILLE COUNTY COUNCIL,SC,"SEMAN, LIZ",Republican,1,,,,Greenville County Council District 24; recap | V2: party=Republican inferred from SC Upstate context.,0.9
+SC,Greenville News,143300,2008,CNTY COMM,25,GREENVILLE COUNTY COUNCIL,SC,"GIBSON, LOTTIE",Democrat,1,,,,Greenville County Council District 25; recap | V2: party=Democrat inferred from SC Upstate context.,0.9
+SC,Greenville News,143300,2008,SCHOOL BOARD,17,GREENVILLE COUNTY SCHOOL BOARD,SC,"REECE, TOMMIE",Nonpartisan,1,,,,"Greenville County School Board District 17; recap | V2: party=Nonpartisan, local/judicial/super.",0.9
+SC,Greenville News,143300,2008,SCHOOL BOARD,21,GREENVILLE COUNTY SCHOOL BOARD,SC,"EDWARDS, DANNA",Nonpartisan,1,,,,"Greenville County School Board District 21; recap | V2: party=Nonpartisan, local/judicial/super.",0.9
+SC,Greenville News,143300,2008,SCHOOL BOARD,23,GREENVILLE COUNTY SCHOOL BOARD,SC,"REEDER, YVONNE SMITH",Nonpartisan,1,,,,"Greenville County School Board District 23; recap | V2: party=Nonpartisan, local/judicial/super.",0.9
+SC,Greenville News,143300,2010,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"SHEHEEN, VINCENT",Democrat,1,,,,state senator from Camden; over Republican Nikki Haley,0.95
+SC,Greenville News,143300,2010,LT GOVERNOR,,LIEUTENANT GOVERNOR OF SOUTH CAROLINA,SC,"COOPER, ASHLEY",Democrat,1,,,,over Republican Ken Ard,0.95
+SC,Greenville News,143300,2010,SUPERINTENDENT,,SUPERINTENDENT OF EDUCATION,SC,"HOLLEMAN, FRANK",Democrat,1,,,,over Republican Mick Zais,0.95
+SC,Greenville News,143300,2010,ATTORNEY GENERAL,,ATTORNEY GENERAL OF SOUTH CAROLINA,SC,"WILSON, ALAN",Republican,1,,,,over Matthew Richardson,0.95
+SC,Greenville News,143300,2010,COMPTROLLER,,COMPTROLLER GENERAL OF SOUTH CAROLINA,SC,"ECKSTROM, RICHARD",Republican,1,,1,,incumbent; over Robert Barber,0.95
+SC,Greenville News,143300,2010,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"GOWDY, TREY",Republican,1,,,,4th Congressional District; over Paul Corden,0.95
+SC,Greenville News,143300,2010,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"DUNCAN, JEFF",Republican,1,,,,3rd Congressional District; over Jane Dyer,0.95
+SC,Greenville News,143300,2010,SCHOOL BOARD,18,GREENVILLE COUNTY SCHOOL BOARD,SC,"SUDDUTH, PAT",Nonpartisan,1,,,,"Greenville County School Board District 18 incumbent | V2: party=Nonpartisan, local/judicial/super.",0.9
+SC,Greenville News,143300,2010,SCHOOL BOARD,20,GREENVILLE COUNTY SCHOOL BOARD,SC,"SAYLORS, CHUCK",Nonpartisan,1,,,,"District 20 incumbent | V2: party=Nonpartisan, local/judicial/super.",0.9
+SC,Greenville News,143300,2010,SCHOOL BOARD,22,GREENVILLE COUNTY SCHOOL BOARD,SC,"LEVENTIS-WELLS, LYNDA",Nonpartisan,1,,,,"District 22 | V2: party=Nonpartisan, local/judicial/super.",0.9
+SC,Greenville News,143300,2010,SCHOOL BOARD,24,GREENVILLE COUNTY SCHOOL BOARD,SC,"HICKERSON, MEGAN",Nonpartisan,1,,,,"District 24 | V2: party=Nonpartisan, local/judicial/super.",0.9
+SC,Greenville News,143300,2010,SCHOOL BOARD,26,GREENVILLE COUNTY SCHOOL BOARD,SC,"MEEK, ROGER",Nonpartisan,1,,,,"District 26; school board trustee race | V2: party=Nonpartisan, local/judicial/super.",0.9
+SC,Greenville News,143300,2010,CNTY COMM,26,GREENVILLE COUNTY COUNCIL,SC,"RAWLS, DAN",Republican,1,,,,Greenville County Council District 26; over Democrat Allen Bunk Johnson,0.9
+SC,Greenville News,143300,2012,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"GOWDY, TREY",Republican,1,,1,,4th District; over Democrat Deb Morrow,0.95
+SC,Greenville News,143300,2012,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"DUNCAN, JEFF",Republican,1,,1,,3rd District; over Democrat Brian Ryan B. Doyle,0.95
+SC,Greenville News,143300,2012,SCHOOL BOARD,17,GREENVILLE COUNTY SCHOOL BOARD,SC,"GRAYSON, JOY",Nonpartisan,1,,,,"Greenville County School Board District 17; over incumbent Tommie Reece | V2: party=Nonpartisan, local/judicial/super.",0.95
+SC,Greenville News,143300,2012,SCHOOL BOARD,19,GREENVILLE COUNTY SCHOOL BOARD,SC,"BUSH, DEBI",Nonpartisan,1,,,1,"District 19 incumbent | V2: party=Nonpartisan, local/judicial/super.",0.95
+SC,Greenville News,143300,2012,SCHOOL BOARD,23,GREENVILLE COUNTY SCHOOL BOARD,SC,"MORRISON-FAIR, GLENDA",Nonpartisan,1,,,1,"District 23 incumbent | V2: party=Nonpartisan, local/judicial/super.",0.95
+SC,Greenville News,143300,2012,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"ROMNEY, MITT",Republican,1,,,,over incumbent Obama,0.95
+SC,Greenville News,143300,2014,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"GRAHAM, LINDSEY",Republican,1,,1,,over Democrat Brad Hutto,0.95
+SC,Greenville News,143300,2014,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"SCOTT, TIM",Republican,1,,1,,special election; over Joyce Dickerson,0.95
+SC,Greenville News,143300,2014,SCHOOL BOARD,24,GREENVILLE COUNTY SCHOOL BOARD,SC,"WELLS, LISA",Nonpartisan,1,,,1,"Greenville County School Board District 24 incumbent | V2: party=Nonpartisan, local/judicial/super.",0.95
+SC,Greenville News,143300,2014,SCHOOL BOARD,28,GREENVILLE COUNTY SCHOOL BOARD,SC,"LEWIS, DEREK",Nonpartisan,1,,,,"Greenville County School Board District 28; over Either Dishner | V2: party=Nonpartisan, local/judicial/super.",0.95
+SC,Greenville News,143300,2014,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"SHEHEEN, VINCENT",Democrat,1,1,,,"over incumbent Republican Nikki Haley | V2 cross-year inc, first 2010.",0.95
+SC,Greenville News,143300,1952,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"STEVENSON, ADLAI E.",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Stevenson D lost; GN endorsed Eisenhower R.,0.85
+SC,Greenville News,143300,1954,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"THURMOND, STROM",Republican,0,,,,Pattern A: opp of GN endorsed candidate. Thurmond R won write-in; GN endorsed Brown D (unusual pre-realignment).,0.85
+SC,Greenville News,143300,1978,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"YOUNG, EDWARD LUNN",Republican,0,,,,Pattern A: opp of GN endorsed candidate. Young R lost; GN endorsed Riley D.,0.85
+SC,Greenville News,143300,1978,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"RAVENEL, CHARLES",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Ravenel D lost; GN endorsed Thurmond R inc.,0.85
+SC,Greenville News,143300,1984,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"MONDALE, WALTER",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Mondale D lost; GN endorsed Reagan R.,0.85
+SC,Greenville News,143300,1986,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"DANIEL, MIKE",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Daniel D lost; GN endorsed Campbell R.,0.85
+SC,Greenville News,143300,1988,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"DUKAKIS, MICHAEL",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Dukakis D lost; GN endorsed Bush R.,0.85
+SC,Greenville News,143300,1990,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"MITCHELL, THEO",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Mitchell D lost; GN endorsed Campbell R inc.,0.85
+SC,Greenville News,143300,1990,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"CUNNINGHAM, BOB",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Cunningham D lost; GN endorsed Thurmond R inc.,0.85
+SC,Greenville News,143300,1992,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"CLINTON, BILL",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Clinton D won; GN endorsed Bush R inc.,0.85
+SC,Greenville News,143300,1992,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"HARTNETT, THOMAS F.",Republican,0,,,,Pattern A: opp of GN endorsed candidate. Hartnett R lost; GN endorsed Hollings D inc.,0.85
+SC,Greenville News,143300,1994,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"THEODORE, NICK",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Theodore D lost; GN endorsed Beasley R.,0.85
+SC,Greenville News,143300,1996,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"CLINTON, BILL",Democrat,0,1,,,Pattern A: opp of GN endorsed candidate. Clinton D inc won; GN endorsed Dole R.,0.85
+SC,Greenville News,143300,1996,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"CLOSE, ELLIOTT SPRINGS",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Close D lost; GN endorsed Thurmond R inc.,0.85
+SC,Greenville News,143300,1998,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"HOLLINGS, ERNEST F.",Democrat,0,1,,,Pattern A: opp of GN endorsed candidate. Hollings D inc won; GN endorsed Inglis R.,0.85
+SC,Greenville News,143300,1998,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"HODGES, JIM",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Hodges D won; GN endorsed Beasley R inc.,0.85
+SC,Greenville News,143300,2000,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"GORE, AL",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Gore D lost; GN endorsed Bush R.,0.85
+SC,Greenville News,143300,2008,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"OBAMA, BARACK",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Obama D won; GN endorsed McCain R.,0.85
+SC,Greenville News,143300,2008,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"CONLEY, BOB",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Conley D lost; GN endorsed Graham R inc.,0.85
+SC,Greenville News,143300,2010,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"HALEY, NIKKI",Republican,0,,,,Pattern A: opp of GN endorsed candidate. Haley R won; GN endorsed Sheheen D.,0.85
+SC,Greenville News,143300,2012,PRESIDENT,,PRESIDENT OF THE UNITED STATES,SC,"OBAMA, BARACK",Democrat,0,1,,,Pattern A: opp of GN endorsed candidate. Obama D inc won; GN endorsed Romney R.,0.85
+SC,Greenville News,143300,2014,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"HUTTO, BRAD",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Hutto D lost; GN endorsed Graham R inc.,0.85
+SC,Greenville News,143300,2014,SENATOR,,US SENATOR - SOUTH CAROLINA,SC,"DICKERSON, JOYCE",Democrat,0,,,,Pattern A: opp of GN endorsed candidate. Dickerson D lost; GN endorsed Scott R inc.,0.85
+SC,Greenville News,143300,2014,GOVERNOR,,GOVERNOR OF SOUTH CAROLINA,SC,"HALEY, NIKKI",Republican,0,,1,,Pattern A: opp of GN endorsed candidate. Haley R inc won; GN endorsed Sheheen D.,0.85
+SC,Greenville News,143300,1986,LT GOVERNOR,,LIEUTENANT GOVERNOR OF SOUTH CAROLINA,SC,"THEODORE, NICK",Democrat,0,,,,Pattern A SC state: opp of GN endorsed candidate. Theodore D won; GN endorsed Hartnett R (Campbell ticket).,0.78
+SC,Greenville News,143300,1990,SEC OF STATE,,SECRETARY OF STATE OF SOUTH CAROLINA,SC,"PRIMUS, DAVID",Democrat,0,,,,Pattern A SC state: opp of GN endorsed candidate. Primus D lost; GN endorsed Miles R.,0.78
+SC,Greenville News,143300,1994,LT GOVERNOR,,LIEUTENANT GOVERNOR OF SOUTH CAROLINA,SC,"MCLEOD, BUTCH",Democrat,0,,,,Pattern A SC state: opp of GN endorsed candidate. McLeod D lost; GN endorsed Peeler R.,0.78
+SC,Greenville News,143300,1994,ATTORNEY GENERAL,,ATTORNEY GENERAL OF SOUTH CAROLINA,SC,"MEDLOCK, T. TRAVIS",Democrat,0,1,,,Pattern A SC state: opp of GN endorsed candidate. Medlock D inc lost; GN endorsed Condon R.,0.78
+SC,Greenville News,143300,1994,COMPTROLLER,,COMPTROLLER GENERAL OF SOUTH CAROLINA,SC,"ECKSTROM, RICHARD",Republican,0,,,,Pattern A SC state: opp of GN endorsed candidate. Eckstrom R lost; GN endorsed Morris D inc (later Eckstrom won 02 and was inc in 2010 GN endorsement).,0.78
+SC,Greenville News,143300,1998,LT GOVERNOR,,LIEUTENANT GOVERNOR OF SOUTH CAROLINA,SC,"HOLLINGS, ERNEST F. IV",Democrat,0,,,,Pattern A SC state: opp of GN endorsed candidate. Hollings IV D lost; GN endorsed Peeler R inc.,0.78
+SC,Greenville News,143300,1998,SUPERINTENDENT,,SUPERINTENDENT OF EDUCATION,SC,"EVANS, DAVID",Republican,0,,,,Pattern A SC state: opp of GN endorsed candidate. Evans R lost; GN endorsed Tenenbaum D.,0.78
+SC,Greenville News,143300,1998,ATTORNEY GENERAL,,ATTORNEY GENERAL OF SOUTH CAROLINA,SC,"BLATT, FRANK",Democrat,0,,,,Pattern A SC state: opp of GN endorsed candidate. Blatt D lost; GN endorsed Condon R inc.,0.78
+SC,Greenville News,143300,2010,LT GOVERNOR,,LIEUTENANT GOVERNOR OF SOUTH CAROLINA,SC,"ARD, KEN",Republican,0,,,,Pattern A SC state: opp of GN endorsed candidate. Ard R won; GN endorsed Cooper D.,0.78
+SC,Greenville News,143300,2010,SUPERINTENDENT,,SUPERINTENDENT OF EDUCATION,SC,"ZAIS, MICK",Republican,0,,,,Pattern A SC state: opp of GN endorsed candidate. Zais R won; GN endorsed Holleman D.,0.78
+SC,Greenville News,143300,2010,ATTORNEY GENERAL,,ATTORNEY GENERAL OF SOUTH CAROLINA,SC,"RICHARDSON, MATTHEW",Democrat,0,,,,Pattern A SC state: opp of GN endorsed candidate. Richardson D lost; GN endorsed Wilson R.,0.78
+SC,Greenville News,143300,2010,COMPTROLLER,,COMPTROLLER GENERAL OF SOUTH CAROLINA,SC,"BARBER, ROBERT",Democrat,0,,,,Pattern A SC state: opp of GN endorsed candidate. Barber D lost; GN endorsed Eckstrom R inc.,0.78
+SC,Greenville News,143300,1978,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"HELLER, MAX",Democrat,0,,,,Pattern A SC H: opp of GN endorsed candidate. Heller D lost; GN endorsed Campbell R.,0.78
+SC,Greenville News,143300,1990,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"WHITE, TERRY",Republican,0,,,,Pattern A SC H: opp of GN endorsed candidate. White R lost; GN endorsed Patterson D inc.,0.78
+SC,Greenville News,143300,1992,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"INGLIS, BOB",Republican,0,,,,Pattern A SC H: opp of GN endorsed candidate. Inglis R won; GN endorsed Patterson D inc (but unseated).,0.78
+SC,Greenville News,143300,1994,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"HOOGENBOOM, JANE",Democrat,0,,,,Pattern A SC H: opp of GN endorsed candidate. Hoogenboom D lost; GN endorsed Inglis R inc.,0.78
+SC,Greenville News,143300,1996,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"CANNON, BRUCE",Democrat,0,,,,Pattern A SC H: opp of GN endorsed candidate. Cannon D lost; GN endorsed Inglis R inc.,0.78
+SC,Greenville News,143300,2008,H,3,U.S. HOUSE - SOUTH CAROLINA DISTRICT 3,SC,"DYER, JANE",Democrat,0,,,,Pattern A SC H: opp of GN endorsed candidate. Dyer D lost; GN endorsed Barrett R inc.,0.78
+SC,Greenville News,143300,2008,H,4,U.S. HOUSE - SOUTH CAROLINA DISTRICT 4,SC,"CORDEN, PAUL",Democrat,0,,,,Pattern A SC H: opp of GN endorsed candidate. Corden D lost; GN endorsed Inglis R inc.,0.78

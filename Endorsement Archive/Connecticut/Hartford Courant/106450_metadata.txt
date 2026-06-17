@@ -1,17 +1,82 @@
-Newspaper Name: Hartford Courant
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Hartford Courant
 Newspaper ID: 106450
-State: CT
-Processing Date: 2026-05-19
+State: CT (Hartford / Hartford County)
+Number of clippings: 24
+Endorsement data years: 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974
+(8 distinct years, 1960-1974 coverage)
 
-Clippings: 24
-Date range: 1960-1974
-Total candidate records: 13 (endorsed 13)
-Total proposition records: 45 (endorsed 45)
-Mean confidence: 0.95
+--- ENDORSEMENT COUNTS (V5 FINAL) ---
+Total candidate records: 26 (13 endorsed, 13 opposed)
+Total proposition records: 45 (all YES)
 
-Notes:
-- "The Oldest Newspaper" - established 1764; published at 285 Broad Street, Hartford
-- Historically Republican-leaning editorial board through this period (1960-1974)
-- Heavy focus on Hartford bond/redevelopment questions and state constitutional amendments
-- 1968: serial daily editorials Q1-Q10 build-up; full slate consolidated into 10/24 record
-- 1970 endorsements (Meskill/Weicker/Uccello) recommended first GOP governor since 1955
+--- CONFIDENCE SCORES (V5 FINAL) ---
+Mean: 0.900
+Below 0.85: 0 (min 0.85)
+Min: 0.85
+
+--- INCUMBENCY COVERAGE ---
+Records with inc flag: 5 (19%)
+- Daddario D inc H-1 (60/62)
+- Dempsey D inc GOV (62)
+- Dodd D inc SEN (64)
+- Dodd I-formerly-D inc SEN (70)
+
+--- HISTORICAL CONTEXT ---
+The Oldest Newspaper - established 1764, published at 285 Broad Street Hartford.
+Historically Republican-leaning editorial board through this period (1960-1974).
+
+--- CROSS-PAPER VALIDATION ---
+Sister paper: Hartford Times (106500) - separate folder. V1 processing noted 2 files
+prefixed 106500 were actually Courant content per OCR masthead inspection.
+
+--- AUDIT HISTORY ---
+V1 (2026-05-19): Initial extraction, all e=1 R (0 e=0)
+V2 (2026-06-16): 13 fed Pattern A + 8 dname fills + 45 prop_type recodes + 2 notes
+V3 (2026-06-16): 5 yrs OCR (60/62/64/68/70) + props Q1-Q10 verified + RA_NEEDS
+V4 (2026-06-16): +3 yrs OCR (66/72/74) - ALL clipping years covered + 1974 ERA confirmed
+V5 (2026-06-16): Metadata refresh + final integrity sweep + V5 FINAL formal QA
+
+--- NOTES ---
+
+EDITORIAL IDENTITY (V5 FINAL, ALL 8 years OCR verified):
+Connecticut's oldest newspaper. Historically R-leaning 1960-1974.
+
+FEDERAL R-PATTERN (V3/V4 OCR direct quotes):
+- R PRES: Nixon 60 ("commended to its readers Vice President Nixon and Henry Cabot Lodge"),
+          Nixon 68 ("Mr. Nixon Best Qualified for Office")
+- 1964 PRES SKIPPED: V1 metadata notes Johnson vs Goldwater unresolved in clippings
+- R SEN: Seely-Brown 62, Lodge 64 (over Dodd D inc),
+         Weicker 70 ("moderate Mr. Weicker between Senator Dodd on the right and Mr. Duffey on the left")
+- R GOV: Alsop 62 ("He deserves the state's vote"),
+         Meskill 70 (first GOP gov since 1955)
+- R H: Brennan 60 H-1, Collins 62 H-1, Lupton 62 H AT-LARGE, Uccello 70 H-1
+- R State Sen: Cohen 62 STATE SEN-2
+
+KEY EDITORIAL PATTERNS:
+- Routinely backed R challengers vs D incumbents (Daddario H-1 60/62, Dempsey GOV 62,
+  Ribicoff SEN 62, Dodd SEN 64 inc, Cotter H-1 70)
+- 1970 breakthrough R cycle (Meskill GOV + Weicker SEN + Uccello H-1)
+- 1970 SEN was 3-way: Weicker R won over Duffey D + Dodd I (Dodd lost D primary,
+  ran as independent)
+
+PROPOSITIONS (45 records, all YES):
+- 32 BOND + 10 AMENDMENT + 2 REFERENDUM + 1 CHARTER
+- Heavy Hartford bond/redevelopment focus
+- 1968 Q1-Q10 perfect bond series (verified V3): schools, civic center,
+  Colt Park redevelopment, South Arsenal redevelopment, community service facilities,
+  swimming pools, public works, MDC water system
+- 1966 Hartford bond YES: schools + urban renewal + public health
+- 1972 Q1 amendment + Charter Revision + Hartford non-partisan school board
+- 1974 state ERA amendment YES ("Vote Yes on Question 1" headline)
+
+PROGRESSIVE CIVIC POSITIONS DESPITE R-LEAN:
+Despite consistent R federal/state slate, HC endorsed YES on:
+- 1974 state ERA amendment (civil rights)
+- Hartford bond issues for schools, urban renewal, civic infrastructure
+- Suggests R lean was party-political, not anti-progressive on local civic issues
+
+Compiled: 2026-05-19
+V5 FINAL: 2026-06-16
