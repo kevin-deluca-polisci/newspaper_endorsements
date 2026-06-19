@@ -1,36 +1,39 @@
-Newspaper Name: Anniston Star 100050
-Alternative Names: REVIEW
-Years Published: REVIEW
-Newspaper ID number: REVIEW
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Anniston Star
+Newspaper ID: 100050
+State: AL
 Number of clippings: 65
-Endorsement data years: 1918, 1922, 1926, 1928, 1930, 1944, 1952, 1964, 1966, 1968, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016
+Endorsement data years: 1918-2016
+Total candidate records: 270 (200 endorsed=1)
+Total proposition records: 124 (124 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 159
-  Endorsed (=1): 120
-  Opposed (=0): 36
-  No position (null): 3
-Total proposition records: 102
-  Endorsed (=1): 81
-  Opposed (=0): 18
+Confidence statistics (all records):
+  Mean confidence: 0.909
+  Low-confidence records (< 0.7): 3
 
---- DATA QUALITY ---
-Flagged for review: 12 candidates, 7 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 1
-Duplicates removed: 0 candidates, 1 propositions
+Top offices (top 15):
+  SUPREME COURT: 45
+  PUBLIC SERVICE COMMISSION: 30
+  PRESIDENT: 29
+  H: 23
+  SENATOR: 20
+  GOVERNOR: 18
+  COURT OF APPEALS: 18
+  COURT OF CRIMINAL APPEALS: 15
+  LT GOVERNOR: 14
+  SEC OF STATE: 11
+  AUDITOR: 11
+  ATTORNEY GENERAL: 9
+  AGRICULTURE COMMISSIONER: 9
+  STATE BOARD OF ED: 8
+  TREASURER: 6
 
---- CONFIDENCE SCORES ---
-Min: 0.60
-Mean: 0.91
-Max: 1.00
-Below threshold (0.75): 14
+Party distribution:
+  Democrat: 135
+  Republican: 91
+  Independent: 1
+  Prohibition: 1
 
---- REVIEW QUEUE ---
-  [no_endorsements] 100050_19961105: No endorsements detected
-
---- NOTES ---
-(Add any additional notes here)
-
-Compiled: 2026-04-15 17:23:39
+(metadata regenerated post-V8 deep verification)

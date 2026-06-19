@@ -115,3 +115,65 @@ These dataset-wide spec deviations apply to all 128 papers and should drive an e
 ## Recommendation
 
 PASS WITH FIXES. The stub-format issue was significant but cleanly resolved. After fixes, the data is consistent, well-coded, and ready for compilation. The new standing rules (stub-format handling + "both qualified" interpretation) will prevent similar issues from going undetected in subsequent papers.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result:** PASS WITH FIXES. 7 candidate corrections, 6 proposition fixes, 5 propositions added. Subagent-adjudicated.
+
+## Method
+Re-OCR'd all 50 clippings from scratch (pdfimages + tesseract; pdftoppm 300/600 DPI fallbacks on 9 low-yield clippings, incl. 19641029 which gave 0 lines via pdfimages and 241 lines at 300 DPI). Aggregated OCR by year for all 25 clipping years (1950–2018). Cross-checked all 216 candidate records and 78 props against independent OCR using three parallel independent subagents (years 1952–1968, 1972–1990, 1992–2018), each re-reading OCR with no anchoring. High-stakes flags were then personally re-read against OCR before applying.
+
+## Candidate corrections (7)
+1. **1988 TX Supreme Court Place 4 & 5 — 4 false-positive endorsements removed.** The paper endorsed only 4 of 6 Supreme Court races: OCR "The choice is clear-cut in four of the six races" (Chief Phillips, Place 1 Murphy, Place 2 Hecht, Place 3 Gonzalez). For Place 4 (Barbara CULVER R / Jack HIGHTOWER D) and Place 5 (Eugene COOK R / Karl BAYER D) it said "both...are qualified" and made NO pick. V1 coded all four endorsed=1. Set to EMPTY (no endorsement); flagged NEEDS_RA for removal vs no-endorsement coding. (These were the folder's 4 lowest-confidence candidate records at 0.70.)
+2. **1994 JUDGE dist=11 "ARNOT, BRAD" (R) — spurious duplicate.** OCR shows only "Bud Arnot, Democrat" (Chief Justice, 11th Court of Appeals), already captured as ARNOT, BUD. No "Brad Arnot"/Republican exists. Wrong first name + wrong party; set EMPTY, flagged NEEDS_RA to delete.
+3. **1994 JUSTICE OF PEACE "ANDREW, REX" — party fixed.** OCR: "Write-in candidate Rex Andrew" / "Rex Andrew (write-in)"; no party. Changed party Republican → empty. Endorsement itself confirmed.
+4. **1996 SHERIFF "DIETEN, JACK" → "DIEKEN, JACK".** OCR (1996 ×2 + 1992) reads "Jack Dieken"; V1 1992 already used DIEKEN. Name fix.
+
+The other 211 endorsed candidates were each OCR-confirmed (LIST_FORMAT recaps); 4 apparent surname misses (1982 Clark, 1986 Hobby, 1998 O'Neill, 1998 Hankinson) are OCR line-break truncations, not errors.
+
+## Proposition corrections (6) + additions (5)
+**Direction/field fixes:**
+- **1984 omnibus "Amendments 2,3,5,6,7" E=1 → EMPTY (mixed).** OCR "we support all but Amendment 3" and "we oppose this amendment [No. 7]". So 2/5/6 YES, 3 NO, 7 NO. NEEDS_RA split.
+- **1984 num=1 (judicial conduct, E=0):** OCR attributes this content to Amendment **7**, not 1 ("change of heart regarding Amendment 7"). Direction (oppose) is correct; number suspect. NEEDS_RA.
+- **1984 num=4 (trial de novo, E=0):** text absent from the single captured clipping (Oct 27 detail editorial not in folder); unverifiable. NEEDS_RA.
+- **2018 BOND (AISD) description "$86 million" → "$88 million"** (OCR "finishes the job of the $88 million bond election").
+- **2018 Cisco College tax "3 cent" → "5 cent" per $100 valuation** (OCR ×2).
+
+**Phase 8 additions (V1 omissions, all endorsed=1):**
+- **1966 Amendment No. 2 and No. 11** — OCR "on record in support of Amendments 2 through 16" (V1 had 3–10, 12–16). Descriptions need RA fill.
+- **1968 Amendments No. 1, 3, 7** — OCR "previously endorsed amendments 1 3 and 7." Descriptions need RA fill.
+
+**1958 omnibus (empty):** confirmed correct as empty (mixed). OCR gives per-amendment directions YES=1,3,7,9 / NO=2,4,5,6,8. NEEDS_RA split.
+
+## Phase 6 (cross-cycle inc): 21 consecutive-cycle same-office endorsements lack an inc flag on the later record. NOT auto-set — repeat endorsement does not prove incumbency (a paper may endorse a challenger across cycles). Flagged for RA in RA_NEEDS.
+
+## Phase 8 (1950): clipping year 1950 has 2 clippings but 0 records. CONFIRMED correct — both are census/congressional-reapportionment news columns (Robert S. Allen), not endorsements.
+
+## Phase 12: Cross-paper
+Sister paper in done/: **Abilene Daily Reporter (144599)**, the *predecessor* (1928–1936). No year overlap with ARN (1952–2018). Cross-validation N/A. (Note: a 1932 Daily Reporter clipping's OCR reads "Reporter-News," predating the documented ~1937 merger — flagged in that folder's RA_NEEDS.)
+
+## Phase 13: Multi-pass
+- Pass 1: 7 candidate + 6 prop corrections, 5 props added (above).
+- Pass 2: 0 new issues. Surname-presence re-scan returns only the 4 known OCR-truncation cases; all corrections hold. Converged.
+
+## OCR coverage
+All 50 clippings yielded usable OCR after fallbacks. High-record list-recap years (1990, 1992, 1998, 2002) are compact but fully legible. No dead-end clippings.
+
+## V8 Addendum (2026-06-18): 1984 props hardened + incumbency pass
+
+**1984 propositions rebuilt (4 clean rows).** Full re-read of the 19841104 editorial established directions for all eight 1984 amendments from subject matter (not V1's unreliable numbering): the board opposed only the financial-aid-to-survivors amendment ("we support all but Amendment 3") and the judicial-conduct amendment ("Amendment 7... we oppose this amendment"); it favored the rest. New rows:
+- Amendment 3 — E=0 (financial aid to survivors of public servants killed on duty).
+- Amendment 7 — E=0 (State Commission on Judicial Conduct membership + open-hearing provision). V1 had mis-numbered this as Amendment 1; renumbered to 7 per explicit OCR.
+- Amendment 4 — E=1 (trial de novo / small claims). Direction FLIPPED from V1's E=0: the board opposed only #3 and #7, so this distinct-subject amendment was favored. Ballot number flagged for RA confirmation.
+- Favored omnibus (Nos. 1, 2, 5, 6, 8) — E=1.
+
+**Incumbency (Phase 7) — 13 inc flags set from OCR evidence.** A systematic scan checked every endorsed record lacking an inc flag for incumbent language near the candidate's name, then each hit was adjudicated to confirm the language referred to that candidate (not an adjacent one):
+- 1988 McCormick (D, CCA) — "these three justices... are incumbents."
+- 1996 (11): Wright, Rylander, Phillips, Cornyn, Abbott, Baker (appointed), Dieken — all OCR "Republican incumbent ..."; Gramm ("Republican Sen."), Stenholm/Cook/Counts ("Democratic Rep.").
+- 2018 Arrington (R) — "first-term Republican, has served."
+
+Nine proximity false-positives were correctly left unflagged (1968 Smith, 1986 Barrera/Sharp, 1988 Saringer/Smart, 1996 Holland/Holcomb, 2016 Arrington/Buckingham) because the incumbent language referred to an adjacent candidate or a retiring officeholder. Total inc flags: 57 -> 70. No Pattern K (party/inc) contradictions introduced.
+
+*(Audit tokens: Phase 11 HARDENED 1984 props; Phase 7 INC flags set; Phase 5 Pattern K fixes applied.)*

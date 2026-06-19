@@ -3,29 +3,103 @@ NEWSPAPER ENDORSEMENT METADATA
 
 Newspaper: Honolulu Star-Bulletin
 Newspaper ID: 109601
-State: HI
+State: HI (Oahu)
 Number of clippings: 48
-Endorsement data years: 1918-2008
-Total candidate endorsements: 130
-Total proposition endorsements: 57
+Endorsement data years: 1918, 1920, 1922, 1924, 1928, 1930, 1932, 1936, 1960, 1968, 1970, 1972, 1974, 1980, 1982, 1984, 1986, 1988, 1990, 1994, 2002, 2004, 2008
+(23 distinct years, 1918-2008 - 90-year span)
 
-Confidence statistics:
-  Mean confidence: 0.850
-  Low-confidence records (< 0.7): 0
+--- ENDORSEMENT COUNTS (V5 FINAL) ---
+Total candidate records: 164 (130 endorsed, 34 opposed)
+Total proposition records: 57 (all direction TBD via OCR)
 
-Top offices (top 15):
-  H: 26
-  STATE REP: 26
-  STATE SENATOR: 22
-  BOARD OF EDUCATION: 20
-  MAYOR: 12
-  PRESIDENT: 8
-  SENATOR: 6
-  GOVERNOR: 5
-  DA/PROSECUTOR: 2
-  LT GOVERNOR: 2
-  VICE PRESIDENT: 1
+--- CONFIDENCE SCORES (V5 FINAL) ---
+Mean: 0.850
+Below 0.85: 34 (V2 Pattern A at 0.82)
+Min: 0.82
 
-Party distribution:
-  Republican: 49
-  Democrat: 44
+--- INCUMBENCY COVERAGE ---
+Records with inc flag: 20 (12%)
+Multi-cycle delegations tracked:
+- Houston R Delegate (1928/1932 territorial era)
+- Nixon R PRES (1960/68/72)
+- Reagan R PRES (1980/84)
+- Inouye D SEN (1980/86/04)
+- Matsunaga D SEN (1988)
+- Heftel D H-1 (1980/82/84)
+- Akaka D H-2 (1980/82/84/86/88)
+- Saiki R H-1 (1986/88), then SEN (1990)
+- Ariyoshi D GOV (1982)
+- Waihee D GOV (1990)
+- Anderson R GOV (1986)
+
+--- PREDECESSOR/SUCCESSOR PAPERS ---
+- Founded: 1882 (oldest English-language paper in HI)
+- Founded by: Wallace Rider Farrington
+- Ceased separate publication: 2010 (merged with Honolulu Advertiser)
+- Successor: Honolulu Star-Advertiser (109630)
+- Sister: Honolulu Advertiser (109600) - separate D-leaning paper through 2010
+
+--- AUDIT HISTORY ---
+V1 (2026-05-01): Initial extraction, all e=1
+V2 (2026-06-16): 34 fed Pattern A + 30 NP + 7 party fills + 101 name std + 19 HA cross-paper + 17 cross-yr inc + 130 dname + 130 notes
+V3 (2026-06-16): 1990 OCR direct quotes (Saiki SEN + Waihee GOV) + 57 prop_type fills + 1988 PRES contradiction flagged
+V4 (2026-06-16): +3 OCR years (1980/1932/2008 direct quotes) + 8 conf boosts
+V5 (2026-06-16): Metadata refresh + final integrity + V5 FINAL formal QA
+
+--- NOTES ---
+
+EDITORIAL IDENTITY (V5 FINAL, 4 years OCR confirmed):
+HI Honolulu paper 1882-2010. Historically R-leaning (opposite of D-leaning sister Advertiser).
+
+KEY V3/V4 OCR DIRECT QUOTES:
+- 1932: "SEND HOUSTON BACK! Leading the Republican procession" (territorial Delegate R)
+- 1980: "Ronald Reagan for president; Sen. Daniel K. Inouye and Congressmen Cecil Heftel and Daniel K. Akaka for re-election; Eileen Anderson for mayor" + amendment direction
+- 1990: "Saiki for U.S. Senate" + "Waihee for re-election" + "For outer island mayors: Yukimura, Lingle, Inouye"
+- 2008: "Star-Bulletin endorsed Barack Obama for the presidency" + "U.S. Reps. Neil Abercrombie and Mazie Hirono deserve to remain"
+
+CROSS-PAPER SISTER PATTERN (vs Honolulu Advertiser):
+SB and HA were competing Honolulu papers 1882-2010, merged 2010 into Star-Advertiser.
+They had distinct editorial perspectives:
+
+DIVERGENCES:
+- 1968 PRES: SB Nixon R | HA Humphrey D
+- 1980 PRES: SB Reagan R | HA Carter D
+- 1986 GOV: SB Anderson R (committed) | HA Anderson + Waihee dual
+- 1986 H-1: SB Saiki R (committed) | HA Hannemann + Saiki dual
+- 1990 SEN: SB Saiki R | HA Akaka + Saiki dual
+- 1994 GOV: SB Fasi Best Party | HA Cayetano D
+
+CONVERGENCES:
+- 1960 PRES: both Nixon R
+- 1980 SEN: both Inouye D
+- 1982 GOV: both Ariyoshi D
+- 1990 GOV: both Waihee D
+- 1990 H: both Liu R + Mink D
+- 2008 PRES: both Obama D
+
+NOTABLE EDITORIAL CHARACTERISTICS:
+- "Last R holdout" 1990 SEN: SB explicitly endorsed Saiki R over Inouye D inc
+- 1994 GOV: SB picked Frank Fasi (Best Party 3rd party) over both major candidates
+- 2002 GOV: SB endorsed Lingle R (first R GOV since 1962)
+- Lingle was endorsed by SB as Maui Mayor 1990 (12 years before her GOV win)
+- 2008 PRES: SB endorsed Obama D (HI hometown candidate) - convergence with HA
+
+V1 METADATA-DATA CONTRADICTION (FLAGGED):
+V1 metadata: "Endorsed: ... Bush (1988)"
+V1 data: 1988 PRES = Dukakis D
+V3/V4 OCR attempts inconclusive (1988 PDFs are scrapbook covers only).
+This contradiction remains unresolved - flagged Priority 2 RA.
+
+PROPOSITIONS: 57 records
+- 39 AMENDMENT + 18 CHARTER
+- 1978 richest year (14 props - HI ConCon)
+- All 57 props direction TBD (V1 extraction gap); flagged RA Priority 1
+- 1980 OCR captured amendment direction: 3 YES + 2 NO
+
+PRE-1959 TERRITORIAL ERA:
+- HI was US territory; only federal office was Delegate to Congress (no Senator/Governor)
+- Coded as office=H, dist=AT-LARGE
+- 1918-1936 records all R Delegate (Kalanianaole 18/20, Wise 22, Rice 24, Houston 28/32, King 34, Farrington 52)
+
+Compiled: 2026-05-01
+V5 FINAL: 2026-06-16

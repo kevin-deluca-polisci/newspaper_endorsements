@@ -125,3 +125,43 @@ The 294 clipping files were left in place (they are not byte-identical and prese
 ## Recommendation
 
 PASS WITH FIXES. The dataset's content was accurate; the dominant issue was augmentation-induced duplication (72 records, 5.8% of candidate records), now resolved, plus targeted 1974 slate corrections and judicial dist normalization. Remaining open items are either dataset-wide office-code questions, image-quality-blocked verifications, or low-risk single-record flags — none block compilation.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result:** PASS WITH EXTENSIVE FIXES. Largest folder in the project (1,451 records, 60 cycles 1882-2020, 258 clippings). Full exhaustive pass: all 258 clippings re-OCR'd; 5 era-subagents (1920-2020) + 2 vision-subagents (pre-1920 party tickets) reconciled every record; high-stakes items re-verified by Claude.
+
+## Critical provenance gap
+**132 records (years 1924, 1980, 1982, 1984, 1986, 1988) have NO source clipping in the folder** and are unverifiable against OCR — flagged NEEDS_RA (conf lowered to 0.65). 1984 alone has 47 candidate records with no clipping. These need their source clippings located.
+
+## Candidate corrections applied (~75)
+- **Direction errors (3):** 1920 Mechem (e=1->0, opposed); 1990 Gentry (retention, 1->0 "no"); 2010 Engel (0->1 "Yes").
+- **Name/field fixes (~50):** large 1974 cluster (Roybal->Ben/d10, Higgins not Hagen, Leger not Lager, Pena not Penn, Aragon d14/Manny, Robinson d11/R, Reveal not Reynal, Mandel not Mendel, etc.); 1990 (McSorley not McKerley, Davis not Woodward for clerk, Patrick not Patricia Padilla, Birge not Berge, +retention garbles); 1996 (Vigil not Padilla for treasurer); 1998 (Paster not Russo, Sanchez not Banister, Carrillo not Brown); 2008 (DeBaca not DeMacis, Justine not Janice, Vanzi not Vance); 2010 (Quintana not Maldonado, Gentry not Lewis d30); 2012 (Ocksrider, Kubiak).
+- **Pre-1920 vision fixes (18):** name garbles (Maden, Griego, de la O, Lavedra, Padillo, Miller, Kuchenbecker W.F., Mora y Lobato Vidal/Bidal); a **systematic 1898 office-shift** (10 records each carried the wrong office — corrected per the printed ticket structure); office fixes (Kent=Collector, Burke/Brown=School Superintendent).
+- **Spurious/duplicate removals (~16):** 1930 auditor triple-count (-2); 2004 Camp dup; 2016 dups (Ortega Saenz no-hyphen, Sweat/Quezada, Pearce/Bearce); 1990 Sengbe; 1998 Adams; 2008 Fitzgerald/Brickhouse/Jaramillo/Larrañaga; 1974 "William, Dennis B."; 1888 O'Bannon school-board; 1898 Martinez Bernando; 1900 Hubbell-Frank/Sheriff dup.
+- **Empty recovery:** 1936 Tingley (EMPTY->1).
+- **Omissions added (22):** high-value/opposed records — 1948 Hurley(R,1)/Truman(D,0); 1936 Dempsey; 1942 Sutherland; 1926 Salazar; 1960 Bolack/Strong/Gonzales/Giannini; 1968 Hay(1)/Dow(0); 2008 Hall; 2020 Argyres(0); 2010 Jaramillo(0)/Al-Yasi(0); 2002 four opposed metro judges; 1996 two opposed.
+
+## Proposition corrections (4)
+1996 Amendment 2 (1->0 "NO"); 1998 Amendments I & II (1->0 "No"); 1958 Amendment 3 (EMPTY->1).
+
+## Phase 12: Cross-paper
+**Sister paper present: Albuquerque Tribune** (same city, folder 7). Cross-validation recommended once the Tribune is processed. Las Cruces Sun News also in done/ (different market).
+
+## Phase 13: Multi-pass
+- Pass 1: corrections above.
+- Pass 2: convergence — remaining surname-scan misses are confirmed OCR garbles (1962 Hatfield etc.) and special-char names (Larrañaga ñ). No new substantive issues.
+
+## Systematic under-extraction (documented in RA_NEEDS for re-extraction)
+This paper endorsed FULL slates; V1 missed large blocks: pre-1920 river-commissioner rows and the entire Valencia County tickets (1890, 1900) and 1902 named slate; and modern judicial-retention slates + bond bundles (1992/1994/1996/2000/2002/2006/2008/2010/2012/2016/2020). See RA_NEEDS for the structured list.
+
+## V8 Capstone: comprehensive multi-layer audit (2026-06-18)
+Automated structural sweep + THREE independent capstone subagents (modern fixes; pre-1920 vision; 1920-1974 + props) re-verified the corrected dataset against fresh OCR/images. All applied corrections held up — NO regressions in the ~80 candidate/prop fixes. Additional issues caught and fixed:
+- 1990 "Hester" -> "Mowrer" (OCR "Frederick M. Mowrer, no"); Cosgrove e=0 -> EMPTY ("no recommendation"); Ashbey -> Ashby.
+- 1898: restored "Martinez, Fernando" (River Comm) — V8 had wrongly deleted it as spurious "Bernando"; Barela K.P. -> E.P.
+- 1900: added real Sheriff "Hubbell, T. S." (the bad Frank-A.-Hubbell sheriff dup was removed without adding the real sheriff).
+- 1888: Kuchenbrecker -> Kuchenbecker.
+- 1974: added two still-missing reps (Martinez d13 R, Warren d21 D).
+- 1964 Swinburne double-coding merged to one record; removed 1 mislabeled 1964 prop (Amd1=dup of Amd9), 2 duplicate 1960 props, and 8 blank-artifact prop rows.
+Final: 1297 candidates, 155 props, structural audit clean (0 dups, 0 Pattern K, all Phase notes present).

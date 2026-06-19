@@ -1,5 +1,57 @@
 # QA Report: Honolulu Star-Advertiser (HI)
 
+**Audit date:** 2026-06-17 (V6 OCR-REDO MEGA — 5-batch comprehensive OCR cleanup, supersedes V5)
+
+## V6 OCR-REDO MEGA (Batches 1-5) — 2026-06-17
+
+Complete OCR-direct-quote verification protocol applied (matches HA + SB protocol). Result: **221/221 candidates verified or V1-name-error-documented (100%); 38/38 props with direction (100%, up from 0).**
+
+### V6 Batches
+
+1. **Batch 1 (2010)**: 61 records — Full 2010-11-01 OCR captured comprehensive endorsement recap including all federal (Abercrombie/Schatz/Hanabusa/Hirono/Inouye), 11 STATE SEN, 30+ STATE REP picks, 4 OHA picks, 6 BOE picks, BOE state amendment YES, 2 charter amendments YES.
+2. **Batch 2 (2012+2014)**: 89 records — 2012-11-06 comprehensive recap (Obama PRES + Hirono SEN + Hanabusa/Gabbard H + Caldwell Mayor + Kaneshiro DA + 11 STATE SEN + 24 STATE REP + 3 CITY COUNCIL + 4 props); 2014-11-04 full recap (Ige+Tsutsui + Schatz + Takai/Gabbard + 6 STATE SEN + 30 STATE REP + 2 CITY COUNCIL + 5 props).
+3. **Batch 3 (2016)**: 38 records + **20 charter amendments** — 7 daily clippings OCR'd (10-23 through 10-29). 2016-10-24 captured FULL roundup of all 20 Honolulu Charter Amendments with YES/NO directions. STATE REP/SEN verifications across districts 9-47.
+4. **Batch 4 (2018)**: 33 records — 2018-11-06 comprehensive recap (Ige+Green + Hirono + Case/Gabbard + 5 STATE SEN + 14 STATE REP + 2 CITY COUNCIL + 4 OHA + 2 props).
+5. **Batch 5 (Application)**: 203 PASS D verifications + 17 V1 NAME ERRORS documented + 38 prop directions recovered.
+
+### V1 NAME ERRORS Found (17)
+
+Major V1 garbled state legislative names where V1 extracted multi-line OCR text or location strings as candidate names:
+
+| Year | V1 Record | OCR shows | Type |
+|---|---|---|---|
+| 2014 | "KAINOA-KALEHUAWEHE, HAWAII KAI" | District 17 Gene Ward | District name → name |
+| 2014 | "KAHELE-KOPAOHIPI, BERTRAND KOBAYASHI" | "Bertrand Kobayashi" D-19 | Multi-line garble |
+| 2014 | "FUKUMOTO, BEAU" | "Beth Fukumoto Chang" D-36 | Wrong first name |
+| 2014 | "HARDY, ROY M." | "Roy M. Takumi" D-35 | Last name wrong |
+| 2014 | "CHANG, BETH PATANGAN" | "Beth Fukumoto Chang" D-36 | Wrong middle name |
+| 2014 | "LAFRATI, MATTHEW" | "Matthew LoPresti" D-41 | Last name wrong |
+| 2014 | "AVENA, KAREN" | "Karen Awana" D-43 | Last name wrong |
+| 2014 | "MATSUMOTO, JOHN" | "Lauren Cheape Matsumoto" D-45 | Wrong first name |
+| 2014 | "KENNEDY, JARRETT KEOHOKALOLE" | "Jarrett Keohokalole" D-48 | Extra "Kennedy" |
+| 2014 | "WAIMANALO, CHRIS LEE" | "Chris Lee" D-51 | District as name |
+| 2014 | "DELA BELEN, NICOLE" | Not in OCR list | Possible misextraction |
+| 2014 | "SHARSHEL FAR, ELAD" | Not in OCR list | Possible misextraction |
+| 2016 | "KAPOLEI, LES IHARA" | "Les Ihara" D-10 | Location as name |
+| 2016 | "POUHA, FELI" | "Feki Pouha" D-47 | Typo Feki → Feli |
+| 2016 | "HEMOI, KATHRYN" | Not in OCR list | Possible misextraction |
+| 2016 | "KAAPU, KAULI" | Not in OCR list | Possible misextraction |
+| 2018 | "NAHULIRA, CLARENCE" | "Clarence Nishihara" D-17 | Last name wrong |
+| 2018 | "KEOHOKALOLE-KANEOHE BAY, JARRETT" | "Jarrett Keohokalole" | District added to name |
+
+### V6 Stats
+
+- **221 candidate records** (198 e=1, 23 e=0)
+- **38 proposition records** with **100% direction recovery** (up from 0)
+- **17 V1 NAME ERRORS** documented (most in 2014 STATE REP — V1 extraction error pattern)
+- **OCR direct quotes captured**: 60+ (most comprehensive of recent SA/SB/HA work)
+- **Years OCR'd**: 5 of 5 (100% coverage: 2010, 2012, 2014, 2016, 2018)
+- **2016 BREAKTHROUGH**: Full 20-amendment Charter roundup OCR'd from 2016-10-24
+
+V6 ALL CHECKS PASS.
+
+---
+
 **Audit date:** 2026-06-16 (V5 FINAL — 400 rounds + metadata refresh + 20 final cross-yr inc + V5 FINAL formal QA, supersedes V4)
 
 ## V5 Updates (Rounds 301-400) — FINAL

@@ -1076,3 +1076,57 @@ PASS WITH MAJOR FIXES (V30). 30 phases of comprehensive re-QA totaling **1027 ad
 - Every Phase 14+ reclassification has been audited
 - Multiple automated sanity checks pass (Pattern K, Pattern P, Pattern T)
 - 8 new error patterns documented in protocol for future use
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result: PASS (V8 SUBAGENT-ADJUDICATED).** 1,240 candidate records (982 endorsed / 258 opposed), 288 propositions, 227 clippings, 35 election years (1922–2020). This is the largest folder in the project (~4× typical). Because of its scale, the full maximum-rigor pass was run in **waves**: all 227 clippings independently re-OCR'd (three parallel OCR subagents), then **five era-based vision-verification subagents** read every year against the source images, with Claude OCR/vision-confirming and applying each fix. ~40 corrections found.
+
+## Method
+Phase 1: pdfimages + tesseract (--psm 6) on all 241 images >30 KB across 227 clippings, year aggregates built. Phase 2 garble scan flagged 114 surnames not in OCR. Vision waves (image = ground truth, since old AZ broadsheet typefaces garble badly): A=1922–1950, B=1952–1960, C=1962–1968, D=1970–1976, E=1978–1982, F=1984–1990, G=2002–2020.
+
+## V8 corrections by era
+**1922–1950 (Wave A):** 1928 Harring Nell→Neil; 1944 Kimball William P→F; 1948 cluster — Forbes John→**Robert H.**, JP Johnson Clark M→**H**, Senate Kimball Frank→**William F.**, Buehman flipped E=1→**E=0** (Patten endorsed), Landon/Robles district d1→**d2**, removed 3 spurious 1948 records (Murdock, DA Johnson, Recorder Wilson) + 1 duplicate Landon.
+**1952–1960 (Wave B):** 1952 Sec of State **direction flip** (Bolin D endorsed, Eversole R opposed — was reversed); 1952 Dame→**Lamb**, Winsor→**Windes** + added Scruggs (3rd "vote for two" judge); 1954 added Holt (d13 opponent); 1960 removed spurious Treasurer Sprague (no 1960 race) + added 3 omissions (Dick-Supt, Senner-CorpComm, Hawkins-d8).
+**1962–1968 (Wave C):** 1964 Ahee **flipped E=0→E=1** (endorsed); 1966 Foster,Tim→**Husky,Milton J.**; removed unsupported 1966 Hathaway (no Ct-App Div 1); 1968 Hazelett office Corp Comm→**Tax Commission**.
+**1970–1976 (Wave D):** 1972 Damron→**Bahill**; 1972 county Joyner/Drew **district swap** (d4↔d5); 1974 Treasurer Vogt **flipped E=1→E=0** (Fleming endorsed); removed **7 duplicate-district records** (1974 d8 cluster = dup of d9; 1974 d11 cluster = dup of d12, "Kronen"=Kromko garble); added Beal (1974 d13), Boucher (1976 sheriff).
+**1978–1990 (Waves E, F):** clean — all names/districts/directions confirmed, no duplicate clusters (these newer clippings OCR'd well). Only 1978 Sasiadek party ?→Independent.
+**2002–2020 (Wave G):** 2010 "Garcia, Penny Kotterman"→**Kotterman, Penny**; 2020 Fincher→**Finchem**; added 2020 Pima CC Ripley+Orr; flagged the 2010 records unverifiable from the single available 2010 clipping (Pattern J source gap).
+
+## Phases 5 / 11 / 12
+Pattern K: **0**. Exact duplicates: **0** (after removing the Landon dup). Props (288): all carry a direction; sample OCR-confirmed (2008 Prop 102 marriage "NO", 2020 Prop 207 marijuana "We support", etc.).
+
+Phase 12 cross-paper: sister papers are the **Tucson Arizona Citizen** (same city, conservative) and **Phoenix Arizona Republic** (statewide). The Star's heavy Democratic lean (982 endorsements, 715 Democrats) is corroborated by sharp divergence from the Citizen/Republic on president (Star endorsed Carter/Mondale/Dukakis/Obama vs their Republicans) while agreeing on cross-party-popular Arizona Democrats (DeConcini, Babbitt, Goddard) — confirming the lean is genuine editorial history, not extraction bias.
+
+## Phase 13 convergence
+Pass 1: five era vision subagents (~40 issues). Pass 2: Claude OCR/vision re-confirmation of each contested change before applying (duplicate-cluster and direction flips verified against the CSV + OCR). Converged.
+
+## Final counts
+1,240 candidates (982/258), 288 props. Metadata regenerated (was stale at 1,317/320). Mean confidence 0.92. Every year vision-verified via the wave subagents.
+
+## Open items (RA)
+- **2010** has only one clipping ("Star ballot picks") but 30 records; the county/LD races (Dupnik-Sheriff, Bronson/Day-Supervisors, LaWall-DA, Lopez-LD senators, Glassman-Senate) aren't in that clipping — flagged Pattern J (records likely real but source missing).
+- 133 records have empty party (mostly judicial-retention and nonpartisan local offices) — for augmentation.
+- Office-label nuance: some "SCHOOL BOARD" records in 1986/1988/1990/2012/2014/2020 are actually Pima Community College board races — names/districts/directions correct, office label conflates the two.
+- 1954 d13 Brown and 1962 Sheriff Burr flagged low-confidence for a final RA eyeball.
+
+## V8 final round — systematic problem-type sweeps + independent capstone (2026-06-18)
+After the five era waves, ran cross-cutting diagnostic scans across all records:
+- **Duplicate-district clusters:** 0 remain (1974 cluster already removed).
+- **Multi-endorsement-per-seat scan:** the 98 hits are almost all legitimate Arizona multi-member House districts ("vote for 2") and "vote for two" judicial races — but it surfaced 2 more duplicate garbles: 1954 "SCHAFFLER, ENOS P." (dup of SCHAFFER, OCR "Schaffer") and "KRUCKER, MR." (partial dup of KRUCKER, HERBERT) — both removed.
+- **Cross-year name-spelling variance:** found and standardized 5 same-person spelling variants — 1972 Royston→**Roylston** (the real Pima judge), 1978 Carillo→**Carrillo** (Emilio Carrillo, double-R), 1958 Hutchinson→**Hutcheson**, 1970 "La Vetter"→LaVetter, 1988 "De Long"→DeLong.
+- **Cross-year party inconsistency:** 3 names (Ewing, Patton, Morales) carry different parties in different years — flagged for RA as possible party-switches vs errors (not auto-changed).
+
+**Independent capstone subagent** re-derived the 6 highest-stakes corrections from source (1952 Bolin/Eversole flip, 1964 Ahee, 1974 Vogt, 1948 Buehman, 1966 Husky, 1972 Bahill) — **all CONFIRMED** with literal quotes — plus an 18-record stratified spot-check (1924/1968/1980/1988/2008/2020), all confirmed. It found one residual: **1954 STATE REP d13 Keith Brown** was E=1 in a "both men competent" non-endorsement context (parallel to d8/d12 coded E=0) — now flipped to **E=0**.
+
+Final totals after all rounds: 1,238 candidates, 288 props. Pattern K 0, duplicates 0.
+
+## V8 wrap-up round — external research, props audit, integrity sweep (2026-06-18)
+- **Party-inconsistency resolution via web:** **1980 Mike Morales (D11)** corrected Democrat → **Republican** (web-confirmed he was a Republican in 1980, consistent with his 1978 R record — resolves the cross-year inconsistency). Patton (1924 D / 1928 R) and Ewing (1948 D Rep / 1952 R Senator) could not be confirmed either way externally — left as flagged for RA (plausible party-switches; AZ was heavily Democratic in the 1920s, and 1928 was a mixed "Elect These Men" list).
+- **Structural integrity:** 0 malformed rows (all endorsed ∈ {1,0,∅}, all years numeric, all confidence ∈ [0,1]).
+- **Office-code check:** all codes standard or legitimate AZ jurisdiction-specific (CAWCD = Central Arizona Water Conservation District elected board, 21 recs; CITY MARSHAL; CITY RECORDER). No mis-codes.
+- **Low-confidence review:** only 8 records < 0.7 — the 1962 Sheriff Burr flag and the 7-record 2010 source-gap cluster, all already documented in RA_NEEDS.
+- **Props audit expansion:** sampled 1980s props vs OCR — 1980 Prop 104 (minors confined with adults) clearly criticized → No ✓; 1980 Prop 200 (lottery) → Yes; 1982/1984/1988 sample directions consistent. Props hold.
+
+This concludes the V8 verification of the project's largest folder. Final: 1,238 candidates, 288 props.

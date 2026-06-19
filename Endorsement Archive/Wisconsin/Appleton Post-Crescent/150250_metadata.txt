@@ -1,25 +1,40 @@
-Newspaper Name: Appleton Post-Crescent
-Alternative Names: The Post-Crescent
-Years Published: 1853-present (current title since 1920)
-Newspaper ID number: 150250
-State: WI (Appleton / Outagamie County / Fox Valley region)
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Appleton Post-Crescent
+Newspaper ID: 150250
+State: WI
 Number of clippings: 94
-Endorsement data years: 1960, 1962, 1964, 1966, 1968, 1972, 1978, 1980, 1982, 1984, 1986, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014
+Endorsement data years: 1960-2014
+Total candidate records: 301 (176 endorsed=1)
+Total proposition records: 14 (14 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 297 (174 endorsed, 123 opposed)
-Total proposition records: 14 (8 YES, 6 NO)
+Confidence statistics (all records):
+  Mean confidence: 0.938
+  Low-confidence records (< 0.7): 0
 
---- CONFIDENCE SCORES ---
-Min: 0.60
-Mean: 0.93
-Max: 0.95
+Top offices (top 15):
+  STATE REP: 101
+  H: 60
+  STATE SENATOR: 33
+  GOVERNOR: 24
+  SENATOR: 19
+  PRESIDENT: 16
+  SEC OF STATE: 12
+  TREASURER: 12
+  ATTORNEY GENERAL: 10
+  SHERIFF: 5
+  VICE PRESIDENT: 3
+  LT GOVERNOR: 3
+  DA/PROSECUTOR: 3
 
---- NOTES ---
-Daily covering Outagamie County and the Fox Valley region of northeast Wisconsin
-(Appleton, Neenah, Menasha, Kaukauna). Currently Gannett owned.
+Party distribution:
+  Republican: 154
+  Democrat: 132
+  Independent: 4
+  Libertarian: 2
+  Constitution: 2
+  American Independent: 1
+  U.S. Taxpayers Party: 1
 
-Format evolution: 1960s-1980s comprehensive editorials; 2000-2006 endorsement
-grid/box format; 2008+ shifted to one-race-per-clipping individual editorials.
-
-Compiled: 2026-05-23
+(metadata regenerated post-V8 deep verification)

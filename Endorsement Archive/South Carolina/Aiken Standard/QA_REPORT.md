@@ -119,3 +119,49 @@ Original metadata file used an older non-standard format with "REVIEW" placehold
 ## Recommendation
 
 PASS WITH FIXES. The re-extracted data is substantively accurate and ready for compilation. One known data gap remains (1972 Hour of Decision candidates) which is documented for future re-processing if a better scan becomes available. This is a worked example of the kind of folder where the original automated extraction silently produced low-quality data that passed initial QA but failed careful human spot-checking.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result:** PASS WITH MAJOR FIXES. 11 candidate corrections, 9 incumbency-column standardizations, 14 candidates added, 1 prop added. Independent-subagent verified.
+
+## Method
+Re-OCR'd all 6 clippings (pdfimages + tesseract; 600 DPI fallback on the 1952 clipping). The fresh OCR — especially via 600 DPI — exposed multiple V1 errors that survived the prior re-QA (2026-05-26), plus a large V1 omission. An independent subagent re-read 1972/1974/1976 with no anchoring and confirmed every finding.
+
+## Major omission recovered: the entire 1972 slate
+V1 captured only the 1972 mini-bottle proposition. The 1972 clipping (19721106) actually endorsed a full Aiken County Board of Commissioners slate plus the legislative delegation, the sheriff, and a second proposition. Added 12 candidates and 1 prop:
+- Board of Commissioners: Tewkesbury (chair), Mrs. G.R. Price, E. Anthony Bridges (Area 2), Carrol H. Warner (Area 4), Wade M. Brodie (at-large), Ralph F. Cullinan (at-large). Area 3 (Weston vs Murphy) — paper made NO recommendation (correctly excluded).
+- Legislative delegation (incumbents, "re-elect them"): State Sens. McMillan, Laughlin, Dooley; Reps. Marshall Cain, Zack Fulmer.
+- Sheriff Paul D. Grant (re-elect).
+- Proposition: unified judicial system ("We favor an affirmative vote on both").
+
+## V1 name/district errors corrected (survived prior re-QA)
+A systematic "8→6" district-digit misread plus several wrong names:
+- **1974 H "Barber, M. Judson" dist 64 → "Busbee, M. Judson" dist 86** (prior re-QA had mis-corrected BRANDY→BARBER; true name is BUSBEE).
+- **1974 H Cain dist 65 → 85.**
+- **1974 H District 84 → added James H. Goodman** (V1 missed).
+- **1976 "Cullins, Ralph J." → "Cullinan, Ralph F."**
+- **1976 "Pinckard, Marjia B." (Treasurer) → "Plunkett, Margie H."**
+- **1976 "Brennan, Virginia B." (Register of Mesne Conveyances) → "Ergle, Virginia R."**
+- **1976 "Langston, Shirley" (Auditor) → "Langdon, Shirley."**
+- **1976 "Gee, Walter F. Jr" dist 6 → "McGee, Homer L." dist 6**, and **added "Guy, Walter C. Jr" dist 8** — the prior re-QA had wrongly merged two distinct District 6 (McGee) and District 8 (Guy) races into one fictitious record.
+- **1976 H "Dunkin" dist 65 → "Dunkin, Joe W." dist 85.**
+- **1976 "Pound" → "Pound, John H."** (added first name).
+- **1974 "Edmonds, Cleve" → "Edmunds, Cleve"** (OCR x3).
+
+## Incumbency-column standardization (Phase 5)
+9 nonpartisan (party-not-stated) incumbents had incumbency coded in `d_inc`; moved to `o_inc` (protocol-correct for unknown party). All new 1972/1976 incumbents also use `o_inc`.
+
+## Props (Phase 11) — all 4 OCR-confirmed
+1972 mini-bottle (YES), 1972 unified judicial system (YES, added), 1974 hospital bond (OPPOSED — "OPPOSED TO BONDS"), 1974 Horse Creek wastewater (YES — "We strongly urge a YES vote").
+
+## Phase 12: Cross-paper
+N/A. Other SC folders exist (Anderson, Beaufort, Columbia State/Record, Greenville, Myrtle Beach, Rock Hill, Walterboro) but none share Aiken's market. No sister paper.
+
+## Phase 13: Multi-pass
+- Pass 1: 11 fixes + 9 inc-col + 14 added + 1 prop.
+- Pass 2: 0 new issues; only the OCR-garbled "Pettigrew/Polatty" surname remains unmatched (flagged NEEDS_RA). Converged.
+
+## OCR coverage
+All 6 clippings legible. 1952 (Eisenhower-only) needed 600 DPI. No dead-ends.

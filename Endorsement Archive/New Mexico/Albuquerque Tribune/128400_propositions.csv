@@ -1,214 +1,212 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence
-NM,Albuquerque Tribune,128400,1946,NM,AMENDMENT,1,STATE CONSTITUTIONAL AMENDMENT NO. 1 - RESTORE 60-DAY LEGISLATIVE SESSION REPLACING SPLIT SESSION,1,Paper believes amendment should pass; split session has been ineffective and costly.,0.9
-NM,Albuquerque Tribune,128400,1946,NM,AMENDMENT,2,STATE CONSTITUTIONAL AMENDMENT NO. 2 - PROPERTY WITH TAX LIEN ACQUIRED BY EXEMPT ORGANIZATIONS NOT EXEMPT FROM LIEN/TAXES,1,Tax obligations should be discharged before newly acquired property becomes exempt.,0.9
-NM,Albuquerque Tribune,128400,1948,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3 - 'RIGHT TO WORK' / PROHIBIT CLOSED AND UNION SHOPS,,PAPER PRESENTED BOTH SIDES; ENDORSEMENT DIRECTION NOT FULLY CAPTURED IN OCR.,0.7
-NM,Albuquerque Tribune,128400,1954,NM,BOND,BERN-COURTHOUSE,"BERNALILLO COUNTY BOND - $2,000,000 FOR NEW COURT HOUSE",1,Best solution is to vote bonds and trust commission to spend wisely; we need more court house space.,0.9
-NM,Albuquerque Tribune,128400,1954,NM,BOND,STATE,"STATE BOND ISSUE - $4,500,000 FOR NEW BUILDINGS AT STATE INSTITUTIONS (PRIMARILY HIGHER EDUCATION)",1,Paper thinks the bond issue should be approved.,0.92
-NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2,,OCR HEADER ONLY; POSITION NOT CAPTURED.,0.6
-NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - PERMIT LEGISLATURE TO PASS ABSENTEE VOTING LAW,1,Hundreds of citizens in armed forces or away from home cannot vote; this should be corrected.,0.92
-NM,Albuquerque Tribune,128400,1958,NM,TAX,BERN-HOSPITAL-LEVY,BERNALILLO COUNTY 3.25 MILL TAX LEVY FOR COUNTY-INDIAN HOSPITAL,1,Without the levy hospital would have to close to all except Indian patients; urge voters to support the levy.,0.92
-NM,Albuquerque Tribune,128400,1960,NM,BOND,STATE-EDU-1960,"NM STATE $8 MILLION BOND FOR HIGHER EDUCATION (BUILDINGS, REMODELING, EQUIPMENT)",1,,0.92
-NM,Albuquerque Tribune,128400,1960,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1 - ELECT HALF OF STATE SENATE EVERY 4 YEARS (CONTINUITY),1,"'WHILE NOT VITAL, APPEARS TO HAVE SOME MERIT'.",0.92
-NM,Albuquerque Tribune,128400,1960,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2 - ANNUAL LEGISLATIVE SESSIONS (60-DAY AND 30-DAY ALTERNATING),0,PAPER OPPOSES; 'PRESENT 60-DAY SESSION EACH TWO YEARS IS SUFFICIENT'.,0.92
-NM,Albuquerque Tribune,128400,1960,NM,TAX,BERN-HOSPITAL,BERNALILLO COUNTY-INDIAN HOSPITAL 4.5-MILL LEVY (FOUR YEARS),1,,0.92
-NM,Albuquerque Tribune,128400,1962,NM,AMENDMENT,13,NM CONSTITUTIONAL AMENDMENT 13 - JOINT VOTING FOR GOVERNOR AND LIEUTENANT GOVERNOR,0,Paper favors defeat of the amendment; voters should have opportunity to choose lt. gov. independently.,0.92
-NM,Albuquerque Tribune,128400,1964,NM,TAX,,TWO LEVIES TO FINANCE OPERATION OF TVI (TECHNICAL VOCATIONAL INSTITUTE) AND COUNTY-INDIAN HOSPITAL,1,VOTE FOR THE LEVIES; CANNOT AFFORD NOT TO MAKE THESE INVESTMENTS,0.95
-NM,Albuquerque Tribune,128400,1964,NM,REFERENDUM,,BURY THE PRE-PRIMARY (VOTING MACHINE TUESDAY YES OR NO),0,WE THINK THE UNFORTUNATE PRE-PRIMARY CONVENTION LAW BE OVERLOOKED; PUSH RIGHT LEVER TO BURY HYBRID; LET'S GIVE THE WORDS FOR REPEAL,0.7
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,1,LEGALIZE STATE LAND SALES MADE PRIOR TO 1954 UNDER PROCEDURES HELD UNCONSTITUTIONAL BY STATE SUPREME COURT IN 1956,1,AMENDMENT SHOULD PASS; WOULD PREVENT INJUSTICE TO PEOPLE WHO BOUGHT LAND IN GOOD FAITH,0.95
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,10,"ALLOWS LEGISLATURE TO SET SALARY OF CORPORATION COMMISSIONERS, REQUIRES PERMISSION FROM COMMISSION BEFORE A UTILITY OR COMMON CARRIER CAN CHANGE ITS RATES",1,TAKES BURDEN OF PROOF OFF UTILITY; WOULD DO AWAY WITH PRESENT SUBTERFUGE OF INCREASING COMMISSIONER SALARIES BY PAYING THEM FOR SERVICE ON SOME OTHER BOARD; WE VOTE YES,0.9
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,2,"30-DAY SESSION OF LEGISLATURE IN EVEN-NUMBERED YEARS LIMITED TO ACTION ON FINANCES, SPECIAL MESSAGES BY GOVERNOR",1,WE FAVOR ITS PASSAGE,0.95
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,3,CHANGES THE NUMBER OF NEW MEXICO WESTERN COLLEGE TRUSTEES,1,WE VOTE YES,0.9
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,4,ALLOW LOS ALAMOS COUNTY TO FORM CITY-COUNTY GOVERNMENT,1,PERMITTED TO SET UP CITY-TYPE GOVERNMENT IF CITIZENS DESIRE,0.9
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,5,ABSENTEE VOTING (THREE-QUARTERS REQUIREMENT FOR PASSAGE),1,LITTLE CHANCE OF PASSING DUE TO 75% REQUIREMENT BUT WE FAVOR IT; VOTE YES,0.85
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,6,ALLOWS COUNTIES TO BORROW MONEY FOR REMODELING AND MAKING ADDITIONS TO PUBLIC BUILDINGS INSTEAD OF RESTRICTING BORROWING TO NEW CONSTRUCTION,1,AMENDMENT IS DESIRABLE,0.9
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,7,"ALLOW MUNICIPALITIES TO VOTE ON BONDS FOR SPECIAL ELECTIONS, PERMITS NONRESIDENT PROPERTY OWNERS TO VOTE",1,ENDORSED,0.85
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,8,PERMIT SIMPLIFYING STATE TAX LAWS BY USING SAME DEFINITIONS AS FEDERAL LAWS,1,THIS SEEMS DESIRABLE,0.9
-NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,9,CREATES A CHIEF ADMINISTRATOR FOR STATE HIGHWAY DEPARTMENT TO BE APPOINTED BY GOVERNOR,0,AMENDMENT VESTS TOO MUCH POWER IN HANDS OF AN ADMINISTRATOR WHO IS NOT REQUIRED TO BE AN ENGINEER; WE DON'T THINK AMENDMENT DOES THE JOB PROPERLY,0.9
-NM,Albuquerque Tribune,128400,1964,NM,BOND,STATE-EDUC,STATE BOND ISSUE - $8 MILLION FOR HIGHER EDUCATION BUILDINGS,1,Universities and colleges suffering from growing pains; bond issue should be approved.,0.92
-NM,Albuquerque Tribune,128400,1966,NM,BOND,STATE-EDU-1966,NM STATE $42.5M BOND OVER 10 YEARS FOR STATE COLLEGES AND UNIVERSITIES BUILDING/REMODELING,1,,0.92
-NM,Albuquerque Tribune,128400,1966,NM,BOND,ABQ-FLOOD,ALBUQUERQUE $3.5 MILLION BOND - NORTH DITCH FLOOD CONTROL PROGRAM,1,,0.92
-NM,Albuquerque Tribune,128400,1966,NM,AMENDMENT,10,REPLACES JUSTICE OF THE PEACE COURTS WITH NEW MAGISTRATE COURTS,1,URGING VOTE IN FAVOR,0.95
-NM,Albuquerque Tribune,128400,1968,NM,TAX,BERN-MEDICAL,BERNALILLO COUNTY MEDICAL CENTER 4.5-MILL TAX CONTINUATION,1,,0.92
-NM,Albuquerque Tribune,128400,1968,NM,BALLOT MEASURE,CONST-CONV,CALL CONSTITUTIONAL CONVENTION TO REVISE OR AMEND STATE CONSTITUTION,1,YES vote for calling convention,0.85
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1,0,,0.92
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2,0,,0.92
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3,1,,0.92
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT NO. 4,0,,0.92
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT NO. 5,0,,0.92
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT NO. 6,0,,0.92
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT NO. 7,0,,0.92
-NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,8,NM CONSTITUTIONAL AMENDMENT NO. 8,0,,0.92
-NM,Albuquerque Tribune,128400,1970,NM,BALLOT MEASURE,ABQ-FLUORIDATION,ABQ CITY FLUORIDATION ORDINANCE REFERENDUM,1,Fluoridation Ordinance - For,0.9
-NM,Albuquerque Tribune,128400,1972,NM,BOND,,STATE LIBRARY BONDS ACT,1,FOR,1.0
-NM,Albuquerque Tribune,128400,1972,NM,BOND,,COUNTY MEDICAL CENTER BONDS,1,FOR,1.0
-NM,Albuquerque Tribune,128400,1972,NM,REFERENDUM,,SHOULD COUNTY ZONING BE CONTINUED,1,YES,1.0
-NM,Albuquerque Tribune,128400,1972,NM,AMENDMENT,1,WOMEN'S RIGHTS,1,FOR,1.0
-NM,Albuquerque Tribune,128400,1972,NM,AMENDMENT,2,COMMERCIAL CHURCH PROPERTY TAX,1,FOR,1.0
-NM,Albuquerque Tribune,128400,1972,NM,AMENDMENT,3,SIX-MAN JURY,1,FOR,1.0
-NM,Albuquerque Tribune,128400,1976,NM,TAX,BERN-MEDCENTER,BERNALILLO COUNTY MEDICAL CENTER LEVY,1,Yes,0.92
-NM,Albuquerque Tribune,128400,1976,NM,TAX,MENTAL-HEALTH,MENTAL HEALTH AND RETARDATION LEVY,1,Yes,0.9
-NM,Albuquerque Tribune,128400,1976,NM,BOND,STATE-EDUC,EDUCATIONAL INSTITUTION IMPROVEMENT BOND,1,Yes,0.92
-NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1 - JUDICIAL DISCIPLINE,0,,0.92
-NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2 - DISTRICT JUDGE PRO TEMPORE,0,,0.92
-NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3 - PROPERTY TAX ABEYANCE,0,,0.92
-NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT NO. 4 - LEGISLATIVE PAY,0,,0.92
-NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-1,BERNALILLO COUNTY BOND NO. 1 - COUNTY OFFICE BUILDING,1,VOTE YES (RECONFIRMED FROM CLIPPING - WAS INCORRECTLY 0).,0.92
-NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-2,BERNALILLO COUNTY BOND NO. 2 - JUVENILE DETENTION HOME,1,,0.92
-NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-3,BERNALILLO COUNTY BOND NO. 3 - COURTHOUSE REMODELING,1,,0.92
-NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-4,BERNALILLO COUNTY BOND NO. 4 - AMBULATORY CARE CENTER,1,,0.92
-NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-5,BERNALILLO COUNTY BOND NO. 5 - ALCOHOLISM TREATMENT CENTER,1,,0.92
-NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-6,BERNALILLO COUNTY BOND NO. 6 - OUTPATIENT HEALTH CLINIC,1,,0.92
-NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1 - MERIT SELECTION OF DISTRICT AND APPELLATE JUDGES,1,,0.92
-NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2 - REMOVE LEGISLATURE'S ABILITY TO SPEND FROM SEVERANCE TAX PERMANENT FUND,1,,0.92
-NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3 - INCOME TAX EXEMPTION FOR NATIONAL GUARD MEMBERS,0,,0.92
-NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT NO. 4 - UNLIMITED 2-YEAR TERMS FOR COUNTY SHERIFFS,1,,0.92
-NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT NO. 5 - LEGISLATIVE PER-DIEM AND MILEAGE INCREASE,1,,0.92
-NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT NO. 6 - YELLOW PAGES IN TELEPHONE RATE BASE,1,,0.92
-NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT NO. 7 - EXPAND COUNTY DEBT FOR WATER/SEWER/LANDFILL/AIRPORT,0,,0.92
-NM,Albuquerque Tribune,128400,1982,NM,REFERENDUM,SUNDAY-LIQUOR,SUNDAY BY-THE-DRINK LIQUOR SALES IN LOCAL OPTION DISTRICTS,1,,0.92
-NM,Albuquerque Tribune,128400,1984,NM,BALLOT MEASURE,ALL-12,ALL 12 BALLOT QUESTIONS,1,Pull the 'for' (in favor of) lever on all 12 questions,0.85
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - SCHOOL BOARD RECALL,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,10,NM CONSTITUTIONAL AMENDMENT 10 - WORKMEN'S COMP,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,11,NM CONSTITUTIONAL AMENDMENT 11 - MORE TERMS STATE OFFICERS,0,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT 2 - LIMIT GUN CONTROL,0,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT 3 - DISTRICTED ELECTIONS,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT 4 - CREDIT UNIONS,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT 5 - POLICE SEIZURES,0,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT 6 - GUBERNATORIAL APPOINTMENTS,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT 7 - EXPAND STATE BOARD,0,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,8,NM CONSTITUTIONAL AMENDMENT 8 - EXPAND UNM REGENTS,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,9,NM CONSTITUTIONAL AMENDMENT 9 - MORE TERMS COUNTY OFFICERS,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,BOND,BERN-COURTHOUSE,$11M BERNALILLO COUNTY COURTHOUSE BOND,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,BOND,BERN-LIB,$2.5M BERNALILLO COUNTY LIBRARY BOND,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,BOND,BERN-ROADS,$14.4M BERNALILLO COUNTY ROADS BOND,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,BOND,BERN-SPORTS,$800K BERNALILLO COUNTY SPORTS CENTER BOND,1,,0.92
-NM,Albuquerque Tribune,128400,1986,NM,BOND,STATE-EDU-1986,$35M STATE EDUCATION BOND,1,,0.92
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT 5 - RESTRICT BAIL FOR CONVICTS (DENA LYNN GORE AMENDMENT),0,,0.92
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT 7 - COUNTY COMMISSIONS (TERMS OF OFFICE),1,,0.92
-NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-COURTHOUSE,BERNALILLO COUNTY $19.2M COURTHOUSE BOND,0,OPPOSED; 'CART BEFORE THE HORSE' — VOTERS ASKED TO APPROVE BEFORE DESIGN COMPLETED.,0.92
-NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-ROADS,BERNALILLO COUNTY $12.5M ROAD CONSTRUCTION/REPAIR BOND,1,,0.92
-NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-1,STATE BOND 1 - $50.6M EDUCATION PROJECTS,1,,0.92
-NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-2,STATE BOND 2 - $425K WILDLIFE PROTECTION,1,,0.92
-NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-3,STATE BOND 3 - $1.2M SENIOR CITIZENS' CENTERS,1,,0.92
-NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-4,STATE BOND 4 - $1.5M LIBRARIES (BOOKS/AV MATERIALS),1,,0.92
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-1,LEGISLATIVE RETIREMENT,0,VOTE AGAINST.,0.88
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-3,INCREASE TAX EXEMPTION,0,VOTE AGAINST (RECONFIRMED FROM CLIPPING - WAS BLANK).,0.92
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-6,APPOINT JUDGES,0,VOTE AGAINST.,0.88
-NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - INVESTMENTS,1,For,0.88
-NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT 2 - HIGH-TECH DEBT,0,Against,0.88
-NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT 3 - RECALL,1,For,0.88
-NM,Albuquerque Tribune,128400,1996,NM,BOND,FLOOD,FLOOD CONTROL BONDS,1,For,0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,JUV-CORR,JUVENILE CORRECTIONS BONDS,1,For,0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,PARKS,PARKS BONDS,1,For,0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,PUB-HEALTH,PUBLIC HEALTH BONDS,1,For,0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,SHERIFF,SHERIFF BONDS,1,For,0.8
-NM,Albuquerque Tribune,128400,1996,NM,BALLOT MEASURE,SOUTH-VALLEY,SOUTH VALLEY COUNTY,0,Against,0.7
-NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-1,ROADS,1,BERNALILLO COUNTY BOND — YES.,0.9
-NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-2,"WATER, SEWERS",1,BERNALILLO COUNTY BOND — YES.,0.9
-NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-3,LIBRARIES,1,BERNALILLO COUNTY BOND — YES.,0.9
-NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-4,PARKS,1,BERNALILLO COUNTY BOND — YES.,0.9
-NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-5,PUBLIC SAFETY,1,BERNALILLO COUNTY BOND — YES.,0.9
-NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-6,BUILDINGS,1,BERNALILLO COUNTY BOND — YES.,0.9
-NM,Albuquerque Tribune,128400,2000,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - TOWARD CITY-COUNTY UNIFICATION,1,For,0.9
-NM,Albuquerque Tribune,128400,2000,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT 2 - ELIMINATE TERM LIMITS FOR COUNTY OFFICIALS,1,For,0.9
-NM,Albuquerque Tribune,128400,2000,NM,BOND,AMAFCA,ALBUQUERQUE METROPOLITAN ARROYO FLOOD CONTROL AUTHORITY BOND,1,For,0.9
-NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-1,BERNALILLO COUNTY BOND 1 - ROADS,1,For,0.92
-NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-2,BERNALILLO COUNTY BOND 2 - LIBRARIES,1,For,0.92
-NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-3,BERNALILLO COUNTY BOND 3 - PARKS,1,For,0.92
-NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-4,BERNALILLO COUNTY BOND 4 - PUBLIC SAFETY,1,For,0.92
-NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-5,BERNALILLO COUNTY BOND 5 - PUBLIC HEALTH,1,For,0.92
-NM,Albuquerque Tribune,128400,2000,NM,TAX,OPEN-SPACE,BERNALILLO COUNTY OPEN SPACE MILL LEVY,1,For,0.9
-NM,Albuquerque Tribune,128400,2000,NM,BOND,STATE-A,NM STATE BOND A - SENIORS,1,For,0.92
-NM,Albuquerque Tribune,128400,2000,NM,TAX,UNIV-HOSP,UNIVERSITY HOSPITAL MILL LEVY,1,For,0.9
-NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - VETERANS TAX EXEMPTION,1,For,0.92
-NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT 2 - VOTER QUALIFICATIONS,1,For,0.92
-NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT 3 - JUDICIAL DISTRICTS,1,For,0.92
-NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT 4 - ALIEN PROPERTY OWNERSHIP,1,For,0.92
-NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT 5 - DISABLED VETERANS TAX BREAK,1,For,0.92
-NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT 6 - AFFORDABLE HOUSING,1,For,0.92
-NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT 7 - CESAR CHAVEZ HOLIDAY,1,For,0.92
-NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,8,NM CONSTITUTIONAL AMENDMENT 8 - VIETNAM VET SCHOLARSHIP,1,For,0.92
-NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,9,NM CONSTITUTIONAL AMENDMENT 9 - TRANSPORTATION COMMISSION,1,For,0.92
-NM,Albuquerque Tribune,128400,2002,NM,BOND,ALL-BERN,BERNALILLO COUNTY BONDS - ALL,1,Vote for all bonds,0.85
-NM,Albuquerque Tribune,128400,2002,NM,BOND,ALL-STATE,STATE BONDS - ALL,1,Vote for all bonds,0.85
-NM,Albuquerque Tribune,128400,2004,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT 3 - CITY RUNOFF ELECTIONS,1,for,0.9
-NM,Albuquerque Tribune,128400,2004,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT 4 - VETERANS' TAX EXEMPTION,1,for,0.9
-NM,Albuquerque Tribune,128400,2004,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT 5 - N.M. SCHOOL FOR THE BLIND,1,for,0.9
-NM,Albuquerque Tribune,128400,2004,NM,BALLOT MEASURE,ABQ-CHARTER,ALBUQUERQUE CHARTER AMENDMENT - CITY COUNCIL PAY RAISES,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,ABQ-CONSTRUCTION,ALBUQUERQUE $20 MILLION BOND FOR CONSTRUCTION,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BALLOT MEASURE,ABQ-UNIFICATION,ALBUQUERQUE-BERNALILLO COUNTY UNIFICATION,1,For,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-1,BERNALILLO COUNTY BOND 1 - $1.5 MILLION FOR LIBRARIES,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-2,"BERNALILLO COUNTY BOND 2 - $680,000 FOR PUBLIC SAFETY",1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-3,"BERNALILLO COUNTY BOND 3 - $2.3 MILLION FOR PARKS, RECREATION",1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-4,"BERNALILLO COUNTY BOND 4 - $200,000 FOR BUILDINGS",1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-5,BERNALILLO COUNTY BOND 5 - $3.7 MILLION FOR ROADS,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-6,BERNALILLO COUNTY BOND 6 - $7.6 MILLION FOR STORM SEWERS,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-B,STATEWIDE BOND B - $94.9 MILLION FOR HIGHER ED,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-C,STATEWIDE BOND C - $16.3 MILLION FOR LIBRARIES,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-D,STATEWIDE BOND D - $5.1 MILLION FOR KINDERGARTENS,1,for,0.85
-NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-A,NM Statewide Bond A 2004 - $6.1 million for seniors,1,for [QA 2026-05-26: renamed STATE-SENIORS->STATE-A; editorial lists this as Bond A],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,1,NM Const Amendment 1 1994 - School boards,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,2,NM Const Amendment 2 1994 - Grand jury,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,3,NM Const Amendment 3 1994 - Student Regents,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,4,NM Const Amendment 4 1994 - Highway Commission,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,5,NM Const Amendment 5 1994 - Land donations,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,6,NM Const Amendment 6 1994 - County borrowing,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,7,NM Const Amendment 7 1994 - State Hospital,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,8,NM Const Amendment 8 1994 - State lottery,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,9,NM Const Amendment 9 1994 - Land donations,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,10,NM Const Amendment 10 1994 - Judicial retention,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,11,NM Const Amendment 11 1994 - Voting changes,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,12,NM Const Amendment 12 1994 - Severance fund,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,13,NM Const Amendment 13 1994 - Land grant fund,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,14,NM Const Amendment 14 1994 - Legislative pay,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,BOND,A,State Bond A 1994 - Seniors,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.88
-NM,Albuquerque Tribune,128400,1994,NM,BOND,B,State Bond B 1994 - Schools,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.88
-NM,Albuquerque Tribune,128400,1994,NM,BOND,C,State Bond C 1994 - Libraries,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.88
-NM,Albuquerque Tribune,128400,1994,NM,BOND,D,State Bond D 1994 - Hospital,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.88
-NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-1,Bernalillo County Bond 1 1994 - Roads,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-2,Bernalillo County Bond 2 1994 - Sewers,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-3,Bernalillo County Bond 3 1994 - Libraries,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-4,Bernalillo County Bond 4 1994 - Buildings,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-5,Bernalillo County Bond 5 1994 - Parks,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-6,Bernalillo County Bond 6 1994 - Juvenile Justice Center,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-7,Bernalillo County Bond 7 1994 - Land,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-8,Bernalillo County Bond 8 1994 - Sheriff,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')],0.85
-NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,1,NM Const Amendment 1 1980 - Increase county commission membership 3 to 5,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.80
-NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,2,NM Const Amendment 2 1980 - Albuquerque School Board district tax,0,NO. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
-NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,3,NM Const Amendment 3 1980 - Bail provisions,0,NO. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
-NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,4,NM Const Amendment 4 1980 - Allow restrictive officers two consecutive 4-year terms,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
-NM,Albuquerque Tribune,128400,1980,NM,BOND,1,State Bond 1 1980 - $5.6M Bernalillo County School expansion,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
-NM,Albuquerque Tribune,128400,1980,NM,BOND,6,State Bond 6 1980 - $20M AMAFCA,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print],0.78
-NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,1,NM Constitutional Amendment 1 - General absentee voting law,1,FOR. Editorial favors passage; notes high threshold required. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.85
-NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,2,NM Constitutional Amendment 2 - Appointment of state superintendent of public instruction by elected state school board,1,FOR. Editorial: 'The Tribune already has expressed itself in favor of Amendment No. 2'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.88
-NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,3,NM Constitutional Amendment 3 - Liberalize investment of state permanent school fund (allow 25% in stocks),1,FOR. Editorial: 'We recommend its passage'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.85
-NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,4,NM Constitutional Amendment 4 - Cancel liens on property of public welfare recipients (under 1957 repeal),1,FOR. Editorial: 'This amendment should pass'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.85
-NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,5,NM Constitutional Amendment 5 - Four-year terms for county officers (instead of two),1,FOR. Editorial: 'We think this provision would result in more efficient operation'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)],0.85
-NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,4,NM Constitutional Amendment 4 1996 - New amendments,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,5,NM Constitutional Amendment 5 1996 - Legislative pay,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,6,NM Constitutional Amendment 6 1996 - New commission,0,AGAINST. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,7,NM Constitutional Amendment 7 1996 - County borrowing,0,AGAINST. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-A,State Bond A 1996 - Seniors,0,AGAINST. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-B,State Bond B 1996 - Schools,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-C,State Bond C 1996 - State Fair,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-D,State Bond D 1996 - Juvenile Corrections,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,BERN-ROADS,Bernalillo County Bond - Roads,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,BERN-SEWERS,Bernalillo County Bond - Sewers,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,1996,NM,BOND,BERN-LIBRARIES,Bernalillo County Bond - Libraries,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial],0.85
-NM,Albuquerque Tribune,128400,2000,NM,BOND,STATE-B,NM State Bond B 2000 - Schools,1,FOR. [QA 2026-05-26: 2000 fix per re-read of 20001104 'Tribune recommendations' editorial],0.88
-NM,Albuquerque Tribune,128400,2000,NM,BOND,STATE-C,NM State Bond C 2000 - Facilities,1,FOR. [QA 2026-05-26: 2000 fix per re-read of 20001104 'Tribune recommendations' editorial],0.88
-NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,1,NM Constitutional Amendment 1 1998 - Legislature limit residential property tax,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,2,NM Constitutional Amendment 2 1998 - Citizen on Judicial Standards Commission,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,3,NM Constitutional Amendment 3 1998 - Two-term county officials non-county offices,1,FOR.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,4,NM Constitutional Amendment 4 1998 - Prohibit retirement trust funds for state workers/teachers,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,5,NM Constitutional Amendment 5 1998 - Service-connected disability tax break,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-A,NM State Bond A 1998 - Senior citizens,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-B,NM State Bond B 1998 - Schools,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-C,NM State Bond C 1998 - Land acquisition,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-D,NM State Bond D 1998 - El Camino Real,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-E,NM State Bond E 1998 - Communications,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1998,NM,TAX,OPEN-SPACE,Bernalillo County Open Space Mill Levy 1998,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial],0.85
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-2,REMOVAL OF APPOINTEES,1,VOTE FOR.,0.9
-NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-4,LIBRARIES,1,VOTE FOR.,0.9
-NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-ATHLETIC,BERNALILLO COUNTY ATHLETIC FACILITIES BOND,1,VOTE FOR.,0.9
-NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-RECYCLING,BERNALILLO COUNTY RECYCLING CENTER BOND,1,VOTE FOR.,0.9
+NM,Albuquerque Tribune,128400,1946,NM,AMENDMENT,1,STATE CONSTITUTIONAL AMENDMENT NO. 1 - RESTORE 60-DAY LEGISLATIVE SESSION REPLACING SPLIT SESSION,1,Paper believes amendment should pass; split session has been ineffective and costly. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1946,NM,AMENDMENT,2,STATE CONSTITUTIONAL AMENDMENT NO. 2 - PROPERTY WITH TAX LIEN ACQUIRED BY EXEMPT ORGANIZATIONS NOT EXEMPT FROM LIEN/TAXES,1,Tax obligations should be discharged before newly acquired property becomes exempt. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1948,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3 - 'RIGHT TO WORK' / PROHIBIT CLOSED AND UNION SHOPS,0,"PAPER PRESENTED BOTH SIDES; ENDORSEMENT DIRECTION NOT FULLY CAPTURED IN OCR. | Phase 11 VERIFIED (subagent OCR): EMPTY->0. OCR ""the amendment should be defeated"".",0.7
+NM,Albuquerque Tribune,128400,1954,NM,BOND,BERN-COURTHOUSE,"BERNALILLO COUNTY BOND - $2,000,000 FOR NEW COURT HOUSE",1,Best solution is to vote bonds and trust commission to spend wisely; we need more court house space. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1954,NM,BOND,STATE,"STATE BOND ISSUE - $4,500,000 FOR NEW BUILDINGS AT STATE INSTITUTIONS (PRIMARILY HIGHER EDUCATION)",1,Paper thinks the bond issue should be approved. | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - PERMIT LEGISLATURE TO PASS ABSENTEE VOTING LAW,1,Hundreds of citizens in armed forces or away from home cannot vote; this should be corrected. | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1958,NM,TAX,BERN-HOSPITAL-LEVY,BERNALILLO COUNTY 3.25 MILL TAX LEVY FOR COUNTY-INDIAN HOSPITAL,1,Without the levy hospital would have to close to all except Indian patients; urge voters to support the levy. | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1960,NM,BOND,STATE-EDU-1960,"NM STATE $8 MILLION BOND FOR HIGHER EDUCATION (BUILDINGS, REMODELING, EQUIPMENT)",1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1960,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1 - ELECT HALF OF STATE SENATE EVERY 4 YEARS (CONTINUITY),1,"'WHILE NOT VITAL, APPEARS TO HAVE SOME MERIT'. | Phase 11 audit: direction per subagent OCR.",0.92
+NM,Albuquerque Tribune,128400,1960,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2 - ANNUAL LEGISLATIVE SESSIONS (60-DAY AND 30-DAY ALTERNATING),0,PAPER OPPOSES; 'PRESENT 60-DAY SESSION EACH TWO YEARS IS SUFFICIENT'. | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1960,NM,TAX,BERN-HOSPITAL,BERNALILLO COUNTY-INDIAN HOSPITAL 4.5-MILL LEVY (FOUR YEARS),1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1962,NM,AMENDMENT,13,NM CONSTITUTIONAL AMENDMENT 13 - JOINT VOTING FOR GOVERNOR AND LIEUTENANT GOVERNOR,0,Paper favors defeat of the amendment; voters should have opportunity to choose lt. gov. independently. | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1964,NM,TAX,,TWO LEVIES TO FINANCE OPERATION OF TVI (TECHNICAL VOCATIONAL INSTITUTE) AND COUNTY-INDIAN HOSPITAL,1,VOTE FOR THE LEVIES; CANNOT AFFORD NOT TO MAKE THESE INVESTMENTS | Phase 11 audit: direction per subagent OCR.,0.95
+NM,Albuquerque Tribune,128400,1964,NM,REFERENDUM,,BURY THE PRE-PRIMARY (VOTING MACHINE TUESDAY YES OR NO),0,WE THINK THE UNFORTUNATE PRE-PRIMARY CONVENTION LAW BE OVERLOOKED; PUSH RIGHT LEVER TO BURY HYBRID; LET'S GIVE THE WORDS FOR REPEAL | Phase 11 audit: direction per subagent OCR.,0.7
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,1,LEGALIZE STATE LAND SALES MADE PRIOR TO 1954 UNDER PROCEDURES HELD UNCONSTITUTIONAL BY STATE SUPREME COURT IN 1956,1,AMENDMENT SHOULD PASS; WOULD PREVENT INJUSTICE TO PEOPLE WHO BOUGHT LAND IN GOOD FAITH | Phase 11 audit: direction per subagent OCR.,0.95
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,10,"ALLOWS LEGISLATURE TO SET SALARY OF CORPORATION COMMISSIONERS, REQUIRES PERMISSION FROM COMMISSION BEFORE A UTILITY OR COMMON CARRIER CAN CHANGE ITS RATES",1,TAKES BURDEN OF PROOF OFF UTILITY; WOULD DO AWAY WITH PRESENT SUBTERFUGE OF INCREASING COMMISSIONER SALARIES BY PAYING THEM FOR SERVICE ON SOME OTHER BOARD; WE VOTE YES | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,2,"30-DAY SESSION OF LEGISLATURE IN EVEN-NUMBERED YEARS LIMITED TO ACTION ON FINANCES, SPECIAL MESSAGES BY GOVERNOR",1,WE FAVOR ITS PASSAGE | Phase 11 audit: direction per subagent OCR.,0.95
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,3,CHANGES THE NUMBER OF NEW MEXICO WESTERN COLLEGE TRUSTEES,1,WE VOTE YES | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,4,ALLOW LOS ALAMOS COUNTY TO FORM CITY-COUNTY GOVERNMENT,1,PERMITTED TO SET UP CITY-TYPE GOVERNMENT IF CITIZENS DESIRE | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,5,ABSENTEE VOTING (THREE-QUARTERS REQUIREMENT FOR PASSAGE),1,LITTLE CHANCE OF PASSING DUE TO 75% REQUIREMENT BUT WE FAVOR IT; VOTE YES | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,6,ALLOWS COUNTIES TO BORROW MONEY FOR REMODELING AND MAKING ADDITIONS TO PUBLIC BUILDINGS INSTEAD OF RESTRICTING BORROWING TO NEW CONSTRUCTION,1,AMENDMENT IS DESIRABLE | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,7,"ALLOW MUNICIPALITIES TO VOTE ON BONDS FOR SPECIAL ELECTIONS, PERMITS NONRESIDENT PROPERTY OWNERS TO VOTE",1,ENDORSED | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,8,PERMIT SIMPLIFYING STATE TAX LAWS BY USING SAME DEFINITIONS AS FEDERAL LAWS,1,THIS SEEMS DESIRABLE | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1964,NM,AMENDMENT,9,CREATES A CHIEF ADMINISTRATOR FOR STATE HIGHWAY DEPARTMENT TO BE APPOINTED BY GOVERNOR,0,AMENDMENT VESTS TOO MUCH POWER IN HANDS OF AN ADMINISTRATOR WHO IS NOT REQUIRED TO BE AN ENGINEER; WE DON'T THINK AMENDMENT DOES THE JOB PROPERLY | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1964,NM,BOND,STATE-EDUC,STATE BOND ISSUE - $8 MILLION FOR HIGHER EDUCATION BUILDINGS,1,Universities and colleges suffering from growing pains; bond issue should be approved. | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1966,NM,BOND,STATE-EDU-1966,NM STATE $42.5M BOND OVER 10 YEARS FOR STATE COLLEGES AND UNIVERSITIES BUILDING/REMODELING,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1966,NM,BOND,ABQ-FLOOD,ALBUQUERQUE $3.5 MILLION BOND - NORTH DITCH FLOOD CONTROL PROGRAM,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1966,NM,AMENDMENT,10,REPLACES JUSTICE OF THE PEACE COURTS WITH NEW MAGISTRATE COURTS,1,URGING VOTE IN FAVOR | Phase 11 audit: direction per subagent OCR.,0.95
+NM,Albuquerque Tribune,128400,1968,NM,TAX,BERN-MEDICAL,BERNALILLO COUNTY MEDICAL CENTER 4.5-MILL TAX CONTINUATION,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1968,NM,BALLOT MEASURE,CONST-CONV,CALL CONSTITUTIONAL CONVENTION TO REVISE OR AMEND STATE CONSTITUTION,1,YES vote for calling convention | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT NO. 4,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT NO. 5,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT NO. 6,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT NO. 7,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1970,NM,AMENDMENT,8,NM CONSTITUTIONAL AMENDMENT NO. 8,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1970,NM,BALLOT MEASURE,ABQ-FLUORIDATION,ABQ CITY FLUORIDATION ORDINANCE REFERENDUM,1,Fluoridation Ordinance - For | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1972,NM,BOND,,STATE LIBRARY BONDS ACT,1,FOR | Phase 11 audit: direction per subagent OCR.,1.0
+NM,Albuquerque Tribune,128400,1972,NM,BOND,,COUNTY MEDICAL CENTER BONDS,1,FOR | Phase 11 audit: direction per subagent OCR.,1.0
+NM,Albuquerque Tribune,128400,1972,NM,REFERENDUM,,SHOULD COUNTY ZONING BE CONTINUED,1,YES | Phase 11 audit: direction per subagent OCR.,1.0
+NM,Albuquerque Tribune,128400,1972,NM,AMENDMENT,1,WOMEN'S RIGHTS,1,FOR | Phase 11 audit: direction per subagent OCR.,1.0
+NM,Albuquerque Tribune,128400,1972,NM,AMENDMENT,2,COMMERCIAL CHURCH PROPERTY TAX,1,FOR | Phase 11 audit: direction per subagent OCR.,1.0
+NM,Albuquerque Tribune,128400,1972,NM,AMENDMENT,3,SIX-MAN JURY,1,FOR | Phase 11 audit: direction per subagent OCR.,1.0
+NM,Albuquerque Tribune,128400,1976,NM,TAX,BERN-MEDCENTER,BERNALILLO COUNTY MEDICAL CENTER LEVY,1,Yes | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1976,NM,TAX,MENTAL-HEALTH,MENTAL HEALTH AND RETARDATION LEVY,1,Yes | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1976,NM,BOND,STATE-EDUC,EDUCATIONAL INSTITUTION IMPROVEMENT BOND,1,Yes | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1 - JUDICIAL DISCIPLINE,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2 - DISTRICT JUDGE PRO TEMPORE,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3 - PROPERTY TAX ABEYANCE,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT NO. 4 - LEGISLATIVE PAY,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-1,BERNALILLO COUNTY BOND NO. 1 - COUNTY OFFICE BUILDING,1,VOTE YES (RECONFIRMED FROM CLIPPING - WAS INCORRECTLY 0). | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-2,BERNALILLO COUNTY BOND NO. 2 - JUVENILE DETENTION HOME,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-3,BERNALILLO COUNTY BOND NO. 3 - COURTHOUSE REMODELING,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-4,BERNALILLO COUNTY BOND NO. 4 - AMBULATORY CARE CENTER,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-5,BERNALILLO COUNTY BOND NO. 5 - ALCOHOLISM TREATMENT CENTER,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1978,NM,BOND,BERN-6,BERNALILLO COUNTY BOND NO. 6 - OUTPATIENT HEALTH CLINIC,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT NO. 1 - MERIT SELECTION OF DISTRICT AND APPELLATE JUDGES,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT NO. 2 - REMOVE LEGISLATURE'S ABILITY TO SPEND FROM SEVERANCE TAX PERMANENT FUND,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT NO. 3 - INCOME TAX EXEMPTION FOR NATIONAL GUARD MEMBERS,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT NO. 4 - UNLIMITED 2-YEAR TERMS FOR COUNTY SHERIFFS,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT NO. 5 - LEGISLATIVE PER-DIEM AND MILEAGE INCREASE,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT NO. 6 - YELLOW PAGES IN TELEPHONE RATE BASE,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1982,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT NO. 7 - EXPAND COUNTY DEBT FOR WATER/SEWER/LANDFILL/AIRPORT,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1982,NM,REFERENDUM,SUNDAY-LIQUOR,SUNDAY BY-THE-DRINK LIQUOR SALES IN LOCAL OPTION DISTRICTS,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1984,NM,BALLOT MEASURE,ALL-12,ALL 12 BALLOT QUESTIONS,1,Pull the 'for' (in favor of) lever on all 12 questions | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - SCHOOL BOARD RECALL,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,10,NM CONSTITUTIONAL AMENDMENT 10 - WORKMEN'S COMP,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,11,NM CONSTITUTIONAL AMENDMENT 11 - MORE TERMS STATE OFFICERS,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT 2 - LIMIT GUN CONTROL,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT 3 - DISTRICTED ELECTIONS,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT 4 - CREDIT UNIONS,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT 5 - POLICE SEIZURES,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT 6 - GUBERNATORIAL APPOINTMENTS,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT 7 - EXPAND STATE BOARD,0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,8,NM CONSTITUTIONAL AMENDMENT 8 - EXPAND UNM REGENTS,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,AMENDMENT,9,NM CONSTITUTIONAL AMENDMENT 9 - MORE TERMS COUNTY OFFICERS,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,BOND,BERN-COURTHOUSE,$11M BERNALILLO COUNTY COURTHOUSE BOND,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,BOND,BERN-LIB,$2.5M BERNALILLO COUNTY LIBRARY BOND,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,BOND,BERN-ROADS,$14.4M BERNALILLO COUNTY ROADS BOND,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,BOND,BERN-SPORTS,$800K BERNALILLO COUNTY SPORTS CENTER BOND,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1986,NM,BOND,STATE-EDU-1986,$35M STATE EDUCATION BOND,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT 5 - RESTRICT BAIL FOR CONVICTS (DENA LYNN GORE AMENDMENT),0, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT 7 - COUNTY COMMISSIONS (TERMS OF OFFICE),1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-COURTHOUSE,BERNALILLO COUNTY $19.2M COURTHOUSE BOND,0,OPPOSED; 'CART BEFORE THE HORSE' — VOTERS ASKED TO APPROVE BEFORE DESIGN COMPLETED. | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-ROADS,BERNALILLO COUNTY $12.5M ROAD CONSTRUCTION/REPAIR BOND,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-1,STATE BOND 1 - $50.6M EDUCATION PROJECTS,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-2,STATE BOND 2 - $425K WILDLIFE PROTECTION,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-3,STATE BOND 3 - $1.2M SENIOR CITIZENS' CENTERS,1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,BOND,STATE-4,STATE BOND 4 - $1.5M LIBRARIES (BOOKS/AV MATERIALS),1, | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-1,LEGISLATIVE RETIREMENT,0,VOTE AGAINST. | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-3,INCREASE TAX EXEMPTION,0,VOTE AGAINST (RECONFIRMED FROM CLIPPING - WAS BLANK). | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-6,APPOINT JUDGES,0,VOTE AGAINST. | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - INVESTMENTS,1,For | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT 2 - HIGH-TECH DEBT,0,Against | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT 3 - RECALL,1,For | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1996,NM,BOND,FLOOD,FLOOD CONTROL BONDS,1,For | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,JUV-CORR,JUVENILE CORRECTIONS BONDS,1,For | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,PARKS,PARKS BONDS,1,For | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,PUB-HEALTH,PUBLIC HEALTH BONDS,1,For | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,SHERIFF,SHERIFF BONDS,1,For | Phase 11 audit: direction per subagent OCR.,0.8
+NM,Albuquerque Tribune,128400,1996,NM,BALLOT MEASURE,SOUTH-VALLEY,SOUTH VALLEY COUNTY,0,Against | Phase 11 audit: direction per subagent OCR.,0.7
+NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-1,ROADS,1,BERNALILLO COUNTY BOND — YES. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-2,"WATER, SEWERS",1,BERNALILLO COUNTY BOND — YES. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-3,LIBRARIES,1,BERNALILLO COUNTY BOND — YES. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-4,PARKS,1,BERNALILLO COUNTY BOND — YES. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-5,PUBLIC SAFETY,1,BERNALILLO COUNTY BOND — YES. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1998,NM,BOND,BERNALILLO-6,BUILDINGS,1,BERNALILLO COUNTY BOND — YES. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,2000,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - TOWARD CITY-COUNTY UNIFICATION,1,For | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,2000,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT 2 - ELIMINATE TERM LIMITS FOR COUNTY OFFICIALS,1,For | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,2000,NM,BOND,AMAFCA,ALBUQUERQUE METROPOLITAN ARROYO FLOOD CONTROL AUTHORITY BOND,1,For | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-1,BERNALILLO COUNTY BOND 1 - ROADS,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-2,BERNALILLO COUNTY BOND 2 - LIBRARIES,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-3,BERNALILLO COUNTY BOND 3 - PARKS,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-4,BERNALILLO COUNTY BOND 4 - PUBLIC SAFETY,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2000,NM,BOND,BERN-5,BERNALILLO COUNTY BOND 5 - PUBLIC HEALTH,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2000,NM,TAX,OPEN-SPACE,BERNALILLO COUNTY OPEN SPACE MILL LEVY,1,For | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,2000,NM,BOND,STATE-A,NM STATE BOND A - SENIORS,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2000,NM,TAX,UNIV-HOSP,UNIVERSITY HOSPITAL MILL LEVY,1,For | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,1,NM CONSTITUTIONAL AMENDMENT 1 - VETERANS TAX EXEMPTION,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,2,NM CONSTITUTIONAL AMENDMENT 2 - VOTER QUALIFICATIONS,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT 3 - JUDICIAL DISTRICTS,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT 4 - ALIEN PROPERTY OWNERSHIP,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT 5 - DISABLED VETERANS TAX BREAK,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,6,NM CONSTITUTIONAL AMENDMENT 6 - AFFORDABLE HOUSING,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,7,NM CONSTITUTIONAL AMENDMENT 7 - CESAR CHAVEZ HOLIDAY,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,8,NM CONSTITUTIONAL AMENDMENT 8 - VIETNAM VET SCHOLARSHIP,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2002,NM,AMENDMENT,9,NM CONSTITUTIONAL AMENDMENT 9 - TRANSPORTATION COMMISSION,1,For | Phase 11 audit: direction per subagent OCR.,0.92
+NM,Albuquerque Tribune,128400,2002,NM,BOND,ALL-BERN,BERNALILLO COUNTY BONDS - ALL,1,Vote for all bonds | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2002,NM,BOND,ALL-STATE,STATE BONDS - ALL,1,Vote for all bonds | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,AMENDMENT,3,NM CONSTITUTIONAL AMENDMENT 3 - CITY RUNOFF ELECTIONS,1,for | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,2004,NM,AMENDMENT,4,NM CONSTITUTIONAL AMENDMENT 4 - VETERANS' TAX EXEMPTION,1,for | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,2004,NM,AMENDMENT,5,NM CONSTITUTIONAL AMENDMENT 5 - N.M. SCHOOL FOR THE BLIND,1,for | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,2004,NM,BALLOT MEASURE,ABQ-CHARTER,ALBUQUERQUE CHARTER AMENDMENT - CITY COUNCIL PAY RAISES,1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,ABQ-CONSTRUCTION,ALBUQUERQUE $20 MILLION BOND FOR CONSTRUCTION,1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BALLOT MEASURE,ABQ-UNIFICATION,ALBUQUERQUE-BERNALILLO COUNTY UNIFICATION,1,For | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-1,BERNALILLO COUNTY BOND 1 - $1.5 MILLION FOR LIBRARIES,1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-2,"BERNALILLO COUNTY BOND 2 - $680,000 FOR PUBLIC SAFETY",1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-3,"BERNALILLO COUNTY BOND 3 - $2.3 MILLION FOR PARKS, RECREATION",1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-4,"BERNALILLO COUNTY BOND 4 - $200,000 FOR BUILDINGS",1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-5,BERNALILLO COUNTY BOND 5 - $3.7 MILLION FOR ROADS,1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,BERN-6,BERNALILLO COUNTY BOND 6 - $7.6 MILLION FOR STORM SEWERS,1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-B,STATEWIDE BOND B - $94.9 MILLION FOR HIGHER ED,1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-C,STATEWIDE BOND C - $16.3 MILLION FOR LIBRARIES,1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-D,STATEWIDE BOND D - $5.1 MILLION FOR KINDERGARTENS,1,for | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2004,NM,BOND,STATE-A,NM Statewide Bond A 2004 - $6.1 million for seniors,1,for [QA 2026-05-26: renamed STATE-SENIORS->STATE-A; editorial lists this as Bond A] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,1,NM Const Amendment 1 1994 - School boards,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,2,NM Const Amendment 2 1994 - Grand jury,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,3,NM Const Amendment 3 1994 - Student Regents,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,4,NM Const Amendment 4 1994 - Highway Commission,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,5,NM Const Amendment 5 1994 - Land donations,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,6,NM Const Amendment 6 1994 - County borrowing,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,7,NM Const Amendment 7 1994 - State Hospital,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,8,NM Const Amendment 8 1994 - State lottery,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,9,NM Const Amendment 9 1994 - Land donations,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,10,NM Const Amendment 10 1994 - Judicial retention,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,11,NM Const Amendment 11 1994 - Voting changes,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,12,NM Const Amendment 12 1994 - Severance fund,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,13,NM Const Amendment 13 1994 - Land grant fund,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,AMENDMENT,14,NM Const Amendment 14 1994 - Legislative pay,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,A,State Bond A 1994 - Seniors,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1994,NM,BOND,B,State Bond B 1994 - Schools,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1994,NM,BOND,C,State Bond C 1994 - Libraries,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1994,NM,BOND,D,State Bond D 1994 - Hospital,0,AGAINST. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-1,Bernalillo County Bond 1 1994 - Roads,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-2,Bernalillo County Bond 2 1994 - Sewers,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-3,Bernalillo County Bond 3 1994 - Libraries,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-4,Bernalillo County Bond 4 1994 - Buildings,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-5,Bernalillo County Bond 5 1994 - Parks,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-6,Bernalillo County Bond 6 1994 - Juvenile Justice Center,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-7,Bernalillo County Bond 7 1994 - Land,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1994,NM,BOND,BERN-8,Bernalillo County Bond 8 1994 - Sheriff,1,FOR. [QA 2026-05-26: re-extracted from 19941107 clipping; Tribune 1994 was previously absent from CSV (in review queue as 'OCR limited content')] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,1,NM Const Amendment 1 1980 - Increase county commission membership 3 to 5,,"YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print] | Phase 11 VERIFIED (subagent OCR): 1->EMPTY. OCR ""No. 1 ... No position"".",0.80
+NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,2,NM Const Amendment 2 1980 - Albuquerque School Board district tax,0,NO. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print] | Phase 11 audit: direction per subagent OCR.,0.78
+NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,3,NM Const Amendment 3 1980 - Bail provisions,0,NO. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print] | Phase 11 audit: direction per subagent OCR.,0.78
+NM,Albuquerque Tribune,128400,1980,NM,AMENDMENT,4,NM Const Amendment 4 1980 - Allow restrictive officers two consecutive 4-year terms,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print] | Phase 11 audit: direction per subagent OCR.,0.78
+NM,Albuquerque Tribune,128400,1980,NM,BOND,1,State Bond 1 1980 - $5.6M Bernalillo County School expansion,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print] | Phase 11 audit: direction per subagent OCR.,0.78
+NM,Albuquerque Tribune,128400,1980,NM,BOND,6,State Bond 6 1980 - $20M AMAFCA,1,YES. [QA 2026-05-26: re-extracted from 19801103 'It'll soon be over' clipping; Tribune 1980 was previously only 1 record (Reagan); OCR confidence limited by small print] | Phase 11 audit: direction per subagent OCR.,0.78
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,2,NM Constitutional Amendment 2 - Appointment of state superintendent of public instruction by elected state school board,1,FOR. Editorial: 'The Tribune already has expressed itself in favor of Amendment No. 2'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)] | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,3,NM Constitutional Amendment 3 - Liberalize investment of state permanent school fund (allow 25% in stocks),1,FOR. Editorial: 'We recommend its passage'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,4,NM Constitutional Amendment 4 - Cancel liens on property of public welfare recipients (under 1957 repeal),1,FOR. Editorial: 'This amendment should pass'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1958,NM,AMENDMENT,5,NM Constitutional Amendment 5 - Four-year terms for county officers (instead of two),1,FOR. Editorial: 'We think this provision would result in more efficient operation'. [QA 2026-05-26: re-extracted from 19581031 clipping; 1958 was in review queue as 'OCR limited content' but PDF is in fact readable (Pattern J)] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,4,NM Constitutional Amendment 4 1996 - New amendments,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,5,NM Constitutional Amendment 5 1996 - Legislative pay,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,6,NM Constitutional Amendment 6 1996 - New commission,0,AGAINST. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,AMENDMENT,7,NM Constitutional Amendment 7 1996 - County borrowing,0,AGAINST. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-A,State Bond A 1996 - Seniors,0,AGAINST. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-B,State Bond B 1996 - Schools,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-C,State Bond C 1996 - State Fair,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,STATE-D,State Bond D 1996 - Juvenile Corrections,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,BERN-ROADS,Bernalillo County Bond - Roads,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,BERN-SEWERS,Bernalillo County Bond - Sewers,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1996,NM,BOND,BERN-LIBRARIES,Bernalillo County Bond - Libraries,1,FOR. [QA 2026-05-26: 1996 fix per re-read of 19961104 'Tribune recommends' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,2000,NM,BOND,STATE-B,NM State Bond B 2000 - Schools,1,FOR. [QA 2026-05-26: 2000 fix per re-read of 20001104 'Tribune recommendations' editorial] | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,2000,NM,BOND,STATE-C,NM State Bond C 2000 - Facilities,1,FOR. [QA 2026-05-26: 2000 fix per re-read of 20001104 'Tribune recommendations' editorial] | Phase 11 audit: direction per subagent OCR.,0.88
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,1,NM Constitutional Amendment 1 1998 - Legislature limit residential property tax,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,2,NM Constitutional Amendment 2 1998 - Citizen on Judicial Standards Commission,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,3,NM Constitutional Amendment 3 1998 - Two-term county officials non-county offices,1,FOR.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,4,NM Constitutional Amendment 4 1998 - Prohibit retirement trust funds for state workers/teachers,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,AMENDMENT,5,NM Constitutional Amendment 5 1998 - Service-connected disability tax break,0,AGAINST.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-A,NM State Bond A 1998 - Senior citizens,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-B,NM State Bond B 1998 - Schools,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-C,NM State Bond C 1998 - Land acquisition,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-D,NM State Bond D 1998 - El Camino Real,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,BOND,STATE-E,NM State Bond E 1998 - Communications,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1998,NM,TAX,OPEN-SPACE,Bernalillo County Open Space Mill Levy 1998,1,YES.  [QA 2026-05-26: 1998 fix per re-read of 19981031 'A recap' editorial] | Phase 11 audit: direction per subagent OCR.,0.85
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-2,REMOVAL OF APPOINTEES,1,VOTE FOR. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1988,NM,AMENDMENT,AMENDMENT-4,LIBRARIES,1,VOTE FOR. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-ATHLETIC,BERNALILLO COUNTY ATHLETIC FACILITIES BOND,1,VOTE FOR. | Phase 11 audit: direction per subagent OCR.,0.9
+NM,Albuquerque Tribune,128400,1988,NM,BOND,BERN-RECYCLING,BERNALILLO COUNTY RECYCLING CENTER BOND,1,VOTE FOR. | Phase 11 audit: direction per subagent OCR.,0.9

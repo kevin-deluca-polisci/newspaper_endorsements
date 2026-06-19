@@ -1,6 +1,23 @@
 # RA Manual Review Needs: Hartford Courant
 
-**Status:** AI processing complete through V3. The items below require manual RA intervention.
+**Status:** V8 endorsement-verification skill complete (2026-06-18). HC is the cleanest folder in the project; this RA_NEEDS list is minimal.
+
+## V8 Items needing RA review
+
+### Pattern A inferences (low priority — Pattern A logic is sound but explicit OCR confirmation would strengthen)
+1. **1960 VICE PRESIDENT JOHNSON, LYNDON B.** (E=0) — name not in OCR. Pattern A: HC endorsed Lodge R VP; LBJ logically the D opp. Subagent confirmed Pattern A logic sound.
+2. **1962 H ST. ONGE, WILLIAM L.** (E=0) — name not in OCR. Pattern A: HC made blanket R House endorsement; St. Onge D was logical opp.
+3. **1968 PRESIDENT HUMPHREY, HUBERT** (E=0) — name not in OCR excerpt. Pattern A: HC explicitly endorsed Nixon R; Humphrey D logically opp.
+
+### Cross-paper validation pending
+- **Hartford Times sister paper** referenced in V5 metadata but folder not present in `/done/`. If/when added, re-run Phase 12 cross-paper validation.
+
+### Sister-paper note
+- HC's V5 noted that 2 files were originally misrouted between HC and Hartford Times. The misrouting was resolved in earlier QA rounds.
+
+## Historical RA notes (preserved from V3-V5)
+
+**Status:** AI processing complete through V3. The items below required manual RA intervention before V8.
 
 ## Priority 1: V2 federal Pattern A records at 0.85
 

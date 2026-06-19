@@ -134,3 +134,78 @@ Each regenerated JSON includes a `regen_note` field explaining the regeneration.
 ## Recommendation
 
 PASS WITH FIXES. After two QA passes today the dataset is substantively accurate across all 10 endorsement years. The 1970 corrections close the last known accuracy gap from the May 20 work. raw/ and done/ are back in sync (12 PDFs each, 12 parts/ JSONs all reflecting the authoritative done/ CSVs). Remaining open items are research-grade verifications (district numbers, two editorial-OCR surname spellings) rather than coding errors.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result:** PASS WITH FIXES. 4 candidate corrections, 12 propositions added. Independent-subagent + vision verified. (User requested maximum care.)
+
+## Method
+Re-OCR'd all 12 clippings (pdfimages + tesseract; pdftoppm 300/400/600 DPI fallbacks). Two distinct clipping formats required two verification methods:
+- **Modern recap years (2008–2018):** clean LIST-format recap editorials, verified by text OCR + an independent subagent.
+- **Older years (1968, 1970, 1972, 1974):** "marked sample ballot" graphics (candidates marked with an X) that resist OCR. These were verified by **direct vision** of high-DPI ballot crops.
+
+## 2008 candidate corrections (4) — all OCR-quoted
+- **STATE REP: "FUNK, JOE M." dist 44 → "FAZEK, JOE M." dist 45** (OCR "Joe M. Fazek in the 45th District").
+- **STATE REP: "HODOS, MARVIN" dist 51 → "HART, RICHARD" dist 52** (OCR "Richard Hart in the 52nd District"; no Hodos/51 in OCR).
+- **SUMMIT COUNTY COUNCIL: "FORREST, JERRY E." dist 5 → "FEEMAN, JERRY E." dist 6** (OCR "Jerry E. Feeman in District 6"; recurs 2012/2016).
+- **Council "COLAVECCHIO, PAUL Y." → "PAUL V."** (OCR "Paul V. Colavecchio").
+
+## Propositions added (12) — V1 omissions
+- **2008 (11):** Ohio Issue 1 (Yes), Ohio Issue 3 (No), Akron Issue 7 (Yes), Akron Issue 9 (No), and school Issues 48, 49, 50, 51, 52, 53, 54 (all For). V1 had captured only 4 of the 15 endorsed 2008 issues.
+- **2012 (1):** Akron Public Schools Issue G1 (For).
+All existing 46 prop directions were OCR-audited and confirmed correct (0 flips).
+
+## Old-year candidates (1968–1974, 152 records) — vision verification
+The candidate endorsements are on marked sample ballots (OCR-illegible). Verified by viewing high-DPI ballot crops and matching the X-marked picks to V1:
+- **1968:** President (X Nixon/Agnew), U.S. Senate (X Saxbe), Congress 13th (X Mosher), 14th (X Ayres) — all match V1.
+- **1972:** President (X Nixon/Agnew), 3 Ohio Supreme Court (incl. the X on Lloyd O. Brown vs Paul W. Brown), Ohio Senate (Headley), and the full visible Ohio House block (Cook, Wingard, Cox, Manning, Heintzelman, Healy, Roberto) — all match V1. Congress (Stanton, Mosher, Seiberling, Regula, Vanik) confirmed via the narrative editorial.
+V1's sample-ballot extraction is demonstrably accurate (names well-formed, X-marks correct). The remaining down-ballot records share the same format and are accepted as verified-by-sampling. NOTE: small "(Nth District)" labels on the ballots are hard to re-read; a few 1972 district numbers (e.g., a 48/49 ambiguity) are flagged for RA.
+
+## 2020 clipping
+The 20201103 clipping is a "Guest View" editorial urging repeal of Ohio HB 6 (FirstEnergy bailout), reprinted from the Columbus Dispatch — NOT an endorsement. V1's zero 2020 records is correct.
+
+## Phase 7 (incumbency)
+V1 set NO incumbency flags for any of the 333 records (folder-wide gap). The recaps and ballots rarely state incumbency explicitly; an OCR scan found only 3 ambiguous hits (none actionable). Deriving incumbency for these mostly-nonpartisan Ohio judicial/local races requires external officeholder data — flagged for RA rather than fabricated.
+
+## Phase 12: Cross-paper
+N/A. Other Ohio folders exist (Cincinnati Enquirer/Post, Dayton Daily News/Journal Herald, Youngstown Vindicator) but none share Akron's market. No sister paper.
+
+## Phase 13: Multi-pass
+- Pass 1: 4 candidate fixes + 12 props added.
+- Pass 2: 0 new issues (modern surname re-scan clean apart from apostrophe artifacts O'Brien/O'Donnell/O'Neill). Converged.
+
+## V8 Addendum (2026-06-18): 100% box-by-box vision verification of 1968–1974 ballots
+
+At the user's request, every old-year sample-ballot record was vision-verified box-by-box at 600 DPI (not sampled). This found errors the earlier sampling missed. Net: candidates 333 → 336.
+
+**1968 (33→34): 7 corrections.**
+- Madden (Cnty Comm) party R→D; Kyriakides (Coroner) party R→D (ballot labels both Democrat).
+- Recorder: V1 had Thomas Thomas (R, unmarked) → X is on Roy R. Ruff (D). Corrected.
+- State Rep 97th: V1 had James D. Gray (R, unmarked) → X is on John Poda Jr. (D). Corrected.
+- Brothers (Supreme Court): no X (Herbert is the marked winner) → endorsed 1→0.
+- Nye (State Senator) district 25→28.
+- ADDED: Roger H. Howard (R, Treasurer) — race marked "BOTH QUALIFIED" (Howard + Swanson both endorsed); V1 had only Swanson.
+
+**1970 (36→38): 13 issues.**
+- Wrong-candidate judicial picks: Allen Brown (Supreme Court) → X on J.J.P. Corrigan; James Barbuto (Judge) → X on Sam H. Bell. Both corrected.
+- Phantom record removed: "Edith Theyer" (State Rep 35) does not exist on page (dist 35 belongs to Roberto); endorsed→empty, flagged for RA removal.
+- Narrative "additional endorsements" garbles fixed: Lewis→Leedy (StSen 10→19); Brown,Robert→Stockdale (StSen 21→31); Batchelder StRep 21→23; Fisher StRep 20→24; Roberts→Roberto (StRep 53→35); DeMoral(D)→Heintzelman(R) (StRep 31→89).
+- Price middle initial B→R.
+- ADDED: Robert M. Duncan (Supreme Court, unexpired term); James E. Thorpe (State Rep 90, R).
+- Confirmed correct: all statewide (Gilligan, Taft, J.W.Brown, Tracy=State Auditor, Ted Brown, Donahey), Congress, marked state reps (districts ARE 91–97), county offices, Attorney General genuinely unmarked (no AG endorsement).
+
+**1972 (46): 1 correction.** Wise (State Board of Ed) district 12→13. All other 45 records (President, VP, Supreme Court, Congress, every state rep/senate, State Board, all 10 county offices, all judges) vision-confirmed correct.
+
+**1974 (37): 0 candidate errors.** This page is a plain-text "Our Endorsements" editorial (not a marked ballot); all 37 names/districts confirmed. Only nuance: Don Stephens = Summit County Auditor (vs Roger Tracy = State Auditor) — flagged for office-code distinction. The year's 7 ballot-issue endorsements are already captured in the propositions file.
+
+**Aggregate old-year error rate:** 1968 ~21%, 1970 ~36%, 1972 ~2%, 1974 0%. The marked-ballot years (1968, 1970) carried the most extraction errors — exactly the records OCR could not re-verify, which is why box-by-box vision was necessary.
+
+## V8 Capstone: independent final audit (2026-06-18)
+A fresh independent subagent re-audited the corrected dataset (no knowledge of prior work). Results:
+- Structure (336→335 rows after phantom removal): PASS — valid columns, endorsed/confidence values, no duplicates, every record has a Phase note.
+- Modern candidates 2008–2018 re-verified against OCR: PASS — all 2008 corrections (Fazek/45, Hart/52, Feeman/6, Colavecchio "V.") confirmed verbatim.
+- All 58 props re-verified against OCR: PASS — all directions correct, including the 12 added props.
+- Old-year corrections (1968/1970) confirmed present and consistently coded.
+- Actions taken from audit: (1) deleted the doubly-confirmed 1970 "Edith Theyer" phantom row; (2) annotated the two 1968 "BOTH QUALIFIED" dual endorsements (State Rep 93 Boyd+Turner; Treasurer Swanson+Howard) as legitimate, not single-seat conflicts. No new errors were introduced by the corrections.

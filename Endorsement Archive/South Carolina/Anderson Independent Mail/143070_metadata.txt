@@ -1,30 +1,40 @@
-Newspaper Name: Anderson Independent Mail
-Alternative Names: Anderson Independent, Anderson Daily Mail, The Independent Mail
-Years Published: combined paper 1986-present (predecessors Anderson Independent + Anderson Daily Mail)
-Newspaper ID number: 143070
-State: SC (Anderson / Anderson County, upstate SC)
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Anderson Independent Mail
+Newspaper ID: 143070
+State: SC
 Number of clippings: 24
-Endorsement data years: 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008
+Endorsement data years: 1974-2008
+Total candidate records: 294 (253 endorsed=1)
+Total proposition records: 39 (39 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 294 (253 endorsed, 41 opposed)
-Total proposition records: 40 (32 YES, 8 NO)
+Confidence statistics (all records):
+  Mean confidence: 0.932
+  Low-confidence records (< 0.7): 1
 
---- CONFIDENCE SCORES ---
-Min: 0.60
-Mean: 0.93
-Max: 0.95
+Top offices (top 15):
+  SCHOOL BOARD: 83
+  STATE REP: 44
+  CNTY COMM: 41
+  SENATOR: 14
+  H: 12
+  STATE SENATOR: 12
+  PRESIDENT: 10
+  GOVERNOR: 9
+  LT GOVERNOR: 9
+  SEC OF STATE: 7
+  TREASURER: 7
+  ATTORNEY GENERAL: 7
+  COMPTROLLER: 7
+  SUPERINTENDENT: 6
+  AGRICULTURE COMMISSIONER: 6
 
---- NOTES ---
-Anderson Independent Mail is the daily paper of Anderson County, SC. Pre-merger
-clippings (before ~1986) may be from the Anderson Daily Mail (evening paper) or
-Anderson Independent (morning paper). Both predecessors used for older clippings.
+Party distribution:
+  Democrat: 101
+  Nonpartisan: 72
+  Republican: 69
+  Independent: 12
+  Libertarian: 1
 
-Coverage gap: No endorsement clippings present for 2010-2016 in source folder
-(jumps from 2008 directly to 2018, which itself is a non-endorsement editor's note).
-
-Endorsement style: Comprehensive full-slate endorsements 1974-2004 (federal,
-state, local). Decline to single ballot-measure clippings in 2006 and 2008. No
-candidate endorsements visible 2010-2018.
-
-Compiled: 2026-05-22
+(metadata regenerated post-V8 deep verification)

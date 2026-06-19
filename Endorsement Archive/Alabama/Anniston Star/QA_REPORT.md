@@ -185,3 +185,78 @@ Completed the OCR sweep across the remaining unverified Anniston Star years.
 ## Recommendation (final — 2026-05-28 Phase 4)
 
 PASS WITH MAJOR FIXES. The 600-dpi OCR technique closed all the recoverable Pattern J gaps. Dataset is now substantially more complete and accurate than the prior PASS state. The OCR method has been added to the protocol's standard QA toolkit for future low-resolution papers.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result: PASS (V8 SUBAGENT-ADJUDICATED).** 270 candidate records (200 endorsed / 70 opposed), 124 propositions. This folder had already had heavy Phase-3 600-DPI re-extraction (+111 candidates); V8 re-OCR'd all 65 clippings independently and vision-verified every judicial-heavy recap year against the source images. 7 errors found and fixed.
+
+## Method
+Re-OCR'd all 65 clippings (pdfimages + tesseract --psm 6 on the tall newspaper columns; 600-DPI fallback on thin modern years). Then vision-verified the 11 dense recap years (1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006) — these hold the AL judicial slates extracted from 600-DPI OCR with known artifacts ("Roger Mom"/Monroe, etc.). Three independent subagents each re-rendered and read a block of years and reported discrepancies; every high-stakes finding was then re-confirmed by Claude against OCR + a fresh 600-DPI crop before applying.
+
+## V8 errors found and fixed
+| Year | Office | V1 | Corrected | Evidence |
+|---|---|---|---|---|
+| 1986 | SUPREME COURT | ADAMS, OSCAR (E=1) | **record removed** | No judicial/Supreme Court endorsement appears in any of the three 1986 clippings; Adams' seat wasn't up in 1986 (elected 1982 → 1988). Phantom; the genuine Adams endorsement is 1988 Place 3 (retained). |
+| 1994 | SUPREME COURT | BUTTS, TERRY (party empty, E=0) | party Democrat, **E=1** | Recap: "NOMINEE TERRY BUTTS, a Democrat like Cook and Kennedy, brings the background and practice of a successful circuit judgeship." Endorsed nominee for a separate seat, not Kennedy's opponent. |
+| 1994 | COURT OF CRIMINAL APPEALS d1 | MCMILLAN, H.W. | **BOWEN, BILL** | Recap: "presiding JUDGE BILL BOWEN... reelection to Place 1." No McMillan in the 1994 clipping. |
+| 1998 | TREASURER | ROBERSON, DAVID (R, E=0) | **DAVIS, TOM** | Recap: "Tom Davis, her Republican challenger." |
+| 1996 | COURT OF CRIMINAL APPEALS d1 | MCMILLAN, W. "BUCKY" | MCMILLAN, H.W. "BUCKY" | Recap prints "H.W. 'Bucky' McMillan." |
+| 2006 | AUDITOR | CLARKE, JANE BAKER | CLARKE, JANIE BAKER | Recap: "Janie Baker Clarke" (matches 1998 record). |
+| 2004 | STATE BOARD OF ED d3 | (missing) | **ADDED** BELL, STEPHANIE (R, E=0) | Recap opposes incumbent: "STATE SCHOOL BOARD, DISTRICT 3: Incumbent Stephanie Bell acts as a computer virus..." |
+
+## Years vision-verified clean (no errors beyond the table)
+1986 (3-clipping multi-day editorial), 1988, 1990, 1992, 1996 (except McMillan initials), 1998 (except Treasurer), 2000, 2002 (dense down-ballot), 2004, 2006. Every name/party/place/direction in these recaps was checked against the printed image. The 1994 recap had 2 of the table's errors; the rest of 1994 confirmed.
+
+## Phase 2 / Phase 9
+All 200 e=1 records carry a Phase 2 note (VISION_RECAP for 1986-2006, OCR_NARRATIVE for the single-issue pre-1986 presidential/straight-ticket years and 2008-2016). All 70 e=0 records carry a Phase 9 opponent-verification note.
+
+## Phases 4-7
+Format clean; parties valid (43 judicial records have empty party — AL elects judges by party but the recaps often omit it; flagged for augmentation, not an error). Pattern K: **0**. Exact duplicates: 0.
+
+## Phase 10 — Independent subagent adjudication
+Three general-purpose subagents independently vision-read the recap years with no anchoring. They surfaced the 1986 Adams phantom, the 1994 Butts direction, the 1994 Bowen name, and the 1998 Davis name — all re-confirmed by Claude before applying.
+
+## Phase 11 — Propositions
+124 props, all carry a direction. Audited sample (2016, 2012, 2000, 1982) against OCR: 2016 amendments 1-14 (Yes except 8,10 No) match exactly; 2012 local + state amendments match; 2000 (yes-on-amendments + oil/gas + interracial-marriage-repeal) match; 1982 (mostly No) match.
+
+## Phase 12 — Cross-paper validation (Birmingham News, 100101)
+The Birmingham News is the statewide AL sister paper. The two diverge on nearly every shared presidential/statewide race — Anniston endorsed the Democrat, Birmingham the Republican — across 1964 (Johnson vs Goldwater), 1968 (Humphrey vs Nixon), 1972 (McGovern vs Nixon), 1976 (Carter vs Ford), 1980 (Carter vs Reagan; Folsom vs Denton), 1984 (Mondale vs Reagan), 1986 (Baxley vs Hunt; Shelby vs Denton), 1988 (Dukakis vs Bush), 1990 (Hubbert vs Hunt), 1992 (Clinton vs Bush). This is the well-documented liberal stance of the Ayers-family Anniston Star and confirms the Democratic lean in the data is genuine, not an extraction artifact. Agreement on 1966 Sparkman, 1978 Fob James, and 1984 Heflin cross-confirms.
+
+## Phase 13 — Convergence
+Pass 1: subagent vision verification (7 issues). Pass 2: Claude adjudication + OCR/vision re-confirmation (0 new). Converged.
+
+## Full-coverage vision pass (2026-06-18) — every clipping verified, 6 more errors found
+After the recap-year pass, I confirmed OCR coverage of all 65 clippings (64 with text; only 19961105, the documented no-endorsement follow-up article, is empty — correct) and then vision-verified the remaining un-eyeballed years via two more subagents: the 1970s–80s narrative years (1972, 1974, 1976, 1978, 1980, 1982, 1984) and the modern recaps (2008, 2010, 2012, 2014, 2016). The early single-issue years (1918–1968) were confirmed from OCR (famous presidential/Senate endorsements).
+
+The modern years (2008–2016, 30 records) all confirmed clean. The 1970s–80s pass found **6 additional V1 name errors** — all with party and direction already correct, but the names garbled in the original extraction (these are low-confidence 1978/1982/1984 records that prior QA flagged but never corrected):
+
+| Year | Office | V1 | Corrected | Recap text |
+|---|---|---|---|---|
+| 1978 | SEC OF STATE | STEPHENSON, JIM | **SIEGELMAN, DON** | "For secretary of state: Democrat Siegelman" (Don Siegelman's first office) |
+| 1978 | AUDITOR | VESTA, EMORY | **WEEKS, O'REBA** | "For auditor: Republican Weeks" (endorsed) |
+| 1978 | AUDITOR | PRICE, EXIE | **FRINK, BETTYE** | Democrat Bettye Frink, the opposed incumbent |
+| 1978 | PSC Place 1 | HICKS, JOE B. | **HICKS, JIM R.** | "Republican Jim R. Hicks" (surname was right) |
+| 1982 | SUPREME COURT | LYNN, TOM | **LYON, HARRY** | "Harry Lyon of Pelham"; "Tom" came from Tom Hayden, who was ruled off the ballot |
+| 1984 | PSC President | SULLIVAN, CHARLES | **SULLIVAN, JIM** | "Jim Sullivan, Democrat, the incumbent president" (same Jim Sullivan as 1988/1992/2000) |
+
+The unusual 1982 Governor neither-endorsed coding (Wallace and Folmar both E=0, "we are unable to make an endorsement") was vision-confirmed correct. 1972/1974/1976/1980 confirmed clean. No omissions found in any year.
+
+## Total V8 corrections: 13
+7 from the recap-year pass (1986 phantom removed, 1994 Butts flip, 1994 Bowen, 1998 Davis, 1996/2006 name fixes, 2004 Bell added) + 6 from the full-coverage pass (above). Every one of the 33 candidate years is now either vision-verified against the source image or (for the 1918–1968 single-issue years) OCR-confirmed.
+
+## Final capstone + external validation (2026-06-18)
+An independent full-dataset capstone subagent re-derived a stratified sample from source with no anchoring and found **no new errors**. It confirmed: the 1974 PSC protest-vote coding (Prohibition candidate Rosamon Henderson endorsed, both major-party candidates opposed), the 1982 neither-endorsed governor coding, the 1982 Lyon fix (OCR: "Harry Lyon of Pelham" + "Republican candidate Tom Hayden ruled off the ballot"), the 1996 McMillan D→R party-blank handling, all 1986–2002 judicial recaps, and the props (1982/2004/2016). No omissions in 1994/1998; no direction errors anywhere.
+
+The consequential corrections were then **externally confirmed** against independent sources:
+- 1978 SEC OF STATE → **Don Siegelman** — confirmed elected AL Secretary of State in 1978 (served 1979–87), his first office.
+- 1978 AUDITOR (opposed D) → **Bettye Frink** — confirmed AL State Auditor 1975–1983 (the 1978 incumbent).
+- 1994 SUPREME COURT **Terry Butts** flip (E=0→E=1, Democrat) — confirmed: ran as a Democrat in 1994 for the open seat vacated by Steagall's retirement and won (served 1994–98). He was an endorsed Democratic nominee for a separate seat, not Kennedy's opponent.
+- 1994 COURT OF CRIMINAL APPEALS → **Bill Bowen** — confirmed presiding judge of the AL Court of Criminal Appeals through Jan 1995 (so the 1994 Place 1 re-election endorsee).
+
+### One structural item for downstream awareness (not an error)
+**1998 Supreme Court Place 1 is a genuine dual endorsement** — the Star endorsed both Jean Brown (R) and Roger Monroe (D): "Both Jean Brown, the Republican, and Roger Monroe, the Democrat... would be good justices." Both coded E=1 for the same place. Correct to the source, but flag if a single-endorsement-per-seat assumption is applied downstream.
+
+## Final counts
+270 candidates (200/70), 124 props (101 Yes / 23 No). Metadata regenerated (had been stale at 159/102). Mean confidence 0.91. Total V8 corrections: 13, all vision- and (where consequential) externally confirmed.

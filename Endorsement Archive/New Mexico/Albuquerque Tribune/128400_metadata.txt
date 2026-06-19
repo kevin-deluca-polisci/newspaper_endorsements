@@ -1,12 +1,38 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
 Newspaper: Albuquerque Tribune
 Newspaper ID: 128400
 State: NM
-Election years: 29 (1934-2004)
-Clippings: 142 files
-Candidate records: 852 (816 endorsed, 34 opposed, 2 no-direction)
-Proposition records: 217 (170 endorsed, 43 opposed, 4 no-direction)
-Candidate confidence: mean 0.889, min 0.55, max 1.00
-Proposition confidence: mean 0.882, min 0.60, max 1.00
-Last updated: 2026-05-26 (four-phase re-QA: Phase 1 = 31 Pattern I dups + Pattern J 1980/1994. Phase 2 = deep verification 1958/1964/1968/1970/1972 yielding 50+ granular fixes. Phase 3 = verification 1962/1966/1986/1996 yielding 20+ more fixes + parts/ JSON sync for 11 years. Phase 4 = verification of 1984/1998/2000/2002/2004 yielding 22+ more fixes + 21 candidate adds + 13 prop adds. 1946 confirmed already well-extracted.)
+Number of clippings: 142
+Endorsement data years: 1934-2004
+Total candidate records: 1072 (1020 endorsed=1)
+Total proposition records: 211 (210 with a yes/no direction)
 
-Years covered: 1934, 1936, 1940, 1946, 1948, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1994, 1996, 1998, 2000, 2002, 2004
+Confidence statistics (all records):
+  Mean confidence: 0.881
+  Low-confidence records (< 0.7): 3
+
+Top offices (top 15):
+  STATE REP: 317
+  STATE SENATOR: 84
+  JUDGE: 80
+  CNTY COMM: 68
+  DISTRICT COURT JUDGE: 65
+  H: 56
+  SUPREME COURT: 33
+  GOVERNOR: 30
+  COURT OF APPEALS: 27
+  SHERIFF: 25
+  SENATOR: 24
+  ASSESSOR: 22
+  CNTY CLERK: 21
+  STATE BOARD OF ED: 18
+  CNTY TREASURER: 16
+
+Party distribution:
+  Democrat: 379
+  Republican: 318
+  American Independent: 1
+
+(metadata regenerated post-V8 deep verification)

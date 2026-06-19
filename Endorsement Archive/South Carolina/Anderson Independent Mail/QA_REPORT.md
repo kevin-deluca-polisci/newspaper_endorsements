@@ -126,3 +126,77 @@ Spot-checked the four remaining dense recap years (1994, 1998, 2002, 2004) by re
 ## Recommendation
 
 PASS WITH FIXES. The data quality is good where the source clippings exist; the open items reflect missing source material rather than extraction errors. Six additional small fixes from Phase 2 verification.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result: PASS (V8 SUBAGENT-ADJUDICATED).** 294 candidate records, 39 propositions. 7 V1 errors found and fixed, all in 1996. Every one of the 14 candidate years was vision-read against its source clipping image (not just OCR), because the prior QA had never independently re-read 1990, 1996, or 2000 — and 1996 turned out to carry 7 errors.
+
+## Method
+OCR alone is unreliable on these scrapbook-cover JPEGs (old typefaces, marked "Suggestions" boxes, multi-column recaps). So every candidate year was rendered at 500–600 DPI, cropped column-by-column, and read by eye against the CSV. An independent subagent then re-derived the entire 1996 recap from the image with no knowledge of the V1 values and confirmed all 7 corrections plus the full county/school slate.
+
+## Phase 1 — Re-OCR
+pdfimages + tesseract on all 24 clippings (24 images >30 KB OCR'd). 600 DPI fallback recovered the thin 1978 (46→125 lines) and 1980 (66→638 lines) clippings. Year aggregates written for every year.
+
+## V1 errors found and fixed (all 1996, all vision- + subagent-confirmed)
+| Field | V1 | Corrected | Source quote |
+|---|---|---|---|
+| STATE REP d3 name | WELLS, BUZ | WEBB, BUD | "State House District 3. Bud Webb-R" |
+| STATE REP d6 party | Republican | Independent | "Chuck Allen-I" |
+| STATE REP d9 name | SHEHEEN, CARDELL | MADDOX, CORDELL | "State House District 9. Cordell Maddox-D" |
+| CNTY COMM d3 name | MCFADDEN, MICHELLE | MCCOLLUM, MICHELLE | "Anderson County Council, District 3. Michelle McCollum-R" |
+| SCHOOL BOARD name+dist | BENKNIGHT, SMITH (2 Area 3) | BOUKNIGHT, SMITH (3 Area 3) | "Anderson School District 3, Area 3. Smith Bouknight" |
+| SCHOOL BOARD dist | MURPHY, CAREY (5 Area 5) | MURPHY, CAREY (5 Area 3) | "Anderson School District 5, Area 3. Carey Murphy" |
+| SCHOOL BOARD name | GLAESCHENZER, DIES (5 Area 7) | GISSENDANNER, DAN (5 Area 7) | "Anderson School District 5, Area 7. Dan Gissendanner" |
+
+MADDOX d9 is corroborated by the 1998 and 2000 recaps, which both list Cordell Maddox for House District 9.
+
+## Years vision-verified clean (no errors)
+1974 (checkmark "Suggestions" box: Dorn/Campbell/Parker/Hollings checked, matches all 39 records incl. 25 opponents), 1976 ("For Council And House, We Recommend" narrative recap on p.4 — Garrison/Keys/Wright/Logger endorsed, Gerrard/Bratcher opposed, all confirmed), 1980 (headline "Anderson Newspapers Endorse Carter, Hollings, Derrick"), 1984, 1986, 1988, 1990, 1992 (incl. the odd-but-faithful "Georgia Lottery: Yes" prop, literally printed on the ballot recap), 1994, 1998, 2000, 2002, 2004. Every name, party, district, and direction matched the source.
+
+## Phase 2 / Phase 9
+All 253 e=1 records carry a Phase 2 vision-confirmation note (tagged by source type: checkmark box / narrative recap / list recap / headline). All 41 e=0 records (1974×25, 1976×7, 1980×6, 1986×3) carry a Phase 9 note confirming the candidate was the un-checked opponent in the same box/recap.
+
+## Phases 4–7
+Format: clean (all parties in standard set; no junk rows). Pattern K: **0** (the prior "Pattern K systematic fix" pass resolved them all; none remain). Exact duplicates: 0. Cross-cycle incumbency: 26 candidates were endorsed in consecutive cycles but carry no inc flag in the later cycle — because the list-format recaps (1988–2004) print no incumbency language, there is no source evidence to set these. Documented in RA_NEEDS rather than inferred.
+
+## Phase 10 — Independent subagent adjudication
+A general-purpose subagent independently rendered and read the 1996 recap with no anchoring. It CONFIRMED all 7 corrections verbatim and independently re-listed the full county and school-board slate, confirming no endorsement was missed (both "Tillie M. Parker and Jerry Parker" captured as two records). 7 records raised to conf 0.95 with Phase 10 notes.
+
+## Phase 11 — Propositions
+39 props, all carry a direction. Sampled directions re-confirmed against OCR/vision: 1978 divorce amendment (Yes), 1982 board-of-education retention (No, "unnecessary and wasteful"), 1990 amendment slate (grand-jury No; alcohol/9-member/sales-tax Yes — vision-confirmed in recap), 1996 amendment slate (vision-confirmed: 2A/2B/2C/Local-1 No, 3/4A/4B/5 Yes), 1998 amendments (all Yes), 2006 Oconee sales tax (Yes), 2008 Good Cents penny (Yes). No empty-direction props.
+
+## Phase 12 — Cross-paper validation (Greenville News, 143300)
+Greenville News is the neighboring upstate-SC daily and serves as a sister paper for shared statewide races. Agreement on shared races: 1984 (Reagan/Thurmond/Derrick — all 3), 1986 (Campbell/Hollings), 1988 (Bush), 1990 (Campbell/Thurmond/Derrick — all 3), 2000 (Bush/Graham). Legitimate divergences reflecting AIM's documented occasional Democratic lean: 1992 President (AIM Clinton vs GVL Bush; both papers agreed Hollings + Derrick), 1996 (AIM endorsed Clinton/Close/Dorn — all D; GVL endorsed Dole/Thurmond/Graham — all R). The 1996 H-3 divergence independently corroborates that AIM endorsed challenger Debbie Dorn (D), not the incumbent — no error.
+
+## Phase 13 — Convergence
+Pass 1 (exhaustive vision verification): 7 fixes. Pass 2 (independent subagent capstone re-read of the corrected 1996 data): 0 new changes — converged.
+
+## Final counts
+253 endorsed, 41 opposed (294 candidates); 39 props (32 Yes, 7 No). Mean confidence raised to ~0.93 (7 fixed records at 0.95).
+
+## Post-V8 enhancement pass (2026-06-18)
+- **1974 closed out 100%.** Vision-read the remaining nuanced statewide narratives: Attorney General (no recommendation — all three e=0, no checkmark in the Suggestions box), Comptroller ("Opposing Mr. Mills is Robert Crout... on basis of experience" — R challenger Crout e=1 over D incumbent Mills e=0), Agriculture ("Harrelson['s] 'empire' needs a little shaking up... Mr. Gause should..." — R challenger Gause e=1 over D incumbent Harrelson e=0), Adjutant General ("McCrady has earned re-election" e=1). Every 1974 record now confirmed against the source.
+- **All 39 props vision/OCR direction-confirmed** and tagged Phase 11. Newly closed: 1986 civic center ("urge the voters to approve it" Yes), 1986 council-administrator #138 ("punching No. 138... vote for continuing" Yes), 1986 fire 2-mill (headline "We Cautiously Support"), 1988 amendments + council ordinance ("On the constitutional amendments: Yes"), 2006 Oconee sales tax, 2008 Good Cents penny.
+- **External confirmation of the two highest-stakes 1996 name fixes.** Ballotpedia + SC Statehouse confirm **J. Cordell Maddox, Jr.** served SC House District 9 from 1997–2000 (Anderson attorney, later circuit judge), confirming V1's "Cardell Sheheen" was wrong. SC records confirm **Byron Kenneth "Bud" Webb** was elected to the SC House in 1996 (served to 2002), confirming V1's "Buz Wells" was wrong. A Michelle McCollum of Belton (Anderson County) is consistent with the County Council D3 fix.
+- **One evidence-backed incumbency fix:** Maddox's 1997 start means he was a first-term incumbent in the 1998 election → set 1998 STATE REP d9 d_inc=1 (Phase 7 note with source). The other 26 cross-cycle likely-incumbents remain in RA_NEEDS (list-format recaps carry no incumbency language, so no source basis to set them).
+- **No hand-collected data** exists for this paper, so hand-vs-AI validation is N/A.
+
+## Full-dataset independent capstone (2026-06-18) — 6 additional issues found
+A fresh independent subagent re-derived a stratified sample across all years from source (no anchoring to prior findings). It confirmed the bulk of the data but caught 6 issues that both the year-by-year V8 pass and the original QA had missed (8 records corrected):
+
+1. **1980 County Supervisor name garble — "MOORE" → "POORE, ED".** The 1980 "Behind Our Endorsements" essay names the endorsed Democrat as Ed Poore ("supervisor Ed Poore, who declined..."), the same person the 1976 CSV already lists as POORE, ED. Direction (e=1) unchanged.
+2. **1994 State House Pat Harris — district reverted 8 → 9.** The earlier QA "fixed" Harris from district 9 to 8, but the 1994 recap (OCR + 600-DPI vision) plainly prints "House 9: Pat Harris, Democrat" and lists no House 8 — the prior note even quotes "House 9" while changing the field to 8. This was a regression; reverted to 9.
+3 & 4. **"TULLY, FRED" → "TOLLY, FRED"** (County Council Dist 1, 1992 and 1994). Both recaps print "Fred Tolly"; V1's "Tully" did not match the source. RA may cross-check against voter records.
+5. **2002 Dale Martin school-board area — "1 Area 1" → "1 Area 5."** Recap: "Anderson School District 1, Area 5, Dale Martin."
+6. **2002 Jan Holliday school board — "2 Area 1 (1)" → "2 At-large."** The recap lists Holliday as a standalone District 2 entry, separate from the "Area 1: Chuck Meeks, Billy Rice" pair; she held the D2 At-large seat in 1998. Meeks/Rice renumbered to Area 1 (1) and (2).
+
+The capstone independently re-confirmed the trickiest existing codings: 1974 Comptroller/Agriculture (paper backed the R challengers over D incumbents), 1974 Attorney General ("We make no recommendation in this race"), the 1992 "Georgia Lottery" prop (printed verbatim), and full slate reconciliations for 1984/1988/1990/1992/1994/2000/2002 with no omissions. The 2018 file was confirmed to be an editor's note ("Changes coming to opinion pages"), not endorsements.
+
+## Open items (carried to RA_NEEDS)
+1. 1980 "Your Decision" county pull-out missing from source — county supervisor (Moore/Wham), additional SC House/Council/referendum local races for 1980 are unrepresented.
+2. 1982 candidate endorsements — clipping is referendum-only.
+3. 26 cross-cycle likely-incumbents with no inc flag (list-format recaps lack incumbency language).
+4. 1992 "Georgia Lottery" prop — faithfully transcribed from the ballot recap (vision-confirmed as printed) but the label is anomalous for a 1992 SC ballot; confidence kept moderate.
+5. Coverage gap 2010–2016; 2018 is an editor's note only.

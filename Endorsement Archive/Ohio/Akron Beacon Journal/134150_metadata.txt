@@ -6,11 +6,11 @@ Newspaper ID: 134150
 State: OH
 Number of clippings: 12
 Endorsement data years: 1968-2018
-Total candidate endorsements: 333
-Total proposition endorsements: 46
+Total candidate records: 335 (334 endorsed=1)
+Total proposition records: 58 (58 with a yes/no direction)
 
-Confidence statistics:
-  Mean confidence: 0.935
+Confidence statistics (all records):
+  Mean confidence: 0.934
   Low-confidence records (< 0.7): 0
 
 Top offices (top 15):
@@ -18,12 +18,12 @@ Top offices (top 15):
   JUDGE: 46
   H: 32
   SUMMIT COUNTY COUNCIL: 31
-  SUPREME COURT: 26
+  SUPREME COURT: 27
   STATE SENATOR: 16
   COURT OF APPEALS: 13
   CNTY COMM: 8
+  TREASURER: 8
   SENATOR: 7
-  TREASURER: 7
   AUDITOR: 7
   STATE BOARD OF ED: 6
   CNTY CLERK: 5
@@ -31,6 +31,7 @@ Top offices (top 15):
   PRESIDENT: 5
 
 Party distribution:
-  (party not stated): 220
-  Democrat: 59
-  Republican: 54
+  Democrat: 62
+  Republican: 52
+
+(metadata regenerated post-V8 deep verification)

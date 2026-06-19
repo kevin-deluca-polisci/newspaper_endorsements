@@ -6,25 +6,27 @@ Newspaper ID: 143060
 State: SC
 Number of clippings: 6
 Endorsement data years: 1952-1976
-Total candidate endorsements: 25
-Total proposition endorsements: 3
+Total candidate records: 39 (39 endorsed=1)
+Total proposition records: 4 (4 with a yes/no direction)
 
-Confidence statistics:
-  Mean confidence: 0.846
-  Low-confidence records (< 0.7): 3
+Confidence statistics (all records):
+  Mean confidence: 0.869
+  Low-confidence records (< 0.7): 1
 
 Top offices (top 15):
-  COUNTY COUNCIL: 7
-  BOARD OF COMMISSIONERS: 4
-  H: 4
-  STATE SENATOR: 4
+  BOARD OF COMMISSIONERS: 9
+  COUNTY COUNCIL: 8
+  H: 7
+  STATE SENATOR: 7
+  SHERIFF: 2
   PRESIDENT: 1
   COUNTY COUNCIL CHAIR: 1
-  SHERIFF: 1
   AUDITOR: 1
   TREASURER: 1
   REGISTER OF MESNE CONVEYANCES: 1
+  BOARD OF COMMISSIONERS CHAIR: 1
 
 Party distribution:
   Republican: 1
-  (party not stated): 24
+
+(metadata regenerated post-V8 deep verification)

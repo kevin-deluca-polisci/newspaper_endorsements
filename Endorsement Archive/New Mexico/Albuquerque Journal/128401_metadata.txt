@@ -1,12 +1,40 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
 Newspaper: Albuquerque Journal
 Newspaper ID: 128401
 State: NM
-Election years: 60 (1882-2020)
-Clippings: 294 files
-Candidate records: 1288 (1241 endorsed, 41 opposed, 6 no-direction)
-Proposition records: 163 (124 endorsed, 37 opposed, 2 no-direction)
-Candidate confidence: mean 0.889, min 0.60, max 0.98
-Proposition confidence: mean 0.874, min 0.60, max 0.97
-Last updated: 2026-05-26 (re-QA: removed 66 cand + 6 prop duplicates; fixed 1974 County Comm errors; re-extracted ~170 missing candidate + 43 missing proposition records across under-extracted years 1990/1996/1998/2008/2010/2012; raw/parts/ JSONs synced for additions)
+Number of clippings: 258
+Endorsement data years: 1882-2020
+Total candidate records: 1323 (1264 endorsed=1)
+Total proposition records: 155 (154 with a yes/no direction)
 
-Years covered: 1882, 1886, 1888, 1890, 1892, 1896, 1898, 1900, 1902, 1906, 1908, 1912, 1916, 1920, 1924, 1926, 1928, 1930, 1932, 1934, 1936, 1938, 1940, 1942, 1944, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020
+Confidence statistics (all records):
+  Mean confidence: 0.864
+  Low-confidence records (< 0.7): 131
+
+Top offices (top 15):
+  STATE REP: 332
+  STATE SENATOR: 137
+  JUDGE: 106
+  CNTY COMM: 84
+  H: 81
+  DISTRICT COURT JUDGE: 72
+  COURT OF APPEALS: 42
+  GOVERNOR: 41
+  SUPREME COURT: 32
+  SHERIFF: 31
+  SENATOR: 30
+  PRESIDENT: 29
+  RIVER COMM: 28
+  CNTY CLERK: 26
+  RAILROAD COMMISSION: 24
+
+Party distribution:
+  Democrat: 584
+  Republican: 530
+  Green: 2
+  American Independent: 1
+  Libertarian: 1
+
+(metadata regenerated post-V8 deep verification)

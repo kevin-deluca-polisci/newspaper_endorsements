@@ -126,3 +126,61 @@ Pre-fix copies of the 4 JSONs backed up to `raw/Albany Democrat-Herald_138300/pa
 ## Recommendation
 
 PASS WITH FIXES. The April pass was solid on structure and on the 4 clippings it deeply spot-checked, but missed a class of errors in editorial-body comparison language (opposed candidates named explicitly in prose but not extracted as their own opposed records). The 9 added/corrected records resolve every issue surfaced in this re-QA's 10-clipping spot-check sample. The 1976 CNTY COMM dual-endorsement pattern is the only remaining open data question; it may be a legitimate "both qualified" treatment of Benton/Linn cross-coverage and is flagged for future verification.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result:** PASS WITH FIXES. Very large folder (585 records, 62 clippings, 22 cycles 1958-2000). Four independent era-subagents reconciled every candidate and proposition against re-OCR; high-stakes items re-verified by Claude.
+
+## Method
+Re-OCR'd all 62 clippings (pdfimages + tesseract; psm6+2x-upscale and pdftoppm fallbacks recovered the low-resolution recap-list years 1986/1988). Surname-presence scan cut from 67 unmatched to 12 (all confirmed OCR garbles of correctly-coded records). Four subagents (1958-66, 1968-78, 1980-90, 1992-2000) independently verified directions (this paper codes both ENDORSE e=1 and OPPOSE e=0), names, fields, and omissions.
+
+## Direction errors corrected (5)
+- **1976 Ballot Measure 4: e=0 → e=1** (OCR "Measure 4 (repeals emergency succession... nuclear attack): Vote yes").
+- **1992 Assessor: Noakes e=0→1, Troy e=1→0** (OCR praises Noakes' competence; Troy not the pick).
+- **1992 Sheriff: Martinak e=0→1, Mann e=1→0** (OCR "we need the few remaining officials like Martinak").
+- **1992 Attorney General: Kulongoski e=1→0** (OCR "Rodeman is a clear-thinking lawyer" — Rodeman is the pick).
+
+## Name errors corrected (11)
+1964 Geis→Gwinn, Jefferies→Jaffarian; 1970 Hunter→Huston; 1974 Schruck→Schrock; 1988 McKinsey/Fay→McKinney/Foy (Mayor), Gimour→Gilmour; 1992 Girard→Girod, Martiniak→Martinak, Little/Marv→Little/Sharon, Koehrsen/Gene→Koehrsen/Glenn; 1980 Haas/Hari→Harl.
+
+## Field/office errors corrected (6)
+1964 Belton (Sec of State→Treasurer), McCall (Treasurer→Sec of State), Corbett (Treasurer→Sec of State); 1976 Rouse (State Senator/26→State Rep/30); 1980 Carr & McNeese (Cnty Comm Position 1→2). Props: 1976 Benton bond num 39→20; 2000 open-space measure 02-94→02-04.
+
+## Direction recoveries / revisions (2)
+- 1970 Renstrom (Cnty Clerk): EMPTY → e=1 ("Renstrom appears to have the edge").
+- 1978 Measure 6 (1.5% property tax limit): e=0 → EMPTY (OCR "don't vote on this" = abstention, not opposition).
+
+## Omissions added (7 candidates)
+1992 State Rep 36 (Oakley R endorsed, McQueary D opposed), State Rep 28 (Hayden endorsed, Haviland opposed), Mayor (Belhumeur, Byer — opposed); 2000 U.S. House 4th (Lindsey R — opposed, DeFazio endorsed).
+
+## Spurious removed (2 candidates)
+1992 "Karstens, Gene" (no such name in OCR) and "Chang, Yeelynn Wah" (a misread of "Teledyne Wah Chang," the company Koehrsen worked for).
+
+## Duplicate props removed (2)
+1966 BOND num=1 (= Albany sewer Measure 51) and AMENDMENT num=2 (= State Measure 2).
+
+## Phase 12: Cross-paper
+N/A. Albany Democrat-Herald is the only Oregon paper in done/. No sister paper.
+
+## Phase 13: Multi-pass
+- Pass 1: 5 direction + 11 name + 6 field fixes, 2 recoveries, 7 added, 2 spurious removed, 2 dup props removed.
+- Pass 2: 0 new substantive issues; 12 remaining surname-scan misses are confirmed OCR garbles of correctly-coded records (1962 Hatfield, 1988 Frohnmayer, etc.). Converged.
+
+## NEEDS_RA flags
+Records the OCR could not resolve (flagged, not changed): 1970 Byers/Daugherty (dist-1, absent from OCR — possible cross-year carryover); 1974 Duncan dist-3 ("opted out"); 1974 Measure 5 (absent from list); 1988 Bush/President (not in captured clipping); 1986 Butler/Long (low-res OCR gaps); 1958 Fitzwater (soft — paper picked Purdy); 2000 Measures 83/84 + "reject 26 measures" passage (not in captured OCR).
+
+## V8 Capstone: independent final audit (2026-06-18)
+A fresh independent subagent re-audited the corrected dataset. Results: structure PASS; all 1992 direction reversals, name fixes, office swaps, spurious removals, and 7 additions re-confirmed against OCR; incumbency PASS (0 Pattern K); 22/22 random spot-checks matched.
+- **Regression caught and fixed:** 1976 Ballot Measure 9 ("regulates new nuclear power plants") had been wrongly flipped to endorsed=1 by the Measure-4 fix (over-broad "nuclear" match). Reverted to endorsed=0 per OCR ("Measure 9... Vote no"). 
+- Claude investigation: 1970 Byers/Daugherty (State Rep dist 1) found to be strongly spurious — the real 1970 House endorsees are Ward Beck and Bill Gwinn; "Byers" appears only 1972-1980, "Daugherty" in no year. Flagged for deletion (conf 0.40).
+- Stale-prose markers added to the 5 reversed 1992 records (the descriptive text predates the direction correction; the endorsed flag is authoritative).
+
+## V8 Cross-year consistency sweep (2026-06-18)
+Audited all 33 surnames recurring across 2+ cycles for party/name-form/office consistency:
+- All "party varies" cases are legitimately DIFFERENT people sharing a surname (Clay Myers R vs Hardy Myers D; Dale Schrock R vs Vernon Schrock D — confirmed distinct, including their 1982 head-to-head).
+- All "name-form varies" cases are benign as-printed nickname/middle-initial variation (Atiyeh Victor/Vic, Packwood Robert W./Bob, Mark/Mark O. Hatfield, two different Bushes 1988 vs 2000) — left as-printed.
+- One genuine error fixed: 1988 "CARR, CHARLEE" -> "CARR, CHARLINE" (OCR reads "Charline Carr" in 1980/84/88).
+- Office codes consistent (H=US House, STATE REP=Oregon House). Minor as-is local codes (CNTY TREASURER, CNTY JUDGE) left intact.
+Conclusion: dataset is internally consistent across all 22 cycles.

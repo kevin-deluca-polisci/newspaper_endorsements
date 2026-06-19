@@ -274,3 +274,70 @@ The CSV's coding of ELLIS, MICHAEL G. and GOYKE, GARY as both end=0 may reflect 
 ## Recommendation (absolute final — 2026-05-28 Phase 5)
 
 PASS WITH MAJOR FIXES. The 5-phase verification has been as thorough as the source material allows. All open items reflect genuine source-material limitations (missing or low-resolution clippings) rather than extraction errors. The data is now as accurate as possible given the available source.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result: PASS (V8 SUBAGENT-ADJUDICATED).** 301 candidate records (176 endorsed / 125 opposed), 14 propositions. Despite 5 prior QA phases, the formal V8 pass — independent re-OCR of all 94 clippings plus five parallel vision-verification subagents (one per era), every contested finding re-confirmed by Claude against the source image — found **16 corrections**, several of which reverse earlier QA decisions.
+
+## Method
+Re-OCR'd all 94 clippings (pdfimages + tesseract --psm 6; 600-DPI fallback recovered 3 failed 2014 clippings). Then five subagents vision-read the state-legislature-heavy years (1982/86/90, 1992/94, 1996/98, the 2000–06 grids, 2008–14) against the CSV. WI state-leg names garble badly in OCR, so the image was treated as ground truth. Claude personally re-rendered and read the 1990 roundup, the 2002 grid, and the 1986 Fox/Ott editorial to confirm the high-stakes changes.
+
+## V8 corrections (16)
+**Direction / non-endorsement:**
+- 1986 STATE REP d3 FOX (D) and OTT (R): both **E=1 → E=0**. The editorial explicitly declines: "no benefit would be derived from a Post-Crescent endorsement. Terry Fox or Al Ott? Take your pick." This is a non-endorsement (matching the paper's 1982 Ellis/Goyke and 1992 Kasten/Feingold patterns), NOT the dual endorsement a prior phase had coded.
+- 2002 STATE REP d3 OTT (R): **record removed.** The 2002 grid (vision-read cell-by-cell) contains 11 endorsements and the note "No endorsement was made in uncontested races"; there is no Ott d3 entry. A prior phase had wrongly added this record.
+
+**Name fixes (vision/OCR confirmed):**
+- 1990 STATE REP d55 opponent: "SUESS, TOM" → **SEVENICH, STANLEY** (D). Image: "Menasha Ald. Stanley Sevenich... a Democrat." (Reverses a prior QA name fix.)
+- 1990 STATE SENATOR d1 opponent: "WHITE, HELEN" → **URBAN, URBAN** (D). Image: "his Democratic opponent, Urban Urban."
+- 1996 STATE REP d3 opponent: "SCHELFER, MICHAEL" → **SCHEFFLER, MICHAEL**.
+- 1998 STATE SENATOR d1 opponent: "VAN HELDEN, JANET" → **VAN ASTEN, JANET** (image: "independent Janet Van Asten"). (Reverses a prior QA name fix.)
+- 2008 STATE REP d57 opponent: "EGELHOFF, ROBERTA" → **EGELHOFF, JO** (image: "Republican Jo Egelhoff").
+
+**District fixes:**
+- 1990 STATE REP PROSSER (R) and MEYER (D): d56 → **d57** (image: "Dave Prosser in the 57th Assembly District").
+
+**Party fix:**
+- 1998 STATE REP d5 TECHLIN, FRED: Republican → **U.S. Taxpayers Party** (image: "attorney Fred Techlin, representing the U.S. Taxpayers Party"). Resolves a prior best-guess.
+
+**Year fix:**
+- The two ATTORNEY GENERAL records (Doyle D / Wagner R) filed under **1992** actually belong to **1994** — the file 19921102 is dated 2 Nov 1994 (Nov 2 was a Wednesday in 1994). Moved to 1994.
+
+**Omissions added (Phase 8):**
+- 1990 STATE REP d56 **KLUSMAN, JUDY** (R, E=1, unopposed) — "Rep. Judy Klusman in the 56th District. We endorse them all."
+- 1994 STATE REP d3 **SCHEFFLER, MICHAEL** (D, E=0) — Ott's opponent.
+- 1996 STATE REP d56 **KLUSMAN, JUDY** (R, E=1) + **ZEMPLE, DENNIS** (D, E=0) — "Judy Klusman over Dennis Zemple" in the re-elect-incumbents list.
+
+## Resolved open item
+- **1982 STATE SENATOR d19 Ellis/Goyke** (the long-standing low-resolution flag): cracked via 600-DPI vision. The editorial reads "The Post-Crescent respectfully declines to make an outright endorsement [between] Ellis and Goyke... would be happy to have either." Genuine NON-endorsement — both E=0 confirmed correct; confidence raised from 0.60 to 0.90.
+
+## Years vision-verified clean (no errors beyond the table)
+1982 (Ellis/Goyke confirmed), 1986 (except Fox/Ott), 1990 (5 fixes), 1992 (Kasten/Feingold non-endorsement confirmed), 1994, 1996 (except Schelfer + Klusman omission), 1998 (except Techlin/Van Asten), 2000, 2002 (except Ott removal), 2004, 2006 (full 17-record grid confirmed), 2008 (except Egelhoff), 2010, 2012, 2014 (dual Treasurer + sole Sec-of-State endorsement confirmed via the "abolish the office" rationale). Early single-issue years (1960–1980) OCR-confirmed (famous federal names).
+
+## Phase 5 / 11 / 12
+Pattern K: 0. Exact duplicates: 0. Props (14): sample audited against OCR — 1992 property-tax amendment ("A mistake for Wisconsin" → No), 1992 Fox-locks advisory (Yes), 1998 Right to Bear Arms ("We urge you to vote 'no'" → No), 2006 four referenda (vision-confirmed in grid: marriage/death-penalty/smoking-ban No, Neenah school Yes). All match.
+
+Phase 12 cross-paper (Madison Capital Times [liberal] + Madison State Journal [conservative]): Appleton's swing character is corroborated — it agreed with the conservative State Journal on 1978 Dreyfus and 1986 Kasten, and with the liberal Capital Times on 1980 Carter, 1982 Earl, 1984 Mondale, and 2014 Burke. The Democratic crossovers in the data are real editorial decisions confirmed by at least one Madison paper, not extraction artifacts.
+
+## Phase 13 convergence
+Pass 1: five subagent vision passes (16 issues). Pass 2: Claude re-confirmation of every contested change against the source image (0 new). Converged.
+
+## Final verification round (2026-06-18)
+Three additional checks, all clean or confirming:
+
+**Early years 1960–1980 — full vision verification (the one era the first five subagents didn't cover).** A subagent re-read every clipping for 1960, 1962, 1964, 1966, 1968, 1972, 1978, 1980 (61 records). **Zero discrepancies, zero omissions.** The notable 1964 LBJ endorsement is confirmed by the printed headline "Our Choice for President — Johnson." Every name/party/district/direction matches the source. The 1962 Senate Wiley/Nelson editorial is genuinely ambivalent but its closing advice ("Governor Nelson has the most to offer") confirms Nelson=endorsed.
+
+**Independent full-dataset capstone — zero discrepancies.** A fresh subagent re-derived a stratified sample with no anchoring and independently CONFIRMED: the 1992 Kasten/Feingold non-endorsement, five 1994/1998 state-rep records, the 2014 dual Treasurer + sole Sec-of-State endorsements, four 2010 editorials, the complete 2000 and 2004 grids (no omissions/extraneous), the 1986 Fox/Ott and 2008/2012 incumbent-rejection direction codings, and three props (2010 transportation "vote no", 1986 school bond "yes", 1998 props). It re-confirmed every V8 fix (Techlin→U.S. Taxpayers, Van Asten, Fox/Ott flip, Scheffler) against the source.
+
+**External validation of the two highest-stakes additions/fixes:**
+- 1990 d55 "SUESS, TOM" → **Stanley Sevenich** — confirmed: Democratic candidate for the 55th Assembly District in 1990, Kaufert's opponent, a Menasha alderman.
+- 1990 & 1996 d56 **Judy Klusman** (R) — confirmed: Wisconsin State Assembly 1989–2000, Republican, represented the 56th district (per the 1991 and 1995 Assembly journals), from Neenah.
+
+**Cross-year consistency:** 0 party inconsistencies across all repeated names after the V8 fixes.
+
+**Incumbency hardening (Phase 6):** 5 cross-cycle incumbents set to d_inc=1 — Meyerhofer (STATE REP, 2000 & 2002), Nelson (2006), Garcia Franz (2008), Bernard Schaber (2010) — each endorsed by the paper for the same seat in the immediately prior cycle and won; capstone-confirmed. Inc-flagged total now 131.
+
+## Final counts
+301 candidates (176 endorsed / 125 opposed), 14 props. Metadata regenerated (was stale at 297). 5 records (1990 Sheriff pair, 2002 DA/Sheriff trio) retain empty party — county offices the source didn't label; flagged for augmentation. Every one of the 24 candidate years is now vision-verified against the source image. Total V8 changes: 16 corrections + 5 incumbency flags, all vision- and (where consequential) externally confirmed.

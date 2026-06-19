@@ -96,3 +96,50 @@ Both spec updates should be made before the next round of paper processing so th
 ## Recommendation
 
 PASS WITH FIXES. Small, accurate archive of the pre-merger era. After the two corrections, the data is clean and ready for compilation.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result:** PASS WITH FIXES (3 proposition corrections). Subagent-adjudicated.
+
+## Method
+Re-OCR'd all 11 clippings from scratch (pdfimages + tesseract; pdftoppm 300/600 DPI fallbacks on the two low-yield clippings 19301031 and 19361028). Aggregated OCR by year (1928, 1930, 1932, 1934, 1936). Re-verified every candidate and proposition record against the independent OCR. All three flagged props were independently re-read by a separate subagent (no anchoring) which confirmed each finding.
+
+## Candidates (2 records — both CONFIRMED)
+- 1932 PRESIDENT — ROOSEVELT, FRANKLIN (D, e=1): NARRATIVE_ENDORSE verified. OCR 'He Loves the Country' (Denison Herald reprint), 'should make a good president for all the people.' Correct.
+- 1936 PRESIDENT — ROOSEVELT, FRANKLIN D (D, e=1, d_inc=1): NARRATIVE_ENDORSE verified. OCR 'For President' (Cleveland Plain Dealer reprint), 'supports Franklin D. Roosevelt for re-election.' Incumbency confirmed by OCR ('for re-election'/'another four years'). Confidence raised 0.70 -> 0.90 (strongly OCR-confirmed).
+- Phase 8 reverse-match (all 5 years): no candidate endorsements missed by V1. The paper endorsed candidates only at presidential level; all other coverage is ballot measures.
+
+## Propositions (12 records — 9 confirmed, 3 corrected)
+Phase 11 OCR audit of ALL 12 props:
+
+| Year | Prop | V1 | Verdict |
+|---|---|---|---|
+| 1928 | Confederate pension amendment | 1 | CONFIRM ('good ones, and should be approved') |
+| 1928 | Parsonage tax exemption | 1 | CONFIRM |
+| 1928 | School official terms | 1 | CONFIRM |
+| 1928 | State board of education | 1 | CONFIRM (Gov. Moody endorsement confirmed in OCR) |
+| 1930 | **Taylor County road bond** | 1 | **NOT A BALLOT MEASURE -> emptied, NEEDS_RA** |
+| 1930 | $100,000 jail bond | 1 | CONFIRM ('how we need it!', 'three cents on $100') |
+| 1930 | Five amendments en bloc | 1 | CONFIRM ('should receive the support of West Texans') |
+| 1930 | Stock law change | 1 | CONFIRM ('keep livestock off the highways') |
+| 1932 | **Nine amendments (omnibus)** | 1 | **MIXED -> emptied, NEEDS_RA split** |
+| 1932 | Seawall amendment #9 | 1 | CONFIRM ('vote for this amendment with a great deal of enthusiasm') |
+| 1934 | **Eight amendments (omnibus)** | empty | **MIXED -> empty JUSTIFIED, NEEDS_RA split** |
+| 1936 | Amendment #4 (pardon/parole) | 1 | CONFIRM ('removed entirely from political influence') |
+
+### Corrections applied
+1. **1930 Taylor County road bond (row 5): endorsed 1 -> EMPTY.** Independent subagent confirmed there was no road bond on the 1930 Taylor County ballot. The "Tomorrow's Election" editorial lists only the jail bond, stock law, and five amendments. The "Taylor County Roads" editorial is a spending-priority opinion about $147,000 already held in the treasury "as the proceeds of former bond issues," and argues *against* building more gravel roads. V1's endorsed=1 was wrong on two counts. Flagged NEEDS_RA for removal.
+2. **1932 Nine amendments omnibus (row 9 of props): endorsed 1 -> EMPTY.** Editorial is explicitly mixed: "Some of these proposed amendments the Reporter-News favors... Others it opposes." Opposed Tax Redemption ("should be defeated") and Centennial Celebration ("The amendment should be defeated"). A single endorsed=1 misrepresents the editorial. Flagged NEEDS_RA to split into per-amendment rows. (Note: OCR shows "Reporter-News" in a 1932 clipping, predating the documented ~1937 merger — flagged for RA.)
+3. **1934 Eight amendments omnibus: empty CONFIRMED correct.** Editorial favors seven but opposes the four-year-terms Home Rule amendment ("We do not think this is a good amendment, and shall vote against it"). Empty single-direction coding is the right call. Flagged NEEDS_RA to split.
+
+## Phase 12: Cross-paper
+Sister paper present in `done/`: **Abilene Reporter-News (144600)**, the *successor* paper formed ~1937. Its endorsement record begins 1960 — **no year overlap** with the Daily Reporter (1928–1936). Cross-validation therefore N/A (no shared races).
+
+## Phase 13: Multi-pass
+- Pass 1: 3 proposition corrections (above); 2 candidates + 9 props confirmed.
+- Pass 2: 0 new changes. All e=1 prop quotes re-confirmed present in OCR (converged).
+
+## OCR coverage notes
+All 11 clippings yielded usable OCR. Lowest yield: 19301031 (~21 lines even at 600 DPI) — this is the brief "Tomorrow's Election" turnout/summary page; the key ballot list was still legible. No dead-end clippings.

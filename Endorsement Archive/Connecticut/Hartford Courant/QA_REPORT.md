@@ -1,5 +1,116 @@
 # QA Report: Hartford Courant (CT)
 
+**Audit date:** 2026-06-18 (V8 endorsement-verification skill — 15 phases applied, first invocation of new skill)
+
+## V8 endorsement-verification skill run (2026-06-18)
+
+First invocation of the new `endorsement-verification` skill. All 15 phases executed.
+
+### Phase 0: Inventory
+- 26 candidate records (1960, 1962, 1964, 1968, 1970)
+- 45 prop records (all directions already set from V5)
+- 24 clippings (1960-1974)
+- **3 years (1966, 1972, 1974) have clippings but ZERO candidate records** — initially flagged as potential V1 omissions; Phase 8 resolved this
+
+### Phase 1: Re-OCR
+- 24 clippings re-OCR'd via pdfimages → tesseract
+- 1 clipping required pdftoppm fallback (19621105)
+- 3 clippings required 600 DPI retry (19641025, 19641103, 19681104)
+- Combined OCR: 1,979 lines across all 8 years
+
+### Phase 2: Endorsement direction
+- 9 records verified via LIST_FORMAT pattern
+- 4 records verified via NARRATIVE_ENDORSE pattern
+
+### Phase 3: V1 NAME audit
+- 0 garbled names found (V5 QA already cleaned)
+- 1 multi-comma name "WEICKER, LOWELL P., JR." — legitimate (Jr. suffix)
+
+### Phase 4: Format
+- 0 autofixes needed (V5 already clean)
+
+### Phase 5: Pattern K + duplicates
+- 0 Pattern K (R with d_inc=1 or D with r_inc=1)
+- 0 duplicates
+
+### Phase 6: Cross-cycle inc
+- 0 multi-cycle inc fixes (HC's 5-year span has no candidate spanning multiple cycles)
+
+### Phase 7: Inc OCR validation
+- **4 inc flags added** from OCR "incumbent" / "re-election" language
+
+### Phase 8: Reverse-match (curated OCR list per year)
+Walked OCR for each year:
+
+| Year | OCR endorsed names | V1 records | Match |
+|---|---|---|---|
+| 1960 | Nixon, Lodge (R PRES/VP), Brennan (R H-1) | NIXON, LODGE, BRENNAN + 3 opps | ✓ Complete |
+| 1962 | Alsop (R GOV), Seely-Brown (R SEN), Collins (R H-1), Lupton (R H-2), Cohen (R STATE SEN) | All 5 R + 4 D opps | ✓ Complete |
+| 1964 | John Lodge (R SEN, "Connecticut citizens... should vote for John Lodge") | LODGE + DODD opp | ✓ Complete (clipping is SEN-only) |
+| 1966 | NO candidate endorsements (Charter Revision props only) | 0 records | ✓ Correct (prop-only) |
+| 1968 | Nixon (R PRES) + 10 Hartford bond props | NIXON + HUMPHREY opp | ✓ Complete |
+| 1970 | Meskill (R GOV), Weicker (R SEN), Uccello (R H-1) + Daddario/Duffey/Dodd/Cotter opps | All 7 records | ✓ Complete |
+| 1972 | NO candidate endorsements ("Vote Yes on the Questions" — Charter Revision) | 0 records | ✓ Correct (prop-only) |
+| 1974 | NO candidate endorsements (ballot questions only) | 0 records | ✓ Correct (prop-only) |
+
+**Phase 8 verdict: V1 has complete coverage. No missing records to add. The 3 missing-year clippings are correctly absent from V1 because those editorials are prop-only.**
+
+### Phase 9: e=0 OCR verification
+- 5 records verified with opp language
+- 4 records flagged: name not in OCR (Pattern A inference)
+- 4 records flagged: name in OCR but no opp context
+
+### Phase 10: Subagent adjudication
+All 8 flagged records sent to independent subagent for re-read:
+- **5 CONFIRMED** with direct OCR quotes:
+  - Kennedy 1960 PRES: "The Courant... commended... Vice President Nixon and Henry Cabot Lodge"
+  - Dempsey 1962 GOV: "John Alsop... deserves the state's vote"
+  - Ribicoff 1962 SEN: "Seely-Brown would be in the Senate as an experienced legislator"
+  - Daddario 1962 H-1: "The Republican for the First District is James F. Collins"
+  - Dodd 1964 SEN: "vote for John Lodge for Senator"
+- **3 PARTIAL_A_INFERENCE confirmed** (Pattern A logic sound):
+  - Johnson 1960 VP (Lodge R endorsed, LBJ logically opp)
+  - St. Onge 1962 H (blanket R House endorsement, D opp by inference)
+  - Humphrey 1968 PRES (Nixon endorsed, Humphrey logically opp)
+
+**Phase 10 verdict: 0 FLIPs needed; all V1 codings correct.**
+
+### Phase 11: Props direction audit
+- 45/45 props had direction set from V5
+- Sampled 5 props for verification against OCR:
+  - 1960 Bond #2 Mark Twain: "vote YES on all four" ✓
+  - 1972 Bond #6 Clay Hill: "All are needed and deserve support" ✓
+  - 1964 Bond MDC1, 1964 Bond #2, 1962 Amendment #4: All in approve-language sections ✓
+
+### Phase 12: Cross-paper validation
+- Hartford Times (sister paper) referenced in V5 metadata but folder NOT present in `done/`
+- Cross-paper validation **N/A** for this run
+- If Hartford Times folder is added later, re-run Phase 12
+
+### Phase 13: Multi-pass refinement
+- Single pass sufficient (no changes detected requiring re-iteration)
+
+### Phase 14: This QA report
+- Generated and synced to archive
+
+### Phase 15: RA_NEEDS update
+- See RA_NEEDS.md — minimal; HC is the cleanest folder in the project
+
+## V8 Final Stats
+
+- **26 candidate records** (all verified or Pattern A confirmed)
+- **45 proposition records** (100% direction set, sampled and verified)
+- **OCR direct quotes captured**: 15+
+- **Years OCR'd**: 8 of 8 (100%)
+- **V1 FLIPs**: 0
+- **V1 NAME fixes**: 0
+- **V1 omissions added**: 0
+- **Phase 7 inc OCR fixes**: 4
+
+HC is the **first folder to be fully verified through the V8 endorsement-verification skill protocol**. Editorial pattern (R-endorsing 1960s era) confirmed by direct OCR quotes across all years.
+
+---
+
 **Audit date:** 2026-06-16 (V5 FINAL — 400 rounds + 100% spot check + metadata refresh + V5 FINAL formal QA, supersedes V4)
 
 ## V5 Updates (Rounds 301-400) — FINAL

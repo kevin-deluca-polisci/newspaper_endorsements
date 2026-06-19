@@ -195,3 +195,42 @@ Regenerated parts/ JSONs for 11 years (1958, 1962, 1964, 1966, 1968, 1970, 1972,
 ## Recommendation
 
 PASS WITH FIXES. The full verification pass (after Kevin pushed back on the initial superficial pass) substantially improved data quality across 1964/1968/1970/1972/1958 — these years now have correct office codes, correct names, and correct party labels. Pattern J is confirmed to extend to pre-1960 OCR-failed years (PDFs are readable; the original pipeline failed). The substantial Open Items list (especially #1 parts/ JSON sync and #2 unverified-years error rates) suggests a future deeper pass is warranted before this paper is treated as analysis-ready for the affected years.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result:** PASS WITH EXTENSIVE FIXES. Very large sister-paper folder (971 candidates + 212 props after fixes, 142 clippings, 29 cycles 1934-2004). Full pass: all 142 clippings re-OCR'd; 4 era-subagents reconciled every record; cross-validated against the Albuquerque Journal.
+
+## Candidate corrections (~56)
+- **Direction error (reversal):** 1948 Senate — paper endorsed Hurley not Anderson (Anderson 1->0, Hurley EMPTY->1; OCR "we do not think he can measure up to Mr. Hurley").
+- **Name fixes (~26):** 1956 Coan (not Cain); 1960 Cohen (not Cuhen); 1978 Rawson (not Hawson), Frilling; 1982 Waller/Dolores (not Walker/Delores), McBroom (not McBerson); 1984 Jones (not Savage), Waller, Ellefson, McMann, Justiz; 1986 Baca (not Pittman); 1964 Mather (not Robb), Monahan. **1980 was severely garbled** (Darling, Simmons, McBroom, Carmody, Barnhart, Glenn, Jimerson, Eastham, Padoven, Buffett, Rutherford, Cinelli Hundley, Becht — ~14 names + parties + districts).
+- **District fixes:** 1982 (Sanchez 15, Pratt 18, Hawk 19); 1984 (-1 shift: Justiz 17, McSorley 18, Hawk 19, Rutherford 16, Cosner 17); 1980 (multiple); 1964 (Gonzales 6->7).
+- **Field fix:** 2004 Saiers — RAILROAD COMM -> AMAFCA Flood Control Board.
+- **Spurious removed:** 1964 Steely (Phineas); 1984 Eden (Frankie). 1972 Dist 21/22 (Warren/Logan/Radosevich/ReVeal) set EMPTY ("No endorsement" per final list).
+- **Omissions added (20):** opposed records (1940 Miera, 1948 Brown, 1950 Miles/Chavez, 1952 Hubbell, 1958 Atchley/McKim/Thompson, 1962 Gallegos) + marquee (1938 Mitchell, 1942 Dempsey/Hatch, 1944 Dewey, 1950 Mechem/Larrazolo, 1956 Eisenhower, 1964 Lucero, 1980 Gurule/Malry).
+- **Empty recovery:** 1952 Murphy -> 0.
+
+## Proposition corrections (3)
+1948 Prop 3 (right-to-work) EMPTY->0; 1958 Amendment 2 EMPTY-duplicate removed; 1980 Amendment 1 (1->EMPTY, "No position").
+
+## Phase 12: Cross-paper (sister = Albuquerque Journal)
+Compared marquee races across overlapping years: **34 agree (cross-confirming), 20 legitimate editorial divergences** — the Tribune leaned Democratic (Kerry/Anaya/Chavez/Grantham), the Journal Republican (Bush/Mechem/Johnson). No errors surfaced; divergences are real editorial-board differences, preserved.
+
+## Phase 13: Multi-pass
+- Pass 1: corrections above.
+- Pass 2: convergence; remaining surname-scan misses are OCR garbles / the 1964 & 1988 OCR-gap sections / the 1936 dense-page year. No new substantive issues.
+
+## Systematic under-extraction (RA_NEEDS)
+Like the Journal, V1 dropped full tickets. Bulk omissions documented for re-extraction: 1938/1942/1950 (full slates ~15-25 each), 1958 (~32 missing), 1962 (~18), plus partial 1940/1946/1952/1956/1964/1980/1984/2000/2004. 1936 needs full vision verification (OCR-illegible dense page).
+
+## V8 Capstone + 1936 vision (2026-06-18)
+- Structural sweep: clean (0 dups, 0 collisions, 0 party-flips, valid values).
+- Independent capstone subagent re-verified the corrections against OCR: all ~56 fixes, 20 omissions, and spurious removals CONFIRMED, except 2 caught & fixed: 1980 Lewis first name (Aubrey L. -> Thomas E.); 1958 Amendment 1 duplicate removed.
+- **1936 vision-verified** (the previously OCR-illegible year): all 22 records CONFIRMED correct against the 400 DPI editorial, including the split-ticket directions (Dennis Chavez D opposed "We do not believe Senator Chavez is a liberal"; John Watson R Supreme Court endorsed; the 3 R county commissioners endorsed over the criticized D incumbents). The records were accurate; only un-OCR-able. State Senate Dickason/Kinney is a "no qualm either way" dual praise (both e=1, soft).
+Final: 970 candidates, 211 props.
+
+## V8 Extended: bulk-omission completion + full cross-paper (2026-06-18)
+- **Completed the full-ticket omissions** the subagents transcribed: added ~100 records for 1938, 1942, 1950 (full county/state/legislative tickets that V1 had as ZERO records), 1958 (~29), and 1962 (~22). All Phase 8 ADDED with OCR quotes, conf 0.78, flagged for RA spot-check.
+- **Full all-office cross-paper validation vs Albuquerque Journal** (29 shared years): 96 office-races identical, 51 partial-overlap, 39 fully-divergent; **267 individual endorsements cross-confirmed (same surname endorsed by BOTH papers)** — strong mutual validation. Divergences are overwhelmingly legitimate (partisan marquee races; multi-seat judicial-retention slates where each paper covered different judges). A few same-race divergences flagged for review: 1936 DA (Marron vs Waggoner), 1982 Treasurer (McBroom vs McEuen), 1964/66 Sheriff (Hay vs Wilson), 1998 Assessor (Alcon vs Carrillo); plus 1972 County Clerk is the SAME person spelled Gonzalez (Trib) vs Gonzales (Jour).
+Final after extension: 1072 candidates.

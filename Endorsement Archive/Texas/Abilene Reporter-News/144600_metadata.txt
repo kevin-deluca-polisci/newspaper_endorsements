@@ -6,12 +6,12 @@ Newspaper ID: 144600
 State: TX
 Number of clippings: 50
 Endorsement data years: 1952-2018
-Total candidate endorsements: 216
-Total proposition endorsements: 78
+Total candidate records: 216 (211 endorsed=1)
+Total proposition records: 84 (83 with a yes/no direction)
 
-Confidence statistics:
-  Mean confidence: 0.913
-  Low-confidence records (< 0.7): 3
+Confidence statistics (all records):
+  Mean confidence: 0.908
+  Low-confidence records (< 0.7): 11
 
 Top offices (top 15):
   TX SUPREME COURT: 38
@@ -32,4 +32,6 @@ Top offices (top 15):
 
 Party distribution:
   Democrat: 112
-  Republican: 104
+  Republican: 103
+
+(metadata regenerated post-V8 deep verification)
