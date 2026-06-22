@@ -156,3 +156,26 @@ Definitive Stage 1+3+4 pass executed on V8 state:
 5. **2022 DELUCA archive** — added 32 cand from supplementary clipping. Single-clipping format with only endorsed (Pattern J extraction-only — opposed candidates not added per Kevin's "extraction-only" rule).
 6. **1964/1966/1968 not in this folder** — those years are in Austin American (144701) and Austin Statesman (144702) separate folders for the pre-merger morning/afternoon editions.
 7. **April 2026 QA findings preserved**: HAMPTON→STRAWN, THOMPSON→WILLIAMS fixes from prior pass retained; 3 spurious 2008 mentions (DUKES/NAISHTAT/BISCOE) confirmed excluded.
+
+---
+
+## V9 Single-Pass Deep Verification — 2026-06-20
+TX folder, 352 candidates (332 e=1 / 20 e=0) + 72 props, 1974-2022, 19 clippings.
+
+**OCR (Stage 1):** all clippings OCR'd; 1 zero-text recovered (the 2022 digital-text article via pdftotext, 4118 chars). 2016 clippings are voter-TURNOUT news + op-eds, NOT endorsements (Pattern J: actual 2016 endorsement editorial absent — no records to extract).
+
+**Comprehensive vision pass (Stages 2-3, both eras read from images):**
+- **2 spurious 2008 records REMOVED:** STATE BOARD OF ED d5 Bell-Metereau and STATE SENATOR d14 Watson — not in the 2008 "Our endorsements" list (vision-confirmed by me) and they exist correctly in 2010; Watson's SD14 (elected 2006, 4-yr terms) wasn't on the 2008 ballot (external-confirmed). Cross-year contamination.
+- **1 NAME garble fixed:** 2008 TX Supreme Court Place 8 "YAFTEZ, LINDA" → **YAÑEZ, LINDA** (image "Linda Yañez (D)").
+- **1 party filled:** 2008 3rd Court of Appeals Woodie Jones → Democrat (image "Woodie Jones (D)").
+- **1 omission ADDED:** 2022 SCHOOL BOARD d2 **Kathryn Whitley Chu** — the 33rd race the article claims, lost to a page-break garble ("K th / Whitl Ch f Di t i t"); confirmed from the article's AISD section structure (D1 Evans → D2 Chu → D6 Gonzales → D9 Singh).
+- **1974 multi-member Travis d37 disambiguated:** 8 records given Place numbers (Delco P1, Wyman P1, Pena P1, Weddington P2, Earle P3, Todd P4, Barrientos P4, Gutierrez P4) — "New Faces in the House" recap. 1976→37C, 1978→37B district letters added.
+- Older era (1974-1990) and modern flags (Watson/Doggett/McCaul/Carter/Van de Putte/Eckhardt etc.) otherwise fully confirmed; all directions correct.
+
+**Props (Stage 4):** all 72 directed, vision-audited (2008/2010/2014/2022 by subagent; 2012 19-prop Austin 10-1 vs 8-2-1 charter slate coherent; older list-format confirmed). 0 disagreements.
+
+**Cross-paper CONSISTENCY (Stage 7, corrected method) vs Austin sisters (American/Statesman/Chronicle):**
+- Check A: no AAS metadata errors. Conflicts were key collisions (1960 "Johnson"=LBJ on ballot for both VP and Senate; 1970 "Smith"=two people) or naming (AAS uses standard SCHOOL BOARD vs Chronicle's non-standard TRUSTEE for 2012 AISD).
+- Check B: initial pass over-flagged county races as "multiple endorsed for one seat" — but they were already correctly tagged by county (Travis/Williamson/Hays/Bastrop) in dname; my check had omitted dname from the grouping. Re-run with county included is clean except legitimate multi-seat races (1974/78 Railroad Commission 2-seat; 2012 Court of Appeals 3rd multi-Place). Real fix: 1982 TREASURER — Johnny Crow is Travis COUNTY Treasurer (dname set), distinct from Ann Richards = STATE Treasurer (the TREASURER code had conflated them). Normalized 10 county dnames to "X County".
+
+**Final:** 352 candidates (332 e=1 / 20 e=0), 72 props, 0 dups, 0 Pattern K, 0 empty-conf. V9 changes: 2 deletions, 1 addition, 1 name fix, 1 party fill, 11 district/Place disambiguations, 1 county-office fix, 10 dname normalizations.

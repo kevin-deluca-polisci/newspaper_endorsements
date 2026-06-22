@@ -1,12 +1,38 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
 Newspaper: Madison Capital Times
 Newspaper ID: 150701
 State: WI
-Election years: 36 (1928-2018)
-Clippings: 64 files
-Candidate records: 591 (583 endorsed, 8 opposed, 0 no-direction)
-Proposition records: 48 (40 endorsed, 8 opposed, 0 no-direction)
-Cand conf: n/a
-Prop conf: n/a
-Last updated: 2026-04-30
+Number of clippings: 50
+Endorsement data years: 1928-2018
+Total candidate records: 591 (583 endorsed=1)
+Total proposition records: 48 (48 with a yes/no direction)
 
-Years: 1928, 1930, 1932, 1934, 1936, 1940, 1942, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1988, 1990, 2008, 2010, 2012, 2014, 2016, 2018
+Confidence statistics (all records):
+  Mean confidence: 0
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 183
+  H: 48
+  TREASURER: 42
+  STATE SENATOR: 41
+  GOVERNOR: 27
+  RECORDER: 25
+  SENATOR: 23
+  SHERIFF: 23
+  ATTORNEY GENERAL: 22
+  DA/PROSECUTOR: 22
+  LT GOVERNOR: 21
+  SEC OF STATE: 21
+  CNTY CLERK: 20
+  PRESIDENT: 19
+  ASSESSOR: 19
+
+Party distribution:
+  Democrat: 339
+  Progressive: 66
+  Republican: 27
+
+(metadata regenerated post-V8 deep verification)

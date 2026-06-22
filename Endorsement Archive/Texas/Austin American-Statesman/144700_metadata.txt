@@ -1,24 +1,39 @@
-Newspaper Name: Austin American-Statesman
-Alternative Names: Austin Statesman, Austin American
-Years Published: 1871-present (current title since 1973 merger)
-Newspaper ID number: 144700
-State: TX (Austin / Travis County)
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Austin American-Statesman
+Newspaper ID: 144700
+State: TX
 Number of clippings: 19
-Endorsement data years: 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 2008, 2010, 2012, 2014, 2022
+Endorsement data years: 1974-2022
+Total candidate records: 352 (332 endorsed=1)
+Total proposition records: 72 (72 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 332 (310 endorsed, 20 opposed)
-Total proposition records: 63
+Confidence statistics (all records):
+  Mean confidence: 0.952
+  Low-confidence records (< 0.7): 0
 
---- CONFIDENCE SCORES ---
-Min: 0.65
-Mean: 0.95
-Max: 1.00
+Top offices (top 15):
+  STATE REP: 65
+  CNTY COMM: 29
+  H: 28
+  TX SUPREME COURT: 27
+  RAILROAD COMMISSION: 22
+  SCHOOL BOARD: 18
+  CITY COUNCIL: 15
+  COURT OF CRIMINAL APPEALS: 14
+  STATE SENATOR: 14
+  GOVERNOR: 11
+  SENATOR: 10
+  CNTY JUDGE: 10
+  COURT OF APPEALS: 9
+  LT GOVERNOR: 8
+  ATTORNEY GENERAL: 8
 
---- NOTES ---
-2026-05-20: Added 13 supplementary clippings from raw/more austin/ folder
-(1974-1990 single-race articles + summary endorsements + 1 DELUCA 2022).
-205 new candidate records and 41 new proposition records added after cross-record dedup.
-Also fixed 246 non-numeric extraction_confidence values from earlier extractions.
+Party distribution:
+  Democrat: 202
+  Republican: 90
+  Other: 5
+  Independent: 1
 
-Compiled: 2026-05-20
+(metadata regenerated post-V8 deep verification)

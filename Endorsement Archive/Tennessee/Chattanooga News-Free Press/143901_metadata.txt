@@ -1,47 +1,32 @@
-Newspaper Name: Chattanooga News-Free Press
-Alternative Names: The News-Free Press
-Years Published: 1939-1999
-Newspaper ID number: 143901
-State: TN (Chattanooga, Hamilton County)
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Chattanooga News-Free Press
+Newspaper ID: 143901
+State: TN
 Number of clippings: 14
-Endorsement data years: 1940, 1944, 1946, 1948, 1950, 1952, 1956, 1958, 1960, 1962, 1968, 1970, 1972, 1974 (all 14 with records)
+Endorsement data years: 1940-1974
+Total candidate records: 111 (80 endorsed=1)
+Total proposition records: 24 (24 with a yes/no direction)
 
---- ENDORSEMENT COUNTS (V3 — 10-round QA + formal pass, 2026-06-04) ---
-Total candidate records: 107
-  Endorsed: 80
-  Opposed: 27
-Total proposition records: 24
+Confidence statistics (all records):
+  Mean confidence: 0.886
+  Low-confidence records (< 0.7): 0
 
---- CONFIDENCE SCORES ---
-Mean: 0.887
+Top offices (top 15):
+  STATE REP: 36
+  PRESIDENT: 18
+  VICE PRESIDENT: 17
+  H: 11
+  STATE SENATOR: 11
+  DIRECTOR: 8
+  SENATOR: 7
+  GOVERNOR: 3
 
---- DATA QUALITY ---
-QA date: 2026-06-04 (V3)
-QA result: PASS WITH FIXES V3
-QA rounds: 10 + formal endorsement-qa skill pass
-Total fixes: ~28 fixes including 1946 City Manager Referendum + 1956 STATE REP party fills
+Party distribution:
+  Republican: 62
+  Democrat: 40
+  Independent: 6
+  Nonpartisan: 3
 
---- V3 FIX SUMMARY ---
-- Rounds 1-5 (25 fixes, see V2 summary): Pattern A pairs added across PRES/VP years, 1970 STATE REP restructure, 1944 dual endorsement verified
-- Round 7: 1946 Chattanooga City Manager Referendum prop ADDED (paper strongly endorsed "FOR CITY MANAGER")
-- Round 8: 1962 OCR verified all 8 candidate records correct
-- Round 9: 1956 STATE REP MOORE + CRUTCHFIELD party fills → Democrat (per 1962/1968 cross-references)
-- Formal QA: 0 structural issues, 0 dups, mean conf 0.886
-
---- HISTORICAL NOTES ---
-1. **Post-merger Republican-leaning afternoon paper** (1939-1999) — formed from Chattanooga News + Chattanooga Free Press 1939 merger. Carried forward Free Press's R editorial line.
-2. **1999 merger**: became Chattanooga Times Free Press after acquiring rival Chattanooga Times.
-3. **Editorial line**: Consistent R-leaning — Willkie R 1940, Dewey R 1944+1948, Eisenhower R 1952+1956, Nixon R 1960+1968+1972, Brock R H3 1962+1968+Sen 1970, Baker R H3 1968-74, Howard Baker R Sen 1972, Dunn R Gov 1970, Alexander R Gov 1974.
-4. **1944 unusual three-way endorsement** for H 3: paper endorsed BOTH Foster Johnson (Independent) AND Ernest W. Forstner (R) as alternatives to Kefauver D — paper said "thousands of votes cast for Foster Johnson and Forstner in protest against the sinister behind-the-scenes New Deal situation"
-5. **1946 Major editorial campaign**: paper led campaign FOR Chattanooga commission-manager form of government referendum against political machine.
-6. **1950 Critique of one-party system**: paper editorialized about TN one-party Democrat domination with mostly uncontested races; no specific candidate endorsements in available clipping.
-7. **1970 H 3rd State District NO RECOMMENDATION**: paper declined to endorse for state house dist 3.
-8. **Two William C/L Carters in 1970**: paper endorsed William C. (Bill) Carter for state 4th + William L. (Bill) Carter for state 6th — different people same nickname.
-
---- COVERAGE GAPS (intrinsic source limits) ---
-- 14 clippings only
-- 1964 PRES year missing (Goldwater R likely endorsed per paper editorial line)
-- 1946+1950 clippings had few candidate endorsements — mostly editorial/prop focus
-- Local TN state legislature races may have had additional endorsements not in available clippings
-
-Compiled: 2026-05-24. Updated: 2026-06-04 (V3 10-round QA + formal pass — 28 fixes).
+(metadata regenerated post-V8 deep verification)

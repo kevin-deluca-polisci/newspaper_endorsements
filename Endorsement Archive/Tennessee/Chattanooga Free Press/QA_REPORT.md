@@ -56,3 +56,13 @@ All records carry confidence 0.92 or higher. No low-confidence records to re-sca
 - **Single-year coverage:** The Free Press only operated 1936-1939 (the original folder contained one Free Press clipping from 1936 in the `Chattanooga_Free_Press/` subfolder; subsequent years 1937-1939 were not in the source). The Free Press's editorial board carried forward into the merged News-Free Press starting 1939, so post-1939 endorsements appear under newspaper_id 143901.
 - **No propositions:** The 1936 clipping focused entirely on the presidential race and the 3rd District House race. No proposition endorsements present.
 - **Editorial consistency check (cross-paper):** The same-day Chattanooga News (143903) clipping endorsed FDR (implicit), Browning (D Governor), and McReynolds (D inc 3rd) — all directly opposed by the Free Press. This is preserved as a genuine editorial split between the two papers; see CROSS_PAPER_CHECK_CHATTANOOGA.md for the detailed comparison.
+
+---
+
+## V9 DEEP VERIFICATION — 2026-06-21
+Re-OCR'd the single 1936 clipping (pdfimages + tesseract) and high-res vision-verified all 4 records against the image.
+**Result: PASS, 0 fixes.** Image confirms every direction:
+- "Vote for Alf Landon next Tuesday" → Landon (R) PRES e=1.
+- Sarcastic "Vote for Franklin Delano Roosevelt... if you believe in [Mr. Roosevelt's Socialist-Communist advisers]" → FDR (D) e=0.
+- "Hilleary Deserves Full Support... the election of Mr. Hilleary and the retirement of the most abject 'yes man' of them all" → Hilleary (R) H-3 e=1, McReynolds (D) e=0.
+No omissions: the editorial covers only President + the 3rd-District House race (no Governor/Senate/props discussed). Integrity clean (Pattern K=0). Props correctly empty.

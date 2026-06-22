@@ -26,7 +26,7 @@ SC,Greenville News,143300,1996,SC,AMENDMENT,1,Constitutional Amendment 1 - civil
 SC,Greenville News,143300,1996,SC,AMENDMENT,3,Constitutional Amendment 3 - voter approval requirement,1,recommended yes,0.7
 SC,Greenville News,143300,1996,SC,AMENDMENT,4,Constitutional Amendment 4,1,recommended yes,0.7
 SC,Greenville News,143300,1996,SC,REFERENDUM,,Local Question - Sunday alcohol sales,1,recommended yes,0.7
-SC,Greenville News,143300,1996,SC,REFERENDUM,,School Board structure reform - Greenville County,1,recommended yes,0.7
+SC,Greenville News,143300,1996,SC,REFERENDUM,,School Board structure reform - Greenville County,0,recommended yes | V9 SWEEP FIX: Greenville school split (Local Q3),0.7
 SC,Greenville News,143300,2000,SC,REFERENDUM,,State Lottery,0,newspaper opposed lottery,0.85
 SC,Greenville News,143300,2000,SC,BOND,,Greenville County Courthouse bond,1,recommended yes,0.8
 SC,Greenville News,143300,2000,SC,AMENDMENT,,Constitutional Amendments,1,recommended yes on amendments,0.6

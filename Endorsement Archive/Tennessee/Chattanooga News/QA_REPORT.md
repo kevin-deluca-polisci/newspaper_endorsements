@@ -65,3 +65,15 @@ All other records carry confidence 0.78 or higher.
 - **1938 Republican incumbents in 1st and 2nd Districts:** B. Carroll Reece (D-1) and J. Will Taylor (R-2) — wait, Reece was R, not D. The paper noted both would be re-elected but did not endorse them; the paper's allegiance lay with the New Deal Democrats. Coded endorsed=0 with conf 0.75.
 - **Newspaper ID note:** 143903 is a placeholder ID assigned by the user since the paper was not in the GS lookup. Augmentation pipeline (DIME/Voteview/permid) will need to handle this paper specially or skip the permid merge.
 - **Pre-merger paper:** Chattanooga News merged with Chattanooga Free Press in 1939 to form the News-Free Press. After 1939, all endorsement data appears under newspaper_id 143901.
+
+---
+
+## V9 DEEP VERIFICATION — 2026-06-21
+Re-OCR'd all 9 clippings (1922–1938); high-res vision-verified every high-risk record.
+**Result: PASS WITH FIXES.** 57→58 candidate records. Integrity clean (Pattern K=0, no dups).
+
+3 corrections (1922 name scramble + omission):
+- STATE SENATOR "Bass, Eugene"→"Bryan, Eugene"; STATE REP "Bryan, W.J."→"Bass, W.J." (V1 swapped the two names).
+- +STATE REP "Coleman, D. M." (D) — omitted from "Maj. W. J. Bass, D. M. Coleman and W. French Grubb to the house."
+
+Confirmed-correct (vision): 1928 Hoover-over-Smith ("Hoovercrat" bolt); 1930 Horton reluctantly endorsed over Taylor-sponsored Bruce; 1932/1934 McAlister-D over Pope-Ind; 1936 full D ticket (mirrors sister Free Press); 1938 five House districts (no scramble). Props (5, all YES) consistent with a progressive anti-poll-tax paper.

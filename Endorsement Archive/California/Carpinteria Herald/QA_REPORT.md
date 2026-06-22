@@ -411,3 +411,30 @@ All low-conf records carry `extraction_confidence_note` documenting the OCR limi
 - 0 byte-identical duplicates (none to remove)
 - No unique-content files were deleted
 - 13 of 27 parts JSONs are marked `duplicate_content: true` (v2/v3/v4 files that were content-identical or substantively overlapping with their v1 sibling). This is documented in each parts JSON to prevent double-counting and preserves the source files per the user's no-delete rule.
+
+---
+
+# V9 Single-Pass Deep Verification — 2026-06-21
+
+**Scope:** 27 clippings (1950–1978), 60 candidates / 171 props. All clippings independently re-OCR'd; props (the bulk) verified by an independent OCR-reading subagent; candidate directions and the 1972 checkbox grid checked directly.
+
+**Result: 6 proposition corrections; candidate data clean.**
+
+### Proposition corrections
+- **1950 Amendment 10 (public-housing election): DIRECTION YES→NO** — OCR "We can see no reason to clutter up the law books with this Amendment."
+- **1954: +5 omitted props** the paper took explicit positions on but V1 missed: Prop 2 School Bonds (YES), Prop 4 Aid to Needy Aged (NO), Prop 5 Vessel tax exemption (YES), Prop 7 Land Titles/Torrens (YES, favorable), Prop 9 Church exemption (YES, indirect — flagged). Props 171 total.
+
+### Candidate verification (no changes)
+- Directions confirmed against OCR, including the notable ones: 1958's Democratic lean (Brown-gov, Engle-senator, Mosk-AG) is real and OCR-explained — the paper soured on Knight over the 1958 "Big Switch" ("our respect for Gov. Goodwin J. Knight was lost..."); 1962 Nixon-for-Governor; 1952 Hayes (D) over Bramblett (R).
+- **1960 candidate gap is genuine:** the "RE-ELECT Congressman TEAGUE" text on the 1960 clipping is a **paid political advertisement** (vision-confirmed: boxed, "Paid Political Advertisement"), NOT the paper's endorsement. 1950/1960 clippings are prop-only editorials.
+- **1972 checkbox-grid props vision spot-verified:** the grid marks the recommended box with "X" and crosshatches the other; props 1, 2, 3, 9, 10, 12, 13 confirmed (X-in-YES matches CSV), so the grid was read correctly; the NO calls (11 Right of Privacy, 14 Watson tax limit, 19 Marijuana) are consistent and historically plausible.
+
+### Cross-paper (Stage 7) — Carpinteria correct throughout
+All apparent mismatches vs other CA papers resolve in Carpinteria's favor: namesake collisions (different Browns/Johnsons/Teagues), the Controller/Comptroller naming convention, and **Rafferty 1962** where Carpinteria correctly codes Superintendent as **Nonpartisan** while Oakland/Salinas wrongly mark it Republican (flag for those papers).
+
+### Integrity
+60 candidates / 171 props; 0 exact duplicates, 0 Pattern K, 0 empty names, 0 empty confidence. Metadata regenerated; archive md5-synced.
+
+## Addendum — high-res 1972 grid re-read + 1954 props 7/9 (2026-06-21)
+**1972 checkbox ballot grid re-rendered at high zoom (X-mark per box) — V1 had mis-read it badly.** 8 corrections: direction flips on Prop 11 Right of Privacy (NO→YES), Prop 17 Death Penalty (YES→NO), Prop 18 Obscenity (YES→NO), Prop 20 Coastal Zone Conservation (YES→NO), Prop 21 Assignment of Students/anti-busing (YES→NO), Prop 22 Agricultural Labor Relations (YES→NO); Prop 15 relabeled "State Employee Salaries" (was "bond related") + direction NO; Prop 16 "Highway Patrol Salaries" (NO) ADDED (was missing). Verified pattern: the paper recommended YES on Props 1–13 and NO on Props 14–22 (every box X-position confirmed at high zoom). Props 171→172.
+**1954 Props 7 & 9 confirmed YES** via v3/v4 OCR ("We can find no opposition to this measure" / "is one that should be passed"); confidence raised to 0.9.

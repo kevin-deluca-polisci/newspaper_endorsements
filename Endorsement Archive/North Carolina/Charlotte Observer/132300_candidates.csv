@@ -6,7 +6,7 @@ NC,Charlotte Observer,132300,1960,SENATOR,,,NC,"JORDAN, B. EVERETT",Democrat,1,1
 NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"BLYTHE, J. FRANK",Democrat,1,,,,,0.95
 NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"BROWN, ERNEST K.",Democrat,1,,,,,0.95
 NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"GARRISON, J. HERBERT",Democrat,1,,,,,0.95
-NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"BUTCHER, JERRY",Republican,0,,,,fourth seat - hope one of four Rs wins,0.6
+NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"BLUCHER, JERRY",Republican,0,,,,"fourth seat - hope one of four Rs wins | V9 2026-06-21 VISION (1960 Observer narrative): name ""Jerry Blucher"" — OCR ""Butcher""->""Blucher"".",0.6
 NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"PAGE JR., JESSE W.",Republican,0,,,,fourth seat candidate,0.6
 NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"RANDLE, MERLE D.",Republican,0,,,,fourth seat candidate,0.6
 NC,Charlotte Observer,132300,1960,CNTY COMM,,,NC,"VINROOT, G. E.",Republican,0,,,,fourth seat candidate,0.6
@@ -27,7 +27,7 @@ NC,Charlotte Observer,132300,1962,STATE REP,36,,NC,"SAXON, J. HERMAN",Republican
 NC,Charlotte Observer,132300,1962,CNTY COMM,,,NC,"BLYTHE, J. FRANK",Democrat,1,1,,,,0.95
 NC,Charlotte Observer,132300,1962,CNTY COMM,,,NC,"SHRIVER JR., ALFRED W.",Republican,1,,,,Party fix: 1962 had no clear party in OCR; 1964 OCR shows Shriver R,0.95
 NC,Charlotte Observer,132300,1962,CNTY COMM,,,NC,"LOWE, CHARLES M.",Democrat,1,,,,,0.95
-NC,Charlotte Observer,132300,1962,CNTY COMM,,,NC,"WILMER, HENRY B.",Democrat,1,,,,no recommendation for fifth seat,0.95
+NC,Charlotte Observer,132300,1962,CNTY COMM,,,NC,"WILMER, HENRY B.",Republican,1,,,,no recommendation for fifth seat | V9 2026-06-21 CROSS-PAPER: sister News 1962/1964 clipping explicitly prints 'Henry Wilmer (R)'; same person/race. Observer clipping omits party; coded D was an inference error. Party D->R.,0.95
 NC,Charlotte Observer,132300,1962,DA/PROSECUTOR,,,NC,"DOWNS, KENNETH R.",Democrat,1,,,,District Solicitor,0.95
 NC,Charlotte Observer,132300,1964,PRESIDENT,,,NC,"JOHNSON, LYNDON B.",Democrat,1,1,,,Humphrey for VP,0.98
 NC,Charlotte Observer,132300,1964,H,9,,NC,"JONAS, CHARLES RAPER",Republican,1,,,,,0.95
@@ -49,7 +49,7 @@ NC,Charlotte Observer,132300,1964,STATE REP,36,,NC,"GARINGER, ELMER H.",Democrat
 NC,Charlotte Observer,132300,1964,STATE REP,36,,NC,"VOGLER, JAMES B.",Democrat,1,,,,five to be elected,0.95
 NC,Charlotte Observer,132300,1964,CNTY COMM,,,NC,"ATKINSON JR., SAM T.",Democrat,1,,,,five to be elected,0.95
 NC,Charlotte Observer,132300,1964,CNTY COMM,,,NC,"BLYTHE, J. FRANK",Democrat,1,1,,,five to be elected,0.95
-NC,Charlotte Observer,132300,1964,CNTY COMM,,,NC,"WILMER, HENRY R.",Democrat,1,1,,,five to be elected,0.95
+NC,Charlotte Observer,132300,1964,CNTY COMM,,,NC,"WILMER, HENRY R.",Republican,1,,1,,"five to be elected | V9 2026-06-21 CROSS-PAPER: sister News 1962/1964 clipping explicitly prints 'Henry Wilmer (R)'; same person/race. Observer clipping omits party; coded D was an inference error. Party D->R. | V9: inc flag d_inc->r_inc (Wilmer is the Republican incumbent, consistent w/ party R fix).",0.95
 NC,Charlotte Observer,132300,1964,CNTY COMM,,,NC,"KINCAID, CHARLES A.",Republican,1,,,,five to be elected; no choice among Shriver/Wallace/Hood for fifth seat,0.9
 NC,Charlotte Observer,132300,1964,COUNTY TREASURER,,,NC,"CADIEU, JUANITA IRBY",Democrat,1,,,,County Treasurer (distinct from state Treasurer Gill D),0.95
 NC,Charlotte Observer,132300,1966,SENATOR,,,NC,"JORDAN, B. EVERETT",Democrat,1,1,,,,0.97
@@ -271,7 +271,7 @@ NC,Charlotte Observer,132300,1982,H,9,,NC,"MARTIN, JAMES G. (JIM)",Republican,1,
 NC,Charlotte Observer,132300,1982,COURT OF APPEALS,,,NC,"EAGLES, SIDNEY S., JR.",Democrat,1,,,,,0.9
 NC,Charlotte Observer,132300,1982,STATE SENATOR,22,,NC,"JENKINS, CECIL R., JR.",Democrat,1,1,,,vote for 4,0.9
 NC,Charlotte Observer,132300,1982,STATE SENATOR,22,,NC,"LAWING, CRAIG",Democrat,1,1,,,vote for 4,0.9
-NC,Charlotte Observer,132300,1982,STATE SENATOR,22,,NC,"POLK, JAMES R. (JIM)",Democrat,1,,,,vote for 4,0.9
+NC,Charlotte Observer,132300,1982,STATE SENATOR,22,,NC,"POLK, JAMES R. (JIM)",Democrat,0,,,,vote for 4 | V9 2026-06-21 HIGH-RES VISION (1982 Observer bold-recap): James K. (Jim) Polk (D) NOT bold = not endorsed (V1 marked-all-Dems error). Fix e=1->0.,0.9
 NC,Charlotte Observer,132300,1982,STATE SENATOR,22,,NC,"TISON, BENJAMIN T. (BEN)",Democrat,1,,,,vote for 4,0.9
 NC,Charlotte Observer,132300,1982,STATE REP,36,,NC,"BERRY, PHILLIP O. (PHIL)",Democrat,1,1,,,vote for 8,0.9
 NC,Charlotte Observer,132300,1982,STATE REP,36,,NC,"BLACK, JIM",Democrat,1,1,,,vote for 8,0.9
@@ -415,7 +415,7 @@ NC,Charlotte Observer,132300,1990,CNTY COMM,,,NC,"KEBER, PETER",Republican,1,,,,
 NC,Charlotte Observer,132300,1990,CNTY COMM,,,NC,"SCHRADER, ANN",Republican,1,,,,At-Large,0.8
 NC,Charlotte Observer,132300,1990,CNTY COMM,4,,NC,"BEHER, LLOYD",Democrat,1,,,,District 4,0.7
 NC,Charlotte Observer,132300,1990,CNTY COMM,5,,NC,"ANDREWS, KEN",Republican,1,,,,District 5,0.8
-NC,Charlotte Observer,132300,1990,STATE SENATOR,22,,NC,"JOHNSON, JAMES C. (JIM), SR.",Democrat,0,,1,,Party fix: was D per OCR; not endorsed (Hartsell R endorsed),0.85
+NC,Charlotte Observer,132300,1990,STATE SENATOR,22,,NC,"JOHNSON, JAMES C. (JIM), SR.",Democrat,0,1,,,"Party fix: was D per OCR; not endorsed (Hartsell R endorsed) | V9 2026-06-21 Pattern K fix: Johnson is the Democratic incumbent (Sen dist 22), not endorsed in 1990 (Hartsell R endorsed). inc flag r_inc->d_inc.",0.85
 NC,Charlotte Observer,132300,1990,STATE SENATOR,22,,NC,"HARTSELL, FLETCHER, JR.",Republican,1,,,,,0.85
 NC,Charlotte Observer,132300,1990,STATE SENATOR,34,,NC,"ODOM, T.L. (FOUNTAIN)",Democrat,1,1,,,,0.9
 NC,Charlotte Observer,132300,1990,STATE SENATOR,35,,NC,"ALEXANDER, MARTHA",Democrat,1,,,,,0.85
@@ -510,6 +510,7 @@ NC,Charlotte Observer,132300,2010,CNTY COMM,AT-LARGE,Mecklenburg,NC,"COGDELL, HA
 NC,Charlotte Observer,132300,2010,CNTY COMM,AT-LARGE,Mecklenburg,NC,"PENDERGRAPH, JIM",Republican,1,,,,at-large; former sheriff,0.92
 NC,Charlotte Observer,132300,2010,CNTY COMM,2,Mecklenburg,NC,"LEAKE, VILMA",Democrat,1,,,,,0.9
 NC,Charlotte Observer,132300,2010,CNTY COMM,4,Mecklenburg,NC,"CLARKE, DUMONT",Democrat,1,1,,,,0.9
+NC,Charlotte Observer,132300,2010,CNTY COMM,3,Mecklenburg,NC,"DUNLAP, GEORGE",Democrat,1,,,,"V9 2026-06-21 HIGH-RES VISION OMISSION ADD: 2010 recap ""Leake and Dunlap face opponents who do not have the experience needed to improve on their performance"" — Dunlap (D, county-comm dist 3 incumbent) endorsed; V1 omitted. Added.",0.9
 NC,Charlotte Observer,132300,2010,SHERIFF,,Mecklenburg,NC,"BAILEY, CHIPP",Democrat,1,,,,incumbent,0.95
 NC,Charlotte Observer,132300,2010,SUPREME COURT,,,NC,"HUNTER, ROBERT C. (BOB)",,1,,,,nonpartisan,0.93
 NC,Charlotte Observer,132300,2010,COURT OF APPEALS,,,NC,"GRAY, STEVEN",,1,,,,Mecklenburg district judge,0.85
@@ -541,6 +542,7 @@ NC,Charlotte Observer,132300,2012,STATE SENATOR,37,,NC,"CLODFELTER, DAN",Democra
 NC,Charlotte Observer,132300,2012,STATE SENATOR,38,,NC,"FORD, JOEL",Democrat,1,,,,,0.93
 NC,Charlotte Observer,132300,2012,STATE SENATOR,39,,NC,"RUCHO, BOB",Republican,1,,,,incumbent over Democrat Jack Flynn,0.93
 NC,Charlotte Observer,132300,2012,STATE SENATOR,40,,NC,"GRAHAM, MALCOLM",Democrat,1,1,,,four-term incumbent,0.93
+NC,Charlotte Observer,132300,2012,STATE REP,88,,NC,"ALEXANDER, MARTHA",Democrat,1,,,,"V9 2026-06-21 HIGH-RES VISION OMISSION ADD: 2012 ""How we see the races"" — ""In House District 88, nine-term incumbent Democrat Martha Alexander (bold=endorsed) has provided long, productive service."" V1 omitted. Added.",0.9
 NC,Charlotte Observer,132300,2012,STATE REP,92,,NC,"JETER, CHARLES",Republican,1,,,,Huntersville town commissioner,0.93
 NC,Charlotte Observer,132300,2012,CNTY COMM,AT-LARGE,Mecklenburg,NC,"COTHAM, PAT",Democrat,1,,,,at-large,0.93
 NC,Charlotte Observer,132300,2012,CNTY COMM,AT-LARGE,Mecklenburg,NC,"FULLER, TREVOR",Democrat,1,,,,at-large,0.93
@@ -906,7 +908,7 @@ NC,Charlotte Observer,132300,1982,H,9,,NC,"CORNELIUS, PRESTON",Democrat,0,,,,Pat
 NC,Charlotte Observer,132300,1982,H,9,,NC,"BRAATZ, DAVE",Libertarian,0,,,,Pattern A: opposed vs Martin R,0.92
 NC,Charlotte Observer,132300,1982,COURT OF APPEALS,,,NC,"PEARCE, BETTY J.",Republican,0,,,,Pattern A: opposed vs Eagles D,0.92
 NC,Charlotte Observer,132300,1982,STATE SENATOR,22,,NC,"GHENT, THOMAS DOYLE",Republican,0,,,,Pattern A: opposed vs 4 D endorsed,0.92
-NC,Charlotte Observer,132300,1982,STATE SENATOR,22,,NC,"HARRIS, KENNETH R.",Republican,0,,,,Pattern A: opposed vs 4 D endorsed,0.92
+NC,Charlotte Observer,132300,1982,STATE SENATOR,22,,NC,"HARRIS, KENNETH R.",Republican,1,,,,Pattern A: opposed vs 4 D endorsed | V9 2026-06-21 HIGH-RES VISION (1982 Observer bold-recap): Kenneth R. Harris (R) is BOLD = endorsed (vote-for-4: Jenkins/Lawing/Tison/Harris). Fix e=0->1.,0.92
 NC,Charlotte Observer,132300,1982,SHERIFF,,,NC,"STAHL, DONALD W.",Republican,0,,1,,Pattern A: opposed vs Kidd D; Stahl was R incumbent,0.92
 NC,Charlotte Observer,132300,1982,STATE REP,36,,NC,"COBB, IRVIN W. (IKE)",Republican,0,,,,Pattern A: opposed (vote for 8),0.92
 NC,Charlotte Observer,132300,1982,STATE REP,36,,NC,"COLE, J. MYERS (JIM)",Republican,0,,,,Pattern A: opposed (vote for 8),0.92

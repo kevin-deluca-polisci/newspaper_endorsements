@@ -110,3 +110,18 @@ Definitive Stage 1+3+4 pass executed on V2 state:
 3. **Cross-filing era exceptions** — Chronicle endorsed L/G candidates in races where R incumbents had no D opposition: Easton (L) vs Flores (R); Wendel (G) vs Smitherman (R); Koelsch (L) vs Willet (R); Waterbury (G) vs Devine (R). Documented in notes_endorse.
 4. **Mink/Kaplan o_inc=1** — convention for nonpartisan incumbents. Distinct from Republican/Democrat incumbency.
 5. **Two-row Hinojosa note** — Hinojosa appears in both AAS folder 2012 (Pos 8 At-Large) and Chronicle 2012 (same race, AISD trustee). Different newspapers endorsing same person, no cross-record dup issue.
+
+---
+
+## V9 Single-Pass Deep Verification — 2026-06-20
+Austin alt-weekly, single 2012 clipping (digital text article). 36 candidates (all e=1) + 19 props.
+
+**Source:** the clipping is a clean digital-text PDF ("The Chronicle Endorsements," Oct 19 2012) — 24,459 chars; verification done from the full article text.
+
+**Candidates (Stage 3):** all 36 confirmed against the article. The Chronicle endorsed a **straight Democratic ticket** plus 4 explicit third-party "exceptions" — Ben Easton (Libertarian, H d17), Josh Wendel (Green, RRC unexpired), Roberto Koelsch (Libertarian, TX Sup Ct Pl 2), Charles Waterbury (Green, TX Sup Ct Pl 4) — all present and correctly coded. Reverse-match: every candidate is in the article (Candace Duval appears as "Duvál" with an accent — same person). No omissions, no spurious records.
+
+**Props (Stage 4 — all 19 verified, NOT all-one-direction):** YES on Central Health Prop 1, Charter Props 1/2/4/5/6/7/9/10/11, the move-elections charter prop, and the $385M bond package (props 12-18); **NO on Prop 3** (10-1 districting plan); **Prop 8 = "No Endorsement"** (editorial board split — blank is correct, documented). Notable cross-paper data point: the Chronicle OPPOSED the 10-1 plan (Prop 3) and SUPPORTED the 8-2-1 hybrid (Prop 4), the OPPOSITE of the Austin American-Statesman — a legitimate editorial difference, both correctly coded per their own papers.
+
+**Cross-paper consistency (Stage 7) vs AAS (2012 overlap):** Check A flagged the same office-naming inconsistency noted earlier — the Chronicle coded AISD board members as "TRUSTEE" vs AAS's "SCHOOL BOARD". RESOLVED: normalized the 4 AISD trustee records to **SCHOOL BOARD** and the 2 ACC trustee records (Mink/Kaplan, dname "Austin Community College") to **COMMUNITY COLLEGE BOARD**, matching AAS and the project office-code standard (dnames disambiguate). Goodman (Barton Springs/Edwards Aquifer Conservation District, Pct 4 Director) left as DIRECTOR — a genuinely distinct special-district office.
+
+**Final:** 36 candidates (36 e=1), 19 props (17 yes / 1 no / 1 deliberate no-endorsement), 0 dups, 0 Pattern K. V9 changes: 6 office-code normalizations; 0 direction/candidate errors (data was accurate).

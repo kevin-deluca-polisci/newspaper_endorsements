@@ -294,3 +294,43 @@ Cross-year party flips that may need OCR verification:
 | 1970 | **3 fixes** — SHELTON party R→Independent (OCR "(I)"), POOLE+MARTIN office SCHOOL BOARD→STATE BOARD OF ED, VACCA DANIEL→PASCHAL |
 | 1988 | **DUKAKIS Pattern A add** (paper endorsed Bush) |
 | 1992 | **CLINTON Pattern A add**; 1992 CIVIL APPEALS→COURT OF APPEALS; BUSH r_inc=1 added |
+
+---
+
+# V9 Single-Pass Deep Verification — 2026-06-21
+
+**Scope:** Large folder — 61 clippings (1892–2012), candidates **717 → 731**, props 195. All 61 clippings independently re-OCR'd from scratch (`pdfimages` + `tesseract`; 4 zero-text images recovered via `--psm 4` / `pdftoppm`; one multi-page 1968 clipping rendered per page). Field-level verification of the modern recap years delegated to 4 independent OCR-reading subagents; pre-1960 reverse-match and all corrections adjudicated directly.
+
+## Structural finding: two mislabeled clippings
+The PDFs named `100101_20191028` and `100101_20191104` are NOT 2019 — their printed mastheads read **November 8, 1960** ("How To Split The Ballot," a Jefferson County guide) and **October 28, 1962** (the Lister Hill endorsement). Re-assigned to 1960/1962. (No real 2019 data exists.)
+
+## Corrections applied
+**1960 (split-ballot clipping, vision-confirmed at high zoom):** name fixes HANER→BONER (tax collector), LANIER/AGNES→LUCIUS (treasurer); +4 omissions (Simpson—Supreme Court 2nd post; Huddleston—US House; Whetstone—tax assessor; Lee—constable). 1960 went 8→12 records.
+**Reverse-match omissions (pre-1960 + modern):** 1932 Roosevelt+Garner (endorsed) / Hoover (opposed) — "landslide for Roosevelt and Garner"; 1976 US House Nichols(d3)/Bevill(d4)/Flippo(d5); 1994 Sec of State Bennett; 2010 Circuit Judge Place 12 Annetta Verin; **2012 Supreme Court Chief Justice Bob Vance (endorsed) over Roy Moore (opposed)** — the only 2012 endorsement (paper explicitly declined to endorse for president).
+**Name/office/party fixes (subagent OCR-verified):** 1966 Greens→Owens; 1970 Hamline→Hawkins; 1978 Rogers→Tax Assessor, Clifford→City Council; 1980 Hicks D→R and Haasch→Heacock D→R; 1988 Russ Pl.1→Ross Pl.18; 1990 four "Judge" miscodes → Tax Collector (Hall) / Tax Assessor (Crim, Reynolds) / Coroner (Thompson).
+
+## Candidate gap years = genuine
+Clippings exist for 1938/1940/1946/1954/1958 with no candidate records; verified each is an amendments/commentary editorial, not a candidate endorsement (1938 = FDR-unity column; 1940/1946/1954/1958 = amendment editorials). The 1948 "Rest of the Ballot" editorial's Sparkman mention is descriptive ("evidenced by the fact that Sen. John Sparkman…"), not an explicit endorsement — left out for consistency with the Age-Herald; flagged.
+
+## Propositions — clean
+All 5 all-one-direction prop years verified legitimate against OCR: 1936 ("Vote Yes On All Five Amendments"), 1948 ("all 11… deserve approval"), 1964 ("'No' On All Amendments"), 2000 (Yes on 1–5 + Jefferson prostitution; amendments 6–14 explicitly "no position — affect communities outside the area"), 2010 (each "No"). No prop changes.
+
+## Cross-paper consistency — one systematic flag (see RA_NEEDS §A)
+**46 records** have the News coding a candidate Democrat while the Birmingham Post-Herald and/or Anniston Star code the same person Republican (1990s–2000s judicial/PSC/down-ballot; incl. known Republicans See, Murdock, Sullivan, Chapman). Party is external-sourced (not in the clippings), so this is documented and reserved for the planned four-paper Birmingham reconciliation + external party audit rather than piecemeal-flipped. Office-granularity differences (Treasurer vs County Treasurer, etc.) are convention, not errors.
+
+## Integrity
+731 candidates / 195 props; **0 exact duplicates, 0 Pattern K, 0 empty names, 0 empty confidence.** Metadata regenerated; archive md5-synced.
+
+## Addendum — re-OCR recovery of two unreadable clippings (2026-06-21)
+Both clippings that V9 initially could not read were recovered at 400 DPI (`pdftoppm -gray` + `tesseract --psm 4/6`):
+- **1962** confirmed the three previously-unverifiable endorsements (Bailey/sheriff, Pinson/mayor, Huddleston/US House) — all correct, no change.
+- **1988** recap fully recovered, revealing the year had been badly mis-extracted from the originally-blank OCR. Reconciled against the authoritative recap: 3 miscoded judicial records fixed (McCormack→Circuit "Mike McCormick" Pl.7; Wyatt→Circuit "Bill Wynn" Pl.11; Chaney→"Raymond Chambliss" D.Ct Pl.3), 1 duplicate removed, **12 omitted local Jefferson/Shelby endorsements added**, and 6 statewide records absent from the recap (Houston/Lyon/Ryan/Edmondson/Hornsby/Price) flagged + confidence-lowered for external check. Final folder count **731 → 742 candidate records**; integrity re-confirmed (0 dups, 0 Pattern K, 0 empty names).
+
+## Four-paper Birmingham reconciliation — party fixes (2026-06-21)
+Resolved the systematic 46-record party discrepancy (News=Democrat vs Post-Herald/Anniston=Republican) flagged in V9 and CROSS_PAPER_VALIDATION_QUEUE.md, using external sources (Ballotpedia, Wikipedia, AL Secretary of State 2000 candidate list, bhamwiki) confirmed by two research passes:
+- **30 records corrected Democrat→Republican** (well-documented AL Republicans the News had mislabeled): 1984 Hicks; 1990 Russell/Sanders/Walker; 1992 Russell; 1994 Carl/Helms/Curry; 1996 McMillan/Baschab/Sullivan/See/Williams; 1998 Vinson/Woodward/Lee/Brown/Houston/Murdock; 2000 Murdock/Carl/Vinson/Harwood; 2002 McMillan/Baschab/Hale/See/Curry/Williams; 2006 Chapman.
+- **1 kept Democrat (News was correct):** 2002 PSC Charles Martin — Charles B. Martin was the *Democratic* commissioner; here the **Post-Herald's R coding is the error** (flagged in that folder).
+- **15 left Democrat + flagged UNCONFIRMED:** obscure local figures (1966/1972 Connell, 1972 Thomason, 1974 Gilliland/Courson, 1990 Gunter, 1992 Archer/Surtees, 1994 Hughes/Cahill/Davidson, 1996 Armstrong, 2004 Barber) whose party could not be externally confirmed for the given year; verify via newspapers.com/AL SoS microfilm.
+Integrity re-checked: 0 Pattern K introduced (no flipped record carried a conflicting inc flag). Republican count 164→194.
+
+**Independent audit (2026-06-21):** a separate research agent re-verified all 30 D→R flips: 26 AGREE-Republican, 0 DISAGREE (none overturned), 4 UNCERTAIN-but-uncontradicted (Walker 1990 PSC, Helms 1994 PSC, Carl 1994 judge, Houston 1998 Supreme Court — the last being a documented D→R switcher whose literal 1998 ballot party couldn't be pinned). Flips retained as-is per user.

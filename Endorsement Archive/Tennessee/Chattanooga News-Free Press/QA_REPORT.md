@@ -77,3 +77,26 @@ Consistent R-leaning: Willkie R 1940, Dewey R 1944+1948, Eisenhower R 1952+1956,
 - 0 duplicates, 0 bad fields, 0 empty party, 0 non-canonical fields
 
 Compiled: 2026-06-04 (V3.1 — formal endorsement-qa skill pass complete).
+
+---
+
+## V9 DEEP VERIFICATION — 2026-06-21
+Re-OCR'd all 14 clippings; pre-screen; high-res vision verification. Integrity clean (Pattern K=0, no dups). Marquee directions all confirmed (Willkie→Nixon all R-endorsed; 1968 "Elect Nixon, Defeat Humphrey").
+
+**5 corrections — 1968 STATE REP name scramble** (V1 kept first names, wrong surnames):
+- Guthrie,David Y.→**Copeland,David Y.** (d2); Bible,William C.→**Carter,William C.** (d4); Curtis,Ray C.→**Albright,Ray C.** (d5); Nolan,Paul V. (+d6); Jones,John L.→**White,Ray** (d7). (1st & 3rd dists = "no recommendation".)
+
+Residual flags (1970/72/74 ballot-grid NAME identity; directions/parties sound) — see RA_NEEDS.md §2:
+- 1972 "Wood,Walt" likely should be a 2nd Carter (W.L.) or is spurious; "Yentzer"→"Yentsch"; Garland appears for two offices (StSen + PSC/Director).
+- 1970 "Widgar,Al" may be "Al Edgar".
+1944 H-3 dual endorsement (Johnson-Ind + Forstner-R vs Kefauver) confirmed deliberate (protest). 1946 = referendum clipping; 1950 "no endorsements" to confirm.
+
+### V9 grid-year deep dive — 2026-06-21
+High-zoom reading of all four "News-Free Press Recommends" sample ballots. Beyond the 1968 fixes: 
+- 1972: Wood e1->0 (no X); Yentzer->Yentsch; +Davis (Jackie Reese, X'd); +2nd Carter (W.L., two X'd Carters); STATE SENATOR Garland->Oehmig (Garland is PSC/Director per "Tom Garland for Public Service").
+- 1970: Widgar->Edgar (ballot "AL EDGAR" X'd); Pentecost Cyril->Cayce.
+- 1974: full state-rep district remap — V1 misaligned districts and fabricated "Robinson, Napoleon" (=d28 Dem Clarence Robinson + d28 Ind Napoleon Alexander). Corrected to ballot R's: d25 Carter, d26 Ramsey, d27 Carter, d28 Garner(new), d29 Johnson, d30 Copeland III. "Bowman d24" unlocatable on ballot — flagged.
+Folder now 111 records (1968 +0, 1972 +2). Pattern K=0, no dups.
+
+### V9 addendum — 1974 Bowman/Starnes resolved (2026-06-21)
+The "For Good Legislators" editorial + ballot X-marks resolved the open d24/Bowman item: there is a 31ST district. Katherine E. Bowman is the 31st-dist Republican, NOT endorsed (no X); the paper endorsed her DEMOCRAT opponent Paul M. Starnes (cross-party). Also corrected: 28th-dist Ron Garner has no X (no d28 endorsement) — removed the interim "Garner d28 e=1". Final 1974 House: Carter(25), Ramsey(26), Carter(27), Johnson(29), Copeland III(30), Starnes-D(31) endorsed; Bowman-R(31) opposed.

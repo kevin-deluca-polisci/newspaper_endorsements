@@ -1,12 +1,39 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
 Newspaper: El Paso Times
 Newspaper ID: 145300
 State: TX
-Election years: 43 (1920-2018)
-Clippings: 85 files
-Candidate records: 393 (391 endorsed, 1 opposed, 1 no-direction)
-Proposition records: 219 (33 endorsed, 7 opposed, 179 no-direction)
-Candidate confidence: mean 0.864, min 0.75, max 0.95
-Proposition confidence: mean 0.830, min 0.75, max 0.95
-Last updated: 2026-04-30 (augmented with multi-page combined PDFs from 'more el paso')
+Number of clippings: 85
+Endorsement data years: 1920-2018
+Total candidate records: 454 (368 endorsed=1)
+Total proposition records: 218 (217 with a yes/no direction)
 
-Years covered: 1920, 1922, 1924, 1926, 1928, 1930, 1932, 1934, 1936, 1938, 1940, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2012, 2018
+Confidence statistics (all records):
+  Mean confidence: 0.871
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  PRESIDENT: 44
+  STATE REP: 39
+  H: 37
+  TX SUPREME COURT: 37
+  SENATOR: 36
+  GOVERNOR: 33
+  RAILROAD COMMISSION: 21
+  CNTY COMM: 19
+  ATTORNEY GENERAL: 19
+  COURT OF CRIMINAL APPEALS: 18
+  LAND COMMISSIONER: 17
+  LT GOVERNOR: 16
+  AGRICULTURE COMMISSIONER: 15
+  TREASURER: 13
+  DISTRICT COURT JUDGE: 13
+
+Party distribution:
+  Democrat: 280
+  Republican: 172
+  Independent: 1
+  Libertarian: 1
+
+(metadata regenerated post-V8 deep verification)

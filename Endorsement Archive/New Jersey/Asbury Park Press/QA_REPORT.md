@@ -368,3 +368,45 @@ PASS WITH MAJOR FIXES. The 7-phase deep re-QA has caught a remarkable 218 fixes/
 6. **prop_type standardization** — 31 PUBLIC QUESTION → BOND/AMENDMENT/REFERENDUM
 
 The Asbury Park Press case sets the new bar for what's possible in deep QA. **Lesson for future papers: incumbency flags should ALWAYS be cross-checked against party labels as a systematic Stage 1 check.**
+
+---
+
+## V8 Deep Verification (endorsement-verification skill) — 2026-06-20
+
+Full 16-phase re-OCR-from-scratch verification, independent of all prior QA.
+
+**Re-OCR (Phase 1):** all 26 clipping PDFs re-extracted (pdfimages + tesseract; pdftoppm fallback). 2006 returned empty from pdfimages and was recovered at 300 DPI (114 lines). All 21 years (1978-2018) have OCR aggregates. Worst-quality scans: **1990, 1992, 1994** — scrapbook images that OCR'd to heavy noise; several real candidate names are not legibly recoverable from them.
+
+**Per-record checks (Phases 2-9):** 207 e=1 and 83 e=0 records each carry a Phase 2 / Phase 9 note. Direction engine verified 164 e=1 directly (151 LIST_FORMAT, 13 NARRATIVE); 43 e=1 were flagged (16 name-not-in-OCR, 9 opp-language-before-name, 18 no-context) for adjudication. Format sweep: 0 fixes needed. Pattern K: 0. Exact/near duplicates: 0. Cross-cycle incumbency: **5 inc flags added** from prior-cycle endorsements.
+
+**Independent subagent adjudication (Phase 10):** all 53 decision-relevant flags (43 e=1 + 10 e=0 Pattern-A) sent to a no-anchoring general-purpose subagent that re-grepped the OCR.
+- **Zero direction FLIPs** — every legible record confirmed V1's direction, including the notable 2008 U.S. Senate race where APP endorsed Republican **Dick Zimmer over Democratic incumbent Frank Lautenberg** (Zimmer E=1, Lautenberg E=0 both confirmed), and the 1992 presidential endorsement of **Bill Clinton** (confirmed: "President — Arkansas Gov. Bill Clinton, Democrat").
+- **1 NAME GARBLE fixed:** 2010 Ocean freeholder "COLLIRIS, JOHN" → **"COLLINS, MICHAEL"** (OCR: "attorney Michael Collins of Eagleswood"). Direction E=1 unchanged.
+- **1 OFFICE note:** 1996 "JUDGE" MUHLER, MARIE is actually Monmouth **Surrogate** per OCR — flagged for RA (kept JUDGE to avoid inconsistency with prior QA's RECORDER→JUDGE/SURROGATE mapping).
+- **10 NEEDS_RA:** names not positively legible in the garbled 1990 scans (Pallone, Setaro, Smith-d4, Saxton, Larrison, Powers, Vicari), 1982 Muhler (not present in 1982 OCR — possibly misfiled), 1994 Goldberg (name destroyed by OCR), 2010 Holt (column-bleed). In every case the editorial direction is consistent; only the name can't be confirmed from OCR.
+- 47 e=0 "list-format" records (named candidate whose opponent was endorsed, no explicit "opponent" wording) noted as standard recap, confidence 0.88.
+
+**Phase 11 props:** 56 props, all already directed (0 empty). Sampled 20 against OCR; everything legible matched (e.g., 2012 PQ1 "we recommend a 'Yes'" = E=1; 1978 Sports Authority Bonds = E=1). Prop-specific OCR is thin for several years because those clippings are candidate-focused; prop notes retain the original editorial language.
+
+**Phase 12 cross-paper:** N/A — no New Jersey sister paper in done/ (searched for Star-Ledger, Bergen Record, Trenton, Newark, Courier-Post; the "Press"/"Record"/"Courier" folders present are all other states).
+
+**Phase 13 multi-pass:** the regex engine is deterministic; the canonical re-run reproduces the identical 43-flag set, all already adjudicated → converged with 0 new unresolved changes.
+
+**Final:** 290 candidates (207 e=1 / 83 e=0), 56 props, 0 empty-confidence, Pattern K 0, dups 0. V8 changes: 1 name fix, 5 inc additions, 1 office flag, 10 NEEDS_RA, 0 direction flips.
+
+## Independent capstone + deep extras (2026-06-20)
+A no-anchoring general-purpose subagent re-derived facts from OCR and **450 DPI vision reads** of the clippings.
+
+**All 5 high-stakes V8 conclusions CONFIRMED** with literal quotes: 2008 Senate Zimmer (R) endorsed over Lautenberg (D) ("incumbent Sen. Frank Lautenberg's record... doesn't warrant his re-election"); 1992 Clinton endorsed ("President — Arkansas Gov. Bill Clinton, Democrat"); 2010 "COLLIRIS, JOHN" → Michael Collins ("attorney Michael Collins of Eagleswood"); 1996 Muhler = Monmouth Surrogate; 2018 Senate non-endorsement.
+
+**All 10 NEEDS_RA RESOLVED via vision (450 DPI):** the garbled 1990/1994/2010/1982 names were read directly off the printed "Summary of Press election choices" boxes — every name and direction confirmed correct (upgraded conf 0.70 → 0.90). The 1982 Muhler "misfiled" suspicion was withdrawn: she is correctly E=0 as Rep. Howard's losing opponent.
+
+**Stratified spot-checks (2000/2012/2016):** 9/9 correct (Bush/Franks/Holt-Bass 2000; Obama/Kyrillos-E0/DiMaso 2012; Clinton/Arnone+Fulton 2016). No record found where E=1 but the editorial opposed the candidate.
+
+**Deep extras:**
+- 600 DPI re-OCR of 1990/1992/1994 enriched the aggregates (1990: 142→259 lines).
+- Cross-cutting scans: surname-variance pairs (CLIFTON~CLINTON, COULTER~COURTER) are distinct real people, not garbles; party-inconsistency (CURLEY R→Independent) is a real, **externally-confirmed** 2018 party split (Monmouth GOP withdrew support; he ran Independent and lost); 24 multi-seat freeholder/council clusters all legitimate NJ at-large boards.
+- Incumbency cross-cycle audit: 0 records remain missing an inc flag after Phase 6.
+- Office convention clarified: all 8 Surrogate races are consistently coded JUDGE + dname=SURROGATE (dataset-wide, self-documenting).
+
+**Net new changes this round:** 10 NEEDS_RA upgraded to vision-confirmed, 1 external-confirmation note (Curley), office note reframed. Still 0 direction flips across the entire folder. Final: 290 candidates (207 e1 / 83 e0), 56 props, 0 empty-confidence.

@@ -1,36 +1,38 @@
-Newspaper Name: AUSTIN CHRONICLE
-Alternative Names: REVIEW
-Years Published: REVIEW
-Newspaper ID number: REVIEW
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Austin Chronicle
+Newspaper ID: AUSTIN CHRONICLE
+State: TX
 Number of clippings: 1
-Endorsement data years: 2012
+Endorsement data years: 2012-2012
+Total candidate records: 36 (36 endorsed=1)
+Total proposition records: 19 (18 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 36
-  Endorsed (=1): 36
-  Opposed (=0): 0
-  No position (null): 0
-Total proposition records: 18
-  Endorsed (=1): 16
-  Opposed (=0): 1
+Confidence statistics (all records):
+  Mean confidence: 0.999
+  Low-confidence records (< 0.7): 0
 
---- DATA QUALITY ---
-Flagged for review: 0 candidates, 1 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 0
-Duplicates removed: 0 candidates, 1 propositions
+Top offices (top 15):
+  H: 5
+  STATE REP: 4
+  COURT OF APPEALS: 4
+  SCHOOL BOARD: 4
+  TX SUPREME COURT: 3
+  STATE SENATOR: 3
+  RAILROAD COMMISSION: 2
+  STATE BOARD OF ED: 2
+  COMMUNITY COLLEGE BOARD: 2
+  PRESIDENT: 1
+  SENATOR: 1
+  COURT OF CRIMINAL APPEALS: 1
+  SHERIFF: 1
+  TAX ASSESSOR: 1
+  CNTY COMM: 1
 
---- CONFIDENCE SCORES ---
-Min: 1.00
-Mean: 1.00
-Max: 1.00
-Below threshold (0.75): 0
+Party distribution:
+  Democrat: 25
+  Libertarian: 2
+  Green: 2
 
---- REVIEW QUEUE ---
-  None
-
---- NOTES ---
-(Add any additional notes here)
-
-Compiled: 2026-04-02 06:18:28
+(metadata regenerated post-V8 deep verification)

@@ -1,41 +1,28 @@
-Newspaper Name: Birmingham Post
-Alternative Names: The Birmingham Post
-Years Published: 1921-1950 (merged with Birmingham Age-Herald in 1950 to form Birmingham Post-Herald)
-Newspaper ID number: 100103
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Birmingham Post
+Newspaper ID: 100103
 State: AL
 Number of clippings: 32
-Endorsement data years: 1922, 1924, 1926, 1928, 1930, 1932, 1934, 1936, 1938, 1940, 1944, 1948
+Endorsement data years: 1922-1948
+Total candidate records: 15 (9 endorsed=1)
+Total proposition records: 34 (34 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 9
-  Endorsed (=1): 8
-  Opposed (=0): 1
-  No position (null): 0
-Total proposition records: 35
-  Endorsed (=1): 26
-  Opposed (=0): 9
+Confidence statistics (all records):
+  Mean confidence: 0.918
+  Low-confidence records (< 0.7): 0
 
---- DATA QUALITY ---
-Flagged for review: 0 candidates, 0 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 1
-Duplicates removed: 3 candidates, 12 propositions (cross-clipping dedup)
+Top offices (top 15):
+  PRESIDENT: 10
+  VICE PRESIDENT: 3
+  GOVERNOR: 1
+  JUDGE: 1
 
---- CONFIDENCE SCORES ---
-Min: 0.80
-Mean: 0.91
-Max: 0.95
-Below threshold (0.75): 0
+Party distribution:
+  Democrat: 7
+  Republican: 5
+  Progressive: 2
+  Independent: 1
 
---- REVIEW QUEUE ---
-  [no_endorsements] 100103_19241027: No endorsements detected (election-day news article)
-
---- NOTES ---
-Scripps-Howard newspaper, self-described as "Independent Politically, Financially and Commercially."
-Presidential endorsement pattern: La Follette (Progressive, 1924), Hoover (R, 1928), Roosevelt (D, 1932, 1936), Willkie (R, 1940), Dewey (R, 1944).
-Heavy focus on Alabama constitutional amendments and local ballot measures.
-Agent extraction required significant manual correction: 8 of 32 clippings needed rewriting due to missed implicit endorsements, reversed endorsement directions, wrong amendment numbers, and false "OCR too poor" claims.
-1932 amendments verified against source PDF - agent had swapped descriptions of Amendments 6 and 8 and reversed both endorsement directions.
-
-Compiled: 2026-04-04
+(metadata regenerated post-V8 deep verification)

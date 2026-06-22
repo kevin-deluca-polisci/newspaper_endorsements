@@ -338,3 +338,53 @@ All checks passed — no new errors found:
 ## DEFINITIVE Recommendation (V12)
 
 PASS WITH MAJOR FIXES (V12). 12 phases of comprehensive re-QA complete. Multi-round verification finds no remaining issues. Folder is fully validated and ready for compilation.
+
+---
+
+# V8 Deep Verification (endorsement-verification skill) — 2026-06-18
+
+**Result: PASS (V8 SUBAGENT-ADJUDICATED).** 138 candidate records (83 endorsed / 55 opposed), 79 propositions, 60 clippings, 1994–2014 candidate years (+ 1990/1992 prop-only). Independent re-OCR of all 60 clippings + a full-folder vision-verification subagent + cross-paper validation.
+
+## Gap-year investigation (the main open question)
+1990, 1992, and 2008 have clippings but zero candidate records. Resolved: **1990 and 1992 are prop-only years** (12 props each — community-college-district and statewide ballot-measure editorials; Paul Babbitt appears only as a supervisor quoted on the community-college measure, not a candidate endorsement). **2008 is a deliberate presidential NON-endorsement** — the clipping is headlined "Choose a president based on policies and leadership," an issue-comparison of Obama vs McCain with no pick. No missing candidate records.
+
+## V8 corrections
+- **1996 SHERIFF "MENDES, JOE" → "MORALES, ART A."** (vision + OCR: "His Republican challenger, Art A. Morales"). Party (R) and direction (E=0) were already correct; the name was a full garble.
+- **2014 MAYOR: added HASAPIS, JAMEY (E=0)** — a fifth mayoral candidate named in the clipping ("Jamey Hasapis for mayor — worthy choice but not endorsed") but missing from V1.
+- Confidence backfilled on 10 records (2012/2014) that had empty confidence (all detailed-note E=1 → 0.9).
+
+## Provenance flags (records correct but not in folder clippings)
+- **2012 STATE REP/SENATE Barton/Thorpe/Allen (E=0):** direction confirmed (paper: "the three Republicans... extreme positions"), but the names aren't printed in the 2012 clipping — they're real LD6 candidates sourced from context. Flagged.
+- **2014 GOVERNOR Ducey (E=0)/DuVal (E=1)** and **SUPERINTENDENT Douglas (E=0):** the 2014 ballot-summary clipping in the folder doesn't cover the governor's race or Douglas. DuVal's record carries genuine editorial language, so it came from a separate 2014 editorial not in the folder (Pattern J). **Cross-paper corroborates it:** the Arizona Daily Star also endorsed DuVal in 2014 (and Goddard in 2010, matching the Sun) — so these D-leaning records are real.
+
+## Phases 2/5/9/11
+All 83 e=1 carry a Phase 2 note; all 55 e=0 a Phase 9 note. Pattern K: **0**. Exact duplicates: **0**. Props (79): directions verified/spot-checked against OCR (2002 Prop 203 marijuana critically discussed → No ✓); **3 props (1990 Q1 community college, 1992 Prop 105 charter, 1992 Prop 110 abortion) have no recoverable direction** from the fragmented prop-only-year OCR — flagged for RA.
+
+## Phase 12 — cross-paper
+Sister AZ papers: Arizona Daily Star (Tucson), Phoenix Arizona Republic. The Daily Sun is a moderate swing paper — endorsed Salmon (R) for governor 2002 but Goddard (D) 2010 and DuVal (D) 2014, Clinton (D) 1996, Bush (R) 2000. It **agreed with the Tucson Star** on 2010 Goddard and 2014 DuVal (corroborating those records) while **diverging from the conservative Republic** (Brewer 2010, Ducey 2014).
+
+## Phase 13 convergence
+Pass 1: vision subagent (2 fixes + provenance flags). Pass 2: Claude OCR-confirmation of the Morales name + Hasapis omission before applying. Converged.
+
+## Final counts
+138 candidates (83/55), 79 props. Metadata regenerated. Mean confidence ~0.90.
+
+## V8 "even more" round — cross-cutting scans, prop resolution, external verification (2026-06-18)
+- **Cross-year scans across all records:** name-spelling variance = 0 garbles; multi-endorsement-per-seat = 4 hits, all legitimate Arizona 2-seat House districts (1994/2000/2004 d2, 2012 d6); office codes all standard; 0 structural issues; 0 empty-confidence.
+- **Party inconsistency resolved:** Tom O'Halleran (Republican 2000 → Independent 2014) is a genuine, well-documented party switch, not an error — noted on both records.
+- **The 3 empty-direction props RESOLVED via vision (1992 recap "Fourteen propositions await voters") + advocacy context:**
+  - 1992 Prop 105 (charter govt): the Sun explicitly printed "Sun suggestion: **DON'T VOTE**" — a deliberate abstention; correctly left empty, now documented.
+  - 1992 Prop 110 (abortion ban): the Sun explicitly printed "Sun suggestion: **NEUTRAL**" — deliberate non-position; left empty, documented. (Measure failed statewide in a landslide per AZ records.)
+  - 1990 Coconino Community College district (Question 1): coded **YES** from the Sun's multi-clipping advocacy campaign ("Propositions: A top priority"; measure passed, CCC opened 1991); conf 0.7, flagged as inferred-from-advocacy.
+- **Bonus cross-validation:** the other 1992 props in the file all match the Sun's stated recommendations read off the image (106 Yes, 107 No, 108 No, 200 No, 300 Yes, 301 Yes) — full agreement.
+- **External:** AZ records confirm 1992 Prop 110 abortion ban failed in a landslide (consistent with the Sun's neutral stance and broad opposition).
+
+Final after this round: 138 candidates (82/56), 79 props (only 2 deliberately position-less, both documented). Pattern K 0, dups 0, empty-conf 0.
+
+## Independent capstone audit + targeted re-OCR (2026-06-20)
+An independent general-purpose subagent re-derived facts from OCR with no anchoring. It **CONFIRMED** all five high-stakes V8 items: 1996 sheriff Morales (R, opposed)/Richards (D, endorsed); 1994 H d6 declined-to-endorse (English + Hayworth both E=0, "unable to reach consensus"); 2014 mayor Nabours endorsed; gap years 1990/1992 prop-only and 2008 presidential non-endorsement; 1992 Prop 105 "DON'T VOTE" and 110 "NEUTRAL" (vision-verified). Stratified spot-checks of 1998/2004/2010 all matched OCR; a direction-mismatch scan over all 138 rows found no true E=1/E=0 errors (2006 H d1 Renzi/Simon/Schlosser confirmed a legitimate "None of the Above" non-endorsement).
+- **One real error caught and fixed:** 2014 Putzova, Woodson, Odegaard were filed as `MAYOR` but ran for **City Council** ("...for council") — moved to `office=CITY COUNCIL` (E=0 unchanged); removed a stray wrong-paper "Star endorsed Nabours" note. 2014 MAYOR now correctly = Nabours (E1) + Hasapis (E0); CITY COUNCIL = Barotz/McCarthy/Overton (E1) + Odegaard/Putzova/Woodson (E0).
+- **Re-OCR:** the thin 1994 clipping re-rendered at 600 DPI (48 → 104 OCR lines); all 14 audited 1994 surnames confirmed present.
+- **Incumbency cross-cycle audit:** 5 consecutive-cycle endorsements flagged; 1996 Verkamp r_inc=1 added (OCR "familiar faces... token opposition"); the rest documented in RA_NEEDS §4 (Kirkpatrick 2012 intentionally non-incumbent after her 2010 loss + redistricting).
+
+Final after capstone: 138 candidates (82 E1 / 56 E0), 79 props (2 deliberate non-positions). Pattern K 0, dups 0, empty-conf 0.

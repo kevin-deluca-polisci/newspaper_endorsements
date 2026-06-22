@@ -6,8 +6,33 @@ Newspaper ID: 101330
 State: CA
 Number of clippings: 23
 Endorsement data years: 1926-1986
-Total candidate endorsements: 66
-Total proposition endorsements: 308
+Total candidate records: 76 (73 endorsed=1)
+Total proposition records: 313 (303 with a yes/no direction)
 
-Mean confidence: 0.890
-Empty endorsed props (intentional): 13
+Confidence statistics (all records):
+  Mean confidence: 0.88
+  Low-confidence records (< 0.7): 3
+
+Top offices (top 15):
+  STATE REP: 12
+  H: 10
+  SENATOR: 9
+  PRESIDENT: 5
+  STATE SENATOR: 5
+  JUDGE: 4
+  SUPREME COURT: 4
+  GOVERNOR: 3
+  LT GOVERNOR: 3
+  AUDITOR: 3
+  SEC OF STATE: 3
+  ATTORNEY GENERAL: 3
+  VICE PRESIDENT: 3
+  TREASURER: 2
+  BOARD OF EQUALIZATION: 2
+
+Party distribution:
+  Republican: 42
+  Democrat: 20
+  Independent: 1
+
+(metadata regenerated post-V8 deep verification)

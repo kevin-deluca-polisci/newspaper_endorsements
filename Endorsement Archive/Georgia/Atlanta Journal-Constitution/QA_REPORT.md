@@ -124,3 +124,73 @@ Atlanta Journal-Constitution registered as entry #17 with qa_result "PASS WITH F
 3. **2 records flagged for future OCR**: ELLIS BOB 2004 H-9 + LEWIS 2006 H-5
 4. **Predecessor papers:** Atlanta Constitution (109051) 1960-1990; Atlanta Journal (109052) 1968-1974
 5. **Pattern M (cross-office)** discovered as a systematic error type — should check in future folders
+
+---
+
+## V8 Deep Verification (endorsement-verification skill) — 2026-06-20
+
+AJC (merged paper), 190 candidates (187 e=1 / 3 e=0) + 30 props, years 2002/2004/2006/2008 (+1 2012 prop). 7 clippings.
+
+**Re-OCR (Phase 1):** all 7 clippings via pdfimages+tesseract; per-image year-header check confirms NO multi-year bundling (each clipping = its filename year). All years 72-207 OCR lines.
+
+**Phases 2-9:** 153/187 e=1 verified directly; 34 flagged. Format 0 fixes; Pattern K 0; dups 0; 19 cross-cycle inc added.
+
+**Phase 10 — independent subagent adjudication:** 31 CONFIRMED, plus:
+- **1 NAME garble fixed:** 2002 CNTY COMM d1 "GOREMAN, HELEN" → **GOREHAM, HELEN** (Cobb Commission D1, R).
+- **Resolved an apparent duplicate:** 2006 CNTY COMM d1 "Tim Lee" and "Lee Morris" are NOT duplicates — Tim Lee = **Cobb** County, Lee Morris = **Fulton** County (distinguished by dname); both correctly endorsed.
+- **1 SPURIOUS record flagged (NEEDS_RA):** 2006 H d5 "LEWIS, JOHN" E=1 has no source support — the 2006 congressional recap lists districts 1-4, 6-11, 13 but **skips District 5 entirely**, and "Lewis" appears nowhere (he ran unopposed in GA-5). Confidence lowered to 0.5; RA should remove or recode. No other paper-side support.
+- Verified real GA delegation: 2004 US House slate (Gingrey, Barrow, Bishop, Marshall, McKinney, Westmoreland, Ellis) all confirmed; 2006 Oxendine, Eaton-over-Burgess, Court of Appeals (Doyle/Edenfield/Meyer von Bremen) confirmed.
+
+**Phase 11 props:** 30 props (20 yes / 10 no); 28/30 keyword-confirmed in OCR. 2002 statewide cross-check (Barnes/Cleland/Cox/Baker/Thurmond/Stancil/Christmas) all captured — no omissions.
+
+**Phase 12 cross-paper:** sister papers Atlanta Constitution (ends 1990) and Atlanta Journal (ends 1974) exist but have **NO year overlap** with the AJC (2002-2008) — the AJC is the post-merger paper. N/A by date.
+
+**Final:** 190 candidates (187 e=1 / 3 e=0), 30 props, 0 empty-confidence, self-audit PASS. V8 changes: 1 name fix, 1 spurious-flag, 19 inc additions, 0 flips.
+
+## Independent capstone (2026-06-20)
+A second no-anchoring subagent re-derived from OCR + 400-DPI vision and ran 12 stratified spot-checks (2002/2004/2006/2008), all CONFIRMED (Barnes, Cleland, Kerry, Westmoreland, Bernes, 2006 Taylor/Kingston/Hunstein, 2008 Obama/Martin/Powell). It confirmed the 2006 Lewis spurious flag, the Tim Lee (Cobb) / Lee Morris (Fulton) two-county distinction, and the Eaton-over-Burgess PSC direction. No wrong-direction errors, no omissions.
+
+**The capstone caught and reversed two errors (both vision-verified by me at 400 DPI):**
+- 2002 CNTY COMM d1: the Phase-10 "GOREMAN → GOREHAM" name fix was WRONG — the clipping prints "Helen **Goreman** (R)". Reverted to GOREMAN (the original V1 value). The Phase-10 change had come from garbled OCR; vision is decisive.
+- 2002 STATE REP Don Parsons: coded d28 with a prior-QA note "29→28 per OCR," but the source clearly reads "District **29**: Don Parsons (R)(I)." Corrected back to **d29** (the prior change was unsupported).
+
+This is the capstone working as designed — a vision recheck overturning two OCR-driven errors. Final: 190 candidates (187 e=1 / 3 e=0), 30 props, 0 empty-confidence, self-audit PASS.
+
+## Deep audit round — complete vision reverse-match + prior-edit audit (2026-06-20)
+Per request for maximum thoroughness. A dedicated subagent vision-read all four clippings (every column) for a COMPLETE recap-vs-CSV diff, and audited every prior-QA district/name edit against the images. External web checks corroborated notable races.
+
+**2 records corrected (both vision-verified by me at high zoom):**
+- **REMOVED 2006 H d5 "LEWIS, JOHN" (E=1)** — definitively spurious. The 2006 congressional editorial reads "District 4, Hank Johnson... District 6, Tom Price" — **District 5 is skipped entirely** and John Lewis is named nowhere (he ran unopposed in GA-5). The record had been a prior-QA "Pattern J fill" inference, not a real endorsement. Candidate count 190→189.
+- **FIXED 2002 STATE REP Stanley-Turner: dist "44" → "43 Post 2" (Fulton)** — a SECOND erroneous prior-QA district edit (the note claimed "42→44 DeKalb Post 5"; the image clearly shows "District 43, Post 2: Lanette Stanley-Turner (D)(I)" under Fulton). 
+
+**Prior-QA edits AUDITED and CONFIRMED correct:** 2002 Adelman STATE REP→STATE SENATOR d42 (image: DeKalb State Senate D-42); 2002 Labor=Thurmond / Agriculture=Irvin office assignments (image confirms both); the Court of Appeals / Supreme Court office-code normalizations.
+
+**Complete reverse-match results:** 2002 clean (only the Stanley-Turner district error); 2004 clean (full slate incl. Kerry, Isakson, Baker, House delegation — Bob Ellis D in GA-9 externally confirmed as Norwood's real 2004 challenger); 2006 clean apart from the removed Lewis row; 2008 genuinely limited to 8 candidate races (Obama, Martin, Powell, Jackson, 4 Court of Appeals) — the rest of that clipping is propositions, so NO omissions. _v2 clippings are duplicate pages, no extra content.
+
+**Final after deep round:** 189 candidates (186 e=1 / 3 e=0), 30 props, 0 empty-confidence, self-audit PASS. This round: 1 spurious removal, 1 district fix; combined with the capstone (Goreman revert, Parsons d29) the folder had **3 erroneous prior-QA edits corrected** plus 1 fabricated record removed.
+
+## Field-level vision sweep — district/post/party/incumbency (2026-06-20)
+Most thorough pass yet: a subagent vision-read all four recaps to verify the DISTRICT, POST, PARTY, and INCUMBENCY of every record (not just names — the two district errors above had passed because their names matched). The AJC recaps print "District N, Post M: Name (Party)(I)", enabling field-level checks. Every flagged item was re-verified by me at high zoom before applying.
+
+**1 PARTY error fixed (my own 400-DPI vision-confirmed):** 2002 STATE REP d15 Cherokee — Jerry Moore was coded Republican but the recap clearly prints "District 15: Jerry Moore (D)". Corrected to **Democrat**.
+
+**13 incumbency flags added** from the recap's "(I)" tags / "incumbent" language: 2002 — Thurmond (Labor), Kenn (Fulton chair), Stanley-Turner, Gene Callaway, Golick, Dodson, Mike Barnes; 2006 — Tom Price, Mumford, Everson, Kenerly, Cooper, Jan Jones. **1 incumbency flag removed:** 2006 Jan Hackney (image says "Democratic challenger," not incumbent) — her d_inc was wrong.
+
+**15 Post numbers added** to 2002 multi-member GA House/At-large records that printed a Post but had only the bare district (districts 33, 34, 56, 59, 61, 69, 70, 84 and Robb Pitts At-large Post 2) — completeness improvement, vision-sourced.
+
+Post-change integrity: 0 exact duplicates, 0 Pattern K (no inc flag on the wrong party side), self-audit PASS. 2004/2008 recaps print no "(I)" tags so incumbency there is left as-is; all their districts/parties matched. The single 2012 prop (charter-school amendment, E=0) confirmed against the editorial ("the editorial board's opinion... focus on bettering K-12").
+
+**Final after field sweep:** 189 candidates (186 e=1 / 3 e=0), 30 props, 68 inc-flagged, 0 empty-confidence, self-audit PASS. This round: 1 party fix, 13 inc additions, 1 inc removal, 15 Post additions.
+
+## Exhaustive independent full transcription + complete props audit (2026-06-20)
+A fresh subagent transcribed the entire 2002 and 2006 candidate recaps column-by-column (every record, every field) and audited all 30 prop directions against the images. 2002 and 2006 candidates: full match on name/district/post/party/incumbency/direction, confirming the prior corrections (Jerry Moore (D), Stanley-Turner d43 Post 2, Parsons d29, no Lewis d5). Props: 29/30 confirmed; 2012 charter-school amendment verified via headline "No on Amendment One" (E=0).
+
+**2 final corrections applied:**
+- 2002 CNTY COMM Clayton d1 Carl Rhodenizer (D): added **d_inc=1** (image "(I)") — last missing incumbency flag.
+- 2002 Barbara Christmas: office **STATE BOARD OF ED → SUPERINTENDENT** (image "State school superintendent: Barbara Christmas (D)"; the record's own dname said "State School Superintendent" and the 2006 Kathy Cox record codes the same office as SUPERINTENDENT — an internal inconsistency now resolved).
+
+**1 item noted, not changed:** 2004 Amendment 2 (Supreme Court jurisdiction) prints no explicit yes/no in the recap (only Amendment 1's "No" is marked); CSV "Yes" follows the list convention and is plausible but unverifiable from this clipping.
+
+After 4 independent vision passes (capstone, deep reverse-match, field sweep, full transcription) every candidate field — name, party, district, post, incumbency, office, direction — has been checked against the source images. Remaining gaps (2004/2008 incumbency, 2004 Amd 2 direction) are genuinely not printed in the available clippings; external GA-records cross-validation is pending (web search currently unavailable).
+
+**Final:** 189 candidates (186 e=1 / 3 e=0), 30 props, 69 inc-flagged, 0 empty-confidence, 0 dups, 0 Pattern K, self-audit PASS.

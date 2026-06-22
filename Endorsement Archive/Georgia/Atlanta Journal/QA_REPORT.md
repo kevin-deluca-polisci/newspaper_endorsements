@@ -108,3 +108,37 @@ Atlanta Journal registered in `qa_manifest.csv` as entry #16 with qa_result "PAS
 3. **2001 print merger:** Journal ceased separate publication
 4. **Could potentially be expanded** if more Atlanta Journal clippings sourced from other years (1964, 1966, 1976-2000 missing)
 5. **Cross-paper editorial disagreements**: Pre-1982 merger, Constitution and Journal had different editorial boards. Real endorsement splits documented: 1972 H-5 (Constitution=Young, Journal=Cook), 1970 D-41 Senate (Constitution=Levetan, Journal=Tysinger), 1972 Fulton Sup Court judges
+
+---
+
+## V8 Deep Verification (endorsement-verification skill) — 2026-06-20
+
+Small folder, 99 candidates (92 e=1 / 7 e=0) + 74 props, years 1968/1970/1972/1974.
+
+**KEY FINDING — "missing" clippings were not missing.** The folder appears to hold a single clipping (`109052_19681104.pdf`), which suggested 1970/72/74 were Pattern J (no source). In fact that one PDF embeds **four separate year-clippings as distinct images** (img-002=1968, img-005=1970, img-008=1972, img-011=1974), each a "We Recommend"/"Election Suggestions" recap. After splitting OCR by image/year, all four years are fully source-backed. Direct verification jumped from 36/92 to 76/92, with the remaining 16 confirmed by vision.
+
+**Phases 2-9:** 76 e=1 verified from own per-year OCR; format 0 fixes; Pattern K 0; dups 0; 6 cross-cycle inc added.
+
+**Phase 10 — full vision verification (subagent read all 4 recap images, both columns):**
+- **All 16 flagged names CONFIRMED correct** (the flags were OCR garbles): 1968 Garrard/Walling/Harrison/Bass/Brock; 1970 Caldwell/Pafford/McClatchey; 1972 Nunn/Coolidge; plus 1970 Young/Farris/Cates/Savage/Ackerman/Kennedy.
+- **All 7 e=0 records CONFIRMED** as the losing/opposed candidates (1970 Suit, Maddox, Miller, Shumake, Thompson, Spears, Noble — each with explicit opponent language).
+- **Reverse-match (Phase 8): ZERO omissions** in any year — every recap name is in the dataset.
+- **1 district fix:** 1970 STATE REP Rodney Cook d9 → **d95** (vision "District 95, Post 1"; V1 truncated 95→9).
+- No name/party/direction errors found.
+
+**Phase 11 props:** 74 props; 3 empty-direction (1972 amendments 16-18) — the editorial endorsed amendments "on the whole" but printed individual directions only for specific others; correctly left empty, documented.
+
+**Phase 12 cross-paper:** vs sister **Atlanta Constitution** — **70 shared (year,office,surname) records, 0 direction divergences.** vs AJC (2002-2008): no overlap. Strong mutual validation.
+
+**Final:** 99 candidates (92 e=1 / 7 e=0), 74 props, 0 empty-confidence, self-audit PASS. V8 changes: 1 district fix, 6 inc additions, 0 flips, 0 omissions.
+
+## Independent capstone + props/incumbency round (2026-06-20)
+A second no-anchoring subagent re-derived all four recaps from the images and independently compared to the CSV. **All four years AGREE** on names/parties/districts/directions. CONFIRMED: 1970 Carter endorsed over Suit (R, "over the inexperienced MR. SUIT"); 1970 Andrew Young over incumbent Fletcher Thompson; 1974 Lt Gov dual listing "ZELL MILLER or JOHN SAVAGE" (two E=1 rows correct); 1974 recap has no party labels so CSV parties are external (spot-checked Talmadge D / Gingrich R / Young D / Busbee D — all correct). No spurious rows, no candidate omissions.
+
+**2 fixes applied this round:**
+- 1970 STATE REP Rodney Cook dist "9 Post 1" → **"95 Post 1"** (the earlier fix had missed because the value included " Post 1"; now corrected — capstone vision "District 95, Post 1").
+- 1970 H d5 Fletcher Thompson (E=0) given **r_inc=1** (recap: "Republican incumbent FLETCHER THOMPSON").
+
+**Props audit:** all 74 reviewed. 1968 (19 yes / 7 no): OCR confirms "strongly endorse a vote FOR" most amendments incl. rapid transit #222 and fluoridation #225; the 7 NO amendments (6,12,13,14,18,19,20) retain their extraction directions. 1974 (16 yes / 2 no): both opposed measures carry explicit rationale. 1972 amendments 16-18 remain direction-less (general endorsement only). Individual 1968 amendment directions rely on extraction notes where the recap gives only general guidance — noted for RA.
+
+**Final:** 99 candidates (92 e=1 / 7 e=0), 74 props, 0 empty-confidence, self-audit PASS.

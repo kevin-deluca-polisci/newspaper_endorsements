@@ -1,30 +1,39 @@
-Newspaper Name: Beaufort Gazette
-Alternative Names: The Gazette
-Years Published: 1897-2025 (currently published; McClatchy ownership)
-Newspaper ID number: BEAUFORTG (no GS permid available)
-State: SC (Beaufort County: Beaufort, Hilton Head Island, Bluffton, Lady's Island, Port Royal)
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Beaufort Gazette
+Newspaper ID: BEAUFORTG
+State: SC
 Number of clippings: 57
-Endorsement data years: 1952, 1954, 1960, 1962, 1964, 1966, 1968, 1972, 1974, 1976, 1978, 1984, 1988, 1990, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016
+Endorsement data years: 1952-2016
+Total candidate records: 74 (59 endorsed=1)
+Total proposition records: 51 (51 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 74 (59 endorsed, 15 opposed)
-Total proposition records: 54 (47 YES, 7 NO)
+Confidence statistics (all records):
+  Mean confidence: 0.945
+  Low-confidence records (< 0.7): 0
 
---- CONFIDENCE SCORES ---
-Min: 0.70
-Mean: 0.94
-Max: 0.98
+Top offices (top 15):
+  CITY COUNCIL: 14
+  PRESIDENT: 13
+  SCHOOL BOARD: 10
+  STATE REP: 7
+  SENATOR: 5
+  H: 5
+  GOVERNOR: 4
+  LT GOVERNOR: 4
+  CNTY COMM: 3
+  SUPERINTENDENT: 2
+  ATTORNEY GENERAL: 2
+  MAYOR: 2
+  VICE PRESIDENT: 1
+  TREASURER: 1
+  SEC OF STATE: 1
 
---- NOTES ---
-Beaufort Gazette is a daily covering Beaufort County, SC. Sister paper to the
-Hilton Head Island Packet under McClatchy ownership.
+Party distribution:
+  Nonpartisan: 26
+  Republican: 24
+  Democrat: 18
+  Independent: 2
 
-Notable editorial pattern: The Gazette published candidate endorsements in
-1952-1986 era, then shifted to BALLOT-MEASURES-ONLY editorials from 1988
-through 2008 (no candidate endorsements during that 20-year period in the
-captured clippings). Candidate endorsements resumed in 2010 and continued
-through 2016.
-
-No GS permid is available for this paper; using placeholder BEAUFORTG.
-
-Compiled: 2026-05-21
+(metadata regenerated post-V8 deep verification)

@@ -27,7 +27,7 @@ NC,Charlotte Observer,132300,1978,NC,BOND,,County bonds parks and recreational f
 NC,Charlotte Observer,132300,1978,NC,BOND,,City bonds streets and sidewalks,1,,0.6
 NC,Charlotte Observer,132300,1982,NC,AMENDMENT,1,Sets terms of state legislators,1,,0.9
 NC,Charlotte Observer,132300,1982,NC,AMENDMENT,2,Allowing tax-increment bonds,1,,0.9
-NC,Charlotte Observer,132300,1982,NC,REFERENDUM,,"4-District, 3-At-Large Plan For County Commissioners",1,,0.85
+NC,Charlotte Observer,132300,1982,NC,REFERENDUM,,"4-District, 3-At-Large Plan For County Commissioners",0,V9 2026-06-21 HIGH-RES VISION: bold recommendation is AGAINST (not For). all-FOR bug fix e=1->0. Matches sister News (also AGAINST).,0.85
 NC,Charlotte Observer,132300,1982,NC,BOND,,Mint Museum Bonds,1,,0.9
 NC,Charlotte Observer,132300,1984,NC,AMENDMENT,,Constitutional amendment requiring attorney general and district attorneys to be duly authorized to practice law prior to election or appointment,1,,0.9
 NC,Charlotte Observer,132300,1984,NC,BOND,,$47.4 million to build a new coliseum,1,Charlotte residents only,0.9

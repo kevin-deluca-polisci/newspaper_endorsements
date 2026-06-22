@@ -403,18 +403,18 @@ CA,Salinas Californian,104200,1996,CA,INITIATIVE,215,Medical marijuana,0,,0.92
 CA,Salinas Californian,104200,1996,CA,INITIATIVE,216,Health care initiative alt,0,,0.92
 CA,Salinas Californian,104200,1996,CA,INITIATIVE,217,Top tax reinstatement,1,,0.92
 CA,Salinas Californian,104200,1996,CA,INITIATIVE,218,Local tax limitations,0,,0.92
-CA,Salinas Californian,104200,1998,CA,AMENDMENT,1,Property taxes contaminated property,1,,0.92
+CA,Salinas Californian,104200,1998,CA,AMENDMENT,1,Property taxes contaminated property,0,V9 SWEEP FIX: CA props opposed (sample ballot NO),0.92
 CA,Salinas Californian,104200,1998,CA,AMENDMENT,2,Limits legislature use of transportation funds,1,,0.92
 CA,Salinas Californian,104200,1998,CA,AMENDMENT,3,Partisan presidential elections,1,,0.92
 CA,Salinas Californian,104200,1998,CA,BOND,1A,Public Education Facilities Bond Act of 1998,1,,0.92
 CA,Salinas Californian,104200,1998,CA,INITIATIVE,10,Additional tobacco surtax,1,,0.92
-CA,Salinas Californian,104200,1998,CA,INITIATIVE,11,Revenue sharing local sales and use taxes,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,11,Revenue sharing local sales and use taxes,0,V9 SWEEP FIX: CA props opposed (sample ballot NO),0.92
 CA,Salinas Californian,104200,1998,CA,INITIATIVE,4,Bans use of specified traps and animal poisons,1,,0.92
 CA,Salinas Californian,104200,1998,CA,INITIATIVE,5,Indian gaming compact,1,,0.92
 CA,Salinas Californian,104200,1998,CA,INITIATIVE,6,Prohibition on slaughter of horses,1,,0.92
-CA,Salinas Californian,104200,1998,CA,INITIATIVE,7,Tax credits for air quality improvements,1,,0.92
-CA,Salinas Californian,104200,1998,CA,INITIATIVE,8,Public schools class size parent teacher councils,1,,0.92
-CA,Salinas Californian,104200,1998,CA,INITIATIVE,9,Stops use of rate payers funds for electricity restructuring,1,,0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,7,Tax credits for air quality improvements,0,V9 SWEEP FIX: CA props opposed (sample ballot NO),0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,8,Public schools class size parent teacher councils,0,V9 SWEEP FIX: CA props opposed (sample ballot NO),0.92
+CA,Salinas Californian,104200,1998,CA,INITIATIVE,9,Stops use of rate payers funds for electricity restructuring,0,V9 SWEEP FIX: CA props opposed (sample ballot NO),0.92
 CA,Salinas Californian,104200,2000,CA,AMENDMENT,33,State legislators retirement plan,1,,0.92
 CA,Salinas Californian,104200,2000,CA,AMENDMENT,35,Public works projects,1,,0.92
 CA,Salinas Californian,104200,2000,CA,AMENDMENT,37,Government fees,0,,0.92

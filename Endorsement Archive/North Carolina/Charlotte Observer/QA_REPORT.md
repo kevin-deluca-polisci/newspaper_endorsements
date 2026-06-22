@@ -132,3 +132,28 @@ Charlotte Observer (AM) and Charlotte News (PM) had **separate editorial boards*
 - Cross-year incumbency relies on paper's endorsement choices (not voting outcomes); verified Helms R 1978/1984/1990 as incumbent
 
 Compiled: 2026-06-04 after 36 rounds + formal endorsement-qa skill pass to follow.
+
+---
+
+## V9 DEEP VERIFICATION — 2026-06-21
+Independent re-OCR of all 26 clippings; integrity pre-screen; full props audit; cross-paper consistency adjudication of all 13 overlap years (1960–1984) vs the now-fully-vision-verified Charlotte News.
+
+**Result: PASS WITH FIXES.** 967 candidate + 80 prop records retained. Integrity clean (Pattern K = 0, no dups).
+
+7 corrections (all image-verified):
+- 1990 STATE SENATOR Johnson Pattern K (r_inc→d_inc).
+- 1982 prop "4-District/3-At-Large Plan" e=1→0 (bold = AGAINST; all-FOR bug; matches News).
+- 1982 STATE SENATOR Harris (R) e=0→1 + Polk (D) e=1→0 (V1 mark-all-Dems error; recap shows Jenkins/Lawing/Tison/Harris endorsed).
+- 1962 + 1964 CNTY COMM Wilmer party D→R (+1964 inc flag) — Observer's own 1964 clipping prints "Henry R. Wilmer (R)".
+- 1960 CNTY COMM Butcher→Blucher (OCR name).
+
+~40 cross-paper differences adjudicated and confirmed LEGITIMATE (editorial splits/declines), documented in RA_NEEDS.md §2. The Observer's 1968 Carson/Jordan = Republican corroborates the open flag on the News.
+
+**Coverage:** 1960–1984 rigorously cross-paper + vision-checked this pass. 2006–2020 (~343 records) pre-screened clean but NOT given a fresh 100% vision pass (no post-1984 sister paper); rests on prior 36-round QA. Full modern-year vision pass is the main outstanding item (RA_NEEDS §3).
+
+### V9 modern-year vision pass (2006–2020) — 2026-06-21
+Full record-by-record high-res vision verification of all 8 modern years (343 records). Data excellent: 2 omissions added, zero direction/party/name errors.
+- 2010: +CNTY COMM d3 Dunlap, George (D).
+- 2012: +STATE REP d88 Alexander, Martha (D).
+- Confirmed non-endorsements correctly omitted: 2008 Superintendent + County-d2, 2012 County-d2, 2018 Senate-40, 2020 US-Senate + President.
+Folder total now 969 candidate records. Pattern K = 0, no dups.

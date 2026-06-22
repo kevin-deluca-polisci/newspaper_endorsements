@@ -121,3 +121,24 @@ Austin American registered in `qa_manifest.csv` as entry #19 with qa_result "PAS
 3. **1962 amendment editorial style** — 14-amendment block recommendation; 3 amendments coded with low conf because editorial gave general direction without dedicated reasoning.
 4. **Cross-newspaper consistency note for Austin Statesman QA** — 4 errors identified in Statesman that should be fixed when that folder is QA'd: Barnes office (US House vs Texas House mismatch), Angrly typo, Foreman party flip, Mutscher SPEAKER OF HOUSE non-standard office code.
 5. **1972 props only** — no candidate records for 1972 in this archive; Statesman 144702 may have them.
+
+---
+
+## V9 Single-Pass Deep Verification — 2026-06-20
+Small TX pre-merger folder, 1960-1970: 19 candidates (18 e=1 / 1 e=0) + 35 props.
+
+**OCR (Stage 1):** all clippings OCR'd; 1 zero-text recovered (1970-10-25 endorsements page).
+
+**Vision pass (Stages 2-3, every candidate read from images):**
+- **2 omissions ADDED (vision-confirmed by me):** 1962 LT GOVERNOR **Preston Smith (D)** and ATTORNEY GENERAL **Waggoner Carr (D)** — the "Effective Leadership Goal" editorial endorsed them as the team with Connally ("elect a sturdy and effective team... Preston Smith... as lieutenant governor... And Waggoner Carr... as attorney general").
+- **1 spurious record REMOVED:** 1970 STATE REP Place 1 Harold Davis — the American's "House Candidates Endorsed" editorial names him only as *unopposed* ("Three of the four legislative seats are being contested... Only Rep. Harold Davis, Place One... is unopposed"), and endorses just the 3 contested seats. The record was a cross-paper Pattern-J add from the Austin Statesman; not supported by THIS paper.
+- 1960 Kennedy (flag) confirmed endorsed (Kennedy-Johnson ticket); LBJ's dual 1960 VP+Senate candidacy confirmed; 1970 Bentsen E=1 / Bush E=0 confirmed.
+- **1964 and 1966 confirmed candidate-less:** the 1964 clippings are AP wire NEWS about OTHER papers' endorsements (not Austin American editorials); 1966 is a propositions-only editorial. Correctly no candidate records.
+
+**Props (Stage 4) — 1966 amendments editorial fully re-transcribed (16 amendments, multi-column):**
+- The CSV had coded ALL 1966 amendments FOR. Vision found **3 the paper OPPOSED**: #1 (rural dual tax valuation), #4 (6-yr district director terms), #10 (school-district merger tax) — flipped to **E=0** (literal "Recommendation: No", self-verified by me on #1 and #10).
+- **#2 (airport authorities) was MISSING** — added as FOR. 1966 props now 16 (13 FOR / 3 NO), matching the editorial.
+
+**Cross-paper consistency (Stage 7, full key) vs Austin Statesman (same era):** Check A — no metadata conflicts (the 2 "hits" are key collisions: LBJ dual VP+Senate, and two different "Smith"s, both consistent across papers). Check B (full key incl county/dname) — clean.
+
+**Final:** 19 candidates (18 e=1 / 1 e=0), 35 props (29 e=1 / 6 e=0... see file), 0 dups, 0 Pattern K. V9 changes: 2 candidate adds, 1 removal, 3 prop direction flips, 1 prop add.

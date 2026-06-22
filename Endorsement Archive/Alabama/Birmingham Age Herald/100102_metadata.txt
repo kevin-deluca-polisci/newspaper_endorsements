@@ -1,47 +1,28 @@
-Newspaper Name: Birmingham Age Herald
-Alternative Names: Birmingham Post-Herald (successor after 1950 merger), News-Age-Herald (post-absorption name)
-Years Published: 1887-1950 (absorbed by Birmingham News/Post-Herald)
-Newspaper ID number: 100102
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Birmingham Age Herald
+Newspaper ID: 100102
+State: AL
 Number of clippings: 21
-Endorsement data years: 1890, 1900, 1910, 1920, 1930, 1932, 1936, 1940, 1944, 1946, 1948
+Endorsement data years: 1890-1948
+Total candidate records: 17 (11 endorsed=1)
+Total proposition records: 40 (37 with a yes/no direction)
 
---- ENDORSEMENT COUNTS (V10 — post-Round-10 QA, 2026-06-03) ---
-Total candidate records: 17
-  Endorsed (=1): 11
-  Opposed (=0): 6 (Davidson 1890 H R; Heflin 1930 SEN Ind; Locke 1930 GOV Ind; Harding 1920 PRES R; Hoover 1932 PRES R; Willkie 1940 PRES R)
-  No position (null): 0
-Total proposition records: 40
-  Endorsed (=1): 32
-  Opposed (=0): 5 (1932 Amendments 2/5/6; 1944 Amendment 4 sheriff terms; 1946 Boswell Amendment)
-  No position (null): 3 (1932 Amendments 1/3/4)
+Confidence statistics (all records):
+  Mean confidence: 0.879
+  Low-confidence records (< 0.7): 0
 
---- DATA QUALITY ---
-QA date: 2026-06-03 (V10)
-QA result: PASS WITH MAJOR FIXES V10
-Flagged for review: 0 candidates, 0 propositions
-Extraction errors: 0
-Parse errors: 0
-QA rounds: 10 + formal endorsement-qa skill pass
-Total fixes: ~52 across all rounds
+Top offices (top 15):
+  PRESIDENT: 7
+  H: 4
+  GOVERNOR: 3
+  SENATOR: 2
+  VICE PRESIDENT: 1
 
---- CONFIDENCE SCORES ---
-Min: 0.80
-Mean: 0.879
-Max: 0.95
-Below threshold (0.75): 0
+Party distribution:
+  Democrat: 11
+  Republican: 4
+  Independent: 2
 
---- HISTORICAL NOTES ---
-1. Solid South Democrat era — pre-1950 paper, only D endorsements at federal level for D candidates.
-2. 1890 BANKHEAD H AL-06 — Jefferson County was in AL-06 before 1893 redistricting (Round 7 dist correction).
-3. 1928 Democratic schism: HEFLIN bolted from Democratic Party (refused to support Al Smith). In 1930 he and Locke ran as "Jeffersonian Democrats" (recorded as Independent); paper called Heflin "buffoon, bigot, mountebank."
-4. FDR three-term endorsements consistent 1932/1936/1940.
-5. 1932: Both FDR (D, e=1) and Garner (D VP, e=1) endorsed; Hoover (R, r_inc=1) explicitly opposed.
-6. 1936: Paper deliberately civil toward Landon — unusual for era ("our faith is unshaken... whoever wins").
-7. 1944 Amendment 4 (sheriff terms 4→6 years): "the only amendment which The News-Age-Herald opposes."
-8. 1946 Boswell Amendment: Paper OPPOSED — notable progressive stance for AL paper in civil rights context.
-9. Some 1944-1948 clippings show "News-Age-Herald" or "Birmingham News" header (paper merged with Birmingham News in early 1940s), filed under 100102 per metadata convention.
-
---- REVIEW QUEUE ---
-No outstanding review items. All previously-flagged no_endorsement clippings verified per protocol step #12 (3 of 6 were wrongly flagged — recovered via Round 4 Pattern J).
-
-Compiled: 2026-04-04. Updated: 2026-06-03 (V10).
+(metadata regenerated post-V8 deep verification)

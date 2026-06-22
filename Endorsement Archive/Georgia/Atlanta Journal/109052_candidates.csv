@@ -1,100 +1,100 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
-GA,Atlanta Journal,109052,1968,CNTY COMM,1,DeKalb,GA,"GUHL, A C BOB",Republican,1,,,,DeKalb Commissioner District 1,0.95
-GA,Atlanta Journal,109052,1968,CNTY COMM,4,DeKalb,GA,"EVANS, W M BILL",Democrat,1,,,,DeKalb Commissioner District 4,0.95
-GA,Atlanta Journal,109052,1968,CNTY COMM,CHAIRMAN,DeKalb,GA,"HARRISON, CLARK",Democrat,1,,,,DeKalb Commission Chairman,0.95
-GA,Atlanta Journal,109052,1968,H,4,,GA,"MACKAY, JAMES A",Democrat,1,,,,U.S. Representative,0.95
-GA,Atlanta Journal,109052,1968,H,5,,GA,"WELTNER, CHARLES LONGSTREET",Democrat,1,,,,U.S. Representative,0.95
-GA,Atlanta Journal,109052,1968,PRESIDENT,,,GA,"HUMPHREY, HUBERT H",Democrat,1,,,,President,0.95
-GA,Atlanta Journal,109052,1968,SCHOOL BOARD,4,DeKalb,GA,"CASTRICONE, NICHOLAS R",Nonpartisan,1,,,,School Board Trustee District 4,0.95
-GA,Atlanta Journal,109052,1968,SCHOOL BOARD,6,DeKalb,GA,"BASS, MRS CHARLES T",Nonpartisan,1,,,,School Board Trustee District 6,0.95
-GA,Atlanta Journal,109052,1968,SENATOR,,,GA,"TALMADGE, HERMAN E",Democrat,1,,,,United States Senator,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,100,Fulton,GA,"ADAMS, G D JR",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,102,Fulton,GA,"EZZARD, CLARENCE SR",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,103,Fulton,GA,"DILLON, TOM",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,107,Fulton,GA,"BORDERS, WILLIAM HOLMES",Republican,1,,,,Rev.,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,108,Fulton,GA,"ALEXANDER, WILLIAM H",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,109,Fulton,GA,"DAUGHERTY, J C",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,113,Fulton,GA,"MCCLATCHEY, DEVEREAUX",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,114,Fulton,GA,"BRANTLEY, HASKEW",Republican,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,72 Post 2,DeKalb,GA,"COLLINS, STAN",Republican,1,,,,Post 2 [QA 2026-06-01 dist 72→72 Post 2 per OCR Post number],0.95
-GA,Atlanta Journal,109052,1968,STATE REP,72 Post 1,DeKalb,GA,"PALMER, TOM",Democrat,1,,,,Post 1 [QA 2026-06-01 dist 72→72 Post 1 per OCR Post number],0.95
-GA,Atlanta Journal,109052,1968,STATE REP,73 Post 1,DeKalb,GA,"BELL, ROBERT H BOB",Republican,1,,,,Post 1 [QA 2026-06-01 dist 73→73 Post 1 per OCR Post number],0.95
-GA,Atlanta Journal,109052,1968,STATE REP,73 Post 2,DeKalb,GA,"SETLIFF, CARTER ANDREWS",Democrat,1,,,,Post 2 [QA 2026-06-01 dist 73→73 Post 2 per OCR Post number],0.95
-GA,Atlanta Journal,109052,1968,STATE REP,74 Post 2,DeKalb,GA,"JORDAN, HUGH",Democrat,1,,,,Post 2 [QA 2026-06-01 dist 74→74 Post 2 per OCR Post number],0.95
-GA,Atlanta Journal,109052,1968,STATE REP,75 Post 1,DeKalb,GA,"PATTERSON, KENNETH L KEN",Democrat,1,,,,Post 1 [QA 2026-06-01 dist 75→75 Post 1 per OCR Post number],0.95
-GA,Atlanta Journal,109052,1968,STATE REP,76 Post 1,DeKalb,GA,"DEAN, JAMES",Democrat,1,,,,Post 1 [QA 2026-06-01 dist 76→76 Post 1 per OCR Post number],0.95
-GA,Atlanta Journal,109052,1968,STATE REP,77 Post 2,DeKalb,GA,"FARRAR, ROBERT H BOB",Democrat,1,,,,Post 2 [QA 2026-06-01 dist 77→77 Post 2 per OCR Post number],0.95
-GA,Atlanta Journal,109052,1968,STATE REP,77 Post 3,DeKalb,GA,"THOMASON, LARRY W",Democrat,1,,,,Post 3 [QA 2026-06-01 dist 77→77 Post 3 per OCR Post number],0.95
-GA,Atlanta Journal,109052,1968,STATE REP,96,Fulton,GA,"REILY, MICHAEL J",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,98,Fulton,GA,"LONGINO, YOUNG H",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"COOK, RODNEY",Republican,1,,,,At Large,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"FELTON, JULE JR",Democrat,1,,,,At Large,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"HAWES, PEYTON S JR",Democrat,1,,,,At Large,0.95
-GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"HORTON, GERALD T",Democrat,1,,,,At Large,0.95
-GA,Atlanta Journal,109052,1968,STATE SENATOR,34,Fulton,GA,"BROCK, MARGARET Z",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE SENATOR,37,Fulton,GA,"GARRARD, ED",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE SENATOR,41,DeKalb,GA,"CONWAY, H MCKINLEY MAC JR",Independent,1,,,,Independent,0.95
-GA,Atlanta Journal,109052,1968,STATE SENATOR,42,DeKalb,GA,"WALLING, BOB",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE SENATOR,43,DeKalb,GA,"MILLIGAN, MELVIN E",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE SENATOR,55,DeKalb,GA,"MEDLOCK, RANDOLPH",Democrat,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,STATE SENATOR,56,Fulton,GA,"COVERDELL, PAUL D",Republican,1,,,,,0.95
-GA,Atlanta Journal,109052,1968,VICE PRESIDENT,,,GA,"MUSKIE, EDMUND S",Democrat,1,,,,Vice President,0.95
-GA,Atlanta Journal,109052,1970,GOVERNOR,,,GA,"CARTER, JIMMY",Democrat,1,,,,RECOMMENDED OVER INEXPERIENCED MR. SUIT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,GOVERNOR,,,GA,"SUIT, HAL",Republican,0,,,,LOST TO CARTER PER JOURNAL ENDORSEMENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,LT GOVERNOR,,,GA,"MADDOX, LESTER",Democrat,0,,,,JOURNAL RECOMMENDED ABOLISHING THE OFFICE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,LT GOVERNOR,,,GA,"MILLER, FRANK",Republican,0,,,,JOURNAL RECOMMENDED ABOLISHING THE OFFICE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,SEC OF STATE,,,GA,"FORTSON, BEN",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,AGRICULTURE COMMISSIONER,,,GA,"IRVIN, TOMMY",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,TREASURER,,,GA,"RAY, JACK B",Republican,1,,,,"INCUMBENT R TREASURER, MAN OF LIVELY INTELLIGENCE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page]",0.90
-GA,Atlanta Journal,109052,1970,COMMISSIONER OF LABOR,,,GA,"CALDWELL, SAM",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,PUBLIC SERVICE COMMISSION,,,GA,"PAFFORD, BOBBY",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,H,4,,GA,"BLACKBURN, BEN",Republican,1,,,,INCUMBENT EARNED ENDORSEMENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,H,4,,GA,"SHUMAKE, FRANKLIN",Democrat,0,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,H,5,,GA,"YOUNG, ANDREW",Democrat,1,,,,RECOMMENDED OVER THOMPSON [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,H,5,,GA,"THOMPSON, FLETCHER",Republican,0,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,CNTY COMM,,Fulton,GA,"BROWN, CHARLIE",Democrat,1,,,,PROVIDES CONTINUITY ON COMMISSION [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,CNTY COMM,,Fulton,GA,"FARRIS, MILTON",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,CNTY COMM,,Fulton,GA,"CATES, GOODWYN",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,STATE REP,9 Post 1,Fulton,GA,"COOK, RODNEY",Republican,1,,,,"EXCELLENT RECORD AS ALDERMAN, LEGISLATOR [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page]",0.90
-GA,Atlanta Journal,109052,1970,STATE REP,104,Fulton,GA,"SAVAGE, JOHN",Republican,1,,,,RECONCILING FACTIONS IN CITY [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,STATE REP,104,Fulton,GA,"SPEARS, TED",Democrat,0,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,STATE REP,113,Fulton,GA,"MCCLATCHEY, DEVEREAUX",Democrat,1,,,,VETERAN INCUMBENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,STATE SENATOR,34,Fulton,GA,"SUMMERS, JACK",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,STATE SENATOR,56,Fulton,GA,"HARDY, JACK",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,JUDGE,DeKalb Superior Court,DeKalb,GA,"PEELER, CLARENCE",Nonpartisan,1,,,,SUPERIOR COURT JUDGE SINCE 1965 APPOINTMENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,CNTY COMM,2,DeKalb,GA,"CALLAWAY, TOM",,1,,,,INCUMBENT D-2 [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,CNTY COMM,AT-LARGE,DeKalb,GA,"ACKERMAN, O P (SONNY) JR",,1,,,,NEWLY CREATED AT-LARGE 4-YEAR TERM [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,SCHOOL BOARD,1,DeKalb,GA,"KENNEDY, J W (JAY) JR",Nonpartisan,1,,,,"YOUNG, ENTHUSIASTIC, CAPABLE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page]",0.90
-GA,Atlanta Journal,109052,1970,SCHOOL BOARD,7,DeKalb,GA,"HAZLERIGS, F BURTON",Nonpartisan,1,,,,INCUMBENT BOARD MEMBER [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,STATE SENATOR,41,DeKalb,GA,"TYSINGER, JIM",Republican,1,,,,INCUMBENT 41ST SENATORIAL [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,STATE REP,73 Post 2,DeKalb,GA,"SMITH, BOB",Republican,1,,,,PREFERRED OVER NOBLE BECAUSE WIDE EXPERIENCE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1970,STATE REP,73 Post 2,DeKalb,GA,"NOBLE, W A (BILL)",Republican,0,,,,EARLIER ENDORSED IN R PRIMARY BUT SMITH PREFERRED IN GENERAL [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,PRESIDENT,,,GA,"NIXON, RICHARD M",Republican,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,VICE PRESIDENT,,,GA,"AGNEW, SPIRO T",Republican,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,SENATOR,,,GA,"NUNN, SAM",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,H,4,,GA,"BLACKBURN, BEN",Republican,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,H,5,,GA,"COOK, RODNEY",Republican,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,PUBLIC SERVICE COMMISSION,,,GA,"WIGGINS, BEN",Nonpartisan,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,JUDGE,Fulton Superior Court,Fulton,GA,"TANKSLEY, JEPTHA ""JEP""",Nonpartisan,1,,,,SERVED WELL ON BENCH [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,JUDGE,Fulton Superior Court,Fulton,GA,"TIDWELL, ERNEST",Nonpartisan,1,,,,SERVED WELL ON BENCH [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,STATE REP,43 Post 2,Fulton,GA,"HORTON, GERALD T",,1,,,,TWO TERMS IN HOUSE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,CNTY COMM,Chairman,DeKalb,GA,"GUHL, A C ""BOB""",Republican,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,CNTY COMM,AT-LARGE,DeKalb,GA,"COOLIDGE, W M ""BILL""",,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,JUDGE,Stone Mountain Judicial Circuit,DeKalb,GA,"ZACHARY, W E ""BILL""",Nonpartisan,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,JUDGE,Stone Mountain Judicial Circuit,DeKalb,GA,"WALLING, ROBERT ""BOB""",Nonpartisan,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,JUDGE,Stone Mountain Judicial Circuit,DeKalb,GA,"WHEELER, EDWARD D",Nonpartisan,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,DA/PROSECUTOR,Stone Mountain Judicial Circuit,DeKalb,GA,"BELL, RICHARD",Nonpartisan,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,JUDGE,DeKalb Ordinary,DeKalb,GA,"GUESS, MARION JR",Nonpartisan,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1972,CNTY CLERK,Tax Commissioner,DeKalb,GA,"ADAMS, EUGENE E ""GENE""",,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,SENATOR,,,GA,"TALMADGE, HERMAN",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,H,4,,GA,"LEVITAS, ELLIOTT",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,H,5,,GA,"YOUNG, ANDREW",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,H,6,,GA,"GINGRICH, NEWT",Republican,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,H,7,,GA,"COLLINS, QUINCY",Republican,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,GOVERNOR,,,GA,"BUSBEE, GEORGE",Democrat,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,LT GOVERNOR,,,GA,"MILLER, ZELL",Democrat,1,,,,DUAL ENDORSEMENT WITH SAVAGE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,LT GOVERNOR,,,GA,"SAVAGE, JOHN",Republican,1,,,,DUAL ENDORSEMENT WITH MILLER [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,CNTY COMM,At-Large Post 1,Fulton,GA,"FARRIS, MILTON",,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,CNTY COMM,At-Large Post 2,Fulton,GA,"GREENE, HORTON J",,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,CNTY COMM,At-Large Post 3,Fulton,GA,"ROACH, LEE",,1,,,,WRITE-IN ENDORSEMENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
-GA,Atlanta Journal,109052,1974,CNTY COMM,At-Large,DeKalb,GA,"MALOOF, MANUEL",,1,,,, [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page],0.90
+GA,Atlanta Journal,109052,1968,CNTY COMM,1,DeKalb,GA,"GUHL, A C BOB",Republican,1,,,,DeKalb Commissioner District 1 | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,CNTY COMM,4,DeKalb,GA,"EVANS, W M BILL",Democrat,1,,,,DeKalb Commissioner District 4 | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,CNTY COMM,CHAIRMAN,DeKalb,GA,"HARRISON, CLARK",Democrat,1,,,,"DeKalb Commission Chairman | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1968,H,4,,GA,"MACKAY, JAMES A",Democrat,1,,,,U.S. Representative | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,H,5,,GA,"WELTNER, CHARLES LONGSTREET",Democrat,1,,,,U.S. Representative | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,PRESIDENT,,,GA,"HUMPHREY, HUBERT H",Democrat,1,,,,President | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,SCHOOL BOARD,4,DeKalb,GA,"CASTRICONE, NICHOLAS R",Nonpartisan,1,,,,School Board Trustee District 4 | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,SCHOOL BOARD,6,DeKalb,GA,"BASS, MRS CHARLES T",Nonpartisan,1,,,,"School Board Trustee District 6 | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1968,SENATOR,,,GA,"TALMADGE, HERMAN E",Democrat,1,,,,United States Senator | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,100,Fulton,GA,"ADAMS, G D JR",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,102,Fulton,GA,"EZZARD, CLARENCE SR",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,103,Fulton,GA,"DILLON, TOM",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,107,Fulton,GA,"BORDERS, WILLIAM HOLMES",Republican,1,,,,Rev. | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,108,Fulton,GA,"ALEXANDER, WILLIAM H",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,109,Fulton,GA,"DAUGHERTY, J C",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,113,Fulton,GA,"MCCLATCHEY, DEVEREAUX",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,114,Fulton,GA,"BRANTLEY, HASKEW",Republican,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,72 Post 2,DeKalb,GA,"COLLINS, STAN",Republican,1,,,,Post 2 [QA 2026-06-01 dist 72→72 Post 2 per OCR Post number] | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,72 Post 1,DeKalb,GA,"PALMER, TOM",Democrat,1,,,,Post 1 [QA 2026-06-01 dist 72→72 Post 1 per OCR Post number] | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,73 Post 1,DeKalb,GA,"BELL, ROBERT H BOB",Republican,1,,,,Post 1 [QA 2026-06-01 dist 73→73 Post 1 per OCR Post number] | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,73 Post 2,DeKalb,GA,"SETLIFF, CARTER ANDREWS",Democrat,1,,,,Post 2 [QA 2026-06-01 dist 73→73 Post 2 per OCR Post number] | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,74 Post 2,DeKalb,GA,"JORDAN, HUGH",Democrat,1,,,,Post 2 [QA 2026-06-01 dist 74→74 Post 2 per OCR Post number] | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,75 Post 1,DeKalb,GA,"PATTERSON, KENNETH L KEN",Democrat,1,,,,Post 1 [QA 2026-06-01 dist 75→75 Post 1 per OCR Post number] | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,76 Post 1,DeKalb,GA,"DEAN, JAMES",Democrat,1,,,,Post 1 [QA 2026-06-01 dist 76→76 Post 1 per OCR Post number] | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,77 Post 2,DeKalb,GA,"FARRAR, ROBERT H BOB",Democrat,1,,,,Post 2 [QA 2026-06-01 dist 77→77 Post 2 per OCR Post number] | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,77 Post 3,DeKalb,GA,"THOMASON, LARRY W",Democrat,1,,,,Post 3 [QA 2026-06-01 dist 77→77 Post 3 per OCR Post number] | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,96,Fulton,GA,"REILY, MICHAEL J",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,98,Fulton,GA,"LONGINO, YOUNG H",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"COOK, RODNEY",Republican,1,,,,At Large | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"FELTON, JULE JR",Democrat,1,,,,At Large | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"HAWES, PEYTON S JR",Democrat,1,,,,At Large | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE REP,AT-LARGE,Fulton,GA,"HORTON, GERALD T",Democrat,1,,,,At Large | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,34,Fulton,GA,"BROCK, MARGARET Z",Democrat,1,,,," | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1968,STATE SENATOR,37,Fulton,GA,"GARRARD, ED",Democrat,1,,,," | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1968,STATE SENATOR,41,DeKalb,GA,"CONWAY, H MCKINLEY MAC JR",Independent,1,,,,Independent | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,42,DeKalb,GA,"WALLING, BOB",Democrat,1,,,," | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1968,STATE SENATOR,43,DeKalb,GA,"MILLIGAN, MELVIN E",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,55,DeKalb,GA,"MEDLOCK, RANDOLPH",Democrat,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,STATE SENATOR,56,Fulton,GA,"COVERDELL, PAUL D",Republican,1,,,, | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1968,VICE PRESIDENT,,,GA,"MUSKIE, EDMUND S",Democrat,1,,,,Vice President | Phase 2 verified: LIST/NARR,0.95
+GA,Atlanta Journal,109052,1970,GOVERNOR,,,GA,"CARTER, JIMMY",Democrat,1,,,,RECOMMENDED OVER INEXPERIENCED MR. SUIT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,GOVERNOR,,,GA,"SUIT, HAL",Republican,0,,,,LOST TO CARTER PER JOURNAL ENDORSEMENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 9 e=0 OCR-checked | Phase 10 VISION-CONFIRMED e=0: losing/opposed candidate per recap,0.90
+GA,Atlanta Journal,109052,1970,LT GOVERNOR,,,GA,"MADDOX, LESTER",Democrat,0,,,,JOURNAL RECOMMENDED ABOLISHING THE OFFICE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 9 e=0 OCR-checked | Phase 10 VISION-CONFIRMED e=0: losing/opposed candidate per recap,0.90
+GA,Atlanta Journal,109052,1970,LT GOVERNOR,,,GA,"MILLER, FRANK",Republican,0,,,,JOURNAL RECOMMENDED ABOLISHING THE OFFICE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 9 e=0 OCR-checked | Phase 10 VISION-CONFIRMED e=0: losing/opposed candidate per recap,0.90
+GA,Atlanta Journal,109052,1970,SEC OF STATE,,,GA,"FORTSON, BEN",Democrat,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,AGRICULTURE COMMISSIONER,,,GA,"IRVIN, TOMMY",Democrat,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,TREASURER,,,GA,"RAY, JACK B",Republican,1,,,,"INCUMBENT R TREASURER, MAN OF LIVELY INTELLIGENCE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR",0.65
+GA,Atlanta Journal,109052,1970,COMMISSIONER OF LABOR,,,GA,"CALDWELL, SAM",Democrat,1,,,,"[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1970,PUBLIC SERVICE COMMISSION,,,GA,"PAFFORD, BOBBY",Democrat,1,,,,"[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1970,H,4,,GA,"BLACKBURN, BEN",Republican,1,,,,INCUMBENT EARNED ENDORSEMENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,H,4,,GA,"SHUMAKE, FRANKLIN",Democrat,0,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 9 e=0 OCR-checked | Phase 10 VISION-CONFIRMED e=0: losing/opposed candidate per recap,0.90
+GA,Atlanta Journal,109052,1970,H,5,,GA,"YOUNG, ANDREW",Democrat,1,,,,"RECOMMENDED OVER THOMPSON [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: opp-lang | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1970,H,5,,GA,"THOMPSON, FLETCHER",Republican,0,,1,,"[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 9 e=0 OCR-checked | Phase 10 VISION-CONFIRMED e=0: losing/opposed candidate per recap | Phase 7 INC FIX: r_inc=1 (recap: ""Republican incumbent FLETCHER THOMPSON"")",0.90
+GA,Atlanta Journal,109052,1970,CNTY COMM,,Fulton,GA,"BROWN, CHARLIE",Democrat,1,,,,PROVIDES CONTINUITY ON COMMISSION [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,CNTY COMM,,Fulton,GA,"FARRIS, MILTON",Democrat,1,,,,"[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: no context | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1970,CNTY COMM,,Fulton,GA,"CATES, GOODWYN",Democrat,1,,,,"[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: no context | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1970,STATE REP,95 Post 1,Fulton,GA,"COOK, RODNEY",Republican,1,,1,,"EXCELLENT RECORD AS ALDERMAN, LEGISLATOR [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR | Phase 10 DIST FIX: ""9 Post 1""->""95 Post 1"" (capstone vision: ""District 95, Post 1""; V1 truncated 95)",0.9
+GA,Atlanta Journal,109052,1970,STATE REP,104,Fulton,GA,"SAVAGE, JOHN",Republican,1,,,,"RECONCILING FACTIONS IN CITY [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: opp-lang | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1970,STATE REP,104,Fulton,GA,"SPEARS, TED",Democrat,0,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 9 e=0 OCR-checked | Phase 10 VISION-CONFIRMED e=0: losing/opposed candidate per recap,0.90
+GA,Atlanta Journal,109052,1970,STATE REP,113,Fulton,GA,"MCCLATCHEY, DEVEREAUX",Democrat,1,1,,,"VETERAN INCUMBENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1970,STATE SENATOR,34,Fulton,GA,"SUMMERS, JACK",Democrat,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,STATE SENATOR,56,Fulton,GA,"HARDY, JACK",Democrat,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,JUDGE,DeKalb Superior Court,DeKalb,GA,"PEELER, CLARENCE",Nonpartisan,1,,,,SUPERIOR COURT JUDGE SINCE 1965 APPOINTMENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,CNTY COMM,2,DeKalb,GA,"CALLAWAY, TOM",,1,,,,INCUMBENT D-2 [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,CNTY COMM,AT-LARGE,DeKalb,GA,"ACKERMAN, O P (SONNY) JR",,1,,,,"NEWLY CREATED AT-LARGE 4-YEAR TERM [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: no context | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1970,SCHOOL BOARD,1,DeKalb,GA,"KENNEDY, J W (JAY) JR",Nonpartisan,1,,,,"YOUNG, ENTHUSIASTIC, CAPABLE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: no context | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1970,SCHOOL BOARD,7,DeKalb,GA,"HAZLERIGS, F BURTON",Nonpartisan,1,,,,INCUMBENT BOARD MEMBER [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,STATE SENATOR,41,DeKalb,GA,"TYSINGER, JIM",Republican,1,,,,INCUMBENT 41ST SENATORIAL [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,STATE REP,73 Post 2,DeKalb,GA,"SMITH, BOB",Republican,1,,,,PREFERRED OVER NOBLE BECAUSE WIDE EXPERIENCE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1970,STATE REP,73 Post 2,DeKalb,GA,"NOBLE, W A (BILL)",Republican,0,,,,EARLIER ENDORSED IN R PRIMARY BUT SMITH PREFERRED IN GENERAL [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 9 e=0 OCR-checked | Phase 10 VISION-CONFIRMED e=0: losing/opposed candidate per recap,0.90
+GA,Atlanta Journal,109052,1972,PRESIDENT,,,GA,"NIXON, RICHARD M",Republican,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,VICE PRESIDENT,,,GA,"AGNEW, SPIRO T",Republican,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,SENATOR,,,GA,"NUNN, SAM",Democrat,1,,,,"[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1972,H,4,,GA,"BLACKBURN, BEN",Republican,1,,1,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,H,5,,GA,"COOK, RODNEY",Republican,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,PUBLIC SERVICE COMMISSION,,,GA,"WIGGINS, BEN",Nonpartisan,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,JUDGE,Fulton Superior Court,Fulton,GA,"TANKSLEY, JEPTHA ""JEP""",Nonpartisan,1,,,,SERVED WELL ON BENCH [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,JUDGE,Fulton Superior Court,Fulton,GA,"TIDWELL, ERNEST",Nonpartisan,1,,,,SERVED WELL ON BENCH [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,STATE REP,43 Post 2,Fulton,GA,"HORTON, GERALD T",,1,,,1,TWO TERMS IN HOUSE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,CNTY COMM,Chairman,DeKalb,GA,"GUHL, A C ""BOB""",Republican,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,CNTY COMM,AT-LARGE,DeKalb,GA,"COOLIDGE, W M ""BILL""",,1,,,,"[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 FLAG: name not in OCR | Phase 10 VISION-CONFIRMED (subagent read recap image, both columns): name/direction correct",0.93
+GA,Atlanta Journal,109052,1972,JUDGE,Stone Mountain Judicial Circuit,DeKalb,GA,"ZACHARY, W E ""BILL""",Nonpartisan,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,JUDGE,Stone Mountain Judicial Circuit,DeKalb,GA,"WALLING, ROBERT ""BOB""",Nonpartisan,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,JUDGE,Stone Mountain Judicial Circuit,DeKalb,GA,"WHEELER, EDWARD D",Nonpartisan,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,DA/PROSECUTOR,Stone Mountain Judicial Circuit,DeKalb,GA,"BELL, RICHARD",Nonpartisan,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,JUDGE,DeKalb Ordinary,DeKalb,GA,"GUESS, MARION JR",Nonpartisan,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1972,CNTY CLERK,Tax Commissioner,DeKalb,GA,"ADAMS, EUGENE E ""GENE""",,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,SENATOR,,,GA,"TALMADGE, HERMAN",Democrat,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,H,4,,GA,"LEVITAS, ELLIOTT",Democrat,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,H,5,,GA,"YOUNG, ANDREW",Democrat,1,1,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,H,6,,GA,"GINGRICH, NEWT",Republican,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,H,7,,GA,"COLLINS, QUINCY",Republican,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,GOVERNOR,,,GA,"BUSBEE, GEORGE",Democrat,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,LT GOVERNOR,,,GA,"MILLER, ZELL",Democrat,1,,,,DUAL ENDORSEMENT WITH SAVAGE [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,LT GOVERNOR,,,GA,"SAVAGE, JOHN",Republican,1,,,,DUAL ENDORSEMENT WITH MILLER [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,CNTY COMM,At-Large Post 1,Fulton,GA,"FARRIS, MILTON",,1,,,1,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,CNTY COMM,At-Large Post 2,Fulton,GA,"GREENE, HORTON J",,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,CNTY COMM,At-Large Post 3,Fulton,GA,"ROACH, LEE",,1,,,,WRITE-IN ENDORSEMENT [QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65
+GA,Atlanta Journal,109052,1974,CNTY COMM,At-Large,DeKalb,GA,"MALOOF, MANUEL",,1,,,,[QA 2026-06-01 Pattern J add: extracted from 109052_19681104.pdf multi-year clipping page] | Phase 2 verified: LIST/NARR,0.65

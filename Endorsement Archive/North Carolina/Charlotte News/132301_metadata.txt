@@ -1,65 +1,43 @@
-Newspaper Name: Charlotte News
-Alternative Names: The Charlotte News
-Years Published: 1888-1985 (afternoon paper; ceased publication 1985, absorbed by sister paper Charlotte Observer)
-Newspaper ID number: 132301
-State: NC (Charlotte, Mecklenburg County)
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Charlotte News
+Newspaper ID: 132301
+State: NC
 Number of clippings: 14
-Endorsement data years: 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984
+Endorsement data years: 1960-1984
+Total candidate records: 383 (271 endorsed=1)
+Total proposition records: 28 (28 with a yes/no direction)
 
---- ENDORSEMENT COUNTS (V2 — post-22-round re-QA + formal pass, 2026-06-04) ---
-Total candidate records: 383
-  Endorsed: 271
-  Opposed: 112
-  No-direction: 0
-Total proposition records: 28 (27 YES, 1 NO)
+Confidence statistics (all records):
+  Mean confidence: 0.869
+  Low-confidence records (< 0.7): 7
 
---- CONFIDENCE SCORES ---
-Mean: ~0.92 (improved from V1 baseline 0.87)
-Below 0.75 threshold: 18 (12 cand + 6 prop) — all documented; mostly 1972/1974 garbled-OCR or 1968 NC judicial
+Top offices (top 15):
+  STATE REP: 98
+  CNTY COMM: 75
+  STATE SENATOR: 38
+  DIRECTOR: 20
+  H: 18
+  SENATOR: 16
+  PRESIDENT: 15
+  GOVERNOR: 13
+  LT GOVERNOR: 8
+  DISTRICT COURT JUDGE: 8
+  INSURANCE COMMISSIONER: 7
+  ATTORNEY GENERAL: 7
+  JUDGE: 7
+  SHERIFF: 6
+  AUDITOR: 6
 
---- DATA QUALITY ---
-QA date: 2026-06-04 (V2)
-QA result: PASS WITH MAJOR FIXES V2
-QA rounds: 23 + formal endorsement-qa skill pass
-Total fixes: ~311 across all rounds (most extensive QA of the project)
-Round 23 added: 3 office-switch incumbency corrections (Martin 1984 GOV, Hunt 1984 SEN, Bissell 1980 CntyComm — all cleared because person ran for different office than prior incumbency)
+Party distribution:
+  Democrat: 219
+  Republican: 118
+  Nonpartisan: 16
+  Libertarian: 13
+  Socialist Workers: 6
+  Citizens: 1
+  Independent: 1
+  Unaffiliated: 1
 
---- V2 FIX SUMMARY ---
-- Stage 1: 0 (structurally clean from V1)
-- Round 1 (1980): 37 fixes — Bynum party R→D, missing Bissell endorsement, 35 alternatives
-- Round 2 (1982/84): 48 fixes — 3 name corrections (Begin→Eagles, Thornburg, Morgan→Long), 45 alternatives
-- Round 3 (1978 CRITICAL): 28 fixes — direction reversals (Ingram→Helms, Todd→Tison), phantom KIRKMENDALL deleted, BRADFORD→BRAFFORD + office SCHOOL BOARD→DIRECTOR
-- Rounds 4-5 (older years): 8 fixes — 1968 MOORE office, 1976 HAIR party, 1970 MOORE party, 1966 GOP trio alternatives
-- Round 6 (cross-year std + incumbency): 16 fixes
-- Round 7 (mass incumbency): 56 fixes
-- Round 8 (1970): 22 fixes
-- Rounds 9-10 (empty party + verify): 2 fixes
-- Round 11 (1964 Pattern A): 8 fixes — Goldwater opposed, Humphrey+Miller VP added
-- Round 12 (1968 deep): 5 fixes — Ervin Sam J. Jr. Senate ADDED (Watergate Senator missing!)
-- Round 14 (1968 office/name): 9 fixes — SUPREME COURT→JUDGE for Collier+Ervin III, 3 District Judge name fixes
-- Round 15 (statewide incumbency + 1984 VP): 12 fixes — Bush incumbent VP added, Ferraro D opposed
-- Round 16 (name standardization): 24 fixes
-- Round 17 (mass incumbency Python): 31 fixes
-- Rounds 20-22 (verify clean): 0 fixes
-
---- HISTORICAL NOTES ---
-1. **PM sister paper to Charlotte Observer (AM)** — separate editorial boards, frequently endorsed different candidates.
-2. Editorial line:
-   - D-leaning at PRESIDENTIAL level: LBJ 1964 endorsed (over Goldwater R); Carter D 1980 endorsed (over Reagan R)
-   - R-leaning at congressional level: Nixon R 1968+1972, Ford R 1976, Reagan R 1984; James G. Martin R 1972-1984 (H 9th Dist); Jesse Helms R 1978 SEN (over Ingram D incumbent)
-3. **1984 historic Helms-Hunt race**: paper backed Hunt D (switched from 1978 Helms endorsement)
-4. Editorial format progression:
-   - 1960s-70s: long-form ARTICLE ("Tomorrow's Elections", "Summing Up")
-   - 1972-76: compact "The News Prefers/Endorses" list
-   - 1978-84: BOLD endorsement + all alternatives listed format (enabled extensive Pattern A coverage)
-5. Critical mid-folder discovery: **1978 SEN record was REVERSED** in original extraction — paper endorsed Helms R but data had Ingram D. Also missing Helms entirely.
-6. 1968 Sam J. Ervin Jr. (Watergate Senator) was endorsed but ENTIRELY MISSING from original data.
-7. 1984 VP race (Bush incumbent R / Ferraro D) was ENTIRELY MISSING.
-8. 12 misfiled Charlotte Observer clippings (1960-1990 various) were correctly excluded from this dataset.
-
---- COVERAGE GAPS (intrinsic source limits) ---
-- 8 empty-party records — 1968 NC judicial races (Superior Court + District Court Judges); OCR didn't capture partisan labels (paper relied on bar association advice)
-- Pattern A gap years: 1960/62/68/70/72/74/76 still 0 opposed records — paper used article-format or compact-endorsement-only style in these years (1968 has explicit "we commended to voters' attention three candidates" for 7th seat which were added as e=1)
-- No post-1985 data — paper ceased publication 1985
-
-Compiled: 2026-05-24. Updated: 2026-06-04 (V2).
+(metadata regenerated post-V8 deep verification)

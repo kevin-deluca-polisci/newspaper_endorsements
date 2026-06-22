@@ -1,40 +1,39 @@
-Newspaper Name: Birmingham News
-Alternative Names: The Birmingham News
-Years Published: 1888-2012 (daily), 2012-present (online/weekly)
-Newspaper ID number: 100101
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Birmingham News
+Newspaper ID: 100101
+State: AL
 Number of clippings: 61
-Endorsement data years: 1892, 1896, 1902, 1906, 1930, 1932, 1936, 1938, 1940, 1944, 1946, 1948, 1950, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2019
+Endorsement data years: 1892-2012
+Total candidate records: 742 (717 endorsed=1)
+Total proposition records: 195 (194 with a yes/no direction)
 
---- ENDORSEMENT COUNTS (V12 — post-11-round QA, 2026-06-03) ---
-Total candidate records: 717
-  Endorsed (=1): 695
-  Opposed (=0): 21
-  No position (null): 1
-Total proposition records: 195
-  Endorsed (=1): 132
-  Opposed (=0): 60
-  No position (null): 3
+Confidence statistics (all records):
+  Mean confidence: 0.923
+  Low-confidence records (< 0.7): 8
 
---- DATA QUALITY ---
-QA date: 2026-06-03 (V12)
-QA result: PASS WITH MAJOR FIXES V12
-QA rounds: 11 + formal endorsement-qa skill pass
-Total fixes: ~112 across all rounds
-Mean conf: cand 0.934, prop 0.903
-Below threshold (0.75): 5 cand (1988 SC flagged), 1 prop (1962 known unreadable)
+Top offices (top 15):
+  STATE REP: 132
+  JUDGE: 72
+  H: 71
+  STATE SENATOR: 47
+  SUPREME COURT: 46
+  PRESIDENT: 38
+  CNTY COMM: 37
+  SCHOOL BOARD: 32
+  PUBLIC SERVICE COMMISSION: 30
+  SENATOR: 25
+  TREASURER: 22
+  STATE BOARD OF ED: 21
+  GOVERNOR: 16
+  COURT OF CRIMINAL APPEALS: 16
+  COURT OF APPEALS: 15
 
---- HISTORICAL NOTES ---
-1. Birmingham News + Birmingham Age Herald merged in 1950 ("News-Age-Herald" transitional name).
-2. Solid South era pre-1950: virtually all D endorsements except where paper bolted (1930 Bankhead/Miller D over Heflin/Locke Jeffersonian Dems).
-3. Republican realignment 1960-onward: paper endorsed R presidential candidates from 1956 (Eisenhower) consistently through 2008.
-4. 1968 endorsement of NIXON over WALLACE notable — paper rejected Wallace despite his AL governorship.
-5. 1928 Heflin defection captured in 1930 records (recorded as Independent).
-6. 1968 SCHOOL BOARD oddity: paper endorsed 2 Republicans (Rudd + Thomason) for nonpartisan-tone board race.
-7. AL-06 BUCHANAN, JOHN H. JR. served as R from 1965-1981 (8 election years, name standardized in Round 8).
+Party distribution:
+  Democrat: 529
+  Republican: 194
+  Independent: 6
+  Nonpartisan: 1
 
---- REVIEW QUEUE (still open) ---
-1. 1988 SC over-extraction (5 records flagged at conf 0.60): HOUSTON, MCCORMACK, LYON, RYAN, EDMONDSON
-2. 1962 AMENDMENT-1 conf 0.55: source PDF (page 41 dense column) too garbled to verify
-3. Cross-year party flips for CURRY/GUNTER/HICKS/MARTIN/RUDD: may be name collisions, need OCR re-verification
-
-Compiled: 2026-04-04. Updated: 2026-06-03 (V12).
+(metadata regenerated post-V8 deep verification)

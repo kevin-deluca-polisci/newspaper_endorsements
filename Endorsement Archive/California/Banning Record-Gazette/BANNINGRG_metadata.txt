@@ -1,30 +1,36 @@
-Newspaper Name: Banning Record-Gazette
-Alternative Names: The Record-Gazette, Banning-Beaumont Record-Gazette
-Years Published: 1893-present (Banning Record founded 1893; merged with Beaumont Gazette)
-Newspaper ID number: BANNINGRG (no Gentzkow-Shapiro permid; the source DELUCA filename
-                            had "[IDNUMBER]" placeholder. Using BANNINGRG as folder-derived ID.)
-State: CA (Banning / Beaumont / Riverside County, San Gorgonio Pass area)
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Banning Record-Gazette
+Newspaper ID: BANNINGRG
+State: CA
 Number of clippings: 8
-Endorsement data years: 1960, 1968, 1970, 2006, 2008, 2010, 2012, 2014
+Endorsement data years: 1960-2014
+Total candidate records: 62 (55 endorsed=1)
+Total proposition records: 30 (30 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 62 (57 endorsed, 5 opposed)
-Total proposition records: 30 (22 YES, 8 NO)
+Confidence statistics (all records):
+  Mean confidence: 0.93
+  Low-confidence records (< 0.7): 0
 
---- CONFIDENCE SCORES ---
-Min: 0.75
-Mean: 0.93
-Max: 0.98
+Top offices (top 15):
+  CITY COUNCIL: 22
+  WATER DISTRICT: 9
+  HOSPITAL DISTRICT: 8
+  SCHOOL BOARD: 6
+  STATE REP: 3
+  LIBRARY DISTRICT: 3
+  H: 2
+  SUPERINTENDENT: 2
+  PARK DISTRICT: 2
+  PRESIDENT: 1
+  VICE PRESIDENT: 1
+  SENATOR: 1
+  TREASURER: 1
+  MAYOR: 1
 
---- NOTES ---
-Small weekly paper covering the San Gorgonio Pass area in eastern Riverside County.
-Most endorsements focus on local races: Banning and Beaumont City Council, school
-boards, water districts (BCV Water, San Gorgonio Pass Water Agency), hospital
-districts, and ballot measures. Statewide CA props are also commonly covered.
-1960 issue covered only state propositions (no candidate endorsements on that page).
+Party distribution:
+  Republican: 8
+  Democrat: 1
 
-Note on newspaper_id: This paper does not have an official Gentzkow-Shapiro permid.
-The placeholder "BANNINGRG" is folder-derived and will need to be either kept as-is
-or replaced with an assigned ID during downstream augmentation.
-
-Compiled: 2026-05-20
+(metadata regenerated post-V8 deep verification)

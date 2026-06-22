@@ -37,14 +37,14 @@ NC,Greensboro News and Record,132700,2004,NC,BOND,,Guilford Technical Community 
 NC,Greensboro News and Record,132700,2004,NC,BOND,,Guilford County park bonds,1,Yes vote recommended,0.90
 NC,Greensboro News and Record,132700,2004,NC,BOND,,High Point city bonds,1,Yes vote recommended,0.85
 NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Fire Stations bond,1,Yes vote recommended,0.90
-NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Public Building Renovation bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Public Building Renovation bond,0,Yes vote recommended | V9 SWEEP FIX: paper recommended NO/AGAINST (public bldg reno); was all-FOR bug,0.90
 NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Economic Development bond,1,Yes vote recommended,0.90
 NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Libraries bond,1,Yes vote recommended,0.90
-NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Historical Museum bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Historical Museum bond,0,Yes vote recommended | V9 SWEEP FIX: paper recommended NO/AGAINST (historical museum); was all-FOR bug,0.90
 NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Parks and Recreation bond,1,Yes vote recommended,0.90
 NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Neighborhood Redevelopment bond,1,Yes vote recommended,0.90
-NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro War Memorial Stadium bond,1,Yes vote recommended,0.90
-NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Swimming Center bond,1,Yes vote recommended,0.90
+NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro War Memorial Stadium bond,0,Yes vote recommended | V9 SWEEP FIX: paper recommended NO/AGAINST (war memorial stadium); was all-FOR bug,0.90
+NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Swimming Center bond,0,Yes vote recommended | V9 SWEEP FIX: paper recommended NO/AGAINST (swimming center); was all-FOR bug,0.90
 NC,Greensboro News and Record,132700,2006,NC,BOND,,Greensboro Civil Rights Museum bond,1,Yes vote recommended,0.90
 NC,Greensboro News and Record,132700,2008,NC,REFERENDUM,,Guilford County sales tax,1,For - help pay off already approved school bonds | V5: prop_type filled from desc analysis.,0.90
 NC,Greensboro News and Record,132700,2008,NC,BOND,,Greensboro Street Improvements bond,1,Yes vote recommended,0.90

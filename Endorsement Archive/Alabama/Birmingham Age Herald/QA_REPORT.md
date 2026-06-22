@@ -222,3 +222,25 @@ All 5 stages PASS:
 2. **Solid South Democrat era** — only Democrat endorsements, consistent with Alabama pre-civil-rights political landscape.
 3. **1946 Boswell Amendment opposition** — Age Herald opposed the discriminatory voter registration test (Boswell Amendment), notable progressive stance for an Alabama paper of the era.
 4. **Some 1944-1948 clippings from Birmingham News** — successor paper material filed under 100102 per metadata note.
+
+---
+
+# V9 Single-Pass Deep Verification — 2026-06-21
+
+**Method:** All 21 clipping PDFs independently re-OCR'd from scratch (`pdfimages -all` + `tesseract`, large embedded page image per clipping). Old print (1890–1948), but all 21 produced usable text (none zero). Every candidate and proposition checked against OCR; cross-paper metadata consistency run vs the 4 other AL papers.
+
+**Result: CLEAN — zero corrections required.** The prior multi-round work (R3–R9 Pattern A/J additions, district fixes, incumbency coding) holds up fully under independent re-OCR.
+
+### Candidates (17 records, 1890–1940) — no changes
+- **Districts confirmed from OCR.** 1900 clipping explicitly prints "Sixth District—Col. John H. Bankhead" (validates the 1890 Bankhead AL-06 fix, formerly d9) and "Ninth District—Oscar W. Underwood" (validates 1900/1910 Underwood AL-09).
+- **The 1944/1946/1948 candidate gap is genuine, not a miss.** Those clippings are amendment/ballot-measure editorials. The 1948 clipping is literally headed "The Rest Of The Ballot" and sets aside "the presidential choice" to discuss amendments and county offices (no presidential endorsement present — Alabama 1948 had the Dixiecrat elector split). 1944 and 1946 clippings scanned for candidate-endorsement language: none found.
+- Pattern A oppositions (1920 Harding, 1930 Heflin/Locke Jeffersonian-Democrats, 1932 Hoover, 1940 Willkie, 1890 Davidson) all carry sourced editorial quotes and re-verify.
+
+### Propositions (40 records, 1932–1948) — no changes
+- **All-FOR check: both flagged years legitimate.** 1936 (5 amendments all YES) — editorial headline "Vote 'Yes' On All Five Amendments," each amendment individually described. 1948 (11 amendments all YES) — editorial states "All these amendments, in the opinion of The News-Age-Herald, deserve approval" and confirms "the 11 amendments" (exact count; no dropped NO). 1946 correctly retains its NO (the Boswell disenfranchisement amendment), confirming mixed-direction extraction works.
+
+### Cross-paper consistency (Stage 7) — clean
+All shared-candidate metadata (office, party) matches across the Birmingham Age-Herald, News, Post, and Post-Herald. The only differences are **directions** and are legitimate editorial splits — notably 1940: the Age-Herald endorsed Roosevelt (and opposed Willkie) while the Birmingham Post endorsed Willkie. Both correct; not flagged.
+
+### Integrity
+17 candidates / 40 props; 0 exact duplicates, 0 Pattern K, 0 empty names, 0 empty confidence. Metadata regenerated; archive md5-synced.

@@ -5,18 +5,15 @@ Newspaper: Atlanta Journal
 Newspaper ID: 109052
 State: GA
 Number of clippings: 1
-  Note: The single clipping PDF (109052_19681104.pdf) is a 4-page bundle
-        containing endorsement editorials from 1968, 1970, 1972, and 1974.
 Endorsement data years: 1968-1974
-  Years covered: 1968, 1970, 1972, 1974
-Total candidate endorsements: 99
-Total proposition endorsements: 74
+Total candidate records: 99 (92 endorsed=1)
+Total proposition records: 74 (71 with a yes/no direction)
 
-Confidence statistics:
-  Mean confidence: 0.920
-  Low-confidence records (< 0.7): 0
+Confidence statistics (all records):
+  Mean confidence: 0.854
+  Low-confidence records (< 0.7): 40
 
-Top offices:
+Top offices (top 15):
   STATE REP: 30
   CNTY COMM: 14
   H: 12
@@ -37,5 +34,6 @@ Party distribution:
   Democrat: 51
   Republican: 25
   Nonpartisan: 13
-  (empty): 9
   Independent: 1
+
+(metadata regenerated post-V8 deep verification)

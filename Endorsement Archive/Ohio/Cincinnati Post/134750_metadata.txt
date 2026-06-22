@@ -1,34 +1,43 @@
-Newspaper Name: Cincinnati Post
-Alternative Names: The Post, Cincinnati Post & Times-Star
-Years Published: 1881-2007 (Scripps daily, closed Dec 31, 2007)
-Newspaper ID number: 134750
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Cincinnati Post
+Newspaper ID: 134750
 State: OH
 Number of clippings: 61
-Endorsement data years: 1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2007
+Endorsement data years: 1950-2007
+Total candidate records: 1637 (1316 endorsed=1)
+Total proposition records: 239 (239 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 1325
-  Endorsed (=1): 1271
-  Opposed (=0): 51
-Total proposition records: 229
-  Endorsed (=1): 169
-  Opposed (=0): 60
+Confidence statistics (all records):
+  Mean confidence: 0.8
+  Low-confidence records (< 0.7): 406
 
---- CONFIDENCE SCORES ---
-Min: 0.35
-Mean: 0.76
-Max: 0.98
-Below threshold (0.75): 579
+Top offices (top 15):
+  STATE REP: 317
+  JUDGE: 263
+  CITY COUNCIL: 227
+  H: 107
+  SUPREME COURT: 102
+  SCHOOL BOARD: 82
+  STATE SENATOR: 63
+  CNTY COMM: 59
+  COURT OF APPEALS: 46
+  SENATOR: 39
+  GOVERNOR: 34
+  AUDITOR: 34
+  TREASURER: 34
+  PRESIDENT: 30
+  VICE PRESIDENT: 29
 
---- NOTES ---
-2026-05-20 update: Added 2 supplementary clippings from raw/more cincinnati 2/
-folder (134750_19901105_v3, 134750_19921102_v2). Hash-deduped against existing.
-After cross-record fuzzy dedup (lastname + first initial), retained 1325 unique
-candidate records (32 cross-clipping duplicates merged) and 229 propositions.
+Party distribution:
+  Nonpartisan: 731
+  Republican: 398
+  Democrat: 304
+  Charter: 16
+  Independent: 11
+  Natural Law: 8
+  American Independent: 1
+  Libertarian: 1
 
-Note: a "134750_20240125.pdf" file from the new folder was identified as a
-4-clipping bundle of 1968/1970/1972/1974 endorsements that already had
-single-date PDFs in the archive. Bundle was removed without extraction since
-those years' endorsements were already captured.
-
-Compiled: 2026-05-20
+(metadata regenerated post-V8 deep verification)

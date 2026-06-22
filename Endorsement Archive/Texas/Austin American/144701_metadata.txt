@@ -1,53 +1,31 @@
-Newspaper Name: AUSTIN AMERICAN
-Alternative Names: AUSTIN AMERICAN-STATESMAN, THE AUSTIN AMERICAN
-Years Published: 1914-1973 (as Austin American; merged with Statesman)
-Newspaper ID number: 144701
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Austin American
+Newspaper ID: 144701
+State: TX
 Number of clippings: 26
-Endorsement data years: 1960, 1962, 1966, 1968, 1970, 1972
+Endorsement data years: 1960-1972
+Total candidate records: 19 (18 endorsed=1)
+Total proposition records: 35 (35 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 13
-  Endorsed (=1): 13
-  Opposed (=0): 0
-  No position (null): 0
-Total proposition records: 34
-  Endorsed (=1): 26
-  Opposed (=0): 5
-  No position (null): 0
-  Unverifiable (conf 0.7): 3
+Confidence statistics (all records):
+  Mean confidence: 0.878
+  Low-confidence records (< 0.7): 0
 
---- DATA QUALITY ---
-Flagged for review: 0 candidates, 3 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 7
-Duplicates removed: 1
+Top offices (top 15):
+  STATE REP: 5
+  SENATOR: 3
+  GOVERNOR: 2
+  H: 2
+  LT GOVERNOR: 2
+  ATTORNEY GENERAL: 2
+  PRESIDENT: 1
+  CNTY CLERK: 1
+  VICE PRESIDENT: 1
 
---- CONFIDENCE SCORES ---
-Min: 0.70
-Mean: 0.88
-Max: 1.00
-Below threshold (0.75): 3
+Party distribution:
+  Democrat: 13
+  Republican: 4
 
---- REVIEW QUEUE ---
-  [no_endorsements] 144701_19641013: NEWS ARTICLE ABOUT PRESIDENT JOHNSON'S CAMPAIGN - NOT AUSTIN AMERICAN ENDORSEMENT
-  [no_endorsements] 144701_19641025: ARTICLE REPORTING ENDORSEMENTS FROM DIFFERENT NEWSPAPER (WICHITA FALLS TIMES-RECORD NEWS) - NOT AUSTIN AMERICAN ENDORSEMENT
-  [no_endorsements] 144701_19681105_1: EDITORIAL OPINION PIECE ON VOTING - NO SPECIFIC CANDIDATE OR BALLOT MEASURE ENDORSEMENTS
-  [no_endorsements] 144701_19701101: EDITORIAL ENCOURAGING INDEPENDENT VOTING - NO SPECIFIC ENDORSEMENTS
-  [no_endorsements] 144701_19701101_2: SAMPLE BALLOT INFORMATIONAL ARTICLE - NO ENDORSEMENTS
-  [candidate_extracted] 144701_19601107: PRESIDENTIAL ENDORSEMENT EDITORIAL (KENNEDY-JOHNSON)
-  [candidate_extracted] 144701_19621101: EDITORIAL ENDORSING CONNALLY FOR GOVERNOR AND THORNBERRY FOR US HOUSE
-  [candidate_extracted] 144701_19621104_1: ENDORSEMENT EDITORIAL FOR CONNALLY AND THORNBERRY (DUPLICATE OF 19621101 CONTENT)
-  [info_only] 144701_19621104_2: SAMPLE BALLOT AND AMENDMENT DESCRIPTIONS - INFORMATIONAL
-
---- NOTES ---
-QA completed 2026-04-02. Extensive corrections applied:
-- 1960 presidential endorsement corrected from Nixon to Kennedy
-- 1962 water amendment renumbered from 1 to 4; Amendment 7 added; Connally/Thornberry candidates added
-- 1966 underextraction fixed: 12 missing amendments added, 1 coding error corrected
-- 1970 underextraction fixed: 3 missing amendments added, 1 wrong endorsement direction corrected
-- 1970 state rep office codes corrected from H to STATE REP
-- 3 unverifiable 1962 amendment records retained at confidence 0.7
-
-Compiled: 2026-04-02 06:18:30
-QA updated: 2026-04-02
+(metadata regenerated post-V8 deep verification)

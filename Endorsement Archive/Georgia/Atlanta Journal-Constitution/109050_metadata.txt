@@ -6,18 +6,16 @@ Newspaper ID: 109050
 State: GA
 Number of clippings: 7
 Endorsement data years: 2002-2012
-  Years covered: 2002, 2004, 2006, 2008, 2012
-Total candidate endorsements: 190
-Total proposition endorsements: 30
+Total candidate records: 189 (186 endorsed=1)
+Total proposition records: 30 (30 with a yes/no direction)
 
-Confidence statistics:
-  Mean confidence: 0.940
-  Low-confidence records (< 0.7): 2
-  Incumbency coverage: 35/187 (19%)
+Confidence statistics (all records):
+  Mean confidence: 0.941
+  Low-confidence records (< 0.7): 0
 
-Top offices:
+Top offices (top 15):
   STATE REP: 65
-  H: 33
+  H: 32
   STATE SENATOR: 22
   CNTY COMM: 17
   SCHOOL BOARD: 11
@@ -34,5 +32,6 @@ Top offices:
 
 Party distribution:
   Democrat: 105
-  Republican: 70
-  (empty): 15
+  Republican: 69
+
+(metadata regenerated post-V8 deep verification)

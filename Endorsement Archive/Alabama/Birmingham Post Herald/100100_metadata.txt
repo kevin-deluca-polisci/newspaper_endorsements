@@ -1,58 +1,39 @@
-Newspaper Name: Birmingham Post-Herald
-Alternative Names: Birmingham Post Herald
-Years Published: 1950-2004 (endorsement data range)
-Newspaper ID number: 100100
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Birmingham Post Herald
+Newspaper ID: 100100
+State: AL
 Number of clippings: 62
-Endorsement data years: 1952, 1954, 1956, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004
+Endorsement data years: 1950-2004
+Total candidate records: 455 (425 endorsed=1)
+Total proposition records: 130 (130 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 425
-  Endorsed (=1): 425
-  Opposed (=0): 0
-  No position (null): 0
-Total proposition records: 130
-  Endorsed (=1): 94
-  Opposed (=0): 36
+Confidence statistics (all records):
+  Mean confidence: 0.919
+  Low-confidence records (< 0.7): 2
 
---- DATA QUALITY ---
-Flagged for review: 2 candidates (low confidence, user-confirmed), 0 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 7
-Duplicates removed: 5 candidates, 5 propositions (QA stage)
+Top offices (top 15):
+  STATE REP: 98
+  H: 34
+  JUDGE: 33
+  STATE SENATOR: 29
+  SUPREME COURT: 29
+  PRESIDENT: 27
+  GOVERNOR: 18
+  PUBLIC SERVICE COMMISSION: 18
+  CNTY COMM: 18
+  SCHOOL BOARD: 17
+  SENATOR: 14
+  DISTRICT COURT JUDGE: 14
+  STATE BOARD OF ED: 12
+  COURT OF APPEALS: 11
+  COURT OF CRIMINAL APPEALS: 10
 
---- CONFIDENCE SCORES ---
-Min: 0.70
-Mean: 0.93
-Max: 0.95
-Below threshold (0.75): 2 (1992 Jones/Lewis H-7, user-confirmed as endorsed)
+Party distribution:
+  Democrat: 283
+  Republican: 164
+  Independent: 5
+  Nonpartisan: 3
 
---- REVIEW QUEUE ---
-  [no_endorsements] 100100_19681031_2: No endorsements detected
-  [no_endorsements] 100100_19681031_3: No endorsements detected
-  [no_endorsements] 100100_19721106_2: No endorsements detected
-  [no_endorsements] 100100_19741031_2: No endorsements detected
-  [no_endorsements] 100100_19741101_2: No endorsements detected
-  [no_endorsements] 100100_19741102_2: No endorsements detected
-  [no_endorsements] 100100_19741104_2: No endorsements detected
-
---- QA AUDIT (2026-04-04) ---
-Stage 1 - Structural: PASSED. Fixed newspaper_id (empty in all 563 rows, filled with 100100). Metadata placeholders updated. All headers valid, no junk rows, no bad values.
-Stage 2 - Spot Check (4 clippings): 100% accuracy across 65 records.
-  - 1974-11-04: 1/1 candidates correct (Miglionico H-6)
-  - 1990-11-05: 29/29 candidates, 1/1 propositions correct
-  - 1964-11-02: 1/1 candidates, 5/5 propositions correct
-  - 2002-11-04: 25/25 candidates, 3/3 propositions correct
-Stage 3 - Variable Coding: 32 office codes remapped to standard (STATE BOARD OF EDUCATION->STATE BOARD OF ED, SECRETARY OF STATE->SEC OF STATE, STATE AUDITOR->AUDITOR, STATE TREASURER->TREASURER, DISTRICT ATTORNEY->DA/PROSECUTOR, COUNTY TREASURER->CNTY TREASURER, BOARD OF EDUCATION->STATE BOARD OF ED). 5 candidate duplicates removed (multi-clipping artifacts). 3 proposition duplicates removed. 2 party values filled (Torbert/Dominick 1976 = Democrat). 35 remaining empty parties are legitimate (32 from 1966 one-party era, 3 from nonpartisan city council races).
-Stage 4 - Low Confidence: 2 records at 0.70 (1992 Jones/Lewis H-7 tepid endorsements). Previously reviewed and confirmed by user.
-Overall assessment: EXCELLENT. Data is clean and accurate.
-
---- NOTES ---
-Birmingham Post-Herald was a Scripps-Howard newspaper. The paper endorsed in every general election from 1950-2004.
-1966 records lack party labels (Alabama one-party Democratic era for local/state races).
-Multiple party switches tracked: Sullivan (D->R 1996), Amari (D->R 1990), Bennett (D->R 1998), Martin (D->R ~2002).
-1992 H-7 race: Jones (R) and Lewis (I) coded as endorsed at 0.70 confidence (paper listed both as "decent alternatives" to Hilliard).
-1994 batch endorsement: Amendments 8-26 coded as single batch proposition.
-
-Compiled: 2026-04-04 17:09:59
-QA completed: 2026-04-04
+(metadata regenerated post-V8 deep verification)

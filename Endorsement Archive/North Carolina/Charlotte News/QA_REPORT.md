@@ -119,3 +119,31 @@ By far the most extensive folder QA of the project so far — ~308 fixes across 
 - 1984 historic Helms-Hunt race: paper backed Hunt D (switched from 1978 Helms endorsement)
 - Editorial format shifted: article (1960s-70s) → compact list (1972-76) → BOLD+ALL-CANDIDATES (1978-84)
 - Paper ceased publication 1985 (absorbed by sister paper Charlotte Observer)
+
+---
+
+## V9 SINGLE-PASS DEEP VERIFICATION — 2026-06-21
+
+Re-OCR (pdfimages + tesseract) of all 14 clippings; regex pre-screen; comprehensive high-res vision pass on the 1970/1972/1974/1978/1984 recaps; props audit; integrity sweep; cross-paper consistency vs Charlotte Observer.
+
+**Result: PASS WITH FIXES.** 383→382 candidate records (1 spurious removed), 28 props unchanged.
+
+Candidate corrections (~20, all vision/OCR-verified):
+- 1984 recap (13): McGlohon→McLaughlin/D, Polk→Jenkins, Bradley→Heasley, Autrey→Rod, Cheek→Barnhill, +judge first-names/districts (Griffin/Lamm/Todd), Supreme Court Frye/Mitchell/Boyan→blank (no endorsement), Buckman removed, Walton added.
+- 1978 (4): county-comm Ray/Smith/Thomas e=0→1, Whitfield e=1→0. (Subagent-proposed Walton & Spoon flips REJECTED — vision showed both ●bulleted/endorsed.)
+- 1972: Jordan,B.Everett → Galifianakis,Nick(D) [matches Observer].
+- 1974: Edmisten,Rufus(D) → Carson,James H. Jr.(R) [AG; News preferred Carson].
+- 1970: Campbell party D→R + name SAM→GUS; Lowe W→M; Cobb party D→R; Foley R→A; **removed spurious STATE SENATOR Kratt** (Seat 2 = "No Endorsement"; Knox/Baugh retained).
+
+Integrity: Pattern K = 0, exact duplicates = 0, parties/offices/endorsed all valid. Cross-paper positively validated 1972 Galifianakis and 1984 Martin-governor codings; confirmed the genuine 1984 President split (News→Reagan, Observer→Mondale).
+
+Residual flags documented in RA_NEEDS.md (1976 Spoon possible omission; 1976 Mathis party; 1968 judicial low-confidence; Pattern-A opponent omissions).
+
+### V9 extension — full remaining-year vision pass (2026-06-21)
+Completed 100% high-res vision verification of the 7 years not covered in the first V9 pass: 1960, 1962, 1964, 1966, 1968, 1980, 1982. All 13 endorsement years are now image-verified record-by-record.
+- **Clean (0 fixes):** 1960 (8), 1962 (14), 1980 (63/63 — bold-recap box matched exactly, incl. cross-party R endorsements Flaherty/Snyder/Tenney/Spoon/Lefler/Sentelle/Bissell).
+- **1966:** 1 fix — opposed GOP State House CALVERT "R. R."→"B."
+- **1982:** 1 fix — Spoon nickname "RAY"→"ROY"; props confirmed (incl. the AGAINST on 4-3 County Election Plan).
+- **1968:** 0 clean fixes; documented 7 soft-direction/party flags; CONFIRMED Kratt was endorsed outright in 1968 (vindicates the 1970-only Kratt removal).
+- **1964:** SOURCE-GAP — archived clipping is only an AP roundup; 5 records confirmed, 21 down-ballot records flagged (real but source editorial not in archive), no deletions.
+Final: 383 candidate + 28 prop records. Pattern K = 0, no duplicates.

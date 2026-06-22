@@ -101,3 +101,51 @@ Atlanta Constitution registered in `qa_manifest.csv` as entry #15 with qa_result
 3. **dname coverage** is 0% pre-1980, 60-80% in 1988/1990
 4. **Pattern M (cross-office misclass) is a new error type** — should systematically check in future folders
 5. **1968 Pattern I ambiguities** (DILLON 103/104, GUNTER 96/97) flagged but not resolvable without higher-res OCR
+
+---
+
+## V8 Deep Verification (endorsement-verification skill) — 2026-06-20
+
+Full 16-phase re-OCR-from-scratch verification, independent of prior QA. Large historical folder (572→570 candidates, 370 props, 124 clippings, 1960-1990, Georgia state-legislature-heavy).
+
+**Re-OCR (Phase 1):** all 124 clipping PDFs re-extracted (pdfimages → 750 images; tesseract on all 127 images >30KB). Two clippings (1964-10-28_v2, 1966-11-03) whose large embedded JPEGs initially timed out were re-OCR'd directly at full quality + 300 DPI fallback. **Verified per-clipping coverage: 0 of 124 clippings left without OCR text.** All 16 years have 240-900 OCR lines.
+
+**Per-record (Phases 2-9):** 465/525 e=1 verified directly; 60 e=1 + 8 e=0 flagged. Format sweep 0 fixes; Pattern K 0; exact dups 0. **76 cross-cycle incumbency flags added** (many returning GA legislators, 2-year terms). 2 near-duplicate district artifacts identified (1968 Dillon, Gunter).
+
+**Independent subagent adjudication w/ vision (Phase 10):** 68 flags + near-dups sent to a no-anchoring subagent (136 tool calls, many 400 DPI vision reads). Results applied:
+- **1 direction FLIP:** 1966 H d5 Fletcher Thompson (R) E=1→E=0 — the Constitution endorsed Democrat Archie Lindsey ("His inexperienced Republican opponent, Fletcher Thompson, has yet to establish the soundness of his judgment"). Lindsey E=1 already present.
+- **6 NAME garbles fixed:** FEYSSUR→POYNTER (1976), MCKEEVER→McDUFF (1982), ATHENS,BILL→ATKINS (1982), ATHENS,FRANK JOHNSON→JOHNSON,FRANK (1982), PLETCHER→FLETCHER (1988), BOLTON→MELTON (1988). McCLACHEY→McCLATCHEY spelling unified.
+- **4 district/post fixes:** McClatchey 1968 d110→113; McGill 1988 d5→3; Stoddard 1982 Post1→2; Clements 1988 d23→28.
+- **2 near-dup artifacts dropped:** 1968 Dillon d104 (keep d103) and Gunter d96 (keep d97) — confirmed single-seat via the printed "Our Recommendations" recap.
+- **3 NEEDS_RA:** 1968 "JAMBS, JEFF" d37, 1976 LENDERMAN d56, 1984 ASSESSOR WAGES — no source support in any clipping (likely belong to races not in this clipping set).
+- **High-value confirm:** 1966 GOVERNOR — the Constitution endorsed NO ONE ("cannot recommend either nominee... [nor] the write-in movement for Ellis Arnall"); Maddox E=0 and Arnall E=0 both correct, no missing Callaway endorsement.
+
+**Phase 11 props:** 370 props, all directed (340 yes / 30 no). Sampled 30 vs OCR — 30/30 keyword-confirmed present.
+
+**Phase 12 cross-paper:** sister papers **Atlanta Journal** (1968-1974, 99 records) and **Atlanta Journal-Constitution** (2002-2008, no overlap) both present. President: Constitution & Journal AGREE on Humphrey (1968) and Nixon (1972). Down-ballot 1968-1974 overlap: **48 shared records, 0 direction divergences** — strong mutual validation.
+
+**Phase 13 multi-pass:** deterministic regex engine; re-run reproduces the identical flag set, all adjudicated → converged.
+
+**Final:** 570 candidates (522 e=1 / 48 e=0), 370 props, 0 empty-confidence, Pattern K 0, dups 0. V8 changes: 1 flip, 6 name fixes, 4 district fixes, 2 near-dup removals, 76 inc additions, 3 NEEDS_RA.
+
+## Independent capstone (2026-06-20)
+A second no-anchoring subagent re-derived facts from OCR + 400 DPI vision. **All 4 high-stakes V8 changes CONFIRMED** with literal quotes: 1966 Thompson→E0 ("FOR CONGRESS, 5th District: ARCHIE LINDSEY... His inexperienced Republican opponent, Fletcher Thompson..."); 1966 governor non-endorsement ("cannot recommend either nominee... Nor can we give newspaper endorsement to the write-in movement for Ellis Arnall"); all name fixes (Atkins/Johnson 1982, Fletcher 1988, Melton 1988); 1968 Dillon d103/Gunter d97 near-dup resolution (clean recap match). **15 stratified spot-checks (1960/1972/1980/1986/1990) all CONFIRMED** — incl. Kennedy, Nunn, Andrew Young, Carter, Gingrich (R over Bray D), Fowler, Zell Miller, John Lewis. Wrong-direction scan: none. No remaining name garbles (1970 Bolton=real AG Arthur Bolton, 1980 Federal=real judge Keegan Federal — both correct).
+
+Two cosmetic notes (not errors): 1986 STATE REP d20 collapses four legitimately-endorsed Cobb "Post" sub-races to bare dist "20"; 1980 JUDGE Henley missing first name ("Clyde"). Logged for optional downstream cleanup.
+
+## Additional verification round — Phase 8 reverse-match + vision (2026-06-20)
+Per user request for maximum thoroughness, ran a full Phase 8 reverse-match (start from each year's OCR recap, find endorsements MISSING from the dataset) plus independent vision re-reads.
+
+**5 omitted endorsements ADDED (all vision-confirmed from the printed recap boxes):**
+- 1960 CNTY COMM DeKalb: **EMMERICH, CHARLES** (chairman) and **ALMAND, JIM** (district) — "In DeKalb local contests, we endorse Charles Emmerich for chairman of the county commission and Jim Almand for district commissioner" (clip 19601107). The dataset previously had only Kennedy for 1960.
+- 1982 H d6 **GINGRICH, NEWT (R, inc)** and d9 **JENKINS, ED (D, inc)** — "the Constitution endorses incumbent GOP congressman NEWT GINGRICH in the 6th District and incumbent ED JENKINS in the 9th" (clip 19821101).
+- 1982 STATE REP d32 Post 3 **DARDEN, GEORGE "BUDDY" (D, inc)** — "The Constitution supports BUDDY DARDEN for election to the House from District 32, Post 3" (Cobb). This one was missed even by the reverse-match subagent; caught on a manual recap-vs-CSV diff. District flagged for RA (Fulton d32 Selman coexists).
+
+**1 wrong-direction record FIXED (vision-confirmed):**
+- 1988 CNTY COMM Western Dist.: the recap endorsement box lists **R.L. Jacobs (R)**, not Harvey Paschal. Corrected Jacobs's party Democrat→**Republican** and flipped **PASCHAL, HARVEY E=1→E=0** (he was the un-endorsed opponent; both had wrongly been Democrat/E=1).
+
+**Verification discipline note:** one proposed change was REJECTED on closer look — V1's "STATE SENATOR d32 PARRIS, KEN (D)" initially appeared to read "Perry (R)" in the recap, but a tight zoom confirmed "Ken Parris (D)"; V1 was correct, no change made.
+
+**Other checks:** cross-year surname-variance scan (difflib, per office) — 2 pairs, both distinct real people (Atkins/Watkins, Williams/Williamson), 0 garbles. 1980 JUDGE Henley E=0 reconfirmed (Cunningham endorsed). External web search did not reach this granularity; primary OCR/vision remains authoritative.
+
+**Final after this round:** 575 candidates (527 e=1 / 48 e=0), 370 props, 0 empty-confidence. Net: +5 records, 1 direction flip, 1 party fix.

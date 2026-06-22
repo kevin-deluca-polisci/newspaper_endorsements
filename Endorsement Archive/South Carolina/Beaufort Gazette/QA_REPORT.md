@@ -114,3 +114,26 @@ All 4 stages PASS on V2 final state:
 3. **Editorial pattern shift 1988-2008** — ballot-measures-only era; explains gap in candidate records during those years.
 4. **2014 Governor non-endorsement** — paper's editor explicitly declined to endorse; data convention is e=empty for no-position records.
 5. **2008 Prop 1 is reprint** — Columbia State editorial reprinted in "Other Viewpoints" section. Low conf (0.70) appropriate.
+
+---
+
+# V9 Single-Pass Deep Verification — 2026-06-21
+
+**Method:** All 57 clipping PDFs independently re-OCR'd from scratch (`pdfimages -all` + `tesseract`; two zero-text clippings — 1978-10-26 and 2002-11-03 — recovered with `--psm 4` at longer timeout). Digital PDF text is newspapers.com boilerplate only. Every candidate and proposition checked against the source image / OCR. Cross-paper metadata consistency run against 8 SC sister papers.
+
+**Result: 1 correction (2 recap-duplicate props removed); candidate data clean.**
+
+### Candidates (74 records, 1952–2016) — no changes
+- **Reverse-match confirmed complete.** The 2012 election-day recap reverse-matches the CSV exactly (all 13 candidates + 3 props printed in the recap). 2010 slate spot-confirmed (incl. Ken Ard "wins our support for his bid to be lieutenant governor," R). 2014 confirmed incl. Clyburn (D, U.S. House **6th** — "Beaufort County was removed... to the 6th in the latest redistricting") and the Haley/Sheheen governor non-endorsement (both correctly blank).
+- **The 1980–2008 candidate gap is genuine, not a miss.** Clippings for 1984/1986/1988/1990/1994/1996/1998/2002/2004/2006/2008 are ballot-measure editorials (amendments, referenda, bonds), not candidate endorsements. OCR scan for candidate-endorsement language in every gap year confirmed no missed candidate endorsements. The 1976 props note already records that the paper *declined* to endorse in House d124, county council at-large, and Port Royal mayor that year.
+- **Mixed/split-ticket slates are real data:** 2010 endorsed Holleman (D, Supt) and Richardson (D, AG) alongside Ard (R, Lt Gov) and Joe Wilson (R, H); 2014 endorsed Deerin (D, Sec State) and Clyburn (D, H) alongside an R statewide slate.
+
+### Propositions — 53 → 51 (removed 2 recap duplicates)
+- **2004 recap de-duplication.** 2004 had 5 prop rows for only 3 distinct ballot measures. The 11/01 "voter turnout" recap re-listed the minibottle amendment and the local capital-projects sales tax that were already captured from their dedicated 10/24 and 10/26 editorials. The two recap duplicates were removed; the 3 distinct 2004 measures (minibottle statewide Amd 1, local capital-projects sales tax "Local 2", statewide farm-tax Amd 2) are retained, all YES, vision-confirmed.
+- **All-FOR prop check:** 1998 (6 props all FOR) is **legitimate** — the editorial explicitly says "Vote yes"/"should support it" on each of the 5 amendments plus the S.C. 170 road tax (vision-confirmed). 2004 all-FOR is legitimate (3 distinct measures, all explicitly YES).
+
+### Cross-paper consistency (Stage 7) — clean
+3 surname flags vs SC sister papers all resolve in Beaufort's favor: Thurmond 1954 correctly coded **Democrat** (he was a write-in D in 1954; Greenville's "Republican" is the error); Wallace 1968 "Independent" is Beaufort's consistent AIP convention; "Wilson 2010" is a Joe-Wilson(H)/Alan-Wilson(AG) namesake collision, not a conflict.
+
+### Integrity
+74 candidates / 51 props; 0 exact duplicates, 0 Pattern K, 0 empty candidate names, 0 empty confidence. Metadata regenerated; archive md5-synced.

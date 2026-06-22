@@ -14,7 +14,7 @@ IA,Cedar Rapids Gazette,114900,1970,IA,AMENDMENT,,County attorney - remove 2-yea
 IA,Cedar Rapids Gazette,114900,1972,IA,AMENDMENT,,Judiciary discipline - judicial commission action,1,Present procedures wholly inadequate,0.93
 IA,Cedar Rapids Gazette,114900,1972,IA,AMENDMENT,,4-year terms instead of 2 for legislature,1,More time for program planning,0.93
 IA,Cedar Rapids Gazette,114900,1972,IA,AMENDMENT,,Repeal lotteries constitutional ban,1,Existing provision has fostered ferment,0.93
-IA,Cedar Rapids Gazette,114900,1972,IA,BALLOT MEASURE,,Cable TV proposal for Cedar Rapids,1,Single firm vendor will save costs,0.85
+IA,Cedar Rapids Gazette,114900,1972,IA,BALLOT MEASURE,,Cable TV proposal for Cedar Rapids,0,Single firm vendor will save costs | V9 SWEEP FIX: paper recommended NO/AGAINST (cable TV); was all-FOR bug,0.85
 IA,Cedar Rapids Gazette,114900,1972,IA,BOND,,County Home - $2.9M bond for new home,1,Aged inadequate; community ready,0.92
 IA,Cedar Rapids Gazette,114900,1974,IA,AMENDMENT,,Special-session method - allow legislature to call itself,1,Overcome holdback of balky governor,0.93
 IA,Cedar Rapids Gazette,114900,1974,IA,AMENDMENT,,School-fund equity - allow legislation on certain court fines,1,Open door to correcting unfairness,0.93

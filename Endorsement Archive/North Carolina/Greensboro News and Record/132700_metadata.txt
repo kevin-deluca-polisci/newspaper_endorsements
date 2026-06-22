@@ -3,82 +3,36 @@ NEWSPAPER ENDORSEMENT METADATA
 
 Newspaper: Greensboro News and Record
 Newspaper ID: 132700
-State: NC (Greensboro / Guilford County)
+State: NC
 Number of clippings: 20
-Endorsement data years: 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018
-(18 distinct years, 1984-2018 coverage)
+Endorsement data years: 1984-2018
+Total candidate records: 576 (542 endorsed=1)
+Total proposition records: 61 (61 with a yes/no direction)
 
---- ENDORSEMENT COUNTS (V5 FINAL) ---
-Total candidate records: 575 (542 endorsed, 33 opposed)
-Total proposition records: 61 (59 YES, 2 NO)
+Confidence statistics (all records):
+  Mean confidence: 0.895
+  Low-confidence records (< 0.7): 0
 
---- CONFIDENCE SCORES (V5 FINAL) ---
-Mean: 0.894
-Below 0.85: 10 (mostly V3 Pattern A opps at 0.78)
-Min: 0.78
+Top offices (top 15):
+  STATE REP: 79
+  SCHOOL BOARD: 62
+  CNTY COMM: 58
+  JUDGE: 54
+  COURT OF APPEALS: 50
+  STATE SENATOR: 39
+  H: 38
+  SUPREME COURT: 34
+  SENATOR: 24
+  GOVERNOR: 18
+  PRESIDENT: 14
+  LT GOVERNOR: 12
+  ATTORNEY GENERAL: 10
+  AUDITOR: 9
+  AGRICULTURE COMMISSIONER: 9
 
---- INCUMBENCY COVERAGE ---
-Records with inc flag: 260 (45%)
-Multi-cycle delegation tracked:
-- Howard Coble R H-6 (1986-2012, 13 cycles) — endorsed every year
-- Mel Watt D H-12 (1994-2012, 9 cycles)
-- Brad Miller D H-13 (2002-2010, 5 cycles)
-- Mark Walker R H-6 (2014-2018, 3 cycles post-Coble)
-- Pat McCrory R GOV (08/12 endorsed; 16 R inc lost)
-- Roy Cooper D AG → GOV (2000-2008 AG, 2016 GOV endorsed)
-- Mike Easley D AG → GOV (1992-1996 AG, 2000-2004 GOV)
-- Beverly Perdue D LT GOV (2000-2008)
-- Elaine F Marshall D SoS (2000-2016)
-- Jim Long D Ins Comm (1988-2004)
-- Steve Troxler R Ag Comm (2004-2016) — exception R state office
-- June Atkinson D Super (2008-2016)
+Party distribution:
+  Democrat: 335
+  Republican: 161
+  Nonpartisan: 80
 
---- CROSS-PAPER VALIDATION ---
-Sister papers: Greensboro Daily News (132701, pre-1984 morning), Greensboro Record (132702, pre-1984 afternoon)
-V3 OCR confirmed: GDN declined 1978 SEN; GR (afternoon) endorsed Helms R 1978
-GNR (post-merger) shows clear D PRES + mixed federal pattern continuing from GDN tradition
-
---- AUDIT HISTORY ---
-V1 (2026-05-03): Initial extraction from raw
-V2 (2026-06-16): 40 Pattern K + 28 fed Pattern A + 80 NP fills + 107 dname + Coble std
-V3 (2026-06-16): 5 yrs OCR + 2016 SEN flip (V1 error!) + 6 NC state Pattern A + 18 cross-yr inc
-V4 (2026-06-16): +5 yrs OCR (10 cumulative) + judicial audit (138) + 21 name std + Jordan dup removed + 2008/12 PRES decline confirmed
-V5 (2026-06-16): Props deep audit (61 records) + 33 e=0 verify + final integrity + V5 FINAL formal QA
-
---- NOTES ---
-
-EDITORIAL IDENTITY (V5 final, 10 years OCR verified):
-NC modern paper (post-merger 1984+), formed March 1984 from Greensboro Daily News + Record.
-
-FEDERAL PICKS:
-- D PRES: Mondale 84, Dukakis 88, Clinton 92/96, Gore 00, Kerry 04, Clinton 16 (7 D PRES)
-- DECLINED PRES: 2008 (Obama vs McCain) and 2012 (Obama vs Romney) — V4 OCR confirmed no PRES sidebar mention
-- D SEN: Hunt 84, Sanford 86/92, Gantt 90/96, Edwards 98, Bowles 02/04, Hagan 08/14, Ross 16 (V3 OCR FIX)
-- R SEN: Burr 10 (V4 OCR verified)
-- D GOV: Jordan 88, Hunt 92/96, Easley 00/04, Cooper 16 (V3 OCR verified)
-- R GOV: Martin 84, McCrory 08/12
-
-H DELEGATION (consistent R H-6 endorsements):
-- Coble R H-6 endorsed every cycle 1986-2012 (13 records)
-- Walker R H-6 took over post-Coble retire 2014-2018
-
-NC STATE OFFICE (heavy D):
-- Most state offices D dominant: Cooper AG, Marshall SoS, Long Ins Comm, Atkinson Super, Wood Auditor, Cowell Treasurer
-- R exception: Troxler Ag Comm (multi-cycle)
-- V3 NC state Pattern A added for documented R opps (Cochrane 00, Snyder 04, Pittenger 08, Crumley 08, Newton 16)
-
-JUDICIAL (V4 audit, 138 records):
-- Multi-cycle: Parker D SC 92-06 (4 cycles), Bray D JUDGE 00-12, Alloway NP JUDGE 84-00, Stephens D COA 06-16
-- 2012 OCR confirmed Newby R SC + Bryant COA
-
-LOCAL GUILFORD COUNTY:
-- SCHOOL BOARD: 62 records (all Nonpartisan)
-- CNTY COMM: 58 records (D 39 / R 19 split, Guilford R-leaning per 1974 GDN OCR)
-- Heavy local Guilford County coverage characteristic of GNR
-
-PROPOSITIONS: 61 records, 49 BOND + 9 AMENDMENT + 3 REFERENDUM
-2000 was richest prop year (12 records)
-Mostly local Guilford County bond issues with strong YES support tradition
-
-Compiled: 2026-05-03
-V5 FINAL: 2026-06-16
+(metadata regenerated post-V8 deep verification)

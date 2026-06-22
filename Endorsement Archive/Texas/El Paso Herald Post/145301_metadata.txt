@@ -1,12 +1,37 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
 Newspaper: El Paso Herald Post
 Newspaper ID: 145301
 State: TX
-Election years: 21 (1934-1996)
-Clippings: 50 files
-Candidate records: 203 (202 endorsed, 1 opposed, 0 no-direction)
-Proposition records: 178 (33 endorsed, 13 opposed, 132 no-direction)
-Candidate confidence: mean 0.849, min 0.75, max 0.90
-Proposition confidence: mean 0.830, min 0.75, max 0.90
-Last updated: 2026-04-30 (augmented with multi-page combined PDFs from 'more el paso')
+Number of clippings: 50
+Endorsement data years: 1934-1996
+Total candidate records: 215 (180 endorsed=1)
+Total proposition records: 178 (177 with a yes/no direction)
 
-Years covered: 1934, 1936, 1940, 1952, 1954, 1956, 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1980, 1990, 1992, 1994, 1996
+Confidence statistics (all records):
+  Mean confidence: 0.861
+  Low-confidence records (< 0.7): 0
+
+Top offices (top 15):
+  STATE REP: 24
+  PRESIDENT: 22
+  SENATOR: 22
+  GOVERNOR: 17
+  H: 15
+  LT GOVERNOR: 13
+  CNTY COMM: 12
+  RAILROAD COMMISSION: 12
+  STATE SENATOR: 10
+  ATTORNEY GENERAL: 8
+  TX SUPREME COURT: 8
+  JUDGE: 7
+  TREASURER: 6
+  LAND COMMISSIONER: 6
+  VICE PRESIDENT: 5
+
+Party distribution:
+  Democrat: 146
+  Republican: 69
+
+(metadata regenerated post-V8 deep verification)

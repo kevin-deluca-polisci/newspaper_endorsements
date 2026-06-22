@@ -1,48 +1,32 @@
-Newspaper Name: Chattanooga News
-Alternative Names: The Chattanooga News
-Years Published: 1888-1939 (Democratic-leaning, ceased publication 1939 when merged with Chattanooga Free Press to form Chattanooga News-Free Press)
-Newspaper ID number: 143903 (placeholder; paper not in GS lookup file)
-State: TN (Chattanooga, Hamilton County)
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Chattanooga News
+Newspaper ID: 143903
+State: TN
 Number of clippings: 9
-Endorsement data years: 1922, 1924, 1926, 1928, 1930, 1932, 1934, 1936, 1938 (all 9 with candidate or prop records)
+Endorsement data years: 1922-1938
+Total candidate records: 58 (34 endorsed=1)
+Total proposition records: 5 (5 with a yes/no direction)
 
---- ENDORSEMENT COUNTS (V4 — 15-round QA pass, 2026-06-04) ---
-Total candidate records: 57
-  Endorsed: 33
-  Opposed: 24
-  No-direction: 0
-Total proposition records: 5
-  YES: 5
+Confidence statistics (all records):
+  Mean confidence: 0.839
+  Low-confidence records (< 0.7): 0
 
---- CONFIDENCE SCORES ---
-Mean: 0.843
-Below 0.75: 1
+Top offices (top 15):
+  GOVERNOR: 14
+  H: 10
+  SENATOR: 9
+  PRESIDENT: 9
+  VICE PRESIDENT: 8
+  RAILROAD COMMISSION: 4
+  STATE REP: 3
+  STATE SENATOR: 1
 
---- DATA QUALITY ---
-QA date: 2026-06-04 (V4)
-QA result: PASS WITH FIXES V4
-QA rounds: 15
-Total fixes: 17 (1 party fix, 1 office fix, 1 record removal proxy, 14 record additions, 2 incumbency flag additions, alternate notes)
+Party distribution:
+  Democrat: 34
+  Republican: 21
+  Independent: 2
+  Progressive: 1
 
---- V4 FIX SUMMARY ---
-- Round 1 (3 fixes): 1926 WHITE party D→R + 1926 PEAY D added + 1928 BOND added
-- Round 4 (1930): notes for dual SEN endorsements (Hull long term, Brock short term)
-- Round 6 (3 fixes): 1936 RR COMM Hanson D + 1936 H1 Reece R opposed + 1938 H3 McReynolds D added
-- Round 9 (5 fixes): 1924 PRES race Davis D/Coolidge R/La Follette Progressive + VP Bryan D/Dawes R added (entire PRES race was missing)
-- Round 10 (4 fixes - via image inspection, OCR failed): 1928 Hoover R/Smith D PRES + Curtis R/Robinson D VP — paper CROSS-PARTY endorsed Hoover R due to anti-Tammany editorial "The Best Man"
-- Round 11 (4 + 3 incumbency): 1932 VP Garner D/Curtis R + 1936 VP Garner D/Knox R + 1924 Coolidge r_inc + 1932 Hoover r_inc + 1936 FDR d_inc
-- Round 13 (4 fixes): 1932 GOV three-cornered race — McAlister D endorsed + McCall R + Pope Independent opposed + 1932 Legislative Pay Amendment ($4→$10) prop added
-
---- HISTORICAL NOTES ---
-1. **Pre-merger Democratic-leaning paper** (1888-1939) — sister paper to Chattanooga Free Press.
-2. **Editorial line**: Generally Democratic with significant 1928 EXCEPTION — Peay D Gov 1922+1926, McReynolds D H3 (4x: 1922/1934/1936/1938), McKellar D Sen (1922+1934), Hull D Sen 1930 (long term), Brock D Sen 1930 (short term), Bachman D Sen 1934 (short term), Davis D Pres 1924, **Hoover R Pres 1928 (CROSS-PARTY anti-Tammany)**, FDR D Pres 1932+1936, McAlister D Gov 1932, Browning D Gov 1936, Cooper D Gov 1938, Stewart D Sen 1938.
-3. **Consistent R opposition**: J. Will Taylor R H2 opposed 1922/1926/1936/1938; B. Carroll Reece R H1 opposed 1936/1938.
-4. **Cross-paper contrasts vs Free Press**: 1936 News→FDR vs Free Press→Landon; 1928 BOTH endorsed Hoover R (rare).
-5. **1932 three-cornered Gov race**: McAlister D vs McCall R vs Pope Independent — paper supported McAlister D.
-
---- COVERAGE GAPS (intrinsic source limits) ---
-- 9 clippings only
-- 1932 + 1934 OCR quality poor — only major races extractable via image inspection
-- Local TN state legislature races likely had paper endorsements but not in available clippings
-
-Compiled: 2026-04-28. Updated: 2026-06-04 (V4 15-round QA — 17 fixes total).
+(metadata regenerated post-V8 deep verification)

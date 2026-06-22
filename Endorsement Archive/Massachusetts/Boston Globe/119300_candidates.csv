@@ -5,7 +5,7 @@ MA,Boston Globe,119300,1974,GOVERNOR,,,MA,"SARGENT, FRANCIS W.",Republican,1,,1,
 MA,Boston Globe,119300,1974,ATTORNEY GENERAL,,,MA,"SPAULDING, JOSIAH A.",Republican,1,,,,Globe endorsement for Attorney General in final review,0.95
 MA,Boston Globe,119300,1974,SEC OF STATE,,,MA,"GUZZI, PAUL H.",Democrat,1,,,,Globe endorsement for Secretary of State in final review,0.95
 MA,Boston Globe,119300,1974,H,5,,MA,"TSONGAS, PAUL E.",Democrat,1,,,,Globe endorsement for Congress 5th District,0.95
-MA,Boston Globe,119300,1974,SHERIFF,,Middlesex,MA,"BUCKLEY, JOHN J.",,1,,,,Globe endorsement for Middlesex County Sheriff,0.95
+MA,Boston Globe,119300,1974,SHERIFF,,Middlesex,MA,"BUCKLEY, JOHN J.",Democrat,1,,,,"Globe endorsement for Middlesex County Sheriff  | V9 2026-06-21 NOTE CORRECTION: John J. Buckley was the MIDDLESEX County Sheriff (1970-1980), elected to a full term in 1974 over Walter J. Sullivan (Wikipedia/Harvard Crimson) — dname=Middlesex is CORRECT; the prior note erroneously said ""Suffolk."" Party Democrat confirmed.",0.95
 MA,Boston Globe,119300,1982,SENATOR,,,MA,"KENNEDY, EDWARD M.",Democrat,1,1,,,incumbent US Senator; Globe endorsed in summary recap,0.95
 MA,Boston Globe,119300,1982,GOVERNOR,,,MA,"DUKAKIS, MICHAEL S.",Democrat,1,,,,former Governor seeking comeback; Globe endorsed; not incumbent in 1982 (King D was incumbent),0.95
 MA,Boston Globe,119300,1982,H,4,,MA,"FRANK, BARNEY",Democrat,1,1,,,incumbent Congressman 4th District; Globe endorsed,0.95
@@ -45,7 +45,7 @@ MA,Boston Globe,119300,1990,AUDITOR,,,MA,"DENUCCI, A. JOSEPH",Democrat,1,1,,,inc
 MA,Boston Globe,119300,2008,PRESIDENT,,,MA,"OBAMA, BARACK",Democrat,1,,,,Globe strongly endorses Obama-Biden ticket,0.95
 MA,Boston Globe,119300,2008,VICE PRESIDENT,,,MA,"BIDEN, JOSEPH",Democrat,1,,,,Globe strongly endorses Obama-Biden ticket,0.95
 MA,Boston Globe,119300,2008,SENATOR,,,MA,"KERRY, JOHN",Democrat,1,1,,,MA incumbent; Globe endorses for fifth term,0.95
-MA,Boston Globe,119300,2008,SENATOR,,,MA,"SHAHEEN, JEANNE",Democrat,1,,,,New Hampshire US Senate; Globe supports,0.95
+MA,Boston Globe,119300,2008,SENATOR,,,NH,"SHAHEEN, JEANNE",Democrat,1,,,,New Hampshire US Senate; Globe supports ROUND 2 STATE_ELECTION FIX: NH Senate race; was MA. Cross-state endorsement.,0.95
 MA,Boston Globe,119300,2008,H,1,,MA,"OLVER, JOHN W.",Democrat,1,1,,,MA-1 incumbent; Globe endorses,0.95
 MA,Boston Globe,119300,2008,H,4,,MA,"FRANK, BARNEY",Democrat,1,1,,,MA-4 incumbent; Globe endorses,0.95
 MA,Boston Globe,119300,2008,H,6,,MA,"TIERNEY, JOHN F.",Democrat,1,1,,,MA-6 incumbent; Globe endorses,0.95
@@ -61,32 +61,32 @@ MA,Boston Globe,119300,2008,STATE REP,Fourth Essex,,MA,"HILL, BRADFORD R.",Repub
 MA,Boston Globe,119300,2008,STATE REP,18th Essex,,MA,"L'ITALIEN, BARBARA A.",Democrat,1,1,,,18th Essex (Andover); incumbent reelection,0.95
 MA,Boston Globe,119300,2008,STATE REP,13th Middlesex,,MA,"CONROY, THOMAS P.",Democrat,1,1,,,13th Middlesex (Wayland); incumbent in rematch,0.95
 MA,Boston Globe,119300,2010,ATTORNEY GENERAL,,,MA,"COAKLEY, MARTHA",Democrat,1,1,,,incumbent MA Attorney General; Globe endorses for reelection,0.95
-MA,Boston Globe,119300,2010,ATTORNEY GENERAL,,,MA,"MCKENNA, JAMES",Republican,,,,,Republican challenger; Millbury attorney,0.95
+MA,Boston Globe,119300,2010,ATTORNEY GENERAL,,,MA,"MCKENNA, JAMES",Republican,0,,,,Republican challenger; Millbury attorney STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2010,TREASURER,,,MA,"GROSSMAN, STEVE",Democrat,1,,,,former DNC chairman; Globe endorses for state treasurer; better prepared,0.95
-MA,Boston Globe,119300,2010,TREASURER,,,MA,"POLITO, KARYN",Republican,,,,,Republican state legislator from Shrewsbury,0.95
+MA,Boston Globe,119300,2010,TREASURER,,,MA,"POLITO, KARYN",Republican,0,,,,Republican state legislator from Shrewsbury STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2010,AUDITOR,,,MA,"CONNAUGHTON, MARY Z.",Republican,1,,,,"CPA, served on MA Turnpike Authority board; Globe endorses for auditor",0.95
-MA,Boston Globe,119300,2010,AUDITOR,,,MA,"BUMP, SUZANNE",Democrat,,,,,former state representative and labor secretary under Patrick,0.95
+MA,Boston Globe,119300,2010,AUDITOR,,,MA,"BUMP, SUZANNE",Democrat,0,,,,former state representative and labor secretary under Patrick STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2010,STATE SENATOR,Middlesex and Essex,,MA,"SPADAFORA, CRAIG",Republican,1,,,,Malden city councilor; open seat replacing Tisei; Globe endorses,0.95
-MA,Boston Globe,119300,2010,STATE SENATOR,Middlesex and Essex,,MA,"CLARK, KATHERINE",Democrat,,,,,state representative from Melrose; Democratic opponent,0.95
+MA,Boston Globe,119300,2010,STATE SENATOR,Middlesex and Essex,,MA,"CLARK, KATHERINE",Democrat,0,,,,state representative from Melrose; Democratic opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2010,STATE SENATOR,Suffolk and Norfolk,,MA,"WILLIAMS, BRAD",Republican,1,,,,investment manager; Globe endorses for open seat,0.95
-MA,Boston Globe,119300,2010,STATE SENATOR,Suffolk and Norfolk,,MA,"RUSH, MICHAEL",Democrat,,,,,Democratic state representative from West Roxbury,0.95
+MA,Boston Globe,119300,2010,STATE SENATOR,Suffolk and Norfolk,,MA,"RUSH, MICHAEL",Democrat,0,,,,Democratic state representative from West Roxbury STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2010,STATE REP,32nd Middlesex,,MA,"LUCAS, DAVID",Republican,1,,,,Melrose attorney; Globe endorses for open seat,0.95
 MA,Boston Globe,119300,2010,STATE REP,1st Worcester,,MA,"FERGUSON, KIM",Republican,1,,,,Holden selectman and former school committee member; Globe endorses,0.95
 MA,Boston Globe,119300,2010,STATE REP,9th Norfolk,,MA,"WINSLOW, DAN",Republican,1,,,,former sitting judge and Romney legal counsel; Norfolk resident; Globe endorses,0.95
 MA,Boston Globe,119300,2010,STATE REP,22nd Middlesex,,MA,"LOMBARDO, MARC",Republican,1,,,,Billerica Selectman; Globe endorses for open seat,0.95
 MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"PATRICK, DEVAL",Democrat,1,1,,,incumbent Governor; Globe endorses for second term,0.95
-MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"BAKER, CHARLIE",Republican,,,,,Republican challenger; former HMO CEO,0.95
-MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"CAHILL, TIM",Independent,,,,,state treasurer running as independent,0.95
-MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"STEIN, JILL",G,,,,,Green-Rainbow nominee,0.95
+MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"BAKER, CHARLIE",Republican,0,,,,Republican challenger; former HMO CEO STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"CAHILL, TIM",Independent,0,,,,state treasurer running as independent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2010,GOVERNOR,,,MA,"STEIN, JILL",Green,0,,,,Green-Rainbow nominee STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2012,PRESIDENT,,,MA,"OBAMA, BARACK",Democrat,1,1,,,incumbent President; Globe endorses for reelection,0.95
 MA,Boston Globe,119300,2012,SENATOR,,,MA,"WARREN, ELIZABETH",Democrat,1,,,,challenger to incumbent Brown; Globe endorses,0.95
-MA,Boston Globe,119300,2012,SENATOR,,,MA,"BROWN, SCOTT",Republican,,,1,,incumbent Republican Senator; lost endorsement to Warren,0.95
+MA,Boston Globe,119300,2012,SENATOR,,,MA,"BROWN, SCOTT",Republican,0,,1,,incumbent Republican Senator; lost endorsement to Warren STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2012,H,6,,MA,"TISEI, RICHARD",Republican,1,,,,MA-6 North Shore; Globe endorses challenger to Tierney,0.95
-MA,Boston Globe,119300,2012,H,6,,MA,"TIERNEY, JOHN",Democrat,,1,,,MA-6 incumbent; not endorsed due to family scandal,0.95
+MA,Boston Globe,119300,2012,H,6,,MA,"TIERNEY, JOHN",Democrat,0,1,,,MA-6 incumbent; not endorsed due to family scandal STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2012,H,4,,MA,"KENNEDY, JOSEPH P., III",Democrat,1,,,,MA-4; open seat (Frank retiring); Globe endorses,0.95
-MA,Boston Globe,119300,2012,H,4,,MA,"BIELAT, SEAN",Republican,,,,,Republican opponent,0.95
+MA,Boston Globe,119300,2012,H,4,,MA,"BIELAT, SEAN",Republican,0,,,,Republican opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2012,H,3,,MA,"TSONGAS, NIKI",Democrat,1,1,,,MA-3 incumbent (northwest of Boston); Globe endorses,0.95
-MA,Boston Globe,119300,2012,H,5,,MA,"MARKEY, EDWARD",Democrat,1,1,,,MA-5 incumbent (Malden and suburbs); Globe endorses,0.95
+MA,Boston Globe,119300,2012,H,5,,MA,"MARKEY, EDWARD J.",Democrat,1,1,,,"MA-5 incumbent (Malden and suburbs); Globe endorses ROUND 4 NAME STANDARDIZATION: was shorter form; standardized to full ""MARKEY, EDWARD J."" (cross-year consistency).",0.95
 MA,Boston Globe,119300,2012,H,8,,MA,"LYNCH, STEPHEN",Democrat,1,1,,,"MA-8 incumbent (Boston, Quincy, and suburbs); Globe endorses",0.95
 MA,Boston Globe,119300,2012,H,9,,MA,"KEATING, WILLIAM",Democrat,1,1,,,"MA-9 incumbent (South Shore, Cape Cod, South Coast); Globe endorses",0.95
 MA,Boston Globe,119300,2012,STATE SENATOR,First Essex,,MA,"MAGLIOCCHETTI, PAUL",Independent,1,,,,First Essex (Haverhill); independent; open seat; Globe endorses,0.95
@@ -98,45 +98,45 @@ MA,Boston Globe,119300,2012,STATE REP,Second Essex,,MA,"FOGEL, BARRY",Democrat,1
 MA,Boston Globe,119300,2012,STATE REP,21st Middlesex,,MA,"GORDON, KENNETH",Democrat,1,,,,21st Middlesex (Bedford); open seat; Globe endorses,0.95
 MA,Boston Globe,119300,2012,STATE REP,14th Essex,,MA,"RHOTON, KARIN",Republican,1,,,,14th Essex (North Andover); open seat; Globe endorses,0.95
 MA,Boston Globe,119300,2014,ATTORNEY GENERAL,,,MA,"HEALEY, MAURA",Democrat,1,,,,former assistant AG; Globe endorses for attorney general,0.95
-MA,Boston Globe,119300,2014,ATTORNEY GENERAL,,,MA,"MILLER, JOHN",Republican,,,,,Winchester attorney; Republican opponent,0.95
+MA,Boston Globe,119300,2014,ATTORNEY GENERAL,,,MA,"MILLER, JOHN",Republican,0,,,,Winchester attorney; Republican opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2014,TREASURER,,,MA,"GOLDBERG, DEB",Democrat,1,,,,former Brookline Selectman; Stop & Shop family; Globe endorses for treasurer,0.95
-MA,Boston Globe,119300,2014,TREASURER,,,MA,"HEFFERNAN, MIKE",Republican,,,,,25 years in financial industry; Wellesley,0.95
-MA,Boston Globe,119300,2014,TREASURER,,,MA,"JACKSON, IAN",G,,,,,Green-Rainbow party,0.95
+MA,Boston Globe,119300,2014,TREASURER,,,MA,"HEFFERNAN, MIKE",Republican,0,,,,25 years in financial industry; Wellesley STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2014,TREASURER,,,MA,"JACKSON, IAN",Green,0,,,,Green-Rainbow party STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2014,H,3,,MA,"TSONGAS, NIKI",Democrat,1,1,,,MA-3 incumbent; Globe endorses for another term,0.95
-MA,Boston Globe,119300,2014,H,3,,MA,"WOFFORD, ANN",Republican,,,,,former chemical engineer from Haverhill; Republican opponent,0.95
+MA,Boston Globe,119300,2014,H,3,,MA,"WOFFORD, ANN",Republican,0,,,,former chemical engineer from Haverhill; Republican opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2014,H,9,,MA,"KEATING, BILL",Democrat,1,1,,,MA-9 incumbent (South Shore and Cape Cod); Globe endorses for reelection,0.95
-MA,Boston Globe,119300,2014,H,9,,MA,"CHAPMAN, JOHN C.",Republican,,,,,Republican opponent; disqualifies himself with debt ceiling stance,0.95
+MA,Boston Globe,119300,2014,H,9,,MA,"CHAPMAN, JOHN C.",Republican,0,,,,Republican opponent; disqualifies himself with debt ceiling stance STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2014,AUDITOR,,,MA,"SAINT AUBIN, PATRICIA",Republican,1,,,,"professional auditor (Shawmut Bank, John Hancock); Globe endorses",0.95
-MA,Boston Globe,119300,2014,AUDITOR,,,MA,"BUMP, SUZANNE",Democrat,,1,,,incumbent Democratic auditor; Globe declined to endorse,0.95
+MA,Boston Globe,119300,2014,AUDITOR,,,MA,"BUMP, SUZANNE",Democrat,0,1,,,incumbent Democratic auditor; Globe declined to endorse STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2014,SEC OF STATE,,,MA,"GALVIN, BILL",Democrat,1,1,,,incumbent Secretary of State since 1995; Globe endorses,0.95
-MA,Boston Globe,119300,2014,SEC OF STATE,,,MA,"D'ARCANGELO, DAVID",Republican,,,,,Malden city councilor-at-large; Republican opponent,0.95
+MA,Boston Globe,119300,2014,SEC OF STATE,,,MA,"D'ARCANGELO, DAVID",Republican,0,,,,Malden city councilor-at-large; Republican opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"BAKER, CHARLIE",Republican,1,,,,former HHS and A&F secretary; Globe endorses for governor; open seat,0.95
-MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"COAKLEY, MARTHA",Democrat,,,,,current attorney general; Democratic nominee,0.95
-MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"LIVELY, SCOTT",Independent,,,,,independent candidate; religious crusader,0.95
-MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"FALCHUK, EVAN",Independent,,,,,independent candidate; United Independent Party,0.95
-MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"MCCORMICK, JEFF",Independent,,,,,independent candidate; businessman,0.95
+MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"COAKLEY, MARTHA",Democrat,0,,,,current attorney general; Democratic nominee STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"LIVELY, SCOTT",Independent,0,,,,independent candidate; religious crusader STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"FALCHUK, EVAN",Independent,0,,,,independent candidate; United Independent Party STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2014,GOVERNOR,,,MA,"MCCORMICK, JEFF",Independent,0,,,,independent candidate; businessman STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2014,H,6,,MA,"MOULTON, SETH",Democrat,1,,,,MA-6; Marine veteran from Marblehead; beat incumbent Tierney in primary; Globe endorses,0.95
-MA,Boston Globe,119300,2014,H,6,,MA,"TISEI, RICHARD",Republican,,,,,former Republican state senator; reprising 2012 run,0.95
-MA,Boston Globe,119300,2014,SENATOR,,,MA,"MARKEY, ED",Democrat,1,1,,,incumbent US Senator (elected 2013 to fill Kerry seat); Globe endorses for full term,0.95
-MA,Boston Globe,119300,2014,SENATOR,,,MA,"HERR, BRIAN",Republican,,,,,Republican opponent,0.95
-MA,Boston Globe,119300,2016,SENATOR,,,MA,"HASSAN, MAGGIE",Democrat,1,,,,New Hampshire US Senate; incumbent governor; Globe endorses challenger to Ayotte,0.95
-MA,Boston Globe,119300,2016,SENATOR,,,MA,"AYOTTE, KELLY",Republican,,,1,,NH incumbent Republican Senator; fumbled position on Trump,0.95
+MA,Boston Globe,119300,2014,H,6,,MA,"TISEI, RICHARD",Republican,0,,,,former Republican state senator; reprising 2012 run STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2014,SENATOR,,,MA,"MARKEY, EDWARD J.",Democrat,1,1,,,"incumbent US Senator (elected 2013 to fill Kerry seat); Globe endorses for full term ROUND 4 NAME STANDARDIZATION: was shorter form; standardized to full ""MARKEY, EDWARD J."" (cross-year consistency).",0.95
+MA,Boston Globe,119300,2014,SENATOR,,,MA,"HERR, BRIAN",Republican,0,,,,Republican opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2016,SENATOR,,,NH,"HASSAN, MAGGIE",Democrat,1,,,,New Hampshire US Senate; incumbent governor; Globe endorses challenger to Ayotte ROUND 2 STATE_ELECTION FIX: NH Senate race; was MA. Globe is MA paper but endorsed across state line.,0.95
+MA,Boston Globe,119300,2016,SENATOR,,,NH,"AYOTTE, KELLY",Republican,0,,1,,NH incumbent Republican Senator; fumbled position on Trump STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A). ROUND 2 STATE_ELECTION FIX: NH Senate race; was MA. Globe is MA paper but endorsed across state line.,0.95
 MA,Boston Globe,119300,2016,STATE SENATOR,Cape and Islands,,MA,"CYR, JULIAN",Democrat,1,,,,Cape and Islands district; Truro native; open seat (Wolf retiring); Globe endorses,0.95
-MA,Boston Globe,119300,2016,STATE SENATOR,Cape and Islands,,MA,"SCHIAVI, ANTHONY",Republican,,,,,retired Air Force brigadier general; former Ashland town manager,0.95
+MA,Boston Globe,119300,2016,STATE SENATOR,Cape and Islands,,MA,"SCHIAVI, ANTHONY",Republican,0,,,,retired Air Force brigadier general; former Ashland town manager STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2018,SENATOR,,,MA,"WARREN, ELIZABETH",Democrat,1,1,,,MA incumbent US Senator; Globe endorses for second term,0.95
-MA,Boston Globe,119300,2018,SENATOR,,,MA,"DIEHL, GEOFF",Republican,,,,,Republican opponent; state representative; cochaired Trump's MA campaign,0.95
-MA,Boston Globe,119300,2018,SENATOR,,,MA,"AYYADURAI, SHIVA",Independent,,,,,independent candidate,0.95
+MA,Boston Globe,119300,2018,SENATOR,,,MA,"DIEHL, GEOFF",Republican,0,,,,Republican opponent; state representative; cochaired Trump's MA campaign STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2018,SENATOR,,,MA,"AYYADURAI, SHIVA",Independent,0,,,,independent candidate STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2018,SEC OF STATE,,,MA,"GALVIN, WILLIAM F.",Democrat,1,1,,,incumbent Secretary of State; Globe endorses for seventh term,0.95
-MA,Boston Globe,119300,2018,SEC OF STATE,,,MA,"AMORE, ANTHONY",Republican,,,,,director of security at Isabella Stewart Gardner Museum; Republican opponent,0.95
+MA,Boston Globe,119300,2018,SEC OF STATE,,,MA,"AMORE, ANTHONY",Republican,0,,,,director of security at Isabella Stewart Gardner Museum; Republican opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2018,H,3,,MA,"TRAHAN, LORI",Democrat,1,,,,MA-3; Westford; open seat (Tsongas retiring); Globe endorses,0.95
-MA,Boston Globe,119300,2018,H,3,,MA,"GREEN, RICK",Republican,,,,,Pepperell entrepreneur; Republican opponent,0.95
+MA,Boston Globe,119300,2018,H,3,,MA,"GREEN, RICK",Republican,0,,,,Pepperell entrepreneur; Republican opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2018,TREASURER,,,MA,"GOLDBERG, DEB",Democrat,1,1,,,incumbent state Treasurer; Globe endorses for second term,0.95
-MA,Boston Globe,119300,2018,TREASURER,,,MA,"ORRALL, KEIKO",Republican,,,,,state Representative from Lakeville; Republican opponent,0.95
+MA,Boston Globe,119300,2018,TREASURER,,,MA,"ORRALL, KEIKO",Republican,0,,,,state Representative from Lakeville; Republican opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2018,GOVERNOR,,,MA,"BAKER, CHARLIE",Republican,1,,1,,incumbent Republican Governor; Globe endorses for reelection,0.95
-MA,Boston Globe,119300,2018,GOVERNOR,,,MA,"GONZALEZ, JAY",Democrat,,,,,former health insurance CEO and Patrick admin cabinet member; Democratic opponent,0.95
+MA,Boston Globe,119300,2018,GOVERNOR,,,MA,"GONZALEZ, JAY",Democrat,0,,,,former health insurance CEO and Patrick admin cabinet member; Democratic opponent STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
 MA,Boston Globe,119300,2018,AUDITOR,,,MA,"FISHMAN, DANIEL",Libertarian,1,,,,Beverly Libertarian; software architect; Globe endorses (rare third party endorsement),0.95
-MA,Boston Globe,119300,2018,AUDITOR,,,MA,"BUMP, SUZANNE",Democrat,,1,,,incumbent Democratic auditor; should not serve third term,0.95
-MA,Boston Globe,119300,2018,AUDITOR,,,MA,"BRADY, HELEN",Republican,,,,,Boston Symphony Orchestra sales director; Republican nominee,0.95
-MA,Boston Globe,119300,2018,AUDITOR,,,MA,"STAMAS, EDWARD J.",G,,,,,physicist and teacher from Northampton; Green-Rainbow nominee,0.95
-MA,Boston Globe,119300,2018,GOVERNOR,,,MA,"RAIMONDO, GINA",Democrat,1,1,,,Rhode Island Democratic Governor; Globe endorses for reelection,0.95
-MA,Boston Globe,119300,2018,GOVERNOR,,,MA,"FUNG, ALLAN",Republican,,,,,RI Republican; mayor of Cranston for nearly a decade,0.95
+MA,Boston Globe,119300,2018,AUDITOR,,,MA,"BUMP, SUZANNE",Democrat,0,1,,,incumbent Democratic auditor; should not serve third term STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2018,AUDITOR,,,MA,"BRADY, HELEN",Republican,0,,,,Boston Symphony Orchestra sales director; Republican nominee STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2018,AUDITOR,,,MA,"STAMAS, EDWARD J.",Green,0,,,,physicist and teacher from Northampton; Green-Rainbow nominee STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A).,0.95
+MA,Boston Globe,119300,2018,GOVERNOR,,,RI,"RAIMONDO, GINA",Democrat,1,1,,,"Rhode Island Democratic Governor; Globe endorses for reelection | V9 2026-06-21 STATE_ELECTION FIX: MA->RI. This is the RHODE ISLAND governor race (Raimondo D vs Fung R) — the Globe endorsed across the state line, like its NH Senate endorsements. OCR: ""the right choice for Rhode Island... Gina Raimondo, the Democratic governor.""",0.95
+MA,Boston Globe,119300,2018,GOVERNOR,,,RI,"FUNG, ALLAN",Republican,0,,,,"RI Republican; mayor of Cranston for nearly a decade STAGE 1 FIX: Converted empty endorsed→0 per skill convention. Paper named these candidates as alternatives/opponents to its endorsement (Pattern A). | V9 2026-06-21 STATE_ELECTION FIX: MA->RI. This is the RHODE ISLAND governor race (Raimondo D vs Fung R) — the Globe endorsed across the state line, like its NH Senate endorsements. OCR: ""the right choice for Rhode Island... Gina Raimondo, the Democratic governor.""",0.95

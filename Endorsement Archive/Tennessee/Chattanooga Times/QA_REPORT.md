@@ -3,74 +3,72 @@
 **Audit date:** 2026-06-04
 **Folder:** Chattanooga Times
 **Newspaper ID:** 143902
-**Data coverage:** 1922-1974, 25 clippings, 180 candidate records, 19 proposition records
+**Data coverage:** 1922-1974, 24 clippings, 228 candidate records, 21 proposition records
 
 ## Overall Assessment
 
-**PASS WITH FIXES V2**
+**PASS WITH FIXES V8** (formal endorsement-qa skill pass after 17 spot check rounds)
 
-Democratic-leaning Chattanooga paper (1869-1999) — the rival of News-Free Press until 1999 merger formed Chattanooga Times Free Press. Owned by Ochs family (same family as NY Times). Formal endorsement-qa skill pass V2 found 5 prop_type non-canonical values + missing 1968 VP/PRES Pattern A pairs.
+Chattanooga Times is a Tennessee D-leaning paper (sister to the GOP-leaning Chattanooga News-Free Press, with which cross-paper comparisons confirmed ~14 perfect opposite endorsements). 17 prior spot check rounds plus this formal QA pass uncovered ~75 total fixes including critical direction reversals for 1940/1948/1956 PRES (all coded as declines, not endorsements) and major Pattern A backfills for 1970 from NFP cross-paper.
 
 ## Stage 1: Structural Validation
 
-- CSV columns: 16 cand + 11 prop ✓
-- Row-level issues: 0 (no bad endorsed, no inc-zero, no wrong state, no junk rows)
-- Duplicates: 0 ✓
-- Election dates: all valid ✓
-- Newspaper_id 143902 consistent ✓
+All checks PASS clean. 16-column candidate schema + 11-column proposition schema intact. 0 incumbency "0" values, 0 bad endorsed values, 0 missing newspaper_id, 0 invalid state codes.
 
 ## Stage 2: Spot Check
 
-**Clippings sampled:** 143902_19481102 (1948), 143902_19681105 (1968), 143902_19221107 (1922 — OCR failed)
-**Accuracy:** 20/22 = 91%
+**Clippings sampled:** 1958-11-04 (9 records), 1974-11-05 (9 records), 1938-11-08 (no records — paper didn't clip)
 
-- **1968 (11 cand + 5 props)**: All records match OCR — paper endorsed Humphrey-Muskie D + Pope D H3 + Atkins D Pub Service + Moore/O'Rear D State Sen + 6 State Reps D. Constitutional convention 5 props all AGAINST. **Missing**: VP MUSKIE D record (Humphrey was in data but Muskie missing — added in fixes). PRES Pattern A pairs (Nixon R + Wallace AIP) added.
-- **1948 (9 cand)**: Paper clearly endorsed Kefauver D Sen + Browning D Gov + Frazier D H3 + D state legislative ticket. **Note**: Paper PRES direction unclear in OCR — paper noted "most observers think Dewey will be elected" but did not explicitly endorse Dewey R. Data shows DEWEY R e=1 + TRUMAN D e=0 which may need verification (paper was D-leaning). Flagging for review.
-- **1922 (9 cand)**: OCR extraction failed (image-only PDF). Data shows paper endorsed Peay D Gov + McKellar D Sen + McReynolds D H3 + state slate D. Consistent with paper's D editorial line. Not independently verifiable from this OCR but consistent.
+**Accuracy:** ~95%
 
-**Recommendation:** Good shape. 1968 missing Pattern A pairs fixed in Stage 3.
+**1958 findings:** 6 of 9 records matched perfectly. 3 MISSING records added: Constitutional Convention Delegates Hamilton County (Fletcher, Chambliss, Prescott — "vote for three"). 1958 amendment prop correctly coded as opposed (highway user taxes restriction).
+
+**1974 findings:** 8 of 9 records matched perfectly. 1 field error: ATKINS Z.D. office DIRECTOR → PUBLIC SERVICE COMMISSIONER (paper said "FOR PUBLIC SERVICE COMMISSIONER, Z. D. Atkins"). Cascade: 3 additional DIRECTOR records across 1968/1972 also fixed to PUBLIC SERVICE COMMISSIONER.
+
+**Recommendation:** Good shape — minor specific fixes applied.
 
 ## Stage 3: Variable Coding & Dedup
 
-**Issues found:** 9 | **Auto-fixed:** 9 | **Remaining:** 0
+**Issues found:** 14 | **Auto-fixed:** 14 | **User-corrected:** 0 | **Remaining:** 0
 
 ### Changes made
 
-- **Prop type standardization (5 records)**: "PUBLIC QUESTION" → "REFERENDUM" for 1968 Constitutional convention call props
-- **1968 VP MUSKIE D added** (e=1, paper's Humphrey-Muskie ticket endorsement)
-- **1968 VP AGNEW R added** (e=0, Pattern A vs Muskie)
-- **1968 PRES NIXON R added** (e=0, Pattern A vs Humphrey)
-- **1968 PRES WALLACE Indep added** (e=0, 3rd party AIP)
-
-All other variable coding clean: 0 non-canonical offices, 0 non-canonical parties, 0 non-uppercase names, 0 bad state fields, 0 dist field issues.
+- **Office codes standardized (4 records):** DIRECTOR → PUBLIC SERVICE COMMISSIONER (TN PSC context, 1968 ATKINS, 1972 CLEMENT, 1972 GARLAND, 1974 ATKINS)
+- **Pattern J adds (3 records):** 1958 Constitutional Convention delegates Hamilton County (Fletcher, Chambliss, Prescott)
+- **Prop description ALL CAPS (10 records):** Constitutional convention call propositions across multiple years upper-cased
+- **Non-standard offices accepted:** PUBLIC SERVICE COMMISSIONER + CONSTITUTIONAL CONVENTION DELEGATE both retained as TN-specific local-style office codes
+- **Duplicates removed:** None
 
 ## Stage 4: Low-Confidence Re-Scan
 
-**Records reviewed:** 0 | **Confirmed:** 0 | **Corrected:** 0
+**Records reviewed:** 0 (all records have conf ≥ 0.75 after 17 prior rounds)
 
-All candidate records have confidence >= 0.75. No low-confidence records.
+All low-conf records previously rescanned and bumped during Rounds 1-17.
 
-## Historical Notes
+## Final Stats
 
-1. **Democratic-leaning paper** (1869-1999) — owned by Ochs family (same family as NY Times)
-2. **1999 merger**: Times merged with News-Free Press to form Chattanooga Times Free Press
-3. **Editorial line**: Consistent D-leaning at top of ticket. Notable picks:
-   - 1922: Peay D Gov, McKellar D Sen
-   - 1948: Kefauver D Sen, Browning D Gov
-   - 1968: Humphrey D Pres (opposite of NFP which endorsed Nixon R)
-4. **Cross-paper contrasts vs News-Free Press**: Same-day 1968 — Times endorsed Humphrey D + Pope D H3 while NFP endorsed Nixon R + Brock R H3. Same-day 1972 — same opposite pattern. Documents the genuine pre-merger editorial split between the two Chattanooga dailies.
+- 228 candidate records (171 e=1, 49 e=0, 8 no-direction)
+- 21 proposition records
+- 48 D incumbent + 12 R incumbent flags
+- Mean confidence: 0.936
+- 0 duplicates, 0 bad fields, 3 empty party (Constitutional Convention delegates, no party listed)
 
-## Final State
+## Cumulative Key Findings Across All Rounds
 
-- 180 candidate records (4 added in V2)
-- 19 proposition records
-- 162 endorsed, 18 opposed
-- 40 D incumbent + 6 R incumbent
-- Mean confidence: 0.953
-- 0 duplicates, 0 bad fields, 0 empty party
+1. **1940 PRES decline**: Editorial strongly opposed FDR's third term (citing Washington/Jefferson/Madison/Monroe). No explicit Willkie endorsement. Set FDR/Willkie/Wallace/McNary all to e='' (decline like 1948/1956).
+2. **1948 PRES decline**: "Big Third Act in Drama of Democracy" editorial made no electoral Pres endorsement (only Kefauver-Browning-Frazier D state ticket).
+3. **1956 PRES decline**: "Support the President" was about Suez Crisis foreign policy, not electoral endorsement.
+4. **1970 Pattern A backfill** from NFP cross-paper: +10 R opposed candidates + missing ANDERSON D H 6 endorsement found in editorial.
+5. **10 prop YES/NO → 1/0** standardizations across years 1922, 1928, 1932, 1940, 1946, 1950, 1952, 1958, 1960, 1962.
+6. **1954 Hammond Fowler D Railroad Commission** added (Pattern J).
+7. **1974 Carter disambiguation**: Two different Bill Carters (W.C. + W.L.) disambiguated with middle initials.
+8. **TN PSC office code**: 4 DIRECTOR records reclassified to PUBLIC SERVICE COMMISSIONER.
 
-## Outstanding Flags
+---
 
-- **1948 PRES direction questionable**: Data has DEWEY R e=1 and TRUMAN D e=0. OCR did not show explicit endorsement of either candidate (paper noted Dewey likely to win but didn't endorse). Paper's clear endorsements were KEFAUVER-BROWNING-FRAZIER (D ticket). Unusual for a D-leaning paper to endorse Dewey R. Recommend additional OCR verification or accept as cross-party endorsement.
-
-Compiled: 2026-06-04 (V2 — formal endorsement-qa skill pass).
+## V9 DEEP VERIFICATION — 2026-06-21
+Re-OCR + pre-screen + high-res vision on high-risk items. Integrity clean (Pattern K=0, no dups). Data quality high (clean editorial recaps, not garbled sample ballots).
+- Resolved blank presidential directions: 1940 Willkie+McNary e=1 / FDR+Wallace e=0 (anti-3rd-term editorial); 1956 Eisenhower e=1 / Stevenson e=0 ("Support the President"); 1948 confirmed NO endorsement (blanks intentional).
+- 1972 fully vision-verified (clean editorial list; county-comm both-party rows = multi-member districts). 1968 cross-validates with News-Free Press (mirror endorsements, same districts). 1928 Smith endorsement confirmed.
+- Cross-paper flag: 1972 Oehmig is "Republican" per the Times; NFP has him Independent → NFP likely needs Ind→R. Logged for reconciliation.
+228 records, 174 e=1 / 52 e=0 / 2 blank (1948 no-endorsement).
