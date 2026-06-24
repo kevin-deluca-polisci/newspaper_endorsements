@@ -1,5 +1,31 @@
 # QA Report: Denver Post (105650)
 
+---
+## V9 — IMAGE + BORN-DIGITAL VERIFICATION (2026-06-23) — supersedes the round-based V6 below
+
+**Method:** 1968 is a SCANNED multi-year GenealogyBank bundle (one PDF with the 1964/66/68/70/72/74 election-day pages); it was read BY IMAGE. 2000 and 2006–2022 are BORN-DIGITAL denverpost.com PDFs — `pdftotext` gives the published editorial text and is AUTHORITATIVE (no image-OCR). 4 born-digital block agents + a props agent; the lead read the 1968 page and verified the 2008/2020 anomalies against the text.
+
+**1968 — verified clean.** All 66 records come from the **Nov-5-1968 page only** (a single comprehensive "THE POST Endorses" list); names/districts/parties/the CU Regent (Richard J. Bernick) and the 4 props (Amend 1 Yes, 2 No, 3 Yes, Denver 1 Yes) all match the image. **No cross-year contamination** from the other pages in the bundle.
+
+**Corrections (born-digital text-verified):**
+- **2020 PRESIDENT — removed 4 fabricated records.** The 2020 omnibus states "The Denver Post will **not** be making an endorsement in the race for U.S. president." The prior Biden-e1/Harris-e1/Trump-e0/Pence-e0 records contradicted the text → removed.
+- **2020 CD5 — removed Benzine-e1/Lamborn-e0.** The published congressional list covers CD1,2,3,4,6,7 (not 5); "Benzine" appears in no clipping → unsupported, removed.
+- **2022 CD1/CD2 — removed DeGette/Neguse "fill" e1 records** (notes admitted they were assumed; the 2022 omnibus lists only CD3/6/7/8 — no CD1/CD2 endorsement published).
+- **2020 DA-1 Durkin: party Democrat → Republican** (text: "Durkin, a Republican"; the D-leaning Post's cross-party DA pick).
+- **2000 HD24 Jahn:** district 23 → 24 (she is Wilhelm-R's opponent in HD24, not in HD23); **HD32 Vigil:** added d_inc=1 (text "Democratic incumbent"); **HD18 Dean:** removed unsupported "INCUMBENT" note.
+- **2008 PRESIDENT Romney:** note clarified — it is the **Feb-2008 GOP PRIMARY** endorsement, not the general (the 2008 general pick was Obama-D, correctly recorded). Flagged for RA (primary-vs-general scope).
+- **Propositions deduped 140 → 98:** statewide CO measures had each been recorded TWICE (a per-measure editorial + the year-end recap, with two different descriptions). Deduped to one record per (year, measure), keeping the fuller description and the image/text-verified direction. **Distinct local measures sharing a ballot letter were preserved** (2017 Greeley/Brighton/Mesa school overrides; 2018 "5A" Aurora/Douglas/Jefferson; 2018 "5B" Douglas/Jefferson). Fixed **2022 Prop FF** (Healthy School Meals) direction to NO (was a wrong-direction dup).
+
+**COVERAGE EXPANSION (2026-06-23) — mined the unused pages of the 1968 multi-year bundle.** The 1968 clipping is a 6-page GenealogyBank scan (one election-day "THE POST Endorses" guide per year: 1964/66/68/70/72/74). Only the 1968 page had been extracted. This pass read the other 5 pages by image (5 transcription agents; lead verified the 1968 + 1974 pages directly — e.g., 1974 confirmed Hart-D Senate, Schroeder-D/Brotzman-R/Evans-D/Johnson-R/Armstrong-R House, Vanderhoof/Strickland-R Gov) and **added 1964, 1966, 1970, 1972, 1974: 267 candidate + 40 proposition records.** These are the paper's endorsement slates (e=1 only; the guides list no opponents or incumbency). To stay consistent with the 1968 office scope, **judges, county officers, and Moffat Tunnel commissioners on those pages were NOT added** (flagged in RA_NEEDS as further-available). Cross-party picks captured (1966/70 Love-R Gov, 1972 Nixon-R, 1974 Hart-D Senate). Coverage went from 13 → 17 election years.
+
+**Post-expansion verification + cleanup (2026-06-23):** (a) Lead OCR-confirmed the marquee of the 4 not-personally-read new pages — 1964 (LBJ/Humphrey/Rogers/Sutton), 1966 (Love-R Gov/Hogan-D LtGov/Allott-R Sen), 1970 (Love/Vanderhoof-R/McKevitt-R), 1972 (Nixon-R/Allott-R) — all match the records. (b) **Cross-year name standardization (58 fixes):** unified same-person variants across 1964–1974 to the fullest spelling (e.g., Aspinall→Wayne N., Brotzman→Donald G., Bain→Jean K., Armstrong Bill→William, McKevitt Mike→James (Mike)), grouping by surname+first-initial so distinct people (Betty vs Laura Miller; James W. vs Pat Schroeder; the five Johnsons) were NOT merged. (c) **Fixed a transcription slip:** 1972 House-1 "Robert (Hub) Safran" → **Hubert M. "Hub" Safran** (the "Hub" nickname + his 1964/66/70/74 appearances as Hubert M. Safran confirm it; there was no "Robert Safran" in the CO legislature).
+
+**Final V9 integrity:** **607 candidate records (517 e=1, 90 e=0), 138 props (87 e=1, 51 e=0). Pattern K=0, duplicates=0, 0 blank names/directions.** 3 intentional orphan e=0 groups = the 2018 H 3/4/5 non-endorsements (documented). 1968 Wallace/LeMay correctly "American Independent." Mean conf 0.986. (Pre-expansion this pass: 340 cand / 98 props.)
+
+**RA flags:** (1) inferred opponents/running-mates not named in any clipping — 2008 Schaffer(Sen)/Palin/Biden(VP); 2016 Stein/Glenn/Plowright/Athanasopoulos/B.Williams + Kaine/Pence(VP); 2018 Kafer/Cook/Burgess(CD1/2/7 R opps); 2020 Wernsman/Brown/Walsh(CD7/2/1 R opps) — kept but unverifiable from clippings. (2) 2008 Romney primary-vs-general scope. (3) 2015 unopposed Denver council incumbents Lopez/Susman/Herndon mentioned-but-not-endorsed (not added).
+
+---
+
 **Audit date:** 2026-06-11 (V6 FINAL — 500 rounds + 6 formal QA + 2000 opp Pattern A + 1968 party fills + 200 spot checks, supersedes V1-V5)
 **Folder:** Denver Post (Denver, CO)
 **Newspaper ID:** 105650

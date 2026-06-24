@@ -89,3 +89,17 @@ All 3 records were at the 0.75 threshold. The Nov 1 clipping is clearly legible 
 ## Notes
 
 The El Paso Herald (1881-1931) is a distinct publication from the El Paso Herald-Post (1931-1997). These 1920 clippings were originally misfiled under the Herald-Post but have been correctly separated. Only 2 clippings exist for this paper; additional Herald issues from the 1920s may contain more endorsements but have not been collected.
+
+---
+## V9 VERIFICATION SKILL — COMPLETE (2026-06-24)
+Stage 0 inventory: 0 candidates, 3 props, 2 clippings (1920 only). Stage 1: both clippings rendered at 400 DPI and read by image.
+Stage 3 vision: **Oct 29 1920 clipping is a NEWS article** ("FIGURES SHOW G.O.P. GAIN IN NEW MEXICO" — county vote tables), NOT an endorsement → correctly yields no records. **Nov 1 1920 clipping is the editorial "The Three Amendments"** which explicitly states Texas voters "will vote 'For' all three amendments."
+Stage 4 props audit: all 3 props image-confirmed endorsed=1 (For); descriptions match the editorial (1=rural community taxation, 2=school district taxation, 3=fixed salaries in lieu of fees). All-one-direction (3 FOR) check: LEGITIMATE — the editorial endorses all three; not a dropped-"No" extraction bug. Confidence raised 0.85→0.95.
+Reverse-match (omissions): NO candidate endorsements in either clipping (confirmed 0 candidates is correct, not a coverage gap). No additional props.
+Integrity: 0 candidates, 3 props, no Pattern K/dups/blank possible. Cross-paper (Stage 7): deferred to El Paso 3-paper cluster reconciliation (note: Herald-Post did not exist until 1931, so 1920 is Herald-only among the cluster; will check El Paso Times for any 1920 statewide-amendment overlap).
+Result: folder CONFIRMED ACCURATE, no changes to data (only verification notes + confidence bump).
+
+## V9 DOUBLE-CHECK (2026-06-24)
+- Re-confirmed the 3 props match the editorial order/content exactly (1st=rural community taxation, 2nd=school district taxation, 3rd=fixed salaries in lieu of fees).
+- Cross-checked vs El Paso Times 1920: both papers endorse the school-taxation amendment FOR (agree). The Herald has all 3 TX amendments; the Times clipping captured only the school amendment + a Cox-D presidential pick (separate paper, separate clipping — legitimate). No conflict.
+- Confirmed accurate; no data changes.

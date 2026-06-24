@@ -190,35 +190,36 @@ NC,Charlotte Observer,132300,1976,INSURANCE COMMISSIONER,,,NC,"INGRAM, JOHN R.",
 NC,Charlotte Observer,132300,1976,SUPREME COURT,,,NC,"HUSKINS, J. FRANK",Democrat,1,,,,Supreme Court Justice,0.95
 NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"ALEXANDER, FRED",Democrat,1,1,,,,0.95
 NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"LAWING, CRAIG",Democrat,1,,,,,0.95
-NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"RUTLEDGE, J. CARLYLE",Democrat,1,,,,,0.95
-NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"CLUSENA, SAM C.",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"RUTLEDGE, J. CARLYLE",Democrat,0,,,, | V9 2026-06-22 at-large boldface-recap fix (only BOLD=endorsed) (not bold -> e=0),0.95
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"CLUSENA, SAM C.",Republican,0,,,, | V9 2026-06-22 at-large boldface-recap fix (only BOLD=endorsed) (not bold -> e=0),0.85
 NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"MATHIS, CAROLYN",Republican,1,,,,,0.9
 NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"MILLER, BARRY G.",Republican,1,,,,,0.9
-NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"HOWE, JAMES B. (JIM)",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"HOWE, JAMES B. (JIM)",Republican,0,,,, | V9 2026-06-22 at-large boldface-recap fix (only BOLD=endorsed) (not bold -> e=0),0.9
 NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"BRENNAN, LOUISE S.",Democrat,1,,,,,0.95
-NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"EASTERLING, RUTH M.",Democrat,1,,,,,0.95
-NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"ECONOMOS, GUS",Democrat,1,1,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"EASTERLING, RUTH M.",Democrat,0,,,, | V9 2026-06-22 at-large boldface-recap fix (recap lists all candidates; only BOLD=endorsed) (not bold -> e=0),0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"ECONOMOS, GUS",Democrat,0,1,,, | V9 2026-06-22 at-large boldface-recap fix (recap lists all candidates; only BOLD=endorsed) (not bold -> e=0),0.95
 NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"FOSTER, JO GRAHAM",Democrat,1,1,,,,0.95
 NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"HELMS, PARKS",Democrat,1,,,,,0.95
-NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"THON, JOSEPH E.",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"MCMILLAN, JOSEPH E. (JED)",Democrat,0,,,, | V9 2026-06-22 at-large boldface-recap fix (recap lists all candidates; only BOLD=endorsed) (THON misread of McMILLAN; not bold -> e=0),0.95
 NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"WHITE, FRED W.",Democrat,1,,,,,0.95
-NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"BINGMAN, STEVE M.",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"BINGMAN, STEVE M.",Republican,0,,,, | V9 2026-06-22 at-large boldface-recap fix (recap lists all candidates; only BOLD=endorsed) (not bold -> e=0),0.9
 NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"BISSELL, MARILYN R.",Republican,1,,1,,,0.9
-NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"HARGEY, BOB E.",Republican,1,,,,,0.85
-NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"JAFFEE, ALAN",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"HARGEY, BOB E.",Republican,0,,,, | V9 2026-06-22 at-large boldface-recap fix (recap lists all candidates; only BOLD=endorsed) (not bold -> e=0),0.85
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"JAFFEE, ALAN",Republican,0,,,, | V9 2026-06-22 at-large boldface-recap fix (recap lists all candidates; only BOLD=endorsed) (not bold -> e=0),0.9
 NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"JORDAN, DAVID D.",Republican,1,,1,,,0.9
-NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"MATHIS, RAY",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"MATHIS, RAY",Republican,0,,,, | V9 2026-06-22 at-large boldface-recap fix (recap lists all candidates; only BOLD=endorsed) (not bold -> e=0),0.9
 NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"SPOON, ROY",Republican,1,,1,,,0.9
-NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"COLEMAN, LOUIS (L.C.)",Democrat,1,,,,,0.95
+NC,Charlotte Observer,132300,1976,STATE REP,36,,NC,"TISON, BEN",Democrat,1,,,," | V9 2026-06-22 at-large boldface-recap fix (recap lists all candidates; only BOLD=endorsed) (OMISSION ADDED: bold/endorsed D, missing from extraction)",0.9
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"COLEMAN, LOUIS (L.C.)",Democrat,0,,,, | V9 2026-06-22 at-large boldface-recap fix (only BOLD=endorsed) (not bold -> e=0),0.95
 NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"FOLEY, PETE",Democrat,1,1,,,,0.95
 NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"HAIR, ELISABETH G.",Democrat,1,1,,,,0.95
-NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"MCKINNON, HARRY A.",Democrat,1,,,,"Name corrected per OCR: was ROBINSON, actual McKinnon",0.95
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"MCKINNON, HARRY A.",Democrat,0,,,,"Name corrected per OCR: was ROBINSON, actual McKinnon | V9 2026-06-22 at-large boldface-recap fix (only BOLD=endorsed) (not bold -> e=0)",0.95
 NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"WALTON, ROBERT L. (BOB)",Democrat,1,,,,,0.95
-NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"BOOR, WILLIAM",Republican,1,,,,,0.85
-NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"GRIFFIN, WILLIAM L. (WIL)",Republican,1,,,,,0.85
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"BOOR, WILLIAM",Republican,0,,,, | V9 2026-06-22 at-large boldface-recap fix (only BOLD=endorsed) (not bold -> e=0),0.85
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"GRIFFIN, WILLIAM L. (WIL)",Republican,0,,,, | V9 2026-06-22 at-large boldface-recap fix (only BOLD=endorsed) (not bold -> e=0),0.85
 NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"MOORE JR., THOMAS F.",Republican,1,,,,,0.9
 NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"PEACOCK, ED",Republican,1,,1,,,0.9
-NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"TAYLOR, JERRY",Republican,1,,,,,0.9
+NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"TAYLOR, JERRY",Republican,0,,,, | V9 2026-06-22 at-large boldface-recap fix (only BOLD=endorsed) (not bold -> e=0),0.9
 NC,Charlotte Observer,132300,1978,SENATOR,,,NC,"INGRAM, JOHN",Democrat,0,,,,"Paper declined: ""The Observer did not recommend Ingram or Helms""",0.7
 NC,Charlotte Observer,132300,1978,H,9,,NC,"MARTIN, JAMES G. (JIM)",Republican,1,,1,,9th District,0.8
 NC,Charlotte Observer,132300,1978,SUPREME COURT,,,NC,"BRITT, DAVID M.",Democrat,1,,,,"Name corrected per OCR: was BOLT, actual BRITT",0.7
@@ -792,7 +793,7 @@ NC,Charlotte Observer,132300,2014,CNTY CLERK,,,NC,"CHINN-GARY, ELISA",,0,,,,Patt
 NC,Charlotte Observer,132300,2014,SHERIFF,,,NC,"HAILEY, CHRIS",,0,,,,Pattern A: opposed vs Carmichael D,0.90
 NC,Charlotte Observer,132300,1976,H,9,,NC,"MARTIN, JAMES G. (JIM)",Republican,1,,1,,Paper endorsed Martin R (incumbent) per OCR bold detection,0.95
 NC,Charlotte Observer,132300,1976,H,9,,NC,"SCHLANGER, HARLEY",Labor,0,,,,"Labor Party candidate on ballot, not endorsed",0.90
-NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"MCDUFFIE, JIM",Democrat,1,,,,"Multi-member D22, paper endorsed per OCR (bold)",0.90
+NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"MCDUFFIE, JIM",Democrat,0,,,,"Multi-member D22, paper endorsed per OCR (bold) | V9 2026-06-22 at-large boldface-recap fix (only BOLD=endorsed) (not bold -> e=0)",0.90
 NC,Charlotte Observer,132300,1976,STATE SENATOR,22,,NC,"GUTKO, STANLEY",Labor,0,,,,"Labor Party candidate on ballot, not endorsed",0.90
 NC,Charlotte Observer,132300,1976,CNTY COMM,,,NC,"SZWOL, STEPHANIE",Labor,0,,,,"Labor Party candidate on ballot, not endorsed",0.90
 NC,Charlotte Observer,132300,1960,PRESIDENT,,,NC,"KENNEDY, JOHN F.",Democrat,0,,,,Pattern A: opposed vs Nixon,0.92

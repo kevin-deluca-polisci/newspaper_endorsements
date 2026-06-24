@@ -2,20 +2,13 @@ Newspaper: Des Moines Tribune
 Newspaper ID: 115151
 State: Iowa (IA)
 
-Number of clippings: 25
-Endorsement data years: 1952-1980 (14 unique election years)
+Number of clippings: 24
+Endorsement data years (candidates): 1952, 1960, 1968, 1976  (props span 1954-1980)
+Candidate records: 11  (Endorsed 6, Opposed 5)
+Proposition records: 18  (Yes 12, No 6)
+Mean candidate confidence: 0.95
+Last updated: 2026-06-23
 
-Candidate records: 8
-  Endorsed: 6
-  Opposed: 2
-  No-direction (declined endorsement): 0
-
-Proposition records: 18
-  YES: 12
-  NO: 6
-
-Confidence stats:
-  Mean confidence: 0.918
-  Median confidence: 0.920
-  Min confidence: 0.85
-  Max confidence: 0.95
+Notes:
+- Des Moines EVENING paper (Cowles; sister of the morning Des Moines Register), folded 1982. Sparse coverage: the Tribune focused on LOCAL Polk County races (Broadlawns Hospital trustees, Polk Co. Sheriff) + local Des Moines ballot measures, plus the 1952 presidential endorsement (Eisenhower-R). The morning Register carried the statewide/federal slate.
+- V9 verification skill (2026-06-23): all 24 scanned clippings OCR'd + read by image. Every candidate (11) and proposition (18) confirmed against the image. Reverse-match of no-record clippings found NO omissions (1964 is a meta-editorial about newspaper endorsement patterns, not an endorsement; 1976-v2 = sheriff dup; 1980-v2 = convention prop). Cross-paper vs Des Moines Register: papers cover different races (no candidate overlap); the shared 1980 ERA prop agrees (both YES). Only fix: 1960 Brien -> "Brien, James J." (middle initial per image).

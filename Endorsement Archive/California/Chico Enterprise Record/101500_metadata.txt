@@ -1,20 +1,38 @@
-Newspaper Name: Chico Enterprise Record
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Chico Enterprise Record
 Newspaper ID: 101500
 State: CA
-Processing Date: 2026-05-19
-Last QA Date: 2026-05-19
+Number of clippings: 1
+Endorsement data years: 1924-2024
+Total candidate records: 532 (427 endorsed=1)
+Total proposition records: 636 (636 with a yes/no direction)
 
-Clippings: 51 (50 PDFs/JPGs + 1 RTF list)
-Date range: 1924-2024
-Total candidate records: 439 (endorsed 417, opposed 22)
-Total proposition records: 634 (endorsed 350, opposed 284)
-Mean confidence: 0.902
+Confidence statistics (all records):
+  Mean confidence: 0.901
+  Low-confidence records (< 0.7): 0
 
-Notes:
-- Local daily of Chico, California (Butte County); part of MediaNews Group / Northern California chain since 1989
-- Founded 1853 as Chico Weekly Currant; current paper from 1947 merger of Enterprise and Daily Record
-- Conservative-leaning editorial board; consistently endorses Republican federal/statewide candidates through most of the period
-- Dense California proposition coverage in every general election; full position list each cycle
-- This (May 2026) re-extraction replaces a Feb 2025 QA that under-extracted later years
-- 2010 endorsements come from an online RTF list (no PDF clipping available for 2010)
-- 1952-11-01 clipping actually contains 1954-11-01 election content; year coded as 1954
+Top offices (top 15):
+  CITY COUNCIL: 57
+  CNTY COMM: 44
+  STATE REP: 38
+  H: 38
+  SENATOR: 37
+  DIRECTOR: 35
+  PRESIDENT: 30
+  VICE PRESIDENT: 30
+  GOVERNOR: 28
+  SCHOOL BOARD: 26
+  LT GOVERNOR: 19
+  ATTORNEY GENERAL: 18
+  TREASURER: 16
+  SEC OF STATE: 15
+  SUPREME COURT: 15
+
+Party distribution:
+  Nonpartisan: 220
+  Republican: 194
+  Democrat: 118
+
+(metadata regenerated post-V8 deep verification)

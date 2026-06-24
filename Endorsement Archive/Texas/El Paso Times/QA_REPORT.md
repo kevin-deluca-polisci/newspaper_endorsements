@@ -374,3 +374,39 @@ All 5 low-confidence records were 1960 propositions extracted from hard-to-read 
 1. **Empty proposition descriptions:** 85 records across 9 years (1954-1988) have empty prop_desc fields from gap-fill extraction. Records are identifiable by prop_type and prop_num. Not a blocker for downstream analysis but reduces human readability.
 2. **Empty party fields:** 63 candidate records have no party identification (local candidates where party was not listed in endorsement clipping).
 3. **Proposition gaps verified as legitimate:** Years 1922, 1924, 1928, 1932, 1938, 1974, 1994, 1996, 1998, 2000, 2004, 2006, 2008, 2018 have clippings but no proposition endorsements (candidates-only content confirmed by clipping review).
+
+---
+## V9 VERIFICATION SKILL — COMPLETE, ALL 41 YEARS (2026-06-24)
+Full single-pass image verification, 1920-2018. 5 era agents + lead re-verification of high-stakes items. Candidates 454→501 (+47 net: ~50 image-verified omissions added, dups removed), props 218→210 (1970 de-duplicated). Integrity ALL-CLEAN: Pattern K=0, 0 dups, 0 blank names.
+
+**Major findings & fixes:**
+- **~50 missing endorsements ADDED** — the recap images for 1992, 2000, 2002, 2004 (and partly 1932, 2006) list FULL slates but the CSV had captured only the President/few. Added the full statewide+local slates (Gov/Lt Gov/AG/Comptroller/Land/Ag/RRC, US House, TX Supreme Court & Court of Criminal Appeals Places, State Reps, county offices), all image-verified.
+- **TX/NM border tagging confirmed** — El Paso endorsed in BOTH states; all statewide TX/NM pairs (1976/1978/1982/1990 + 1932) verified and state_election-tagged. 0 false double-endorsements remain.
+- **Court PLACE numbers fixed** — 1980 TX Sup Ct (Garwood↔Wallace), 1988/1990 Court of Criminal Appeals (the entire 1990 CCA place-numbering was scrambled → remapped Pl1-5), 1976 Houston Sup Ct Pl1→Pl2, 1972 Sup Ct name-garble cleanup (removed spurious "Jay, Sam"/dup Daniel; Place1=Daniel, Place2=Sam Johnson).
+- **Office miscode removals/recodes** — 1974 removed 2 miscoded duplicates (Treasurer "Chacon"=County Clerk; SBOE "Wallace"=Railroad Commissioner); 1982 Rubalcaba→District Clerk, Finley→County Treasurer; 1982/84 Miller/Clinton→Court of Criminal Appeals; 1986 Lucas→County Attorney; 1990 Saldivar→JP Pct 4; 2018 Chew→Probate Court 1 (vs Nunez County Court-at-Law 1).
+- **Name fixes** — 1938 NM Gov opponent Sims→Mitchell (Albert K.); 1994 Russ→Ryan, Corbin→Collins, Hood→Read, Aguilar II→III, Nunez Irene→Rene; 1978 Tellez→Telles; 1996 Duross→Daross; 1922 Andreus→Andrieus.
+- **Direction fixes** — 1970 Boles County Clerk→e=0 (Fields endorsed); 1958 prop 9→e=1.
+- **Props** — 1970 de-duplicated 22→11 (4 local bonds + 7 amendments, lead-verified "We Recommend" editorial); 1978 added Amendment 6; 1992 bond amount $68.84M→$35M; 1956 added Price Daniel (Gov) + props 1,3; 1932 added Ferguson/Bullington (TX Gov) + Seligman/Dillon (NM Gov). **All-one-direction prop years all verified legit** (1926 "each amendment deserves support", 1950 "defeat all four", 1954/1956/1982/1936/1930 all confirmed by editorial).
+- **Multi-seat tags** — 1974/1994 Railroad Commission full-vs-unexpired-term labels; 1976 Jones=72-A/Valles=72-D; the 2018 County Judge (Cook+Samaniego, Dem primary) and the two "Place 1" courts are legitimate, not errors.
+
+**CLUSTER RECONCILIATION (3-paper El Paso):** statewide candidate metadata cross-checked Herald-Post↔Times: **91 candidates, 0 mismatches**. Herald(1920) vs Times(1920) agree on the school amendment. The cluster is fully consistent.
+
+**RESIDUAL (RA, M/L confidence, documented):** 1930 prop list ("Create Districts" #5 not in editorial / a legislator-salaries amendment missing — old dense scan); 1936 NM Gov opponent name (Jaffa→Miller, L); 1938 NM House district (Dempsey d1 vs Haskell at-large internal inconsistency); 1958 local El Paso city/hospital bond props (may be intentionally out of recap scope); 2000 d409 judge name partly obscured + a CntyComm precinct cut off at column edge; **2012 has NO recap image** (only President Obama/Romney — unverifiable); `19621105` clipping is MISFILED (it is a 1964 page). 1960 prop #2/#4 descriptions inaccurate (directions correct).
+
+---
+
+## FINAL DOUBLE-CHECK (2026-06-24) — 1964/1934/2018 resolved
+
+Three residual items from the V9 pass are now **closed by image**:
+
+- **1964 candidate slate — NOW VERIFIED (was "NOT VERIFIABLE").** The misfiled clipping `145300_19621105.pdf` is actually the **El Paso Times, Nov 3 1964, p.4 "Your Turn To Vote"** full endorsement list. All **15 endorsed** 1964 records match it exactly (LBJ-Pres, Bush-Senate[R], Pool-Congressman-at-Large, Connally-Gov, Smith-LtGov, Carr-AG, White-Agriculture, Sadler-Land, Calvert-Comptroller, James-Treasurer, Langdon-RRC, Pope-SupCt Place1, Snelson-StateSen 29, Muniz-StateRep 74 Place4, Anderson-CntyComm Pct1). Each carries a `V9 image-verified vs Nov3-1964` stamp. The 3 e=0 records (Goldwater, Yarborough, Hayes) are inferred opponents NOT named in this list-format editorial — factually correct, now annotated as inferred. Pool/Hayes dname set to AT-LARGE (clipping reads "Congressman-at-Large"). The editorial explicitly made **no endorsement in the 16th congressional district** ("take your choice between Foreman and White") — correctly absent from the CSV. (There is also a properly-named `19641031.pdf`; 1964 is well covered.)
+- **1934 — confirmed prop-only.** `145300_19341105.pdf` is the single-column editorial **"Texas Amendments To Constitution"** discussing the 8 constitutional amendments; no candidate names/endorsement language. The 0 candidate / 8 proposition records are correct.
+- **2018 County Judge dual endorsement — image-verified legit.** `145300_20180305.pdf` (March 2018 **Democratic primary** recap) prints "County Judge: John Cook, Ricardo Samaniego" — the board named both. Note enriched; not an error.
+
+Integrity re-run after edits: 501 candidates, Pattern K=0, 0 exact dups, 0 blank names; the 4 same-key 2-endorsed groups are all legitimate (1974/1994 Railroad Commission full-vs-unexpired seats; 2018 County Judge primary dual; 2018 "Place 1" = Probate Court 1 vs County Court-at-Law 1, distinct courts). Working copy ↔ archive md5 identical.
+
+### Proposition dedupe + direction re-verification (2026-06-24)
+A cross-paper props pass (Times↔Herald-Post) surfaced that **1968 and 1972 had every constitutional amendment duplicated** — one row carrying "Constitutional Amendment N" and an identical empty-description twin with the same direction (the same family of bug as 1970, but pure duplication). Removed the 28 empty-desc duplicates: 1968 28→14, 1972 29→15. **Props 210→182**, 0 exact dups, 0 conflicting-direction (year,type,num).
+The surviving 1968/1972 directions are now **image-verified** against the "We Recommend" editorials: 1968 — *"The Times recommends against Amendments 5, 6, 10 and 13"* (CSV opposes exactly 5/6/10/13 ✓); 1972 — *"NO on numbers 5, 11 and 14; YES on the remainder … On Urban Renewal — FOR"* (CSV opposes 5/11/14, Urban Renewal e=1 ✓).
+Also image-faithful name restore: 1972 TX Supreme Court Place 2 cand_name "JOHNSON, SAM" → **"JOHNSON, SAM JAY"** (clipping prints "Sam Jay Johnson of Houston"; real justice = Sam D. Johnson — a prior pass had dropped the printed middle name).
+RA items logged: 50 props (1954/1962/1978/1980/1984/1988) have verified directions but empty descriptions (recoverable from the Times' own amendment editorials); Times↔HP show proposition direction disagreements on shared amendment numbers in 11/15 overlapping years (independently image-verified each side — mix of genuine editorial splits and possible numbering misalignment; RA spot-check recommended).

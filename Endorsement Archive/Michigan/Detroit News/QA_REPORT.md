@@ -1,5 +1,27 @@
 # QA Report: Detroit News (121301)
 
+---
+## DNv2 — FULL IMAGE/TEXT VERIFICATION, ALL 26 YEARS (2026-06-24) — supersedes the V7 "structural PASS" below
+
+The prior "V7 FINAL / structural PASS" was NOT image-verified, and like the Detroit Free Press this folder was **heavily garbled**. Every election year (1968-2022) has now been verified against the source: scanned years (1968-2008) re-rendered at 300-350 DPI and read column-by-column by parallel transcription agents with lead spot-verification of every wholesale rebuild; born-digital years (2014-2022, detroitnews.com per-race PDFs) verified against the authoritative extracted text. **Candidates 2038→2083, props 249→250. FINAL integrity ALL-CLEAN: Pattern K=0, 0 exact dups, 0 blank names, 0 dname/office mismatches, all parties valid, all districts in valid era ranges, 0 unexpected double-endorsements (only the legitimate 2006 d29 partial-term/full-term pair remains; 2016 Conyers is a real special election).** The 5 orphan e=0 seats are all documented intentional non-endorsements (1978 Diggs, 2004 & 2020 President+VP).
+
+**PROVENANCE (important for the record):** the older clippings (1968/1970/1986…) are genuine Detroit News pages, but several later years (1990/1998/2000/2002/2004/2006/2008) were clipped from **Detroit Free Press reproduction pages** — the newspapers.com masthead reads "Free Press," but each page's own header reads "The Detroit News editorial board endorsements" and the content is unmistakably the News' R-leaning slate. Data is valid Detroit News endorsements; just note the source.
+
+**Systematic errors fixed:**
+- **All 15 county-executive records un-miscoded from MAYOR → new code CNTY EXEC** (zero actual mayors in the data, identical to DFP).
+- **Three legislative blocks were SCRAMBLED and were REBUILT from image-verified by-county recaps:** **1998** (15 "state senators" with districts up to 54 → 5 real Senate + 23 House), **2002** (71 cross-county-collision records → 12 Senate + 32 House), **2006** (flat-collapsed 1-46 with ~14 dup districts → 12 Senate + 34 House + 41 de-collapsed County Commission across Macomb/Oakland/Wayne).
+- **2008** five "double-endorsements" resolved — each extra name was a county commissioner miscoded as State Rep; plus d1 Treder Lang/Lemmons fix, a spurious judge removed, and a judge-vs-commissioner miscode fixed.
+- **Office miscodes** across years: appellate-vs-trial court (1990 Fitzgerald, 1992 Stempien, 1994 Levy/Talbot), prosecutor-vs-county-exec (1992/2004 Patterson), judge-vs-prosecutor (1992 Thompson), university-board (1980 Baker/Varner→Regent, Gadola→MSU), 1996 impossible-senate (Schnelz/Stempfle/Nichols).
+- **Whole missing slates ADDED:** **1976 State House (entire 43-district slate was missing)**; 1974 SoS/AG; 1986 US House d11; 1990 Supreme Court Durant; 1992 judges/board; 1994 Court of Appeals d2/d3/d4 + ~9 circuit/recorder judges + senate North + school-board members.
+- **Name/district fixes** (image-verified): 1986 State House ~12 garbled names/districts (Hevins→Blevins, Soyka→Wudyka, Rexca→Rocca, etc.), 1990 Cherry→Ciskey(+party), 1994 senate/school-board scrambles, 1972 clerk Frenz→Sullivan, and more.
+- **Proposition direction fixes:** 1968 (5 blank-direction fills), 1970/1972 fills, 2000 (8 flips), 1992 (Wayne mental-health millage), 1994 (Prop B), 1998 (Tax Allocation Board) + 1974 Prop C added.
+
+**Cross-paper vs Detroit Free Press (121300, now clean):** 390 partisan-office matches compared; the 25 mismatches are all surname collisions between different people (Sander vs Carl Levin, John vs Christopher Dingell, Candice vs other Millers, Gerald vs William Ford). The real 2002 Hopgood/Bieda/Brandenburg cluster that previously flagged a DN error is now GONE (resolved by the 2002 rebuild). Cross-paper validates both papers.
+
+**RESIDUAL RA TAIL (small, documented in RA_NEEDS):** a few M-confidence removals were FLAGGED-not-applied (1988 Supreme Court Brickley/Levin "no SC section" read; 1992 Drain-Comm McKerrow; 1994 judges Ford/Mester, CntyExec Patterson); 1976 State House party column is INFERRED (the 1976 recap prints no R/D letters — same as its US House list); a few 2006 county-commission names (Oakland d2-17 not printed; CSV Jamian/Murphy unresolved); the standing Priority-1 STATE REP opponent backfill (external sources). The folder is otherwise image-verified and internally consistent.
+
+---
+
 **Audit date:** 2026-06-12 (V7 FINAL + extras pass — 1200+25 rounds + 8 formal QA + SUPREME COURT party fix + cross-paper discrepancy + 5 prop dups removed, supersedes V1-V6)
 **Folder:** Detroit News
 **Newspaper ID:** 121301
@@ -639,3 +661,11 @@ The race-level agreement profile (39.6% top-of-ticket / 47.3% state legislative 
 ### Findings updated to DFP QA report
 
 The same cross-paper findings have been appended to the Detroit Free Press QA report.
+
+---
+
+## ⚠️ AT-LARGE FALSE-ENDORSEMENT WATCH (flagged 2026-06-22, address during V9 processing)
+A project-wide sweep flagged this folder for the **Cincinnati at-large bug**: one partisan race-slot (district or at-large) holding **5+ candidates all coded endorsed (e=1) with zero recorded opponents**. In the Cincinnati Enquirer this turned out to be a systematic error where the *entire* multi-member/at-large candidate list (endorsees + their opponents) was coded as endorsed — often with the opponents' party mislabeled. When V9-processing this folder, OPEN THE BALLOT IMAGE for each slot below and split into the marked endorsees (e=1) vs the unmarked opponents (e=0); watch for party mislabels and name scrambles. NOTE: some of these may be legitimate bipartisan at-large slates — verify against the clipping, do not assume.
+
+Flagged slots (year | office | district | #endorsees | party mix):
+- 1986 | STATE REP | dist blank | 5 endorsees | Democrat:1, Republican:4

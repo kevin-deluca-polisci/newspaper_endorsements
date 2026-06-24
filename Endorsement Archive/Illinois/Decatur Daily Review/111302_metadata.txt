@@ -2,17 +2,16 @@ Newspaper Name: Decatur Daily Review
 Newspaper ID: 111302
 State: IL
 Processing Date: 2026-05-19
-Last QA Date: 2026-05-19
+Last QA Date: 2026-06-23
 
 Clippings: 25
 Date range: 1962-1978
-Total candidate records: 241 (endorsed 232, opposed 9)
-Total proposition records: 15 (endorsed 12, opposed 3)
-Mean confidence: 0.921
+Total candidate records: 269 (endorsed 232, opposed 37)
+Total proposition records: 12 (endorsed 10, opposed 2)
+Mean confidence: 0.920
 
 Notes:
-- Evening daily newspaper of Decatur, IL (1872-1979). Founded 1872 as a weekly; became Decatur Daily Review. Merged operations with morning Decatur Herald in 1931 under Lindsay-Schaub ownership; kept separate editorial staffs until 1979 when Lee Enterprises bought the papers and renamed them Herald & Review.
-- All 105 unique clippings processed with strip-OCR for multi-column Sunday recaps
-- Re-extracted via parallel subagents reading each clipping carefully
-- QA spot-check accuracy: ~95-97% on sampled clippings
-- All records have extraction_confidence >= 0.75
+- Evening daily of Decatur, IL (1872-1979). Morning sister = Decatur Herald (and the combined Sunday "Herald and Review"); Lindsay-Schaub ownership kept separate editorial staffs until Lee Enterprises merged them as the Herald & Review in 1979.
+- V9 100% image-level verification (2026-06-23): all 25 clippings rendered at 300 DPI and read by image (the source of truth); OCR used only as pre-screen.
+- IL used CUMULATIVE VOTING (multi-member House districts, up to 3 reps) until 1980 - multiple House endorsees per district are legitimate, not errors.
+- The two "at-large false-endorsement" flags (1970/1974 statewide legislative slates) were verified as FALSE POSITIVES: genuine cumulative-voting-era endorsement editorials ("Our Choices in Legislative Races" 19701028; "Our list of incumbents..." 19741031), every name image-matched.

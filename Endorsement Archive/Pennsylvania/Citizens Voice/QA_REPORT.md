@@ -79,3 +79,19 @@ D-leaning Wilkes-Barre PA daily founded 1978 (during Wilkes-Barre Sunday Indepen
 - 2002, 2010, 2012 clippings have limited content (single-issue editorials)
 - newspaper_id 600005 collides with Austin Citizen TX — downstream merge needs handling
 - All 19 clippings OCR-verified in this re-QA round
+
+---
+
+## V9 Deep Verification — 2026-06-22
+148 candidate + 5 proposition records, 1984–2020. Wilkes-Barre PA (Luzerne Co.), Democratic-leaning, editorially independent.
+
+**Integrity (clean):** Pattern K = 0; 0 duplicates; 0 blank names; 0 blank directions; all parties valid. 105 e=1 / 43 e=0.
+
+**At-large bug check — CLEAN:** no partisan multi-member all-e=1 piles; narrative "Our Endorsements" recap format with opponents recorded as e=0.
+
+**Verified:** President/Governor all D across all years; cross-party endorsements confirmed (2004 Specter-R Senate over Hoeffel; 2004 Sherwood-R/Stairs-R/Lemmond-R; 2020 Meuser-R/DeFoor-R/Kaufer-R) — the paper explicitly endorses both parties. 2004 + 2020 down-ballot recaps fully matched the clippings. Props healthy (mixed direction; 2016 Judicial Retirement Age opposed).
+
+**Corrections:** none. **Standing item:** newspaper_id REASSIGNED 600005 -> WILKESBCV placeholder (600005 belongs to Austin Citizen TX, confirmed in newspapermembernumbers.xlsx + membertopermids.csv; Citizens Voice is not in the GS panel) — handle at merge/augmentation. See RA_NEEDS.md. Metadata regenerated.
+
+### UPDATE — 100% IMAGE-LEVEL PASS (2026-06-22, per Kevin's standing rule)
+Read every year's clipping image and reconciled every record (not a sample). All marquee + down-ballot + props confirmed against the images, including all cross-party R endorsements (Specter, Sherwood, Hasay-92, Lemmond, Baker, Boback, Tatu, Barletta, Kaufer, Meuser, DeFoor, Kaufer). 4 corrections the prior OCR-QA missed: 1998 Hasay e1→e0 (117th was a non-endorsement, "two fine choices"); 1998 gov name Lloyd Ivan Itkin→Itkin, Ivan; 2016 charter prop split (Yes board-member referendums + No contractor referendums); 1998 Kanjorski flagged (no folder clipping support). Final: 148 cand (104 e1/44 e0), 6 props, Pattern K=0. Re-synced.

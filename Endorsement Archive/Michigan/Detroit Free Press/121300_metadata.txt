@@ -7,7 +7,7 @@ Number of clippings: 38
 Endorsement data years: 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2012, 2014, 2016, 2018, 2020, 2022
 
 --- ENDORSEMENT COUNTS (V7 FINAL) ---
-Total candidate records: 2553 (V7 FINAL)
+Total candidate records: 2534 (V9, was 2553)
   Endorsed (=1): 2480
   Opposed (=0): 73 (V2-V3 Pattern A backfill)
   No position (null): 0
@@ -48,3 +48,30 @@ DFP underwent extensive V1-V7 QA processing 2026-06-12. See QA_REPORT.md for ful
 Compiled: 2026-04-29 09:50:48
 V7 Updated: 2026-06-12
 </content>
+
+
+--- V9 VERIFICATION (2026-06-23) ---
+Ran the endorsement-verification skill (image-level, 4 era agents + props agent). The prior "V7 FINAL" had EXTENSIVE errors. Fixed the structurally-certain ones (see QA_REPORT V9 section): removed 16 spurious 1988 State Senate records (1986 carryover - no MI senate election in a presidential year) + 3 spurious 1994 cross-party House records; recoded 1988 Pollack to US House d2; resolved 8 cross-party same-district flags (district recodes + 1 party fix MacLean D->R); recovered 6 blank proposition directions + removed 1 spurious 2016 prop. Cand 2553->2534, props 216->215, Pattern K=0.
+WARNING: ~120 further image-verified corrections remain DOCUMENTED in RA_NEEDS.md (office-coding scramble in 1980/1984/1990, dozens of district mislabels, spurious statewide records, missing US House slates in 1976/2000/2008, ~10 party flips). These need a focused correction pass against the recap images.
+
+--- V9b FOCUSED CORRECTION PASS (2026-06-23, same day) ---
+Applied the big-ticket RA_NEEDS items by personally re-rendering each driving recap at 350 DPI and reading the slate by image. 111 records corrected (46 newly added). Candidate count 2534 -> 2578; propositions 215 (unchanged). Pattern K=0, 0 exact dups, 0 blank names; NO presidential year carries any STATE SENATOR record.
+RESOLVED: full office-coding scramble (1980/1984 senate->house, 1990 house->senate + 7 senate adds, 1992/2004 stray senate); U.S. House slates completed for 1976 (all 19, fixed Esch->Pursell), 2000 (all 16 added), 2008 (+3, Schauer dist fix); 1986 statewide swap to the real endorsees (Archer/MacKenzie, McDonald/Neff, Brown/Waters, Dumouchelle/Miller); 2004 spurious Evans MAYOR dup removed.
+STILL REMAINING (smaller tail, see RA_NEEDS): scattered down-ballot judge/board office-codes; ~dozens of name-correct district mislabels; ~15 name/party spellings; a few image-confirm-then-remove items (1968/1982/1986/1988); county-commission & school-board omissions; 1988 US-House slate; Priority-1 STATE REP opponent backfill (external sources); Detroit News cross-paper (now feasible). Folder is much improved but still NOT 100% publication-ready.
+
+--- V9c FULL 100% IMAGE RECONCILIATION (2026-06-23, same day) ---
+Re-rendered EVERY remaining election year and reconciled the full recap slate against the CSV (4 transcription agents + lead re-verification of all high-stakes items). 198 candidate records corrected, 82 newly added. Candidates 2578 -> 2654; props 215 -> 216. Pattern K=0, 0 dups, 0 blank names, all parties valid, no presidential-year STATE SENATOR.
+Systematic fixes: all 18 county-executive records un-miscoded from MAYOR (new code CNTY EXEC); Wayne State Governors un-miscoded from MSU Trustee; appellate-vs-trial court miscodes; senate<->house miscodes; 1994 US House d1 corrected to Ziegler(R) (paper endorsed the Republican); 1982 Ruppe LT GOV->US SENATE; 82 missing endorsements added (1988 US Senate+9 House, 1978/1982/1988/1996/1998/2002/2012 legislative + prosecutors + 1968/1970 down-ballot); 1974 Wayne County Commission de-garbled (14); 1998 university/school boards de-contaminated (7); name fixes (Aiyash/Tilles/Werner/Heidemann/Seikaly/Crockett III); prop direction flips (1996 B/C/D/G, 1998 Living Wage); 6 spurious removed.
+Cross-paper vs Detroit News (121301): 367 partisan matches checked; mismatches are surname collisions or Detroit-News-side errors (e.g., 2002 Hopgood/Bieda/Brandenburg DN-coded Senate but really House) — validates the DFP coding.
+New office codes: CNTY EXEC(18), DRAIN COMMISSIONER(1), REGISTER OF DEEDS(1); CITY COUNCIL now 4.
+
+--- V9c GAP-YEAR PASS + EXTENDED SANITY BATTERY (2026-06-23) ---
+Post-apply integrity sweep caught single-member-district double-endorsements in the 5 years only partially covered before (1984/1986/1990/1992/2004). Re-rendered those recaps + dedicated agent (lead-verified): resolved ALL double-endorsements (district fixes), removed 3 not-in-image records, assigned ~17 blank-district 1990 House records, fixed blank-district US-House records, added ~13 missing endorsements, fixed 1988 Pollack stale dname, removed impossible 1994 STATE SENATOR d49 Olshove.
+Extended sanity battery ALL PASS: US-House dist in valid era range; State Senate <=38; State House <=110; 0 office/dname mismatches; 0 single-winner double-endorsements; 0 orphan e=0; Pattern K=0; 0 dups; 0 blank names. 1972 has NO president record = CORRECT (Free Press abstained, image-verified).
+M/L gap-year items (judge recodes, 2004 county-comm party flips, Marlinga/Viviano, 1986 AG Cleland, 1984 US-House completeness) flagged in RA_NEEDS, not auto-applied.
+
+--- CURRENT COUNTS (V9c FINAL) ---
+Total candidate records: 2662
+  Endorsed (=1): 2589
+  Opposed (=0): 73
+Total proposition records: 216

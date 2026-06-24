@@ -59,3 +59,26 @@ Notable D-friendly exceptions: Riegle D SEN 1982/88, Levin D SEN 2002/08, Staben
 Compiled: 2026-04-29
 V7 Updated: 2026-06-12 (1200 rounds + 7 formal QA per endorsement-qa skill)
 </content>
+
+--- DNv2 IMAGE-VERIFICATION PASS (IN PROGRESS, 2026-06-24) ---
+The prior "V7 structural PASS" was NOT image-verified; folder is heavily garbled. Full image pass underway. Candidates 2038->2032, props 249->250. Pattern K=0, 0 dups, 0 blank names.
+DONE: systematic MAYOR->CNTY EXEC (15); 1968-1976 adds/district/prop fixes; 1978/1982 confirmed correct; 1980/84/86 office+name+district fixes; 1998 legislative REBUILT (5 senate+23 house, was 15 bogus senate w/ districts to 54); 2000 8 prop flips + Richner recode; 2002 legislative REBUILT (12 senate+32 house, was 71 scrambled); 2004 4 county-office recodes; 1996 3 impossible-senate recodes; 2018 d22 fix.
+PROVENANCE: 1990/1998/2000/2002/2004/2006/2008 clippings are DN endorsements reproduced on Detroit Free Press pages (header reads "The Detroit News editorial board endorsements"); valid DN data.
+STILL TODO (see RA_NEEDS): 2006 (badly garbled, needs rebuild), 2008, 1988-1994 image pass, born-digital 2014-2022 content verify, 1976 State Rep slate (~35 missing), non-legislative M-confidence tails, DFP cross-paper recheck. NOT yet complete.
+
+--- DNv2 COMPLETE (all 26 years image/text-verified, 2026-06-24) ---
+Candidates 2038->2083, props 249->250. Integrity ALL-CLEAN: Pattern K=0, 0 dups, 0 blank names, 0 dname/office mismatch, valid parties/ranges; only legit 2006-d29 dual-term + 2016 Conyers special remain; 5 orphan e0 = documented intentional non-endorsements (1978 Diggs, 2004/2020 Pres+VP).
+REBUILT scrambled legislative blocks from image: 1998 (5 Sen+23 House), 2002 (12 Sen+32 House), 2006 (12 Sen+34 House + 41 de-collapsed County Commission). 2008 double-endorsements resolved. 1988-1994 fixed. 1976 State House slate (43 districts) added. Systematic MAYOR->CNTY EXEC (15). Born-digital 2014-2022 verified vs authoritative text.
+DFP cross-paper re-run: 25 mismatches all surname collisions; prior 2002 DN error cluster resolved. Cross-paper validates both papers.
+PROVENANCE: 1990/1998/2000/2002/2004/2006/2008 are DN endorsements reproduced on Free Press pages (header reads "The Detroit News editorial board endorsements"); valid DN data.
+RESIDUAL (RA): a few M-confidence flagged-not-applied removals (1988 SC, 1992 McKerrow, 1994 Ford/Mester/Patterson); 1976 party column inferred (no party in image); a few 2006 Oakland commission names unconfirmed; STATE REP opponent backfill (external).
+
+--- CURRENT COUNTS (DNv2 FINAL) ---
+Total candidate records: 2083
+  Endorsed (=1): 1984
+  Opposed (=0): 95
+Total proposition records: 250
+
+--- DNv2 FINAL VERIFICATION ADDENDUM (2026-06-24) ---
+Additional checks: (1) full proposition audit - filled the last 2 blank-direction props (1980 F & N -> YES); 0 blank remain. (2) Re-verified the M-confidence flagged removals against images: 1988 Supreme Court (Brickley/Levin) CONFIRMED PRESENT - kept (agent's no-SC-section claim was wrong); 1994 CNTY EXEC Patterson REMOVED as spurious (no 1994 Oakland exec election - term 1992->1996); 1992 McKerrow + 1994 Ford/Mester kept (unreliable negatives, low-stakes). Candidates 2083->2082. Integrity still ALL-CLEAN.
+Final cleanup sweep: 1998 SBOE Kukuk->Weiser (board now Wolfram+Weiser); 2000 SBOE Shields->Land + added Patrick (Shields is WSU board); 1996 Neilson CntyExec->Judge (no 1996 Wayne exec race); 1986 Carl senate dname +d9. 4 same-name-two-office collisions flagged for RA (1976 Edwards/Harrison, 1998 Morton, 2008 Crawford). Riegle R->D confirmed a real party switch. Candidates 2083, props 250, integrity ALL-CLEAN.

@@ -2,7 +2,7 @@ state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,can
 CO,Denver Post,105650,1968,CU REGENT,,,CO,"BERNICK, RICHARD J.",Nonpartisan,1,,,,POST ENDORSES [V6: Party not specified in OCR - marked Nonpartisan],0.95
 CO,Denver Post,105650,1968,DA/PROSECUTOR,1,,CO,"HERRMANN, AL",Republican,1,,,,1ST DISTRICT DA,1.0
 CO,Denver Post,105650,1968,DA/PROSECUTOR,18,,CO,"KAYLOR, RICHARD",Democrat,1,,,,18TH DISTRICT DA,1.0
-CO,Denver Post,105650,1968,DA/PROSECUTOR,2,DENVER COUNTY,CO,"MCKEVITT, MIKE",Republican,1,,,,DENVER DA,1.0
+CO,Denver Post,105650,1968,DA/PROSECUTOR,2,DENVER COUNTY,CO,"MCKEVITT, JAMES (MIKE)",Republican,1,,,,DENVER DA,1.0
 CO,Denver Post,105650,1968,DA/PROSECUTOR,20,,CO,"SCOTT, REX",Democrat,1,,,,20TH DISTRICT DA,1.0
 CO,Denver Post,105650,1968,H,4,CO-4,CO,"ASPINALL, WAYNE N.",Democrat,1,1,,,POST ENDORSES,1.0
 CO,Denver Post,105650,1968,H,2,CO-2,CO,"BROTZMAN, DONALD G.",Republican,1,,1,,POST ENDORSES,1.0
@@ -11,47 +11,47 @@ CO,Denver Post,105650,1968,H,1,CO-1,CO,"ROGERS, BYRON G.",Democrat,1,1,,,POST EN
 CO,Denver Post,105650,1968,PRESIDENT,,,CO,"HUMPHREY, HUBERT H.",Democrat,1,,,,POST ENDORSES,1.0
 CO,Denver Post,105650,1968,STATE BOARD OF ED,,,CO,"CARLSON, LEE S.",Nonpartisan,1,,,,POST ENDORSES STATE BOARD OF EDUCATION [V6: Party not specified in OCR - marked Nonpartisan],0.9
 CO,Denver Post,105650,1968,SENATOR,,,CO,"DOMINICK, PETER H.",Republican,1,,1,,POST ENDORSES,1.0
-CO,Denver Post,105650,1968,STATE REP,11,DENVER COUNTY,CO,"BAIN, JEAN",Republican,1,,,,DENVER 11TH,1.0
+CO,Denver Post,105650,1968,STATE REP,11,DENVER COUNTY,CO,"BAIN, JEAN K.",Republican,1,,,,DENVER 11TH,1.0
 CO,Denver Post,105650,1968,STATE REP,16,DENVER COUNTY,CO,"BASTIEN, THOMAS",Democrat,1,,,,DENVER 16TH,1.0
-CO,Denver Post,105650,1968,STATE REP,17,DENVER COUNTY,CO,"BURCH, PALMER",Republican,1,,,,DENVER 17TH,1.0
-CO,Denver Post,105650,1968,STATE REP,27,,CO,"BYERLY, JOHN",Republican,1,,,,JEFFERSON 27TH,1.0
-CO,Denver Post,105650,1968,STATE REP,1,DENVER COUNTY,CO,"CALABRESE, JOSEPH",Democrat,1,,,,DENVER 1ST,1.0
+CO,Denver Post,105650,1968,STATE REP,17,DENVER COUNTY,CO,"BURCH, PALMER L.",Republican,1,,,,DENVER 17TH,1.0
+CO,Denver Post,105650,1968,STATE REP,27,,CO,"BYERLY, JOHN M.",Republican,1,,,,JEFFERSON 27TH,1.0
+CO,Denver Post,105650,1968,STATE REP,1,DENVER COUNTY,CO,"CALABRESE, JOSEPH V.",Democrat,1,,,,DENVER 1ST,1.0
 CO,Denver Post,105650,1968,STATE REP,32,,CO,"CAMPBELL, JOHN G.",Democrat,1,,,,ADAMS 32ND,1.0
 CO,Denver Post,105650,1968,STATE REP,13,DENVER COUNTY,CO,"COFFEE, MEL",Democrat,1,,,,DENVER 13TH,1.0
-CO,Denver Post,105650,1968,STATE REP,39,,CO,"COLE, RALPH",Republican,1,,,,ARAPAHOE 39TH,1.0
-CO,Denver Post,105650,1968,STATE REP,30,,CO,"COOPER, ELDON",Democrat,1,,,,ADAMS 30TH,1.0
+CO,Denver Post,105650,1968,STATE REP,39,,CO,"COLE, RALPH A.",Republican,1,,,,ARAPAHOE 39TH,1.0
+CO,Denver Post,105650,1968,STATE REP,30,,CO,"COOPER, ELDON W.",Democrat,1,,,,ADAMS 30TH,1.0
 CO,Denver Post,105650,1968,STATE REP,4,DENVER COUNTY,CO,"DE MOULIN, CHARLES",Democrat,1,,,,DENVER 4TH,1.0
 CO,Denver Post,105650,1968,STATE REP,14,DENVER COUNTY,CO,"FRIEDMAN, DON",Republican,1,,,,DENVER 14TH,1.0
-CO,Denver Post,105650,1968,STATE REP,40,,CO,"FUHR, JOHN",Republican,1,,,,ARAPAHOE 40TH,1.0
-CO,Denver Post,105650,1968,STATE REP,41,,CO,"GEBHARDT, RICHARD",Democrat,1,,,,BOULDER 41ST,1.0
+CO,Denver Post,105650,1968,STATE REP,40,,CO,"FUHR, JOHN D.",Republican,1,,,,ARAPAHOE 40TH,1.0
+CO,Denver Post,105650,1968,STATE REP,41,,CO,"GEBHARDT, RICHARD G.",Democrat,1,,,,BOULDER 41ST,1.0
 CO,Denver Post,105650,1968,STATE REP,43,,CO,"GRANT, CHARLES",Democrat,1,,,,BOULDER 43RD,1.0
 CO,Denver Post,105650,1968,STATE REP,28,,CO,"GRIMSHAW, THOMAS",Republican,1,,,,JEFFERSON 28TH,1.0
-CO,Denver Post,105650,1968,STATE REP,12,DENVER COUNTY,CO,"GUSTAFSON, CARL",Republican,1,,,,DENVER 12TH,1.0
+CO,Denver Post,105650,1968,STATE REP,12,DENVER COUNTY,CO,"GUSTAFSON, CARL H.",Republican,1,,,,DENVER 12TH,1.0
 CO,Denver Post,105650,1968,STATE REP,6,DENVER COUNTY,CO,"HAACK, ROBERT",Republican,1,,,,DENVER 6TH,1.0
-CO,Denver Post,105650,1968,STATE REP,9,DENVER COUNTY,CO,"HAMILTON, PAUL",Democrat,1,,,,DENVER 9TH,1.0
+CO,Denver Post,105650,1968,STATE REP,9,DENVER COUNTY,CO,"HAMILTON, PAUL L.",Democrat,1,,,,DENVER 9TH,1.0
 CO,Denver Post,105650,1968,STATE REP,25,,CO,"HANSON, DALE",Democrat,1,,,,JEFFERSON 25TH,1.0
 CO,Denver Post,105650,1968,STATE REP,38,,CO,"HORES, DOROTHY",Democrat,1,,,,ARAPAHOE 38TH,1.0
-CO,Denver Post,105650,1968,STATE REP,10,DENVER COUNTY,CO,"HORST, DON",Democrat,1,,,,DENVER 10TH,1.0
+CO,Denver Post,105650,1968,STATE REP,10,DENVER COUNTY,CO,"HORST, DONALD J.",Democrat,1,,,,DENVER 10TH,1.0
 CO,Denver Post,105650,1968,STATE REP,2,DENVER COUNTY,CO,"KLEIN, BEN",Democrat,1,,,,DENVER 2ND,1.0
-CO,Denver Post,105650,1968,STATE REP,3,DENVER COUNTY,CO,"KNOX, WAYNE",Democrat,1,,,,DENVER 3RD,1.0
-CO,Denver Post,105650,1968,STATE REP,8,DENVER COUNTY,CO,"LAMM, RICHARD",Democrat,1,,,,DENVER 8TH,1.0
+CO,Denver Post,105650,1968,STATE REP,3,DENVER COUNTY,CO,"KNOX, WAYNE N.",Democrat,1,,,,DENVER 3RD,1.0
+CO,Denver Post,105650,1968,STATE REP,8,DENVER COUNTY,CO,"LAMM, RICHARD D.",Democrat,1,,,,DENVER 8TH,1.0
 CO,Denver Post,105650,1968,STATE REP,29,,CO,"LEMKUIL, LINDA LEE",Republican,1,,,,ADAMS 29TH,1.0
 CO,Denver Post,105650,1968,STATE REP,16,DENVER COUNTY,CO,"LEWIS, BILLY",Independent,1,,,,DENVER 16TH,1.0
-CO,Denver Post,105650,1968,STATE REP,18,DENVER COUNTY,CO,"LOWERY, PHILLIP",Democrat,1,,,,DENVER 18TH,1.0
+CO,Denver Post,105650,1968,STATE REP,18,DENVER COUNTY,CO,"LOWERY, PHILIP E.",Democrat,1,,,,DENVER 18TH,1.0
 CO,Denver Post,105650,1968,STATE REP,7,DENVER COUNTY,CO,"MAESTAS, JAMES",Republican,1,,,,DENVER 7TH,1.0
 CO,Denver Post,105650,1968,STATE REP,31,,CO,"MULLEN, ANTHONY",Democrat,1,,,,ADAMS 31ST,1.0
-CO,Denver Post,105650,1968,STATE REP,42,,CO,"ROBERTS, JANET",Democrat,1,,,,BOULDER 42ND,1.0
+CO,Denver Post,105650,1968,STATE REP,42,,CO,"ROBERTS, JANET S.",Democrat,1,,,,BOULDER 42ND,1.0
 CO,Denver Post,105650,1968,STATE REP,15,DENVER COUNTY,CO,"ROSE, JEROME",Democrat,1,,,,DENVER 15TH,1.0
-CO,Denver Post,105650,1968,STATE REP,5,DENVER COUNTY,CO,"SAFRAN, HUBERT",Democrat,1,,,,DENVER 5TH,1.0
+CO,Denver Post,105650,1968,STATE REP,5,DENVER COUNTY,CO,"SAFRAN, HUBERT M. ""HUB""",Democrat,1,,,,DENVER 5TH,1.0
 CO,Denver Post,105650,1968,STATE REP,24,,CO,"SINGER, KEITH",Republican,1,,,,JEFFERSON 24TH,1.0
 CO,Denver Post,105650,1968,STATE REP,26,,CO,"STEAD, ELINOR",Democrat,1,,,,JEFFERSON 26TH,1.0
 CO,Denver Post,105650,1968,STATE REP,37,,CO,"STRAUSS, HENRY",Democrat,1,,,,ARAPAHOE 37TH,1.0
 CO,Denver Post,105650,1968,STATE SENATOR,22,,CO,"ARMSTRONG, WILLIAM",Republican,1,,,,ARAPAHOE 22ND,1.0
-CO,Denver Post,105650,1968,STATE SENATOR,7,DENVER COUNTY,CO,"BERMINGHAM, JOHN",Republican,1,,,,DENVER 7TH,1.0
+CO,Denver Post,105650,1968,STATE SENATOR,7,DENVER COUNTY,CO,"BERMINGHAM, JOHN R.",Republican,1,,,,DENVER 7TH,1.0
 CO,Denver Post,105650,1968,STATE SENATOR,6,DENVER COUNTY,CO,"BROWN, GEORGE",Democrat,1,,,,DENVER 6TH,1.0
 CO,Denver Post,105650,1968,STATE SENATOR,4,DENVER COUNTY,CO,"CISNEROS, ROGER",Democrat,1,,,,DENVER 4TH,1.0
 CO,Denver Post,105650,1968,STATE SENATOR,5,DENVER COUNTY,CO,"DECKER, CLARENCE",Democrat,1,,,,DENVER 5TH,1.0
-CO,Denver Post,105650,1968,STATE SENATOR,21,,CO,"FOWLER, HUGH",Republican,1,,,,ARAPAHOE 21ST,1.0
+CO,Denver Post,105650,1968,STATE SENATOR,21,,CO,"FOWLER, HUGH C.",Republican,1,,,,ARAPAHOE 21ST,1.0
 CO,Denver Post,105650,1968,STATE SENATOR,23,,CO,"FOWLER, LES",Republican,1,,,,BOULDER 23RD,1.0
 CO,Denver Post,105650,1968,STATE SENATOR,9,DENVER COUNTY,CO,"GROVE, DANIEL",Democrat,1,,,,DENVER 9TH,1.0
 CO,Denver Post,105650,1968,STATE SENATOR,7,DENVER COUNTY,CO,"HUFFMAN, YALE",Democrat,1,,,,DENVER 7TH,1.0
@@ -89,7 +89,7 @@ CO,Denver Post,105650,2000,STATE REP,5,DENVER COUNTY,CO,"CHAVEZ, NOLBERT",Democr
 CO,Denver Post,105650,2000,STATE REP,52,,CO,"CLARKE, JOHN",Republican,1,,,,COMMISSIONER EXPERIENCE,1.0
 CO,Denver Post,105650,2000,STATE REP,1,DENVER COUNTY,CO,"COLEMAN, FRAN",Democrat,1,1,,,"INCUMBENT, GOOD ON EDUCATION",1.0
 CO,Denver Post,105650,2000,STATE REP,23,,CO,"DANIEL, KELLEY",Democrat,1,,,,OUR CHOICE,1.0
-CO,Denver Post,105650,2000,STATE REP,18,,CO,"DEAN, DOUG",Republican,1,,,,"INCUMBENT, LIKELY SPEAKER",1.0
+CO,Denver Post,105650,2000,STATE REP,18,,CO,"DEAN, DOUG",Republican,1,,,,LIKELY SPEAKER (text does not label him incumbent),1.0
 CO,Denver Post,105650,2000,STATE REP,19,,CO,"DECKER, RICHARD",Republican,1,,1,,"INCUMBENT, LOCAL GOVERNMENT EXPERIENCE",1.0
 CO,Denver Post,105650,2000,STATE REP,30,,CO,"FAIRBANK, ROB",Republican,1,,1,,INCUMBENT,1.0
 CO,Denver Post,105650,2000,STATE REP,51,,CO,"FRITZ, TIMOTHY",Republican,1,,,,OUR CHOICE,1.0
@@ -167,8 +167,8 @@ CO,Denver Post,105650,2008,TRANSIT BOARD,I,,CO,"KEMP, LEE",Nonpartisan,1,,,,RTD 
 CO,Denver Post,105650,2008,TRANSIT BOARD,E,,CO,"MCMULLEN, BILL",Nonpartisan,1,,,,RTD UNOPPOSED,1.0
 CO,Denver Post,105650,2008,TRANSIT BOARD,G,,CO,"O'BOYLE, JACK",Nonpartisan,1,,,,RTD DISTRICT G,1.0
 CO,Denver Post,105650,2008,TRANSIT BOARD,F,,CO,"TOBIASSEN, TOM",Nonpartisan,1,,,,RTD DISTRICT F,1.0
-CO,Denver Post,105650,2008,PRESIDENT,,,CO,"MCCAIN, JOHN",Republican,0,,,,"NOT ENDORSED IN GOP PRIMARY, ROMNEY PREFERRED",0.85
-CO,Denver Post,105650,2008,PRESIDENT,,,CO,"ROMNEY, MITT",Republican,1,,,,"GOP PRIMARY ENDORSEMENT, BETTER EXECUTIVE",0.95
+CO,Denver Post,105650,2008,PRESIDENT,,,CO,"MCCAIN, JOHN",Republican,0,,,,2008 general-election R nominee; Post endorsed Obama-D over McCain,0.85
+CO,Denver Post,105650,2008,PRESIDENT,,,CO,"ROMNEY, MITT",Republican,1,,,,"CO GOP PRIMARY endorsement (Feb 3 2008), NOT the general-election pick; the 2008 general endorsement was Obama-D. RA: primary vs general scope.",0.95
 CO,Denver Post,105650,2014,H,5,CO-5,CO,"HALTER, IRV",Democrat,1,,,,"CENTRIST VOICE, RETIRED AIR FORCE MAJ GEN",1.0
 CO,Denver Post,105650,2014,H,5,CO-5,CO,"LAMBORN, DOUG",Republican,0,,1,,"OUST LAMBORN, EMBARRASSING MISSTEPS",1.0
 CO,Denver Post,105650,2014,GOVERNOR,,,CO,"BEAUPREZ, BOB",Republican,0,,,,NO COMPELLING REASON FOR CHANGE,1.0
@@ -264,7 +264,7 @@ CO,Denver Post,105650,2018,H,5,CO-5,CO,"SPAULDING, STEPHANY ROSE",Democrat,0,,,,
 CO,Denver Post,105650,2018,H,3,CO-3,CO,"TIPTON, SCOTT",Republican,0,,1,,CANNOT ENDORSE; HAS SAT IDLY BY WHILE TRUMP LIED AND STOKED HATRED; DISPARAGED MUELLER INVESTIGATION.,
 CO,Denver Post,105650,2019,MAYOR,,DENVER,CO,"HANCOCK, MICHAEL",Nonpartisan,1,1,,1,DESERVES VOTE FOR THIRD AND FINAL TERM AS DENVER MAYOR; CITY'S TRANSFORMATIONAL PROJECTS PRODUCT OF LEADERSHIP AND VISION; ONLY CANDIDATE READY TO MEET CHALLENGES IF NATION FACES ECONOMIC DOWNTURN. [V3: Denver Mayor is nonpartisan office - corrected from D],
 CO,Denver Post,105650,2020,CU REGENT,6,CO-CU-6,CO,"SPIEGEL, ILANA",Democrat,1,,,,ILANA SPIEGEL FOR UNIVERSITY OF COLORADO REGENT IN CONGRESSIONAL DISTRICT 6.,
-CO,Denver Post,105650,2020,DA/PROSECUTOR,1,CO-JD-1,CO,"DURKIN, MATTHEW",Democrat,1,,,,MATTHEW DURKIN HAS THE EXPERIENCE TO LEAD AND PLANS TO DECREASE INCARCERATION.,
+CO,Denver Post,105650,2020,DA/PROSECUTOR,1,CO-JD-1,CO,"DURKIN, MATTHEW",Republican,1,,,,MATTHEW DURKIN HAS THE EXPERIENCE TO LEAD AND PLANS TO DECREASE INCARCERATION.,
 CO,Denver Post,105650,2020,DA/PROSECUTOR,18,CO-JD-18,CO,"KELLNER, JOHN",Republican,1,,,,JOHN KELLNER IS A SKILLED PROSECUTOR READY TO LEAD.,
 CO,Denver Post,105650,2020,DA/PROSECUTOR,17,CO-JD-17,CO,"MASON, BRIAN",Democrat,1,,,,BRIAN MASON CAN REBUILD TRUST AFTER THE ELIJAH MCCLAIN CASE.,
 CO,Denver Post,105650,2020,DA/PROSECUTOR,2,CO-JD-2,CO,"MCCANN, BETH",Democrat,1,1,,,LET DENVER DA BETH MCCANN FIGHT RACIAL BIAS IN PROSECUTION FOR ANOTHER FOUR YEARS.,
@@ -319,10 +319,6 @@ CO,Denver Post,105650,2008,VICE PRESIDENT,,,CO,"BIDEN, JOSEPH R.",Democrat,1,,,,
 CO,Denver Post,105650,2008,VICE PRESIDENT,,,CO,"PALIN, SARAH",Republican,0,,,,2008 VP R opp; not endorsed,1.0
 CO,Denver Post,105650,2016,VICE PRESIDENT,,,CO,"KAINE, TIMOTHY",Democrat,1,,,,2016 VP D endorsed (DP endorsed Clinton/Kaine),1.0
 CO,Denver Post,105650,2016,VICE PRESIDENT,,,CO,"PENCE, MIKE",Republican,0,,,,2016 VP R opp; not endorsed,1.0
-CO,Denver Post,105650,2020,PRESIDENT,,,CO,"BIDEN, JOSEPH R.",Democrat,1,,,,2020 PRES D endorsed (DP endorsed Biden),
-CO,Denver Post,105650,2020,PRESIDENT,,,CO,"TRUMP, DONALD",Republican,0,,1,,2020 PRES R opp (incumbent); not endorsed,
-CO,Denver Post,105650,2020,VICE PRESIDENT,,,CO,"HARRIS, KAMALA",Democrat,1,,,,2020 VP D endorsed,
-CO,Denver Post,105650,2020,VICE PRESIDENT,,,CO,"PENCE, MIKE",Republican,0,,1,,2020 VP R opp (incumbent); not endorsed,
 CO,Denver Post,105650,2016,SENATOR,,,CO,"GLENN, DARRYL",Republican,0,,,,2016 SEN R opp; not endorsed (DP endorsed Bennet D inc),1.0
 CO,Denver Post,105650,2016,H,5,CO-5,CO,"PLOWRIGHT, MISTY",Democrat,0,,,,2016 H 5 D opp; not endorsed (DP endorsed Lamborn R inc),1.0
 CO,Denver Post,105650,2016,H,7,CO-7,CO,"ATHANASOPOULOS, GEORGE",Republican,0,,,,2016 H 7 R opp; not endorsed (DP endorsed Perlmutter D inc),1.0
@@ -331,19 +327,282 @@ CO,Denver Post,105650,2016,PRESIDENT,,,CO,"STEIN, JILL",Green,0,,,,2016 PRES Gre
 CO,Denver Post,105650,2018,H,1,CO-1,CO,"KAFER, CASPER",Republican,0,,,,2018 H 1 R opp; not endorsed (DP endorsed DeGette D inc),
 CO,Denver Post,105650,2018,H,2,CO-2,CO,"COOK, PETER",Republican,0,,,,2018 H 2 R opp; not endorsed (DP endorsed Neguse D),
 CO,Denver Post,105650,2018,H,7,CO-7,CO,"BURGESS, MARK",Republican,0,,,,2018 H 7 R opp; not endorsed (DP endorsed Perlmutter D inc),
-CO,Denver Post,105650,2020,H,5,CO-5,CO,"LAMBORN, DOUG",Republican,0,,1,,2020 H 5 R inc opp; not endorsed,
-CO,Denver Post,105650,2020,H,5,CO-5,CO,"BENZINE, JILLIAN",Democrat,1,,,,2020 H 5 D endorsed,
 CO,Denver Post,105650,2020,H,7,CO-7,CO,"WERNSMAN, CASPER",Republican,0,,,,2020 H 7 R opp; not endorsed (DP endorsed Perlmutter D inc),
 CO,Denver Post,105650,2020,H,2,CO-2,CO,"BROWN, CHARLES",Republican,0,,,,2020 H 2 R opp; not endorsed (DP endorsed Neguse D inc),
 CO,Denver Post,105650,2020,H,1,CO-1,CO,"WALSH, SHANE",Republican,0,,,,2020 H 1 R opp; not endorsed (DP endorsed DeGette D inc),
-CO,Denver Post,105650,2022,H,1,CO-1,CO,"DEGETTE, DIANA",Democrat,1,1,,,"2022 H 1 D inc endorsed (long-time incumbent, DP consistently endorsed)",
-CO,Denver Post,105650,2022,H,2,CO-2,CO,"NEGUSE, JOE",Democrat,1,1,,,2022 H 2 D inc endorsed,
 CO,Denver Post,105650,2000,STATE REP,2,,CO,"THOMAS, LEONARD",Republican,0,,,,2000 STATE REP HD 2 R opp; not endorsed (DP endorsed Sanchez D for Leyba seat),1.0
 CO,Denver Post,105650,2000,STATE REP,6,,CO,"MCLEAN, ROBIN",Republican,0,,,,2000 STATE REP HD 6 R opp (moderate Republican); not endorsed (DP endorsed Grossman D inc),1.0
 CO,Denver Post,105650,2000,STATE REP,15,,CO,"BELL, STEVEN",Democrat,0,,,,2000 STATE REP HD 15 D opp; not endorsed (DP endorsed Cadman R),1.0
 CO,Denver Post,105650,2000,STATE REP,16,,CO,"YOUNG, BILL",Democrat,0,,,,2000 STATE REP HD 16 D opp; not endorsed (DP endorsed Sinclair R inc),1.0
 CO,Denver Post,105650,2000,STATE REP,17,,CO,"CLOER, MARK",Republican,0,,,,2000 STATE REP HD 17 R opp; not endorsed (DP endorsed Raye D),1.0
-CO,Denver Post,105650,2000,STATE REP,23,,CO,"JAHN, CHERI",Democrat,0,,,,2000 STATE REP HD 23 D opp (businesswoman); not endorsed (DP endorsed Daniel R),1.0
+CO,Denver Post,105650,2000,STATE REP,24,,CO,"JAHN, CHERI",Democrat,0,,,,"2000 STATE REP HD 24 D opponent of Wilhelm-R (endorsed); text: ""He faces an able rival in Democrat Cheri Jahn""",1.0
 CO,Denver Post,105650,2000,STATE REP,27,,CO,"CRANE, BILL",Republican,0,,,,2000 STATE REP HD 27 R opp; not endorsed (DP endorsed Palmer D for vacated Windels seat),1.0
 CO,Denver Post,105650,2000,STATE REP,31,,CO,"RHODES, PAM",Republican,0,,,,2000 STATE REP HD 31 R opp (ultra-conservative); not endorsed (DP endorsed Zimmerman D inc),1.0
-CO,Denver Post,105650,2000,STATE REP,32,,CO,"VIGIL, VALENTIN",Democrat,1,,,,2000 STATE REP HD 32 D endorsed - missing record,1.0
+CO,Denver Post,105650,2000,STATE REP,32,,CO,"VIGIL, VALENTIN",Democrat,1,1,,,2000 STATE REP HD 32 D endorsed - missing record,1.0
+CO,Denver Post,105650,1964,PRESIDENT,,,CO,"JOHNSON, LYNDON B.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,VICE PRESIDENT,,,CO,"HUMPHREY, HUBERT H.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,H,1,CO-1,CO,"ROGERS, BYRON G.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,H,2,CO-2,CO,"BROTZMAN, DONALD G.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,H,3,CO-3,CO,"CHENOWETH, J. EDGAR",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,H,4,CO-4,CO,"ASPINALL, WAYNE N.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE BOARD OF ED,2,,CO,"WILSON, ROBERT G.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE BOARD OF ED,4,,CO,"STEVENS, WILLIAM F.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,CU REGENT,,,CO,"BETZ SR., FRED M.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,CU REGENT,,,CO,"KEMP, FRANK A.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,5,,CO,"PERRILL, JAMES C.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,6,,CO,"CISNEROS, ROGER",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,7,,CO,"BERMINGHAM, JOHN R.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,8,,CO,"DECKER, CLARENCE",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,13,,CO,"SCHIEFFELIN, JOSEPH B.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,14,,CO,"STOCKTON, RUTH",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,18,,CO,"KING, PAUL",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,19,,CO,"WILLIAMS, ALLEN",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,20,,CO,"WALLACE, HARVEY",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,21,,CO,"MCKINNON, DOUGLAS",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE SENATOR,22,,CO,"NORGREN, LEIGH H.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,1,,CO,"CALABRESE, JOSEPH V.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,2,,CO,"KLEIN, BEN",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,3,,CO,"KNOX, WAYNE N.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,4,,CO,"JACKSON, FRED",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,5,,CO,"SAFRAN, HUBERT M. ""HUB""",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,6,,CO,"WOODWARD, LESTER",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,8,,CO,"ASPGREN, CLIFFORD",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,10,,CO,"GRANDY, VICTOR",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,11,,CO,"BAIN, JEAN K.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,12,,CO,"KEMP JR., FRANK A.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,13,,CO,"HOGAN, MARK",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,14,,CO,"FRIEDMAN, DON",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,15,,CO,"ANTHONY, WILLIE",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,16,,CO,"MORAN JR., JOHN R.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,17,,CO,"BURCH, PALMER L.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,18,,CO,"DINES, ALLEN",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,24,,CO,"CALDER, HOWARD",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,25,,CO,"WILLSON, ISAAC",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,26,,CO,"LEONARD, FLORENCE",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,27,,CO,"MILLER, BETTY",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,28,,CO,"CARROLL, JOHN S.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,29,,CO,"ATENCIO, GEORGE L.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,31,,CO,"SMITH, F. NEIL",Independent,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,36,,CO,"LEADER JR., GLENN",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,37,,CO,"JORDAN, TOM",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,38,,CO,"HASKELL, FLOYD K.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,STATE REP,39,,CO,"COLE, RALPH A.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,DA/PROSECUTOR,1,,CO,"JUHAN, EDWARD N.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,DA/PROSECUTOR,2,,CO,"KEATING, BERT M.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,DA/PROSECUTOR,17,,CO,"GIFFORD, LESLIE A.",Republican,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1964,DA/PROSECUTOR,18,,CO,"MILLER, MARTIN P.",Democrat,1,,,,"POST ENDORSES (1964 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,GOVERNOR,,,CO,"LOVE, JOHN A.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,LT GOVERNOR,,,CO,"HOGAN, MARK",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,SENATOR,,,CO,"ALLOTT, GORDON",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,H,1,CO-1,CO,"ROGERS, BYRON G.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,H,2,CO-2,CO,"MCVICKER, ROY H.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,H,3,CO-3,CO,"EVANS, FRANK E.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,H,4,CO-4,CO,"ASPINALL, WAYNE N.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,CU REGENT,,,CO,"BERNICK, RICHARD J.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,CU REGENT,,,CO,"CONDON, EDWARD U.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,CU REGENT,,,CO,"CARLSON, HARRY",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,ATTORNEY GENERAL,,,CO,"DUNBAR, DUKE W.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,TREASURER,,,CO,"BLUE, VIRGINIA",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,SEC OF STATE,,,CO,"DECKER, CLARENCE",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE BOARD OF ED,,,CO,"FRIEDER, BERNICE",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE BOARD OF ED,,,CO,"ADAMS, ALVA B.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE SENATOR,,,CO,"KEMP JR., FRANK A.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE SENATOR,,,CO,"MINEAR, CRAIG P.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE SENATOR,,,CO,"NICHOLSON, WILL F.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE SENATOR,,,CO,"DINES, ALLEN",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE SENATOR,3,,CO,"HANSEN, MARK",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"BAIN, JEAN K.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"BURCH, PALMER L.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"CRESSWELL, MILDRED",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"FRIEDMAN, DON",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"GUSTAFSON, CARL H.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"BASTIEN, THOMAS",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"CALABRESE, JOSEPH V.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"COFFEE, MEL",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"DEMOULIN, CHARLES J.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"FRANK, BARBARA",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"GROVE, DANIEL",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"HORST, DONALD J.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"KLEIN, BEN",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"KNOX, WAYNE N.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"KOPEL, GERALD",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"LAMM, RICHARD D.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"LOWERY, PHILIP E.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,,,CO,"SAFRAN, HUBERT M. ""HUB""",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,7,,CO,"MACKIE, JOHN G.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,7,,CO,"GEBHARDT, RICHARD G.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,7,,CO,"ROBERTS, JANET S.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,6,,CO,"HASKELL, FLOYD K.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,6,,CO,"NORGREN, LEIGH H.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,3,,CO,"MILLER, BETTY",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,3,,CO,"SKELTON, DARRELL J.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,4,,CO,"CARROLL, JOHN S.",Democrat,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1966,STATE REP,4,,CO,"ATENCIO, GEORGE L.",Republican,1,,,,"POST ENDORSES (1966 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,GOVERNOR,,,CO,"LOVE, JOHN A.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,LT GOVERNOR,,,CO,"VANDERHOOF, JOHN D.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,H,1,CO-1,CO,"MCKEVITT, JAMES (MIKE)",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,H,2,CO-2,CO,"BROTZMAN, DONALD G.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,H,3,CO-3,CO,"EVANS, FRANK E.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,H,4,CO-4,CO,"ASPINALL, WAYNE N.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,ATTORNEY GENERAL,,,CO,"DUNBAR, DUKE W.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,SEC OF STATE,,,CO,"ROSALES, JOHN A.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,TREASURER,,,CO,"BURCH, PALMER L.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,CU REGENT,,,CO,"BETZ, FRED",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,CU REGENT,,,CO,"JOHNSON, BYRON",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE BOARD OF ED,2,,CO,"STEIGHORST, LEWIS E.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE BOARD OF ED,4,,CO,"CHASTAIN, HUGH E.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE SENATOR,1,,CO,"KLEIN, BEN",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE SENATOR,2,,CO,"CALABRESE, JOSEPH V.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE SENATOR,3,,CO,"DINES, ALLEN",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE SENATOR,8,,CO,"PLOCK, RICHARD H.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE SENATOR,15,,CO,"SCHIEFFELIN, JOSEPH B.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,1,,CO,"GALLAGHER, DENNIS",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,2,,CO,"VALDEZ, RUBEN A.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,3,,CO,"KNOX, WAYNE N.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,4,,CO,"DEMOULIN, CHARLES J.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,5,,CO,"SAFRAN, HUBERT M. ""HUB""",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,6,,CO,"ESPINOZA, ELOY",La Raza Unida,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,7,,CO,"BENAVIDEZ, BETTY",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,8,,CO,"LAMM, RICHARD D.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,9,,CO,"HAMILTON, PAUL L.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,10,,CO,"HORST, DONALD J.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,11,,CO,"BAIN, JEAN K.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,12,,CO,"GUSTAFSON, CARL H.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,13,,CO,"BRYANT, TED",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,14,,CO,"FRIEDMAN, DON",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,15,,CO,"ROSE, JEROME",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,16,,CO,"KOPEL, GERALD",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,17,,CO,"SCHROEDER, JAMES W.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,18,,CO,"PRED, RONALD",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,24,,CO,"JOHNSON, ROBERT E.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,25,,CO,"FENTRESS, GEORGE H.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,26,,CO,"MCNAMARA, GERALD E.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,27,,CO,"BYERLY, JOHN M.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,28,,CO,"MILLER, LAURA A.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,29,,CO,"CARROLL, JOHN S.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,30,,CO,"COOPER, ELDON W.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,31,,CO,"MUNGER, MARY ALICE",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,32,,CO,"NEWMAN, EDWARD I.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,37,,CO,"DITTEMORE, BETTY ANN",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,38,,CO,"MOORE, AUSTIN F.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,39,,CO,"COLE, RALPH A.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,40,,CO,"FUHR, JOHN D.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,41,,CO,"ARNOLD, S. G. ""SANDY""",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,42,,CO,"SCHMIDT, ERIC W.",Republican,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1970,STATE REP,43,,CO,"GRANT, WALLACE H.",Democrat,1,,,,"POST ENDORSES (1970 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,PRESIDENT,,,CO,"NIXON, RICHARD M.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,SENATOR,,,CO,"ALLOTT, GORDON",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,H,1,CO-1,CO,"MCKEVITT, JAMES (MIKE)",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,H,2,CO-2,CO,"BROTZMAN, DONALD G.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,H,3,CO-3,CO,"EVANS, FRANK E.",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,H,4,CO-4,CO,"MERSON, ALAN",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,H,5,CO-5,CO,"ARMSTRONG, WILLIAM",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,CU REGENT,,,CO,"HORST, DONALD J.",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,CU REGENT,,,CO,"SCHMIDT, ERIC W.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE BOARD OF ED,1,,CO,"JOHNSTON, ROBIN",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE BOARD OF ED,3,,CO,"SLOBODNIK, RACHEL",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE BOARD OF ED,5,,CO,"BAKER, MAURICE",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,3,,CO,"BROWN, GEORGE",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,4,,CO,"CISNEROS, ROGER",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,5,,CO,"BERMINGHAM, JOHN R.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,7,,CO,"SHOEMAKER, JOE",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,14,,CO,"STOCKTON, RUTH",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,15,,CO,"DOLAN, MYLES",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,17,,CO,"STRICKLAND, TED",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,19,,CO,"MACMANUS, DON",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,20,,CO,"FOWLER, HUGH C.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,21,,CO,"ALLSHOUSE, J. ROBERT",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE SENATOR,22,,CO,"COLE, RALPH A.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,1,,CO,"SAFRAN, HUBERT M. ""HUB""",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified) [name corrected: Hubert ""Hub"" Safran, per cross-year consistency; ""Robert"" was a transcription error]",0.9
+CO,Denver Post,105650,1972,STATE REP,2,,CO,"ALBRECHT JR., ALMOND",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,3,,CO,"DEMOULIN, CHARLES J.",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,4,,CO,"GALLAGHER, DENNIS",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,5,,CO,"VALDEZ, RUBEN A.",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,6,,CO,"BARRON, MARY A.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,7,,CO,"TAYLOR, ARIE",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,8,,CO,"WEBB, WELLINGTON",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,9,,CO,"GONZALES, JOE",La Raza Unida,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,9,,CO,"BENDELOW, EDWARD M. (TED)",,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,10,,CO,"GUSTAFSON, CARL H.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,11,,CO,"TEMPEST, CAROL",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,12,,CO,"MANUEL, JIM",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,13,,CO,"KOPEL, GERALD",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,14,,CO,"KAPELOVITZ, LEN",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,23,,CO,"CONTRERAS, CAROL",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,24,,CO,"CHRISTIANSEN, GEORGE",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,25,,CO,"HOBBS, LARRY F.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,26,,CO,"SACK, FLOYD",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,27,,CO,"MCENCROE, PAUL",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,28,,CO,"MILLER, LAURA A.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,29,,CO,"KLENE, DON",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,31,,CO,"SMITH, MORGAN",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,32,,CO,"HAYES, E. E. (CASEY)",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,33,,CO,"MULLEN, ANTHONY",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,34,,CO,"COOPER, ELDON W.",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,35,,CO,"CARROLL, JOHN S.",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,36,,CO,"FRANK, GERARD",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,37,,CO,"DITTEMORE, BETTY ANN",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,38,,CO,"MOORE, AUSTIN F.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,39,,CO,"ECKELBERRY, ROBERT L.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,STATE REP,40,,CO,"FUHR, JOHN D.",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,DA/PROSECUTOR,2,,CO,"TOOLEY, DALE",Democrat,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1972,DA/PROSECUTOR,1,,CO,"HERRMANN, AL",Republican,1,,,,"POST ENDORSES (1972 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,SENATOR,,,CO,"HART, GARY W.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,H,1,CO-1,CO,"SCHROEDER, PAT",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,H,2,CO-2,CO,"BROTZMAN, DONALD G.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,H,3,CO-3,CO,"EVANS, FRANK E.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,H,4,CO-4,CO,"JOHNSON, JIM",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,H,5,CO-5,CO,"ARMSTRONG, WILLIAM",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,GOVERNOR,,,CO,"VANDERHOOF, JOHN D.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,LT GOVERNOR,,,CO,"STRICKLAND, TED",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,SEC OF STATE,,,CO,"BUCHANAN, MARY ESTILL",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,ATTORNEY GENERAL,,,CO,"MOORE, JOHN P.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,TREASURER,,,CO,"BURCH, PALMER L.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,CU REGENT,,,CO,"CARRIGAN, JIM",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,CU REGENT,1,,CO,"SAWYER, ROBERT",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,CU REGENT,4,,CO,"BEIN, LOUIS F.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE BOARD OF ED,5,,CO,"KLOTZ, FRANK",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE SENATOR,1,,CO,"GALLAGHER, DENNIS",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE SENATOR,2,,CO,"SANDOVAL, PAUL",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE SENATOR,5,,CO,"BALL, ROSEANNE S.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE SENATOR,6,,CO,"PLOCK, RICHARD H.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE SENATOR,8,,CO,"DECKER, CLARENCE",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE SENATOR,13,,CO,"STIEGHORST, LEWIS E.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE SENATOR,15,,CO,"SCHIEFFELIN, JOSEPH B.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE SENATOR,18,,CO,"COOPER, ELDON W.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,1,,CO,"SAFRAN, HUBERT M. ""HUB""",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,2,,CO,"KNOX, WAYNE N.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,3,,CO,"DEMOULIN, CHARLES J.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,4,,CO,"GRIEBENAW, DON",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,5,,CO,"VALDEZ, RUBEN A.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,6,,CO,"CASTRO, RICHARD",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,7,,CO,"TAYLOR, ARIE",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,8,,CO,"WEBB, WELLINGTON",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,9,,CO,"KEEN, BILLY G.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,10,,CO,"GUSTAFSON, CARL H.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,11,,CO,"TEMPEST, CAROL",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,12,,CO,"JOHNSON, O. K.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,13,,CO,"KOPEL, GERALD",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,14,,CO,"FISCH, MARTIN E.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,15,,CO,"FRIEDMAN, DON",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,23,,CO,"PLEIN, MARY",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,24,,CO,"TAYLOR, FRANK",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,25,,CO,"HOBBS, LARRY F.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,26,,CO,"WITHERSPOON, DOROTHY K.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,27,,CO,"O'BRIAN, LARRY",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,28,,CO,"MILLER, LAURA A.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,29,,CO,"SPANO, A. J. ""MICK""",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,31,,CO,"SMITH, MORGAN",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,32,,CO,"PATTERSON JR., R. THOMAS",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,33,,CO,"MARKS, JEAN",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,34,,CO,"BARRAGAN, POLLY BACA",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,35,,CO,"ORTEN, BETTY",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,36,,CO,"FRANK, GERARD",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,37,,CO,"DITTEMORE, BETTY ANN",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,38,,CO,"LEE, FRANK R.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,39,,CO,"ECKELBERRY, ROBERT L.",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,40,,CO,"HOGAN, STEVE",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,47,,CO,"ARNOLD, S. G. ""SANDY""",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,52,,CO,"BURROWS, PAT",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,STATE REP,53,,CO,"HOWE, CHARLES B.",Democrat,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9
+CO,Denver Post,105650,1974,DA/PROSECUTOR,1,,CO,"BROWN, NOLAN",Republican,1,,,,"POST ENDORSES (1974 election guide, image-verified)",0.9

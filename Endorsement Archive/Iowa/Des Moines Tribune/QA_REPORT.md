@@ -1,5 +1,27 @@
 # QA Report: Des Moines Tribune (115151)
 
+---
+## V9 — VERIFICATION SKILL, 100% IMAGE PASS (2026-06-23) — supersedes V5 below
+
+**Method (endorsement-verification skill, single-pass):** all 24 scanned clippings rendered at 300 DPI, OCR'd (`--psm 6`), and read by image. Verified EVERY field of all 11 candidate records + all 18 propositions against the image; reverse-matched every no-record clipping for omissions; cross-checked vs the sister Des Moines Register.
+
+- **Multi-year-bundle check:** none — each clipping is a single-page, single-year scan (the "2022" in headers is the download date).
+- **All 11 candidates CONFIRMED against the image:** 1952 PRES **Eisenhower-R** ("The Eisenhower Promise"; Stevenson-D opposed); 1960 Broadlawns Hospital Trustees — "vote for Republicans: Moore, Brown and Selden; and for voting against incumbents" → **Moore-R (2-yr), Brown-R + Selden-R (6-yr) endorsed; Champion-D (incumbent, 2-yr), Brien-D + Jackson-D (6-yr) opposed** (terms/posts and party all match); 1968 SHERIFF **Townsend-R** ("Sensible Police Plan… talking more sense"); 1976 SHERIFF **Clemens-R** (incumbent filling Woodard's unexpired term) over **Rice-D** ("Clemens, a Republican, has a clear edge… over his Democratic opponent, Bob Rice").
+- **All 18 propositions CONFIRMED** (12 Yes / 6 No), incl. the explicit 1980 "Convention: No / Equal rights: Yes", 1954 "County Shouldn't Build New Home For Mental Patients" (No), 1972 "recommended 'No' votes on both [cable] bids." No all-one-direction red-flag year.
+- **Reverse-match (no omissions):** the no-candidate-record clippings are not missed endorsements — **1964** (19641103) is a META-editorial about newspaper endorsement patterns ("731 dailies endorsed Nixon…"), NOT a Tribune endorsement; 1976-v2 = a second sheriff-race clipping (corroborates); 1980-v2 = the convention prop; the 1966 extras are propositions. No 1960 presidential endorsement exists in the clippings (the two 1960 clippings are both the Broadlawns editorial).
+- **Cross-paper (Stage 7) vs Des Moines Register (115150):** ZERO shared (year, surname) candidates — the evening Tribune covered LOCAL Polk County races while the morning Register covered statewide/federal (a legitimate sister-paper division of labor, not an omission). The one shared statewide measure (1980 ERA) agrees (both YES). No metadata conflicts.
+- **Only correction:** 1960 "Brien, James" → **"Brien, James J."** (middle initial per the image).
+
+**Additional 100% checks (2026-06-23, all CONFIRMED — no data changes):**
+- **Unused-clipping reverse-match completed** for all 6 clippings not cited as a source: 19601101_v2 = a 2nd copy of the Broadlawns trustee editorial; 19641103 = the meta-editorial on newspaper endorsements; **19661104 = a 2nd copy of the central-services-center bond editorial** ("Vote 'Yes' on City Services Center… $850,000 in bonds"); **19661107 = a 2nd copy of the public-housing editorial** (pro-850-units, vs the Real Estate Board's opposition); 19761101_v2 = a 2nd sheriff-race copy; 19801103 = the 1980 props recap ("Convention: No / Equal rights: Yes"). **No omissions — every clipping maps to a record already present.**
+- **Re-OCR at 400 DPI** of the two 1966 duplicate clippings + the 1968 sheriff editorial (cleaner text) — confirmed the above.
+- **1968 SHERIFF — endorsement direction re-confirmed by full image read.** The editorial wholeheartedly champions Townsend ("talking more sense about law enforcement… than any candidate within memory"; "deserves credit"; "a pleasure to find someone speaking coherently") — a genuine candidate endorsement, not mere plan-praise. e=1 correct.
+- **External web validation (Stage 6):** Dick Clemens confirmed as Polk County Sheriff from 1974 (Campaign Finance Disclosure record), matching the 1976 record (R incumbent who filled Woodard's unexpired term). Other records are too local for external sources but are image-grounded.
+
+**Final integrity:** **11 candidate records (6 e=1, 5 e=0), 18 props (12 Yes, 6 No). Pattern K=0, duplicates=0, 0 orphans, 0 blank names, parties valid.** Mean conf 0.95. No RA flags — every record is image-grounded.
+
+---
+
 **Audit date:** 2026-06-11 (V5 FINAL — 400 rounds + 5 formal QA + all props verified + manual all-record audit + confidence 0.95, supersedes V1-V4)
 **Folder:** Des Moines Tribune
 **Newspaper ID:** 115151

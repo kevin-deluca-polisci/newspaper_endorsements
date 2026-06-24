@@ -311,3 +311,37 @@ Note: The first QA pass (2026-04-03) applied 38 fixes including 12 dedup removal
 1. **Party identification gaps:** Several records have empty party fields or "CAN'T FIND PARTY ID" notes (local candidates where party was not listed in endorsement).
 2. **Proposition gaps verified as legitimate:** Years 1938, 1974, 1992, 1994, 1996 have clippings but no proposition endorsements (candidates-only content confirmed by clipping review).
 3. **Candidate gaps verified as legitimate:** Years 1934, 1938, 1940 have clippings but no candidate endorsements (proposition/editorial content only, confirmed by clipping review).
+
+---
+## V9 VERIFICATION SKILL — COMPLETE (2026-06-24)
+Full single-pass image verification, all 20 years. Scanned clippings rendered 300-400 DPI; 3 era agents transcribed/diffed every field; lead re-verified high-stakes items (1936 President, 1936 props). Candidates 215→210, props 178 (integrity ALL-CLEAN: Pattern K=0, 0 dups, 0 blank names).
+
+**Direction flips (opponent coded as endorsed):**
+- 1936 PRESIDENT: Roosevelt→e=1, Landon→e=0 (lead-verified "Picture of a President" editorial is pro-FDR/anti-Landon; Scripps-Howard endorsed FDR 1936).
+- 1960 SENATOR: Johnson→e=0 (paper endorsed Tower-R, "far superior to Lyndon Johnson").
+- 1962 U.S. HOUSE d16: Rutherford→e=1, Foreman→e=0 (paper endorsed incumbent Rutherford).
+- 1996 SENATOR: Gramm→e=0 (paper endorsed Morales-D).
+
+**Duplicates removed (5):** 1970 Kaster (d4) + County Judge Moore; 1972 Kaster (d71) + Sheriff Sullivan; 1974 Kaster (d71).
+
+**At-large / district fixes:** 1962 Barry & 1964 Hayes (US House) recoded d98→AT-LARGE; 1976 Jones→d72-A, Valles→d72-D.
+
+**Texas multi-seat tags added (resolves apparent "double-endorsements" — all legitimate):** 1954 County Commissioners McCune=Pct1/Heffenger=Pct4; 1962 Lowenfield=Pct4; 1990 Chacon→County Judge, Troche→168th District Court, Goldman=Pct4, Schild=County Court-at-Law 4; 1994 Railroad Commission Matthews=full-term/Nabers=unexpired-term (both endorsed, legit), Supreme Court Gonzalez=Place1/Hecht=Place2, SBOE Nunez=Dist1, Mattox→County Judge, Briones→County Court-at-Law 1, Aguilar=Pct2/Haggerty=Pct4; 1996 Supreme Court Phillips=Chief Justice/Baker=Place2, Crim Appeals Perkins=Place1, Sparks=Pct1, Solis=Constable Pct3.
+
+**New Mexico border races tagged (state_election=NM):** 1936 Chavez/Hatch (two NM Senate seats)/Dempsey; 1954 Mechem/Anderson (NM Senate); 1958 Mechem (NM Governor).
+
+**Propositions audited (all years):** 1936 prop 1→e=0, prop 5→e=1 (lead-verified "The Six Amendments" editorial: oppose first+last, favor 2-5; **RA-FLAG: 1936 prop descriptions appear shifted vs ballot numbering**). 1962 prop 10→e=0, props 3/5/9/13→no-recommendation (blank). 1966 prop 3→e=0. Prop-only years lead-verified: **1934** ("Let's Okay All But One" — favor all but prop 2 poll-tax: CSV correct), **1940** (no on prop 1 Red River / yes on 2-4: CSV correct), **1938** (both clippings are policy editorials — Wagner Act, Cordell Hull trade — correctly NO endorsement records). All-one-direction check: no year has 4+ all-same-direction.
+
+**Inference-only records flagged (NEEDS_RA, confidence→0.60):** 1956 President/VP (NO clipping), 1980 President (NO clipping; Reagan inc flag cleared — he was challenger), 1992 President (only 1992 clipping is a non-endorsement notice of two OTHER races). These are plausible for an R-leaning Scripps-Howard paper but have no supporting endorsement clipping in the folder.
+
+Stage 7 cross-paper: deferred to El Paso 3-paper cluster reconciliation (Herald / Herald-Post / Times).
+
+---
+## V9 DOUBLE-CHECK PASS (2026-06-24) — extra verification per request
+Ran a full consistency + cross-paper battery after the main V9 pass:
+- **Consistency battery CLEAN:** 0 whitespace/case issues, all office codes valid, 0 same-person-in-2-offices, 0 cross-year party inconsistencies, 0 blank party/office/dname. state_election: 203 TX / 7 NM.
+- **Coverage audit:** every year reconciled vs clippings. 1934/1938/1940 (clippings, 0 candidate records) confirmed correct = prop-only / non-endorsement policy editorials (Wagner Act, Cordell Hull trade — lead-verified). 1956/1980 (records, 0 clippings) = the flagged inference-only Presidents. 1958 (2 cand recs, 5 clippings) confirmed correct = 4 prop editorials + 1 NM-governor race.
+- **CROSS-PAPER METADATA CHECK vs El Paso Times (145300):** for every shared (year, surname) statewide/federal candidate, office + party + state_election all AGREE — **0 mismatches.** Strong independent validation of the Herald-Post coding.
+- **1962 'no recommendation' props RE-VERIFIED by lead** (were M-confidence): the "Ballot Recommendations" editorial explicitly states "we make no recommendation on four of these, Amendments 3, 5, 9 and 13" and "Amendment No. 10... vote NO." My fix (3/5/9/13→blank, 10→e=0) is CONFIRMED correct.
+- **Inference-only Presidents cross-validated vs Times:** 1956 (Eisenhower) and 1980 (Reagan) — the Times (with verifying clippings) endorsed the SAME, supporting these inferences (confidence 0.70, still flagged). **1992 — REMOVED:** the inferred "Bush (R) e=1 / Clinton e=0" is contradicted — the Herald-Post's only 1992 clipping is a non-endorsement notice of two OTHER races (no presidential pick), the sister Times endorsed CLINTON (D), and the Herald-Post's own verified 1990 slate was heavily Democratic (Richards/Bullock/Morales). The Bush inference was unsupported and likely wrong → 2 records removed.
+- Final integrity: cand 210→208, Pattern K=0, 0 dups, 0 blank names. **Herald-Post is now image-verified + cross-validated.**

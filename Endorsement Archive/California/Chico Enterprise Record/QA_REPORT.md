@@ -100,3 +100,18 @@ Confidence range: 0.80-0.95, mean 0.898
 - 1952 clipping is actually 1954 content (year correctly coded as 1954)
 - 4 records 2022 opponent first names not recoverable from OCR (editorial used surname only)
 - 1962/1974/1984/1996/1998 OCR failed due to image-only PDFs (data validated via cross-year consistency instead)
+
+---
+
+## V9 DEEP VERIFICATION — 2026-06-21
+Integrity pre-screen (clean: Pattern K=0, no dups, 427 e=1/105 e=0), full props all-direction check (636 props, healthy mixed every year - no bug), marquee verification all 36 years, and careful handling of the full-page clippings.
+- Cross-party exceptions all CONFIRMED (R-leaning paper endorsing select Democrats): 1958 Engle, 1974/1980 Cranston, 1978 Brown, 1990 Garamendi, 2000 Feinstein, 2020 Biden.
+- Modern full-page years (2018/2020/2022) are born-digital PDFs — verified via pdftotext (NOT image OCR). 2020 dual endorsements (LaMalfa+Denney, Ober+Tandon "pick 'em") confirmed legitimate.
+- Scanned full-page "_3" JPEGs (1958/1988/1990) have cropped "_1" companions carrying the recap; 1990 (29 recs) confirmed.
+- 0 corrections needed. Coverage: marquee + cross-party + modern full pages fully verified; mid-century down-ballot got pre-screen + spot-checks (see RA_NEEDS §3).
+
+### V9 addendum — down-ballot vision pass + full-page omission check (2026-06-21)
+- Down-ballot recaps vision-confirmed comprehensive & accurate for 1952/1958/1974/1978/1986/1990/1998 (incl. correct 1986 CA Supreme Court retention directions: Bird/Reynoso/Grodin No, Lucas/Panelli/Mosk Yes). Earlier OCR "missing name" flags were image-OCR quality, not data errors.
+- Full-page "_3" scans checked: 1958 & 1988 recap boxes fully captured in CSV (no omissions; 1958 incl. cross-party Mosk-D AG); 1988 ARTICLE_3 = props/opinion page (no candidates).
+- 2022 losing-opponent first names are surname-only in the source (not an extraction error).
+0 corrections; data confirmed sound.

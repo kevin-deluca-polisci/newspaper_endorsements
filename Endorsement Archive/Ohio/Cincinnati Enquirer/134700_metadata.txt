@@ -1,44 +1,43 @@
-Newspaper Name: Cincinnati Enquirer
-Alternative Names: The Cincinnati Enquirer
-Years Published: 1841-present
-Newspaper ID number: 134700
-Number of clippings: 29
-Endorsement data years: 1958, 1960, 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2008, 2010, 2012, 2016, 2018
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Cincinnati Enquirer
+Newspaper ID: 134700
 State: OH
-City: Cincinnati
-Notes: Conservative/Republican-leaning paper. Stopped endorsing candidates in 2018 (Gannett corporate decision). Historic Clinton endorsement in 2016 (first Democrat for president since Wilson 1916). Tri-state coverage includes OH, KY, and IN races. Gap in clippings 2002-2006. Two 2024-downloaded clippings are duplicates of 2016 material.
+Number of clippings: 31
+Endorsement data years: 1958-2016
+Total candidate records: 1427 (929 endorsed=1)
+Total proposition records: 129 (128 with a yes/no direction)
 
---- ENDORSEMENT COUNTS ---
-Total candidate records: 947
-  Endorsed (=1): 947
-  Opposed (=0): 0
-  No position (null): 0
-Total proposition records: 126
-  Endorsed (=1): 97
-  Opposed (=0): 29
+Confidence statistics (all records):
+  Mean confidence: 0.877
+  Low-confidence records (< 0.7): 87
 
---- DATA QUALITY ---
-Flagged for review: 947 candidates, 36 propositions
-Extraction errors: 0
-Parse errors: 0
-No-endorsement clippings: 3
-Duplicates removed: 0 candidates, 13 propositions
+Top offices (top 15):
+  STATE REP: 341
+  H: 175
+  COURT OF COMMON PLEAS: 146
+  SUPREME COURT: 85
+  STATE SENATOR: 80
+  SENATOR: 72
+  CNTY COMM: 55
+  COURT OF APPEALS: 47
+  AUDITOR: 36
+  COUNTY COURT: 32
+  PRESIDENT: 32
+  VICE PRESIDENT: 29
+  LT GOVERNOR: 27
+  GOVERNOR: 26
+  SEC OF STATE: 25
 
---- CONFIDENCE SCORES ---
-Min: 0.48
-Mean: 0.88
-Max: 0.97
-Below threshold (0.75): 141
+Party distribution:
+  Republican: 626
+  Democrat: 494
+  Nonpartisan: 231
+  Independent: 66
+  American Independent: 5
+  Libertarian: 3
+  Socialist Labor: 1
+  Communist: 1
 
---- REVIEW QUEUE ---
-  [no_endorsements] 134700_20181026: No endorsements detected
-  [no_endorsements] 134700_20240126_1: No endorsements detected
-  [no_endorsements] 134700_20240126_2: No endorsements detected
-
---- NOTES ---
-QA completed 2026-04-15. Spot-checks: 1986 (41/41), 1996 (42/42), 2008 (32/32), 1992 (38/38) = 100% accuracy across 153 records.
-Stage 3 fixes: COUNTY RECORDER->RECORDER (1960 Driver); McPHETERS capitalization (1960); Hopkins middle initial M->J (1978 KY); Frazier middle initial L->G (1978 IN); Mayfield middle initial B->H (1970); Bowen party R->D for 1964-1982 (7 records, confirmed Democrat via Ohio Statehouse records); Perkins Carl D./Carl C. confirmed as father/son succession (not an error).
-Unresolved: AFUQLAH, WILLIAM M. (1994, STATE REP 30, conf=0.65) - name unverifiable online; possible OCR error.
-Low-confidence records: 104 of 105 are from 1958-1976 sample ballot era (scan quality); 46 propositions below threshold are also from this era.
-
-Compiled: 2026-04-15 13:06:44
+(metadata regenerated post-V8 deep verification)

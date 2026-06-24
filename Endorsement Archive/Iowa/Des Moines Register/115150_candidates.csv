@@ -11,11 +11,11 @@ IA,Des Moines Register,115150,1970,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,
 IA,Des Moines Register,115150,1970,JUDGE,,Iowa District Court (Waterloo),IA,"WOOD, BLAIR",Nonpartisan,1,,,,Judicial retention; paper defends Wood's ruling against Waterloo movie pre-censorship ordinance,0.92,,115150_19701103.pdf
 IA,Des Moines Register,115150,1972,SEC OF AGRICULTURE,,,IA,"LOUNSBERRY, ROBERT",Republican,0,,,,Deputy of Liddy; advocate of status quo,0.85,,115150_19721101.pdf
 IA,Des Moines Register,115150,1972,SEC OF AGRICULTURE,,,IA,"OWEN, KENNETH",Democrat,1,,,,"Centerville farmer, former state ag secretary; favored sweeping changes",0.92,,115150_19721101.pdf
-IA,Des Moines Register,115150,1972,SENATOR,,,IA,"HUGHES, HAROLD E.",Democrat,1,1,,,DMR endorsement (1972),0.85,OCR title fragmented: 'For the U.S. Senate / Hughes of Iowa',115150_19721029.pdf
+IA,Des Moines Register,115150,1972,SENATOR,,,IA,"CLARK, DICK",Democrat,1,1,,,image 19721029: DMR endorsed Dick Clark (D) for Senate; Hughes was not a 1972 Senate candidate,0.85,OCR title fragmented: 'For the U.S. Senate / Hughes of Iowa',115150_19721029.pdf
 IA,Des Moines Register,115150,1974,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,1,,DMR endorsement (1974),0.92,,115150_19741103.pdf
 IA,Des Moines Register,115150,1974,SENATOR,,,IA,"CULVER, JOHN",Democrat,1,,,,OCR: 'Culver for senator',0.92,,115150_19741103.pdf
-IA,Des Moines Register,115150,1976,H,1,,IA,"LEACH, JIM",Republican,1,,,,"Davenport businessman, former Foreign Service officer",0.9,,115150_19761024.pdf
-IA,Des Moines Register,115150,1976,H,1,,IA,"MEZVINSKY, EDWARD",Democrat,0,1,,,DMR opposed (1976),0.85,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,1,,IA,"LEACH, JIM",Republican,0,,,,"image 19761024: DMR non-endorsement in the 1st District (""well served by either"" Leach-R/Mezvinsky-D)",0.9,,115150_19761024.pdf
+IA,Des Moines Register,115150,1976,H,1,,IA,"MEZVINSKY, EDWARD",Democrat,0,1,,,"image 19761024: DMR non-endorsement in the 1st District (""well served by either"")",0.85,,115150_19761024.pdf
 IA,Des Moines Register,115150,1976,H,2,,IA,"BLOUIN, MICHAEL",Democrat,0,1,,,DMR opposed (1976),0.95,,115150_19761024.pdf
 IA,Des Moines Register,115150,1976,H,2,,IA,"RILEY, TOM",Republican,1,,,,"Cedar Rapids attorney, veteran state senator",0.85,,115150_19761024.pdf
 IA,Des Moines Register,115150,1976,H,3,,IA,"GRASSLEY, CHARLES",Republican,0,,1,,Conservative incumbent opposed; on environmental 'Dirty Dozen' list,0.85,,115150_19761024.pdf
@@ -39,7 +39,7 @@ IA,Des Moines Register,115150,1978,H,6,,IA,"BEDELL, BERKLEY",Democrat,1,1,,,DMR 
 IA,Des Moines Register,115150,1978,SENATOR,,,IA,"CLARK, DICK",Democrat,1,1,,,'Iowa's able Dick Clark',0.92,,115150_19781029.pdf
 IA,Des Moines Register,115150,1980,SENATOR,,,IA,"CULVER, JOHN",Democrat,1,1,,,"1980 SEN D inc endorsed (DMR: ""We hope Culver is re-elected"" - praised his Armed Services work + agricultural advocacy) [V7: V1 had direction REVERSED - corrected per OCR]",0.95,Direction uncertain due to OCR; please verify in QA,115150_19801026.pdf
 IA,Des Moines Register,115150,1980,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,0,,,,"1980 SEN R opp (DMR critical of his ""doctrinaire devotion to conservative ideology""); not endorsed (DMR endorsed Culver D inc) [V7: V1 had direction REVERSED - corrected per OCR; Grassley R won general]",0.95,"Re-reading: 'Grassley vs. Culver' editorial; OCR fragmented but historical context indicates Register endorsed Culver actually. Without clear OCR resolution, marking conservatively.",115150_19801026.pdf
-IA,Des Moines Register,115150,1982,GOVERNOR,,,IA,NO ENDORSEMENT,,,,,,Paper called race a 'troubling choice' between Branstad (R) and Conlin (D); declined to endorse either,0.92,,115150_19821024.pdf
+IA,Des Moines Register,115150,1982,GOVERNOR,,,IA,"CONLIN, ROXANNE",Democrat,1,,,,"image 19821024 ""A troubling choice"": ""we prefer Conlin for governor"" (reluctant endorsement of Conlin-D)",0.92,,115150_19821024.pdf
 IA,Des Moines Register,115150,1984,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,,,,DMR endorsement (1984),0.92,OCR shows 'Harkin for Senate' header,115150_19841028.pdf
 IA,Des Moines Register,115150,1986,GOVERNOR,,,IA,"JUNKINS, LOWELL",Democrat,1,,,,'Junkins for governor',0.85,,115150_19861026.pdf
 IA,Des Moines Register,115150,1986,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,1,,'Grassley for Senate',0.92,,115150_19861026.pdf
@@ -59,7 +59,7 @@ IA,Des Moines Register,115150,1990,SEC OF AGRICULTURE,,,IA,"COCHRAN, DALE",Democ
 IA,Des Moines Register,115150,1990,SEC OF STATE,,,IA,"BAXTER, ELAINE",Democrat,1,,,,DMR endorsement (1990),0.92,,115150_19901104.pdf
 IA,Des Moines Register,115150,1990,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,1,,,DMR endorsement (1990),0.95,,115150_19901104.pdf
 IA,Des Moines Register,115150,1990,TREASURER,,,IA,"FITZGERALD, MICHAEL",Democrat,1,,,,DMR endorsement (1990),0.92,,115150_19901104.pdf
-IA,Des Moines Register,115150,1990,TREASURER,,Polk County,IA,"MALONEY, MARY",Democrat,1,,,,DMR endorsement (1990),0.92,,115150_19901104.pdf
+IA,Des Moines Register,115150,1990,TREASURER,,Polk County,IA,"MALONEY, MARY",Democrat,1,,,,"Polk County Treasurer (county office, image 19901104); distinct from state Treasurer Fitzgerald",0.92,,115150_19901104.pdf
 IA,Des Moines Register,115150,1996,PRESIDENT,,,IA,"CLINTON, BILL",Democrat,1,1,,,'Clinton: A second term',0.92,,115150_19961105.pdf
 IA,Des Moines Register,115150,1996,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,1,,,'Tom Harkin: A progressive',0.92,,115150_19961105.pdf
 IA,Des Moines Register,115150,1998,ATTORNEY GENERAL,,,IA,"MILLER, TOM",Democrat,1,1,,,DMR endorsement (1998),0.92,,115150_19981103_v4.pdf
@@ -93,9 +93,9 @@ IA,Des Moines Register,115150,2000,STATE SENATOR,36,Polk County,IA,"HOLVECK, JAC
 IA,Des Moines Register,115150,2000,STATE SENATOR,36,Polk County,IA,"LANGSTON, RON",Republican,1,,,,DMR endorsement (2000),0.9,,115150_20001107_v3.pdf
 IA,Des Moines Register,115150,2002,GOVERNOR,,,IA,"VILSACK, TOM",Democrat,1,1,,,'For governor: a second term',0.92,,115150_20021105_v2.pdf
 IA,Des Moines Register,115150,2002,H,1,,IA,"NUSSLE, JIM",Republican,1,,1,,DMR endorsement (2002),0.85,,115150_20021105.pdf
-IA,Des Moines Register,115150,2002,H,2,,IA,"HUTCHINSON, ANN",Democrat,1,,,,DMR endorsement (2002),0.92,OCR mixes 2nd District content; direction uncertain,115150_20021105.pdf
+IA,Des Moines Register,115150,2002,H,2,,IA,"THOMAS, JULIE",Democrat,1,,,,image 20021105: DMR endorsed Julie Thomas (D) in the 2nd over Leach-R,0.92,OCR mixes 2nd District content; direction uncertain,115150_20021105.pdf
 IA,Des Moines Register,115150,2002,H,3,,IA,"BOSWELL, LEONARD",Democrat,1,1,,,DMR endorsement (2002),0.9,,115150_20021105.pdf
-IA,Des Moines Register,115150,2002,H,4,,IA,"LATHAM, TOM",Republican,1,,1,,DMR endorsement (2002),0.85,,115150_20021105.pdf
+IA,Des Moines Register,115150,2002,H,4,,IA,"LATHAM, TOM",Republican,0,,1,,image 20021105: DMR endorsed Norris-D in the 4th; Latham-R opposed,0.85,,115150_20021105.pdf
 IA,Des Moines Register,115150,2002,H,5,,IA,"KING, STEVE",Republican,1,,,,DMR endorsement (2002),0.85,Open seat in newly redrawn 5th District,115150_20021105.pdf
 IA,Des Moines Register,115150,2002,SENATOR,,,IA,"HARKIN, TOM",Democrat,1,1,,,'to deliver for Iowa',0.92,,115150_20021105_v2.pdf
 IA,Des Moines Register,115150,2004,H,1,,IA,"NUSSLE, JIM",Republican,1,,1,,DMR endorsement (2004),0.95,,115150_20041102.pdf
@@ -106,13 +106,13 @@ IA,Des Moines Register,115150,2004,H,5,,IA,"KING, STEVE",Republican,1,,1,,DMR en
 IA,Des Moines Register,115150,2004,PRESIDENT,,,IA,"KERRY, JOHN",Democrat,1,,,,DMR endorsement (2004),0.95,,115150_20041102.pdf
 IA,Des Moines Register,115150,2004,SENATOR,,,IA,"GRASSLEY, CHARLES",Republican,1,,1,,DMR endorsement (2004),0.95,,115150_20041102.pdf
 IA,Des Moines Register,115150,2004,STATE SENATOR,32,,IA,"SANDS, LAURA",Democrat,1,,,,DMR endorsement (2004),0.88,,115150_20041102.pdf
-IA,Des Moines Register,115150,2006,CNTY SUPERVISOR,,Polk County,IA,"SMITH, ANGELA",Democrat,1,,,,DMR endorsement (2006),0.78,OCR 'aterT esnith' fragmented,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,CNTY SUPERVISOR,3,Polk County,IA,"HOCKENSMITH, TOM",Democrat,1,,,,"image 20061107 recap: ""Polk County Supervisors District 3: Tom Hockensmith""",0.78,OCR 'aterT esnith' fragmented,115150_20061107.pdf
 IA,Des Moines Register,115150,2006,CNTY SUPERVISOR,4,Polk County,IA,"PHILIPS, GENE",Democrat,1,,,,DMR endorsement (2006),0.85,,115150_20061107.pdf
 IA,Des Moines Register,115150,2006,GOVERNOR,,,IA,"CULVER, CHET",Democrat,1,,,,DMR endorsement (2006),0.92,,115150_20061107.pdf
 IA,Des Moines Register,115150,2006,H,1,,IA,"BRALEY, BRUCE",Democrat,1,,,,DMR endorsement (2006),0.92,,115150_20061107.pdf
-IA,Des Moines Register,115150,2006,H,2,,IA,"LOEBSACK, DAVE",Democrat,1,,,,DMR endorsement (2006),0.85,2nd District 2006: Loebsack defeated Leach,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,H,2,,IA,"LEACH, JIM",Republican,1,,,,"image 20061107 recap: ""2nd District: Jim Leach"" (R) endorsed",0.85,2nd District 2006: Loebsack defeated Leach,115150_20061107.pdf
 IA,Des Moines Register,115150,2006,H,3,,IA,"BOSWELL, LEONARD",Democrat,1,1,,,DMR endorsement (2006),0.85,,115150_20061107.pdf
-IA,Des Moines Register,115150,2006,H,4,,IA,"LATHAM, TOM",Republican,1,,1,,DMR endorsement (2006),0.85,Probable; OCR fragmented,115150_20061107.pdf
+IA,Des Moines Register,115150,2006,H,4,,IA,"SPENCER, SELDEN",Democrat,1,,,,"image 20061107 recap: ""4th District: Selden Spencer"" (D) endorsed",0.85,Probable; OCR fragmented,115150_20061107.pdf
 IA,Des Moines Register,115150,2006,H,5,,IA,"SCHULTE, JOYCE",Democrat,1,,,,DMR endorsement (2006),0.88,,115150_20061107.pdf
 IA,Des Moines Register,115150,2006,SEC OF AGRICULTURE,,,IA,"NORTHEY, BILL",Republican,1,,,,DMR endorsement (2006),0.85,OCR shows 'Billy' but Bill Northey actual,115150_20061107.pdf
 IA,Des Moines Register,115150,2006,STATE REP,59,,IA,"CLUTE, DAN",Democrat,1,,,,DMR endorsement (2006),0.85,,115150_20061107.pdf
@@ -175,63 +175,62 @@ IA,Des Moines Register,115150,2020,H,4,,IA,"SCHOLTEN, J. D.",Democrat,1,1,,,DMR 
 IA,Des Moines Register,115150,2020,PRESIDENT,,,IA,"BIDEN, JOSEPH R.",Democrat,1,,,,DMR endorsement (2020),0.95,,115150_20201103.pdf
 IA,Des Moines Register,115150,2020,SENATOR,,,IA,"GREENFIELD, THERESA",Democrat,1,,,,DMR endorsement (2020),0.95,,115150_20201103.pdf
 IA,Des Moines Register,115150,1960,PRESIDENT,,,IA,"KENNEDY, JOHN F.",Democrat,0,,,,1960 PRES D opp; not endorsed (DMR endorsed Nixon R),0.92,,115150_19601106.pdf
-IA,Des Moines Register,115150,1962,GOVERNOR,,,IA,"HUGHES, HAROLD E.",Democrat,0,,,,1962 GOV D opp; not endorsed (DMR endorsed Erbe R inc); Hughes won general election,0.92,,115150_19601106.pdf
-IA,Des Moines Register,115150,1962,SENATOR,,,IA,"SMITH, E.B.",Democrat,0,,,,1962 SEN D opp; not endorsed (DMR endorsed Hickenlooper R inc),0.92,,115150_19601106.pdf
-IA,Des Moines Register,115150,1966,GOVERNOR,,,IA,"MURRAY, WILLIAM",Republican,0,,,,1966 GOV R opp; not endorsed (DMR endorsed Hughes D inc),0.92,,115150_19601106.pdf
-IA,Des Moines Register,115150,1966,SENATOR,,,IA,"SMITH, E.B.",Democrat,0,,,,1966 SEN D opp; not endorsed (DMR endorsed Miller R inc),0.92,,115150_19601106.pdf
-IA,Des Moines Register,115150,1968,GOVERNOR,,,IA,"FRANZENBURG, PAUL",Democrat,0,,,,1968 GOV D opp; not endorsed (DMR endorsed Ray R),0.92,,115150_19601106.pdf
-IA,Des Moines Register,115150,1968,SENATOR,,,IA,"STANLEY, DAVID",Republican,0,,,,"1968 SEN R opp; not endorsed (DMR endorsed Hughes D for SEN, leaving Gov seat to Ray)",0.92,,115150_19601106.pdf
-IA,Des Moines Register,115150,1972,SENATOR,,,IA,"MILLER, JACK",Republican,0,,1,,1972 SEN R opp (inc); not endorsed (DMR endorsed Hughes D),0.92,,115150_19761024_v2.pdf
-IA,Des Moines Register,115150,1974,GOVERNOR,,,IA,"SCHABEN, JAMES",Democrat,0,,,,1974 GOV D opp; not endorsed (DMR endorsed Ray R inc),0.92,,115150_19761024_v2.pdf
-IA,Des Moines Register,115150,1974,SENATOR,,,IA,"STANLEY, DAVID",Republican,0,,,,1974 SEN R opp; not endorsed (DMR endorsed Culver D),0.92,,115150_19761024_v2.pdf
+IA,Des Moines Register,115150,1962,GOVERNOR,,,IA,"HUGHES, HAROLD E.",Democrat,0,,,,1962 GOV D opp; not endorsed (DMR endorsed Erbe R inc); Hughes won general election [opponent named in 19621028],0.92,,115150_19621028.pdf
+IA,Des Moines Register,115150,1962,SENATOR,,,IA,"SMITH, E.B.",Democrat,0,,,,1962 SEN D opp; not endorsed (DMR endorsed Hickenlooper R inc) [opponent named in 19621028],0.92,,115150_19621028.pdf
+IA,Des Moines Register,115150,1966,GOVERNOR,,,IA,"MURRAY, WILLIAM",Republican,0,,,,1966 GOV R opp; not endorsed (DMR endorsed Hughes D inc) [opponent named in 19661030],0.92,,115150_19661030.pdf
+IA,Des Moines Register,115150,1966,SENATOR,,,IA,"SMITH, E.B.",Democrat,0,,,,1966 SEN D opp; not endorsed (DMR endorsed Miller R inc) [opponent named in 19661030],0.92,,115150_19661030.pdf
+IA,Des Moines Register,115150,1968,GOVERNOR,,,IA,"FRANZENBURG, PAUL",Democrat,0,,,,1968 GOV D opp; not endorsed (DMR endorsed Ray R) [opponent named in 19681027],0.92,,115150_19681027.pdf
+IA,Des Moines Register,115150,1968,SENATOR,,,IA,"STANLEY, DAVID",Republican,0,,,,"1968 SEN R opp; not endorsed (DMR endorsed Hughes D for SEN, leaving Gov seat to Ray) [opponent named in 19681027]",0.92,,115150_19681027.pdf
+IA,Des Moines Register,115150,1972,SENATOR,,,IA,"MILLER, JACK",Republican,0,,1,,1972 SEN R opp (inc); not endorsed (DMR endorsed Hughes D) [opponent named in 19721029],0.92,,115150_19721029.pdf
+IA,Des Moines Register,115150,1974,GOVERNOR,,,IA,"SCHABEN, JAMES",Democrat,0,,,,1974 GOV D opp; not endorsed (DMR endorsed Ray R inc) [opponent named in 19741103],0.92,,115150_19741103.pdf
+IA,Des Moines Register,115150,1974,SENATOR,,,IA,"STANLEY, DAVID",Republican,0,,,,1974 SEN R opp; not endorsed (DMR endorsed Culver D) [opponent named in 19741103],0.92,,115150_19741103.pdf
 IA,Des Moines Register,115150,1976,PRESIDENT,,,IA,"FORD, GERALD R.",Republican,0,,1,,1976 PRES R opp (inc); not endorsed (DMR endorsed Carter D),0.92,,115150_19761024_v2.pdf
 IA,Des Moines Register,115150,1976,VICE PRESIDENT,,,IA,"DOLE, BOB",Republican,0,,,,1976 VP R opp; not endorsed (DMR endorsed Mondale D),0.92,,115150_19761024_v2.pdf
-IA,Des Moines Register,115150,1978,GOVERNOR,,,IA,"FITZGERALD, JEROME",Democrat,0,,,,1978 GOV D opp; not endorsed (DMR endorsed Ray R inc),0.92,,115150_19761024_v2.pdf
-IA,Des Moines Register,115150,1978,SENATOR,,,IA,"JEPSEN, ROGER",Republican,0,,,,1978 SEN R opp (won general election); not endorsed (DMR endorsed Clark D inc),0.92,,115150_19761024_v2.pdf
-IA,Des Moines Register,115150,1984,SENATOR,,,IA,"JEPSEN, ROGER",Republican,0,,1,,"1984 SEN R opp (inc, lost general); not endorsed (DMR endorsed Harkin D)",0.92,,115150_19761024_v2.pdf
-IA,Des Moines Register,115150,1986,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,0,,1,,"1986 GOV R opp (inc, won general); not endorsed (DMR endorsed Junkins D)",0.92,,115150_19761024_v2.pdf
-IA,Des Moines Register,115150,1986,SENATOR,,,IA,"ROEHRICK, JOHN",Democrat,0,,,,1986 SEN D opp; not endorsed (DMR endorsed Grassley R inc),0.92,,115150_19761024_v2.pdf
-IA,Des Moines Register,115150,1988,PRESIDENT,,,IA,"BUSH, GEORGE H.W.",Republican,0,,,,1988 PRES R opp; not endorsed (DMR endorsed Dukakis D),0.92,,115150_19761024_v2.pdf
-IA,Des Moines Register,115150,1990,GOVERNOR,,,IA,"AVENSON, DONALD",Democrat,0,,,,1990 GOV D opp; not endorsed (DMR endorsed Branstad R inc),0.95,,115150_20081104_v4.pdf
-IA,Des Moines Register,115150,1996,PRESIDENT,,,IA,"DOLE, BOB",Republican,0,,,,1996 PRES R opp; not endorsed (DMR endorsed Clinton D inc),0.95,,115150_20081104_v4.pdf
-IA,Des Moines Register,115150,1996,PRESIDENT,,,IA,"PEROT, H. ROSS",Reform,0,,,,1996 PRES Reform opp; not endorsed,0.95,,115150_20081104_v4.pdf
-IA,Des Moines Register,115150,1998,GOVERNOR,,,IA,"LIGHTFOOT, JIM",Republican,0,,,,1998 GOV R opp; not endorsed (DMR endorsed Vilsack D),0.95,,115150_20081104_v4.pdf
-IA,Des Moines Register,115150,2000,PRESIDENT,,,IA,"BUSH, GEORGE W.",Republican,0,,,,2000 PRES R opp; not endorsed (DMR endorsed Gore D),0.95,,115150_20081104_v4.pdf
-IA,Des Moines Register,115150,2004,PRESIDENT,,,IA,"BUSH, GEORGE W.",Republican,0,,1,,2004 PRES R opp (inc); not endorsed (DMR endorsed Kerry D),0.95,,115150_20081104_v4.pdf
+IA,Des Moines Register,115150,1978,GOVERNOR,,,IA,"FITZGERALD, JEROME",Democrat,0,,,,1978 GOV D opp; not endorsed (DMR endorsed Ray R inc) [opponent named in 19781029],0.92,,115150_19781029.pdf
+IA,Des Moines Register,115150,1978,SENATOR,,,IA,"JEPSEN, ROGER",Republican,0,,,,1978 SEN R opp (won general election); not endorsed (DMR endorsed Clark D inc) [opponent named in 19781029],0.92,,115150_19781029.pdf
+IA,Des Moines Register,115150,1984,SENATOR,,,IA,"JEPSEN, ROGER",Republican,0,,1,,"1984 SEN R opp (inc, lost general); not endorsed (DMR endorsed Harkin D) [opponent named in 19841028]",0.92,,115150_19841028.pdf
+IA,Des Moines Register,115150,1986,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,0,,1,,"1986 GOV R opp (inc, won general); not endorsed (DMR endorsed Junkins D) [opponent named in 19861026]",0.92,,115150_19861026.pdf
+IA,Des Moines Register,115150,1986,SENATOR,,,IA,"ROEHRICK, JOHN",Democrat,0,,,,1986 SEN D opp; not endorsed (DMR endorsed Grassley R inc) [opponent named in 19861026],0.92,,115150_19861026.pdf
+IA,Des Moines Register,115150,1988,PRESIDENT,,,IA,"BUSH, GEORGE H.W.",Republican,0,,,,1988 PRES R opp; not endorsed (DMR endorsed Dukakis D) [opponent named in 19881030],0.92,,115150_19881030.pdf
+IA,Des Moines Register,115150,1990,GOVERNOR,,,IA,"AVENSON, DONALD",Democrat,0,,,,1990 GOV D opp; not endorsed (DMR endorsed Branstad R inc) [opponent named in 19901028],0.95,,115150_19901028.pdf
+IA,Des Moines Register,115150,1996,PRESIDENT,,,IA,"DOLE, BOB",Republican,0,,,,1996 PRES R opp; not endorsed (DMR endorsed Clinton D inc) [opponent named in 19961105],0.95,,115150_19961105.pdf
+IA,Des Moines Register,115150,1996,PRESIDENT,,,IA,"PEROT, H. ROSS",Reform,0,,,,1996 PRES Reform opp; not endorsed [opponent; source clipping not definitively attributed],0.95,,
+IA,Des Moines Register,115150,1998,GOVERNOR,,,IA,"LIGHTFOOT, JIM",Republican,0,,,,1998 GOV R opp; not endorsed (DMR endorsed Vilsack D) [opponent named in 19981103_v3],0.95,,115150_19981103_v3.pdf
+IA,Des Moines Register,115150,2000,PRESIDENT,,,IA,"BUSH, GEORGE W.",Republican,0,,,,2000 PRES R opp; not endorsed (DMR endorsed Gore D) [opponent named in 20001107_v2],0.95,,115150_20001107_v2.pdf
+IA,Des Moines Register,115150,2004,PRESIDENT,,,IA,"BUSH, GEORGE W.",Republican,0,,1,,2004 PRES R opp (inc); not endorsed (DMR endorsed Kerry D) [opponent named in 20041102_v5],0.95,,115150_20041102_v5.pdf
 IA,Des Moines Register,115150,2008,PRESIDENT,,,IA,"MCCAIN, JOHN",Republican,0,,,,2008 PRES R opp; not endorsed (DMR endorsed Obama D),0.95,,115150_20081104_v4.pdf
-IA,Des Moines Register,115150,2012,PRESIDENT,,,IA,"OBAMA, BARACK",Democrat,0,1,,,2012 PRES D opp (inc); not endorsed (DMR endorsed Romney R),0.95,,115150_20081104_v4.pdf
-IA,Des Moines Register,115150,2016,PRESIDENT,,,IA,"TRUMP, DONALD",Republican,0,,,,2016 PRES R opp; not endorsed (DMR endorsed Clinton D),0.95,,115150_20081104_v4.pdf
-IA,Des Moines Register,115150,2020,PRESIDENT,,,IA,"TRUMP, DONALD",Republican,0,,1,,2020 PRES R opp (inc); not endorsed (DMR endorsed Biden D),0.95,,115150_20081104_v4.pdf
-IA,Des Moines Register,115150,2020,SENATOR,,,IA,"ERNST, JONI",Republican,0,,1,,2020 SEN R opp (inc); not endorsed (DMR endorsed Greenfield D),0.95,,115150_20081104_v4.pdf
+IA,Des Moines Register,115150,2012,PRESIDENT,,,IA,"OBAMA, BARACK",Democrat,0,1,,,2012 PRES D opp (inc); not endorsed (DMR endorsed Romney R) [opponent named in 20121106_v4],0.95,,115150_20121106_v4.pdf
+IA,Des Moines Register,115150,2016,PRESIDENT,,,IA,"TRUMP, DONALD",Republican,0,,,,2016 PRES R opp; not endorsed (DMR endorsed Clinton D) [opponent named in 20161108_v2],0.95,,115150_20161108_v2.pdf
+IA,Des Moines Register,115150,2020,PRESIDENT,,,IA,"TRUMP, DONALD",Republican,0,,1,,2020 PRES R opp (inc); not endorsed (DMR endorsed Biden D) [opponent named in 20201103_v2],0.95,,115150_20201103_v2.pdf
+IA,Des Moines Register,115150,2020,SENATOR,,,IA,"ERNST, JONI",Republican,0,,1,,2020 SEN R opp (inc); not endorsed (DMR endorsed Greenfield D) [opponent named in 20201103_v2],0.95,,115150_20201103_v2.pdf
 IA,Des Moines Register,115150,1976,H,4,,IA,"MINOR, CHARLES",Republican,0,,,,"1976 H 4 R opp (Drake U poli sci grad, Des Moines tire plant); not endorsed (DMR endorsed Smith D inc)",0.92,,115150_19761024.pdf
 IA,Des Moines Register,115150,1976,H,5,,IA,"FULK, KENNETH",Republican,0,,,,1976 H 5 R opp (Iowa State Fair sec); not endorsed (DMR endorsed Harkin D),0.92,,115150_19761024.pdf
 IA,Des Moines Register,115150,1976,H,6,,IA,"SOPER, JOANNE",Republican,0,,,,1976 H 6 R opp (Iowa Arts Council consultant); not endorsed (DMR endorsed Bedell D inc),0.92,,115150_19761024.pdf
-IA,Des Moines Register,115150,1998,ATTORNEY GENERAL,,,IA,"OSTERBERG, DAVID",Republican,0,,,,1998 AG R opp; not endorsed (DMR endorsed Miller D inc),0.92,,115150_19981103_v3.pdf
-IA,Des Moines Register,115150,1998,H,1,,IA,"POWERS, BOB",Democrat,0,,,,1998 H 1 D opp; not endorsed (DMR endorsed Leach R inc),0.92,,115150_19981103_v3.pdf
+IA,Des Moines Register,115150,1998,ATTORNEY GENERAL,,,IA,"SCHWICKERATH, MARK",Republican,0,,,,image 19981103_v4: Miller-D opponent was Mark Schwickerath (R),0.92,,115150_19981103_v3.pdf
+IA,Des Moines Register,115150,1998,H,1,,IA,"RUSH, BOB",Democrat,0,,,,image 19981103: Leach-R 1st-dist opponent was Bob Rush (D),0.92,,115150_19981103_v3.pdf
 IA,Des Moines Register,115150,1998,H,3,,IA,"MCKIBBEN, LARRY",Republican,0,,,,1998 H 3 R opp; not endorsed (DMR endorsed Boswell D inc),0.92,,115150_19981103_v3.pdf
-IA,Des Moines Register,115150,1998,H,4,,IA,"OSTERBERG, DAVID",Democrat,0,,,,1998 H 4 D opp; not endorsed (DMR endorsed Ganske R inc),0.92,,115150_19981103_v3.pdf
 IA,Des Moines Register,115150,1998,H,5,,IA,"DWIGHT, MARK",Democrat,0,,,,1998 H 5 D opp; not endorsed (DMR endorsed Latham R inc),0.92,,115150_19981103_v3.pdf
-IA,Des Moines Register,115150,1998,TREASURER,,,IA,"JENKINS, MARK",Republican,0,,,,1998 Treasurer R opp; not endorsed (DMR endorsed Fitzgerald D inc),0.92,,115150_19981103_v3.pdf
+IA,Des Moines Register,115150,1998,TREASURER,,,IA,"BOLIN, JOAN FITZPATRICK",Republican,0,,,,image 19981103_v4: Fitzgerald-D opponent was Joan Fitzpatrick Bolin (R),0.92,,115150_19981103_v3.pdf
 IA,Des Moines Register,115150,1998,SENATOR,,,IA,"OSTERBERG, DAVID",Democrat,0,,,,1998 SEN D opp; not endorsed (DMR endorsed Grassley R inc),0.92,,115150_19981103_v3.pdf
 IA,Des Moines Register,115150,2000,H,1,,IA,"SIMPSON, BOB",Democrat,0,,,,"2000 H 1 D opp (Iowa City Democrat, ambitious agenda); not endorsed (DMR endorsed Leach R inc) [V7: corrected from Franken to Simpson per OCR]",0.92,,115150_20001107.pdf
 IA,Des Moines Register,115150,2000,H,2,,IA,"SMITH, DONNA",Democrat,0,,,,"2000 H 2 D opp (Dubuque, ran in 1996 too); not endorsed (DMR endorsed Nussle R inc) [V7: corrected from Whitney to Smith per OCR]",0.92,,115150_20001107.pdf
 IA,Des Moines Register,115150,2000,H,3,,IA,"MARCUS, JAY",Republican,0,,,,"2000 H 3 R opp (Fairfield, interesting ideas); not endorsed (DMR endorsed Boswell D inc) [V7: corrected from Johnson to Marcus per OCR]",0.92,,115150_20001107.pdf
 IA,Des Moines Register,115150,2000,H,4,,IA,"HUSTON, MIKE",Democrat,0,,,,"2000 H 4 D opp (lawyer, worthy opponent); not endorsed (DMR endorsed Ganske R inc) [V7: corrected from Wolfe to Huston per OCR]",0.92,,115150_20001107.pdf
-IA,Des Moines Register,115150,2000,H,5,,IA,"KEPPY, ROBERT",Democrat,0,,,,2000 H 5 D opp; not endorsed (DMR endorsed Latham R inc),0.92,,115150_20001107.pdf
-IA,Des Moines Register,115150,2002,H,1,,IA,"GLUBA, ANN",Democrat,0,,,,2002 H 1 D opp; not endorsed (DMR endorsed Nussle R),0.92,,115150_20001107.pdf
-IA,Des Moines Register,115150,2002,H,2,,IA,"LEACH, JIM",Republican,0,,1,,2002 H 2 R opp - reverse direction notable; data shows Hutchinson D endorsed,0.92,,115150_20001107.pdf
-IA,Des Moines Register,115150,2004,H,1,,IA,"FRANKEN, BILL",Democrat,0,,,,2004 H 1 D opp; not endorsed (DMR endorsed Nussle R inc),0.92,,115150_20001107.pdf
-IA,Des Moines Register,115150,2006,H,1,,IA,"WHALEN, MIKE",Republican,0,,,,2006 H 1 R opp; not endorsed (DMR endorsed Braley D for vacated Nussle seat),0.92,,115150_20001107.pdf
-IA,Des Moines Register,115150,2008,H,1,,IA,"HARTSUCH, DAVID",Republican,0,,,,2008 H 1 R opp; not endorsed (DMR endorsed Braley D inc),0.92,,115150_20001107.pdf
-IA,Des Moines Register,115150,2008,H,2,,IA,"MILLER-MEEKS, MARIANNETTE",Republican,0,,,,2008 H 2 R opp; not endorsed (DMR endorsed Loebsack D inc),0.92,,115150_20001107.pdf
-IA,Des Moines Register,115150,2014,SENATOR,,,IA,"ERNST, JONI",Republican,0,,,,2014 SEN R opp (won general); not endorsed,0.95,,115150_20121106.pdf
-IA,Des Moines Register,115150,2016,H,1,,IA,"BLUM, ROD",Republican,0,,1,,"2016 H 1 R opp (inc, won general); not endorsed (DMR endorsed Vernon D)",0.95,,115150_20121106.pdf
-IA,Des Moines Register,115150,2016,H,3,,IA,"YOUNG, DAVID",Republican,0,,1,,2016 H 3 R opp (inc); not endorsed (DMR endorsed Mowrer D),0.95,,115150_20121106.pdf
-IA,Des Moines Register,115150,2016,H,4,,IA,"KING, STEVE",Republican,0,,1,,2016 H 4 R opp (inc); not endorsed (DMR endorsed Weaver D),0.95,,115150_20121106.pdf
-IA,Des Moines Register,115150,2020,H,1,,IA,"HINSON, ASHLEY",Republican,0,,,,2020 H 1 R opp (won general); not endorsed (DMR endorsed Finkenauer D inc),0.95,,115150_20121106.pdf
-IA,Des Moines Register,115150,2020,H,2,,IA,"MILLER-MEEKS, MARIANNETTE",Republican,0,,,,2020 H 2 R opp (won general by 6 votes); not endorsed (DMR endorsed Hart D),0.95,,115150_20121106.pdf
-IA,Des Moines Register,115150,2020,H,3,,IA,"YOUNG, DAVID",Republican,0,,,,2020 H 3 R opp; not endorsed (DMR endorsed Axne D inc),0.95,,115150_20121106.pdf
-IA,Des Moines Register,115150,2020,H,4,,IA,"FEENSTRA, RANDY",Republican,0,,,,2020 H 4 R opp (won general); not endorsed (DMR endorsed Scholten D),0.95,,115150_20121106.pdf
+IA,Des Moines Register,115150,2000,H,5,,IA,"PALECEK, MIKE",Democrat,0,,,,image 20001107: Latham-R 5th-dist opponent was Mike Palecek (D),0.92,,115150_20001107.pdf
+IA,Des Moines Register,115150,2002,H,1,,IA,"HUTCHINSON, ANN",Democrat,0,,,,"image 20021105: Nussle-R 1st-dist opponent was Ann Hutchinson (D), mayor of Bettendorf (not Gluba)",0.92,,115150_20021105.pdf
+IA,Des Moines Register,115150,2002,H,2,,IA,"LEACH, JIM",Republican,0,,1,,2002 H 2 R opp - reverse direction notable; data shows Hutchinson D endorsed [opponent named in 20021105],0.92,,115150_20021105.pdf
+IA,Des Moines Register,115150,2004,H,1,,IA,"GLUBA, BILL",Democrat,0,,,,image 20041102_v2: Nussle-R 1st-dist opponent was Bill Gluba (D) [opponent named in 20041102_v2],0.92,,115150_20041102_v2.pdf
+IA,Des Moines Register,115150,2006,H,1,,IA,"WHALEN, MIKE",Republican,0,,,,2006 H 1 R opp; not endorsed (DMR endorsed Braley D for vacated Nussle seat) [opponent; source clipping not definitively attributed],0.92,,
+IA,Des Moines Register,115150,2008,H,1,,IA,"HARTSUCH, DAVID",Republican,0,,,,2008 H 1 R opp; not endorsed (DMR endorsed Braley D inc) [opponent named in 20081104_v6],0.92,,115150_20081104_v6.pdf
+IA,Des Moines Register,115150,2008,H,2,,IA,"MILLER-MEEKS, MARIANNETTE",Republican,0,,,,2008 H 2 R opp; not endorsed (DMR endorsed Loebsack D inc) [opponent named in 20081104],0.92,,115150_20081104.pdf
+IA,Des Moines Register,115150,2014,SENATOR,,,IA,"ERNST, JONI",Republican,0,,,,2014 SEN R opp (won general); not endorsed [opponent named in 20141104_v5],0.95,,115150_20141104_v5.pdf
+IA,Des Moines Register,115150,2016,H,1,,IA,"BLUM, ROD",Republican,0,,1,,"2016 H 1 R opp (inc, won general); not endorsed (DMR endorsed Vernon D) [opponent named in 20161108_v2]",0.95,,115150_20161108_v2.pdf
+IA,Des Moines Register,115150,2016,H,3,,IA,"YOUNG, DAVID",Republican,0,,1,,2016 H 3 R opp (inc); not endorsed (DMR endorsed Mowrer D) [opponent named in 20161108_v3],0.95,,115150_20161108_v3.pdf
+IA,Des Moines Register,115150,2016,H,4,,IA,"KING, STEVE",Republican,0,,1,,2016 H 4 R opp (inc); not endorsed (DMR endorsed Weaver D) [opponent; source clipping not definitively attributed],0.95,,
+IA,Des Moines Register,115150,2020,H,1,,IA,"HINSON, ASHLEY",Republican,0,,,,2020 H 1 R opp (won general); not endorsed (DMR endorsed Finkenauer D inc) [opponent named in 20201103_v2],0.95,,115150_20201103_v2.pdf
+IA,Des Moines Register,115150,2020,H,2,,IA,"MILLER-MEEKS, MARIANNETTE",Republican,0,,,,2020 H 2 R opp (won general by 6 votes); not endorsed (DMR endorsed Hart D) [opponent named in 20201103_v2],0.95,,115150_20201103_v2.pdf
+IA,Des Moines Register,115150,2020,H,3,,IA,"YOUNG, DAVID",Republican,0,,,,2020 H 3 R opp; not endorsed (DMR endorsed Axne D inc) [opponent named in 20201103_v2],0.95,,115150_20201103_v2.pdf
+IA,Des Moines Register,115150,2020,H,4,,IA,"FEENSTRA, RANDY",Republican,0,,,,2020 H 4 R opp (won general); not endorsed (DMR endorsed Scholten D) [opponent named in 20201103_v2],0.95,,115150_20201103_v2.pdf
 IA,Des Moines Register,115150,1990,LT GOVERNOR,,,IA,"JOCHUM, JOAN",Democrat,0,,,,1990 LT GOV D opp; not endorsed (DMR endorsed Corning R),0.95,,115150_19901104.pdf
 IA,Des Moines Register,115150,1990,ATTORNEY GENERAL,,,IA,"GRIMES, FREDERICK",Republican,0,,,,1990 AG R opp; not endorsed (DMR endorsed Campbell D),0.95,,115150_19901104.pdf
 IA,Des Moines Register,115150,1990,SEC OF STATE,,,IA,"JOHNSON, FRED",Republican,0,,,,1990 SoS R opp; not endorsed (DMR endorsed Baxter D),0.95,,115150_19901104.pdf
@@ -243,17 +242,17 @@ IA,Des Moines Register,115150,1990,H,6,,IA,"STARK, JEAN LLOYD",Democrat,0,,,,199
 IA,Des Moines Register,115150,1990,AUDITOR,,,IA,"COOPER, GUY",Democrat,0,,,,1990 Auditor D opp; not endorsed (DMR endorsed Johnson R),0.95,,115150_19901104.pdf
 IA,Des Moines Register,115150,2000,VICE PRESIDENT,,,IA,"LIEBERMAN, JOSEPH",Democrat,1,,,,2000 VP D endorsed (DMR endorsed Gore/Lieberman),0.92,,115150_20001107_v2.pdf
 IA,Des Moines Register,115150,2000,VICE PRESIDENT,,,IA,"CHENEY, DICK",Republican,0,,,,2000 VP R opp; not endorsed,0.92,,115150_20001107_v2.pdf
-IA,Des Moines Register,115150,2000,STATE REP,72,,IA,"BROWN, BOB",Republican,0,,,,2000 STATE REP 72 R opp; not endorsed (DMR endorsed Petersen D),0.92,,115150_20001107_v2.pdf
+IA,Des Moines Register,115150,2000,STATE REP,72,,IA,"CHAVANNES, JEFF",Republican,0,,,,image 20001107_v3: Petersen-D HD72 opponent was Jeff Chavannes (R),0.92,,115150_20001107_v2.pdf
 IA,Des Moines Register,115150,2002,GOVERNOR,,,IA,"GROSS, DOUG",Republican,0,,,,2002 GOV R opp; not endorsed (DMR endorsed Vilsack D inc),0.92,,115150_20021105_v2.pdf
 IA,Des Moines Register,115150,2002,SENATOR,,,IA,"GANSKE, GREG",Republican,0,,,,2002 SEN R opp (H 4 R inc); not endorsed (DMR endorsed Harkin D inc),0.92,,115150_20021105_v2.pdf
 IA,Des Moines Register,115150,2002,H,3,,IA,"THOMPSON, STAN",Republican,0,,,,2002 H 3 R opp; not endorsed (DMR endorsed Boswell D inc),0.92,,115150_20021105_v2.pdf
 IA,Des Moines Register,115150,2002,H,4,,IA,"CURTIS, JOHN",Democrat,0,,,,2002 H 4 D opp; not endorsed (DMR endorsed Latham R inc),0.92,,115150_20021105_v2.pdf
 IA,Des Moines Register,115150,2002,H,5,,IA,"SHOMSHOR, PAUL",Democrat,0,,,,2002 H 5 D opp; not endorsed (DMR endorsed King R),0.92,,115150_20021105_v2.pdf
-IA,Des Moines Register,115150,2004,SENATOR,,,IA,"SMALL, ART",Democrat,0,,,,2004 SEN D opp; not endorsed (DMR endorsed Grassley R inc),0.92,,115150_20021105_v2.pdf
-IA,Des Moines Register,115150,2004,H,3,,IA,"BOSWELL, LEONARD",Democrat,0,1,,,2004 H 3 D opp (inc); not endorsed (DMR endorsed Thompson R),0.92,,115150_20021105_v2.pdf
-IA,Des Moines Register,115150,2004,H,4,,IA,"LATHAM, TOM",Republican,0,,1,,2004 H 4 R opp (inc); not endorsed (DMR endorsed Johnson D),0.92,,115150_20021105_v2.pdf
-IA,Des Moines Register,115150,2006,GOVERNOR,,,IA,"NUSSLE, JIM",Republican,0,,,,2006 GOV R opp (H 1 R inc seeking GOV); not endorsed (DMR endorsed Culver D),0.92,,115150_20021105_v2.pdf
-IA,Des Moines Register,115150,2006,H,5,,IA,"KING, STEVE",Republican,0,,1,,2006 H 5 R opp (inc); not endorsed (DMR endorsed Schulte D),0.92,,115150_20021105_v2.pdf
+IA,Des Moines Register,115150,2004,SENATOR,,,IA,"SMALL, ART",Democrat,0,,,,2004 SEN D opp; not endorsed (DMR endorsed Grassley R inc) [opponent named in 20041102_v5],0.92,,115150_20041102_v5.pdf
+IA,Des Moines Register,115150,2004,H,3,,IA,"BOSWELL, LEONARD",Democrat,0,1,,,2004 H 3 D opp (inc); not endorsed (DMR endorsed Thompson R) [opponent named in 20041102_v3],0.92,,115150_20041102_v3.pdf
+IA,Des Moines Register,115150,2004,H,4,,IA,"LATHAM, TOM",Republican,0,,1,,2004 H 4 R opp (inc); not endorsed (DMR endorsed Johnson D) [opponent named in 20041102_v4],0.92,,115150_20041102_v4.pdf
+IA,Des Moines Register,115150,2006,GOVERNOR,,,IA,"NUSSLE, JIM",Republican,0,,,,2006 GOV R opp (H 1 R inc seeking GOV); not endorsed (DMR endorsed Culver D) [opponent; source clipping not definitively attributed],0.92,,
+IA,Des Moines Register,115150,2006,H,5,,IA,"KING, STEVE",Republican,0,,1,,2006 H 5 R opp (inc); not endorsed (DMR endorsed Schulte D) [opponent; source clipping not definitively attributed],0.92,,
 IA,Des Moines Register,115150,2010,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,0,,,,"2010 GOV R opp (former GOV 1983-99, won comeback); not endorsed (DMR endorsed Culver D inc)",0.95,,115150_20101102.pdf
 IA,Des Moines Register,115150,2010,SENATOR,,,IA,"CONLIN, ROXANNE",Democrat,0,,,,2010 SEN D opp; not endorsed (DMR endorsed Grassley R inc),0.95,,115150_20101102.pdf
 IA,Des Moines Register,115150,2010,H,1,,IA,"LANGE, BEN",Republican,0,,,,2010 H 1 R opp; not endorsed (DMR endorsed Braley D inc),0.95,,115150_20101102.pdf
@@ -267,18 +266,23 @@ IA,Des Moines Register,115150,2012,H,1,,IA,"LANGE, BEN",Republican,0,,,,2012 H 1
 IA,Des Moines Register,115150,2012,H,2,,IA,"ARCHER, JOHN",Republican,0,,,,2012 H 2 R opp; not endorsed (DMR endorsed Loebsack D inc),0.95,,115150_20121106.pdf
 IA,Des Moines Register,115150,2012,H,3,,IA,"BOSWELL, LEONARD",Democrat,0,1,,,2012 H 3 D opp (inc - lost to Latham R inc due to redistricting); not endorsed (DMR endorsed Latham R inc),0.95,,115150_20121106.pdf
 IA,Des Moines Register,115150,2012,H,4,,IA,"KING, STEVE",Republican,0,,1,,"2012 H 4 R opp (inc, won); not endorsed (DMR endorsed Vilsack D)",0.95,,115150_20121106.pdf
-IA,Des Moines Register,115150,2014,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,1,,1,,"2014 GOV R endorsed (inc, 4th term)",0.92,,115150_20141104_v5.pdf
+IA,Des Moines Register,115150,2014,GOVERNOR,,,IA,"BRANSTAD, TERRY",Republican,0,,1,,"image 20141104_v5 ""WE CANNOT BACK EITHER"": DMR declined to endorse for governor (dual non-endorsement with Hatch)",0.92,,115150_20141104_v5.pdf
 IA,Des Moines Register,115150,2014,GOVERNOR,,,IA,"HATCH, JACK",Democrat,0,,,,2014 GOV D opp; not endorsed (DMR endorsed Branstad R inc),0.92,,115150_20141104_v5.pdf
 IA,Des Moines Register,115150,2016,VICE PRESIDENT,,,IA,"KAINE, TIMOTHY",Democrat,1,,,,2016 VP D endorsed,0.95,,115150_20161108.pdf
 IA,Des Moines Register,115150,2016,VICE PRESIDENT,,,IA,"PENCE, MIKE",Republican,0,,,,2016 VP R opp; not endorsed,0.95,,115150_20161108.pdf
 IA,Des Moines Register,115150,2016,SENATOR,,,IA,"JUDGE, PATTY",Democrat,0,,,,2016 SEN D opp; not endorsed (DMR endorsed Grassley R inc),0.95,,115150_20161108.pdf
 IA,Des Moines Register,115150,2016,H,2,,IA,"PETERS, CHRISTOPHER",Republican,0,,,,2016 H 2 R opp; not endorsed (DMR endorsed Loebsack D inc),0.95,,115150_20161108.pdf
-IA,Des Moines Register,115150,2018,GOVERNOR,,,IA,"REYNOLDS, KIM",Republican,0,,1,,"2018 GOV R opp (inc, won general); not endorsed (DMR endorsed Hubbell D)",0.95,,115150_20161108.pdf
-IA,Des Moines Register,115150,2018,H,1,,IA,"FINKENAUER, ABBY",Democrat,1,,,,2018 H 1 D endorsed (DMR endorsement),0.95,,115150_20161108.pdf
-IA,Des Moines Register,115150,2018,H,1,,IA,"BLUM, ROD",Republican,0,,1,,"2018 H 1 R opp (inc, lost); not endorsed (DMR endorsed Finkenauer D)",0.95,,115150_20161108.pdf
-IA,Des Moines Register,115150,2018,H,2,,IA,"PETERS, CHRISTOPHER",Republican,0,,,,2018 H 2 R opp; not endorsed (DMR endorsed Loebsack D inc),0.95,,115150_20161108.pdf
+IA,Des Moines Register,115150,2018,GOVERNOR,,,IA,"REYNOLDS, KIM",Republican,0,,1,,"2018 GOV R opp (inc, won general); not endorsed (DMR endorsed Hubbell D) [opponent named in 20181106]",0.95,,115150_20181106.pdf
+IA,Des Moines Register,115150,2018,H,1,,IA,"FINKENAUER, ABBY",Democrat,1,,,,2018 H 1 D endorsed (DMR endorsement) [opponent; source clipping not definitively attributed],0.95,,
+IA,Des Moines Register,115150,2018,H,1,,IA,"BLUM, ROD",Republican,0,,1,,"2018 H 1 R opp (inc, lost); not endorsed (DMR endorsed Finkenauer D) [opponent named in 20181106]",0.95,,115150_20181106.pdf
+IA,Des Moines Register,115150,2018,H,2,,IA,"PETERS, CHRISTOPHER",Republican,0,,,,2018 H 2 R opp; not endorsed (DMR endorsed Loebsack D inc) [opponent; source clipping not definitively attributed],0.95,,
 IA,Des Moines Register,115150,1988,VICE PRESIDENT,,,IA,"BENTSEN, LLOYD",Democrat,1,,,,1988 VP D endorsed (DMR endorsed Dukakis/Bentsen),0.92,,115150_19881030.pdf
 IA,Des Moines Register,115150,1988,VICE PRESIDENT,,,IA,"QUAYLE, DAN",Republican,0,,,,1988 VP R opp; not endorsed,0.92,,115150_19881030.pdf
-IA,Des Moines Register,115150,1996,VICE PRESIDENT,,,IA,"GORE, AL",Democrat,1,1,,,"1996 VP D endorsed (inc, DMR endorsed Clinton/Gore)",0.92,,115150_19881030.pdf
-IA,Des Moines Register,115150,1996,VICE PRESIDENT,,,IA,"KEMP, JACK",Republican,0,,,,1996 VP R opp; not endorsed,0.92,,115150_19881030.pdf
-IA,Des Moines Register,115150,1996,SENATOR,,,IA,"LIGHTFOOT, JIM",Republican,0,,,,1996 SEN R opp; not endorsed (DMR endorsed Harkin D inc),0.92,,115150_19881030.pdf
+IA,Des Moines Register,115150,1996,VICE PRESIDENT,,,IA,"GORE, AL",Democrat,1,1,,,"1996 VP D endorsed (inc, DMR endorsed Clinton/Gore) [opponent; source clipping not definitively attributed]",0.92,,
+IA,Des Moines Register,115150,1996,VICE PRESIDENT,,,IA,"KEMP, JACK",Republican,0,,,,1996 VP R opp; not endorsed [opponent; source clipping not definitively attributed],0.92,,
+IA,Des Moines Register,115150,1996,SENATOR,,,IA,"LIGHTFOOT, JIM",Republican,0,,,,1996 SEN R opp; not endorsed (DMR endorsed Harkin D inc) [opponent named in 19961105],0.92,,115150_19961105.pdf
+IA,Des Moines Register,115150,1968,PRESIDENT,,,IA,"HUMPHREY, HUBERT",Democrat,1,,,,"image 19681027: ""we favor Humphrey""",0.9,,115150_19681027.pdf
+IA,Des Moines Register,115150,1972,PRESIDENT,,,IA,"NIXON, RICHARD M.",Republican,1,,,,"image 19721029: ""We favor a continuation of the Nixon Administration""",0.9,,115150_19721029.pdf
+IA,Des Moines Register,115150,1972,GOVERNOR,,,IA,"RAY, ROBERT",Republican,1,,,,"image 19721029: Ray ""our choice for another term""",0.9,,115150_19721029.pdf
+IA,Des Moines Register,115150,2002,H,4,,IA,"NORRIS, JOHN",Democrat,1,,,,image 20021105: DMR endorsed John Norris (D) in the 4th,0.9,,115150_20021105.pdf
+IA,Des Moines Register,115150,2006,SEC OF STATE,,,IA,"MAURO, MIKE",Democrat,1,,,,"image 20061107 recap: ""Secretary of State: Mike Mauro"" (D)",0.9,,115150_20061107.pdf

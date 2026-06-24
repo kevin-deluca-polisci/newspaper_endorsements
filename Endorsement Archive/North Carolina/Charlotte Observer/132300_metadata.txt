@@ -6,7 +6,7 @@ Newspaper ID: 132300
 State: NC
 Number of clippings: 26
 Endorsement data years: 1960-2020
-Total candidate records: 969 (706 endorsed=1)
+Total candidate records: 970 (691 endorsed=1)
 Total proposition records: 80 (80 with a yes/no direction)
 
 Confidence statistics (all records):
@@ -14,7 +14,7 @@ Confidence statistics (all records):
   Low-confidence records (< 0.7): 18
 
 Top offices (top 15):
-  STATE REP: 197
+  STATE REP: 198
   CNTY COMM: 172
   STATE SENATOR: 89
   COURT OF APPEALS: 59
@@ -31,7 +31,7 @@ Top offices (top 15):
   LT GOVERNOR: 14
 
 Party distribution:
-  Democrat: 521
+  Democrat: 522
   Republican: 331
   Libertarian: 16
   Independent: 9

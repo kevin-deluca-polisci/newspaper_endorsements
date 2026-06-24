@@ -13,9 +13,10 @@ Re-OCR + pre-screen + high-res vision on the high-risk items. Integrity clean: P
 ## 2. Editorial-independence pattern (informational — all verified/sensible)
 President: FDR 1932/36/44 (D), **Willkie 1940**, no-endorsement 1948, **Eisenhower 1952 & 1956**, Kennedy 1960, Humphrey 1968, McGovern 1972. Split-ticket Republican picks: **Howard Baker (Senate 1972)**, **Lamar Alexander (Governor 1974)**. 1928 endorsed Al Smith (loyal D ticket) — vision-confirmed ("The Democratic Party's Candidate" editorial). These cross-party endorsements are real, not errors.
 
-## 3. Grid years 1968–1974 — verified clean + cross-validated
-- **1972 fully vision-verified** against the Times's clean editorial list (Senator Baker-R, H3 Sompayrac-D, PSC Clement-D, the state-senate/house slate, and the **multi-member county-commission districts** where the Times endorsed bipartisan slates — "two/three to be elected" — explaining the both-party e=1 rows).
+## 3. Grid years 1968–1974 — ALL vision-verified + cross-validated
+- **1972 & 1970 & 1974 fully vision-verified** against the Times's clean editorial recaps ("The Times has recommended as follows" / "The Times recommends..."). 1970 referendum correctly AGAINST (sheriff 4-yr terms); 1974 both proposals correctly Yes; 1972 multi-member county-commission districts ("two/three to be elected") explain the bipartisan both-party e=1 rows.
 - **1968 cross-validates with the News-Free Press:** the Times's 1968 Democratic state-rep endorsees (Guthrie-d2, Davis-d4, Stone-d5, Petty-d7, O'Rear-d10, Moore-d11) are exactly the opponents the NFP endorsed Republicans against in the same districts. Mutual confirmation.
+- **FLAG — 1970 "H d6 William R. Anderson (D)":** NOT in the Times's formal 1970 recap (which lists only Winningham for US Rep, 3rd Dist). Anderson is the TN-6 (Nashville) congressman, outside the Times's area; a separate editorial discusses/defends his absenteeism but is not a clear endorsement. e=1 retained, flagged for RA.
 
 ## 4. Cross-paper flag (for the Chattanooga reconciliation)
 - **1972 Dan Oehmig party:** the Times explicitly prints "Dan Oehmig (Republican)" (10th Senatorial). The **News-Free Press (143901) has him as Independent for 1972** — the NFP likely needs Oehmig 1972 party Independent→Republican. Resolve at reconciliation.

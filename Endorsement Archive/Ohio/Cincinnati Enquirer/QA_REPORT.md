@@ -92,3 +92,34 @@ Conservative-leaning OH paper covering tri-state Cincinnati metro area (OH/KY/IN
 - 1968_v2 secondary clipping integrated and deduped
 - 3 1968 records with empty endorsed (OCR mark direction unclear): RAY, LATTIMER (State Rep), CONROY (Judge)
 - 162 records without dist field acceptable (Supreme Court seats + early-era state leg at-large)
+
+---
+
+## V9 Deep Verification — 2026-06-22
+
+**Scope:** 1,427 candidate + 129 proposition records, 1958–2016 (26 years). Republican-leaning OH paper, tri-state (OH/KY/IN) coverage.
+
+**Integrity pre-screen (clean):** Pattern K = 0; exact duplicates = 0; blank names = 0; all parties valid (Socialist Labor & American Independent are real minor-party lines). 957 e=1 / 467 e=0 / 3 blank-direction (all 1968, flagged for RA).
+
+**Vision/OCR verification:**
+- Marquee races all 26 years confirmed R-leaning; **2016 Clinton (e=1) over Trump (e=0) break OCR-confirmed**.
+- Tri-state multi-senate structure confirmed legitimate (OH/KY/IN), not duplicates.
+- Representative down-ballot year **2008 fully verified** against the "Recap of Enquirer endorsements" editorial (Boehner, Cordray, O'Connor/Stratton, Davis KY-4, Blessing, Thayer, Seitz/Cates all e=1; Obama/Biden/Lunsford/Driehaus/Wulsin e=0).
+- Propositions: 129 records, mixed directions; all-YES years (1960/1962/2000) confirmed legitimate levy/amendment approve-recommendations.
+
+**Corrections applied:** none to existing directions/names. 3 blank-direction 1968 records flagged in `notes_endorse` ("V9 2026-06-21 FLAG") for RA high-zoom adjudication of the dense sample-ballot grid; noted likely "Lattimer, Dean" → "Luttmer, William J." name issue.
+
+**Open items / RA:** see `RA_NEEDS.md` — the 1968 sample-ballot grid is the single highest-risk year (3 flagged blanks + recommend a full-grid RA pass). Cross-paper reconciliation with the **Cincinnati Post** pending (logged in `CROSS_PAPER_VALIDATION_QUEUE.md`).
+
+Metadata regenerated post-verification.
+
+### V9 ADDENDUM — grid-year deep vision pass (2026-06-22)
+After the initial V9 pass, re-read all nine mid-century sample-ballot/grid years (1958–1974) at high zoom against the clipping images. This surfaced a large, systematic extraction error class that the pre-screen could not see:
+- **At-large years 1958/1960/1962/1964**: the whole alphabetical candidate list had been coded R/endorsed; truth is ~9 R (marked) + ~9 D (unmarked). Flipped 24 mis-coded Democrats to D/e=0 across these years; fixed recurring name misreads (Beckman→Reckman, Glasdorf→Glandorf, Grothaus→Groneman, Boggess→Rogoff, Geer→Geier, Shapiro Abraham→Josephine, Luttner→Luttmer).
+- **1966**: Black d69 D→R; Murdock/Hausman d70 parties un-swapped (cross-party Hausman-D endorsement).
+- **1968**: removed 8 phantom/duplicate records, realigned state-rep districts, fixed Fields' party, added omitted Mallory; resolved all 3 blank-direction records.
+- **1970**: full district realignment + Mallory-over-Fleming (d72) direction reversal + Broxterman added.
+- **1972**: Mallory-over-Painter (d23) direction reversal + district 33→23.
+- **1974**: district realignment (Anderson d20, Luken d24, Mallory d23, Cibula d26); directions confirmed correct.
+
+Final integrity after all edits: 1,427 records, Pattern K = 0, 0 duplicates, 0 blank names, 0 blank directions, all parties valid (929 e=1 / 498 e=0). Residual low-volume RA items (1960 five unverifiable at-large names; 1958 "Bailey"; incomplete at-large opponent capture) documented in `RA_NEEDS.md`. Metadata regenerated.

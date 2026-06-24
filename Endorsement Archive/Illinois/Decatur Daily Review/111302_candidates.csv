@@ -11,7 +11,7 @@ IL,Decatur Daily Review,111302,1964,PRESIDENT,,,IL,"JOHNSON, LYNDON B.",Democrat
 IL,Decatur Daily Review,111302,1964,VICE PRESIDENT,,,IL,"HUMPHREY, HUBERT H.",Democrat,1,,,,Running mate of endorsed Johnson,0.9
 IL,Decatur Daily Review,111302,1964,AUDITOR,,,IL,"HOWLETT, MICHAEL J.",Democrat,1,,,,"State Auditor - 'Howlett, a Democrat, is preferred for state auditor on his record.' [V2 dname cleared - state office not county]",0.95
 IL,Decatur Daily Review,111302,1964,TRUSTEE,,University of Illinois,IL,"CLEMENT, HOWARD W.",Democrat,1,1,,,U of I Trustee; Democratic incumbent recommended on basis of conscientious and meritorious service,0.9
-IL,Decatur Daily Review,111302,1964,TRUSTEE,,University of Illinois,IL,"JONES, THEODORE A.",Democrat,1,1,,,U of I Trustee; appointed by governor to fill a vacancy; recommended,0.9
+IL,Decatur Daily Review,111302,1964,TRUSTEE,,University of Illinois,IL,"JONES, THEODORE A.",Democrat,0,,,,image-verified 19641101 marked ballot: box UNMARKED; not among 3 recommended trustees (Clement/Pogue/Lovejoy),0.9
 IL,Decatur Daily Review,111302,1964,TRUSTEE,,University of Illinois,IL,"POGUE, HAROLD",Democrat,1,1,,,U of I Trustee incumbent; 'Harold Pogue is completing a term on the board',0.85
 IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,5,5th Judicial District,IL,"KUNCE, PEYTON C.",Republican,1,,,,"'In the Fifth District, which is Southern Illinois, we recommend votes for Peyton C. Kunce and Sanford S. Meyer, Republicans, and Joseph H. Goldenhursh, a Democrat'",0.95
 IL,Decatur Daily Review,111302,1964,COURT OF APPEALS,5,5th Judicial District,IL,"MEYER, SANFORD S.",Republican,1,,,,5th Appellate Court District,0.95
@@ -20,23 +20,22 @@ IL,Decatur Daily Review,111302,1964,JUDGE,6,6th Judicial Circuit,IL,"MORGAN, BIR
 IL,Decatur Daily Review,111302,1964,JUDGE,6,6th Judicial Circuit,IL,"MORTHLAND, MARTIN E.",Nonpartisan,1,,1,,Incumbent Circuit Court judge to be retained,0.85
 IL,Decatur Daily Review,111302,1964,JUDGE,6,6th Judicial Circuit,IL,"SCOTT, RODNEY",Nonpartisan,1,,,,Incumbent Circuit Court judge to be retained,0.85
 IL,Decatur Daily Review,111302,1964,DA/PROSECUTOR,,Macon County,IL,"GREANIAS, BASIL G.",Democrat,1,,,,State's Attorney - running uncontested; editorial supports incumbent county officials who served well,0.8
-IL,Decatur Daily Review,111302,1966,SENATOR,,,IL,"PERCY, CHARLES H.",Republican,1,,,,Editorial describes both Douglas and Percy as outstanding candidates; paper endorsed Percy in prior year for governor; ballot recap shows Percy as recommended,0.9
-IL,Decatur Daily Review,111302,1966,TREASURER,,Macon County,IL,"STEVENSON, ADLAI E. III",Democrat,1,,,,State Treasurer; editorial endorses Stevenson - 'a blue ribbon legislator' [V2 dname cleared - state office not county],0.92
+IL,Decatur Daily Review,111302,1966,TREASURER,,,IL,"STEVENSON, ADLAI E. III",Democrat,1,,,,State Treasurer (statewide); image-verified marked 19661106,0.92
 IL,Decatur Daily Review,111302,1966,SUPERINTENDENT,,,IL,"PRINCE, DONALD",Democrat,1,,,,Superintendent of Public Instruction; second endorsement of Prince - 'Donald Prince...has the capacity to administer the office of superintendent of public instruction creatively',0.97
 IL,Decatur Daily Review,111302,1966,SUPERINTENDENT,,,IL,"PAGE, RAY",Republican,0,,1,,GOP incumbent opposed; broke pledge to work for state school board; lobbied against legislation,0.95
-IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"WATKINS, FRANCES BEST",Democrat,1,1,,,"U of I Trustee; 'We endorse the two Democratic incumbents, Kenney Williamson and Mrs. Frances Best Watkins'",0.95
+IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"WATKINS, FRANCES B.",Democrat,1,1,,,"U of I Trustee; 'We endorse the two Democratic incumbents, Kenney Williamson and Mrs. Frances Best Watkins' | name std: Frances B. Watkins (Mrs.; U of I trustee, web-verified)",0.95
 IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"WILLIAMSON, KENNEY E.",Democrat,1,1,,,U of I Trustee Democratic incumbent endorsed,0.95
 IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"GRIMES, DONALD R.",Republican,1,,,,"Donald Grimes of Evanston, head of IGA Food Stores - 'whose sound business experience should serve the board well'",0.93
 IL,Decatur Daily Review,111302,1966,H,22,22nd Congressional District,IL,"SPRINGER, WILLIAM L.",Republican,1,,1,,"'on the basis of his seniority and position as ranking minority member of the House Commerce Committee, Mr. Springer is recommended' for 9th term",0.95
 IL,Decatur Daily Review,111302,1966,STATE SENATOR,50,,IL,"MCCARTHY, ROBERT W.",Democrat,1,1,,,State Senator 50th District; marked ballot shows McCarthy endorsed,0.9
 IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"TIPSWORD, ROLLAND F.",Democrat,1,,,,State Representative; marked on recap ballot,0.9
 IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"ALSUP, JOHN W.",Democrat,1,1,,,State Representative; marked on recap ballot,0.9
-IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"BORCHERS, WEBBER",Republican,1,,,,State Representative; marked on recap ballot [QA fix: corrected from JOHNS to BORCHERS per 1966 Sunday ballot marks],0.85
+IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"BORCHERS, WEBBER",Republican,0,,,,"image-verified 19661106 ballot: box UNMARKED (opponent); endorsed trio = Tipsword D, Alsup D, Johns R",0.85
 IL,Decatur Daily Review,111302,1966,JUDGE,6,6th Judicial Circuit,IL,"WEBBER, ALBERT G.",Republican,1,,,,"Circuit Court Judge 6th Judicial Circuit, vacancy term expires 1970; marked ballot shows Webber endorsed",0.9
 IL,Decatur Daily Review,111302,1966,JUDGE,6,6th Judicial Circuit,IL,"GOLLINGS, FRANK J.",Nonpartisan,1,,,,Associate judge retention; 'Vote Yes to Retain Judges' editorial recommends retention,0.92
 IL,Decatur Daily Review,111302,1966,JUDGE,6,6th Judicial Circuit,IL,"MORTHLAND, DONALD W.",Nonpartisan,1,,,,Associate judge retention; editorial recommends retention,0.92
 IL,Decatur Daily Review,111302,1966,CNTY CLERK,,Macon County,IL,"TANGNEY, WILLIAM M.",Democrat,1,,,,County Clerk; marked on recap ballot,0.9
-IL,Decatur Daily Review,111302,1966,TREASURER,,Macon County,IL,"MADDOX, WILLIAM H.",Republican,1,,,,County Treasurer; marked on recap ballot [V2 dname cleared - state office not county],0.9
+IL,Decatur Daily Review,111302,1966,TREASURER,,Macon County,IL,"MADDOX, WILLIAM H.",Republican,0,,,,image-verified 19661106 ballot: box UNMARKED (R opponent for Macon Co Treasurer),0.9
 IL,Decatur Daily Review,111302,1968,PRESIDENT,,,IL,"NIXON, RICHARD M.",Republican,1,,,,Editorial endorses Nixon - 'Richard M. Nixon is most likely to bring order to the federal government. We urge his election on Nov. 5',0.98
 IL,Decatur Daily Review,111302,1968,PRESIDENT,,,IL,"HUMPHREY, HUBERT H.",Democrat,0,,,,Opposed; 'The very apparatus he needs for election — the Democratic party — is responsible for what we see that we dislike',0.9
 IL,Decatur Daily Review,111302,1968,PRESIDENT,,,IL,"WALLACE, GEORGE C.",American Independent,0,,,,American Independent Party; 'never for a minute considered George Wallace fit for the presidency',0.97
@@ -96,7 +95,6 @@ IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"CHERRY, ROBERT E.",Democ
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"NEWHOUSE, RICHARD H. JR.",Democrat,1,1,,,D-Chicago,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"PARTEE, CECIL A.",Democrat,1,1,,,D-Chicago,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"DOUGHERTY, DANIEL",Democrat,1,1,,,D-Chicago,0.9
-IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"MCCARTHY, ROBERT W.",Democrat,1,1,,,D-Decatur (Senate incumbent listed in editorial),0.85
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"DONNEWALD, JAMES H.",Democrat,1,1,,,D-Breese,0.9
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,47,,IL,"WEAVER, STANLEY",Republican,1,,,,"R-Urbana; House member seeking Senate seat, 47th District",0.95
 IL,Decatur Daily Review,111302,1970,STATE SENATOR,,,IL,"HALL, KENNETH",Democrat,1,,,,D-East St. Louis; House member seeking Senate seat,0.9
@@ -253,15 +251,20 @@ IL,Decatur Daily Review,111302,1968,COURT OF APPEALS,4,4th Judicial District,IL,
 IL,Decatur Daily Review,111302,1978,STATE REP,51,,IL,"BORCHERS, WEBBER",Republican,0,,,,1978 STATE REP 51 Republican opp; not endorsed by DDR,0.9
 IL,Decatur Daily Review,111302,1978,H,22,22nd Congressional District,IL,"CRANE, DANIEL B.",Republican,0,,,,1978 H 22 Republican opp; not endorsed by DDR (endorsed Bruce D),0.95
 IL,Decatur Daily Review,111302,1978,TREASURER,,Macon County,IL,"WHALEN, WILLIAM R.",Democrat,0,,,,1978 Macon Co Treasurer Democratic opp; not endorsed (endorsed Edgcomb R),0.9
-IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"JOHNS, GEORGE P.",Republican,0,,,,1966 STATE REP 52 Republican opp; on ballot not endorsed (paper picked Borchers as R),0.9
+IL,Decatur Daily Review,111302,1966,STATE REP,52,,IL,"JOHNS, GEORGE P.",Republican,1,,,,image-verified 19661106 ballot: box MARKED (R endorsee of the 52nd); corrects prior Johns->Borchers error,0.9
 IL,Decatur Daily Review,111302,1966,STATE SENATOR,50,,IL,"BROWN, REX L.",Republican,0,,,,1966 STATE SEN 50 Republican opp; not endorsed (endorsed McCarthy D),0.9
 IL,Decatur Daily Review,111302,1966,CNTY CLERK,,Macon County,IL,"TAYLOR, SARAH",Republican,0,,,,1966 Macon Co Clerk Republican opp; not endorsed (endorsed Tangney D),0.9
-IL,Decatur Daily Review,111302,1966,TREASURER,,Macon County,IL,"BROWN, GEORGE M.",Democrat,0,,,,1966 Macon Co Treasurer Democratic opp; not endorsed (endorsed Maddox R),0.9
+IL,Decatur Daily Review,111302,1966,TREASURER,,Macon County,IL,"BROWN, GEORGE M.",Democrat,1,,,,image-verified 19661106 ballot: box MARKED (D endorsee for Macon Co Treasurer),0.9
 IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"HART, RICHARD O.",Democrat,0,,,,1966 U of I Trustee D opp; not endorsed (paper picked Watkins+Williamson+Grimes),0.95
 IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"WEATHERLY, JAMES A.",Republican,0,,,,1966 U of I Trustee R opp; not endorsed (paper picked Grimes as R),0.95
 IL,Decatur Daily Review,111302,1966,TRUSTEE,,University of Illinois,IL,"HAHN, RALPH C.",Republican,0,,,,1966 U of I Trustee R opp; not endorsed (paper picked Grimes as R),0.95
 IL,Decatur Daily Review,111302,1970,SENATOR,,,IL,"SMITH, RALPH T.",Republican,0,,1,,1970 SEN Republican opp (interim incumbent after Dirksen death); not endorsed (endorsed Stevenson D),0.95
 IL,Decatur Daily Review,111302,1970,TREASURER,,,IL,"KUCHARSKI, EDMUND",Republican,0,,,,1970 State Treasurer Republican opp; not endorsed (endorsed Dixon D),0.95
-IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"WATERS, ORVAS S.",Democrat,0,,,,1968 U of I Trustee D opp; not endorsed (paper picked Williamson D),0.95
+IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"WATKINS, FRANCES B.",Democrat,0,,,,"name fix per 19681103 ballot (D trustee slate = Williamson/Watkins/Ives); not endorsed | name std: Frances B. Watkins (Mrs.; U of I trustee, web-verified)",0.95
 IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"HUGHES, EARL",Republican,0,,,,1968 U of I Trustee R opp; not endorsed (paper picked Swain R + Steger R),0.95
 IL,Decatur Daily Review,111302,1968,TRUSTEE,,University of Illinois,IL,"IVES, TIMOTHY R.",Democrat,0,,,,1968 U of I Trustee D opp; not endorsed (paper picked Williamson D),0.95
+IL,Decatur Daily Review,111302,1964,TRUSTEE,,University of Illinois,IL,"LOVEJOY, C. ERNEST",Republican,1,,,,"image-verified 19641101 ballot: box MARKED (3rd endorsed U of I trustee, the lone R pick)",0.9
+IL,Decatur Daily Review,111302,1966,SHERIFF,,Macon County,IL,"DOSTER, JIM",Republican,1,,,,image-verified 19661106 ballot: box MARKED (Macon Co Sheriff endorsee),0.9
+IL,Decatur Daily Review,111302,1966,SHERIFF,,Macon County,IL,"NEARA, FRANK A.",Democrat,0,,,,image-verified 19661106 ballot: box UNMARKED (D opponent),0.9
+IL,Decatur Daily Review,111302,1966,SUPERINTENDENT,,Macon County,IL,"BROWN, HOWARD E.",Republican,1,,,,County Superintendent of Schools; image-verified 19661106 ballot: box MARKED,0.9
+IL,Decatur Daily Review,111302,1966,SUPERINTENDENT,,Macon County,IL,"FREEMAN, NED",Democrat,0,,,,County Superintendent of Schools; image-verified 19661106 ballot: box UNMARKED (D opponent),0.9

@@ -1,5 +1,30 @@
 # QA Report: Decatur Herald and Review (111300)
 
+---
+## V9 — 100% IMAGE-LEVEL VERIFICATION (2026-06-23) — supersedes the round-based "V9 FINAL" below
+
+**Method:** All 80 scanned clippings rendered at 300 DPI and read BY IMAGE (image = source of truth; OCR only a pre-screen). 6 year-block agents + a props agent; the lead personally re-verified every marked-ballot direction flip (1972, 1988, 1960, 1976) against the image before applying. Note: the earlier round-based "V9 FINAL" was an inference-heavy text/OCR pass — this image pass caught a cluster of **wrong-candidate direction errors** where the paper's genuine ticket-splitting was mis-coded.
+
+**Marked-ballot direction errors corrected (lead-verified against the image):**
+- **1960 U of I Trustees — direction REVERSED (6 records).** The 19601107 ballot marks the THREE DEMOCRATS (Williamson, Watkins, Dilliard) and leaves the three Republicans (Peak, Lovejoy, Mathews) UNMARKED — the known Lindsay-Schaub cross-over. Flipped all six.
+- **1972 — three wrong endorsees on the 19721105 ballot:** Congress 21st endorsee is **Lawrence E. Johnson (D)**, not Madigan-R (added Johnson, Madigan→e0); 3rd U of I trustee is **Ralph C. Hahn (R)**, not Park Livingston (added Hahn, Livingston→e0); Recorder is **John H. Bohn (D)**, not Morthland-R (added Bohn, Morthland→e0). Plus name fixes: AG opp Troutman→**Lyons**, Comptroller opp Bakalis→**Barringer**.
+- **1976 — 6th Circuit Judge endorsee is Robert J. Steigmann (D)**, not Keller-R (added Steigmann, Keller→e0); SoS opp Sharp→**Harris**; removed **spurious 1976 statewide AUDITOR "Cronin"** (IL abolished the elected auditor in 1970).
+- **1988 — removed spurious 19th-district "Terry Bruce-D"** (no 19th race on the Macon ballot) and re-homed **Jurgens-R to the 20th** (Durbin's opponent); Klaska first name Vin→**Elvin**.
+- **1970 — trustees Forsyth-D & Dawson-R were NOT endorsed** (editorial picked Neal-D, Howard-D, Pogue-D) → e0; removed the **state-Supt "Bakalis-D"** (paper made NO recommendation in that race; orphan).
+- **1986 — County Board Dist 5 Dipper party R→D** (image: "Donald D. Dipper, Democrat"; D+R split with Sefton-R).
+- **1960/1962 opponent NAME fixes** off the marked ballots: Coroner Tinley→**Terrell**, Auditor Sickemeyer→**Muehlebach**, Recorder Stecher→**Buechler**, StateRep-47 Daumerman→**Dammerman** (both years), 1962 Treasurer Curry→**Meara**; trustee Watkins→**Frances B.** (web-verified, matches DDR).
+
+**Cross-paper (Decatur cluster) reconciliation with the freshly-verified Decatur Daily Review (111302):** no byte-identical shared clippings, but the combined Sunday recap content overlaps. 49 shared candidate keys compared; after fixes, **0 real party mismatches** (the one flagged "Walsh" was a surname-collision false alarm — DHR's Robert V. Walsh-D-54th ≠ DDR's Richard A. Walsh-R-5th). **1966 52nd District aligned to the verified combined recap** (Tipsword-D, Alsup-D, Johns-R endorsed; Borchers-R→e0) — added Tipsword & Alsup. 1976 trustee Madden (conditional "soft" endorsement) aligned to DDR's e=1 (flagged for RA).
+
+**Cleanup pass — full-ballot transcription of the marked-ballot years (2026-06-23):** dedicated agents transcribed the complete 1962 and 1980 ballots; the lead re-verified the 1962 and 1960 ballots in full.
+- **1962 was a SELECTIVE-endorsement midterm, NOT a straight-R ticket (major correction).** The paper made **no endorsement** in State Treasurer, Clerk of the Appellate Court, County Judge, and County Clerk (both boxes empty) — those 5 over-coded records (Scott, Conn, Morthland, Foster + the orphaned Lorenz-D) were **removed**. It **crossed over to Democrats** for both Superintendent (Wilkins, already coded) AND **Sheriff (Peters-D MARKED; Doyle-R was empty)** — flipped Doyle→e0, Peters→e1 (+name Charles David). "Staley" was the **Probate Clerk**, not a Judge — office corrected to CNTY CLERK. Added 5 image-verified printed opponents in the endorsed races (Page-R Supt, Wilson-D H22, Elliott-D trustee, Heckert-D county-supt, Standerfer-D probate-clerk). *(The earlier 1960/62 block agent had wrongly read 1962 as straight-R; the dedicated transcription + lead re-read corrected it. 1960 was separately re-verified and IS a genuine straight-R presidential year — no change.)*
+- **1980:** added the 4 printed county-office opponents missing from the recap (Hogan-R Circuit Clerk, Vallas-R Coroner, Entler-R Recorder, Greanias-D State's Attorney).
+- **2004:** added incumbent **Lane Evans-D** as the H-17 opponent (DHR endorsed Zinga-R over him). **1988:** added the 4th County-Board D7 candidate (Beuchsenschuetz).
+
+**Final integrity after cleanup:** **489 candidate records (336 e=1, 153 e=0), 46 props. Pattern K=0, duplicates=0, 0 blank names, 0 orphan e=0 groups.** 22 blank-party records = documented local-race convention. Mean conf 0.934.
+
+---
+
 **Audit date:** 2026-06-11 (V9 FINAL — 800 rounds + 9 formal QA + comprehensive incumbency audit + final name std, supersedes V1-V8)
 **Folder:** done/Decatur Herald and Review/
 **Newspaper ID:** 111300

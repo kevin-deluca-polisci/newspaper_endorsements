@@ -1,20 +1,20 @@
 state_newspaper,newspaper,newspaper_id,year,state_election,prop_type,prop_num,prop_desc,endorsed,notes_endorse,extraction_confidence,extraction_confidence_note,source_file
 MI,Detroit News,121301,1968,MI,REFERENDUM,DETROIT-CHARTER-A,DETROIT POLICE/FIRE PENSION CHARTER AMENDMENT A,1,VOTE YES,0.92,,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,PROPOSITION,STATE-1,GRADUATED STATE AND LOCAL INCOME TAXES,,"Direction not clearly extracted from OCR - GRADUATED STATE AND LOCAL INCOME TAXES [V8: empty-direction prop record, RA review needed]",0.65,Position not legible in OCR,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,PROPOSITION,STATE-1,GRADUATED STATE AND LOCAL INCOME TAXES,0,"Direction not clearly extracted from OCR - GRADUATED STATE AND LOCAL INCOME TAXES [V8: empty-direction prop record, RA review needed] | DNv2: direction blank->0 per recap image",0.65,Position not legible in OCR,121301_19681104.pdf
 MI,Detroit News,121301,1968,MI,REFERENDUM,STATE-2,DAYLIGHT SAVING TIME,1,VOTE YES,0.92,,121301_19681104.pdf
 MI,Detroit News,121301,1968,MI,REFERENDUM,STATE-RESIGN,REQUIRE LEGISLATORS TO RESIGN BEFORE RUNNING FOR OTHER STATE OFFICE,0,VOTE NO,0.92,,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,REFERENDUM,WAYNE-HOMERULE,WAYNE COUNTY HOME RULE,,"Direction not clearly extracted from OCR - WAYNE COUNTY HOME RULE [V8: empty-direction prop record, RA review needed]",0.65,,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,BOND,STATE-3,$335 MILLION BOND (DETAILS PARTIAL IN OCR),,"Direction not clearly extracted from OCR - $335 MILLION BOND (DETAILS PARTIAL IN OCR) [V8: empty-direction prop record, RA review needed]",0.65,OCR partial,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,BOND,STATE-4,$100 MILLION BOND (DETAILS PARTIAL IN OCR),,"Direction not clearly extracted from OCR - $100 MILLION BOND (DETAILS PARTIAL IN OCR) [V8: empty-direction prop record, RA review needed]",0.65,OCR partial,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,REFERENDUM,WAYNE-HOMERULE,WAYNE COUNTY HOME RULE,1,"Direction not clearly extracted from OCR - WAYNE COUNTY HOME RULE [V8: empty-direction prop record, RA review needed] | DNv2: direction blank->1 per recap image",0.65,,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,BOND,STATE-3,$335 MILLION BOND (DETAILS PARTIAL IN OCR),1,"Direction not clearly extracted from OCR - $335 MILLION BOND (DETAILS PARTIAL IN OCR) [V8: empty-direction prop record, RA review needed] | DNv2: direction blank->1 per recap image",0.65,OCR partial,121301_19681104.pdf
+MI,Detroit News,121301,1968,MI,BOND,STATE-4,$100 MILLION BOND (DETAILS PARTIAL IN OCR),1,"Direction not clearly extracted from OCR - $100 MILLION BOND (DETAILS PARTIAL IN OCR) [V8: empty-direction prop record, RA review needed] | DNv2: direction blank->1 per recap image",0.65,OCR partial,121301_19681104.pdf
 MI,Detroit News,121301,1968,MI,REFERENDUM,DETROIT-SCHOOL-B,DETROIT 10 MILL SCHOOL TAX INCREASE,1,VOTE YES,0.92,,121301_19681104.pdf
-MI,Detroit News,121301,1968,MI,REFERENDUM,WCCC,WAYNE COUNTY COMMUNITY COLLEGE 2 MILL TAX,,"Direction not clearly extracted from OCR - WAYNE COUNTY COMMUNITY COLLEGE 2 MILL TAX [V8: empty-direction prop record, RA review needed]",0.65,,121301_19681104.pdf
-MI,Detroit News,121301,1970,MI,REFERENDUM,STATE-B,CHANGE MINIMUM VOTING AGE,,"Direction not clearly extracted from OCR - CHANGE MINIMUM VOTING AGE [V8: empty-direction prop record, RA review needed]",0.65,Position not legible in OCR,121301_19701102.pdf
+MI,Detroit News,121301,1968,MI,REFERENDUM,WCCC,WAYNE COUNTY COMMUNITY COLLEGE 2 MILL TAX,1,"Direction not clearly extracted from OCR - WAYNE COUNTY COMMUNITY COLLEGE 2 MILL TAX [V8: empty-direction prop record, RA review needed] | DNv2: direction blank->1 per recap image",0.65,,121301_19681104.pdf
+MI,Detroit News,121301,1970,MI,REFERENDUM,STATE-B,CHANGE MINIMUM VOTING AGE,0,"Direction not clearly extracted from OCR - CHANGE MINIMUM VOTING AGE [V8: empty-direction prop record, RA review needed] | DNv2: direction blank->0 per recap image",0.65,Position not legible in OCR,121301_19701102.pdf
 MI,Detroit News,121301,1970,MI,REFERENDUM,STATE-C,PROHIBIT PUBLIC AID TO NONPUBLIC SCHOOLS AND STUDENTS (PAROCHIAID),1,VOTE YES — paper opposed parochiaid,0.92,,121301_19701102.pdf
 MI,Detroit News,121301,1970,MI,REFERENDUM,DETROIT-D,"AUTHORIZE PURCHASE OF SUPPLIES UNDER $5,000",1,VOTE YES,0.92,,121301_19701102.pdf
 MI,Detroit News,121301,1970,MI,REFERENDUM,STATE-E,ADVISORY: WITHDRAWAL OF U.S. FORCES FROM VIETNAM,0,VOTE NO,0.92,,121301_19701102.pdf
 MI,Detroit News,121301,1970,MI,BOND,STATE-A,BONDS FOR LOW INCOME HOUSING,1,VOTE YES,0.92,,121301_19701102.pdf
 MI,Detroit News,121301,1972,MI,REFERENDUM,DETROIT-H,ADOPT NEW CITY CHARTER,0,VOTE NO,0.92,,121301_19721105.pdf
-MI,Detroit News,121301,1972,MI,REFERENDUM,STATE-B,ALLOW ABORTION UNDER CERTAIN CONDITIONS,,"Direction not clearly extracted from OCR - ALLOW ABORTION UNDER CERTAIN CONDITIONS [V8: empty-direction prop record, RA review needed]",0.65,Position not legible in OCR,121301_19721105.pdf
+MI,Detroit News,121301,1972,MI,REFERENDUM,STATE-B,ALLOW ABORTION UNDER CERTAIN CONDITIONS,1,"Direction not clearly extracted from OCR - ALLOW ABORTION UNDER CERTAIN CONDITIONS [V8: empty-direction prop record, RA review needed] | DNv2: direction blank->1 per recap image",0.65,Position not legible in OCR,121301_19721105.pdf
 MI,Detroit News,121301,1972,MI,REFERENDUM,STATE-C,TUITION GRANTS / NON-PUBLIC SCHOOL FUNDING (CONSTITUTIONAL),0,VOTE NO,0.92,,121301_19721105.pdf
 MI,Detroit News,121301,1972,MI,PROPOSITION,STATE-D,PROHIBIT INCOME TAX VIA CONSTITUTIONAL AMENDMENT,0,VOTE NO,0.92,,121301_19721105.pdf
 MI,Detroit News,121301,1972,MI,REFERENDUM,DETROIT-I,MANNER OF ELECTING CITY COUNCIL UNDER NEW CHARTER,1,VOTE ALTERNATE 'A' TO RETAIN AT-LARGE ELECTION,0.92,,121301_19721105.pdf
@@ -59,13 +59,13 @@ MI,Detroit News,121301,1980,MI,PROPOSITION,B,Reduce Drinking Age to 19,1,Vote YE
 MI,Detroit News,121301,1980,MI,PROPOSITION,C,Coalition Tax Plan,1,Vote YES,0.92,,121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,PROPOSITION,D,Tisch Tax Proposal,0,Vote NO,0.92,,121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,PROPOSITION,E,Tax Increase for Prisons,1,Vote YES,0.92,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,PROPOSITION,F,Change Legislative Immunity,,Direction unclear in OCR,0.65,OCR cuts off vote indicator after the proposal label,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,F,Change Legislative Immunity,1,Direction unclear in OCR | DNv2: Vote YES per image (image labels this Prop G - Change Legislative Immunity),0.65,OCR cuts off vote indicator after the proposal label,121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,PROPOSITION,H,Change Office of Lt. Gov.,1,Vote YES,0.9,,121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,REFERENDUM,J,Wayne County: Increase Millage Ceiling,0,Vote NO,0.9,,121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,REFERENDUM,K,Wayne County: Millage for County Hospital,0,Vote NO,0.9,,121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,REFERENDUM,L,Wayne County: Millage for Mental Health,0,Vote NO,0.9,,121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,REFERENDUM,M,Wayne County: Millage for Sheriff and Prosecutor,0,Vote NO,0.9,,121301_19801103.pdf
-MI,Detroit News,121301,1980,MI,PROPOSITION,N,Detroit Fire Department Promotions,,OCR truncated,0.6,OCR shows 'Fire Department Promotions' but vote indicator garbled,121301_19801103.pdf
+MI,Detroit News,121301,1980,MI,PROPOSITION,N,Detroit Fire Department Promotions,1,OCR truncated | DNv2: Vote YES per image (Fire Dept Promotions),0.6,OCR shows 'Fire Department Promotions' but vote indicator garbled,121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,BOND,P,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,BOND,Q,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
 MI,Detroit News,121301,1980,MI,BOND,R,Detroit City Bonds,1,Vote YES,0.85,"Grouped P, Q, R, S in OCR as 'City Bonds YES'",121301_19801103.pdf
@@ -102,10 +102,10 @@ MI,Detroit News,121301,1992,MI,PROPOSITION,D,Rolls back car insurance rates an a
 MI,Detroit News,121301,1992,MI,REFERENDUM,,"Wayne Community College Millage (1-mill, 3-year operating levy)",0,Vote NO,0.9,,121301_19921101.pdf
 MI,Detroit News,121301,1992,MI,REFERENDUM,1,County executive must submit for legislative approval reorganization plans,0,Vote NO,0.9,,121301_19921101.pdf
 MI,Detroit News,121301,1992,MI,PROPOSITION,2,Returns to local communities taxes collected but not expended each year on juvenile programs,0,Vote NO,0.9,,121301_19921101.pdf
-MI,Detroit News,121301,1992,MI,REFERENDUM,3,Wayne County mental health programs millage,1,Vote YES,0.85,OCR truncated description,121301_19921101.pdf
+MI,Detroit News,121301,1992,MI,REFERENDUM,3,Wayne County mental health programs millage,0,Vote YES | DNv2: direction 1->0 (mental health millage NO) per image,0.85,OCR truncated description,121301_19921101.pdf
 MI,Detroit News,121301,1994,MI,REFERENDUM,,"1-mill, four-year millage renewal for Wayne County Community College",0,Vote NO,0.88,,121301_19941106.pdf
 MI,Detroit News,121301,1994,MI,PROPOSITION,A,Call a convention to draft a new state constitution,0,Vote NO,0.92,,121301_19941106.pdf
-MI,Detroit News,121301,1994,MI,PROPOSITION,B,Ends automatic appeal for felons who plead guilty,0,Vote NO,0.92,,121301_19941106.pdf
+MI,Detroit News,121301,1994,MI,PROPOSITION,B,Ends automatic appeal for felons who plead guilty,1,Vote NO | DNv2: direction 0->1 (Prop B YES) per image,0.92,,121301_19941106.pdf
 MI,Detroit News,121301,1994,MI,PROPOSITION,C,16 percent reduction in auto insurance premiums for limitations on benefits and lawsuits,1,Vote YES,0.92,,121301_19941106.pdf
 MI,Detroit News,121301,1994,MI,PROPOSITION,P,Establish constitutionally protected endowment fund to boost state park funding,1,Vote YES,0.92,OCR-truncated direction; assumed YES based on supportive framing,121301_19941106.pdf
 MI,Detroit News,121301,1994,MI,REFERENDUM,S,5.65 mill tax increase for Detroit school system,0,Vote NO,0.92,,121301_19941106.pdf
@@ -128,16 +128,16 @@ MI,Detroit News,121301,1998,MI,PROPOSITION,B,Legalize physician-assisted suicide
 MI,Detroit News,121301,1998,MI,REFERENDUM,,Convert Wayne County 1-mill renewable levy into a permanent operating millage beginning in 2004,0,Vote NO,0.85,,121301_19981101.pdf
 MI,Detroit News,121301,1998,MI,REFERENDUM,,Wayne County Charter amendment to eliminate the county auditor,0,Vote NO,0.85,,121301_19981101.pdf
 MI,Detroit News,121301,2000,MI,REFERENDUM,C,Detroit charter amendment regarding government structure,1,Vote YES,0.7,OCR partially visible,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,REFERENDUM,D,Detroit ballot proposal D - neighborhood redevelopment,1,Vote YES,0.7,OCR garbled,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,REFERENDUM,I,Detroit ballot proposal I - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,REFERENDUM,L,Detroit ballot proposal L - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,REFERENDUM,M,Detroit ballot proposal M - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,REFERENDUM,R,Detroit ballot proposal R - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,REFERENDUM,S,Detroit ballot proposal S - neighborhood redevelopment,1,Vote YES,0.7,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,REFERENDUM,A,"10-year, 0.5-mill tax to fund 17 cultural institutions in Oakland and Wayne counties",0,Vote NO,0.88,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,D,Detroit ballot proposal D - neighborhood redevelopment,0,Vote YES | DNv2: direction 1->0 per 2000 recap image,0.7,OCR garbled,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,I,Detroit ballot proposal I - neighborhood redevelopment,0,Vote YES | DNv2: direction 1->0 per 2000 recap image,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,L,Detroit ballot proposal L - neighborhood redevelopment,0,Vote YES | DNv2: direction 1->0 per 2000 recap image,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,M,Detroit ballot proposal M - neighborhood redevelopment,0,Vote YES | DNv2: direction 1->0 per 2000 recap image,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,R,Detroit ballot proposal R - neighborhood redevelopment,0,Vote YES | DNv2: direction 1->0 per 2000 recap image,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,S,Detroit ballot proposal S - neighborhood redevelopment,0,Vote YES | DNv2: direction 1->0 per 2000 recap image,0.7,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,REFERENDUM,A,"10-year, 0.5-mill tax to fund 17 cultural institutions in Oakland and Wayne counties",1,Vote NO | DNv2: direction 0->1 per 2000 recap image,0.88,,121301_20001105.pdf
 MI,Detroit News,121301,2000,MI,REFERENDUM,,Novi fire department proposal: charter amendment to create a downtown fire station and 24-hour mobile emergency medical service,0,Vote NO,0.85,,121301_20001105.pdf
 MI,Detroit News,121301,2000,MI,BOND,,Road proposals: $18.4-million bond issue would fund main-state-route improvement projects,1,Vote YES,0.85,,121301_20001105.pdf
-MI,Detroit News,121301,2000,MI,PROPOSITION,1,Constitutional amendment that would allow school vouchers for parents in failing school districts,0,Vote NO,0.92,,121301_20001105.pdf
+MI,Detroit News,121301,2000,MI,PROPOSITION,1,Constitutional amendment that would allow school vouchers for parents in failing school districts,1,Vote NO | DNv2: direction 0->1 per 2000 recap image,0.92,,121301_20001105.pdf
 MI,Detroit News,121301,2000,MI,PROPOSITION,2,Constitutional amendment that would require a two-thirds majority vote of the Legislature to pass any law on local government,0,Vote NO,0.92,,121301_20001105.pdf
 MI,Detroit News,121301,2000,MI,REFERENDUM,,Wayne County Community College millage proposal: new 1.5-mill operating levy,0,Vote NO,0.85,,121301_20001105.pdf
 MI,Detroit News,121301,2002,MI,PROPOSITION,,"1-mill, four-year property tax for police services",0,Vote NO,0.82,,121301_20021103.pdf
@@ -248,3 +248,4 @@ MI,Detroit News,121301,2020,MI,REFERENDUM,,Wayne RESA countywide enhancement mil
 MI,Detroit News,121301,2022,MI,PROPOSITION,1,Reform state government (term-limits/financial-disclosure ballot proposal),1,Vote YES on Prop 1 to reform state government,0.95,,121301_20221108.pdf
 MI,Detroit News,121301,2022,MI,PROPOSITION,2,"Voting rights expansion (early voting, drop boxes, etc.)",0,Vote NO on Prop 2 — 'Make policymakers do their jobs',0.95,,121301_20221108.pdf
 MI,Detroit News,121301,2022,MI,PROPOSITION,3,Reproductive Freedom for All — abortion rights constitutional amendment,0,Vote NO on Prop 3 — 'Reject extreme response to abortion',0.95,,121301_20221108.pdf
+MI,The Detroit News,121301,1974,,PROPOSITION,STATE-C,Remove sales tax on food and drugs,0,DNv2 add: image-verified 1974 Prop C (food/drug sales tax) Vote NO,0.9,,121301_19741103.pdf

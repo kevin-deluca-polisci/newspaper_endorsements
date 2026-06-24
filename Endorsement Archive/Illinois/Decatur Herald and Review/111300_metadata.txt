@@ -2,17 +2,18 @@ Newspaper Name: Decatur Herald and Review
 Newspaper ID: 111300
 State: IL
 Processing Date: 2026-05-19
-Last QA Date: 2026-05-19
+Last QA Date: 2026-06-23
 
 Clippings: 80
 Date range: 1960-2004
-Total candidate records: 347 (endorsed 336, opposed 11)
+Total candidate records: 489 (endorsed 336, opposed 153)
 Total proposition records: 46 (endorsed 39, opposed 7)
-Mean confidence: 0.927
+Mean confidence: 0.934
 
 Notes:
-- Combined edition of the morning Decatur Herald and evening Decatur Daily Review under Lindsay-Schaub ownership (Sunday combined edition from the 1930s onward). Officially became the daily 'Herald & Review' in 1979 when Lee Enterprises bought the papers; evening edition discontinued June 1982.
-- All 105 unique clippings processed with strip-OCR for multi-column Sunday recaps
-- Re-extracted via parallel subagents reading each clipping carefully
-- QA spot-check accuracy: ~95-97% on sampled clippings
-- All records have extraction_confidence >= 0.75
+- Combined morning Decatur Herald + evening Decatur Daily Review (Lindsay-Schaub); daily Herald & Review after Lee Enterprises (1979); evening edition ended June 1982.
+- V9 100% image-level verification + cleanup (2026-06-23): all 80 clippings read by image (source of truth). 6 year-block agents + props agent + dedicated full-ballot transcription agents for 1962/1980; lead personally re-verified every direction flip and the 1962/1960 marked ballots.
+- Strongly Republican (Lindsay-Schaub) top-of-ticket but a frequent ticket-splitter (1960 trustees cross-over to 3 Democrats; 1962 cross-over to Wilkins-D Supt & Peters-D Sheriff; 1972 Johnson-D + Howlett-D; 1980 Dixon-D/Voelz-D; 1988 Simon-D; 1996 Durbin-D).
+- 1962 was a SELECTIVE-endorsement midterm: the paper made NO endorsement in several races (State Treasurer, Appellate Clerk, County Judge, County Clerk) - those records were removed; printed opponents in endorsed races were added.
+- Decatur cluster: NO byte-identical shared clippings with the Decatur Daily Review (111302); combined Sunday recap content overlaps; cross-paper reconciled (0 real party mismatches).
+- 22 blank-party records are local Macon County offices where the source clipping did not state party.

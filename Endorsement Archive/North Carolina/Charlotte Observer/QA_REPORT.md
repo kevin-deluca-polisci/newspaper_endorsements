@@ -157,3 +157,21 @@ Full record-by-record high-res vision verification of all 8 modern years (343 re
 - 2012: +STATE REP d88 Alexander, Martha (D).
 - Confirmed non-endorsements correctly omitted: 2008 Superintendent + County-d2, 2012 County-d2, 2018 Senate-40, 2020 US-Senate + President.
 Folder total now 969 candidate records. Pattern K = 0, no dups.
+
+---
+
+## At-large false-endorsement sweep — RESOLVED (2026-06-22)
+The Observer's election recaps print **every candidate in contested races, with only the ENDORSED ones in boldface** ("The candidates endorsed by The Observer are in boldface type"). The original extraction ignored the bold/regular distinction and coded the whole multi-member at-large slate as endorsed (e=1). Single-member races (President, Governor, US House, statewide) are CORRECT — the bug is confined to the at-large multi-member offices.
+
+**Footprint (multi-member slots with all-e=1, no opponents):** STATE REP and CNTY COMM in 1962, 1964, 1966, 1968, 1970, 1972, 1974, 1976, 1980; CNTY COMM 1990; STATE REP/STATE SENATOR/CNTY COMM in 2010, 2016, 2018, 2020.
+
+**FIXED so far: 1976** (vision-verified against the boldface recap):
+- STATE HOUSE -> 8 endorsed / 7 not (added Tison; flipped Easterling, Economos, McMillan[was misread "Thon"], Bingman, Hargey, Jaffee, Mathis to e=0).
+- STATE SENATE -> 4 / 5 (flipped Rutledge, McDuffie, Cesena, Howe).
+- COUNTY COMMISSION -> 5 / 6 (flipped Coleman, McKinnon, Booe, Griffin, Taylor).
+
+**STILL TO DO:** the remaining listed years (read each year's boldface recap, split endorsed vs not). Archive NOT yet re-synced (folder mid-correction). Backup of the pre-fix CSV: `*_candidates.csv.bak_atlarge`.
+
+
+### UPDATE — scope resolved: only 1976 was affected
+Scanned **every** Observer election recap 1960–2020. Only the **1976** clipping (132300_19761102) uses the "candidates in contested races... endorsed in **boldface**" voter-guide format that caused the bug. Every other year uses the narrative "The Observer Recommends:" endorsee-list format (vision-confirmed 1972, 1968, 1966, 1974), which lists only recommended candidates — correct. The soft "pick one of these N" cases in the narrative years (e.g., 1968 county commission) were already noted in the prior V9 pass and are defensible (all are recommended alternatives). **Conclusion: 1976 fixed; all other years correct. Folder clean.**

@@ -94,3 +94,24 @@ D-leaning Scripps-Howard Cincinnati paper covering Hamilton County OH + northern
 - All extraction confidence >= 0.5; mean 0.80
 - 1994 SC Cook seat: Cook was new to SC (Moyer's seat was 1996, Pfeifer's was 1998)
 - 1992 PRES 3-way race: Stockdale was Perot's VP (Independent ticket), correctly paired
+
+---
+
+## V9 Deep Verification — 2026-06-22
+1,637 candidate + 239 proposition records, 1950–2007. Scripps-Howard "Post" / "Post and Times-Star".
+
+**Integrity (clean):** Pattern K = 0; 0 duplicates; 0 blank names; 0 blank directions; parties valid (Natural Law is real). 1316 e=1 / 321 e=0.
+
+**At-large bug check — CLEAN:** flagged at-large STATE REP piles (1952–1968) are legitimate. The Post uses the narrative "The Post Indorses:" endorsee-only recap format (vision-confirmed 1956/1958/1972), not an all-candidates ballot guide. No false endorsements.
+
+**Verified:** President all years (R-leaning; 1964 LBJ cross-party defection confirmed via cross-paper). Cross-paper diff vs the Enquirer (101 mismatches) = legitimate moderate-paper splits (Post endorsed Metzenbaum/Gilligan-D statewide; bipartisan at-large slates incl. Owings & Josephine Shapiro). Props all-YES years legit (1958 Right-to-Work confirmed "Vote Yes").
+
+**Corrections:** 1956 STATE REP Grossman->Groneman (misread); Ratchford flagged (not in 1956 indorsement list).
+
+**Open/RA:** see RA_NEEDS.md — Ratchford-1956 flag; many at-large records have blank party (completeness nit). Cincinnati cluster reconciliation with the Enquirer pending. Metadata regenerated.
+
+### UPDATE — party fill + cross-check (2026-06-22)
+Filled 32 of 167 blank parties (Enquirer/Post name-match + clipping-confirmed misread fixes Groneman/Taft + web Hartmann); 135 remain blank (obscure locals → DIME augmentation). Post-vs-Enquirer party cross-check found 20 same-person conflicts: 3 fixed (Owings→D, Taft II→R, Cleveland→R), 16 flagged for RA. Integrity re-confirmed clean (Pattern K=0 after clearing a stale inc flag). Direction diff unchanged (101 legitimate splits).
+
+### UPDATE 2 — 16 flagged party conflicts resolved (2026-06-22)
+Adjudicated all 16 via Enquirer ballot provenance + web. Fixed in POST (11): YOUNG, JOHN D. 1960-66 R->D; FIX, HELEN 1974 D->R; CHEEK, RONALD C. 1992 R->D; CISSELL, JAMES C. 1992 D->R; BERNS 1986/90/92/94 Independent->Libertarian. Fixed in ENQUIRER (1): BERNS 1994 Democrat->Libertarian (he is a Libertarian, not a Democrat — "cross-party" note void; Enquirer re-synced). 5 residual = genuine collisions/party-switch kept flagged (Smith-2000 & Brown-1978 & Harris-1986 different same-surname people; Strauss-1992 possible R->D switch; Mann-1982 unresolved). Both folders Pattern K=0.

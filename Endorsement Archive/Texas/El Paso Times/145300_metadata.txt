@@ -6,8 +6,8 @@ Newspaper ID: 145300
 State: TX
 Number of clippings: 85
 Endorsement data years: 1920-2018
-Total candidate records: 454 (368 endorsed=1)
-Total proposition records: 218 (217 with a yes/no direction)
+Total candidate records: 501 (V9: was 454) (368 endorsed=1)
+Total proposition records: 182 (V9 final: deduped 1968/1972 amendment rows, was 210/218)
 
 Confidence statistics (all records):
   Mean confidence: 0.871
@@ -37,3 +37,10 @@ Party distribution:
   Libertarian: 1
 
 (metadata regenerated post-V8 deep verification)
+
+--- FINAL DOUBLE-CHECK (2026-06-24) ---
+1964 candidate slate image-verified via misfiled 19621105.pdf (=Nov 3 1964 "Your Turn To Vote"): 15 endorsed confirmed, 3 e=0 inferred opponents annotated. 1934 confirmed prop-only. 2018 County Judge dual endorsement (Cook+Samaniego) image-verified (Mar Dem primary). Integrity: 501 cand, Pattern K=0, 0 dups, 0 blank names. Archive synced (md5 identical).
+
+--- PROPOSITION DEDUPE + CROSS-PAPER (2026-06-24) ---
+1968 & 1972 each had every constitutional amendment duplicated (one row "Constitutional Amendment N" + an identical empty-desc twin, same direction). Removed the 28 empty-desc duplicate rows: 1968 28->14, 1972 29->15. Props 210->182; 0 exact dups, 0 conflicting-direction (year,type,num). Working copy <-> archive md5 identical.
+RA ITEMS (documented in RA_NEEDS_V9): (1) 50 props across 1954/1962/1978/1980/1984/1988 have verified directions but EMPTY descriptions (recoverable from the Times' own amendment editorials). (2) Times<->Herald-Post proposition DIRECTION disagreements on shared statewide-amendment numbers in 11 of 15 overlapping years -- both papers were independently image-verified, so these are a mix of genuine editorial splits and possible per-year numbering misalignment; an RA should spot-check a sample against the images.

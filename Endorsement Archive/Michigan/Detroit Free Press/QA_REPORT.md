@@ -1,5 +1,68 @@
 # QA Report: Detroit Free Press
 
+---
+## V9c — FULL 100% IMAGE RECONCILIATION (2026-06-23) — every remaining year transcribed from the recap image
+
+Per Kevin's instruction ("full 100% verification, re-OCR as needed"), I re-rendered EVERY not-yet-fully-verified election year (1968, 1970, 1972, 1974, 1978, 1982, 1988, 1992, 1994, 1996, 1998, 2002, 2006, 2012, 2014, 2016, 2018, 2020, 2022) at 300-350 DPI and ran four independent transcription agents that read each recap slate column-by-column and diffed it against the CSV. I personally re-verified every high-stakes finding against the pixels (the 1994 d1 partisan flip, the 1996 proposition flips, the 1974 county-commission block, the 1998 university-board block). **198 candidate records corrected (82 newly added); candidates 2578 -> 2654, props 215 -> 216. Pattern K=0, 0 exact dups, 0 blank names, all parties valid, no presidential-year STATE SENATOR.**
+
+**Systematic errors found and fixed:**
+- **County Executives miscoded as MAYOR (all 18) -> new office code CNTY EXEC**; the dnames already said "… County Executive." (2016 Ayers -> CITY COUNCIL.) There were ZERO actual mayors in the data.
+- **Wayne State U Board of Governors repeatedly miscoded as MSU TRUSTEE / STATE REP / REGENT** (1982 Einheuser, 1988 Van Dusen, plus the 1998 board block) -> corrected.
+- **Court office-level miscodes** (appellate vs trial): 1978 Kaufman (Appeals->6th Circuit), MacKenzie (->Appeals 3rd); 1988 Brennan (Supreme->Appeals 1st), Taylor (Appeals->U-M Regent); 1996 Harwood/Hathaway/Jourdan (Supreme/Appeals->Wayne Circuit); 1998 Battani (Supreme->Circuit), White/Talbot (Supreme->Appeals 1st); 2016 Nash/Miller (JUDGE->county Water-Resources / Public-Works commissioner).
+- **Senate<->House miscodes** beyond the V9b set: 1978 Giese/Tomboulian (Senate->House); 1982 Faust/Faxon/Suarez (House->Senate); 1998 Odette (House->Senate).
+- **Wrong endorsee (partisan direction):** **1994 US House d1 was Bart Stupak (D) but the paper endorsed Gil Ziegler (R)** — lead-verified the image. 2012 d45 was Joanna VanRaaphorst (D), not "Joanne Jacobsen (R)".
+- **1982 Ruppe miscoded LT GOVERNOR -> US SENATE** (and US Senate was otherwise missing that year).
+- **Whole missing slates ADDED (82 records):** 1988 US Senate (Riegle) + 9 US House seats + ~17 State House; 1978 ~12 State House/Senate + Supreme Court Ryan + Regent Waters; 1982 3 State Senate + 7 State House + State Bd of Ed + school board; 1996 US House d8 (Stabenow) + 2 State House + all 3 county Prosecutors; 1998 US House d9 + 2 State Senate; 2002 5 State House; 2012 2 State House; 1968 Wayne Auditor/Register of Deeds/Drain Comm + Detroit Common Council/Bd of Ed/Common Pleas; 1970 Central School Board.
+- **1974 Wayne County Commission block (14 records) was badly OCR-garbled** — names like Simone->Simmons, Servo->Serlyo, Tierney->Taylor, Bell->Suzore, Larsen->Harris, Pepper John->Jeffrey, plus missing district numbers and a party flip (Dumas D->R). Lead-verified the whole column against the image.
+- **1998 university/school boards were cross-year contamination** (CSV: Bauer/Warner, White/Meng, Weiser/Ferguson/Driker/Farnham) -> corrected to the image slate (Mason/Gire SBOE, Power/White Regents, Cook/Porteous MSU, Davis-Anthony/Hardy WSU). Lead-verified.
+- **Name fixes:** Aiyash (2020/2022, was "Atyash"), Tilles (1974, was Tiller), Werner (1974, was Warner), Heidemann (1994, was Hesdemear), Seikaly (2012), Crockett III (1994); party fixes McLeod 1978 R->D.
+- **Proposition direction flips (lead-verified image):** 1996 B (->YES), C (->NO), D (->NO), G (->YES); 1998 Detroit Living Wage (->NO); added 2016 Wayne County Schools millage (YES).
+- **Removed 6 confirmed-spurious:** 1968 Calloway & Raviolo (MSU Trustees not in slate), 1988 O'Neil (MSU Trustee) & Grenier (no House seat), 1994 duplicate d16 DeHart, 1978 duplicate Brown regent.
+
+**Cross-paper (Detroit News 121301) consistency check RUN:** 367 partisan-office matches compared. The 37 office / 22 district / 13 party "mismatches" are almost entirely surname collisions between different well-known people (Sander Levin vs Carl Levin, John vs Christopher Dingell, Candice vs other Millers, Gerald vs William Ford, Vander Veen vs Vander Jagt). The one real cluster — 2002 Hopgood/Bieda/Brandenburg/O'Neil coded STATE SENATOR in the Detroit News — is a **Detroit News** error (they were State House races, which DFP now codes correctly). **The check validates the cleaned DFP coding.**
+
+**V9c addendum — gap-year pass + extended sanity battery (2026-06-23):** A post-apply integrity sweep found single-member-district DOUBLE-ENDORSEMENTS (two e=1 records on one seat) concentrated in the five years that earlier passes had only partially touched (1984, 1986, 1990, 1992, 2004). I re-rendered those five recaps and ran a dedicated transcription agent (lead-verified every resolution). Result: resolved all double-endorsements (Mathieu belongs at d92 not d76 across 1984/86/88/90; Oxender 1990 d59->42; Munsell 1992 d51->66; Fitzgerald 1992 d56->71; Cynowa 2004 d39->33; Young Sr 1990 d3->14; Harder 1990 d85->87; Randall 1990 d93->89; Olshove 1990 d29->25; Douglas 1990 d55->52), removed 3 records absent from the image (1984 Weeks d28, 1992 Paddock d8, 2004 LeBlanc d18), assigned ~17 blank-district 1990 State-House records their real districts, fixed blank-district 1990/1992 US-House records (Camp/Hertel/Ford/Briggs), and added ~13 more image-verified missing endorsements. Also fixed a stale dname (1988 Pollack) and removed an impossible STATE SENATOR d49 (1994 Olshove — senate has only 38 districts; he is STATE REP d29). **Extended sanity battery now all PASS:** US-House districts within the era's valid range; State Senate <=38; State House <=110; 0 office/dname mismatches; 0 single-winner double-endorsements; 0 orphan e=0; Pattern K=0; 0 dups; 0 blank names; valid parties. **Coverage note: 1972 has no PRESIDENT record — this is CORRECT** (the Free Press explicitly declined to endorse for President in 1972; the recap's "National Offices" begins with U.S. Senator and the intro states "in some cases we have made no endorsement" — lead-verified the image).
+
+**M/L-confidence gap-year items NOT auto-applied (flagged in RA_NEEDS):** assorted 1986/1990/1992/2004 trial-court judge office-recodes and name spellings; 2004 county-commission party flips and the Marlinga-vs-Viviano Macomb prosecutor question; the 1986 Attorney-General (Cleland) add; 1992 university-trustee/school-board names; and 1984 US-House slate completeness (only d3/4/5/6/10/11 captured — the rest of the 18-seat slate needs a dedicated read). These are low-volume and mostly nonpartisan/down-ballot.
+
+**Status:** the folder is now image-verified for every year and internally consistent. A SMALL residual tail remains for RA (see RA_NEEDS): the Priority-1 STATE REP opponent backfill (external sources only); some down-ballot judge/board/county-commission omissions the agents listed but that were not auto-added; a few L-confidence records flagged but not deleted (1968 H d17 Griffiths, 1974 House d1/d11/d14, 1998 Waldrip/Nesbitt/McLaughlin blank-dist state reps); and the 1998 Wayne Tax-board prop direction (ambiguous). These are documented, low-volume, and mostly opponent-side or nonpartisan-board.
+
+---
+## V9 — IMAGE-LEVEL VERIFICATION SKILL (2026-06-23) — supersedes the V7 "FINAL/ready for publication" below
+
+**Method:** Full endorsement-verification skill. 4 era block-agents (1968–78, 1980–90, 1992–2002, 2004–22) + a props agent rendered the scanned recap images and diffed every record field-by-field. **Headline: despite "V7 FINAL — READY FOR PUBLICATION," this folder has EXTENSIVE errors** — a structural office-coding scramble, dozens of district mislabels, spurious records, missing US-House slates, and party flips. The V7 "integrity PASS" was structural-validation only; the data does not match the clippings in many places.
+
+**Multi-year bundle:** the "1968" clipping `121300_19681104.pdf` is a 7-page bundle (1968 p1-2, 1970 p3-4, 1972 p5-6, 1974 p7); records map to the right pages (no contamination). The 2022 clipping is a 6-page recap.
+
+**Fixes APPLIED this pass (structurally-certain / high-confidence; cand 2553→2534, props 216→215, Pattern K=0):**
+- **Removed 16 spurious 1988 STATE SENATOR records** — an exact carryover of the 1986 senate slate; **Michigan holds no state-senate election in a presidential year**, and the 1988 recap has no senate section. (Recoded the one real endorsee: **Pollack → US House d2.**)
+- **Resolved all 8 flagged cross-party same-district records** (Priority 2) — all extraction artifacts, NOT primary endorsements: deleted spurious **1994 H-6 Carr** (he's the 1994 US-Senate pick), **1994 H-11 Peters** (he's State Senate d14), **1994 STATE REP-96 Burns** (a 1996 candidate); recoded **1994 McCotter H-10 → Wayne CNTY COMM d10**, **1994 Beard CNTY COMM 11→12**, **1996 Bankes STATE REP 21→19**, **1998 Cody STATE REP 34→31**, **2002 Pastor STATE REP 18→19**; fixed **1998 MacLean** (party D→R, name Diana→Douglas Sr.).
+- **Propositions:** recovered 6 blank directions (1972 Daylight-Saving=Y, Abortion-reform=Y, Charter-revision=N, School-millage=Y; 1974 Prop B=Y; 1976 Prop F=Y; 2016 Community-Benefits=N); removed 1 spurious 2016 "Wayne County Jail" prop. All-one-direction years 1968/1970/1990 confirmed genuinely all-Yes (no dropped No's).
+
+**LARGE BODY OF FURTHER ERRORS — documented in RA_NEEDS.md (NOT applied here, to avoid ~120 blind edits without per-item re-verification):** office-coding scramble (1980/1984 senate→house, 1990 senate miscoded as house); dozens of district mislabels; spurious statewide records + matching omissions (1986 Supreme Court/Appeals/Regent/SBOE); missing whole US-House slates (1976, 2000=16, 2008=3); ~10 party flips. **This folder is NOT publication-ready** — see RA_NEEDS.md.
+
+---
+## V9b — FOCUSED CORRECTION PASS (2026-06-23, same day) — applied the big-ticket RA_NEEDS items
+
+Per Kevin's instruction, I personally re-rendered each driving recap at 350 DPI, read the relevant slate by image, and applied the **structurally-certain / fully-image-verified** corrections from RA_NEEDS A–C. **111 records corrected (46 newly added). cand 2534→2578, props 215, Pattern K=0, 0 dups, 0 blank names.** Every change cites the recap image; each touched record carries a `V9 fix:` / `V9 add:` note and adds are flagged `V9_ADD_image_verified`.
+
+**Office-coding scramble (RA_NEEDS A) — FULLY RESOLVED:**
+- **1980 (presidential year, no MI senate election):** 13 "STATE SENATOR" records recoded → STATE REP with image districts (Roberts 24, Leland 2, Hunter 5, V.Smith 10, Hertel 12, Bryant 13, Ryan 14, Collins 21, Padden 27, Sheridan 29, Keith 33, Skret 36, Raker 38).
+- **1984 (presidential):** 13 recoded → STATE REP (Bennane 1, Leland 2, McNeely 3, Stallworth 4, Saunders 7, Kilpatrick 8, V.Smith 10, Hertel 12, Bryant 13, Young Sr 14, Young Jr 15, Watkins 16, Murphy 17) **+ added Hunter d5, Hood d6** (in image, missing from CSV).
+- **1990 (gubernatorial — real senate election):** the Michigan-Senate slate had been folded into STATE REP. **Recoded 23 STATE REP → STATE SENATOR** with correct districts (Tannian 1, Geake 6, C.Dingell 7, Peters 8, Notte 9, G.Hart 10, Berryman 11, Welborn 13, Faxon 15, Freeman 16, Honigman 17, A.Miller 27, Cherry 29, Dillingham 30, Posthumus 31, Ehlers 32, Arthurhultz 33, Barcia 34, J.Emmons 35, Weiss 37, Koivisto 38; **Kay Hart → Jerome Hart d14**; **Stabenow House d58 → Senate d24**) **and added the 7 missing senate seats** (Pollack 18, Schwarz 20, Rodebaugh 21, Gast 22, Van Regenmorter 23, Conroy 25, DeGrow 28). 1990 now has all 30 endorsed senate districts shown in the image.
+- **1992 & 2004 stray presidential-year senate records:** Parker (1992) recoded → STATE REP; Gaffney (2004) removed as an exact dup of the real STATE REP d1 record. **No presidential year now carries any STATE SENATOR record.**
+
+**Missing slates / spurious-statewide swaps (RA_NEEDS B+C) — done for the big items:**
+- **2000 U.S. House:** added ALL 16 (Stupak D1 … Dingell D16) — none were present.
+- **1976 U.S. Congress:** completed to all 19 districts (added 15; **fixed d2 Esch→Pursell** — Esch ran for Senate; name-std Vander Veen).
+- **2008 U.S. House:** added d1 Stupak / d2 Hoekstra / d3 Ehlers; fixed Schauer → d7.
+- **1986 statewide swap:** the CSV's Supreme Court/Appeals/Regent/SBOE names were WRONG. Corrected to the real image endorsees: Supreme Court **Archer + MacKenzie** (was Givens/Brennan); Appeals 3d **McDonald + Neff** (was Griffin); Regents **Brown + Waters** (was Taylor); SBOE **Dumouchelle + Miller** (was Mulder).
+- **2004:** removed the spurious MAYOR "Evans" (dup of Sheriff Evans — no 2004 Detroit mayoral race).
+
+**STILL REMAINING (smaller tail, documented in RA_NEEDS) — folder still NOT fully publication-ready:** scattered judge/board office miscodes (1976/1978/1982/1988 courts, 2016 commissioners-vs-judge); ~dozens of name-correct district mislabels (RA_NEEDS D); ~15 party/name spellings (RA_NEEDS E); a few more spurious removals needing image-confirmation (1968 Calloway/Raviolo, 1988 O'Neil/Grenier, 1982 Finch, 1986 Middaugh/Ramsey); county-commission / school-board omissions; the 1988 US-House slate; **Priority-1 STATE REP opponent backfill (external sources only)**; Detroit News cross-paper (Stage G, now feasible since the metadata is much cleaner).
+
+---
+
 **Audit date:** 2026-06-12 (V7 FINAL — 1200 rounds + 7 formal QA + STATE SENATOR inc + GOV inc + DN cross-paper detail + RA_NEEDS doc, supersedes V1-V6)
 **Folder:** Detroit Free Press
 **Newspaper ID:** 121300
@@ -546,3 +609,20 @@ These are real editorial divergences, not extraction errors. The pattern is cons
 ### Spot-check validity
 
 The race-level agreement profile (39.6% top-of-ticket / 47.3% state legislative / 71.1% local-judicial) lines up cleanly with each paper's known partisan tilt and reads as expected — partisan races diverge, nonpartisan races converge. The 10 explicit-opposition records all involve Democrats that DN editorially opposed in named editorials, every one consistent with each paper's stance. No anomalies suggest mislabeled records.
+
+---
+
+## ⚠️ AT-LARGE FALSE-ENDORSEMENT WATCH (flagged 2026-06-22, address during V9 processing)
+A project-wide sweep flagged this folder for the **Cincinnati at-large bug**: one partisan race-slot (district or at-large) holding **5+ candidates all coded endorsed (e=1) with zero recorded opponents**. In the Cincinnati Enquirer this turned out to be a systematic error where the *entire* multi-member/at-large candidate list (endorsees + their opponents) was coded as endorsed — often with the opponents' party mislabeled. When V9-processing this folder, OPEN THE BALLOT IMAGE for each slot below and split into the marked endorsees (e=1) vs the unmarked opponents (e=0); watch for party mislabels and name scrambles. NOTE: some of these may be legitimate bipartisan at-large slates — verify against the clipping, do not assume.
+
+Flagged slots (year | office | district | #endorsees | party mix):
+- 1990 | STATE REP | dist blank | 35 endorsees | Democrat:15, Republican:20
+- 1984 | STATE SENATOR | dist blank | 12 endorsees | Democrat:11, Republican:1
+- 1974 | CNTY COMM | dist blank | 11 endorsees | Democrat:8, Republican:3
+- 1984 | STATE REP | dist blank | 11 endorsees | Democrat:7, Republican:4
+- 1988 | STATE REP | dist blank | 10 endorsees | Democrat:2, Republican:8
+- 1992 | STATE REP | dist blank | 10 endorsees | Democrat:5, Republican:5
+- 1980 | STATE SENATOR | dist blank | 9 endorsees | Democrat:8, Republican:1
+- 1982 | STATE REP | dist blank | 6 endorsees | Democrat:4, Republican:2
+- 1998 | STATE REP | dist blank | 5 endorsees | Democrat:3, Republican:2
+- 1998 | CNTY COMM | dist blank | 5 endorsees | Nonpartisan:2, Democrat:3

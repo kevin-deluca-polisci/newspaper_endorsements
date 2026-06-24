@@ -5,17 +5,12 @@ State: Iowa (IA)
 Number of clippings: 79
 Endorsement data years: 1960-2020 (28 unique election years)
 
-Candidate records: 175
-  Endorsed: 156
-  Opposed: 17
-  No-direction (declined endorsement): 2
+Candidate records: 287  (Endorsed 166, Opposed 120, No-direction 1)
+Proposition records: 18  (all 18 image-verified)
+Mean candidate confidence: 0.917
+Last updated: 2026-06-23
 
-Proposition records: 18
-  YES: 14
-  NO: 4
-
-Confidence stats:
-  Mean confidence: 0.905
-  Median confidence: 0.920
-  Min confidence: 0.65
-  Max confidence: 0.95
+Notes:
+- D-leaning Iowa flagship, frequent split-ticket (Nixon-R 1960, Grassley-R Senate, Romney-R 2012 President, many R US-House picks).
+- V9 100% image verification + 100% additional-checks pass (2026-06-23): all clippings SCANNED, read by image. Fixed many direction/name errors from the inference-heavy prior process (see QA_REPORT V9). All 18 propositions image-confirmed. 113 of 120 opponent records now carry an image-verified source clipping; 7 remain inferred (flagged). 1976 H-1 + 2014 GOV + 1978 H-3 are intentional non-endorsements.
+- Sister paper = Des Moines Tribune (next folder, very sparse).

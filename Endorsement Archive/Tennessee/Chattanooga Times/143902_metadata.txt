@@ -27,8 +27,8 @@ Top offices (top 15):
   CONSTITUTIONAL CONVENTION DELEGATE: 3
 
 Party distribution:
-  Democrat: 159
-  Republican: 60
+  Democrat: 158
+  Republican: 61
   Independent: 5
   Progressive: 1
 

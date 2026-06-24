@@ -6,7 +6,7 @@ Newspaper ID: 145301
 State: TX
 Number of clippings: 50
 Endorsement data years: 1934-1996
-Total candidate records: 215 (180 endorsed=1)
+Total candidate records: 208 (V9 double-check: removed 1992 inference-only Presidents)
 Total proposition records: 178 (177 with a yes/no direction)
 
 Confidence statistics (all records):

@@ -1,5 +1,34 @@
 # QA Report: Decatur Daily Review (111302)
 
+---
+## V9 — 100% IMAGE-LEVEL VERIFICATION (2026-06-23) — supersedes all prior versions
+
+**Method:** All 25 scanned clippings rendered at 300 DPI and read BY IMAGE (the image is the source of truth; OCR only a pre-screen). Lead + 3 parallel block agents (1964/66, 1968/72, 1976/78+props); the lead personally re-verified every direction flip against the marked-ballot image before applying.
+
+**Headline — the AT-LARGE FLAG IS A FALSE POSITIVE.** The flagged 1970/1974 "5+ endorsees, no opponents" slots are genuine **IL cumulative-voting-era statewide endorsement editorials**, not the Cincinnati bug:
+- 1970 (19701028 "Our Choices in Legislative Races") explicitly lists "incumbents who should be reelected in the Senate" (11 R + 7 D) and the House downstate/other-district picks — every name image-matched the data.
+- 1974 (19741031 "Our list of incumbents deserving of re-election") lists 5 Senate + 32 House names — EXACT match to the data.
+IL used multi-member House districts (up to 3 reps) until 1980, so multiple same-district endorsees are correct.
+
+**Corrections applied (all image-verified against the marked ballots):**
+- **1966 STATE REP 52nd — Johns⇄Borchers flip (REVERSES a prior V1 "fix").** The 19661106 marked ballot checks Tipsword (D), Alsup (D), and **GEORGE P. JOHNS (R)**; **Webber Borchers (R) is UNMARKED.** Set Johns e=1, Borchers e=0. (Cross-confirmed: the 1968 editorial also preferred Johns over Borchers.)
+- **1966 Macon Co Treasurer — Brown⇄Maddox flip.** Ballot checks **George M. Brown (D)**; William H. Maddox (R) unmarked. Set Brown e=1, Maddox e=0.
+- **1966 US Senator Percy — REMOVED.** Both Douglas (D) and Percy (R) boxes are UNMARKED; the paper made no Senate pick (like its 1964 Governor non-endorsement). The prior Percy e=1 was unsupported.
+- **1964 U of I Trustee — Jones e1→e0 + Lovejoy added.** The 19641101 ballot's three checked trustees are Clement (D), Pogue (D), and **C. Ernest Lovejoy (R)**; **Theodore A. Jones (D) is UNMARKED.** Set Jones e=0; added Lovejoy R e=1.
+- **1968 U of I Trustee name fix:** "Waters, Orvas S." → **Watkins, Francis B.** (19681103 D trustee slate = Williamson/Watkins/Ives).
+- **1970 STATE SENATOR — McCarthy duplicate removed** (Robert W. McCarthy of Decatur appeared twice: blank-dist editorial-slate copy + dist-50 recap copy; same endorsement → deduped, kept dist=50).
+- **Omissions added (image-verified 19661106):** 1966 Sheriff **Jim Doster (R) e=1** (+ opp Neara D e=0); 1966 County Superintendent of Schools **Howard E. Brown (R) e=1** (+ opp Freeman D e=0).
+- **Minor:** 1966 state-treasurer Stevenson III dname "Macon County" → cleared (statewide office).
+- **Name std:** U of I trustee "Watkins, Frances Best"(1966)/"Watkins, Francis B."(1968) → both **Watkins, Frances B.** (same trustee, web-verified vs U of I Board minutes).
+
+**Wrap-up checks (2026-06-23):** 1972 lead-in districts 1/3/4/5/6 image-confirmed; 1970/1974 incumbency-flag coverage audited (correct & nuanced — only genuine non-incumbents unflagged); cross-year name-consistency sweep clean apart from the Watkins fix; 9/12 props image-confirmed (3 historically-corroborated props not re-locatable on available scans — flagged in RA_NEEDS §3).
+
+**REJECTED an agent's claimed omissions (lead image-check):** the block agent reported 1968 SoS **Paul Powell (D)** and Clerk of Supreme Court **Fannie G. Jones (D)** as endorsed — but on the 19681103 ballot **both boxes are UNMARKED** (as are the R equivalents Carpentier/Taft); the paper made no pick for those two offices. NOT added. (Lesson: verify every reported omission against the box, not the OCR.)
+
+**Final V9 integrity:** **269 candidate records (232 e=1, 37 e=0), 12 props. Pattern K=0, duplicates=0, 0 blank names/parties, 0 invalid parties, 0 orphan e=0 groups, 0 low-confidence.** Mean conf 0.920.
+
+---
+
 **Audit date:** 2026-06-11 (V7 — 600 rounds + 6 formal QA + 1966 Pattern A massive find + dist 50→52 correction, supersedes V1-V6)
 **Folder:** done/Decatur Daily Review/
 **Newspaper ID:** 111302
@@ -367,3 +396,17 @@ No structural issues found.
 - Year coverage: 1962-1978
 - Mean confidence: 0.921
 - All records have extraction_confidence ≥ 0.75
+
+---
+
+## ✅ AT-LARGE FALSE-ENDORSEMENT WATCH — RESOLVED 2026-06-23 (V9)
+All four flagged slots are **FALSE POSITIVES**: legitimate IL cumulative-voting-era statewide legislative endorsement editorials (1970 "Our Choices in Legislative Races" 19701028; 1974 "Our list of incumbents..." 19741031). Every endorsee image-matched; no opponents were miscoded as endorsed; no party scrambles. Only one real defect in those slots — a 1970 STATE SENATOR McCarthy duplicate, now removed. See the V9 section at the top of this report. Original flag text retained below for reference.
+
+## ⚠️ AT-LARGE FALSE-ENDORSEMENT WATCH (flagged 2026-06-22, address during V9 processing)
+A project-wide sweep flagged this folder for the **Cincinnati at-large bug**: one partisan race-slot (district or at-large) holding **5+ candidates all coded endorsed (e=1) with zero recorded opponents**. In the Cincinnati Enquirer this turned out to be a systematic error where the *entire* multi-member/at-large candidate list (endorsees + their opponents) was coded as endorsed — often with the opponents' party mislabeled. When V9-processing this folder, OPEN THE BALLOT IMAGE for each slot below and split into the marked endorsees (e=1) vs the unmarked opponents (e=0); watch for party mislabels and name scrambles. NOTE: some of these may be legitimate bipartisan at-large slates — verify against the clipping, do not assume.
+
+Flagged slots (year | office | district | #endorsees | party mix):
+- 1970 | STATE SENATOR | dist blank | 19 endorsees | Republican:11, Democrat:8
+- 1974 | STATE REP | dist blank | 16 endorsees | Democrat:10, Republican:6
+- 1970 | STATE REP | dist blank | 9 endorsees | Democrat:4, Republican:5
+- 1974 | STATE SENATOR | dist blank | 5 endorsees | Republican:2, Democrat:3

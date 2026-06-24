@@ -179,3 +179,34 @@ Total V11 changes: ~13 fixes including 1 major name error (HEARN CANDY→JOYCE)
 - 1986 H 2 divergence with sister paper: CR endorsed Zeigler D challenger; CS endorsed Spence R incumbent (genuine editorial difference)
 - newspaper_id 143150 confirmed for Columbia Record
 - **Lesson learned:** Multi-column editorial layouts caused systematic name errors in initial LLM extraction. Re-OCR sweep necessary for catching these.
+
+---
+
+## ⚠️ AT-LARGE FALSE-ENDORSEMENT WATCH (flagged 2026-06-22, address during V9 processing)
+A project-wide sweep flagged this folder for the **Cincinnati at-large bug**: one partisan race-slot (district or at-large) holding **5+ candidates all coded endorsed (e=1) with zero recorded opponents**. In the Cincinnati Enquirer this turned out to be a systematic error where the *entire* multi-member/at-large candidate list (endorsees + their opponents) was coded as endorsed — often with the opponents' party mislabeled. When V9-processing this folder, OPEN THE BALLOT IMAGE for each slot below and split into the marked endorsees (e=1) vs the unmarked opponents (e=0); watch for party mislabels and name scrambles. NOTE: some of these may be legitimate bipartisan at-large slates — verify against the clipping, do not assume.
+
+Flagged slots (year | office | district | #endorsees | party mix):
+- 1976 | CNTY COMM | dist blank | 12 endorsees | Democrat:4, Republican:8
+- 1982 | CNTY COMM | dist blank | 6 endorsees | Democrat:3, Republican:3
+- 1984 | CNTY COMM | dist blank | 6 endorsees | Democrat:3, Republican:3
+
+---
+
+## V9 100% IMAGE-LEVEL Verification — 2026-06-22 (per Kevin's standing rule)
+182 candidate + 39 prop records, 1952–1986. SC paper, R-leaning top-of-ticket / split-ticket down-ballot.
+
+**Every candidate year image-verified** against the clippings (all 50 clippings reviewed). Integrity clean (Pattern K=0, no dups/blanks).
+
+**AT-LARGE WATCH RESOLVED — NOT the bug:** 1976/1982/1984 county-council slots are legitimate bipartisan endorsed slates ("A Good Council" 1976, "Six for Richland" 1982, "Three and three" 1984), confirmed against the clippings.
+
+**5 corrections:** 1976 Joe Wilson (state senate) party D→R (he switched parties); 1980 John Galvin (county council) D→R; 1986 school board Smith R→Nonpartisan + Heyward & Mizell blank→Nonpartisan (1986 board went non-partisan).
+
+**Notable confirmed findings:** R presidential endorsements every year incl. Ford-over-Carter 1976; 1972 all-R school-board slate endorsed against desegregation advocate Hayes Mizell; 1974 Campbell-R + Harvey-D dual Lt-Gov endorsement ("we recommend both"); 1986 Spence REVERSAL (Zeigler-D endorsed over Spence-R after 1974–84 of backing Spence); 1986 Mizell now endorsed.
+
+**Flags (no folder clipping support):** 1972 president, 1974 Spence, 1978 statewide ticket (incl. a suspect "Patrick R Lt Gov" — he's the D Ag Commissioner). See RA_NEEDS.md §3. Props: all-FOR years are amendment editorials; 1972 13-prop block warrants an RA direction spot-check.
+
+### V9 skill-checklist closure (2026-06-22) — full audit completed
+Props vision audit (all 38; 1972 13-FOR block confirmed legit; removed 1 duplicate 1964 prop, 39→38). Cross-paper consistency vs 8 SC papers → fixed Patrick (1982 party D→R, 1978 office Lt Gov→Ag Commissioner; confirmed via Columbia State + web). Inc flags (29 set) verified-consistent but field is partial (flagged). All 50 clippings vision-read; no multi-year bundles. TOTAL fixes: 7 candidate (Wilson-R, Galvin-R, 3 school-board Nonp, 2 Patrick) + 1 prop dedup. Pattern K=0; all records have notes + confidence.
+
+### V9 extra-comprehensive pass (2026-06-22)
+Office codes checked (consistent). Incumbency flags ENRICHED 29->58/182 from explicit clipping language. 1980 Lexington council district fix (Shealy d3->d4, Howard d4->d3, per clipping). External validation: unsupported records (1972 pres, 1974 Spence, 1978 ticket) match actual SC results. Total candidate fixes now 10 (7 + 2 Patrick + Shealy/Howard districts) + 29 inc flags + 1 prop dedup. Pattern K=0, md5-synced.

@@ -1,0 +1,36 @@
+NEWSPAPER ENDORSEMENT METADATA
+============================================================
+
+Newspaper: Citizens Voice
+Newspaper ID: WILKESBCV
+State: PA
+Number of clippings: 19
+Endorsement data years: 1984-2020
+Total candidate records: 148 (104 endorsed=1)
+Total proposition records: 6 (6 with a yes/no direction)
+
+Confidence statistics (all records):
+  Mean confidence: 0.904
+  Low-confidence records (< 0.7): 2
+
+Top offices (top 15):
+  STATE REP: 40
+  H: 26
+  PRESIDENT: 17
+  VICE PRESIDENT: 17
+  GOVERNOR: 12
+  SENATOR: 11
+  STATE SENATOR: 8
+  ATTORNEY GENERAL: 7
+  AUDITOR: 4
+  TREASURER: 4
+  LT GOVERNOR: 2
+
+Party distribution:
+  Democrat: 88
+  Republican: 55
+  Independent: 3
+  Libertarian: 1
+  Green: 1
+
+(metadata regenerated post-V8 deep verification)

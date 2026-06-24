@@ -25,8 +25,8 @@ Top offices (top 15):
 
 Party distribution:
   Republican: 62
-  Democrat: 40
-  Independent: 6
+  Democrat: 41
+  Independent: 5
   Nonpartisan: 3
 
 (metadata regenerated post-V8 deep verification)

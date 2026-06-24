@@ -32,12 +32,12 @@ Top offices (top 15):
 
 Party distribution:
   Nonpartisan: 731
-  Republican: 398
-  Democrat: 304
+  Republican: 422
+  Democrat: 312
   Charter: 16
-  Independent: 11
   Natural Law: 8
+  Independent: 7
+  Libertarian: 5
   American Independent: 1
-  Libertarian: 1
 
 (metadata regenerated post-V8 deep verification)

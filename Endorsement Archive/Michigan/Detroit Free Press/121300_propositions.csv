@@ -13,20 +13,20 @@ MI,Detroit Free Press,121300,1970,MI,PROPOSITION,B,Lowering the voting age,1,Vot
 MI,Detroit Free Press,121300,1970,MI,PROPOSITION,C,Ending parochaid (state aid to non-public schools),1,Vote YES,0.92,,,,,pdf,,121300_19701102,
 MI,Detroit Free Press,121300,1970,MI,PROPOSITION,D,City purchasing authority,1,Vote YES,0.92,,,,,pdf,,121300_19701102,
 MI,Detroit Free Press,121300,1970,MI,PROPOSITION,E,Vietnam War advisory question,1,Vote YES,0.92,,,,,pdf,,121300_19701102,
-MI,Detroit Free Press,121300,1972,MI,PROPOSITION,A,Daylight Saving Time,,Position not clearly read in OCR,0.65,OCR cut off vote recommendation,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
-MI,Detroit Free Press,121300,1972,MI,PROPOSITION,B,Reform state abortion law,,Position not clearly read in OCR,0.65,OCR cut off vote recommendation,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
+MI,Detroit Free Press,121300,1972,MI,PROPOSITION,A,Daylight Saving Time,1,Position not clearly read in OCR | V9 image 19721107: Vote YES,0.65,OCR cut off vote recommendation,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
+MI,Detroit Free Press,121300,1972,MI,PROPOSITION,B,Reform state abortion law,1,Position not clearly read in OCR | V9 image: Vote YES,0.65,OCR cut off vote recommendation,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
 MI,Detroit Free Press,121300,1972,MI,PROPOSITION,C,End property tax for school financing,1,Vote YES,0.9,,,,,pdf,,121300_19721107,
 MI,Detroit Free Press,121300,1972,MI,PROPOSITION,D,Permit a graduated state income tax,1,Vote YES,0.9,,,,,pdf,,121300_19721107,
 MI,Detroit Free Press,121300,1972,MI,PROPOSITION,E,Veterans' bonus,0,Vote NO,0.9,,,,,pdf,,121300_19721107,
 MI,Detroit Free Press,121300,1972,MI,REFERENDUM,Wayne B,Wayne County millage for jails,1,Vote YES,0.85,,,,,pdf,,121300_19721107,
 MI,Detroit Free Press,121300,1972,MI,REFERENDUM,Wayne G,Wayne County millage for youth detention activities,1,Vote YES,0.85,,,,,pdf,,121300_19721107,
-MI,Detroit Free Press,121300,1972,MI,REFERENDUM,Detroit H,Detroit Charter revision,,Position not clearly read in OCR,0.65,OCR fragmented,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
+MI,Detroit Free Press,121300,1972,MI,REFERENDUM,Detroit H,Detroit Charter revision,0,Position not clearly read in OCR | V9 image: Vote NO on Detroit Charter revision (Proposal H),0.65,OCR fragmented,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
 MI,Detroit Free Press,121300,1972,MI,REFERENDUM,Detroit I,Detroit Election of councilmen,,Position not clearly read in OCR,0.65,OCR fragmented,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
 MI,Detroit Free Press,121300,1972,MI,REFERENDUM,Detroit J,Detroit Partisan or non-partisan election,,Position not clearly read in OCR,0.65,OCR fragmented,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
 MI,Detroit Free Press,121300,1972,MI,REFERENDUM,Detroit K,Detroit Proposal K,,No position taken (paper: 'No position'),0.85,,,,,pdf,,121300_19721107,Missing endorsed
-MI,Detroit Free Press,121300,1972,MI,REFERENDUM,Detroit L,Detroit School millage renewal,,Position not clearly read in OCR,0.65,OCR fragmented,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
+MI,Detroit Free Press,121300,1972,MI,REFERENDUM,Detroit L,Detroit School millage renewal,1,Position not clearly read in OCR | V9 image: Vote YES,0.65,OCR fragmented,,,,pdf,,121300_19721107,Missing endorsed | Low confidence (0.65)
 MI,Detroit Free Press,121300,1974,MI,PROPOSITION,A,Limiting use of funds accumulated through gas tax,0,Vote NO,0.9,,,,,pdf,,121300_19741105,
-MI,Detroit Free Press,121300,1974,MI,PROPOSITION,B,Compensation increase for legislators,,Position not clearly read in OCR,0.65,OCR truncated label,,,,pdf,,121300_19741105,Missing endorsed | Low confidence (0.65)
+MI,Detroit Free Press,121300,1974,MI,PROPOSITION,B,Compensation increase for legislators,1,"Position not clearly read in OCR | V9 image 19741105: Proposal B = YES (NOTE: clipping Proposal B reads ""Vietnam veterans bonus"" - description may be mismatched; RA verify)",0.65,OCR truncated label,,,,pdf,,121300_19741105,Missing endorsed | Low confidence (0.65)
 MI,Detroit Free Press,121300,1974,MI,PROPOSITION,C,Removal of the sales tax on food and drugs,0,Vote NO,0.9,,,,,pdf,,121300_19741105,
 MI,Detroit Free Press,121300,1974,MI,BOND,D,Authorize $1.1 billion in bonds for state transportation systems,1,Vote YES,0.9,,,,,pdf,,121300_19741105,
 MI,Detroit Free Press,121300,1974,MI,REFERENDUM,Detroit E,Charter Amendment E: Authorize Detroit City Council to sit as a board of review or appoint board for property tax assessments,0,Vote NO,0.9,,,,,pdf,,121300_19741105,
@@ -36,7 +36,7 @@ MI,Detroit Free Press,121300,1976,MI,PROPOSITION,B,Lower age for legislative can
 MI,Detroit Free Press,121300,1976,MI,PROPOSITION,C,Limit all state taxes and spending to 8.3% of combined personal income of Michigan,0,Vote NO,0.9,,,,,pdf,,121300_19761101,
 MI,Detroit Free Press,121300,1976,MI,PROPOSITION,D,Replace flat-rate income tax with a graduated income tax,0,Vote NO,0.9,,,,,pdf,,121300_19761101,
 MI,Detroit Free Press,121300,1976,MI,REFERENDUM,E,"Five-year, five-mill property tax for Detroit schools",1,Vote YES,0.9,,,,,pdf,,121300_19761101,
-MI,Detroit Free Press,121300,1976,MI,REFERENDUM,Detroit F,Allow City Council to pick non-president member to serve on Board of Education,,OCR text truncated/unclear,0.65,,,,,pdf,,121300_19761101,Missing endorsed | Low confidence (0.65)
+MI,Detroit Free Press,121300,1976,MI,REFERENDUM,Detroit F,Allow City Council to pick non-president member to serve on Board of Education,1,OCR text truncated/unclear | V9 image 19761101: Proposal F = YES,0.65,,,,,pdf,,121300_19761101,Missing endorsed | Low confidence (0.65)
 MI,Detroit Free Press,121300,1976,MI,REFERENDUM,Detroit G,Detroit charter amendment on regulated gambling casinos,0,Vote NO,0.9,,,,,pdf,,121300_19761101,
 MI,Detroit Free Press,121300,1980,MI,PROPOSITION,A,Smith-Bullard tax proposal,0,Vote NO,0.9,,,,,pdf,,121300_19801104,
 MI,Detroit Free Press,121300,1980,MI,PROPOSITION,B,Lower legal drinking age to 19,1,Vote YES,0.9,,,,,pdf,,121300_19801104,
@@ -117,11 +117,11 @@ MI,Detroit Free Press,121300,1994,MI,PROPOSITION,P,"Establish an endowment fund 
 MI,Detroit Free Press,121300,1994,MI,REFERENDUM,Wayne WCCC millage,Renew a one-mill property tax for the operation of Wayne County Community College,1,Vote YES,0.9,,,,,pdf,,121300_19941108_v2,
 MI,Detroit Free Press,121300,1994,MI,REFERENDUM,Detroit S,Authorize $1.5 billion in bonds over 15 years for improvements in existing Detroit school buildings,0,Vote NO,0.9,,,,,pdf,,121300_19941108_v2,
 MI,Detroit Free Press,121300,1996,MI,PROPOSITION,A,Prohibit bingo games as campaign fund-raisers,0,Vote NO,0.9,,,,,pdf,,121300_19961105_v2,
-MI,Detroit Free Press,121300,1996,MI,PROPOSITION,B,Require all new judges in state court system must have been lawyers for at least five years,0,Vote NO,0.9,,,,,pdf,,121300_19961105_v2,
-MI,Detroit Free Press,121300,1996,MI,PROPOSITION,C,Establish current Michigan Veterans Trust Fund in state Constitution,1,Vote YES,0.9,,,,,pdf,,121300_19961105_v2,
-MI,Detroit Free Press,121300,1996,MI,PROPOSITION,D,"Ban use of dogs and bait piles for hunting bears, limit bear hunting season",1,Vote YES,0.9,,,,,pdf,,121300_19961105_v2,
+MI,Detroit Free Press,121300,1996,MI,PROPOSITION,B,Require all new judges in state court system must have been lawyers for at least five years,1,Vote NO | V9c: direction 0->1 per 1996 recap image,0.9,,,,,pdf,,121300_19961105_v2,
+MI,Detroit Free Press,121300,1996,MI,PROPOSITION,C,Establish current Michigan Veterans Trust Fund in state Constitution,0,Vote YES | V9c: direction 1->0 per 1996 recap image,0.9,,,,,pdf,,121300_19961105_v2,
+MI,Detroit Free Press,121300,1996,MI,PROPOSITION,D,"Ban use of dogs and bait piles for hunting bears, limit bear hunting season",0,Vote YES | V9c: direction 1->0 per 1996 recap image,0.9,,,,,pdf,,121300_19961105_v2,
 MI,Detroit Free Press,121300,1996,MI,REFERENDUM,E,Authorize as many as three casinos in Detroit,0,Vote NO,0.9,,,,,pdf,,121300_19961105_v2,
-MI,Detroit Free Press,121300,1996,MI,PROPOSITION,G,Give state Natural Resources Commission exclusive authority over hunting regulations,0,Vote NO,0.9,,,,,pdf,,121300_19961105_v2,
+MI,Detroit Free Press,121300,1996,MI,PROPOSITION,G,Give state Natural Resources Commission exclusive authority over hunting regulations,1,Vote NO | V9c: direction 0->1 per 1996 recap image,0.9,,,,,pdf,,121300_19961105_v2,
 MI,Detroit Free Press,121300,1996,MI,REFERENDUM,Detroit T,Require excess pension fund earnings be distributed in same proportion that city and employees contributed,1,Vote YES,0.9,,,,,pdf,,121300_19961105_v2,
 MI,Detroit Free Press,121300,1996,MI,REFERENDUM,Detroit S,Authorize taxes on hotel/motel bills and rental vehicles to help pay for stadium complex in Detroit,1,Vote YES,0.9,,,,,pdf,,121300_19961105_v2,
 MI,Detroit Free Press,121300,1996,MI,PROPOSITION,Wayne Independent Counsel,Permit county commissioners to appoint an independent lawyer for legal services,1,Vote YES,0.9,,,,,pdf,,121300_19961105_v2,
@@ -134,7 +134,7 @@ MI,Detroit Free Press,121300,1998,MI,PROPOSITION,Washtenaw 1,Raise property tax 
 MI,Detroit Free Press,121300,1998,MI,REFERENDUM,Wayne Tax board,Eliminate Wayne County Tax Allocation Board (which sets rates for certain units of government),0,Vote NO,0.9,,,,,pdf,,121300_19981101,
 MI,Detroit Free Press,121300,1998,MI,REFERENDUM,Wayne Civil Service,Change the way Wayne County civil service commission members are appointed,1,Vote YES,0.9,,,,,pdf,,121300_19981101,
 MI,Detroit Free Press,121300,1998,MI,REFERENDUM,Detroit Community Councils,Eliminate community advisory councils from Detroit city charter,0,Vote NO,0.9,,,,,pdf,,121300_19981101,
-MI,Detroit Free Press,121300,1998,MI,REFERENDUM,Detroit Living Wage,Require city contractors and others receiving city assistance to pay wages at least at the federal poverty level (then $7.70/hr),1,Vote YES,0.9,,,,,pdf,,121300_19981101,
+MI,Detroit Free Press,121300,1998,MI,REFERENDUM,Detroit Living Wage,Require city contractors and others receiving city assistance to pay wages at least at the federal poverty level (then $7.70/hr),0,Vote YES | V9c: direction 1->0 per 1998 recap image,0.9,,,,,pdf,,121300_19981101,
 MI,Detroit Free Press,121300,1998,MI,REFERENDUM,WCCC,Make current one-mill tax for school operations permanent (Wayne County Community College),0,Vote NO,0.9,,,,,pdf,,121300_19981101,
 MI,Detroit Free Press,121300,2000,MI,PROPOSITION,1,Statewide proposal: Guarantee a level of per-pupil spending,0,Vote NO,0.85,OCR fragmented but the position is clear,,,,pdf,,121300_20001105,
 MI,Detroit Free Press,121300,2000,MI,PROPOSITION,2,Statewide proposal: Township government decision-making,0,Vote NO,0.8,OCR fragmented; description partial,,,,pdf,,121300_20001105,
@@ -203,8 +203,7 @@ MI,Detroit Free Press,121300,2012,MI,REFERENDUM,Wayne Charter,Five Wayne County 
 MI,Detroit Free Press,121300,2012,MI,REFERENDUM,WCCC millage,Wayne County Community College: increase of one mill in property tax for college operations,1,Vote YES,0.9,,,,,pdf,,121300_20121106,
 MI,Detroit Free Press,121300,2012,MI,BOND,WCCC bond,Wayne County Community College bond: $56 million for college bonds,1,Vote YES,0.9,,,,,pdf,,121300_20121106,
 MI,Detroit Free Press,121300,2016,MI,PROPOSITION,RTA,Regional Transit Authority Millage,1,YES,0.92,,,,,pdf,,121300_20161108,
-MI,Detroit Free Press,121300,2016,MI,REFERENDUM,Wayne County Jail,Wayne County Jail proposal,,OCR shows 'Wayne County Jail' but YES/NO direction not extracted,0.65,Position not clearly read,,,,pdf,,121300_20161108,Missing endorsed | Low confidence (0.65)
-MI,Detroit Free Press,121300,2016,MI,REFERENDUM,Community Benefits,Detroit Community Benefits ordinance,,OCR mention of 'Community Benefits' but specific position not clearly read,0.65,Position not clearly read,,,,pdf,,121300_20161108,Missing endorsed | Low confidence (0.65)
+MI,Detroit Free Press,121300,2016,MI,REFERENDUM,Community Benefits,Detroit Community Benefits ordinance,0,"OCR mention of 'Community Benefits' but specific position not clearly read | V9 image 20161108: ""Community Benefits Proposal A: NO, Proposal B: NO""",0.65,Position not clearly read,,,,pdf,,121300_20161108,Missing endorsed | Low confidence (0.65)
 MI,Detroit Free Press,121300,2018,MI,PROPOSITION,1,Legalize recreational marijuana in Michigan,1,Vote YES,0.95,,,,,pdf,,121300_20181106_v2,
 MI,Detroit Free Press,121300,2018,MI,PROPOSITION,2,Amend the state Constitution to change the way political districts are drawn in Michigan (redistricting commission),1,Vote YES,0.95,,,,,pdf,,121300_20181106_v2,
 MI,Detroit Free Press,121300,2018,MI,PROPOSITION,3,Change the state Constitution to add provisions that make it easier to vote,1,Vote YES,0.95,,,,,pdf,,121300_20181106_v2,
@@ -215,3 +214,4 @@ MI,Detroit Free Press,121300,2020,MI,PROPOSITION,Wayne RESA,Wayne Regional Educa
 MI,Detroit Free Press,121300,2022,MI,PROPOSITION,1,Term limits and financial disclosure for state legislators,1,Vote YES,0.95,,,,,pdf,,121300_20221019,
 MI,Detroit Free Press,121300,2022,MI,PROPOSITION,2,"Voting rights / Promote the Vote 2022 (early voting, election administration)",1,Vote YES,0.95,,,,,pdf,,121300_20221019,
 MI,Detroit Free Press,121300,2022,MI,PROPOSITION,3,Reproductive Freedom for All (abortion rights),1,Vote YES,0.95,,,,,pdf,,121300_20221019,
+MI,Detroit Free Press,121300,2016,MI,REFERENDUM,Wayne Schools,Wayne County RESA enhancement school millage,1,V9c add: image-verified 2016 Wayne County Schools millage (YES),0.9,,,,,pdf,,121300_20161108,V9c_ADD_image_verified

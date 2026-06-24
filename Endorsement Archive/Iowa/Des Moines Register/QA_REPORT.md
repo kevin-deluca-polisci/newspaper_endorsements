@@ -1,5 +1,36 @@
 # QA Report: Des Moines Register (115150)
 
+---
+## V9 — 100% IMAGE VERIFICATION (2026-06-23) — supersedes the round-based V8 below
+
+**Method:** Every clipping is SCANNED (pdftotext returns only header junk) → rendered at 300 DPI and read BY IMAGE. 4 era-block agents (1960–78, 1980–98, 2000–10, 2012–20); the lead personally re-verified every direction reversal against the image (2006 recap, 2014 governor, 1982 governor all confirmed). **Despite the prior "V8 FINAL — READY FOR PUBLICATION," the inference-heavy process had a high error rate** — this pass found and fixed wrong endorsement directions, wrong opponent names, and false source attributions.
+
+**Direction / endorsee corrections (image-verified):**
+- **1982 GOVERNOR — was coded "NO ENDORSEMENT"; the paper actually endorsed Roxanne Conlin (D)** ("A troubling choice… we prefer Conlin for governor"). Set Conlin-D e=1.
+- **2002 H-2 — endorsee was Julie Thomas (D), not Ann Hutchinson** (Hutchinson was the 1st-dist opponent); **H-4 — endorsee was John Norris (D), not Latham (R)** — flipped Latham to e=0, added Norris.
+- **2006 H-2 — endorsee was Jim Leach (R), not Loebsack (D); H-4 — endorsee was Selden Spencer (D), not Latham (R)** (confirmed against the 20061107 "Register endorsements" recap, which I read directly); **Polk Co. Supervisor d3 — Tom Hockensmith, not "Angela Smith."**
+- **2014 GOVERNOR — was coded Branstad-R endorsed; the editorial is "WE CANNOT BACK EITHER"** (dual non-endorsement) — set Branstad e=0.
+- **1972 SENATOR — was coded Harold Hughes-D; the endorsee was Dick Clark (D)** (Hughes was not a 1972 Senate candidate).
+
+**Opponent NAME fixes (image-verified):** 1998 AG opp Osterberg→**Schwickerath-R**; 1998 H-1 opp Powers→**Rush-D**; 1998 Treasurer opp Jenkins→**Bolin-R**; 2000 H-5 opp Keppy→**Palecek-D**; 2000 HD-72 opp Brown→**Chavannes-R**; 2004 H-1 opp Franken→**Gluba-D**. **Removed** the spurious 1998 H-4 "Osterberg-D" (a propagation error — Osterberg was the 1998 Senate nominee). **1990 "Treasurer" Maloney** clarified as Polk County Treasurer (not state).
+
+**Omissions added (image-confirmed endorsements):** 1968 PRESIDENT **Humphrey-D**; 1972 PRESIDENT **Nixon-R**; 1972 GOVERNOR **Ray-R**; 2002 H-4 **Norris-D**; 2006 SEC OF STATE **Mauro-D**.
+
+**Inferred-opponent / source-attribution cleanup:** ~50 e=0 opponent records carried `source_file` attributions pointing to an UNRELATED year's clipping (e.g., 2016/2020 opponents attributed to a 2008 file). These false attributions were **cleared** (set blank). Many named opponents are historically correct but were not extracted from a specific clipping — flagged for RA.
+
+**Confirmed correct (notable):** 1980 SENATOR Culver-D over Grassley-R (the V7 fix holds); 2012 PRESIDENT Romney-R (the famous reversal); 2004 H-3 Boswell-D & H-4 Latham-R OPPOSED (the paper endorsed Thompson-R / Johnson-D — split ticket); Grassley-R Senate endorsements 1986/1998.
+
+**100% additional-checks pass (2026-06-23, same day):**
+- **All 18 propositions image-verified — 0 errors** (directions + descriptions + source clippings all confirmed; the multi-measure clippings each map correctly).
+- **Opponent source-attribution restored:** a dedicated agent re-read the clippings for the ~49 source-cleared opponents — **41 ARE named in a real clipping** (their `source_file` was restored to the correct clipping) and only **7 are genuinely inferred** (1996 Perot/Kemp, 2006 Nussle/Whalen/King, 2016 King-d4, 2018 Peters-d2 — kept blank-source + flagged). Now **113 of 120 e=0 records carry an image-verified source.**
+- **2002 H-1 fix:** opponent "Gluba, Ann" → **Hutchinson, Ann** (the real Nussle-R 1st-dist opponent; "Bill Gluba" was the 2004 d1 Democrat).
+- **1976 H-1 resolved → non-endorsement.** The editorial says "the First District would be well served by either" (Leach-R/Mezvinsky-D) — set both e=0 (dual non-endorsement, like 2014 GOV).
+- **Name standardization:** Nixon "Richard" → "Richard M." (the two Bushes — H.W. 1988 vs W. 2000/04 — are correctly distinct). Incumbency-flag audit: Pattern K=0.
+
+**Final V9 integrity:** **287 candidate records (166 e=1, 120 e=0), 18 props (all image-verified). Pattern K=0, duplicates=0, 0 blank names, valid parties.** Intentional non-endorsement orphans: **1976 H-1, 2014 GOVERNOR** (dual e=0) + **1978 H-3** (blank-direction). Mean conf 0.917. **RA flags:** 7 genuinely-inferred opponents + 12 inferred VP running-mates (no separate VP endorsement line in any clipping).
+
+---
+
 **Audit date:** 2026-06-11 (V8 FINAL — 700 rounds + 8 formal QA + cross-year direction sanity + name std + 200 spot checks, supersedes V1-V7)
 **Folder:** Des Moines Register
 **Newspaper ID:** 115150
