@@ -7,7 +7,6 @@ MT,Great Falls Tribune,125500,1968,MT,AMENDMENT,1,Allow legislature to raise pay
 MT,Great Falls Tribune,125500,1968,MT,AMENDMENT,2,Extend legislative session 60 to 80 days,1,Yes,0.97
 MT,Great Falls Tribune,125500,1968,MT,AMENDMENT,3,Allow up to 6 amendments per election rather than 3,1,Yes,0.97
 MT,Great Falls Tribune,125500,1968,MT,INITIATIVE,66,Initiative 66 reduce personal property tax assessments to 1pct,0,We Recommend No on Initiative 66,0.95
-MT,Great Falls Tribune,125500,1968,MT,INITIATIVE,66,Initiative 66 - reduce personal property tax assessments,0,No,0.97
 MT,Great Falls Tribune,125500,1968,MT,REFERENDUM,65,Referendum 65,1,Yes,0.93
 MT,Great Falls Tribune,125500,1970,MT,AMENDMENT,,Executive Reorganization - reduce 161 bureaus to 20 departments,1,20 is plenty - vote yes,0.96
 MT,Great Falls Tribune,125500,1970,MT,AMENDMENT,,Allow Legislature to submit more than 3 amendments at general election,1,Yes on multiple amendments,0.95
@@ -18,14 +17,11 @@ MT,Great Falls Tribune,125500,1976,MT,BOND,,Cascade County Multi-Purpose Buildin
 MT,Great Falls Tribune,125500,1976,MT,BOND,,Great Falls High School District A bond election,1,Recap - For,0.93
 MT,Great Falls Tribune,125500,1976,MT,CHARTER,,City of Great Falls - retain existing commission form of government,1,Retain city commission - voted 4-1 in 1973,0.95
 MT,Great Falls Tribune,125500,1976,MT,CHARTER,,Cascade County - adopt Charter Commission-Executive Form of government,1,Recap - For,0.93
-MT,Great Falls Tribune,125500,1976,MT,CHARTER,,City of Great Falls - retain existing form of government,1,Recap - For,0.93
 MT,Great Falls Tribune,125500,1976,MT,CHARTER,,GF Sub-option 1 - appointed City Manager,1,Recap - For,0.90
 MT,Great Falls Tribune,125500,1976,MT,CHARTER,,GF Sub-option 2 - conducted on non-partisan basis,1,Recap - For,0.90
 MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,7,Constitutional Initiative Amendment No. 7,0,Recap - Against,0.90
 MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,71,Nuclear Facilities Act - would ban nuclear plant construction,0,Resounding No vote,0.97
-MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,71,Initiative No. 71 - Nuclear Facilities Act,0,Recap - Against,0.97
 MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,72,Income tax reduction proposal - encourages more rhetoric than serious tax reform,0,Initiative 72 not endorsed,0.90
-MT,Great Falls Tribune,125500,1976,MT,INITIATIVE,72,Initiative No. 72 - income tax reduction,0,Recap - Against,0.90
 MT,Great Falls Tribune,125500,1976,MT,REFERENDUM,70,Referendum No. 70,0,Recap - Against,0.90
 MT,Great Falls Tribune,125500,1980,MT,AMENDMENT,9,Constitutional Amendment 9 - Judicial Standards Commission,1,Yes,0.95
 MT,Great Falls Tribune,125500,1980,MT,INITIATIVE,84,Initiative 84 - Radioactive waste disposal,0,No,0.95
@@ -57,7 +53,7 @@ MT,Great Falls Tribune,125500,1992,MT,INITIATIVE,CI-63,Coal Tax Trust Fund for S
 MT,Great Falls Tribune,125500,1992,MT,INITIATIVE,CI-64,Limit vote on tax issues to ballot box,0,Recap - No,0.92
 MT,Great Falls Tribune,125500,1994,MT,AMENDMENT,CA-25,Pension fund protection,1,Recap - Yes,0.93
 MT,Great Falls Tribune,125500,1994,MT,BOND,,Bond for county jail,1,Recap - Yes,0.93
-MT,Great Falls Tribune,125500,1994,MT,INITIATIVE,I-118,Limited campaign reform,0,Recap - No,0.90
+MT,Great Falls Tribune,125500,1994,MT,INITIATIVE,I-118,Limited campaign reform,1,"Recap - No | V9r2: recap ""I-118 (limited campaign reform): Yes"" -> e=1",0.90
 MT,Great Falls Tribune,125500,1994,MT,INITIATIVE,I-66,Vote on tax increases,0,Recap - No,0.93
 MT,Great Falls Tribune,125500,1994,MT,INITIATIVE,I-67,Super-majority for increased spending,0,Recap - No,0.93
 MT,Great Falls Tribune,125500,1994,MT,REFERENDUM,IR-112,Income tax increase,0,Recap - No,0.93
@@ -74,3 +70,17 @@ MT,Great Falls Tribune,125500,2010,MT,AMENDMENT,,Ban taxes on real estate transf
 MT,Great Falls Tribune,125500,2010,MT,CONVENTION,,Calling a constitutional convention,0,Against - classic if it aint broke,0.93
 MT,Great Falls Tribune,125500,2010,MT,INITIATIVE,,Abolish outfitter-sponsored licenses,0,Against,0.90
 MT,Great Falls Tribune,125500,2010,MT,INITIATIVE,164,Cap rates charged by payday lenders,0,Vote against I-164 - well-intentioned but ill-advised,0.96
+MT,Great Falls Tribune,125500,1990,MT,INITIATIVE,CI-55,CI-55 property tax limitation,0,"V9 1990 image ""This newspaper opposes CI-55""",0.9
+MT,Great Falls Tribune,125500,1994,MT,AMENDMENT,CA-28,CA-28 property tax revisions,0,"V9r2 recap ""CA-28 (property tax revisions): No""",0.9
+MT,Great Falls Tribune,125500,1978,MT,AMENDMENT,4,Constitutional Amendment 4,1,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,AMENDMENT,5,Constitutional Amendment 5,1,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,AMENDMENT,6,Constitutional Amendment 6,1,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,AMENDMENT,7,Constitutional Amendment 7,0,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,AMENDMENT,8,Constitutional Amendment 8,0,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,INITIATIVE,CI-8,Constitutional Initiative 8,0,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,REFERENDUM,74,Referendum 74,1,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,REFERENDUM,75,Referendum 75,1,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,INITIATIVE,79,Initiative 79,0,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,INITIATIVE,80,Initiative 80,0,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,INITIATIVE,81,Initiative 81,1,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9
+MT,Great Falls Tribune,125500,1978,MT,DISTRICT,,Urban Transportation District,1,"V9r2 1978 ballot-guide ""Tribune Recommendations"" table (11/06)",0.9

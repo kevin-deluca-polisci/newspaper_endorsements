@@ -89,7 +89,7 @@ TX,Fort Worth Star-Telegram,145400,1982,STATE REP,90,Texas House District 90,TX,
 TX,Fort Worth Star-Telegram,145400,1982,STATE REP,92,Texas House District 92,TX,"EVANS, CHARLES",Democrat,1,1,,,State Rep District 92,0.97
 TX,Fort Worth Star-Telegram,145400,1982,STATE REP,93,Texas House District 93,TX,"ENGLISH, ROY",Democrat,1,,,,State Rep District 93,0.97
 TX,Fort Worth Star-Telegram,145400,1982,STATE REP,96,Texas House District 96,TX,"WARE, BOB",Republican,1,,1,,State Rep District 96 | V1 Pattern K fix: R candidate d_inc=1 → r_inc=1.,0.95
-TX,Fort Worth Star-Telegram,145400,1982,STATE REP,96,Texas House District 96,TX,"MILLSAP, MIKE",Democrat,1,,,,Also listed for State Rep District 96 (possibly cross-listing or place position),0.6
+TX,Fort Worth Star-Telegram,145400,1982,STATE REP,96,Texas House District 96,TX,"MILLSAP, MIKE",Democrat,1,,,,"Also listed for State Rep District 96 (possibly cross-listing or place position) | V9r2: image-confirmed dual ""Bob Ware, Republican, and Mike Millsap, Democrat""",0.85
 TX,Fort Worth Star-Telegram,145400,1982,CNTY COMM,2,Tarrant County,TX,"MEBUS, JERRY",Democrat,1,,,,County commissioner Pct 2,0.97
 TX,Fort Worth Star-Telegram,145400,1982,CNTY COMM,4,Tarrant County,TX,"GRIFFIN, B D",Democrat,1,,,,County commissioner Pct 4,0.97
 TX,Fort Worth Star-Telegram,145400,1982,COURT OF APPEALS,2,Texas Court of Appeals,TX,"FENDER, HOWARD",Democrat,1,,,,Court of Appeals 2nd District (Chief Justice),0.95
@@ -107,7 +107,7 @@ TX,Fort Worth Star-Telegram,145400,1982,JUDGE,CCrim4,Tarrant County / Texas,TX,"
 TX,Fort Worth Star-Telegram,145400,1982,JUDGE,CCL2,Tarrant County / Texas,TX,"SCHATTMAN, MIKE",Democrat,1,,,,County Court at Law No. 2,0.95
 TX,Fort Worth Star-Telegram,145400,1982,CNTY CLERK,,DistrictClerk,TX,"BOORMAN, JIM",Democrat,1,,,,District clerk,0.95
 TX,Fort Worth Star-Telegram,145400,1982,TREASURER,,CountyTreasurer,TX,"SPRINKLE, VINCE",Republican,1,,,,County treasurer,0.95
-TX,Fort Worth Star-Telegram,145400,1982,TREASURER,,CountyTreasurer,TX,"BEAM, JACK",Democrat,1,,,,Also listed with County treasurer line (possibly different office not parsed),0.55
+TX,Fort Worth Star-Telegram,145400,1982,TREASURER,,CountyTreasurer,TX,"BEAM, JACK",Democrat,1,,,,"Also listed with County treasurer line (possibly different office not parsed) | V9r2: image-confirmed dual ""Vince Sprinkle, Republican, and Jack Bean, Democrat""; OCR surname reads ""Bean"" (CSV ""Beam"")",0.78
 TX,Fort Worth Star-Telegram,145400,1984,PRESIDENT,,United States,TX,"REAGAN, RONALD",Republican,1,,1,,Editorial 'It's voter's turn now' recapitulates endorsements,0.98
 TX,Fort Worth Star-Telegram,145400,1984,SENATOR,,Texas,TX,"GRAMM, PHIL",Republican,1,,,,US Senate (formerly Democratic House member),0.98
 TX,Fort Worth Star-Telegram,145400,1984,H,6,U.S. House Texas 6,TX,"BARTON, JOE",Republican,1,,,,Congress District 6,0.97
@@ -147,7 +147,7 @@ TX,Fort Worth Star-Telegram,145400,1986,CNTY COMM,2,Tarrant County,TX,"WATSON, O
 TX,Fort Worth Star-Telegram,145400,1986,CNTY COMM,4,Tarrant County,TX,"JOHNSON, J D",Democrat,1,,,,County Commissioner Pct 4 (no incumbent),0.97
 TX,Fort Worth Star-Telegram,145400,1986,DA/PROSECUTOR,,Tarrant County,TX,"CURRY, TIM",Democrat,1,1,,,District Attorney (incumbent),0.97
 TX,Fort Worth Star-Telegram,145400,1986,CNTY CLERK,,DistrictClerk,TX,"BOORMAN, JIM",Democrat,1,1,,,District Clerk (incumbent),0.97
-TX,Fort Worth Star-Telegram,145400,1986,CNTY CLERK,,Tarrant County,TX,"HUFFMAN, MARIN",Democrat,1,1,,,County Clerk (incumbent); name may be Marin Huffman,0.9
+TX,Fort Worth Star-Telegram,145400,1986,CNTY CLERK,,Tarrant County,TX,"HUFFMAN, MADRIN",Democrat,1,1,,,County Clerk (incumbent); name may be Marin Huffman | V9 image: Madrin (not Marin; matches 1990),0.9
 TX,Fort Worth Star-Telegram,145400,1986,TX SUPREME COURT,,P2,TX,"CAMPBELL, ROBERT M",Democrat,1,1,,,TX Supreme Court Place 2 (incumbent),0.97
 TX,Fort Worth Star-Telegram,145400,1986,TX SUPREME COURT,,P4,TX,"GONZALEZ, RAUL A",Democrat,1,1,,,TX Supreme Court Place 4 (incumbent),0.97
 TX,Fort Worth Star-Telegram,145400,1986,COURT OF APPEALS,2,Texas Court of Appeals,TX,"LATTIMORE, HAL",Democrat,1,1,,,2nd Judicial Court of Appeals (incumbent),0.97
@@ -211,7 +211,7 @@ TX,Fort Worth Star-Telegram,145400,1990,TX SUPREME COURT,PLACE 1,Texas Supreme C
 TX,Fort Worth Star-Telegram,145400,1990,TX SUPREME COURT,PLACE 2,Texas Supreme Court,TX,"GAMMAGE, BOB",Democrat,1,,,,illustrious background in Congress and Legislature and on the appellate bench,0.96
 TX,Fort Worth Star-Telegram,145400,1990,COURT OF CRIMINAL APPEALS,PLACE 1,Texas Court of Criminal Appeals,TX,"MALONEY, FRANK",Democrat,1,,,,extensive criminal law background,0.94
 TX,Fort Worth Star-Telegram,145400,1990,COURT OF CRIMINAL APPEALS,PLACE 2,Texas Court of Criminal Appeals,TX,"KITZMAN, OLIVER S.",Republican,1,,,,exceptionally well-prepared for service on the court,0.94
-TX,Fort Worth Star-Telegram,145400,1990,COURT OF CRIMINAL APPEALS,PLACE 4,Texas Court of Criminal Appeals,TX,"BENCHELMANN, DAVID",Republican,1,,,,professional background has prepared him to remain in this position,0.9
+TX,Fort Worth Star-Telegram,145400,1990,COURT OF CRIMINAL APPEALS,PLACE 4,Texas Court of Criminal Appeals,TX,"BERCHELMANN, DAVID",Republican,1,,,,professional background has prepared him to remain in this position | V9 image: Berchelmann (n/r transposition),0.9
 TX,Fort Worth Star-Telegram,145400,1990,COURT OF CRIMINAL APPEALS,PLACE 5,Texas Court of Criminal Appeals,TX,"STURNS, LOUIS E.",Republican,1,,,,"former Tarrant County judge, has superior abilities",0.95
 TX,Fort Worth Star-Telegram,145400,1990,STATE SENATOR,12,Texas Senate District 12,TX,"MONCRIEF, MIKE",Democrat,1,,,,service in the House and as county judge make him well-suited,0.95
 TX,Fort Worth Star-Telegram,145400,1990,STATE REP,89,Texas House District 89,TX,"LEWIS, GIB",Democrat,1,1,,,guidance essential as Legislature takes on some pressing challenges; Speaker,0.94
@@ -233,7 +233,7 @@ TX,Fort Worth Star-Telegram,145400,1990,JUDGE,COUNTY CRIMINAL 1,Tarrant County /
 TX,Fort Worth Star-Telegram,145400,1990,JUDGE,COUNTY CRIMINAL 2,Tarrant County / Texas,TX,"MITCHELL, MICHAEL D.",Republican,1,,,,well-equipped to continue presiding over this court,0.92
 TX,Fort Worth Star-Telegram,145400,1990,JUDGE,COUNTY CRIMINAL 7,Tarrant County / Texas,TX,"FENDER, HOWARD M.",Republican,1,,,,"splendid background, knows the law and works hard",0.92
 TX,Fort Worth Star-Telegram,145400,1990,CNTY CLERK,DISTRICT,Tarrant County,TX,"HUGHES, TOM",Republican,1,,1,,"District Clerk; improved the office, has performed capably and deserves another term | V1 Pattern K fix: R candidate d_inc=1 → r_inc=1.",0.92
-TX,Fort Worth Star-Telegram,145400,1990,CNTY CLERK,,Tarrant County,TX,"HUFFMAN, MADRIN",Democrat,1,1,,,ran this office superbly for years; should be returned,0.92
+TX,Fort Worth Star-Telegram,145400,1990,CNTY CLERK,,Tarrant County,TX,"HUFFMAN, MADRIN",Democrat,1,,,,"ran this office superbly for years; should be returned | V9r2: 400dpi re-OCR confirms full 1990 editorial; ""defeated 4 yrs ago, should be returned"" => NOT incumbent, d_inc cleared",0.92
 TX,Fort Worth Star-Telegram,145400,1990,CNTY COMM,4,Tarrant County,TX,"JOHNSON, J.D.",Democrat,1,1,,,intuitive sense for local government; willing worker,0.92
 TX,Fort Worth Star-Telegram,145400,1992,PRESIDENT,,United States,TX,"CLINTON, BILL",Democrat,1,,,,V1 extraction: PRESIDENT endorsement,0.98
 TX,Fort Worth Star-Telegram,145400,1992,VICE PRESIDENT,,United States,TX,"GORE, AL",Democrat,1,,,,V1 extraction: VICE PRESIDENT endorsement,0.98
@@ -280,7 +280,7 @@ TX,Fort Worth Star-Telegram,145400,2004,H,24,U.S. House Texas 24,TX,"MARCHANT, K
 TX,Fort Worth Star-Telegram,145400,2004,H,26,U.S. House Texas 26,TX,"BURGESS, MICHAEL",Republican,1,,1,,incumbent,0.96
 TX,Fort Worth Star-Telegram,145400,2004,RAILROAD COMMISSION,,Texas Railroad Commission,TX,"CARRILLO, VICTOR G.",Republican,1,,1,,incumbent,0.96
 TX,Fort Worth Star-Telegram,145400,2004,COURT OF CRIMINAL APPEALS,PLACE 6,Texas Court of Criminal Appeals,TX,"KEASLER, MICHAEL",Republican,1,,1,,incumbent,0.95
-TX,Fort Worth Star-Telegram,145400,2004,STATE SENATOR,10,Texas Senate District 10,TX,"BRIMER, KIM",Republican,1,,,,V1 extraction: STATE SENATOR endorsement,0.96
+TX,Fort Worth Star-Telegram,145400,2004,STATE SENATOR,10,Texas Senate District 10,TX,"BRIMER, KIM",Republican,1,,1,,"V1 extraction: STATE SENATOR endorsement | V9 image: ""(I)"" incumbent",0.96
 TX,Fort Worth Star-Telegram,145400,2004,STATE REP,58,Texas House District 58,TX,"ORR, ROB",Republican,1,,,,V1 extraction: STATE REP endorsement,0.95
 TX,Fort Worth Star-Telegram,145400,2004,STATE REP,60,Texas House District 60,TX,"KEFFER, JAMES L. ""JIM""",Republican,1,,1,,incumbent,0.95
 TX,Fort Worth Star-Telegram,145400,2004,STATE REP,90,Texas House District 90,TX,"BURNAM, LON",Democrat,1,1,,,incumbent,0.95
@@ -322,7 +322,7 @@ TX,Fort Worth Star-Telegram,145400,2006,STATE REP,93,Texas House District 93,TX,
 TX,Fort Worth Star-Telegram,145400,2006,STATE REP,94,Texas House District 94,TX,"PATRICK, DIANE",Republican,1,,,,V1 extraction: STATE REP endorsement,0.94
 TX,Fort Worth Star-Telegram,145400,2006,STATE REP,95,Texas House District 95,TX,"VEASEY, MARC",Democrat,1,,,,V1 extraction: STATE REP endorsement,0.94
 TX,Fort Worth Star-Telegram,145400,2006,STATE REP,96,Texas House District 96,TX,"ZEDLER, BILL",Republican,1,,1,,incumbent,0.95
-TX,Fort Worth Star-Telegram,145400,2006,STATE REP,97,Texas House District 97,TX,"BARRETT, DAN",Republican,1,,1,,incumbent,0.94
+TX,Fort Worth Star-Telegram,145400,2006,STATE REP,97,Texas House District 97,TX,"BARRETT, DAN",Democrat,1,,,,incumbent | V9: Dan Barrett = Democrat challenger to Mowery(R) in 2006 (became incumbent only after Jan-2008 special); cleared bad inc,0.94
 TX,Fort Worth Star-Telegram,145400,2006,STATE REP,98,Texas House District 98,TX,"TRUITT, VICKI",Republican,1,,1,,incumbent,0.94
 TX,Fort Worth Star-Telegram,145400,2006,STATE REP,99,Texas House District 99,TX,"GEREN, CHARLIE",Republican,1,,1,,incumbent,0.95
 TX,Fort Worth Star-Telegram,145400,2006,JUDGE,322ND DISTRICT,Tarrant County / Texas,TX,"CORNISH, BRENDA ""BC""",Republican,1,,,,Tarrant County 322nd District Court,0.92
@@ -398,9 +398,9 @@ TX,Fort Worth Star-Telegram,145400,2012,RAILROAD COMMISSION,,Texas Railroad Comm
 TX,Fort Worth Star-Telegram,145400,2012,TX SUPREME COURT,PLACE 6,Texas Supreme Court,TX,"HECHT, NATHAN",Republican,1,,1,,incumbent,0.95
 TX,Fort Worth Star-Telegram,145400,2012,COURT OF CRIMINAL APPEALS,PRESIDING JUDGE,Texas Court of Criminal Appeals,TX,"HAMPTON, KEITH",Democrat,1,,,,"Presiding Judge, Court of Criminal Appeals",0.94
 TX,Fort Worth Star-Telegram,145400,2012,SCHOOL BOARD,STATE BOARD OF EDUCATION 13,Fort Worth ISD / Tarrant County,TX,"KNIGHT, MAVIS BEST",Democrat,1,1,,,"Member, State Board of Education; incumbent | V1 Pattern K fix: D candidate r_inc=1 → d_inc=1.",0.94
-TX,Fort Worth Star-Telegram,145400,2012,STATE SENATOR,10,Texas Senate District 10,TX,"HANCOCK, KELLY",Republican,1,,,,V1 extraction: STATE SENATOR endorsement,0.95
-TX,Fort Worth Star-Telegram,145400,2012,STATE SENATOR,22,Texas Senate District 22,TX,"DAVIS, WENDY",Democrat,1,1,,,incumbent,0.96
-TX,Fort Worth Star-Telegram,145400,2012,STATE SENATOR,23,Texas Senate District 23,TX,"BIRDWELL, BRIAN",Republican,1,,1,,incumbent,0.95
+TX,Fort Worth Star-Telegram,145400,2012,STATE SENATOR,9,Texas Senate District 10,TX,"HANCOCK, KELLY",Republican,1,,,,V1 extraction: STATE SENATOR endorsement | V9 image: Texas Senate District 9 (was 10),0.95
+TX,Fort Worth Star-Telegram,145400,2012,STATE SENATOR,10,Texas Senate District 22,TX,"DAVIS, WENDY",Democrat,1,1,,,incumbent | V9 image: District 10 (was 22),0.96
+TX,Fort Worth Star-Telegram,145400,2012,STATE SENATOR,22,Texas Senate District 23,TX,"BIRDWELL, BRIAN",Republican,1,,1,,incumbent | V9 image: District 22 (was 23),0.95
 TX,Fort Worth Star-Telegram,145400,2012,STATE REP,93,Texas House District 93,TX,"HARDIN, SHANE",Democrat,1,,,,V1 extraction: STATE REP endorsement,0.9
 TX,Fort Worth Star-Telegram,145400,2012,STATE REP,95,Texas House District 95,TX,"COLLIER, NICOLE",Democrat,1,,,,V1 extraction: STATE REP endorsement,0.94
 TX,Fort Worth Star-Telegram,145400,2012,STATE REP,97,Texas House District 97,TX,"GOLDMAN, CRAIG",Republican,1,,,,V1 extraction: STATE REP endorsement,0.94
@@ -450,7 +450,7 @@ TX,Fort Worth Star-Telegram,145400,2020,STATE REP,92,Texas House District 92,TX,
 TX,Fort Worth Star-Telegram,145400,2020,STATE REP,94,Texas House District 94,TX,"SIMMONS, ALISA",Democrat,1,,,,head of Arlington NAACP; over Rep. Tony Tinderholt (R inc),0.94
 TX,Fort Worth Star-Telegram,145400,2020,STATE REP,96,Texas House District 96,TX,"DRAGO, JOE",Democrat,1,,,,"open seat; over Republican David Cook, former Mansfield mayor",0.94
 TX,Fort Worth Star-Telegram,145400,2020,STATE REP,97,Texas House District 97,TX,"GOLDMAN, CRAIG",Republican,1,,1,,incumbent; over Democratic challenger Elizabeth Beck,0.95
-TX,Fort Worth Star-Telegram,145400,2020,SHERIFF,,Tarrant County,TX,"KEYES, VANCE",Democrat,1,1,,,Tarrant County Sheriff; former Fort Worth police commander; over incumbent Republican Bill Waybourn | V1 Pattern K fix: D candidate r_inc=1 → d_inc=1.,0.95
+TX,Fort Worth Star-Telegram,145400,2020,SHERIFF,,Tarrant County,TX,"KEYES, VANCE",Democrat,1,,,,Tarrant County Sheriff; former Fort Worth police commander; over incumbent Republican Bill Waybourn | V1 Pattern K fix: D candidate r_inc=1 → d_inc=1. | V9 image: Keyes is CHALLENGER (FW police commander); incumbent is Waybourn(R) - cleared d_inc,0.95
 TX,Fort Worth Star-Telegram,145400,1960,PRESIDENT,,United States,TX,"KENNEDY, JOHN F.",Democrat,0,,,,Pattern A: D opp of FWST-endorsed Nixon R 1960 PRES. JFK D won. | V1 ET TX cross-paper agreement. | V1 EHP TX cross-paper agreement.,0.97
 TX,Fort Worth Star-Telegram,145400,1964,PRESIDENT,,United States,TX,"GOLDWATER, BARRY",Republican,0,,,,Pattern A: R opp of FWST-endorsed LBJ D inc 1964 PRES. | V1 ET TX cross-paper agreement. | V1 EHP TX cross-paper agreement.,0.97
 TX,Fort Worth Star-Telegram,145400,1968,PRESIDENT,,United States,TX,"NIXON, RICHARD M.",Republican,0,,,,Pattern A: R opp of FWST-endorsed Humphrey D 1968 PRES. Nixon R won.,0.90
@@ -464,7 +464,7 @@ TX,Fort Worth Star-Telegram,145400,2008,PRESIDENT,,United States,TX,"MCCAIN, JOH
 TX,Fort Worth Star-Telegram,145400,2012,PRESIDENT,,United States,TX,"OBAMA, BARACK",Democrat,0,,,,Pattern A: D inc opp of FWST-endorsed Romney R 2012 PRES. | V4 DMN cross-paper agreement.,0.97
 TX,Fort Worth Star-Telegram,145400,1964,SENATOR,,Texas,TX,"YARBOROUGH, RALPH",Democrat,0,,,,Pattern A: D inc opp of FWST-endorsed Bush R 1964 SEN. | V1 ET TX cross-paper agreement.,0.97
 TX,Fort Worth Star-Telegram,145400,1970,SENATOR,,Texas,TX,"BUSH, GEORGE",Republican,0,,,,Pattern A: R opp of FWST-endorsed Bentsen D 1970 SEN. Bentsen won. | V1 EHP TX cross-paper agreement.,0.97
-TX,Fort Worth Star-Telegram,145400,1972,SENATOR,,Texas,TX,"SANDERS, BARTLETT",Democrat,0,,,,Pattern A: D opp of FWST-endorsed Tower R inc 1972 SEN. | V1 ET TX cross-paper agreement.,0.97
+TX,Fort Worth Star-Telegram,145400,1972,SENATOR,,Texas,TX,"SANDERS, BAREFOOT",Democrat,0,,,,Pattern A: D opp of FWST-endorsed Tower R inc 1972 SEN. | V1 ET TX cross-paper agreement. | V9: Barefoot Sanders (1972 D Senate nominee; inferred opp not named in clip),0.97
 TX,Fort Worth Star-Telegram,145400,1976,SENATOR,,Texas,TX,"STEELMAN, ALAN",Republican,0,,,,Pattern A: R opp of FWST-endorsed Bentsen D inc 1976 SEN. | V1 ET TX cross-paper agreement. | V1 EHP TX cross-paper agreement.,0.97
 TX,Fort Worth Star-Telegram,145400,1978,SENATOR,,Texas,TX,"KRUEGER, BOB",Democrat,0,,,,Pattern A: D opp of FWST-endorsed Tower R inc 1978 SEN. | V1 ET TX cross-paper agreement.,0.97
 TX,Fort Worth Star-Telegram,145400,1982,SENATOR,,Texas,TX,"COLLINS, JIM",Republican,0,,,,Pattern A: R opp of FWST-endorsed Bentsen D inc 1982 SEN.,0.90
@@ -498,3 +498,4 @@ TX,Fort Worth Star-Telegram,145400,1990,LT GOVERNOR,,Texas,TX,"MOSBACHER, ROB",R
 TX,Fort Worth Star-Telegram,145400,2006,LT GOVERNOR,,Texas,TX,"ALVARADO, MARIA LUISA",Democrat,0,,,,Pattern A: D opp of FWST-endorsed Dewhurst R inc 2006 LT GOV.,0.85
 TX,Fort Worth Star-Telegram,145400,2010,LT GOVERNOR,,Texas,TX,"CHAVEZ-THOMPSON, LINDA",Democrat,0,,,,Pattern A: D opp of FWST-endorsed Dewhurst R inc 2010 LT GOV.,0.85
 TX,Fort Worth Star-Telegram,145400,2014,LT GOVERNOR,,Texas,TX,"PATRICK, DAN",Republican,0,,,,Pattern A: R opp of FWST-endorsed Van de Putte D 2014 LT GOV. Patrick R won.,0.85
+TX,Fort Worth Star-Telegram,145400,1990,STATE REP,96,Texas House District 97,TX,"BRIMER, KIM",Republican,1,,,,"V9 image-verified add: 1990 clipping endorses Kim Brimer (R) ""in touch with district views... reflect them in Austin""; office header obscured by graphic, dist 96/97 - RA confirm | V9r2: 400dpi re-OCR shows ""State Representative, District 96: Republican Kim Brimer"" -> dist 97->96",0.92

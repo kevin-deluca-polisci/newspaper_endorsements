@@ -263,3 +263,38 @@ FWST is a major Tarrant County daily with documented cross-party editorial patte
 - **Stage 2 (Spot Check):** Cross-paper TX validation + 200 spot checks PASS
 - **Stage 3 (Variable Coding):** PASS - 0 invalid/dups/Pattern K
 - **Stage 4 (Low-conf):** 2 records below 0.85 (cleanest dataset)
+
+---
+
+## V9 DEEP IMAGE VERIFICATION (2026-06-24)
+Prior "V7 FINAL" was **endorsement-qa only** (not image-level). Full deep pass — re-OCR all 31 clippings (1 zero-yield recovered) + 4 parallel era-agents reading every field against the clipping IMAGE + lead re-verification of high-stakes findings. **This is a HIGH-QUALITY folder** — the lighter QA had it in good shape; the deep pass found mostly minor field errors. Candidates 499→500, props 126 (2 directions changed). Integrity: Pattern K=0, 0 dups, 0 blank names; the 3 same-seat pairs are all legitimate (state-vs-county Treasurer/Clerk distinguished by dname, + image-faithful dual listings).
+
+### Fixes applied (image-verified)
+- **2012: 3 Texas Senate districts corrected** (lead-verified — image reads "Texas Senate District 9: Kelly Hancock / District 10: Wendy Davis / District 22: Brian Birdwell"): Hancock 10→**9**, Davis 22→**10**, Birdwell 23→**22**. (Real-world seats confirm: Davis=SD10 Fort Worth.)
+- **2006: Dan Barrett (State Rep 97) party R→Democrat** + cleared the "incumbent" flag — he was the **Democratic challenger** to incumbent Anna Mowery (R) in 2006; he became the District-97 incumbent only after the Jan-2008 special election.
+- **2016: 2 propositions recoded from For → no-position** — Tarrant County Prop 1 and Roanoke Prop 1 are tagged "**Caution**" in the editorial (a cautionary non-endorsement, lead-verified against the image), not "For".
+- **2004: Kim Brimer (State Senator 10) r_inc=1** (image marks "(I)" incumbent).
+- **2020: Vance Keyes (Sheriff) cleared d_inc** — he's the challenger (FW police commander); incumbent is Bill Waybourn (R).
+- **Names:** 1986 County Clerk Huffman MARIN→**MADRIN** (matches 1990); 1990 CCA Place 4 BENCHELMANN→**BERCHELMANN**; 1972 Senate opponent BARTLETT→**BAREFOOT** Sanders (inferred opponent, not named in clip).
+- **1990 omission added:** Kim Brimer (R, State Rep) — endorsed in the clipping but missing from the CSV (district 96/97 flagged, office header obscured by graphic).
+
+### Confirmed-correct (not errors)
+- Every other year (1960-2020) verified clean — directions, parties, Texas multi-place seats (Railroad Commission full-vs-unexpired term, numbered Supreme Court / Court of Criminal Appeals Places, numbered district courts), and all ~70+ proposition For/Against calls match the editorials.
+- 1964 "George P. Bush" is the editorial's own misprint for George H.W. Bush (image-faithful). 1982 dual listings (State Rep 96 Ware/Millsap; County Treasurer Sprinkle/Beam) are in the source itself.
+- The 1994-2002 gap is real (no clippings collected).
+
+## V9 ROUND 2 — deep re-OCR + targeted re-verification (2026-06-24)
+
+Second deep pass focused on the largest open item (1990 source-mismatch), cross-year consistency, the same-seat double-endorsement scan, and independent prop validation. **Net data change: 1 field correction (1990 Huffman d_inc cleared); folder remains 500 cand / 126 props, Pattern K=0, 0 dups, 0 blanks.**
+
+- **1990 source-mismatch RESOLVED.** Re-OCR of the archived Nov-4-1990 clipping at 400 DPI + tesseract --psm 1 (the V8 pass had under-read this clipping) recovers the FULL endorsement editorial. All 13 previously "unverifiable" records are now directly confirmed in the clipping with endorsement language: CCA Place 5 Sturns, State Rep 89/91/93/94 (Lewis/Carter/Goodman/Grusendorf), State Sen 12 Moncrief, County Clerk Madrin Huffman, District Clerk Hughes, County Comm 4 J.D. Johnson, County Crim Court 2 Mitchell & 7 Fender, and Proposition 1 ("Yes. This housekeeping measure... Senate confirmation rules on appointments by the governor"). The 1990 set is no longer a source mismatch — the archived clipping IS the full editorial.
+  - **Fix applied:** 1990 County Clerk **Madrin Huffman d_inc cleared** — the editorial states he "was defeated in a Republican sweep four years ago, and should be returned to this job," i.e. he is a former officeholder/challenger, NOT the incumbent (the incumbent was Republican).
+  - Name fix MARIN→MADRIN (V8) re-confirmed verbatim: "County Clerk: Democrat Madrin Huffman."
+- **Cross-year consistency check (recurring surnames+office): clean.** 5 apparent party "conflicts" all explained — WRIGHT/H is two different congressmen (Jim Wright D 1964-86 vs Ron Wright R, TX-6, 2018-20); the JUDGE conflicts are distinct judges sharing a surname; Tim Curry (DA) genuinely switched D→R in the 1990s.
+- **Same-seat double-endorsement scan:** the only flags are the three already-documented cases — 1982 State Rep 96 (Ware-R + Millsap-D) and 1982 County Treasurer (Sprinkle-R + Bean-D) are genuine image-faithful DUAL endorsements (the editorial reads "X, Republican, and Y, Democrat" for each, endorsing both); 1986 CNTY CLERK Boorman/Huffman are distinct offices (District Clerk vs County Clerk) sharing the office code, distinguished by dname. No errors.
+- **Lead-verified remaining V8 agent-trusted fixes against the images:** 1990 Berchelmann (CCA Place 4, Republican — "4; Republican David Berchelmann"); 1972 Barefoot Sanders (the 1972 clipping endorses Tower, so Sanders is correctly e=0 opponent; name fix BARTLETT→BAREFOOT confirmed); 2004 Brimer ("(I) - Republican, Recommendation: Brimer" → r_inc correct); 2020 Vance Keyes ("Democrat Vance Keyes... a better option than incumbent Republican Bill Waybourn" → Keyes endorsee, non-incumbent, d_inc correctly cleared). All confirmed.
+- **Independent proposition validation (2 years, 20 props, 100% match):** 1972 — editorial "the four that should be turned down are Amendments 4, 5, 6 and 10"; CSV codes exactly 4/5/6/10 against and the other ten for (14/14). 1982 — editorial "vote 'yes' on all six constitutional amendments"; CSV codes all 6 for (6/6).
+- **Coverage audit: complete.** All 25 candidate years map to clippings and vice versa (no orphan years); all 31 clippings correspond to records.
+- **1990 Kim Brimer district fix (97→96).** The 400 DPI re-OCR shows "State Representative, District 96: Republican Kim Brimer" in both copies — corrected, conf 0.92. The 1990 state-rep districts (89/91/93/94/96) now match the clipping headers exactly.
+- **Low-confidence sweep:** after this round only 1 record sits below 0.85 — 1982 County Treasurer "Beam/Bean" (0.78), where the surname spelling is genuinely ambiguous in the source (existence and dual-endorsement direction are image-confirmed). The two other formerly-low records (1982 Millsap, Brimer) were raised after image confirmation.
+- **Final integrity: 500 cand / 126 props, Pattern K=0, 0 dups, 0 blanks, uniform 16-field rows.** All files re-synced (md5 parity).

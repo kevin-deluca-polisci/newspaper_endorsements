@@ -1,6 +1,57 @@
 # QA Report: Great Falls Tribune (MT)
 
-**Audit date:** 2026-06-16 (V5 — 315 rounds + 5 formal QA + 1964/1972/1992 OCR + cross-year inc + erroneous Pattern A removed, supersedes V4)
+**Audit date:** 2026-06-24 (V9 — deep 100% image verification: re-OCR all 111 clippings + 4 parallel era-agents + lead re-verification; supersedes V5)
+
+## V9 DEEP IMAGE VERIFICATION (2026-06-24)
+
+Prior "V5 FINAL" was endorsement-qa (text/OCR) only. V9 read every clipping IMAGE. **This folder had substantially more errors than the V5 label implied** — direction reversals, a spurious record, wrong office codes, many unresolved "?" names, and large omission sets. Candidates 195→225, props 75→72 (4 dups removed, 1 added); Pattern K=0, 0 dups, 0 blanks, uniform 16-field.
+
+### Direction reversals fixed (image-verified)
+- **1976 U.S. SENATOR — flipped.** The 11/01 "Summary of Tribune Recommendations" table reads "United States Senator: **Melcher**." CSV had endorsed the wrong man (Burger R). Now Melcher (D) e=1, Burger (R) e=0. (Melcher won; consistent with GFT's Democratic federal tradition.)
+- **1986 PSC OBERG — flipped.** Image: "the editorial board split on this race, giving Oberg a 2-1 majority… Oberg should be rewarded." Danny Oberg (D, incumbent) was endorsed (was e=0). 
+
+### Spurious records removed
+- **1976 SEC OF STATE Murray** — no Secretary-of-State line appears anywhere in the 1976 clippings or the master summary table; record deleted (likely carried over from 1972).
+- **1954 H-d1 Mansfield** — the "We Recommend Democrats" editorial names Mansfield only as a sitting senator ("first in the House and now in the Senate"); he was NOT a 1954 candidate. The record collided with Metcalf's correct H-d1 slot; deleted.
+
+### Office / district / name corrections (image-verified)
+- 1986 "PSC Harrison" → **SUPREME COURT, John C. Harrison, Nonpartisan** (Justice, not PSC).
+- 1976 CHIEF JUSTICE Hatfield → **Paul G. Hatfield** (was "Frank"); 1976 Justice No.3 **Neil J. Lynch**.
+- Resolved "?" names: 1986 Moore→**Jack K. Moore**, Strizich→**William S. Strizich**; 1988 Fenlason→**Jim Fenlason**; 1992 "Astfeldt"→**Roy Aafedt** (surname error), Gray→**Karla Gray**; 1994 "Kittrick"→**Thomas McKittrick** (surname error); 2010 Walker→**Johnny Walker**; 2008 Supt opponent "Hansen"→**Elaine Sollie Herman**.
+- 1992 U.S. House: single **at-large** seat (Marlenee d2→AL); opponent "Hartelius" corrected to **Pat Williams** (the actual 1992 at-large opponent) — 1992 House direction flagged for RA.
+- 1994 STATE SENATOR Parker district blank→**24**; 1954 Senate opponent "Ecton"→**Wesley D'Ewart** [ROSTER] (Ecton was the 1952, not 1954, GOP nominee).
+- 1970 the seven multi-member Cascade County legislators all framed "deserve re-election" → d_inc=1 added.
+
+### Omissions recovered (image-verified, ADDED)
+- **1990 legislative slate (+23 records).** 1990 was nearly empty (2 records); the 10/28 "Endorsements 1990" recap box yields HD34–42 and SD17/18/20 (endorsees + named opponents) — added (RA to confirm a few first names). Plus 1990 CI-55 prop (opposed).
+- **1998 (+4):** County Commissioner Stelling (D) e=1 / Crouch (R) e=0; PSC-3 Frantz (R) e=1 / Anderson (D, inc) e=0.
+- **1972 LT GOVERNOR (+2):** Christiansen (D) e=1 / Hanson (R) e=0.
+- **1992 SEC OF STATE (+1):** Cooney (D) e=1. **2008 County Commission (+2):** Salina (D) e=1 / Larson (R) e=0.
+
+### Propositions
+- Removed 4 duplicate rows (1968 Init 66; 1976 Charter "existing form"; 1976 Init 71; 1976 Init 72). Directions for 1972/1982 and the major years cross-checked vs image.
+
+### Confirmed-correct (no change)
+- 1952/1964/1968/1980/1984/2008/2010 candidate slates verified clean. The **1996 "gap" is essentially correct**: the presidential editorial deadlocked ("We remain: Clinton 3; Dole 3" — no endorsement), and the governor editorials are commentary on Chet Blaylock's death / the Jacobson substitution, not endorsements. 1950/1958/1978/1982/2012 clippings are commentary or ballot-issue pages (no candidate endorsements).
+
+## V9 ROUND 2 — down-ballot reconstruction + first-name resolution (2026-06-25)
+
+Second pass reconstructed the two large omission sets (lead-verified against the images) and resolved the residual 1990 opponent names. Candidates 225→254, props 72→73; Pattern K=0, 0 dups, 0 blanks, uniform 16-field. Per-year coverage now healthy (1986 19→33, 1990 2→25, 1994 15→30).
+
+- **1994 down-ballot (+15, image-verified from the 11/06 "Summarizing our recommendations" recap):** Judge-3 Goff; Senate D20 Foster(R)/D21 Franklin(D); House D40 Barron(D), 41 Wiseman(R), 42 Forbes(R), 43 Wyatt(D), 49 Simpkins(R), 50 Cobb(R), 87 Rose(R), 93 Turick(D); County Commissioner Beltrone(D), Clerk/Recorder Fournier(R), Auditor Green(D), Surveyor Strong(R). The 11/07 "Also recommending…" clipping confirms the CSV's existing House 44/45/47/48 (Ryan/Kottel/Tropila/Galvin) were the paper's own follow-up correction — so 1994 House = all 12 districts. **Prop fix:** 1994 I-118 (limited campaign reform) recap reads "Yes" → corrected e=0→e=1; added CA-28 (property tax revisions) = No. (The two 1994 "study commission" slates — "pick the best 7/5" from 9/15 named favorites — are a non-standard multi-winner format; documented for RA, not encoded.)
+- **1986 down-ballot (+14, lead-spot-checked against dated editorials):** Senate D20 Lee(R)/Walker(D); House D33 Phillips(R,inc)/Kraus(D), D35 Nisbet(D,inc)/Contway(R), D38 Trackwell(R)/McCormick(D,inc), D39 O'Hara(R,inc)/Poulsen(D), D42 Cobb(R,inc)/Bottomly(D); County Commissioner Gasvoda(D,inc)/Simpkins(R). (The five uncontested 1986 races the paper explicitly declined to endorse remain correctly excluded.)
+- **1990 slate verified + opponent names resolved:** the editorial PROSE genuinely endorses HD34–39 (e.g., "Democrat Ed Dolezal rates an edge over Republican Paul Lindstrom"; "Diana Wyatt is [the choice over] Jane Meyer (R)") and the "Endorsements 1990" box covers HD40–SD20 — both confirmed. Opponent first names filled from prose/cross-year: Lindstrom→Paul, Meyer(HD37)→Jane, Nisbet→Gerald, McCormick→Lloyd, Simpkins→Dick, Meyer(SD17)→Darryl, Galvin→Pat. (Good/Wester/Neuman still "?", flagged.)
+- **1992 U.S. House direction confirmed:** the 11/01 recap reads "Congress: Marlenee" — GFT endorsed Marlenee (R) over Williams (D) in the single at-large seat. Earlier opponent/district fix stands.
+- **Cross-year consistency battery: 0 party conflicts** across all recurring MT surnames+office; Pattern K=0.
+- **1978 ballot props RECOVERED (+12).** The 11/06 "Tribune Recommendations" ballot-guide table is explicit: Const. Amendments 4/5/6 = Yes, 7/8 = No, Const. Initiative 8 = No, Referendums 74/75 = Yes, Initiatives 79/80 = No, 81 = Yes, Urban Transportation District = Yes. 1978 previously had no props.
+- **2010 CI-105 confirmed correct (no change).** The 10/26 headline reads "For banning taxes on real estate transfers" — CSV e=1 (For) is right; the prior "Against" flag was a misread. ("Against calling a constitutional convention" = e=0, also confirmed.)
+- **1984 thinness is a genuine clipping-collection gap, not a miscoding.** The only two 1984 clippings are the Reagan presidential endorsement (10/28) and the Amendments-13/14 editorial (10/27, both already in CSV). No Senate/Governor/House endorsement appears in the collected 1984 clippings.
+- **Opponent (e=0) records added for direction consistency (+4):** 1972 President McGovern, 1972 Treasurer McLaughlin, 1970 Supreme Court No.3 Gabriel, 1966 Supreme Court McCarvel — each named in its image.
+- **Final state: 258 candidates / 85 propositions; Pattern K=0, 0 cand dups, 0 prop dups, 0 blanks, uniform 16-field; mean conf 0.901, none <0.80.**
+
+---
+
+**Audit date (prior):** 2026-06-16 (V5 — 315 rounds + 5 formal QA + 1964/1972/1992 OCR + cross-year inc + erroneous Pattern A removed, supersedes V4)
 
 ## V5 Updates (Rounds 261-315) — FINAL
 

@@ -81,3 +81,6 @@ Full sidebar verified: 1964, 1968, 1972, 1976, 1978, 1982, 1984, 1986, 1988, 200
 
 Compiled: 2026-05-21
 V6 FINAL: 2026-06-15
+
+--- V9 DEEP IMAGE VERIFICATION (2026-06-24) ---
+Full image-level verification (re-OCR all 31 clippings + 4 era-agents + lead re-verify). Prior "V7 FINAL" was endorsement-qa only. HIGH-QUALITY folder - only minor errors. Candidates 499->500, props 126 (2 dirs changed). Fixed: 2012 three Texas Senate districts (Hancock 9/Davis 10/Birdwell 22), 2006 Barrett party R->D + inc, 2016 two "Caution" props ->no-position, 2004 Brimer r_inc, 2020 Keyes inc cleared, names (Madrin/Berchelmann/Barefoot Sanders), added 1990 Kim Brimer omission. Integrity: Pattern K=0, 0 dups, valid. RESIDUAL (RA_NEEDS_V9): 1990 source-mismatch (CSV from fuller editorial than archived clip; 13 records unverifiable but kept). Archive synced (md5).

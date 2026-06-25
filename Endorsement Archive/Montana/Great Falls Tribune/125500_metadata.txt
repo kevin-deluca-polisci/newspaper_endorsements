@@ -6,32 +6,35 @@ Newspaper ID: 125500
 State: MT
 Number of clippings: 111
 Endorsement data years: 1952-2010
-Total candidate endorsements: 175
-Total proposition endorsements: 75
+Total candidate endorsements: 258
+Total proposition endorsements: 85
 
 Confidence statistics:
-  Mean: 0.923
+  Mean: 0.901
   Low (<0.7): 0
 
 Top offices:
-  H: 34
-  SUPREME COURT: 17
-  STATE REP: 17
-  PUBLIC SERVICE COMMISSION: 15
-  PRESIDENT: 12
-  SENATOR: 11
-  GOVERNOR: 10
-  ATTORNEY GENERAL: 8
-  SEC OF STATE: 6
-  STATE SENATOR: 6
+  H: 39
+  STATE REP: 35
+  SUPREME COURT: 18
+  PRESIDENT: 16
+  SENATOR: 16
+  PUBLIC SERVICE COMMISSION: 16
+  GOVERNOR: 12
+  STATE SENATOR: 11
+  ATTORNEY GENERAL: 9
+  CNTY COMM: 8
+  SEC OF STATE: 7
+  SUPERINTENDENT: 6
   SHERIFF: 5
-  SUPERINTENDENT: 5
+  LT GOVERNOR: 5
   AUDITOR: 4
-  CNTY COMM: 4
-  VICE PRESIDENT: 4
 
 Party distribution:
-  Democrat: 72
-  Republican: 61
+  Democrat: 97
+  Republican: 89
+  Nonpartisan: 17
   New Reform: 1
   American Independent: 1
+
+Last updated: 2026-06-25 (V9 round 2 down-ballot reconstruction)

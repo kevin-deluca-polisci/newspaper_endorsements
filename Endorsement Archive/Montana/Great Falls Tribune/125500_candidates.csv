@@ -1,6 +1,5 @@
 state_newspaper,newspaper,newspaper_id,year,office,dist,dname,state_election,cand_name,party,endorsed,d_inc,r_inc,o_inc,notes_endorse,extraction_confidence
 MT,Great Falls Tribune,125500,1952,PRESIDENT,,United States,MT,"STEVENSON, ADLAI",Democrat,1,,,,"Editorial 'Election Finale Is at Hand' — endorses Stevenson, citing Democratic party as 'party of the people'",0.95
-MT,Great Falls Tribune,125500,1954,H,1,U.S. House Montana 1,MT,"MANSFIELD, MIKE",Democrat,1,1,,,"Editorial 'We Recommend Democrats' — endorses Mansfield (now in House, formerly Senate seat per text; actually Mansfield was H-1 incumbent moving to Senate in 1952; this 1954 editorial may be confusing him with H-1 race)",0.85
 MT,Great Falls Tribune,125500,1954,H,1,U.S. House Montana 1,MT,"METCALF, LEE",Democrat,1,1,,,Editorial 'We Recommend Democrats' — endorses Metcalf for re-election in House,0.95
 MT,Great Falls Tribune,125500,1954,H,2,U.S. House Montana 2,MT,"ANDERSON, LEROY",Democrat,1,,,,Editorial 'We Recommend Democrats' — endorses Anderson for House Eastern district (HI-2),0.95
 MT,Great Falls Tribune,125500,1954,SENATOR,,Montana,MT,"MURRAY, JAMES E.",Democrat,1,1,,,Editorial 'The Signs Are Democratic' — endorses Murray as part of Democratic team to give MT senators in majority for Interior committee chairmanship,0.92
@@ -50,13 +49,13 @@ MT,Great Falls Tribune,125500,1970,H,2,U.S. House Montana 2,MT,"REHBERG, JACK",R
 MT,Great Falls Tribune,125500,1970,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"CANNON, PAUL",Democrat,0,,,,"73 years old, multiple unsuccessful bids",0.92
 MT,Great Falls Tribune,125500,1970,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"LANGLEY, ALFRED C.",Republican,1,,,,Endorses Langley for RR/PSC,0.95
 MT,Great Falls Tribune,125500,1970,SENATOR,,Montana,MT,"MANSFIELD, MIKE",Democrat,1,1,,,We Endorse Mansfield - Majority Leader 10 years,0.98
-MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"FASBENDER, LARRY",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"GUNDERSON, JACK",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"HALL, JOHN C.",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"NYQUIST, IRVING M.",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"STRATTON, SCOTT B.",,1,,,,Cascade County state House re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE SENATOR,,Montana Senate (district unknown),MT,"BERTSCHE, WILLIAM H.",,1,,,,Cascade County state senate re-elect,0.92
-MT,Great Falls Tribune,125500,1970,STATE SENATOR,,Montana Senate (district unknown),MT,"GILFEATHER, P. J.",,1,,,,Cascade County state senate re-elect,0.92
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"FASBENDER, LARRY",,1,1,,,"Cascade County state House re-elect | V9 image ""deserve re-election"" = incumbent",0.92
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"GUNDERSON, JACK",,1,1,,,"Cascade County state House re-elect | V9 image ""deserve re-election"" = incumbent",0.92
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"HALL, JOHN C.",,1,1,,,"Cascade County state House re-elect | V9 image ""deserve re-election"" = incumbent",0.92
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"NYQUIST, IRVING M.",,1,1,,,"Cascade County state House re-elect | V9 image ""deserve re-election"" = incumbent",0.92
+MT,Great Falls Tribune,125500,1970,STATE REP,,Montana House (district unknown),MT,"STRATTON, SCOTT B.",,1,1,,,"Cascade County state House re-elect | V9 image ""deserve re-election"" = incumbent",0.92
+MT,Great Falls Tribune,125500,1970,STATE SENATOR,,Montana Senate (district unknown),MT,"BERTSCHE, WILLIAM H.",,1,1,,,"Cascade County state senate re-elect | V9 image ""deserve re-election"" = incumbent",0.92
+MT,Great Falls Tribune,125500,1970,STATE SENATOR,,Montana Senate (district unknown),MT,"GILFEATHER, P. J.",,1,1,,,"Cascade County state senate re-elect | V9 image ""deserve re-election"" = incumbent",0.92
 MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 3,MT,"CASTLES, WESLEY",Nonpartisan,1,1,,,Tend to favor Castles for experience,0.85
 MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 1,MT,"DALY, GENE",Nonpartisan,1,1,,,Endorses Daly - former Cascade County Attorney,0.96
 MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 1,MT,"HOLT, HAROLD L.",Nonpartisan,0,,,,Missoula attorney,0.88
@@ -81,11 +80,10 @@ MT,Great Falls Tribune,125500,1976,GOVERNOR,,Montana,MT,"JUDGE, TOM",Democrat,1,
 MT,Great Falls Tribune,125500,1976,H,1,U.S. House Montana 1,MT,"BAUCUS, MAX",Democrat,1,,,,Recap - 1st Cong District,0.95
 MT,Great Falls Tribune,125500,1976,H,2,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,,,Recap - 2nd Cong District,0.95
 MT,Great Falls Tribune,125500,1976,PRESIDENT,,United States,MT,"FORD, GERALD",Republican,1,,1,,Recap - For President Ford & Dole | V1 Pattern K fix: R candidate d_inc → r_inc.,0.97
-MT,Great Falls Tribune,125500,1976,SEC OF STATE,,Montana,MT,"MURRAY, FRANK",Democrat,1,1,,,Recap - Sec of State Murray,0.93
-MT,Great Falls Tribune,125500,1976,SENATOR,,Montana,MT,"BURGER, STAN",Republican,1,,,,Recap - US Senate,0.93
+MT,Great Falls Tribune,125500,1976,SENATOR,,Montana,MT,"BURGER, STAN",Republican,0,,,,V9: Pattern A opp of GFT-endorsed Melcher D 1976 SEN (was miscoded e=1),0.93
 MT,Great Falls Tribune,125500,1976,SUPERINTENDENT,,Montana,MT,"DEENEY, ED",,1,,,,Recap - SPI,0.90
-MT,Great Falls Tribune,125500,1976,SUPREME COURT,,Chief Justice,MT,"HATFIELD, FRANK",Nonpartisan,1,,,,Recap - Chief Justice,0.93
-MT,Great Falls Tribune,125500,1976,SUPREME COURT,,Justice No. 3,MT,"LYNCH, ?",Nonpartisan,1,,,,Recap - Justice No. 3,0.85
+MT,Great Falls Tribune,125500,1976,SUPREME COURT,,Chief Justice,MT,"HATFIELD, PAUL G.",Nonpartisan,1,,,,Recap - Chief Justice,0.93
+MT,Great Falls Tribune,125500,1976,SUPREME COURT,,Justice No. 3,MT,"LYNCH, NEIL J.",Nonpartisan,1,,,,Recap - Justice No. 3,0.93
 MT,Great Falls Tribune,125500,1976,VICE PRESIDENT,,United States,MT,"DOLE, BOB",Republican,1,,,,Recap - VP Dole,0.97
 MT,Great Falls Tribune,125500,1980,GOVERNOR,,Montana,MT,"SCHWINDEN, TED",Democrat,1,,,,Governor,0.97
 MT,Great Falls Tribune,125500,1980,H,1,U.S. House Montana 1,MT,"WILLIAMS, PAT",Democrat,1,1,,,Western District,0.96
@@ -108,22 +106,22 @@ MT,Great Falls Tribune,125500,1986,H,1,U.S. House Montana 1,MT,"ALLEN, DON",Repu
 MT,Great Falls Tribune,125500,1986,H,1,U.S. House Montana 1,MT,"WILLIAMS, PAT",Democrat,1,1,,,Editorial board voted 2-1 to support Williams,0.93
 MT,Great Falls Tribune,125500,1986,H,2,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,1,,Plays good game of hardball politics | V1 Pattern K fix: R candidate d_inc → r_inc.,0.93
 MT,Great Falls Tribune,125500,1986,H,2,U.S. House Montana 2,MT,"O'BRIEN, BUCK",Democrat,0,,,,Eastern district challenger,0.88
-MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"HARRISON, ?",,1,,,,Prefer Harrison over unproven opponent,0.85
+MT,Great Falls Tribune,125500,1986,SUPREME COURT,,Montana Supreme Court,MT,"HARRISON, JOHN C.",Nonpartisan,1,,,,"V9: image shows Justice John C. Harrison, MT Supreme Court (was miscoded PSC)",0.93
 MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"JARVIS, CLYDE",Democrat,1,1,,,PSC chairman - clear choice,0.96
-MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"OBERG, ?",,0,,,,Facing quality race,0.80
+MT,Great Falls Tribune,125500,1986,PUBLIC SERVICE COMMISSION,,Montana Public Service Commission,MT,"OBERG, DANNY",Democrat,1,1,,,"V9: image ""editorial board split, giving Oberg a 2-1 majority...should be rewarded"" — endorsed (was e=0); incumbent PSC commissioner Havre",0.9
 MT,Great Falls Tribune,125500,1986,SHERIFF,,Cascade County,MT,"MATSKO, JOHN",Republican,0,,,,Underdog,0.85
 MT,Great Falls Tribune,125500,1986,SHERIFF,,Cascade County,MT,"MICHELOTTI, BARRY",Democrat,1,,,,Has the ability to change sheriff system,0.93
 MT,Great Falls Tribune,125500,1986,STATE REP,34,Montana House District 34,MT,"FAUTH, ELMER",Democrat,0,,,,No workable plan,0.90
 MT,Great Falls Tribune,125500,1986,STATE REP,34,Montana House District 34,MT,"MILLER, RON",Republican,1,,1,,"Clear choice - thoughtful, moderate, hard-working | V1 Pattern K fix: R candidate d_inc → r_inc.",0.95
 MT,Great Falls Tribune,125500,1986,STATE REP,37,Montana House District 37,MT,"BULGER, TOM",Democrat,1,,,,We endorse Bulger - featured race,0.96
-MT,Great Falls Tribune,125500,1986,STATE REP,37,Montana House District 37,MT,"MOORE, ?",Republican,0,,,,Critic of state spending,0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,37,Montana House District 37,MT,"MOORE, JACK K.",Republican,0,,,,Critic of state spending,0.85
 MT,Great Falls Tribune,125500,1986,STATE REP,41,Montana House District 41,MT,"NEILL, CHARLOTTE M.",Republican,1,,,,Neill has edge in tight race,0.93
-MT,Great Falls Tribune,125500,1986,STATE REP,41,Montana House District 41,MT,"STRIZICH, ?",Democrat,0,,,,Strizich opponent,0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,41,Montana House District 41,MT,"STRIZICH, WILLIAM S.",Democrat,0,,,,Strizich opponent,0.85
 MT,Great Falls Tribune,125500,1986,STATE SENATOR,17,Montana Senate District 17,MT,"CHRISTIAENS, B. F. (CHRIS)",Democrat,1,1,,,"Strong record in 1983, 1985, 1986 legislative sessions",0.96
 MT,Great Falls Tribune,125500,1986,STATE SENATOR,17,Montana Senate District 17,MT,"MEYER, DARRYL",Republican,0,,,,No flaws but Christiaens earned another term,0.90
 MT,Great Falls Tribune,125500,1986,SUPERINTENDENT,,Cascade County Schools,MT,"IKEDA, TSUGIO (TUG)",Democrat,0,,,,Retired GF school district educator,0.85
 MT,Great Falls Tribune,125500,1986,SUPERINTENDENT,,Cascade County Schools,MT,"KRANICK, JOHN",Republican,1,,,,Has prepared well for county school position,0.93
-MT,Great Falls Tribune,125500,1988,H,1,U.S. House Montana 1,MT,"FENLASON, ?",Republican,0,,,,Neophyte not ready,0.85
+MT,Great Falls Tribune,125500,1988,H,1,U.S. House Montana 1,MT,"FENLASON, JIM",Republican,0,,,,Neophyte not ready,0.85
 MT,Great Falls Tribune,125500,1988,H,1,U.S. House Montana 1,MT,"WILLIAMS, PAT",Democrat,1,1,,,Solid in western district,0.93
 MT,Great Falls Tribune,125500,1988,H,2,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,1,,Earned another House term,0.93
 MT,Great Falls Tribune,125500,1988,H,2,U.S. House Montana 2,MT,"O'BRIEN, BUCK",Democrat,0,,,,Challenger again,0.88
@@ -137,13 +135,13 @@ MT,Great Falls Tribune,125500,1990,STATE REP,33,Montana House District 33,MT,"KR
 MT,Great Falls Tribune,125500,1990,STATE REP,33,Montana House District 33,MT,"PHILLIPS, JOHN",Republican,1,,1,,Wins nod over Pat Kraus,0.93
 MT,Great Falls Tribune,125500,1992,ATTORNEY GENERAL,,Montana,MT,"MAZUREK, JOE",Democrat,1,,,,Senate president - good legal background,0.93
 MT,Great Falls Tribune,125500,1992,AUDITOR,,Montana,MT,"THOMAS, FRED",,1,,,,Consumer advocate,0.90
-MT,Great Falls Tribune,125500,1992,CNTY COMM,,Cascade County,MT,"ASTFELDT, ?",Republican,1,,1,,Businessman driven,0.85
+MT,Great Falls Tribune,125500,1992,CNTY COMM,,Cascade County,MT,"AAFEDT, ROY",Republican,1,,1,,Businessman driven | V9 surname ASTFELDT->AAFEDT per image,0.85
 MT,Great Falls Tribune,125500,1992,GOVERNOR,,Montana,MT,"BRADLEY, DOROTHY",Democrat,1,,,,Recap - stands honestly and candidly,0.95
-MT,Great Falls Tribune,125500,1992,H,2,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,1,,Reluctant choice,0.90
-MT,Great Falls Tribune,125500,1992,SUPREME COURT,,Montana Supreme Court,MT,"GRAY, ?",Nonpartisan,1,,,,Justice - good background,0.85
+MT,Great Falls Tribune,125500,1992,H,AL,U.S. House Montana 2,MT,"MARLENEE, RON",Republican,1,,1,,Reluctant choice | V9 1992 single at-large seat (d2->AL),0.90
+MT,Great Falls Tribune,125500,1992,SUPREME COURT,,Montana Supreme Court,MT,"GRAY, KARLA",Nonpartisan,1,,,,Justice - good background,0.92
 MT,Great Falls Tribune,125500,1992,SUPREME COURT,,Montana Supreme Court,MT,"TURNAGE, JEAN",Nonpartisan,1,,,,Chief Justice - decent and honorable,0.92
 MT,Great Falls Tribune,125500,1994,H,,U.S. House Montana (at-large/district unknown),MT,"JAMISON, CY",Republican,1,,,,Recap - US House,0.95
-MT,Great Falls Tribune,125500,1994,JUDGE,1,District Court,MT,"KITTRICK, ?",,1,,,,District Judge 1,0.85
+MT,Great Falls Tribune,125500,1994,JUDGE,1,District Court,MT,"McKITTRICK, THOMAS",,1,,,,District Judge 1,0.85
 MT,Great Falls Tribune,125500,1994,JUDGE,2,District Court,MT,"JOHNSON, MARGE",,1,,,,District Judge 2,0.88
 MT,Great Falls Tribune,125500,1994,JUSTICE OF PEACE,1,Montana / Cascade County,MT,"VANCE, GLADYS",,1,,,,Justice of the Peace 1,0.85
 MT,Great Falls Tribune,125500,1994,JUSTICE OF PEACE,2,Montana / Cascade County,MT,"MILLER, BILLY",,1,,,,Justice of the Peace 2,0.85
@@ -153,7 +151,7 @@ MT,Great Falls Tribune,125500,1994,STATE REP,44,Montana House District 44,MT,"RY
 MT,Great Falls Tribune,125500,1994,STATE REP,45,Montana House District 45,MT,"KOTTEL, DEB",Democrat,1,,,,House 45,0.93
 MT,Great Falls Tribune,125500,1994,STATE REP,47,Montana House District 47,MT,"TROPILA, JOE",Democrat,1,,,,House 47,0.93
 MT,Great Falls Tribune,125500,1994,STATE REP,48,Montana House District 48,MT,"GALVIN, PAT",Democrat,1,,,,House 48,0.93
-MT,Great Falls Tribune,125500,1994,STATE SENATOR,,Montana Senate (district unknown),MT,"PARKER, MIKE",Republican,1,,,,Senate District (recap),0.85
+MT,Great Falls Tribune,125500,1994,STATE SENATOR,24,Montana Senate (district unknown),MT,"PARKER, MIKE",Republican,1,,,,Senate District (recap),0.85
 MT,Great Falls Tribune,125500,1994,STATE SENATOR,23,Montana Senate District 23,MT,"CHRISTIAENS, CHRIS",Democrat,1,1,,,Senate District 23,0.93
 MT,Great Falls Tribune,125500,1998,H,,U.S. House Montana (at-large/district unknown),MT,"DESCHAMPS, DUSTY",Democrat,0,,,,Longtime Missoula County attorney,0.85
 MT,Great Falls Tribune,125500,1998,H,,U.S. House Montana (at-large/district unknown),MT,"HILL, RICK",Republican,1,,1,,Hill should usher Montana into 21st century,0.95
@@ -167,7 +165,7 @@ MT,Great Falls Tribune,125500,2008,SUPERINTENDENT,,Montana,MT,"JUNEAU, DENISE",D
 MT,Great Falls Tribune,125500,2008,SUPREME COURT,,Chief Justice,MT,"MCGRATH, MIKE",Nonpartisan,0,,,,Outgoing AG won June primary 79-21,0.88
 MT,Great Falls Tribune,125500,2008,SUPREME COURT,,Chief Justice,MT,"WATERMAN, RON",Nonpartisan,1,,,,Endorsing Waterman - going on instincts,0.93
 MT,Great Falls Tribune,125500,2010,CNTY COMM,,Cascade County,MT,"BRIGGS, JOE",Republican,1,,1,,One of the better commissioners - easiest endorsement,0.96
-MT,Great Falls Tribune,125500,2010,CNTY COMM,,Cascade County,MT,"WALKER, ?",Democrat,0,,,,Opponent,0.80
+MT,Great Falls Tribune,125500,2010,CNTY COMM,,Cascade County,MT,"WALKER, JOHNNY",Democrat,0,,,,Opponent,0.80
 MT,Great Falls Tribune,125500,2010,H,,U.S. House Montana (at-large/district unknown),MT,"MCDONALD, DENNIS",Democrat,0,,,,Not endorsed,0.85
 MT,Great Falls Tribune,125500,2010,H,,U.S. House Montana (at-large/district unknown),MT,"REHBERG, DENNY",Republican,1,,1,,Sixth term - earned endorsement all four previous re-elections,0.96
 MT,Great Falls Tribune,125500,2010,SHERIFF,,Cascade County,MT,"EDWARDS, BOB",Democrat,0,,,,Mr. Inside - 19 years,0.88
@@ -175,22 +173,87 @@ MT,Great Falls Tribune,125500,2010,SHERIFF,,Cascade County,MT,"STINAR, GLEN",Rep
 MT,Great Falls Tribune,125500,2010,SUPREME COURT,,Montana Supreme Court,MT,"BAKER, BETH",Nonpartisan,1,,,,Edge goes to Baker - second woman on present court,0.93
 MT,Great Falls Tribune,125500,2010,SUPREME COURT,,Montana Supreme Court,MT,"SWANDAL, NELS",Nonpartisan,0,,,,Both candidates good,0.88
 MT,Great Falls Tribune,125500,1952,PRESIDENT,,United States,MT,"EISENHOWER, DWIGHT D.",Republican,0,,,,Pattern A: R opp of GFT-endorsed Stevenson D 1952 PRES. Eisenhower R won.,0.90
-MT,Great Falls Tribune,125500,1954,SENATOR,,Montana,MT,"ECTON, ZALES",Republican,0,,,,Pattern A: R opp of GFT-endorsed Murray D inc 1954 SEN.,0.90
+MT,Great Falls Tribune,125500,1954,SENATOR,,Montana,MT,"D'EWART, WESLEY",Republican,0,,,,V9: 1954 GOP Senate nominee vs Murray was Wesley D'Ewart not Ecton [ROSTER]; opp not named in image,0.90
 MT,Great Falls Tribune,125500,1964,PRESIDENT,,United States,MT,"GOLDWATER, BARRY",Republican,0,,,,Pattern A: R opp of GFT-endorsed Johnson D inc 1964 PRES.,0.90
 MT,Great Falls Tribune,125500,1964,SENATOR,,Montana,MT,"BABCOCK, TIM",Republican,0,,,,Pattern A: R opp of GFT-endorsed Mansfield D inc 1964 SEN.,0.90
 MT,Great Falls Tribune,125500,1970,SENATOR,,Montana,MT,"WALLACE, HAROLD",Republican,0,,,,Pattern A: R opp of GFT-endorsed Mansfield D inc 1970 SEN.,0.90
 MT,Great Falls Tribune,125500,1976,PRESIDENT,,United States,MT,"CARTER, JIMMY",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Ford R inc 1976 PRES. Carter D won.,0.90
-MT,Great Falls Tribune,125500,1976,SENATOR,,Montana,MT,"MELCHER, JOHN",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Burger R 1976 SEN. Melcher D won.,0.90
+MT,Great Falls Tribune,125500,1976,SENATOR,,Montana,MT,"MELCHER, JOHN",Democrat,1,,,,"V9: 1976 summary table ""United States Senator: Melcher"" — Tribune endorsed Melcher (was miscoded e=0)",0.95
 MT,Great Falls Tribune,125500,1980,GOVERNOR,,Montana,MT,"RAMIREZ, JACK",Republican,0,,,,Pattern A: R opp of GFT-endorsed Schwinden D 1980 GOV.,0.90
 MT,Great Falls Tribune,125500,1980,PRESIDENT,,United States,MT,"CARTER, JIMMY",Democrat,0,,,,Pattern A: D inc opp of GFT-endorsed Reagan R 1980 PRES.,0.90
 MT,Great Falls Tribune,125500,1992,GOVERNOR,,Montana,MT,"RACICOT, MARC",Republican,0,,,,Pattern A: R opp of GFT-endorsed Bradley D 1992 GOV. Racicot R won.,0.90
 MT,Great Falls Tribune,125500,1994,SENATOR,,Montana,MT,"BURNS, CONRAD",Republican,0,,1,,"Pattern A: R inc opp of GFT-endorsed Mudd D 1994 SEN. Burns R inc won. | V5: r_inc=1, Burns won SEN 1988.",0.90
 MT,Great Falls Tribune,125500,1976,ATTORNEY GENERAL,,Montana,MT,"GREELY, MICHAEL",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Harrison R 1976 AG.,0.85
 MT,Great Falls Tribune,125500,1980,SEC OF STATE,,Montana,MT,"LANE, J.D.",Republican,0,,,,Pattern A: R opp of GFT-endorsed Lynch D 1980 SoS.,0.85
-MT,Great Falls Tribune,125500,2008,SUPERINTENDENT,,Montana,MT,"HANSEN, ELAINE",Republican,0,,,,Pattern A: R opp of GFT-endorsed Juneau D 2008 SUPER.,0.85
+MT,Great Falls Tribune,125500,2008,SUPERINTENDENT,,Montana,MT,"HERMAN, ELAINE SOLLIE",Republican,0,,,,"V9: image ""Elaine Sollie Herman"" (was roster-guess Hansen); Pattern A opp of Juneau",0.85
 MT,Great Falls Tribune,125500,1976,H,1,U.S. House Montana 1,MT,"SHOUP, RICHARD",Republican,0,,,,Pattern A: R opp of GFT-endorsed Baucus D 1976 H-1.,0.82
 MT,Great Falls Tribune,125500,1976,H,2,U.S. House Montana 2,MT,"LIEN, KELLY",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Marlenee R 1976 H-2.,0.82
 MT,Great Falls Tribune,125500,1980,H,1,U.S. House Montana 1,MT,"SCHENDEL, RICHARD",Republican,0,,,,Pattern A: R opp of GFT-endorsed Williams D 1980 H-1.,0.82
 MT,Great Falls Tribune,125500,1980,H,2,U.S. House Montana 2,MT,"BLAYLOCK, JAMES",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Marlenee R 1980 H-2.,0.82
-MT,Great Falls Tribune,125500,1992,H,2,U.S. House Montana 2,MT,"HARTELIUS, ETHEL",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Marlenee R 1992 H-2.,0.82
+MT,Great Falls Tribune,125500,1992,H,AL,U.S. House Montana 2,MT,"WILLIAMS, PAT",Democrat,0,,,,V9: 1992 at-large opponent was Pat Williams (D) not Hartelius; confirm direction,0.8
 MT,Great Falls Tribune,125500,1994,H,,U.S. House Montana (at-large),MT,"PAVLOVICH, BILL",Democrat,0,,,,Pattern A: D opp of GFT-endorsed Jamison R 1994 H.,0.82
+MT,Great Falls Tribune,125500,1972,LT GOVERNOR,,Montana,MT,"CHRISTIANSEN, BILL",Democrat,1,,,,"V9 omission: image ""For Lt. Governor-Bill Christiansen...Our preference is Christiansen to team with Tom Judge""",0.85
+MT,Great Falls Tribune,125500,1972,LT GOVERNOR,,Montana,MT,"HANSON, HAROLD (SONNY)",Republican,0,,,,V9: Pattern A opp of Christiansen 1972 LT GOV,0.85
+MT,Great Falls Tribune,125500,1998,CNTY COMM,,Cascade County,MT,"STELLING, TOM",Democrat,1,,,,"V9 omission: image ""Tom Stelling, the Democrat...he wins our endorsement"" (vs Crouch R)",0.85
+MT,Great Falls Tribune,125500,1998,CNTY COMM,,Cascade County,MT,"CROUCH, WADE",Republican,0,,,,V9: opp of GFT-endorsed Stelling 1998,0.85
+MT,Great Falls Tribune,125500,1998,PUBLIC SERVICE COMMISSION,3,Montana PSC District 3,MT,"FRANTZ, BOB",Republican,1,,,,"V9 omission: image ""Bob Frantz...running as a Republican...might be just what the doctor ordered"" (vs inc Anderson)",0.85
+MT,Great Falls Tribune,125500,1998,PUBLIC SERVICE COMMISSION,3,Montana PSC District 3,MT,"ANDERSON, BOB",Democrat,0,1,,,"V9: 2-term incumbent PSC, NOT endorsed in 1998 (Frantz endorsed)",0.85
+MT,Great Falls Tribune,125500,1992,SEC OF STATE,,Montana,MT,"COONEY, MIKE",Democrat,1,,,,"V9 omission: image recap ""Secretary of State: Cooney...should be retained""",0.88
+MT,Great Falls Tribune,125500,2008,CNTY COMM,,Cascade County,MT,"SALINA, BILL",Democrat,1,,,,"V9 omission: image ""we found ourselves favoring Salina"" (vs Larson R)",0.85
+MT,Great Falls Tribune,125500,2008,CNTY COMM,,Cascade County,MT,"LARSON, JIM",Republican,0,,,,V9: opp of GFT-endorsed Salina 2008,0.85
+MT,Great Falls Tribune,125500,1990,STATE REP,34,Montana House District 34,MT,"DOLEZAL, ED",Democrat,1,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,34,Montana House District 34,MT,"LINDSTROM, PAUL",Republican,0,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name | V9r2 first name resolved (prose/cross-year)",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,35,Montana House District 35,MT,"STEBBINS, DONA",Republican,1,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,35,Montana House District 35,MT,"NISBET, GERALD",Democrat,0,1,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name | V9r2 first name resolved (prose/cross-year)",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,36,Montana House District 36,MT,"RICE, SHEILA",Democrat,1,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,36,Montana House District 36,MT,"GOOD, ?",Republican,0,,1,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,37,Montana House District 37,MT,"WYATT, DIANA",Democrat,1,1,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,37,Montana House District 37,MT,"MEYER, JANE",Republican,0,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name | V9r2 first name resolved (prose/cross-year)",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,38,Montana House District 38,MT,"MESSMORE, CHAR",Republican,1,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,38,Montana House District 38,MT,"McCORMICK, LLOYD",Democrat,0,1,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name | V9r2 first name resolved (prose/cross-year)",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,39,Montana House District 39,MT,"REBAL, DON",Democrat,1,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,39,Montana House District 39,MT,"SIMPKINS, DICK",Republican,0,,1,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name | V9r2 first name resolved (prose/cross-year)",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,40,Montana House District 40,MT,"MEDDOCK, DARLENE",Republican,1,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,40,Montana House District 40,MT,"GALVIN, PAT",Democrat,0,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name | V9r2 first name resolved (prose/cross-year)",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,41,Montana House District 41,MT,"STRIZICH, BILL",Democrat,1,1,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,41,Montana House District 41,MT,"WESTER, ?",Republican,0,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,42,Montana House District 42,MT,"COBB, JOHN",Republican,1,,1,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE REP,42,Montana House District 42,MT,"NEUMAN, ?",Democrat,0,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE SENATOR,17,Montana Senate District 17,MT,"FRANKLIN, EVE",Democrat,1,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE SENATOR,17,Montana Senate District 17,MT,"MEYER, DARRYL",Republican,0,,1,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name | V9r2 first name resolved (prose/cross-year)",0.82
+MT,Great Falls Tribune,125500,1990,STATE SENATOR,18,Montana Senate District 18,MT,"MANNING, DICK",Democrat,1,1,,,"V9 1990 recap: endorsed ""by default"" (R Holmes dropped off ballot); RA verify",0.82
+MT,Great Falls Tribune,125500,1990,STATE SENATOR,20,Montana Senate District 20,MT,"DOHERTY, STEVE",Democrat,1,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1990,STATE SENATOR,20,Montana Senate District 20,MT,"O'HARA, JESSE",Republican,0,,,,"V9 1990 image recap ""Endorsements 1990""; RA verify first name",0.82
+MT,Great Falls Tribune,125500,1994,JUDGE,3,District Court,MT,"GOFF, ROBERT",Nonpartisan,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE SENATOR,20,Montana Senate District 20,MT,"FOSTER, MIKE",Republican,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE SENATOR,21,Montana Senate District 21,MT,"FRANKLIN, EVE",Democrat,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE REP,40,Montana House District 40,MT,"BARRON, HENRY",Democrat,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE REP,41,Montana House District 41,MT,"WISEMAN, BILL",Republican,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE REP,42,Montana House District 42,MT,"FORBES, ROSE",Republican,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE REP,43,Montana House District 43,MT,"WYATT, DIANA",Democrat,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE REP,49,Montana House District 49,MT,"SIMPKINS, DICK",Republican,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE REP,50,Montana House District 50,MT,"COBB, JOHN",Republican,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE REP,87,Montana House District 87,MT,"ROSE, SAM",Republican,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,STATE REP,93,Montana House District 93,MT,"TURICK, HUGO",Democrat,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,CNTY COMM,,Cascade County,MT,"BELTRONE, PEGGY",Democrat,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,CNTY CLERK,,Cascade County Clerk/Recorder,MT,"FOURNIER, MARK",Republican,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,AUDITOR,,Cascade County,MT,"GREEN, DIANE",Democrat,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1994,SURVEYOR,,Cascade County,MT,"STRONG, HARRY",Republican,1,,,,"V9r2 1994 ""Summarizing our recommendations"" recap (11/06), lead-verified",0.9
+MT,Great Falls Tribune,125500,1986,STATE SENATOR,20,Montana Senate District 20,MT,"LEE, GARY",Republican,1,,,,"V9r2 1986: image ""Lee has a narrow margin""; open seat (Goodover retired)",0.85
+MT,Great Falls Tribune,125500,1986,STATE SENATOR,20,Montana Senate District 20,MT,"WALKER, MIKE",Democrat,0,,,,"V9r2 1986 dated editorial, lead-spot-checked",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,33,Montana House District 33,MT,"PHILLIPS, JOHN",Republican,1,,1,,"V9r2 1986: image ""Phillips...He wins our endorsement""",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,33,Montana House District 33,MT,"KRAUS, PAT",Democrat,0,,,,"V9r2 1986 dated editorial, lead-spot-checked",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,35,Montana House District 35,MT,"NISBET, GERALD",Democrat,1,1,,,"V9r2 1986: ""Nisbet...deserves to go back to Helena""",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,35,Montana House District 35,MT,"CONTWAY, JON",Republican,0,,,,"V9r2 1986 dated editorial, lead-spot-checked",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,38,Montana House District 38,MT,"TRACKWELL, NANCY",Republican,1,,,,"V9r2 1986: ""This race tilts to Trackwell""",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,38,Montana House District 38,MT,"McCORMICK, LLOYD",Democrat,0,1,,,"V9r2 1986 dated editorial, lead-spot-checked",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,39,Montana House District 39,MT,"O'HARA, JESSE",Republican,1,,1,,"V9r2 1986: ""We support O'Hara""",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,39,Montana House District 39,MT,"POULSEN, HAROLD",Democrat,0,,,,"V9r2 1986 dated editorial, lead-spot-checked",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,42,Montana House District 42,MT,"COBB, JOHN",Republican,1,,1,,"V9r2 1986: ""Cobb...has earned another term""",0.85
+MT,Great Falls Tribune,125500,1986,STATE REP,42,Montana House District 42,MT,"BOTTOMLY, R.V. (DICK)",Democrat,0,,,,"V9r2 1986 dated editorial, lead-spot-checked",0.85
+MT,Great Falls Tribune,125500,1986,CNTY COMM,,Cascade County,MT,"GASVODA, DICK",Democrat,1,1,,,"V9r2 1986: image ""Gasvoda has ability to grow"" (vs Simpkins R)",0.85
+MT,Great Falls Tribune,125500,1986,CNTY COMM,,Cascade County,MT,"SIMPKINS, DICK",Republican,0,,,,"V9r2 1986 dated editorial, lead-spot-checked",0.85
+MT,Great Falls Tribune,125500,1972,PRESIDENT,,United States,MT,"McGOVERN, GEORGE",Democrat,0,,,,"V9r2: image names ""Senator McGovern, the Democratic"" candidate; opp of GFT-endorsed Nixon R 1972 PRES",0.85
+MT,Great Falls Tribune,125500,1972,TREASURER,,Montana,MT,"McLAUGHLIN, JOHN J.",Democrat,0,,,,"V9r2: image ""John J. McLaughlin, Democrat""; opp of GFT-endorsed Connors R 1972 Treasurer",0.85
+MT,Great Falls Tribune,125500,1970,SUPREME COURT,,Associate Justice No. 3,MT,"GABRIEL, ROBERT W.",Nonpartisan,0,,,,"V9r2: image ""Robert W. Gabriel, a Great Falls attorney""; opp of GFT-endorsed Castles 1970 SC No.3",0.85
+MT,Great Falls Tribune,125500,1966,SUPREME COURT,,Montana Supreme Court,MT,"McCARVEL, JOHN M.",Nonpartisan,0,,,,"V9r2: image ""John M. McCarvel""; opp of GFT-endorsed Harrison 1966 SC",0.85
