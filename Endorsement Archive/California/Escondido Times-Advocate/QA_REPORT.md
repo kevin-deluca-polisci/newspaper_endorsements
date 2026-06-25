@@ -583,3 +583,44 @@ No other issues. The full-page filtering pipeline worked cleanly across the bulk
 ## Raw folder housekeeping
 
 109 raw files (mix of JPG with multiple naming patterns) boiled down to 27 unique by SHA-256. All 27 had DELUCA canonical names. JPGs were resized to 1800px max height + reconverted to PDF (5MB→500KB) to fit subagent context limits.
+
+---
+
+## V9 DEEP IMAGE VERIFICATION (2026-06-24)
+The prior "V9 FINAL production-ready" status came from the lighter **endorsement-qa** skill (formal QA + 50 spot checks), NOT image-level verification. A full deep pass — re-OCR of all 27 clippings (6 needed `--psm 1`/`--psm 6` on extracted JPEGs to recover zero-yield pages) + 3 parallel era-agents verifying every field against the clipping IMAGE + lead re-verification of high-stakes findings — found **extensive errors** that survived the earlier QA. Candidates 286→289, propositions 341→363. Integrity: Pattern K=0, 0 exact dups, 0 blank names, all office codes valid.
+
+### Proposition direction fixes (image-verified)
+- **1990: 7 state-prop flips lead-verified against the printed "Proposition N: … YES/NO" box** — 125 NO, 126 YES, 127 NO, 129 NO, 130 YES, 136 NO, 144 YES (CSV had all backwards) + San Diego Prop J → YES.
+- **1988: 4 general-prop flips** (96→NO, 100→YES, 105→NO, 106→NO — the insurance/AIDS-test measures) + Escondido Prop L → NO.
+- **1974:** Props 12/14/16/17 + county A → YES. **1976:** Prop 4→YES, 5→NO, county D→NO. **1978:** Prop 1→YES. **1950:** Props 5/7→NO (paper "felt otherwise"). **1970:** Prop 20 bond→YES. **1984:** Props 32→YES, 20→YES, 17 bond→NO, F→NO.
+- **Renumbers:** 1994 off-by-one (182→183 recall, 183→184 three-strikes, 184→185 gas tax); 1988 Escondido transient-tax J→H (+ firehouse stays J); 1984 Vista props E→S, I→T.
+- **Omitted slates ADDED:** entire **1960 proposition slate** (15 state + 2 local bonds) was missing — added, and **lead-verified against the 1960 "Recommendations" box (the agent had Props 8 and 15 backwards; corrected to 8-YES, 15-NO)**. Also added 1970 Prop 19 (NO), 1984 Prop 21 (YES), 1988 Vista Prop LL (YES), 1994 County B (YES) & C (NO).
+
+### Candidate fixes (image-verified)
+- **1982 Secretary of State fully reversed** (lead-verified): T-A endorsed *"Republican Gordon Duffy"*, criticizing incumbent Democrat March Fong Eu → record corrected from FONG (D, e=1) to DUFFY, GORDON (R, e=1); Fong → e=0 opponent.
+- **1984 spurious removed:** FORDEM, PAUL (CNTY COMM — *"incumbent Paul Fordem dropped out of the race,"* not endorsed) and a duplicate EVERT, MARY (SCHOOL BOARD dup of her DIRECTOR record).
+- **Office/district fixes:** 1984 ELLIS → STATE SENATOR (39th Senate, was STATE REP); 1982 JOHNS → Superior Court JUDGE (was COURT OF APPEALS); 1982 districts ROE 76→75, BRADLEY 74→76, PACKARD 42→43.
+- **Name fixes:** 1960 MANNING→MANION; 1982 BARTELT→BASSETT, NEATE→NESTE, KINTNER FLOYD→JANET (and e=1→0, un-endorsed opponent); 1984 RADY ERNIE→JIM, LA POMER→LA TURNER, ROY ROY→NEE ROY; 1986 AMES→AMOS, LOLE→LYLE; 1988 ECHEVERRIA BOB→BEN, TRIGAS SEERA→SEENA, DUDYS→SARAH; 1990 LOESCHER→LOSCHER.
+- **Omissions ADDED:** 1982 Municipal Court KASIMATIS + Palomar Resource Conservation District TRUSSELL & ROZELLE; 1984 Palomar Pomerado HUTCHINGS; 1986 County Clerk ZUMWALT.
+- **Incumbency:** 1984 BARBER bad r_inc cleared (challenger, not incumbent).
+
+### Confirmed-correct (not errors)
+- **1981 clipping (zero records) is CORRECT** — it is a San Marcos recall "Perspective" page (rival committees' guest essays + an editor's letter on endorsement philosophy); the T-A took no codeable position.
+- **1972-05-24 and 1974-05-14 primary clippings carry Escondido Chamber of Commerce recommendations, not T-A endorsements** — correctly excluded.
+
+### V9 ROUND 2 — 100% lead-verification + completion (2026-06-24)
+After the first V9 pass, **personally re-verified every applied proposition change against the clipping image** (rather than trusting the agents): all flips/additions for 1950, 1960, 1970, 1974, 1976, 1978, 1984, 1988, 1990, 1994 confirmed pixel-by-pixel (incl. reading the 1988 Prop L "■No" checkbox and the 1990 printed YES/NO box). Every one held.
+- **1982 propositions fully restructured from the image:** the CSV's numbered 16–20 were really lettered C/D/E/G; "Prop 14 Helicopters/No" was actually **Prop A** (helicopters, No) while the **real Prop 14 = reapportionment, YES** (added); removed spurious "Prop 20 Naval fuel district"; added omitted Props **B** (bailiffs YES), **F** (tourist tax YES), **Y** (rural fire YES); set Props **D/E to no-position** (paper wrote "Who cares?" / "See Prop D"); fixed descriptions for Props 6/10/13.
+- **1976 November general proposition slate ADDED** (22 image-verified records: state 1–15 + county A–G, with state 9 / county A,F as "No Position") — the CSV previously held only the June primary props though its candidates were from the November general.
+- **Metadata cleanups:** opponent dname "District 23" placeholders fixed (1982 Akili→41/Metzger→43, 1984 Archuleta→41, 1988 Ovrom→41/Manning→43, 1994 Leschick→48/Tamerius→51); **MAYOR city dnames corrected** (Gloria McClellan = **Vista** mayor not Escondido; Thibadeau = San Marcos; Emery/Higginson = Poway); 1986 Treasurer dname → San Diego County (confirmed legit "**Boland or Silva**" dual endorsement); prop descriptions (1984 #16 jail bond / #19 $85M wetlands, 1990 #134 nickel-a-drink).
+- **Final integrity:** 289 candidates + 388 propositions; Pattern K=0, 0 exact dups, 0 blank names, all office codes valid, 0 false single-seat double-endorsements (the only same-seat pair is the confirmed 1986 dual endorsement). Working copy ↔ archive md5 identical.
+
+### V9 ROUND 3 — final low-confidence sweep + skill-checklist closure (2026-06-24)
+Pulled every record below 0.85 confidence (11 candidates, 16 props) and resolved each:
+- **Props image-verified and bumped to 0.90:** 1950 #5/#7/A, 1984 #16/#19/#20, 1986 A/B/C (read "spelling out DA duties…Yes / 30-day deadline…Yes / clerk appointed…Yes"), 1988 J/K/N/V. 1986 Prop A description corrected.
+- **Structural-choice props annotated (kept lower, not Yes/No):** 1988 M (mayor four-vs-two years → "Two"), 1988 W (Fallbrook council district-vs-at-large → "At large"). These encode a pick between two structural options, so the 1/0 field is approximate by nature.
+- **1984 #24** (legislative reform, No): multi-column box layout blocked a clean lead-verify; direction matches the agent read and the editorial's stance — kept e=0, noted, conf 0.82.
+- **Inferred-opponent candidates (10, e=0) left at 0.80 by design** — they are the losing major-party opponents, who are NOT printed in the T-A's pick-only ballot boxes; the dataset records them by convention, so lower confidence is correct, not an error.
+- **1950 Cloyed [UNKNOWN]:** the recap prints only the surname ("Cloyed had no trouble defeating his Independent opponent"); first name is genuinely not in the clipping — noted.
+
+**Verification-skill checklist — all phases satisfied:** Phase 0 baseline + clipping/CSV year-mismatch (1981 identified); Phase 1 all 27 clippings re-OCR'd (6 zero-yield pages recovered via `--psm 1`/`--psm 6` on extracted JPEGs); Phases 2–3 direction + name verification (image); Phases 4–5 format + Pattern-K/dup battery (all 0); Phases 6–7 incumbency (mostly nonpartisan local); Phase 8 omissions recovered (1960 prop slate, 1976 November slate, 1982 B/F/Y, Kasimatis/Zumwalt/Trussell/Rozelle/Hutchings); Phase 9 e=0 documented; Phase 10 flags adjudicated; Phase 11 propositions exhaustively verified incl. 5 intentional no-position records; **Phase 12 sister-paper check = N/A (Escondido Times-Advocate is standalone — no San Diego / North County CA paper in `done/`)**; Phase 13 multi-pass (3 rounds); Phases 14–16 QA/RA/metadata updated, archive synced (md5), self-audit complete.

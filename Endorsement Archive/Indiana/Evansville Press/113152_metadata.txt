@@ -80,3 +80,6 @@ KNOWN ISSUES:
 
 Compiled: 2026-04-13
 V6 FINAL: 2026-06-15
+
+--- V9 DEEP IMAGE VERIFICATION (2026-06-24) ---
+Full image-level verification (re-OCR all 89 clippings + 5 era-agents + lead re-verify). Prior "V8 FINAL" was endorsement-qa only. MOST error-laden folder of the Evansville cluster. Candidates 572->596, props 42->39. Fixed 1974 (5 township wrong-winners via box-mark reading + 5 R endorsees added), 1928 Lindsey direction, removed phantoms (1958 Roberts, 1960 mayor) + 9 garbled dups + 3 prop dups; recoded 22 township-trustees (SCHOOL BOARD->TOWNSHIP TRUSTEE) + 58 County Council (CNTY COMM->CITY COUNCIL); name/party/district/jurisdiction fixes (Boehne d1, Wagner=NY, La Follette=WI/Progressive, 1956 party column-misreads); added MISSING 1926 year (13 records) + coroner/surveyor omissions + 1942/1944 Pres/VP/House. Integrity: Pattern K=0, 0 dups, valid offices. RESIDUAL (large, in RA_NEEDS_V9): 1976/1978 grids severely incomplete (box-marked, need RA), 1924 cross-party omissions, 1970 appellate judges. Archive synced (md5).

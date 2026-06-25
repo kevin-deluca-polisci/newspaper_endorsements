@@ -431,3 +431,54 @@ Notable Federal picks:
 **State:** IN | **Years:** 1918-1958 (V1 partial) | **Clippings:** 45 (V1)
 
 V1 was initial extraction. V2 expanded to full 1918-1996 coverage with Federal Pattern A and cross-paper validation.
+
+---
+
+## ⚠️ AT-LARGE FALSE-ENDORSEMENT WATCH (flagged 2026-06-22, address during V9 processing)
+A project-wide sweep flagged this folder for the **Cincinnati at-large bug**: one partisan race-slot (district or at-large) holding **5+ candidates all coded endorsed (e=1) with zero recorded opponents**. In the Cincinnati Enquirer this turned out to be a systematic error where the *entire* multi-member/at-large candidate list (endorsees + their opponents) was coded as endorsed — often with the opponents' party mislabeled. When V9-processing this folder, OPEN THE BALLOT IMAGE for each slot below and split into the marked endorsees (e=1) vs the unmarked opponents (e=0); watch for party mislabels and name scrambles. NOTE: some of these may be legitimate bipartisan at-large slates — verify against the clipping, do not assume.
+
+Flagged slots (year | office | district | #endorsees | party mix):
+- 1956 | STATE REP | dist blank | 6 endorsees | Republican:4, Democrat:2
+- 1954 | STATE REP | dist blank | 5 endorsees | Republican:5
+- 1984 | CNTY COMM | dist blank | 5 endorsees | Democrat:2, Republican:3
+
+---
+
+## V9 DEEP IMAGE VERIFICATION (2026-06-24)
+Prior "V8 FINAL" was **endorsement-qa only** (not image-level). Full deep pass — re-OCR all 89 clippings (3 zero-yield recovered) + 5 parallel era-agents reading every field against the clipping IMAGE + lead re-verification of high-stakes findings (incl. reading the 1974 box-marks pixel-by-pixel). **This was the most error-laden folder of the Evansville cluster.** Candidates 572→596, props 42→39. Integrity: Pattern K=0, 0 exact dups, all office codes valid; the 7 same-seat pairs are all legitimate (state-vs-county offices sharing a code + the 1926 two-Senate-seat election).
+
+### AT-LARGE false-endorsement watch — RESOLVED (no bug)
+The flagged 1954/1956 State-Rep and 1984 County-Commission "all-endorsed" slots were verified NOT the Cincinnati bug — the Press listed only its own picks (incl. a legitimately bipartisan 1956 slate). The inflated counts were from **garbled-name duplicates**, not opponents-coded-as-endorsed.
+
+### Direction errors fixed (wrong winners — lead-verified against the image)
+- **1974: 5 township races had the WRONG winner.** The clipping is a box-marked grid; I read the X-marks pixel-by-pixel (e.g. German Twp: "Bittner ☐ / **Schneider ☒**"). The Press endorsed the **Republican** in Center-Assessor (Stucki), German-Trustee (Schneider), Knight-Trustee (Chaddock), Knight-Assessor (Reid), Scott-Trustee (Richardt); the CSV had endorsed the Democrats. Flipped the Democrats to e=0 and **added the 5 Republican endorsees**. Also 1974 Wilner (CNTY COMM) party R→**D**.
+- **1928 Lindsey (prosecutor): e=1 → e=0** — the Press OPPOSED him ("should be defeated"); also name → E. Menzies Lindsey, party → Republican.
+
+### Spurious / phantom / duplicate records removed
+- **1958 "C.R. Roberts (R)"** — phantom; the real prosecutor endorsement is O. Herbert Roberts (D); GOP opponent was Newman, not endorsed.
+- **1960 MAYOR McDonald (R)** — no 1960 mayoral race; fabricated. **1960 O'Day** recoded MAYOR → CNTY CLERK (Circuit Court Clerk opponent).
+- **9 garbled-name duplicates** (1954 Combs/Mooney/Mehrle council; 1956 Buffola/Utterback/Lovan/Caplin/Fooler/Babbitt/Nussmeier/McGrath) + 2 recode-collision dups.
+- **3 duplicate 1970 amendment props** (unnumbered duplicates of the numbered ones).
+
+### Systematic office recodes
+- **22 township-trustee records mis-coded SCHOOL BOARD → TOWNSHIP TRUSTEE** (1954/62/70/74/82).
+- **58 Vanderburgh County Council seats mis-coded CNTY COMM → CITY COUNCIL** (cluster convention; genuine commissioners kept CNTY COMM).
+
+### Name / party / district / jurisdiction fixes
+- Names: 1930 Rowbottom Harry E; 1934 Robinson Arthur R; 1942 Druse→Dress; 1950 McVey→McCray / Padgett→Paul / Elliott→Ellert; 1956 Lemon (Thomas L.); 1962 Gish→Grim; 1966 Perkle→Pirkle / Beudert Francis; 1976 Deckard→Belden Bell + Conrad name.
+- Party (1956 column-misreads): Wolf, Utterbach, Lemon → Democrat; Nussmeier → Republican; 1958 Branson → Republican.
+- Districts: 1928/1930 Boehne d7 → **d1** (Evansville = Indiana 1st pre-1940s).
+- Jurisdiction (out-of-state national commentary): 1932 Wagner → **New York**; 1940 La Follette → **Wisconsin/Progressive**.
+
+### Omissions recovered (added)
+- **1926 MISSING YEAR** (13 records, lead-verified vs OCR): Denton (prosecutor), Durre (Superior judge R)/Ireland (opp), Wilson (House), 5-name Democratic legislative slate, Stump+Woollen (Senate endorsed) / Watson+Robinson (Senate opposed).
+- County coroner/surveyor blind spot: 1972 (Wertzler/Banko/Biggerstaff), 1980 (Brenner/Wilson), 1984 (Brenner/Alexander), 1988 (Althaus/Reid), 1992 (Buickel), 1996 (Buickel/Witte).
+- 1942 House (LaFollette R/Boehne D); 1944 President (Dewey/FDR) + VP (Bricker/Truman); 1958 Perry Twp Trustee (Northern).
+
+### V9 ROUND 2 — lead-verification + 1924 recovery + sanity (2026-06-24)
+- **Lead-verified (pixel) the large batch of applied fixes — all held:** 1956 party column-misreads confirmed (Lemon x=1619 / Wolf x=1645 / Utterbach x=1577 all under the DEMOCRAT column at x≈1536, right of the Republican column x=1246); 1958 phantom "C.R. Roberts (R)" confirmed spurious (image endorses only "O. Herbert Roberts Jr.", Democrat); 1960 confirmed O'Day is the Circuit-Court-Clerk opponent of Oviatt, no mayoral race (McDonald spurious); 1928 "Menzies Lindsey… should be defeated" confirms the opposed direction.
+- **1924 omissions added (8):** La Follette (PRES, Progressive), Wilson (H1 D)/Rowbottom (opp R), Spencer (Circuit Judge D), Wiltshire (Sheriff D)/McDowell (opp R), and the cross-party Republican judge endorsements Lockyear (Probate) + Bock (Circuit) — the anti-Klan editorial endorsed non-Klan candidates regardless of party.
+- **Indiana sanity battery — clean:** US House district correctly 1st (1918-1930) → 8th (1932-1996); STATE REP / STATE SENATOR districts all in valid Indiana ranges.
+- **Cross-year consistency:** fixed 1996 CNTY COMM Tuley party R→**D** (conflicted with 1992 D; Patrick Tuley is a Democrat; 1996 image is a bare name list). Remaining COLE recorder R(1960/64)/D(1972) is legitimate — Cole Sr. vs Cole "Jr." (different people). Fixed 1926 Wilson House district → 1.
+- **Final integrity:** 604 cand + 39 props, Pattern K=0, 0 dups, all office codes valid, 0 unexplained cross-year party conflicts.
+**Verification-skill 16-phase checklist satisfied** (Phase 12 sister-paper check = PENDING the 3-paper cluster reconciliation). The 1976/1978 grid reconstruction (~40 box-marked records) remains the one large documented RA item — it needs a dedicated per-mark pass (the 1974 grid proved bulk-adding risks wrong winners).

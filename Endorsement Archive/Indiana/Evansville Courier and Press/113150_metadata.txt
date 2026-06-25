@@ -56,3 +56,6 @@ Full sidebar verified: 1982, 1988, 1992, 1996, 2000, 2002, 2004, 2006, 2008, 201
 
 Compiled: 2026-04-13
 V6 FINAL: 2026-06-15
+
+--- V9 DEEP IMAGE VERIFICATION (2026-06-24) ---
+Full image-level verification (re-OCR all 22 clippings + 2 era-agents + lead re-verify). Prior "V8 FINAL" was endorsement-qa only. Candidates 359->357, props 14->16. Removed 3 spurious (2000 Swaim-recorder, 2004 Wilson-Dana, 2016 Mitchell-treasurer); added 2008 Riecken + 1998/2008 omitted props; 2016 party flips (Goebel/Shoulders/Heronemus->D); 2008 VanHaaften d77->76, Winnecke->CNTY COMM d1; recoded 10 County-Council seats CNTY COMM->CITY COUNCIL; name fixes (Gulledge, Bassemier, Bucshon); 2006 Williams->D; 2014 Crouch->State Auditor (Indiana). 2018 confirmed non-endorsement (AP news article). Integrity: Pattern K=0, 0 dups, 0 blanks, 0 cross-year party conflicts. See QA_REPORT V9 + RA_NEEDS_V9.md. Archive synced (md5).

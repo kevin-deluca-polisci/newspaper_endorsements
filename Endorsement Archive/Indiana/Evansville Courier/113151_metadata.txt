@@ -68,3 +68,6 @@ Federal/state verified: 1934, 1948, 1956, 1958, 1960, 1962, 1964, 1970, 1974, 19
 
 Compiled: 2026-04-13
 V7 FINAL: 2026-06-15
+
+--- V9 DEEP IMAGE VERIFICATION (2026-06-24) ---
+Full image-level verification (re-OCR all 95 clippings + 4 era-agents + lead re-verify). Prior "V7 FINAL" was endorsement-qa only (not image-level). Candidates 439->438, props 21->23. Recovered MISSING 1932 year (Roosevelt/Hoover President + 2 Indiana amendments); removed 7 spurious 1954 CNTY COMM duplicates (county-council people) + 1 spurious 1952 Greenlee (invalid Pattern-A); party flips 1936 Spencer->R, 1972 Ossenberg->R; name fixes (Holder, Hillis, Robinson Arthur, Padgett Paul, Karges, McCray, Larrabee); omissions added (1924 McCulloch/Davis, 1926 Woollen/Stump, 1950 Meyer); incumbency flags (1954/1956); Illinois jurisdiction dnames (1948 Green/Stevenson, 1950 Vursell). Integrity: Pattern K=0, 0 dups, 0 blank names, valid offices. See QA_REPORT V9 section + RA_NEEDS_V9.md. Archive synced (md5 identical).

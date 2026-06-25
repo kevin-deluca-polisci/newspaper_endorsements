@@ -153,7 +153,7 @@ IN,Evansville Courier and Press,113150,1998,SHERIFF,,VANDERBURGH COUNTY,IN,"ELLS
 IN,Evansville Courier and Press,113150,2000,CNTY CLERK,,Vanderburgh County,IN,"ABELL, MARSHA",Republican,1,,,,V1 extraction: CNTY CLERK endorsement,0.95
 IN,Evansville Courier and Press,113150,2000,CNTY COMM,1,Vanderburgh County,IN,"JERREL, BETTYE LOU",Republican,1,,,,V1 extraction: CNTY COMM endorsement,0.85
 IN,Evansville Courier and Press,113150,2000,CNTY COMM,3,Vanderburgh County,IN,"MOSBY, DAVID",Democrat,1,,,,V1 extraction: CNTY COMM endorsement,0.95
-IN,Evansville Courier and Press,113150,2000,CORONER,,Vanderburgh County,IN,"SWAIM, PETE",Republican,1,,,,OR DONALD ERB (D) - LISTED AS ALTERNATIVES,0.75
+IN,Evansville Courier and Press,113150,2000,CORONER,,Vanderburgh County,IN,"SWAIM, PETE",Republican,1,,,,OR DONALD ERB (D) - LISTED AS ALTERNATIVES | V9: dual coroner Erk(D) or Swaim(R) per image (note typo Erb->Erk),0.88
 IN,Evansville Courier and Press,113150,2000,GOVERNOR,,Indiana,IN,"O'BANNON, FRANK",Democrat,1,1,,,V1 extraction: GOVERNOR endorsement,0.95
 IN,Evansville Courier and Press,113150,2000,H,8,U.S. House Indiana 8,IN,"PERRY, PAUL",Democrat,1,,,,V1 extraction: H endorsement,0.9
 IN,Evansville Courier and Press,113150,2000,JUDGE,,"SUPERIOR COURT, JUVENILE",IN,"HAMILTON, ALLEN",,1,,,,V1 extraction: JUDGE endorsement,0.9
@@ -171,7 +171,6 @@ IN,Evansville Courier and Press,113150,2000,CITY COUNCIL,AT-LARGE,VANDERBURGH CO
 IN,Evansville Courier and Press,113150,2000,CITY COUNCIL,AT-LARGE,VANDERBURGH COUNTY,IN,"NIX, BILL",Republican,1,,,,COUNTY COUNCIL AT-LARGE,0.90
 IN,Evansville Courier and Press,113150,2000,CORONER,,VANDERBURGH COUNTY,IN,"ERK, DONALD",Democrat,1,,,,COUNTY CORONER,0.90
 IN,Evansville Courier and Press,113150,2000,SURVEYOR,,VANDERBURGH COUNTY,IN,"JEFFERS, BILL",Democrat,1,,,,COUNTY SURVEYOR,0.90
-IN,Evansville Courier and Press,113150,2000,RECORDER,,VANDERBURGH COUNTY,IN,"SWAIM, PETE",Republican,1,,,,COUNTY RECORDER - BOB STEELE OR PETE SWAIM,0.90
 IN,Evansville Courier and Press,113150,2002,ASSESSOR,,Vanderburgh County,IN,"MUSGRAVE, CHERYL",Republican,1,,1,,VANDERBURGH COUNTY ASSESSOR,0.95
 IN,Evansville Courier and Press,113150,2002,AUDITOR,,Vanderburgh County,IN,"FLUTY, BILL JR.",Republican,1,,1,,VANDERBURGH COUNTY AUDITOR,0.95
 IN,Evansville Courier and Press,113150,2002,CNTY COMM,2,Vanderburgh County,IN,"CROUCH, SUZANNE",Republican,1,,1,,VANDERBURGH COUNTY COMMISSIONER DISTRICT 2,0.95
@@ -196,7 +195,6 @@ IN,Evansville Courier and Press,113150,2004,PRESIDENT,,United States,IN,"BUSH, G
 IN,Evansville Courier and Press,113150,2004,RECORDER,,Vanderburgh County,IN,"STUCKI, DEBRA",Republican,1,,,,VANDERBURGH COUNTY RECORDER,0.95
 IN,Evansville Courier and Press,113150,2004,SCHOOL BOARD,1,Evansville-Vanderburgh School Corporation,IN,"STRATTON, JEFFREY",Nonpartisan,1,,,,EVANSVILLE SCHOOL BOARD DISTRICT 1,0.9
 IN,Evansville Courier and Press,113150,2004,SCHOOL BOARD,3,Evansville-Vanderburgh School Corporation,IN,"WILLETT, DANA",Nonpartisan,1,,,,EVANSVILLE SCHOOL BOARD DISTRICT 3 (VOTE FOR TWO),0.9
-IN,Evansville Courier and Press,113150,2004,SCHOOL BOARD,1,Evansville-Vanderburgh School Corporation,IN,"WILSON, DANA",Nonpartisan,1,,,,EVANSVILLE SCHOOL BOARD (VOTE FOR TWO) | V5 OCR 2004 FLAG: Wilson Dana not in OCR sidebar - may be misread of Willett Dana District 3.,0.9
 IN,Evansville Courier and Press,113150,2004,SENATOR,,Indiana,IN,"BAYH, EVAN",Democrat,1,1,,,U.S. SENATE | V6 inc fix: cross-year continuity.,0.95
 IN,Evansville Courier and Press,113150,2004,STATE REP,77,Indiana House District 77,IN,"HOY, PHIL",Democrat,1,1,,,INDIANA STATE REPRESENTATIVE,0.85
 IN,Evansville Courier and Press,113150,2004,STATE REP,76,Indiana House District 76,IN,"VAN HAAFTEN, TRENT",Democrat,1,1,,,INDIANA STATE REPRESENTATIVE,0.85
@@ -213,7 +211,7 @@ IN,Evansville Courier and Press,113150,2006,H,8,U.S. House Indiana 8,IN,"ELLSWOR
 IN,Evansville Courier and Press,113150,2006,SCHOOL BOARD,2,Evansville-Vanderburgh School Corporation,IN,"ASBURY, WILLIAM",Nonpartisan,1,,,,SCHOOL BOARD DISTRICT 2 (PICK TWO),0.9
 IN,Evansville Courier and Press,113150,2006,SCHOOL BOARD,2,Evansville-Vanderburgh School Corporation,IN,"DEVINE, JEFF",Nonpartisan,1,,,,SCHOOL BOARD DISTRICT 2 (PICK TWO),0.9
 IN,Evansville Courier and Press,113150,2006,SCHOOL BOARD,1,Evansville-Vanderburgh School Corporation,IN,"KIEFER, CHRISTOPHER A.",Nonpartisan,1,,,,SCHOOL BOARD DISTRICT 1,0.9
-IN,Evansville Courier and Press,113150,2006,SHERIFF,,Vanderburgh County,IN,"WILLIAMS, ERIC",,1,,,,COUNTY SHERIFF,0.95
+IN,Evansville Courier and Press,113150,2006,SHERIFF,,Vanderburgh County,IN,"WILLIAMS, ERIC",Democrat,1,,,,"COUNTY SHERIFF | V9 image ""Eric Williams (D)""",0.95
 IN,Evansville Courier and Press,113150,2006,STATE REP,77,Indiana House District 77,IN,"HOY, PHIL",Democrat,1,,,,STATE HOUSE DISTRICT 77,0.95
 IN,Evansville Courier and Press,113150,2006,STATE SENATOR,49,Indiana Senate District 49,IN,"POSTLETHEWEIGHT, GEORGE",Republican,1,,,,STATE SENATE DISTRICT 49,0.85
 IN,Evansville Courier and Press,113150,2006,TREASURER,,Indiana / Vanderburgh County,IN,"MOURDOCK, RICHARD",Republican,1,,,,INDIANA STATE TREASURER,0.95
@@ -223,9 +221,9 @@ IN,Evansville Courier and Press,113150,2006,JUDGE,,VANDERBURGH COUNTY,IN,"LLOYD,
 IN,Evansville Courier and Press,113150,2006,SCHOOL BOARD,AT-LARGE,VANDERBURGH COUNTY,IN,"WASHINGTON, TALITHA",Nonpartisan,1,,,,SCHOOL BOARD AT-LARGE,0.90
 IN,Evansville Courier and Press,113150,2008,ATTORNEY GENERAL,,Indiana,IN,"ZOELLER, GREG",Republican,1,,,,V1 extraction: ATTORNEY GENERAL endorsement,0.95
 IN,Evansville Courier and Press,113150,2008,CNTY COMM,3,Vanderburgh County,IN,"KORB, JEFF",Republican,1,,,,V1 extraction: CNTY COMM endorsement,0.95
-IN,Evansville Courier and Press,113150,2008,CNTY COMM,AT-LARGE,Vanderburgh County,IN,"ABELL, MARSHA",Republican,1,,,,SELECT THREE,0.95
-IN,Evansville Courier and Press,113150,2008,CNTY COMM,AT-LARGE,Vanderburgh County,IN,"GOEBEL, MIKE",Democrat,1,,,,SELECT THREE,0.95
-IN,Evansville Courier and Press,113150,2008,CNTY COMM,AT-LARGE,Vanderburgh County,IN,"KIEFER, JOE",Republican,1,,,,SELECT THREE,0.95
+IN,Evansville Courier and Press,113150,2008,CITY COUNCIL,AT-LARGE,Vanderburgh County,IN,"ABELL, MARSHA",Republican,1,,,,SELECT THREE | V9 office: County Council (convention=CITY COUNCIL),0.95
+IN,Evansville Courier and Press,113150,2008,CITY COUNCIL,AT-LARGE,Vanderburgh County,IN,"GOEBEL, MIKE",Democrat,1,,,,SELECT THREE | V9 office: County Council (convention=CITY COUNCIL),0.95
+IN,Evansville Courier and Press,113150,2008,CITY COUNCIL,AT-LARGE,Vanderburgh County,IN,"KIEFER, JOE",Republican,1,,,,SELECT THREE | V9 office: County Council (convention=CITY COUNCIL),0.95
 IN,Evansville Courier and Press,113150,2008,CORONER,,Vanderburgh County,IN,"GROVES, ANNIE",Democrat,1,,,,V1 extraction: CORONER endorsement,0.95
 IN,Evansville Courier and Press,113150,2008,GOVERNOR,,Indiana,IN,"DANIELS, MITCH",Republican,1,,1,,V1 extraction: GOVERNOR endorsement,0.95
 IN,Evansville Courier and Press,113150,2008,H,8,U.S. House Indiana 8,IN,"ELLSWORTH, BRAD",Democrat,1,1,,,V1 extraction: H endorsement,0.95
@@ -244,7 +242,7 @@ IN,Evansville Courier and Press,113150,2010,CITY COUNCIL,4,City of Evansville / 
 IN,Evansville Courier and Press,113150,2010,CITY COUNCIL,2,City of Evansville / Vanderburgh County Council,IN,"SHETLER, TOM JR.",Republican,1,,,,"V1 extraction: CNTY COMM endorsement | V6 OCR 2010 fix: was County Council 2nd Dist, not County Commission.",0.95
 IN,Evansville Courier and Press,113150,2010,CITY COUNCIL,3,City of Evansville / Vanderburgh County Council,IN,"TERRY, STEPHANIE",Democrat,1,,,,"V1 extraction: CNTY COMM endorsement | V6 OCR 2010 fix: was County Council 3rd Dist, not County Commission.",0.95
 IN,Evansville Courier and Press,113150,2010,DA/PROSECUTOR,,VANDERBURGH COUNTY,IN,"LEVCO, STAN",Democrat,1,,,,V1 extraction: DA/PROSECUTOR endorsement,0.95
-IN,Evansville Courier and Press,113150,2010,H,8,U.S. House Indiana 8,IN,"BUSCHON, LARRY",Republican,1,,,,V1 extraction: H endorsement,0.95
+IN,Evansville Courier and Press,113150,2010,H,8,U.S. House Indiana 8,IN,"BUCSHON, LARRY",Republican,1,,,,V1 extraction: H endorsement,0.95
 IN,Evansville Courier and Press,113150,2010,SCHOOL BOARD,2,Evansville-Vanderburgh School Corporation,IN,"BECKER, SALLY NEWHOUSE",Nonpartisan,1,,,,CHOOSE TWO; NONPARTISAN,0.95
 IN,Evansville Courier and Press,113150,2010,SCHOOL BOARD,2,Evansville-Vanderburgh School Corporation,IN,"DUCKWORTH, MICHAEL",Nonpartisan,1,,,,CHOOSE TWO; NONPARTISAN,0.95
 IN,Evansville Courier and Press,113150,2010,SCHOOL BOARD,AT-LARGE,Evansville-Vanderburgh School Corporation,IN,"SWANSON, PATRICIA",Nonpartisan,1,,,,NONPARTISAN,0.95
@@ -258,12 +256,12 @@ IN,Evansville Courier and Press,113150,2010,STATE SENATOR,49,Indiana Senate Dist
 IN,Evansville Courier and Press,113150,2010,TREASURER,,STATE,IN,"MOURDOCK, RICHARD",Republican,1,,1,,"V1 extraction: TREASURER endorsement | V3 inc fix: cross-year continuity (MOURDOCK, RICHARD).",0.95
 IN,Evansville Courier and Press,113150,2012,ATTORNEY GENERAL,,Indiana,IN,"ZOELLER, GREG",Republican,1,,1,,INDIANA ATTORNEY GENERAL ENDORSEMENT | V1 Pattern K fix: d_inc=1→r_inc=1 (Zoeller R inc 2009-).,0.95
 IN,Evansville Courier and Press,113150,2012,CNTY CLERK,,VANDERBURGH COUNTY,IN,"WALSH, CHRIS",Democrat,1,,,,VANDERBURGH COUNTY CLERK ENDORSEMENT,0.85
-IN,Evansville Courier and Press,113150,2012,CNTY COMM,AT-LARGE,VANDERBURGH COUNTY,IN,"BASSEMEIER, ED",Republican,1,,,,VANDERBURGH COUNTY COUNCIL ENDORSEMENT | V4 OCR 2012 party fill: R.,0.9
-IN,Evansville Courier and Press,113150,2012,CNTY COMM,AT-LARGE,VANDERBURGH COUNTY,IN,"GOEBEL, MIKE",Democrat,1,,,,"VANDERBURGH COUNTY COUNCIL ENDORSEMENT | V4 OCR 2012 fix: GOEBEL was D, not R per editorial.",0.9
-IN,Evansville Courier and Press,113150,2012,CNTY COMM,AT-LARGE,VANDERBURGH COUNTY,IN,"KOEHLER-LINDSEY, ANGELA",Republican,1,,,,VANDERBURGH COUNTY COUNCIL ENDORSEMENT | V4 OCR 2012 party fill: R.,0.9
-IN,Evansville Courier and Press,113150,2012,CORONER,,VANDERBURGH COUNTY,IN,"GOLLEDGE, GARY",Republican,1,,,,VANDERBURGH COUNTY CORONER ENDORSEMENT,0.9
+IN,Evansville Courier and Press,113150,2012,CITY COUNCIL,AT-LARGE,VANDERBURGH COUNTY,IN,"BASSEMIER, ED",Republican,1,,,,VANDERBURGH COUNTY COUNCIL ENDORSEMENT | V4 OCR 2012 party fill: R. | V9 office: County Council (convention=CITY COUNCIL),0.9
+IN,Evansville Courier and Press,113150,2012,CITY COUNCIL,AT-LARGE,VANDERBURGH COUNTY,IN,"GOEBEL, MIKE",Democrat,1,,,,"VANDERBURGH COUNTY COUNCIL ENDORSEMENT | V4 OCR 2012 fix: GOEBEL was D, not R per editorial. | V9 office: County Council (convention=CITY COUNCIL)",0.9
+IN,Evansville Courier and Press,113150,2012,CITY COUNCIL,AT-LARGE,VANDERBURGH COUNTY,IN,"KOEHLER-LINDSEY, ANGELA",Republican,1,,,,VANDERBURGH COUNTY COUNCIL ENDORSEMENT | V4 OCR 2012 party fill: R. | V9 office: County Council (convention=CITY COUNCIL),0.9
+IN,Evansville Courier and Press,113150,2012,CORONER,,VANDERBURGH COUNTY,IN,"GULLEDGE, GARY",Republican,1,,,,VANDERBURGH COUNTY CORONER ENDORSEMENT,0.9
 IN,Evansville Courier and Press,113150,2012,GOVERNOR,,Indiana,IN,"PENCE, MIKE",Republican,1,,,,INDIANA GOVERNOR ENDORSEMENT,0.95
-IN,Evansville Courier and Press,113150,2012,H,8,U.S. House Indiana 8,IN,"BUSCHON, LARRY",Republican,1,,1,,U.S. HOUSE DISTRICT 8 ENDORSEMENT,0.95
+IN,Evansville Courier and Press,113150,2012,H,8,U.S. House Indiana 8,IN,"BUCSHON, LARRY",Republican,1,,1,,U.S. HOUSE DISTRICT 8 ENDORSEMENT,0.95
 IN,Evansville Courier and Press,113150,2012,JUDGE,,VANDERBURGH SUPERIOR COURT,IN,"LLOYD, MARY MARGARET",,1,,,,VANDERBURGH SUPERIOR COURT ENDORSEMENT,0.9
 IN,Evansville Courier and Press,113150,2012,JUDGE,,VANDERBURGH SUPERIOR COURT,IN,"NIEMEIER, BRETT",,1,,,,VANDERBURGH SUPERIOR COURT EVANSVILLE DIVISION ENDORSEMENT,0.9
 IN,Evansville Courier and Press,113150,2012,SCHOOL BOARD,3,Evansville-Vanderburgh School Corporation,IN,"RICKETTS, TONY",Nonpartisan,1,,,,VANDERBURGH SUPERIOR COURT DISTRICT 3 ENDORSEMENT | V4 OCR 2012 fix: SCHOOL BOARD District 3 (not JUDGE).,0.9
@@ -278,11 +276,11 @@ IN,Evansville Courier and Press,113150,2012,STATE SENATOR,50,Indiana Senate Dist
 IN,Evansville Courier and Press,113150,2012,SUPERINTENDENT,,STATE OF INDIANA,IN,"BENNETT, TONY",Republican,1,,1,,INDIANA SUPERINTENDENT OF PUBLIC INSTRUCTION ENDORSEMENT | V1 Pattern K fix: d_inc=1→r_inc=1 (Bennett R Super inc 2009-).,0.95
 IN,Evansville Courier and Press,113150,2012,SURVEYOR,,VANDERBURGH COUNTY,IN,"FREEMAN, LINDA",Democrat,1,,,,VANDERBURGH COUNTY SURVEYOR ENDORSEMENT,0.95
 IN,Evansville Courier and Press,113150,2012,TREASURER,,VANDERBURGH COUNTY,IN,"DAVIS, RICK",Democrat,1,,,,VANDERBURGH COUNTY TREASURER,0.95
-IN,Evansville Courier and Press,113150,2014,AUDITOR,,Vanderburgh County,IN,"CROUCH, SUZANNE",Republican,1,,1,,STATE AUDITOR,0.95
+IN,Evansville Courier and Press,113150,2014,AUDITOR,,Indiana,IN,"CROUCH, SUZANNE",Republican,1,,1,,STATE AUDITOR | V9 image: State Auditor race (not county),0.95
 IN,Evansville Courier and Press,113150,2014,AUDITOR,,COUNTY,IN,"GRIES, JOE",Republican,1,,1,,VANDERBURGH COUNTY INCUMBENT AUDITOR,0.95
 IN,Evansville Courier and Press,113150,2014,CNTY COMM,,Vanderburgh County,IN,"UNGETHIEM, BRUCE",Republican,1,,,,VANDERBURGH COUNTY COMMISSIONER,0.95
-IN,Evansville Courier and Press,113150,2014,CNTY COMM,AT-LARGE,Vanderburgh County,IN,"TERRY, STEPHANIE",Democrat,1,,,,VANDERBURGH COUNTY COUNCIL MEMBER,0.95
-IN,Evansville Courier and Press,113150,2014,H,8,U.S. House Indiana 8,IN,"BUSCHON, LARRY",Republican,1,,1,,CONGRESSIONAL INCUMBENT,0.95
+IN,Evansville Courier and Press,113150,2014,CITY COUNCIL,AT-LARGE,Vanderburgh County,IN,"TERRY, STEPHANIE",Democrat,1,,,,VANDERBURGH COUNTY COUNCIL MEMBER | V9 office: County Council (convention=CITY COUNCIL),0.95
+IN,Evansville Courier and Press,113150,2014,H,8,U.S. House Indiana 8,IN,"BUCSHON, LARRY",Republican,1,,1,,CONGRESSIONAL INCUMBENT,0.95
 IN,Evansville Courier and Press,113150,2014,SCHOOL BOARD,2,Evansville-Vanderburgh School Corporation,IN,"DUCKWORTH SR., MICHAEL J.",Nonpartisan,1,,,1,EVANSVILLE VANDERBURGH SCHOOL CORP BOARD DISTRICT 2 INCUMBENT,0.95
 IN,Evansville Courier and Press,113150,2014,SCHOOL BOARD,2,Evansville-Vanderburgh School Corporation,IN,"GUARINO, ANDREW C.",Nonpartisan,1,,,1,EVANSVILLE VANDERBURGH SCHOOL CORP BOARD DISTRICT 2 INCUMBENT,0.95
 IN,Evansville Courier and Press,113150,2014,SCHOOL BOARD,1,Evansville-Vanderburgh School Corporation,IN,"KIEFER, CHRISTOPHER A.",Nonpartisan,1,,,1,EVANSVILLE VANDERBURGH SCHOOL CORP BOARD DISTRICT 1 INCUMBENT,0.95
@@ -291,12 +289,12 @@ IN,Evansville Courier and Press,113150,2014,SHERIFF,,Vanderburgh County,IN,"WEDD
 IN,Evansville Courier and Press,113150,2014,STATE REP,76,Indiana House District 76,IN,"MCNAMARA, WENDY",Republican,1,,1,,INCUMBENT STATE REPRESENTATIVE HOUSE DISTRICT 76,0.95
 IN,Evansville Courier and Press,113150,2014,STATE REP,78,Indiana House District 78,IN,"MELCHER, STEVE",Democrat,1,,,,STATE REPRESENTATIVE DISTRICT 78,0.95
 IN,Evansville Courier and Press,113150,2014,STATE REP,77,Indiana House District 77,IN,"RIECKEN, GAIL",Democrat,1,1,,,INCUMBENT STATE REPRESENTATIVE HOUSE DISTRICT 77,0.95
-IN,Evansville Courier and Press,113150,2016,CNTY CLERK,,Vanderburgh County,IN,"HERONEMUS, ZAC",Republican,1,,,,VANDERBURGH CLERK,0.9
+IN,Evansville Courier and Press,113150,2016,CNTY CLERK,,Vanderburgh County,IN,"HERONEMUS, ZAC",Democrat,1,,,,VANDERBURGH CLERK | V9: Zac Heronemus = Democrat (roster; image shows no party) - RA confirm,0.9
 IN,Evansville Courier and Press,113150,2016,CNTY COMM,3,Vanderburgh County,IN,"MUSGRAVE, CHERYL",Republican,1,,,,VANDERBURGH COUNTY COMMISSIONER DISTRICT 3,0.95
-IN,Evansville Courier and Press,113150,2016,CNTY COMM,1,Vanderburgh County,IN,"SHOULDERS, BEN",Republican,1,,,,VANDERBURGH COUNTY COMMISSIONER DISTRICT 1,0.95
-IN,Evansville Courier and Press,113150,2016,CNTY COMM,AT-LARGE,Vanderburgh County,IN,"BASSEMIER, ED",Republican,1,,,,VANDERBURGH COUNTY COUNCIL AT-LARGE SEAT,0.95
-IN,Evansville Courier and Press,113150,2016,CNTY COMM,AT-LARGE,Vanderburgh County,IN,"GOEBEL, MIKE",Republican,1,,,,VANDERBURGH COUNTY COUNCIL AT-LARGE SEAT,0.95
-IN,Evansville Courier and Press,113150,2016,CNTY COMM,AT-LARGE,Vanderburgh County,IN,"KOEHLER, ANGELA",Republican,1,,,,VANDERBURGH COUNTY COUNCIL AT-LARGE SEAT,0.95
+IN,Evansville Courier and Press,113150,2016,CNTY COMM,1,Vanderburgh County,IN,"SHOULDERS, BEN",Democrat,1,,,,VANDERBURGH COUNTY COMMISSIONER DISTRICT 1 | V9: Ben Shoulders = Democrat (roster; image shows no party) - RA confirm,0.95
+IN,Evansville Courier and Press,113150,2016,CITY COUNCIL,AT-LARGE,Vanderburgh County,IN,"BASSEMIER, ED",Republican,1,,,,VANDERBURGH COUNTY COUNCIL AT-LARGE SEAT | V9 office: County Council (convention=CITY COUNCIL),0.95
+IN,Evansville Courier and Press,113150,2016,CITY COUNCIL,AT-LARGE,Vanderburgh County,IN,"GOEBEL, MIKE",Democrat,1,,,,VANDERBURGH COUNTY COUNCIL AT-LARGE SEAT | V9: Goebel = Democrat (2004/08/12 records; 2016 image shows no party) | V9 office: County Council (convention=CITY COUNCIL),0.95
+IN,Evansville Courier and Press,113150,2016,CITY COUNCIL,AT-LARGE,Vanderburgh County,IN,"KOEHLER, ANGELA",Republican,1,,,,VANDERBURGH COUNTY COUNCIL AT-LARGE SEAT | V9 office: County Council (convention=CITY COUNCIL),0.95
 IN,Evansville Courier and Press,113150,2016,CORONER,,Vanderburgh County,IN,"LOCKYEAR, STEVE",Republican,1,,,,VANDERBURGH COUNTY CORONER,0.9
 IN,Evansville Courier and Press,113150,2016,GOVERNOR,,Indiana,IN,"GREGG, JOHN",Democrat,1,,,,INDIANA GOVERNOR,0.95
 IN,Evansville Courier and Press,113150,2016,RECORDER,,Vanderburgh County,IN,"EDWARDS, SHANNON",,1,,,,VANDERBURGH COUNTY RECORDER,0.95
@@ -307,8 +305,8 @@ IN,Evansville Courier and Press,113150,2016,SENATOR,,Indiana,IN,"YOUNG, TODD",Re
 IN,Evansville Courier and Press,113150,2016,STATE REP,77,Indiana House District 77,IN,"HATFIELD, RYAN",Democrat,1,,,,STATE REPRESENTATIVE DISTRICT 77,0.95
 IN,Evansville Courier and Press,113150,2016,STATE REP,78,Indiana House District 78,IN,"SULLIVAN, HOLLI",Republican,1,,1,,STATE REPRESENTATIVE DISTRICT 78 INCUMBENT,0.95
 IN,Evansville Courier and Press,113150,2016,STATE SENATOR,,Indiana Senate (district unknown),IN,"BECKER, VANETA",Republican,1,,1,,INDIANA STATE SENATE UNOPPOSED,0.9
-IN,Evansville Courier and Press,113150,2016,STATE SENATOR,,Indiana Senate (district unknown),IN,"MCNAMARA, WENDY",Republican,1,,1,,INDIANA STATE SENATE UNOPPOSED,0.9
-IN,Evansville Courier and Press,113150,2016,STATE SENATOR,,Indiana Senate (district unknown),IN,"WASHBURNE, TOM",Republican,1,,1,,INDIANA STATE SENATE UNOPPOSED,0.9
+IN,Evansville Courier and Press,113150,2016,STATE SENATOR,,Indiana Senate (district unknown),IN,"MCNAMARA, WENDY",Republican,1,,1,,"INDIANA STATE SENATE UNOPPOSED | V9: paper grouped under ""State Senate"" but ran for State House - image-faithful, RA may recode",0.9
+IN,Evansville Courier and Press,113150,2016,STATE SENATOR,,Indiana Senate (district unknown),IN,"WASHBURNE, TOM",Republican,1,,1,,"INDIANA STATE SENATE UNOPPOSED | V9: paper grouped under ""State Senate"" but ran for State House - image-faithful, RA may recode",0.9
 IN,Evansville Courier and Press,113150,2016,SUPERINTENDENT,,Indiana / Vanderburgh County,IN,"RITZ, GLENDA",Democrat,1,1,,,SUPERINTENDENT PUBLIC INSTRUCTION INCUMBENT,0.95
 IN,Evansville Courier and Press,113150,2016,SURVEYOR,,Vanderburgh County,IN,"MUELLER, JEFF",Republican,1,,,,VANDERBURGH COUNTY SURVEYOR UNOPPOSED,0.95
 IN,Evansville Courier and Press,113150,2016,TREASURER,,Indiana / Vanderburgh County,IN,"KIRK, SUSIE",Republican,1,,,,VANDERBURGH COUNTY TREASURER UNOPPOSED,0.95
@@ -339,9 +337,9 @@ IN,Evansville Courier and Press,113150,2016,GOVERNOR,,Indiana,IN,"HOLCOMB, ERIC"
 IN,Evansville Courier and Press,113150,2016,SENATOR,,Indiana,IN,"BAYH, EVAN",Democrat,0,,,,Pattern A: D opp of ECP-endorsed Young R 2016 SEN. Young won.,0.90
 IN,Evansville Courier and Press,113150,2008,SUPERINTENDENT,,Vanderburgh County / Indiana,IN,"BENNETT, TONY",Republican,1,,,,V3 OCR 2008 add: ECP recommended same-party Super as Gov (Daniels R) → Bennett R.,0.92
 IN,Evansville Courier and Press,113150,2008,STATE SENATOR,50,Indiana Senate District 50,IN,"BECKER, VANETA",Republican,1,,1,,V3 OCR 2008 add: Becker R STATE SEN 50 - unopposed but endorsed.,0.92
-IN,Evansville Courier and Press,113150,2008,STATE REP,77,Indiana House District 77,IN,"VANHAAFTEN, TRENT",Democrat,1,1,,,V3 OCR 2008 add: Vanhaaften D HD 77 - unopposed but listed.,0.92
+IN,Evansville Courier and Press,113150,2008,STATE REP,76,Indiana House District 77,IN,"VANHAAFTEN, TRENT",Democrat,1,1,,,"V3 OCR 2008 add: Vanhaaften D HD 77 - unopposed but listed. | V9 image ""House District 76""",0.92
 IN,Evansville Courier and Press,113150,2008,CNTY CLERK,,Vanderburgh County,IN,"KIRK, SUSAN",Republican,1,,,,V3 OCR 2008 add: Kirk R CNTY CLERK - unopposed.,0.92
-IN,Evansville Courier and Press,113150,2008,CITY COUNCIL,AT-LARGE,City of Evansville,IN,"WINNECKE, LLOYD",Republican,1,,,,V3 OCR 2008 add: Winnecke R Council at-large - unopposed.,0.92
+IN,Evansville Courier and Press,113150,2008,CNTY COMM,1,Vanderburgh County,IN,"WINNECKE, LLOYD",Republican,1,,,,"V3 OCR 2008 add: Winnecke R Council at-large - unopposed. | V9 image ""County Commissioner District 1: Lloyd Winnecke (R) unopposed""",0.92
 IN,Evansville Courier and Press,113150,1988,ATTORNEY GENERAL,,Indiana,IN,"PENCE, LINDA",Democrat,0,,,,Pattern A: D opp of ECP-endorsed Pearson R 1988 AG.,0.85
 IN,Evansville Courier and Press,113150,1996,ATTORNEY GENERAL,,Indiana,IN,"DAVIS, FRED",Republican,0,,,,Pattern A: R opp of ECP-endorsed Modisett D 1996 AG.,0.85
 IN,Evansville Courier and Press,113150,2004,ATTORNEY GENERAL,,Indiana,IN,"HANNON, GREG",Democrat,0,,,,Pattern A: D opp of ECP-endorsed Carter R 2004 AG.,0.85
@@ -357,4 +355,7 @@ IN,Evansville Courier and Press,113150,1994,AUDITOR,,Indiana / Vanderburgh Count
 IN,Evansville Courier and Press,113150,2002,AUDITOR,,Indiana / Vanderburgh County,IN,"SCHENK, GREG",Democrat,0,,,,Pattern A: D opp of ECP-endorsed Fluty R 2002 AUDITOR.,0.82
 IN,Evansville Courier and Press,113150,2006,TREASURER,,Indiana / Vanderburgh County,IN,"WIEDEN, MIKE",Democrat,0,,,,Pattern A: D opp of ECP-endorsed Mourdock R 2006 TREASURER.,0.82
 IN,Evansville Courier and Press,113150,2010,TREASURER,,Indiana / Vanderburgh County,IN,"BUTTIGIEG, PETE",Democrat,0,,,,Pattern A: D opp of ECP-endorsed Mourdock R inc 2010 TREASURER.,0.82
-IN,Evansville Courier and Press,113150,2016,TREASURER,,Indiana / Vanderburgh County,IN,"MITCHELL, KELLY",Democrat,0,,,,Pattern A: D opp of ECP-endorsed Kirk R 2016 TREASURER (note: this is V8 add — verify direction).,0.82
+IN,Evansville Courier and Press,113150,2008,STATE REP,77,Indiana House District 77,IN,"RIECKEN, GAIL",Democrat,1,,,,"V9 image-verified add: 2008 image ""Gail Riecken (D), House District 77 ... unopposed""",0.85
+IN,Evansville Courier and Press,113150,1986,JUDGE,,Vanderburgh County,IN,"KNIGHT, DOUGLAS",,1,,,,"V9 image ""conversely... both candidates equally well-qualified"" - dual endorsement (matches Courier 113151); RA: confirm dual-vs-no-endorse reading",0.85
+IN,Evansville Courier and Press,113150,1986,JUDGE,,Vanderburgh County,IN,"MATTHEWS, ROBERT",,1,,,,"V9 image ""both candidates equally well-qualified"" - dual endorsement (matches Courier 113151); RA confirm",0.85
+IN,Evansville Courier and Press,113150,1986,SCHOOL BOARD,1,Vanderburgh County,IN,"NICHOLSON, MARY E. ""MIMI""",Nonpartisan,,,,1,"V9 image: incumbent ""Mimi"" Nicholson unopposed (matches Courier 113151)",0.85

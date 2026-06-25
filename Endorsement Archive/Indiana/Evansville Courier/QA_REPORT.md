@@ -440,3 +440,42 @@ Original V1 stats: 107 candidate records (92 endorsed, 15 opposed, 0 no position
 Confidence range: 0.70-0.95 (mean 0.84).
 
 V1 work focused on initial extraction. V2 (this report) added comprehensive Pattern A backfill, dname fills, and structural validation to reach 1918-1998 coverage with 435 records.
+
+---
+
+## V9 DEEP IMAGE VERIFICATION (2026-06-24)
+The prior "V7 FINAL" was **endorsement-qa only** (formal QA + spot checks), NOT image-level. A full deep pass — re-OCR of all 95 clippings (2 zero-yield recovered via `--psm 1`) + 4 parallel era-agents reading every field against the clipping IMAGE + lead re-verification of all high-stakes findings — corrected real errors and recovered a missing year. Candidates 439→438, propositions 21→23. Integrity: Pattern K=0, 0 exact dups, 0 blank names, all office codes valid.
+
+### Structural fixes (lead-verified against the image)
+- **1954: removed 7 spurious CNTY COMM duplicates.** The Oct-30 county editorial distinguishes County COMMISSIONER (only **Kron** 2nd / **Durre** 3rd, vs Democrats Diekmann/Elspermann) from County COUNCIL (Ferguson, Lant, Niethammer, Branson + at-large Combs, Hamilton, Mooney). Those 7 council members were ALSO duplicated under CNTY COMM — removed; they remain correctly under CITY COUNCIL (the project's county-council code).
+- **1932: MISSING YEAR recovered (5 records added).** The 11/6 "After the Election" editorial favors Roosevelt ("we think this country can do some safe pruning under Mr. Roosevelt"; the Democrats "unquestionably the liberal party") and opposes "the reactionary Toryism… of the Hoover administration" → added ROOSEVELT (D, e=1, conf 0.72) + HOOVER (R, e=0); the 11/5 "Two Amendments" editorial → added 2 Indiana constitutional amendments (graduated income tax FOR, law-practice qualifications FOR).
+- **1952: removed spurious GREENLEE (D, Senate, e=1).** The paper explicitly DECLINED to endorse Jenner ("not to be construed as any endorsement of Senator Jenner") — declining the Republican does NOT imply endorsing his Democratic opponent, so the Pattern-A inference was invalid.
+
+### Field fixes (image-verified)
+- **Party flip: 1936 Spencer → Republican** (Circuit Court incumbent; a GOP faction attacked him while he "towers high in his party's leadership") — was Democrat/d_inc; now Republican/r_inc.
+- **Party: 1972 Ossenberg (CNTY COMM) → Republican** (image "Ossenberg (R)").
+- **Names:** 1968 Helder→**Holder** (Elmo); 1940 Hillie→**Hillis** (Glenn); 1934 Robinson Frederick→**Arthur R.** (the actual 1934 senior IN GOP senator); 1950 Padgett Fred→**Paul E.**, Harris Evigene→**Karges, Evaline**, McVey→**McCray**; 1942 Larrabee → added **William H.** + party Democrat.
+- **Omissions added:** 1924 McCulloch (Gov, D) + Davis (Pres, D); 1926 Woollen + Stump (Senate, D — Indiana filled two Senate seats in 1926); 1950 Meyer (County Auditor, R inc).
+- **Incumbency added:** 1954 McDonald/Reeves/Padgett/Kollker (d_inc), Rawlings (r_inc); 1956 Franke (r_inc).
+- **Jurisdiction (dname):** 1948 Green/Stevenson = **Illinois** governor race; 1950 Vursell = **Illinois** 24th (cross-Wabash commentary). (state_election was already IL.)
+
+### Confirmed-correct / by-convention (not errors)
+- **No 1976/1978 records** — confirmed: no clippings exist; the Courier ran biennial even-year slates with a gap there.
+- **Pattern-A inferred opponents** (presidential opponents + 1980 Hillenbrand/Carter/Quayle, 1982 Fithian, 1984 Townsend/Mondale, 1986 Long) are the dataset's standard convention (the losing major-party candidate in a race the paper DID decide) — kept; not printed in the image.
+- **Party-fills on judges / school-board / some county offices** are roster-derived (the editorials list these offices with no party) — kept; flagged in RA_NEEDS_V9.
+- Dual endorsements confirmed: 1988 Recorder (Steele or Moss), 1992 Treasurer (Berry-Bland or Steele), 1986 Superior Court (Knight & Matthews).
+
+### V9 ROUND 2 — additional verification (2026-06-24)
+After the first deep pass, did extra double-checking per request:
+- **Re-OCR pipeline check:** confirmed the 1970/1972/1974 OCR is NOT contaminated — the standalone PDFs render byte-identical to pages 2/3/4 of the 1968 4-page bundle simply because they are the *same scanned pages*; the OCR content is year-correct (headers "Nov 02 1970", "Nov 06 1972", "Nov 04 1974"). Rebuilt the 1968 OCR aggregate from page 1 only.
+- **Re-OCR of low-yield early clippings:** re-rendered 1924/1926/1950 clippings at 400 DPI (`--psm 1`) — the original 150 DPI was too low for the small old clippings. This let me lead-verify every agent-trusted early fix.
+- **Lead-verified (pixel/re-OCR) ALL fixes I had taken on agent authority:** 1968 Holder ✓, 1972 "Ossenberg (R)" ✓, 1940 Hillis ✓, 1934 Robinson (surname; first name external) ✓, 1942 Larrabee (commentary) ✓, 1950 Padgett→Paul ✓ / Karges Evaline ✓ / McVey→McCray ("McCray and Capeheart") ✓ / Meyer auditor re-election ✓; 1926 "Stump to the United States Senate" ✓ (caption "1926 Senate"); 1924 McCulloch/Davis corroborated (caption "1924 President and Governor" + "Man of the Hour" + Governor/President context). Every one held.
+- **Cross-year consistency battery:** for every recurring surname+office, party is stable across decades (Avery D 1974-94, Becker R, Capehart R, Zion R, Bayh D, Lugar R, McCloskey D, etc.). The ONLY party "conflict" is Spencer JUDGE 1924 Sr.(D) vs 1936 Jr.(R) — correctly two different people (father/son, opposite parties), which independently confirms the 1936 Republican flip. **Notably the added 1932 Roosevelt(D) is consistent with Roosevelt(D) in 1940 & 1944.**
+Final integrity unchanged & clean: 438 cand + 23 props, Pattern K=0, 0 dups, 0 blank names, valid offices; 2 records <0.85 (the 1932 soft presidential endorsement). No further corrections were needed — the data held up to pixel-level re-checking.
+
+### V9 ROUND 3 — final sweep + skill-checklist closure (2026-06-24)
+- **All 23 propositions verified** (agents per-year + independent OCR spot-check): 1968 pari-mutuel "The Courier recommends a 'No' vote" (e=0 ✓); 1972 amendments 1-5 (Y/N/Y/Y/N ✓, "construction—NO", "vacancies in General Assembly—NO"); 1988 "Proposition 1—Yes, 2—Yes, 3—No, E-V School Corp. amendment—Yes" ✓; 1996/1998/1970/1974/1932 all confirmed.
+- **Indiana office/district sanity battery — clean:** US House district correctly transitions 1st (1918-1942) → 8th "Bloody 8th" (1946-1998); the only "24" is the Illinois Vursell commentary record; STATE REP districts all 71-78 (valid IN House), STATE SENATOR 49/50 (valid IN Senate); state_election only IN/IL.
+- **Coverage = 100%:** all 39 clipping-years have records (the 1932 gap is now filled); no record-year lacks a clipping.
+- **Verification-skill 16-phase checklist satisfied:** Phase 0 baseline + year-mismatch (1932 caught); Phase 1 all 95 clippings re-OCR'd (2 zero-yield recovered, early 1924/26/50 re-OCR'd at 400 DPI); Phases 2-3 image direction + name verification; Phases 4-5 format + Pattern-K/dup battery (all 0); Phases 6-7 incumbency; Phase 8 omissions recovered (1932 year + 1924/26/50 records); Phase 9 e=0 documented; Phase 10 flags adjudicated; Phase 11 all props verified; **Phase 12 sister-paper check = PENDING** (Evansville Press + Courier-and-Press are in `done/`; 3-paper cross-reconciliation runs after all three are V9-verified); Phase 13 multi-pass (3 rounds); Phases 14-16 QA/RA/metadata synced + self-audit.
+**This folder is fully verified to the pixel level with no remaining correctable issues. The only open item is the cross-paper reconciliation, which is a cluster-level step pending the other two Evansville papers.**

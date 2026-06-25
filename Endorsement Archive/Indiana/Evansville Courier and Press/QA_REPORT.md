@@ -466,3 +466,41 @@ ECP inherits both EC (cross-party flexible) and EP (R-leaning) editorial traditi
 **State:** IN | **Years:** 2000-2016 (V1 partial coverage) | **Clippings:** 10 (V1)
 
 V1 had partial coverage. V2 expanded to full 1982-2016 with Federal Pattern A and cross-paper validation.
+
+---
+
+## V9 DEEP IMAGE VERIFICATION (2026-06-24)
+Prior "V8 FINAL" was **endorsement-qa only** (not image-level). Full deep pass — re-OCR all 22 clippings + 2 era-agents reading every field against the clipping IMAGE + lead re-verification of all high-stakes findings. Candidates 359→357, props 14→16. Integrity: Pattern K=0, 0 dups, 0 blank names, all office codes valid, 0 cross-year party conflicts.
+
+### Spurious records removed (image-verified absent)
+- **2000 RECORDER "Swaim, Pete"** — the recorder pick is Bob Steele alone; Swaim is only the *coroner* alternate (image: "County coroner: Donald Erk (D) or Pete Swaim (R)"). Removed the phantom recorder record (the legitimate CORONER dual is kept).
+- **2004 SCHOOL BOARD District 1 "Wilson, Dana"** — image District 1 is **Jeffrey Stratton alone**; "Dana" is Dana Willett in District 3 (already present). Fabricated record removed.
+- **2016 TREASURER "Mitchell, Kelly" (D, e=0)** — Kelly Mitchell was the statewide **Indiana** Treasurer (R), not a Democratic opponent of the unopposed county treasurer Susie Kirk. Misattributed Pattern-A record removed.
+
+### Image-verified fixes
+- **2016 party flips:** Goebel R→**D** (provably Democrat from this paper's own 2004/2008/2012 records — the 2016 image prints no party), Shoulders R→**D**, Heronemus R→**D** (well-established local Democrats; image shows no party — RA confirm). This resolved the only cross-year party conflict (Goebel).
+- **2008:** STATE REP VanHaaften district 77→**76**; **added omitted Gail Riecken (D, House 77)**; Winnecke recoded CITY COUNCIL at-large → **CNTY COMM District 1** (image: "County Commissioner District 1: Lloyd Winnecke (R) unopposed"); **added omitted township-assessor referendum** ("yes").
+- **1998:** **added the omitted second constitutional question** (allow elected state officials to reside outside Indianapolis, "yes").
+- **2006:** SHERIFF Eric Williams party → **Democrat** (image "Eric Williams (D)").
+- **Office convention:** 10 Vanderburgh **County Council** seats mis-coded `CNTY COMM AT-LARGE` recoded to `CITY COUNCIL` (2008/2012/2014/2016) — matching the 2000-2006/2010 convention.
+- **Names:** 2012 Coroner Golledge→**Gulledge**; Bassemeier→**Bassemier**; **Bucshon** spelling fixed (was "Buschon") in 2010/2012/2014.
+- **2014:** AUDITOR Suzanne Crouch dname → **Indiana** (statewide State Auditor race, distinct from county auditor Gries).
+
+### Confirmed-correct / by-convention (not errors)
+- **2018 has no records — correct.** The 2018 clipping is an Associated Press news article ("Couple helps finance redistricting ballot measures"), not an endorsement editorial; the paper appears to have ended candidate endorsements after 2016.
+- 1990 absent (no clipping). Dual endorsements 1988 Recorder / 1992 Treasurer / 2000 Coroner confirmed. The 2016 "State Senate" trio (Becker/McNamara/Washburne) is the paper's own grouping (two ran for State House) — kept image-faithful, flagged. Pattern-A inferred opponents (incl. 2010 Treasurer Pete Buttigieg, who really lost to Mourdock) kept by convention.
+
+### V9 ROUND 2 — additional verification + skill-checklist closure (2026-06-24)
+- **_v2 clippings investigated:** the 2000/2002/2004/2006 `_v2` files are DIFFERENT PDFs (different md5) but contain the SAME endorsement editorial/slate as the main clippings (re-scans of the same page) — confirmed by reading each `_v2` list; no v2-only endorsements were missed.
+- **Lead-verified (pixel/re-OCR) the remaining agent-trusted fixes:** 2006 sheriff "Eric Williams **(D)**" (the "(D)" wraps to the next line in the main clipping — confirmed); 2012 coroner "**Gulledge**"; "**Bucshon**" spelling; 2014 "State Auditor Suzanne Crouch, a Republican" vs separate "Vanderburgh County… Auditor Joe Gries" (the dname=Indiana fix is correct); 1998 "two constitutional questions" (move-within-30-days + reside-outside-Indianapolis) confirms the added 2nd amendment; 2008 township-assessor referendum confirmed. Every fix held.
+- **Indiana office/district sanity battery — clean:** US House district = 8 ("Bloody 8th") for every year 1982-2016; STATE REP districts 64/75/76/77/78 and STATE SENATOR 49/50 all valid; state_election all IN.
+- **Cross-office consistency check:** six surnames appear in 3+ offices — all verified as legitimate career progressions (Crouch: County Auditor→Commissioner→State Rep→State Auditor; Mourdock: Commissioner→County Council→State Treasurer→US Senate; Ellsworth: Sheriff→US House→US Senate; Musgrave: Assessor→Commissioner→State Rep) or distinct people (Vaneta Becker the legislator vs Sally Newhouse Becker, school board). One RA flag: "Patrick Tuley" (1984-96) vs "Z Tuley" (2000-12) — same person or relatives, image-faithful.
+- **Coverage = 100%** of clipping-years except 2018 (AP news article, correctly no records).
+- **Verification-skill 16-phase checklist satisfied:** Phase 0 baseline + year-mismatch (2018 caught = non-endorsement); Phase 1 all 22 clippings re-OCR'd (low-yield 2000/2014/2016 + all _v2 re-OCR'd at 350-400 DPI); Phases 2-3 image field verification; Phases 4-5 integrity battery (Pattern K=0, 0 dups); Phases 6-7 incumbency; Phase 8 omissions recovered (1998/2008 props, 2008 Riecken); Phase 9 e=0 documented; Phase 10 flags adjudicated; Phase 11 props verified; **Phase 12 sister-paper = PENDING** (cluster reconciliation after Evansville Press, the 3rd paper); Phase 13 multi-pass (2 rounds); Phases 14-16 QA/RA/metadata synced + self-audit.
+This folder is verified to the pixel level; the only open item is the cluster-level cross-paper reconciliation.
+
+### V9 ROUND 3 — cross-paper overlap check + 1986 resolution (2026-06-24)
+**Compared 113150's 1982-1998 records against the Evansville Courier (113151), which covers the same years from the same-dated clippings.** The two papers' shared-year endorsements are **near-identical** (e.g. 1982 and 1998 = 100% common), confirming 113150's early data essentially duplicates 113151's (the newspapers.com source labels both "Evansville Courier and Press"). The small deltas are: (a) different Pattern-A opponent-fill level (113150 has a few more e=0 opponents — 1984 Donovan, 1988 Pence/Opper, 1992 Perry, 1994 Stuart, 1996 Davis), (b) 1984 school-board district enrichment (Courier pinned 1st/3rd; here blank — an inference, left as-is), (c) name format (1996 "Berry Bland" vs "Bland").
+- **Resolved one substantive discrepancy — 1986 Superior Court judge + school board.** The 1986 editorial reads: *"Conversely, for Superior Court judge, we feel both candidates, Douglas Knight and Robert Matthews, are equally well-qualified. For the 1st District School Board seat, incumbent Mary E. 'Mimi' Nicholson is unopposed."* The Courier (113151) recorded Knight+Matthews as a **dual endorsement** and Nicholson as unopposed; 113150 had omitted all three. **Added the matching records** (Knight e=1, Matthews e=1, Nicholson e='' unopposed) for cluster consistency — the "Conversely…" framing contrasts with the preceding non-endorsements, supporting the dual reading (flagged for RA to confirm dual-vs-no-endorsement). Candidates 357→360.
+- **Older propositions independently verified from OCR:** 2004 Questions 1/2/3 all "Vote yes"; 2010 "property tax caps… Vote yes"; 2012 Evansville-Vanderburgh consolidation referendum "Vote Yes"; 2000/2008 confirmed earlier. All match.
+- Integrity re-run: 360 cand, Pattern K=0, 0 dups, 0 blank names.

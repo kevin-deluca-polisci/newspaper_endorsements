@@ -85,3 +85,33 @@ With the Courier now covering 1946-1956, there are many more overlapping years w
 6. **113150 2016 STATE SEN districts:** Empty for Becker, Washburne, McNamara (confirmed unopposed, district info not in clipping)
 7. **113151 1950 HITCH, OTIS R. (SURVEYOR):** Office inferred from family pattern (Bill Hitch was Surveyor in 1946). Low confidence (0.70). Clipping text was hard to read.
 8. **113151 1950 HARRIS, EVIGENE (TOWNSHIP TRUSTEE):** Name uncertain from hard-to-read clipping. Low confidence (0.70).
+
+---
+
+# V9 CROSS-PAPER RECONCILIATION (2026-06-24)
+Run AFTER all three papers were individually V9 deep-image-verified (counts now: Courier 113151 = 438 cand; Courier-and-Press 113150 = 360 cand + 16 props; Press 113152 = 604 cand + 39 props). This supersedes the pre-V9 spot-checks above.
+
+## Paper relationships (corrected understanding)
+- **113151 Courier (morning)** and **113150 Courier-and-Press** are the SAME morning paper under two IDs. The morning Courier was renamed "Courier & Press" ~1998; newspapers.com labels it "Evansville Courier and Press" even for pre-merger years, so the same clippings were extracted into both IDs. They OVERLAP 1982–1998 and are **near-duplicate data**.
+- **113152 Press (evening, Scripps-Howard)** is a GENUINELY DISTINCT paper (independent, frequently split tickets — endorsed Hoover 1928, Willkie 1940, Dewey 1944/48, Eisenhower 1952, Lugar 1974). It overlaps the Courier 1918–1996; direction differences are REAL editorial splits, not errors. Scripps sold the Press + bought the Courier in 1986; the Press ceased 1998-12-31.
+
+## Reconciliation A — Courier (113151) ↔ Courier-and-Press (113150), 1982–1998
+Full record-level diff of all 9 shared years. The two are ~95% identical (1982 & 1998 = 100% common). **Resolved 11 inconsistencies by bringing the Courier into line with the more-complete, more-recently-V9-verified C&P:**
+- 2 genuine party conflicts (triangulated 2-of-3 + historical): **WORTMAN** (1986/1994 Council) Courier D → **R** (C&P+Press agree R; C&P also R in 2002); **TULEY** (1996 Comm) Courier R → **D** (C&P+Press agree D; Patrick Tuley is a Democrat).
+- 9 blank-party fills to match C&P: 1986 Humphrey(D), 1992 Smith(R), 1994 Sutton(D)/Musgrave(R)/Crouch(R), 1998 Musgrave(R)/Crouch(R)/Ellsworth(D).
+- **0 remaining hard party conflicts; 0 direction conflicts** between the two IDs.
+- **DEDUP DECISION FOR PROJECT:** these 1982–1998 records are duplicate data across two IDs. Remaining structural deltas are dedup-level only: the C&P carries more Pattern-A opponent records (1984 Donovan, 1988 Pence/Opper, 1992 Perry, 1994 Stuart, 1996 Davis); the Courier pins 1984 school-board districts (Deem d1 / Smith d3) where C&P left blank; name format "Bland" vs "Berry Bland". C&P lacks 1990 entirely (no clipping). Decide whether to keep one ID or both.
+
+## Reconciliation B — Press (113152) ↔ Courier (113151), 1918–1996
+267 shared candidate records (same year/office/dist/surname).
+- **12 DIRECTION differences = confirmed legitimate editorial splits** (each image-verified within its own paper's V9 pass): 1928 PRES (Courier Smith-D / Press Hoover-R), 1952 GOV (Craig-R / Watkins-D), 1960 GOV (Parker-R / Welsh-D) + Treasurer, 1962 SEN (Capehart-R / Bayh-D), 1964 SEN (Bontrager-R / Hartke-D), **1974 SEN (Courier Bayh-D / Press Lugar-R — spot-verified: Press "Mayor Richard Lugar for U.S. senator")**, 1990 SEN (Hill-D / Coats-R), 1996 GOV (O'Bannon-D / Goldsmith-R). These reflect the Press's distinct ticket-splitting and must be PRESERVED.
+- **5 PARTY conflicts (errors — a candidate has one party). 4 FIXED in the Press (roster-fill errors; image showed no party; Courier+C&P agree + historical):** 1982 Council FORD D-not-R, TAYLOR R-not-D (image lists council with no party; the Press swapped them); 1992 & 1996 Recorder HERMANN R-not-D (Betty Hermann is a Republican recorder). **1 FLAGGED (unresolved):** 1972 Recorder COLE — Press image "13-B Cole Jr"=Democrat vs Courier=Republican; two image-based reads genuinely disagree (RA to confirm Clyde "Buddy" Cole Jr's 1972 party).
+
+## Integrity after reconciliation
+All three: Pattern K=0, 0 exact dups. Courier 438, C&P 360, Press 604. Archives synced (md5).
+
+## RECONCILIATION ROUND 2 (2026-06-24) — final sweep
+- **1972 Cole (recorder) conflict RESOLVED.** Calibrated the Press's 1972 ballot-column system using known-party picks: "-B" = Republican (1-B Nixon, 2-B Bowen, 3-B Orr, Zion, clerk Cox, treasurer Tilford all R; Democrats Hays/Schwartz are "-A"). So "13-B Clyde Buddy Cole Jr" = **Republican**. Fixed the Press (was Democrat) to match the Courier. **0 cross-paper party conflicts now remain (any pair).**
+- **Office consistency:** 1954 FERGUSON fixed in the Press (CNTY COMM → CITY COUNCIL; he's County Council 1st District per the editorial, matching the Courier). The other office mismatch — 1956 "COMBS" (Courier CORONER vs Press AUDITOR) — is a coincidental surname collision (Herman T. Combs, county coroner ≠ Roy T. Combs, state auditor), not an error.
+- **Proposition cross-check (7 shared years):** 1968 (both pari-mutuel NO) and 1974 (both all-YES) match exactly. 1970 and 1972 differ — the Press endorsed ALL constitutional amendments while the Courier was selective (1970 opposed the term-extension amendment; 1972 opposed props 2 & 5). Both were image-verified within their own passes → **legitimate editorial differences on ballot measures**, consistent with the 12 candidate direction-splits (preserved, not errors).
+- Final integrity: Courier 438 / C&P 360 / Press 604, all Pattern K=0, 0 dups. Archives synced.
